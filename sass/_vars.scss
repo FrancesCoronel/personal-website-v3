@@ -1,41 +1,42 @@
-// Duration.
-	$duration-transition:		0.2s;
+//
+//	Aerial by HTML5 UP
+//	html5up.net | @n33co
+//	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+//
 
-// Size.
-	$size-border-radius:		0.35em;
-	$size-element-height:		2.75em;
-	$size-element-margin:		2em;
+$bg:						#348cb2 url("images/bg.jpg") bottom left;
+$bg-width:					1500px;
 
-// Font.
-	$font-family:				'Source Sans Pro', Helvetica, sans-serif;
-	$font-family-fixed:			'Courier New', monospace;
-	$font-weight:				400;
-	$font-weight-bold:			400;
+$color-bg:					#fff;
+$color-fg:					#fff;
+$color-nav-icon-hover-bg:	rgba(255,255,255,0.175);
+$color-nav-icon-hover-fg:	#fff;
+$color-nav-icon-active-bg:	rgba(255,255,255,0.35);
+$color-nav-icon-active-fg:	#fff;
 
-// Color.
-	$color-bg:					#fff;
-	$color-fg:					#a2a2a2;
-	$color-fg-bold:				#787878;
-	$color-fg-light:			#b2b2b2;
-	$color-border:				#efefef;
-	$color-border-bg:			#f7f7f7;
-	$color-border2:				#dfdfdf;
-	$color-border2-bg:			#e7e7e7;
+$duration-bg:				60s;
+$duration-wrapper:			3s;
+$duration-overlay:			1.5s;
+$duration-header:			1s;
+$duration-nav-icons:		0.5s;
 
-	$color-accent-bg:			#49bf9d;
-	$color-accent-fg:			mix($color-accent-bg, #ffffff, 25%);
-	$color-accent-fg-bold:		#ffffff;
-	$color-accent-fg-light:		mix($color-accent-bg, #ffffff, 40%);
-	$color-accent-border:		rgba(255,255,255,0.25);
-	$color-accent-border-bg:	rgba(255,255,255,0.075);
-	$color-accent-border2:		rgba(255,255,255,0.5);
-	$color-accent-border2-bg:	rgba(255,255,255,0.2);
-	
-	$color-accent2-bg:			#1f1815;
-	$color-accent2-fg:			rgba(255,255,255,0.5);
-	$color-accent2-fg-bold:		#ffffff;
-	$color-accent2-fg-light:	rgba(255,255,255,0.4);
-	$color-accent2-border:		rgba(255,255,255,0.25);
-	$color-accent2-border-bg:	rgba(255,255,255,0.075);
-	$color-accent2-border2:		rgba(255,255,255,0.5);
-	$color-accent2-border2-bg:	rgba(255,255,255,0.2);
+$delay-wrapper:				$duration-wrapper - 1s;
+$delay-overlay:				$delay-wrapper - 0.5s;
+$delay-header:				$delay-overlay + $duration-overlay - 0.75s;
+$delay-nav-icons:			$delay-header + $duration-header - 1s;
+$delay-nav-icon:			0.25s;
+
+$size-nav-icon-wrapper:		5.35em;
+$size-nav-icon:				1.75em;
+
+@mixin bg($width) {
+	@include vendor-keyframes('bg') {
+		0%		{ @include vendor-property('transform', 'translate3d(0,0,0)'); }
+		100%	{ @include vendor-property('transform', 'translate3d(#{$width * -1},0,0)'); }
+	}
+
+	#bg {
+		background-size: $width auto;
+		width: ($width * 3);
+	}
+}
