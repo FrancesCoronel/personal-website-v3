@@ -2,7 +2,7 @@
 
 ---
 
-See my page at [`fvcproductions.github.io`](http://fvcproductions.github.io).
+See my page at <a href="http://fvcproductions.github.io" target="_blank">`fvcproductions.github.io`</a>.
 
 Personal page generated using [Aerial](http://html5up.net/aerial) by [HTML5UP](http://html5up.net/).
 
