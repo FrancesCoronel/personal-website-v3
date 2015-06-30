@@ -46,6 +46,20 @@
 			border-color: transparent;
 		}
 
+/** Music Icons */
+
+.fa {
+	padding: 20px;
+}
+
+#pause:hover {
+	color: #454545;
+}
+
+#play:hover {
+	color: #454545;
+}
+
 /* Icon */
 
 	.icon {
