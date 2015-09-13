@@ -2,79 +2,39 @@
 
 ---
 
-See my page at <a href="http://fvcproductions.github.io" target="_blank">`fvcproductions.github.io`</a>.
-
-Personal page generated using [Aerial](http://html5up.net/aerial) by [HTML5UP](http://html5up.net/).
+> See my page at <a href="http://fvcproductions.github.io" target="_blank">`fvcproductions.github.io`</a>.
 
 - - -
 
-**Aerial by HTML5 UP**
-> html5up.net | @n33co
->
-> Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+## HTML5 UP
 
+Identity by HTML5 UP
+html5up.net | @n33co
 
-This is Aerial, a single page, single screen responsive site template. Real simple.
-Makes heavy use of CSS animation (something I've been messing with a lot lately).
-Should work well as a landing page that just directs folks to your stuff elsewhere
-on the www. Sass sources are also included, so if you've never used Sass and you're
-interested in giving it a try, head on over to sass-lang.com (and if not, you can
-safely delete the "sass/" folder).
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-The scrolling mountainous background was derived from "Icefields" by Ryan Schroeder,
-a talented photographer from Vancouver who graciously released it on Unsplash under
-the CC0 license. Be sure to check out his other stuff over at flickr (link below)
-as well as all the other kickass CC0-licensed images at Unsplash (unsplash.com).
+Just a fun little profile/card-style template I whipped up during a break between major
+projects. Minimal, responsive, and powered by Skel + Sass. Enjoy :)
 
-Questions/comments/issues = just email or find me on Twitter. Have fun!
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
+
+(* = not included)
 
 AJ
 n33.co @n33co dribbble.com/n33
 
----
-
-The Scrolling Background:
-
-	This relies entirely on CSS to do its thing, which is cool, but that makes
-	changing it a bit weird/tricky at first. You can still use pretty much any image
-	you want, but for best results make sure yours is:
-	
-	- Horizontally tileable.
-	- Wide and short.
-	- About 1500px wide.
-	- Fades to a solid color either at the top of bottom (which is used to fill
-	  the empty space above or below your image).
-
-	Now, there are two ways to use it: with CSS, or with Sass:
-
-	CSS:
-	
-		Look for this line in css/style.css (line 108 as of this writing):
-		
-			background: #348cb2 url("images/bg.jpg") bottom left;
-			
-		and use it to set the page background color, URL, and placement of
-		your image. It should be as close to 1500px wide as you can get it.
-
-	Sass:
-	
-		Set the value of $bg to the page background color, URL, and placement
-		of your image. Change $bg-width if your image is something other than
-		1500px wide.
-
----
 
 Credits:
 
-	Background Image:
-		Ryan Schroeder via Unsplash (unsplash.com - CC0 licensed)
-			"Icefields" (flickr.com/photos/ryanschroeder/11876741703)
+    Demo Images:
+        Unsplash (unsplash.com)
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+    Icons:
+        Font Awesome (fortawesome.github.com/Font-Awesome)
 
-	Other:
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 PIE (css3pie.com)
-		Sass (sass-lang.com)
-		skel (n33.co)
+    Other:
+        html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+        CSS3 Pie (css3pie.com)
+        Respond.js (j.mp/respondjs)
+        Skel (skel.io)
