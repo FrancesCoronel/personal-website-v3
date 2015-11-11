@@ -29,6 +29,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/assets\/css\/images\/avatar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4286,
+		"inputAbbreviatedPath": "\/assets\/css\/images\/avatar.jpg",
+		"outputAbbreviatedPath": "\/assets\/css\/images\/avatar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/assets\/css\/images\/bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 302058,
+		"inputAbbreviatedPath": "\/assets\/css\/images\/bg.jpg",
+		"outputAbbreviatedPath": "\/assets\/css\/images\/bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/assets\/css\/images\/overlay.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -38,7 +60,7 @@
 		"outputAbbreviatedPath": "\/assets\/css\/images\/overlay.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/css\/main.css": {
 		"fileType": 16,
@@ -57,28 +79,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/images\/avatar.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 7937,
-		"inputAbbreviatedPath": "\/assets\/images\/avatar.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/avatar.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/assets\/images\/bg.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 302058,
-		"inputAbbreviatedPath": "\/assets\/images\/bg.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/bg.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
 		},
 	"\/assets\/js\/html5shiv.js": {
 		"fileType": 64,
