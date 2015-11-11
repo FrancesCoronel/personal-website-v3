@@ -7,7 +7,87 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 /* Reset */
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
   margin: 0;
   padding: 0;
   border: 0;
@@ -15,19 +95,34 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   font: inherit;
   vertical-align: baseline; }
 
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
   display: block; }
 
 body {
   line-height: 1; }
 
-ol, ul {
+ol,
+ul {
   list-style: none; }
 
-blockquote, q {
+blockquote,
+q {
   quotes: none; }
 
-blockquote:before, blockquote:after, q:before, q:after {
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
   content: '';
   content: none; }
 
@@ -39,16 +134,21 @@ body {
   -webkit-text-size-adjust: none; }
 
 /* Box Model */
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
 /* Basic */
 @media screen and (max-width: 480px) {
-  html, body {
+  html,
+  body {
     min-width: 320px; } }
-body.is-loading *, body.is-loading *:before, body.is-loading *:after {
+body.is-loading *,
+body.is-loading *:before,
+body.is-loading *:after {
   -moz-animation: none !important;
   -webkit-animation: none !important;
   -ms-animation: none !important;
@@ -64,14 +164,14 @@ html {
 body {
   height: 100%;
   background-color: #ffffff;
-  background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../../images/bg.jpg");
-  background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../../images/bg.jpg");
-  background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../../images/bg.jpg");
-  background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("../../images/bg.jpg");
-  background-repeat: repeat,			no-repeat,			no-repeat;
-  background-size: 100px 100px,	cover,				cover;
-  background-position: top left,		center center,		bottom center;
-  background-attachment: fixed,			fixed,				fixed; }
+  background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("images/bg.jpg");
+  background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("images/bg.jpg");
+  background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("images/bg.jpg");
+  background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("images/bg.jpg");
+  background-repeat: repeat, no-repeat, no-repeat;
+  background-size: 100px 100px, cover, cover;
+  background-position: top left, center center, bottom center;
+  background-attachment: fixed, fixed, fixed; }
   body:after {
     content: '';
     display: block;
@@ -87,9 +187,9 @@ body {
     background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
     background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
     background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35));
-    background-repeat: repeat,			no-repeat;
-    background-size: 100px 100px,	cover;
-    background-position: top left,		center center;
+    background-repeat: repeat, no-repeat;
+    background-size: 100px 100px, cover;
+    background-position: top left, center center;
     -moz-transition: opacity 1.75s ease-out;
     -webkit-transition: opacity 1.75s ease-out;
     -ms-transition: opacity 1.75s ease-out;
@@ -98,7 +198,10 @@ body {
     opacity: 1; }
 
 /* Type */
-body, input, select, textarea {
+body,
+input,
+select,
+textarea {
   color: #414f57;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 14pt;
@@ -107,10 +210,16 @@ body, input, select, textarea {
   letter-spacing: 0.2em;
   text-transform: uppercase; }
   @media screen and (max-width: 1680px) {
-    body, input, select, textarea {
+    body,
+    input,
+    select,
+    textarea {
       font-size: 11pt; } }
   @media screen and (max-width: 480px) {
-    body, input, select, textarea {
+    body,
+    input,
+    select,
+    textarea {
       font-size: 10pt;
       line-height: 1.75; } }
 
@@ -129,20 +238,32 @@ a {
   a:hover {
     color: #ff7496; }
 
-strong, b {
+strong,
+b {
   color: #313f47; }
 
-em, i {
+em,
+i {
   font-style: italic; }
 
 p {
   margin: 0 0 1.5em 0; }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: #313f47;
   line-height: 1.5;
   margin: 0 0 0.75em 0; }
-  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  h1 a,
+  h2 a,
+  h3 a,
+  h4 a,
+  h5 a,
+  h6 a {
     color: inherit;
     text-decoration: none; }
 

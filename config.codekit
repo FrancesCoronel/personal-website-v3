@@ -33,12 +33,12 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4286,
+		"initialSize": 4280,
 		"inputAbbreviatedPath": "\/assets\/css\/images\/avatar.jpg",
 		"outputAbbreviatedPath": "\/assets\/css\/images\/avatar.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/css\/images\/bg.jpg": {
 		"fileType": 16384,

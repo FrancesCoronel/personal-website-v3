@@ -1,7 +1,6 @@
 @import '../libs/vars';
 @import '../libs/functions';
 @import '../libs/mixins';
-
 ///
 /// Identity by HTML5 UP
 /// html5up.net | @n33co
@@ -10,12 +9,11 @@
 
 /* Icon */
 
-	.icon {
-		@include icon;
-		position: relative;
-		border-bottom: none;
-
-		> .label {
-			display: none;
-		}
-	}
+.icon {
+    @include icon;
+    position: relative;
+    border-bottom: none;
+    > .label {
+        display: none;
+    }
+}
