@@ -1,0 +1,122 @@
+body {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+@media (min-width: 48em) {
+    .container {
+        max-width: 46rem;
+    }
+}
+
+.container-narrow > hr {
+    margin: 2rem 0;
+}
+
+/** main section */
+
+#main {
+    background: none;
+    -webkit-transform: none;
+    opacity: 1;
+}
+
+#main a:hover,
+.btn:hover,
+a:hover {
+    cursor: -webkit-image-set(url("https://hovastate.s3.amazonaws.com/hova.png") 1x, url("https://hovastate.s3.amazonaws.com/hova.2x.png") 2x) 24 1, default;
+}
+
+#main .avatar img:hover {
+    border: .2em solid white;
+}
+
+#main .avatar img {
+    box-shadow: none;
+}
+
+#main h1 {
+    color: #607D8B;
+}
+
+#main a:hover {
+    color: white;
+}
+
+
+/** projects section */
+
+.projects a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.projects {
+    padding-bottom: 1.5em;
+}
+
+.projects h2 {
+    font-size: 2em;
+    text-align: center;
+    padding: 1.5em;
+    color: white;
+}
+
+.projects .card {
+    padding: 5%;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.2s ease-in-out;
+}
+
+.project .card:hover {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.projects .repo-info.card-text {
+    margin-left: .5em;
+}
+
+small .text-muted,
+small.text-muted b {
+    color: grey;
+}
+
+.projects button.btn.btn-primary-outline {
+    margin-bottom: 1em;
+    font-size: larger;
+}
+
+/** social icons */
+
+ul.icons li a {
+    color: #607D8B;
+    background-color: #607D8B;
+}
+
+ul.icons li a:hover {
+    border: solid 1px white;
+    background-color: white;
+    text-shadow: 1.25px 0px 0px black, -1.25px 0px 0px black, 0px 1.25px 0px black, 0px -1.25px 0px black;
+}
+
+/** footer */
+
+.footer {
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-top: 1.5rem;
+    color: #777;
+    border-top: .05rem solid #e5e5e5;
+    text-align: center;
+}
+
+.footer a:hover {
+    color: white;
+}
+
+@media screen and (min-width: 48em) {
+    .footer {
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
