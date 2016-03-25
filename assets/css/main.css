@@ -630,23 +630,31 @@ body {
 .container-narrow > hr {
   margin: 2rem 0; }
 
+/**globals**/
+.btn:hover,
+a:hover {
+  cursor: -webkit-image-set(url("https://hovastate.s3.amazonaws.com/hova.png") 1x, url("https://hovastate.s3.amazonaws.com/hova.2x.png") 2x) 24 1, default; }
+
+a:focus {
+  color: white;
+  text-decoration: none; }
+
 /** main section */
 #main {
   background: none;
   -webkit-transform: none;
   opacity: 1;
-  font-size: larger; }
-
-#main a:hover,
-.btn:hover,
-a:hover {
-  cursor: -webkit-image-set(url("https://hovastate.s3.amazonaws.com/hova.png") 1x, url("https://hovastate.s3.amazonaws.com/hova.2x.png") 2x) 24 1, default; }
-
-#main .avatar img:hover {
-  border: .3em solid #607D8B; }
+  font-size: larger;
+  padding-top: 6em;
+  padding-bottom: 2em;
+  padding-left: 3em;
+  padding-right: 3em; }
 
 #main .avatar img {
   box-shadow: none; }
+
+#main .avatar img:hover {
+  border: .3em solid #607D8B; }
 
 #main header {
   color: white; }
@@ -654,9 +662,15 @@ a:hover {
 #main h1 {
   color: white; }
 
+#main p {
+  color: #607D8B; }
+
 #main a:hover {
-  color: #607D8B;
-  text-decoration: underline; }
+  color: white;
+  text-decoration: none; }
+
+a#fvcproductions:hover {
+  color: #607D8B; }
 
 /** projects section */
 .projects a:hover {
@@ -732,3 +746,12 @@ ul.icons li a:before {
   .footer {
     padding-right: 0;
     padding-left: 0; } }
+/** calendly */
+.calendly-badge-widget .calendly-badge-content {
+  font-size: 1em; }
+
+/** music icons */
+#pause:hover,
+#play:hover,
+#question:hover {
+  color: white; }
