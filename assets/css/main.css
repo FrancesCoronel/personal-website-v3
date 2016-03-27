@@ -7,6 +7,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 /* Reset */
+@import url(https://fonts.googleapis.com/css?family=Karla);
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
   margin: 0;
   padding: 0;
@@ -70,7 +71,7 @@ body {
 /* Type */
 body, input, select, textarea {
   color: #414f57;
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-family: "Karla", Helvetica, sans-serif;
   font-size: 14pt;
   font-weight: 300;
   line-height: 2;
@@ -618,15 +619,16 @@ button,
   body.is-ie #wrapper {
     height: 100%; }
 
+/** importing Karla font */
+/** defining color variables */
+/** body  */
 body {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
   font-family: 'Karla', sans-serif;
-  text-transform: none; }
+  text-transform: none;
+  background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/footer_lodyas.png"); }
 
-@media (min-width: 48em) {
-  .container {
-    max-width: 46rem; } }
 .container-narrow > hr {
   margin: 2rem 0; }
 
@@ -636,58 +638,49 @@ a:hover {
   cursor: -webkit-image-set(url("https://hovastate.s3.amazonaws.com/hova.png") 1x, url("https://hovastate.s3.amazonaws.com/hova.2x.png") 2x) 24 1, default; }
 
 a:focus {
-  color: white;
+  color: #607D8B;
   text-decoration: none; }
 
 /** main section */
 #main {
-  background: none;
-  -webkit-transform: none;
-  opacity: 1;
   font-size: larger;
-  padding-top: 6em;
-  padding-bottom: 2em;
-  padding-left: 3em;
-  padding-right: 3em; }
+  padding: 6em 3em 3em 3em; }
+
+#main h1,
+p {
+  color: #607D8B; }
 
 #main .avatar img {
   box-shadow: none; }
 
 #main .avatar img:hover {
-  border: .3em solid #607D8B; }
+  border: 0.5em outset #607D8B; }
 
-#main header {
-  color: white; }
+#main a:hover,
+a#fvcproductions:hover,
+#pause:hover,
+#play:hover,
+#question:hover,
+.footer p {
+  color: #777;
+  text-decoration: none; }
 
-#main h1 {
-  color: white; }
+/** projects section */
+.projects {
+  padding-bottom: 2em; }
 
-#main p {
-  color: #607D8B; }
+.projects h2 {
+  color: #777;
+  font-size: 2em;
+  text-align: center;
+  padding: 2em; }
 
-#main a:hover {
+.projects a:hover {
   color: white;
   text-decoration: none; }
 
-a#fvcproductions:hover {
-  color: #607D8B; }
-
-/** projects section */
-.projects a:hover {
-  text-decoration: underline;
-  color: #607D8B; }
-
-.projects {
-  padding-bottom: 1.5em; }
-
-.projects h2 {
-  font-size: 2em;
-  text-align: center;
-  padding: 1.5em;
-  color: white; }
-
 .projects .card {
-  padding: 5%;
+  padding: 1em;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   transition: all 0.2s ease-in-out; }
 
@@ -695,14 +688,15 @@ a#fvcproductions:hover {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23); }
 
 .projects .repo-info.card-text {
-  margin-left: .5em; }
+  margin-left: .5em;
+  color: #777; }
 
 small .text-muted,
 small.text-muted b {
-  color: grey; }
+  color: #777; }
 
 .projects button.btn.btn-primary-outline {
-  margin-bottom: 1em;
+  margin-bottom: .5em;
   font-size: larger;
   color: white !important;
   background-color: #607D8B;
@@ -716,10 +710,10 @@ small.text-muted b {
 ul.icons li a {
   color: #607D8B;
   background-color: #607D8B;
-  border: solid .5px #607D8B; }
+  border: solid 0.5px #607D8B; }
 
 ul.icons li a:hover {
-  border: solid 1px white;
+  border: solid 1px #607D8B;
   text-shadow: 1.25px 0px 0px #607D8B, -1.25px 0px 0px #607D8B, 0px 1.25px 0px #607D8B, 0px -1.25px 0px #607D8B;
   background-color: white; }
 
@@ -727,31 +721,19 @@ ul.icons li a:hover:before {
   text-shadow: 1.25px 0px 0px #607D8B, -1.25px 0px 0px #607D8B, 0px 1.25px 0px #607D8B, 0px -1.25px 0px #607D8B; }
 
 ul.icons li a:before {
-  color: #ffffff;
+  color: white;
   text-shadow: none; }
 
 /** footer */
 .footer {
-  padding-right: 1rem;
-  padding-left: 1rem;
-  padding-top: 1.5rem;
-  color: #777;
-  border-top: .05rem solid #e5e5e5;
+  padding: 1em 0em 8em 0em;
   text-align: center; }
 
 .footer a:hover {
-  color: white; }
+  color: white;
+  text-decoration: none; }
 
 @media screen and (min-width: 48em) {
   .footer {
     padding-right: 0;
     padding-left: 0; } }
-/** calendly */
-.calendly-badge-widget .calendly-badge-content {
-  font-size: 1em; }
-
-/** music icons */
-#pause:hover,
-#play:hover,
-#question:hover {
-  color: white; }
