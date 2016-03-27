@@ -737,7 +737,10 @@ ul.icons li a:before {
   .footer {
     padding-right: 0;
     padding-left: 0; } }
-/** typography */
+/** responsive typography */
 @media screen and (max-width: 48em) {
   #main, .projects, .footer {
     font-size: 1em; } }
+/** calendly */
+.calendly-badge-widget .calendly-badge-content {
+  font-family: 'Source Sans Pro', sans-serif; }
