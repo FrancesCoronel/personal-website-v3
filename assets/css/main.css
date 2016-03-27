@@ -643,7 +643,7 @@ a:focus {
 
 /** main section */
 #main {
-  font-size: larger;
+  font-size: 1rem;
   padding: 6em 3em 3em 3em; }
 
 #main h1,
@@ -671,7 +671,7 @@ a#fvcproductions:hover,
 
 .projects h2 {
   color: #777;
-  font-size: 2em;
+  font-size: 1.2rem;
   text-align: center;
   padding: 2em; }
 
@@ -697,7 +697,7 @@ small.text-muted b {
 
 .projects button.btn.btn-primary-outline {
   margin-bottom: .5em;
-  font-size: larger;
+  font-size: 1em;
   color: white !important;
   background-color: #607D8B;
   border-color: #607D8B; }
@@ -737,3 +737,7 @@ ul.icons li a:before {
   .footer {
     padding-right: 0;
     padding-left: 0; } }
+/** typography */
+@media screen and (max-width: 48em) {
+  #main, .projects, .footer {
+    font-size: 1em; } }
