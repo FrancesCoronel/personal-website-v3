@@ -71,10 +71,10 @@
 
 <body>
     <!-- Main -->
-    <div class="container">
+    <div id="wrapper">
         <section id="main">
             <header>
-                <span class="avatar"><a href="http://fvcproductions.com" target="_blank"><img src="assets/images/avatar.jpg" alt="" /></a></span>
+                <span class="avatar"><a href="http://fvcproductions.com" target="_blank"><img src="assets/images/avatar.jpg" width="128" alt="FVCproductions" /></a></span>
                 <h1><a href="http://fvcproductions.com" target="_blank" title="FVCproductions" id="fvcproductions">FVCproductions</a></h1>
                 <p><a href="http://twitter.com/fvcproductions" target="_blank" title="Dabbler">Dabbler</a> | <a href="http://behance.net/fvcproductions" target="_blank" title="Designer">Designer</a> | <a href="http://github.com/fvcproductions" target="_blank" title="Developer">Developer</a></p>
             </header>
@@ -95,19 +95,18 @@
             </audio>
         </section>
         <!-- showcase GitHub projects -->
-        <div class="projects">
+        <!--         <div class="projects">
             <h2 class="title">Check out my <a href="http://github.com/fvcproductions" target="_blank">GitHub</a> projects! 😎</h2>
             <div class="not-featured card-columns"></div>
-        </div>
+        </div> -->
         <!-- footer -->
         <div class="footer">
-            <div class="col-md-6">
-                <p>Copyright: <a href="http://fvcproductions.com" target="_blank" title="FVCproductions">FVCproductions</a></p>
+            <div class="row">
+                <p>Copyright <b><a href="http://fvcproductions.com" target="_blank" title="FVCproductions">FVCproductions</a></b></p>
             </div>
-            <div class="col-md-6">
-                <p>Design: <a href="http://html5up.net" target="_blank" title="HTML5 UP">HTML5 UP</a></p>
+            <div class="row">
+                <p>Design <b><a href="http://html5up.net" target="_blank" title="HTML5 UP">HTML5 UP</a></b></p>
             </div>
-            </footer>
         </div>
     </div>
     <!-- end container -->
@@ -124,7 +123,7 @@
     a.async = 1;
     a.src = g;
     m.parentNode.insertBefore(a, m)
-})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
 ga('create', 'UA-63190978-3', 'auto');
 ga('send', 'pageview');

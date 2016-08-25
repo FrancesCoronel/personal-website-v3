@@ -623,8 +623,6 @@ button,
 /** defining color variables */
 /** body  */
 body {
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
   font-family: 'Karla', sans-serif;
   text-transform: none;
   background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/footer_lodyas.png"); }
@@ -633,8 +631,15 @@ body {
   margin: 2rem 0; }
 
 /**globals**/
+* > :nth-child(3n+3) {
+  margin-right: 0; }
+
 .btn:hover,
-a:hover {
+a:hover,
+#pause:hover,
+#play:hover,
+#question:hover,
+.calendly-badge-widget .calendly-badge-content {
   cursor: -webkit-image-set(url("https://hovastate.s3.amazonaws.com/hova.png") 1x, url("https://hovastate.s3.amazonaws.com/hova.2x.png") 2x) 24 1, default; }
 
 a:focus {
@@ -644,26 +649,32 @@ a:focus {
 /** main section */
 #main {
   font-size: 1rem;
-  padding: 6em 3em 3em 3em; }
+  padding: 6em 3em 3em 3em;
+  min-width: 25em; }
 
 #main h1,
 p {
   color: #607D8B; }
 
 #main .avatar img {
-  box-shadow: none; }
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22); }
 
 #main .avatar img:hover {
   border: 0.5em outset #607D8B; }
 
 #main a:hover,
-a#fvcproductions:hover,
+a#fvcproductions:hover {
+  color: #607D8B;
+  text-decoration: underline; }
+
 #pause:hover,
 #play:hover,
-#question:hover,
-.footer p {
+#question:hover {
   color: #777;
   text-decoration: none; }
+
+i#play, i#pause {
+  margin-right: 2rem; }
 
 /** projects section */
 .projects {
@@ -710,7 +721,8 @@ small.text-muted b {
 ul.icons li a {
   color: #607D8B;
   background-color: #607D8B;
-  border: solid 0.5px #607D8B; }
+  border: solid 0.5px #607D8B;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24); }
 
 ul.icons li a:hover {
   border: solid 1px #607D8B;
@@ -724,14 +736,19 @@ ul.icons li a:before {
   color: white;
   text-shadow: none; }
 
+/** bold typography */
+b {
+  font-weight: bold;
+  color: white; }
+
 /** footer */
 .footer {
-  padding: 1em 0em 8em 0em;
+  padding: 1em 0em 1em 0em;
   text-align: center; }
 
 .footer a:hover {
-  color: white;
-  text-decoration: none; }
+  text-decoration: underline;
+  color: white; }
 
 @media screen and (min-width: 48em) {
   .footer {
@@ -739,7 +756,9 @@ ul.icons li a:before {
     padding-left: 0; } }
 /** responsive typography */
 @media screen and (max-width: 48em) {
-  #main, .projects, .footer {
+  #main,
+  .projects,
+  .footer {
     font-size: 1em; } }
 /** calendly */
 .calendly-badge-widget .calendly-badge-content {
