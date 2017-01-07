@@ -77,6 +77,12 @@ a:visited {
 .cover {
   padding: 0 1.5rem; }
 
+/**
+ * Fun Fact
+ */
+.fun-fact b {
+  font-weight: 500; }
+
 /*
 * Affix and center
 */
