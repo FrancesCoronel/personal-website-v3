@@ -1,12 +1,17 @@
 # fvcproductions.github.io
 
+> My bare-bones website.
+
 ---
 
-## Check it out at <a href="http://fvcproductions.github.io" target="_blank">`fvcproductions.github.io`</a>.
+## Check it out at [`fvcproductions.github.io`](http://fvcproductions.github.io)! 😊
+
+My main website is at [`fvcproductions.com`](http://fvcproductions.com) though... 😅
 
 - - -
 
 ### Credits
 
-Identity by HTML5 UP
-html5up.net | @n33co
+- Me, Myself, & I
+- Bootstrap 4
+- CodeKit
