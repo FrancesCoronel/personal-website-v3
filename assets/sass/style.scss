@@ -15,13 +15,13 @@ body {
 
 h1 {
     font-weight: 500;
-    font-size: x-large;
-    margin-bottom: 3%;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
 }
 
 p {
     font-weight: 300;
-    font-size: small;
+    font-size: 1rem;
 }
 
 img {
@@ -111,14 +111,19 @@ a:visited {
     }
 }
 
+
 /*
-* Affix and center
-*/
+ * Affix and center
+ */
 
 @media (min-width: 40em) {
     /* Start the vertical centering */
     .site-wrapper-inner {
         vertical-align: middle;
+    }
+    h1,
+    p {
+        line-height: 1.5rem!important;
     }
     /* Handle the widths */
     .cover-container {
@@ -127,8 +132,9 @@ a:visited {
     }
 }
 
-@media (min-width: 62em) {
-    .cover-container {
-        width: 42rem;
+@media (min-width: 20rem) {
+    h1,
+    p {
+        line-height: 2.5rem!important;
     }
 }

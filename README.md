@@ -2,16 +2,10 @@
 
 > My bare-bones website.
 
----
+## Feel free to check it out at [`fvcproductions.github.io`](http://fvcproductions.github.io)! 😊
 
-## Check it out at [`fvcproductions.github.io`](http://fvcproductions.github.io)! 😊
+Updated my GitHub page in order to better showcase my current state of mind.
 
-My main website is at [`fvcproductions.com`](http://fvcproductions.com) though... 😅
+If you click on "black" or "white", the interface changes colors. Woot!
 
-- - -
-
-### Credits
-
-- Me, Myself, & I
-- Bootstrap 4
-- CodeKit
+Created using Bootstrap 4, CodeKit, & Sketch.
