@@ -29,6 +29,8 @@ If you aren't running the latest version:
 $ gem update jekyll
 ```
 
+I also CodeKit 3 (`config.codekit3`) to handle compilation.
+
 ## Features
 
 ### Form
@@ -51,6 +53,10 @@ $ gem update jekyll
 This website was created from the bottom-up and is a migration from my Wordpress website.
 
 ## Contributing
+
+I am always looking for ways to make my website more modular, lean, and clean.
+
+So if you have any suggestions, please feel free to contribute!
 
 > To get started...
 

@@ -10,10 +10,10 @@
 .breadcrumbs {
     @include container;
     @include clearfix;
-    margin-top: 0;
+    margin-top: 2em;
     margin-bottom: 0;
-    padding-left: 2em;
-    padding-right: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
     font-family: $sans-serif;
     -webkit-animation: intro 0.3s both;
     animation: intro 0.3s both;
@@ -164,7 +164,7 @@
         color: $masthead-link-color;
         text-decoration: none;
         &:hover {
-            color: $masthead-link-color-hover;
+            color: $light-gray;
         }
     }
     button {
@@ -236,8 +236,8 @@
             font-size: $type-size-5;
             color: $primary-color;
             &:hover {
-                color: $masthead-link-color-hover;
-                background: mix($background-color, $primary-color, 75%);
+                color: $background-color;
+                background: $body-color;
             }
         }
         &:before {
@@ -480,4 +480,14 @@
             display: block;
         }
     }
+}
+
+.navbar-brand {
+    display: inline-block;
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
 }

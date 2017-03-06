@@ -9,8 +9,10 @@ main:
     url: /services/
   - title: "Testimonials 💖"
     url: /testimonials/
-  - title: "Archive"
-    url: /archive/
+  - title: "About 👀"
+    url: /about/
+  - title: "Search 🔍"
+    url: /search/
   - title: "Categories"
     url: /categories/
   - title: "Pages"

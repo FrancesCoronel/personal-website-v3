@@ -21,29 +21,6 @@ comments:
   provider               : "disqus"
   disqus:
     shortname            : "fvcproductions"
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -56,10 +33,6 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : "fvcproductions"
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
 og_image                 : /assets/images/teaser.png
 social:
   type                   : "Organization"
@@ -76,8 +49,7 @@ social:
 analytics:
   provider               : "google"
   google:
-    tracking_id          : UA-63190978-3
-
+    tracking_id          : UA-63190978-1
 
 # Site Author
 author:
@@ -87,29 +59,19 @@ author:
   location         : "New York City"
   email            : "fvcproductions at gmail.com"
   uri              : "http://fvcproductions.com"
-  behance.net      : "fvcproductions"
-  bitbucket        :
+  behance          : "fvcproductions"
   codepen          : "fvcproductions"
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  dribbble         : "fvcproductions"
   github           : "fvcproductions"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
+  google_plus      : "fvcproductions2013"
+  instagram        : "fvcproductions"
   linkedin         : "fvcproductions"
-  pinterest        :
   soundcloud       : "fvcproductions"
   stackoverflow    : "3000467/fvcproductions"
   steam            : "fvcproductions"
   tumblr           : "fvcproductions2013"
   twitter          : "fvcproductions"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : "https://youtube.com/c/FVCproductions2013"
+  youtube          : "FVCproductions2013"
 
 
 # Reading Files
@@ -176,7 +138,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /blog/:year/:month/:day/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/New_York
@@ -227,14 +189,12 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
-
 
 # Defaults
 defaults:
@@ -255,23 +215,17 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
-  # _portfolio
+      author_profile: false
+  # _adventures
   - scope:
       path: ""
-      type: portfolio
+      type: adventures
     values:
       layout: single
+      read_time: false
       author_profile: false
       share: true
-  # _services
-  - scope:
-      path: ""
-      type: services
-    values:
-      layout: single
-      author_profile: false
-      share: true
+      comments: true
   # _testimonials
   - scope:
       path: ""
@@ -280,7 +234,26 @@ defaults:
       layout: single
       author_profile: false
       share: true
+      comments: true
+  # _services
+  - scope:
+      path: ""
+      type: services
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
+# Collections
 collections:
   portfolio:
     output: true
@@ -290,5 +263,7 @@ collections:
     permalink: /:collection/:path/
   testimonials:
     output: true
+    permalink: /:collection/:title/
+  adventures:
+    output: true
     permalink: /:collection/:path/
-

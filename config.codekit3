@@ -81,12 +81,6 @@
 		"oAP": "\/_includes\/archive-single.html",
 		"oF": 1
 		},
-	"\/_includes\/author-profile-custom-links.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_includes\/author-profile-custom-links.html",
-		"oF": 1
-		},
 	"\/_includes\/author-profile.html": {
 		"ft": 8192,
 		"oA": 1,
@@ -117,58 +111,16 @@
 		"oAP": "\/_includes\/category-list.html",
 		"oF": 1
 		},
-	"\/_includes\/comment.html": {
+	"\/_includes\/comments\/comments.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/_includes\/comment.html",
+		"oAP": "\/_includes\/comments\/comments.html",
 		"oF": 1
 		},
-	"\/_includes\/comments-providers\/custom.html": {
+	"\/_includes\/comments\/script.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/_includes\/comments-providers\/custom.html",
-		"oF": 1
-		},
-	"\/_includes\/comments-providers\/discourse.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_includes\/comments-providers\/discourse.html",
-		"oF": 1
-		},
-	"\/_includes\/comments-providers\/disqus.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_includes\/comments-providers\/disqus.html",
-		"oF": 1
-		},
-	"\/_includes\/comments-providers\/facebook.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_includes\/comments-providers\/facebook.html",
-		"oF": 1
-		},
-	"\/_includes\/comments-providers\/google-plus.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_includes\/comments-providers\/google-plus.html",
-		"oF": 1
-		},
-	"\/_includes\/comments-providers\/scripts.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_includes\/comments-providers\/scripts.html",
-		"oF": 1
-		},
-	"\/_includes\/comments-providers\/staticman.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_includes\/comments-providers\/staticman.html",
-		"oF": 1
-		},
-	"\/_includes\/comments.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_includes\/comments.html",
+		"oAP": "\/_includes\/comments\/script.html",
 		"oF": 1
 		},
 	"\/_includes\/feature_row": {
@@ -183,16 +135,16 @@
 		"oAP": "\/_includes\/figure",
 		"oF": 1
 		},
+	"\/_includes\/footer-social.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/footer-social.html",
+		"oF": 0
+		},
 	"\/_includes\/footer.html": {
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_includes\/footer.html",
-		"oF": 1
-		},
-	"\/_includes\/footer\/custom.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_includes\/footer\/custom.html",
 		"oF": 1
 		},
 	"\/_includes\/gallery": {
@@ -211,12 +163,6 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_includes\/head.html",
-		"oF": 1
-		},
-	"\/_includes\/head\/custom.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_includes\/head\/custom.html",
 		"oF": 1
 		},
 	"\/_includes\/masthead.html": {
@@ -296,6 +242,18 @@
 		"oA": 1,
 		"oAP": "\/_includes\/tag-list.html",
 		"oF": 1
+		},
+	"\/_includes\/testimonials\/testimonial-single.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/testimonials\/testimonial-single.html",
+		"oF": 0
+		},
+	"\/_includes\/testimonials\/testimonial__hero.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/testimonials\/testimonial__hero.html",
+		"oF": 0
 		},
 	"\/_includes\/toc": {
 		"ft": 8192,
@@ -389,9 +347,9 @@
 		},
 	"\/_pages\/adventures.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_pages\/adventures.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_pages\/archive-layout-with-content.md": {
 		"cS": 0,
@@ -483,12 +441,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_pages\/page-archive.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_pages\/page-archive.html",
-		"oF": 1
-		},
 	"\/_pages\/page-b.md": {
 		"cS": 0,
 		"eF": 1,
@@ -507,19 +459,13 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_pages\/portfolio-archive.html": {
+	"\/_pages\/portfolio.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/_pages\/portfolio-archive.html",
+		"oAP": "\/_pages\/portfolio.html",
 		"oF": 1
 		},
-	"\/_pages\/recipes-archive.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_pages\/recipes-archive.html",
-		"oF": 1
-		},
-	"\/_pages\/sample-page.md": {
+	"\/_pages\/privacy-policy.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -528,8 +474,32 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/_pages\/sample-page.html",
+		"oAP": "\/_pages\/privacy-policy.html",
 		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pages\/search.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_pages\/search.html",
+		"oF": 0
+		},
+	"\/_pages\/search.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pages\/search.html",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -542,24 +512,6 @@
 		"oA": 2,
 		"oAP": "\/_pages\/services.html",
 		"oF": 0
-		},
-	"\/_pages\/sitemap.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_pages\/sitemap.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		},
 	"\/_pages\/splash-page.md": {
 		"cS": 0,
@@ -585,23 +537,11 @@
 		"oAP": "\/_pages\/tag-archive.html",
 		"oF": 1
 		},
-	"\/_pages\/terms.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_pages\/terms.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
+	"\/_pages\/testimonials.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_pages\/testimonials.html",
+		"oF": 0
 		},
 	"\/_portfolio\/foo-bar-website.md": {
 		"cS": 0,
@@ -613,6 +553,24 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/_portfolio\/foo-bar-website.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_posts\/2008-06-01-middle-school-poems.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_posts\/2008-06-01-middle-school-poems.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1798,6 +1756,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/_sass\/_search.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_search.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/_sass\/_sidebar.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1833,6 +1804,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/css\/_tables.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/_sass\/_testimonial.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/_testimonial.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2106,188 +2090,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/_sass\/vendor\/breakpoint\/parsers\/css\/_default.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/font-awesome\/_animated.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/css\/_animated.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/font-awesome\/_bordered-pulled.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/css\/_bordered-pulled.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/font-awesome\/_core.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/css\/_core.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/font-awesome\/_fixed-width.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/css\/_fixed-width.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/font-awesome\/_font-awesome.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/css\/_font-awesome.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/font-awesome\/_icons.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/css\/_icons.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/font-awesome\/_larger.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/css\/_larger.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/font-awesome\/_list.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/css\/_list.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/font-awesome\/_mixins.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/css\/_mixins.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/font-awesome\/_path.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/css\/_path.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/font-awesome\/_rotated-flipped.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/css\/_rotated-flipped.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/font-awesome\/_screen-reader.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/css\/_screen-reader.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/font-awesome\/_stacked.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/css\/_stacked.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/font-awesome\/_variables.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/css\/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3038,22 +2840,22 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_site\/404.html": {
+	"\/_site\/404\/index.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/404.html",
+		"oAP": "\/_site\/404\/index.html",
+		"oF": 0
+		},
+	"\/_site\/_pages\/search.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/_pages\/search.html",
 		"oF": 0
 		},
 	"\/_site\/about\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/about\/index.html",
-		"oF": 0
-		},
-	"\/_site\/aciform\/antiquarianism\/arrangement\/asmodeus\/broder\/buying\/championship\/chastening\/disinclination\/disinfection\/dispatch\/echappee\/enphagy\/equipollent\/edge-case-many-categories\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/aciform\/antiquarianism\/arrangement\/asmodeus\/broder\/buying\/championship\/chastening\/disinclination\/disinfection\/dispatch\/echappee\/enphagy\/equipollent\/edge-case-many-categories\/index.html",
 		"oF": 0
 		},
 	"\/_site\/adventures\/index.html": {
@@ -3073,19 +2875,9 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/css\/main-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/_site\/assets\/css\/style.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/css\/style-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0
 		},
 	"\/_site\/assets\/favicons\/favicon-114.png": {
@@ -3098,7 +2890,7 @@
 		},
 	"\/_site\/assets\/favicons\/favicon-120.png": {
 		"ft": 32768,
-		"iS": 2422,
+		"iS": 1393,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/favicons\/favicon-120.png",
 		"oF": 0,
@@ -3122,7 +2914,7 @@
 		},
 	"\/_site\/assets\/favicons\/favicon-180.png": {
 		"ft": 32768,
-		"iS": 3874,
+		"iS": 2138,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/favicons\/favicon-180.png",
 		"oF": 0,
@@ -3170,7 +2962,7 @@
 		},
 	"\/_site\/assets\/favicons\/favicon-60.png": {
 		"ft": 32768,
-		"iS": 1075,
+		"iS": 700,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/favicons\/favicon-60.png",
 		"oF": 0,
@@ -3194,7 +2986,7 @@
 		},
 	"\/_site\/assets\/favicons\/favicon-96.png": {
 		"ft": 32768,
-		"iS": 1860,
+		"iS": 1133,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/favicons\/favicon-96.png",
 		"oF": 0,
@@ -3204,46 +2996,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/assets\/favicons\/favicon.ico",
-		"oF": 0
-		},
-	"\/_site\/assets\/fonts\/fontawesome-webfont.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/fontawesome-webfont.eot",
-		"oF": 0
-		},
-	"\/_site\/assets\/fonts\/fontawesome-webfont.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/fontawesome-webfont.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/assets\/fonts\/fontawesome-webfont.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/fontawesome-webfont.ttf",
-		"oF": 0
-		},
-	"\/_site\/assets\/fonts\/fontawesome-webfont.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/fontawesome-webfont.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/fonts\/fontawesome-webfont.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/fontawesome-webfont.woff2",
-		"oF": 0
-		},
-	"\/_site\/assets\/fonts\/FontAwesome.otf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/FontAwesome.otf",
 		"oF": 0
 		},
 	"\/_site\/assets\/images\/logo-black.svg": {
@@ -3268,56 +3020,370 @@
 		},
 	"\/_site\/assets\/images\/teaser.png": {
 		"ft": 32768,
-		"iS": 99295,
+		"iS": 25395,
 		"oA": 0,
 		"oAP": "\/_site\/assets\/images\/teaser.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_site\/assets\/js\/app.js": {
+	"\/_site\/assets\/js\/main.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/_site\/assets\/js\/min\/app-min.js",
+		"oAP": "\/_site\/assets\/js\/min\/main-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/_site\/assets\/js\/main.min.js": {
+	"\/_site\/assets\/js\/min\/main.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/_site\/assets\/js\/min\/main.min-min.js",
+		"oAP": "\/_site\/assets\/js\/min\/min\/main.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/_site\/assets\/js\/min\/app-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/js\/min\/min\/app-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
+	"\/_site\/blog\/2008\/06\/01\/middle-school-poems\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2008\/06\/01\/middle-school-poems\/index.html",
+		"oF": 0
 		},
-	"\/_site\/assets\/sass\/style.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/css\/style.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
+	"\/_site\/blog\/2009\/05\/15\/edge-case-nested-and-mixed-lists\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2009\/05\/15\/edge-case-nested-and-mixed-lists\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2009\/06\/01\/edge-case-many-tags\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2009\/06\/01\/edge-case-many-tags\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2009\/07\/02\/edge-case-many-categories\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2009\/07\/02\/edge-case-many-categories\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2009\/08\/06\/edge-case-no-body-content\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2009\/08\/06\/edge-case-no-body-content\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2009\/09\/05\/edge-case-no-yaml-title\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2009\/09\/05\/edge-case-no-yaml-title\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2009\/10\/05\/edge-case-title-should-not-overflow-the-content-area\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2009\/10\/05\/edge-case-title-should-not-overflow-the-content-area\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2009\/10\/05\/edge-case-very-long-title\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2009\/10\/05\/edge-case-very-long-title\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2010\/01\/07\/post-modified\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2010\/01\/07\/post-modified\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2010\/01\/07\/post-standard\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2010\/01\/07\/post-standard\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2010\/01\/08\/post-chat\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2010\/01\/08\/post-chat\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2010\/02\/05\/post-notice\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2010\/02\/05\/post-notice\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2010\/02\/05\/post-quote\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2010\/02\/05\/post-quote\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2010\/03\/07\/post-link\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2010\/03\/07\/post-link\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2010\/06\/02\/post-video-youtube\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2010\/06\/02\/post-video-youtube\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2010\/08\/05\/post-image-linked\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2010\/08\/05\/post-image-linked\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2010\/08\/05\/post-image-standard\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2010\/08\/05\/post-image-standard\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2010\/08\/06\/post-image-linked-caption\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2010\/08\/06\/post-image-linked-caption\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2010\/08\/07\/post-image-caption\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2010\/08\/07\/post-image-caption\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2010\/09\/09\/post-gallery\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2010\/09\/09\/post-gallery\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2010\/09\/10\/post-twitter-embeds\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2010\/09\/10\/post-twitter-embeds\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/01\/02\/layout-comments-disabled\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/01\/02\/layout-comments-disabled\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/01\/02\/layout-comments\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/01\/02\/layout-comments\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/01\/02\/layout-read-time-disabled\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/01\/02\/layout-read-time-disabled\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/01\/02\/layout-read-time\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/01\/02\/layout-read-time\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/01\/02\/layout-related-posts-disabled\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/01\/02\/layout-related-posts-disabled\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/01\/02\/layout-related-posts\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/01\/02\/layout-related-posts\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/01\/02\/layout-sharing-disabled\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/01\/02\/layout-sharing-disabled\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/01\/02\/layout-sharing\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/01\/02\/layout-sharing\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/01\/03\/layout-read-time-comments-sharing-related-posts-disabled\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/01\/03\/layout-read-time-comments-sharing-related-posts-disabled\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/01\/03\/layout-table-of-contents-post\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/01\/03\/layout-table-of-contents-post\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/03\/14\/layout-code-excerpt-generated\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/03\/14\/layout-code-excerpt-generated\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/03\/14\/layout-excerpt-defined\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/03\/14\/layout-excerpt-defined\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/03\/14\/layout-excerpt-generated\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/03\/14\/layout-excerpt-generated\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/03\/15\/layout-author-override\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-author-override\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/03\/15\/layout-author-sidebar-disabled\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-author-sidebar-disabled\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/03\/15\/layout-header-image-external\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-header-image-external\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/03\/15\/layout-header-image-horizontal\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-header-image-horizontal\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/03\/15\/layout-header-image-text-readability\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-header-image-text-readability\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/03\/15\/layout-header-image-vertical\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-header-image-vertical\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/03\/15\/layout-header-overlay-color\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-header-overlay-color\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/03\/15\/layout-header-overlay-image\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-header-overlay-image\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/03\/15\/layout-more-tag\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-more-tag\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/03\/15\/layout-sidebar-custom\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-sidebar-custom\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2012\/05\/22\/markup-text-readability\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2012\/05\/22\/markup-text-readability\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2013\/01\/05\/markup-title-with-markup\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2013\/01\/05\/markup-title-with-markup\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2013\/01\/05\/markup-title-with-special-characters\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2013\/01\/05\/markup-title-with-special-characters\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2013\/01\/09\/markup-text-alignment\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2013\/01\/09\/markup-text-alignment\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2013\/01\/10\/markup-image-alignment\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2013\/01\/10\/markup-image-alignment\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2013\/01\/11\/markup-html-tags-and-formatting\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2013\/01\/11\/markup-html-tags-and-formatting\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2013\/05\/22\/markup-more-images\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2013\/05\/22\/markup-more-images\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2013\/08\/16\/markup-syntax-highlighting\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2013\/08\/16\/markup-syntax-highlighting\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2016\/02\/24\/welcome-to-jekyll\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2016\/02\/24\/welcome-to-jekyll\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2016\/09\/21\/gemified-theme-alpha\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2016\/09\/21\/gemified-theme-alpha\/index.html",
+		"oF": 0
+		},
+	"\/_site\/blog\/2016\/10\/06\/gemified-theme-beta\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2016\/10\/06\/gemified-theme-beta\/index.html",
+		"oF": 0
 		},
 	"\/_site\/blog\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/blog\/index.html",
+		"oF": 0
+		},
+	"\/_site\/build\/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "\/build\/_site\/build\/node_modules",
 		"oF": 0
 		},
 	"\/_site\/categories\/index.html": {
@@ -3332,52 +3398,20 @@
 		"oAP": "\/_site\/collection-archive\/index.html",
 		"oF": 0
 		},
-	"\/_site\/edge case\/edge-case-many-tags\/index.html": {
-		"ft": 8192,
+	"\/_site\/css\/testimonial.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
 		"oA": 2,
-		"oAP": "\/_site\/edge case\/edge-case-many-tags\/index.html",
-		"oF": 0
-		},
-	"\/_site\/edge case\/edge-case-nested-and-mixed-lists\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/edge case\/edge-case-nested-and-mixed-lists\/index.html",
-		"oF": 0
-		},
-	"\/_site\/edge case\/edge-case-no-body-content\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/edge case\/edge-case-no-body-content\/index.html",
-		"oF": 0
-		},
-	"\/_site\/edge case\/edge-case-no-yaml-title\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/edge case\/edge-case-no-yaml-title\/index.html",
-		"oF": 0
-		},
-	"\/_site\/edge case\/edge-case-title-should-not-overflow-the-content-area\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/edge case\/edge-case-title-should-not-overflow-the-content-area\/index.html",
-		"oF": 0
-		},
-	"\/_site\/edge case\/edge-case-very-long-title\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/edge case\/edge-case-very-long-title\/index.html",
-		"oF": 0
+		"oAP": "\/_site\/css\/testimonial-min.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/_site\/feed.xml": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/feed.xml",
-		"oF": 0
-		},
-	"\/_site\/index-alt.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/index-alt.html",
 		"oF": 0
 		},
 	"\/_site\/index.html": {
@@ -3386,244 +3420,16 @@
 		"oAP": "\/_site\/index.html",
 		"oF": 0
 		},
-	"\/_site\/jekyll\/gemified-theme-alpha\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/jekyll\/gemified-theme-alpha\/index.html",
-		"oF": 0
-		},
-	"\/_site\/jekyll\/gemified-theme-beta\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/jekyll\/gemified-theme-beta\/index.html",
-		"oF": 0
-		},
-	"\/_site\/jekyll\/welcome-to-jekyll\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/jekyll\/welcome-to-jekyll\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout-author-override\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout-author-override\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout-author-sidebar-disabled\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout-author-sidebar-disabled\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout-header-image-text-readability\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout-header-image-text-readability\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout-read-time-disabled\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout-read-time-disabled\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout-read-time\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout-read-time\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout-sidebar-custom\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout-sidebar-custom\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout-table-of-contents-post\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout-table-of-contents-post\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout\/uncategorized\/layout-code-excerpt-generated\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout\/uncategorized\/layout-code-excerpt-generated\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout\/uncategorized\/layout-comments-disabled\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout\/uncategorized\/layout-comments-disabled\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout\/uncategorized\/layout-comments\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout\/uncategorized\/layout-comments\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout\/uncategorized\/layout-excerpt-defined\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout\/uncategorized\/layout-excerpt-defined\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout\/uncategorized\/layout-excerpt-generated\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout\/uncategorized\/layout-excerpt-generated\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout\/uncategorized\/layout-header-image-external\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout\/uncategorized\/layout-header-image-external\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout\/uncategorized\/layout-header-image-horizontal\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout\/uncategorized\/layout-header-image-horizontal\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout\/uncategorized\/layout-header-image-vertical\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout\/uncategorized\/layout-header-image-vertical\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout\/uncategorized\/layout-header-overlay-color\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout\/uncategorized\/layout-header-overlay-color\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout\/uncategorized\/layout-header-overlay-image\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout\/uncategorized\/layout-header-overlay-image\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout\/uncategorized\/layout-more-tag\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout\/uncategorized\/layout-more-tag\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout\/uncategorized\/layout-read-time-comments-sharing-related-posts-disabled\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout\/uncategorized\/layout-read-time-comments-sharing-related-posts-disabled\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout\/uncategorized\/layout-related-posts-disabled\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout\/uncategorized\/layout-related-posts-disabled\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout\/uncategorized\/layout-related-posts\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout\/uncategorized\/layout-related-posts\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout\/uncategorized\/layout-sharing-disabled\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout\/uncategorized\/layout-sharing-disabled\/index.html",
-		"oF": 0
-		},
-	"\/_site\/layout\/uncategorized\/layout-sharing\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/layout\/uncategorized\/layout-sharing\/index.html",
-		"oF": 0
-		},
 	"\/_site\/lorem-ipsum\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/lorem-ipsum\/index.html",
 		"oF": 0
 		},
-	"\/_site\/markdown\/markup-title-with-markup\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/markdown\/markup-title-with-markup\/index.html",
-		"oF": 0
-		},
-	"\/_site\/markup-more-images\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/markup-more-images\/index.html",
-		"oF": 0
-		},
-	"\/_site\/markup-syntax-highlighting\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/markup-syntax-highlighting\/index.html",
-		"oF": 0
-		},
-	"\/_site\/markup-text-readability\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/markup-text-readability\/index.html",
-		"oF": 0
-		},
-	"\/_site\/markup\/markup-html-tags-and-formatting\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/markup\/markup-html-tags-and-formatting\/index.html",
-		"oF": 0
-		},
-	"\/_site\/markup\/markup-image-alignment\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/markup\/markup-image-alignment\/index.html",
-		"oF": 0
-		},
-	"\/_site\/markup\/markup-text-alignment\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/markup\/markup-text-alignment\/index.html",
-		"oF": 0
-		},
-	"\/_site\/markup\/markup-title-with-special-characters\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/markup\/markup-title-with-special-characters\/index.html",
-		"oF": 0
-		},
-	"\/_site\/media\/post-twitter-embeds\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/media\/post-twitter-embeds\/index.html",
-		"oF": 0
-		},
-	"\/_site\/npm-debug.log": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/npm-debug.log",
-		"oF": 0
-		},
 	"\/_site\/page-a\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/page-a\/index.html",
-		"oF": 0
-		},
-	"\/_site\/page-archive\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/page-archive\/index.html",
-		"oF": 0
-		},
-	"\/_site\/page-b\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/page-b\/index.html",
 		"oF": 0
 		},
 	"\/_site\/page10\/index.html": {
@@ -3698,82 +3504,10 @@
 		"oAP": "\/_site\/portfolio\/index.html",
 		"oF": 0
 		},
-	"\/_site\/post formats\/post-chat\/index.html": {
+	"\/_site\/privacy-policy\/index.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/post formats\/post-chat\/index.html",
-		"oF": 0
-		},
-	"\/_site\/post formats\/post-gallery\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/post formats\/post-gallery\/index.html",
-		"oF": 0
-		},
-	"\/_site\/post formats\/post-image-caption\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/post formats\/post-image-caption\/index.html",
-		"oF": 0
-		},
-	"\/_site\/post formats\/post-image-linked-caption\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/post formats\/post-image-linked-caption\/index.html",
-		"oF": 0
-		},
-	"\/_site\/post formats\/post-image-linked\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/post formats\/post-image-linked\/index.html",
-		"oF": 0
-		},
-	"\/_site\/post formats\/post-image-standard\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/post formats\/post-image-standard\/index.html",
-		"oF": 0
-		},
-	"\/_site\/post formats\/post-link\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/post formats\/post-link\/index.html",
-		"oF": 0
-		},
-	"\/_site\/post formats\/post-modified\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/post formats\/post-modified\/index.html",
-		"oF": 0
-		},
-	"\/_site\/post formats\/post-notice\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/post formats\/post-notice\/index.html",
-		"oF": 0
-		},
-	"\/_site\/post formats\/post-quote\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/post formats\/post-quote\/index.html",
-		"oF": 0
-		},
-	"\/_site\/post formats\/post-standard\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/post formats\/post-standard\/index.html",
-		"oF": 0
-		},
-	"\/_site\/post formats\/post-video-youtube\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/post formats\/post-video-youtube\/index.html",
-		"oF": 0
-		},
-	"\/_site\/recipes\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/recipes\/index.html",
+		"oAP": "\/_site\/privacy-policy\/index.html",
 		"oF": 0
 		},
 	"\/_site\/robots.txt": {
@@ -3782,28 +3516,28 @@
 		"oAP": "\/_site\/robots.txt",
 		"oF": 0
 		},
-	"\/_site\/sample-page\/index.html": {
+	"\/_site\/search\/index.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/sample-page\/index.html",
+		"oAP": "\/_site\/search\/index.html",
 		"oF": 0
 		},
-	"\/_site\/services.html": {
+	"\/_site\/services\/index.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/services.html",
+		"oAP": "\/_site\/services\/index.html",
+		"oF": 0
+		},
+	"\/_site\/services\/speaking\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/services\/speaking\/index.html",
 		"oF": 0
 		},
 	"\/_site\/sitemap.xml": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/sitemap.xml",
-		"oF": 0
-		},
-	"\/_site\/sitemap\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/sitemap\/index.html",
 		"oF": 0
 		},
 	"\/_site\/splash-page\/index.html": {
@@ -3818,11 +3552,209 @@
 		"oAP": "\/_site\/tags\/index.html",
 		"oF": 0
 		},
-	"\/_site\/terms\/index.html": {
+	"\/_site\/testimonials\/ai-choo-ashe\/index.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/terms\/index.html",
+		"oAP": "\/_site\/testimonials\/ai-choo-ashe\/index.html",
 		"oF": 0
+		},
+	"\/_site\/testimonials\/alex-bradshaw\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/testimonials\/alex-bradshaw\/index.html",
+		"oF": 0
+		},
+	"\/_site\/testimonials\/andre-smith\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/testimonials\/andre-smith\/index.html",
+		"oF": 0
+		},
+	"\/_site\/testimonials\/angel-riera\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/testimonials\/angel-riera\/index.html",
+		"oF": 0
+		},
+	"\/_site\/testimonials\/franklin-lee\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/testimonials\/franklin-lee\/index.html",
+		"oF": 0
+		},
+	"\/_site\/testimonials\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/testimonials\/index.html",
+		"oF": 0
+		},
+	"\/_site\/testimonials\/kelli-white\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/testimonials\/kelli-white\/index.html",
+		"oF": 0
+		},
+	"\/_site\/testimonials\/kimberly-logsdon\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/testimonials\/kimberly-logsdon\/index.html",
+		"oF": 0
+		},
+	"\/_site\/testimonials\/lavie-ruan\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/testimonials\/lavie-ruan\/index.html",
+		"oF": 0
+		},
+	"\/_site\/testimonials\/mike-jonas\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/testimonials\/mike-jonas\/index.html",
+		"oF": 0
+		},
+	"\/_site\/testimonials\/pak-chu\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/testimonials\/pak-chu\/index.html",
+		"oF": 0
+		},
+	"\/_site\/testimonials\/wen-tran\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/testimonials\/wen-tran\/index.html",
+		"oF": 0
+		},
+	"\/_site\/what-i-use\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/what-i-use\/index.html",
+		"oF": 0
+		},
+	"\/_testimonials\/ai-choo-ashe.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_testimonials\/ai-choo-ashe.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_testimonials\/alex-bradshaw.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_testimonials\/alex-bradshaw.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_testimonials\/andre-smith.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_testimonials\/andre-smith.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_testimonials\/angel-riera.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_testimonials\/angel-riera.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_testimonials\/franklin-lee.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_testimonials\/franklin-lee.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_testimonials\/kelli-white.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_testimonials\/kelli-white.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_testimonials\/kimberly-logsdon.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_testimonials\/kimberly-logsdon.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/_testimonials\/lavie-ruan.md": {
 		"cS": 0,
@@ -3834,6 +3766,60 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/_testimonials\/lavie-ruan.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_testimonials\/mike-jonas.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_testimonials\/mike-jonas.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_testimonials\/pak-chu.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_testimonials\/pak-chu.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_testimonials\/wen-tran.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_testimonials\/wen-tran.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -3855,16 +3841,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/css\/style.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/style-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/assets\/favicons\/favicon-114.png": {
 		"ft": 32768,
 		"iS": 2260,
@@ -3879,7 +3855,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon-120.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/assets\/favicons\/favicon-144.png": {
 		"ft": 32768,
@@ -3903,7 +3879,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon-180.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/assets\/favicons\/favicon-192.png": {
 		"ft": 32768,
@@ -3951,7 +3927,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon-60.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/assets\/favicons\/favicon-72.png": {
 		"ft": 32768,
@@ -3975,52 +3951,12 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon-96.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/assets\/favicons\/favicon.ico": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/favicons\/favicon.ico",
-		"oF": 0
-		},
-	"\/assets\/fonts\/fontawesome-webfont.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/fontawesome-webfont.eot",
-		"oF": 0
-		},
-	"\/assets\/fonts\/fontawesome-webfont.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/fontawesome-webfont.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/assets\/fonts\/fontawesome-webfont.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/fontawesome-webfont.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/fontawesome-webfont.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/fontawesome-webfont.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/fontawesome-webfont.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/fontawesome-webfont.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/FontAwesome.otf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/FontAwesome.otf",
 		"oF": 0
 		},
 	"\/assets\/images\/logo-black.svg": {
@@ -4049,58 +3985,40 @@
 		"oA": 0,
 		"oAP": "\/assets\/images\/teaser.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
-	"\/assets\/js\/_main.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/min\/_main-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/app.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/min\/app-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/main.min.js": {
+	"\/assets\/js\/main.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/js\/min\/main.min-min.js",
+		"oAP": "\/assets\/js\/min\/main.min.js",
+		"oF": 3,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/assets\/js\/min\/main.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/min\/min\/main.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/js\/min\/app-min.js": {
+	"\/assets\/js\/plugins\/fitvids.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/assets\/js\/min\/min\/app-min-min.js",
+		"oAP": "\/assets\/js\/plugins\/min\/fitvids-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/js\/plugins\/jquery.fitvids.js": {
+	"\/assets\/js\/plugins\/greedy-navigation.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/plugins\/min\/jquery.fitvids-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/plugins\/jquery.greedy-navigation.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/plugins\/min\/jquery.greedy-navigation-min.js",
+		"oA": 1,
+		"oAP": "\/assets\/js\/plugins\/min\/greedy-navigation-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4108,7 +4026,7 @@
 	"\/assets\/js\/plugins\/jquery.magnific-popup.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/assets\/js\/plugins\/min\/jquery.magnific-popup-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -4117,45 +4035,61 @@
 	"\/assets\/js\/plugins\/jquery.smooth-scroll.min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/assets\/js\/plugins\/min\/jquery.smooth-scroll.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/js\/vendor\/jquery\/jquery-1.12.4.min.js": {
+	"\/assets\/js\/plugins\/stickyfill.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/vendor\/jquery\/min\/jquery-1.12.4.min-min.js",
+		"oA": 1,
+		"oAP": "\/assets\/js\/plugins\/min\/stickyfill-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/sass\/.sass-cache\/dc05a7c1eb613ce476211c3e1d4392b1b5dbfecf\/cover.scssc": {
+	"\/assets\/js\/vendor\/jquery-3.1.1.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/js\/vendor\/min\/jquery-3.1.1.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/build\/.gitignore": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/sass\/.sass-cache\/dc05a7c1eb613ce476211c3e1d4392b1b5dbfecf\/cover.scssc",
+		"oAP": "\/build\/.gitignore",
 		"oF": 0
 		},
-	"\/assets\/sass\/.sass-cache\/dc05a7c1eb613ce476211c3e1d4392b1b5dbfecf\/style.scssc": {
-		"ft": 8192,
+	"\/build\/node_modules": {
+		"ft": 65536,
 		"oA": 2,
-		"oAP": "\/assets\/sass\/.sass-cache\/dc05a7c1eb613ce476211c3e1d4392b1b5dbfecf\/style.scssc",
+		"oAP": "\/build\/build\/node_modules",
 		"oF": 0
 		},
-	"\/assets\/sass\/style.scss": {
+	"\/css\/_testimonial.css": {
 		"aP": 0,
 		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
+		"ft": 16,
 		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/css\/style.css",
-		"oF": 1,
-		"oS": 0,
-		"uL": 1
+		"oA": 1,
+		"oAP": "\/css\/_testimonial-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/testimonial.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/css\/testimonial-min.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/Gemfile": {
 		"ft": 8192,
@@ -4167,12 +4101,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/Gemfile.lock",
-		"oF": 0
-		},
-	"\/index-alt.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/index-alt.html",
 		"oF": 0
 		},
 	"\/index.html": {
@@ -4193,20 +4121,6 @@
 		"oAP": "\/build\/node_modules",
 		"oF": 0
 		},
-	"\/npm-debug.log": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/npm-debug.log",
-		"oF": 0
-		},
-	"\/package.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/package-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"\/Rakefile": {
 		"ft": 8192,
 		"oA": 2,
@@ -4221,9 +4135,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/README.html",
-		"oF": 0,
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -4235,6 +4149,44 @@
 "hooks": [
 	],
 "manualImportLinks": {
+	"\/assets\/js\/main.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/js\/vendor\/jquery-3.1.1.min.js",
+			"position": 0,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/fitvids.js",
+			"position": 1,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/greedy-navigation.js",
+			"position": 2,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/jquery.magnific-popup.js",
+			"position": 3,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/jquery.smooth-scroll.min.js",
+			"position": 4,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/stickyfill.js",
+			"position": 5,
+			"type": 0
+			}
+		]
 	},
 "projectAttributes": {
 	"creationDate": 506321634,

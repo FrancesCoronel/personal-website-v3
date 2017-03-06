@@ -1,30 +1,19 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: Lavie Ruan
+date: 2016-08-01
+category: testimonial
+cta_url: http://linkedin.com/in/laviemaru
 header:
-  image: https://farm5.staticflickr.com/4140/4939863887_84705982fd_b.jpg
-  teaser: https://farm5.staticflickr.com/4140/4939863887_84705982fd_b.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: https://farm5.staticflickr.com/4140/4939863887_84705982fd_b.jpg
-    image_path: https://farm5.staticflickr.com/4140/4939863887_84705982fd_b.jpg
-    alt: "placeholder image 1"
-  - url: https://farm5.staticflickr.com/4140/4939863887_84705982fd_b.jpg
-    image_path: https://farm5.staticflickr.com/4140/4939863887_84705982fd_b.jpg
-    alt: "placeholder image 2"
-  - url: https://farm5.staticflickr.com/4140/4939863887_84705982fd_b.jpg
-    image_path: https://farm5.staticflickr.com/4140/4939863887_84705982fd_b.jpg
-    alt: "placeholder image 3"
+  image: https://fvcproductions.files.wordpress.com/2016/08/lavie.jpg?w=200&h=200
+  teaser: https://fvcproductions.files.wordpress.com/2016/08/lavie.jpg?w=200&h=200
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Frances has been a great help in the process of my web development journey. She showed me what a good web development environment is.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+One day, I accidentally went into one of Fullstack Academy‘s classes, other students had no idea with some of the things that Frances showed me. It definitely gave me a head start in my career in web development and helped me pick up things more efficiently throughout the process.
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+Furthermore, Frances’s broad knowledge in the web development field gave me a structured guideline in prepping for bootcamp applications. Her guidance has nourished me tremendously.
+
+I just got accepted to a bootcamp, and I start my full time web development bootcamp in 2 weeks, and I wouldn’t have gotten where I am without her.
+
+I know Frances will continue to inspire and help other future web developers succeed. I am forever thankful for Frances’s mentorship.

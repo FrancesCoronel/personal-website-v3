@@ -1,0 +1,5 @@
+{% if page.header.image contains "://" %}
+  {% capture img_path %}{{ page.header.image }}{% endcapture %}
+{% else %}
+  {% capture img_path %}{{ page.header.image | absolute_url }}{% endcapture %}
+{% endif %}

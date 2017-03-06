@@ -1,26 +1,34 @@
 <div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li>
-            <a class="navbar-brand" href="#">
-              <img src="assets/images/logo-white.svg" width="50" height="50" alt="FVCproductions">
-              </a>
-          </li>
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-            {% else %}
-              {% assign domain = site.url | append: site.baseurl %}
-            {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
+    <div class="masthead__inner-wrap">
+        <div class="masthead__menu">
+            <nav id="site-nav" class="greedy-nav">
+                <button>
+                    <div class="navicon"></div>
+                </button>
+                <ul class="visible-links">
+                    <li>
+                        <img class="navbar-brand" src="/assets/images/logo-white.svg" width="50" height="50" alt="FVCproductions">
+                    </li>
+                    <li class="masthead__menu-item masthead__menu-item--lg">
+                      <a href="{{ '/' | absolute_url }}">
+                        {{ site.title }}
+                      </a>
+                    </li>
+                    {% for link in site.data.navigation.main %}
+                      {% if link.url contains 'http' %}
+                        {% assign domain = '' %}
+                      {% else %}
+                        {% assign domain = site.url | append: site.baseurl %}
+                      {% endif %}
+                      <li class="masthead__menu-item">
+                        <a href="{{ domain }}{{ link.url }}">
+                          {{ link.title }}
+                        </a>
+                      </li>
+                    {% endfor %}
+                </ul>
+                <ul class="hidden-links hidden"></ul>
+            </nav>
+        </div>
     </div>
-  </div>
 </div>
