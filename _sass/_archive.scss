@@ -58,6 +58,9 @@
 .archive__item-teaser {
     border-radius: 0;
     overflow: hidden;
+    min-height: 200px;
+    max-height: 200px;
+    border: 2px solid black;
     img {
         width: 100%;
     }
@@ -111,9 +114,6 @@
     }
     @include breakpoint($small) {
         @include gallery(5 of 10);
-        .archive__item-teaser {
-            max-height: 200px;
-        }
     }
     @include breakpoint($medium) {
         margin-left: 0;
@@ -121,9 +121,6 @@
         margin-right: 0;
         /* reset before mixin does its thing*/
         @include gallery(2.5 of 10);
-        .archive__item-teaser {
-            min-height: 150px;
-        }
         .archive__item-excerpt {
             display: block;
             font-size: $type-size-6;

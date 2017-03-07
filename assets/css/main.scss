@@ -41,7 +41,11 @@ $susy: ( columns: 12, gutters: 1/4, math: fluid, output: float, gutter-position:
 @import "buttons";
 @import "notices";
 @import "masthead";
+@import "breadcrumbs";
+@import "pagination";
 @import "navigation";
+@import "navigation_list";
+@import "table_of_contents";
 @import "footer";
 @import "syntax";
 @import "forms";

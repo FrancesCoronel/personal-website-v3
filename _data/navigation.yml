@@ -15,7 +15,3 @@ main:
     url: /search/
   - title: "Categories"
     url: /categories/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/

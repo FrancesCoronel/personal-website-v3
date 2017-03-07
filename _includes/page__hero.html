@@ -45,9 +45,30 @@
       {% endif %}
     </div>
   {% else %}
-    <img src="{{ img_path }}" alt="{{ page.title }}" class="page__hero-image">
+
+    <div id="primary-header" style="background-image: url({{ img_path }});">
+        <div class="overlay"></div>
+        <div class="primary-hentry-inner">
+            <div class="container">
+            {% if page.title %}
+              {% if page.cta_url %}
+                <h1 class="entry-title" itemprop="headline">
+                  <a href="{{ page.cta_url }}" target="_blank">
+                    {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+                  </a>
+                </h1>
+              {% else %}
+                <h1 class="entry-title" itemprop="headline">
+                  {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+                </h1>
+              {% endif %}
+            {% endif %}
+            </div>
+        </div>
+    </div>
   {% endif %}
   {% if page.header.caption %}
     <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
   {% endif %}
 </div>
+

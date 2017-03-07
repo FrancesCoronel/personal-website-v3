@@ -3,7 +3,6 @@ permalink: /about/
 title: "About 👀"
 excerpt: "I like to dabble with things that ought to be dabbled with."
 modified: 2017-03-04
-breadcrumbs: false
 ---
 
 {% include base_path %}

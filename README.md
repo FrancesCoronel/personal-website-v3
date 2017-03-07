@@ -47,6 +47,7 @@ I also CodeKit 3 (`config.codekit3`) to handle compilation.
 - Search with Algolia
 - Comment integration with Disqus
 - Site and page views with Google Analytics
+- Use IFTTT to automatically publish new posts & portfolio items to Twitter & LinkedIn
 
 ## Usage
 
