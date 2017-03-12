@@ -1,6 +1,6 @@
 ---
 permalink: /privacy-policy/
-title: "Terms of Service and Privacy Policy"
+title: "Terms of Service and Privacy Policy 🔐"
 modified: 2016-06-06
 ---
 

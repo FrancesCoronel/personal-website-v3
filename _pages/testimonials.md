@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Testimonials"
+title: "Testimonials 💖"
 permalink: /testimonials/
 author_profile: false
 ---

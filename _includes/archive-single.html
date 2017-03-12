@@ -16,14 +16,10 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<div class="{{ include.type | default: "list" }}__item {% if page.permalink == '/blog/' %} blog__item {% endif %}">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
-<!--       <div class="archive__item-teaser">
-        <img class="img-fluid" src="{{ teaser }}" alt="{{ title }}">
-      </div> -->
-      <div class="archive__item-teaser" id="primary-header" style="background-image: url({{ teaser }});">
-      </div>
+      <div class="archive__item-teaser" id="primary-header" style="background-image: url({{ teaser }});"></div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}

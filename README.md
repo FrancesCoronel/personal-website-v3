@@ -10,6 +10,9 @@ My blog and portfolio all in one.
 
 - [Installation](#installation)
 - [Features](#features)
+    + [Form](#form)
+    + [Function](#function)
+    + [In Progress](#in-progress)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Credits](#credits)
@@ -29,7 +32,13 @@ If you aren't running the latest version:
 $ gem update jekyll
 ```
 
-I also CodeKit 3 (`config.codekit3`) to handle compilation.
+I use CodeKit 3 (`config.codekit3`) to handle compilation.
+
+For search integration with Algolia, I can either run the following command or set it up automatically using TravisCI.
+
+```shell
+ALGOLIA_API_KEY='API_KEY' bundle exec jekyll algolia push
+```
 
 ## Features
 
@@ -45,9 +54,14 @@ I also CodeKit 3 (`config.codekit3`) to handle compilation.
 ### Function
 
 - Search with Algolia
-- Comment integration with Disqus
+- Like & comment integration with Disqus
 - Site and page views with Google Analytics
 - Use IFTTT to automatically publish new posts & portfolio items to Twitter & LinkedIn
+
+### In Progress
+
+- making Algolia search work
+- making favicon bigger
 
 ## Usage
 

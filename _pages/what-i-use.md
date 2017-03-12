@@ -1,6 +1,7 @@
 ---
-title: "What I Use"
+title: "What I Use 📱"
 permalink: /what-i-use/
+author_profile: true
 ---
 
 <div class="entry-content">

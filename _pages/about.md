@@ -1,8 +1,9 @@
 ---
-permalink: /about/
 title: "About 👀"
+permalink: /about/
 excerpt: "I like to dabble with things that ought to be dabbled with."
 modified: 2017-03-04
+author_profile: true
 ---
 
 {% include base_path %}

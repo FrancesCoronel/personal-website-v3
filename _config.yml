@@ -48,7 +48,7 @@ social:
 analytics:
   provider               : "google"
   google:
-    tracking_id          : UA-63190978-1
+    tracking_id          : UA-63190978-3
 
 # Site Author
 author:
@@ -150,6 +150,16 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - algoliasearch-jekyll
+
+# Algolia
+algolia:
+  application_id: 'LE508NV48J'
+  index_name: 'jekyll'
+  read_only_api_key: 'd62499d6f6ac2e7850db91168db94083'
+  excluded_files:
+    - 404.html
+    - index.html
 
 # mimic GitHub Pages with --safe
 whitelist:

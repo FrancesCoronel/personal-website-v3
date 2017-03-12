@@ -15,6 +15,18 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/.jekyll-metadata": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.jekyll-metadata",
+		"oF": 0
+		},
+	"\/.travis.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.travis.yml",
+		"oF": 0
+		},
 	"\/_config.yml": {
 		"ft": 8192,
 		"oA": 1,
@@ -51,28 +63,28 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_includes\/analytics-providers\/custom.html": {
+	"\/_includes\/analytics\/analytics.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/_includes\/analytics-providers\/custom.html",
+		"oAP": "\/_includes\/analytics\/analytics.html",
 		"oF": 1
 		},
-	"\/_includes\/analytics-providers\/google-universal.html": {
+	"\/_includes\/analytics\/ga_data_fetch.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/_includes\/analytics-providers\/google-universal.html",
+		"oAP": "\/_includes\/analytics\/ga_data_fetch.html",
 		"oF": 1
 		},
-	"\/_includes\/analytics-providers\/google.html": {
+	"\/_includes\/analytics\/google.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/_includes\/analytics-providers\/google.html",
+		"oAP": "\/_includes\/analytics\/google.html",
 		"oF": 1
 		},
-	"\/_includes\/analytics.html": {
+	"\/_includes\/analytics\/search.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/_includes\/analytics.html",
+		"oAP": "\/_includes\/analytics\/search.html",
 		"oF": 1
 		},
 	"\/_includes\/archive-single.html": {
@@ -91,12 +103,6 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_includes\/base_path",
-		"oF": 1
-		},
-	"\/_includes\/breadcrumbs.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_includes\/breadcrumbs.html",
 		"oF": 1
 		},
 	"\/_includes\/browser-upgrade.html": {
@@ -135,16 +141,16 @@
 		"oAP": "\/_includes\/figure",
 		"oF": 1
 		},
-	"\/_includes\/footer-social.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/footer-social.html",
-		"oF": 0
-		},
-	"\/_includes\/footer.html": {
+	"\/_includes\/footer\/footer-social.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/_includes\/footer.html",
+		"oAP": "\/_includes\/footer\/footer-social.html",
+		"oF": 1
+		},
+	"\/_includes\/footer\/footer.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_includes\/footer\/footer.html",
 		"oF": 1
 		},
 	"\/_includes\/gallery": {
@@ -245,15 +251,9 @@
 		},
 	"\/_includes\/testimonials\/testimonial-single.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_includes\/testimonials\/testimonial-single.html",
-		"oF": 0
-		},
-	"\/_includes\/testimonials\/testimonial__hero.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/testimonials\/testimonial__hero.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_includes\/toc": {
 		"ft": 8192,
@@ -345,13 +345,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_pages\/adventures.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_pages\/adventures.html",
-		"oF": 1
-		},
-	"\/_pages\/archive-layout-with-content.md": {
+	"\/_pages\/adventures.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -360,8 +354,26 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/_pages\/archive-layout-with-content.html",
+		"oAP": "\/_pages\/adventures.html",
 		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pages\/awards.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_pages\/awards.html",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -371,21 +383,45 @@
 		},
 	"\/_pages\/blog.html": {
 		"ft": 8192,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/_pages\/blog.html",
-		"oF": 1
+		"oF": 0
 		},
-	"\/_pages\/category-archive.html": {
-		"ft": 8192,
+	"\/_pages\/category-archive.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/_pages\/category-archive.html",
-		"oF": 1
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
-	"\/_pages\/collection-archive.html": {
-		"ft": 8192,
+	"\/_pages\/contact.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/_pages\/collection-archive.html",
-		"oF": 1
+		"oAP": "\/_pages\/contact.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/_pages\/home.md": {
 		"cS": 0,
@@ -405,7 +441,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_pages\/lorem-ipsum.md": {
+	"\/_pages\/portfolio.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -413,57 +449,15 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_pages\/lorem-ipsum.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_pages\/page-a.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_pages\/page-a.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_pages\/page-b.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_pages\/page-b.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_pages\/portfolio.html": {
-		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_pages\/portfolio.html",
-		"oF": 1
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/_pages\/privacy-policy.md": {
 		"cS": 0,
@@ -483,11 +477,23 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_pages\/search.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_pages\/search.html",
-		"oF": 0
+	"\/_pages\/resume.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_pages\/resume.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/_pages\/search.md": {
 		"cS": 0,
@@ -497,9 +503,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_pages\/search.html",
-		"oF": 0,
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -507,11 +513,23 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_pages\/services.html": {
-		"ft": 8192,
-		"oA": 2,
+	"\/_pages\/services.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
 		"oAP": "\/_pages\/services.html",
-		"oF": 0
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/_pages\/splash-page.md": {
 		"cS": 0,
@@ -531,17 +549,77 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_pages\/tag-archive.html": {
-		"ft": 8192,
+	"\/_pages\/tag-archive.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/_pages\/tag-archive.html",
-		"oF": 1
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
-	"\/_pages\/testimonials.html": {
-		"ft": 8192,
-		"oA": 2,
+	"\/_pages\/testimonials.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
 		"oAP": "\/_pages\/testimonials.html",
-		"oF": 0
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pages\/travels.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_pages\/travels.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_pages\/what-i-use.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_pages\/what-i-use.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/_portfolio\/foo-bar-website.md": {
 		"cS": 0,
@@ -571,96 +649,6 @@
 		"ft": 4096,
 		"oA": 1,
 		"oAP": "\/_posts\/2008-06-01-middle-school-poems.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2009-05-15-edge-case-nested-and-mixed-lists.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2009-05-15-edge-case-nested-and-mixed-lists.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2009-06-01-edge-case-many-tags.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2009-06-01-edge-case-many-tags.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2009-07-02-edge-case-many-categories.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2009-07-02-edge-case-many-categories.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2009-08-06-edge-case-no-body-content.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2009-08-06-edge-case-no-body-content.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2009-09-05-edge-case-no-yaml-title.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_posts\/2009-09-05-edge-case-no-yaml-title.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1389,6 +1377,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_posts\/2013-01-01-test-post.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_posts\/2013-01-01-test-post.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/_posts\/2013-01-05-markup-title-with-markup.md": {
 		"cS": 0,
 		"eF": 1,
@@ -1626,6 +1632,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/_sass\/_breadcrumbs.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_breadcrumbs.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/_sass\/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1704,6 +1723,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/_sass\/_navigation_list.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_navigation_list.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/_sass\/_notices.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1726,6 +1758,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/css\/_page.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/_sass\/_pagination.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_pagination.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1791,6 +1836,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/css\/_syntax.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/_sass\/_table_of_contents.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_table_of_contents.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2822,7 +2880,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_services\/speaking.md": {
+	"\/_services\/freelancing.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -2830,9 +2888,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_services\/speaking.html",
-		"oF": 1,
+		"oA": 0,
+		"oAP": "\/_services\/freelancing.html",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -2840,16 +2898,34 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_services\/mentoring.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_services\/mentoring.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_services\/speaking.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_services\/speaking.html",
+		"oF": 0
+		},
 	"\/_site\/404\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/404\/index.html",
-		"oF": 0
-		},
-	"\/_site\/_pages\/search.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/_pages\/search.html",
 		"oF": 0
 		},
 	"\/_site\/about\/index.html": {
@@ -2862,12 +2938,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/adventures\/index.html",
-		"oF": 0
-		},
-	"\/_site\/archive-layout-with-content\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/archive-layout-with-content\/index.html",
 		"oF": 0
 		},
 	"\/_site\/assets\/css\/main.css": {
@@ -2998,6 +3068,16 @@
 		"oAP": "\/_site\/assets\/favicons\/favicon.ico",
 		"oF": 0
 		},
+	"\/_site\/assets\/images\/Algolia.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/images\/Algolia.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/_site\/assets\/images\/logo-black.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -3044,40 +3124,16 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/_site\/awards\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/awards\/index.html",
+		"oF": 0
+		},
 	"\/_site\/blog\/2008\/06\/01\/middle-school-poems\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/blog\/2008\/06\/01\/middle-school-poems\/index.html",
-		"oF": 0
-		},
-	"\/_site\/blog\/2009\/05\/15\/edge-case-nested-and-mixed-lists\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/blog\/2009\/05\/15\/edge-case-nested-and-mixed-lists\/index.html",
-		"oF": 0
-		},
-	"\/_site\/blog\/2009\/06\/01\/edge-case-many-tags\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/blog\/2009\/06\/01\/edge-case-many-tags\/index.html",
-		"oF": 0
-		},
-	"\/_site\/blog\/2009\/07\/02\/edge-case-many-categories\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/blog\/2009\/07\/02\/edge-case-many-categories\/index.html",
-		"oF": 0
-		},
-	"\/_site\/blog\/2009\/08\/06\/edge-case-no-body-content\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/blog\/2009\/08\/06\/edge-case-no-body-content\/index.html",
-		"oF": 0
-		},
-	"\/_site\/blog\/2009\/09\/05\/edge-case-no-yaml-title\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/blog\/2009\/09\/05\/edge-case-no-yaml-title\/index.html",
 		"oF": 0
 		},
 	"\/_site\/blog\/2009\/10\/05\/edge-case-title-should-not-overflow-the-content-area\/index.html": {
@@ -3314,6 +3370,12 @@
 		"oAP": "\/_site\/blog\/2012\/05\/22\/markup-text-readability\/index.html",
 		"oF": 0
 		},
+	"\/_site\/blog\/2013\/01\/01\/test-post\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/blog\/2013\/01\/01\/test-post\/index.html",
+		"oF": 0
+		},
 	"\/_site\/blog\/2013\/01\/05\/markup-title-with-markup\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -3392,21 +3454,11 @@
 		"oAP": "\/_site\/categories\/index.html",
 		"oF": 0
 		},
-	"\/_site\/collection-archive\/index.html": {
+	"\/_site\/contact\/index.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/collection-archive\/index.html",
+		"oAP": "\/_site\/contact\/index.html",
 		"oF": 0
-		},
-	"\/_site\/css\/testimonial.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/_site\/css\/testimonial-min.css",
-		"oF": 0,
-		"oS": 0
 		},
 	"\/_site\/feed.xml": {
 		"ft": 8192,
@@ -3414,22 +3466,16 @@
 		"oAP": "\/_site\/feed.xml",
 		"oF": 0
 		},
+	"\/_site\/home\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/home\/index.html",
+		"oF": 0
+		},
 	"\/_site\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/index.html",
-		"oF": 0
-		},
-	"\/_site\/lorem-ipsum\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/lorem-ipsum\/index.html",
-		"oF": 0
-		},
-	"\/_site\/page-a\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/page-a\/index.html",
 		"oF": 0
 		},
 	"\/_site\/page10\/index.html": {
@@ -3510,6 +3556,12 @@
 		"oAP": "\/_site\/privacy-policy\/index.html",
 		"oF": 0
 		},
+	"\/_site\/resume\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/resume\/index.html",
+		"oF": 0
+		},
 	"\/_site\/robots.txt": {
 		"ft": 8192,
 		"oA": 2,
@@ -3522,10 +3574,22 @@
 		"oAP": "\/_site\/search\/index.html",
 		"oF": 0
 		},
+	"\/_site\/services\/freelancing\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/services\/freelancing\/index.html",
+		"oF": 0
+		},
 	"\/_site\/services\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/services\/index.html",
+		"oF": 0
+		},
+	"\/_site\/services\/mentoring\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/services\/mentoring\/index.html",
 		"oF": 0
 		},
 	"\/_site\/services\/speaking\/index.html": {
@@ -3624,11 +3688,35 @@
 		"oAP": "\/_site\/testimonials\/wen-tran\/index.html",
 		"oF": 0
 		},
+	"\/_site\/travels\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/travels\/index.html",
+		"oF": 0
+		},
 	"\/_site\/what-i-use\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_site\/what-i-use\/index.html",
 		"oF": 0
+		},
+	"\/_talks\/2016-05-25-free-code-camp.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_talks\/2016-05-25-free-code-camp.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/_testimonials\/ai-choo-ashe.md": {
 		"cS": 0,
@@ -3835,9 +3923,9 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/assets\/css\/main.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3959,6 +4047,16 @@
 		"oAP": "\/assets\/favicons\/favicon.ico",
 		"oF": 0
 		},
+	"\/assets\/images\/Algolia.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/images\/Algolia.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/assets\/images\/logo-black.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -4005,6 +4103,24 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/assets\/js\/plugins\/algolia.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/js\/plugins\/min\/algolia-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/assets\/js\/plugins\/behance.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/js\/plugins\/min\/behance-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/assets\/js\/plugins\/fitvids.js": {
 		"ft": 64,
 		"mi": 1,
@@ -4019,6 +4135,15 @@
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/assets\/js\/plugins\/min\/greedy-navigation-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/assets\/js\/plugins\/iframes.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/js\/plugins\/min\/iframes-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4050,15 +4175,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/js\/vendor\/jquery-3.1.1.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/vendor\/min\/jquery-3.1.1.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/build\/.gitignore": {
 		"ft": 8192,
 		"oA": 2,
@@ -4070,26 +4186,6 @@
 		"oA": 2,
 		"oAP": "\/build\/build\/node_modules",
 		"oF": 0
-		},
-	"\/css\/_testimonial.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/css\/_testimonial-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/css\/testimonial.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/css\/testimonial-min.css",
-		"oF": 0,
-		"oS": 0
 		},
 	"\/Gemfile": {
 		"ft": 8192,
@@ -4152,38 +4248,50 @@
 	"\/assets\/js\/main.js": [
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/vendor\/jquery-3.1.1.min.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/fitvids.js",
 			"position": 0,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/fitvids.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/greedy-navigation.js",
 			"position": 1,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/greedy-navigation.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/jquery.magnific-popup.js",
 			"position": 2,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/jquery.magnific-popup.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/jquery.smooth-scroll.min.js",
 			"position": 3,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/jquery.smooth-scroll.min.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/stickyfill.js",
 			"position": 4,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/stickyfill.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/behance.js",
 			"position": 5,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/algolia.js",
+			"position": 6,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/iframes.js",
+			"position": 7,
 			"type": 0
 			}
 		]
@@ -4192,11 +4300,11 @@
 	"creationDate": 506321634,
 	"displayValue": "GitHub Page",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-hart"
+	"iconImageName": "meme-doge"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 0,
+	"alwaysUseExternalServer": 1,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
@@ -5518,7 +5626,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http:\/\/localhost:4000",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",

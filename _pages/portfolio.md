@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Portfolio 💼"
 permalink: /portfolio/
 author_profile: false
 ---
@@ -13,5 +13,5 @@ author_profile: false
   {% endfor %}
 </div>
 
-<div class="grid__wrapper behance_projects">
-</div>
+<!-- <div class="grid__wrapper behance_projects">
+</div> -->

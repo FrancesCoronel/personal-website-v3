@@ -11,7 +11,17 @@ main:
     url: /testimonials/
   - title: "About 👀"
     url: /about/
+  - title: "Awards 🏆"
+    url: /awards/
+  - title: "Contact 📨"
+    url : /contact/
+  - title: "Resume 📄"
+    url : /resume/
   - title: "Search 🔍"
     url: /search/
-  - title: "Categories"
-    url: /categories/
+  - title: "Travels 🌎"
+    url: /travels/
+  - title: "What I Use 📱"
+    url : /what-i-use/
+  - title: "Privacy Policy 🔐"
+    url: "/privacy-policy/"

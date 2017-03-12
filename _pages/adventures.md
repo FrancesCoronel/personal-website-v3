@@ -1,14 +1,13 @@
 ---
-layout: archive
-title: "Services"
-permalink: /services/
-author_profile: false
+title: "Adventures ✈"
+permalink: /adventures/
+excerpt: "Everyday is an adventure."
 ---
 
 {% include base_path %}
 
 <div class="grid__wrapper">
-  {% for post in site.services %}
+  {% for post in site.adventures %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>

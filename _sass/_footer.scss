@@ -17,7 +17,7 @@
     bottom: 0;
     width: 100%;
     /* Set the fixed height of the footer here */
-    height: 200px;
+    // height: 200px;
     /* end sticky footer fix */
     footer {
         @include container;
@@ -69,4 +69,9 @@
         padding-right: 10px;
         font-weight: bold;
     }
+}
+
+.col-6 {
+    width: span(6);
+    display: inline-block;
 }
