@@ -1,13 +1,13 @@
-/* ==========================================================================
-   ARCHIVE
-   ========================================================================== */
-
 .archive {
     margin-bottom: 2em;
     a {
         color: inherit;
         text-decoration: none;
     }
+}
+
+.archive__item {
+    border: solid 2px $primary-color;
 }
 
 .archive__subtitle {
@@ -24,13 +24,14 @@
 .archive__item-title {
     margin-bottom: 0.25em;
     font-family: $sans-serif-narrow;
+    padding: .5em 1em .5em 1em;
+    a:hover {
+        text-decoration: none;
+    }
     a + a {
         opacity: 0.5;
     }
 }
-
-
-/* remove border*/
 
 .page__content {
     .archive__item-title {
@@ -43,8 +44,12 @@
     margin-top: 0;
     font-size: $type-size-6;
     font-family: $sans-serif;
+    padding: 0 1em 0 1.4em;
     & + p {
         text-indent: 0;
+    }
+    &.project-date {
+        font-family: $monospace;
     }
 }
 
@@ -53,18 +58,65 @@
     overflow: hidden;
     min-height: 200px;
     max-height: 200px;
-    border: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
     img {
         width: 100%;
     }
 }
 
-.archive__item:hover {
-    .archive__item-teaser {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+/** Portfolio Customizations */
+
+.archive__item.behance-project {
+    border-color: $behance-color !important;
+    .archive__item-title a:hover {
+        color: $behance-color !important;
     }
-    .archive__item-title {
-        text-decoration: underline;
+    .project-header {
+        color: $behance-color !important;
+    }
+    .archive__item-teaser {
+        border-top: 2px solid $behance-color;
+        border-bottom: 2px solid $behance-color;
+    }
+}
+
+.archive__item.github-repo {
+    border-color: $github-color !important;
+    .archive__item-title a:hover {
+        color: $github-color !important;
+    }
+    .project-header {
+        color: $github-color !important;
+    }
+    .archive__item-teaser {
+        border-top: 2px solid $github-color;
+        border-bottom: 2px solid $github-color;
+    }
+}
+
+.archive__item.youtube-video {
+    border-color: $youtube-color !important;
+    .archive__item-title a:hover {
+        color: $youtube-color !important;
+    }
+    .project-header {
+        color: $youtube-color !important;
+    }
+    .archive__item-teaser {
+        border-top: 2px solid $youtube-color;
+        border-bottom: 2px solid $youtube-color;
+    }
+}
+
+
+.archive__item .project-header {
+    text-align: center;
+    h3 {
+        margin-top: 1em;
+    }
+    .fa {
+        padding-right: .5em;
     }
 }
 
@@ -91,6 +143,7 @@
 .blog__item {
     padding-right: 0;
 }
+
 
 /*
    Grid view

@@ -12,6 +12,7 @@ body {
     padding: 8em 0 0 0;
     color: $text-color;
     font-family: $global-font-family;
+    font-weight: 300;
     line-height: 1.5;
     /* Margin bottom by footer height */
     margin-bottom: 250px;
@@ -30,7 +31,7 @@ h6 {
     margin: 2em 0 1em;
     line-height: 1.2;
     font-family: $header-font-family;
-    font-weight: bold;
+    font-weight: 400;
 }
 
 h1 {
@@ -131,12 +132,14 @@ a {
     &:focus {
         @extend %tab-focus;
     }
+    &:hover {
+        cursor: -webkit-image-set(url(https://hovastate.s3.amazonaws.com/hova.png) 1x, url(https://hovastate.s3.amazonaws.com/hova.2x.png) 2x) 24 1, default;
+    }
     &:hover,
     &:active {
         outline: 0;
     }
 }
-
 
 /* code */
 

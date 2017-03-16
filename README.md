@@ -26,6 +26,12 @@ $ bundle install
 $ bundle exec jekyll serve
 ```
 
+For faster rendering...
+
+```shell
+$ bundle exec jekyll serve --watch --limit_posts 1
+```
+
 If you aren't running the latest version:
 
 ```shell
@@ -86,3 +92,4 @@ Or just [create an issue](https://github.com/fvcproductions/fvcproductions.githu
 ## Credits
 
 - [FVCproductions](http://fvcproductions.com) 🍓🍫
+- [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes)

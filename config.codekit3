@@ -15,12 +15,6 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
-	"\/.jekyll-metadata": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/.jekyll-metadata",
-		"oF": 0
-		},
 	"\/.travis.yml": {
 		"ft": 8192,
 		"oA": 2,
@@ -371,9 +365,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_pages\/awards.html",
-		"oF": 0,
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -383,9 +377,9 @@
 		},
 	"\/_pages\/blog.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_pages\/blog.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_pages\/category-archive.md": {
 		"cS": 0,
@@ -1658,6 +1652,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/_sass\/_fonts.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/css\/_fonts.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/_sass\/_footer.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -2924,21 +2931,332 @@
 		},
 	"\/_site\/404\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/404\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/about\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/about\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/adventures\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/adventures\/index.html",
-		"oF": 0
+		"oF": 1
+		},
+	"\/_site\/assets\/css\/font-awesome\/css\/font-awesome.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/font-awesome-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/css\/font-awesome.min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/font-awesome.min-min.css",
+		"oF": 1,
+		"oS": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.eot": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.eot",
+		"oF": 1
+		},
+	"\/_site\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.svg",
+		"oF": 1,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.woff": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.woff",
+		"oF": 1
+		},
+	"\/_site\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.woff2": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.woff2",
+		"oF": 1
+		},
+	"\/_site\/assets\/css\/font-awesome\/fonts\/FontAwesome.otf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/fonts\/FontAwesome.otf",
+		"oF": 1
+		},
+	"\/_site\/assets\/css\/font-awesome\/less\/animated.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/animated.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/less\/bordered-pulled.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/bordered-pulled.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/less\/core.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/core.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/less\/fixed-width.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/fixed-width.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/less\/font-awesome.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/font-awesome.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/less\/icons.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/icons.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/less\/larger.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/larger.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/less\/list.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/list.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/less\/mixins.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/mixins.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/less\/path.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/path.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/less\/rotated-flipped.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/rotated-flipped.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/less\/screen-reader.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/screen-reader.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/less\/stacked.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/stacked.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/less\/variables.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/variables.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/_site\/assets\/css\/font-awesome\/scss\/font-awesome.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/css\/font-awesome\/css\/font-awesome.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/_site\/assets\/css\/main.css": {
 		"aP": 0,
@@ -2953,127 +3271,271 @@
 	"\/_site\/assets\/favicons\/favicon-114.png": {
 		"ft": 32768,
 		"iS": 2260,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/favicons\/favicon-114.png",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0
 		},
 	"\/_site\/assets\/favicons\/favicon-120.png": {
 		"ft": 32768,
 		"iS": 1393,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/favicons\/favicon-120.png",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0
 		},
 	"\/_site\/assets\/favicons\/favicon-144.png": {
 		"ft": 32768,
 		"iS": 3007,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/favicons\/favicon-144.png",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0
 		},
 	"\/_site\/assets\/favicons\/favicon-152.png": {
 		"ft": 32768,
 		"iS": 3128,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/favicons\/favicon-152.png",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0
 		},
 	"\/_site\/assets\/favicons\/favicon-180.png": {
 		"ft": 32768,
 		"iS": 2138,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/favicons\/favicon-180.png",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0
 		},
 	"\/_site\/assets\/favicons\/favicon-192.png": {
 		"ft": 32768,
 		"iS": 4285,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/favicons\/favicon-192.png",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0
 		},
 	"\/_site\/assets\/favicons\/favicon-32.png": {
 		"ft": 32768,
 		"iS": 572,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/favicons\/favicon-32.png",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0
 		},
 	"\/_site\/assets\/favicons\/favicon-36.png": {
 		"ft": 32768,
 		"iS": 638,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/favicons\/favicon-36.png",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0
 		},
 	"\/_site\/assets\/favicons\/favicon-48.png": {
 		"ft": 32768,
 		"iS": 829,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/favicons\/favicon-48.png",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0
 		},
 	"\/_site\/assets\/favicons\/favicon-57.png": {
 		"ft": 32768,
 		"iS": 1017,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/favicons\/favicon-57.png",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0
 		},
 	"\/_site\/assets\/favicons\/favicon-60.png": {
 		"ft": 32768,
 		"iS": 700,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/favicons\/favicon-60.png",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0
 		},
 	"\/_site\/assets\/favicons\/favicon-72.png": {
 		"ft": 32768,
 		"iS": 1329,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/favicons\/favicon-72.png",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0
 		},
 	"\/_site\/assets\/favicons\/favicon-76.png": {
 		"ft": 32768,
 		"iS": 1415,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/favicons\/favicon-76.png",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0
 		},
 	"\/_site\/assets\/favicons\/favicon-96.png": {
 		"ft": 32768,
 		"iS": 1133,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/favicons\/favicon-96.png",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0
 		},
 	"\/_site\/assets\/favicons\/favicon.ico": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/favicons\/favicon.ico",
-		"oF": 0
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto\/LICENSE.txt": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto\/LICENSE.txt",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto\/Roboto-Black.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto\/Roboto-Black.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto\/Roboto-BlackItalic.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto\/Roboto-BlackItalic.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto\/Roboto-Bold.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto\/Roboto-Bold.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto\/Roboto-BoldItalic.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto\/Roboto-BoldItalic.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto\/Roboto-Italic.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto\/Roboto-Italic.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto\/Roboto-Light.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto\/Roboto-Light.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto\/Roboto-LightItalic.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto\/Roboto-LightItalic.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto\/Roboto-Medium.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto\/Roboto-Medium.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto\/Roboto-MediumItalic.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto\/Roboto-MediumItalic.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto\/Roboto-Regular.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto\/Roboto-Regular.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto\/Roboto-Thin.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto\/Roboto-Thin.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto\/Roboto-ThinItalic.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto\/Roboto-ThinItalic.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto_Mono\/LICENSE.txt": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto_Mono\/LICENSE.txt",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-Bold.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-Bold.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-BoldItalic.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-BoldItalic.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-Italic.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-Italic.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-Light.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-Light.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-LightItalic.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-LightItalic.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-Medium.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-Medium.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-MediumItalic.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-MediumItalic.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-Regular.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-Regular.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-Thin.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-Thin.ttf",
+		"oF": 1
+		},
+	"\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-ThinItalic.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/fonts\/Roboto_Mono\/RobotoMono-ThinItalic.ttf",
+		"oF": 1
 		},
 	"\/_site\/assets\/images\/Algolia.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/images\/Algolia.svg",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
@@ -3081,9 +3543,9 @@
 	"\/_site\/assets\/images\/logo-black.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/images\/logo-black.svg",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
@@ -3091,9 +3553,9 @@
 	"\/_site\/assets\/images\/logo-white.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/images\/logo-white.svg",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
@@ -3101,9 +3563,9 @@
 	"\/_site\/assets\/images\/teaser.png": {
 		"ft": 32768,
 		"iS": 25395,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_site\/assets\/images\/teaser.png",
-		"oF": 0,
+		"oF": 1,
 		"opt": 0
 		},
 	"\/_site\/assets\/js\/main.js": {
@@ -3126,579 +3588,579 @@
 		},
 	"\/_site\/awards\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/awards\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2008\/06\/01\/middle-school-poems\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2008\/06\/01\/middle-school-poems\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2009\/10\/05\/edge-case-title-should-not-overflow-the-content-area\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2009\/10\/05\/edge-case-title-should-not-overflow-the-content-area\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2009\/10\/05\/edge-case-very-long-title\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2009\/10\/05\/edge-case-very-long-title\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2010\/01\/07\/post-modified\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2010\/01\/07\/post-modified\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2010\/01\/07\/post-standard\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2010\/01\/07\/post-standard\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2010\/01\/08\/post-chat\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2010\/01\/08\/post-chat\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2010\/02\/05\/post-notice\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2010\/02\/05\/post-notice\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2010\/02\/05\/post-quote\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2010\/02\/05\/post-quote\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2010\/03\/07\/post-link\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2010\/03\/07\/post-link\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2010\/06\/02\/post-video-youtube\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2010\/06\/02\/post-video-youtube\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2010\/08\/05\/post-image-linked\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2010\/08\/05\/post-image-linked\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2010\/08\/05\/post-image-standard\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2010\/08\/05\/post-image-standard\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2010\/08\/06\/post-image-linked-caption\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2010\/08\/06\/post-image-linked-caption\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2010\/08\/07\/post-image-caption\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2010\/08\/07\/post-image-caption\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2010\/09\/09\/post-gallery\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2010\/09\/09\/post-gallery\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2010\/09\/10\/post-twitter-embeds\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2010\/09\/10\/post-twitter-embeds\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/01\/02\/layout-comments-disabled\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/01\/02\/layout-comments-disabled\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/01\/02\/layout-comments\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/01\/02\/layout-comments\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/01\/02\/layout-read-time-disabled\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/01\/02\/layout-read-time-disabled\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/01\/02\/layout-read-time\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/01\/02\/layout-read-time\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/01\/02\/layout-related-posts-disabled\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/01\/02\/layout-related-posts-disabled\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/01\/02\/layout-related-posts\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/01\/02\/layout-related-posts\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/01\/02\/layout-sharing-disabled\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/01\/02\/layout-sharing-disabled\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/01\/02\/layout-sharing\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/01\/02\/layout-sharing\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/01\/03\/layout-read-time-comments-sharing-related-posts-disabled\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/01\/03\/layout-read-time-comments-sharing-related-posts-disabled\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/01\/03\/layout-table-of-contents-post\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/01\/03\/layout-table-of-contents-post\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/03\/14\/layout-code-excerpt-generated\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/03\/14\/layout-code-excerpt-generated\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/03\/14\/layout-excerpt-defined\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/03\/14\/layout-excerpt-defined\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/03\/14\/layout-excerpt-generated\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/03\/14\/layout-excerpt-generated\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/03\/15\/layout-author-override\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-author-override\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/03\/15\/layout-author-sidebar-disabled\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-author-sidebar-disabled\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/03\/15\/layout-header-image-external\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-header-image-external\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/03\/15\/layout-header-image-horizontal\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-header-image-horizontal\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/03\/15\/layout-header-image-text-readability\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-header-image-text-readability\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/03\/15\/layout-header-image-vertical\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-header-image-vertical\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/03\/15\/layout-header-overlay-color\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-header-overlay-color\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/03\/15\/layout-header-overlay-image\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-header-overlay-image\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/03\/15\/layout-more-tag\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-more-tag\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/03\/15\/layout-sidebar-custom\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/03\/15\/layout-sidebar-custom\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2012\/05\/22\/markup-text-readability\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2012\/05\/22\/markup-text-readability\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2013\/01\/01\/test-post\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2013\/01\/01\/test-post\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2013\/01\/05\/markup-title-with-markup\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2013\/01\/05\/markup-title-with-markup\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2013\/01\/05\/markup-title-with-special-characters\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2013\/01\/05\/markup-title-with-special-characters\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2013\/01\/09\/markup-text-alignment\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2013\/01\/09\/markup-text-alignment\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2013\/01\/10\/markup-image-alignment\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2013\/01\/10\/markup-image-alignment\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2013\/01\/11\/markup-html-tags-and-formatting\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2013\/01\/11\/markup-html-tags-and-formatting\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2013\/05\/22\/markup-more-images\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2013\/05\/22\/markup-more-images\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2013\/08\/16\/markup-syntax-highlighting\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2013\/08\/16\/markup-syntax-highlighting\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2016\/02\/24\/welcome-to-jekyll\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2016\/02\/24\/welcome-to-jekyll\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2016\/09\/21\/gemified-theme-alpha\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2016\/09\/21\/gemified-theme-alpha\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/2016\/10\/06\/gemified-theme-beta\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/2016\/10\/06\/gemified-theme-beta\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/blog\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/blog\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/build\/node_modules": {
 		"ft": 65536,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/build\/_site\/build\/node_modules",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/categories\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/categories\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/contact\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/contact\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/feed.xml": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/feed.xml",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/home\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/home\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/page10\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/page10\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/page11\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/page11\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/page2\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/page2\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/page3\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/page3\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/page4\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/page4\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/page5\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/page5\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/page6\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/page6\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/page7\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/page7\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/page8\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/page8\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/page9\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/page9\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/portfolio\/foo-bar-website\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/portfolio\/foo-bar-website\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/portfolio\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/portfolio\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/privacy-policy\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/privacy-policy\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/resume\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/resume\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/robots.txt": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/robots.txt",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/search\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/search\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/services\/freelancing\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/services\/freelancing\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/services\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/services\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/services\/mentoring\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/services\/mentoring\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/services\/speaking\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/services\/speaking\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/sitemap.xml": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/sitemap.xml",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/splash-page\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/splash-page\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/tags\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/tags\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/testimonials\/ai-choo-ashe\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/testimonials\/ai-choo-ashe\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/testimonials\/alex-bradshaw\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/testimonials\/alex-bradshaw\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/testimonials\/andre-smith\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/testimonials\/andre-smith\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/testimonials\/angel-riera\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/testimonials\/angel-riera\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/testimonials\/franklin-lee\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/testimonials\/franklin-lee\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/testimonials\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/testimonials\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/testimonials\/kelli-white\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/testimonials\/kelli-white\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/testimonials\/kimberly-logsdon\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/testimonials\/kimberly-logsdon\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/testimonials\/lavie-ruan\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/testimonials\/lavie-ruan\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/testimonials\/mike-jonas\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/testimonials\/mike-jonas\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/testimonials\/pak-chu\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/testimonials\/pak-chu\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/testimonials\/wen-tran\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/testimonials\/wen-tran\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/travels\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/travels\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_site\/what-i-use\/index.html": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/_site\/what-i-use\/index.html",
-		"oF": 0
+		"oF": 1
 		},
 	"\/_talks\/2016-05-25-free-code-camp.md": {
 		"cS": 0,
@@ -3916,6 +4378,486 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/assets\/css\/font-awesome\/css\/font-awesome.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/assets\/css\/font-awesome\/css\/font-awesome-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/css\/font-awesome\/css\/font-awesome.min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/font-awesome.min-min.css",
+		"oF": 1,
+		"oS": 0
+		},
+	"\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.eot": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.eot",
+		"oF": 1
+		},
+	"\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.svg",
+		"oF": 1,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.ttf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.ttf",
+		"oF": 1
+		},
+	"\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.woff": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.woff",
+		"oF": 1
+		},
+	"\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.woff2": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/fonts\/fontawesome-webfont.woff2",
+		"oF": 1
+		},
+	"\/assets\/css\/font-awesome\/fonts\/FontAwesome.otf": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/fonts\/FontAwesome.otf",
+		"oF": 1
+		},
+	"\/assets\/css\/font-awesome\/less\/animated.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/animated.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/assets\/css\/font-awesome\/less\/bordered-pulled.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/bordered-pulled.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/assets\/css\/font-awesome\/less\/core.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/core.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/assets\/css\/font-awesome\/less\/fixed-width.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/fixed-width.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/assets\/css\/font-awesome\/less\/font-awesome.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/font-awesome.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/assets\/css\/font-awesome\/less\/icons.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/icons.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/assets\/css\/font-awesome\/less\/larger.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/larger.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/assets\/css\/font-awesome\/less\/list.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/list.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/assets\/css\/font-awesome\/less\/mixins.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/mixins.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/assets\/css\/font-awesome\/less\/path.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/path.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/assets\/css\/font-awesome\/less\/rotated-flipped.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/rotated-flipped.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/assets\/css\/font-awesome\/less\/screen-reader.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/screen-reader.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/assets\/css\/font-awesome\/less\/stacked.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/stacked.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/assets\/css\/font-awesome\/less\/variables.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/variables.css",
+		"oF": 1,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/assets\/css\/font-awesome\/scss\/_animated.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/_animated.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/css\/font-awesome\/scss\/_bordered-pulled.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/_bordered-pulled.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/css\/font-awesome\/scss\/_core.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/_core.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/css\/font-awesome\/scss\/_fixed-width.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/_fixed-width.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/css\/font-awesome\/scss\/_icons.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/_icons.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/css\/font-awesome\/scss\/_larger.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/_larger.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/css\/font-awesome\/scss\/_list.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/_list.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/css\/font-awesome\/scss\/_mixins.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/_mixins.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/css\/font-awesome\/scss\/_path.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/_path.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/css\/font-awesome\/scss\/_rotated-flipped.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/_rotated-flipped.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/css\/font-awesome\/scss\/_screen-reader.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/_screen-reader.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/css\/font-awesome\/scss\/_stacked.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/_stacked.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/css\/font-awesome\/scss\/_variables.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/_variables.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/css\/font-awesome\/scss\/font-awesome.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/font-awesome\/css\/font-awesome.css",
+		"oF": 1,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/assets\/css\/main.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -4047,6 +4989,150 @@
 		"oAP": "\/assets\/favicons\/favicon.ico",
 		"oF": 0
 		},
+	"\/assets\/fonts\/Roboto\/LICENSE.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto\/LICENSE.txt",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto\/Roboto-Black.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto\/Roboto-Black.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto\/Roboto-BlackItalic.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto\/Roboto-BlackItalic.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto\/Roboto-Bold.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto\/Roboto-Bold.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto\/Roboto-BoldItalic.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto\/Roboto-BoldItalic.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto\/Roboto-Italic.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto\/Roboto-Italic.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto\/Roboto-Light.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto\/Roboto-Light.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto\/Roboto-LightItalic.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto\/Roboto-LightItalic.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto\/Roboto-Medium.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto\/Roboto-Medium.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto\/Roboto-MediumItalic.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto\/Roboto-MediumItalic.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto\/Roboto-Regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto\/Roboto-Regular.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto\/Roboto-Thin.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto\/Roboto-Thin.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto\/Roboto-ThinItalic.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto\/Roboto-ThinItalic.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto_Mono\/LICENSE.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto_Mono\/LICENSE.txt",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto_Mono\/RobotoMono-Bold.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto_Mono\/RobotoMono-Bold.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto_Mono\/RobotoMono-BoldItalic.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto_Mono\/RobotoMono-BoldItalic.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto_Mono\/RobotoMono-Italic.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto_Mono\/RobotoMono-Italic.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto_Mono\/RobotoMono-Light.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto_Mono\/RobotoMono-Light.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto_Mono\/RobotoMono-LightItalic.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto_Mono\/RobotoMono-LightItalic.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto_Mono\/RobotoMono-Medium.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto_Mono\/RobotoMono-Medium.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto_Mono\/RobotoMono-MediumItalic.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto_Mono\/RobotoMono-MediumItalic.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto_Mono\/RobotoMono-Regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto_Mono\/RobotoMono-Regular.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto_Mono\/RobotoMono-Thin.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto_Mono\/RobotoMono-Thin.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Roboto_Mono\/RobotoMono-ThinItalic.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/Roboto_Mono\/RobotoMono-ThinItalic.ttf",
+		"oF": 0
+		},
 	"\/assets\/images\/Algolia.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -4148,20 +5234,20 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/js\/plugins\/jquery.magnific-popup.js": {
+	"\/assets\/js\/plugins\/magnific-popup.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/min\/jquery.magnific-popup-min.js",
+		"oAP": "\/assets\/js\/plugins\/min\/magnific-popup-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/js\/plugins\/jquery.smooth-scroll.min.js": {
+	"\/assets\/js\/plugins\/smooth-scroll.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/min\/jquery.smooth-scroll.min-min.js",
+		"oAP": "\/assets\/js\/plugins\/min\/smooth-scroll-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -4260,13 +5346,13 @@
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/jquery.magnific-popup.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/magnific-popup.js",
 			"position": 2,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/jquery.smooth-scroll.min.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/smooth-scroll.js",
 			"position": 3,
 			"type": 0
 			},

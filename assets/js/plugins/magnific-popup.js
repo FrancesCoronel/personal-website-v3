@@ -962,15 +962,11 @@ $.fn.magnificPopup = function(options) {
 var start = performance.now(),
 	i,
 	rounds = 1000;
-
 for(i = 0; i < rounds; i++) {
-
 }
 console.log('Test #1:', performance.now() - start);
-
 start = performance.now();
 for(i = 0; i < rounds; i++) {
-
 }
 console.log('Test #2:', performance.now() - start);
 */
@@ -1543,9 +1539,7 @@ $.magnificPopup.registerModule('zoom', {
 
 
 			/*
-
 			Animating left + top + width/height looks glitchy in Firefox, but perfect in Chrome. And vice-versa.
-
 			 */
 			var obj = {
 				width: el.width(),
@@ -1859,14 +1853,11 @@ $.magnificPopup.registerModule('gallery', {
 
 /*
 Touch Support that might be implemented some day
-
 addSwipeGesture: function() {
 	var startX,
 		moved,
 		multipleTouches;
-
 		return;
-
 	var namespace = '.mfp',
 		addEventNames = function(pref, down, move, up, cancel) {
 			mfp._tStart = pref + down + namespace;
@@ -1874,7 +1865,6 @@ addSwipeGesture: function() {
 			mfp._tEnd = pref + up + namespace;
 			mfp._tCancel = pref + cancel + namespace;
 		};
-
 	if(window.navigator.msPointerEnabled) {
 		addEventNames('MSPointer', 'Down', 'Move', 'Up', 'Cancel');
 	} else if('ontouchstart' in window) {
@@ -1897,7 +1887,6 @@ addSwipeGesture: function() {
 		if(moved && !multipleTouches) {
 			var oE = e.originalEvent,
 				diff = startX - (oE.pageX || oE.changedTouches[0].pageX);
-
 			if(diff > 20) {
 				mfp.next();
 			} else if(diff < -20) {

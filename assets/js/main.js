@@ -4,6 +4,19 @@
 
 $(document).ready(function() {
 
+    var title = document.title;
+    var alttitle = "Whatcha up to? 👀";
+    // window.onblur = function() { document.title = alttitle; };
+    // window.onfocus = function() { document.title = title; console.log("hello"); };
+
+    $(window).blur(function() {
+        document.title = alttitle;
+    });
+
+    $(window).onfocus(function() {
+      document.title = title;
+    });
+
     // FitVids init
     $("#main").fitVids();
 

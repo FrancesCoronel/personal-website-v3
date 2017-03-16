@@ -59,7 +59,7 @@ body:hover .visually-hidden button {
     font-size: 1em;
     font-weight: bold;
     padding: 15px 23px 14px;
-    background: $background-color;
+    background: #fff;
     z-index: 100000;
     text-decoration: none;
     box-shadow: 0 0 2px 2px rgba(0, 0, 0, .6);
@@ -285,7 +285,7 @@ body:hover .visually-hidden button {
     position: relative;
     width: $navicon-width;
     height: $navicon-height;
-    background: $background-color;
+    background: #fff;
     margin: auto;
     -webkit-transition: 0.3s;
     transition: 0.3s;
@@ -296,7 +296,7 @@ body:hover .visually-hidden button {
         left: 0;
         width: $navicon-width;
         height: $navicon-height;
-        background: $background-color;
+        background: #fff;
         -webkit-transition: 0.3s;
         transition: 0.3s;
     }
@@ -331,7 +331,6 @@ body:hover .visually-hidden button {
     }
 }
 
-
 /*
    Sticky, fixed to top content
    ========================================================================== */
@@ -341,7 +340,7 @@ body:hover .visually-hidden button {
         @include clearfix();
         position: -webkit-sticky;
         position: sticky;
-        top: 3em;
+        top: 2em;
         > * {
             display: block;
         }
@@ -396,7 +395,7 @@ body:hover .visually-hidden button {
     margin-top: -150px;
     min-height: 0;
     z-index: 9999;
-    background: $background-color;
+    background: #fff;
     border: 1px solid $border-color;
     border-radius: $border-radius;
     box-shadow: $box-shadow;
@@ -419,12 +418,12 @@ body:hover .visually-hidden button {
    ========================================================================== */
 
 .footnote {
-    color: mix($background-color, $gray, 25%);
+    color: mix(#fff, $gray, 25%);
     text-decoration: none;
 }
 
 .footnotes {
-    color: mix($background-color, $gray, 25%);
+    color: mix(#fff, $gray, 25%);
     ol,
     li,
     p {
