@@ -13,5 +13,7 @@ author_profile: false
   {% endfor %}
 </div>
 
-<!-- <div class="grid__wrapper behance_projects">
+<!-- <h3>Behance Projects</h3>
+
+<div class="grid__wrapper behance_projects">
 </div> -->

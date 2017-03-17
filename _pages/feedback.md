@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Testimonials 💖"
-permalink: /testimonials/
+title: "Feedback 💖"
+permalink: /feedback/
 author_profile: false
 ---
 

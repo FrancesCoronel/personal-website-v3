@@ -2,44 +2,16 @@
 title: "What I Use 📱"
 permalink: /what-i-use/
 author_profile: true
-gallery:
-  - url: https://fvcproductions.files.wordpress.com/2015/06/1-password.png?w=246&h=246&crop=1
-    image_path: https://fvcproductions.files.wordpress.com/2015/06/1-password.png?w=246&h=246&crop=1
-    alt: "1Password 6"
-    title: "1Password 6"
-  - url: https://fvcproductions.files.wordpress.com/2015/06/alfred.png?w=246&h=246&crop=1
-    image_path: https://fvcproductions.files.wordpress.com/2015/06/alfred.png?w=246&h=246&crop=1
-    alt: "Alfred 3"
-    title: "Alfred 3"
-  - url: https://fvcproductions.files.wordpress.com/2015/06/amphetamine.png?w=246&h=246&crop=1
-    image_path: https://fvcproductions.files.wordpress.com/2015/06/amphetamine.png?w=246&h=246&crop=1
-    alt: "Amphetamine"
-    title: "Amphetamine"
+modified: 2016-12-20
 ---
-
-{% include gallery caption="All the apps." %}
-
-> Last updated `December 2016`.
 
 > **Does not include** online services (i.e. [Raindrop.io](https://raindrop.io "Raindrop")), native Mac apps (i.e. [Keynote](http://www.apple.com/mac/keynote/ "Keynote")), Chrome apps (i.e. [Marmoset](https://chrome.google.com/webstore/detail/marmoset/npkfpddkpefnmkflhhligbkofhnafieb?hl=en "Marmoset")), Chrome extensions (i.e. [BuiltWith Technology Profiler](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en)) or hardware (i.e. a [mini display port to VGA adapter](http://www.apple.com/shop/product/MB572Z/B/mini-displayport-to-vga-adapter "adapter")).
 
-[![1Password 6](https://fvcproductions.files.wordpress.com/2015/06/1-password.png?w=246&h=246&crop=1 "1Password 6")](https://fvcproductions.com/home/about/what-i-use/1-password/)
+### Ordered by recency
 
-1Password 6
-
-[![Alfred 3](https://fvcproductions.files.wordpress.com/2015/06/alfred.png?w=246&h=246&crop=1 "Alfred 3")](https://fvcproductions.com/home/about/what-i-use/alfred/)
-
-Alfred 3
-
-[![Amphetamine](https://fvcproductions.files.wordpress.com/2015/06/amphetamine.png?w=246&h=246&crop=1 "Amphetamine")](https://fvcproductions.com/home/about/what-i-use/amphetamine/)
-
-Amphetamine
-
-[![Bartender 2](https://fvcproductions.files.wordpress.com/2015/06/bartender.png?w=246&h=246&crop=1 "Bartender 2")](https://fvcproductions.com/home/about/what-i-use/bartender/)
-
-Bartender 2
-
-[![BetterSnapTool](https://fvcproductions.files.wordpress.com/2015/06/bettersnaptool.png?w=246&h=246&crop=1 "BetterSnapTool")](https://fvcproductions.com/home/about/what-i-use/bettersnaptool/)
+| 1Password 6 | Alfred 3 | Amphetamine | Bartender 2 |
+|:---:|:---:|:---:|:---:|
+| ![1Password 6](https://fvcproductions.files.wordpress.com/2015/06/1-password.png?w=246&h=246&crop=1 "1Password 6")| ![Alfred 3](https://fvcproductions.files.wordpress.com/2015/06/alfred.png?w=246&h=246&crop=1 "Alfred 3") | ![Amphetamine](https://fvcproductions.files.wordpress.com/2015/06/amphetamine.png?w=246&h=246&crop=1 "Amphetamine") | ![Bartender 2](https://fvcproductions.files.wordpress.com/2015/06/bartender.png?w=246&h=246&crop=1 "Bartender 2") |
 
 BetterSnapTool
 
@@ -139,10 +111,6 @@ Reveel
 
 Screenhero
 
-[![Shazam](https://fvcproductions.files.wordpress.com/2015/06/shazam.png?w=246&h=246&crop=1 "Shazam")](https://fvcproductions.com/home/about/what-i-use/shazam/)
-
-Shazam
-
 [![Sip Pro](https://fvcproductions.files.wordpress.com/2015/06/sip.png?w=246&h=246&crop=1 "Sip Pro")](https://fvcproductions.com/home/about/what-i-use/sip/)
 
 Sip Pro
@@ -155,10 +123,6 @@ SiteSucker
 
 Sketch 3
 
-
-[![Spark](https://fvcproductions.files.wordpress.com/2015/06/512x512bb.png?w=246&h=246&crop=1 "Spark")](https://fvcproductions.com/home/about/what-i-use/512x512bb/)
-
-Spark
 
 [![Skype](https://fvcproductions.files.wordpress.com/2015/06/skype.png?w=246&h=246&crop=1 "Skype")](https://fvcproductions.com/home/about/what-i-use/skype/)
 
@@ -179,10 +143,6 @@ Sublime Text 3
 [![Tower](https://fvcproductions.files.wordpress.com/2015/06/tower.png?w=246&h=246&crop=1 "Tower")](https://fvcproductions.com/home/about/what-i-use/tower/)
 
 Tower
-
-[![Trailer](https://fvcproductions.files.wordpress.com/2015/06/trailer.png?w=246&h=246&crop=1 "Trailer")](https://fvcproductions.com/home/about/what-i-use/trailer/)
-
-Trailer
 
 [![VLC](https://fvcproductions.files.wordpress.com/2015/06/vlc.png?w=246&h=246&crop=1 "VLC")](https://fvcproductions.com/home/about/what-i-use/vlc/)
 

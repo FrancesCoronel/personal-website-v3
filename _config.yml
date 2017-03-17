@@ -49,6 +49,8 @@ analytics:
   provider               : "google"
   google:
     tracking_id          : UA-63190978-3
+# google_analytics:
+#   super_proxy_url        : ""
 
 # Site Author
 author:

@@ -209,7 +209,7 @@
     margin-top: 2em;
     color: $gray;
     font-family: $monospace;
-    font-size: $type-size-6;
+    font-size: $type-size-7;
     p {
         margin: 0;
     }
@@ -376,14 +376,15 @@
 }
 
 #primary-header .primary-hentry-inner {
-    width: 100%;
-    height: 100%;
+    width: 100vw;
+    height: 100vh;
     overflow: hidden;
     color: white;
     display: table-cell;
     vertical-align: middle;
     padding: 80px 20px;
     z-index: 1;
+    text-align: center;
 }
 
 #primary-header {
@@ -420,10 +421,18 @@
     letter-spacing: -1px;
 }
 
+
 /** iFrames */
 
 iframe {
     margin-bottom: 2em;
     min-height: 500px;
     min-width: 100%;
+}
+
+/** Introductory Info */
+
+.introductory__info {
+    margin-top: 0;
+    margin-bottom: 1em;
 }

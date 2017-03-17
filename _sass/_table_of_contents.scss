@@ -5,7 +5,7 @@
 .toc {
     font-family: $sans-serif-narrow;
     color: $gray;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 1px;
     background-color: $background-color;
     border: 1px solid $border-color;
@@ -13,10 +13,14 @@
     box-shadow: $box-shadow;
     .nav__title {
         color: $background-color;
-        font-size: $type-size-6;
+        font-size: $type-size-4;
         background: $primary-color;
         border-top-left-radius: $border-radius;
         border-top-right-radius: $border-radius;
+        text-transform: capitalize;
+    }
+    .fa {
+        margin-right: 1em;
     }
 }
 
@@ -30,13 +34,14 @@
         display: block;
         padding: 0.5rem 1rem;
         color: $gray;
-        font-size: $type-size-7;
+        font-size: $type-size-5;
         font-weight: bold;
         line-height: 1.5;
         border-bottom: 1px solid $border-color;
         &:hover {
             color: #000;
             background: $lighter-gray;
+            text-decoration: none;
         }
     }
     > li:last-child {

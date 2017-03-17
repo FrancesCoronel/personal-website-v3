@@ -15,6 +15,12 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.htaccess",
+		"oF": 0
+		},
 	"\/.travis.yml": {
 		"ft": 8192,
 		"oA": 2,
@@ -417,6 +423,24 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_pages\/feedback.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 1,
+		"oAP": "\/_pages\/feedback.html",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/_pages\/home.md": {
 		"cS": 0,
 		"eF": 1,
@@ -561,24 +585,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_pages\/testimonials.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_pages\/testimonials.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/_pages\/travels.md": {
 		"cS": 0,
 		"eF": 1,
@@ -626,6 +632,60 @@
 		"oA": 1,
 		"oAP": "\/_portfolio\/foo-bar-website.html",
 		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_portfolio\/git_guardian.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_portfolio\/git_guardian.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_portfolio\/git_guardian_github.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_portfolio\/git_guardian_github.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_portfolio\/huge-design.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_portfolio\/huge-design.html",
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -2929,6 +2989,12 @@
 		"oAP": "\/_services\/speaking.html",
 		"oF": 0
 		},
+	"\/_site\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/.htaccess",
+		"oF": 0
+		},
 	"\/_site\/404\/index.html": {
 		"ft": 8192,
 		"oA": 1,
@@ -3928,6 +3994,12 @@
 		"oAP": "\/_site\/feed.xml",
 		"oF": 1
 		},
+	"\/_site\/feedback\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/feedback\/index.html",
+		"oF": 0
+		},
 	"\/_site\/home\/index.html": {
 		"ft": 8192,
 		"oA": 1,
@@ -4005,6 +4077,24 @@
 		"oA": 1,
 		"oAP": "\/_site\/portfolio\/foo-bar-website\/index.html",
 		"oF": 1
+		},
+	"\/_site\/portfolio\/git_guardian\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/portfolio\/git_guardian\/index.html",
+		"oF": 0
+		},
+	"\/_site\/portfolio\/git_guardian_github\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/portfolio\/git_guardian_github\/index.html",
+		"oF": 0
+		},
+	"\/_site\/portfolio\/huge-design\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/portfolio\/huge-design\/index.html",
+		"oF": 0
 		},
 	"\/_site\/portfolio\/index.html": {
 		"ft": 8192,
@@ -4106,12 +4196,6 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_site\/testimonials\/franklin-lee\/index.html",
-		"oF": 1
-		},
-	"\/_site\/testimonials\/index.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_site\/testimonials\/index.html",
 		"oF": 1
 		},
 	"\/_site\/testimonials\/kelli-white\/index.html": {

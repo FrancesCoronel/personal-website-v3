@@ -51,17 +51,24 @@ layout: default
               </h1>
             {% endif %}
           {% endif %}
-          {% if page.excerpt %}
-            <h3 itemprop="description">{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}</h3>
-          {% endif %}
-          {% if page.read_time %}
-            <p class="page__meta">
-              <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}
-            </p>
-          {% endif %}
-          <p id="ga-pageviews"></p>
         </header>
       {% endunless %}
+
+      <header class="page__meta introductory__info">
+        {% if page.read_time %}
+          <p class="page__date"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+        {% endif %}
+        {% if page.excerpt %}
+          <h3 itemprop="description">{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}</h3>
+        {% endif %}
+        {% if page.modified %}
+          <p class="page__date"><i class="fa fa-clock-o fa-lg" aria-hidden="true"></i> Last updated <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
+        {% endif %}
+        {% if page.date %}
+          <p class="page__date"><i class="fa fa-pencil-square-o fa-lg" aria-hidden="true"></i> Created <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+        {% endif %}
+        <p class="page__date"><i class="fa fa-line-chart"></i> <span id="ga-pageviews">81,000 views</span></p>
+      </header>
 
       <section class="page__content" itemprop="text">
         {{ content }}
@@ -74,18 +81,12 @@ layout: default
       </section>
 
       <footer class="page__meta">
-        {% if site.data.ui-text[site.locale].meta_label %}
-          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
-        {% endif %}
-        {% unless page.categories contains "testimonial" %}
-          {% include page__taxonomy.html %}
-        {% endunless %}
-        {% if page.modified %}
-          <p class="page__date"><strong><i class="fa fa-clock-o fa-lg" aria-hidden="true"></i> Last updated <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></strong></p>
-        {% endif %}
-        {% if page.date %}
-          <p class="page__date"><strong><i class="fa fa-pencil-square-o fa-lg" aria-hidden="true"></i> Created <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></strong></p>
-        {% endif %}
+          {% if site.data.ui-text[site.locale].meta_label %}
+            <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+          {% endif %}
+          {% unless page.categories contains "testimonial" %}
+            {% include page__taxonomy.html %}
+          {% endunless %}
       </footer>
 
       {% if page.share %}{% include social-share.html %}{% endif %}

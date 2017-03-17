@@ -9,11 +9,11 @@ en: &DEFAULT_EN
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   menu_label                 : "Toggle Menu"
-  toc_label                  : "On This Page"
+  toc_label                  : "Table of Contents"
   ext_link_label             : "Direct Link"
   less_than                  : "less than"
   minute_read                : "minute read"
-  share_on_label             : "Share on"
+  share_on_label             : "Share the <i class='fa fa-heart'></i>"
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Categories:"

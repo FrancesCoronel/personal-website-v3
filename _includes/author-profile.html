@@ -8,7 +8,7 @@
     </div>
     {% endif %}
     <div class="author__content">
-        <h3 class="author__name" itemprop="name">{{ author.name }}</h3> {% if author.bio %}
+        <h2 class="author__name" itemprop="name">{{ author.name }}</h2> {% if author.bio %}
         <p class="author__bio" itemprop="description">
             {{ author.bio }}
         </p>
@@ -23,8 +23,7 @@
             </li>
             {% endif %} {% if author.uri %}
             <li>
-                <a href="{{ author.uri }}" itemprop="url">
-                    <i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}
+                <i class="fa fa-fw fa-chain" aria-hidden="true"></i> <a href="{{ author.uri }}" itemprop="url">{{ site.data.ui-text[site.locale].website_label | default: "Website" }}
                 </a>
             </li>
             {% endif %} {% if author.email %}
@@ -36,51 +35,37 @@
             </li>
             {% endif %} {% if author.behance %}
             <li>
-                <a href="https://behance.net/{{ author.behance }}" itemprop="sameAs">
-                    <i class="fa fa-fw fa-behance" aria-hidden="true"></i> Behance
-                </a>
+                <i class="fa fa-fw fa-behance" aria-hidden="true"></i> <a href="https://behance.net/{{ author.behance }}" itemprop="sameAs">Behance</a>
             </li>
             {% endif %} {% if author.twitter %}
             <li>
-                <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
-                    <i class="fa fa-fw fa-twitter" aria-hidden="true"></i> Twitter
-                </a>
+                <i class="fa fa-fw fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">Twitter</a>
             </li>
-            {% endif %}
-            {% if author.linkedin %}
+            {% endif %} {% if author.linkedin %}
             <li>
-                <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs">
-                    <i class="fa fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn
-                </a>
+                <i class="fa fa-fw fa-linkedin" aria-hidden="true"></i> <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs">LinkedIn</a>
             </li>
-            {% endif %}
-           {% if author.github %}
+            {% endif %} {% if author.github %}
             <li>
-                <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
-                    <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
-                </a>
+                <i class="fa fa-fw fa-github" aria-hidden="true"></i> <a href="https://github.com/{{ author.github }}" itemprop="sameAs">GitHub</a>
             </li>
-            {% endif %}
-            {% if author.steam %}
+            {% endif %} {% if author.steam %}
             <li>
-                <a href="https://steamcommunity.com/id/{{ author.steam }}" itemprop="sameAs">
-                    <i class="fa fa-fw fa-steam" aria-hidden="true"></i> Steam
-                </a>
+                <i class="fa fa-fw fa-steam" aria-hidden="true"></i> <a href="https://steamcommunity.com/id/{{ author.steam }}" itemprop="sameAs">Steam</a>
             </li>
             {% endif %} {% if author.youtube %}
             <li>
-                <a href="https://youtube.com/c/{{ author.youtube }}" itemprop="sameAs">
-                    <i class="fa fa-fw fa-youtube" aria-hidden="true"></i> YouTube
-                </a>
+                <i class="fa fa-fw fa-youtube" aria-hidden="true"></i> <a href="https://youtube.com/c/{{ author.youtube }}" itemprop="sameAs">YouTube</a>
             </li>
             {% endif %}
-            <!--  {% if author.soundcloud %}
+<!--             {% if author.soundcloud %}
             <li>
                 <a href="https://soundcloud.com/{{ author.soundcloud }}" itemprop="sameAs">
                     <i class="fa fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud
                 </a>
             </li>
-            {% endif %} {% if author.codepen %}
+            {% endif %}
+            {% if author.codepen %}
             <li>
                 <a href="https://codepen.io/{{ author.codepen }}" itemprop="sameAs">
                     <i class="fa fa-fw fa-codepen" aria-hidden="true"></i> CodePen

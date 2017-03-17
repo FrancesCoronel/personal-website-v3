@@ -1,24 +1,22 @@
 /* ==========================================================================
    FOOTER
    ========================================================================== */
-
 .page__footer {
     @include full();
     @include clearfix;
     margin-top: 3em;
     color: $body-color;
-    border-top: 1px solid $gray;
+    // border-top: 1px solid $gray;
     padding: 1em;
-    // -webkit-animation: intro 0.3s both;
-    // animation: intro 0.3s both;
-    // -webkit-animation-delay: 0.45s;
-    // animation-delay: 0.45s;
+    -webkit-animation: intro 0.3s both;
+    animation: intro 0.3s both;
+    -webkit-animation-delay: 0.45s;
+    animation-delay: 0.45s;
     /* start sticky footer fix */
     position: absolute;
     bottom: 0;
-    width: 100%;
     /* Set the fixed height of the footer here */
-    // height: 200px;
+    height: 200px;
     /* end sticky footer fix */
     footer {
         @include container;

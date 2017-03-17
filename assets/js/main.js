@@ -2,6 +2,11 @@
    jQuery plugin settings and other scripts
    ========================================================================== */
 
+$(".author__urls-wrapper button").on("click", function() {
+    $(".author__urls").fadeToggle("fast", function() {});
+    $(".author__urls-wrapper button").toggleClass("open");
+});
+
 $(document).ready(function() {
 
     var title = document.title;
@@ -13,8 +18,8 @@ $(document).ready(function() {
         document.title = alttitle;
     });
 
-    $(window).onfocus(function() {
-      document.title = title;
+    $(window).focus(function() {
+        document.title = title;
     });
 
     // FitVids init

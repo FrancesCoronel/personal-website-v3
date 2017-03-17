@@ -26,7 +26,7 @@ var jqxhr = $.ajax("{{site.google_analytics.super_proxy_url}}")
             response.columnHeaders.forEach(findColumnHeaders);
 
             if (total_views !== undefined && total_views !== null && $("#ga-totalpageviews-div")) {
-                $("#ga-totalpageviews").html("Views: " + total_views);
+                $("#ga-totalpageviews").html(total_views);
             }
 
             if (response.rows !== undefined) {
@@ -38,7 +38,7 @@ var jqxhr = $.ajax("{{site.google_analytics.super_proxy_url}}")
                     if (ga_page_url === page_url) {
                         page_views = row[pageViewsIndex];
                         if (page_views !== undefined && page_views !== null && $("#ga-pageviews-div")) {
-                            $("#ga-pageviews").html("Views: " + page_views);
+                            $("#ga-pageviews").html(page_views);
                         }
                     }
 
@@ -53,7 +53,7 @@ var jqxhr = $.ajax("{{site.google_analytics.super_proxy_url}}")
                     }
 
                     if (oPageViews[dataPostUrl] !== undefined && oPageViews[dataPostUrl] !== null) {
-                        $(this).html("Views: " + oPageViews[dataPostUrl]);
+                        $(this).html(oPageViews[dataPostUrl]);
                     }
 
                 });

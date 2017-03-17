@@ -7,8 +7,8 @@ main:
     url: /portfolio/
   - title: "Services 🛠"
     url: /services/
-  - title: "Testimonials 💖"
-    url: /testimonials/
+  - title: "Feedback 💖"
+    url: /feedback/
   - title: "About 👀"
     url: /about/
   - title: "Awards 🏆"

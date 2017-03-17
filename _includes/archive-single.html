@@ -17,21 +17,27 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item {% if page.permalink == '/blog/' %} blog__item {% endif %}">
-  <article class="archive__item {% if post.category == 'Behance' %} behance-project {% elsif post.category == 'GitHub' %} github-repo {% elsif post.category == 'YouTube' %} youtube-video {% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
-    <div class="project-header">
-      {% if post.category == "Behance" %}
-        <h3><i class="fa fa-behance"></i> Behance Project</h3>
-      {% elsif post.category == "GitHub" %}
-        <h3><i class="fa fa-github-alt"></i> GitHub Repo</h3>
-      {% elsif post.category == "YouTube" %}
-        <h3><i class="fa fa-youtube-play"></i> YouTube Video</h3>
-      {% else %}
-        <h3><i class="fa fa-search"></i> Case Study</h3>
-      {% endif %}
-    </div>
+
+  <article class="archive__item {% unless page.permalink == '/blog/' or page.permalink == '/' %} regular__item {% endunless %} {% if page.permalink == '/portfolio/' %} portfolio__item {% if post.category == 'Behance' %} behance-project {% elsif post.category == 'GitHub' %} github-repo {% elsif post.category == 'YouTube' %} youtube-video {% endif %} {% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
+
+    {% if page.permalink == '/portfolio/' %}
+      <div class="project-header">
+        {% if post.category == "Behance" %}
+          <h5><i class="fa fa-behance"></i> Behance Project</h5>
+        {% elsif post.category == "GitHub" %}
+          <h5><i class="fa fa-github-alt"></i> GitHub Repo</h5>
+        {% elsif post.category == "YouTube" %}
+          <h5><i class="fa fa-youtube-play"></i> YouTube Video</h5>
+        {% else %}
+          <h5><i class="fa fa-search"></i> Case Study</h5>
+        {% endif %}
+      </div>
+    {% endif %}
+
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser" id="primary-header" style="background-image: url({{ teaser }});"></div>
     {% endif %}
+
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}" target="_blank">{{ title }} <i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -39,18 +45,24 @@
         <a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.date %}
-      <p class="archive__item-excerpt project-date" itemprop="datePublished">
-        {{ post.date | date: "%B %d, %Y" }}
-      </p>
+
+    {% if page.permalink == '/portfolio/' %}
+      {% if post.date %}
+        <p class="archive__item-excerpt project-date" itemprop="datePublished">
+          {{ post.date | date: "%B %d, %Y" }}
+        </p>
+      {% endif %}
     {% endif %}
+
     {% if post.excerpt %}
       <p class="archive__item-excerpt" itemprop="description">
       {{ post.excerpt | markdownify | strip_html | truncate: 160 }}
       </p>
     {% endif %}
+
   </article>
 </div>
