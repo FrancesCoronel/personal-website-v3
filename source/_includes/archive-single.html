@@ -1,0 +1,68 @@
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% capture teaser %}{{ page.header.teaser | absolute_url }}{% endcapture %}
+{% endif %}
+
+{% if page.header.image contains "://" %}
+  {% capture img_path %}{{ page.header.image }}{% endcapture %}
+{% else %}
+  {% capture img_path %}{{ page.header.image | absolute_url }}{% endcapture %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item {% if page.permalink == '/blog/' %} blog__item {% endif %}">
+
+  <article class="archive__item {% include archive-config.html %}" itemscope itemtype="http://schema.org/CreativeWork">
+
+    {% if page.permalink == '/portfolio/' %}
+      <div class="project-header">
+        {% if post.category == "Behance" %}
+          <h5><i class="fa fa-behance"></i> Behance Project</h5>
+        {% elsif post.category == "GitHub" %}
+          <h5><i class="fa fa-github-alt"></i> GitHub Repo</h5>
+        {% elsif post.category == "YouTube" %}
+          <h5><i class="fa fa-youtube-play"></i> YouTube Video</h5>
+        {% else %}
+          <h5><i class="fa fa-search"></i> Case Study</h5>
+        {% endif %}
+      </div>
+    {% endif %}
+
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser" id="primary-header" style="background-image: url({{ teaser }});"></div>
+    {% endif %}
+
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}" target="_blank">{{ title }} <i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+    </h2>
+
+    {% if post.read_time %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% endif %}
+
+    {% if page.permalink == '/portfolio/' or page.permalink == '/services/speaking/' %}
+      {% if post.date %}
+        <p class="archive__item-excerpt project-date" itemprop="datePublished">
+          {{ post.date | date: "%B %d, %Y" }}
+        </p>
+      {% endif %}
+    {% endif %}
+
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">
+      {{ post.excerpt | markdownify | strip_html | truncate: 160 }}
+      </p>
+    {% endif %}
+
+  </article>
+</div>

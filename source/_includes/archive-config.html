@@ -1,0 +1,8 @@
+{% unless page.permalink == '/blog/' %} regular__item {% endunless %}
+{% if page.permalink == '/portfolio/' %} portfolio__item
+{% if post.category == 'Behance' %} behance-project
+{% elsif post.category == 'GitHub' %} github-repo
+{% elsif post.category == 'YouTube' %} youtube-video
+{% endif %} {% endif %}
+{% if page.permalink == '/services/' or page.permalink == '/speaking/' %} service__item {% endif %}
+{% if page.permalink == '/feedback/' %} testimonial__item {% endif %}

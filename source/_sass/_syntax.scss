@@ -1,0 +1,581 @@
+/* ==========================================================================
+   Syntax highlighting
+   ========================================================================== */
+
+div.highlighter-rouge,
+figure.highlight {
+    position: relative;
+    margin-bottom: 1em;
+    font-family: $monospace;
+    font-size: $type-size-7;
+    line-height: 1.8;
+    border: none;
+    border-radius: 0;
+    background-color: $code-background-color;
+    box-shadow: $box-shadow;
+    border-left: 13px solid rgba(0,0,0,0.2);
+    &:before {
+        position: absolute;
+        top: 0;
+        right: 0;
+        padding: 0.5em;
+        background-color: rgba(0, 0, 0, 0.2);
+        content: "\f121";
+        font-family: "fontawesome" !important;
+        line-height: 1;
+        text-transform: none;
+        speak: none;
+        font-size: 1.5em;
+        color: $background-color;
+    }
+    .highlight {
+        margin: 0;
+        padding: 2em;
+    }
+}
+
+code {
+    color: $background-color;
+}
+
+.highlight table td.gutter {
+  display: none;
+}
+
+p>code,
+a>code,
+li>code,
+figcaption>code,
+td>code {
+    background: none;
+    border: 1px solid $lighter-gray;
+    color: $primary-color;
+}
+
+pre {
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+}
+
+figure.highlight {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.highlight table {
+    font-size: 1em;
+    border: 0;
+    td {
+        padding: 5px;
+        border: 0;
+        // line numbers
+        &.gutter {
+            padding-right: 1em;
+            color: $light-gray;
+        }
+    }
+    pre {
+        margin: 0;
+    }
+}
+
+.highlight pre {
+    width: 100%;
+}
+
+
+/*
+   Solarized Light
+   http://ethanschoonover.com/solarized
+   SOLARIZED HEX      ROLE
+   --------- -------- ------------------------------------------
+   base01    #B2C9D0  body text / default code / primary content
+   base1     #516E7A  comments / secondary content
+   base3     #263238 background
+   orange    #FF7042  constants
+   red       #E57373  regex, special keywords
+   blue      #2979FF  reserved keywords
+   cyan      #00BCD4  strings, numbers
+   green     #7CB342  operators, other keywords
+   ========================================================================== */
+
+.highlight .c {
+    color: #516E7A
+}
+
+
+/* Comment */
+
+.highlight .err {
+    color: #B2C9D0
+}
+
+
+/* Error */
+
+.highlight .g {
+    color: #B2C9D0
+}
+
+
+/* Generic */
+
+.highlight .k {
+    color: #7CB342
+}
+
+
+/* Keyword */
+
+.highlight .l {
+    color: #B2C9D0
+}
+
+
+/* Literal */
+
+.highlight .n {
+    color: #B2C9D0
+}
+
+
+/* Name */
+
+.highlight .o {
+    color: #7CB342
+}
+
+
+/* Operator */
+
+.highlight .x {
+    color: #FF7042
+}
+
+
+/* Other */
+
+.highlight .p {
+    color: #B2C9D0
+}
+
+
+/* Punctuation */
+
+.highlight .cm {
+    color: #516E7A
+}
+
+
+/* Comment.Multiline */
+
+.highlight .cp {
+    color: #7CB342
+}
+
+
+/* Comment.Preproc */
+
+.highlight .c1 {
+    color: #516E7A
+}
+
+
+/* Comment.Single */
+
+.highlight .cs {
+    color: #7CB342
+}
+
+
+/* Comment.Special */
+
+.highlight .gd {
+    color: #00BCD4
+}
+
+
+/* Generic.Deleted */
+
+.highlight .ge {
+    color: #B2C9D0;
+    font-style: italic
+}
+
+
+/* Generic.Emph */
+
+.highlight .gr {
+    color: #E57373
+}
+
+
+/* Generic.Error */
+
+.highlight .gh {
+    color: #FF7042
+}
+
+
+/* Generic.Heading */
+
+.highlight .gi {
+    color: #7CB342
+}
+
+
+/* Generic.Inserted */
+
+.highlight .go {
+    color: #B2C9D0
+}
+
+
+/* Generic.Output */
+
+.highlight .gp {
+    color: #B2C9D0
+}
+
+
+/* Generic.Prompt */
+
+.highlight .gs {
+    color: #B2C9D0;
+    font-weight: bold
+}
+
+
+/* Generic.Strong */
+
+.highlight .gu {
+    color: #FF7042
+}
+
+
+/* Generic.Subheading */
+
+.highlight .gt {
+    color: #B2C9D0
+}
+
+
+/* Generic.Traceback */
+
+.highlight .kc {
+    color: #FF7042
+}
+
+
+/* Keyword.Constant */
+
+.highlight .kd {
+    color: #2979FF
+}
+
+
+/* Keyword.Declaration */
+
+.highlight .kn {
+    color: #7CB342
+}
+
+
+/* Keyword.Namespace */
+
+.highlight .kp {
+    color: #7CB342
+}
+
+
+/* Keyword.Pseudo */
+
+.highlight .kr {
+    color: #2979FF
+}
+
+
+/* Keyword.Reserved */
+
+.highlight .kt {
+    color: #E57373
+}
+
+
+/* Keyword.Type */
+
+.highlight .ld {
+    color: #B2C9D0
+}
+
+
+/* Literal.Date */
+
+.highlight .m {
+    color: #00BCD4
+}
+
+
+/* Literal.Number */
+
+.highlight .s {
+    color: #00BCD4
+}
+
+
+/* Literal.String */
+
+.highlight .na {
+    color: #B2C9D0
+}
+
+
+/* Name.Attribute */
+
+.highlight .nb {
+    color: #B58900
+}
+
+
+/* Name.Builtin */
+
+.highlight .nc {
+    color: #2979FF
+}
+
+
+/* Name.Class */
+
+.highlight .no {
+    color: #FF7042
+}
+
+
+/* Name.Constant */
+
+.highlight .nd {
+    color: #2979FF
+}
+
+
+/* Name.Decorator */
+
+.highlight .ni {
+    color: #FF7042
+}
+
+
+/* Name.Entity */
+
+.highlight .ne {
+    color: #FF7042
+}
+
+
+/* Name.Exception */
+
+.highlight .nf {
+    color: #2979FF
+}
+
+
+/* Name.Function */
+
+.highlight .nl {
+    color: #B2C9D0
+}
+
+
+/* Name.Label */
+
+.highlight .nn {
+    color: #B2C9D0
+}
+
+
+/* Name.Namespace */
+
+.highlight .nx {
+    color: #B2C9D0
+}
+
+
+/* Name.Other */
+
+.highlight .py {
+    color: #B2C9D0
+}
+
+
+/* Name.Property */
+
+.highlight .nt {
+    color: #2979FF
+}
+
+
+/* Name.Tag */
+
+.highlight .nv {
+    color: #2979FF
+}
+
+
+/* Name.Variable */
+
+.highlight .ow {
+    color: #7CB342
+}
+
+
+/* Operator.Word */
+
+.highlight .w {
+    color: #B2C9D0
+}
+
+
+/* Text.Whitespace */
+
+.highlight .mf {
+    color: #00BCD4
+}
+
+
+/* Literal.Number.Float */
+
+.highlight .mh {
+    color: #00BCD4
+}
+
+
+/* Literal.Number.Hex */
+
+.highlight .mi {
+    color: #00BCD4
+}
+
+
+/* Literal.Number.Integer */
+
+.highlight .mo {
+    color: #00BCD4
+}
+
+
+/* Literal.Number.Oct */
+
+.highlight .sb {
+    color: #516E7A
+}
+
+
+/* Literal.String.Backtick */
+
+.highlight .sc {
+    color: #00BCD4
+}
+
+
+/* Literal.String.Char */
+
+.highlight .sd {
+    color: #B2C9D0
+}
+
+
+/* Literal.String.Doc */
+
+.highlight .s2 {
+    color: #00BCD4
+}
+
+
+/* Literal.String.Double */
+
+.highlight .se {
+    color: #FF7042
+}
+
+
+/* Literal.String.Escape */
+
+.highlight .sh {
+    color: #B2C9D0
+}
+
+
+/* Literal.String.Heredoc */
+
+.highlight .si {
+    color: #00BCD4
+}
+
+
+/* Literal.String.Interpol */
+
+.highlight .sx {
+    color: #00BCD4
+}
+
+
+/* Literal.String.Other */
+
+.highlight .sr {
+    color: #E57373
+}
+
+
+/* Literal.String.Regex */
+
+.highlight .s1 {
+    color: #00BCD4
+}
+
+
+/* Literal.String.Single */
+
+.highlight .ss {
+    color: #00BCD4
+}
+
+
+/* Literal.String.Symbol */
+
+.highlight .bp {
+    color: #2979FF
+}
+
+
+/* Name.Builtin.Pseudo */
+
+.highlight .vc {
+    color: #2979FF
+}
+
+
+/* Name.Variable.Class */
+
+.highlight .vg {
+    color: #2979FF
+}
+
+
+/* Name.Variable.Global */
+
+.highlight .vi {
+    color: #2979FF
+}
+
+
+/* Name.Variable.Instance */
+
+.highlight .il {
+    color: #00BCD4
+}
+
+
+/* Literal.Number.Integer.Long */

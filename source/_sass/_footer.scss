@@ -1,0 +1,72 @@
+/* ==========================================================================
+   FOOTER
+   ========================================================================== */
+.page__footer {
+    @include full();
+    @include clearfix;
+    color: $body-color;
+    // border-top: 1px solid $gray;
+    padding: 1em;
+    -webkit-animation: intro 0.3s both;
+    animation: intro 0.3s both;
+    -webkit-animation-delay: 0.45s;
+    animation-delay: 0.45s;
+    /* start sticky footer fix */
+    position: absolute;
+    bottom: 0;
+    /* Set the fixed height of the footer here */
+    height: 200px;
+    /* end sticky footer fix */
+    footer {
+        @include container;
+        @include clearfix;
+        text-align: center;
+        @include breakpoint($x-large) {
+            max-width: $x-large;
+        }
+    }
+    a {
+        color: inherit;
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+    .fa {
+        color: $body-color;
+    }
+}
+
+.page__footer-copyright {
+    font-family: $monospace;
+    font-size: $type-size-5;
+}
+
+.page__footer-follow {
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+    li {
+        display: inline-block;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        font-family: $sans-serif-narrow;
+        font-size: $type-size-6;
+        text-transform: uppercase;
+    }
+    li + li:before {
+        content: "";
+        padding-right: 5px;
+    }
+    a {
+        padding-right: 10px;
+        font-weight: bold;
+    }
+}
+
+.col-6 {
+    width: span(6);
+    display: inline-block;
+}

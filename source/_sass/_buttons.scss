@@ -1,0 +1,151 @@
+a.btn:hover {
+    text-decoration: none !important;
+}
+
+.btn {
+    /* default button */
+    display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.5em 1em;
+    color: $background-color !important;
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    background-color: $primary-color;
+    border-radius: 0;
+    border: solid 1px $primary-color;
+    cursor: pointer;
+    &:hover {
+        background-color: $background-color;
+        color: $primary-color !important;
+        border-color: $primary-color !important;
+    }
+    .icon {
+        margin-right: 0.5em;
+    }
+    .icon + .hidden {
+        margin-left: -0.5em;
+        /* override for hidden text*/
+    }
+    /* fills width of parent container */
+    &--block {
+        display: block;
+        width: 100%;
+        + .btn--block {
+            margin-top: 0.25em;
+        }
+    }
+    /* for dark backgrounds */
+    &--inverse {
+        color: $primary-color !important;
+        background-color: $background-color;
+        border-color: $background-color;
+        &:hover {
+            color: $background-color !important;
+            background-color: $primary-color !important;
+            border-color: $primary-color;
+        }
+    }
+    /* light outline */
+    &--light-outline {
+        border-color: $background-color !important;
+        background-color: transparent;
+        color: $background-color !important;
+        &:hover {
+            background-color: $primary-color;
+            color: $background-color !important;
+            border-color: $primary-color;
+        }
+    }
+    /* information */
+    &--info {
+        background-color: $info-color;
+        border-color: $info-color;
+        &:hover {
+            background-color: mix($primary-color, $info-color, 20%);
+            color: $background-color !important;
+            border-color: mix($primary-color, $info-color, 20%);
+        }
+    }
+    /* warning */
+    &--warning {
+        background-color: $warning-color;
+        &:hover {
+            background-color: mix($primary-color, $warning-color, 20%);
+            color: $background-color !important;
+            border-color: mix($primary-color, $warning-color, 20%);
+        }
+    }
+    /* success */
+    &--success {
+        background-color: $success-color;
+        &:hover {
+            background-color: mix($primary-color, $success-color, 20%);
+            color: $background-color !important;
+            border-color: mix($primary-color, $success-color, 20%);
+        }
+    }
+    /* danger */
+    &--danger {
+        background-color: $danger-color;
+        &:hover {
+            background-color: mix($primary-color, $danger-color, 20%);
+            color: $background-color !important;
+            border-color: mix($primary-color, $danger-color, 20%);
+        }
+    }
+    /* disabled */
+    &--disabled {
+        pointer-events: none;
+        cursor: not-allowed;
+        filter: alpha(opacity=65);
+        box-shadow: none;
+        opacity: 0.65;
+    }
+    /* social buttons */
+    $social: (facebook, $facebook-color),
+    (twitter, $twitter-color),
+    (google-plus, $google-plus-color),
+    (linkedin, $linkedin-color);
+    @each $socialnetwork,
+    $color in $social {
+        &--#{$socialnetwork} {
+            background-color: $color;
+            border-color: $color;
+            &:hover {
+                background-color: mix($primary-color, $color, 20%);
+                color: $background-color !important;
+                border-color: mix($primary-color, $color, 20%) !important;
+            }
+        }
+    }
+    /* extra large button */
+    &--x-large {
+        font-size: $type-size-4;
+    }
+    /* large button */
+    &--large {
+        font-size: $type-size-5;
+    }
+    /* small button */
+    &--small {
+        font-size: $type-size-7;
+    }
+}
+
+$fa-social: (facebook, $facebook-color),
+(twitter, $twitter-color),
+(google-plus, $google-plus-color),
+(linkedin, $linkedin-color),
+(rss, $rss-color),
+(youtube-play, $youtube-color),
+(behance, $behance-color),
+(github-alt, $github-color);
+@each $social-network,
+$fa-color in $fa-social {
+    .page__footer-follow .fa-#{$social-network}:hover {
+        color: $fa-color !important;
+    }
+}

@@ -73,6 +73,12 @@ ALGOLIA_API_KEY='API_KEY' bundle exec jekyll algolia push
 
 This website was created from the bottom-up and is a migration from my Wordpress website.
 
+### Find and Replace in ST3
+
+```
+Where: <project>, -*/site/*
+```
+
 ## Contributing
 
 I am always looking for ways to make my website more modular, lean, and clean.

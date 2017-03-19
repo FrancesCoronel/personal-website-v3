@@ -5,6 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
+# Where things are
+source:       ./source
+destination:  ./site
+
 # Site Settings
 locale                   : "en"
 title                    : "FVCproductions"
@@ -14,7 +19,7 @@ description              : "I like to dabble with things that ought to be dabble
 url                      : "https://fvcproductions.github.io"
 baseurl                  : # "/blog"
 repository               : "fvcproductions/fvcproductions.github.io"
-teaser                   : /assets/images/teaser.png
+teaser                   : "assets/images/teaser.png"
 words_per_minute         : 200
 comments:
   provider               : "disqus"
@@ -32,7 +37,7 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : "fvcproductions"
-og_image                 : /assets/images/teaser.png
+og_image                 : "assets/images/teaser.png"
 social:
   type                   : "Organization"
   name                   : "FVCproductions"
@@ -88,7 +93,7 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/plugins
-  - assets/js/_main.js
+  - assets/js/main.js
   - assets/js/vendor
   - Capfile
   - CHANGELOG
@@ -103,8 +108,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -118,7 +121,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -140,8 +142,8 @@ sass:
 
 # Outputting
 permalink: /blog/:year/:month/:day/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: America/New_York
 
 
@@ -197,7 +199,6 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
       read_time: true
       comments: true
       share: true
@@ -208,7 +209,6 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: false
   # _adventures
   - scope:
       path: ""
@@ -216,16 +216,14 @@ defaults:
     values:
       layout: single
       read_time: false
-      author_profile: false
       share: true
       comments: true
   # _testimonials
   - scope:
       path: ""
-      type: testimonials
+      type: feedback
     values:
       layout: single
-      author_profile: false
       share: true
       comments: true
   # _services
@@ -234,7 +232,6 @@ defaults:
       type: services
     values:
       layout: single
-      author_profile: false
       share: true
       comment: true
   # _portfolio
@@ -243,20 +240,28 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
+      share: true
+  - scope:
+      path: ""
+      type: speaking
+    values:
+      layout: single
       share: true
 
 # Collections
 collections:
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /portfolio/:path/
   services:
     output: true
-    permalink: /:collection/:path/
+    permalink: /services/:path/
   testimonials:
     output: true
-    permalink: /:collection/:title/
+    permalink: /feedback/:title/
   adventures:
     output: true
-    permalink: /:collection/:path/
+    permalink: /adventures/:path/
+  speaking:
+    output: true
+    permalink: /services/speaking/:path/

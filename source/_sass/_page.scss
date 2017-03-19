@@ -1,0 +1,461 @@
+/* ==========================================================================
+   SINGLE PAGE/POST
+   ========================================================================== */
+
+#main {
+    @include container;
+    @include clearfix;
+    animation: intro 0.3s both;
+    animation-delay: 0.35s;
+    padding: 2em 1em 2em 1em;
+    @include breakpoint($x-x-large) {
+        min-width: $x-x-large;
+    }
+}
+
+.page {
+    @include breakpoint($large) {
+        @include span(10 of 12 last);
+        @include prefix(1 of 12);
+        @include suffix(1 of 12);
+    }
+    padding-right: 0;
+    .page__inner-wrap {
+        @include full();
+        .page__content,
+        .page__meta,
+        .page__share {
+            @include full();
+        }
+    }
+}
+
+.page__title {
+    margin-top: 0;
+    line-height: 1;
+    & + .page__meta {
+        margin-top: -0.5em;
+    }
+}
+
+.page__lead {
+    font-family: $global-font-family;
+    font-size: $type-size-4;
+}
+
+.page__content {
+    p,
+    li,
+    dl {
+        font-size: 1em;
+    }
+    /* paragraph indents */
+    p {
+        margin: 0 0 $indent-var;
+        /* sibling indentation*/
+        @if $paragraph-indent==true {
+            & + p {
+                text-indent: $indent-var;
+                margin-top: -($indent-var);
+            }
+        }
+    }
+    a {
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+            img {
+                box-shadow: 0 0 10px rgba(#000, 0.25);
+            }
+        }
+    }
+    dt {
+        margin-top: 1em;
+        font-family: $sans-serif;
+        font-weight: bold;
+    }
+    dd {
+        margin-left: 1em;
+        font-family: $sans-serif;
+        font-size: $type-size-6;
+    }
+    .small {
+        font-size: $type-size-6;
+    }
+    /* blockquote citations */
+    blockquote + .small {
+        margin-top: -1.5em;
+        padding-left: 1.25rem;
+    }
+}
+
+.page__hero {
+    position: relative;
+    margin-bottom: 0;
+    @include clearfix;
+    animation: intro 0.3s both;
+    animation-delay: 0.25s;
+    &--overlay {
+        position: relative;
+        margin-bottom: 2em;
+        padding: 3em 0;
+        @include clearfix;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        animation: intro 0.3s both;
+        animation-delay: 0.25s;
+        a {
+            color: $background-color;
+        }
+        .wrapper {
+            padding-left: 1em;
+            padding-right: 1em;
+            @include breakpoint($x-large) {
+                max-width: $x-large;
+            }
+        }
+        .page__title,
+        .page__meta,
+        .page__lead,
+        .btn {
+            color: $background-color;
+            text-shadow: 1px 1px 4px rgba(#000, 0.5);
+        }
+        .page__lead {
+            max-width: $medium;
+        }
+        .page__title {
+            font-size: $type-size-2;
+            @include breakpoint($small) {
+                font-size: $type-size-1;
+            }
+        }
+    }
+}
+
+.page__hero-image {
+    width: 100%;
+    height: auto;
+    -ms-interpolation-mode: bicubic;
+}
+
+.page__hero-caption {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 0 auto;
+    padding: 2px 5px;
+    color: $background-color;
+    font-family: $caption-font-family;
+    font-size: $type-size-7;
+    background: #000;
+    text-align: right;
+    z-index: 5;
+    opacity: 0.5;
+    border-radius: $border-radius 0 $border-radius 0;
+    @include breakpoint($large) {
+        padding: 5px 10px;
+    }
+    a {
+        color: $background-color;
+        text-decoration: none;
+    }
+}
+
+
+/*
+   Social sharing
+   ========================================================================== */
+
+.page__share {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: 1px solid $border-color;
+    @include breakpoint(max-width $small) {
+        .btn span {
+            border: 0;
+            clip: rect(0 0 0 0);
+            height: 1px;
+            margin: -1px;
+            overflow: hidden;
+            padding: 0;
+            position: absolute;
+            width: 1px;
+        }
+    }
+}
+
+.page__share-title {
+    margin-bottom: 2em;
+    font-size: $type-size-6;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+
+/*
+   Page meta
+   ========================================================================== */
+
+.page__meta {
+    margin-top: 2em;
+    color: $gray;
+    font-family: $monospace;
+    font-size: $type-size-7;
+    p {
+        margin: 0;
+    }
+    a {
+        color: inherit;
+    }
+    &.page__date {
+        margin-bottom: 1em;
+    }
+}
+
+.page__meta-title {
+    margin-bottom: 10px;
+    font-size: $type-size-6;
+    text-transform: uppercase;
+}
+
+footer.page__meta.introductory__info {
+    margin-top: 2em;
+}
+
+
+/*
+   Page taxonomy
+   ========================================================================== */
+
+.page__taxonomy {
+    .sep {
+        display: none;
+    }
+    strong {
+        margin-right: 10px;
+    }
+}
+
+.page__taxonomy-item {
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 8px;
+    padding: 5px 10px;
+    text-decoration: none;
+    border: 1px solid $light-gray;
+    border-radius: $border-radius;
+    &:hover {
+        text-decoration: none;
+        color: $link-color-hover;
+    }
+}
+
+
+/*
+   Comments
+   ========================================================================== */
+
+.page__comments {
+    @include full();
+}
+
+.page__comments-title {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding-top: 2rem;
+    font-size: $type-size-6;
+    border-top: 1px solid $border-color;
+    text-transform: uppercase;
+}
+
+.page__comments-form {
+    padding: 1em;
+    background: $lighter-gray;
+    transition: $global-transition;
+    &.disabled {
+        input,
+        button,
+        textarea,
+        label {
+            pointer-events: none;
+            cursor: not-allowed;
+            filter: alpha(opacity=65);
+            box-shadow: none;
+            opacity: 0.65;
+        }
+    }
+}
+
+.comment__avatar-wrapper {
+    float: left;
+    width: 60px;
+    height: 60px;
+    @include breakpoint($large) {
+        width: 100px;
+        height: 100px;
+    }
+}
+
+.comment__avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    @include breakpoint($large) {
+        width: 80px;
+        height: 80px;
+        padding: 5px;
+        border: 1px solid $border-color;
+    }
+}
+
+.comment__content-wrapper {
+    float: right;
+    width: calc(100% - 60px);
+    @include breakpoint($large) {
+        width: calc(100% - 100px);
+    }
+}
+
+.comment__author {
+    margin: 0;
+    a {
+        text-decoration: none;
+    }
+}
+
+.comment__date {
+    @extend .page__meta;
+    margin: 0;
+    a {
+        text-decoration: none;
+    }
+}
+
+
+/*
+   Related
+   ========================================================================== */
+
+.page__related {
+    border-top: 1px solid $border-color;
+    margin-top: 2em;
+    @include clearfix();
+    float: left;
+    @include breakpoint($large) {
+        @include pre(2.5 of 12);
+    }
+    a {
+        color: inherit;
+        text-decoration: none;
+    }
+}
+
+.page__related-title {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: $type-size-6;
+    text-transform: uppercase;
+}
+
+/** PAGINATION */
+
+.page__pagination {
+    border-top: 1px solid $border-color;
+    margin-top: 2em;
+    width: 100%;
+    @include clearfix();
+    float: left;
+    @include breakpoint($large) {
+        @include pre(2.5 of 12);
+    }
+    a {
+        color: inherit;
+        text-decoration: none;
+    }
+}
+
+.page__pagination-title {
+    margin-top: 2rem;
+    font-size: $type-size-6;
+    text-transform: uppercase;
+}
+
+
+/** Nice Header Images with Title */
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #000;
+    opacity: 0.5;
+}
+
+#primary-header .primary-hentry-inner {
+    width: 100vw;
+    height: 90vh;
+    overflow: hidden;
+    color: white;
+    display: table-cell;
+    vertical-align: middle;
+    padding: 80px 20px;
+    z-index: 1;
+    text-align: center;
+}
+
+#primary-header {
+    height: 100vh;
+    // display: table;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.05);
+    table-layout: fixed;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+    background-position: center center;
+    background-attachment: scroll;
+}
+
+#primary-header,
+#primary-header .container {
+    position: relative;
+}
+
+#primary-header .entry-title {
+    font-size: 4em;
+    line-height: 1.15;
+    font-weight: 400;
+    margin: 30px auto;
+    max-width: 700px;
+    letter-spacing: -1px;
+}
+
+
+/** iFrame - Travel */
+
+iframe#travel {
+    margin-bottom: 2em;
+    min-width: 100%;
+}
+
+
+/** Introductory Info */
+
+.page__meta.introductory__info {
+    margin-top: 0;
+    margin-bottom: 2em;
+    p {
+        margin-bottom: 1em;
+    }
+}

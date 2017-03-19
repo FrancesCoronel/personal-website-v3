@@ -1,0 +1,127 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+{% if page.categories contains 'testimonial' %}
+{% else %}
+  {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+      {% include page__hero.html %}
+  {% endif %}
+{% endif %}
+
+<div id="main" role="main">
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if page.title %}
+      <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
+    {% endif %}
+
+    {% if page.excerpt %}
+      <meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">
+    {% endif %}
+
+    {% if page.date %}
+      <meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">
+    {% endif %}
+
+    {% if page.modified %}
+      <meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">
+    {% endif %}
+
+    <div class="page__inner-wrap">
+      {% unless page.header.overlay_color or page.header.overlay_image or page.header.image %}
+        <header>
+          {% if page.title %}
+            <h1 class="page__title" itemprop="headline">
+            {% if page.cta_url %}
+                <a href="{{ page.cta_url }}" target="_blank">
+                  {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+                </a>
+            {% else %}
+                {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+            {% endif %}
+            </h1>
+          {% endif %}
+          {% if page.categories contains 'testimonial' %}
+            {% if page.header.image contains "://" %}
+              {% capture img_path %}{{ page.header.image }}{% endcapture %}
+            {% else %}
+              {% capture img_path %}{{ page.header.image | absolute_url }}{% endcapture %}
+            {% endif %}
+            <img src="{{ img_path }}" alt="{{ page.title | markdownify | remove:
+            '<p>' | remove: '</p>' }}" class="testimonial__hero-image">
+          {% endif %}
+        </header>
+      {% endunless %}
+
+      <header class="page__meta introductory__info">
+        {% if page.excerpt %}
+          <p itemprop="description"><i class="fa fa-info-circle fa-lg"></i> {{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}</p>
+        {% endif %}
+        {% if page.date %}
+        <p>{% if page.permalink == '/services/speaking' %} <i class="fa fa-commenting fa-lg" aria-hidden="true"></i> Presented {% else %}<i class="fa fa-pencil-square-o fa-lg" aria-hidden="true"></i> Created {% endif %}
+            <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+        {% endif %}
+        {% if page.modified %}
+          <p><i class="fa fa-calendar-check-o fa-lg" aria-hidden="true"></i> Last updated
+            <time datetime="{{ page.modified | date: " %Y-%m-%d " }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
+        {% endif %}
+        {% if page.read_time %}
+          <p><i class="fa fa-clock-o fa-lg" aria-hidden="true"></i> {% include read-time.html %}</p>
+        {% endif %}
+        <p><i class="fa fa-line-chart fa-lg"></i> <span id="ga-pageviews">81,000 views</span></p>
+      </header>
+
+      <section class="page__content" itemprop="text">
+        {{ content }}
+        {% if page.link %}
+          <div>
+            <a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}
+            </a>
+          </div>
+        {% endif %}
+      </section>
+
+      {% if page.permalink == '/blog/' %}
+        <footer class="page__meta introductory__info">
+          {% if site.data.ui-text[site.locale].meta_label %}
+            <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+          {% endif %}
+          {% unless page.categories contains "testimonial" %}
+            {% include page__taxonomy.html %}
+          {% endunless %}
+        </footer>
+      {% endif %}
+
+      {% if page.share %}{% include social-share.html %}{% endif %}
+    </div>
+
+    {% if site.comments.provider and page.comments %}
+      {% include comments/comments.html %}
+    {% endif %}
+
+    {% if page.previous or page.next %}
+      <div class="page__pagination">
+        <h4 class="page__pagination-title">{{ site.data.ui-text[site.locale].read_more_label }}</h4>
+        {% include post_pagination.html %}
+      </div>
+    {% endif %}
+  </article>
+
+  {% if page.id and page.related and site.related_posts.size > 0 %}
+    <div class="page__related">
+      {% if site.data.ui-text[site.locale].related_label %}
+        <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label }}</h4>
+      {% endif %}
+      <div class="grid__wrapper related__posts">
+        {% for post in site.related_posts limit:3 %}
+          {% include archive-single.html type="grid" %}
+        {% endfor %}
+      </div>
+    </div>
+    <script>
+    $('.related__posts>.grid__item>.archive__item').removeClass('regular__item');
+    </script>
+  {% endif %}
+</div>

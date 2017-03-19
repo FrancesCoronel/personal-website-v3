@@ -1,0 +1,140 @@
+/*
+   Priority plus navigation
+   ========================================================================== */
+
+.greedy-nav {
+    position: relative;
+    min-width: 250px;
+    background: $primary-color;
+    a {
+        display: block;
+        margin: 0 1rem;
+        padding: 0.5rem 0;
+        color: $masthead-link-color;
+        text-decoration: none;
+        &:hover {
+            color: $background-color;
+        }
+    }
+    button {
+        position: absolute;
+        height: 100%;
+        right: 0;
+        padding: 0 1em 0.5rem;
+        border: 0;
+        outline: none;
+        background-color: $primary-color;
+        color: $background-color;
+        cursor: pointer;
+    }
+    .visible-links {
+        display: inline-table;
+        li {
+            display: table-cell;
+            vertical-align: middle;
+            &:first-child {
+                font-weight: bold;
+                a {
+                    margin-left: 0;
+                }
+            }
+            &:last-child {
+                a {
+                    margin-right: 0;
+                }
+            }
+        }
+        a {
+            position: relative;
+            &:before {
+                content: "";
+                position: absolute;
+                left: 0;
+                bottom: 0;
+                height: 4px;
+                background: white;
+                width: 100%;
+                -webkit-transition: $global-transition;
+                transition: $global-transition;
+                -webkit-transform: scaleX(0) translate3d(0, 0, 0);
+                -ms-transform: scaleX(0) translate3d(0, 0, 0);
+                transform: scaleX(0) translate3d(0, 0, 0);
+                /* hide*/
+            }
+            &:hover:before {
+                -webkit-transform: scaleX(1);
+                -ms-transform: scaleX(1);
+                transform: scaleX(1);
+                /* reveal*/
+            }
+        }
+    }
+    .hidden-links {
+        position: absolute;
+        top: 100%;
+        right: 0;
+        margin-top: 15px;
+        padding: 5px;
+        border: 1px solid $border-color;
+        border-radius: $border-radius;
+        background: $background-color;
+        box-shadow: 0 0 10px rgba($primary-color, 0.25);
+        a {
+            margin: 0;
+            padding: 10px 20px;
+            font-size: $type-size-7;
+            color: $primary-color;
+            &:hover {
+                color: $background-color;
+                background: $body-color;
+            }
+        }
+        &:before {
+            content: "";
+            position: absolute;
+            top: -11px;
+            right: 10px;
+            width: 0;
+            border-style: solid;
+            border-width: 0 10px 10px;
+            border-color: $border-color transparent;
+            display: block;
+            z-index: 0;
+        }
+        &:after {
+            content: "";
+            position: absolute;
+            top: -10px;
+            right: 10px;
+            width: 0;
+            border-style: solid;
+            border-width: 0 10px 10px;
+            border-color: $background-color transparent;
+            display: block;
+            z-index: 1;
+        }
+        li {
+            display: block;
+            border-bottom: 1px solid $border-color;
+            &:last-child {
+                border-bottom: none;
+            }
+        }
+    }
+    .hidden {
+        visibility: hidden;
+    }
+}
+
+
+/* Custom */
+
+.navbar-brand {
+    display: inline-block;
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}

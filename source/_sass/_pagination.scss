@@ -1,0 +1,92 @@
+/*
+   Post pagination navigation links
+   ========================================================================== */
+
+.pagination {
+    @include full();
+    @include clearfix();
+    margin-top: 1em;
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        font-family: $sans-serif;
+    }
+    li {
+        display: block;
+        float: left;
+        margin-left: -1px;
+        a {
+            display: block;
+            margin-bottom: 0.25em;
+            padding: 0.5em 1em;
+            font-family: $sans-serif;
+            font-size: 14px;
+            font-weight: bold;
+            line-height: 1.5;
+            text-align: center;
+            text-decoration: none;
+            color: $primary-color;
+            border: 1px solid $primary-color;
+            border-radius: 0;
+            &:hover {
+                color: $background-color;
+                background-color: $primary-color;
+            }
+            &.current {
+                color: $background-color;
+                background: $primary-color;
+            }
+            &.disabled {
+                color: mix($background-color, $gray, 75%);
+                pointer-events: none;
+                cursor: not-allowed;
+            }
+        }
+        &:first-child {
+            margin-left: 0;
+        }
+    }
+    /* next/previous buttons */
+    &--pager {
+        display: block;
+        padding: 1em 2em;
+        float: left;
+        width: 50%;
+        font-family: $sans-serif;
+        font-size: $type-size-5;
+        font-weight: bold;
+        text-align: center;
+        text-decoration: none;
+        color: $primary-color;
+        border: 1px solid $primary-color;
+        border-radius: 0;
+        &:hover {
+            color: $background-color;
+            background-color: $primary-color;
+        }
+        &:first-child {
+            border-top-right-radius: 0;
+            border-bottom-right-radius: 0;
+        }
+        &:last-child {
+            margin-left: -1px;
+            border-top-left-radius: 0;
+            border-bottom-left-radius: 0;
+        }
+        &.disabled {
+            color: mix($background-color, $gray, 75%);
+            pointer-events: none;
+            cursor: not-allowed;
+        }
+    }
+}
+
+.page__content + .pagination,
+.page__meta + .pagination,
+.page__share + .pagination,
+.page__comments + .pagination {
+    margin-top: 2em;
+    padding-top: 2em;
+    border-top: 1px solid $border-color;
+}
