@@ -4,7 +4,7 @@
 
 My blog and portfolio all in one.
 
-- View this project via GitHub Pages at [fvcproductions.github.io](fvcproductions.github.io)
+- View this project via GitHub Pages at [fvcproductions.github.io](http://fvcproductions.github.io)
 
 ## Table of Contents
 
@@ -21,20 +21,20 @@ My blog and portfolio all in one.
 
 Use the following commands to locally serve this website.
 
-```shell
+```bash
 $ bundle install
 $ bundle exec jekyll serve
 ```
 
 For faster rendering...
 
-```shell
+```bash
 $ bundle exec jekyll serve --watch --limit_posts 1
 ```
 
 If you aren't running the latest version:
 
-```shell
+```bash
 $ gem update jekyll
 ```
 
@@ -42,7 +42,7 @@ I use CodeKit 3 (`config.codekit3`) to handle compilation.
 
 For search integration with Algolia, I can either run the following command or set it up automatically using TravisCI.
 
-```shell
+```bash
 ALGOLIA_API_KEY='API_KEY' bundle exec jekyll algolia push
 ```
 

@@ -1,5 +1,6 @@
 .archive {
     margin-bottom: 2em;
+
     a {
         color: inherit;
         text-decoration: none;
@@ -12,6 +13,7 @@
     font-size: $type-size-5;
     color: mix($background-color, $gray, 25%);
     border-bottom: 1px solid $border-color;
+
     + .list__item .archive__item-title {
         margin-top: 0.5em;
     }
@@ -20,13 +22,16 @@
 .archive__item-title {
     margin-bottom: 0.25em;
     font-family: $sans-serif-narrow;
+
     a {
         color: $primary-color;
     }
+
     a:hover {
         text-decoration: none;
         color: $gray;
     }
+
     a + a {
         opacity: 0.5;
     }
@@ -48,12 +53,14 @@
     margin-top: 0;
     font-size: $type-size-6;
     font-family: $sans-serif;
+
     & + p {
         text-indent: 0;
     }
+
     &.project-date {
         font-family: $monospace;
-        margin-bottom: .5em;
+        margin-bottom: 0.5em;
     }
 }
 
@@ -64,23 +71,24 @@
     max-height: 200px;
     // border-top: 2px solid black;
     border-bottom: 2px solid black;
+
     img {
         width: 100%;
     }
 }
-
-
 /** Portfolio Customizations */
-
 .archive__item.regular__item {
     border: solid 2px $primary-color;
+
     .archive__item {
-        transition: box-shadow .25s;
+        transition: box-shadow 0.25s;
         box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
     }
+
     .archive__item-title {
-        padding: .5em 1em .5em 1em;
+        padding: 0.5em 1em;
     }
+
     .archive__item-excerpt {
         padding: 0 1em 0 1.2em;
     }
@@ -95,12 +103,15 @@
 
 .archive__item.behance-project {
     border-color: $behance-color !important;
+
     .archive__item-title a:hover {
         color: $behance-color !important;
     }
+
     .project-header {
         color: $behance-color !important;
     }
+
     .archive__item-teaser {
         border-top: 2px solid $behance-color;
         border-bottom: 2px solid $behance-color;
@@ -109,12 +120,15 @@
 
 .archive__item.github-repo {
     border-color: $github-color !important;
+
     .archive__item-title a:hover {
         color: $github-color !important;
     }
+
     .project-header {
         color: $github-color !important;
     }
+
     .archive__item-teaser {
         border-top: 2px solid $github-color;
         border-bottom: 2px solid $github-color;
@@ -123,12 +137,15 @@
 
 .archive__item.youtube-video {
     border-color: $youtube-color !important;
+
     .archive__item-title a:hover {
         color: $youtube-color !important;
     }
+
     .project-header {
         color: $youtube-color !important;
     }
+
     .archive__item-teaser {
         border-top: 2px solid $youtube-color;
         border-bottom: 2px solid $youtube-color;
@@ -137,16 +154,14 @@
 
 .archive__item .project-header {
     text-align: center;
+
     h3 {
         margin-top: 1em;
     }
 }
-
-
 /*
    List view
    ========================================================================== */
-
 .list__item {
     @include breakpoint($medium) {
         padding-right: $right-sidebar-width-narrow;
@@ -157,6 +172,7 @@
     @include breakpoint($x-large) {
         padding-right: $right-sidebar-width-wide;
     }
+
     .page__meta {
         margin: 0 0 4px;
     }
@@ -165,26 +181,26 @@
 .blog__item {
     padding-right: 0;
 }
-
-
 /*
    Grid view
    ========================================================================== */
-
 .grid__item {
     margin-bottom: 2em;
+
     .page__meta {
         margin: 0 0 4px;
     }
+
     .archive__item-title {
         margin-top: 0.5em;
         font-size: $type-size-5;
     }
+
     .archive__item-excerpt {
         display: none;
     }
     @include breakpoint($small) {
-        @include gallery(6 of 12);
+         @include gallery(6 of 12);
     }
     @include breakpoint($medium) {
         margin-left: 0;
@@ -192,27 +208,28 @@
         margin-right: 0;
         /* reset before mixin does its thing*/
         @include gallery(4 of 12);
+
         .archive__item.portfolio__item {
             height: 500px;
         }
+
         .archive__item.service__item {
             height: 350px;
         }
+
         .archive__item.testimonial__item {
             height: 400px;
         }
+
         .archive__item-excerpt {
             display: block;
             font-size: $type-size-6;
         }
     }
 }
-
-
 /*
    Features
    ========================================================================== */
-
 .feature__wrapper {
     @include clearfix();
     margin-bottom: 2em;
@@ -225,14 +242,17 @@
     @include breakpoint($small) {
         margin-bottom: 0;
         @include gallery(4 of 12);
+
         .feature__item-teaser {
             max-height: 200px;
             overflow: hidden;
         }
     }
+
     &--left {
         @include full();
         font-size: 1.25rem;
+
         .archive__item-teaser {
             margin-bottom: 2em;
         }
@@ -240,6 +260,7 @@
             .archive__item-teaser {
                 @include span(6 of 12);
             }
+
             .archive__item-body {
                 @include span(10 of 12 last);
                 @include prefix(0.5 of 12);
@@ -247,17 +268,21 @@
             }
         }
     }
+
     &--right {
         @include full();
         font-size: 1.25rem;
+
         .archive__item-teaser {
             margin-bottom: 2em;
         }
         @include breakpoint($small) {
             text-align: right;
+
             .archive__item-teaser {
                 @include span(6 of 12 rtl);
             }
+
             .archive__item-body {
                 @include span(10 of 12 last rtl);
                 @include prefix(0.5 of 12);
@@ -265,18 +290,22 @@
             }
         }
     }
+
     &--center {
         @include full();
         font-size: 1.25rem;
+
         .archive__item-teaser {
             margin-bottom: 2em;
         }
         @include breakpoint($small) {
             text-align: center;
+
             .archive__item-teaser {
                 margin: 0 auto;
                 width: span(6 of 12);
             }
+
             .archive__item-body {
                 margin: 0 auto;
                 width: span(10 of 12);
@@ -284,10 +313,7 @@
         }
     }
 }
-
-
 /** Blog View */
-
 .list__item.blog__item h2 {
     margin-bottom: 0;
     padding-bottom: 0.25em;
