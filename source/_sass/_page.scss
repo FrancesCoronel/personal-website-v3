@@ -49,6 +49,9 @@
     dl {
         font-size: 1em;
     }
+    h2:first-child {
+        margin-top: 0
+    }
     /* paragraph indents */
     p {
         margin: 0 0 $indent-var;
@@ -62,6 +65,7 @@
     }
     a {
         text-decoration: none;
+        color: $link-color;
         &:hover {
             text-decoration: underline;
             img {
@@ -446,7 +450,7 @@ footer.page__meta.introductory__info {
 
 iframe#travel {
     margin-bottom: 2em;
-    min-width: 100%;
+    max-width: 90vw;
 }
 
 

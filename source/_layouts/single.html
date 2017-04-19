@@ -7,7 +7,7 @@ layout: default
 {% if page.categories contains 'testimonial' %}
 {% else %}
   {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-      {% include page__hero.html %}
+      {% include page/hero.html %}
   {% endif %}
 {% endif %}
 
@@ -89,7 +89,7 @@ layout: default
             <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
           {% endif %}
           {% unless page.categories contains "testimonial" %}
-            {% include page__taxonomy.html %}
+            {% include page/taxonomy.html %}
           {% endunless %}
         </footer>
       {% endif %}
@@ -116,7 +116,7 @@ layout: default
       {% endif %}
       <div class="grid__wrapper related__posts">
         {% for post in site.related_posts limit:3 %}
-          {% include archive-single.html type="grid" %}
+          {% include archive-item/single.html type="grid" %}
         {% endfor %}
       </div>
     </div>

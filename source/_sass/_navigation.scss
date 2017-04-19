@@ -73,10 +73,7 @@
         position: absolute;
         top: 100%;
         right: 0;
-        margin-top: 15px;
-        padding: 5px;
         border: 1px solid $border-color;
-        border-radius: $border-radius;
         background: $background-color;
         box-shadow: 0 0 10px rgba($primary-color, 0.25);
         a {
@@ -90,7 +87,7 @@
             }
         }
         &:before {
-            content: "";
+            // content: "";
             position: absolute;
             top: -11px;
             right: 10px;
@@ -102,7 +99,7 @@
             z-index: 0;
         }
         &:after {
-            content: "";
+            // content: "";
             position: absolute;
             top: -10px;
             right: 10px;

@@ -1,7 +1,7 @@
 ---
 title: "Adventures ✈"
 permalink: /adventures/
-excerpt: "Everyday is an adventure."
+excerpt: "Never say ‘no’ to adventures. Always say ‘yes,’ otherwise, you’ll lead a very dull life."
 ---
 
 {% include base_path %}
@@ -9,6 +9,6 @@ excerpt: "Everyday is an adventure."
 <div class="grid__wrapper">
     {% assign sorted = (site.adventures | sort: 'date') | reverse %}
     {% for post in sorted %}
-        {% include archive-single.html type="grid" %}
+        {% include archive-item/single.html type="grid" %}
     {% endfor %}
 </div>

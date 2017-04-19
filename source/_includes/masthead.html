@@ -18,7 +18,23 @@
                     <li class="masthead__menu-item">
                         <a href="{{ domain }}{{ link.url }}">
                             {{ link.title }}
-                          </a>
+                        </a>
+                        {% if link.children != null %}
+                            <ul>
+                            {% for child in link.children %}
+                                {% if child.url contains "://" %}
+                                    {% assign domain = "" %}
+                                {% else %}
+                                  {% assign domain = site.url | append: site.baseurl %}
+                                {% endif %}
+                                <li>
+                                    <a href="{{ domain }}{{ child.url }}">
+                                        {{ child.title }}
+                                    </a>
+                                </li>
+                            {% endfor %}
+                            </ul>
+                        {% endif %}
                     </li>
                     {% endfor %}
                 </ul>

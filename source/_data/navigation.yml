@@ -1,12 +1,22 @@
 main:
   - title: "About 👀"
     url: /about/
+    children:
+      - title: "Travels 🌎"
+        url: /about/travels/
+      - title: "What I Use 📱"
+        url : /about/what-i-use/
   - title: "Adventures ✈️"
     url: /adventures/
   - title: "Blog 📝"
     url: /blog/
   - title: "Portfolio 💼"
     url: /portfolio/
+    children:
+      - title: "Awards 🏆"
+        url: /portfolio/awards/
+      - title: "Resume 📄"
+        url : /portfolio/resume/
   - title: "Services 🛠"
     url: /services/
   - title: "Feedback 💖"
@@ -15,15 +25,3 @@ main:
     url : /contact/
   - title: "Search 🔍"
     url: /search/
-  - title: "Privacy Policy 🔐"
-    url: "/privacy-policy/"
-  - title: "Travels 🌎"
-    url: /about/travels/
-  - title: "What I Use 📱"
-    url : /about/what-i-use/
-  - title: "Awards 🏆"
-    url: /portfolio/awards/
-  - title: "Resume 📄"
-    url : /portfolio/resume/
-  - title: "Speaking 💬"
-    url: /services/speaking/

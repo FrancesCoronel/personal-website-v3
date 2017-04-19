@@ -8,6 +8,6 @@ permalink: /services/
 
 <div class="grid__wrapper">
   {% for post in site.services %}
-    {% include archive-single.html type="grid" %}
+    {% include archive-item/single.html type="grid" %}
   {% endfor %}
 </div>

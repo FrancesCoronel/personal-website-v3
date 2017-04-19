@@ -1,0 +1,59 @@
+/** Portfolio Customizations */
+
+.archive__item.regular__item {
+    .archive__item-content {
+        padding: 1em;
+        display: block;
+        text-overflow: ellipsis;
+        word-wrap: break-word;
+        overflow: hidden;
+        line-height: 1.1em;
+    }
+}
+
+.archive__item.portfolio__item,
+.archive__item.adventure__item,
+.archive__item.speaking__item,
+.archive__item.testimonial__item {
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12), 0 2px 4px -1px rgba(0, 0, 0, .2);
+}
+
+.archive__item.behance-project {
+    .archive__item-title a:hover {
+        color: $behance-color !important;
+    }
+    .project-header {
+        color: $behance-color !important;
+    }
+}
+
+.archive__item.github-repo {
+    .project-header {
+        color: $github-color !important;
+    }
+}
+
+.archive__item.youtube-video {
+    .archive__item-title a:hover {
+        color: $youtube-color !important;
+    }
+    .project-header {
+        color: $youtube-color !important;
+    }
+}
+
+.archive__item.speaker-deck {
+    .archive__item-title a:hover {
+        color: $speakerdeck-color !important;
+    }
+    .project-header {
+        color: $speakerdeck-color !important;
+    }
+}
+
+.archive__item .project-header {
+    text-align: center;
+    h3 {
+        margin-top: 1em;
+    }
+}

@@ -7,7 +7,7 @@
 		"uuidString": "E645A32B-9853-46C2-9B14-A9C7DFE1AA7A"
 		}
 	],
-"creatorBuild": "25479",
+"creatorBuild": "25813",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -99,6 +99,12 @@
 		"oAP": "\/build\/_drafts",
 		"oF": 0
 		},
+	"\/source\/_hackathons": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/_hackathons",
+		"oF": 0
+		},
 	"\/source\/_includes\/analytics\/analytics.html": {
 		"ft": 8192,
 		"oA": 1,
@@ -123,17 +129,29 @@
 		"oAP": "\/source\/_includes\/analytics\/search.html",
 		"oF": 1
 		},
-	"\/source\/_includes\/archive-config.html": {
+	"\/source\/_includes\/archive-item\/classes.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/source\/_includes\/archive-config.html",
+		"oAP": "\/source\/_includes\/archive-item\/classes.html",
 		"oF": 0
 		},
-	"\/source\/_includes\/archive-single.html": {
+	"\/source\/_includes\/archive-item\/single.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/_includes\/archive-single.html",
+		"oAP": "\/source\/_includes\/archive-item\/single.html",
 		"oF": 1
+		},
+	"\/source\/_includes\/archive-item\/teasers.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/source\/_includes\/archive-item\/teasers.html",
+		"oF": 0
+		},
+	"\/source\/_includes\/archive-item\/titles.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/source\/_includes\/archive-item\/titles.html",
+		"oF": 0
 		},
 	"\/source\/_includes\/base_path": {
 		"ft": 8192,
@@ -219,22 +237,22 @@
 		"oAP": "\/source\/_includes\/nav_list",
 		"oF": 1
 		},
-	"\/source\/_includes\/page__hero.html": {
+	"\/source\/_includes\/page\/hero.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/_includes\/page__hero.html",
+		"oAP": "\/source\/_includes\/page\/hero.html",
 		"oF": 1
 		},
-	"\/source\/_includes\/page__hero_video.html": {
+	"\/source\/_includes\/page\/hero_video.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/_includes\/page__hero_video.html",
+		"oAP": "\/source\/_includes\/page\/hero_video.html",
 		"oF": 1
 		},
-	"\/source\/_includes\/page__taxonomy.html": {
+	"\/source\/_includes\/page\/taxonomy.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/_includes\/page__taxonomy.html",
+		"oAP": "\/source\/_includes\/page\/taxonomy.html",
 		"oF": 1
 		},
 	"\/source\/_includes\/paginator.html": {
@@ -373,6 +391,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/source\/css\/_archive.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/source\/_sass\/_archive_config.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/source\/css\/_archive_config.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2168,7 +2199,10 @@
 		"oA": 0,
 		"oAP": "\/source\/assets\/favicons\/favicon-114.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/assets\/favicons\/favicon-120.png": {
 		"ft": 32768,
@@ -2176,7 +2210,10 @@
 		"oA": 0,
 		"oAP": "\/source\/assets\/favicons\/favicon-120.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/assets\/favicons\/favicon-144.png": {
 		"ft": 32768,
@@ -2184,7 +2221,10 @@
 		"oA": 0,
 		"oAP": "\/source\/assets\/favicons\/favicon-144.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/assets\/favicons\/favicon-152.png": {
 		"ft": 32768,
@@ -2192,7 +2232,10 @@
 		"oA": 0,
 		"oAP": "\/source\/assets\/favicons\/favicon-152.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/assets\/favicons\/favicon-180.png": {
 		"ft": 32768,
@@ -2200,7 +2243,10 @@
 		"oA": 0,
 		"oAP": "\/source\/assets\/favicons\/favicon-180.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/assets\/favicons\/favicon-192.png": {
 		"ft": 32768,
@@ -2208,7 +2254,10 @@
 		"oA": 0,
 		"oAP": "\/source\/assets\/favicons\/favicon-192.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/assets\/favicons\/favicon-32.png": {
 		"ft": 32768,
@@ -2216,7 +2265,10 @@
 		"oA": 0,
 		"oAP": "\/source\/assets\/favicons\/favicon-32.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/assets\/favicons\/favicon-36.png": {
 		"ft": 32768,
@@ -2224,7 +2276,10 @@
 		"oA": 0,
 		"oAP": "\/source\/assets\/favicons\/favicon-36.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/assets\/favicons\/favicon-48.png": {
 		"ft": 32768,
@@ -2232,7 +2287,10 @@
 		"oA": 0,
 		"oAP": "\/source\/assets\/favicons\/favicon-48.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/assets\/favicons\/favicon-57.png": {
 		"ft": 32768,
@@ -2240,7 +2298,10 @@
 		"oA": 0,
 		"oAP": "\/source\/assets\/favicons\/favicon-57.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/assets\/favicons\/favicon-60.png": {
 		"ft": 32768,
@@ -2248,7 +2309,10 @@
 		"oA": 0,
 		"oAP": "\/source\/assets\/favicons\/favicon-60.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/assets\/favicons\/favicon-72.png": {
 		"ft": 32768,
@@ -2256,7 +2320,10 @@
 		"oA": 0,
 		"oAP": "\/source\/assets\/favicons\/favicon-72.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/assets\/favicons\/favicon-76.png": {
 		"ft": 32768,
@@ -2264,7 +2331,10 @@
 		"oA": 0,
 		"oAP": "\/source\/assets\/favicons\/favicon-76.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/assets\/favicons\/favicon-96.png": {
 		"ft": 32768,
@@ -2272,7 +2342,10 @@
 		"oA": 0,
 		"oAP": "\/source\/assets\/favicons\/favicon-96.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/assets\/favicons\/favicon.ico": {
 		"ft": 8192,
@@ -2460,7 +2533,10 @@
 		"oA": 0,
 		"oAP": "\/source\/assets\/images\/teaser.png",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/assets\/js\/main.js": {
 		"ft": 64,
@@ -3259,6 +3335,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
@@ -3277,6 +3357,10 @@
 			},
 		"no-class-assign": {
 			"active": 1,
+			"optionString": ""
+			},
+		"no-compare-neg-zero": {
+			"active": 0,
 			"optionString": ""
 			},
 		"no-cond-assign": {
@@ -3479,6 +3563,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-multi-spaces": {
 			"active": 0,
 			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
@@ -3556,6 +3644,10 @@
 			"optionString": ""
 			},
 		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-prototype-builtins": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -3755,6 +3847,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -3799,9 +3895,17 @@
 			"active": 0,
 			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
 			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -3896,6 +4000,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -4342,7 +4450,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -4365,14 +4474,6 @@
 		"autoOutputPathStyle": 0,
 		"orderOutput": 0,
 		"outputStyle": 1
-		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
@@ -4435,7 +4536,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
@@ -4521,7 +4624,7 @@
 	"languageDefaultsUserDefined": [
 		],
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, \/source\/_pages, \/source\/_portfolio, \/source\/_posts, \/source\/_drafts, \/source\/_speaking, \/source\/_adventures, \/source\/_testimonials, \/source\/_services, \/site",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, \/source\/_pages, \/source\/_portfolio, \/source\/_posts, \/source\/_drafts, \/source\/_speaking, \/source\/_adventures, \/source\/_testimonials, \/source\/_services, \/site, \/source\/_hackathons",
 	"sourceFolderName": "source",
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {

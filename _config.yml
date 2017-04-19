@@ -241,9 +241,24 @@ defaults:
     values:
       layout: single
       share: true
+  # _speaking
   - scope:
       path: ""
       type: speaking
+    values:
+      layout: single
+      share: true
+  # _conferences
+  - scope:
+      path: ""
+      type: conferences
+    values:
+      layout: single
+      share: true
+  # _hackathons
+  - scope:
+      path: ""
+      type: hackathons
     values:
       layout: single
       share: true
@@ -265,3 +280,9 @@ collections:
   speaking:
     output: true
     permalink: /services/speaking/:path/
+  conferences:
+    output: true
+    permalink: /adventures/conferences/:path
+  hackathons:
+    output: true
+    permalink: /adventures/hackathons/:path

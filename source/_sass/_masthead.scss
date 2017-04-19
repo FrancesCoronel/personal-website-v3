@@ -1,12 +1,7 @@
-/* ==========================================================================
-   MASTHEAD
-   ========================================================================== */
-
 .masthead {
     background-color: $primary-color;
     position: fixed;
     width: 100%;
-    height: 100px;
     -webkit-animation: intro 0.3s both;
     animation: slide-down ease-in-out 0.6s 0.2s both;
     -webkit-animation-delay: 0.15s;
@@ -51,4 +46,83 @@
         font-family: $sans-serif;
         font-size: $type-size-5;
     }
+}
+
+
+/** Children Menu */
+
+nav {
+    display: -webkit-box;
+}
+
+nav ul {
+    list-style: none;
+    position: relative;
+    margin: 0;
+    padding: 0
+}
+
+nav ul a {
+    display: block;
+}
+
+nav ul li {
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    min-width: 150px;
+    text-align: center;
+    left: 0;
+    padding: 5px;
+    border: 1px solid $border-color;
+    background: $background-color;
+    box-shadow: 0 0 10px rgba($primary-color, 0.25);
+}
+
+nav ul ul li {
+    display: block !important;
+    border-bottom: 1px solid $border-color;
+    &:last-child {
+        border-bottom: none;
+    }
+    a {
+        margin: 0 !important;
+        padding: 10px 20px !important;
+        font-size: $type-size-7;
+        color: $primary-color !important;
+        display: block;
+        font-weight: 300;
+        text-decoration: none;
+        &:before {
+            display: none;
+        }
+        &:hover {
+            color: $background-color !important;
+            background: $primary-color !important;
+        }
+    }
+}
+
+nav ul ul ul {
+    top: 0;
+    left: 100%
+}
+
+nav ul li:hover > ul {
+    display: block !important;
+    left: auto;
+    top: 100%;
+    -webkit-transition: top .45s ease-in-out, opacity .45s ease-in-out;
+    -moz-transition: top .45s ease-in-out, opacity .45s ease-in-out;
+    transition: top .45s ease-in-out, opacity .45s ease-in-out;
+}
+
+ul.hidden-links li:hover > ul {
+    display: none !important;
 }

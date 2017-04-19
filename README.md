@@ -38,6 +38,23 @@ If you aren't running the latest version:
 $ gem update jekyll
 ```
 
+To convert multiple HTML files to Markdown:
+
+```bash
+for f in *.html; do pandoc ${f} -f html -t markdown -s -o ${f}.md; done
+```
+
+To convert Wordpress.com XML files to Jekyll format:
+
+```ruby
+ruby -rubygems -e 'require "jekyll-import";
+JekyllImport::Importers::WordpressDotCom.run({
+    "source" => "fvcproductions.wordpress.2017-03-04.002.xml",
+    "no_fetch_images" => true,
+    "assets_folder" => "assets"
+})'
+```
+
 I use CodeKit 3 (`config.codekit3`) to handle compilation.
 
 For search integration with Algolia, I can either run the following command or set it up automatically using TravisCI.

@@ -13,7 +13,7 @@ figure.highlight {
     border-radius: 0;
     background-color: $code-background-color;
     box-shadow: $box-shadow;
-    border-left: 13px solid rgba(0,0,0,0.2);
+    border-left: 13px solid rgba(0, 0, 0, 0.2);
     &:before {
         position: absolute;
         top: 0;
@@ -32,14 +32,13 @@ figure.highlight {
         margin: 0;
         padding: 2em;
     }
-}
-
-code {
-    color: $background-color;
+    code {
+        color: $background-color;
+    }
 }
 
 .highlight table td.gutter {
-  display: none;
+    display: none;
 }
 
 p>code,

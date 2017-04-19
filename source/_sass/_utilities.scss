@@ -331,6 +331,7 @@ body:hover .visually-hidden button {
     }
 }
 
+
 /*
    Sticky, fixed to top content
    ========================================================================== */
@@ -485,4 +486,12 @@ a.reversefootnote {
         width: 100%;
         height: 100%;
     }
+}
+
+
+/** Airtable */
+
+iframe.airtable-embed {
+    margin-bottom: 2em;
+    margin-top: 1em;
 }

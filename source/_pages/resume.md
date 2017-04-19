@@ -3,14 +3,15 @@ title: "Resume 📄"
 permalink: /portfolio/resume/
 ---
 
-# For a live version of my resume, please refer to my LinkedIn.
+<h2>For a live version of my resume, please refer to <a href="http://linkedin.com/in/fvcproductions" target="_blank">my LinkedIn</a>.</h2>
 
-<h1><i class="fa fa-linkedin-square"></i> <a href="http://linkedin.com/in/fvcproductions" target="_blank">linkedin.com/in/fvcproductions</a></h1>
+> Feel free to connect with me! 👥
 
-### Also, feel free to connect with me on there! 👥
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js"></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="fvcproductions"><a class="LI-simple-link" href='https://www.linkedin.com/in/fvcproductions?trk=profile-badge'>Frances Coronel</a></div>
 
-# For the time being, here's the hard copy.
+<br>
 
-<p><a title="View Resume | FVCproductions on Scribd" href="https://www.scribd.com/document/324348340/Resume-FVCproductions#from_embed">Resume | FVCproductions</a> by <a title="View FVCproductions's profile on Scribd" href="https://www.scribd.com/user/194063411/FVCproductions#from_embed">FVCproductions</a> on Scribd</p>
+# And here's the hard copy for reference.
 
 <iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/324348340/content?start_page=1&view_mode=scroll&access_key=key-WoN8XzkEzwtXxpGBkwM1&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_50901" width="100%" height="600" frameborder="0"></iframe>

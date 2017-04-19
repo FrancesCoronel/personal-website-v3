@@ -47,6 +47,7 @@ $susy: ( columns: 12, gutters: 1/4, math: fluid, output: float, gutter-position:
 
 @import "page";
 @import "archive";
+@import "archive_config";
 @import "sidebar";
 @import "print";
 

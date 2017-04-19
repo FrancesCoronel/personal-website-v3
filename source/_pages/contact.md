@@ -3,15 +3,13 @@ title: "Contact 📨"
 permalink: /contact/
 ---
 
-# Feel free to email me at `fvcproductions at gmail.com`. 📥
+## Feel free to email me at `fvcproductions at gmail.com`. 📥
 
-## Or you can reach out to me via:
+### Or you can reach out to me via:
 
-- [Twitter](http://twitter.com/fvcproductions) 🐦
-- [LinkedIn](http://linkedin.com/in/fvcproductions) 👥
-- [Calendly](http://calendly.com/fvcproductions) 📅
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/fvcproductions" style="min-width:320px;height:580px;"></div>
+- <a href="http://twitter.com/fvcproductions" target="_blank">Twitter</a> 🐦
+- <a href="http://linkedin.com/in/fvcproductions" target="_blank">LinkedIn</a> 👥
+- <a href="http://calendly.com/fvcproductions" target="_blank">Calendly</a> 📅
 
 ## If you have benefited from my work, show the love by donating just $1 using the piggy below (redirects to [PayPal.Me](http://paypal.me/fvcproductions)).
 

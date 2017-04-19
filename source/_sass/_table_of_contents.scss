@@ -39,7 +39,7 @@
         &:hover {
             color: #000;
             background: $lighter-gray;
-            text-decoration: none;
+            text-decoration: none !important;
         }
     }
     > li:last-child {
