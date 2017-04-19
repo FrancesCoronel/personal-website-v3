@@ -5,8 +5,6 @@ excerpt: "I like to dabble with things that ought to be dabbled with."
 modified: 2017-03-04
 ---
 
-<!-- {% include base_path %}
- -->
 <h2>I like to dabble with things that <del>shouldn’t</del> ought to be dabbled with.</h2>
 
 Well, at least… that’s my slogan.
