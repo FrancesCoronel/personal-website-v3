@@ -16,12 +16,12 @@ layout: default
     {% else %}
       {% capture img_path %}{{ page.header.image | absolute_url }}{% endcapture %}
     {% endif %}
-    <img src="{{ img_path }}" alt="{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}">
+    <img class="feedback__hero-image" src="{{ img_path }}" alt="{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}">
     <div class="primary-hentry-inner">
       <div class="container">
       {% if page.title %}
         {% if page.cta_url %}
-        <h1 class="entry-title" itemprop="headline">
+        <h1 class="feedback-title" itemprop="headline">
           <a href="{{ page.cta_url }}" target="_blank">
           {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
           </a>
@@ -71,9 +71,11 @@ layout: default
     {% endunless %}
 
     <header class="page__meta">
-    {% if page.excerpt %}
-      <p itemprop="description"><i class="fa fa-info-circle fa-lg"></i> {{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}</p>
-    {% endif %}
+    {% unless page.categories contains "feedback" %}
+      {% if page.excerpt %}
+        <p itemprop="description"><i class="fa fa-info-circle fa-lg"></i> {{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}</p>
+      {% endif %}
+    {% endunless %}
     {% if page.date %}
     <p>{% if page.permalink == '/services/speaking' %} <i class="fa fa-commenting fa-lg" aria-hidden="true"></i> Presented {% else %}<i class="fa fa-pencil-square-o fa-lg" aria-hidden="true"></i> Created {% endif %}
       <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
