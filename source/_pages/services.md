@@ -4,10 +4,9 @@ title: "Services 🛠"
 permalink: /services/
 ---
 
-{% include base_path %}
-
 <div class="grid__wrapper">
-  {% for post in site.services %}
+  {% assign sorted_services = (site.services | sort: 'title') %}
+  {% for post in sorted_services %}
     {% include archive-item/single.html type="grid" %}
   {% endfor %}
 </div>

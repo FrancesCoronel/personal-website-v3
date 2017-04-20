@@ -1,7 +1,7 @@
 ---
-title: Pak Chu
+title: "Pak Chu"
 date: 2016-05-24
-category: testimonial
+category: feedback
 cta_url: https://www.linkedin.com/in/pak-chu-60a35b42
 header:
     image: https://fvcproductions.files.wordpress.com/2016/05/11127053_10153307376193643_6047238167077313861_n.jpg?w=200&h=200

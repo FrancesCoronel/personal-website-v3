@@ -1,7 +1,7 @@
 ---
-title: Wen Tran
+title: "Wen Tran"
 date: 2016-06-06
-category: testimonial
+category: feedback
 cta_url: https://github.com/wentran
 header:
     image: https://fvcproductions.files.wordpress.com/2016/06/wentran.jpeg?w=200&h=200

@@ -4,7 +4,6 @@ title: "Terms of Service and Privacy Policy 🔐"
 modified: 2016-06-06
 ---
 
-{% include base_path %}
 {% include toc %}
 
 ## FVCproductions Terms of Service and Privacy Policy

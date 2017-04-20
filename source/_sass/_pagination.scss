@@ -5,7 +5,7 @@
 .pagination {
     @include full();
     @include clearfix();
-    margin-top: 1em;
+    display: flex;
     ul {
         margin: 0;
         padding: 0;
@@ -14,8 +14,6 @@
     }
     li {
         display: block;
-        float: left;
-        margin-left: -1px;
         a {
             display: block;
             margin-bottom: 0.25em;
@@ -43,15 +41,11 @@
                 cursor: not-allowed;
             }
         }
-        &:first-child {
-            margin-left: 0;
-        }
     }
     /* next/previous buttons */
     &--pager {
         display: block;
         padding: 1em 2em;
-        float: left;
         width: 50%;
         font-family: $sans-serif;
         font-size: $type-size-5;
@@ -61,18 +55,12 @@
         color: $primary-color;
         border: 1px solid $primary-color;
         border-radius: 0;
+        &:first-child {
+            border-right: none;
+        }
         &:hover {
             color: $background-color;
             background-color: $primary-color;
-        }
-        &:first-child {
-            border-top-right-radius: 0;
-            border-bottom-right-radius: 0;
-        }
-        &:last-child {
-            margin-left: -1px;
-            border-top-left-radius: 0;
-            border-bottom-left-radius: 0;
         }
         &.disabled {
             color: mix($background-color, $gray, 75%);
@@ -89,4 +77,14 @@
     margin-top: 2em;
     padding-top: 2em;
     border-top: 1px solid $border-color;
+}
+
+@media screen and (max-width: 800px) and (orientation: landscape),
+screen and (max-height: 300px) {
+    .pagination--pager {
+        width: 100%;
+        &:first-child {
+            border-bottom: none;
+        }
+    }
 }

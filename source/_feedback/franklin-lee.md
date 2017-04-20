@@ -1,7 +1,7 @@
 ---
-title: Franklin Lee
+title: "Franklin Lee"
 date: 2017-02-01
-category: testimonial
+category: feedback
 cta_url: https://www.linkedin.com/in/franklin-young-lee
 header:
   image: https://fvcproductions.files.wordpress.com/2017/02/franklin-lee.jpg?w=200&h=200

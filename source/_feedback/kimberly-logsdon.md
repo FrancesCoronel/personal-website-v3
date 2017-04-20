@@ -1,7 +1,7 @@
 ---
-title: Kimberly Logsdon
+title: "Kimberly Logsdon"
 date: 2016-01-05
-category: testimonial
+category: feedback
 cta_url: http://gotcharacter.weebly.com/about-us.html
 header:
     image: https://fvcproductions.files.wordpress.com/2016/01/kimberly-logsdon.png?h=200

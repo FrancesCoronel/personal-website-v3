@@ -218,7 +218,7 @@ defaults:
       read_time: false
       share: true
       comments: true
-  # _testimonials
+  # _feedback
   - scope:
       path: ""
       type: feedback
@@ -271,7 +271,7 @@ collections:
   services:
     output: true
     permalink: /services/:path/
-  testimonials:
+  feedback:
     output: true
     permalink: /feedback/:title/
   adventures:

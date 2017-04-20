@@ -1,7 +1,7 @@
 ---
-title: Alex Bradshaw
+title: "Alex Bradshaw"
 date: 2015-12-18
-category: testimonial
+category: feedback
 cta_url: https://www.linkedin.com/in/alex-bradshaw-a3293775
 header:
     image: https://fvcproductions.files.wordpress.com/2015/12/bradshaw-alex-e1450460074983.jpg?w=200&h=200

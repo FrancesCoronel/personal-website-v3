@@ -1,14 +1,12 @@
 ---
-layout: archive
 title: "Feedback 💖"
 permalink: /feedback/
+excerpt: "All the nice things folks have had to say."
 ---
 
-{% include base_path %}
-
 <div class="grid__wrapper">
-  {% assign sorted_testimonials = (site.testimonials | sort: 'date') | reverse %}
-  {% for post in sorted_testimonials %}
+  {% assign sorted_feedback = (site.feedback | sort: 'date') | reverse %}
+  {% for post in sorted_feedback %}
     {% include archive-item/single.html type="grid" %}
   {% endfor %}
 </div>

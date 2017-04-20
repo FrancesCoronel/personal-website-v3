@@ -4,7 +4,6 @@ permalink: /categories/
 title: "Posts by Category"
 ---
 
-{% include base_path %}
 {% include group-by-array collection=site.posts field="categories" %}
 
 {% for category in group_names %}

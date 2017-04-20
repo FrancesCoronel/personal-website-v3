@@ -7,7 +7,7 @@ permalink: /portfolio/resume/
 
 > Feel free to connect with me! 👥
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js"></script>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" aync></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="fvcproductions"><a class="LI-simple-link" href='https://www.linkedin.com/in/fvcproductions?trk=profile-badge'>Frances Coronel</a></div>
 
 <br>

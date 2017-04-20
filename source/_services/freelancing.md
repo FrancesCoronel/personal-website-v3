@@ -15,7 +15,7 @@ header:
 
 ### Provisions
 
-Whatever your needs are related to web design & development or blog writing, I will work with you every step of the way to ensure you get the best quality output. To get a better idea of what I have to offer, feel free to look through a few samples from my blog, portfolio, and testimonials given from folks I've worked with in the past.
+Whatever your needs are related to web design & development or blog writing, I will work with you every step of the way to ensure you get the best quality output. To get a better idea of what I have to offer, feel free to look through a few samples from my blog, portfolio, and feedback given from folks I've worked with in the past.
 
 ### Process
 

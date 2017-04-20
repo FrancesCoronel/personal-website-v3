@@ -1,7 +1,7 @@
 ---
-title: Ai Choo Ashe
+title: "Ai Choo Ashe"
 date: 2015-12-10
-category: testimonial
+category: feedback
 cta_url: https://edex.adobe.com/member/950841/
 header:
   image: https://fvcproductions.files.wordpress.com/2015/12/aichooashe1.jpg?w=200&h=200

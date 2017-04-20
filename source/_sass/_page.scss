@@ -7,7 +7,7 @@
     @include clearfix;
     animation: intro 0.3s both;
     animation-delay: 0.35s;
-    padding: 2em 1em 2em 1em;
+    padding: 3em 1em 2em 1em;
     @include breakpoint($x-x-large) {
         min-width: $x-x-large;
     }
@@ -173,8 +173,6 @@
    ========================================================================== */
 
 .page__share {
-    margin-top: 1em;
-    padding-top: 1em;
     border-top: 1px solid $border-color;
     @include breakpoint(max-width $small) {
         .btn span {
@@ -190,8 +188,9 @@
     }
 }
 
-.page__share-title {
-    margin-bottom: 2em;
+.page__share-title,
+.page__pagination-title {
+    margin: 2em 0 2em 0;
     font-size: $type-size-6;
     text-transform: uppercase;
     font-weight: 400;
@@ -203,12 +202,12 @@
    ========================================================================== */
 
 .page__meta {
-    margin-top: 2em;
+    margin: 1em 0 1em 0;
     color: $gray;
     font-family: $monospace;
     font-size: $type-size-7;
     p {
-        margin: 0;
+        margin-bottom: 1em;
     }
     a {
         color: inherit;
@@ -363,6 +362,7 @@ footer.page__meta.introductory__info {
     text-transform: uppercase;
 }
 
+
 /** PAGINATION */
 
 .page__pagination {
@@ -378,12 +378,6 @@ footer.page__meta.introductory__info {
         color: inherit;
         text-decoration: none;
     }
-}
-
-.page__pagination-title {
-    margin-top: 2rem;
-    font-size: $type-size-6;
-    text-transform: uppercase;
 }
 
 
@@ -451,15 +445,4 @@ footer.page__meta.introductory__info {
 iframe#travel {
     margin-bottom: 2em;
     max-width: 90vw;
-}
-
-
-/** Introductory Info */
-
-.page__meta.introductory__info {
-    margin-top: 0;
-    margin-bottom: 2em;
-    p {
-        margin-bottom: 1em;
-    }
 }

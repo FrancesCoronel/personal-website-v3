@@ -1,7 +1,7 @@
 ---
-title: Mike Jonas
+title: "Mike Jonas"
 date: 2016-04-07
-category: testimonial
+category: feedback
 cta_url: https://angel.co/mike-jonas
 header:
     image: https://fvcproductions.files.wordpress.com/2016/04/aaeaaqaaaaaaaayuaaaajdc2zjc0ymuwltk3mditndy0ny1imzflltzhytmynjvmymixyq.jpg?w=200&h=200

@@ -11,8 +11,9 @@ tags:
 excerpt: Random poems from 2008.
 ---
 
-# Trampoline
+## Trampoline
 
+```
 I scream in delight
 I slip off my shoes
 For now I have just realized
@@ -28,9 +29,11 @@ Free as free as it can be
 That’s what you feel
 When you are on
 A trampoline
+```
 
 ## Wait
 
+```
 Wait!
 What’s the rush?
 What’s the hurry?
@@ -52,9 +55,11 @@ I will have to go
 Yes, I really have to go
 Yes, I really have to go!
 Oh god no!
+```
 
 ## The Test
 
+```
 Sitting down
 in a room with twenty,
 chewing at the end of my pencil
@@ -68,6 +73,7 @@ asking me to rush
 I feel as thought I need to rest
 yet before the clock strikes for my lunch
 I have finished my test
+```
 
 ## Mr. Shakespeare
 
@@ -99,6 +105,7 @@ Touch me.
 
 ## Gratitude
 
+```
 Sacred I am
 Humble I be
 
@@ -113,3 +120,4 @@ I am
 Content
 you Shall
 be
+```

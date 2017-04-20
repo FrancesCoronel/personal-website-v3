@@ -99,6 +99,12 @@
 		"oAP": "\/build\/_drafts",
 		"oF": 0
 		},
+	"\/source\/_feedback": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/_feedback",
+		"oF": 0
+		},
 	"\/source\/_hackathons": {
 		"ft": 65536,
 		"oA": 1,
@@ -152,12 +158,6 @@
 		"oA": 2,
 		"oAP": "\/source\/_includes\/archive-item\/titles.html",
 		"oF": 0
-		},
-	"\/source\/_includes\/base_path": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/source\/_includes\/base_path",
-		"oF": 1
 		},
 	"\/source\/_includes\/browser-upgrade.html": {
 		"ft": 8192,
@@ -295,12 +295,6 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/source\/_includes\/tag-list.html",
-		"oF": 1
-		},
-	"\/source\/_includes\/testimonials\/testimonial-single.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/source\/_includes\/testimonials\/testimonial-single.html",
 		"oF": 1
 		},
 	"\/source\/_includes\/toc": {
@@ -668,19 +662,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/source\/_sass\/_testimonial.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/source\/css\/_testimonial.css",
-		"oF": 1,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/source\/_sass\/_utilities.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -704,6 +685,19 @@
 		"oA": 1,
 		"oAP": "\/source\/css\/_variables.css",
 		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/source\/_sass\/feedback.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/source\/css\/feedback.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -1692,12 +1686,6 @@
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "\/build\/_speaking",
-		"oF": 0
-		},
-	"\/source\/_testimonials": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/build\/_testimonials",
 		"oF": 0
 		},
 	"\/source\/assets\/css\/font-awesome\/css\/font-awesome.css": {
@@ -4624,7 +4612,7 @@
 	"languageDefaultsUserDefined": [
 		],
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, \/source\/_pages, \/source\/_portfolio, \/source\/_posts, \/source\/_drafts, \/source\/_speaking, \/source\/_adventures, \/source\/_testimonials, \/source\/_services, \/site, \/source\/_hackathons",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, \/source\/_pages, \/source\/_portfolio, \/source\/_posts, \/source\/_drafts, \/source\/_speaking, \/source\/_adventures, \/source\/_testimonials, \/source\/_services, \/site, \/source\/_hackathons, \/source\/_feedback",
 	"sourceFolderName": "source",
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {

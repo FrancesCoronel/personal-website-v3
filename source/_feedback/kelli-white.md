@@ -1,7 +1,7 @@
 ---
-title: Kelli White
+title: "Kelli White"
 date: 2015-12-12
-category: testimonial
+category: feedback
 cta_url: https://www.linkedin.com/in/kelli-white-2898844b
 header:
     image: https://fvcproductions.files.wordpress.com/2015/12/screenshot-2015-12-12-15-08-29.png?w=200&h=200
