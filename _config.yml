@@ -7,7 +7,7 @@
 
 
 # Where things are
-source:       ./source
+source:       ./
 destination:  ./site
 
 # Site Settings

@@ -10,6 +10,6 @@ title: "Posts by Tags"
   {% assign posts = group_items[forloop.index0] %}
   <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
   {% for post in posts %}
-    {% include archive-item/single.html %}
+    {% include archive_item/single.html %}
   {% endfor %}
 {% endfor %}

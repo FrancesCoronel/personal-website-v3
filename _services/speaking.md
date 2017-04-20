@@ -13,6 +13,6 @@ header:
 <div class="grid__wrapper">
     {% assign sorted_speaking = (site.speaking | sort: 'date') | reverse %}
     {% for post in sorted_speaking %}
-        {% include archive-item/single.html type="grid" %}
+        {% include archive_item/single.html type="grid" %}
     {% endfor %}
 </div>

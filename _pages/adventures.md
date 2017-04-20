@@ -7,6 +7,6 @@ excerpt: "Never say ‘no’ to adventures. Always say ‘yes,’ otherwise, you
 <div class="grid__wrapper">
     {% assign sorted_adventures = (site.adventures | sort: 'title') %}
     {% for post in sorted_adventures %}
-        {% include archive-item/single.html type="grid" %}
+        {% include archive_item/single.html type="grid" %}
     {% endfor %}
 </div>

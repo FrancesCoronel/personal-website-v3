@@ -18,15 +18,15 @@
 
 <div class="{{ include.type | default: "list" }}__item {% if page.permalink == '/blog/' %} blog__item {% endif %}">
 
-  <article class="archive__item {% include archive-item/classes.html %}" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item {% include archive_item/classes.html %}" itemscope itemtype="http://schema.org/CreativeWork">
 
-    {% include archive-item/titles.html %}
+    {% include archive_item/titles.html %}
 
     {% if include.type == "grid" %}
       {% if post.header.teaser %}
         <div class="archive__item-teaser" id="primary-header" style="background-image: url({{ teaser }});"></div>
       {% else %}
-        <div class="archive__item-teaser" id="primary-header" style="{% include archive-item/teasers.html %}"></div>
+        <div class="archive__item-teaser" id="primary-header" style="{% include archive_item/teasers.html %}"></div>
       {% endif %}
     {% endif %}
 

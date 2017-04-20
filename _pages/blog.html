@@ -10,5 +10,5 @@ permalink: /blog/
     <h1 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h1>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
-  {% include archive-item/single.html %}
+  {% include archive_item/single.html %}
 {% endfor %}
