@@ -1,13 +1,15 @@
 .masthead {
-    background-color: $primary-color;
     position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    background-color: $primary-color;
     width: 100%;
     -webkit-animation: intro 0.3s both;
     animation: slide-down ease-in-out 0.6s 0.2s both;
-    -webkit-animation-delay: 0.15s;
-    animation-delay: 0.15s;
-    z-index: 20;
-    top: 0;
+    // -webkit-animation-delay: 0.15s;
+    // animation-delay: 0.15s;
     &__inner-wrap {
         @include container;
         @include clearfix;

@@ -20,12 +20,32 @@
         position: absolute;
         height: 100%;
         right: 0;
-        padding: 0 1em 0.5rem;
+        padding: 0 15px;
         border: 0;
         outline: none;
         background-color: $primary-color;
-        color: $background-color;
+        color: #fff;
         cursor: pointer;
+        &:hover {
+            background-color: $primary-color;
+            transform: scale(1.075);
+        }
+        &::after {
+            content: attr(count);
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            right: -5px;
+            top: 5px;
+            text-align: center;
+            background-color: $primary-color;
+            color: #fff;
+            font-size: 15px;
+            line-height: 25px;
+            border-radius: 50%;
+            border: 3px solid #fff;
+            font-weight: bold;
+        }
     }
     .visible-links {
         display: inline-table;
@@ -134,4 +154,6 @@
     font-size: 1.25rem;
     line-height: inherit;
     white-space: nowrap;
+    transition: none;
+    -webkit-transition: none;
 }

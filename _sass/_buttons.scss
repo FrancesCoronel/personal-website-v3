@@ -142,7 +142,8 @@ $fa-social: (facebook, $facebook-color),
 (rss, $rss-color),
 (youtube-play, $youtube-color),
 (behance, $behance-color),
-(github-alt, $gray);
+(github-alt, $gray),
+(spotify, $spotify-color);
 @each $social-network,
 $fa-color in $fa-social {
     .page__footer-follow .fa-#{$social-network}:hover {

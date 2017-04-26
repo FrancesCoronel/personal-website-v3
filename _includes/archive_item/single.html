@@ -26,7 +26,7 @@
       {% if post.header.teaser %}
         <div class="archive__item-teaser" id="primary-header" style="background-image: url({{ teaser }});"></div>
       {% else %}
-        <div class="archive__item-teaser" id="primary-header" style="{% include archive_item/teasers.html %}"></div>
+        <div class="archive__item-teaser" id="primary-header" style="background-image: url({% include archive_item/teasers.html %});"></div>
       {% endif %}
     {% endif %}
 
@@ -45,7 +45,7 @@
 
       {% if page.permalink == '/portfolio/' or page.permalink == '/services/speaking/' %}
         {% if post.date %}
-          <p class="archive__item-excerpt project-date" itemprop="datePublished">
+          <p class="archive__item-date" itemprop="datePublished">
             {{ post.date | date: "%B %d, %Y" }}
           </p>
         {% endif %}
@@ -53,8 +53,20 @@
 
       {% if post.excerpt %}
         <p class="archive__item-excerpt" itemprop="description">
-        {{ post.excerpt | markdownify | strip_html | truncate: 160 }}
+        {{ post.excerpt | markdownify | strip_html | truncate: 40, '...' }}
         </p>
+      {% endif %}
+
+      {% if page.permalink == '/feedback/' %}
+        {% if post.date %}
+          <p class="archive__item-date">
+              <time datetime="{{ post.date | date_to_xmlschema }}">
+                  <small class="text-muted">
+                      {{ post.date | date: "%B %d, %Y" }}
+                  </small>
+              </time>
+          </p>
+        {% endif %}
       {% endif %}
     </div>
   </article>

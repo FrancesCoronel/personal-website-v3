@@ -13,7 +13,6 @@ body {
     font-weight: 300;
     line-height: 1.5;
     /* Margin bottom by footer height */
-    margin-top: 97px;
     margin-bottom: 200px;
     word-wrap: break-word;
     &.overflow--hidden {
@@ -105,6 +104,7 @@ p#ga-pageviews {
     margin-bottom: 0;
 }
 
+
 /* abbreviations */
 
 abbr[title],
@@ -132,11 +132,13 @@ blockquote {
     }
 }
 
+
 /** font awesome */
 
 .fa {
     padding-right: .5em;
 }
+
 
 /* links */
 

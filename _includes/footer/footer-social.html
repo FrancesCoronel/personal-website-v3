@@ -28,6 +28,12 @@
 </li>
 {% endif %}
 
+{% if site.author.spotify %}
+<li>
+    <a href="https://open.spotify.com/user/{{ site.author.spotify }}"><i class="fa fa-fw fa-spotify fa-3x" aria-hidden="true"></i></a>
+</li>
+{% endif %}
+
 <li>
     <a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fa fa-fw fa-rss fa-3x" aria-hidden="true"></i></a>
 </li>
