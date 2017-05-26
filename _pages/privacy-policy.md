@@ -2,6 +2,7 @@
 permalink: /privacy-policy/
 title: "Terms of Service and Privacy Policy 🔐"
 modified: 2016-06-06
+excerpt: Because every website deserves a TOC.
 ---
 
 {% include toc %}

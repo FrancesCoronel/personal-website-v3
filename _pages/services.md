@@ -2,6 +2,7 @@
 layout: archive
 title: "Services 🛠"
 permalink: /services/
+excerpt: "What you can hire me for."
 ---
 
 <div class="grid__wrapper">

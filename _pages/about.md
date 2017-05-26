@@ -2,7 +2,7 @@
 title: "About 👀"
 permalink: /about/
 excerpt: "I like to dabble with things that ought to be dabbled with."
-modified: 2017-03-04
+modified: 2017-05-25
 ---
 
 <h2>I like to dabble with things that <del>shouldn’t</del> ought to be dabbled with.</h2>
@@ -15,20 +15,17 @@ Might have something to do with human nature in general, though, so interpret it
 
 ### Blurb
 
-- Self-driven CS student with a developer & design background 🎓 🔨 🎨
-- Latina who gets a lot of personal satisfaction out of helping the local tech community 😊
+- Self-driven MS in CS grad with a panache for design 🎓 🔨 🎨
+- Latina who gets a lot of personal satisfaction out of helping my local tech community 😊
 - Mentor, freelancer & speaker 💬
 - Avid conference & hackathon goer 🚗
 - Code pusher, design publisher & online blogger 🌐
 - Lover of chocolate dipped strawberries (my logo) and the 12-base system 🍓 🍫
 
-### What's happening nowadays?
+### So what's happening nowadays?
 
-> This a [now section](http://nownownow.com/about), and if you have your own site, you should make one, too.
+> This a [now section](http://nownownow.com/about), and if you have your own site, you should make one, too!
 
-- finishing up my last semester at Cornell Tech 🎓
-- acting as an ambassador for Fullstack Academy – feel free to reach out if you’re interested in any of the programs! 😊
-- trying to get a job 🤣
-- transitioning from Wordpress to Jekyll 📝
-    + saving a ton of money
-    + offers full control
+- mentoring a student as part of my Fullstack Academy ambassador gig
+- getting ready to move to SF
+- updating this website to be awesomeeeee

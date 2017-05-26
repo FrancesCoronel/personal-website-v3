@@ -1,12 +1,16 @@
 ---
 title: "Hackathons 🛠"
-excerpt: "Hackathons I've participated in."
+excerpt: "Do or do not. There is no try. -Yoda"
 permalink: /hackathons/
 header:
-  image: https://fvcproductions.files.wordpress.com/2016/07/img_0493.jpg
-  teaser: https://fvcproductions.files.wordpress.com/2016/07/img_0493.jpg
+  image: https://fvcproductions.files.wordpress.com/2016/02/12771707_1076383859078958_1519560316826557331_o.jpg
+  teaser: https://fvcproductions.files.wordpress.com/2016/02/12771707_1076383859078958_1519560316826557331_o.jpg
 comments: false
 ---
+
+### Hackathon activity can also be found on [my Devpost profile](http://devpost.com/fvcproductions "Devpost").
+
+> To see hackathons I've spoken at and not just attended, head over to [my speaking page](http://fvcproductions.com/services/speaking/ "Speaking")!
 
 <div class="grid__wrapper">
     {% assign sorted_hackathons = (site.hackathons | sort: 'date') | reverse %}

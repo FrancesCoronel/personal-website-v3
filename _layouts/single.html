@@ -114,18 +114,19 @@ layout: default
     {% if page.share %}
     {% include social-share.html %}
     {% endif %}
-  </div>
 
-  {% if site.comments.provider and page.comments %}
-    {% include comments/comments.html %}
-  {% endif %}
+    {% if site.comments.provider and page.comments %}
+      {% include comments/comments.html %}
+    {% endif %}
 
-  {% if page.previous or page.next %}
-    <div class="page__pagination">
-    <h4 class="page__pagination-title">{{ site.data.ui-text[site.locale].read_more_label }}</h4>
-    {% include post_pagination.html %}
-    </div>
-  {% endif %}
+    {% if page.previous or page.next %}
+      <div class="page__pagination">
+        <h4 class="page__pagination-title">
+          {{ site.data.ui-text[site.locale].read_more_label }}
+        </h4>
+        {% include post_pagination.html %}
+      </div>
+    {% endif %}
   </article>
 
   {% if page.id and page.related and site.related_posts.size > 0 %}
@@ -139,6 +140,9 @@ layout: default
     {% endfor %}
     </div>
   </div>
+  </div>
+
+
   <script>
   $('.related__posts>.grid__item>.archive__item').removeClass('regular__item');
   </script>

@@ -1,7 +1,8 @@
 ---
 title: "Travels 🌎"
-permalink: /about/travels/
+permalink: /travels/
 modified: 2017-01-01
+excerpt: Oh, the places you'll go.
 ---
 
 <iframe id="travel" width="640" height="480" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/d/u/0/embed?mid=11xSbsfkr_6UXjic4znLDZSObW_M"></iframe>
@@ -19,7 +20,7 @@ modified: 2017-01-01
 - studied in NYC at Fullstack Academy during the summer of 2015
 - interned in Redwood City, CA for Accenture during the summer of 2016
 - attending Ivy League school in NYC from 2016 to 2017
-- visited Canada and 21+ US states
+- visited Canada and 25+ US states
 
 ### Central & South America
 

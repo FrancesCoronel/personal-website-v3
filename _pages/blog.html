@@ -1,7 +1,12 @@
 ---
 title: "Blog 📝"
 permalink: /blog/
+excerpt: Writings and musings.
 ---
+
+{% for post in site.posts %}
+  {% include archive_item/single.html %}
+{% endfor %}
 
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}

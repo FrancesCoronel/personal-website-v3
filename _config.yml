@@ -262,6 +262,35 @@ defaults:
     values:
       layout: single
       share: true
+  # _experience
+  - scope:
+      path: ""
+      type: experience
+    values:
+      layout: single
+      share: true
+  # _education
+  - scope:
+      path: ""
+      type: education
+    values:
+      layout: single
+      share: true
+  # _programs
+  - scope:
+      path: ""
+      type: programs
+    values:
+      layout: single
+      share: true
+  # _volunteering
+  - scope:
+      path: ""
+      type: volunteering
+    values:
+      layout: single
+      share: true
+
 
 # Collections
 collections:
@@ -271,18 +300,30 @@ collections:
   services:
     output: true
     permalink: /services/:path/
+  speaking:
+    output: true
+    permalink: /services/speaking/:path/
   feedback:
     output: true
     permalink: /feedback/:title/
   adventures:
     output: true
     permalink: /adventures/:path/
-  speaking:
-    output: true
-    permalink: /services/speaking/:path/
   conferences:
     output: true
     permalink: /adventures/conferences/:path
   hackathons:
     output: true
     permalink: /adventures/hackathons/:path
+  programs:
+    output: true
+    permalink: /adventures/programs/:path
+  volunteering:
+    output: true
+    permalink: /adventures/volunteering/:path
+  experience:
+    output: true
+    permalink: /experience/:path
+  education:
+    output: true
+    permalink: /education/:path

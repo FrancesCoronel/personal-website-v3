@@ -67,30 +67,27 @@ ALGOLIA_API_KEY='API_KEY' bundle exec jekyll algolia push
 
 ### Form
 
-- Black and white scheme
-- Rectangle based
-- Minimal
-- Footer - 350px height
-- 50px space between title and link to more
-- 100px space between sections
+- [x] black and white scheme
+- [x] rectangle based
+- [x] minimal
 
 ### Function
 
-- Search with Algolia
-- Like & comment integration with Disqus
-- Site and page views with Google Analytics
-- Use IFTTT to automatically publish new posts & portfolio items to Twitter & LinkedIn
+- [x] search with Algolia
+- [x] like & comment integration with Disqus
+- [x] set up IFTTT to automatically publish new posts & portfolio items to Twitter & LinkedIn
 
-### In Progress
+## In Progress
 
-- making Algolia search work
-- making favicon bigger
+- [] site and page views with Google Analytics
+- [] migrating all portfolio items & posts
+- [] adding on new portfolio items since rebuilt start of website
 
 ## Usage
 
-This website was created from the bottom-up and is a migration from my Wordpress website.
+This website was created from the bottom-up and is a migration from my Wordpress website at [`fvcproductions.wordpress.com`](http://fvcproductions.wordpress.com).
 
-### Find and Replace in ST3
+> Find and Replace in ST3
 
 ```
 Where: <project>, -*/site/*

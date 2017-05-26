@@ -14,7 +14,7 @@ So far, I’ve helped out folks who have successfully gone on to coding bootcamp
 
 I’ve also tutored kids at the elementary, middle, and high school level on how to get started in the tech field.
 
-> As of **March 2017**, I’ve dedicated **over 35 hours** of my free time mentoring awesome people.
+> As of **May 2017**, I’ve dedicated **over 55 hours** of my free time mentoring awesome people.
 
 Feedback from my mentoring sessions can be found in the [feedback section](http://fvcproductions.com/feedback) of my website.
 

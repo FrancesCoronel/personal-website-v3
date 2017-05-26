@@ -13,7 +13,7 @@ body {
     font-weight: 300;
     line-height: 1.5;
     /* Margin bottom by footer height */
-    margin-bottom: 200px;
+    margin-bottom: 250px;
     word-wrap: break-word;
     &.overflow--hidden {
         /* when primary navigation is visible, the content in the background won't scroll */
@@ -28,7 +28,6 @@ h4,
 h5,
 h6 {
     margin: 1em 0 1em;
-    line-height: 1.2;
     font-family: $header-font-family;
     font-weight: 300;
 }
@@ -131,14 +130,6 @@ blockquote {
         }
     }
 }
-
-
-/** font awesome */
-
-.fa {
-    padding-right: .5em;
-}
-
 
 /* links */
 

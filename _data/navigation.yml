@@ -3,20 +3,33 @@ main:
     url: /about/
     children:
       - title: "Travels 🌎"
-        url: /about/travels/
+        url: /travels/
       - title: "What I Use 📱"
-        url : /about/what-i-use/
+        url : /what-i-use/
   - title: "Adventures ✈️"
     url: /adventures/
+    children:
+      - title: "Conferences 🤝"
+        url: /conferences/
+      - title: "Education 🎓"
+        url: /education/
+      - title: "Experience 💼"
+        url: /experience/
+      - title: "Hackathons 🛠"
+        url: /hackathons/
+      - title: "Programs 🚀"
+        url: /programs/
+      - title: "Volunteering 💖"
+        url: /volunteering/
   - title: "Blog 📝"
     url: /blog/
   - title: "Portfolio 💼"
     url: /portfolio/
     children:
       - title: "Awards 🏆"
-        url: /portfolio/awards/
+        url: /awards/
       - title: "Resume 📄"
-        url : /portfolio/resume/
+        url : /resume/
   - title: "Services 🛠"
     url: /services/
   - title: "Feedback 💖"

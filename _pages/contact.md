@@ -1,6 +1,7 @@
 ---
 title: "Contact 📨"
 permalink: /contact/
+excerpt: Getting in touch.
 ---
 
 ## Feel free to email me at `fvcproductions at gmail.com`. 📥
@@ -11,6 +12,12 @@ permalink: /contact/
 - <a href="http://linkedin.com/in/fvcproductions" target="_blank">LinkedIn</a> 👥
 - <a href="http://calendly.com/fvcproductions" target="_blank">Calendly</a> 📅
 
-#### If you have benefited from my work, show the love by donating just $1 using the piggy below (redirects to [PayPal.Me](http://paypal.me/fvcproductions)).
+---
 
-[![Donate via PayPal](https://fvcproductions.files.wordpress.com/2015/09/donate-pig.gif?w=400&h=300)](http://paypal.me/fvcproductions)
+## ❤︎ Enjoy my work? ❤︎
+
+### Show your love by making a donation using <a href="https://www.paypal.me/fvcproductions" target="_blank">PayPal Me</a> or <a href="https://venmo.com/fvcproductions" target="_blank">Venmo</a>
+
+> Just can just click on the **piggy** below! 🐷
+
+<a href="http://paypal.me/fvcproductions" target="_blank"><img src="https://fvcproductions.files.wordpress.com/2015/09/donate-pig.gif" alt="Donate Button" width="400" height="300" /></a>

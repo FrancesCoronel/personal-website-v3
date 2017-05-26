@@ -1,7 +1,7 @@
 ---
 title: "Awards 🏆"
-permalink: /portfolio/awards/
-excerpt: "An overview of my awards & press recognitions."
+permalink: /awards/
+excerpt: "Your mind is your weapon. Load your weapon. -Immortal Technique"
 ---
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shruictj477Lh4im6?backgroundColor=gray&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr9Nn7bTXnti7OAy?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>

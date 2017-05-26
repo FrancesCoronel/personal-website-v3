@@ -1,7 +1,3 @@
-.archive {
-    margin-bottom: 2em;
-}
-
 .archive__item {
     position: relative;
     display: -webkit-box;
@@ -40,10 +36,9 @@
 }
 
 .archive__item-teaser {
-    min-height: 200px;
-    max-height: 200px;
     width: 100%;
     display: block;
+    max-height: 250px;
     img {
         vertical-align: middle;
         border-style: none;
@@ -114,6 +109,10 @@
     padding-bottom: 0.25em;
 }
 
+.feature__item.archive__item-body {
+    margin-top: 2rem !important;
+}
+
 
 /*
    Grid view
@@ -140,26 +139,15 @@
         margin-right: 0;
         /* reset before mixin does its thing*/
         @include gallery(4 of 12);
-        .archive__item.regular__item {
-            height: 400px;
-        }
-        .archive__item.portfolio__item {
-            height: 475px;
-        }
-        .archive__item.adventure__item {
-            height: 400px;
-        }
-        .archive__item.speaking__item {
-            height: 400px;
-        }
-        .archive__item.feedback__item {
-            height: 400px;
-        }
         .archive__item-excerpt {
             display: block;
             font-size: $type-size-6;
         }
     }
+}
+
+.grid__wrapper {
+    margin-top: 2rem;
 }
 
 

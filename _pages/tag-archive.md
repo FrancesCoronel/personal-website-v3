@@ -2,6 +2,7 @@
 layout: archive
 permalink: /tags/
 title: "Posts by Tags"
+excerpt: These are my blog posts sorted by tag.
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}

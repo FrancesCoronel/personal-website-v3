@@ -1,6 +1,7 @@
 ---
 title: "Resume 📄"
 permalink: /portfolio/resume/
+excerpt: One page that tries its best to summarize me both academically and professionally. Hah.
 ---
 
 <h2>For a live version of my resume, please refer to <a href="http://linkedin.com/in/fvcproductions" target="_blank">my LinkedIn</a>.</h2>

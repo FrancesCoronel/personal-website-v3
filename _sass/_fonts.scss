@@ -34,3 +34,13 @@ $garamond                   : Garamond, serif !default;
 $global-font-family         : $sans-serif !default;
 $header-font-family         : $sans-serif !default;
 $caption-font-family        : $serif !default;
+
+/** font awesome */
+
+.fa-heart,
+.fa-info-circle,
+.fa-pencil-square-o,
+.fa-line-chart,
+.fa-book {
+    padding-right: .5em;
+}

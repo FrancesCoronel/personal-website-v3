@@ -1,13 +1,16 @@
 ---
 title: "Experience 💼"
-excerpt: "Conferences I've attended."
+excerpt: "Don't cry because it's over, smile because it happened. -Dr. Seuss"
 permalink: /experience/
 header:
-  image: https://fvcproductions.files.wordpress.com/2016/07/img_0493.jpg
-  teaser: https://fvcproductions.files.wordpress.com/2016/07/img_0493.jpg
+  image: https://fvcproductions.files.wordpress.com/2016/07/accentureslc-1.jpeg
+  teaser: https://fvcproductions.files.wordpress.com/2016/07/accentureslc-1.jpeg
 comments: false
 ---
 
-### Conference activity can also be found on [my Lanyrd profile](http://lanyrd.com/profile/fvcproductions/ "Lanyrd").
-
-#### To see events I've spoken at and not just attended, head over to [my speaking page](http://fvcproductions.com/home/services/speaking/ "Speaking")!
+<div class="grid__wrapper">
+    {% assign sorted_experience = (site.experience | sort: 'date') | reverse %}
+    {% for post in sorted_experience %}
+        {% include archive_item/single.html type="grid" %}
+    {% endfor %}
+</div>

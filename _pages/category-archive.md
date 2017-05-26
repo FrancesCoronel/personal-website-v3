@@ -2,6 +2,7 @@
 layout: archive
 permalink: /categories/
 title: "Posts by Category"
+excerpt: These are all my blog posts sorted by category.
 ---
 
 {% include group-by-array collection=site.posts field="categories" %}

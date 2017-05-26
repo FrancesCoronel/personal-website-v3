@@ -29,3 +29,7 @@ You can find the syllabus for the 1st year of their program [here](https://holbe
 - Gamification
 - thorough admissions process
 - All bootcamps will accept someone who is at least 18 years
+
+How to prepare for 42?
+
+Lightbot for 42
