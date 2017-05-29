@@ -1,5 +1,5 @@
 ---
-title: "Markup: HTML Tags and Formatting"
+title: "Markup - HTML Tags and Formatting"
 date: 2013-01-11
 ---
 

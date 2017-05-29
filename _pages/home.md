@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> About Me"
   cta_url: "/about/"
   caption:
-excerpt: 'I like to dabble with things that ought to be dabbled with.<br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=fvcproductions&repo=fvcproductions.github.io&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=fvcproductions&repo=fvcproductions.github.io&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'I like to dabble with things that ought to be dabbled with.{::nomarkdown}<br /><br /><iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=fvcproductions&repo=fvcproductions.github.io&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=fvcproductions&repo=fvcproductions.github.io&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
   - image_path: https://images.unsplash.com/photo-1483644682004-a1f3de3d974e?dpr=1&auto=compress,format&fit=max&w=1000&q=80&cs=tinysrgb&crop=
     alt: "customizable"

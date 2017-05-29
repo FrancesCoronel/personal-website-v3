@@ -1,6 +1,4 @@
-{% unless page.permalink == '/blog/' %}
-  regular__item
-{% endunless %}
+adventure__item
 
 {% if page.permalink == '/portfolio/' %}
   portfolio__item
@@ -13,15 +11,4 @@
   {% elsif post.category == 'Speaker Deck' %}
     speaker-deck
   {% endif %}
-{% endif %}
-
-{% if page.permalink == '/services/' or page.permalink == '/adventures/' or page.permalink == '/hackathons/' %}
-  adventure__item
-{% elsif page.permalink == '/services/speaking/' %}
-  speaking__item
-{% endif %}
-
-
-{% if page.permalink == '/feedback/' %}
-  feedback__item
 {% endif %}

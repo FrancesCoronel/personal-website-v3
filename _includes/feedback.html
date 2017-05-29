@@ -1,0 +1,29 @@
+{% if page.header.image contains "://" %}
+	{% capture img_path %}
+		{{ page.header.image }}
+	{% endcapture %}
+{% else %}
+	{% capture img_path %}
+		{{ page.header.image | absolute_url }}
+	{% endcapture %}
+{% endif %}
+
+<img class="feedback__hero-image" src="{{ img_path }}" alt="{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}">
+
+<div class="primary-hentry-inner">
+    <div class="container">
+        {% if page.title %}
+        	{% if page.cta_url %}
+        		<h1 class="feedback-title" itemprop="headline">
+        			<a href="{{ page.cta_url }}" target="_blank">
+        				{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+        			</a>
+        		</h1>
+        	{% else %}
+        		<h1 class="entry-title" itemprop="headline">
+        			{{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}
+				</h1>
+			{% endif %}
+		{% endif %}
+    </div>
+</div>

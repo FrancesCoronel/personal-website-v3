@@ -1,7 +1,10 @@
 ---
 title: "Middle School Poems 🖋"
 date: 2008-06-01
-excerpt: Random poems from 2008.
+excerpt: "Random poems from 2008."
+header:
+    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    teaser: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
 ---
 
 ## Trampoline

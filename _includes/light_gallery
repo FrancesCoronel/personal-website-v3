@@ -1,0 +1,9 @@
+<div id="lightgallery">
+    {% for img in light_gallery %}
+        {% if img.url %}
+            <a href="{{ img.url | absolute_url }}">
+                <img src="{{ img.url | absolute_url }}" alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+            </a>
+        {% endif %}
+    {% endfor %}
+</div>

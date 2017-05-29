@@ -1,7 +1,7 @@
 ---
 title: "Mentoring 😊"
 excerpt: "I enjoy mentoring folks on tech-related topics."
-permalink: /services/mentoring/
+permalink: /mentoring/
 comments: false
 header:
   image: https://fvcproductions.files.wordpress.com/2016/02/img_4602.jpg

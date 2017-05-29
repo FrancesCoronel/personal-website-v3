@@ -1,19 +1,19 @@
 {% if page.permalink == '/portfolio/' %}
   <div class="project-header">
-    {% if post.category == "Behance" %}
-      <h5><i class="fa fa-behance"></i> Behance Project</h5>
-    {% elsif post.category == "GitHub" %}
-      <h5><i class="fa fa-github-alt"></i> GitHub Repo</h5>
-    {% elsif post.category == "YouTube" %}
-      <h5><i class="fa fa-youtube-play"></i> YouTube Video</h5>
-    {% elsif post.category == "Hackathons" %}
-      <h5><i class="fa fa-wrench"></i> Hackathons</h5>
-    {% elsif post.category == "Web" %}
-      <h5><i class="fa fa-laptop"></i> Web App</h5>
-    {% elsif post.category == "Speaker Deck" %}
-      <h5><i class="fa fa-object-ungroup"></i> Slide Deck</h5>
-    {% else %}
-      <h5><i class="fa fa-search"></i> Case Study</h5>
-    {% endif %}
+	  {% if post.category == "Behance" %}
+		<h5><i class="fa fa-behance"></i> Behance Project</h5>
+	  {% elsif post.category == "GitHub" %}
+		<h5><i class="fa fa-github-alt"></i> GitHub Repo</h5>
+	  {% elsif post.category == "YouTube" %}
+		<h5><i class="fa fa-youtube-play"></i> YouTube Video</h5>
+	  {% elsif post.category == "Hackathons" %}
+		<h5><i class="fa fa-wrench"></i> Hackathons</h5>
+	  {% elsif post.category == "Web" %}
+		<h5><i class="fa fa-laptop"></i> Web App</h5>
+	  {% elsif post.category == "Speaker Deck" %}
+		<h5><i class="fa fa-object-ungroup"></i> Slide Deck</h5>
+	  {% else %}
+		<h5><i class="fa fa-search"></i> Case Study</h5>
+	  {% endif %}
   </div>
 {% endif %}

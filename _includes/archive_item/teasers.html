@@ -1,3 +1,10 @@
-{% if post.category == "GitHub" %}
-  https://i.imgur.com/ehf21vT.png
+{% if post.header.teaser %}
+    <div class="archive__item-teaser" id="teaser-header" style="background-image: url({{ teaser }});"></div>
+{% else %}
+    {% if post.category == "GitHub" %}
+        {% capture teaser %}
+            https://i.imgur.com/ehf21vT.png
+        {% endcapture %}
+    {% endif %}
+    <div class="archive__item-teaser" id="teaser-header" style="background-image: url({{ teaser }});"></div>
 {% endif %}

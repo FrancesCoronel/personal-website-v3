@@ -1,7 +1,3 @@
-/* ==========================================================================
-   BASE ELEMENTS
-   ========================================================================== */
-
 html {
     position: relative;
     min-height: 100%;
@@ -13,7 +9,7 @@ body {
     font-weight: 300;
     line-height: 1.5;
     /* Margin bottom by footer height */
-    margin-bottom: 250px;
+    margin-bottom: 200px;
     word-wrap: break-word;
     &.overflow--hidden {
         /* when primary navigation is visible, the content in the background won't scroll */

@@ -4,9 +4,9 @@ permalink: /contact/
 excerpt: Getting in touch.
 ---
 
-## Feel free to email me at `fvcproductions at gmail.com`. 📥
+### Feel free to email me at `fvcproductions at gmail.com`. 📥
 
-### Or you can reach out to me via:
+> Or you can reach out to me via...
 
 - <a href="http://twitter.com/fvcproductions" target="_blank">Twitter</a> 🐦
 - <a href="http://linkedin.com/in/fvcproductions" target="_blank">LinkedIn</a> 👥

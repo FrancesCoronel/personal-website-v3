@@ -13,7 +13,9 @@
 
 .archive__item-title {
     margin: 0;
+    margin-bottom: .5em;
     font-family: $sans-serif-narrow;
+    font-size: $type-size-4;
     a {
         color: $primary-color;
         text-decoration: none;
@@ -58,6 +60,9 @@
     &:last-child {
         margin-bottom: 0;
     }
+    .page__meta {
+        margin: 0 0 4px;
+    }
 }
 
 .archive__item-excerpt {
@@ -99,18 +104,6 @@
     .list__item .comment__date {
         margin: 0 0 .5em 0;
     }
-    .fa {
-        padding-right: 0;
-    }
-}
-
-.list__item.blog__item h2 {
-    margin-bottom: 0;
-    padding-bottom: 0.25em;
-}
-
-.feature__item.archive__item-body {
-    margin-top: 2rem !important;
 }
 
 
@@ -120,16 +113,6 @@
 
 .grid__item {
     margin-bottom: 2em;
-    .page__meta {
-        margin: 0 0 4px;
-    }
-    .archive__item-title {
-        font-size: $type-size-5;
-    }
-    .archive__item-excerpt {
-        display: none;
-        margin-top: 1em;
-    }
     @include breakpoint($small) {
         @include gallery(6 of 12);
     }
@@ -164,6 +147,9 @@
 .feature__item {
     margin-bottom: 2em;
     font-size: 1.25rem;
+    &.archive__item-body {
+        margin-top: 2rem !important;
+    }
     @include breakpoint($small) {
         margin-bottom: 0;
         @include gallery(4 of 12);

@@ -1,73 +1,48 @@
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% capture teaser %}{{ page.header.teaser | absolute_url }}{% endcapture %}
-{% endif %}
+{% include archive_item/images.html %}
 
-{% if page.header.image contains "://" %}
-  {% capture img_path %}{{ page.header.image }}{% endcapture %}
-{% else %}
-  {% capture img_path %}{{ page.header.image | absolute_url }}{% endcapture %}
-{% endif %}
+<div class="{{ include.type | default: 'list' }}__item">
 
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
+    <article class="archive__item {% include archive_item/classes.html %}" itemscope itemtype="http://schema.org/CreativeWork">
 
-<div class="{{ include.type | default: "list" }}__item {% if page.permalink == '/blog/' %} blog__item {% endif %}">
+    	{% include archive_item/titles.html %}
 
-  <article class="archive__item {% include archive_item/classes.html %}" itemscope itemtype="http://schema.org/CreativeWork">
+		{% if include.type == "grid" %}
+			{% include archive_item/teasers.html %}
+		{% endif %}
 
-    {% include archive_item/titles.html %}
+        <div class="archive__item-content">
+            <h2 class="archive__item-title" itemprop="headline">
+				{% if post.link %}
+		  			<a href="{{ post.link }}" target="_blank">{{ title }} <i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+		  		{% else %}
+		  			<a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a>
+		  		{% endif %}
+	  		</h2>
 
-    {% if include.type == "grid" %}
-      {% if post.header.teaser %}
-        <div class="archive__item-teaser" id="primary-header" style="background-image: url({{ teaser }});"></div>
-      {% else %}
-        <div class="archive__item-teaser" id="primary-header" style="background-image: url({% include archive_item/teasers.html %});"></div>
-      {% endif %}
-    {% endif %}
+	  		{% if page.permalink == '/portfolio/' or page.permalink == '/speaking/' or page.permalink == '/blog/' or page.permalink == '/feedback/' %}
+	  			{% if post.date %}
+                    <p class="page__meta" itemprop="datePublished">
+                        <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                        <time datetime="{{ post.date | date_to_xmlschema }}">
+                            {{ post.date | date: "%B %d, %Y" }}
+                        </time>
+                    </p>
+		        {% endif %}
+		    {% endif %}
 
-    <div class="archive__item-content">
-      <h2 class="archive__item-title" itemprop="headline">
-        {% if post.link %}
-          <a href="{{ post.link }}" target="_blank">{{ title }} <i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-        {% else %}
-          <a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a>
-        {% endif %}
-      </h2>
+		    {% if post.read_time %}
+	            <p class="page__meta">
+	                <i class="fa fa-clock-o" aria-hidden="true"></i>
+	                {% include read-time.html %}
+	            </p>
+            {% endif %}
 
-      {% if post.read_time %}
-        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-      {% endif %}
-
-      {% if page.permalink == '/portfolio/' or page.permalink == '/services/speaking/' %}
-        {% if post.date %}
-          <p class="archive__item-date" itemprop="datePublished">
-            {{ post.date | date: "%B %d, %Y" }}
-          </p>
-        {% endif %}
-      {% endif %}
-
-      {% if post.excerpt %}
-        <p class="archive__item-excerpt" itemprop="description">
-        {{ post.excerpt | markdownify | strip_html | truncate: 140, '...' }}
-        </p>
-      {% endif %}
-
-      {% if page.permalink == '/feedback/' %}
-        {% if post.date %}
-          <p class="archive__item-date">
-              <time datetime="{{ post.date | date_to_xmlschema }}">
-                  <small class="text-muted">
-                      {{ post.date | date: "%B %d, %Y" }}
-                  </small>
-              </time>
-          </p>
-        {% endif %}
-      {% endif %}
-    </div>
-  </article>
+            <!-- {% if post.excerpt %}
+	            <p class="page__meta" itemprop="description">
+                    <i class="fa fa-info-circle" aria-hidden="true"></i>
+	                {{ post.excerpt | markdownify | strip_html | truncate: 140, '...' }}
+	            </p>
+            {% endif %} -->
+        </div>
+    </article>
 </div>

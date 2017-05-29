@@ -33,7 +33,7 @@
       {% assign page_end = paginator.page | plus: 2 %}
     {% endif %}
 
-<!--     {% for index in (page_start..page_end) %}
+    {% for index in (page_start..page_end) %}
       {% if index == paginator.page %}
         <li><a href="{{ site.paginate_path | replace: ':num', index | replace: '//', '/' | absolute_url }}" class="disabled current">{{ index }}</a></li>
       {% else %}
@@ -45,7 +45,7 @@
         {% endif %}
         <li><a href="{{ site.paginate_path | replace: ':num', index | absolute_url }}">{{ index }}</a></li>
       {% endif %}
-    {% endfor %} -->
+    {% endfor %}
 
     {% comment %} Ellipsis for truncated links {% endcomment %}
     {% if pages_to_end > 3 %}

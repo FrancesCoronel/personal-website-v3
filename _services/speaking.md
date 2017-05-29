@@ -1,7 +1,7 @@
 ---
 title: "Speaking 💬"
 excerpt: "What I've spoken about."
-permalink: /services/speaking/
+permalink: /speaking/
 comments: false
 header:
   image: https://fvcproductions.files.wordpress.com/2015/11/12219321_941445252602315_1897049180671471124_n.jpg

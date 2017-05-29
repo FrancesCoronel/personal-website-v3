@@ -1,7 +1,3 @@
-a.btn:hover {
-    text-decoration: none !important;
-}
-
 .btn {
     /* default button */
     display: inline-block;
@@ -108,7 +104,13 @@ a.btn:hover {
     $social: (facebook, $facebook-color),
     (twitter, $twitter-color),
     (google-plus, $google-plus-color),
-    (linkedin, $linkedin-color);
+    (linkedin, $linkedin-color),
+    (rss, $rss-color),
+    (youtube-play, $youtube-color),
+    (behance, $behance-color),
+    (github-alt, $gray),
+    (spotify, $spotify-color),
+    (reddit, $reddit-color);
     @each $socialnetwork,
     $color in $social {
         &--#{$socialnetwork} {
@@ -143,10 +145,21 @@ $fa-social: (facebook, $facebook-color),
 (youtube-play, $youtube-color),
 (behance, $behance-color),
 (github-alt, $gray),
-(spotify, $spotify-color);
+(spotify, $spotify-color),
+(reddit, $reddit-color);
 @each $social-network,
 $fa-color in $fa-social {
     .page__footer-follow .fa-#{$social-network}:hover {
         color: $fa-color !important;
+    }
+}
+
+a.btn:hover {
+    text-decoration: none !important;
+}
+
+@media screen and (max-width: 300px) {
+    .archive__item-excerpt a.btn.btn--twitter {
+        margin-top: 1rem;
     }
 }

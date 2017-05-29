@@ -32,6 +32,13 @@ main:
         url : /resume/
   - title: "Services 🛠"
     url: /services/
+    children:
+      - title: "Freelancing 🤝"
+        url: /freelancing/
+      - title: "Mentoring 😊"
+        url: /mentoring/
+      - title: "Speaking 💬"
+        url: /speaking/
   - title: "Feedback 💖"
     url: /feedback/
   - title: "Contact 📨"
