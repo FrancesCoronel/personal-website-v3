@@ -5,16 +5,19 @@ sitemap: false
 permalink: /search/
 ---
 
-> This search is powered by...
+## Sorry, but the page you were trying to view does not exist! 😞
 
-<img src="/assets/images/Algolia.svg" class="algolia-logo" alt="Algolia Logo">
+### Maybe try looking up whatever it is you're trying to look for? 💁🏾
 
-<input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Search in this site..." />
+<input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Search for the key to success... 🔑" />
 
 <div class="content container">
-  <div class="algolia__initial-content js-algolia__initial-content">Search Results Appear Here 👋</div>
+  <div class="algolia__initial-content js-algolia__initial-content">
+    <h4>🚩 Search Results Appear Here</h4>
+  </div>
   <div class="algolia__search-content js-algolia__search-content">
-    <h1 class="page-title">Search Results</h1>
     <div class="posts algolia__results"></div>
   </div>
 </div>
+
+<p>Powered by <a href="http://algolia.com" target="_blank" title="Algolia Search"><img src="/assets/images/Algolia.svg" class="algolia-logo" alt="Algolia Search"></a></p>

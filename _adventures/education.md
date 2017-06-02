@@ -12,6 +12,8 @@ comments: false
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrsQw3LAJ5W3FnlT?backgroundColor=gray&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+## And then here's a snapshot of places I went for my formal education.
+
 <div class="grid__wrapper">
     {% assign sorted_education = (site.education | sort: 'date') | reverse %}
     {% for post in sorted_education %}

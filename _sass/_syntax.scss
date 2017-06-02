@@ -1,7 +1,3 @@
-/* ==========================================================================
-   Syntax highlighting
-   ========================================================================== */
-
 div.highlighter-rouge,
 figure.highlight {
     position: relative;
@@ -11,7 +7,7 @@ figure.highlight {
     line-height: 1.8;
     border: none;
     border-radius: 0;
-    background-color: $code-background-color;
+    background-color: $code-color;
     box-shadow: $box-shadow;
     border-left: 13px solid rgba(0, 0, 0, 0.2);
     &:before {
@@ -26,14 +22,14 @@ figure.highlight {
         text-transform: none;
         speak: none;
         font-size: 1.5em;
-        color: $background-color;
+        color: $white;
     }
     .highlight {
         margin: 0;
         padding: 2em;
     }
     code {
-        color: $background-color;
+        color: $white;
     }
 }
 
@@ -48,7 +44,7 @@ figcaption>code,
 td>code {
     background: none;
     border: 1px solid $lighter-gray;
-    color: $primary-color;
+    color: $black;
 }
 
 pre {

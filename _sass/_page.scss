@@ -8,6 +8,10 @@
     margin-top: 2rem;
 }
 
+body.layout--splash #main {
+    margin-top: 1em;
+}
+
 .page {
     .page__inner-wrap {
         @include full();
@@ -55,7 +59,7 @@
         &:hover {
             text-decoration: underline;
             img {
-                box-shadow: 0 0 10px rgba(#000, 0.25);
+                box-shadow: 0 0 10px rgba($black, 0.25);
             }
         }
     }
@@ -96,7 +100,7 @@
         animation: intro 0.3s both;
         animation-delay: 0.25s;
         a {
-            color: $background-color;
+            color: $gray;
         }
         .wrapper {
             padding-left: 1em;
@@ -109,8 +113,7 @@
         .page__meta,
         .page__lead,
         .btn {
-            color: $background-color;
-            text-shadow: 1px 1px 4px rgba(#000, 0.5);
+            color: $black;
         }
         .page__lead {
             max-width: $medium;
@@ -136,10 +139,10 @@
     right: 0;
     margin: 0 auto;
     padding: 2px 5px;
-    color: $background-color;
+    color: $white;
     font-family: $caption-font-family;
     font-size: $type-size-7;
-    background: #000;
+    background: $black;
     text-align: right;
     z-index: 5;
     opacity: 0.5;
@@ -148,7 +151,7 @@
         padding: 5px 10px;
     }
     a {
-        color: $background-color;
+        color: $white;
         text-decoration: none;
     }
 }
@@ -159,7 +162,7 @@
    ========================================================================== */
 
 .page__share {
-    border-top: 1px solid $border-color;
+    border-top: 1px solid $lighter-gray;
     @include breakpoint(max-width $small) {
         .btn span {
             border: 0;
@@ -255,7 +258,7 @@ footer.page__meta.introductory__info {
     margin-bottom: 2rem;
     padding-top: 2rem;
     font-size: $type-size-6;
-    border-top: 1px solid $border-color;
+    border-top: 1px solid $lighter-gray;
     text-transform: uppercase;
 }
 
@@ -295,7 +298,7 @@ footer.page__meta.introductory__info {
         width: 80px;
         height: 80px;
         padding: 5px;
-        border: 1px solid $border-color;
+        border: 1px solid $lighter-gray;
     }
 }
 
@@ -328,7 +331,7 @@ footer.page__meta.introductory__info {
    ========================================================================== */
 
 .page__related {
-    border-top: 1px solid $border-color;
+    border-top: 1px solid $lighter-gray;
     margin-top: 2em;
     @include clearfix();
     float: left;
@@ -352,7 +355,7 @@ footer.page__meta.introductory__info {
 /** PAGINATION */
 
 .page__pagination {
-    border-top: 1px solid $border-color;
+    border-top: 1px solid $lighter-gray;
     margin-top: 2em;
     width: 100%;
     @include clearfix();
@@ -375,7 +378,7 @@ footer.page__meta.introductory__info {
     bottom: 0;
     left: 0;
     right: 0;
-    background: #000;
+    background: $black;
     opacity: 0.5;
 }
 
@@ -443,6 +446,6 @@ footer.page__meta.introductory__info {
 /** iFrame - Travel */
 
 iframe#travel {
-    margin: 2em 0 2em 0;
-    max-width: 90vw;
+    margin: 1em 0 1em 0;
+    max-width: 95%;
 }

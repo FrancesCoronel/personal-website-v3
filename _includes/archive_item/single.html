@@ -3,13 +3,8 @@
 <div class="{{ include.type | default: 'list' }}__item">
 
     <article class="archive__item {% include archive_item/classes.html %}" itemscope itemtype="http://schema.org/CreativeWork">
-
-    	{% include archive_item/titles.html %}
-
-		{% if include.type == "grid" %}
-			{% include archive_item/teasers.html %}
-		{% endif %}
-
+        {% include archive_item/titles.html %}
+        {% if include.type == "grid" %} {% include archive_item/teasers.html %} {% endif %}
         <div class="archive__item-content">
             <h2 class="archive__item-title" itemprop="headline">
 				{% if post.link %}
@@ -19,7 +14,7 @@
 		  		{% endif %}
 	  		</h2>
 
-	  		{% if page.permalink == '/portfolio/' or page.permalink == '/speaking/' or page.permalink == '/blog/' or page.permalink == '/feedback/' %}
+	  		{% if page.permalink == '/portfolio/' or page.permalink == '/speaking/' or page.permalink == '/blog/' or page.permalink == '/feedback/' or page.permalink == '/conferences/' %}
 	  			{% if post.date %}
                     <p class="page__meta" itemprop="datePublished">
                         <i class="fa fa-calendar-o" aria-hidden="true"></i>

@@ -16,7 +16,7 @@
   font-family: $global-font-family;
   font-size: $type-size-6 !important;
   text-indent: initial; /* override*/
-  background-color: mix($background-color, $notice-color, 90%);
+  background-color: mix($white, $notice-color, 90%);
   border-radius: $border-radius;
   box-shadow: 0 1px 1px rgba($notice-color, 0.25);
 
@@ -47,12 +47,12 @@
     color: $notice-color;
 
     &:hover {
-      color: mix(#000, $notice-color, 40%);
+      color: mix($black, $notice-color, 40%);
     }
   }
 
   code {
-    background-color: mix($background-color, $notice-color, 95%)
+    background-color: mix($white, $notice-color, 95%)
   }
 
   ul {
@@ -71,7 +71,7 @@
 /* Primary notice */
 
 .notice--primary {
-  @include notice($primary-color);
+  @include notice($black);
 }
 
 /* Info notice */

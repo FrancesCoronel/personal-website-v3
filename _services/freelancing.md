@@ -14,7 +14,9 @@ header:
 
 ### Provisions
 
-Whatever your needs are related to web design & development or blog writing, I will work with you every step of the way to ensure you get the best quality output. To get a better idea of what I have to offer, feel free to look through a few samples from my blog, portfolio, and feedback given from folks I've worked with in the past.
+Whatever your needs are related to web design & development or blog writing, I will work with you every step of the way to ensure you get the best quality output.
+
+To get a better idea of what I have to offer, feel free to look through a [few samples from my blog](/blog), [portfolio](/portfolio), and [feedback](/feedback) given from folks I've worked with in the past.
 
 ### Process
 
@@ -26,4 +28,22 @@ Whatever your needs are related to web design & development or blog writing, I w
 
 ### Pricing
 
-I charge a **minimum** of $50/hour when it comes to web design or development but this price gets lower if the process only involves branding & identity. I charged my last development client $300 for a static website and my last design client $150 for branding. In terms of freelance writing, I charge 7 cents per word and a **minimum** of $10/hour. I charged my last writing client $200 for 2000+ words.
+> Web Design or Development
+
+I charge a minimum of $50/hour when it comes to web design or development but this price gets lower if the process only involves branding & identity.
+
+I charged my last development client $300 for a static website.
+
+I charged my last design client $150 for branding.
+
+> Freelance Writing
+
+In terms of freelance writing, I charge 7 cents per word and a minimum of $10/hour.
+
+I charged my last writing client $200 for 2000+ words.
+
+> Mentoring
+
+I do charge to mentor others unless I feel it's appropriate to be generous.
+
+Through my Fullstack Academy ambassador position, I received $500 to mentor an incoming Grace Hopper student for 6 hours.

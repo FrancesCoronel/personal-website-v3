@@ -1,7 +1,7 @@
 .page__footer {
     @include full();
     @include clearfix;
-    color: $body-color;
+    color: $black;
     padding: 2em 1em 1em 1em;
     -webkit-animation: intro 0.3s both;
     animation: intro 0.3s both;
@@ -29,7 +29,7 @@
         }
     }
     .fa {
-        color: $body-color;
+        color: $black;
     }
 }
 

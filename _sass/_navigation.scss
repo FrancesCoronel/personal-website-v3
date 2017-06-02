@@ -5,7 +5,7 @@
 .greedy-nav {
     position: relative;
     min-width: 250px;
-    background: $primary-color;
+    background: $black;
     a {
         display: block;
         margin: 0 1rem;
@@ -13,7 +13,7 @@
         color: $masthead-link-color;
         text-decoration: none;
         &:hover {
-            color: $background-color;
+            color: $white;
         }
     }
     button {
@@ -23,11 +23,11 @@
         padding: 0 15px;
         border: 0;
         outline: none;
-        background-color: $primary-color;
-        color: #fff;
+        background-color: $black;
+        color: $white;
         cursor: pointer;
         &:hover {
-            background-color: $primary-color;
+            background-color: $black;
             transform: scale(1.075);
         }
         &::after {
@@ -38,12 +38,12 @@
             right: -5px;
             top: 5px;
             text-align: center;
-            background-color: $primary-color;
-            color: #fff;
+            background-color: $black;
+            color: $white;
             font-size: 15px;
             line-height: 25px;
             border-radius: 50%;
-            border: 3px solid #fff;
+            border: 3px solid $white;
             font-weight: bold;
         }
     }
@@ -74,18 +74,14 @@
                 height: 4px;
                 background: white;
                 width: 100%;
-                -webkit-transition: $global-transition;
-                transition: $global-transition;
                 -webkit-transform: scaleX(0) translate3d(0, 0, 0);
                 -ms-transform: scaleX(0) translate3d(0, 0, 0);
                 transform: scaleX(0) translate3d(0, 0, 0);
-                /* hide*/
             }
             &:hover:before {
                 -webkit-transform: scaleX(1);
                 -ms-transform: scaleX(1);
                 transform: scaleX(1);
-                /* reveal*/
             }
         }
     }
@@ -93,17 +89,17 @@
         position: absolute;
         top: 100%;
         right: 0;
-        border: 1px solid $border-color;
-        background: $background-color;
-        box-shadow: 0 0 10px rgba($primary-color, 0.25);
+        border: 1px solid $lighter-gray;
+        background: $white;
+        box-shadow: 0 0 10px rgba($black, 0.25);
         a {
             margin: 0;
             padding: 10px 20px;
             font-size: $type-size-7;
-            color: $primary-color;
+            color: $black;
             &:hover {
-                color: $background-color;
-                background: $body-color;
+                color: $white;
+                background: $black;
             }
         }
         &:before {
@@ -114,7 +110,7 @@
             width: 0;
             border-style: solid;
             border-width: 0 10px 10px;
-            border-color: $border-color transparent;
+            border-color: $lighter-gray transparent;
             display: block;
             z-index: 0;
         }
@@ -126,13 +122,13 @@
             width: 0;
             border-style: solid;
             border-width: 0 10px 10px;
-            border-color: $background-color transparent;
+            border-color: $white transparent;
             display: block;
             z-index: 1;
         }
         li {
             display: block;
-            border-bottom: 1px solid $border-color;
+            border-bottom: 1px solid $lighter-gray;
             &:last-child {
                 border-bottom: none;
             }
@@ -144,7 +140,7 @@
 }
 
 
-/* Custom */
+/** Navbar Brand */
 
 .navbar-brand {
     display: inline-block;
@@ -156,4 +152,8 @@
     white-space: nowrap;
     transition: none;
     -webkit-transition: none;
+}
+
+.greedy-nav .visible-links li:first-child a::before {
+    background: black;
 }

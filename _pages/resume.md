@@ -1,6 +1,6 @@
 ---
 title: "Resume 📄"
-permalink: /portfolio/resume/
+permalink: /resume/
 excerpt: "One page that tries its best to summarize me both academically and professionally. Hah."
 ---
 
@@ -13,6 +13,6 @@ excerpt: "One page that tries its best to summarize me both academically and pro
 
 <br>
 
-# And here's the hard copy for reference.
+# But here's the hard copy for reference. ¯\_(ツ)_/¯
 
 <iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/324348340/content?start_page=1&view_mode=scroll&access_key=key-WoN8XzkEzwtXxpGBkwM1&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_50901" width="100%" height="600" frameborder="0"></iframe>

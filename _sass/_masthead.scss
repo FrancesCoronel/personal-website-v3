@@ -1,14 +1,15 @@
 .masthead {
+    // -webkit-animation: intro 2s both;
+    // -moz-animation: intro 2s both;
+    // -o-animation: intro 2s both;
+    // animation: intro 2s both;
     position: sticky;
     top: 0;
     right: 0;
     left: 0;
     z-index: 1030;
-    background-color: $primary-color;
+    background-color: $black;
     width: 100%;
-    -webkit-transition: all .2s ease-in-out;
-    -moz-transition: all .2s ease-in-out;
-    transition: all .2s ease-in-out;
     &__inner-wrap {
         @include container;
         @include clearfix;
@@ -77,14 +78,14 @@ nav ul ul {
     text-align: center;
     left: 0;
     padding: 5px;
-    border: 1px solid $border-color;
-    background: $background-color;
-    box-shadow: 0 0 10px rgba($primary-color, 0.25);
+    border: 1px solid $lighter-gray;
+    background: $white;
+    box-shadow: 0 0 10px rgba($black, 0.25);
 }
 
 nav ul ul li {
     display: block !important;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid $lighter-gray;
     &:last-child {
         border-bottom: none;
     }
@@ -92,7 +93,7 @@ nav ul ul li {
         margin: 0 !important;
         padding: 10px 20px !important;
         font-size: $type-size-7;
-        color: $primary-color !important;
+        color: $black !important;
         display: block;
         font-weight: 300;
         text-decoration: none;
@@ -100,8 +101,8 @@ nav ul ul li {
             display: none;
         }
         &:hover {
-            color: $background-color !important;
-            background: $primary-color !important;
+            color: $white !important;
+            background: $black !important;
         }
     }
 }

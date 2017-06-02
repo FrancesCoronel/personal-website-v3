@@ -1,8 +1,9 @@
 {% if post.header.image %}
-    <div class="archive__item-teaser" id="teaser-header" style="background-image: url({{ teaser }});">
-    </div>
+    <div class="archive__item-teaser" id="teaser-header" style="background-image: url({{ teaser }});"></div>
 {% else %}
     {% if post.category == "GitHub" %}
-        <div class="archive__item-teaser" id="teaser-header" style="background-image: url("https://i.imgur.com/ehf21vT.png");"></div>
-    { % endif %}
+        <div class="archive__item-teaser" id="teaser-header" style="background-image: url('https://i.imgur.com/ehf21vT.png');"></div>
+    {% else %}
+        <div class="archive__item-teaser" id="teaser-header" style="background-image: url('https://fvcproductions.github.io/assets/images/teaser.png');"></div>
+    {% endif %}
 {% endif %}

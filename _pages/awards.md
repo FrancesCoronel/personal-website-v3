@@ -1,7 +1,7 @@
 ---
 title: "Awards 🏆"
 permalink: /awards/
-excerpt: "Your mind is your weapon. Load your weapon. -Immortal Technique"
+excerpt: "Your mind is your weapon. Load your weapon. - Immortal Technique"
 ---
 
 ## Below is an <a href="http://airtable.com" title="Airtable" target="_blank">Airtable</a> with a snapshot of all the awards or recognitions I've received (and can actually recall of).

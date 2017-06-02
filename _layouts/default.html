@@ -6,12 +6,12 @@ layout: compress
 <html lang="{{ site.locale | slice: 0,2 }}">
 
 <head>
-    {% include base/head.html %}
+    {% include header/head.html %}
 </head>
 
 <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     {% include base/browser-upgrade.html %}
-    {% include base/masthead.html %}
+    {% include header/masthead.html %}
     {{ content }}
     <div class="page__footer">
         <footer>

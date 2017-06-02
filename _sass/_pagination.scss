@@ -28,19 +28,19 @@
             line-height: 1.5;
             text-align: center;
             text-decoration: none;
-            color: $primary-color;
-            border: 1px solid $primary-color;
+            color: $black;
+            border: 1px solid $black;
             border-radius: 0;
             &:hover {
-                color: $background-color;
-                background-color: $primary-color;
+                color: $white;
+                background-color: $black;
             }
             &.current {
-                color: $background-color;
-                background: $primary-color;
+                color: $white;
+                background: $black;
             }
             &.disabled {
-                color: mix($background-color, $gray, 75%);
+                color: mix($white, $gray, 75%);
                 pointer-events: none;
                 cursor: not-allowed;
             }
@@ -56,18 +56,18 @@
         font-weight: bold;
         text-align: center;
         text-decoration: none;
-        color: $primary-color;
-        border: 1px solid $primary-color;
+        color: $black;
+        border: 1px solid $black;
         border-radius: 0;
         &:first-child {
             border-right: none;
         }
         &:hover {
-            color: $background-color;
-            background-color: $primary-color;
+            color: $white;
+            background-color: $black;
         }
         &.disabled {
-            color: mix($background-color, $gray, 75%);
+            color: mix($white, $gray, 75%);
             pointer-events: none;
             cursor: not-allowed;
         }
@@ -80,7 +80,7 @@
 .page__comments + .pagination {
     margin-top: 2em;
     padding-top: 2em;
-    border-top: 1px solid $border-color;
+    border-top: 1px solid $lighter-gray;
 }
 
 @media screen and (max-width: 300px) {

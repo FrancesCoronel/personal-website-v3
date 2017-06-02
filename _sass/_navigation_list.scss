@@ -38,22 +38,22 @@
                 transform: rotate(90deg);
             }
             &:hover {
-                color: $background-color;
+                color: $white;
                 border-color: $gray;
-                background-color: mix(white, #000, 20%);
+                background-color: mix(white, $black, 20%);
                 &:before,
                 &:after {
-                    background-color: $background-color;
+                    background-color: $white;
                 }
             }
         }
         /* selected*/
         input:checked + label {
-            color: white;
-            background-color: mix(white, #000, 20%);
+            color: $white;
+            background-color: mix($white, $black, 20%);
             &:before,
             &:after {
-                background-color: $background-color;
+                background-color: $white;
             }
         }
         // on hover show expand
@@ -90,12 +90,12 @@
         margin-left: -0.5em;
         padding-left: 0.5em;
         padding-right: 0.5em;
-        color: $background-color;
+        color: $white;
         font-weight: bold;
-        background: $primary-color;
+        background: $black;
         border-radius: $border-radius;
         &:hover {
-            color: $background-color;
+            color: $white;
         }
     }
     @include breakpoint(max-width ($large - 1px)) {
@@ -142,5 +142,5 @@
     font-size: $type-size-6;
     font-weight: bold;
     text-transform: uppercase;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid $lighter-gray;
 }

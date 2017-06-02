@@ -435,24 +435,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_conferences\/2016-09-25.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 1,
-		"oAP": "\/_conferences\/2016-09-25.html",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/_conferences\/2016-10-13.md": {
 		"cS": 0,
 		"eF": 1,
@@ -489,7 +471,7 @@
 		"oAP": "\/_data\/ui-text.yml",
 		"oF": 1
 		},
-	"\/_drafts\/2013-01-11-formatting.md": {
+	"\/_drafts\/2017-01-23-spotify-to-mp3.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -498,7 +480,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_drafts\/2013-01-11-formatting.html",
+		"oAP": "\/_drafts\/2017-01-23-spotify-to-mp3.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -507,7 +489,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_drafts\/2013-01-11-markup-html-tags-and-formatting.md": {
+	"\/_drafts\/2017-02-10-unity-dev-workflow.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -516,7 +498,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_drafts\/2013-01-11-markup-html-tags-and-formatting.html",
+		"oAP": "\/_drafts\/2017-02-10-unity-dev-workflow.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -525,7 +507,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_drafts\/2013-05-22-markup-more-images.md": {
+	"\/_drafts\/2017-04-10-alternative-long-term.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -534,7 +516,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_drafts\/2013-05-22-markup-more-images.html",
+		"oAP": "\/_drafts\/2017-04-10-alternative-long-term.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -543,7 +525,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_drafts\/2013-08-16-markup-syntax-highlighting.md": {
+	"\/_drafts\/2017-04-16-email-clients-overview.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -552,7 +534,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_drafts\/2013-08-16-markup-syntax-highlighting.html",
+		"oAP": "\/_drafts\/2017-04-16-email-clients-overview.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -561,7 +543,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_drafts\/2017-04-16.md": {
+	"\/_drafts\/2017-05-10-tech-interviews-suck.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -570,7 +552,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_drafts\/2017-04-16.html",
+		"oAP": "\/_drafts\/2017-05-10-tech-interviews-suck.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -579,7 +561,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_drafts\/2017-05-11.md": {
+	"\/_drafts\/2017-05-11-interview-kapor-capital.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -588,7 +570,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_drafts\/2017-05-11.html",
+		"oAP": "\/_drafts\/2017-05-11-interview-kapor-capital.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -597,7 +579,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_drafts\/2017-05-25.md": {
+	"\/_drafts\/2017-05-25-review-cornell-tech.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -606,7 +588,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_drafts\/2017-05-25.html",
+		"oAP": "\/_drafts\/2017-05-25-review-cornell-tech.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -615,7 +597,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_drafts\/_post-formatting.md": {
+	"\/_drafts\/2017-05-26-interview-gusto.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -624,7 +606,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_drafts\/_post-formatting.html",
+		"oAP": "\/_drafts\/2017-05-26-interview-gusto.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -633,7 +615,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_drafts\/alternative-long-term.md": {
+	"\/_drafts\/_formatting.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -642,7 +624,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_drafts\/alternative-long-term.html",
+		"oAP": "\/_drafts\/_formatting.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -651,7 +633,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_drafts\/intercom-pm-book.md": {
+	"\/_drafts\/_image-align.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -660,7 +642,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_drafts\/intercom-pm-book.html",
+		"oAP": "\/_drafts\/_image-align.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -669,7 +651,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_drafts\/job-process.md": {
+	"\/_drafts\/_images.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -678,7 +660,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_drafts\/job-process.html",
+		"oAP": "\/_drafts\/_images.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -687,7 +669,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_drafts\/long-term.md": {
+	"\/_drafts\/_markdown.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -696,7 +678,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_drafts\/long-term.html",
+		"oAP": "\/_drafts\/_markdown.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -705,7 +687,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_drafts\/markup-image-align.md": {
+	"\/_drafts\/_syntax.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -714,7 +696,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_drafts\/markup-image-align.html",
+		"oAP": "\/_drafts\/_syntax.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -723,7 +705,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_drafts\/post-draft.md": {
+	"\/_drafts\/_template.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -732,79 +714,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_drafts\/post-draft.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_drafts\/spotify-to-mp3.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_drafts\/spotify-to-mp3.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_drafts\/TEMPLATE.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_drafts\/TEMPLATE.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_drafts\/to-trust-or-not.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_drafts\/to-trust-or-not.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_drafts\/unity-dev-workflow.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_drafts\/unity-dev-workflow.html",
+		"oAP": "\/_drafts\/_template.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1305,22 +1215,16 @@
 		"oAP": "\/_includes\/base\/browser-upgrade.html",
 		"oF": 1
 		},
-	"\/_includes\/base\/head.html": {
+	"\/_includes\/base\/scripts.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/_includes\/base\/head.html",
+		"oAP": "\/_includes\/base\/scripts.html",
 		"oF": 1
 		},
-	"\/_includes\/base\/masthead.html": {
+	"\/_includes\/base\/seo.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/_includes\/base\/masthead.html",
-		"oF": 1
-		},
-	"\/_includes\/category-list.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_includes\/category-list.html",
+		"oAP": "\/_includes\/base\/seo.html",
 		"oF": 1
 		},
 	"\/_includes\/comments\/comments.html": {
@@ -1335,11 +1239,23 @@
 		"oAP": "\/_includes\/comments\/script.html",
 		"oF": 1
 		},
+	"\/_includes\/custom\/category-list.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_includes\/custom\/category-list.html",
+		"oF": 1
+		},
 	"\/_includes\/custom\/feedback.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_includes\/custom\/feedback.html",
 		"oF": 0
+		},
+	"\/_includes\/custom\/tag-list.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_includes\/custom\/tag-list.html",
+		"oF": 1
 		},
 	"\/_includes\/feature_row": {
 		"ft": 8192,
@@ -1375,6 +1291,18 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_includes\/group-by-array",
+		"oF": 1
+		},
+	"\/_includes\/header\/head.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_includes\/header\/head.html",
+		"oF": 1
+		},
+	"\/_includes\/header\/masthead.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_includes\/header\/masthead.html",
 		"oF": 1
 		},
 	"\/_includes\/nav_list": {
@@ -1423,24 +1351,6 @@
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_includes\/page\/taxonomy.html",
-		"oF": 1
-		},
-	"\/_includes\/scripts.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_includes\/scripts.html",
-		"oF": 1
-		},
-	"\/_includes\/seo.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_includes\/seo.html",
-		"oF": 1
-		},
-	"\/_includes\/tag-list.html": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_includes\/tag-list.html",
 		"oF": 1
 		},
 	"\/_includes\/toc": {
@@ -4728,16 +4638,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/images\/test.jpg": {
-		"ft": 16384,
-		"iS": 167296,
-		"oA": 0,
-		"oAP": "\/assets\/images\/test.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/assets\/js\/main.js": {
 		"ft": 64,
 		"mi": 1,
@@ -4810,15 +4710,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/js\/plugins\/min\/transition-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/plugins\/min\/min\/transition-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/assets\/js\/plugins\/smooth-scroll.js": {
 		"ft": 64,
 		"mi": 1,
@@ -4884,6 +4775,15 @@
 		"oA": 1,
 		"oAP": "\/build\/site",
 		"oF": 0
+		},
+	"\/source\/assets\/js\/min\/main.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/source\/assets\/js\/min\/min\/main.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		}
 	},
 "hooks": [

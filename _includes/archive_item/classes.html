@@ -12,3 +12,11 @@ adventure__item
 		speaker-deck
 	{% endif %}
 {% endif %}
+
+{% if page.permalink == '/blog/' %}
+	blog__item
+{% endif %}
+
+{% if page.permalink == '/feedback/' %}
+	feedback__item
+{% endif %}

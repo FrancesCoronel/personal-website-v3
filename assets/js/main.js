@@ -1,9 +1,15 @@
 $(document).ready(function() {
 
+    /* Light Gallery */
+    $("#lightgallery").lightGallery({
+        thumbnail: true,
+        animateThumb: true,
+        showThumbByDefault: true
+    });
+
+    /** Attempting to Change Tab Title */
     var title = document.title;
     var alttitle = "Whatcha up to? 👀";
-    // window.onblur = function() { document.title = alttitle; };
-    // window.onfocus = function() { document.title = title; console.log("hello"); };
 
     $(window).blur(function() {
         document.title = alttitle;
@@ -13,13 +19,10 @@ $(document).ready(function() {
         document.title = title;
     });
 
-    // related posts fix
-    $('.related__posts>.grid__item>.archive__item').removeClass('regular__item');
-
-    // FitVids init
+    /* FitVids */
     $("#main").fitVids();
 
-    // init sticky sidebar
+    /* Sticky Bar */
     $(".sticky").Stickyfill();
 
     var stickySideBar = function() {

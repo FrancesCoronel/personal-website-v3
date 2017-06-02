@@ -59,7 +59,7 @@ body:hover .visually-hidden button {
     font-size: 1em;
     font-weight: bold;
     padding: 15px 23px 14px;
-    background: #fff;
+    background: $white;
     z-index: 100000;
     text-decoration: none;
     box-shadow: 0 0 2px 2px rgba(0, 0, 0, .6);
@@ -195,7 +195,7 @@ body:hover .visually-hidden button {
 
 .social-icons {
     .fa {
-        color: #000;
+        color: $black;
     }
     .fa-behance,
     .fa-behance-square {
@@ -285,7 +285,7 @@ body:hover .visually-hidden button {
     position: relative;
     width: $navicon-width;
     height: $navicon-height;
-    background: #fff;
+    background: $white;
     margin: auto;
     -webkit-transition: 0.3s;
     transition: 0.3s;
@@ -296,7 +296,7 @@ body:hover .visually-hidden button {
         left: 0;
         width: $navicon-width;
         height: $navicon-height;
-        background: #fff;
+        background: $white;
         -webkit-transition: 0.3s;
         transition: 0.3s;
     }
@@ -396,8 +396,8 @@ body:hover .visually-hidden button {
     margin-top: -150px;
     min-height: 0;
     z-index: 9999;
-    background: #fff;
-    border: 1px solid $border-color;
+    background: $white;
+    border: 1px solid $lighter-gray;
     border-radius: $border-radius;
     box-shadow: $box-shadow;
     &__title {
@@ -409,7 +409,7 @@ body:hover .visually-hidden button {
     }
     &__actions {
         padding: 0.5em 1em;
-        border-top: 1px solid $border-color;
+        border-top: 1px solid $lighter-gray;
     }
 }
 
@@ -419,12 +419,12 @@ body:hover .visually-hidden button {
    ========================================================================== */
 
 .footnote {
-    color: mix(#fff, $gray, 25%);
+    color: mix($white, $gray, 25%);
     text-decoration: none;
 }
 
 .footnotes {
-    color: mix(#fff, $gray, 25%);
+    color: mix($white, $gray, 25%);
     ol,
     li,
     p {

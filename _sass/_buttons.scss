@@ -1,22 +1,22 @@
 .btn {
     /* default button */
+    background-color: $black;
+    border-radius: 0;
+    border: solid 1px $black;
+    color: $white !important;
+    cursor: pointer;
     display: inline-block;
-    margin-bottom: 0.25em;
-    padding: 0.5em 1em;
-    color: $background-color !important;
     font-family: $sans-serif;
     font-size: $type-size-6;
     font-weight: bold;
+    margin-bottom: 0.25em;
+    padding: 0.5em 1em;
     text-align: center;
     text-decoration: none;
-    background-color: $primary-color;
-    border-radius: 0;
-    border: solid 1px $primary-color;
-    cursor: pointer;
     &:hover {
-        background-color: $background-color;
-        color: $primary-color !important;
-        border-color: $primary-color !important;
+        background-color: $white;
+        border-color: $black !important;
+        color: $black !important;
     }
     .icon {
         margin-right: 0.5em;
@@ -35,24 +35,35 @@
     }
     /* for dark backgrounds */
     &--inverse {
-        color: $primary-color !important;
-        background-color: $background-color;
-        border-color: $background-color;
+        background-color: $white;
+        border-color: $white;
+        color: $black !important;
         &:hover {
-            color: $background-color !important;
-            background-color: $primary-color !important;
-            border-color: $primary-color;
+            background-color: $black !important;
+            border-color: $black;
+            color: $white !important;
+        }
+    }
+    /* hero */
+    &--hero {
+        background-color: transparent;
+        border: solid 2px $black !important;
+        color: $black !important;
+        &:hover {
+            background-color: $black;
+            border: solid 2px $black;
+            color: $white !important;
         }
     }
     /* light outline */
     &--light-outline {
-        border-color: $background-color !important;
         background-color: transparent;
-        color: $background-color !important;
+        border-color: $white !important;
+        color: $white !important;
         &:hover {
-            background-color: $primary-color;
-            color: $background-color !important;
-            border-color: $primary-color;
+            background-color: $black;
+            border-color: $black;
+            color: $white !important;
         }
     }
     /* information */
@@ -60,45 +71,45 @@
         background-color: $info-color;
         border-color: $info-color;
         &:hover {
-            background-color: mix($primary-color, $info-color, 20%);
-            color: $background-color !important;
-            border-color: mix($primary-color, $info-color, 20%);
+            background-color: mix($black, $info-color, 20%);
+            border-color: mix($black, $info-color, 20%);
+            color: $white !important;
         }
     }
     /* warning */
     &--warning {
         background-color: $warning-color;
         &:hover {
-            background-color: mix($primary-color, $warning-color, 20%);
-            color: $background-color !important;
-            border-color: mix($primary-color, $warning-color, 20%);
+            background-color: mix($black, $warning-color, 20%);
+            border-color: mix($black, $warning-color, 20%);
+            color: $white !important;
         }
     }
     /* success */
     &--success {
         background-color: $success-color;
         &:hover {
-            background-color: mix($primary-color, $success-color, 20%);
-            color: $background-color !important;
-            border-color: mix($primary-color, $success-color, 20%);
+            background-color: mix($black, $success-color, 20%);
+            border-color: mix($black, $success-color, 20%);
+            color: $white !important;
         }
     }
     /* danger */
     &--danger {
         background-color: $danger-color;
         &:hover {
-            background-color: mix($primary-color, $danger-color, 20%);
-            color: $background-color !important;
-            border-color: mix($primary-color, $danger-color, 20%);
+            background-color: mix($black, $danger-color, 20%);
+            border-color: mix($black, $danger-color, 20%);
+            color: $white !important;
         }
     }
     /* disabled */
     &--disabled {
-        pointer-events: none;
+        box-shadow: none;
         cursor: not-allowed;
         filter: alpha(opacity=65);
-        box-shadow: none;
         opacity: 0.65;
+        pointer-events: none;
     }
     /* social buttons */
     $social: (facebook, $facebook-color),
@@ -117,9 +128,9 @@
             background-color: $color;
             border-color: $color;
             &:hover {
-                background-color: mix($primary-color, $color, 20%);
-                color: $background-color !important;
-                border-color: mix($primary-color, $color, 20%) !important;
+                background-color: mix($black, $color, 20%);
+                border-color: mix($black, $color, 20%) !important;
+                color: $white !important;
             }
         }
     }

@@ -1,21 +1,17 @@
-/*
-   Table of contents navigation
-   ========================================================================== */
-
 .toc {
     font-family: $sans-serif-narrow;
     color: $gray;
     text-transform: none;
     letter-spacing: 1px;
-    background-color: $background-color;
-    border: 1px solid $border-color;
+    background-color: $white;
+    border: 1px solid $lighter-gray;
     border-radius: $border-radius;
     box-shadow: $box-shadow;
     margin-bottom: 2em;
     .nav__title {
-        color: $background-color;
+        color: $white;
         font-size: $type-size-4;
-        background: $primary-color;
+        background: $black;
         border-top-left-radius: $border-radius;
         border-top-right-radius: $border-radius;
         text-transform: capitalize;
@@ -35,9 +31,9 @@
         font-size: $type-size-5;
         font-weight: bold;
         line-height: 1.5;
-        border-bottom: 1px solid $border-color;
+        border-bottom: 1px solid $lighter-gray;
         &:hover {
-            color: #000;
+            color: $black;
             background: $lighter-gray;
             text-decoration: none !important;
         }

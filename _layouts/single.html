@@ -10,10 +10,6 @@ layout: default
 
 <div id="main" role="main">
 
-    {% if page.categories contains "feedback" %}
-        {% include custom/feedback.html %}
-    {% endif %}
-
     <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
 
         {% if page.title %}
@@ -33,6 +29,10 @@ layout: default
         {% endif %}
 
         <div class="page__inner-wrap">
+
+            {% if page.categories contains "feedback" %}
+                {% include custom/feedback.html %}
+            {% endif %}
 
             {% unless page.header.overlay_color or page.header.overlay_image or page.header.image %}
                 <header>
