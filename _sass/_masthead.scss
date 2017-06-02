@@ -15,7 +15,7 @@
         padding: 1em 1em 1em;
         font-family: $sans-serif-narrow;
         @include breakpoint($x-large) {
-            max-width: $x-large;
+            max-width: 85%;
         }
         nav {
             z-index: 10;

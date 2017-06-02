@@ -1,7 +1,7 @@
 ---
 title: "Contact 📨"
 permalink: /contact/
-excerpt: Getting in touch.
+excerpt: "Getting in touch."
 ---
 
 ### Feel free to email me at `fvcproductions at gmail.com`. 📥

@@ -3,8 +3,7 @@ title: "Volunteering 💖"
 excerpt: "No one has ever become poor by giving. -Anne Frank"
 permalink: /volunteering/
 header:
-  image: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/12/img_2021.jpg
-  teaser: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/12/img_2021.jpg
+    image: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/12/img_2021.jpg
 comments: false
 ---
 

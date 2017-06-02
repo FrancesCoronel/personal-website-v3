@@ -4,8 +4,7 @@ date: 2016-08-01
 category: feedback
 cta_url: http://linkedin.com/in/laviemaru
 header:
-  image: https://fvcproductions.files.wordpress.com/2016/08/lavie.jpg?w=200&h=200
-  teaser: https://fvcproductions.files.wordpress.com/2016/08/lavie.jpg?w=200&h=200
+  image: https://fvcproductions.files.wordpress.com/2016/08/lavie.jpg
 ---
 
 Frances has been a great help in the process of my web development journey. She showed me what a good web development environment is.

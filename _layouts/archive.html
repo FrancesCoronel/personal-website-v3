@@ -3,16 +3,18 @@ layout: default
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page/hero.html %}
+    {% include page/hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
-  {% include page/hero-video.html %}
+    {% include page/hero-video.html %}
 {% endif %}
 
 <div id="main" role="main">
-  <div class="archive">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
-    {% endunless %}
-    {{ content }}
-  </div>
+    <div class="archive">
+        {% unless page.header.overlay_color or page.header.overlay_image %}
+            <h1 class="page__title">
+                {{ page.title }}
+            </h1>
+        {% endunless %}
+        {{ content }}
+    </div>
 </div>

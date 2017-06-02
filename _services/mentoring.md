@@ -4,8 +4,7 @@ excerpt: "I enjoy mentoring folks on tech-related topics."
 permalink: /mentoring/
 comments: false
 header:
-  image: https://fvcproductions.files.wordpress.com/2016/02/img_4602.jpg
-  teaser: https://fvcproductions.files.wordpress.com/2016/02/img_4602.jpg
+    image: https://fvcproductions.files.wordpress.com/2016/02/img_4602.jpg
 ---
 
 ## Generally speaking, I enjoy mentoring on how to prepare for coding bootcamps but I have teachable experience in web development, web design, and all sorts of nifty dev, design, or productivity tools.

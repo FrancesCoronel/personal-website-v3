@@ -3,6 +3,10 @@
    ========================================================================== */
 
 .pagination {
+    i.fa.fa-arrow-right {
+        margin-left: .5em;
+        margin-right: 0;
+    }
     @include full();
     @include clearfix();
     display: flex;

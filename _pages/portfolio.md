@@ -1,7 +1,7 @@
 ---
 title: "Portfolio 💼"
 permalink: /portfolio/
-excerpt: What I work on across the interwebs.
+excerpt: "What I work on across the interwebs."
 ---
 
 <div class="grid__wrapper">

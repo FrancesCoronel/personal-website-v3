@@ -5,8 +5,7 @@ permalink: /freelancing/
 modified: 2017-01-01
 comments: false
 header:
-  image: https://fvcproductions.files.wordpress.com/2015/11/banners_new-001.jpeg
-  teaser: https://fvcproductions.files.wordpress.com/2015/11/banners_new-001.jpeg
+    image: https://fvcproductions.files.wordpress.com/2015/11/banners_new-001.jpeg
 ---
 
 ## I work with clients of all backgrounds on both product design & development.

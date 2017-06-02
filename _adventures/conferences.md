@@ -2,10 +2,9 @@
 title: "Conferences 🤝"
 excerpt: "We don't meet anyone by chance."
 permalink: /conferences/
-header:
-  image: https://fvcproductions.files.wordpress.com/2016/09/photo1.jpg
-  teaser: https://fvcproductions.files.wordpress.com/2016/09/photo1.jpg
 comments: false
+header:
+    image: https://fvcproductions.files.wordpress.com/2016/09/photo1.jpg
 ---
 
 ### Conference activity can also be found on [my Lanyrd profile](http://lanyrd.com/profile/fvcproductions/ "Lanyrd").

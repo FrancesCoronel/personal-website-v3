@@ -4,9 +4,11 @@ layout: default
 
 <div id="main" role="main">
   <div class="archive">
-    <h1 class="page__title">{{ page.title }}</h1>
+    <h1 class="page__title">
+        {{ page.title }}
+    </h1>
     {% for post in page.posts %}
-      {% include archive_item/single.html %}
+        {% include archive_item/single.html %}
     {% endfor %}
   </div>
 </div>

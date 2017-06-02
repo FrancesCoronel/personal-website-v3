@@ -12,6 +12,7 @@
     .page__inner-wrap {
         @include full();
         padding: 0 5% 0 5%;
+        margin-bottom: 1em;
         .page__content,
         .page__meta,
         .page__share {
@@ -31,6 +32,7 @@
 }
 
 .page__content {
+    margin-bottom: 1em;
     p,
     li,
     dl {
@@ -379,7 +381,7 @@ footer.page__meta.introductory__info {
 
 #primary-header {
     position: relative;
-    height: 35em;
+    height: 85vh;
     display: table;
     width: 100%;
     background: rgba(0, 0, 0, 0.05);

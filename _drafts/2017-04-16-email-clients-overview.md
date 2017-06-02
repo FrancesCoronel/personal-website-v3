@@ -1,4 +1,8 @@
-Email Clients
+---
+title: Email Clients
+excerpt: Enter your excerpt here.
+date: 2017-04-16
+---
 
 Polymail
 - star functionality missing?

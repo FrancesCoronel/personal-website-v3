@@ -2,7 +2,7 @@
 title: "Travels 🌎"
 permalink: /travels/
 modified: 2017-01-01
-excerpt: Oh, the places you'll go.
+excerpt: "Oh, the places you'll go."
 ---
 
 <iframe id="travel" width="640" height="480" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/d/u/0/embed?mid=11xSbsfkr_6UXjic4znLDZSObW_M"></iframe>
