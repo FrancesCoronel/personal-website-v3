@@ -57,7 +57,7 @@
     -webkit-flex: 1 1 auto;
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
-    padding: 1.25rem;
+    padding: $type-size-5;
     display: block;
     text-overflow: ellipsis;
     word-wrap: break-word;
@@ -142,7 +142,7 @@
 
 .feature__item {
     margin-bottom: 2em;
-    font-size: 1.25rem;
+    font-size: $type-size-5;
     .archive__item-title {
         margin-top: .5em;
     }
@@ -160,7 +160,7 @@
     }
     &--left {
         @include full();
-        font-size: 1.25rem;
+        font-size: $type-size-5;
         .archive__item-teaser {
             margin-bottom: 2em;
         }
@@ -177,7 +177,7 @@
     }
     &--right {
         @include full();
-        font-size: 1.25rem;
+        font-size: $type-size-5;
         .archive__item-teaser {
             margin-bottom: 2em;
         }
@@ -195,7 +195,7 @@
     }
     &--center {
         @include full();
-        font-size: 1.25rem;
+        font-size: $type-size-5;
         .archive__item-teaser {
             margin-bottom: 2em;
         }

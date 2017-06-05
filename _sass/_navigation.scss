@@ -1,7 +1,3 @@
-/*
-   Priority plus navigation
-   ========================================================================== */
-
 .greedy-nav {
     position: relative;
     min-width: 250px;
@@ -40,7 +36,7 @@
             text-align: center;
             background-color: $black;
             color: $white;
-            font-size: 15px;
+            font-size: $type-size-6;
             line-height: 25px;
             border-radius: 50%;
             border: 3px solid $white;
@@ -56,6 +52,9 @@
                 font-weight: bold;
                 a {
                     margin-left: 0;
+                    &::before {
+                        background: black;
+                    }
                 }
             }
             &:last-child {
@@ -64,7 +63,7 @@
                 }
             }
         }
-        a {
+        li:first-child a a {
             position: relative;
             &:before {
                 content: "";
@@ -95,7 +94,7 @@
         a {
             margin: 0;
             padding: 10px 20px;
-            font-size: $type-size-7;
+            font-size: $type-size-6;
             color: $black;
             &:hover {
                 color: $white;
@@ -139,21 +138,18 @@
     }
 }
 
-
-/** Navbar Brand */
-
 .navbar-brand {
     display: inline-block;
     padding-top: .25rem;
     padding-bottom: .25rem;
     margin-right: 1rem;
-    font-size: 1.25rem;
+    font-size: $type-size-5;
     line-height: inherit;
     white-space: nowrap;
     transition: none;
     -webkit-transition: none;
 }
 
-.greedy-nav .visible-links li:first-child a::before {
-    background: black;
+img.navbar-brand {
+    width: 2em;
 }

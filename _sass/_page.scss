@@ -1,6 +1,7 @@
 #main {
     @include container;
     @include clearfix;
+    max-width: 90%;
     animation: intro 0.3s both;
     animation-delay: 0.35s;
     padding-left: 15px;
@@ -40,7 +41,7 @@ body.layout--splash #main {
     p,
     li,
     dl {
-        font-size: 1em;
+        font-size: $type-size-6;
     }
     /* paragraph indents */
     p {
@@ -78,7 +79,6 @@ body.layout--splash #main {
     }
     /* blockquote citations */
     blockquote + .small {
-        margin-top: -1.5em;
         padding-left: 1.25rem;
     }
 }
@@ -141,7 +141,7 @@ body.layout--splash #main {
     padding: 2px 5px;
     color: $white;
     font-family: $caption-font-family;
-    font-size: $type-size-7;
+    font-size: $type-size-6;
     background: $black;
     text-align: right;
     z-index: 5;
@@ -194,7 +194,7 @@ body.layout--splash #main {
     margin: 1em 0 1em 0;
     color: $gray;
     font-family: $monospace;
-    font-size: $type-size-7;
+    font-size: $type-size-6;
     p {
         margin-bottom: 1em;
     }
@@ -439,7 +439,7 @@ footer.page__meta.introductory__info {
 }
 
 #primary-header .entry-title {
-    font-size: 5em;
+    font-size: ($type-size-1 * 2);
 }
 
 

@@ -45,3 +45,8 @@ main:
     url : /contact/
   - title: "Search 🔍"
     url: /search/
+  - title: "Colophon ℹ"
+    url: /colophon/
+  - title: "GitHub Repo 🔧"
+    url: http://github.com/fvcproductions/fvcproductions.github.io
+    new_window: true

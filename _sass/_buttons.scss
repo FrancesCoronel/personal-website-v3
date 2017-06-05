@@ -1,5 +1,4 @@
 .btn {
-    /* default button */
     background-color: $black;
     border-radius: 0;
     border: solid 1px $black;
@@ -36,11 +35,11 @@
     /* for dark backgrounds */
     &--inverse {
         background-color: $white;
-        border-color: $white;
+        border-color: $black;
         color: $black !important;
         &:hover {
             background-color: $black !important;
-            border-color: $black;
+            border-color: $black !important;
             color: $white !important;
         }
     }
@@ -72,34 +71,37 @@
         border-color: $info-color;
         &:hover {
             background-color: mix($black, $info-color, 20%);
-            border-color: mix($black, $info-color, 20%);
+            border-color: mix($black, $info-color, 20%) !important;
             color: $white !important;
         }
     }
     /* warning */
     &--warning {
         background-color: $warning-color;
+        border-color: $warning-color;
         &:hover {
             background-color: mix($black, $warning-color, 20%);
-            border-color: mix($black, $warning-color, 20%);
+            border-color: mix($black, $warning-color, 20%) !important;
             color: $white !important;
         }
     }
     /* success */
     &--success {
         background-color: $success-color;
+        border-color: $success-color;
         &:hover {
             background-color: mix($black, $success-color, 20%);
-            border-color: mix($black, $success-color, 20%);
+            border-color: mix($black, $success-color, 20%) !important;
             color: $white !important;
         }
     }
     /* danger */
     &--danger {
         background-color: $danger-color;
+        border-color: $danger-color;
         &:hover {
             background-color: mix($black, $danger-color, 20%);
-            border-color: mix($black, $danger-color, 20%);
+            border-color: mix($black, $danger-color, 20%) !important;
             color: $white !important;
         }
     }
@@ -144,7 +146,7 @@
     }
     /* small button */
     &--small {
-        font-size: $type-size-7;
+        font-size: $type-size-6;
     }
 }
 
@@ -169,8 +171,8 @@ a.btn:hover {
     text-decoration: none !important;
 }
 
-@media screen and (max-width: 300px) {
-    .archive__item-excerpt a.btn.btn--twitter {
-        margin-top: 1rem;
+.archive__item-excerpt a.btn.btn--twitter {
+    @media screen and (max-width: $mobile) {
+        margin-top: 1em;
     }
 }

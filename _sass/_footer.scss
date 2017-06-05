@@ -2,7 +2,6 @@
     @include full();
     @include clearfix;
     color: $black;
-    padding: 2em 1em 1em 1em;
     -webkit-animation: intro 0.3s both;
     animation: intro 0.3s both;
     -webkit-animation-delay: 0.45s;
@@ -11,15 +10,13 @@
     position: absolute;
     bottom: 0;
     /* Set the fixed height of the footer here */
-    height: 200px;
+    height: 250px;
     /* end sticky footer fix */
     footer {
         @include container;
         @include clearfix;
         text-align: center;
-        @include breakpoint($x-large) {
-            max-width: $x-large;
-        }
+        max-width: 90%;
     }
     a {
         color: inherit;
@@ -65,4 +62,7 @@
 .col-6 {
     width: span(6);
     display: inline-block;
+    @media screen and (max-width: $mobile) {
+        width: span(12);
+    }
 }

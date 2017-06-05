@@ -37,16 +37,16 @@
 }
 
 .algolia__result-link {
-    font-size: 1.25rem;
+    font-size: $type-size-5;
     font-weight: bold;
 }
 
 .algolia__result-date {
-    font-size: 0.8rem;
+    font-size: $type-size-6;
 }
 
 .algolia__result-text {
-    font-size: 0.9rem;
+    font-size: $type-size-6;
 }
 
 .algolia__result-link .algolia__result-highlight {

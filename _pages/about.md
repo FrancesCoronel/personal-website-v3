@@ -20,7 +20,7 @@ Might have something to do with human nature in general, though, so interpret it
 - Mentor, freelancer & speaker 💬
 - Avid conference & hackathon goer 🚗
 - Code pusher, design publisher & online blogger 🌐
-- Lover of chocolate dipped strawberries (my logo) and the 12-base system 🍓 🍫
+- Lover of chocolate dipped strawberries (my logo) and the base 12 system 🍓 🍫
 
 ### So what's happening nowadays?
 

@@ -2,7 +2,6 @@
 
 $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.5em !default;
-$doc-font-size: 1em !default;
 
 /* Font Scale */
 
@@ -12,7 +11,6 @@ $type-size-3: 1.6em !default;
 $type-size-4: 1.4em !default;
 $type-size-5: 1.2em !default;
 $type-size-6: 1em !default;
-$type-size-7: .8em !default;
 
 /* Base Colors */
 
@@ -71,6 +69,7 @@ $masthead-link-color: $white !default;
 $masthead-link-color-hover: mix($white, $gray, 25%) !default;
 
 /* Breakpoints */
+
 $mobile: 300px !default;
 $small: 600px !default;
 $medium: 768px !default;

@@ -1,5 +1,10 @@
 $(document).ready(function() {
 
+    /* Twitter Emojii */
+    window.onload = function() {
+        twemoji.parse(document.body);
+    };
+
     /* Light Gallery */
     $("#lightgallery").lightGallery({
         thumbnail: true,

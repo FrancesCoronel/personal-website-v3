@@ -10,12 +10,12 @@ header:
 	cta_url: "https://unsplash.com"
 	cta_label: "More Info"
 gallery:
-	-  alt: "image"
-		 url: image_link_1
-	-  alt: "image"
-		 url: image_link_2
-	-  alt: "image"
-		 url: image_link_3
+	- alt: "image"
+	  url: image_link_1
+	- alt: "image"
+	  url: image_link_2
+	- alt: "image"
+	  url: image_link_3
 ---
 
 > Name
@@ -34,8 +34,21 @@ Place - City, State
 
 Month xst to xth, 20xx
 
+> Role
+
+Scholarship Recipient
+
 > About
 
 Fill
+
+[<i class='fa fa-globe'></i> Website](http://website.com)
+{: .btn}
+
+[<i class='fa fa-twitter'></i> @twitter](http://twitter.com/@twitter)
+{: .btn .btn--twitter}
+
+[<i class='fa fa-linkedin'></i> LinkedIn](http://linkedin.com)
+{: .btn .btn--linkedin}
 
 {% include gallery caption="A caption."%}

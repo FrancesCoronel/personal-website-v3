@@ -1,8 +1,4 @@
 .masthead {
-    // -webkit-animation: intro 2s both;
-    // -moz-animation: intro 2s both;
-    // -o-animation: intro 2s both;
-    // animation: intro 2s both;
     position: sticky;
     top: 0;
     right: 0;
@@ -13,6 +9,7 @@
     &__inner-wrap {
         @include container;
         @include clearfix;
+        max-width: 90%;
         padding: 1em 1em 1em;
         font-family: $sans-serif-narrow;
         @include breakpoint($x-large) {
@@ -40,13 +37,13 @@
     display: block;
     list-style-type: none;
     white-space: nowrap;
-    font-size: $type-size-7;
+    font-size: $type-size-6;
     font-family: $monospace;
     &--lg {
         padding-right: 1em;
         font-weight: 400;
         font-family: $sans-serif;
-        font-size: $type-size-5;
+        font-size: $type-size-4;
     }
 }
 
@@ -92,7 +89,7 @@ nav ul ul li {
     a {
         margin: 0 !important;
         padding: 10px 20px !important;
-        font-size: $type-size-7;
+        font-size: $type-size-6;
         color: $black !important;
         display: block;
         font-weight: 300;
