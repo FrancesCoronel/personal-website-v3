@@ -1,0 +1,14 @@
+#main {
+    @include container;
+    @include clearfix;
+    max-width: 90%;
+    animation: intro 0.3s both;
+    animation-delay: 0.35s;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 2rem;
+}
+
+body.layout--splash #main {
+    margin-top: 1em;
+}

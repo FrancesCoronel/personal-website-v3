@@ -14,6 +14,6 @@ comments: false
 <div class="grid__wrapper">
     {% assign sorted_hackathons = (site.hackathons | sort: 'date') | reverse %}
     {% for post in sorted_hackathons %}
-        {% include archive_item/single.html type="grid" %}
+        {% include archive/single.html type="grid" %}
     {% endfor %}
 </div>

@@ -132,16 +132,16 @@ layout: default
             {% endif %}
 
             {% if page.previous or page.next %}
-                <div class="page__pagination">
+                <section class="page__pagination">
                     <h4 class="page__pagination-title">
                         {{ site.data.ui-text[site.locale].read_more_label }}
                     </h4>
                     {% include page/post_pagination.html %}
-                </div>
+                </section>
             {% endif %}
 
             {% if page.id and page.related and site.related_posts.size > 0 %}
-                <div class="page__related">
+                <section class="page__related">
                     {% if site.data.ui-text[site.locale].related_label %}
                         <h4 class="page__related-title">
                             {{ site.data.ui-text[site.locale].related_label }}
@@ -149,10 +149,10 @@ layout: default
                     {% endif %}
                     <div class="grid__wrapper related__posts">
                         {% for post in site.related_posts limit:3 %}
-                            {% include archive_item/single.html type="grid" %}
+                            {% include archive/single.html type="grid" %}
                         {% endfor %}
                     </div>
-                </div>
+                </section>
             {% endif %}
         </div>
     </article>

@@ -1,10 +1,10 @@
-{% include archive_item/images.html %}
+{% include archive/images.html %}
 
 <div class="{{ include.type | default: 'list' }}__item">
 
-    <article class="archive__item {% include archive_item/classes.html %}" itemscope itemtype="http://schema.org/CreativeWork">
-        {% include archive_item/titles.html %}
-        {% if include.type == "grid" %} {% include archive_item/teasers.html %} {% endif %}
+    <article class="archive__item {% include archive/classes.html %}" itemscope itemtype="http://schema.org/CreativeWork">
+        {% include archive/titles.html %}
+        {% if include.type == "grid" %} {% include archive/teasers.html %} {% endif %}
         <div class="archive__item-content">
             <h2 class="archive__item-title" itemprop="headline">
 				{% if post.link %}

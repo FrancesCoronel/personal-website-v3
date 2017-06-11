@@ -7,7 +7,8 @@ body {
     color: $dark-gray;
     font-family: $global-font-family;
     font-weight: 300;
-    line-height: 1.5;
+    line-height: 1.8;
+    letter-spacing: .0125em;
     /* Margin bottom by footer height */
     margin-bottom: 250px;
     word-wrap: break-word;

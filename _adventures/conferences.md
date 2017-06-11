@@ -14,6 +14,6 @@ header:
 <div class="grid__wrapper">
     {% assign sorted_conferences = (site.conferences | sort: 'date') | reverse %}
     {% for post in sorted_conferences %}
-        {% include archive_item/single.html type="grid" %}
+        {% include archive/single.html type="grid" %}
     {% endfor %}
 </div>

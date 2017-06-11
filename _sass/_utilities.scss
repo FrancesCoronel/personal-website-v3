@@ -1,14 +1,4 @@
-/* ==========================================================================
-   UTILITY CLASSES
-   ========================================================================== */
-
-
-/*
-   Visibility
-   ========================================================================== */
-
-
-/* http://www.456bereastreet.com/archive/200711/screen_readers_sometimes_ignore_displaynone/ */
+/** Visibility */
 
 .hidden {
     display: none;
@@ -122,7 +112,9 @@ body:hover .visually-hidden button {
 }
 
 .wrapper {
-    @include container();
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
@@ -494,4 +486,24 @@ a.reversefootnote {
 iframe.airtable-embed {
     margin-bottom: 2em;
     margin-top: 1em;
+    @media screen and (max-width: $mobile) {
+        min-height: 300px;
+    }
+    @media screen and (min-width: $small) {
+        min-height: 400px;
+    }
+    @media screen and (min-width: $medium) {
+        min-height: 500px;
+    }
+    @media screen and (min-width: $large) {
+        min-height: 600px;
+    }
+}
+
+
+/** iFrame - Travel */
+
+iframe#travel {
+    margin: 1em 0 1em 0;
+    max-width: 95%;
 }

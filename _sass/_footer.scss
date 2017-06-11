@@ -60,9 +60,11 @@
 }
 
 .col-6 {
-    width: span(6);
-    display: inline-block;
     @media screen and (max-width: $mobile) {
         width: span(12);
     }
+    @media screen and (min-width: $small) {
+        width: span(6);
+    }
+    display: inline-block;
 }

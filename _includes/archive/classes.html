@@ -1,7 +1,7 @@
-adventure__item
+item
 
 {% if page.permalink == '/portfolio/' %}
-	portfolio__item
+	showcase__item
 	{% if post.category == 'Behance' %}
 		behance-project
 	{% elsif post.category == 'GitHub' %}
@@ -15,8 +15,4 @@ adventure__item
 
 {% if page.permalink == '/blog/' %}
 	blog__item
-{% endif %}
-
-{% if page.permalink == '/feedback/' %}
-	feedback__item
 {% endif %}

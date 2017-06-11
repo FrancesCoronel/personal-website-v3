@@ -1,29 +1,29 @@
 ---
 ---
 
-// Variables
+/* Variables */
 
 @import "variables";
 
-// Fonts
+/* Fonts */
 
 @import "fonts";
 
-// Breakpoint - media query mixins
+/* Breakpoint */
 
 @import "vendor/breakpoint/breakpoint";
 @include breakpoint-set("to ems", true);
 
-// Magnific Popup - responsive lightbox
+/* Magnific */
 
-@import "vendor/magnific-popup/magnific-popup"; // Magnific Popup
+@import "vendor/magnific-popup/magnific-popup";
 
-// Susy - grid mixins
+/* Susy */
 
 $susy: ( columns: 12, gutters: 1/4, math: fluid, output: float, gutter-position: after, container: $large, global-box-sizing: border-box, );
 @import "vendor/susy/susy";
 
-// Base
+/* Base */
 
 @import "mixins";
 @import "reset";
@@ -33,25 +33,42 @@ $susy: ( columns: 12, gutters: 1/4, math: fluid, output: float, gutter-position:
 @import "tables";
 @import "buttons";
 @import "notices";
-@import "masthead";
 @import "breadcrumbs";
 @import "pagination";
-@import "navigation";
-@import "navigation_list";
-@import "table_of_contents";
+@import "table-of-contents";
 @import "footer";
 @import "syntax";
 @import "forms";
 
-// Layout Specific
+/** Header */
 
-@import "page";
-@import "archive";
-@import "archive_config";
-@import "sidebar";
-@import "print";
+@import "header/masthead";
+@import "header/navigation";
+@import "header/navigation-list";
 
-// Custom
+/* Page */
 
-@import "search";
-@import "feedback";
+@import "page/page";
+@import "page/main";
+@import "page/hero";
+@import "page/meta";
+@import "page/comments";
+@import "page/taxonomy";
+@import "page/share";
+
+/* Archive */
+
+@import "archive/archive";
+@import "archive/categories";
+@import "archive/feature";
+@import "archive/grid";
+
+/* Layout */
+
+@import "layout/sidebar";
+@import "layout/print";
+
+/* Custom */
+
+@import "custom/search";
+@import "custom/feedback";

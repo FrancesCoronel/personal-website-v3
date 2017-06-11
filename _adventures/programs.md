@@ -10,6 +10,6 @@ comments: false
 <div class="grid__wrapper">
     {% assign sorted_programs = (site.programs | sort: 'date') | reverse %}
     {% for post in sorted_programs %}
-        {% include archive_item/single.html type="grid" %}
+        {% include archive/single.html type="grid" %}
     {% endfor %}
 </div>

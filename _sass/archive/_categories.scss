@@ -1,14 +1,24 @@
 /** Portfolio Customizations */
 
-.portfolio__item,
-.adventure__item,
-.speaking__item,
-.feedback__item {
+.showcase__item .archive__item-title,
+.blog__item .archive__item-title {
+    margin-bottom: .5em;
+}
+
+.item,
+.showcase__item {
     box-shadow: 0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12), 0 2px 4px -1px rgba(0, 0, 0, .2);
 }
 
+.project-header {
+    text-align: center;
+    h3 {
+        margin-top: 1em;
+    }
+}
+
 .behance-project {
-    -title a:hover {
+    .archive__item-title a:hover {
         color: $behance-color !important;
     }
     .project-header {
@@ -17,13 +27,16 @@
 }
 
 .github-repo {
+    .archive__item-title a:hover {
+        color: $github-color !important;
+    }
     .project-header {
         color: $github-color !important;
     }
 }
 
 .youtube-video {
-    -title a:hover {
+    .archive__item-title a:hover {
         color: $youtube-color !important;
     }
     .project-header {
@@ -32,17 +45,10 @@
 }
 
 .speaker-deck {
-    -title a:hover {
+    .archive__item-title a:hover {
         color: $speakerdeck-color !important;
     }
     .project-header {
         color: $speakerdeck-color !important;
-    }
-}
-
- .project-header {
-    text-align: center;
-    h3 {
-        margin-top: 1em;
     }
 }

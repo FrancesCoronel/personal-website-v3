@@ -1,0 +1,21 @@
+.grid__wrapper {
+    margin-top: 2em;
+}
+
+.grid__item {
+    margin-bottom: 2em;
+    @include breakpoint($small) {
+        @include gallery(4 of 12);
+    }
+    @include breakpoint($medium) {
+        margin-left: 0;
+        /* reset before mixin does its thing*/
+        margin-right: 0;
+        /* reset before mixin does its thing*/
+        @include gallery(3 of 12);
+        .archive__item-excerpt {
+            display: block;
+            font-size: $type-size-6;
+        }
+    }
+}
