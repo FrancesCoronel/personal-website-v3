@@ -1,14 +1,15 @@
 .archive__item {
     position: relative;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-    -ms-flex-direction: column;
-    flex-direction: column;
+    display: inherit;
+    // display: -webkit-box;
+    // display: -webkit-flex;
+    // display: -ms-flexbox;
+    // display: flex;
+    // -webkit-box-orient: vertical;
+    // -webkit-box-direction: normal;
+    // -webkit-flex-direction: column;
+    // -ms-flex-direction: column;
+    // flex-direction: column;
 }
 
 .archive__item-title {

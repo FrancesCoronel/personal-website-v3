@@ -1,5 +1,5 @@
 ---
-title: "Speaking 💬"
+title: "Speaking <i class='twa twa-speech-balloon'></i>"
 excerpt: "What I have spoken about."
 permalink: /speaking/
 header:

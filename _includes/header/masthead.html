@@ -8,7 +8,7 @@
 				<ul class='visible-links'>
 					<li>
 						<a href="{{ '/' | absolute_url }}">
-							<img class="navbar-brand" src="/assets/images/logo-white.svg" alt="FVCproductions">
+							<img class="navbar-brand" alt="FVCproductions">
 						</a>
 					</li>
 					<li class="masthead__menu-item masthead__menu-item--lg">
@@ -23,7 +23,7 @@
 							{% assign domain = site.url | append: site.baseurl %}
 						{% endif %}
 						<li class="masthead__menu-item">
-							{% if link.new_window %}
+							{% if link.new_window == true %}
 								<a href="{{ domain }}{{ link.url }}" target="_blank">
 									{{ link.title }}
 								</a>

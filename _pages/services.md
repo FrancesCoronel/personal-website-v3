@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Services 🛠"
+title: "Services <i class='twa twa-hammer-and-wrench'></i>"
 permalink: /services/
 excerpt: "What you can hire me for."
 ---

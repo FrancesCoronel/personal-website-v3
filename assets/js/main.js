@@ -1,10 +1,5 @@
 $(document).ready(function() {
 
-    /* Twitter Emojii */
-    window.onload = function() {
-        twemoji.parse(document.body);
-    };
-
     /* Light Gallery */
     $("#lightgallery").lightGallery({
         thumbnail: true,
@@ -12,9 +7,9 @@ $(document).ready(function() {
         showThumbByDefault: true
     });
 
-    /** Attempting to Change Tab Title */
+    /* Attempting to Change Tab Title */
     var title = document.title;
-    var alttitle = "Whatcha up to? 👀";
+    var alttitle = "Whatcha up to? <i class='twa twa-lg twa-eyes'></i>";
 
     $(window).blur(function() {
         document.title = alttitle;
@@ -22,6 +17,21 @@ $(document).ready(function() {
 
     $(window).focus(function() {
         document.title = title;
+    });
+
+
+    /* Scroll Up Button */
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 100) {
+            $('#scroll').fadeIn();
+        } else {
+            $('#scroll').fadeOut();
+        }
+    });
+
+    $('#scroll').click(function() {
+        $("html, body").animate({ scrollTop: 0 }, 600);
+        return false;
     });
 
     /* FitVids */
@@ -51,7 +61,6 @@ $(document).ready(function() {
     });
 
     // Follow menu drop down
-
     $(".author__urls-wrapper button").on("click", function() {
         $(".author__urls").fadeToggle("fast", function() {});
         $(".author__urls-wrapper button").toggleClass("open");

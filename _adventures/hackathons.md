@@ -1,6 +1,6 @@
 ---
-title: "Hackathons 🛠"
-excerpt: "Do or do not. There is no try. -Yoda"
+title: "Hackathons <i class='twa twa-hammer'></i>"
+excerpt: "Do or do not. There is no try. - Yoda"
 permalink: /hackathons/
 header:
     image: https://fvcproductions.files.wordpress.com/2016/02/12771707_1076383859078958_1519560316826557331_o.jpg

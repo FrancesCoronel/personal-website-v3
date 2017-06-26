@@ -1,5 +1,5 @@
 ---
-title: "Travels 🌎"
+title: "Travels <i class='twa twa-earth-americas'></i>"
 permalink: /travels/
 modified: 2017-01-01
 excerpt: "Oh, the places you'll go."
@@ -16,10 +16,10 @@ excerpt: "Oh, the places you'll go."
 - born into a Peruvian family in Newport News, VA and raised in Norfolk, VA
     + exposed to a lot of different cultures very early on given that Norfolk is one of the largest naval bases in the US and families from all over the place come to stay for a few years or longer
 - from elementary school to now, I was/am usually the only Latina in any of my classes
-- graduated from an HBCU in May of 2016
+- graduated from an HBCU (Hampton U) in May of 2016
 - studied in NYC at Fullstack Academy during the summer of 2015
 - interned in Redwood City, CA for Accenture during the summer of 2016
-- attending Ivy League school in NYC from 2016 to 2017
+- attended Ivy League school in NYC (Cornell Tech) from 2016 to 2017
 - visited Canada and 25+ US states
 
 ### Central & South America

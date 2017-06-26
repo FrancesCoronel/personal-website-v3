@@ -1,5 +1,5 @@
 ---
-title: "Mentoring 😊"
+title: "Mentoring <i class='twa twa-books'></i>"
 excerpt: "I enjoy mentoring folks on tech-related topics."
 permalink: /mentoring/
 comments: false

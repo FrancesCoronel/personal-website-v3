@@ -10,6 +10,7 @@ layout: compress
 </head>
 
 <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    <a href="javascript:void(0);" id="scroll" title="Scroll to Top" style="display: none;">Top<span></span></a>
     {% include base/browser-upgrade.html %}
     {% include header/masthead.html %}
     {{ content }}
@@ -20,5 +21,4 @@ layout: compress
     </div>
     {% include base/scripts.html %}
 </body>
-
 </html>

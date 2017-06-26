@@ -57,6 +57,9 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
+# Metadata error
+github: [metadata]
+
 # Social Sharing
 twitter:
   username               : "fvcproductions"
@@ -240,14 +243,17 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
+  comments: all
+  endings: all
   ignore:
-    envs: development
-
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: all
 
 # Defaults
 defaults:

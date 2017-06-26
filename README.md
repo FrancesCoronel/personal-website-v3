@@ -26,6 +26,12 @@ $ bundle install
 $ bundle exec jekyll serve
 ```
 
+Make sure to update your gems every now and then!
+
+```bash
+$ bundle update
+```
+
 For faster rendering...
 
 ```bash
@@ -61,6 +67,12 @@ For search integration with Algolia, I can either run the following command or s
 
 ```bash
 ALGOLIA_API_KEY='API_KEY' bundle exec jekyll algolia push
+```
+
+Find Scope for Sublime Text 3
+
+```
+<project>,-*/_drafts/*,-*/_sass/vendor/*,-*/.git/*,-*/site/*,-*config.codekit3,-*Gemfile.lock,-*/assets/*
 ```
 
 ## Features

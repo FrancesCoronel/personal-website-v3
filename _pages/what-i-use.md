@@ -1,5 +1,5 @@
 ---
-title: "What I Use 📱"
+title: "What I Use <i class='twa twa-iphone'></i>"
 permalink: /what-i-use/
 modified: 2017-04-19
 excerpt: "The tools I use on a day to day basis."

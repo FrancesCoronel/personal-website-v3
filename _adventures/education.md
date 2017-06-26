@@ -1,5 +1,5 @@
 ---
-title: "Education 🎓"
+title: "Education <i class='twa twa-mortar-board'></i>"
 excerpt: "Knowledge is power."
 permalink: /education/
 header:

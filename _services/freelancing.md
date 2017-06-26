@@ -1,5 +1,5 @@
 ---
-title: "Freelancing 🤝"
+title: "Freelancing <i class='twa twa-gem'></i>"
 excerpt: "Developing with a design background."
 permalink: /freelancing/
 modified: 2017-01-01

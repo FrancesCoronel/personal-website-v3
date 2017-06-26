@@ -1,8 +1,10 @@
 ---
-title: "Colophon"
-excerpt: "Facts about production."
+title: "Colophon <i class='twa twa-strawberry'></i>"
+excerpt: "Unveiling the inner workings of this website."
 permalink: /colophon/
 ---
+
+{% include toc %}
 
 ## Copyright ∞ FVCproductions
 
@@ -10,36 +12,7 @@ Originally published 2013.
 
 Website design, development, and copy writing by Frances Coronel.
 
-## Typography
-
-- Roboto
-- Roboto Mono
-
-## Technology
-
-- Jekyll
-- Algolia
-- Embedly
-- Light Gallery
-- Twitter Emojii
-- Disqus
-- Google Analytics
-
-## Branding
-
-A variety of common markup showing how my theme styles them.
-
-# Header one
-
-## Header two
-
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
+Built off of the theme <a href="https://mmistakes.github.io/minimal-mistakes" title="Minimal Mistakes" target="_blank">Minimal Mistakes</a>.
 
 ## Blockquotes
 
@@ -54,67 +27,14 @@ Multi line blockquote with a cite reference:
 <cite>Steve Jobs</cite> --- Apple Worldwide Developers' Conference, 1997
 {: .small}
 
-## Tables
-
-| Name | Occupation | Age |
-|:---:|:---:|:---:|
-| [Huey Freeman](http://boondockstv.wikia.com/wiki/Huey_Freeman) | Intellectual Terrorist | 12 |
-| [Tintin](http://tintin.wikia.com/wiki/Tintin) | Reporter | 14 to 15 |
-| [Steven Universe](http://steven-universe.wikia.com/wiki/Steven_Universe_%28character%29) | Guardian | 14 |
-| [Finn Mertens](http://adventuretime.wikia.com/wiki/Finn) | Adventurer | 16 |
-| [Tina Belcher](http://bobs-burgers.wikia.com/wiki/Tina_Belcher) | Grill Cook | 12 to 13
-| [Phillip J. Fry](http://futurama.wikia.com/wiki/Philip_J._Fry_I) | Delivery Boy | 25
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-* List item one
-    * List item one
-        * List item one
-        * List item two
-        * List item three
-        * List item four
-    * List item two
-    * List item three
-    * List item four
-* List item two
-* List item three
-* List item four
-
-## Ordered List (Nested)
-
-1. List item one
-    1. List item one
-        1. List item one
-        2. List item two
-        3. List item three
-        4. List item four
-    2. List item two
-    3. List item three
-    4. List item four
-2. List item two
-3. List item three
-4. List item four
-
 ## Buttons
 
 Make any link standout more when applying the `.btn` class.
 
+<a href="#" class="btn btn--success">Success Button</a>
+
 ```html
-<a href="#" class="btn--success">Success Button</a>
+<a href="#" class="btn btn--success">Success Button</a>
 ```
 
 [Primary Button](#){: .btn}
@@ -147,6 +67,89 @@ Make any link standout more when applying the `.btn` class.
 [Small Button](#link){: .btn .btn--small}
 ```
 
+## Definition Lists
+
+Cutie
+:   An adjective that would accurately describe my SO.
+
+Definition List Title
+:   Definition list division.
+
+Strawberry
+:   A delicious kind of fruit that Franny really enjoys.
+
+## Emoji
+
+Standardized emoji for any browser using Twemoji Awesome.
+
+<i class='twa twa-3x twa-strawberry'></i>
+
+```html
+<i class='twa twa-3x twa-strawberry'></i>
+```
+
+## HTML Tags
+
+### Abbreviation Tag
+
+The abbreviation CSS stands for "Cascading Style Sheets".
+
+*[CSS]: Cascading Style Sheets
+
+### Address Tag
+
+<address>
+  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+</address>
+
+### Anchor Tag
+
+This is an example of a [link](http://apple.com "Apple").
+
+### Cite Tag
+
+"Code is poetry." ---<cite>Automattic</cite>
+
+### Code Tag
+
+You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
+
+### Emphasize Tag
+
+The emphasize tag should _italicize_ text.
+
+### Insert Tag
+
+This tag should denote <ins>inserted</ins> text.
+
+### Keyboard Tag
+
+This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
+
+### Quote Tag
+
+<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
+
+### Strike Tag
+
+This tag will let you <strike>strikeout text</strike>.
+
+### Strong Tag
+
+This tag shows **bold text**.
+
+### Subscript Tag
+
+Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
+
+### Superscript Tag
+
+Still sticking with science and Albert Einstein's E = MC<sup>2</sup>, which should lift the 2 up.
+
+### Variable Tag
+
+This allows you to denote <var>variables</var>.
+
 ## Notices
 
 **Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
@@ -167,64 +170,59 @@ Make any link standout more when applying the `.btn` class.
 **Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
 {: .notice--danger}
 
-## HTML Tags
+## Ordered List
 
-### Address Tag
+1. List item one
+    1. List item one
+        1. List item one
+        2. List item two
+        3. List item three
+        4. List item four
+    2. List item two
+    3. List item three
+    4. List item four
+2. List item two
+3. List item three
+4. List item four
 
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
+## Tables
 
-### Anchor Tag (aka. Link)
+| Name | Occupation | Age |
+|:---:|:---:|:---:|
+| [Huey Freeman](http://boondockstv.wikia.com/wiki/Huey_Freeman) | Intellectual Terrorist | 12 |
+| [Tintin](http://tintin.wikia.com/wiki/Tintin) | Reporter | 14 to 15 |
+| [Steven Universe](http://steven-universe.wikia.com/wiki/Steven_Universe_%28character%29) | Guardian | 14 |
+| [Finn Mertens](http://adventuretime.wikia.com/wiki/Finn) | Adventurer | 16 |
+| [Tina Belcher](http://bobs-burgers.wikia.com/wiki/Tina_Belcher) | Grill Cook | 12 to 13
+| [Phillip J. Fry](http://futurama.wikia.com/wiki/Philip_J._Fry_I) | Delivery Boy | 25
 
-This is an example of a [link](http://apple.com "Apple").
+## Technology
 
-### Abbreviation Tag
+- Jekyll
+- Algolia
+- Embedly
+- Light Gallery
+- Twemoji Awesome
+- Disqus
+- Google Analytics
 
-The abbreviation CSS stands for "Cascading Style Sheets".
+## Typography
 
-*[CSS]: Cascading Style Sheets
+- Roboto
+- Roboto Mono
+- Font Awesome
 
-### Cite Tag
+## Unordered List
 
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Albert Einstein's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+* List item one
+    * List item one
+        * List item one
+        * List item two
+        * List item three
+        * List item four
+    * List item two
+    * List item three
+    * List item four
+* List item two
+* List item three
+* List item four

@@ -1,5 +1,5 @@
 ---
-title: "Adventures ✈"
+title: "Adventures <i class='twa twa-airplane'></i>"
 permalink: /adventures/
 excerpt: "Never say ‘no’ to adventures. Always say ‘yes,’ otherwise, you’ll lead a very dull life."
 ---

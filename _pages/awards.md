@@ -1,5 +1,5 @@
 ---
-title: "Awards 🏆"
+title: "Awards <i class='twa twa-trophy'></i>"
 permalink: /awards/
 excerpt: "Your mind is your weapon. Load your weapon. - Immortal Technique"
 ---

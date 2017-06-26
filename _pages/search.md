@@ -1,15 +1,15 @@
 ---
-title: "Search 🔍"
+title: "Search <i class='twa twa-mag'></i>"
 excerpt: "Find what you're looking for."
 sitemap: false
 permalink: /search/
 ---
 
-## Sorry, but the page you were trying to view does not exist! 😞
+## Sorry, but the page you were trying to view does not exist! <i class='twa twa-disappointed'></i>
 
-### Maybe try looking up whatever it is you're trying to look for? 💁🏾
+### Maybe try looking up whatever it is you're trying to look for? <i class='twa twa-telescope'></i>
 
-<input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Search for the key to success... 🔑" />
+<input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Search for the key to success... <i class='twa twa-key'></i>" />
 
 <div class="content container">
   <div class="algolia__initial-content js-algolia__initial-content">

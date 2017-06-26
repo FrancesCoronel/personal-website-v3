@@ -1,6 +1,6 @@
 ---
-title: "Volunteering 💖"
-excerpt: "No one has ever become poor by giving. -Anne Frank"
+title: "Volunteering <i class='twa twa-gift-heart'></i>"
+excerpt: "No one has ever become poor by giving. - Anne Frank"
 permalink: /volunteering/
 header:
     image: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/12/img_2021.jpg

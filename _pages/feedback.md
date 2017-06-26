@@ -1,5 +1,5 @@
 ---
-title: "Feedback 💖"
+title: "Feedback <i class='twa twa-white-check-mark'></i>"
 permalink: /feedback/
 excerpt: "All the nice things folks have had to say."
 ---
