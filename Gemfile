@@ -9,5 +9,5 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jemoji"
-  gem 'algoliasearch-jekyll', '~> 0.8.0'
+  gem "algoliasearch-jekyll"
 end

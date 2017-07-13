@@ -16,7 +16,7 @@ title_separator          : "-"
 name                     : "Frances Coronel"
 description              : "I like to dabble with things that ought to be dabbled with."
 url                      : "https://fvcproductions.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : ""
 repository               : "fvcproductions/fvcproductions.github.io"
 teaser                   : "/assets/images/teaser.png"
 # breadcrumbs            : false # true, false (default)
@@ -32,22 +32,6 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -198,19 +182,20 @@ gems:
   - jemoji
   - algoliasearch-jekyll
 
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+# # mimic GitHub Pages with --safe
+# whitelist:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jemoji
 
 # Algolia
 algolia:
   application_id   : 'LE508NV48J'
   index_name       : 'jekyll'
   read_only_api_key: 'd62499d6f6ac2e7850db91168db94083'
+  lazy_update      : true
   excluded_files   :
     - 404.html
     - index.html
@@ -383,6 +368,16 @@ defaults:
       comments: true
       share: true
       related: true
+  # _volunteering
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: single
+      read_time: false
+      comments: true
+      share: true
+      related: true
 
 # collections
 collections:
@@ -419,3 +414,6 @@ collections:
   education:
     output: true
     permalink: /education/:path/
+  books:
+    output: true
+    permalink: /books/:path/

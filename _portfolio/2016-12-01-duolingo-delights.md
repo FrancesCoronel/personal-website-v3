@@ -1,0 +1,66 @@
+---
+title: "Duolingo Delights \\U0001F381"
+date: 2016-12-01
+---
+
+<div class="embed-speakerdeck">
+
+</div>
+
+\_oembed\_time\_5ab9409e7dde8d72c5f077afe4e3da15: '1486409129' author:
+login: fvcproductions email: fvcproductions@gmail.com display\_name:
+ excerpt:
+Surprise yourself with Delights. Learn the language, explore the
+culture. ---
+
+![duolingo-revised-product-school-001](https://fvcproductions.files.wordpress.com/2016/12/duolingo-revised-product-school-001.jpeg){.size-full .wp-image-5857 .aligncenter width="1920" height="1080"}
+======================================================================================================================================================================================================
+
+Duolingo Delights {#duolingodelights}
+=================
+
+As part of the interview process for [Duolingo](http://duolingo.com), I
+created this slide deck for a product task that Duolingo could achieve
+by 1–4 engineers in 3–6 months.
+
+I decided to create **Duolingo Delights**. With this feature, Duolingo
+users can learn more about the culture around the language they’re
+trying to learn and not just the grammar. This objective will be
+achieved by inserting mini culture-related tasks throughout the user’s
+learning process. These culture-related tasks will be called delights.
+
+-   [View this project on
+    Behance](https://www.behance.net/gallery/48455905/Duolingo-Delights-)
+-   [View the slides on Speaker
+    Deck](https://speakerdeck.com/fvcproductions/duolingo-delights-revised-1)
+-   [View the PRD on
+    Scribd](https://www.scribd.com/document/333594398/Duolingo-Delights)
+-   [View the files used on
+    GitHub](https://github.com/fvcproductions/duolingo-delights)
+
+\[gallery
+ids="5857,5858,5859,5860,5861,5862,5863,5864,5865,5866,5867,5868,5869,5870,5871,5872,5873,5874,5875,5876,5877,5878,5879"
+type="rectangular"\]
+
+PRD
+---
+
+\[scribd id=333594398 key=key-SEA7TANaoddyrZKsrVDZ mode=scroll\]
+
+Speaker Deck {#speakerdeck}
+------------
+
+https://speakerdeck.com/fvcproductions/duolingo-delights-revised-1
+
+Credits
+-------
+
+-   [FVCproductions](http://fvcproductions.com) 🍓🍫
+
+Donations
+---------
+
+> Feed me… 🍕
+
+[![Donate via
+PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](http://paypal.me/fvcproductions)

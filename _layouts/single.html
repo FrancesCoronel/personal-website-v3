@@ -2,11 +2,9 @@
 layout: default
 ---
 
-{% unless page.categories contains "feedback" %}
-    {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-        {% include page/hero.html %}
-    {% endif %}
-{% endunless %}
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+    {% include page/hero.html %}
+{% endif %}
 
 <div id="main" role="main">
 
@@ -38,14 +36,14 @@ layout: default
                 <header>
                     {% if page.title %}
                         <h1 class="page__title" itemprop="headline">
-                            {% if page.cta_url %}
-                                <a href="{{ page.cta_url }}" target="_blank">
-                                    {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
-                                </a>
-                            {% else %}
+                        {% if page.cta_url %}
+                            <a href="{{ page.cta_url }}" target="_blank">
                                 {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
-                            {% endif %}
-                        </h1>
+                            </a>
+                        {% else %}
+                            {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+                        {% endif %}
+                    </h1>
                     {% endif %}
                 </header>
             {% endunless %}
@@ -55,16 +53,14 @@ layout: default
                 {% unless page.categories contains "feedback" %}
                     {% if page.excerpt %}
                         <p itemprop="description">
-                            <i class="fa fa-info-circle fa-lg"></i>
-                            {{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}
+                            <i class="fa fa-info-circle fa-lg"></i> {{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}
                         </p>
                     {% endif %}
                 {% endunless %}
 
                 {% if page.read_time %}
                     <p>
-                        <i class="fa fa-clock-o fa-lg" aria-hidden="true"></i>
-                        {% include page/read-time.html %}
+                        <i class="fa fa-clock-o fa-lg" aria-hidden="true"></i> {% include page/read-time.html %}
                     </p>
                 {% endif %}
 
@@ -99,7 +95,6 @@ layout: default
 
             <section class="page__content" itemprop="text">
                 {{ content }}
-
                 {% if page.link %}
                     <div>
                         <a href="{{ page.link }}" class="btn">
@@ -116,7 +111,6 @@ layout: default
                             {{ site.data.ui-text[site.locale].meta_label }}
                         </h4>
                     {% endif %}
-
                     {% unless page.categories contains "feedback" %}
                         {% include page/taxonomy.html %}
                     {% endunless %}

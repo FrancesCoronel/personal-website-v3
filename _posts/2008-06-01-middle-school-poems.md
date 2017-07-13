@@ -1,5 +1,5 @@
 ---
-title: "Middle School Poems 🖋"
+title: "Middle School Poems <i class='twa twa-black-nib'></i>"
 date: 2008-06-01
 excerpt: "Random poems from 2008."
 header:

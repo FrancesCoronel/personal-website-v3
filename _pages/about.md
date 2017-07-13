@@ -1,5 +1,5 @@
 ---
-title: "About <i class='twa twa-eyes'></i>"
+title: "About \\U0001F440"
 permalink: /about/
 excerpt: "I like to dabble with things that ought to be dabbled with."
 modified: 2017-05-25
@@ -33,3 +33,15 @@ Might have something to do with human nature in general, though, so interpret it
 <!-- Pre elements are perfect for this. -->
 <pre class="ascii-element">
 </pre>
+
+### Where You Can Find My Work 🌐
+
+- [Behance](http://behance.net/fvcproductions)
+- [GitHub](http://github.com/fvcproductions)
+- [Gravatar](https://en.gravatar.com/fvcproductions)
+- [Quora](http://quora.com/profile/Frances-Coronel-1)
+- [LinkedIn](http://linkedin.com/in/fvcproductions)
+- [Scribd](https://www.scribd.com/user/194063411/FVCproductions)
+- [Speaker Deck](https://speakerdeck.com/fvcproductions)
+- [YouTube](http://youtube.com/+fvcproductions2013)
+- HERE (lol)

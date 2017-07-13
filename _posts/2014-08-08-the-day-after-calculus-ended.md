@@ -1,0 +1,50 @@
+---
+title: "The Day After Calculus Ended"
+date: 2014-08-08
+excerpt: "Exploring blogging applications."
+header:
+    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+tags:
+    - blogging
+    - byword
+    - calculus
+    - cleft lip
+    - cleft palette
+    - fvcproducitons
+    - mac
+    - merger
+    - non profit
+    - operation smile
+    - smile train
+    - ulyssess
+---
+
+Honestly, the best blogging utility would be a combination of
+[Byword](http://bywordapp.com "Byword")'s simple UI, publishing, and
+exporting utilities and [Ulysses III](http://ulyssesapp.com "Ulysses")'s
+database management and the numerous extra features (statistics,
+navigation, helpful .md hints, visual syntax, etc.).
+
+It's a real shame when I find this kind of thing out, just how much
+greater an app would be if they joined forces with another. I find this
+kind of ideal applies to all sorts of great products. It's not a new
+concept, but today I've seemed to realize it's implications.
+
+What bothers me even more is that this kind of idea doesn't apply to
+just the primitive aspect of app development but governments, non-profit
+organizations, etc.
+
+I used to volunteer a lot for *[Operation
+Smile](http://www.operationsmile.org "Operation Smile")* (from 2009 to
+2013), a non-profit organization that provides free surgeries to repair
+cleft lip, cleft palate and other facial deformities for children around
+the globe. In early 2011, I heard they were going to merge with *[Smile
+Train](http://www.smiletrain.org "Smile Train")*, the world's largest
+charity that provides corrective surgery for children with cleft lips
+and palates. Unfortunately, they never did succeed in their merger and
+when I asked an employee at OP Smile about it, they explained that their
+organizational structures were too different. You can hear more about
+the attempted merger
+[here](http://www.nytimes.com/2011/02/24/business/24smile.html?pagewanted=all "Merger").
+
+Regardless…

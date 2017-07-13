@@ -16,6 +16,10 @@
 						{{ site.title }}
 					  </a>
 					</li>
+					<li class="masthead__menu-item">
+						<input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Search site">
+						<i class="search icon"></i>
+					</li>
 					{% for link in site.data.navigation.main %}
 						{% if link.url contains 'http' %}
 							{% assign domain = '' %}

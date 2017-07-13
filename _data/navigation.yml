@@ -2,6 +2,8 @@ main:
   - title: "About <i class='twa twa-eyes'></i>"
     url: /about/
     children:
+      - title: "Books <i class='twa twa-books'></i>"
+        url: /books/
       - title: "Travels <i class='twa twa-earth-americas'></i>"
         url: /travels/
       - title: "What I Use <i class='twa twa-iphone'></i>"

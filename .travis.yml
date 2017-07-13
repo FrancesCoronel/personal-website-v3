@@ -2,8 +2,8 @@ language: ruby
 cache: bundler
 branches:
     only:
-        - master
-script:
+        - gh-pages
+script: 
     - bundle exec jekyll algolia push
 rvm:
     - 2.2

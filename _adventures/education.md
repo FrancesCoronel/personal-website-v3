@@ -8,11 +8,7 @@ header:
 comments: false
 ---
 
-## Below is an <a href="http://airtable.com" title="Airtable" target="_blank">Airtable</a> with a snapshot of all the college courses I've ever taken throughout my academic career.
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrsQw3LAJ5W3FnlT?backgroundColor=gray&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
-## And then here's a snapshot of places I went for my formal education.
+## These are places I went for my "formal education".
 
 <div class="grid__wrapper">
     {% assign sorted_education = (site.education | sort: 'date') | reverse %}
@@ -20,3 +16,7 @@ comments: false
         {% include archive/single.html type="grid" %}
     {% endfor %}
 </div>
+
+## Below is an <a href="http://airtable.com" title="Airtable" target="_blank">Airtable</a> with a snapshot of all the college courses I've ever taken throughout my academic career.
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrsQw3LAJ5W3FnlT?backgroundColor=gray&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>

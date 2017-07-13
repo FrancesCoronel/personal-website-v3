@@ -35,6 +35,10 @@ $susy: ( columns: 12, gutters: 1/4, math: fluid, output: float, gutter-position:
 
 @import "vendor/twemoji-awesome/twemoji-awesome";
 
+/* Light Gallery */
+
+@import "vendor/lightgallery/lightgallery";
+
 /* Base */
 
 @import "mixins";

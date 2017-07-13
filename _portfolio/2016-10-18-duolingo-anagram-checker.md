@@ -1,0 +1,52 @@
+---
+title: Duolingo Anagram Checker ✅
+date: 2016-10-18
+excerpt: I created this simple website as part of the Duolingo PM intern interview process.
+---
+
+Check this out at duolingo themed anagram checker at [`fvcproductions.github.io/anagram`](http://fvcproductions.github.io/anagram)! {#check-this-out-at-duolingo-themed-anagram-checker-at--a-href--http:--fvcproductions.github.io-anagram--target--_blank---code-fvcproductions.github.io-anagram--code---a--}
+-----------------------------------------------------------------------------------------------------------------------------------
+
+I created this simple website as part of the Duolingo PM intern
+interview process.
+
+### Screenshots
+
+\[gallery type="rectangular" size="full" ids="5106,5105,5104"
+orderby="rand"\]
+
+### Features
+
+Web page that lets a user input two strings and then tells the user
+whether the two strings are anagrams of each other.
+
+> An anagram is a word, phrase, or name formed by rearranging the
+> letters of another, such as cinema, formed from iceman
+
+### Tools
+
+-   [HTML5UP](http://html5up.net)
+-   [Sublime Text](https://github.com/fvcproductions/Sublime)
+-   [CodeKit](https://incident57.com/codekit/)
+-   [Sketch](https://www.sketchapp.com/)
+
+Links
+-----
+
+-   **GitHub Repo**
+    [`github.com/fvcproductions/anagram`](http://github.com/fvcproductions/anagram)
+-   **Website**
+    [`fvcproductions.github.io/anagram`](http://fvcproductions.github.io/anagram)
+
+License
+-------
+
+2016 © [FVCproductions](http://fvcproductions.com)
+
+Donations
+---------
+
+> Feed me… 🍕
+
+[![Donate via
+PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](http://paypal.me/fvcproductions)

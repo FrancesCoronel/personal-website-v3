@@ -7,7 +7,7 @@ header:
     image: https://fvcproductions.files.wordpress.com/2016/09/photo1.jpg
 ---
 
-### Conference activity can also be found on [my Lanyrd profile](http://lanyrd.com/profile/fvcproductions/ "Lanyrd").
+## Conference activity can also be found on [my Lanyrd profile](http://lanyrd.com/profile/fvcproductions/ "Lanyrd").
 
 > To see events I've spoken at and not just attended, head over to [my speaking page](http://fvcproductions.com/services/speaking/ "Speaking")!
 

@@ -9,10 +9,6 @@ My blog and portfolio all in one.
 ## Table of Contents
 
 - [Installation](#installation)
-- [Features](#features)
-    + [Form](#form)
-    + [Function](#function)
-    + [In Progress](#in-progress)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Credits](#credits)
@@ -76,26 +72,6 @@ Find Scope for Sublime Text 3
 ```
 <project>,-*/_drafts/*,-*/_sass/vendor/*,-*/.git/*,-*/site/*,-*config.codekit3,-*Gemfile.lock,-*/assets/*
 ```
-
-## Features
-
-### Form
-
-- [x] black and white scheme
-- [x] rectangle based
-- [x] minimal
-
-### Function
-
-- [x] search with Algolia
-- [x] like & comment integration with Disqus
-- [x] set up IFTTT to automatically publish new posts & portfolio items to Twitter & LinkedIn
-
-## In Progress
-
-- [] site and page views with Google Analytics
-- [] migrating all portfolio items & posts
-- [] adding on new portfolio items since rebuilt start of website
 
 ## Usage
 
