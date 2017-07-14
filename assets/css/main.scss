@@ -1,9 +1,5 @@
+--- 
 ---
----
-
-/* Progress Indicator */
-
-@import "vendor/pace/pace-flash";
 
 /* Variables */
 
@@ -17,10 +13,6 @@
 
 @import "vendor/breakpoint/breakpoint";
 @include breakpoint-set("to ems", true);
-
-/* Magnific */
-
-@import "vendor/magnific-popup/magnific-popup";
 
 /* Susy */
 
@@ -86,6 +78,6 @@ $susy: ( columns: 12, gutters: 1/4, math: fluid, output: float, gutter-position:
 
 /* Custom */
 
-@import "custom/search";
 @import "custom/feedback";
 @import "custom/scrolling";
+@import "custom/search";

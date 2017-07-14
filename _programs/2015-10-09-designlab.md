@@ -3,7 +3,7 @@ title: "Designlab"
 date: 2015-10-09
 excerpt: "AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines."
 header:
-    image: https://fvcproductions.files.wordpress.com/2016/06/freecodecamp.jpg
+    image: https://fvcproductions.files.wordpress.com/2015/10/newbanners.jpg
 ---
 
 <img class="size-full wp-image-3451" src="https://fvcproductions.files.wordpress.com/2015/11/designlab.png" alt="Designlab - Logo" width="512" height="512" />

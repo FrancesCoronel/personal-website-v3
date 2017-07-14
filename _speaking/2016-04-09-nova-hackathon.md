@@ -1,28 +1,59 @@
 ---
 title: "InNOVAtion Hackathon"
-excerpt: "rip"
+excerpt: "First hackathon I spoke at."
+date: 2016-04-09
+header:
+  image: https://fvcproductions.files.wordpress.com/2016/02/img_4602.jpg
+gallery:
+  - alt: "InNOVAtion Hackathon"
+    url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_4576.jpg?w=515&h=343&crop&ssl=1&zoom=2
+  - alt: "InNOVAtion Hackathon"
+    url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/06/nova-1.jpg?w=227&h=343&crop&ssl=1&zoom=2
+  - alt: "InNOVAtion Hackathon"
+    url: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0986.jpg?w=303&h=227&crop&ssl=1&zoom=2
+  - alt: "InNOVAtion Hackathon"
+    url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_4579.jpg?w=303&h=202&crop&ssl=1&zoom=2
+  - alt: "InNOVAtion Hackathon"
+    url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0969.jpg?w=303&h=227&crop&ssl=1&zoom=2
+  - alt: "InNOVAtion Hackathon"
+    url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/06/nova-2.jpg?w=246&h=163&crop&ssl=1&zoom=2
+  - alt: "InNOVAtion Hackathon"
+    url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/06/nova-6.jpg?w=382&h=253&crop&ssl=1&zoom=2
+  - alt: "InNOVAtion Hackathon"
+    url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/06/nova-5.jpg?w=360&h=544&crop&ssl=1&zoom=2
+  - alt: "InNOVAtion Hackathon"
+    url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0975.jpg?w=382&h=287&crop&ssl=1&zoom=2
 ---
 
-<img class="aligncenter size-full wp-image-3947" src="https://fvcproductions.files.wordpress.com/2015/11/novahackathon.png" alt="NovaHackathon - Logo" width="512" height="512" />
+> Name
 
-<div style="text-align: center;">
+## <a title="InNOVAtion Hackathon" href="http://novahackathon.org" target="_blank">InNOVAtion Hackathon</a>
 
-<code>April 9th, 2016</code>
-<h1><a title="InNOVAtion Hackathon" href="http://novahackathon.org" target="_blank">InNOVAtion Hackathon</a></h1>
-<h2><strong>So You Want To Be A Wizard</strong> and <strong>Web Design</strong></h2>
-<h3>Northern Virginia Community College</h3>
-<h4>Woodbridge, Virginia</h4>
+> Organizer
 
-</div>
+Northern Virginia Community College
 
-&nbsp;
+> Location
 
-[gallery type="rectangular" size="full" ids="4224,4225,4226,4228,4229,4230,4347,4348,4349,4350,4351,4352" orderby="rand"]
+Woodbridge, Virginia
+
+> Date
+
+April 9th, 2016
+
+> Role
+
+Volunteer (helped create website)
+
+> About
+
+First hackathon I spoke at! 
+
+I spoke about 2 topics:
+
+- So You Want To Be A Wizard
+- Web Design
 
 https://speakerdeck.com/fvcproductions/so-you-want-to-be-a-wizard-nova-hackathon
 
 https://speakerdeck.com/fvcproductions/web-design-innovation-hackathon
-
-http://www.nvcc.edu/news/media-alerts/nova-hackathon.html
-
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=newssearch&cd=2&cad=rja&uact=8&ved=0ahUKEwjw1tSm4a7UAhWB8oMKHTcTAb0QqQIIIygAMAE&url=https%3A%2F%2Fprincewilliamliving.com%2F2016%2F03%2F350-nvcc-high-school-students-attend-innovation-hackathon%2F&usg=AFQjCNFg7dQvNgA7CjEOPyjVYjP8hPCeAQ

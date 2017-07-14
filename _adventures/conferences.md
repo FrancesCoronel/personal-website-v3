@@ -7,9 +7,18 @@ header:
     image: https://fvcproductions.files.wordpress.com/2016/09/photo1.jpg
 ---
 
-## Conference activity can also be found on [my Lanyrd profile](http://lanyrd.com/profile/fvcproductions/ "Lanyrd").
+## I've been lucky enough to have attended {{ site.conferences | size }} conferences so far, with plans to attend more in the future!
+
+> Conference activity can also be found on <a href="http://lanyrd.com/profile/fvcproductions/" target="_blank" title="Lanyrd">my Lanyrd profile</a>.
 
 > To see events I've spoken at and not just attended, head over to [my speaking page](http://fvcproductions.com/services/speaking/ "Speaking")!
+
+### Upcoming
+
+- Accenture West Leadership Summit (July 21st-22nd)
+- Strange Loop (September 28-30th)
+
+### Past
 
 <div class="grid__wrapper">
     {% assign sorted_conferences = (site.conferences | sort: 'date') | reverse %}

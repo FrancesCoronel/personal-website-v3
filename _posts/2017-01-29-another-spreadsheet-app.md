@@ -7,6 +7,7 @@ tags:
     - featured
     - kpcb fellow application
     - spreadsheet app
+excerpt: "Are there other options out there?"
 ---
 
 Google Sheets. Excel.

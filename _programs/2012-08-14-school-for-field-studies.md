@@ -3,7 +3,7 @@ title: "School for Field Studies"
 date: 2012-08-14
 excerpt: "Studied Wildlife Research Techniques in Tanzania during the summer of 2012."
 header:
-    image: https://fvcproductions.files.wordpress.com/2016/06/freecodecamp.jpg
+    image: https://fvcproductions.files.wordpress.com/2015/11/461956_476846202328099_271376704_o.jpg
 ---
 
 <img class="size-full wp-image-3453" src="https://fvcproductions.files.wordpress.com/2015/11/sfs.png" alt="SFS - Logo" width="512" height="512" />

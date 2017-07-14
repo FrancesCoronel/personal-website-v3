@@ -61,12 +61,6 @@ JekyllImport::Importers::WordpressDotCom.run({
 
 I use CodeKit 3 (`config.codekit3`) to handle compilation.
 
-For search integration with Algolia, I can either run the following command or set it up automatically using TravisCI.
-
-```bash
-ALGOLIA_API_KEY='API_KEY' bundle exec jekyll algolia push
-```
-
 Find Scope for Sublime Text 3
 
 ```

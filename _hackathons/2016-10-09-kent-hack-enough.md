@@ -3,7 +3,14 @@ title: "Kent Hack Enough"
 excerpt: "Volunteered and teamed up with my boyfriend to work on a Leap Motion hack that won an award"
 date: 2016-10-09
 header:
-    image: https://fvcproductions.files.wordpress.com/2016/07/img_0493.jpg
+    image: https://fvcproductions.files.wordpress.com/2016/10/img_0849.jpg
+gallery:
+    - alt: "KHE 2016"
+      url: https://fvcproductions.files.wordpress.com/2016/10/img_0849.jpg
+    - alt: "KHE 2016"
+      url: https://fvcproductions.files.wordpress.com/2016/10/img_0846.jpg
+    - alt: "KHE 2016"
+      url: https://fvcproductions.files.wordpress.com/2016/10/img_0843.jpg
 ---
 
 # Kent Hack Enough

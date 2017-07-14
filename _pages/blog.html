@@ -4,6 +4,8 @@ permalink: /blog/
 excerpt: "My ramblings on reality, tech, and creative pursuits."
 ---
 
+<h2>I've written a total of {{ site.posts | size }} blog posts so far!</h2>
+
 <div class="grid__wrapper">
     {% for post in site.posts %}
         {% include archive/single.html type="grid" %}

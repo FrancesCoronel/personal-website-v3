@@ -199,7 +199,6 @@ This allows you to denote <var>variables</var>.
 ## Technology
 
 - Jekyll
-- Algolia
 - Embedly
 - Light Gallery
 - Twemoji Awesome

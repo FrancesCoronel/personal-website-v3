@@ -3,7 +3,7 @@ title: "Hack to Help Hampton Roads"
 excerpt: "Our team created Hack the Vote at Hack to Help HR at Dominion Enterprises."
 date: 2015-10-24
 header:
-  image: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
+  image: https://fvcproductions.files.wordpress.com/2015/11/csaxal9uyaypho3.jpg
 ---
 
 > Name

@@ -15,12 +15,6 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
-	"\/.travis.yml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/.travis.yml",
-		"oF": 0
-		},
 	"\/.vscode\/settings.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -1037,45 +1031,6 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/_sass\/vendor\/css\/lightgallery.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/magnific-popup\/_magnific-popup.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/css\/_magnific-popup.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/magnific-popup\/_settings.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/css\/_settings.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/pace\/pace-flash.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_sass\/vendor\/css\/pace-flash.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2226,64 +2181,16 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/source\/assets\/js\/min\/main.min.js",
+		"oAP": "\/assets\/js\/min\/main.min.js",
 		"oF": 3,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/js\/min\/main.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/min\/min\/main.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/plugins\/algolia.js": {
-		"ft": 64,
-		"mi": 1,
+	"\/assets\/js\/min": {
+		"ft": 65536,
 		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/min\/algolia-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/plugins\/ascii.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/min\/ascii-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/plugins\/asciiMorph.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/min\/asciiMorph-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/plugins\/behance.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/min\/behance-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/plugins\/fitvids.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/min\/fitvids-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
+		"oAP": "\/build\/assets\/js\/min",
+		"oF": 0
 		},
 	"\/assets\/js\/plugins\/greedy-navigation.js": {
 		"ft": 64,
@@ -2303,42 +2210,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/js\/plugins\/magnific-popup.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/min\/magnific-popup-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/plugins\/pace.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/min\/pace-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/plugins\/smooth-scroll.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/min\/smooth-scroll-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/plugins\/stickyfill.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/min\/stickyfill-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/Gemfile": {
 		"ft": 8192,
 		"oA": 2,
@@ -2349,12 +2220,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/Gemfile.lock",
-		"oF": 0
-		},
-	"\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/index.html",
 		"oF": 0
 		},
 	"\/LICENSE": {
@@ -2392,15 +2257,6 @@
 		"oA": 1,
 		"oAP": "\/build\/site",
 		"oF": 0
-		},
-	"\/source\/assets\/js\/min\/main.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/assets\/js\/min\/min\/main.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
 		}
 	},
 "hooks": [
@@ -2409,68 +2265,14 @@
 	"\/assets\/js\/main.js": [
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/pace.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/greedy-navigation.js",
 			"position": 0,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/stickyfill.js",
-			"position": 1,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/greedy-navigation.js",
-			"position": 2,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/magnific-popup.js",
-			"position": 3,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/smooth-scroll.js",
-			"position": 4,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/fitvids.js",
-			"position": 5,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/behance.js",
-			"position": 6,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/algolia.js",
-			"position": 7,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
 			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/iframes.js",
-			"position": 8,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/asciiMorph.js",
-			"position": 9,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/ascii.js",
-			"position": 10,
+			"position": 1,
 			"type": 0
 			}
 		]
@@ -4417,7 +4219,7 @@
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, \/source\/_pages, \/source\/_portfolio, \/source\/_posts, \/source\/_drafts, \/source\/_speaking, \/source\/_adventures, \/source\/_testimonials, \/source\/_services, \/site, \/source\/_hackathons, \/source\/_feedback, \/_pages, \/_portfolio, \/_programs, \/_speaking, \/_experience, \/_conferences, \/_volunteering, \/_education, \/_adventures, \/_hackathons, \/_feedback, \/_services, \/_drafts, \/_posts, \/_includes, \/_layouts, \/_books",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, \/source\/_pages, \/source\/_portfolio, \/source\/_posts, \/source\/_drafts, \/source\/_speaking, \/source\/_adventures, \/source\/_testimonials, \/source\/_services, \/site, \/source\/_hackathons, \/source\/_feedback, \/_pages, \/_portfolio, \/_programs, \/_speaking, \/_experience, \/_conferences, \/_volunteering, \/_education, \/_adventures, \/_hackathons, \/_feedback, \/_services, \/_drafts, \/_posts, \/_includes, \/_layouts, \/_books, \/assets\/js\/min",
 	"sourceFolderName": "source",
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {

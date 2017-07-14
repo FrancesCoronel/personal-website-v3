@@ -1,9 +1,9 @@
 ---
-title: "Product School"
+title: "Norfolk.js"
 date: 2016-12-17
-excerpt: "Spoke for the official Norfolk Free Code Camp Facebook group!"
+excerpt: "An awesome Meetup group in Norfolk focusing on all things JS!"
 header:
-    image: https://fvcproductions.files.wordpress.com/2016/06/freecodecamp.jpg
+    image: https://fvcproductions.files.wordpress.com/2015/11/norfolkjs-jan-2016-0041.jpg
 ---
 
 <img class="aligncenter size-full wp-image-3370" src="https://fvcproductions.files.wordpress.com/2015/11/norfolkjs1.png" alt="NorfolkJS - Circular Logo" width="512" height="512" />

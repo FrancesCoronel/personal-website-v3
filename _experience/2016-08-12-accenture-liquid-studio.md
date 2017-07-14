@@ -1,9 +1,9 @@
 ---
 title: "Accenture Liquid Studio"
 excerpt: "Wearables Developer"
-date: 2017-08-12
+date: 2016-08-12
 header:
-  image: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
+  image: https://fvcproductions.files.wordpress.com/2016/07/accentureslc-1.jpeg
 gallery:
     - alt: "Internship with Accenture"
       url: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/06/accenture-internship-5.jpg?w=274&h=205&crop&ssl=1&zoom=2

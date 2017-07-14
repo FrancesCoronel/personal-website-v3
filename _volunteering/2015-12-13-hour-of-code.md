@@ -3,7 +3,7 @@ title: "Hour of Code 2015"
 excerpt: "Participated in WiTNY’s Java Talk program."
 date: 2016-11-30
 header:
-  image: https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png
+  image: https://fvcproductions.files.wordpress.com/2015/12/img_2021.jpg
 ---
 
 <img class="aligncenter size-full wp-image-3545" src="https://fvcproductions.files.wordpress.com/2015/11/codeorg.png" alt="Code.org - Hour of Code" width="512" height="512" />

@@ -5,7 +5,7 @@ series that provides safe opportunities for marginalized people and
 those who support them in the tech and gaming industries."
 date: 2016-12-11
 header:
-  image: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
+  image: https://fvcproductions.files.wordpress.com/2017/01/img_0320.jpg
 gallery:
     - alt: "AlterConf"
       url: https://i1.wp.com/fvcproductions.files.wordpress.com/2017/01/img_0320.jpg?w=437&h=328&crop&ssl=1&zoom=2

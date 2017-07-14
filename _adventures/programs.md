@@ -7,7 +7,7 @@ header:
 comments: false
 ---
 
-## These are programs I attended that acted as "informal education".
+## I've taken part in {{ site.programs | size }} amazing programs so far, with plans to attend more in the future!
 
 <div class="grid__wrapper">
     {% assign sorted_programs = (site.programs | sort: 'date') | reverse %}

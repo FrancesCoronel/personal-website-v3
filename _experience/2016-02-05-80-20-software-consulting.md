@@ -1,9 +1,9 @@
 ---
-title: "80|20 Software Consulting"
+title: ! "80/20 Software Consulting"
 excerpt: "Frontend Developer"
-date: 2017-02-05
+date: 2016-02-05
 header:
-  image: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
+  image: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/64e84044-e263-4dd1-94ac-ff1bf9a6d179.jpg
 gallery:
     - alt: "80|20 Software Consulting"
       url: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/4dfb4620-587f-486d-96fb-518bf9736736.jpg
@@ -27,7 +27,7 @@ November 2015 to February 5, 2016
 
 > About
 
-80|20 is a software agency that creates web and mobile applications and provides software consulting solutions for small and mid-sized businesses.
+<p>80|20 is a software agency that creates web and mobile applications and provides software consulting solutions for small and mid-sized businesses.</p>
 
 [<i class='fa fa-twitter'></i> @madeby8020](http://twitter.com/@madeby8020)
 {: .btn .btn--twitter}

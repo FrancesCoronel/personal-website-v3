@@ -1,5 +1,5 @@
 ---
-title: Fullstack Academy - Ambassador
+title: Fullstack Academy
 date: 2017-06-04
 header:
     image: https://fvcproductions.files.wordpress.com/2015/11/11821194_439697182900579_299304949_n-1-e1457320708289.jpg

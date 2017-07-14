@@ -14,7 +14,7 @@
 		  		{% endif %}
 	  		</h2>
 
-	  		{% if page.permalink == '/portfolio/' or page.permalink == '/speaking/' or page.permalink == '/blog/' or page.permalink == '/feedback/' or page.permalink == '/conferences/' %}
+	  		{% unless page.permalink == '/services/' %}
 	  			{% if post.date %}
                     <p class="page__meta" itemprop="datePublished">
                         <i class="fa fa-calendar-o" aria-hidden="true"></i>
@@ -23,7 +23,7 @@
                         </time>
                     </p>
 		        {% endif %}
-		    {% endif %}
+		    {% endunless %}
 
 		    {% if post.read_time %}
 	            <p class="page__meta">

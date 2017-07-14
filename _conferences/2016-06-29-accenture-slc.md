@@ -3,7 +3,7 @@ title: "Accenture SLC"
 excerpt: "Student Leadership Conference."
 date: 2016-06-29
 header:
-  image: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
+  image: https://fvcproductions.files.wordpress.com/2016/07/accentureslc-23.jpg
 gallery:
     - alt: "Accenture SLC"
       url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/07/accentureslc-1.jpg

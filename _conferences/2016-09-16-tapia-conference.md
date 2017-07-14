@@ -3,7 +3,7 @@ title: "TAPIA 2016"
 excerpt: "ACM Richard Tapia Celebration of Diversity in Computing"
 date: 2016-09-16
 header:
-  image: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
+  image: https://fvcproductions.files.wordpress.com/2016/09/photo1.jpg
 gallery:
     - alt: "TAPIA 2016"
       url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0717.jpg?w=233&h=1154&crop&ssl=1&zoom=2

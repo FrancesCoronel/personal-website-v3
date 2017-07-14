@@ -3,7 +3,7 @@ title: "Techweek NYC"
 excerpt: "A conference for developers"
 date: 2016-10-13
 header:
-  image: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
+  image: https://fvcproductions.files.wordpress.com/2016/10/img_0886.jpg
 gallery:
     - alt: "Techweek NYC"
       url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0875.jpg?w=348&h=261&crop&ssl=1&zoom=2

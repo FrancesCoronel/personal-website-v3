@@ -7,7 +7,9 @@ header:
 comments: false
 ---
 
-## Hackathon activity can also be found on [my Devpost profile](http://devpost.com/fvcproductions "Devpost").
+## I've been lucky enough to have attended {{ site.hackathons | size }} super fun hackathons so far, with plans to attend more in the future!
+
+> Hackathon activity can also be found on [my Devpost profile](http://devpost.com/fvcproductions "Devpost").
 
 > To see hackathons I've spoken at and not just attended, head over to [my speaking page](http://fvcproductions.com/services/speaking/ "Speaking")!
 

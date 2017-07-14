@@ -120,3 +120,7 @@ nav ul li:hover > ul {
 ul.hidden-links li:hover > ul {
     display: none !important;
 }
+
+nav ul.toc__menu li:hover > ul {
+    display: none !important;
+}

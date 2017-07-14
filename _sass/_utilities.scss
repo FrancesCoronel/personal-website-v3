@@ -483,6 +483,10 @@ a.reversefootnote {
 
 /** Airtable */
 
+.airtable-preview {
+    position: relative;
+}
+
 iframe.airtable-embed {
     margin-bottom: 2em;
     margin-top: 1em;

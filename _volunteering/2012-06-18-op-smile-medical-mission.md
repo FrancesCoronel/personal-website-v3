@@ -4,7 +4,7 @@ excerpt: "Volunteered as a high schooler for a medical mission in Vietnam throug
 Operation Smile."
 date: 2012-06-18
 header:
-  image: https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png
+  image: https://fvcproductions.files.wordpress.com/2015/11/581163_207413282713894_160438369_n.jpg
 ---
 
 <img class="size-full wp-image-3177" src="https://fvcproductions.files.wordpress.com/2015/11/conferencelogos-002-copy.png" alt="Operation Smile - Conference Logo" width="512" height="512" />

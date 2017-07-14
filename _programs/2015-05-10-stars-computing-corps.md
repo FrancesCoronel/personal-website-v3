@@ -4,7 +4,7 @@ date: 2015-11-15
 excerpt: "STARS Computing Corps is a community of practice for student-led regional
 engagement as a means to broaden participation in computing."
 header:
-    image: https://fvcproductions.files.wordpress.com/2016/06/freecodecamp.jpg
+    image: https://fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg
 ---
 
 #### January 2014 to May 2015

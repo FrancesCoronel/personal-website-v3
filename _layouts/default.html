@@ -13,13 +13,7 @@ layout: compress
     <a href="javascript:void(0);" id="scroll" title="Scroll to Top" style="display: none;">Top<span></span></a>
     {% include base/browser-upgrade.html %}
     {% include header/masthead.html %}
-    <article class="algolia__initial-content js-algolia__initial-content">
-        {{ content }}
-    </article>
-    <div class="algolia__search-content js-algolia__search-content">
-        <h1 class="ui center aligned header xo padding bottom">Search Results</h1>
-        <div class="posts algolia__results"></div>
-    </div>
+    {{ content }}
     <div class="page__footer">
         <footer>
             {% include footer/footer.html %}

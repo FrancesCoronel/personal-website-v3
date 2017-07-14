@@ -3,7 +3,7 @@ title: "Alexa Hackathon"
 excerpt: "Accenture + Amazon host a hackathon."
 date: 2017-06-30
 header:
-    image: https://gallery.accenture.com/uploads/frances.coronel/93799/SU-64303d76-9728-4ee0-9945-aefdccd35b1e.jpg
+    image: https://fvcproductions.files.wordpress.com/2017/07/red.jpg
 gallery:
     - alt: "Alexa Hackathon"
       url: https://gallery.accenture.com/uploads/frances.coronel/93799/SU-64303d76-9728-4ee0-9945-aefdccd35b1e.jpg

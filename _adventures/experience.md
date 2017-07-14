@@ -7,7 +7,7 @@ header:
 comments: false
 ---
 
-## These are places I've worked at in the past or present.
+## I've had {{ site.experience| size }} job roles so far!
 
 <div class="grid__wrapper">
     {% assign sorted_experience = (site.experience | sort: 'date') | reverse %}

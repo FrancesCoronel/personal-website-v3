@@ -3,7 +3,7 @@ title: "Hoya Hacks"
 excerpt: "Hoya Hacks is Georgetown University's first-ever intercollegiate hackathon."
 date: 2016-01-31
 header:
-  image: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
+  image: https://fvcproductions.files.wordpress.com/2016/01/banner.png
 ---
 
 > Name

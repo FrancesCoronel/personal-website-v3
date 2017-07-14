@@ -3,7 +3,7 @@ title: "Tidewater Community College - Summer 2013"
 excerpt: "Through TCC's dual enrollment program, I enrolled in 4 different courses that I found interesting and thought would be fun to take over the summer."
 date: 2013-08-16
 header:
-  image: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
+  image: https://fvcproductions.files.wordpress.com/2017/01/tcc-banner1.png
 gallery:
     - alt: "TCC Banner"
       url: https://fvcproductions.files.wordpress.com/2017/01/tcc-banner1.png

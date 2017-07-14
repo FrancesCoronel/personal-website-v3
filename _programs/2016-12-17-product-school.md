@@ -3,7 +3,7 @@ title: "Product School"
 date: 2016-12-17
 excerpt: "Spoke for the official Norfolk Free Code Camp Facebook group!"
 header:
-    image: https://fvcproductions.files.wordpress.com/2016/06/freecodecamp.jpg
+    image: https://fvcproductions.files.wordpress.com/2016/10/img_2266.jpg
 ---
 
 ![logo](https://cdn.evbuc.com/eventlogos/110662633/pslogoeventimage.png)

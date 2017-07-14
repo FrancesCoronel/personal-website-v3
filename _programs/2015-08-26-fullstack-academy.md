@@ -3,7 +3,7 @@ title: "Fullstack Academy"
 date: 2016-08-26
 excerpt: "AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines."
 header:
-    image: https://fvcproductions.files.wordpress.com/2016/06/freecodecamp.jpg
+    image: https://fvcproductions.files.wordpress.com/2015/11/11821194_439697182900579_299304949_n-1-e1457320708289.jpg
 ---
 
 <img class="size-full wp-image-3452" src="https://fvcproductions.files.wordpress.com/2015/11/fullstack.png" alt="Fullstack Academy - Logo" width="512" height="512" />
