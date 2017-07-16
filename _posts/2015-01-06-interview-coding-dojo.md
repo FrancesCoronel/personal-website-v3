@@ -3,7 +3,7 @@ title: "Interview with Coding Dojo"
 date: 2015-01-06
 excerpt: "My interview with Coding Dojo."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2015/01/mg_3322.jpg
 tags:
     - coding
     - coding bootcamps

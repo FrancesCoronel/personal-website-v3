@@ -1,6 +1,6 @@
 ---
 permalink: /privacy-policy/
-title: "Terms of Service and Privacy Policy <i class='twa twa-closed_lock_with_key'></i>"
+title: "Terms of Service and Privacy Policy 🔐"
 modified: 2016-06-06
 excerpt: "Because every website deserves a TOC."
 ---

@@ -2,6 +2,8 @@
 title: "The Best 50 Insults"
 date: 2014-03-04
 excerpt: "I first started compiling this long list back in August 2013 and they always made/make me laugh my head clean off."
+header:
+    image: https://fvcproductions.files.wordpress.com/2014/03/banners-002.jpg?w=1024&h=436&crop=1
 tags:
     - accountability
     - arsenic

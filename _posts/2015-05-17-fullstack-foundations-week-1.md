@@ -10,6 +10,8 @@ tags:
     - intro course
     - prework
 excerpt: Fullstack Academy‘s first ever Summer of Code program, which is described as a program that “gives college students the opportunity to study fullstack web development while on summer break“ is starting this June. Specifically, Monday, June 8th 2015.
+header:
+    image: https://fvcproductions.files.wordpress.com/2015/05/github.jpg
 ---
 
 > Fullstack Foundations is the prework course for [Fullstack

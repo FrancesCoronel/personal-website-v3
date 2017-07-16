@@ -1,6 +1,9 @@
 ---
 title: Fullstack Academy - Week 2 ⌘⌘
 date: 2015-06-20
+excerpt: "June 15th to 19th.\\r\\n\\r\\nThere are 58 57 days in Fullstack. These are the second 5."
+header:
+    image: https://fvcproductions.files.wordpress.com/2015/06/banners-001.jpg
 tags:
     - academy
     - code school
@@ -13,13 +16,11 @@ tags:
     - fullstack week
     - UNO
     - week 2
-excerpt: "June 15th to 19th.\\r\\n\\r\\nThere are 58 57 days in
-Fullstack. These are the second 5. &lt;3"
 ---
 
 > June 15th to 19th.
 >
-> There are ~~58~~ 57 days in Fullstack. These are the second 5. &lt;3
+> There are ~~58~~ 57 days in Fullstack. These are the second 5.
 
 Day One - Monday
 ----------------

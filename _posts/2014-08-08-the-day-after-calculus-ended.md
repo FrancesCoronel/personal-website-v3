@@ -3,7 +3,7 @@ title: "The Day After Calculus Ended"
 date: 2014-08-08
 excerpt: "Exploring blogging applications."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2014/08/byword_mac_03.jpg
 tags:
     - blogging
     - byword

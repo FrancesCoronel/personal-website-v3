@@ -1,7 +1,6 @@
 ---
 title: "Free Code Camp"
 date: 2016-05-25
-permalink: /free-code-camp
 excerpt: "Spoke for the official Norfolk Free Code Camp Facebook group!"
 header:
     image: https://fvcproductions.files.wordpress.com/2016/06/freecodecamp.jpg
@@ -36,19 +35,11 @@ Invited to speak for FreeCodeCamp Norfolk's group on how to get started as a dev
     <h3>757 Makerspace</h3>
     <h4>Norfolk, Virginia</h4>
 
-&nbsp;
-
 Invited to speak for FreeCodeCamp Norfolk's group on how to get started as a developer.
-
-&nbsp;
 
 [gallery type="rectangular" size="full" ids="4380,4381,4384,4385" orderby="rand"]
 
-&nbsp;
-
 https://speakerdeck.com/fvcproductions/so-you-want-to-be-a-wizard-free-code-camp-norfolk
-
-&nbsp;
 
 <h3>Facebook Posts</h3>
 

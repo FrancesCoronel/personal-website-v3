@@ -1,13 +1,28 @@
+---
+title: "What influenced and inspired you to learn how to code? 🔭"
+date: 2015-04-26
+tags:
+    - 2d game
+    - damehood
+    - hollow knight
+    - imcompetech
+    - kickstarter
+    - knighthood
+    - plans in motion
+excerpt: Back in December of last year, I was browsing through Kickstarter - eager to spend my limited college student cash on something awesome. I found Hollow Knight.
+header:
+    image: https://fvcproductions.files.wordpress.com/2015/04/hollow-knight.jpg?w=1024&h=436&crop=1
+---
 
+## What influenced and inspired you to learn how to code?
 
-What influenced and inspired you to learn how to code?
+### Take the time to think through this question and become comfortable and confident answering it. Was there a problem you were looking to solve or change? Do you enjoy problem solving?
 
-Take the time to think through this question and become comfortable and confident answering it. Was there a problem you were looking to solve or change? Do you enjoy problem solving?
 When I was in elementary school, my goal was to become a vet. I was 10, I had just gotten my first dog, Nefer, and I was just hooked. Before this period, I had never considered a formal career choice. It hadn’t even crossed my mind. But when I found out I could take care of them for a living, I thought I was set. I realized later I don’t actually like every animal out there (like cats, for example) and I realized vets had to like all kinds of animals. It became out of the question.
 
 So, later in middle school, I turned to focus on biology. I was sure I wanted to become a biologist, venture into the unexplored fields of pathology and find the next great vaccine. It also didn’t hurt that my biology professor was so inspiring.
 
-However, in high school, biology alone felt like it had a limited scope, and so once again, I pivoted my attention to bioinformatics, the combination of biology and computer science. “This is where all the innovation is happening!”, I thought.
+However, in high school, biology alone felt like it had a limited scope, and so once again, I pivoted my attention to bioinformatics, the combination of biology and computer science. “This is where all the innovation is happening!", I thought.
 
 And that would be that.
 
@@ -31,6 +46,8 @@ Computer science turned into something I wanted to do for the long-term, not jus
 
 This big change in mindset had small beginnings, but it’s changed me for the better, and I find myself delving deeper into the infinite cave that is covered with digital hieroglyphics.
 
+```
 There are no regrets.
 I’m not looking back.
 There is no pivot.
+```

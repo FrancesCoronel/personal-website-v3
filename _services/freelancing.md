@@ -1,11 +1,9 @@
 ---
-title: "Freelancing <i class='twa twa-gem'></i>"
+title: "Freelancing 💎️"
 excerpt: "Developing with a design background."
-permalink: /freelancing/
-modified: 2017-01-01
-comments: false
 header:
     image: https://fvcproductions.files.wordpress.com/2015/11/banners_new-001.jpeg
+comments: false
 ---
 
 ## I work with clients of all backgrounds on both product design & development.

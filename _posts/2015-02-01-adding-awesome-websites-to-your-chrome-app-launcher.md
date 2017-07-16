@@ -3,7 +3,7 @@ title: "Adding Awesome Websites To Your Chrome App Launcher"
 date: 2015-02-01
 excerpt: "Add all your favorite websites to Chrome's App Launcher."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2015/02/c10fchrome_mac_app_launcher_0.jpg?w=1024&h=435&crop=1
 tags:
     - 128x128
     - alchemize

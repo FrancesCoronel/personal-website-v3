@@ -1737,32 +1737,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_sass\/vendor\/twemoji-awesome\/modules\/twemoji-possum\/dist\/emoji-map.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/vendor\/twemoji-awesome\/modules\/twemoji-possum\/css\/emoji-map.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/vendor\/twemoji-awesome\/twemoji-awesome.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_sass\/vendor\/css\/twemoji-awesome.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/_services": {
 		"ft": 65536,
 		"oA": 1,

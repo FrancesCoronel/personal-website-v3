@@ -1,9 +1,9 @@
 ---
-title: "In Christopher's Footsteps"
+title: "In Christopher's Footsteps 👣️"
 date: 2009-12-10
 excerpt: "I was assigned to write a sort of creative essay from the POV of Christopher (the protagonist who is a 15 year old boy in the novel with an autistic spectrum condition -- I'm guessing Aspergers?) for my English class."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2013/07/dog-in-the-night-time.png
 tags:
     - Asperger
     - Asperger syndrome

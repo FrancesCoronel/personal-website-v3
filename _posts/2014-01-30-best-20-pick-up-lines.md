@@ -3,7 +3,7 @@ title: "The Best 20 Pick Up Lines"
 date: 2014-01-30
 excerpt: "Pick up lines I thought of."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2014/03/banners-0011.jpg?w=1024&h=436&crop=1
 tags:
     - alien
     - beauty

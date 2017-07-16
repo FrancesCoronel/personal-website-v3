@@ -3,7 +3,7 @@ title: "Interview with Coding House"
 date: 2015-01-06
 excerpt: "My interview with Coding House."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2015/01/photo-2.jpg
 tags:
     - application
     - bootcamp

@@ -1,6 +1,9 @@
 ---
-title: "Binding of Isaac - Review \\U0001F480"
+title: "Binding of Isaac - Review 💀"
 date: 2016-02-27
+excerpt: My review of the 'Binding of Isaac' desktop game.
+header:
+    image: https://fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg
 tags:
     - apocalypse
     - background
@@ -49,7 +52,6 @@ tags:
     - traumatized
     - war
     - wrath
-excerpt: My review of the 'Binding of Isaac' desktop game.
 ---
 
 [![Binding of

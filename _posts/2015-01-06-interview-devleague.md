@@ -1,9 +1,9 @@
 ---
 title: "Interview with DevLeague"
 date: 2015-01-06
-excerpt: "My interview with Coding House."
+excerpt: "My interview with DevLeague."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2015/01/devleague-join-the-movement-learn-to-code-in-hawaii.png?w=1024&h=435&crop=1
 tags:
     - acceptance
     - bootcamp

@@ -1,5 +1,5 @@
 ---
-title: "Volunteering <i class='twa twa-gift-heart'></i>"
+title: "Volunteering 💝️"
 excerpt: "No one has ever become poor by giving. -Anne Frank"
 permalink: /volunteering/
 header:

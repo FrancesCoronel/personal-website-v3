@@ -3,7 +3,7 @@ title: "Job Interview - Tips and Tricks"
 date: 2014-10-17
 excerpt: "Expressing my gratitude."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2014/10/screenshot-2014-10-17-21-22-13.png
 tags:
     - coding
     - coding interview

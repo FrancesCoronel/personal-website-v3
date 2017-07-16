@@ -1,5 +1,5 @@
 ---
-title: Achieving Dame hood through Hollow Knight
+title: Achieving Dame hood through Hollow Knight 👾
 date: 2015-04-26
 tags:
     - 2d game
@@ -10,6 +10,8 @@ tags:
     - knighthood
     - plans in motion
 excerpt: Back in December of last year, I was browsing through Kickstarter - eager to spend my limited college student cash on something awesome. I found Hollow Knight.
+header:
+    image: https://fvcproductions.files.wordpress.com/2015/04/hollow-knight.jpg?w=1024&h=436&crop=1
 ---
 
 Back in December of last year, I was browsing through Kickstarter - eager to spend my limited college student cash on something awesome. I found [Hollow Knight](https://www.kickstarter.com/projects/11662585/hollow-knight "Hollow Knight").

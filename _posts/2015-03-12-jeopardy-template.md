@@ -3,7 +3,7 @@ title: "Keynote & Google Slides Template - Jeopardy Game"
 date: 2015-03-12
 excerpt: "Need a Jeopardy template? Look no further!"
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2015/03/jeopardy-template.jpg?w=1024&h=436&crop=1
 tags:
     - behance
     - creations

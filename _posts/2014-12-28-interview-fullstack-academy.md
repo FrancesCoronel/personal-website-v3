@@ -3,7 +3,7 @@ title: "Interview with Fullstack Academy of Code"
 date: 2014-12-28
 excerpt: "This is where I’ll go through how my admissions process was with Fullstack Academy of Code based in NYC."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2014/12/img_9625-2.jpg
 tags:
     - admissions
     - application

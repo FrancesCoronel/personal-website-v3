@@ -1,6 +1,9 @@
 ---
 title: "First Week at Fullstack Academy \\U0001F4AB"
 date: 2015-06-13
+excerpt: There are 58 days in Fullstack. These are the first 5. Let’s begin.
+header:
+    image: https://fvcproductions.files.wordpress.com/2015/06/fullstack-academy-week-1-001.jpg
 tags:
     - coding bootcamp experience
     - coding bootcamps
@@ -10,7 +13,6 @@ tags:
     - fullstack experience
     - fullstack javascript coding bootcamp
     - javascript
-excerpt: There are 58 days in Fullstack. These are the first 5. Let’s begin.
 ---
 
 > June 8th to 12th

@@ -1,6 +1,9 @@
 ---
 title: "ONE WEEK OF FULLSTACK LEFT \\U0001F632"
 date: 2015-08-19
+excerpt: 'There''s only one week of Fullstack Academy left. Overarching feeling: HOLY CRAP.'
+header:
+    image: https://fvcproductions.files.wordpress.com/2015/08/banners-001.jpg
 tags:
   - apple
   - at home advisor
@@ -35,7 +38,6 @@ tags:
   - time travel
   - web design
   - web development
-excerpt: 'There''s only one week of Fullstack Academy left. Overarching feeling: HOLY CRAP.'
 ---
 
 [B]{.dropcap}ecause of how busy I’ve been, I haven’t really been able to
@@ -108,7 +110,7 @@ What's Left {#myseniorphase style="text-align:center;"}
 
 ------------------------------------------------------------------------
 
-> Overarching thought... ***holy crap***. &lt;3
+> Overarching thought... ***holy crap***.
 
 ------------------------------------------------------------------------
 

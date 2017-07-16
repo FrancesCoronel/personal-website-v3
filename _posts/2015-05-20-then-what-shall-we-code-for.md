@@ -2,6 +2,8 @@
 title: "Then what shall we code for? \\U0001F30A"
 date: 2015-05-20
 excerpt: "Then what shall we code for?\\r\\n\\r\\nInspiration from POTC."
+header:
+    image: https://fvcproductions.files.wordpress.com/2015/05/potc.jpg
 ---
 
 \[youtube="https://youtu.be/sKGoHPGM7v8?t=1m50s"\]

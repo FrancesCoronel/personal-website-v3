@@ -45,11 +45,11 @@ Now that you have Homebrew, it'll be super easy to perform the following command
 
 To convert music to different audio formats, `youtube-dl` needs either `ffmpeg` or `avconv`, and their helper programs `ffprobe` or `avprobe`. We can just install `libav` for all this.
 
-```
-`brew install youtube-dl
-``
+```bash
+brew install youtube-dl
+
 # necessary dependency
-brew install libav`
+brew install libav
 ```
 
 ## 5. Download your music!
@@ -58,8 +58,15 @@ Now that we have all the necessary packages installed, let's explore what comman
 
 If you want to download the MP3 file(s) of a YouTube video or playlist and place it in our `Downloads` folder, then we will use the following command:
 
-```
-`youtube-dl --extract-audio --audio-format mp3 -o '~/Downloads/%(title)s.%(ext)s' [video or playlist link]`
+```bash
+youtube-dl --extract-audio --audio-format mp3 -o '~/Downloads/%(title)s.%(ext)s' video_playlist_link
 ```
 
 And that's it! Now all those songs I wanted are in my **Downloads** folder, ready to use!
+
+---
+
+## Troubleshooting
+
+1. If you have any videos that were deleted from the YouTube Playlist due to copyright infringement, then there will be an error so you should remove those from the playlist before trying the command again.
+2. If you already have a file in your `Downloads` folder called `Song.mp3` and there is a video called `Song` in the YouTube Playlist, then that file in your `Downloads` folder will be **overwritten**.

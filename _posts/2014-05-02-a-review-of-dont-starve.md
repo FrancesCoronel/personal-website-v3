@@ -3,7 +3,7 @@ title: "A Review of Don't Starve"
 date: 2014-05-02
 excerpt: "So in case you haven't heard of it yet, Don't Starve is this awesome Indie game that came out late April of last year."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2014/05/latest.jpeg
 tags:
     - dont starve
     - dont starve game

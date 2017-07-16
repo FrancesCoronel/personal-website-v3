@@ -1,5 +1,5 @@
 ---
-title: "Colophon <i class='twa twa-strawberry'></i>"
+title: "Colophon 🍓️"
 excerpt: "Unveiling the inner workings of this website."
 permalink: /colophon/
 ---
@@ -80,13 +80,9 @@ Strawberry
 
 ## Emoji
 
-Standardized emoji for any browser using Twemoji Awesome.
+Standardized emoji for any browser using Twemoji.
 
-<i class='twa twa-3x twa-strawberry'></i>
-
-```html
-<i class='twa twa-3x twa-strawberry'></i>
-```
+🍓️
 
 ## HTML Tags
 
@@ -201,7 +197,7 @@ This allows you to denote <var>variables</var>.
 - Jekyll
 - Embedly
 - Light Gallery
-- Twemoji Awesome
+- Twemoji
 - Disqus
 - Google Analytics
 

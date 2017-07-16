@@ -1,5 +1,5 @@
 ---
-title: "Experience <i class='twa twa-briefcase'></i>"
+title: "Experience 💼️"
 excerpt: "Don't cry because it's over, smile because it happened. -Dr. Seuss"
 permalink: /experience/
 header:

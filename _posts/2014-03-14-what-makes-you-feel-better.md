@@ -2,6 +2,8 @@
 title: "What makes you feel better when you are in a bad mood?"
 date: 2014-03-14
 excerpt: "Back when I was using Tumblr."
+header:
+    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
 tags:
     - area of a rectangle python
     - digital hieroglyphics

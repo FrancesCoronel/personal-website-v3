@@ -1,6 +1,9 @@
 ---
 title: "README Template for GitHub \\U0001F4DD"
 date: 2015-08-20
+excerpt: A README template for all your GitHub project needs.
+header:
+    image: https://fvcproductions.files.wordpress.com/2015/08/screenshot-2015-08-20-20-05-58.png?w=1024&h=435&crop=1
 tags:
     - gist
     - GitHub
@@ -8,7 +11,6 @@ tags:
     - readme
     - readme template
     - template
-excerpt: A README template for all your GitHub project needs.
 ---
 
 For all you [GitHub](http://github.com) lovers out there. {#for-all-you-github-lovers-out-there. style="text-align:center;"}

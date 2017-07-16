@@ -1,6 +1,9 @@
 ---
-title: "Web Dev & Design Slides | Fullstack Academy \\U0001F3A8"
+title: "Web Dev & Design Slides - Fullstack Academy"
 date: 2015-08-05
+excerpt: On June 18th, the 2nd Thursday  Fullstack Academy, I realized lot of my partners for pair programmi would ask me similar question regarding my dev environment so I started making a deck of some tips  tricks that I felt would have prov valuable for me back in the day.
+header:
+    image: https://fvcproductions.files.wordpress.com/2015/08/githubwallpaper.jpg
 tags:
     - featured
     - fullstack academy
@@ -10,7 +13,6 @@ tags:
     - tips and tricks
     - web design
     - web dev
-excerpt: On June 18th, the 2nd Thursday  Fullstack Academy, I realized lot of my partners for pair programmi would ask me similar question regarding my dev environment so I started making a deck of some tips  tricks that I felt would have prov valuable for me back in the day.
 ---
 
 ### [O]{.dropcap}n June 18th, the 2nd Thursday of Fullstack Academy, I realized a lot of my partners for pair programming would ask me similar questions regarding my dev environment so I started making a deck of some tips and tricks that I felt would have proven valuable for me back in the day.

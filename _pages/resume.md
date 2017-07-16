@@ -1,12 +1,12 @@
 ---
-title: "Resume <i class='twa twa-page-facing-up'></i>"
+title: "Resume 📄️"
 permalink: /resume/
 excerpt: "One page that tries its best to summarize me both academically and professionally. Hah."
 ---
 
 ## For a live version of my resume, please refer to <a href="http://linkedin.com/in/fvcproductions" target="_blank">my LinkedIn</a>.
 
-> Feel free to connect with me on there! <i class='twa twa-busts-in-silhouette'></i>
+> Feel free to connect with me on there! 👥️
 
 ### But here's the hard copy for reference. `¯\_(ツ)_/¯`
 

@@ -1,5 +1,5 @@
 ---
-title: "Conferences <i class='twa twa-ticket'></i>"
+title: "Conferences 🎫️"
 excerpt: "We don't meet anyone by chance."
 permalink: /conferences/
 comments: false

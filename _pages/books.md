@@ -1,7 +1,7 @@
 ---
-title: "Books <i class='twa twa-books'></i>"
+title: "Books 📚️"
 permalink: /books/
-excerpt: "Books I've read and were memorable."
+excerpt: "Books I've read that were ridiculously memorable."
 ---
 
 <div class="grid__wrapper">

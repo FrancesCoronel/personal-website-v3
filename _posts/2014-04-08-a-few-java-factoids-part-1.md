@@ -3,7 +3,7 @@ title: "A Few Java Factoids - Part 1"
 date: 2014-03-03
 excerpt: "A few basic facts about Java."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
 tags:
     - basic structure
     - beginner

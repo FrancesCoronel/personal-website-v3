@@ -1,5 +1,5 @@
 ---
-title: "Undergrad A.I. Internships \\U0001F6B8"
+title: "Undergrad A.I. Internships"
 date: 2014-09-14
 ---
 

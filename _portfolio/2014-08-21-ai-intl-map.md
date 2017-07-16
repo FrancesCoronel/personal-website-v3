@@ -1,5 +1,5 @@
 ---
-title: "A.I. International \\U0001F4CD"
+title: "A.I. International"
 date: 2014-08-21
 excerpt: Map of schools that specialize in AI.
 permalink: /ai-intl-map/

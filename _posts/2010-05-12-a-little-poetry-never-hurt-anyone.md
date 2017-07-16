@@ -1,9 +1,9 @@
 ---
-title: "Desiring the Casual"
+title: "Desiring the Casual ✒️"
 date: 2010-05-12
 excerpt: "A little poetry never hurt anyone."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg?w=800&h=340&crop=1
 ---
 
 ```

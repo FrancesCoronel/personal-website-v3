@@ -1,5 +1,5 @@
 ---
-title: "Hackathons <i class='twa twa-hammer'></i>"
+title: "Hackathons 🔨️"
 excerpt: "Do or do not. There is no try. -Yoda"
 permalink: /hackathons/
 header:

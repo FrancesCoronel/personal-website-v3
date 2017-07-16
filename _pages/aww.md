@@ -1,5 +1,5 @@
 ---
-title: "Aww \\U0001F623"
+title: "Aww"
 date: 2015-09-15
 tags:
     - aww

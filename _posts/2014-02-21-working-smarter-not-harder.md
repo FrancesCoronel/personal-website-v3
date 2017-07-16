@@ -2,6 +2,8 @@
 title: "Working Smarter, Not Harder"
 date: 2014-02-21
 excerpt: "Work smarter, not harder with these key study strategies."
+header:
+    image: https://fvcproductions.files.wordpress.com/2014/03/book.jpg
 tags:
     - essays
     - exams

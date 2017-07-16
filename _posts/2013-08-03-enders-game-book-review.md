@@ -1,9 +1,9 @@
 ---
-title: "Ender's Game - Book Review"
+title: "Ender's Game - Book Review 👾"
 date: 2010-02-21
 excerpt: "The Martian Chronicles, Star Wars, Lord of the Rings, Stranger in a Strange Land...an average geek’s favorite reading list can be literally incalculable."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2013/08/enders-game.jpg
 tags:
     - Battle School
     - book review

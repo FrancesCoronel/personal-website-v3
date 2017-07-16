@@ -1,5 +1,5 @@
 ---
-title: "Travels <i class='twa twa-earth-americas'></i>"
+title: "Travels 🌎️"
 permalink: /travels/
 modified: 2017-01-01
 excerpt: "Oh, the places you'll go."

@@ -1,9 +1,9 @@
 ---
-title: "My Time in Tanzania"
+title: "My Time in Tanzania 🌍"
 date: 2012-07-30
 excerpt: "All the blog posts from my time in Tanzania studying wildlife research techniques."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2013/07/serengeti-292.jpg
 ---
 
 > **I created a very brief diary while in Tanzania and thought I would

@@ -1,7 +1,7 @@
 ---
 title: "Hour of Code 2016"
-excerpt:
 date: 2016-12-08
+excerpt: Volunteering for the Hour of Code program offered by Code.org for a second time in a row!
 header:
   image: https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png
 ---

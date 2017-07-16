@@ -3,7 +3,7 @@ title: "Adventures with AAAI"
 date: 2015-01-30
 excerpt: "Attending the AAAI conference."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg
 tags:
     - aaai
     - aaai 2015

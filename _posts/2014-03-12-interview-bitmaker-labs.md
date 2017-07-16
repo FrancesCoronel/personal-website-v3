@@ -2,6 +2,8 @@
 title: "Interview with Bitmaker Labs"
 date: 2014-03-12
 excerpt: "My favorite 20 laws of power."
+header:
+    image: https://fvcproductions.files.wordpress.com/2014/03/bitmaker-banner.png?w=1024&h=435&crop=1
 tags:
     - bit
     - BitMaker

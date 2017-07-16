@@ -1,6 +1,9 @@
 ---
 title: "Auschwitz: A Doctor's Eyewitness Account \\U0001F4D6"
 date: 2015-04-11
+excerpt: 'Book review of "Auschwitz: A Doctor''s Eyewitness Account".'
+header:
+    image: https://fvcproductions.files.wordpress.com/2014/06/toaletter_pc3a5_auschwitz_2.jpg
 tags:
     - Arcade Publishing
     - auschwitz
@@ -10,8 +13,6 @@ tags:
     - Miklos Nyiszli
     - prisoners
     - sonderkommando
-excerpt: 'Book review of "Auschwitz: A
-Doctor''s Eyewitness Account".'
 ---
 
 \

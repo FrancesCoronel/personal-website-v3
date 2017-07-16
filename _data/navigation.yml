@@ -1,54 +1,54 @@
 main:
-  - title: "About <i class='twa twa-eyes'></i>"
+  - title: "About 👀️"
     url: /about/
     children:
-      - title: "Books <i class='twa twa-books'></i>"
+      - title: "Books 📖️️"
         url: /books/
-      - title: "Travels <i class='twa twa-earth-americas'></i>"
+      - title: "Travels 🗺️"
         url: /travels/
-      - title: "What I Use <i class='twa twa-iphone'></i>"
+      - title: "What I Use 📱️"
         url : /what-i-use/
-  - title: "Adventures <i class='twa twa-airplane'></i>"
+  - title: "Adventures ✈️"
     url: /adventures/
     children:
-      - title: "Conferences <i class='twa twa-ticket'></i>"
+      - title: "Conferences 🎫️"
         url: /conferences/
-      - title: "Education <i class='twa twa-mortar-board'></i>"
+      - title: "Education 🎓️"
         url: /education/
-      - title: "Experience <i class='twa twa-eyeglasses'></i>"
+      - title: "Experience 👓️"
         url: /experience/
-      - title: "Hackathons <i class='twa twa-hammer'></i>"
+      - title: "Hackathons 🔨️"
         url: /hackathons/
-      - title: "Programs <i class='twa twa-rocket'></i>"
+      - title: "Programs 🚀️"
         url: /programs/
-      - title: "Volunteering <i class='twa twa-gift-heart'></i>"
+      - title: "Volunteering 💝️"
         url: /volunteering/
-  - title: "Blog <i class='twa twa-memo'></i>"
+  - title: "Blog 📝️"
     url: /blog/
-  - title: "Portfolio <i class='twa twa-briefcase'></i>"
+  - title: "Portfolio 💼️"
     url: /portfolio/
     children:
-      - title: "Awards <i class='twa twa-trophy'></i>"
+      - title: "Awards 🏆️"
         url: /awards/
-      - title: "Resume <i class='twa twa-page-facing-up'></i>"
+      - title: "Resume 📄️"
         url : /resume/
-  - title: "Services <i class='twa twa-hammer-and-wrench'></i>"
+  - title: "Services 💡"
     url: /services/
     children:
-      - title: "Freelancing <i class='twa twa-gem'></i>"
+      - title: "Freelancing 💎"
         url: /freelancing/
-      - title: "Mentoring <i class='twa twa-books'></i>"
+      - title: "Mentoring 📚️"
         url: /mentoring/
-      - title: "Speaking <i class='twa twa-speech-balloon'></i>"
+      - title: "Speaking 💬️"
         url: /speaking/
-  - title: "Feedback <i class='twa twa-white-check-mark'></i>"
+  - title: "Feedback ✅️"
     url: /feedback/
-  - title: "Contact <i class='twa twa-incoming-envelope'></i>"
+  - title: "Contact 📨️"
     url : /contact/
-  - title: "Search <i class='twa twa-mag'></i>"
+  - title: "Search 🔍️"
     url: /search/
-  - title: "Colophon <i class='twa twa-strawberry'></i>"
+  - title: "Colophon 🍓️"
     url: /colophon/
-  - title: "GitHub Repo <i class='twa twa-wrench'></i>"
+  - title: "GitHub Repo 🔧️"
     url: http://github.com/fvcproductions/fvcproductions.github.io
     new_window: true

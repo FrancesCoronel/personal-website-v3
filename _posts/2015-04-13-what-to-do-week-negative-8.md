@@ -6,8 +6,11 @@ a bunch of internships and coding bootcamps and receiving a bunch of
 rejections and acceptances, I’ve decided to head to Fullstack Academy
 this summer."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2015/04/fullstack-academy-banner.jpg?w=1024&h=435&crop=1
 tags:
+    - internships
+    - fullstack academy
+    - coding bootcamps
 ---
 
 

@@ -1,17 +1,18 @@
 ---
-title: "Another spreadsheet app? \\U0001F914"
+title: "Another spreadsheet app? 🤔️️"
 date: 2017-01-29
+excerpt: "Are there other options out there?"
+header:
+    image: https://fvcproductions.files.wordpress.com/2017/01/airtable.png
 tags:
     - airtable
     - airtable app
     - featured
     - kpcb fellow application
     - spreadsheet app
-excerpt: "Are there other options out there?"
 ---
 
-Google Sheets. Excel.
----------------------
+# Google Sheets. Excel.
 
 ### The two options most folks think about when they want to create a spreadsheet. 🙄
 

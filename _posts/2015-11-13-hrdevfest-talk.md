@@ -1,6 +1,9 @@
 ---
-title: "HR DevFest | Web Design Talk \\U0001F4AC"
+title: "HR DevFest - Web Design Talk 🎨️"
 date: 2015-11-13
+excerpt: My presentation on Web Design for HR DevFest in Norfolk, VA on November 14th, 2015.
+header:
+    image: https://fvcproductions.files.wordpress.com/2015/11/techtalk-001.jpeg?w=1024&h=435&crop=1
 tags:
     - featured
     - hampton roads
@@ -13,7 +16,6 @@ tags:
     - tech conference
     - web design
     - web design talk
-excerpt: My presentation on Web Design for HR DevFest in Norfolk, VA on November 14th, 2015.
 ---
 
 So I live in Norfolk, Virginia which is this beautiful small town by the

@@ -1,5 +1,5 @@
 ---
-title: "operationAIR \\U0001F916"
+title: "operationAIR"
 date: 2014-10-26
 excerpt: Google DC Hackathon in October 2014.
 ---

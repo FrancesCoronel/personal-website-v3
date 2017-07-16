@@ -1,3 +1,5 @@
+/* font face mixin */
+
 @mixin font-face($font-family, $font-url, $font-weight, $font-style) {
     @font-face {
         font: {
@@ -17,6 +19,8 @@
 
 /* system typefaces */
 
+/* serif */
+
 $serif: 'Roboto',
 -apple-system,
 ".SFNSText-Regular",
@@ -27,6 +31,9 @@ $serif: 'Roboto',
 "Lucida Grande",
 Arial,
 sans-serif !default;
+
+/* sans-serif */
+
 $sans-serif: 'Roboto',
 -apple-system,
 ".SFNSText-Regular",
@@ -37,6 +44,9 @@ $sans-serif: 'Roboto',
 "Lucida Grande",
 Arial,
 sans-serif !default;
+
+/* monospace */
+
 $monospace: 'Roboto Mono',
 Monaco,
 Consolas,
@@ -53,16 +63,6 @@ sans-serif !default;
 
 /* serif typefaces */
 
-$georgia: Georgia,
-serif !default;
-$times: Times,
-serif !default;
-$bodoni: "Bodoni MT",
-serif !default;
-$calisto: "Calisto MT",
-serif !default;
-$garamond: Garamond,
-serif !default;
 $global-font-family: $sans-serif !default;
 $header-font-family: $sans-serif !default;
 $caption-font-family: $serif !default;
@@ -75,4 +75,15 @@ $caption-font-family: $serif !default;
 
 .social-share-links .fa {
     margin-right: 0;
+}
+
+/** Twemoji */
+img.emoji {
+    display: inline-block;
+    height: 1.5em;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1.25em;
+    background: none !important;
+    padding: 0 !important;
 }

@@ -4,7 +4,7 @@ date: 2010-02-21
 excerpt: "Here's a little riddle that is based on a very recognized riddle,
 except it uses POTC references."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2013/08/dmc.jpg?w=1024&h=435&crop=1
 tags:
     - aviation
     - Benito de Soto

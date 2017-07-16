@@ -1,9 +1,9 @@
 ---
-title: "The DaVinci Code - Book Review"
+title: "The DaVinci Code - Book Review 🖼️"
 date: 2013-07-28
 excerpt: "A book review on 'The DaVinci Code' by Dan Brown."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2013/07/dlqjb0cly1xaymibqdqxsbsy6vj.jpg
 tags:
     - Dan Brown
     - DaVinci Code

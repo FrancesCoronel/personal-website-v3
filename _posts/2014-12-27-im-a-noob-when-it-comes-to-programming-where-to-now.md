@@ -4,7 +4,7 @@ date: 2014-12-27
 excerpt: "I’ve compiled a list of 15 great resources I’ve come to learn about over
 the years of trying to learn how to properly program."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2014/09/html-css-book-cover.jpg
 tags:
     - code school
     - codecademy

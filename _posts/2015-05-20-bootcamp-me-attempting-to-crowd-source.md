@@ -1,6 +1,9 @@
 ---
 title: "Bootcamp.me - Attempting to Crowd Source \\U0001F465"
 date: 2015-05-20
+excerpt: I decided to begin a crowdsourced version of the Bootcamp.me Google Map using Mapme.
+header:
+    image: https://fvcproductions.files.wordpress.com/2015/05/codingbootcamps.png?w=1024&h=435&crop=1
 tags:
     - bootcamp.me
     - coding bootcamp map
@@ -15,7 +18,6 @@ tags:
     - map me
     - map of coding bootcamps
     - mapme
-excerpt: I decided to begin a crowdsourced version of the Bootcamp.me Google Map using Mapme.
 ---
 
 So after realizing a lot of people liked the idea of a more

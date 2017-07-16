@@ -1,6 +1,9 @@
 ---
-title: "Fullstack Academy | Reflections \\U0001F55D"
+title: "Fullstack Academy - Reflections"
 date: 2015-08-30
+excerpt: At the end of the day, I’m really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye opening pair programming sessions, and the awesome people.
+header:
+    image: https://fvcproductions.files.wordpress.com/2015/08/banners-0011.jpg
 tags:
     - apple
     - capstone project
@@ -24,7 +27,6 @@ tags:
     - projects
     - reflections
     - time
-excerpt: At the end of the day, I’m really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye opening pair programming sessions, and the awesome people.
 ---
 
 So during my last few days of Fullstack, I was feeling a little something like this… {#reflectiononfullstackacademy}

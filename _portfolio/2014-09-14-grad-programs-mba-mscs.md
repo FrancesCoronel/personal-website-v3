@@ -1,5 +1,5 @@
 ---  
-title: "MBA & MSCS Grad Programs \\U0001F453" 
+title: "MBA & MSCS Grad Programs" 
 date: 2014-09-14
 ---
 

@@ -3,7 +3,7 @@ title: "C++ Bits - Solid Geometry"
 date: 2013-07-28
 excerpt: "Messing with Geometry in C++."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2013/07/banners-002.jpg?w=1024&h=436&crop=1
 ---
 
 **Purpose**

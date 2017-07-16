@@ -1,5 +1,5 @@
 ---
-title: "Programs <i class='twa twa-rocket'></i>"
+title: "Programs 🚀️"
 excerpt: "I have never let my schooling interfere with my education. -Mark Twain"
 permalink: /programs/
 header:

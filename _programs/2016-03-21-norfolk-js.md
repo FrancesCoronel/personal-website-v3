@@ -12,8 +12,6 @@ header:
 <strong><em><a title="NorfolkJS" href="http://www.meetup.com/NorfolkJS" target="_blank">Member, Speaker</a></em></strong>
 Various Locations - Norfolk
 
-&nbsp;
-
 ✔︎ attended 9 meetups
 
 1. [Don't commit your ugly code!](https://www.meetup.com/NorfolkJS/events/229326804/) - Mar 21, 2016
@@ -32,8 +30,6 @@ Various Locations - Norfolk
 ◉ <a href="meetup.com/NorfolkJS/events/227490794" target="_blank">meetup.com/NorfolkJS/events/227490794</a>
 
 <a href="http://www.meetup.com/NorfolkJS/members/182920007/" target="_blank">Learn more</a>
-
-&nbsp;
 
 [gallery type="rectangular" size="full" ids="3702,3701,3700,3699,3697" orderby="rand"]
 

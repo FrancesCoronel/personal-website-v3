@@ -1,5 +1,5 @@
 ---
-title: "Portfolio <i class='twa twa-briefcase'></i>"
+title: "Portfolio 💼️"
 permalink: /portfolio/
 excerpt: "What I work on across the interwebs."
 ---

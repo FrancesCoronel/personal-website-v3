@@ -3,7 +3,7 @@ title: "50 Lines For 50 Crimes"
 date: 2014-12-20
 excerpt: "A poem I wrote for a good friend."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2014/06/52c833ace4b0df7dc79c740a.png?w=800&h=340&crop=1
 tags:
     - 50 crimes
     - 50 lines

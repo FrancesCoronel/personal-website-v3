@@ -1,6 +1,9 @@
 ---
-title: "Fullstack Academy - Week 5 \\U0001F495\\U0001F493\\U0001F495"
+title: "Fullstack Academy - Week 5"
 date: 2015-07-11
+excerpt: "July 6th to July 10th. There are 57 days of Fullstack Academy. These are days 22 through 26. Week 5."
+header:
+    image: https://fvcproductions.files.wordpress.com/2015/07/banners-0012.jpg
 tags:
     - ailey extension
     - ajax
@@ -41,7 +44,7 @@ tags:
     - ubersicht
     - whiteboard
     - women who code
-excerpt: "July 6th to July 10th\\r\\n\\r\nThere are 57 days of Fullstack\Academy.\These are days 22 through 26 \Week 5. ❤️" ---
+---
 
 > July 6th to July 10th
 >

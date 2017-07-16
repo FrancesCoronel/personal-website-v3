@@ -63,22 +63,14 @@
 <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
 <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:image" content="{% if page.header.image %}{{ page.header.image }}{% else %}{{ site.og_image | absolute_url }}{% endif %}" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="611" />
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:locale" content="{{ site.locale | replace: ' - ', '_ ' | default: 'en_US ' }}">
 <meta property="og:type" content="website">
 <meta property="article:published_time" content="{{ page.date }}" />
 <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}">
-
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="FVCproductions" />
-    <meta property="og:description" content="I like to dabble with things that ought to be dabbled with." />
-    <meta property="og:url" content="https://fvcproductions.com/" />
-    <meta property="og:site_name" content="FVCproductions" />
-    <meta property="og:image" content="https://fvcproductions.files.wordpress.com/2013/07/wordpress-white4.png?w=1200" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="611" />
-    <meta property="og:locale" content="en_US" />
 
 {% if seo_url %}
 	<link rel="canonical" href="{{ page.url | prepend: seo_url | replace: ' /index.html ', '/ ' }}">

@@ -1,5 +1,5 @@
 ---
-title: "Accenture Liquid Studio"
+title: "Accenture Liquid Studio - Wearables Developer Intern"
 excerpt: "Wearables Developer"
 date: 2016-08-12
 header:

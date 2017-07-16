@@ -3,7 +3,7 @@ title: "Sort Detective - Solution \\U0001F50D"
 date: 2015-04-18 
 excerpt: "Stuck on that homework assignment involving SortDetective.jar? No need to worry!"
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2015/04/banners-001.jpg?w=1024&h=436&crop=1
 tags: 
     - alpha 
     - beta 

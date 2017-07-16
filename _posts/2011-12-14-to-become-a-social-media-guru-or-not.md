@@ -1,5 +1,5 @@
 ---
-title: "To become a social media guru or not?"
+title: "To become a social media guru or not? 🎒"
 date: 2011-12-14
 excerpt: "Talks about social networking in the classroom basically."
 header:

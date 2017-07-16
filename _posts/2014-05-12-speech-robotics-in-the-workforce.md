@@ -3,7 +3,7 @@ title: "Speech - Robotics In The Workforce"
 date: 2014-05-12
 excerpt: "The idea of robots taking over the economy."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2014/06/baxter-robot-e1429416178284.jpg?w=1024&h=436&crop=1
 tags:
     - automated
     - automated jobs

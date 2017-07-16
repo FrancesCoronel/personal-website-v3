@@ -3,7 +3,7 @@ title: "My Most Memorable Experiences in Gaming"
 date: 2014-12-29
 excerpt: "One month left till the AAAI 2015 Conference."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2014/12/gaming-backgrounds.jpg?w=675&h=340&crop=1
 tags:
     - chaos faction
     - chronicles of narnia

@@ -72,6 +72,10 @@ analytics:
     tracking_id          : UA-63190978-3
 
 
+# Google Super Proxy
+google_analytics:
+  super_proxy_url: "https://fvcproductions-analytics.appspot.com/query?id=ahpzfmZ2Y3Byb2R1Y3Rpb25zLWFuYWx5dGljc3IVCxIIQXBpUXVlcnkYgICAgICAgAoM&format=json"
+
 # Site Author
 author:
   name             : "Frances Coronel"

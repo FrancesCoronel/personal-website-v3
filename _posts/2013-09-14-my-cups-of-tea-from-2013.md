@@ -3,7 +3,7 @@ title: "My Cups of Tea - 2013"
 date: 2013-09-14
 excerpt: "My primary interests for the year 2013."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2014/09/screenshot-2015-10-14-00-23-34.png?w=800&h=340&crop=1
 tags:
     - adobe after effects
     - adobe premiere pro

@@ -1,6 +1,9 @@
 ---
-title: "All The (Bootcamp) Things \\U0001F389"
+title: "All The (Bootcamp) Things 🎉"
 date: 2016-03-31
+excerpt: I've decided to compile all the coding bootcamp things and organize them by category. ALSO THIS IS MY 100th POST!
+header:
+    image: https://fvcproductions.files.wordpress.com/2016/03/100thpost-001.jpeg
 tags:
     - '100'
     - 100th
@@ -32,7 +35,6 @@ tags:
     - rankme
     - searching
     - speakerdeck
-excerpt: I've decided to compile all the coding bootcamp things and organize them by category. ALSO THIS IS MY 100th POST!
 ---
 
 So I've been getting a lot of feedback from readers of my blog (and by looking at my Wordpress stats) that my bootcamp posts are really helpful when they're going through the admissions process.

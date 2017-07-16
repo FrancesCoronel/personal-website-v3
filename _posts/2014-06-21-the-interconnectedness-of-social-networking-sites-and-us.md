@@ -3,7 +3,7 @@ title: "The Interconnectedness of Social Networking Sites"
 date: 2014-06-21
 excerpt: "So, I've made a somewhat interesting discovery."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2014/06/version-1.jpg?w=1024&h=435&crop=1
 tags:
     - behance
     - Facebook

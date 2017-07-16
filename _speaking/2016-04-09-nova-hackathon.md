@@ -1,6 +1,6 @@
 ---
 title: "InNOVAtion Hackathon"
-excerpt: "First hackathon I spoke at."
+excerpt: "My first speaking event at an MLH hackathon!"
 date: 2016-04-09
 header:
   image: https://fvcproductions.files.wordpress.com/2016/02/img_4602.jpg
@@ -47,7 +47,7 @@ Volunteer (helped create website)
 
 > About
 
-First hackathon I spoke at! 
+First hackathon I spoke at!
 
 I spoke about 2 topics:
 

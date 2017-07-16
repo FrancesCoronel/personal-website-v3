@@ -16,6 +16,8 @@ tags:
     - circle
     - python bits
     - strings python
+header:
+    image: https://fvcproductions.files.wordpress.com/2014/06/python.jpg?w=1024&h=435&crop=1
 ---
 
 ### Hello, hello, hello!

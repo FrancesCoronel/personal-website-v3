@@ -1,16 +1,43 @@
 ---
 title: "HR DevFest"
-excerpt: "rip"
+date: 2015-11-14
+excerpt: "My first speaking event at a tech conference!"
+header:
+    image: https://fvcproductions.files.wordpress.com/2015/11/issuetrak-conference-00831.jpg
 ---
 
-<img class="aligncenter size-full wp-image-3450" src="https://fvcproductions.files.wordpress.com/2015/11/hrdevfest.png" alt="HR DevFest - Logo" width="512" height="512" />
+> Name
 
-<code>November 14th, 2015</code>
-<h1><a href="http://hrdevfest.org" target="_blank">HR (Hampton Roads) DevFest</a></h1>
-<h2>RevolutionVA</h2>
-<h3><i>Speaker on <b>Web Design</b></i></h3>
-<h4>Issuetrak</h4>
-<h5>Norfolk, Virginia</h5>
+## <a title="HR (Hampton Roads) DevFest" href="http://hrdevfest.org" target="_blank">HR (Hampton Roads) DevFest</a>
+
+> Organizer
+
+RevolutionVA
+
+> Location
+
+Issuetrak - Norfolk, VA
+
+> Date
+
+November 14th, 2015
+
+> Role
+
+Scholarship Recipient, Speaker (Web Design for Developers)
+
+> About
+
+Hampton Roads DevFest is a technology conference focused on giving software engineers in the region exposure to new innovations and best practices.
+
+[<i class='fa fa-globe'></i> Website](http://website.com)
+{: .btn}
+
+[<i class='fa fa-twitter'></i> @twitter](http://twitter.com/@twitter)
+{: .btn .btn--twitter}
+
+[<i class='fa fa-linkedin'></i> LinkedIn](http://linkedin.com)
+{: .btn .btn--linkedin}
 
 [display-posts id="3385" image_size="large" include_date="true" include_excerpt="true" wrapper="div"]
 
@@ -24,41 +51,4 @@ https://speakerdeck.com/fvcproductions/hrdevfest-web-design
 
 [tweet https://twitter.com/aag1091/status/665554097798426624]
 
-[tweet https://twitter.com/erikpmp/status/665554118182703105]---
-title: "HR (Hampton Roads) DevFest"
-excerpt: "Hampton Roads DevFest is a technology conference focused on giving software engineers in the region exposure to new innovations and best practices."
-date: 2015-11-14
----
-
-> Name
-
-## <a title="Title" href="link" target="_blank">Title</a>
-
-> Organizer
-
-Fill
-
-> Location
-
-Place - City, State
-
-> Date
-
-Month xst to xth, 20xx
-
-> Role
-
-Scholarship Recipient
-
-> About
-
-Fill
-
-[<i class='fa fa-globe'></i> Website](http://website.com)
-{: .btn}
-
-[<i class='fa fa-twitter'></i> @twitter](http://twitter.com/@twitter)
-{: .btn .btn--twitter}
-
-[<i class='fa fa-linkedin'></i> LinkedIn](http://linkedin.com)
-{: .btn .btn--linkedin}
+[tweet https://twitter.com/erikpmp/status/665554118182703105]

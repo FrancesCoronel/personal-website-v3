@@ -3,7 +3,7 @@ title: "Finding Coding Bootcamps"
 date: 2014-12-23
 excerpt: "All the resources for finding a coding bootcamp."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2014/12/computercoding-xx3888-2187-0-203.jpg
 tags:
     - app academy
     - bootcamp

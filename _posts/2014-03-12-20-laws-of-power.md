@@ -2,6 +2,8 @@
 title: "20 Laws of Power"
 date: 2014-03-12
 excerpt: "My favorite 20 laws of power."
+header:
+    image: https://fvcproductions.files.wordpress.com/2014/03/book.jpg
 tags:
     - adapt and survive
     - be wary

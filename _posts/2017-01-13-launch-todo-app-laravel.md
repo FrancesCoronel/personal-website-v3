@@ -1,6 +1,9 @@
 ---
-title: Launch a Todo App Using Laravel Homestead ✅
+title: Launch a Todo App Using Laravel Homestead ✅️
 date: 2017-01-13
+excerpt: Our goal? To launch a simple to-do app using Laravel Homestead on macOS.
+header:
+    image: https://fvcproductions.files.wordpress.com/2017/01/home.png
 tags:
     - laravel
     - laravel 5
@@ -8,23 +11,18 @@ tags:
     - todo
     - todo app
     - todo app laravel
-excerpt: Our goal? To launch a simple to-do app using Laravel Homestead on macOS.
 ---
 
-Our goal? To launch a simple to-do app using Laravel Homestead on macOS. {#ourgoaltolaunchasimpleto-doappusinglaravelhomesteadonmacos.}
-========================================================================
+# Our goal? To launch a simple to-do app using Laravel Homestead on macOS.
 
-This is **QUITE a tedious process** (if you ask me), but I’ll try to condense it into a simple 30 step process (LOL). 😂 {#thisisquiteatediousprocessifyouaskmebutilltrytocondenseitintoasimple30stepprocesslol.😂}
------------------------------------------------------------------------------------------------------------------------
+## This is **QUITE a tedious process** (if you ask me), but I’ll try to condense it into a simple 30 step process (LOL). 😂
 
-### This is how the completed app looks like. {#thisishowthecompletedapplookslike.}
+### This is how the completed app looks like.
 
- 
-
-[![DoSomething.org To-Do
-App](https://fvcproductions.files.wordpress.com/2017/01/screenshot.png){.size-full
-.wp-image-5460 width="750"
-height="446"}](https://fvcproductions.files.wordpress.com/2017/01/screenshot.png)
+<figure>
+	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg" class="image-popup hoverZoomLink"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
+	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+</figure>
 
 ### You will need… {#youwillneed...}
 

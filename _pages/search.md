@@ -1,9 +1,9 @@
 ---
-title: "Search <i class='twa twa-mag'></i>"
+title: "Search 🔍️"
 excerpt: "The search page for FVCproductions."
 permalink: /search/
 ---
 
-## Find what you're looking for! <i class='twa twa-telescope'></i>
+## Find what you're looking for! 🔭
 
 {% include custom/search.html %}

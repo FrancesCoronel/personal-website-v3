@@ -1,9 +1,9 @@
 ---
 title: "Interview with Designation"
 date: 2015-01-06
-excerpt: "My interview with Coding House."
+excerpt: "My interview with Designation."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2015/01/open_graph.jpg?w=1024&h=435&crop=1
 tags:
     - accepted
     - aftermath

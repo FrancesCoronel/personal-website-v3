@@ -1,9 +1,9 @@
 ---
-title: "Robopocalypse - Book Review"
+title: "Robopocalypse - Book Review 🤖️"
 date: 2013-07-28
 excerpt: "A book review on 'Robopocalypse' by Daniel Wilson."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2013/07/what_if_____ws_by_casperium6.jpg?w=1024&h=435&crop=1
 tags:
     - AI
     - archos

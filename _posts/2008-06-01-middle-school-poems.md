@@ -1,9 +1,17 @@
 ---
-title: "Middle School Poems <i class='twa twa-black-nib'></i>"
+title: "Middle School Poems ✒️"
 date: 2008-06-01
 excerpt: "Random poems from 2008."
 header:
     image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+tags:
+    - trampoline
+    - middle school poems
+    - '2008'
+    - random poems
+    - the test
+    - shakespeare
+    - gratitude
 ---
 
 ## Trampoline

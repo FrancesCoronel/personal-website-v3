@@ -3,7 +3,7 @@ title: "Interview with Hack Reactor"
 date: 2014-12-29
 excerpt: "Where I rant and share questions my experience from my interview with Hack Reactor (sort of)."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2015/01/screenshot-2015-01-05-20-16-31.png?w=1024&h=435&crop=1
 tags:
     - bow
     - bummer

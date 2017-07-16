@@ -1,5 +1,5 @@
 ---
-title: Fullstack Academy
+title: Fullstack Academy - Ambassador
 date: 2017-06-04
 header:
     image: https://fvcproductions.files.wordpress.com/2015/11/11821194_439697182900579_299304949_n-1-e1457320708289.jpg
@@ -32,7 +32,7 @@ Around the winter of 2016, Fullstack was asking for interested alumni to be a pa
 
 The ambassador program involved referring students to the program and then mentoring the accepted students in exchange for a stipend.
 
-Through this progam, I created a lot of material that I felt would be of help to prospective Fullstack Academy students and was able to guide and mentor a student who got accepted to the new Grace Hopper program.
+Through this program, I created a lot of material that I felt would be of help to prospective Fullstack Academy students and was able to guide and mentor a student who got accepted to the new Grace Hopper program.
 
 Although I am no longer formally an ambassador, if you're interested in learning more about Fullstack Academy and how to best prepare for entering the program, feel free to personally reach out to me.
 

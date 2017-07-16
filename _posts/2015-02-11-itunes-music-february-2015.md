@@ -3,7 +3,7 @@ title: "Cataloging my iTunes Music"
 date: 2015-02-11
 excerpt: "Compiling all the music from my iTunes library due to sheer boredom."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2015/02/itunesbanner.jpg
 tags:
     - music
     - fvcproductions

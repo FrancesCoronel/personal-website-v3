@@ -49,7 +49,7 @@
         font-size: $type-size-6;
         text-transform: uppercase;
     }
-    li + li:before {
+    li+li:before {
         content: "";
         padding-right: 5px;
     }
@@ -67,4 +67,10 @@
         width: span(6);
     }
     display: inline-block;
+}
+
+.page__footer .fa {
+    @media screen and (max-width: $mobile) {
+        margin-right: 0;
+    }
 }

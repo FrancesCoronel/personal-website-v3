@@ -3,7 +3,7 @@ title: "Interview with MakerSquare"
 date: 2015-01-14
 excerpt: "My interview with MakerSquare."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2015/01/mksc6.jpg
 tags:
     - acceptance
     - admissions

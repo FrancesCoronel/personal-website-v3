@@ -1,6 +1,9 @@
 ---
-title: "School's out? \\U0001F393"
+title: "School's out? 🎓️"
 date: 2016-04-30
+excerpt: Catching up on happenings for the month. SO MANY HAPPENINGS.
+header:
+    image: https://fvcproductions.files.wordpress.com/2016/04/schoolsout.jpeg
 tags:
     - accenture
     - bay area
@@ -24,7 +27,6 @@ tags:
     - silicon valley
     - skype
     - undergrad
-excerpt: Catching up on happenings for the month. SO MANY HAPPENINGS.
 ---
 
 SO MUCH GOING ON.

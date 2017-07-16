@@ -1,9 +1,9 @@
 ---
-title: "AP Spanish Language Skit"
+title: "AP Spanish Language Skit 🐷️"
 date: 2012-02-06
 excerpt: "This was a fun little skit I did with a few kids from my AP Spanish Language class."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2013/07/three-pigs.jpg
 ---
 
 > So this was a fun little skit I did with a few kids from my AP Spanish

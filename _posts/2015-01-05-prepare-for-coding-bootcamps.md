@@ -3,7 +3,7 @@ title: "Preparing for Coding Bootcamps"
 date: 2014-01-05
 excerpt: "Before my interviews with all the coding bootcamps I applied to, I did some digging and really went out of my way to try and find out what would make me a better candidate in the entire process."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2015/04/fullstack-academy-banner.jpg?w=1024&h=435&crop=1
 tags:
     - anonymous functions
     - array

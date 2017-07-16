@@ -3,7 +3,7 @@ title: "Brief Thoughts on SwitchUp's Best Bootcamps List"
 date: 2015-02-15
 excerpt: "Bootcamps are a risky business, make sure you make the right decision."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2015/02/switchup.jpg?w=1024&h=435&crop=1
 tags:
     - best bootcamps
     - bootcamp

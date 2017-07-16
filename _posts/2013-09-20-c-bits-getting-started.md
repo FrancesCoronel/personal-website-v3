@@ -3,7 +3,7 @@ title: "C Bits - Getting Started"
 date: 2013-09-20
 excerpt: "The 1st part in a mini-series for beginners in C."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2013/09/banners-001.jpg?w=1024&h=436&crop=1
 tags:
   - C programming
   - comment

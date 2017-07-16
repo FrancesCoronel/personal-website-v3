@@ -1,6 +1,9 @@
 ---
 title: "Fullstack Academy - Week 3 \\U0001F526"
 date: 2015-06-26
+excerpt: "June 22nd to 26th.\\r\\n\\r\\nThere are 57 days in Fullstack. These are the third 5."
+header:
+    image: https://fvcproductions.files.wordpress.com/2015/06/banners-0011.jpg
 tags:
     - aline lerner
     - alumni panel
@@ -20,12 +23,11 @@ tags:
     - same sex marriage
     - week 3
     - wikistack
-excerpt: "June 22nd to 26th.\\r\\n\\r\\nThere are 57 days in Fullstack. These are the third 5. &lt;3"
 ---
 
 > June 22nd to 26th.
 >
-> There are 57 days in Fullstack. These are the third 5. &lt;3
+> There are 57 days in Fullstack. These are the third 5.
 
 ------------------------------------------------------------------------
 

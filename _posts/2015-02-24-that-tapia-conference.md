@@ -4,7 +4,7 @@ date: 2015-02-15
 excerpt: "A conference that
 promotes diversity in computing."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2015/03/tapia-2015-001.jpg
 tags:
     - afro movers and shakers
     - banquet

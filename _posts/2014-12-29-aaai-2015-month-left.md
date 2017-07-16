@@ -3,7 +3,7 @@ title: "AAAI 2015 Winter Conference - A Month Left"
 date: 2014-12-29
 excerpt: "One month left till the AAAI 2015 Conference."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg
 tags:
     - aaai
     - aaai 2015
