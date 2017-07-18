@@ -47,12 +47,6 @@ td.gsc-configLabelCell {
     font-size: 1em;
 }
 
-input.gsc-search-button,
-input.gsc-search-button:hover,
-input.gsc-search-button:focus {
-    border-color: #357AE8 !important;
-}
-
 .gsst_a {
     padding-top: .5em !important;
 }
@@ -60,8 +54,7 @@ input.gsc-search-button:focus {
 .cse input.gsc-search-button,
 input.gsc-search-button,
 .cse .gsc-search-button input.gsc-search-button-v2,
-input.gsc-search-button-v2
-input.gsc-search-button.gsc-search-button-v2 {
+input.gsc-search-button-v2 input.gsc-search-button.gsc-search-button-v2 {
     padding: 1.25em !important;
     height: 50px !important;
     width: 50px !important;
@@ -72,4 +65,22 @@ input.gsc-search-button.gsc-search-button-v2 {
 
 table.gsc-search-box td {
     vertical-align: top !important;
+}
+
+.gsc-selected-option-container {
+    max-width: 100% !important;
+}
+
+input.gsc-search-button,
+input.gsc-search-button:hover,
+input.gsc-search-button:focus {
+    background-color: #2F5BB7 !important;
+}
+
+.gsc-above-wrapper-area-container {
+    margin-bottom: 0 !important;
+}
+
+form.gsc-search-box {
+    margin-bottom: 2em;
 }

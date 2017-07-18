@@ -15,6 +15,30 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/.idea\/fvcproductions.github.io.iml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/fvcproductions.github.io.iml",
+		"oF": 0
+		},
+	"\/.idea\/modules.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/modules.xml",
+		"oF": 0
+		},
+	"\/.idea\/vcs.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/vcs.xml",
+		"oF": 0
+		},
+	"\/.idea\/workspace.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/workspace.xml",
+		"oF": 0
+		},
 	"\/.vscode\/settings.json": {
 		"ft": 524288,
 		"oA": 1,

@@ -36,4 +36,5 @@ $(document).ready(function () {
         $('.navbar-brand img').attr('src' , '/assets/images/logo-red.svg');
     });
 
+    $("input.gsc-search-button.gsc-search-button-v2").attr('src', 'https://www.clker.com/cliparts/Y/3/d/w/R/r/search-icon-white-hi.png');
 });

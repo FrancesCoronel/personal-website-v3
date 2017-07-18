@@ -1,6 +1,7 @@
 ---
 title: "Freelancing 💎️"
 excerpt: "Developing with a design background."
+permalink: "/freelancing/"
 header:
     image: https://fvcproductions.files.wordpress.com/2015/11/banners_new-001.jpeg
 comments: false
