@@ -32,7 +32,7 @@ $(document).ready(function () {
         ext: '.svg'
     });
 
-    $('.navbar-brand-link img').hover(function () {
+    $('a.navbar-brand-link').hover(function () {
         $('.navbar-brand img').attr('src' , '/assets/images/logo-red.svg');
     });
 

@@ -15,8 +15,8 @@ en: &DEFAULT_EN
   minute_read                : "minute read"
   share_on_label             : "<i class='fa fa-heart'></i> Share the love"
   meta_label                 :
-  tags_label                 : "Tags"
-  categories_label           : "Categories"
+  tags_label                 : "<i class='fa fa-tags'></i> Tags"
+  categories_label           : "<i class='fa fa-folder-open'></i> Categories"
   date_label                 : "Updated"
   comments_label             : "<i class='fa fa-comment'></i> Leave a comment"
   comments_title             : "Comments"

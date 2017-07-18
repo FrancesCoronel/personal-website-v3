@@ -1,25 +1,15 @@
-<meta charset="utf-8">
-
-{% include base/seo.html %}
-
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="cleartype" content="on">
-<!-- Favicon for IE10 Metro -->
-<meta name="msapplication-TileColor" content="#FFFFFF" />
-<meta name="msapplication-TileImage" content="{{ '/assets/favicons/favicon-144.png' | absolute_url }}" />
-<!-- Favicon for old IEs -->
-<link rel="shortcut icon" href="{{ '/assets/favicons/favicon.ico' | absolute_url }}" />
-<!-- Favicon for new browsers multisize ico  -->
-<link rel="icon" type="image/x-icon" sizes="16x16 32x32" href="{{ '/assets/favicons/favicon.ico' | absolute_url }}" />
-<!-- Favicon for Chrome on Android -->
-<link rel="icon" sizes="192x192" href="{{ '/assets/favicons/favicon-192.png' | absolute_url }}" />
-<!-- Favicon for Phone 6+ downscaled on other devices -->
-<link rel="apple-touch-icon-precomposed" sizes="180x180" href="{{ '/assets/favicons/favicon-180.png' | absolute_url }}" />
-<!-- RSS Feed -->
-<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} - RSS Feed">
-<!-- Light Gallery -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/lightgallery/1.3.9/css/lightgallery.min.css" />
-<!-- Custom CSS -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}">
+<head>
+    <meta charset="utf-8"> {% include base/seo.html %}
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cleartype" content="on">
+    <!-- Favicons -->
+    {% include header/favicons.html %}
+    <!-- RSS Feed -->
+    <link rel="alternate" href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}" type="application/atom+xml" title="{{ site.title }} - RSS Feed">
+    <!-- Light Gallery -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/lightgallery/1.3.9/css/lightgallery.min.css" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}">
+</head>

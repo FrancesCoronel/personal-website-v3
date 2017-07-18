@@ -13,7 +13,7 @@
   {% capture page_categories %}{% for category in page.categories %}{{ category | downcase }}#{{ category }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
   {% assign category_hashes = (page_categories | split: ',' | sort:0) %}
 
-  <p class="page__taxonomy">
+  <section class="page__taxonomy">
     <strong><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].categories_label | default: "Categories:" }} </strong>
     <span itemprop="keywords">
     {% for hash in category_hashes %}
@@ -22,5 +22,5 @@
       <a href="{{ category_word | slugify | prepend: path_type | prepend: site.category_archive.path | absolute_url }}" class="page__taxonomy-item" rel="tag">{{ category_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
     {% endfor %}
     </span>
-  </p>
+  </section>
 {% endif %}

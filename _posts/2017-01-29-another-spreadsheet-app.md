@@ -5,40 +5,31 @@ excerpt: "Are there other options out there?"
 header:
     image: https://fvcproductions.files.wordpress.com/2017/01/airtable.png
 tags:
-    - airtable
-    - airtable app
+    - Airtable
+    - Airtable app
     - featured
-    - kpcb fellow application
+    - KPCB Fellow application
     - spreadsheet app
 ---
 
-# Google Sheets. Excel.
+## Google Sheets. Excel.
 
 ### The two options most folks think about when they want to create a spreadsheet. 🙄
 
 But not me. No, no, no.
 
-You see, I've been using this platform called [**Airtable**](http://airtable.com) for a month now and I can't even imagine doing anything in Google Sheets, let alone Excel, any longer. 😊
-==========================================================================================================================================================================================
+## You see, I've been using this platform called [**Airtable**](http://airtable.com) for a month now and I can't even imagine doing anything in Google Sheets, let alone Excel, any longer. 😊
 
-![logo](https://fvcproductions.files.wordpress.com/2017/01/logo1.png){.size-full
-.wp-image-5760 .aligncenter width="300" height="300"}
+<img src="https://fvcproductions.files.wordpress.com/2017/01/logo1.png" alt="Airtable Logo" align="middle" width="300" height="300">
 
 > [**Airtable**](http://airtable.com) is a productivity tool that
 > enables its users to manage spreadsheets.
 
-**![reimagined2x](https://fvcproductions.files.wordpress.com/2017/01/reimagined2x.png){.size-full
-.wp-image-5730 .aligncenter width="2148" height="1295"}**
+<img src="https://fvcproductions.files.wordpress.com/2017/01/reimagined2x.png" alt="Screenshot of Airtable" align="middle" width="2148" height="1295">
 
- 
+**I know what you're thinking. 😅**
 
-... {#section style="text-align:center;"}
-===
-
-**I know what you're thinking. 😅** {#i-know-what-youre-thinking. style="text-align:center;"}
-----------------------------------
-
-### **ANOTHER spreadsheet app? What's the big deal? 👿** {#another-spreadsheet-app-whats-the-big-deal style="text-align:center;"}
+### **ANOTHER spreadsheet app? What's the big deal? 👿**
 
 To be fair, I'm not in a job that requires the use of either but in
 terms of organizing data, I have found it useful to utilize spreadsheets
@@ -81,8 +72,6 @@ is due (very handy for job apps). 📆
 ![screen\_shot\_2016-08-10\_at\_11-43-02\_am](https://fvcproductions.files.wordpress.com/2017/01/screen_shot_2016-08-10_at_11-43-02_am.png){.size-full
 .wp-image-5737 .aligncenter width="1392" height="821"}
 
- 
-
 I can send a stand alone link to just view the specific table I'm
 logging in or all of them at once. Despite the complexity involved
 throughout the app, the UI makes it easy to navigate and do just about
@@ -100,9 +89,9 @@ experience of their users first. That's
 why [**Airtable**](http://airtable.com) has been able to raise - get
 this -
 [[\$]{style="font-size:12.5px;"}[10.6M]{.funding_amount}](https://www.crunchbase.com/organization/airtable#/entity)
-[in]{.connecting} [[3
-Rounds](https://www.crunchbase.com/organization/airtable/funding-rounds)]{.funding_rounds}
-[from]{.connecting} [18
+[in] [[3
+Rounds](https://www.crunchbase.com/organization/airtable/funding-rounds)]
+[from] [18
 Investors](https://www.crunchbase.com/organization/airtable/investors).
 For just some spreadsheet app, that's quite a bit of moolah. 💰💰💰
 
@@ -120,8 +109,7 @@ But for anything else, [**Airtable**](http://airtable.com) powers over
 the rest every time and remains my tool of choice for anything
 spreadsheet related! 😉
 
-So stop stressing out over formatting and cell management & just **[Airtable](http://airtable.com)**! 🎉 {#so-stop-stressing-out-over-formatting-and-cell-management-justairtable .qtext_para}
-=======================================================================================================
+### So stop stressing out over formatting and cell management & just **[Airtable](http://airtable.com)**! 🎉
 
 \[caption id="attachment\_5754" align="aligncenter"
 width="1000"\]![download](https://fvcproductions.files.wordpress.com/2017/01/download.png){.size-full

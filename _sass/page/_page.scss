@@ -70,7 +70,8 @@
 .page__share,
 .page__comments,
 .page__pagination,
-.page__related {
+.page__related, 
+.page__taxonomy {
     @include full();
     @include clearfix();
     border-top: 1px solid $lighter-gray;
@@ -85,7 +86,8 @@
 .page__share-title,
 .page__comments-title,
 .page__pagination-title,
-.page__related-title {
+.page__related-title,
+.page__taxonomy-title {
     margin: 2em 0 2em 0;
     font-size: $type-size-6;
     text-transform: uppercase;
