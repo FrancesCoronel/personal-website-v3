@@ -26,9 +26,9 @@ feature_row:
       excerpt: "Writings and musings."
       url: "/blog/"
       btn_label: "<i class='fa fa-book'></i> Start reading"
-    - image: https://images.pexels.com/photos/90807/pexels-photo-90807.jpeg
+    - image: https://fvcproductions.files.wordpress.com/2014/12/network_image_robert_ghrist_pl_card.jpg
       alt: "Portfolio"
-      title: "Portfolio 💼️"
+      title: "Portfolio 💼"
       excerpt: "What I work on across the interwebs."
       url: "/portfolio/"
       btn_label: "<i class='fa fa-briefcase'></i> Explore projects"
@@ -38,7 +38,7 @@ feature_row:
       excerpt: "What you can hire me for."
       url: "/services/"
       btn_label: "<i class='fa fa-wrench'></i> Evaluate options"
-    - image: https://images.pexels.com/photos/193004/pexels-photo-193004.jpeg
+    - image: https://fvcproductions.files.wordpress.com/2017/07/iphone.jpeg
       alt: "Contact"
       title: "Contact 📨️"
       excerpt: "Reach out to see what I can help you with."

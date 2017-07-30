@@ -6,14 +6,21 @@ header:
     image: https://i.ytimg.com/vi/WAGKzph41Rg/hqdefault.jpg
 ---
 
-## For my Design Thinking class at Cornell Tech, my team - **Ohana** - came up with the final project of **PathFinder**.
+## I took a design thinking course at Cornell Tech
 
-speel
+For my Design Thinking class at Cornell Tech, my team - **Ohana** - came up with the final project of **PathFinder**.
+
+### Point of View Summary
+
+*we met...* potential college students who are overwhelmed with the possibilities of their future
+
+*we were amazed to realize...* how little transparency there is into different educational or career paths
+
+*it would be game changing if we...* could provide a way for students to look into the future and make more educated decisions about what their next steps should be
 
 ### Speaker Deck
 
 <blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/pathfinder">PathFinder</a></h4><p>Design Thinking - Final Project Cornell Tech Team Ohana FVCproductions 2017</p></blockquote>
-
 
 ### YouTube Video
 

@@ -1,6 +1,7 @@
 ---
 title: "Conferences 🎫️"
 excerpt: "We don't meet anyone by chance."
+permalink: /conferences/
 comments: false
 header:
     image: https://fvcproductions.files.wordpress.com/2016/09/photo1.jpg

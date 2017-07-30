@@ -43,11 +43,11 @@ For an upcoming hackathon at ODU dubbed Monarchs Hack the Campus, I acted as a v
 ### Tasks
 
 - branding
-  - created 4 new banners using Sketch and existing logo (credits to Michelle Graham for the logo)
+    - created 4 new banners using Sketch and existing logo (credits to Michelle Graham for the logo)
 - the actual website
-  - completely redesigned from the bottom up to have a nice look and feel based on an HTML5UP template
+    - completely redesigned from the bottom up to have a nice look and feel based on an HTML5UP template
 - registration
-  - redesigned and made some minor changes to the configuration for the Typeform used as registration for those interested in attending the hackathon
+    - redesigned and made some minor changes to the configuration for the Typeform used as registration for those interested in attending the hackathon
 
 ### Tools
 

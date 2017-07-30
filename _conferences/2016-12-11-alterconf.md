@@ -19,7 +19,7 @@ gallery:
 
 > Name
 
-## <a title="AlterConf NYC" href="http://alterconf.com" target="_blank">AlterConf NYC</a>
+# <a title="AlterConf NYC" href="http://alterconf.com" target="_blank">AlterConf NYC</a>
 
 > Organizer
 
@@ -27,7 +27,7 @@ AlterConf
 
 > Location
 
-Microsft Headquarters - Times Square
+Microsoft Headquarters - Times Square
 
 > Date
 
@@ -35,7 +35,7 @@ December 11th, 2016
 
 > Role
 
-Volunteer
+Freelance Blogger, Participant
 
 > About
 
@@ -53,8 +53,6 @@ Given that I was hired as a freelance blogger for this conference, I've publishe
 
 <blockquote class="embedly-card"><h4><a href="https://www.linkedin.com/pulse/alterconf-nyc-2016-frances-coronel?published=t">AlterConf NYC 2016 🗽</a></h4><p>AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming</p></blockquote>
 
-
 <blockquote class="embedly-card"><h4><a href="https://fvcproductions.com/2017/01/03/alterconf-nyc-2016/">AlterConf | NYC 2016 🗽</a></h4><p>This conference was held at Microsoft's headquarters in New York City at 11 Times Square on December 10th, 2016 from 10 am to 5 pm. About a month ago, I was honored to have the opportunity to freelance blog for AlterConf NYC.</p></blockquote>
-
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/c_gonzalez/status/817881461390983169">Christina González on Twitter</a></h4><p>Found this great wrap up of December's AlterConf, &amp; I miss everyone again. "AlterConf | NYC 2016" by @fvcproductions https://t.co/wHLy1ZydMQ</p></blockquote>
