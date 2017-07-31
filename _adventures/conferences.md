@@ -25,7 +25,6 @@ tags:
 
 ### Upcoming
 
-- Accenture West Leadership Summit (July 21st-22nd)
 - Strange Loop (September 28-30th)
 
 ### Past

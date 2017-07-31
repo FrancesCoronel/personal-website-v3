@@ -18,7 +18,7 @@ description              : "I like to dabble with things that ought to be dabble
 url                      : "https://fvcproductions.github.io"
 baseurl                  : ""
 repository               : "fvcproductions/fvcproductions.github.io"
-teaser                   : "/assets/images/teaser.png"
+teaser                   : "/assets/img/teaser.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -79,7 +79,7 @@ google_analytics:
 # Site Author
 author:
   name             : "Frances Coronel"
-  avatar           : "assets/images/logo-black.svg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/logo-black.svg" # path of avatar image, e.g. "/assets/img/bio-photo.jpg"
   bio              : "I like to dabble with things that ought to be dabbled with."
   location         : "San Francisco, CA"
   email            : "fvcproductions at gmail dot com"

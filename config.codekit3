@@ -15,12 +15,6 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
-	"\/.idea": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/build\/.idea",
-		"oF": 0
-		},
 	"\/.vscode": {
 		"ft": 65536,
 		"oA": 1,
@@ -404,6 +398,34 @@
 		"oAP": "\/assets\/fonts\/font-awesome\/FontAwesome.otf",
 		"oF": 1
 		},
+	"\/assets\/fonts\/lg.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/lg.eot",
+		"oF": 0
+		},
+	"\/assets\/fonts\/lg.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/lg.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/fonts\/lg.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/lg.ttf",
+		"oF": 0
+		},
+	"\/assets\/fonts\/lg.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/lg.woff",
+		"oF": 0
+		},
 	"\/assets\/fonts\/roboto-mono\/RobotoMono-Bold.ttf": {
 		"ft": 8192,
 		"oA": 2,
@@ -536,54 +558,95 @@
 		"oAP": "\/assets\/fonts\/Roboto\/Roboto-ThinItalic.ttf",
 		"oF": 0
 		},
-	"\/assets\/images\/Algolia.svg": {
+	"\/assets\/img\/Algolia.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/images\/Algolia.svg",
+		"oAP": "\/assets\/img\/Algolia.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/images\/logo-black.svg": {
+	"\/assets\/img\/loading.gif": {
+		"ft": 4194304,
+		"iS": 4178,
+		"oA": 0,
+		"oAP": "\/assets\/img\/loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/img\/logo-black.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/images\/logo-black.svg",
+		"oAP": "\/assets\/img\/logo-black.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/images\/logo-red.svg": {
+	"\/assets\/img\/logo-red.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/images\/logo-red.svg",
+		"oAP": "\/assets\/img\/logo-red.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/images\/logo-white.svg": {
+	"\/assets\/img\/logo-white.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/images\/logo-white.svg",
+		"oAP": "\/assets\/img\/logo-white.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/images\/teaser.png": {
+	"\/assets\/img\/teaser.png": {
 		"ft": 32768,
 		"iS": 99295,
 		"oA": 0,
-		"oAP": "\/assets\/images\/teaser.png",
+		"oAP": "\/assets\/img\/teaser.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/video-play.png": {
+		"ft": 32768,
+		"iS": 4526,
+		"oA": 0,
+		"oAP": "\/assets\/img\/video-play.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/vimeo-play.png": {
+		"ft": 32768,
+		"iS": 5428,
+		"oA": 0,
+		"oAP": "\/assets\/img\/vimeo-play.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/youtube-play.png": {
+		"ft": 32768,
+		"iS": 5177,
+		"oA": 0,
+		"oAP": "\/assets\/img\/youtube-play.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -594,7 +657,7 @@
 		"oAP": "\/assets\/js\/min\/main.min.js",
 		"oF": 3,
 		"sC": 1,
-		"tS": 0
+		"tS": 1
 		},
 	"\/assets\/js\/min": {
 		"ft": 65536,

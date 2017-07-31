@@ -7,7 +7,7 @@ main:
       - title: "Travels 🗺️"
         url: /travels/
       - title: "What I Use 📱️"
-        url : /what-i-use/
+        url: /what-i-use/
   - title: "Adventures ✈️"
     url: /adventures/
     children:

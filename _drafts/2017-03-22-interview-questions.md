@@ -1,0 +1,25 @@
+Questions
+
+- main tools used everyday
+- what are you doing day to day basis
+- feedback, if i were doing great/terribly
+- how long have you been with company
+- why did you join company
+- least favorite/most favorite aspect about working there
+- internal tools used in company
+- version control
+- tech stack
+- do other co-workers hover over programmers - micro-management?
+- biggest challenges and opportunities facing company at moment
+- How do employees keep up to date with latest tech besides online training? Are there conferences - events - etc?
+- interesting challenges are you/your team/the company facing?
+- code review process?
+- are there standups/sprints?
+- What types of support would I receive as a new hire?
+- if I were successful there, what would I have accomplished in 6 months?
+- can you talk a bit about communication within the team? Across teams?
+- If I had an idea for something I thought would be great to work on, would I be able to present it?
+    - something similar to what Accenture did is they allowed employees each week to showcase their knowledge on whatever through a company wide presentation
+- Presentations - yay or nay?
+- next step in process
+- time line for getting back to me

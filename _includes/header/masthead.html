@@ -8,7 +8,7 @@
 				<ul class='visible-links'>
 					<li>
 						<a href="{{ '/' | absolute_url }}" class="navbar-brand-link" title="FVCproductions">
-							<img class="navbar-brand" alt="FVCproductions" src="/assets/images/logo-white.svg">
+							<img class="navbar-brand" alt="FVCproductions" src="/assets/img/logo-white.svg">
 						</a>
 					</li>
 					<li class="masthead__menu-item masthead__menu-item--lg">
@@ -16,39 +16,28 @@
 						{{ site.title }}
 					  </a>
 					</li>
-					{% for link in site.data.navigation.main %}
-						{% if link.url contains 'http' %}
-							{% assign domain = '' %}
-						{% else %}
-							{% assign domain = site.url | append: site.baseurl %}
-						{% endif %}
-						<li class="masthead__menu-item">
-							{% if link.new_window == true %}
-								<a href="{{ domain }}{{ link.url }}" target="_blank">
+					{% for link in site.data.navigation.main %} {% if link.url contains 'http' %} {% assign domain = '' %} {% else %} {% assign
+					domain = site.url | append: site.baseurl %} {% endif %}
+					<li class="masthead__menu-item">
+						{% if link.new_window == true %}
+						<a href="{{ domain }}{{ link.url }}" target="_blank">
 									{{ link.title }}
-								</a>
-							{% else %}
-								<a href="{{ domain }}{{ link.url }}">
+								</a> {% else %}
+						<a href="{{ domain }}{{ link.url }}">
 									{{ link.title }}
-								</a>
-							{% endif %}
-							{% if link.children != null %}
-								<ul>
-									{% for child in link.children %}
-										{% if child.url contains "://" %}
-											{% assign domain = "" %}
-										{% else %}
-											{% assign domain = site.url | append: site.baseurl %}
-										{% endif %}
-										<li>
-											<a href="{{ domain }}{{ child.url }}">
+								</a> {% endif %} {% if link.children != null %}
+						<ul>
+							{% for child in link.children %} {% if child.url contains "://" %} {% assign domain = "" %} {% else %} {% assign domain =
+							site.url | append: site.baseurl %} {% endif %}
+							<li>
+								<a href="{{ domain }}{{ child.url }}">
 												{{ child.title }}
 											</a>
-										</li>
-									{% endfor %}
-							</ul>
-							{% endif %}
-						</li>
+							</li>
+							{% endfor %}
+						</ul>
+						{% endif %}
+					</li>
 					{% endfor %}
 				</ul>
 				<ul class='hidden-links hidden'></ul>
