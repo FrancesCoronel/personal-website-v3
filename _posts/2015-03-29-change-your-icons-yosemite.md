@@ -22,8 +22,8 @@ Intro
 So maybe you got tired of Yosemite’s icons. That’s cool.
 
 Even without apps like the once legendary
-[`CandyBar`](http://www.panic.com/blog/candybar-mountain-lion-and-beyond/ "CandyBar")
-or [`LiteIcon`](http://www.freemacsoft.net/liteicon/ "LiteIcon"), you
+[`CandyBar`](https://www.panic.com/blog/candybar-mountain-lion-and-beyond/ "CandyBar")
+or [`LiteIcon`](https://www.freemacsoft.net/liteicon/ "LiteIcon"), you
 can still change all your icons. No more dependencies!
 
 I got tired of Yosemite’s icons and decided to take some initiative
@@ -41,9 +41,9 @@ Tools
 Step 1 - Get Your Icons
 =======================
 
-[DeviantArt](http://www.deviantart.com "DeviantArt") is my go-to place
+[DeviantArt](https://www.deviantart.com "DeviantArt") is my go-to place
 for icons sets, but you can also try
-[IconArchive](http://www.iconarchive.com/ "IconArchive") for a broader
+[IconArchive](https://www.iconarchive.com/ "IconArchive") for a broader
 range of options.
 
 If you like the app icons I show in these pictures, then you’re welcome
@@ -59,7 +59,7 @@ Utility](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-2
 *A special thanks to these guys for the amazing circular icons that I
 use in this how-to.*
 
--   [Sebastian de With](http://dewith.com/ "deWith")
+-   [Sebastian de With](https://dewith.com/ "deWith")
 -   [All the contributors to `Yoios` on
     GitHub](https://github.com/mmarfil/yoios "Yoios")
 
@@ -251,4 +251,4 @@ Dropbox](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-2
 > Tips or tricks?
 >
 > > contact me
-> > [@fvcproductions](http://twitter.com/fvcproductions "FVCproductions")
+> > [@fvcproductions](https://twitter.com/fvcproductions "FVCproductions")

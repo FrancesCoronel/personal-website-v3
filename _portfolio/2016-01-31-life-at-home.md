@@ -19,7 +19,7 @@ Check out the mobile UI I created at [`invis.io/7G5THL7KA`](https://invis.io/7G
 
  
 
-For [Hoya Hacks](http://hoyahacks.com) 2016, I was unable to physically
+For [Hoya Hacks](https://hoyahacks.com) 2016, I was unable to physically
 travel to the hackathon location at Georgetown University. My team was
 okay with me working remote though, so I just collaborated with them
 (mostly just Jamison though) virtually through the hackathon's Slack
@@ -83,7 +83,7 @@ every possible use case.
 The project will be made up of two parts: the Android app itself, and a
 web service to process the push notifications. When a message is sent
 from the app, it will be communicated to a RESTful web service hosted on
-our domain at <http://push.lifeatho.me> (this domain will not be
+our domain at <https://push.lifeatho.me> (this domain will not be
 accessible from a web browser). Other Android devices will check
 periodically with the web service to see if new push notifications are
 available, and if so will pull them down and display them. Notifications
@@ -92,9 +92,9 @@ another family’s notifications.
 
 ### Tools
 
--   [Sketch](http://sketchapp.com)
--   [Invision](http://www.invisionapp.com/)
--   [Slack](http://slack.com)
+-   [Sketch](https://sketchapp.com)
+-   [Invision](https://www.invisionapp.com/)
+-   [Slack](https://slack.com)
 
 ### Team
 

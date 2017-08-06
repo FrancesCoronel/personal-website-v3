@@ -39,11 +39,11 @@ ids="4898,4899,4902,4901,4903,4897,4896,4895,4900,4905,4904"\]
 **Project Links**
 
 -   Devpost Submission:
-    [devpost.com/software/meggs](http://devpost.com/software/meggs)
--   Website: [bit.ly/meggs-case](http://bit.ly/meggs-case) or
+    [devpost.com/software/meggs](https://devpost.com/software/meggs)
+-   Website: [bit.ly/meggs-case](https://bit.ly/meggs-case) or
     [fvcproductions.github.io/mysocialcanvas](//fvcproductions.github.io/mysocialcanvas)
 -   GitHub:
-    [github.com/fvcproductions/mysocialcanvas](http://github.com/fvcproductions/mysocialcanvas)
+    [github.com/fvcproductions/mysocialcanvas](https://github.com/fvcproductions/mysocialcanvas)
 -   Video Pitch: [youtu.be/iWgY7Mzbwfw](https://youtu.be/iWgY7Mzbwfw)
 -   Presentation:
     [speakerdeck.com/fvcproductions/the-meggs-case](https://speakerdeck.com/fvcproductions/the-meggs-case)
@@ -59,9 +59,9 @@ https://speakerdeck.com/fvcproductions/the-meggs-case
 **Links**
 
 -   LinkedIn
-    [`my-social-canvas`](http://linkedin.com/company/my-social-canvas)
--   Twitter [`@MySocialCanvas`](http://twitter.com/MySocialCanvas)
+    [`my-social-canvas`](https://linkedin.com/company/my-social-canvas)
+-   Twitter [`@MySocialCanvas`](https://twitter.com/MySocialCanvas)
 -   Website
-    [`mysocialcanvas.com/designhackathon`](http://mysocialcanvas.com/designhackathon/)
+    [`mysocialcanvas.com/designhackathon`](https://mysocialcanvas.com/designhackathon/)
 
 https://www.instagram.com/p/BLBaF2oDd47/

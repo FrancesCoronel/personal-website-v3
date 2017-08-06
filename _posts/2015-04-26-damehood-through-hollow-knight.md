@@ -46,7 +46,7 @@ It was only 10 bucks and you know what, that artwork is to **DIE FOR**.
 Also, the video’s soundtrack music kind of hypnotized me, beckoning me
 to follow the strange little bug creatures/beetle thingies. That
 soundtrack can be downloaded over at
-[Incompetech.com](http://incompetech.com/music/royalty-free/ "Incompetech")
+[Incompetech.com](https://incompetech.com/music/royalty-free/ "Incompetech")
 by searching for `Plans in Motion`, the title.
 
  

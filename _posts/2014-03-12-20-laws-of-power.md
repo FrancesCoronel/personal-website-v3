@@ -24,7 +24,7 @@ tags:
 
 So if you’re not already familiar with Robert Green’s popular book “[The
 48 Laws of
-Power](http://en.wikipedia.org/wiki/The_48_Laws_of_Power "48 Laws of Power - Wiki")”
+Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power "48 Laws of Power - Wiki")”
 that was published in 1998, I’m going to suggest you read it… right now.
 
 Like any popular book, it has its positive and negative criticisms, but

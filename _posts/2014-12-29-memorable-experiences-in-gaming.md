@@ -196,7 +196,7 @@ height="614"}](https://www.impulsegamer.com/ps2/eragon3.jpg)
 
 11\) [**Eragon**](https://en.wikipedia.org/wiki/Eragon_(video_game)) - 🔮
 [PS2](https://www.playstation.com/en-us/games/eragon-ps2/) and [Nintendo
-DS](http://www.ign.com/games/eragon/nds-823205)
+DS](https://www.ign.com/games/eragon/nds-823205)
 
 > `Fun.equals('defeating ogres');`
 
@@ -293,7 +293,7 @@ width="699"
 height="441"}](https://static.tvtropes.org/pmwiki/pub/images/TheImpossibleQuiz.jpg)
 
 19\) [**The Impossible
-Quiz**](http://www.addictinggames.com/puzzle-games/theimpossiblequiz.jsp)
+Quiz**](https://www.addictinggames.com/puzzle-games/theimpossiblequiz.jsp)
 - 🔓Online Flash
 
 > FRUSTRATING.
@@ -305,18 +305,18 @@ width="749"
 height="561"}](https://i120.photobucket.com/albums/o194/apelingon/The%20Game%20Boots/ChaosFaction01.jpg)
 
 20\) [**Chaos
-Faction**](http://www.crazymonkeygames.com/Chaos-Faction.html) - 🔥
+Faction**](https://www.crazymonkeygames.com/Chaos-Faction.html) - 🔥
 Online Flash
 
 > So many levels, so much action!
 
 ------------------------------------------------------------------------
 
-[![](http://www.crazymonkeygames.com/guide/Pandemic-2/screenInfo.jpg){.aligncenter
+[![](https://www.crazymonkeygames.com/guide/Pandemic-2/screenInfo.jpg){.aligncenter
 width="600"
-height="429"}](http://www.crazymonkeygames.com/guide/Pandemic-2/screenInfo.jpg)
+height="429"}](https://www.crazymonkeygames.com/guide/Pandemic-2/screenInfo.jpg)
 
-21\) [**Pandemic 2**](http://www.crazymonkeygames.com/Pandemic-2.html) -
+21\) [**Pandemic 2**](https://www.crazymonkeygames.com/Pandemic-2.html) -
 👾 Online Flash
 
 > Friggin’ Madagascar would always get me. Also this game is how I came
@@ -325,35 +325,35 @@ height="429"}](http://www.crazymonkeygames.com/guide/Pandemic-2/screenInfo.jpg)
 
 ------------------------------------------------------------------------
 
-[![](http://hackedmonster.com/games/spank-the-monkey-hacked-1331745846.jpg){.aligncenter
+[![](https://hackedmonster.com/games/spank-the-monkey-hacked-1331745846.jpg){.aligncenter
 width="350"
-height="247"}](http://hackedmonster.com/games/spank-the-monkey-hacked-1331745846.jpg)
+height="247"}](https://hackedmonster.com/games/spank-the-monkey-hacked-1331745846.jpg)
 
 22\) [**Spank the
-Monkey**](http://www.addictinggames.com/funny-games/monkey.jsp) - 💩
+Monkey**](https://www.addictinggames.com/funny-games/monkey.jsp) - 💩
 Online Flash
 
 > Such an amusing game!
 
 ------------------------------------------------------------------------
 
-[![](http://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2010/01/wii-sports-resort.jpg){.aligncenter
+[![](https://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2010/01/wii-sports-resort.jpg){.aligncenter
 width="600"
-height="329"}](http://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2010/01/wii-sports-resort.jpg)
+height="329"}](https://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2010/01/wii-sports-resort.jpg)
 
 23\) [**Wii
-Sports**](http://www.nintendo.com/games/detail/1OTtO06SP7M52gi5m8pD6CnahbW8CzxE) -
+Sports**](https://www.nintendo.com/games/detail/1OTtO06SP7M52gi5m8pD6CnahbW8CzxE) -
  🎾 Wii
 
 > Bashing people has never been more exhilarating.
 
 ------------------------------------------------------------------------
 
-[![](http://www.theisozone.com/images/screens/playstation-40300-41324140322.jpg){.aligncenter
+[![](https://www.theisozone.com/images/screens/playstation-40300-41324140322.jpg){.aligncenter
 width="512"
-height="448"}](http://www.theisozone.com/images/screens/playstation-40300-41324140322.jpg)
+height="448"}](https://www.theisozone.com/images/screens/playstation-40300-41324140322.jpg)
 
-24\) [Portal Runner](http://en.wikipedia.org/wiki/Portal_Runner) - 🔥 PS2
+24\) [Portal Runner](https://en.wikipedia.org/wiki/Portal_Runner) - 🔥 PS2
 
 > One of the first games I ever played.
 
@@ -363,7 +363,7 @@ height="448"}](http://www.theisozone.com/images/screens/playstation-40300-413241
 width="638"
 height="477"}](https://fvcproductions.files.wordpress.com/2014/12/b7672-astromom.png)
 
-25\) [Poptropica](http://www.poptropica.com) - 🔓 Online Flash
+25\) [Poptropica](https://www.poptropica.com) - 🔓 Online Flash
 
 > The stories were pretty interesting, so I stayed for those.
 

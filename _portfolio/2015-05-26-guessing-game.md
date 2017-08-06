@@ -1,4 +1,4 @@
---- 
+---
 title: The Guessing Game ⁉️
 date: 2015-05-26
 ---
@@ -6,16 +6,16 @@ date: 2015-05-26
 [![The Guessing
 Game](https://fvcproductions.files.wordpress.com/2015/06/unknown.png){.aligncenter
 .wp-image-2422 .size-full width="760"
-height="447"}](http://fvcproductions.github.io/Guessing-Game/)
+height="447"}](https://fvcproductions.github.io/Guessing-Game/)
 
 Overview
 ========
 
 I created a guessing game for the Foundations stage of [Fullstack
-Academy](http://fullstackacademy.com "Fullstack Academy").
+Academy](https://fullstackacademy.com "Fullstack Academy").
 
 > This project was completed `May 31st, 2015` for [Fullstack
-> Academy](http://fullstackacademy.com "Fullstack Academy") Foundations.
+> Academy](https://fullstackacademy.com "Fullstack Academy") Foundations.
 
 Screenshots
 -----------
@@ -39,18 +39,18 @@ Tools
 
 -   [GitHub Pages](https://pages.github.com/ "GitHub Pages")
 -   JavaScript
--   [Bootstrap](http://getbootstrap.com/)
--   [Flat UI](http://designmodo.github.io/Flat-UI/)
+-   [Bootstrap](https://getbootstrap.com/)
+-   [Flat UI](https://designmodo.github.io/Flat-UI/)
 -   HTML/CSS
 
 Link
 ----
 
 Play the game at
-[`fvcproductions.github.io/Guessing-Game`](http://fvcproductions.github.io/Guessing-Game/ "Guessing Game").
+[`fvcproductions.github.io/Guessing-Game`](https://fvcproductions.github.io/Guessing-Game/ "Guessing Game").
 
 GitHub Repo {#githubrepo}
 -----------
 
 View the repo at
-[`github.com/fvcproductions/Guessing-Game`](http://github.com/fvcproductions/Guessing-Game).
+[`github.com/fvcproductions/Guessing-Game`](https://github.com/fvcproductions/Guessing-Game).

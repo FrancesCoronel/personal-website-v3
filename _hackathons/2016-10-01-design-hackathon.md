@@ -8,7 +8,7 @@ header:
 
 > Name
 
-## <a title="DesignHackathon" href="http://mysocialcanvas.com/designhackathon" target="_blank">DesignHackathon</a>
+## <a title="DesignHackathon" href="https://mysocialcanvas.com/designhackathon" target="_blank">DesignHackathon</a>
 
 > Organizer
 
@@ -34,8 +34,8 @@ MEGGS creates tech focused cases that offer beautiful and well designed protecti
 
 The My Social Canvas DesignHackathon will bring together students who are pursuing degrees in fashion, graphic design, technology, and business in an effort to increase awareness, participation and funding for girls in STEM programs across the country. The final deliverable from each team will be an iPhone case design, an e-commerce site to sell their product, and a marketing plan to launch the product. Proceeds from the sales of the winning team's cases will go back to supporting Girls In STEM.
 
-LinkedIn <a href="http://linkedin.com/company/my-social-canvas" target="_blank">`my-social-canvas`</a>
-Twitter <a href="http://twitter.com/MySocialCanvas" target="_blank">`@MySocialCanvas`</a>
+LinkedIn <a href="https://linkedin.com/company/my-social-canvas" target="_blank">`my-social-canvas`</a>
+Twitter <a href="https://twitter.com/MySocialCanvas" target="_blank">`@MySocialCanvas`</a>
 
 > Awards
 
@@ -43,9 +43,9 @@ Our team submitted everything on time but in the end, they went with another tea
 
 > Project
 
-- Devpost Submission: [devpost.com/software/meggs](http://devpost.com/software/meggs)
-- Website: [bit.ly/meggs-case](http://bit.ly/meggs-case) or [fvcproductions.github.io/mysocialcanvas]([http://fvcproductions.github.io/mysocialcanvas)
-- GitHub: [github.com/fvcproductions/mysocialcanvas](http://github.com/fvcproductions/mysocialcanvas)
+- Devpost Submission: [devpost.com/software/meggs](https://devpost.com/software/meggs)
+- Website: [bit.ly/meggs-case](https://bit.ly/meggs-case) or [fvcproductions.github.io/mysocialcanvas]([https://fvcproductions.github.io/mysocialcanvas)
+- GitHub: [github.com/fvcproductions/mysocialcanvas](https://github.com/fvcproductions/mysocialcanvas)
 - Video Pitch: [youtu.be/iWgY7Mzbwfw](https://youtu.be/iWgY7Mzbwfw)
 - Presentation: [speakerdeck.com/fvcproductions/the-meggs-case](https://speakerdeck.com/fvcproductions/the-meggs-case)
 - Business Plan: [scribd.com/document/326087214/Business-Plan-The-MEGGS-Case](https://www.scribd.com/document/326087214/Business-Plan-The-MEGGS-Case)
@@ -54,9 +54,9 @@ Our team submitted everything on time but in the end, they went with another tea
 
 [gallery type="rectangular" size="full" ids="4119" orderby="rand"]
 
-<img href="http://mysocialcanvas.com/designhackathon/" src="https://static1.squarespace.com/static/57752b91c534a5929ff9177d/t/57894c6920099eb5a807d43b/1468615801024/?format=1500w"/>
+<img href="https://mysocialcanvas.com/designhackathon/" src="https://static1.squarespace.com/static/57752b91c534a5929ff9177d/t/57894c6920099eb5a807d43b/1468615801024/?format=1500w"/>
 
-<img href="http://mysocialcanvas.com/designhackathon/" src="https://static1.squarespace.com/static/57752b91c534a5929ff9177d/t/57d6f14d59cc683d257687ef/1473704279091/?format=1500w"/>
+<img href="https://mysocialcanvas.com/designhackathon/" src="https://static1.squarespace.com/static/57752b91c534a5929ff9177d/t/57d6f14d59cc683d257687ef/1473704279091/?format=1500w"/>
 
 [gallery type="rectangular" size="full" ids="3801,3795" orderby="rand"]
 
@@ -104,11 +104,11 @@ ids="4898,4899,4902,4901,4903,4897,4896,4895,4900,4905,4904"\]
 **Project Links**
 
 -   Devpost Submission:
-    [devpost.com/software/meggs](http://devpost.com/software/meggs)
--   Website: [bit.ly/meggs-case](http://bit.ly/meggs-case) or
+    [devpost.com/software/meggs](https://devpost.com/software/meggs)
+-   Website: [bit.ly/meggs-case](https://bit.ly/meggs-case) or
     [fvcproductions.github.io/mysocialcanvas](//fvcproductions.github.io/mysocialcanvas)
 -   GitHub:
-    [github.com/fvcproductions/mysocialcanvas](http://github.com/fvcproductions/mysocialcanvas)
+    [github.com/fvcproductions/mysocialcanvas](https://github.com/fvcproductions/mysocialcanvas)
 -   Video Pitch: [youtu.be/iWgY7Mzbwfw](https://youtu.be/iWgY7Mzbwfw)
 -   Presentation:
     [speakerdeck.com/fvcproductions/the-meggs-case](https://speakerdeck.com/fvcproductions/the-meggs-case)
@@ -124,9 +124,9 @@ https://speakerdeck.com/fvcproductions/the-meggs-case
 **Links**
 
 -   LinkedIn
-    [`my-social-canvas`](http://linkedin.com/company/my-social-canvas)
--   Twitter [`@MySocialCanvas`](http://twitter.com/MySocialCanvas)
+    [`my-social-canvas`](https://linkedin.com/company/my-social-canvas)
+-   Twitter [`@MySocialCanvas`](https://twitter.com/MySocialCanvas)
 -   Website
-    [`mysocialcanvas.com/designhackathon`](http://mysocialcanvas.com/designhackathon/)
+    [`mysocialcanvas.com/designhackathon`](https://mysocialcanvas.com/designhackathon/)
 
 https://www.instagram.com/p/BLBaF2oDd47/

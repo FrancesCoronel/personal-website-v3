@@ -100,7 +100,7 @@ The abbreviation CSS stands for "Cascading Style Sheets".
 
 ### Anchor Tag
 
-This is an example of a [link](http://apple.com "Apple").
+This is an example of a [link](https://apple.com "Apple").
 
 ### Cite Tag
 
@@ -185,12 +185,12 @@ This allows you to denote <var>variables</var>.
 
 | Name | Occupation | Age |
 |:---:|:---:|:---:|
-| [Huey Freeman](http://boondockstv.wikia.com/wiki/Huey_Freeman) | Intellectual Terrorist | 12 |
-| [Tintin](http://tintin.wikia.com/wiki/Tintin) | Reporter | 14 to 15 |
-| [Steven Universe](http://steven-universe.wikia.com/wiki/Steven_Universe_%28character%29) | Guardian | 14 |
-| [Finn Mertens](http://adventuretime.wikia.com/wiki/Finn) | Adventurer | 16 |
-| [Tina Belcher](http://bobs-burgers.wikia.com/wiki/Tina_Belcher) | Grill Cook | 12 to 13
-| [Phillip J. Fry](http://futurama.wikia.com/wiki/Philip_J._Fry_I) | Delivery Boy | 25
+| [Huey Freeman](https://boondockstv.wikia.com/wiki/Huey_Freeman) | Intellectual Terrorist | 12 |
+| [Tintin](https://tintin.wikia.com/wiki/Tintin) | Reporter | 14 to 15 |
+| [Steven Universe](https://steven-universe.wikia.com/wiki/Steven_Universe_%28character%29) | Guardian | 14 |
+| [Finn Mertens](https://adventuretime.wikia.com/wiki/Finn) | Adventurer | 16 |
+| [Tina Belcher](https://bobs-burgers.wikia.com/wiki/Tina_Belcher) | Grill Cook | 12 to 13
+| [Phillip J. Fry](https://futurama.wikia.com/wiki/Philip_J._Fry_I) | Delivery Boy | 25
 
 ## Technology
 

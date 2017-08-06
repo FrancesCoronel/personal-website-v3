@@ -33,9 +33,9 @@ Otherwise, the death sentence is carried out and YOUR LIFE WILL BE
 SUCKED UP CLEAN by BLACK BEARD.
 
 \[caption id="attachment\_138" align="aligncenter" width="447" class="
-"\][![](http://fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-32-03-am.png){.size-full
+"\][![](https://fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-32-03-am.png){.size-full
 .wp-image-138 width="447"
-height="566"}](http://fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-32-03-am.png)
+height="566"}](https://fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-32-03-am.png)
 Before Barbossa Screwed You Over\[/caption\]
 
 However, BARBOSSA, one of your worst ENEMIES, wanting to get rid of you
@@ -54,15 +54,15 @@ paper or the hat in time.
 How will you, Captain Jack Sparrow, avoid CERTAIN DEATH???
 
 \[caption id="attachment\_139" align="aligncenter" width="447" class="
-"\][![](http://fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-36-48-am.png "After Barbossa"){.size-full
+"\][![](https://fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-36-48-am.png "After Barbossa"){.size-full
 .wp-image-139 width="447"
-height="569"}](http://fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-36-48-am.png)
+height="569"}](https://fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-36-48-am.png)
 After Barbossa Screwed You Over\[/caption\]
 
 ...
 
 Want the answer to the riddle? Click
-[here](http://fvcproductions.com/2014/09/04/answer-potc-parchment-riddle/ "Answer POTC Parchment Riddle")!
+[here](https://fvcproductions.com/2014/09/04/answer-potc-parchment-riddle/ "Answer POTC Parchment Riddle")!
 
 The password is `parchment`.
 

@@ -8,4 +8,4 @@ insert team monarch prototype from marvel
 
 insert ppt deck
 
-http://speakerdeck.com/oembed.json?url=https://speakerdeck.com/fvcproductions/team-monarch
+https://speakerdeck.com/oembed.json?url=https://speakerdeck.com/fvcproductions/team-monarch

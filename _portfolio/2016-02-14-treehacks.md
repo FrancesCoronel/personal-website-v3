@@ -10,7 +10,7 @@ Ammalia, which means surgery in Arabic, is a Leap Motion assisted app that allow
 
 ------------------------------------------------------------------------
 
-Check out this TreeHack at [`devpost.com/software/ammalia`](http://devpost.com/software/ammalia). {#check-out-this-treehack-at--a-href--http:--devpost.com-software-ammalia--target--_blank---code-devpost.com-software-ammalia--code---a-. style="text-align:center;"}
+Check out this TreeHack at [`devpost.com/software/ammalia`](https://devpost.com/software/ammalia). {#check-out-this-treehack-at--a-href--http:--devpost.com-software-ammalia--target--_blank---code-devpost.com-software-ammalia--code---a-. style="text-align:center;"}
 -------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
@@ -35,11 +35,11 @@ orderby="rand"\]
 
 ### Hackathon
 
-[TreeHacks](http://treehacks.com)\
+[TreeHacks](https://treehacks.com)\
 February 12th to 14th, 2016\
 Stanford University\
 [Devpost for TreeHacks 2016
-Submissions](http://treehacks-2016.devpost.com/)
+Submissions](https://treehacks-2016.devpost.com/)
 
 \[caption id="attachment\_3970" align="alignleft" width="300"\][![Hacked
 at
@@ -101,7 +101,7 @@ there at the time unfortunately)\[/caption\]
 
 *Big Hero 4*
 
--   [Frances Coronel (me)](http://github.com/fvcproductions)
+-   [Frances Coronel (me)](https://github.com/fvcproductions)
 -   [Stephanie Zeidan](https://github.com/stephzeid)
 -   [Diana Wang](https://github.com/diana-wang)
 -   [Effie Nehoran](https://github.com/effien3)
@@ -118,7 +118,7 @@ GitHub Repo
 -----------
 
 View the project at
-[`github.com/fvcproductions/ammalia`](http://github.com/fvcproductions/ammalia).
+[`github.com/fvcproductions/ammalia`](https://github.com/fvcproductions/ammalia).
 
 \[caption id="attachment\_5672" align="aligncenter"
 width="750"\][![TreeHacks

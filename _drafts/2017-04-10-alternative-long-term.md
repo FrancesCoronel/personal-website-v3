@@ -61,7 +61,7 @@ which is
 cat
 echo
 
-* internet projects with deadlines - always released at midnight	
+* internet projects with deadlines - always released at midnight
 * no formal lectures/teachers
 * access to resources that have more experience and knowledge
 * overlapping batches
@@ -73,7 +73,7 @@ echo
 * -- constant feedback on program and how it is relevant in industry
 * we cannot implement things that we think are important - so whatever we're teaching here - they have to be relevant for industry
 * mentors critique curriculum and provide feedback in different roles/companies
-* huge sense of comraderie and teamwork and collaboration --> important for us to 
+* huge sense of comraderie and teamwork and collaboration --> important for us to
 * current student interviewing me
 * help other students --> status quo
 * focuses community, collaboration, and helping others, sharing knowledge
@@ -96,7 +96,7 @@ next 3 months
 - APIs
 - databases
 - uses Python
-- not about learning Python but about understanding methods/routes and understanding OOP fundamental concepts so you could easily translate that syntax 
+- not about learning Python but about understanding methods/routes and understanding OOP fundamental concepts so you could easily translate that syntax
 - C projects don't stop
 
 next 3 months
@@ -153,7 +153,7 @@ Questions
 
 ----
 
-scores put into algorithm and i will get emailed in a couple of weeks 
+scores put into algorithm and i will get emailed in a couple of weeks
 
 ---
 
@@ -161,9 +161,9 @@ Hi Holberton!
 
 I'm Frances. I'm currently majoring in Computer Science at Cornell Tech and consider myself both a budding developer/designer.
 
-I've been in love with the tech field for about 5 years now (basically since my junior year of high school) and despite usually being the only minority female in the room a lot of the time, I can't think of ever wanting to leave. 
+I've been in love with the tech field for about 5 years now (basically since my junior year of high school) and despite usually being the only minority female in the room a lot of the time, I can't think of ever wanting to leave.
 
-I'm super passionate about publishing just about anything I make online - either via GitHub Pages, Behance, Speaker Deck, Scribd, Devpost, YouTube, or just my own personal portfolio. 
+I'm super passionate about publishing just about anything I make online - either via GitHub Pages, Behance, Speaker Deck, Scribd, Devpost, YouTube, or just my own personal portfolio.
 
 In my spare time, I actively chase conferences, Meetups, hackathons, and try to speak at events myself whenever I get the opportunity.
 
@@ -193,11 +193,11 @@ I would recommend using the game Lightbot to prepare. A bulk of their admissions
 * orientation - second week of September
 * writing book - gamification on education - Lee Sheldon - multi-player classroom
 
-## [Ada Developers Academy](http://adadevelopersacademy.org/)
+## [Ada Developers Academy](https://adadevelopersacademy.org/)
 
 ## [Turing School](https://www.turing.io)
 
-## [Galvanize](http://www.galvanize.com/)
+## [Galvanize](https://www.galvanize.com/)
 
 ## Learner's Guild
 
@@ -213,7 +213,7 @@ https://s3-us-west-2.amazonaws.com/horizonsacademy/Horizons+One+-+Program+Overvi
 
 ---
 
-If you are interested in something other than Computer Science, [MissionU](http://www.missionu.com/) offers a one year program in **Data Analytics + Business Intelligence**. It has a tuition deferral model which means you only pay once you get a salary of at least $50K.
+If you are interested in something other than Computer Science, [MissionU](https://www.missionu.com/) offers a one year program in **Data Analytics + Business Intelligence**. It has a tuition deferral model which means you only pay once you get a salary of at least $50K.
 
 ---
 
@@ -233,14 +233,14 @@ Even the creator of *[“Cracking the Coding Interview”](https://www.amazon.co
 
 **But a key pain point** for a lot of potential students is whether or not they’ll really be able to get a job right afterward and how **trustworthy** it is.
 
-To combat this, in early 2015, a group of coding schools sent a letter to President Obama, [pledging to release standardized and audited outcome reports](http://thenesta.org/). That never happened. 😞
+To combat this, in early 2015, a group of coding schools sent a letter to President Obama, [pledging to release standardized and audited outcome reports](https://thenesta.org/). That never happened. 😞
 
-As of today, [*Flatiron is still one of the very few coding bootcamps*](http://blog.flatironschool.com/announcing-flatiron-schools-2015-jobs-report/) in the world with an independently verified job placement report for all graduates. 💼
+As of today, [*Flatiron is still one of the very few coding bootcamps*](https://blog.flatironschool.com/announcing-flatiron-schools-2015-jobs-report/) in the world with an independently verified job placement report for all graduates. 💼
 
 This app would make that a reality for all coding bootcamps by automatically parsing information from LinkedIn and Glassdoor in order to **predict job placement salary** based off of **publicly available alumni and job salary data**. 🎉
 
 The app can also validate alumni reviews by **aggregating them** from across the web where they are posted (Yelp, Quora, Course Report, techendo, etc.) and filtering to include only **unique reviews**. 🎉🎉
 
-Ultimately, the goal is to add a layer of trustworthiness to coding bootcamps which as of right now, have *[no standard measurements for job placement rates](http://www.ibtimes.com/code-boot-camps-fail-obama-unaudited-stats-cast-doubt-success-rates-2301188) *with some going as far as *[trying to hide negative reviews](https://www.reddit.com/r/cscareerquestions/comments/2h6abk/are_coding_bootcamp_horror_stories_common/)*.👺
+Ultimately, the goal is to add a layer of trustworthiness to coding bootcamps which as of right now, have *[no standard measurements for job placement rates](https://www.ibtimes.com/code-boot-camps-fail-obama-unaudited-stats-cast-doubt-success-rates-2301188) *with some going as far as *[trying to hide negative reviews](https://www.reddit.com/r/cscareerquestions/comments/2h6abk/are_coding_bootcamp_horror_stories_common/)*.👺
 
-The demand for this kind of product is very high and here are two recent articles that speak more on this: *[Could coding boot camps see stricter standards?](http://www.myajc.com/news/technology/could-coding-boot-camps-see-stricter-standards/ns4kQ/) *(Nov 2016) and *[Students are demanding the facts about coding bootcamps](https://techcrunch.com/2016/06/25/students-are-demanding-the-facts-about-coding-bootcamps/)* (Aug 2016). 📰
+The demand for this kind of product is very high and here are two recent articles that speak more on this: *[Could coding boot camps see stricter standards?](https://www.myajc.com/news/technology/could-coding-boot-camps-see-stricter-standards/ns4kQ/) *(Nov 2016) and *[Students are demanding the facts about coding bootcamps](https://techcrunch.com/2016/06/25/students-are-demanding-the-facts-about-coding-bootcamps/)* (Aug 2016). 📰

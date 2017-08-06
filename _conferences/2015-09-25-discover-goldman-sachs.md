@@ -13,7 +13,7 @@ gallery:
 
 > Name
 
-## <a title="Discover Goldman Sachs" href="http://www.goldmansachs.com/careers/why-goldman-sachs/diversity/diversity-us.html" target="_blank">Discover Goldman Sachs</a>
+## <a title="Discover Goldman Sachs" href="https://www.goldmansachs.com/careers/why-goldman-sachs/diversity/diversity-us.html" target="_blank">Discover Goldman Sachs</a>
 
 > Organizer
 

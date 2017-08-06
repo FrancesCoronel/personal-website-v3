@@ -42,7 +42,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
 
 ------------------------------------------------------------------------
 
-1.  [Codecademy](http://codecademy.com/)\
+1.  [Codecademy](https://codecademy.com/)\
 
     > Codecademy is an online interactive platform that offers free
     > coding classes in six different programming languages like Python,
@@ -51,16 +51,16 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     >
     > ![](https://s3.amazonaws.com/codecademy-blog/assets/03-2013-new-experience.png){.aligncenter}
 
-2.  [Code School](http://codeschool.com/)\
+2.  [Code School](https://codeschool.com/)\
 
     > Code School is an online learning platform that teaches a variety
     > of programming and web design skills. Courses range from beginner
     > to advanced levels and you get to earn rewards and badges as you
     > learn.
     >
-    > ![](http://orm-chimera-prod.s3.amazonaws.com/1234000001682/images/codeschool_jquery.png){.aligncenter}
+    > ![](https://orm-chimera-prod.s3.amazonaws.com/1234000001682/images/codeschool_jquery.png){.aligncenter}
 
-3.  [Treehouse](http://teamtreehouse.com/)\
+3.  [Treehouse](https://teamtreehouse.com/)\
 
     > Treehouse is the fastest, easiest way to learn to code, make apps,
     > and start a business. Tutorials in CSS, HTML, Ruby, JavaScript,
@@ -71,7 +71,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > .size-large .aligncenter width="660"
     > height="370"}](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-06-25.png)
 
-4.  [Typing.io](http://typing.io/)\
+4.  [Typing.io](https://typing.io/)\
 
     > Typing.io is a typing tutor/trainer for programmers. Typing.io’s
     > lessons are based on open source code, allow you to practice
@@ -79,15 +79,15 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     >
     > ![](https://www.bram.us/wordpress/wp-content/uploads/2013/12/typingio.png){.aligncenter}
 
-5.  [CodeCombat](http://codecombat.com/)\
+5.  [CodeCombat](https://codecombat.com/)\
 
     > Learn programming with a multiplayer live coding strategy game for
     > beginners. Learn Python or JavaScript as you defeat ogres, solve
     > mazes, and level up.
     >
-    > ![](http://d212dsb2sdisoj.cloudfront.net/wp-content/uploads/2013/10/logo64.jpg){.aligncenter}
+    > ![](https://d212dsb2sdisoj.cloudfront.net/wp-content/uploads/2013/10/logo64.jpg){.aligncenter}
 
-6.  [codewars](http://codewars.com/)\
+6.  [codewars](https://codewars.com/)\
 
     > Codewars is a collective effort by its users. They are creators -
     > authoring kata to teach various techniques, solving kata with
@@ -97,7 +97,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     >
     > ![](https://ciblogassets.s3.amazonaws.com/crowdblog/asset/214/codewars3.png){.aligncenter}
 
-7.  [Online Python Tutor](http://pythontutor.com/)\
+7.  [Online Python Tutor](https://pythontutor.com/)\
 
     > Online Python Tutor is a free educational tool created by Philip
     > Guo that helps students overcome a fundamental barrier to learning
@@ -112,14 +112,14 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > .size-large .aligncenter width="660"
     > height="578"}](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-54-57.png)
 
-8.  [coderbyte](http://coderbyte.com)\
+8.  [coderbyte](https://coderbyte.com)\
 
     > Coderbyte is a web application built to help people practice their
     > programming skills with our collection of programming challenges.
     >
     > ![](https://s3.amazonaws.com/ksr/assets/000/379/626/6fd69aceb1070555dacf846ed296d84f_large.png?1360397775){.aligncenter}
 
-9.  [Learn Python The Hard Way](http://learnpythonthehardway.org)\
+9.  [Learn Python The Hard Way](https://learnpythonthehardway.org)\
 
     > Read by 1.5 million people a year to learn the basics of
     > programming, Learn Python The Hard Way is the most successful
@@ -127,7 +127,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     >
     > ![](https://www.kno.com/images/book-jackets/9780133124330.jpg){.aligncenter}
 
-10. [Eloquent JavaScript](http://eloquentjavascript.net)\
+10. [Eloquent JavaScript](https://eloquentjavascript.net)\
 
     > Eloquent JavaScript goes beyond the cut-and-paste scripts of the
     > recipe books and teaches you to write code that’s elegant and
@@ -136,10 +136,10 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > structures. Then you’ll dive into the real JavaScript artistry:
     > higher-order functions, closures, and object-oriented programming.
     >
-    > ![](http://eloquentjavascript.net/img/cover.png){.aligncenter}
+    > ![](https://eloquentjavascript.net/img/cover.png){.aligncenter}
 
 11. [Jumpstart Lab JavaScript
-    Tutorial](http://tutorials.jumpstartlab.com/projects/javascript)\
+    Tutorial](https://tutorials.jumpstartlab.com/projects/javascript)\
 
     > Whether you’re a back-end dev, front-end dev or designer, Jump
     > Start JavaScript is the perfect primer to what may be the single
@@ -150,7 +150,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > .size-large .aligncenter width="660"
     > height="482"}](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-20-41-12.png)
 
-12. [SUPERHERO.JS](http://superherojs.com)\
+12. [SUPERHERO.JS](https://superherojs.com)\
 
     > A collection of the best articles, videos and presentations about
     > creating, testing and maintaining a large JavaScript code base.
@@ -159,7 +159,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > .wp-image-1303 .size-large width="660"
     > height="372"}](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-20-42-401.png)
 
-13. [The Odin Project](http://www.theodinproject.com/home)\
+13. [The Odin Project](https://www.theodinproject.com/home)\
 
     > The Odin Project is one of those “What I wish I had when I was
     > learning” resources. Not everyone has access to a computer science
@@ -168,10 +168,10 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > designed to fill in the gap for people who are trying to hack it
     > on their own but still want a high quality education.
     >
-    > ![](http://airpair-blog.s3.amazonaws.com/wp-content/uploads/2014/04/The-Odin-Project-Open-Sourced-Free-Curriculum.png){.aligncenter}
+    > ![](https://airpair-blog.s3.amazonaws.com/wp-content/uploads/2014/04/The-Odin-Project-Open-Sourced-Free-Curriculum.png){.aligncenter}
 
 14. [[Cracking the Coding
-    Interview]{style="color:#1b8be0;"}](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)\
+    Interview]{style="color:#1b8be0;"}](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)\
 
     > Now in the 5th edition, Cracking the Coding Interview gives you
     > the interview preparation you need to get the top software
@@ -180,9 +180,9 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > over 500 pages and includes 150 programming interview questions
     > and answers, as well as other advice.
     >
-    > ![](http://ecx.images-amazon.com/images/I/41wgksZup2L.jpg){.aligncenter}
+    > ![](https://ecx.images-amazon.com/images/I/41wgksZup2L.jpg){.aligncenter}
 
-15. [HTML & CSS](http://www.htmlandcssbook.com)\
+15. [HTML & CSS](https://www.htmlandcssbook.com)\
 
     > Programming books can often look rather intimidating and
     > uninspiring, but they do not need to be. We wanted to redesign the
@@ -192,10 +192,10 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > it belongs in the graphic design section rather than the
     > programming section of a bookstore.
     >
-    > ![](http://cdn.tripwiremagazine.com/wp-content/uploads/2012/05/html-css-design-build-websites.jpg){.aligncenter}
+    > ![](https://cdn.tripwiremagazine.com/wp-content/uploads/2012/05/html-css-design-build-websites.jpg){.aligncenter}
 
 ------------------------------------------------------------------------
 
 > Tips or tricks?
 >
-> > contact me [@fvcproductions](http://twitter.com/fvcproductions)
+> > contact me [@fvcproductions](https://twitter.com/fvcproductions)

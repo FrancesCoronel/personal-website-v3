@@ -22,7 +22,7 @@ header:
 
 - <i>LinkedIn</i> <code><a href="https://www.linkedin.com/company/product-school" target="_blank">product-school</a></code>
 - <i>Twitter</i> <code><a href="https://twitter.com/productschool" target="_blank">@productschool</a></code>
-- <i>Website</i> <code><a href="http://productschool.com" target="_blank">productschool.com</a></code>
+- <i>Website</i> <code><a href="https://productschool.com" target="_blank">productschool.com</a></code>
 
 
 ![logo](https://cdn.evbuc.com/eventlogos/110662633/pslogoeventimage.png)
@@ -47,7 +47,7 @@ courses in San Francisco, Silicon Valley, New York and Los Angeles.
 
 Overall, my experience with Product School was pretty great. I learned a
 lot of practical material from my instructor, [Christopher
-Andersson](http://linkedin.com/in/christopherandersson).
+Andersson](https://linkedin.com/in/christopherandersson).
 
 To be honest, though, I initially thought the content was too mediocre
 and was considering dropping the class. Despite this, I was encouraged

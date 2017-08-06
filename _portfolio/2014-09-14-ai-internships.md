@@ -16,7 +16,7 @@ Dealing With A.I. {#dealing-with-a.i. style="text-align:center;"}
 
  
 
-Written and generated with **[Byword](http://bywordapp.com)**
+Written and generated with **[Byword](https://bywordapp.com)**
 
 > > This list provides **undergrad-level** internships/fellowships
 > > located in the US that deal with *machine learning, multi-agent
@@ -68,9 +68,9 @@ Index {#section-index}
 ------------------------------------------------------------------------
 
 ![center for visual
-science](http://www.cvs.rochester.edu/assets/images/UR-logo.png){.aligncenter}
+science](https://www.cvs.rochester.edu/assets/images/UR-logo.png){.aligncenter}
 
-### [Center For Visual Science at University of Rochester](http://www.cvs.rochester.edu/index.php) {#section-centerforvisualscience}
+### [Center For Visual Science at University of Rochester](https://www.cvs.rochester.edu/index.php) {#section-centerforvisualscience}
 
 > **About**
 >
@@ -80,7 +80,7 @@ science](http://www.cvs.rochester.edu/assets/images/UR-logo.png){.aligncenter}
 > > excellence in vision research.
 
 -   [Undergraduate Summer Fellowship Program in Vision
-    Science](http://www.cvs.rochester.edu/training/undergraduate/fellowships/index.html)
+    Science](https://www.cvs.rochester.edu/training/undergraduate/fellowships/index.html)
     -   undergraduates in their junior (3rd) year of baccalaureate
         studies
     -   interested in neuroscience, cognitive science, artificial
@@ -92,7 +92,7 @@ science](http://www.cvs.rochester.edu/assets/images/UR-logo.png){.aligncenter}
 
 ![fusemachines](https://workablehr.s3.amazonaws.com/uploads/account/logo/5940/large_Logo_FM.png){.aligncenter}
 
-### [Fusemachines](http://fusemachines.com) {#section-fusemachines}
+### [Fusemachines](https://fusemachines.com) {#section-fusemachines}
 
 > **About**
 >
@@ -102,14 +102,14 @@ science](http://www.cvs.rochester.edu/assets/images/UR-logo.png){.aligncenter}
 > > deep real time insights into customer behaviour.
 
 -   No current internships available now, but click this
-    [link](http://fusemachines.workable.com) to go directly to their
+    [link](https://fusemachines.workable.com) to go directly to their
     career portal.
 
 ------------------------------------------------------------------------
 
-![gridspace](http://www.gridspace.com/assets/logo-alt.png){.aligncenter}
+![gridspace](https://www.gridspace.com/assets/logo-alt.png){.aligncenter}
 
-### [Gridspace](http://www.gridspace.com) {#section-gridspace}
+### [Gridspace](https://www.gridspace.com) {#section-gridspace}
 
 > **About**
 >
@@ -117,14 +117,14 @@ science](http://www.cvs.rochester.edu/assets/images/UR-logo.png){.aligncenter}
 > > for businesses.
 
 -   No current internships available now, but click this
-    [link](http://www.gridspace.com/company-careers) to go directly to
+    [link](https://www.gridspace.com/company-careers) to go directly to
     their career portal.
 
 ------------------------------------------------------------------------
 
-![ibm](http://www.alohaonrails.com/wp-content/uploads/2009/07/ibm-logo-black_r_large.png){.aligncenter}
+![ibm](https://www.alohaonrails.com/wp-content/uploads/2009/07/ibm-logo-black_r_large.png){.aligncenter}
 
-### [IBM](http://www.ibm.com/us/en/) {#section-ibm}
+### [IBM](https://www.ibm.com/us/en/) {#section-ibm}
 
 > **About**
 >
@@ -169,9 +169,9 @@ science](http://www.cvs.rochester.edu/assets/images/UR-logo.png){.aligncenter}
 
 ------------------------------------------------------------------------
 
-![iRobot](http://giveaway.komando.com/images_prize/iRobot-logo-green300(3).png){.aligncenter}
+![iRobot](https://giveaway.komando.com/images_prize/iRobot-logo-green300(3).png){.aligncenter}
 
-### [iRobot](http://www.irobot.com) {#section-irobot}
+### [iRobot](https://www.irobot.com) {#section-irobot}
 
 > **About**
 >
@@ -195,28 +195,28 @@ science](http://www.cvs.rochester.edu/assets/images/UR-logo.png){.aligncenter}
 
 ------------------------------------------------------------------------
 
-![miri](http://intelligence.org/wp-content/uploads/2013/02/miri_horizontal_even.png){.aligncenter}
+![miri](https://intelligence.org/wp-content/uploads/2013/02/miri_horizontal_even.png){.aligncenter}
 
-### [MIRI: Machine Intelligence Research Institute](http://intelligence.org/#) {#section-miri}
+### [MIRI: Machine Intelligence Research Institute](https://intelligence.org/#) {#section-miri}
 
 > **About**
 >
 > > MIRI exists to ensure that the creation of smarter-than-human
 > > intelligence has a positive impact.
 
--   [Internship](http://intelligence.org/get-involved/#intern)
+-   [Internship](https://intelligence.org/get-involved/#intern)
     -   have a passion for MIRI’s work and mission
     -   earned 250 points as a
-        [volunteer](http://intelligence.org/get-involved/#volunteer)
+        [volunteer](https://intelligence.org/get-involved/#volunteer)
     -   read everything in the
-        [Learn](http://intelligence.org/get-involved/#learn) section
+        [Learn](https://intelligence.org/get-involved/#learn) section
     -   be self-directed and have ability to get things done when mostly
         unsupervised
     -   be willing to do mundane work some of the time
 
 ------------------------------------------------------------------------
 
-![nationalsecurityagency.png](http://consortiumnews.com/wp-content/uploads/2011/11/nationalsecurityagency.png){.aligncenter}
+![nationalsecurityagency.png](https://consortiumnews.com/wp-content/uploads/2011/11/nationalsecurityagency.png){.aligncenter}
 
 ### [NSA: National Security Agency](https://www.nsa.gov) {#section-nsa}
 
@@ -238,9 +238,9 @@ science](http://www.cvs.rochester.edu/assets/images/UR-logo.png){.aligncenter}
 
 ------------------------------------------------------------------------
 
-![numenta.png](http://numenta.com/assets/img/logo/numenta.png){.aligncenter}
+![numenta.png](https://numenta.com/assets/img/logo/numenta.png){.aligncenter}
 
-### [Numenta](http://www.numenta.com) {#section-numenta}
+### [Numenta](https://www.numenta.com) {#section-numenta}
 
 > **About**
 >
@@ -248,7 +248,7 @@ science](http://www.cvs.rochester.edu/assets/images/UR-logo.png){.aligncenter}
 > > and numerous applications all based on principles of the neocortex.
 
 -   [Algorithms
-    Internships](http://www.numenta.com/careers/#careers-intern)
+    Internships](https://www.numenta.com/careers/#careers-intern)
     -   experience with machine learning or pattern recognition
         algorithms
     -   strong experience with conducting machine learning experiments -
@@ -261,7 +261,7 @@ science](http://www.cvs.rochester.edu/assets/images/UR-logo.png){.aligncenter}
         NuPIC or have contributed to the NuPIC community
     -   experience with data analytics
 -   [Software
-    Internships](http://www.numenta.com/careers/#careers-intern)
+    Internships](https://www.numenta.com/careers/#careers-intern)
     -   excellent programming skills in at least one language,
         preferably Java, Python or C++
     -   enrolled in undergraduate or graduate studies in CS, EE or
@@ -275,7 +275,7 @@ science](http://www.cvs.rochester.edu/assets/images/UR-logo.png){.aligncenter}
 
 ------------------------------------------------------------------------
 
-![logo-header-predikt.png](http://www.predikt.com/assets/logo-header-predikt.png){.aligncenter}
+![logo-header-predikt.png](https://www.predikt.com/assets/logo-header-predikt.png){.aligncenter}
 
 ### [Predikt](https://www.predikt.co/) {#section-predikt}
 
@@ -291,9 +291,9 @@ science](http://www.cvs.rochester.edu/assets/images/UR-logo.png){.aligncenter}
 
 ------------------------------------------------------------------------
 
-![riverside](http://usgif.org/system/avatars/225/xlarge/Riverside_Research.png?1373638885){.aligncenter}
+![riverside](https://usgif.org/system/avatars/225/xlarge/Riverside_Research.png?1373638885){.aligncenter}
 
-### [Riverside Research](http://www.riversideresearch.org) {#section-riversideresearch}
+### [Riverside Research](https://www.riversideresearch.org) {#section-riversideresearch}
 
 > **About**
 >
@@ -319,9 +319,9 @@ science](http://www.cvs.rochester.edu/assets/images/UR-logo.png){.aligncenter}
 ------------------------------------------------------------------------
 
 ![robotics
-institute](http://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institute_logo.svg/150px-Robotics_Institute_logo.svg.png){.aligncenter}
+institute](https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institute_logo.svg/150px-Robotics_Institute_logo.svg.png){.aligncenter}
 
-### [Robotics Institute at Carnegie Mellon](http://www.ri.cmu.edu/index.html) {#section-roboticscmu}
+### [Robotics Institute at Carnegie Mellon](https://www.ri.cmu.edu/index.html) {#section-roboticscmu}
 
 > **About**
 >
@@ -330,7 +330,7 @@ institute](http://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institut
 > > technologies relevant to industrial and societal tasks.
 
 -   [Robotics Institute Summer Scholars (RISS)
-    Program](http://www.ri.cmu.edu/ri_static_content.html?menu_id=464)
+    Program](https://www.ri.cmu.edu/ri_static_content.html?menu_id=464)
     -   a strong academic record (for example a 3.5 or higher in a 4.0
         GPA scale)
     -   relevant programming (eg. C; C++), robotics experience
@@ -345,9 +345,9 @@ institute](http://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institut
 
 ------------------------------------------------------------------------
 
-![viascience](http://www.weatheranalytics.com/wa/wp-content/uploads/2014/01/company_viascience1.png){.aligncenter}
+![viascience](https://www.weatheranalytics.com/wa/wp-content/uploads/2014/01/company_viascience1.png){.aligncenter}
 
-### [Via Science](http://www.viascience.com) {#section-viascience}
+### [Via Science](https://www.viascience.com) {#section-viascience}
 
 > **About**
 >
@@ -357,21 +357,21 @@ institute](http://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institut
 > > of conditions to shape the future in their favor.
 
 -   No current internships available now, but click this
-    [link](http://www.viascience.com/careers/) to go directly to their
+    [link](https://www.viascience.com/careers/) to go directly to their
     career portal.
 
 ------------------------------------------------------------------------
 
-![vicarious](http://cloudtimes.org/wp-content/uploads/2012/09/vicarious-logo.png){.aligncenter}
+![vicarious](https://cloudtimes.org/wp-content/uploads/2012/09/vicarious-logo.png){.aligncenter}
 
-### [Vicarious](http://www.vicarious.com) {#section-vicarious}
+### [Vicarious](https://www.vicarious.com) {#section-vicarious}
 
 > **About**
 >
 > > Vicarious is building a unified algorithmic architecture to achieve
 > > human-level intelligence in vision, language, and motor control.
 
--   [Software Engineer](http://vicarious.com/sw.html)
+-   [Software Engineer](https://vicarious.com/sw.html)
     -   expert-level proficiency in C++ and Python
     -   experience optimizing the performance of C++ and Python
         applications
@@ -391,7 +391,7 @@ institute](http://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institut
 ### Other Resources {#section-resources}
 
 -   [The World’s Coolest Machine Learning
-    Internships](http://bickson.blogspot.com/2012/01/worlds-coolest-machine-learning.html)\
+    Internships](https://bickson.blogspot.com/2012/01/worlds-coolest-machine-learning.html)\
 
     > What the author, Danny Bickson, has to say:
     >
@@ -432,4 +432,4 @@ Machine Intelligence Landscape\[/caption\]
 > **Tips or Tricks?**
 >
 > Tweet me at
-> [@fvcproductions](http://twitter.com/fvcproductions "FVCproductions on Twitter")
+> [@fvcproductions](https://twitter.com/fvcproductions "FVCproductions on Twitter")

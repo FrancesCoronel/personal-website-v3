@@ -18,7 +18,7 @@ gallery:
 
 > Institution
 
-## <a title="Cornell Tech" href="http://tech.cornell.edu" target="_blank">Cornell Tech</a>
+## <a title="Cornell Tech" href="https://tech.cornell.edu" target="_blank">Cornell Tech</a>
 
 > Location
 
@@ -36,10 +36,10 @@ August 2016 to May 10th, 2017
 
 Cornell Tech is the technology-focused campus of Cornell University located in New York City.
 
-[<i class='fa fa-twitter'></i> @cornell_tech](http://twitter.com/@cornell_tech)
+[<i class='fa fa-twitter'></i> @cornell_tech](https://twitter.com/@cornell_tech)
 {: .btn .btn--twitter}
 
-[<i class='fa fa-linkedin'></i> LinkedIn](http://linkedin.com/company/cornell-tech)
+[<i class='fa fa-linkedin'></i> LinkedIn](https://linkedin.com/company/cornell-tech)
 {: .btn .btn--linkedin}
 
 ### Activities

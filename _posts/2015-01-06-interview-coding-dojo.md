@@ -21,9 +21,9 @@ tags:
 
 \[caption id="" align="aligncenter"
 width="1142"\][![](https://jlau-bucket-1.s3.amazonaws.com/uploads/topic/image/5/coding_dojo.png){width="1142"
-height="476"}](http://codingdojo.com) Fancy.\[/caption\]
+height="476"}](https://codingdojo.com) Fancy.\[/caption\]
 
-Interview with [Coding Dojo](http://www.codingdojo.com) {#interview-with-coding-dojo style="text-align:center;"}
+Interview with [Coding Dojo](https://www.codingdojo.com) {#interview-with-coding-dojo style="text-align:center;"}
 =======================================================
 
 ------------------------------------------------------------------------
@@ -120,21 +120,21 @@ I was accepted! Here’s part of the email they sent me:
 I also have shared my **interview experience** with bootcamps such as
 
 -   [Bitmaker
-    Labs](http://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
+    Labs](https://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
 -   [Coding
-    House](http://fvcproductions.com/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
--   [Designation](http://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+    House](https://fvcproductions.com/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
+-   [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
 -   [Dev
-    League](http://fvcproductions.com/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
+    League](https://fvcproductions.com/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
 -   [Fullstack
-    Academy](http://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+    Academy](https://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
 -   [Hack
-    Reactor](http://fvcproductions.com/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
+    Reactor](https://fvcproductions.com/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
 -   [Maker
-    Square](http://fvcproductions.com/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
+    Square](https://fvcproductions.com/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
 ------------------------------------------------------------------------
 
 Tips or tricks?
 
-> Contact me [@fvcproductions](http://twitter.com/fvcproductions)
+> Contact me [@fvcproductions](https://twitter.com/fvcproductions)

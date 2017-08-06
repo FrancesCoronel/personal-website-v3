@@ -29,7 +29,7 @@ gallery:
 
 > Name
 
-## <a title="DeveloperWeek" href="http://developerweek.com" target="_blank">DeveloperWeek</a>
+## <a title="DeveloperWeek" href="https://developerweek.com" target="_blank">DeveloperWeek</a>
 
 > Organizer
 

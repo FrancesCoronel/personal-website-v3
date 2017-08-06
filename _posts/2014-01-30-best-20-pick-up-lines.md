@@ -43,7 +43,7 @@ I originally made this list January 30, 2014.
 
 I figured I would switch things up a bit since I published a [long list
 of
-insults](http://fvcproductions.wordpress.com/2014/03/04/the-best-50-insults-i-found-online/ "Insults")
+insults](https://fvcproductions.wordpress.com/2014/03/04/the-best-50-insults-i-found-online/ "Insults")
 and so I'm going to go ahead and post some of my favorite pick up lines.
 They're more for amusement's sake than anything else.
 

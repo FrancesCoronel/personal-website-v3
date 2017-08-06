@@ -24,7 +24,7 @@ Might have something to do with human nature in general, though, so interpret it
 
 ### So what's happening nowadays?
 
-> This a [now section](http://nownownow.com/about) and if you have your own site, you should make one, too!
+> This a [now section](https://nownownow.com/about) and if you have your own site, you should make one, too!
 
 - mentoring a student as part of my Fullstack Academy ambassador gig
 - getting ready to move to SF
@@ -32,11 +32,11 @@ Might have something to do with human nature in general, though, so interpret it
 
 ### Where You Can Find My Work 🍓️
 
-- [Behance](http://behance.net/fvcproductions) <i class="fa fa-behance"></i>
-- [GitHub](http://github.com/fvcproductions) <i class="fa fa-github"></i>
+- [Behance](https://behance.net/fvcproductions) <i class="fa fa-behance"></i>
+- [GitHub](https://github.com/fvcproductions) <i class="fa fa-github"></i>
 - [Gravatar](https://en.gravatar.com/fvcproductions) <i class="fa fa-gravatar"></i>
-- [Quora](http://quora.com/profile/Frances-Coronel-1) <i class="fa fa-quora"></i>
-- [LinkedIn](http://linkedin.com/in/fvcproductions) <i class="fa fa-linkedin"></i>
+- [Quora](https://quora.com/profile/Frances-Coronel-1) <i class="fa fa-quora"></i>
+- [LinkedIn](https://linkedin.com/in/fvcproductions) <i class="fa fa-linkedin"></i>
 - [Scribd](https://www.scribd.com/user/194063411/FVCproductions) <i class="fa fa-scribd"></i>
 - [Speaker Deck](https://speakerdeck.com/fvcproductions) <i class="fa fa-speakerdeck"></i>
-- [YouTube](http://youtube.com/+fvcproductions2013) <i class="fa fa-youtube"></i>
+- [YouTube](https://youtube.com/+fvcproductions2013) <i class="fa fa-youtube"></i>

@@ -1,4 +1,4 @@
---- 
+---
 title: "Robopocalypse \\U0001F47E"
 date: 2015-08-05
 ---
@@ -14,9 +14,9 @@ Overview
 I collaborated in a four-person team to create an e-commerce store that
 specializes in selling robots with features such as multi-tenancy,
 admin/merchant dashboards, and social login using [the MEAN
-stack](http://mean.io "MEAN stack"), [the Mandrill
+stack](https://mean.io "MEAN stack"), [the Mandrill
 API](https://mandrillapp.com/api/docs/ "Mandrill API"), and
-[OAuth](http://oauth.net/ "OAuth").
+[OAuth](https://oauth.net/ "OAuth").
 
 > This project was completed on `August 5th, 2015` for the Stackstore
 > phase of Fullstack Academy.

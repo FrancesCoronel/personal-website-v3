@@ -8,7 +8,7 @@ header:
 
 > Employer
 
-## <a title="Accenture Liquid Studio" href="http://accenture.com/us-en/capability-rapid-application-development-studio" target="_blank">Accenture Liquid Studio</a>
+## <a title="Accenture Liquid Studio" href="https://accenture.com/us-en/capability-rapid-application-development-studio" target="_blank">Accenture Liquid Studio</a>
 
 > Location
 

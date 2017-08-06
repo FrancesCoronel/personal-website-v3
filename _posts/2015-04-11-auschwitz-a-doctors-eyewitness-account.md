@@ -83,5 +83,5 @@ an integral source of enlightenment for anyone studying this period in
 history.
 
 Miklos Nyiszli, *[Auschwitz: A Doctor's Eyewitness
-Account](http://www.amazon.com/Auschwitz-A-Doctors-Eyewitness-Account/dp/161145011X "Auschwitz: A Doctor's Eyewitness")*
+Account](https://www.amazon.com/Auschwitz-A-Doctors-Eyewitness-Account/dp/161145011X "Auschwitz: A Doctor's Eyewitness")*
 (Arcade Publishing, 2007).

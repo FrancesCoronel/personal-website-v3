@@ -19,7 +19,7 @@ gallery:
 
 > Name
 
-# <a title="AlterConf NYC" href="http://alterconf.com" target="_blank">AlterConf NYC</a>
+# <a title="AlterConf NYC" href="https://alterconf.com" target="_blank">AlterConf NYC</a>
 
 > Organizer
 
@@ -41,9 +41,9 @@ Freelance Blogger, Participant
 
 ![Intro](https://fvcproductions.files.wordpress.com/2017/01/alterconf.gif)
 
-[AlterConf](http://alterconf.com/) is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
+[AlterConf](https://alterconf.com/) is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
 
-About a month ago, I was honored to have the opportunity to freelance blog for [AlterConf NYC](http://www.alterconf.com/conferences/nyc-2016) in December 2016. The conference left me inspired and less alone, as technologists from all walks of life surrounded me throughout the conference.
+About a month ago, I was honored to have the opportunity to freelance blog for [AlterConf NYC](https://www.alterconf.com/conferences/nyc-2016) in December 2016. The conference left me inspired and less alone, as technologists from all walks of life surrounded me throughout the conference.
 
 Indeed, AlterConf was hands down the MOST diverse conference I have ever attended and I find this aspect to be more important than ever, especially considering what the year 2016 has brought us.
 

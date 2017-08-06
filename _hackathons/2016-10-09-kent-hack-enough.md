@@ -47,5 +47,5 @@ ids="5026,4958,4959,4961,4962,4963,4964,4965"\]
 -   Devpost Hack
     [`devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v`](https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v)
 -   Twitter [`@kenthackenough`](https://twitter.com/kenthackenough)
--   Website [`2016.khe.io`](http://2016.khe.io/)
+-   Website [`2016.khe.io`](https://2016.khe.io/)
 

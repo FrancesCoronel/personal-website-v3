@@ -18,7 +18,7 @@ header:
 .size-full .wp-image-3660 width="750"
 height="978"}](https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png)
 
-![](http://www.ripleys.com/wp-content/uploads/2014/05/download-on-ibooks.png){.aligncenter}
+![](https://www.ripleys.com/wp-content/uploads/2014/05/download-on-ibooks.png){.aligncenter}
 
 Essentially, [*Pursuit of
 Knowledge*](https://itunes.apple.com/us/book/pursuit-of-knowledge/id1073378182?ls=1&mt=11)
@@ -49,4 +49,4 @@ orderby="rand"\]
 
 ### Tools
 
--   [iBooks Author](http://www.apple.com/ibooks-author/)
+-   [iBooks Author](https://www.apple.com/ibooks-author/)

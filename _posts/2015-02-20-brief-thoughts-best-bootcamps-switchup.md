@@ -22,10 +22,10 @@ tags:
 > [here](https://www.switchup.org/research/best-coding-bootcamps).
 >
 > > Tech Cocktail also went over it and [ranked it by \# of highest/most
-> > reviews](http://tech.co/top-33-coding-bootcamps-2015-02). The Tech
+> > reviews](https://tech.co/top-33-coding-bootcamps-2015-02). The Tech
 > > Cocktail list has 33 schools listed even though Switchup has 32
 > > listed. I went with 32. [Fullstack
-> > Academy](http://www.fullstackacademy.com/) got 3rd place! 😊
+> > Academy](https://www.fullstackacademy.com/) got 3rd place! 😊
 >
 > A map of these bootcamps along with many others can be found
 > [here](https://www.google.com/maps/d/viewer?mid=zIblKEWM9BnY.kF6pHtgPUlIo).
@@ -38,14 +38,14 @@ tags:
 > > > > in place here…
 >
 > Also, I’d recommend checking out this Quora [Has anyone had a bad
-> experience at a programming bootcamp?](http://qr.ae/EXqFt) and some
+> experience at a programming bootcamp?](https://qr.ae/EXqFt) and some
 > Reddit threads for horror stories.
 
 Best Physical Bootcamps from SwitchUp
 -------------------------------------
 
 1.  [Anyone Can Learn to
-    Code](http://anyonecanlearntocode.com/ "Anyone Can Learn to Code")
+    Code](https://anyonecanlearntocode.com/ "Anyone Can Learn to Code")
     (Chicago)
     -   Course Report ([6
         Reviews](https://www.coursereport.com/schools/anyone-can-learn-to-code#/reviews))
@@ -56,7 +56,7 @@ Best Physical Bootcamps from SwitchUp
         ⭐️⭐️⭐️⭐️⭐️ 5/5
     -   Techendo (N/A)
     -   Yelp (N/A)
-2.  [App Academy](http://www.appacademy.io/#p-home) (New York City, San
+2.  [App Academy](https://www.appacademy.io/#p-home) (New York City, San
     Francisco)
     -   Course Report ([4
         Reviews](https://www.coursereport.com/schools/app-academy#/about))
@@ -69,7 +69,7 @@ Best Physical Bootcamps from SwitchUp
     -   Techendo ([8 Positive, 2
         Negative](https://schools.techendo.com/schools/app-academy))
     -   Yelp ([22
-        Reviews](http://www.yelp.com/biz/app-academy-san-francisco))
+        Reviews](https://www.yelp.com/biz/app-academy-san-francisco))
         ⭐️⭐️⭐️⭐️⭐️ 5/5
 3.  [Bitmaker Labs](https://bitmakerlabs.com/) (Toronto)
     -   I can attest to these guys positively at least for their
@@ -101,7 +101,7 @@ Best Physical Bootcamps from SwitchUp
         Reviews](https://www.switchup.org/bootcamps/code-fellows))
         ⭐️⭐️⭐️⭐️ 4/5
     -   Techendo (N/A)
-    -   Yelp ([1 Review](http://www.yelp.com/biz/code-fellows-seattle))
+    -   Yelp ([1 Review](https://www.yelp.com/biz/code-fellows-seattle))
         ⭐️⭐️⭐️⭐️⭐️ 5/5
 5.  [Coder Camps](https://www.codercamps.com/) (Houston)
     -   Course Report ([5
@@ -114,7 +114,7 @@ Best Physical Bootcamps from SwitchUp
     -   Techendo ([2 Positive, 1
         Negative](https://schools.techendo.com/schools/coder-camps))
     -   Yelp (N/A)
-6.  [Coder Foundry](http://www.coderfoundry.com/) (Greensboro)
+6.  [Coder Foundry](https://www.coderfoundry.com/) (Greensboro)
     -   Course Report ([13
         Reviews](https://www.coursereport.com/schools/coder-foundry#/about))
     -   Quora (N/A)
@@ -123,7 +123,7 @@ Best Physical Bootcamps from SwitchUp
         ⭐️⭐️⭐️⭐️⭐️ 5/5
     -   Techendo (N/A)
     -   Yelp (N/A)
-7.  [Codeup](http://codeup.com/) (San Antonio)
+7.  [Codeup](https://codeup.com/) (San Antonio)
     -   Course Report ([2
         Reviews](https://www.coursereport.com/schools/codeup#/about))
     -   Quora ([4 Reviews](https://www.quora.com/Reviews-of-Codeup)
@@ -133,7 +133,7 @@ Best Physical Bootcamps from SwitchUp
     -   Techendo ([3 Positive, 0
         Negative](https://schools.techendo.com/schools/codeup))
     -   Yelp (N/A)
-8.  [Coding Campus](http://codingcamp.us/) (Provo, Akron)
+8.  [Coding Campus](https://codingcamp.us/) (Provo, Akron)
     -   Course Report ([4
         Reviews](https://www.coursereport.com/schools/coding-campus#/about))
     -   Quora (N/A)
@@ -142,7 +142,7 @@ Best Physical Bootcamps from SwitchUp
         ⭐️⭐️⭐️⭐️⭐️ 5/5
     -   Techendo (N/A)
     -   Yelp (N/A)
-9.  [Coding Dojo](http://www.codingdojo.com/) (San Jose, Seattle, LA,
+9.  [Coding Dojo](https://www.codingdojo.com/) (San Jose, Seattle, LA,
     Silicon Valley, San Francisco)
     -   I applied to the Dojo this year and think they have a solid
         program for true beginners. I’m not sure if they’re challenging
@@ -158,9 +158,9 @@ Best Physical Bootcamps from SwitchUp
     -   Techendo ([2 Positive, 0
         Negative](https://schools.techendo.com/schools/coding-dojo))
     -   Yelp ([3
-        Reviews](http://www.yelp.com/biz/coding-dojo-mountain-view))
+        Reviews](https://www.yelp.com/biz/coding-dojo-mountain-view))
         ⭐️⭐️⭐️⭐️⭐️ 5/5
-10. [Designation](http://designation.io/) (Chicago)
+10. [Designation](https://designation.io/) (Chicago)
     -   The admissions officer for this program, Will, is really cool.
         He’s just so full of zest. I’d definitely recommend this program
         to people interested in graphic design because at the least,
@@ -173,9 +173,9 @@ Best Physical Bootcamps from SwitchUp
         Reviews](https://www.switchup.org/bootcamps/designation)
         ⭐️⭐️⭐️⭐️⭐️ 5/5
     -   Techendo (N/A)
-    -   Yelp ([4 Reviews](http://www.yelp.com/biz/designation-chicago))
+    -   Yelp ([4 Reviews](https://www.yelp.com/biz/designation-chicago))
         ⭐️⭐️⭐️⭐️⭐️ 5/5
-11. [Dev Bootcamp](http://devbootcamp.com/) (Chicago, New York, San
+11. [Dev Bootcamp](https://devbootcamp.com/) (Chicago, New York, San
     Francisco)
     -   I applied to these guys actually back in 2013 too but never
         finished the application process.
@@ -190,9 +190,9 @@ Best Physical Bootcamps from SwitchUp
     -   Techendo ([5 Positive, 2
         Negative](https://schools.techendo.com/schools/dev-bootcamp))
     -   Yelp ([13
-        Reviews](http://www.yelp.com/biz/dev-bootcamp-san-francisco))
+        Reviews](https://www.yelp.com/biz/dev-bootcamp-san-francisco))
         ⭐️⭐️⭐️⭐️⭐️ 5/5
-12. [Dev League](http://www.devleague.com/) (Honolulu)
+12. [Dev League](https://www.devleague.com/) (Honolulu)
     -   The founders of this program are awesome! Paradise and coding?
         They already know what’s up. I wrote about the admissions
         process here.
@@ -215,7 +215,7 @@ Best Physical Bootcamps from SwitchUp
     -   Techendo ([35 Positive, 0
         Negative](https://schools.techendo.com/schools/epicodus))
     -   Yelp (N/A)
-14. [Founders and Coders](http://foundersandcoders.org/) (London)
+14. [Founders and Coders](https://foundersandcoders.org/) (London)
     -   Course Report ([1
         Review](https://www.coursereport.com/schools/founders-coders))
     -   Quora (N/A)
@@ -224,7 +224,7 @@ Best Physical Bootcamps from SwitchUp
         ⭐️⭐️⭐️⭐️⭐️ 5/5
     -   Techendo (N/A)
     -   Yelp (N/A)
-15. [Fullstack Academy](http://www.fullstackacademy.com/) (New York
+15. [Fullstack Academy](https://www.fullstackacademy.com/) (New York
     City)
     -   There’s a good chance I’ll be heading here for the summer -
         huzzah! :D
@@ -240,24 +240,24 @@ Best Physical Bootcamps from SwitchUp
     -   Techendo ([4 Positive, 0
         Negative](https://schools.techendo.com/schools/fullstack-academy))
     -   Yelp ([11
-        Reviews](http://www.yelp.com/biz/fullstack-academy-of-code-new-york))
+        Reviews](https://www.yelp.com/biz/fullstack-academy-of-code-new-york))
         ⭐️⭐️⭐️⭐️ 5/5
-16. [Grand Circus](http://www.grandcircus.co/) (Detroit)
+16. [Grand Circus](https://www.grandcircus.co/) (Detroit)
     -   Course Report (N/A)
     -   Quora (N/A)
     -   SwitchUp ([7
         Reviews](https://www.switchup.org/bootcamps/grand-circus)
         ⭐️⭐️⭐️⭐️⭐️ 5/5
     -   Techendo (N/A)
-    -   Yelp ([5 Reviews](http://www.yelp.com/biz/grand-circus-detroit))
+    -   Yelp ([5 Reviews](https://www.yelp.com/biz/grand-circus-detroit))
         ⭐️⭐️⭐️⭐️ 4.5/5
-17. [Hackbright Academy](http://www.hackbrightacademy.com/) (San
+17. [Hackbright Academy](https://www.hackbrightacademy.com/) (San
     Francisco)
     -   I applied here back in 2013 too. They never got back to me after
         the 1st interview, which was weird but at that point I knew I
         wasn’t going to be attending anyhow. Word of caution: there is
         one very critical review that can be found
-        [here](http://www.ashleymcnamara.com/2014/05/06/closing-the-redacted-academy-chapter/).
+        [here](https://www.ashleymcnamara.com/2014/05/06/closing-the-redacted-academy-chapter/).
     -   Course Report (N/A)
     -   Quora (N/A)
     -   SwitchUp ([6
@@ -266,9 +266,9 @@ Best Physical Bootcamps from SwitchUp
     -   Techendo ([2 Positive, 0
         Negative](https://schools.techendo.com/schools/hackbright-academy))
     -   Yelp ([5
-        Reviews](http://www.yelp.com/biz/hackbright-academy-san-francisco)
+        Reviews](https://www.yelp.com/biz/hackbright-academy-san-francisco)
         ⭐️⭐️⭐️⭐️⭐️ 5/5
-18. [Hack Reactor](http://www.hackreactor.com/) (San Francisco)
+18. [Hack Reactor](https://www.hackreactor.com/) (San Francisco)
     -   So many reviews!!!
     -   Course Report ([12
         Reviews](https://www.coursereport.com/schools/hack-reactor))
@@ -281,9 +281,9 @@ Best Physical Bootcamps from SwitchUp
     -   Techendo ([14 Positive, 0
         Negative](https://schools.techendo.com/schools/hack-reactor))
     -   Yelp ([98
-        Reviews](http://www.yelp.com/biz/hack-reactor-san-francisco)
+        Reviews](https://www.yelp.com/biz/hack-reactor-san-francisco)
         ⭐️⭐️⭐️⭐️⭐️ 5/5
-19. [Ironhack](http://www.ironhack.com/en/) (Barcelona, Madrid, Miami)
+19. [Ironhack](https://www.ironhack.com/en/) (Barcelona, Madrid, Miami)
     -   Course Report ([7
         Reviews](https://www.coursereport.com/schools/ironhack))
     -   Quora ([4 Reviews](https://www.quora.com/Reviews-of-Ironhack))
@@ -293,7 +293,7 @@ Best Physical Bootcamps from SwitchUp
         ⭐️⭐️⭐️⭐️⭐️ 5/5
     -   Techendo (N/A)
     -   Yelp (N/A)
-20. [Launch Academy](http://www.launchacademy.com/) (Boston)
+20. [Launch Academy](https://www.launchacademy.com/) (Boston)
     -   Course Report ([9
         Reviews](https://www.coursereport.com/schools/launch-academy))
     -   Quora ([9 Reviews](https://www.quora.com/Launch-Academy))
@@ -304,9 +304,9 @@ Best Physical Bootcamps from SwitchUp
     -   Techendo ([3 Positive, 0
         Negative](https://schools.techendo.com/schools/launch-academy))
     -   Yelp ([5
-        Reviews](http://www.yelp.com/biz/launch-academy-boston)) ⭐️⭐️⭐️
+        Reviews](https://www.yelp.com/biz/launch-academy-boston)) ⭐️⭐️⭐️
         3.5/5
-21. [Le Wagon](http://www.lewagon.org/en) (Paris)
+21. [Le Wagon](https://www.lewagon.org/en) (Paris)
     -   Course Report (N/A)
     -   Quora (N/A)
     -   SwitchUp ([6
@@ -317,7 +317,7 @@ Best Physical Bootcamps from SwitchUp
 22. [Lighthouse Labs](https://www.lighthouselabs.ca/) (Vancouver)
     -   I actually learned about this through Gupta because she did a
         talk at Lighthouse. They also were in charge of
-        [HTML500](http://www.thehtml500.com/), which was pretty
+        [HTML500](https://www.thehtml500.com/), which was pretty
         successful by the looks of it.
     -   Course Report ([3
         Reviews](https://www.coursereport.com/schools/lighthouse-labs))
@@ -328,7 +328,7 @@ Best Physical Bootcamps from SwitchUp
     -   Techendo ([1 Positive, 0
         Negative](https://schools.techendo.com/schools/lighthouse-labs))
     -   Yelp (N/A)
-23. [Makers Academy](http://www.makersacademy.com/) (London)
+23. [Makers Academy](https://www.makersacademy.com/) (London)
     -   Course Report ([1
         Review](https://www.coursereport.com/schools/makers-academy))
     -   Quora ([3
@@ -340,7 +340,7 @@ Best Physical Bootcamps from SwitchUp
     -   Techendo ([2 Positive, 0
         Negative](https://schools.techendo.com/schools/makers-academy))
     -   Yelp (N/A)
-24. [Rocket U](http://rocket-space.com "Rocket Space") (San Francisco)
+24. [Rocket U](https://rocket-space.com "Rocket Space") (San Francisco)
     -   I applied to this program as well, but as with others, I did not
         go through with the interview process.
     -   Course Report ([6
@@ -365,7 +365,7 @@ Best Physical Bootcamps from SwitchUp
     -   Techendo ([7 Positive, 0
         Negative](https://schools.techendo.com/schools/software-craftsmanship-guild))
     -   Yelp (N/A)
-26. [Starter League](http://www.starterleague.com/) (Chicago)
+26. [Starter League](https://www.starterleague.com/) (Chicago)
     -   Course Report ([5
         Reviews](https://www.coursereport.com/schools/starter-league))
     -   Quora (N/A)
@@ -375,9 +375,9 @@ Best Physical Bootcamps from SwitchUp
     -   Techendo ([7 Positive, 0
         Negative](https://schools.techendo.com/schools/software-craftsmanship-guild))
     -   Yelp ([1 Review… that is not
-        recommended](http://www.yelp.com/biz/starter-league-chicago)) ⭐️
+        recommended](https://www.yelp.com/biz/starter-league-chicago)) ⭐️
         1/5
-27. [Startup Institute](http://www.startupinstitute.com/) (Berlin,
+27. [Startup Institute](https://www.startupinstitute.com/) (Berlin,
     Boston, Chicago, London, New York)
     -   Course Report ([2
         Reviews](https://www.coursereport.com/schools/startup-institute))
@@ -389,7 +389,7 @@ Best Physical Bootcamps from SwitchUp
         ⭐️⭐️⭐️⭐️⭐️ 5/5
     -   Techendo (N/A)
     -   Yelp (N/A)
-28. [Tech Talent South](http://techtalentsouth.com/) (Asheville,
+28. [Tech Talent South](https://techtalentsouth.com/) (Asheville,
     Atlanta, Charlotte, Raleigh-Durham, NewOrleans)
     -   Course Report ([3
         Reviews](https://www.coursereport.com/schools/tech-talent-south))
@@ -399,7 +399,7 @@ Best Physical Bootcamps from SwitchUp
         ⭐️⭐️⭐️⭐️⭐️ 5/5
     -   Techendo (N/A)
     -   Yelp (N/A)
-29. [The Flatiron School](http://flatironschool.com) (New York)
+29. [The Flatiron School](https://flatironschool.com) (New York)
     -   I like how these guys actually have a legitimate job report, I
         wish more bootcamps would follow suite.
     -   Course Report ([2
@@ -413,8 +413,8 @@ Best Physical Bootcamps from SwitchUp
     -   Techendo ([13 Positive, 1
         Negative](https://schools.techendo.com/schools/flatiron-school))
     -   Yelp ([1
-        Review](http://www.yelp.com/biz/the-flatiron-school-new-york))
-30. [The Iron Yard](http://theironyard.com/academy/) (Akron, Austin,
+        Review](https://www.yelp.com/biz/the-flatiron-school-new-york))
+30. [The Iron Yard](https://theironyard.com/academy/) (Akron, Austin,
     Atlanta, Charleston, Greenville, Houston, Raleigh-Durham)
     -   Course Report ([11
         Reviews](https://www.coursereport.com/schools/the-iron-yard))
@@ -436,7 +436,7 @@ Best Virtual Bootcamps from Switch Up
         ⭐️⭐️⭐️⭐️ 4/5
     -   Techendo ([1 Positive, 0
         Negative](https://schools.techendo.com/schools/bloc))
-2.  [Thinkful](http://www.thinkful.com/)
+2.  [Thinkful](https://www.thinkful.com/)
     -   Course Report ([10
         Reviews](https://www.coursereport.com/schools/thinkful)
     -   Quora ([3 Reviews](https://www.quora.com/Reviews-of-Thinkful))
@@ -446,7 +446,7 @@ Best Virtual Bootcamps from Switch Up
         ⭐️⭐️⭐️⭐️⭐️ 5/5
     -   Techendo (N/A)
 
-> Even though [Treehouse](http://teamtreehouse.com/) wasn’t listed since
+> Even though [Treehouse](https://teamtreehouse.com/) wasn’t listed since
 > I guess technically it’s not really a bootcamp, I’d definitely
 > recommend it for beginners and then [Code
 > School](https://www.codeschool.com/) for slightly more advanced users.
@@ -454,8 +454,8 @@ Best Virtual Bootcamps from Switch Up
 >
 > I’m in the process of trying out the virtual services
 > [Bento](https://www.bento.io/), [Egghead.io](https://egghead.io/), and
-> [Nodeschool](http://nodeschool.io/) more thoroughly.
+> [Nodeschool](https://nodeschool.io/) more thoroughly.
 
 > Tips or tricks?
 >
-> > contact me [@fvcproductions](http://twitter.com/fvcproductions)
+> > contact me [@fvcproductions](https://twitter.com/fvcproductions)

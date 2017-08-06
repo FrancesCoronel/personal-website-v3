@@ -27,7 +27,7 @@ one relating to some sweet dear honey-eyed robots.**
 **Bam dum - NO! More like some seething damn homicidal eye sentient
 androids. HELL YES - I refer to the one and only... Robopocalypse. Kudos
 goes to the author's (Daniel Wilson by the way - check him
-out: <http://danielhwilson.com/>) writing, kept me on the tips of my
+out: <https://danielhwilson.com/>) writing, kept me on the tips of my
 toes from start to finish the first AND second time reading it. Not so
 much the third to fourth time reading it, but the magic can't always
 stay.**

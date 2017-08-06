@@ -20,8 +20,8 @@ tags:
 ### This is how the completed app looks like.
 
 <figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg" class="image-popup hoverZoomLink"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+	<a href="https://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg" class="image-popup hoverZoomLink"><img src="https://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
+	<figcaption><a href="https://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
 
 ### You will need… {#youwillneed...}
@@ -37,7 +37,7 @@ Installation Process {#installationprocess}
 3.  Clone or download [my sample to-do
     app](https://github.com/fvcproductions/ds-todos)
     -   **Option 1.** Use a GitHub client like
-        [Tower](http://git-tower.com)
+        [Tower](https://git-tower.com)
     -   **Option 2.**
         `git clone https://github.com/fvcproductions/ds-todos.git`
     -   Make note of the file path for this repo by using `pwd`, i.e.
@@ -82,7 +82,7 @@ Installation Process {#installationprocess}
 22. Finally, use `php artisan key:generate` to generate an app key for
     security purposes
 23. At this point, you should be able to head over to
-    `http://ds-todos.app` in your browser and marvel at being able to
+    `https://ds-todos.app` in your browser and marvel at being able to
     set this all up! 🎉
 
 ------------------------------------------------------------------------
@@ -139,7 +139,7 @@ elsewhere so make sure to get the right file path of that app using
     APP_ENV=local
     APP_DEBUG=true
     APP_KEY=SomeRandomString
-    APP_URL=http://localhost
+    APP_URL=https://localhost
 
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1

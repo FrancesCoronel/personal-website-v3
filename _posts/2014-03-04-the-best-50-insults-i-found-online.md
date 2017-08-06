@@ -144,6 +144,6 @@ Last sentence was kinda stupid, but yeah hope you enjoy sucka! :razz:
 
 ##### 48. This is an excellent time for you to become a missing person.
 
-##### 49. You sir are as thick as a damn bull’s walt. :?: (see Urban Dictionary’s [definition](http://www.urbandictionary.com/define.php?term=bull%20walt))
+##### 49. You sir are as thick as a damn bull’s walt. :?: (see Urban Dictionary’s [definition](https://www.urbandictionary.com/define.php?term=bull%20walt))
 
-##### 50. You are the reason some animals eat their young. :idea: (seriously, that’s no joke - it’s on [Wiki](http://en.wikipedia.org/wiki/Infanticide_(zoology))!)
+##### 50. You are the reason some animals eat their young. :idea: (seriously, that’s no joke - it’s on [Wiki](https://en.wikipedia.org/wiki/Infanticide_(zoology))!)

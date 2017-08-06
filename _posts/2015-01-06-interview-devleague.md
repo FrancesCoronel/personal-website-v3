@@ -42,7 +42,7 @@ applied to DevLeague, a new coding bootcamp in Hawaii! ---
 width="660"\]![DevLeague](https://fvcproductions.files.wordpress.com/2015/01/devleague2.jpg){.wp-image-1501
 .size-full width="660" height="154"} Mahalo, indeed.\[/caption\]
 
-My Experience With [DevLeague](http://www.devleague.com "DevLeague") {#my-experience-with-devleague style="text-align:center;"}
+My Experience With [DevLeague](https://www.devleague.com "DevLeague") {#my-experience-with-devleague style="text-align:center;"}
 ====================================================================
 
 > with [Jason
@@ -63,7 +63,7 @@ My Experience With [DevLeague](http://www.devleague.com "DevLeague") {#my-experi
 I decided to apply to DevLeague since they were the first of their kind
 in Hawaii. I have some connection with Hawaii. I’ve actually never been,
 but I was initially going to attend [Hawaii Pacific
-University](http://www.hpu.edu "HPU") as a double major in Computer
+University](https://www.hpu.edu "HPU") as a double major in Computer
 Science and Integrated Multimedia with a very large scholarship. Since I
 had enough credits from high school, I’d still be able to graduate in 4
 years. I even had a party a few months before school started because I
@@ -77,7 +77,7 @@ program.
 > to get to know Hawaii but obviously had no chance for financial
 > reasons. DevLeague would be a practical way to do this. I’m also
 > considering going to [UH at
-> Manoa](http://www.ics.hawaii.edu "UH@Manoa CS") for my grad studies in
+> Manoa](https://www.ics.hawaii.edu "UH@Manoa CS") for my grad studies in
 > CS so there’s that too.
 
 ------------------------------------------------------------------------
@@ -86,7 +86,7 @@ Part 1: The Application 📝
 -------------------------
 
 -   You fill out the virtual application for DevLeague
-    [here](http://www.devleague.com/apply "Apply to DevLeague").
+    [here](https://www.devleague.com/apply "Apply to DevLeague").
 -   Like Fullstack, the application didn’t involve a lot of effort, just
     basic background info (employment, coding abilities, cohort choice)
     and two small essay questions. The essay questions are right
@@ -198,22 +198,22 @@ https://www.facebook.com/permalink.php?story\_fbid=702971763154795&id=4193522148
 I also have shared my **interview experience** with bootcamps such as
 
 -   [Bitmaker
-    Labs](http://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
+    Labs](https://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
 -   [Coding
-    Dojo](http://fvcproductions.com/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
+    Dojo](https://fvcproductions.com/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
 -   [Coding
-    House](http://fvcproductions.com/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
--   [Designation](http://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+    House](https://fvcproductions.com/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
+-   [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
 -   [Fullstack
-    Academy](http://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+    Academy](https://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
 -   [Hack
-    Reactor](http://fvcproductions.com/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
+    Reactor](https://fvcproductions.com/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
 -   [Maker
-    Square](http://fvcproductions.com/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
+    Square](https://fvcproductions.com/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
 ------------------------------------------------------------------------
 
 > Tips or tricks?
 >
 > > Contact me
-> > [@fvcproductions](http://twitter.com/fvcproductions "Twitter - FVCproductions")!
+> > [@fvcproductions](https://twitter.com/fvcproductions "Twitter - FVCproductions")!

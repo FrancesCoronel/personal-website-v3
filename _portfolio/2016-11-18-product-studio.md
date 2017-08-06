@@ -67,14 +67,14 @@ ids="5046,5047,5048,5049,5050,5051,5052,5053,5054,5055"\]
 
   Israel Burns                                                                        Delia Casa                                                                          Frances Coronel                                                           Chumeng Xu
   ----------------------------------------------------------------------------------- ----------------------------------------------------------------------------------- ------------------------------------------------------------------------- -----------------------------------------------------------------------------
-  ![Member 1](https://pbs.twimg.com/profile_images/609842935106899970/9Av-PBUt.jpg)   ![Member 2](https://pbs.twimg.com/profile_images/725295668114427904/WH6iILKF.jpg)   ![Member 3](https://avatars0.githubusercontent.com/u/4284691?v=3&s=466)   ![Member 4](http://2014.igem.org/wiki/images/e/e8/Tsinghua-A_xuchumeng.jpg)
+  ![Member 1](https://pbs.twimg.com/profile_images/609842935106899970/9Av-PBUt.jpg)   ![Member 2](https://pbs.twimg.com/profile_images/725295668114427904/WH6iILKF.jpg)   ![Member 3](https://avatars0.githubusercontent.com/u/4284691?v=3&s=466)   ![Member 4](https://2014.igem.org/wiki/images/e/e8/Tsinghua-A_xuchumeng.jpg)
 
 #### Links
 
 -   **GitHub Repo**
-    [`github.com/fvcproductions/nyt-comm`](http://github.com/fvcproductions/nyt-comm)
+    [`github.com/fvcproductions/nyt-comm`](https://github.com/fvcproductions/nyt-comm)
 -   **About Product Studio**
-    [`tech.cornell.edu/studio`](http://tech.cornell.edu/studio)
+    [`tech.cornell.edu/studio`](https://tech.cornell.edu/studio)
 ---
 title: "Product Studio | Sprint 2
 \\U0001F4F0"
@@ -235,14 +235,14 @@ ids="5041,5042,5043,5044,5045,5040"\]
 
   Delia Casa                                                                          Frances Coronel                                                           Chumeng Xu
   ----------------------------------------------------------------------------------- ------------------------------------------------------------------------- -----------------------------------------------------------------------------
-  ![Member 2](https://pbs.twimg.com/profile_images/725295668114427904/WH6iILKF.jpg)   ![Member 3](https://avatars0.githubusercontent.com/u/4284691?v=3&s=466)   ![Member 4](http://2014.igem.org/wiki/images/e/e8/Tsinghua-A_xuchumeng.jpg)
+  ![Member 2](https://pbs.twimg.com/profile_images/725295668114427904/WH6iILKF.jpg)   ![Member 3](https://avatars0.githubusercontent.com/u/4284691?v=3&s=466)   ![Member 4](https://2014.igem.org/wiki/images/e/e8/Tsinghua-A_xuchumeng.jpg)
 
 #### Links
 
 -   **GitHub Repo**
-    [`github.com/fvcproductions/nyt-comm`](http://github.com/fvcproductions/nyt-comm)
+    [`github.com/fvcproductions/nyt-comm`](https://github.com/fvcproductions/nyt-comm)
 -   **About Product Studio**
-    [`tech.cornell.edu/studio`](http://tech.cornell.edu/studio)
+    [`tech.cornell.edu/studio`](https://tech.cornell.edu/studio)
 ---
 title: "Product Studio | Final Sprint
 \\U0001F4F0"
@@ -367,7 +367,7 @@ Prototype](https://fvcproductions.files.wordpress.com/2016/11/screenshot-2016-11
 height="469"}](https://fvcproductions.files.wordpress.com/2016/11/screenshot-2016-11-28-23-27-57.png)
 Q&A | Prototype\[/caption\]
 
-#### Check out our prototype at [`bit.ly/nyt-qa`](http://bit.ly/nyt-qa)! {#check-out-our-prototype-at--a-target--_blank--href--http:--bit.ly-nyt-qa---code-bit.ly-nyt-qa--code---a--}
+#### Check out our prototype at [`bit.ly/nyt-qa`](https://bit.ly/nyt-qa)! {#check-out-our-prototype-at--a-target--_blank--href--http:--bit.ly-nyt-qa---code-bit.ly-nyt-qa--code---a--}
 
 ### Video of Prototype
 
@@ -552,8 +552,8 @@ Links
 -----
 
 -   **GitHub Repo | Assets**
-    -   [`github.com/fvcproductions/nyt-comm`](http://github.com/fvcproductions/nyt-comm)
+    -   [`github.com/fvcproductions/nyt-comm`](https://github.com/fvcproductions/nyt-comm)
 -   **GitHub Repo | Q&A Prototype**
-    -   [`bit.ly/nyt-qa`](http://bit.ly/nyt-qa)
+    -   [`bit.ly/nyt-qa`](https://bit.ly/nyt-qa)
 -   **About Product Studio**
-    -   [`tech.cornell.edu/studio`](http://tech.cornell.edu/studio)
+    -   [`tech.cornell.edu/studio`](https://tech.cornell.edu/studio)

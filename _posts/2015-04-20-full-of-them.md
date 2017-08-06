@@ -4,12 +4,12 @@ date: 2015-04-20
 excerpt: "I mean, come on people!\\r\\n\\r\\nNOTHING."
 header:
     image: https://fvcproductions.files.wordpress.com/2015/04/maurice-moss-the-it-crowd-24808-1920x1080.jpg?w=1024&h=436&crop=1
-tags: 
+tags:
     - chrome
-    - chrome extensions 
-    - internet trolls 
-    - it crowd 
-    - maurice moss 
+    - chrome extensions
+    - internet trolls
+    - it crowd
+    - maurice moss
     - nothing
 ---
 
@@ -43,4 +43,4 @@ Reviews](https://fvcproductions.files.wordpress.com/2015/04/screenshot-2015-04-2
 BUT SERIOUSLY?
 ==============
 
-[![](http://7770647a14b0867efc75-b939f832d8cd9c860ce8909163419528.r92.cf2.rackcdn.com/125444.jpg){.aligncenter}](http://7770647a14b0867efc75-b939f832d8cd9c860ce8909163419528.r92.cf2.rackcdn.com/125444.jpg)
+[![](https://7770647a14b0867efc75-b939f832d8cd9c860ce8909163419528.r92.cf2.rackcdn.com/125444.jpg){.aligncenter}](https://7770647a14b0867efc75-b939f832d8cd9c860ce8909163419528.r92.cf2.rackcdn.com/125444.jpg)

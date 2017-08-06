@@ -31,7 +31,7 @@ tags:
 > June 29th to July 2nd
 >
 > There are 57 days of [**Fullstack
-> Academy**](http://www.fullstackacademy.com "Fullstack Academy"). These
+> Academy**](https://www.fullstackacademy.com "Fullstack Academy"). These
 > are days 16 through 19 (Week 4). ❤️
 
 ------------------------------------------------------------------------
@@ -53,7 +53,7 @@ Day Two - Tuesday {#daytwo-tuesday}
 
 -   Worked more on this SASS framework - it’s tedious, but as a fellow
     student wisely stated, “it makes you appreciate
-    [`Bootstrap`](http://getbootstrap.com/) a lot more”.
+    [`Bootstrap`](https://getbootstrap.com/) a lot more”.
 -   Afterwards, we had to make the framework responsive, and I feel as
     though this part was almost too easy. We’ll see what happens
     tomorrow.
@@ -100,7 +100,7 @@ Day Four - Thursday {#dayfour-thursday}
     people get to open their eyes and crap so we had to completely start
     over.
     -   If my mind resembled the plot line of the movie
-        [`Inside Out`](http://www.rottentomatoes.com/m/inside_out_2015/ "Inside Out"),
+        [`Inside Out`](https://www.rottentomatoes.com/m/inside_out_2015/ "Inside Out"),
         then that moment of complete *FAIL* would become a hilarious
         core memory. ![Inside
         Out](https://fvcproductions.files.wordpress.com/2015/07/32cea-inside2bout2bpixar2bpost2b2.png){.aligncenter}
@@ -115,11 +115,11 @@ Day Four - Thursday {#dayfour-thursday}
     reality, but I feel I’ve gotten just a tad bit more deceptive
     playing this game. &gt;:)
     -   He’s the original Voldemort!
-        ![Mordred](http://i137.photobucket.com/albums/q231/ivycrowned/Avalon/mordred.jpg){.aligncenter}
+        ![Mordred](https://i137.photobucket.com/albums/q231/ivycrowned/Avalon/mordred.jpg){.aligncenter}
 -   *Side Note* I keep coming up with these small web app ideas every
     week and my desire to implement all of them one by one keeps
     growing. For the mean time though, I’m just keeping them as a handy
-    [`Alternote`](http://alternoteapp.com/ "Alternote"). ***You’ll be
+    [`Alternote`](https://alternoteapp.com/ "Alternote"). ***You’ll be
     alive soon enough, my little inklings!***
 
 ------------------------------------------------------------------------
@@ -147,29 +147,29 @@ Day Five - Friday {#dayfive-friday}
 > So Far
 
 -   [The
-    Search](http://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
+    Search](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
 -   [The
-    Application](http://fvcproductions.com/2014/12/23/week-20/ "The Application")
+    Application](https://fvcproductions.com/2014/12/23/week-20/ "The Application")
 -   [The
-    Preparation](http://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
+    Preparation](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
 -   [The
-    Interview](http://fvcproductions.com/2014/12/28/interview-fullstack-academy/ "The Interview")
+    Interview](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/ "The Interview")
 -   [The
-    Decision](http://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/ "The Decision")
+    Decision](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/ "The Decision")
 -   [Fullstack Foundations - Week
-    1](http://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
+    1](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
 -   [Fullstack Foundations - Weeks 2 -
-    4](http://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
+    4](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
 -   [Fullstack Academy - Week
-    1](http://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/ "Fullstack Academy - Week 1")
+    1](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/ "Fullstack Academy - Week 1")
 -   [Fullstack Academy - Week
-    2](http://fvcproductions.com/2015/06/20/fullstack-academy-week-2/ "Fullstack Academy - Week 2")
+    2](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/ "Fullstack Academy - Week 2")
 -   [Fullstack Academy - Week
-    3](http://fvcproductions.com/2015/06/26/fullstack-academy-week-3/ "Fulsltack Academy - Week 3")
+    3](https://fvcproductions.com/2015/06/26/fullstack-academy-week-3/ "Fulsltack Academy - Week 3")
 
 ------------------------------------------------------------------------
 
 > *Tips or tricks?* :idea:
 >
 > > tweet me at
-> > [`@fvcproductions`](http://twitter.com/fvcproductions "Twitter - FVCproductions").
+> > [`@fvcproductions`](https://twitter.com/fvcproductions "Twitter - FVCproductions").

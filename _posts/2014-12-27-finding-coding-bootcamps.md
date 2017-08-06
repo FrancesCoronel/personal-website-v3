@@ -44,7 +44,7 @@ tags:
     - tuition price
 ---
 
-###  Want a [more comprehensive look at the best sites](http://fvcproductions.com/2014/11/10/magnifying-the-bootcamp-research-experience/ "Magnifying the Bootcamp Research Experience")? {#want-a-more-comprehensive-look-at-the-best-sites style="text-align:center;"}
+###  Want a [more comprehensive look at the best sites](https://fvcproductions.com/2014/11/10/magnifying-the-bootcamp-research-experience/ "Magnifying the Bootcamp Research Experience")? {#want-a-more-comprehensive-look-at-the-best-sites style="text-align:center;"}
 
 ------------------------------------------------------------------------
 
@@ -52,26 +52,26 @@ tags:
 
 1.  [Switch](https://www.switchup.org/)
 2.  [Course Report](https://www.coursereport.com/)
-3.  [Bootcamper.io](http://bootcamper.io/)
-4.  [Bootcamps.in](http://www.bootcamps.in/)
-5.  [Thinkful](http://www.thinkful.com/bootcamps/)
+3.  [Bootcamper.io](https://bootcamper.io/)
+4.  [Bootcamps.in](https://www.bootcamps.in/)
+5.  [Thinkful](https://www.thinkful.com/bootcamps/)
 6.  [Hack App](https://hackapp.co/)
 7.  [The Firehose
-    Project](http://www.thefirehoseproject.com/definitive-guide)
+    Project](https://www.thefirehoseproject.com/definitive-guide)
 8.  [Techenedo](https://schools.techendo.com/leaderboard)
 
 ------------------------------------------------------------------------
 
 ### Prep Resources Directly From The Source
 
-1.  [Makersquare](http://learn.makersquare.com/courses)
-2.  [Hackreactor](http://www.hackreactor.com/prepare-for-admissions-challenge/)
-3.  [Fullstack](http://www.fullstackacademy.com/interview_prep)
-4.  [Flatiron](http://prework.flatironschool.com)
-5.  [Code Fellows](http://fsje.codefellows.org/index.html)
+1.  [Makersquare](https://learn.makersquare.com/courses)
+2.  [Hackreactor](https://www.hackreactor.com/prepare-for-admissions-challenge/)
+3.  [Fullstack](https://www.fullstackacademy.com/interview_prep)
+4.  [Flatiron](https://prework.flatironschool.com)
+5.  [Code Fellows](https://fsje.codefellows.org/index.html)
 6.  [App Academy](https://github.com/appacademy/prep-work)
 7.  [General Assembly](https://dash.generalassemb.ly)
-8.  [Launch Academy](http://www.launchacademy.com/codecabulary)
+8.  [Launch Academy](https://www.launchacademy.com/codecabulary)
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ And in terms of
 
 > Tips or tricks?
 >
-> > contact me [@fvcproductions](http://twitter.com/fvcproductions)
+> > contact me [@fvcproductions](https://twitter.com/fvcproductions)

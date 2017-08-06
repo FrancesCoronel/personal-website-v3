@@ -1,8 +1,8 @@
 # fvcproductions.github.io
 
-[![Github Issues](https://img.shields.io/github/issues/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/issues) [![GitHub Pull-Requests](https://img.shields.io/github/issues-pr/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/pulls) [![MIT License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](http://paypal.me/fvcproductions)
+[![Github Issues](https://img.shields.io/github/issues/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/issues) [![GitHub Pull-Requests](https://img.shields.io/github/issues-pr/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/pulls) [![MIT License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](https://paypal.me/fvcproductions)
 
-My blog and portfolio all in one. You can view it on GitHub Pages at [fvcproductions.github.io](http://fvcproductions.github.io)
+My blog and portfolio all in one. You can view it on GitHub Pages at [fvcproductions.github.io](https://fvcproductions.github.io)
 
 ## Installation
 
@@ -60,7 +60,7 @@ Find Scope for Sublime Text 3
 
 ## Usage
 
-This website was created from the bottom-up and is a migration from my Wordpress website at [`fvcproductions.wordpress.com`](http://fvcproductions.wordpress.com).
+This website was created from the bottom-up and is a migration from my Wordpress website at [`fvcproductions.wordpress.com`](https://fvcproductions.wordpress.com).
 
 > Find and Replace in ST3
 
@@ -86,7 +86,7 @@ Or just [create an issue](https://github.com/fvcproductions/fvcproductions.githu
 
 ## Contact
 
-- [FVCproductions](http://fvcproductions.com) 🍓🍫
+- [FVCproductions](https://fvcproductions.com) 🍓🍫
     - Twitter [@fvcproductions](https://twitter.com/fvcproductions)
 
 ## Acknowledgements

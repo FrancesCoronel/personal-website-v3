@@ -21,7 +21,7 @@ Our team use Google App Engine to create a very simple web app where
 users could add markers onto a map.
 
 Check it out at
-[beato-2014.appspot.com](http://beato-2014.appspot.com/).
+[beato-2014.appspot.com](https://beato-2014.appspot.com/).
 
 [![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5839b420810715.562f17e65a860.png){.aligncenter
 width="1200"

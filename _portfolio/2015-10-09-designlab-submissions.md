@@ -4,22 +4,22 @@ date: 2015-10-09
 excerpt: These are some of my favorite submissions from Design 101 course on Designlab.
 ---
 
-These are all my submissions from my **[Design 101](http://trydesignlab.com/web-design-course/)** course on [Designlab](http://trydesignlab.com). {#these-are-all-my-submissions-from-my-design-101-course-on-designlab. .intro style="text-align:center;"}
+These are all my submissions from my **[Design 101](https://trydesignlab.com/web-design-course/)** course on [Designlab](https://trydesignlab.com). {#these-are-all-my-submissions-from-my-design-101-course-on-designlab. .intro style="text-align:center;"}
 =================================================================================================================================================
 
 \[caption id="attachment\_3125" align="aligncenter"
 width="750"\][![Designlab - Behance
 Preview](https://fvcproductions.files.wordpress.com/2015/10/behancepreview-001.jpeg){.size-full
 .wp-image-3125 width="750"
-height="563"}](http://fvcproductions.com/portfolio/designlab-submissions/behancepreview-001/)
+height="563"}](https://fvcproductions.com/portfolio/designlab-submissions/behancepreview-001/)
 Designlab - Behance Preview\[/caption\]
 
 View all my submissions on [my Behance
 portfolio](https://www.behance.net/gallery/29117121/My-Designlab-Experience "Behance")
 or on [my Designlab
-profile](http://trydesignlab.com/course/profile/fvcproductions/ "Designlab Profile").
+profile](https://trydesignlab.com/course/profile/fvcproductions/ "Designlab Profile").
 
-I also wrote about my Designlab experience [here](http://fvcproductions.com/2015/10/21/my-designlab-experience/ "Behance"). {#i-also-wrote-about-my-designlab-experience-here. style="text-align:center;"}
+I also wrote about my Designlab experience [here](https://fvcproductions.com/2015/10/21/my-designlab-experience/ "Behance"). {#i-also-wrote-about-my-designlab-experience-here. style="text-align:center;"}
 ---------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
@@ -33,7 +33,7 @@ SuperGood {#flitter}
 width="750"\][![Designlab - Super
 Good](https://fvcproductions.files.wordpress.com/2015/10/supergood-001.jpeg){.size-full
 .wp-image-3126 width="750"
-height="563"}](http://fvcproductions.com/portfolio/designlab-submissions/supergood-001/)
+height="563"}](https://fvcproductions.com/portfolio/designlab-submissions/supergood-001/)
 Designlab - Super Good\[/caption\]
 
 Flitter
@@ -45,7 +45,7 @@ Flitter
 width="700"\][![Designlab -
 Social](https://fvcproductions.files.wordpress.com/2015/10/designlab-social.jpg){.size-full
 .wp-image-3116 width="700"
-height="700"}](http://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-social/)
+height="700"}](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-social/)
 Designlab - Social\[/caption\]
 
 Two Words on Design {#flitter}
@@ -57,7 +57,7 @@ Two Words on Design {#flitter}
 width="750"\][![Designlab - Blog
 Article](https://fvcproductions.files.wordpress.com/2015/10/designlab-blog-article.jpg){.size-full
 .wp-image-3127 width="750"
-height="900"}](http://fvcproductions.com/portfolio/designlab-submissions/designlab-blog-article/)
+height="900"}](https://fvcproductions.com/portfolio/designlab-submissions/designlab-blog-article/)
 Designlab - Blog Article\[/caption\]
 
 readingit {#flitter}
@@ -69,7 +69,7 @@ readingit {#flitter}
 width="750"\][![Designlab -
 News](https://fvcproductions.files.wordpress.com/2015/10/designlab-news.jpg){.size-full
 .wp-image-3110 width="750"
-height="563"}](http://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-news/)
+height="563"}](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-news/)
 Designlab - News\[/caption\]
 
 RankMe {#flitter}
@@ -81,7 +81,7 @@ RankMe {#flitter}
 width="750"\][![Designlab -
 Prototype](https://fvcproductions.files.wordpress.com/2015/10/designlab-prototype.jpg){.size-full
 .wp-image-3111 width="750"
-height="1013"}](http://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-prototype/)
+height="1013"}](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-prototype/)
 Designlab - Prototype\[/caption\]
 
 Web Layout {#flitter}
@@ -92,7 +92,7 @@ Web Layout {#flitter}
 [![Designlab - Visual
 Layout](https://fvcproductions.files.wordpress.com/2015/10/designlab-visual-layout.jpg){.aligncenter
 .size-full .wp-image-3108 width="750"
-height="814"}](http://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-visual-layout/)
+height="814"}](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-visual-layout/)
 
 Style Guide {#flitter}
 -----------
@@ -103,7 +103,7 @@ Style Guide {#flitter}
 width="750"\][![Designlab -
 Styleguide](https://fvcproductions.files.wordpress.com/2015/10/designlab-styleguide.jpeg){.size-full
 .wp-image-3117 width="750"
-height="563"}](http://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-styleguide/)
+height="563"}](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-styleguide/)
 Designlab - Styleguide\[/caption\]
 
 Final Project {#flitter}
@@ -115,7 +115,7 @@ Final Project {#flitter}
 width="750"\][![Designlab - Final
 Project](https://fvcproductions.files.wordpress.com/2015/10/designlab-final.png){.size-full
 .wp-image-3113 width="750"
-height="1625"}](http://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-final/)
+height="1625"}](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-final/)
 Designlab - Final Project\[/caption\]
 
 ------------------------------------------------------------------------
@@ -127,5 +127,5 @@ Certificate of Completion {#certificateofcompletion}
 width="750"\][![Designlab - Certificate of
 Completion](https://fvcproductions.files.wordpress.com/2015/10/designlab-certificate-of-completion.png){.size-full
 .wp-image-3106 width="750"
-height="6363"}](http://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-certificate-of-completion/)
+height="6363"}](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-certificate-of-completion/)
 Designlab - Certificate of Completion\[/caption\]

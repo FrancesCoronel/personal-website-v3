@@ -39,22 +39,22 @@ Discovery\_8Pm:
 When one has an account with all these different social networking sites
 (I have a few of these myself, actually), specifically:
 
-1.  [Google+](http://www.google.com/+/learnmore/) (the Facebook
+1.  [Google+](https://www.google.com/+/learnmore/) (the Facebook
     wanna-be)
-2.  [Behance](http://www.behance.net) (where creativity can be
+2.  [Behance](https://www.behance.net) (where creativity can be
     unleashed)
-3.  [LinkedIn](http://www.linkedin.com) (making business people look
+3.  [LinkedIn](https://www.linkedin.com) (making business people look
     good)
-4.  [Wordpress](http://www.wordpress.com) (professional looking posts)
-5.  [Quora](http://www.quora.com) (questions and answers)
-6.  [Tumblr](http://www.tumblr.com) (diverse posts)
-7.  [SoundCloud](http://www.soundcloud.com) (music)
-8.  [Vimeo](http://www.vimeo.com) (high quality videos)
-9.  [Scribd](http://www.scribd.com) (documents/books)
-10. [YouTube](http://www.youtube.com) (the best and worst videos)
-11. [Twitter](http://www.twitter.com) (tweet, tweet)
-12. [Quizlet](http://www.quizlet.com) (quizzes all abound)
-13. [a Facebook Account](http://www.facebook.com) (casual stalking)
+4.  [Wordpress](https://www.wordpress.com) (professional looking posts)
+5.  [Quora](https://www.quora.com) (questions and answers)
+6.  [Tumblr](https://www.tumblr.com) (diverse posts)
+7.  [SoundCloud](https://www.soundcloud.com) (music)
+8.  [Vimeo](https://www.vimeo.com) (high quality videos)
+9.  [Scribd](https://www.scribd.com) (documents/books)
+10. [YouTube](https://www.youtube.com) (the best and worst videos)
+11. [Twitter](https://www.twitter.com) (tweet, tweet)
+12. [Quizlet](https://www.quizlet.com) (quizzes all abound)
+13. [a Facebook Account](https://www.facebook.com) (casual stalking)
 14. [a Facebook
     Page](https://www.facebook.com/help/174987089221178 "What is a Facebook Page?")
     (organization stalking)

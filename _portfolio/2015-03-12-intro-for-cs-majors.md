@@ -1,4 +1,4 @@
---- 
+---
 title: "An Intro for CS Majors \\U0001F4D8"
 date: 2015-03-12
 ---
@@ -6,7 +6,7 @@ date: 2015-03-12
 [![HU Book
 Icon](https://huacm.files.wordpress.com/2015/03/hubookicon.jpg?w=788){.aligncenter
 .wp-image-356 .size-large width="788"
-height="1002"}](http://bit.ly/hu-book)\
+height="1002"}](https://bit.ly/hu-book)\
 
 ------------------------------------------------------------------------
 
@@ -40,10 +40,10 @@ I wrote an introductory book geared towards Computer Science majors at Hampton U
 > .size-full .wp-image-1998 width="760"
 > height="984"}](https://fvcproductions.files.wordpress.com/2015/03/cs-book-cover.jpeg)
 >
-> **cs book** [bit.ly/hu-book](http://bit.ly/hu-book "Intro to CS at HU | GitBook") {#cs-bookbit.lyhu-book style="text-align:center;"}
+> **cs book** [bit.ly/hu-book](https://bit.ly/hu-book "Intro to CS at HU | GitBook") {#cs-bookbit.lyhu-book style="text-align:center;"}
 > ---------------------------------------------------------------------------------
 
-> **website** [hubook.strikingly.com](http://hubook.strikingly.com/ "Strikingly HU Book") {#websitehubook.strikingly.com style="text-align:center;"}
+> **website** [hubook.strikingly.com](https://hubook.strikingly.com/ "Strikingly HU Book") {#websitehubook.strikingly.com style="text-align:center;"}
 > ---------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
@@ -68,9 +68,9 @@ Tools {#section-tools}
 -----
 
 -   This book is published using the platform
-    [GitBook](http://gitbook.com "GitBook").
+    [GitBook](https://gitbook.com "GitBook").
 -   A one-page website for the book is located
-    at [hubook.strikingly.com](http://hubook.strikingly.com/ "Strikingly | HU Book").
+    at [hubook.strikingly.com](https://hubook.strikingly.com/ "Strikingly | HU Book").
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ Why this project? {#section-whyproject}
 **Tips or Tricks?**
 
 > Tweet me
-> [@fvcproductions](http://twitter.com/fvcproductions "FVCproductions on Twitter").
+> [@fvcproductions](https://twitter.com/fvcproductions "FVCproductions on Twitter").

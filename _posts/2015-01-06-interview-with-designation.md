@@ -36,10 +36,10 @@ tags:
     - yield rate
 ---
 
-[![](http://designation.io/downloads/designation_logo_black/designation_vertical_black.png){.aligncenter
-width="500" height="500"}](http://designation.io)
+[![](https://designation.io/downloads/designation_logo_black/designation_vertical_black.png){.aligncenter
+width="500" height="500"}](https://designation.io)
 
-Interview with [Designation.io](http://designation.io "Designation") {#interview-with-designation.io style="text-align:center;"}
+Interview with [Designation.io](https://designation.io "Designation") {#interview-with-designation.io style="text-align:center;"}
 ====================================================================
 
 ------------------------------------------------------------------------
@@ -175,7 +175,7 @@ Aftermath {#aftermath style="text-align:center;"}
     your deposit
 -   Remaining tuition is due 2 weeks before class starts
 -   You get set up with an account on
-    [Lynda.com](http://lynda.com "Lynda") once you pay the first
+    [Lynda.com](https://lynda.com "Lynda") once you pay the first
     deposit.
 -   The total cost of the program is \$6K.
 -   You have to officially confirm your acceptance no later than 1 week
@@ -188,4 +188,4 @@ Aftermath {#aftermath style="text-align:center;"}
 > Tips or tricks?
 >
 > > Contact me
-> > [@fvcproductions](http://twitter.com/fvcproductions "Twitter - FVCproductions")
+> > [@fvcproductions](https://twitter.com/fvcproductions "Twitter - FVCproductions")

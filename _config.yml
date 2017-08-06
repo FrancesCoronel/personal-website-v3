@@ -15,7 +15,7 @@ title                    : "FVCproductions"
 title_separator          : "-"
 name                     : "Frances Coronel"
 description              : "I like to dabble with things that ought to be dabbled with."
-url                      : "https://fvcproductions.github.io"
+url                      : "https://fvcproductions.com"
 baseurl                  : ""
 repository               : "fvcproductions/fvcproductions.github.io"
 teaser                   : "/assets/img/teaser.png"
@@ -83,7 +83,7 @@ author:
   bio              : "I like to dabble with things that ought to be dabbled with."
   location         : "San Francisco, CA"
   email            : "fvcproductions at gmail dot com"
-  uri              : "http://fvcproductions.com"
+  uri              : "https://fvcproductions.com"
   bitbucket        :
   codepen          : "fvcproductions"
   dribbble         : "fvcproductions"
@@ -99,7 +99,7 @@ author:
   pinterest        :
   soundcloud       : "fvcproductions"
   spotify          : "fvcproductions"
-  stackoverflow    : "3000467/fvcproductions" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "3000467/fvcproductions" # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : "fvcproductions"
   tumblr           : "fvcproductions2013"
   twitter          : "fvcproductions"
@@ -168,14 +168,14 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
 permalink: /blog/:year/:month/:day/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /blog/page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 gems:
@@ -222,7 +222,7 @@ tag_archive:
 #     tag: /tags/:name/
 
 # HTML Compression
-# - http://jch.penibelst.de/
+# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   comments: all

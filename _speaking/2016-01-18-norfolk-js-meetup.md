@@ -17,7 +17,7 @@ tags:
 
 > Name
 
-## <a title="Norfolk.js" href="http://norfolkjs.org" target="_blank">Norfolk.js - Norfolk JavaScript Meetup Group</a>
+## <a title="Norfolk.js" href="https://norfolkjs.org" target="_blank">Norfolk.js - Norfolk JavaScript Meetup Group</a>
 
 > Organizer
 
@@ -37,7 +37,7 @@ Volunteer (helped create website)
 
 > About
 
-http://www.meetup.com/NorfolkJS/events/227490794/
+https://www.meetup.com/NorfolkJS/events/227490794/
 
 [gallery type="rectangular" size="full" ids="3697,3698,3699,3700,3701,3702" orderby="rand"]
 

@@ -33,19 +33,19 @@ my average level of productivity on a daily basis.
 There are other awesome power apps of course, like
 
 -   [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12 "Amphetamine")
--   [Bartender](http://www.macbartender.com "Bartender")
--   [Dash](http://kapeli.com/dash "Dash")
+-   [Bartender](https://www.macbartender.com "Bartender")
+-   [Dash](https://kapeli.com/dash "Dash")
 -   [Flux](https://justgetflux.com "Flux")
--   [Sorty](http://wiles.dk/ "Sorty")
--   [Ubersicht](http://tracesof.net/uebersicht/ "Ubersicht")
--   [Yoink](http://eternalstorms.at/yoink/Yoink_-_Draggings_a_drag_no_more/Yoink_-_Draggings_a_drag_no_more%21.html "“Yoink”")
+-   [Sorty](https://wiles.dk/ "Sorty")
+-   [Ubersicht](https://tracesof.net/uebersicht/ "Ubersicht")
+-   [Yoink](https://eternalstorms.at/yoink/Yoink_-_Draggings_a_drag_no_more/Yoink_-_Draggings_a_drag_no_more%21.html "“Yoink”")
 
 among others - but these 3 are by far my favorite.
 
-1. [Automator](http://en.wikipedia.org/wiki/Automator_%28software%29 "“Automator”")
+1. [Automator](https://en.wikipedia.org/wiki/Automator_%28software%29 "“Automator”")
 ===================================================================================
 
-![Automator](http://www.redundantrobot.com/wp-content/uploads/2013/10/automator.png){.aligncenter}
+![Automator](https://www.redundantrobot.com/wp-content/uploads/2013/10/automator.png){.aligncenter}
 
 Seriously, I’ve done things with this guy in seconds that would take
 others hours. Automator is a lot like Terminal in terms of power, but
@@ -101,16 +101,16 @@ appropriate title like `Wallpaper - 1`…
 [![Rename Multiple
 Photos](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11-06.png?w=660){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11-06.png)
 
-2. [Alfred](http://www.alfredapp.com/ "“Alfred”")
+2. [Alfred](https://www.alfredapp.com/ "“Alfred”")
 =================================================
 
-![Alfred](http://a2.mzstatic.com/us/r30/Purple/v4/22/16/13/221613ff-de88-908e-684d-262576f7dbd0/icon128-2x.png){.aligncenter}
+![Alfred](https://a2.mzstatic.com/us/r30/Purple/v4/22/16/13/221613ff-de88-908e-684d-262576f7dbd0/icon128-2x.png){.aligncenter}
 
 > Oh, Alfred, where would I be without you?
 >
-> You’re prettier than [LaunchBar](http://www.alfredapp.com/ "“Alfred”")
+> You’re prettier than [LaunchBar](https://www.alfredapp.com/ "“Alfred”")
 > and 10 times more powerful than
-> [Spotlight](http://www.alfredapp.com/ "“Alfred”").
+> [Spotlight](https://www.alfredapp.com/ "“Alfred”").
 >
 > If you were a person, I know you’d be my gay best friend.
 
@@ -120,7 +120,7 @@ depend on the damn bowler hat.
 3. [BetterSnapTool](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12 "“BetterSnapTool”")
 ========================================================================================================
 
-![BetterSnapTool](http://a3.mzstatic.com/us/r30/Purple3/v4/b0/e1/f1/b0e1f178-69dc-f01a-3d4e-0faa4379ca8f/icon128-2x.png){.aligncenter}
+![BetterSnapTool](https://a3.mzstatic.com/us/r30/Purple3/v4/b0/e1/f1/b0e1f178-69dc-f01a-3d4e-0faa4379ca8f/icon128-2x.png){.aligncenter}
 
 I was so slow moving windows around before this app, so once I
 transitioned to fast resizing, my whole workflow sped up significantly.
@@ -130,7 +130,7 @@ the reason.
 Only good things can be said about this app, seriously.
 
 And that’s it! Check out my post, [What I
-Use](http://fvcproductions.com/what-i-use/ "What I Use 📱") for more
+Use](https://fvcproductions.com/what-i-use/ "What I Use 📱") for more
 awesome apps!
 
 > Tips or tricks?

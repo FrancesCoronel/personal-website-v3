@@ -1,35 +1,35 @@
 ---
 title: "Sort Detective - Solution \\U0001F50D"
-date: 2015-04-18 
+date: 2015-04-18
 excerpt: "Stuck on that homework assignment involving SortDetective.jar? No need to worry!"
 header:
     image: https://fvcproductions.files.wordpress.com/2015/04/banners-001.jpg?w=1024&h=436&crop=1
-tags: 
-    - alpha 
-    - beta 
-    - bubble sort 
+tags:
+    - alpha
+    - beta
+    - bubble sort
     - delta
-    - epsilon 
-    - experimentOrders 
-    - formula 
-    - gamma 
-    - greek letters 
-    - heap sort 
-    - homework assignment 
-    - insertion sorts 
-    - java 
-    - java decompiler 
+    - epsilon
+    - experimentOrders
+    - formula
+    - gamma
+    - greek letters
+    - heap sort
+    - homework assignment
+    - insertion sorts
+    - java
+    - java decompiler
     - jd
-    - ui 
-    - jd.benow.ca 
-    - merge sort 
-    - quick sort 
-    - selection sort 
-    - sort detective 
-    - sortdetective.jar 
-    - sorting methods 
-    - SortingExperiment 
-    - student ID 
+    - ui
+    - jd.benow.ca
+    - merge sort
+    - quick sort
+    - selection sort
+    - sort detective
+    - sortdetective.jar
+    - sorting methods
+    - SortingExperiment
+    - student ID
     - zeta
 ---
 
@@ -55,7 +55,7 @@ Step 1 - Download JD-GUI
 ------------------------
 
 Head over to the Java Decompiler [page located at
-`jd.benow.ca`](http://jd.benow.ca/ "Java Decompiler")) and download the
+`jd.benow.ca`](https://jd.benow.ca/ "Java Decompiler")) and download the
 `ZIP` file for the `JD-GUI`.
 
 ![](https://fvcproductions.files.wordpress.com/2015/04/jd-gui.png){.aligncenter}
@@ -143,4 +143,4 @@ the Greek letters for me would go
 > Tips or tricks?
 >
 > > contact me
-> > [`@fvcproductions`](http://twitter.com/fvcproductions "Twitter - FVCproductions")
+> > [`@fvcproductions`](https://twitter.com/fvcproductions "Twitter - FVCproductions")

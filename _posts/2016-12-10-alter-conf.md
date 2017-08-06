@@ -45,7 +45,7 @@ rundown of what was discussed with snippets taken from social media.
 
 #### **Adina Shanholtz**, [@FeyTechnologist](https://twitter.com/FeyTechnologist)<br>
 **Ashe Dryden**, [@ashedryden](https://twitter.com/ashedryden)<br> **Danielle
-James**, [@big_dani_j](http://twitter.com/big_dani_j)
+James**, [@big_dani_j](https://twitter.com/big_dani_j)
 
 Adina, a technical evangelist at Microsoft, opened up the conference and how she
 wanted to make more diversity events like **AlterConf** happen at Microsoft.
@@ -185,7 +185,7 @@ developers who don’t speak English at all.
 
 ### **HOW TO BE BOSS WHEN YOU’RE NOT THE BOSS: EFFECTIVE LEADERSHIP STRATEGIES FOR EVERYONE!**
 
-#### **Natali Wachtman Perilo**, [@NataliJewel](http://twitter.com/NataliJewel)
+#### **Natali Wachtman Perilo**, [@NataliJewel](https://twitter.com/NataliJewel)
 
 The most effective leaders are those who can rely on others to execute
 confidently and independently. Leaders are measured by how others perform.
@@ -202,7 +202,7 @@ motivating, and leading while working collaboratively on teams.
 
 ### **IT’S NOT LIT: STRATEGIES FOR EXPOSING AND ELIMINATING CULTURAL APPROPRIATION IN MARKETING**
 
-#### **Candace Williams**, [@teacherc](http://twitter.com/teacherc)
+#### **Candace Williams**, [@teacherc](https://twitter.com/teacherc)
 
 From tweets written by agency agency staffers, to tech talk slides and “witty”
 café chalkboard signs, the use of appropriated artifacts and slurs has been
@@ -227,7 +227,7 @@ gender identity, sexuality, and other aspects of identity.
 
 ### **DISMANTLING THE BINARY, ONE MICROAGGRESSION AT A TIME**
 
-#### **Jameson Hampton**, [@jameybash](http://twitter.com/jameybash)
+#### **Jameson Hampton**, [@jameybash](https://twitter.com/jameybash)
 
 Microaggressions. You know, the slights that sting but seem so small that you
 feel like you’re overreacting, even though they become more and more hurtful the
@@ -245,7 +245,7 @@ employ when on the receiving end.
 
 ### **BATTLING UNCONSCIOUS BIAS**
 
-#### **Neem Serra**, [@teamneem](http://twitter.com/teamneem)
+#### **Neem Serra**, [@teamneem](https://twitter.com/teamneem)
 
 Unconscious biases affect our perceptions, decisions, and interactions every
 day. How do we address biases if we don’t know about them?
@@ -263,7 +263,7 @@ become a more magical place!
 
 ### **HOW A PERSONAL CHATBOT CAN MAKE YOUR LIFE BETTER**
 
-#### **Lauren Golembiewski**, [@laurengolem](http://twitter.com/laurengolem)
+#### **Lauren Golembiewski**, [@laurengolem](https://twitter.com/laurengolem)
 
 Chatbots are re-emerging as a technology that can be used to automate
 businesses, give big brands more customer touch points, and help individuals
@@ -319,7 +319,7 @@ handling, and talking about hardship in the workplace or community.
 
 ### **“YOU MAKE EVERYTHING ABOUT RACE” — AN APPEAL FOR EMPATHY IN DISCUSSIONS OF RACISM IN AMERICA**
 
-**Kareem Francis**, [github.com/kareemf](http://github.com/kareemf)
+**Kareem Francis**, [github.com/kareemf](https://github.com/kareemf)
 
 This talk highlights select instances in media, pop-culture, and forums for
 technologists where the depiction of people of color is generally glossed over
@@ -372,7 +372,7 @@ results of their participatory experiments and point to future activities.
 
 ### **DIVERSITY AND INCLUSION IN TECH THROUGH A HAMILTON LENS**
 
-#### **Lizzie Siegle**, [@lizziepika](http://twitter.com/lizziepika)
+#### **Lizzie Siegle**, [@lizziepika](https://twitter.com/lizziepika)
 
 Though both diversity and inclusion are important, it’s not enough to be in the
 room where it happens, which is like diversity. You want both the Adams
@@ -413,13 +413,13 @@ similarities, differences, and the importance of both.
 * **Facebook** [AlterConf](https://www.facebook.com/AlterConf/)
 * **Twitter** [@alterconf](https://twitter.com/alterconf), tweet using
 [#AlterConf](https://twitter.com/hashtag/alterconf?src=hash)
-* **Website** [alterconf.com](http://alterconf.com/), [NYC
+* **Website** [alterconf.com](https://alterconf.com/), [NYC
 2016](https://www.alterconf.com/conferences/nyc-2016)
 * **Video Recordings** [are on
 YouTube](https://www.youtube.com/playlist?list=PLgWwTXVZ2pcNJtnKh_DO2hJPHP4ECqyOa)
-* **Closed Captions** [bit.ly/nyc-captions](http://bit.ly/nyc-captions), the
+* **Closed Captions** [bit.ly/nyc-captions](https://bit.ly/nyc-captions), the
 founder of the technology behind this awesome transcription
-tool,[Mirabai](http://stenoknight.com/), was actually present at AlterConf!
+tool,[Mirabai](https://stenoknight.com/), was actually present at AlterConf!
 
 > If you enjoyed this post or have any questions, comments, or concerns, feel free
-> to reach out to me [@fvcproductions](http://twitter.com/fvcproductions) for more freelance blogging opportunities!
+> to reach out to me [@fvcproductions](https://twitter.com/fvcproductions) for more freelance blogging opportunities!

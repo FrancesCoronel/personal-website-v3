@@ -31,7 +31,7 @@ tags:
     - vegetarian
 ---
 
-So I just went to my first [Meetup](http://meetup.com) ever on December 15 with [NorfolkJS](http://www.meetup.com/NorfolkJS/) and it was basically an [“Introduction to Travis-CI”](http://www.meetup.com/NorfolkJS/events/213364882/).
+So I just went to my first [Meetup](https://meetup.com) ever on December 15 with [NorfolkJS](https://www.meetup.com/NorfolkJS/) and it was basically an [“Introduction to Travis-CI”](https://www.meetup.com/NorfolkJS/events/213364882/).
 =======================================================================================================================================================================================================================================
 
 \[caption id="attachment\_3370" align="aligncenter"
@@ -47,26 +47,26 @@ I was able to get some perspective from [one of the
 engineers](https://github.com/BanzaiMan) there.
 
 I also got a free book, [“If Hemingway wrote
-JavaScript”](http://www.nostarch.com/hemingwayjs) (which is pretty
-amusing so far!), a [new network](http://757dev.org) of local coding
+JavaScript”](https://www.nostarch.com/hemingwayjs) (which is pretty
+amusing so far!), a [new network](https://757dev.org) of local coding
 peeps, and tons of potential future fun.
 
 Besides NorfolkJS, I also joined [/\\drenaline\_
-junkies](http://www.meetup.com/Adrenaline_Junky/), [GDG Hampton
-Roads](http://www.meetup.com/GDG-Hampton-Roads/), [HR FEN (Hampton Roads
-Friends, Events and Networking)](http://www.meetup.com/HR-FEN/),
-[Southeastern Virginia Skeptics](http://www.meetup.com/sevaskeptics/),
+junkies](https://www.meetup.com/Adrenaline_Junky/), [GDG Hampton
+Roads](https://www.meetup.com/GDG-Hampton-Roads/), [HR FEN (Hampton Roads
+Friends, Events and Networking)](https://www.meetup.com/HR-FEN/),
+[Southeastern Virginia Skeptics](https://www.meetup.com/sevaskeptics/),
 [Tidewater Atheists Group
-(TAG)](http://www.meetup.com/Tidewater-Atheists-Group/ "TAG"),
+(TAG)](https://www.meetup.com/Tidewater-Atheists-Group/ "TAG"),
 [Tidewater Science and
-Reason](http://www.meetup.com/Tidewater-Science-and-Reason/), and the
+Reason](https://www.meetup.com/Tidewater-Science-and-Reason/), and the
 [Vegan Dinner Social and Pleasure
-Club](http://www.meetup.com/Vegan-Dinner-Social-and-Pleasure-Club/).
+Club](https://www.meetup.com/Vegan-Dinner-Social-and-Pleasure-Club/).
 
 I went to a [planetarium
-show](http://sci.odu.edu/physics/planetarium/home.html) and was
+show](https://sci.odu.edu/physics/planetarium/home.html) and was
 recommended a [really great
-book](http://www.amazon.com/MAD-COWBOY-Plain-Cattle-Rancher/dp/0684854465) (Mad
+book](https://www.amazon.com/MAD-COWBOY-Plain-Cattle-Rancher/dp/0684854465) (Mad
 Cowboy) in other Meetups so far.
 
 TL;DR - Looking forward to the next Meetups for sure!!!
@@ -79,10 +79,10 @@ Fen](https://fvcproductions.files.wordpress.com/2015/06/1433270063_featured.png)
 
 I also ended up going to my first non-tech related meetup soon
 afterwards with [Hampton Roads Friends, Events, and
-Networking](http://www.meetup.com/HR-FEN "Meetup - HR FEN").
+Networking](https://www.meetup.com/HR-FEN "Meetup - HR FEN").
 
 The official title of [this
-Meetup](http://www.meetup.com/HR-FEN/events/219360131/) was *Macaroni
+Meetup](https://www.meetup.com/HR-FEN/events/219360131/) was *Macaroni
 Grill Restaurant, Town Center - New Member Mixer Dinner.*
 
 **Highlights**

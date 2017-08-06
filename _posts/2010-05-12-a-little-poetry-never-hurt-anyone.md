@@ -36,4 +36,4 @@ I desire the casual yet I know it is
 Time to think of the impossible.
 ```
 
-[Featured in the POTW Issue 30 of Jacobs University Bremen.](http://www.scribd.com/doc/174387876/POTW-Issue-30)
+[Featured in the POTW Issue 30 of Jacobs University Bremen.](https://www.scribd.com/doc/174387876/POTW-Issue-30)

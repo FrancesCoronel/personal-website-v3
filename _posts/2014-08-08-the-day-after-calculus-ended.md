@@ -20,8 +20,8 @@ tags:
 ---
 
 Honestly, the best blogging utility would be a combination of
-[Byword](http://bywordapp.com "Byword")'s simple UI, publishing, and
-exporting utilities and [Ulysses III](http://ulyssesapp.com "Ulysses")'s
+[Byword](https://bywordapp.com "Byword")'s simple UI, publishing, and
+exporting utilities and [Ulysses III](https://ulyssesapp.com "Ulysses")'s
 database management and the numerous extra features (statistics,
 navigation, helpful .md hints, visual syntax, etc.).
 
@@ -35,16 +35,16 @@ just the primitive aspect of app development but governments, non-profit
 organizations, etc.
 
 I used to volunteer a lot for *[Operation
-Smile](http://www.operationsmile.org "Operation Smile")* (from 2009 to
+Smile](https://www.operationsmile.org "Operation Smile")* (from 2009 to
 2013), a non-profit organization that provides free surgeries to repair
 cleft lip, cleft palate and other facial deformities for children around
 the globe. In early 2011, I heard they were going to merge with *[Smile
-Train](http://www.smiletrain.org "Smile Train")*, the world's largest
+Train](https://www.smiletrain.org "Smile Train")*, the world's largest
 charity that provides corrective surgery for children with cleft lips
 and palates. Unfortunately, they never did succeed in their merger and
 when I asked an employee at OP Smile about it, they explained that their
 organizational structures were too different. You can hear more about
 the attempted merger
-[here](http://www.nytimes.com/2011/02/24/business/24smile.html?pagewanted=all "Merger").
+[here](https://www.nytimes.com/2011/02/24/business/24smile.html?pagewanted=all "Merger").
 
 Regardless…

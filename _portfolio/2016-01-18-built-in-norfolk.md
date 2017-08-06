@@ -4,7 +4,7 @@ date: 2016-01-18
 excerpt: Badges for when you're hacking out in Norfolk.
 ---
 
-Check out the badges at [`built-in-norfolk`](http://github.com/fvcproductions/built-in-norfolk)! {#check-out-the-badges-at--a-href--http:--github.com-fvcproductions-built-in-norfolk--target--_blank---code-built-in-norfolk--code---a--}
+Check out the badges at [`built-in-norfolk`](https://github.com/fvcproductions/built-in-norfolk)! {#check-out-the-badges-at--a-href--http:--github.com-fvcproductions-built-in-norfolk--target--_blank---code-built-in-norfolk--code---a--}
 ------------------------------------------------------------------------------------------------
 
  
@@ -66,7 +66,7 @@ Hacked at DE
 
 ### Credits
 
--   [Sketch 3](http://www.sketchapp.com/) (for all design things)
+-   [Sketch 3](https://www.sketchapp.com/) (for all design things)
 -   [For the Badge](https://github.com/BraveUX/for-the-badge) (original
     inspiration)
 
@@ -78,7 +78,7 @@ Links
 -----
 
 -   **GitHub Repo**
-    -   [`built-in-norfolk`](http://github.com/fvcproductions/built-in-norfolk)
+    -   [`built-in-norfolk`](https://github.com/fvcproductions/built-in-norfolk)
 -   **Behance Project**
     -   [Built in
         Norfolk](https://www.behance.net/gallery/33000931/Built-in-Norfolk)
@@ -103,7 +103,7 @@ Contributing
 License
 -------
 
-2016 © [FVCproductions](http://fvcproductions.com)
+2016 © [FVCproductions](https://fvcproductions.com)
 
 Donations
 ---------
@@ -111,4 +111,4 @@ Donations
 > Feed me… 🍕
 
 [![Donate via
-PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](http://paypal.me/fvcproductions)
+PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](https://paypal.me/fvcproductions)

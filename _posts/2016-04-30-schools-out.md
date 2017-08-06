@@ -48,7 +48,7 @@ three smaller pieces.
 1. Graduating from Undergrad {#section-graduating}
 ----------------------------
 
-![](http://ih0.redbubble.net/image.120345349.1637/sticker,375x360.png){.aligncenter}
+![](https://ih0.redbubble.net/image.120345349.1637/sticker,375x360.png){.aligncenter}
 
 ### I’m finished with school homies! Yeah - TINY RICK!
 
@@ -80,10 +80,10 @@ current bootcamp cohorts.
 
 So through my blog, I’ve actually gotten a lot of emails from folks that
 are trying to get into a certain bootcamp ([Fullstack
-Academy](http://www.fullstackacademy.com/), [Grace Hopper
-Academy](http://www.gracehopper.com/), [Hack
-Reactor](http://www.hackreactor.com/),
-[MakerSquare](http://www.makersquare.com/), etc.) and want my advice or
+Academy](https://www.fullstackacademy.com/), [Grace Hopper
+Academy](https://www.gracehopper.com/), [Hack
+Reactor](https://www.hackreactor.com/),
+[MakerSquare](https://www.makersquare.com/), etc.) and want my advice or
 any tips/tricks that I have to offer.
 
 For the most part, I’ve been pretty lax about this.
@@ -102,7 +102,7 @@ compensation.
 **But here's the whole story.**
 
 Right - so since graduating from
-[Fullstack](http://www.fullstackacademy.com/), I’ll get an email every
+[Fullstack](https://www.fullstackacademy.com/), I’ll get an email every
 now and then (\~6 in total I think) asking for admission tips and
 generally I’ll just send them a list of resources I found useful myself
 when I was in their shoes. However, more recently, I’ve gotten folks
@@ -117,7 +117,7 @@ for my time once we’re done.
 And, so far, in that context, I’ve had roughly 7 one-hour (can go to 2
 hours) sessions with 2 different **awesome** people (one who got into
 MakerSquare NY already and one who’s trying to get into [Grace
-Hopper](http://www.gracehopper.com/)) where I just show them things like
+Hopper](https://www.gracehopper.com/)) where I just show them things like
 how to set up their dev environment, awesome coding resources, Mac apps,
 Chrome extensions, etc. - you name it - primarily using
 [Screenhero](https://slack.com/apps/A0F7XDVHB-screenhero).
@@ -125,16 +125,16 @@ Chrome extensions, etc. - you name it - primarily using
 Then with this separate third cool guy, we just
 [Skyped](https://www.skype.com/en/) twice for like 2.5 hours in total
 and he said he would most definitely keep in touch with me (he got into
-[Fullstack](http://www.fullstackacademy.com/) recently).
+[Fullstack](https://www.fullstackacademy.com/) recently).
 
 **SO** basically I’m trying to prepare them to enter a bootcamp by
 exposing them to tools I use and even though it’s been very rewarding
 mentoring these folks, it does cut into my time so I think for future
 folks, I’ll start charging. But yeah that’s just my two cents.
 
-I don’t feel pressured by [Fullstack](http://www.fullstackacademy.com/)
+I don’t feel pressured by [Fullstack](https://www.fullstackacademy.com/)
 at all though which is nice. I really enjoyed my
-[Fullstack](http://www.fullstackacademy.com/) experience and helping
+[Fullstack](https://www.fullstackacademy.com/) experience and helping
 other people get the skills necessary to be exposed to a similar
 experience gives me a lot of satisfaction so it’s more of a personal
 choice. Regardless, there has to be a limit defined.
@@ -156,11 +156,11 @@ query="start=false&loop=false&delayms=3000" width="960" height="569" /\]
 3. Future Plans {#section-future}
 ===============
 
-![](http://image.slidesharecdn.com/accentureliquidapplicationstudioslideshare4-3-march4v2-160304154715/95/accenture-liquid-application-studio-1-638.jpg?cb=1461012696){.aligncenter}
+![](https://image.slidesharecdn.com/accentureliquidapplicationstudioslideshare4-3-march4v2-160304154715/95/accenture-liquid-application-studio-1-638.jpg?cb=1461012696){.aligncenter}
 
-### **Short-term plans** - attend [RevolutionConf](http://revolutionconf.com) and work on developing programming skills, side projects, and my mentoring sessions throughout the rest of this month
+### **Short-term plans** - attend [RevolutionConf](https://revolutionconf.com) and work on developing programming skills, side projects, and my mentoring sessions throughout the rest of this month
 
-### **Long-term plans** - [intern with Accenture in CA](https://www.accenture.com/us-en/capability-rapid-application-development-studio.aspx) this summer and start attending [Cornell Tech](http://tech.cornell.edu/programs/masters-programs/meng-in-computer-science) or [Product Academy](https://www.makeschool.com/product-academy) this upcoming fall
+### **Long-term plans** - [intern with Accenture in CA](https://www.accenture.com/us-en/capability-rapid-application-development-studio.aspx) this summer and start attending [Cornell Tech](https://tech.cornell.edu/programs/masters-programs/meng-in-computer-science) or [Product Academy](https://www.makeschool.com/product-academy) this upcoming fall
 
 So this summer, I’ll be interning with Accenture at their [Liquid
 Application
@@ -171,14 +171,14 @@ in
 Of course, now that I’ve graduated, the next natural step my parents
 expect of me is graduate school. And I did get accepted to quite a few
 great programs but I decided ultimately that I’d like to attend [Cornell
-Tech](http://tech.cornell.edu/) for their [MEng in
-CS](http://tech.cornell.edu/programs/masters-programs/meng-in-computer-science)
+Tech](https://tech.cornell.edu/) for their [MEng in
+CS](https://tech.cornell.edu/programs/masters-programs/meng-in-computer-science)
 (they offered me a \$10K scholarship).
 
 ![](https://courses.cit.cornell.edu/cs5304/ctech.png){.aligncenter
 height="300"}
 
-![](http://b-i.forbesimg.com/peterhigh/files/2014/01/Cornell-NYC-Tech.jpg){.aligncenter}
+![](https://b-i.forbesimg.com/peterhigh/files/2014/01/Cornell-NYC-Tech.jpg){.aligncenter}
 
 The most unexpected thing was getting accepted to all 9 schools I
 applied to. Having gone through the experience only 3 years ago of
@@ -191,22 +191,22 @@ admission to for obvious reasons:
 -   [Brown - Program in Innovation Management &
     Entrepreneurship](https://www.brown.edu/academics/engineering/prime/)
 -   [Northwestern - MS Engineering Design
-    Innovation](http://segal.northwestern.edu/programs/graduate/engineering-design-innovation/)
+    Innovation](https://segal.northwestern.edu/programs/graduate/engineering-design-innovation/)
 -   [University of Illinois at Urbana-Champaign - Professional MS
     CS](https://cs.illinois.edu/current-students/graduate-students/professional-masters-mcs)
 -   [University of Rochester - MS Technical Entrepreneurship and
-    Management](http://www.rochester.edu/team/) - \$28,792 (50% Tuition)
+    Management](https://www.rochester.edu/team/) - \$28,792 (50% Tuition)
     Scholarship
 -   [Northeastern - MS Computer
-    Science](http://www.northeastern.edu/graduate/programs/computer-science/#masters)
+    Science](https://www.northeastern.edu/graduate/programs/computer-science/#masters)
 -   [Rochester Institute of Technology - MS Human-Computer
     Interaction](https://www.rit.edu/programs/human-computer-interaction-ms) -
     \$8,360 Scholarship
 -   [NYU - Master’s in Management of
-    Technology](http://engineering.nyu.edu/academics/programs/management-technology-ms) -
+    Technology](https://engineering.nyu.edu/academics/programs/management-technology-ms) -
     \$8K Scholarship
 -   [Duke - MEMP - Masters in Engineering Management
-    Program](http://memp.pratt.duke.edu/) - \$10K Scholarship
+    Program](https://memp.pratt.duke.edu/) - \$10K Scholarship
 
 ### HOWEVER.
 
@@ -221,7 +221,7 @@ It’s this 2-year program that aims to act as a sort of college
 replacement for founders and developers at startups in the Bay Area.
 
 I basically see it as a longer version of [Fullstack
-Academy](http://fullstackacademy.com) and having gone through Fullstack
+Academy](https://fullstackacademy.com) and having gone through Fullstack
 and knowing how much that experience benefited me in the long run, I can
 only imagine how much more awesome Make School could be for me.
 
@@ -261,8 +261,8 @@ So here’s to **change**. {#so-heres-to-change. .aligncenter style="text-align:
 
 ------------------------------------------------------------------------
 
-![](http://screenrant.com/wp-content/uploads/TJ-Miller-Zach-Woods-Thomas-Middleditch-Kumail-Nanjiani-and-Martin-Starr-in-Silicon-Valley-Season-3.jpg){.aligncenter}
+![](https://screenrant.com/wp-content/uploads/TJ-Miller-Zach-Woods-Thomas-Middleditch-Kumail-Nanjiani-and-Martin-Starr-in-Silicon-Valley-Season-3.jpg){.aligncenter}
 
-*p.s.* Also, [Silicon Valley](http://www.hbo.com/silicon-valley) is back
+*p.s.* Also, [Silicon Valley](https://www.hbo.com/silicon-valley) is back
 on baby! I’m really looking forward to watching this crap again.
 :mrgreen:

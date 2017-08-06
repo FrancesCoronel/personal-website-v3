@@ -22,11 +22,11 @@ I have this insatiability to learn more. I've pursued courses whether informally
 
 Love of the technology / science, excitement for investing in companies, enjoying communication with interesting people, the thrill of looking at new ideas and chasing the next Google, etc.
 
-I have a heavy technical background, I create slide decks all the time, 
+I have a heavy technical background, I create slide decks all the time,
 
 Kapor Capital specifically... I see myself in Brian, who's a partner, and I see myself in Carolina.
 
-Adrian: I think what you'll get out of it will tend to be very personal but I wanted to use the opportunity to dip my toe into VC, understand if it's something that I want to pursue further, understand what stage of the investment cycle I enjoy most, understand how social impact VC differs from traditional VC, etc. I think I was certainly able to get that out of my summer at Kapor. 
+Adrian: I think what you'll get out of it will tend to be very personal but I wanted to use the opportunity to dip my toe into VC, understand if it's something that I want to pursue further, understand what stage of the investment cycle I enjoy most, understand how social impact VC differs from traditional VC, etc. I think I was certainly able to get that out of my summer at Kapor.
 
 ---
 
@@ -43,11 +43,11 @@ Questions to Ask
 Questions to Ask
 
 - As a VC, what dimension of a company are you disproportionately willing to take risks on?
-- “When you reflect back on your career, is there anything important you would have done differently that other young people who are aspiring into venture capital could benefit from hearing your wisdom and experience about?” 
+- “When you reflect back on your career, is there anything important you would have done differently that other young people who are aspiring into venture capital could benefit from hearing your wisdom and experience about?”
 - “What are the most important decisions you made along the way in your career that you think most greatly contributed to your current success?”
-    - conferences, 8 to 8 aca, 
+    - conferences, 8 to 8 aca,
 - do you see yourself in vc for the long-run or what are your long-term plans
-    - eventually transition - more experience in firms - investment processes - want to get 
+    - eventually transition - more experience in firms - investment processes - want to get
     - healthsutrue
     - healthcare industry
 - "What are some deals you/your firm passed on, which eventually went on to become very successful start-ups? Are there any general lessons that can  be drawn from those misses?"
@@ -101,11 +101,11 @@ Make School
 - Holberton, Make School, and Learner's Guild
 - Horizons One - basically a contract developer for a company
 - - [42](https://www.42.us.org/)
-- - [Galvanize](http://www.galvanize.com/)
-- - [Holberton School](http://holbertonschool.com)
+- - [Galvanize](https://www.galvanize.com/)
+- - [Holberton School](https://holbertonschool.com)
 - - [Make School](https://www.makeschool.com/)
 - - [Turing School](https://www.turing.io)
-- - http://www.missionu.com/
+- - https://www.missionu.com/
 - Horizons One
 
 
@@ -121,7 +121,7 @@ Like
 - CODEHS
 - binti
 - bitly
-- 
+-
 
 Dont Like
 - interviewing.io (Aline Lerner is great but hiring factors still wrong)
@@ -241,7 +241,7 @@ Kapor Capital Essay Responses
 
 Why do you want to intern at a social impact venture capital firm such as Kapor Capital?
 
-When you're a first generation Peruvian-American female genuinely interested in coding, it raises some eyebrows at family gatherings. Not necessarily because it's such a terrible idea, but because it's just generally unexpected that someone who looks like me will ever stay long in this kind of field. 
+When you're a first generation Peruvian-American female genuinely interested in coding, it raises some eyebrows at family gatherings. Not necessarily because it's such a terrible idea, but because it's just generally unexpected that someone who looks like me will ever stay long in this kind of field.
 
 Never mind the fact that I feel more than capable of taking on the role as a software developer since I have already worked in the fields of front-end web dev, web design, AR, and VR. Never mind the fact that I feel I try harder than most of my peers by being constantly engaged within the tech community by speaking at conferences, mentoring potential coding bootcamp students, and attending numerous hackathons. Never mind any of my efforts to give back to the tech community. Because none of it seems to matter if one is going to end up isolated for so long because of the all around general lack of diversity there is everywhere they go.
 
@@ -265,7 +265,7 @@ For example, I freelanced this past December for AlterConf, which is a traveling
 
 I've mentored aspiring female techies through the WiTNY (Women in Technology and Entrepreneurship in New York) program that is fully funded by Cornell Tech and aims to facilitate, encourage and enable a significant increase in the participation of women in both higher education and entrepreneurship in fields related to technology within New York. I also have held over 15 video chat sessions with potential coding bootcamp students who have successfully gone on to coding bootcamps like Fullstack Academy, Hack Reactor, and MakerSquare. Through Code.org, I’ve also tutored kids at the elementary, middle, and high school level on how to get started in the tech field.
 
-When it comes to speaking, I've given talks on alternative forms of education (coding bootcamps) and one can get started as a developer. 
+When it comes to speaking, I've given talks on alternative forms of education (coding bootcamps) and one can get started as a developer.
 
 These alternative forms of education (coding bootcamps) or more long-term solutions like Make School and Learners Guild (both funded by Kapor Capital) that are springing up have shown they can provide not just a more diverse student body in terms of bringing more females and minorities but also a more prepared workforce. I've given the talk "JavaScript Coding Bootcamps" at the Capital Region Women in Computing Conference and the Norfolk JavaScript Meetup group.
 
@@ -281,21 +281,21 @@ People Operations Tech and EdTech, in that order.
 
 To be clear, I refer to these sectors in their specific ties to creating alternative forms of education.
 
-Now the reason I'm interested in these two sectors is because I've been exposed to so many alternative kinds of education models and have made it a goal of mine to try and experiment with as many as I can. 
+Now the reason I'm interested in these two sectors is because I've been exposed to so many alternative kinds of education models and have made it a goal of mine to try and experiment with as many as I can.
 
-Granted, by any standard, most of my education is quite formal but if you take a closer look, it's also rather unorthodox. 
+Granted, by any standard, most of my education is quite formal but if you take a closer look, it's also rather unorthodox.
 
 Let me provide some context.
 
-So as I mentioned in my response to the first question, I started taking college classes when I was 13 at a local community college. I took dual-enrollment classes every summer of high school. Upon graduating, I studied computer science abroad in Germany for one semester before graduating from Hampton University as the CS department valedictorian in just 2.5 years. 
+So as I mentioned in my response to the first question, I started taking college classes when I was 13 at a local community college. I took dual-enrollment classes every summer of high school. Upon graduating, I studied computer science abroad in Germany for one semester before graduating from Hampton University as the CS department valedictorian in just 2.5 years.
 
-While I was at Hampton, I took it upon myself to learn about modern technologies I felt I wasn't getting exposed to in class so I attended Fullstack Academy's inaugural summer of code program back in August 2015 which taught me the fundamentals of fullstack JavaScript web development. 
+While I was at Hampton, I took it upon myself to learn about modern technologies I felt I wasn't getting exposed to in class so I attended Fullstack Academy's inaugural summer of code program back in August 2015 which taught me the fundamentals of fullstack JavaScript web development.
 
-After Fullstack, I decided I also wanted to get more insight into the fields of design and product management graduated from an online design school program and an on-site product management course in NYC. 
+After Fullstack, I decided I also wanted to get more insight into the fields of design and product management graduated from an online design school program and an on-site product management course in NYC.
 
 The average college grad completes 48 courses and the average master's student completes 15 courses (average of 63 courses in total). By the time I graduate from Cornell Tech, I will have taken 81 college-level courses starting from 2010.
 
-It should be noted now that both of my parents are professors (high school and grad school) and believe heavily in the power of the Ph.D. 
+It should be noted now that both of my parents are professors (high school and grad school) and believe heavily in the power of the Ph.D.
 
 It's clear that education has always been a huge part of my life, whether or not I've wanted it to be that way. Regardless, I find myself so excited about the new models that are emerging and as an ambassador of Fullstack, I happily promote such models that can encourage a more diverse and technically prepared workforce. The People Operations Tech/EdTech sectors both promote that model as well.
 

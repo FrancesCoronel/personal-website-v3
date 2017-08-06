@@ -8,7 +8,7 @@ header:
 
 > Name
 
-## <a title="Monarchs Hack the Campus" href="http://www.cs.odu.edu/~acm/hackathon/" target="_blank">Monarchs Hack the Campus</a>
+## <a title="Monarchs Hack the Campus" href="https://www.cs.odu.edu/~acm/hackathon/" target="_blank">Monarchs Hack the Campus</a>
 
 > Organizer
 
@@ -37,7 +37,7 @@ For an upcoming hackathon at ODU dubbed Monarchs Hack the Campus, I acted as a v
 ### Project
 
 - [Typeform](https://mhtc-spring-2016.typeform.com/to/RXB7sy)
-- [Website](http://www.cs.odu.edu/~acm/hackathon/)
+- [Website](https://www.cs.odu.edu/~acm/hackathon/)
 - [Old Portfolio Link](https://fvcproductions.com/portfolio/monarchs-hack-the-campus/)
 
 ### Tasks

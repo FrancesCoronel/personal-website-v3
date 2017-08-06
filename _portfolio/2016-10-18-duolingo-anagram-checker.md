@@ -4,7 +4,7 @@ date: 2016-10-18
 excerpt: I created this simple website as part of the Duolingo PM intern interview process.
 ---
 
-Check this out at duolingo themed anagram checker at [`fvcproductions.github.io/anagram`](http://fvcproductions.github.io/anagram)! {#check-this-out-at-duolingo-themed-anagram-checker-at--a-href--http:--fvcproductions.github.io-anagram--target--_blank---code-fvcproductions.github.io-anagram--code---a--}
+Check this out at duolingo themed anagram checker at [`fvcproductions.github.io/anagram`](https://fvcproductions.github.io/anagram)! {#check-this-out-at-duolingo-themed-anagram-checker-at--a-href--http:--fvcproductions.github.io-anagram--target--_blank---code-fvcproductions.github.io-anagram--code---a--}
 -----------------------------------------------------------------------------------------------------------------------------------
 
 I created this simple website as part of the Duolingo PM intern
@@ -25,7 +25,7 @@ whether the two strings are anagrams of each other.
 
 ### Tools
 
--   [HTML5UP](http://html5up.net)
+-   [HTML5UP](https://html5up.net)
 -   [Sublime Text](https://github.com/fvcproductions/Sublime)
 -   [CodeKit](https://incident57.com/codekit/)
 -   [Sketch](https://www.sketchapp.com/)
@@ -34,14 +34,14 @@ Links
 -----
 
 -   **GitHub Repo**
-    [`github.com/fvcproductions/anagram`](http://github.com/fvcproductions/anagram)
+    [`github.com/fvcproductions/anagram`](https://github.com/fvcproductions/anagram)
 -   **Website**
-    [`fvcproductions.github.io/anagram`](http://fvcproductions.github.io/anagram)
+    [`fvcproductions.github.io/anagram`](https://fvcproductions.github.io/anagram)
 
 License
 -------
 
-2016 © [FVCproductions](http://fvcproductions.com)
+2016 © [FVCproductions](https://fvcproductions.com)
 
 Donations
 ---------
@@ -49,4 +49,4 @@ Donations
 > Feed me… 🍕
 
 [![Donate via
-PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](http://paypal.me/fvcproductions)
+PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](https://paypal.me/fvcproductions)

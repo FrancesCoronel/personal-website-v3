@@ -68,13 +68,13 @@ February 2015
 > > words, it’s meant to be informal so do not take it too seriously
 > > (kind of like everything else in blogging).
 
-What is that [TAPIA Conference](http://tapiaconference.org/ "Tapia Confernece")?
+What is that [TAPIA Conference](https://tapiaconference.org/ "Tapia Confernece")?
 --------------------------------------------------------------------------------
 
 Basically, the 2015 Richard Tapia Conference is this conference that
 promotes diversity in computing. It has been ongoing annually since
 2001. The guy that the conference is named after is [Richard
-Tapia](http://tapiaconference.org/about/tapia "Richard Tapia"), who is
+Tapia](https://tapiaconference.org/about/tapia "Richard Tapia"), who is
 this Mexican American math professor at Rice who is apparently pretty
 effective when it comes to promoting diversity outreach in STEM fields.
 
@@ -110,7 +110,7 @@ end up having to book a slightly earlier flight through Customer
 Service, but the whole delay was a first.
 
 ![Foundation
-Yeti](http://senlinonline.com/wp-content/uploads/2013/05/foundation-yeti.png){.aligncenter}
+Yeti](https://senlinonline.com/wp-content/uploads/2013/05/foundation-yeti.png){.aligncenter}
 
 ⛄️ When I get to Boston, I get the idea that the Yeti (not the one from
 Foundation, just THE Yeti) lives there because it looks like this from
@@ -127,7 +127,7 @@ the driver assumed I was with the students. First win.
 
 The best part about the trip to the hotel was that the driver LOOKED and
 TALKED exactly like the character Gru from [Despicable
-Me](http://en.wikipedia.org/wiki/Despicable_Me "Despicable Me"). It was
+Me](https://en.wikipedia.org/wiki/Despicable_Me "Despicable Me"). It was
 AWESOME. It was really hard to stop myself from LOL every time I heard
 him talk. The massive amounts of snow everywhere was just secondary to
 the experience of seeing a real-life Gru. Unfortunately, I didn’t get a
@@ -135,7 +135,7 @@ pic of him because that would have been kinda awkward since I was
 sitting in shotgun.
 
 ![Real Gru &gt; Animated
-Gru](http://fc00.deviantart.net/fs70/f/2014/220/2/1/despicable_me_gru_render_by_chrez-d7u8z7e.png){.aligncenter}
+Gru](https://fc00.deviantart.net/fs70/f/2014/220/2/1/despicable_me_gru_render_by_chrez-d7u8z7e.png){.aligncenter}
 
 Once I arrive at the hotel free-riding, I check into the hotel and then
 register. My lanyard, like with the triple AI conference, has the same
@@ -169,7 +169,7 @@ I’m full half way through our Thai dinner.
 Anisha tells me the next day a semi-interesting story about meeting this
 short Hispanic guy named George who invited her and someone she met at
 TAPIA out to drink beer while she was exploring the [Copley
-Place](http://www.simon.com/mall/copley-place "Copley Place"). But I
+Place](https://www.simon.com/mall/copley-place "Copley Place"). But I
 guess that’s what happens when you take a picture of a pile of snow and
 reveal you’re a tourist to everyone around you. 😏
 
@@ -183,8 +183,8 @@ Day 2 - Thursday, February 19
     following the meal break that was HILARIOUS. The speakers were so
     down to earth and **real** about what specifically they faced in
     their experiences as a minority in tech. Two of the speakers, [Juan
-    Gilbert](http://www.juangilbert.com/ "Juan G"), and [Manuel
-    Perez-Quiñones](http://perez.cs.vt.edu/ "Manuel PQ") were just
+    Gilbert](https://www.juangilbert.com/ "Juan G"), and [Manuel
+    Perez-Quiñones](https://perez.cs.vt.edu/ "Manuel PQ") were just
     ridiculously funny, I found myself laughing a lot throughout their
     spheels. There was actually this one part where they talk about
     ‘statistics’ and that if there was anybody that talked about the
@@ -207,7 +207,7 @@ Day 2 - Thursday, February 19
     part.
 
 \[caption width=""
-align="aligncenter"\]![](http://rack.1.mshcdn.com/media/ZgkyMDEzLzEwLzIyL2ZjL3RyaXN0YW53YWxrLmRiNDAwLmpwZwpwCXRodW1iCTEyMDB4OTYwMD4/3bcc0bd5/7e4/tristan-walker-iphone.jpg){.aligncenter}
+align="aligncenter"\]![](https://rack.1.mshcdn.com/media/ZgkyMDEzLzEwLzIyL2ZjL3RyaXN0YW53YWxrLmRiNDAwLmpwZwpwCXRodW1iCTEyMDB4OTYwMD4/3bcc0bd5/7e4/tristan-walker-iphone.jpg){.aligncenter}
 Tristan is the coolest.\[/caption\]
 
 -   **Career Fair - Wayne** I had a really great talk with somebody
@@ -236,13 +236,13 @@ Day 3 - Friday, February 20
 -   **Hispanics in Computing **It was nice being in a room full of
     Latinos. So many different backgrounds. Most were Mexican or Puerto
     Rican. I was the only Peruvian. [Manuel
-    Pérez-Quiñones](http://perez.cs.vt.edu/ "Manuel PQ") was the head of
+    Pérez-Quiñones](https://perez.cs.vt.edu/ "Manuel PQ") was the head of
     this meeting though so that was nice because he seemed pretty down
     to earth so far. As of right now, the only thing they have to
     communicate with the 300+ members they have is [this emailing
-    list](http://mail.cs.fiu.edu/mailman/listinfo.cgi/hispanicsincomputing "HIC Emailing"). At
+    list](https://mail.cs.fiu.edu/mailman/listinfo.cgi/hispanicsincomputing "HIC Emailing"). At
     this point, I decide I resent email because I think it’s holding
-    people back. I suggested [Slack](http://slack.com "Slack") after the
+    people back. I suggested [Slack](https://slack.com "Slack") after the
     conference ended and this is the response I got:\
     \[code language="plain"\]Thanks for your input on this. Over the
     years we have had several proposals similar to yours... I like
@@ -312,19 +312,19 @@ Slide](https://fvcproductions.files.wordpress.com/2015/02/hic-pres.jpg){.alignce
     was great? It definitely was. They even had enough vegetarian
     options to keep me more than satisfied, which is a rare thing. After
     we eat, the final speaker,
-    [Freeman](http://president.umbc.edu/ "Freeman"), gives the best
+    [Freeman](https://president.umbc.edu/ "Freeman"), gives the best
     speech I’ve heard so far in the entire conference. He really covered
     a lot of great points. Anyhow, having been inspired by **THE
-    Freeman**, [Richard](http://www.caam.rice.edu/~rat/ "Richard") talks
+    Freeman**, [Richard](https://www.caam.rice.edu/~rat/ "Richard") talks
     about his background and basically covers the main points of his
     life story and how he got to where he was. I didn’t realize he had
     lost his daughter throughout the period where he was getting more
     and more accolades. That was pretty sad. Awards were then given out
     and people got cool things such as [Google
-    Chromecasts](http://www.google.com/chrome/devices/chromecast/ "Google Chromcast"),
+    Chromecasts](https://www.google.com/chrome/devices/chromecast/ "Google Chromcast"),
     [Lenovo
-    Tablets](http://shop.lenovo.com/us/en/tablets/ "Lenovo Tablets"), an
-    [Xbox one](http://www.xbox.com/en-US/xbox-one "Xbox One"), other
+    Tablets](https://shop.lenovo.com/us/en/tablets/ "Lenovo Tablets"), an
+    [Xbox one](https://www.xbox.com/en-US/xbox-one "Xbox One"), other
     cool swag I can’t remember off the top of my head.
 
 <!-- -->
@@ -356,7 +356,7 @@ Consistently throughout the process, I faced the dilemma of whether or
 not to take the initiative on finding a different flight or just sayin’
 “screw it, let me get some pizza and a smoothie or something to pass the
 time (which I did do once or twice - I mean,
-[Sbarro's](http://www.sbarro.com/ "Sbarro's") is just irresistible)”. I
+[Sbarro's](https://www.sbarro.com/ "Sbarro's") is just irresistible)”. I
 eventually decided to try and get a different flight through customer
 service.
 
@@ -380,7 +380,7 @@ When I got home, I took all my anger out on the snow which wasn’t really
 a fun process either.
 
 ![In Mother Russia, snow punches
-you.](http://fc00.deviantart.net/fs70/i/2013/263/b/0/punching_snow___d_by_jj18-d6n2tms.jpg){.aligncenter}
+you.](https://fc00.deviantart.net/fs70/i/2013/263/b/0/punching_snow___d_by_jj18-d6n2tms.jpg){.aligncenter}
 
 Conclusion
 ==========
@@ -390,21 +390,21 @@ people, like Britney and
 [Sean](https://www.linkedin.com/pub/sean-lawrence/62/746/603 "Sean Lawrence"),
 who I friended on LinkedIn. I even ended up joining 2 organizations,
 [Hispanics in
-Computing](http://mail.cs.fiu.edu/mailman/listinfo.cgi/hispanicsincomputing "HIC Emailing")
+Computing](https://mail.cs.fiu.edu/mailman/listinfo.cgi/hispanicsincomputing "HIC Emailing")
 and [Afro Movers &
-Shakers](http://afmvskrs.slack.com "Afro Movers & Shakers"). I’m hoping
+Shakers](https://afmvskrs.slack.com "Afro Movers & Shakers"). I’m hoping
 to help out HIC out because they only have a e-mail listserv right now
 which isn’t very effective in distributing information. I actually ended
-up recommending [Slack](http://slack.com "Slack") to the organizer of
+up recommending [Slack](https://slack.com "Slack") to the organizer of
 Afro Movers & Shakers and he thought it was a cool idea and made one.
 
 With all the swag, flyers, and brochures I received from the conference,
 Anisha and I were able to decorate the CS department more effectively,
 kind of like a refurbishing of the entire area. We can also now use the
 swag we received as a way to offer prizes for any events we have for our
-[ACM Student Chapter](http://huacm.wordpress.com "HU ACM").
+[ACM Student Chapter](https://huacm.wordpress.com "HU ACM").
 
 > Tips or tricks?
 >
 > > contact me
-> > [@fvcproductions](http://twitter.com/fvcproductions "Twitter - FVCproductions")
+> > [@fvcproductions](https://twitter.com/fvcproductions "Twitter - FVCproductions")

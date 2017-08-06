@@ -1,4 +1,4 @@
---- 
+---
 title: "VA ACM Slack Invites \\U0001F4E9"
 date: 2016-01-04
 excerpt: Meet with other ACM student members and be updated on the latest announcements to get more involved in the local tech community.
@@ -7,7 +7,7 @@ excerpt: Meet with other ACM student members and be updated on the latest announ
 Check out the web app at {#checkoutthewebappatahrefhttp:va-acm.stamplayapp.comtarget_blankva-acm.stamplayapp.coma style="text-align:center;"}
 ------------------------
 
-[`va-acm.stamplayapp.com`](http://va-acm.stamplayapp.com/) {#va-acm.stamplayapp.com style="text-align:center;"}
+[`va-acm.stamplayapp.com`](https://va-acm.stamplayapp.com/) {#va-acm.stamplayapp.com style="text-align:center;"}
 ----------------------------------------------------------
 
  
@@ -39,9 +39,9 @@ orderby="rand"\]
 
 ### Tools
 
--   [Stamplay](http://stamplay.com)
--   [Slack](http://slack.com)
--   [HTML5 UP](http://html5up.net)
+-   [Stamplay](https://stamplay.com)
+-   [Slack](https://slack.com)
+-   [HTML5 UP](https://html5up.net)
 
 ### Contributing
 
@@ -60,4 +60,4 @@ GitHub Repo {#githubrepo}
 Twitter {#githubrepo}
 -------
 
--   Tweet us at [twitter.com/va\_acm](http://twitter.com/va_acm)
+-   Tweet us at [twitter.com/va\_acm](https://twitter.com/va_acm)

@@ -8,7 +8,7 @@ header:
 
 > Name
 
-## <a title="Operation Smile Mission Training Workshop" href="http://studentprograms.operationsmile.org/events/mission-training-workshop/" target="_blank">Operation Smile Mission Training Workshop</a>
+## <a title="Operation Smile Mission Training Workshop" href="https://studentprograms.operationsmile.org/events/mission-training-workshop/" target="_blank">Operation Smile Mission Training Workshop</a>
 
 > Organizer
 

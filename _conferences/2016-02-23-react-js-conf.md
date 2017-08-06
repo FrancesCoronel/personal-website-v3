@@ -17,7 +17,7 @@ gallery:
 
 > Name
 
-## <a title="React.js Conf" href="http://conf.reactjs.com/" target="_blank">React.js Conf</a>
+## <a title="React.js Conf" href="https://conf.reactjs.com/" target="_blank">React.js Conf</a>
 
 > Organizer
 
@@ -39,7 +39,7 @@ Diversity Scholarship Recipient
 
 As a diversity scholarship recipient, all expenses were taken care of.
 
-A few folks from Norfolk.js and I were able to attend React.js Conf together and it was so much fun! 
+A few folks from Norfolk.js and I were able to attend React.js Conf together and it was so much fun!
 
 I even met a Fullstack Academy alumnus from my cohort while there!
 

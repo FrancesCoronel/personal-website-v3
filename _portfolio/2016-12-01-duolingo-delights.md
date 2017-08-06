@@ -19,7 +19,7 @@ culture. ---
 Duolingo Delights {#duolingodelights}
 =================
 
-As part of the interview process for [Duolingo](http://duolingo.com), I
+As part of the interview process for [Duolingo](https://duolingo.com), I
 created this slide deck for a product task that Duolingo could achieve
 by 1–4 engineers in 3–6 months.
 
@@ -55,7 +55,7 @@ https://speakerdeck.com/fvcproductions/duolingo-delights-revised-1
 Credits
 -------
 
--   [FVCproductions](http://fvcproductions.com) 🍓🍫
+-   [FVCproductions](https://fvcproductions.com) 🍓🍫
 
 Donations
 ---------
@@ -63,4 +63,4 @@ Donations
 > Feed me… 🍕
 
 [![Donate via
-PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](http://paypal.me/fvcproductions)
+PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](https://paypal.me/fvcproductions)

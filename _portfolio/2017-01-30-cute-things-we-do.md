@@ -14,6 +14,6 @@ We came up with the idea last year and decided to go forward starting in
 (myself) and Nolan Kovacik (my boyfriend).
 
 Feel free to check out our starting website at
-<http://cutethingswedo.com>.
+<https://cutethingswedo.com>.
 
 \[gallery ids="5901,5891" type="rectangular" orderby="rand"\]

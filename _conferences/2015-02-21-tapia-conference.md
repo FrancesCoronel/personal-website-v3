@@ -22,7 +22,7 @@ gallery:
 
 > Name
 
-## <a title="TAPIA" href="http://tapiaconference.org/" target="_blank">ACM Richard Tapia Celebration of Diversity in Computing Conference</a>
+## <a title="TAPIA" href="https://tapiaconference.org/" target="_blank">ACM Richard Tapia Celebration of Diversity in Computing Conference</a>
 
 > Organizer
 

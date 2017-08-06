@@ -42,7 +42,7 @@ buddy of mine - [Chris](https://www.linkedin.com/in/thecbliss) - that
 even though I love **Norfolk** (where I was born and raised my whole
 life), I'm probably going to leave soon in order to explore places where
 supposedly the most innovative technologies are currently brewing (cough
-cough like [Silicon Valley](http://www.siliconvalley.com/)
+cough like [Silicon Valley](https://www.siliconvalley.com/)
 specifically).
 
 \[tweet https://twitter.com/SiliconHBO/status/726167019314286592
@@ -53,7 +53,7 @@ all, the Bay Area is an established tech "haven" - he also explained
 that Norfolk had something special and it was the fact that Norfolk **is
 in the process of becoming an ideal tech haven RIGHT NOW**. That means
 that there is no set culture for the [**757 Dev
-Area**](http://hackathon.dominionenterprises.com/757-dev/) because it
+Area**](https://hackathon.dominionenterprises.com/757-dev/) because it
 hasn't been entirely developed yet. And then Chris told me I could help
 develop it if I stuck around whereas, with places like **Silicon
 Valley**, the culture was already pretty set in stone by those who
@@ -72,9 +72,9 @@ Between the newly established [Free Code Camp Facebook study group for
 the Norfolk
 area](https://www.facebook.com/groups/free.code.camp.norfolk), the
 [consistent slew of
-Meetups](http://www.meetup.com/cities/us/va/norfolk/tech/) I see pop up
-every week, [PixelFest](http://pixelfest.org/) happening back in April,
-and now the upcoming [RevolutionConf](http://revolutionconf.com), *it's
+Meetups](https://www.meetup.com/cities/us/va/norfolk/tech/) I see pop up
+every week, [PixelFest](https://pixelfest.org/) happening back in April,
+and now the upcoming [RevolutionConf](https://revolutionconf.com), *it's
 not very hard to see how that growth is occurring*.
 
 [![757 Dev
@@ -82,7 +82,7 @@ Network](https://fvcproductions.files.wordpress.com/2016/05/757-dev-network-de-h
 .size-full .wp-image-4284 width="750"
 height="327"}](https://fvcproductions.files.wordpress.com/2016/05/757-dev-network-de-hackathon-series.png)
 
-*[Source](http://hackathon.dominionenterprises.com/757-dev/)*
+*[Source](https://hackathon.dominionenterprises.com/757-dev/)*
 
 Funny thing is - what most people don't realize is that the Norfolk/VA
 Beach area already has its own tech area name or what have you - it's
@@ -108,7 +108,7 @@ id=15878170&doc=norfolk-vbstartupcommunity1-3-130106151325-phpapp01\]
 **POINT BEING…** Norfolk, overall, is a pretty awesome city. And we have
 pretty **AWESOME** developers here. I think what
 [Erik](https://www.linkedin.com/in/erikpmp), the CEO of
-[80|20](http://8020.co) and one of the chief organizers of the
+[80|20](https://8020.co) and one of the chief organizers of the
 conference, has stated before definitely resonates a lot with me.
 
 > "We have this Napoleon complex here, and we doubt ourselves – we think
@@ -117,13 +117,13 @@ conference, has stated before definitely resonates a lot with me.
 > the ranks a little bit." - [Erik
 > O.](https://www.linkedin.com/in/erikpmp)
 >
-> *[Source](http://pilotonline.com/inside-business/revolutionconf-seeks-to-unite-software-community/article_5c92cdce-c3cc-5deb-a0a4-e5311105e6b4.html)*
+> *[Source](https://pilotonline.com/inside-business/revolutionconf-seeks-to-unite-software-community/article_5c92cdce-c3cc-5deb-a0a4-e5311105e6b4.html)*
 
 Regardless, I'm so excited to be able to act as a volunteer for this
-upcoming [RevolutionConf](http://revolutionconf.com). Having known
+upcoming [RevolutionConf](https://revolutionconf.com). Having known
 [Erik](https://www.linkedin.com/in/erikpmp) from my gig at
-[80|20](http://8020.co) and [Linda](https://twitter.com/lynnaloo) from
-the [Norfolk.js Meetup group](http://www.meetup.com/NorfolkJS/), I can
+[80|20](https://8020.co) and [Linda](https://twitter.com/lynnaloo) from
+the [Norfolk.js Meetup group](https://www.meetup.com/NorfolkJS/), I can
 say without a doubt that the organizers have whipped up something quite
 fantastic and probably an event that is long-term (as in it'll keep
 growing year after year as intended).
@@ -142,12 +142,12 @@ Hunt](https://www.producthunt.com/tech).
 Logo](https://fvcproductions.files.wordpress.com/2015/11/revolutionconf.png?w=300){.aligncenter
 .wp-image-3950 .size-medium width="300" height="300"}
 
-And I believe [RevolutionConf](http://revolutionconf.com) is taking us one step closer to that. {#and-i-believe-revolutionconf-is-taking-us-one-step-closer-to-that. style="text-align:center;"}
+And I believe [RevolutionConf](https://revolutionconf.com) is taking us one step closer to that. {#and-i-believe-revolutionconf-is-taking-us-one-step-closer-to-that. style="text-align:center;"}
 ===============================================================================================
 
  
 
--   **Website** - [revolutionconf.com](http://revolutionconf.com)
--   **Twitter** - [@revconf](http://twitter.com/revconf)
+-   **Website** - [revolutionconf.com](https://revolutionconf.com)
+-   **Twitter** - [@revconf](https://twitter.com/revconf)
 -   **Lanyrd** -
-    [lanyrd.com/2016/revconf](http://lanyrd.com/2016/revconf/)
+    [lanyrd.com/2016/revconf](https://lanyrd.com/2016/revconf/)

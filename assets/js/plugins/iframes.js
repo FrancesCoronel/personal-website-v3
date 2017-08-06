@@ -1,4 +1,4 @@
-/** http://benmarshall.me/responsive-iframes/ **/
+/** https://benmarshall.me/responsive-iframes/ **/
 
 $(document).ready(function() {
     // Find all iframes

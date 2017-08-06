@@ -96,7 +96,7 @@ Index
     -   data structure of ordered items such that items can be inserted
         and removed only at 1 end (called the \[code
         language="java"\]top\[/code\])
--   *diagram*![](http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Data_stack.svg/1280px-Data_stack.svg.png){.aligncenter}
+-   *diagram*![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Data_stack.svg/1280px-Data_stack.svg.png){.aligncenter}
 -   *conceptual implementation*
     -   First In, First Out (FIFO)
         -   add to rear and remove from front
@@ -122,7 +122,7 @@ Index
         (rear) and removed at other end (front)
 -   *diagram*
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Data_Queue.svg/1280px-Data_Queue.svg.png){.aligncenter}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Data_Queue.svg/1280px-Data_Queue.svg.png){.aligncenter}
 
 -   *conceptual implementation*
     -   First In, First Out (FIFO)

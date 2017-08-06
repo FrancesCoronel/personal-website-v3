@@ -15,7 +15,7 @@ gallery:
 
 > Name
 
-## <a title="Sally Conference" href="http://www.thesallyconference.com/" target="_blank">Sally Conference</a>
+## <a title="Sally Conference" href="https://www.thesallyconference.com/" target="_blank">Sally Conference</a>
 
 > Organizer
 

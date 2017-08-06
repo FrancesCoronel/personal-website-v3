@@ -62,7 +62,7 @@ height="382"}](https://fvcproductions.files.wordpress.com/2016/02/bindingofisaac
 > **WARNING** SPOILERS AHEAD.
 
 This is going to be a quick game review on **[The Binding of
-*Isaac*](http://store.steampowered.com/app/113200/)**.
+*Isaac*](https://store.steampowered.com/app/113200/)**.
 
 *TLDR:* Just play the bloody game. {#tldr-just-play-the-bloody-game. style="text-align:center;"}
 ==================================
@@ -79,7 +79,7 @@ Background {#background style="text-align:center;"}
 ----------
 
 If you’re not already familiar with **[The Binding of
-*Isaac*](http://store.steampowered.com/app/113200/)**, you essentially
+*Isaac*](https://store.steampowered.com/app/113200/)**, you essentially
 control this little bald child called *Isaac* who is being chased down
 by his psychotic overly religious mother.
 
@@ -143,7 +143,7 @@ MAJOR SPOILER {#majorspoiler style="text-align:center;"}
 
 HOWEVER, it turns out the plot thickens.
 
-![REAL PLOT](http://i.imgur.com/Ucwvi.jpg){.aligncenter}
+![REAL PLOT](https://i.imgur.com/Ucwvi.jpg){.aligncenter}
 
 This is, of course, where all the real fun begins. {#this-is-of-course-where-all-the-real-fun-begins. style="text-align:center;"}
 ==================================================
@@ -151,7 +151,7 @@ This is, of course, where all the real fun begins. {#this-is-of-course-where-all
  
 
 By having such a very morbid ambiance all throughout the game, **[The
-Binding of *Isaac*](http://store.steampowered.com/app/113200/)**
+Binding of *Isaac*](https://store.steampowered.com/app/113200/)**
 successfully communicates what a terrible situation *Isaac* is really
 in.
 
@@ -171,7 +171,7 @@ was *Isaac*’s own dog and the game lets you know that he is instantly
 *traumatized and gains a very wide-eyed stare*.
 
 ![Maxs
-Head](http://vignette1.wikia.nocookie.net/bindingofisaac/images/a/ab/Maxs_Head_Icon.png/revision/latest?cb=20120707135906){.aligncenter}
+Head](https://vignette1.wikia.nocookie.net/bindingofisaac/images/a/ab/Maxs_Head_Icon.png/revision/latest?cb=20120707135906){.aligncenter}
 
  
 
@@ -183,7 +183,7 @@ It’s no wonder that the item multiplies the damage stats of *Isaac* by
 so much.
 
 ![In-Game
-Appearance](http://vignette3.wikia.nocookie.net/bindingofisaac/images/4/40/Maxs_Head_Isaac.png/revision/latest?cb=20130128122345){.aligncenter}
+Appearance](https://vignette3.wikia.nocookie.net/bindingofisaac/images/4/40/Maxs_Head_Isaac.png/revision/latest?cb=20130128122345){.aligncenter}
 
 > What doesn’t kill you makes you stronger, I suppose.
 
@@ -248,19 +248,19 @@ each floor.
 **Meat Boy***.
 
 \[caption id="" align="alignleft" width="200"\]![First
-Stage](http://vignette2.wikia.nocookie.net/bindingofisaac/images/4/41/Meat1boy.png/revision/latest?cb=20130125213417){width="200"
+Stage](https://vignette2.wikia.nocookie.net/bindingofisaac/images/4/41/Meat1boy.png/revision/latest?cb=20130125213417){width="200"
 height="167"} First Stage\[/caption\]
 
 \[caption id="" align="alignleft" width="200"\]![Second
-Stage](http://vignette1.wikia.nocookie.net/bindingofisaac/images/c/cb/Meat2boy.png/revision/latest?cb=20130125213448){width="200"
+Stage](https://vignette1.wikia.nocookie.net/bindingofisaac/images/c/cb/Meat2boy.png/revision/latest?cb=20130125213448){width="200"
 height="173"} Second Stage\[/caption\]
 
 \[caption id="" align="alignleft" width="200"\]![Third
-Stage](http://vignette2.wikia.nocookie.net/bindingofisaac/images/a/aa/M3atboy.png/revision/latest?cb=20130125213846){width="200"
+Stage](https://vignette2.wikia.nocookie.net/bindingofisaac/images/a/aa/M3atboy.png/revision/latest?cb=20130125213846){width="200"
 height="270"} Third Stage\[/caption\]
 
 \[caption id="" align="aligncenter" width="200"\]![Fourth
-Stage](http://vignette3.wikia.nocookie.net/bindingofisaac/images/f/fd/Meat4boy.png/revision/latest?cb=20130125213925&format=webp){width="200"
+Stage](https://vignette3.wikia.nocookie.net/bindingofisaac/images/f/fd/Meat4boy.png/revision/latest?cb=20130125213925&format=webp){width="200"
 height="280"} Fourth Stage\[/caption\]
 
 There are four cubes required for a fully formed **Meat Boy** which are
@@ -298,7 +298,7 @@ when one of the characters shouts out
 ### BUDDIES!!! {#buddies style="text-align:center;"}
 
 ![Buddies -
-Minions](http://www.minionmovie.com.au/images/shareimage.jpg){.aligncenter}
+Minions](https://www.minionmovie.com.au/images/shareimage.jpg){.aligncenter}
 
 In-Game Screenshots {#in-game-screenshots style="text-align:center;"}
 -------------------
@@ -313,7 +313,7 @@ Even if you’re not into the horror genre of games, I’d give *Isaac* a
 shot because he’s in desperate times and he deserves all the help he can
 get.
 
-![Died](http://i1.wp.com/www.owengrieve.com/caps/2011-10-02_1128.png?resize=600%2C338){.aligncenter}
+![Died](https://i1.wp.com/www.owengrieve.com/caps/2011-10-02_1128.png?resize=600%2C338){.aligncenter}
 
 Happy re-birthing. {#happy-re-birthing. style="text-align:center;"}
 ==================
@@ -324,4 +324,4 @@ Happy re-birthing. {#happy-re-birthing. style="text-align:center;"}
 
 > Tips or Tricks?
 >
-> > Tweet me [@fvcproductions](http://twitter.com/fvcproductions).
+> > Tweet me [@fvcproductions](https://twitter.com/fvcproductions).

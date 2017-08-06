@@ -78,7 +78,7 @@ Index
     -   data structure of group of nodes that represent a sequence
 -   *diagram*
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Singly-linked-list.svg/408px-Singly-linked-list.svg.png){.aligncenter}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Singly-linked-list.svg/408px-Singly-linked-list.svg.png){.aligncenter}
 
 > above is a linked list with nodes that contain 2 fields - an integer
 > value and a link to next to the next node; last node linked to
@@ -140,7 +140,7 @@ Index
         3.  connect new node to front of list
         4.  make original `head` refer to **new** `head` of linked list
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/CPT-LinkedLists-addingnode.svg/474px-CPT-LinkedLists-addingnode.svg.png){.aligncenter}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/CPT-LinkedLists-addingnode.svg/474px-CPT-LinkedLists-addingnode.svg.png){.aligncenter}
 
 > Diagram showing how a node is inserted after an existing node\
 > Inserting node before existing node cannot be done directly - instead
@@ -169,7 +169,7 @@ Index
             that original `head` is removed
 -   *removing node anywhere*
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/CPT-LinkedLists-deletingnode.svg/380px-CPT-LinkedLists-deletingnode.svg.png){.aligncenter}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/CPT-LinkedLists-deletingnode.svg/380px-CPT-LinkedLists-deletingnode.svg.png){.aligncenter}
 
 > Removing node after given node - to find and remove a particular node,
 > you still have to keep track of the previous element

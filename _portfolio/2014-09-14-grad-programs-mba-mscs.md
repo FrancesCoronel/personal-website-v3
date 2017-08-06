@@ -1,5 +1,5 @@
----  
-title: "MBA & MSCS Grad Programs" 
+---
+title: "MBA & MSCS Grad Programs"
 date: 2014-09-14
 ---
 
@@ -9,7 +9,7 @@ date: 2014-09-14
 Graduate Programs - MBA/MSCS {#graduateprograms-mbamscs style="text-align:center;"}
 ============================
 
-Written and generated with **[Byword](http://bywordapp.com)**
+Written and generated with **[Byword](https://bywordapp.com)**
 
 > > This list provides graduate programs that offer a dual degree in an
 > > MBA and Master’s in Computer Science/Robotics/AI/related – which are
@@ -47,7 +47,7 @@ Index {#section-index}
 
 ![](https://my.calpoly.edu/cas/media/skins/sage/images/CP_Logo_Transparent.png){.aligncenter}
 
-### [Cal Poly](http://www.calpoly.edu) {#section-calpoly}
+### [Cal Poly](https://www.calpoly.edu) {#section-calpoly}
 
 > **At a Glance**
 >
@@ -62,9 +62,9 @@ Index {#section-index}
 > > Length of Program: 6 to 7 academic quarters
 > >
 > > Total Cost: [\~ \$85,000 for 7 academic quarters Tuition and Fees
-> > Non-Resident](http://www.mba.calpoly.edu/mba_dual_program_cost.html)
+> > Non-Resident](https://www.mba.calpoly.edu/mba_dual_program_cost.html)
 
-#### [**MBA & MS in an Engineering Discipline - Computer Science**](http://www.mba.calpoly.edu/mba_dual_curriculum.html#dual_option_2) {#mbamsinanengineeringdiscipline-computerscience}
+#### [**MBA & MS in an Engineering Discipline - Computer Science**](https://www.mba.calpoly.edu/mba_dual_curriculum.html#dual_option_2) {#mbamsinanengineeringdiscipline-computerscience}
 
 -   **About**
     -   The mission of the MBA Dual Degree option is to develop
@@ -81,11 +81,11 @@ Index {#section-index}
     -   CSU Mentor Application
 -   **Curriculum**
 
-![](http://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-22-05-pm.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-22-05-pm.png){.aligncenter}
 
 ------------------------------------------------------------------------
 
-### [![](http://raemadeline.com/cmu/CM_logo_horiz_red.png){.aligncenter width="673" height="102"}](http://raemadeline.com/cmu/CM_logo_horiz_red.png)
+### [![](https://raemadeline.com/cmu/CM_logo_horiz_red.png){.aligncenter width="673" height="102"}](https://raemadeline.com/cmu/CM_logo_horiz_red.png)
 
 ### [Carnegie Mellon University](https://cmu.edu) {#section-cmu}
 
@@ -108,9 +108,9 @@ Index {#section-index}
 > > Internships: required in summer of 1st year
 > >
 > > Total Cost: [\~ \$80,000 for Full-Time 2 Year MBA Tuition with
-> > Fees](http://tepper.cmu.edu/prospective-students/masters/mba/tuition-and-financial-aid/tuition-and-expenses)
+> > Fees](https://tepper.cmu.edu/prospective-students/masters/mba/tuition-and-financial-aid/tuition-and-expenses)
 
-#### [**MBA & Software Engineering**](http://tepper.cmu.edu/prospective-students/masters/mba/curriculum/dual-and-joint-degrees/mba-software-engineering) {#mbasoftwareengineering}
+#### [**MBA & Software Engineering**](https://tepper.cmu.edu/prospective-students/masters/mba/curriculum/dual-and-joint-degrees/mba-software-engineering) {#mbasoftwareengineering}
 
 -   **About**
     -   The MBA/Software Engineering dual degree provides access to
@@ -127,18 +127,18 @@ Index {#section-index}
 -   **Curriculum for MBA Only**
 
 \[caption id="" align="aligncenter" width="872"\]![Year
-1](http://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-02-47-pm.png){width="872"
+1](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-02-47-pm.png){width="872"
 height="599"} Year 1\[/caption\]
 
 \[caption id="" align="aligncenter" width="870"\]![Year
-2](http://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-02-57-pm.png){width="870"
+2](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-02-57-pm.png){width="870"
 height="509"} Year 2\[/caption\]
 
 ------------------------------------------------------------------------
 
-![](http://www.themarysue.com/wp-content/uploads/2011/08/Stanford_logo-1.png#geekosystem){.aligncenter}
+![](https://www.themarysue.com/wp-content/uploads/2011/08/Stanford_logo-1.png#geekosystem){.aligncenter}
 
-### [Stanford University](http://stanford.edu) {#section-stanford}
+### [Stanford University](https://stanford.edu) {#section-stanford}
 
 > **At a Glance**
 >
@@ -158,7 +158,7 @@ height="509"} Year 2\[/caption\]
 > > quarters standard graduate
 > > tuition](https://studentaffairs.stanford.edu/registrar/students/tuition-fees_13-14)
 
-#### [**MBA & MS in Computer Science**](http://cs.stanford.edu/education/masters/current-students/joint-cs-msmba-degree) {#mbamsincomputerscience}
+#### [**MBA & MS in Computer Science**](https://cs.stanford.edu/education/masters/current-students/joint-cs-msmba-degree) {#mbamsincomputerscience}
 
 -   **About**
     -   The Joint MS in Computer Science /MBA Degree Program (CS/MBA)
@@ -174,13 +174,13 @@ height="509"} Year 2\[/caption\]
         each program separately.
 -   **Curriculum**
 
-![](http://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-10-04-37-pm.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-10-04-37-pm.png){.aligncenter}
 
 ------------------------------------------------------------------------
 
-![](http://www.msinus.com/image.php?groupid=27&dateline=1324003838){.aligncenter}
+![](https://www.msinus.com/image.php?groupid=27&dateline=1324003838){.aligncenter}
 
-### [Stony Brook University](http://www.stonybrook.edu) {#section-stonybrook}
+### [Stony Brook University](https://www.stonybrook.edu) {#section-stonybrook}
 
 > **At a Glance**
 >
@@ -194,9 +194,9 @@ height="509"} Year 2\[/caption\]
 > > Internship/Research Paper: 6 credits
 > >
 > > Total Cost: [\~ \$30,000 for Full-Time MBA In-State
-> > Resident](http://www.stonybrook.edu/bursar/tuition/tuition-and-fee-rates.shtml)
+> > Resident](https://www.stonybrook.edu/bursar/tuition/tuition-and-fee-rates.shtml)
 
-#### [**MBA & MS - Computer Science**](http://www.stonybrook.edu/commcms/business/mba/comp_science.html) {#mbams-computerscience}
+#### [**MBA & MS - Computer Science**](https://www.stonybrook.edu/commcms/business/mba/comp_science.html) {#mbams-computerscience}
 
 -   **About**
     -   This degree is designed to provide MSCS students with a broad
@@ -234,9 +234,9 @@ height="509"} Year 2\[/caption\]
 
 ------------------------------------------------------------------------
 
-![ucla](http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/UCLA_Logo.svg/200px-UCLA_Logo.svg.png){.aligncenter}
+![ucla](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/UCLA_Logo.svg/200px-UCLA_Logo.svg.png){.aligncenter}
 
-### [UCLA - University of California Los Angeles](http://ucla.edu) {#section-ucla}
+### [UCLA - University of California Los Angeles](https://ucla.edu) {#section-ucla}
 
 > **At a Glance**
 >
@@ -257,9 +257,9 @@ height="509"} Year 2\[/caption\]
 > > Internships: strongly suggested for both summers
 > >
 > > Total Cost: [\~ \$80,000 for 1 Year of MBA Program In-State
-> > Resident](http://www.anderson.ucla.edu/degrees/mba-program/financing)
+> > Resident](https://www.anderson.ucla.edu/degrees/mba-program/financing)
 
-#### [**MBA & MS in Computer Science**](http://www.anderson.ucla.edu/degrees/mba-program/admissions/concurrent-degrees) {#mbamsincomputerscience}
+#### [**MBA & MS in Computer Science**](https://www.anderson.ucla.edu/degrees/mba-program/admissions/concurrent-degrees) {#mbamsincomputerscience}
 
 -   **About**
     -   Concurrent degree programs allow students to earn an MBA plus
@@ -279,13 +279,13 @@ height="509"} Year 2\[/caption\]
         guaranteed admission to the other program.
 -   **Curriculum**
 
-![](http://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-37-44-pm.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-37-44-pm.png){.aligncenter}
 
 ------------------------------------------------------------------------
 
-![](http://www.roshan-institute.org/clientimages/39783/ucboulder.png){.aligncenter}
+![](https://www.roshan-institute.org/clientimages/39783/ucboulder.png){.aligncenter}
 
-### [University of Colorado Boulder](http://www.colorado.edu) {#section-colorado}
+### [University of Colorado Boulder](https://www.colorado.edu) {#section-colorado}
 
 > **At a Glance**
 >
@@ -299,9 +299,9 @@ height="509"} Year 2\[/caption\]
 > >
 > > Total Cost: [\~ \$30,000 for 6 credits per semester 2 Year MBA
 > > In-State
-> > Resident](http://bursar.colorado.edu/wp-content/uploads/GR-Instate-2014-15-061614.pdf)
+> > Resident](https://bursar.colorado.edu/wp-content/uploads/GR-Instate-2014-15-061614.pdf)
 
-#### [**MBA & MS in Computer Science**](http://www.colorado.edu/leeds/academics/flexible-curriculum/dual-degrees) {#mbamsincomputerscience}
+#### [**MBA & MS in Computer Science**](https://www.colorado.edu/leeds/academics/flexible-curriculum/dual-degrees) {#mbamsincomputerscience}
 
 -   **About**
     -   To support the University’s mission of advancing knowledge
@@ -317,13 +317,13 @@ height="509"} Year 2\[/caption\]
         each program separately.
 -   **Curriculum**
 
-![](http://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-36-40-pm.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-36-40-pm.png){.aligncenter}
 
 ------------------------------------------------------------------------
 
-![](http://www-personal.umich.edu/~tamas/TIGimages/wordmark.gif){.aligncenter}
+![](https://www-personal.umich.edu/~tamas/TIGimages/wordmark.gif){.aligncenter}
 
-### [University of Michigan](http://umich.edu) {#section-umich}
+### [University of Michigan](https://umich.edu) {#section-umich}
 
 > **At a Glance**
 >
@@ -335,7 +335,7 @@ height="509"} Year 2\[/caption\]
 > >
 > > Format: Full-time/on campus
 
-#### [**MBA & MS in Computer Science and Information Systems**](http://catalog.umflint.edu/preview_program.php?catoid=12&poid=3786) {#mbamsincomputerscienceandinformationsystems}
+#### [**MBA & MS in Computer Science and Information Systems**](https://catalog.umflint.edu/preview_program.php?catoid=12&poid=3786) {#mbamsincomputerscienceandinformationsystems}
 
 -   **About**
     -   Through cross-recognition of courses between the MBA and MS in
@@ -352,11 +352,11 @@ height="509"} Year 2\[/caption\]
         each program separately.
 -   **Curriculum**
 
-![](http://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-10-07-17-pm.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-10-07-17-pm.png){.aligncenter}
 
 ------------------------------------------------------------------------
 
-![](http://2012.slc.wordcamp.org/files/2012/07/university-of-utah-wordcamp-sponsor.png){.aligncenter}
+![](https://2012.slc.wordcamp.org/files/2012/07/university-of-utah-wordcamp-sponsor.png){.aligncenter}
 
 ### [University of Utah](https://utah.edu) {#section-utah}
 
@@ -420,7 +420,7 @@ height="509"} Year 2\[/caption\]
             average GMAT score of 600
 -   **Curriculum**
 
-![](http://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-8-17-40-pm.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-8-17-40-pm.png){.aligncenter}
 
 ------------------------------------------------------------------------
 
@@ -435,4 +435,4 @@ height="509"} Year 2\[/caption\]
 
 **Tips or tricks?**
 
-> Contact me [@fvcproductions](http://twitter.com/fvcproductions)
+> Contact me [@fvcproductions](https://twitter.com/fvcproductions)

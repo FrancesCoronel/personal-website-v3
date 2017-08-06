@@ -18,11 +18,11 @@ tags:
 
 But not me. No, no, no.
 
-## You see, I've been using this platform called [**Airtable**](http://airtable.com) for a month now and I can't even imagine doing anything in Google Sheets, let alone Excel, any longer. 😊
+## You see, I've been using this platform called [**Airtable**](https://airtable.com) for a month now and I can't even imagine doing anything in Google Sheets, let alone Excel, any longer. 😊
 
 <img src="https://fvcproductions.files.wordpress.com/2017/01/logo1.png" alt="Airtable Logo" align="middle" width="300" height="300">
 
-> [**Airtable**](http://airtable.com) is a productivity tool that
+> [**Airtable**](https://airtable.com) is a productivity tool that
 > enables its users to manage spreadsheets.
 
 <img src="https://fvcproductions.files.wordpress.com/2017/01/reimagined2x.png" alt="Screenshot of Airtable" align="middle" width="2148" height="1295">
@@ -40,7 +40,7 @@ organizing files.
 ![3fc4a2d8703426a99a3f2d33ad5affb4](https://fvcproductions.files.wordpress.com/2017/01/3fc4a2d8703426a99a3f2d33ad5affb4.png){.size-full
 .wp-image-5742 .aligncenter width="1914" height="796"}
 
-Wth [**Airtable**](http://airtable.com), I feel like I can find whatever
+Wth [**Airtable**](https://airtable.com), I feel like I can find whatever
 I need to in a breeze because of how easy it is to access just about any
 piece of data you've stored in it. The interface is seamless across
 mobile and the web, I can share and export to whatever I want, and I can
@@ -57,7 +57,7 @@ even sync data with my calendar.
 > table; and integrate with existing systems or build additional
 > functionalities.
 
-So far, I've been using [**Airtable**](http://airtable.com) to keep
+So far, I've been using [**Airtable**](https://airtable.com) to keep
 track of deadlines, college courses, mentoring sessions, job
 applications, test scores, awards, all sorts of things! 🛠
 
@@ -82,11 +82,11 @@ Plus, there are so many base templates to choose from! 😲
 ![templates-airtable](https://fvcproductions.files.wordpress.com/2017/01/templates-airtable.png){.size-full
 .wp-image-5746 .aligncenter width="1265" height="688"}
 
-But what I find interesting about [**Airtable**](http://airtable.com) is
+But what I find interesting about [**Airtable**](https://airtable.com) is
 that they were able to break into a seemingly boring and crowded market
 (spreadsheets) and still get tons of users onboard because they put the
 experience of their users first. That's
-why [**Airtable**](http://airtable.com) has been able to raise - get
+why [**Airtable**](https://airtable.com) has been able to raise - get
 this -
 [[\$]{style="font-size:12.5px;"}[10.6M]{.funding_amount}](https://www.crunchbase.com/organization/airtable#/entity)
 [in] [[3
@@ -96,22 +96,22 @@ Investors](https://www.crunchbase.com/organization/airtable/investors).
 For just some spreadsheet app, that's quite a bit of moolah. 💰💰💰
 
 Now, no app is perfect. I've found that in my experience
-with [**Airtable**](http://airtable.com) that formula-heavy projects
+with [**Airtable**](https://airtable.com) that formula-heavy projects
 probably wouldn't be suitable for it and I'd be better off using
 something else.
 
 Ergo, if the main purpose of your project is to run calculations (with
 accounting for example) or test hypothesis (for a business model),
-then [**Airtable**](http://airtable.com) is probably still too minimal
+then [**Airtable**](https://airtable.com) is probably still too minimal
 for that kind of work.
 
-But for anything else, [**Airtable**](http://airtable.com) powers over
+But for anything else, [**Airtable**](https://airtable.com) powers over
 the rest every time and remains my tool of choice for anything
 spreadsheet related! 😉
 
-### So stop stressing out over formatting and cell management & just **[Airtable](http://airtable.com)**! 🎉
+### So stop stressing out over formatting and cell management & just **[Airtable](https://airtable.com)**! 🎉
 
 \[caption id="attachment\_5754" align="aligncenter"
 width="1000"\]![download](https://fvcproductions.files.wordpress.com/2017/01/download.png){.size-full
 .wp-image-5754 .aligncenter width="1000" height="359"}
-<http://airtable.com/downloads>\[/caption\]
+<https://airtable.com/downloads>\[/caption\]

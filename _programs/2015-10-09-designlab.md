@@ -12,10 +12,10 @@ header:
 
 <em>Designlab</em>
 
-<strong><a title="Design 101" href="http://trydesignlab.com" target="_blank">Design 101</a></strong>
+<strong><a title="Design 101" href="https://trydesignlab.com" target="_blank">Design 101</a></strong>
 Virtual
 
-<a href="http://fvcproductions.com/2015/10/21/my-designlab-experience/" target="_blank">Learn more</a>
+<a href="https://fvcproductions.com/2015/10/21/my-designlab-experience/" target="_blank">Learn more</a>
 
 [display-posts id="3513" image_size="large" include_date="true" include_excerpt="true" wrapper="div"]
 

@@ -13,7 +13,7 @@ tags:
     - template
 ---
 
-For all you [GitHub](http://github.com) lovers out there. {#for-all-you-github-lovers-out-there. style="text-align:center;"}
+For all you [GitHub](https://github.com) lovers out there. {#for-all-you-github-lovers-out-there. style="text-align:center;"}
 =========================================================
 
 https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46

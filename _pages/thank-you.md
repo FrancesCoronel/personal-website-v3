@@ -16,7 +16,7 @@ So once again, thank you for your donation.
 
 Here's a virtual hug. It's not much, but it *is* a really cute `GIF`.
 
-![](http://www.quick-break.net/c/2013/05/08/Send_virtual_hug.gif){.aligncenter}
+![](https://www.quick-break.net/c/2013/05/08/Send_virtual_hug.gif){.aligncenter}
 
 > With much gratitude,
 >

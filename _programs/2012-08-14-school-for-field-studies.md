@@ -9,10 +9,10 @@ header:
 <img class="size-full wp-image-3453" src="https://fvcproductions.files.wordpress.com/2015/11/sfs.png" alt="SFS - Logo" width="512" height="512" />
 <code>July 16, 2012 to August 14, 2012</code>
 <em>School for Field Studies</em>
-<strong><a title="SFS" href="http://www.fieldstudies.org/eastafrica" target="_blank">Wildlife Management Studies - Techniques for Wildlife Field Research</a></strong>
+<strong><a title="SFS" href="https://www.fieldstudies.org/eastafrica" target="_blank">Wildlife Management Studies - Techniques for Wildlife Field Research</a></strong>
 Various Locations - Tanzania
 
-<a href="http://fvcproductions.com/2013/07/28/blog-post-from-tanzania/" target="_blank">Learn more</a>
+<a href="https://fvcproductions.com/2013/07/28/blog-post-from-tanzania/" target="_blank">Learn more</a>
 
 [gallery type="rectangular" size="full" ids="3782,3778,3781,3792,3803,3799,3762,3758,3770,3783,3760,3780" orderby="rand"]
 
@@ -21,11 +21,11 @@ Various Locations - Tanzania
 `July 2012 to August 2012`\
 *School for Field Studies*\
 **[Wildlife Management Studies - Techniques for Wildlife Field
-Research](http://www.fieldstudies.org/eastafrica "SFS")**\
+Research](https://www.fieldstudies.org/eastafrica "SFS")**\
 Various Locations - Tanzania
 
 [Learn
-more](http://fvcproductions.com/2013/07/28/blog-post-from-tanzania/)
+more](https://fvcproductions.com/2013/07/28/blog-post-from-tanzania/)
 
 ▸ The School for Field Studies creates transformative study abroad
 experiences through field-based learning and research. Students part of

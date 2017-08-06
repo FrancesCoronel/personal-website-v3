@@ -16,7 +16,7 @@ login: fvcproductions email: fvcproductions@gmail.com display\_name:
  excerpt: All the
 Cornell Tech logos in one place. ---
 
-Check out the logos at [`fvcproductions.github.io/cornell-tech-logos`](http://fvcproductions.github.io/cornell-tech-logos) {#check-out-the-logos-at--a-href--http:--fvcproductions.github.io-cornell-tech-logos--target--_blank---code-fvcproductions.github.io-cornell-tech-logos--code---a-}
+Check out the logos at [`fvcproductions.github.io/cornell-tech-logos`](https://fvcproductions.github.io/cornell-tech-logos) {#check-out-the-logos-at--a-href--http:--fvcproductions.github.io-cornell-tech-logos--target--_blank---code-fvcproductions.github.io-cornell-tech-logos--code---a-}
 --------------------------------------------------------------------------------------------------------------------------
 
  
@@ -49,9 +49,9 @@ Links
 -----
 
 -   **GitHub Repo**
-    [`fvcproductions/cornell-tech-logos`](http://github.com/fvcproductions/cornell-tech-logos)
+    [`fvcproductions/cornell-tech-logos`](https://github.com/fvcproductions/cornell-tech-logos)
 -   **Website**
-    [`fvcproductions.github.io/cornell-tech-logos`](http://fvcproductions.github.io/cornell-tech-logos)
+    [`fvcproductions.github.io/cornell-tech-logos`](https://fvcproductions.github.io/cornell-tech-logos)
 
 Contributing
 ------------
@@ -73,9 +73,9 @@ Contributing
 License
 -------
 
-2016 © [FVCproductions](http://fvcproductions.com)
+2016 © [FVCproductions](https://fvcproductions.com)
 
-Logos taken from [Cornell Tech](http://tech.cornell.edu)
+Logos taken from [Cornell Tech](https://tech.cornell.edu)
 
 Donations
 ---------
@@ -83,4 +83,4 @@ Donations
 > Feed me… 🍕
 
 [![Donate via
-PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](http://paypal.me/fvcproductions)
+PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](https://paypal.me/fvcproductions)

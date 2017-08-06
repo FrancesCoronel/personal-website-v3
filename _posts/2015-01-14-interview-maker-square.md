@@ -37,7 +37,7 @@ tags:
 
 ![](https://m1.behance.net/rendition/modules/124031971/disp/fa0c76d4bd39b9bc82c8cf32b90cd846.png){.aligncenter}
 
-My Experience with [MakerSquare](http://www.makersquare.com "MakerSquare") {#my-experience-with-makersquare style="text-align:center;"}
+My Experience with [MakerSquare](https://www.makersquare.com "MakerSquare") {#my-experience-with-makersquare style="text-align:center;"}
 ==========================================================================
 
 > This is where I’ll go through how my admissions process was with
@@ -55,7 +55,7 @@ My Experience with [MakerSquare](http://www.makersquare.com "MakerSquare") {#my-
 -   You fill out the virtual application for MakerSquare
     [here](https://makersquare.typeform.com/to/MO9OFv "App MakerSquare").
     They use a special application called
-    [Typeform](http://www.typeform.com/ "Typeform") for their admissions
+    [Typeform](https://www.typeform.com/ "Typeform") for their admissions
     process, so it’s pretty snazzy.
 -   Once you fill this app out, they’ll give you the link for the 1st
     admissions challenge, which was very simple. I think this challenge
@@ -167,7 +167,7 @@ questions were answered by Shaan.
     noticed that more technical skills were needed to build these
     projects, so I tried immersing myself in the software development
     area. I actually went through [Starter
-    League](http://www.starterleague.com "Starter League") in Chicago
+    League](https://www.starterleague.com "Starter League") in Chicago
     back when they had part-time classes. That’s essentially how I
     transitioned from finance to software.
 7.  **What do you guys recommend students do outside of the course?** We
@@ -217,22 +217,22 @@ Here’s part of the email they sent me:
 I also have shared my **interview experience** with bootcamps such as
 
 -   [Bitmaker
-    Labs](http://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
+    Labs](https://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
 -   [Coding
-    Dojo](http://fvcproductions.com/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
+    Dojo](https://fvcproductions.com/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
 -   [Coding
-    House](http://fvcproductions.com/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
--   [Designation](http://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+    House](https://fvcproductions.com/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
+-   [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
 -   [Dev
-    League](http://fvcproductions.com/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
+    League](https://fvcproductions.com/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
 -   [Fullstack
-    Academy](http://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+    Academy](https://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
 -   [Hack
-    Reactor](http://fvcproductions.com/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
+    Reactor](https://fvcproductions.com/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
 
 ------------------------------------------------------------------------
 
 Tips or tricks?
 
 > Contact me
-> [@fvcproductions](http://twitter.com/fvcproductions "Twitter - FVCproductions")
+> [@fvcproductions](https://twitter.com/fvcproductions "Twitter - FVCproductions")

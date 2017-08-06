@@ -33,7 +33,7 @@ gallery:
 
 > Institution
 
-## <a title="Jacobs University Bremen" href="http://www.jacobs-university.de" target="_blank">Jacobs University Bremen</a>
+## <a title="Jacobs University Bremen" href="https://www.jacobs-university.de" target="_blank">Jacobs University Bremen</a>
 
 > Location
 

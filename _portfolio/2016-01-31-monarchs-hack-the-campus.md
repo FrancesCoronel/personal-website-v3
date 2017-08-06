@@ -20,8 +20,8 @@ Check out the Typeform at `mhtc-spring-2016.typeform.com/to/RXB7sy`. {#check-out
 
  
 
-For an upcoming hackathon at [ODU](http://odu.edu) dubbed
-[`Monarchs Hack the Campus`](http://www.cs.odu.edu/~acm/hackathon/), I'm
+For an upcoming hackathon at [ODU](https://odu.edu) dubbed
+[`Monarchs Hack the Campus`](https://www.cs.odu.edu/~acm/hackathon/), I'm
 acting as a volunteer and am already helping out with some pretty big
 tasks.
 
@@ -45,11 +45,11 @@ orderby="rand"\]
 
 ### Tools
 
--   [HTML5UP](http://html5up.net)
+-   [HTML5UP](https://html5up.net)
 -   [Sublime Text](https://github.com/fvcproductions/Sublime)
 -   [CodeKit](https://incident57.com/codekit/)
 -   [Sketch](https://www.sketchapp.com/)
--   [Typeform](http://typeform.com)
+-   [Typeform](https://typeform.com)
 
 ### GitHub Repo
 

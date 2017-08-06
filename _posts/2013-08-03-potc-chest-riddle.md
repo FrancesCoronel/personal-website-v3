@@ -28,15 +28,15 @@ tags:
 except it uses POTC references.**
 
 **So basically it's like [Star Trek
-Monopoly](http://www.amazon.com/USAopoly-MN066-201-Monopoly-Star-Continuum/dp/B001SN8G8G "Star Trek Monopoly"),
+Monopoly](https://www.amazon.com/USAopoly-MN066-201-Monopoly-Star-Continuum/dp/B001SN8G8G "Star Trek Monopoly"),
 a spoof of the original.**
 
 **Made it up on by own and really love it so hope you do too.**
 
 \[caption id="attachment\_133" align="aligncenter" width="414"\][![POTC
-Riddle](http://fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-08-46-am.png){.size-full
+Riddle](https://fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-08-46-am.png){.size-full
 .wp-image-133 width="414"
-height="748"}](http://fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-08-46-am.png)
+height="748"}](https://fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-08-46-am.png)
 POTC Riddle\[/caption\]
 
 You are Jack Sparrow, Captain Jack Sparrow of the Black Pearl, and are
@@ -72,7 +72,7 @@ You bravely accept his challenge and he tells you that,
 Assuming that the phantom is telling the truth, how will you, Captain
 Jack Sparrow, label the chests correctly and avoid certain death??\
 **Want the
-[answer](http://fvcproductions.com/2014/07/20/answer-to-potc-logic-riddle/ "Answer To POTC Logic Riddle")?!**
+[answer](https://fvcproductions.com/2014/07/20/answer-to-potc-logic-riddle/ "Answer To POTC Logic Riddle")?!**
 
 The password is `sparrow``.`
 
@@ -110,7 +110,7 @@ OR
 **So if you were able to figure it out, HUZZAH! Here's Jack
 congratulating you on a job well done.**
 
-![](http://i174.photobucket.com/albums/w99/bandkock/pirates3news/JackSaoCrew.jpg){.aligncenter
+![](https://i174.photobucket.com/albums/w99/bandkock/pirates3news/JackSaoCrew.jpg){.aligncenter
 width="800" height="532"}
 
 If not...
@@ -118,6 +118,6 @@ If not...
 **TO DAVY JONE'S LOCKER WITH YA!**
 
 \[caption id="" align="aligncenter"
-width="787"\][![](http://fc09.deviantart.net/fs71/f/2012/091/8/8/888932a04770474f05192ad81845df50-d4uoswh.jpg){width="787"
-height="1181"}](http://celticbotan.deviantart.com/art/Chibi-Davy-Jones-293410385)
+width="787"\][![](https://fc09.deviantart.net/fs71/f/2012/091/8/8/888932a04770474f05192ad81845df50-d4uoswh.jpg){width="787"
+height="1181"}](https://celticbotan.deviantart.com/art/Chibi-Davy-Jones-293410385)
 Aww, but it's the chibi version..\[/caption\]

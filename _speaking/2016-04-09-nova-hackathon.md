@@ -27,7 +27,7 @@ gallery:
 
 > Name
 
-## <a title="InNOVAtion Hackathon" href="http://novahackathon.org" target="_blank">InNOVAtion Hackathon</a>
+## <a title="InNOVAtion Hackathon" href="https://novahackathon.org" target="_blank">InNOVAtion Hackathon</a>
 
 > Organizer
 

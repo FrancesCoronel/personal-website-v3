@@ -29,11 +29,11 @@ My mom even sent a letter
 to [Gottfrid](https://www.facebook.com/pages/Gottfrid-Svartholm/103131853059969){.profileLink}...
 
 \[caption id="attachment\_777" align="aligncenter" width="224" class="
-"\]![IMG\_0001](http://fvcproductions.files.wordpress.com/2014/09/img_0001.jpg?w=224){.wp-image-777
+"\]![IMG\_0001](https://fvcproductions.files.wordpress.com/2014/09/img_0001.jpg?w=224){.wp-image-777
 .size-medium width="224" height="300"} The package\[/caption\]
 
 \[caption id="attachment\_778" align="aligncenter" width="224" class="
-"\]![IMG\_0004](http://fvcproductions.files.wordpress.com/2014/09/img_0004.jpg?w=224){.wp-image-778
+"\]![IMG\_0004](https://fvcproductions.files.wordpress.com/2014/09/img_0004.jpg?w=224){.wp-image-778
 .size-medium width="224" height="300"} The letter.\[/caption\]
 
 **Later today**, my mum provided the receipt that she got from the

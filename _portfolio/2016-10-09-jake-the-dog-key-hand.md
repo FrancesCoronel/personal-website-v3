@@ -36,7 +36,7 @@ Won award of **Best Security Privacy Hack** sponsored by Ubisoft with
 the prize being two copies of `Watch Dog 2`
 
 > Check out the hack at
-> [fvcproductions.github.io/leap-auth-home](http://fvcproductions.tech/leap-auth-home)
+> [fvcproductions.github.io/leap-auth-home](https://fvcproductions.tech/leap-auth-home)
 
 \[gallery type="rectangular" size="large" ids="5026,4958,4959"\]
 
@@ -82,6 +82,6 @@ numbers).
 -   Devpost Hack
     [`devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v`](https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v)
 -   GitHub Repo
-    [`github.com/fvcproductions/leap-auth-home`](http://fvcproductions/leap-auth-home)
+    [`github.com/fvcproductions/leap-auth-home`](https://fvcproductions/leap-auth-home)
 -   Twitter [`@kenthackenough`](https://twitter.com/kenthackenough)
--   Website [`2016.khe.io`](http://2016.khe.io/)
+-   Website [`2016.khe.io`](https://2016.khe.io/)

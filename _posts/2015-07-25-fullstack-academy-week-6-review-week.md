@@ -21,7 +21,7 @@ tags:
 > July 13th to July 17th
 >
 > There are [57]{style="text-decoration:line-through;"} 52 days of
-> [**Fullstack Academy**](http://www.fullstackacademy.com).
+> [**Fullstack Academy**](https://www.fullstackacademy.com).
 >
 > These are days 29 through 33 (Week 6).
 >
@@ -64,8 +64,8 @@ Day Three - Wednesday {#daythree-wednesday}
     mini-competition for the best flashcard design. We each get a
     Fullstack t-shirt (I still haven’t gotten this yet -\_\_-).
 -   Here’s how the home page for our design ended up looking like, more
-    or less: ![HomePage](http://i.imgur.com/8Lh7IJw.png){.aligncenter}
--   We used [FlatUI](http://designmodo.github.io/Flat-UI/), naturally.
+    or less: ![HomePage](https://i.imgur.com/8Lh7IJw.png){.aligncenter}
+-   We used [FlatUI](https://designmodo.github.io/Flat-UI/), naturally.
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ Day Five - Friday {#dayfive-friday}
     deck](https://docs.google.com/presentation/d/1ZUYwxJzXCNsvC7x_tiwVRCIGVljh5EFzanV1U9WJl18/edit?usp=sharing)
     showcasing a bunch of web dev stuff I feel is relevant. I should
     probably update it soon. ![Fullstack Web Dev Tips and
-    Tricks](http://i.imgur.com/hDbtU5A.png){.aligncenter}
+    Tricks](https://i.imgur.com/hDbtU5A.png){.aligncenter}
 -   We go over what’s going to be in senior phase.
     -   Unfortunately, I think I will only be able to work with other
         college of code students on my final project, since we have 2
@@ -103,7 +103,7 @@ Day Five - Friday {#dayfive-friday}
 > > I’m a senior in every aspect now!
 > >
 > > ![Keep Calm Terminal
-> > Style](http://sd.keepcalm-o-matic.co.uk/i/keep-calm-because-finally-i-m-senior-8.png){.aligncenter}
+> > Style](https://sd.keepcalm-o-matic.co.uk/i/keep-calm-because-finally-i-m-senior-8.png){.aligncenter}
 
 ------------------------------------------------------------------------
 
@@ -130,7 +130,7 @@ Review Week! {#reviewweek}
 > Friday
 
 -   I got to 4 kyu on
-    [Codewars](http://codewars.com/users/fvcproductions) today.
+    [Codewars](https://codewars.com/users/fvcproductions) today.
     FINALLLLLLYYYY.
 -   While working late, I come across this show called [**Dating
     Naked**](https://www.wikiwand.com/en/Dating_Naked) and I’m just
@@ -140,13 +140,13 @@ Review Week! {#reviewweek}
 > Saturday
 
 -   This Saturday, I’ll be attending the [Sally
-    Conference](http://www.meetup.com/WomenWhoCodeNYC/events/223064683/).
+    Conference](https://www.meetup.com/WomenWhoCodeNYC/events/223064683/).
     The tickets are **300 DOLLARS**, but Shanna G., who is part of the
     hiring team here at Fullstack, had some free tickets to give out -
     so to you, Shanna, I say…
 
 ![Thank
-you.](http://media.giphy.com/media/3oEduJnper1UdNqreg/giphy.gif){.aligncenter}
+you.](https://media.giphy.com/media/3oEduJnper1UdNqreg/giphy.gif){.aligncenter}
 
 ![Sally
 Conference](https://fvcproductions.files.wordpress.com/2015/07/106e4-1432076952614.png){.aligncenter}
@@ -158,31 +158,31 @@ Conference](https://fvcproductions.files.wordpress.com/2015/07/106e4-14320769526
 > So Far
 
 -   [The Search
-    🔍](http://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
--   [The Application 📝](http://fvcproductions.com/2014/12/23/week-20/)
+    🔍](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
+-   [The Application 📝](https://fvcproductions.com/2014/12/23/week-20/)
 -   [The Preparation
-    📚](http://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/)
+    📚](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/)
 -   [The Interview
-    💻](http://fvcproductions.com/2014/12/28/interview-fullstack-academy/)
+    💻](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/)
 -   [The Decision
-    ⏳](http://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/)
+    ⏳](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/)
 -   [Fullstack Foundations - Week 1
-    ⚡️](http://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/)
+    ⚡️](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/)
 -   [Fullstack Foundations - Weeks 2 to 4
-    🚀](http://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/)
+    🚀](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/)
 -   [Fullstack Academy - Week 1
-    💫](http://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/)
+    💫](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/)
 -   [Fullstack Academy - Week 2
-    ⌘⌘](http://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
+    ⌘⌘](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
 -   [Fullstack Academy - Week 3
-    🔦🔦🔦](http://fvcproductions.com/2015/06/26/fullstack-academy-week-3/)
+    🔦🔦🔦](https://fvcproductions.com/2015/06/26/fullstack-academy-week-3/)
 -   [Fullstack Academy - Week 4
-    💲🔮🔮💲](http://fvcproductions.com/2015/07/03/fullstack-academy-week-4/)
+    💲🔮🔮💲](https://fvcproductions.com/2015/07/03/fullstack-academy-week-4/)
 -   [Fullstack Academy - Week 5
-    💕💓💕](http://fvcproductions.com/2015/07/11/fullstack-academy-week-5/)
+    💕💓💕](https://fvcproductions.com/2015/07/11/fullstack-academy-week-5/)
 
 ------------------------------------------------------------------------
 
 > *Tips or tricks?* :idea:
 >
-> > tweet me at [`@fvcproductions`](http://twitter.com/fvcproductions).
+> > tweet me at [`@fvcproductions`](https://twitter.com/fvcproductions).

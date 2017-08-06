@@ -7,7 +7,7 @@ excerpt: You want to view someone on LinkedIn but you don't have a profile and h
 **The Problem**
 ===============
 
-You want to view someone on [LinkedIn](http://linkedin.com/in/fvcproductions) but you don't have a profile and have no desire to create an account.
+You want to view someone on [LinkedIn](https://linkedin.com/in/fvcproductions) but you don't have a profile and have no desire to create an account.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Or* you want to view a profile but without the person knowing and you're definitely not willing to spend all that cash on the premium upgrade which would allow you to do that (it's 25+ bucks/month!!!). 💸  💸  💸 ** **
@@ -41,7 +41,7 @@ Extension](https://fvcproductions.files.wordpress.com/2017/01/stylebot-chrome-we
 height="476"}](https://fvcproductions.files.wordpress.com/2017/01/stylebot-chrome-web-store.png)
 Stylebot Chrome Extension\[/caption\]
 
-Step 2. [Install Style in Stylebot](http://stylebot.me/styles/15975)
+Step 2. [Install Style in Stylebot](https://stylebot.me/styles/15975)
 --------------------------------------------------------------------
 
 I created this style using Stylebot that will allow us to avoid looking

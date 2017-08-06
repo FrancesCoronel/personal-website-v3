@@ -44,7 +44,7 @@ tags:
 get into the proper mood to be able to blog about such and such.
 
 [A]{.dropcap}s a result, there are now only **7** days of
-[**Fullstack**](http://www.fullstackacademy.com) left.
+[**Fullstack**](https://www.fullstackacademy.com) left.
 
 > Yup, just **7 MORE DAYS**.
 
@@ -57,12 +57,12 @@ What](https://33.media.tumblr.com/4a1750cc9cf2b68c3c58799bcf2f4173/tumblr_nshpk7
 SERIOUSLY?? {#seriously style="text-align:center;"}
 -----------
 
-![Seriously](http://i3.kym-cdn.com/photos/images/original/000/363/814/eb7.gif){.aligncenter}
+![Seriously](https://i3.kym-cdn.com/photos/images/original/000/363/814/eb7.gif){.aligncenter}
 
 ### AND here's a `GIF` on how I feel about my lack of blogging so far here in my senior phase. {#andthenjustasimplegifonhowifeelaboutmylackofbloggingsofarhereinmyseniorphase.}
 
 ![Computer
-Reaction](http://i1.kym-cdn.com/photos/images/newsfeed/000/228/791/632.gif){.aligncenter}
+Reaction](https://i1.kym-cdn.com/photos/images/newsfeed/000/228/791/632.gif){.aligncenter}
 
 ------------------------------------------------------------------------
 
@@ -123,7 +123,7 @@ What's Left {#myseniorphase style="text-align:center;"}
 
 ------------------------------------------------------------------------
 
-![TimeTravel](http://33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif){.aligncenter}
+![TimeTravel](https://33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif){.aligncenter}
 
 ------------------------------------------------------------------------
 
@@ -228,7 +228,7 @@ Friday
 -   In my head, I was thinking this is how the speech was going to go
     since I practiced and such:
 
-![MinionsSpeech](http://33.media.tumblr.com/8642075103c54ee6eae9bb3808377121/tumblr_noenylQkFh1s8njeuo1_500.gif){.aligncenter}
+![MinionsSpeech](https://33.media.tumblr.com/8642075103c54ee6eae9bb3808377121/tumblr_noenylQkFh1s8njeuo1_500.gif){.aligncenter}
 
 -   But in reality, when I tried to speak it out, my entire face started
     to almost melt and I felt this strange sense of uncertainty all
@@ -346,7 +346,7 @@ speaking skills (perhaps through Toastmasters?)
 
 ------------------------------------------------------------------------
 
-![TimeTravel](http://33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif){.aligncenter}
+![TimeTravel](https://33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif){.aligncenter}
 
 ------------------------------------------------------------------------
 
@@ -364,7 +364,7 @@ speaking skills (perhaps through Toastmasters?)
         till Monday to work on it, so *ughhhhh*.
 
 > My team’s Stackstore. See it in full glory on Heroku at
-> [`http://robopocalypse.herokuapp.com`](http://robopocalypse.herokuapp.com).
+> [`https://robopocalypse.herokuapp.com`](https://robopocalypse.herokuapp.com).
 
 \[gallery type="slideshow" link="file" size="full"
 ids="2630,2631,2632,2633,2634,2635,2636,2637,2638,2639,2640,2641,2642,2643,2644,2645,2646,2647,2648,2649,2650"
@@ -378,7 +378,7 @@ https://speakerdeck.com/fvcproductions/web-design-tech-talk
 
 ------------------------------------------------------------------------
 
-![TimeTravel](http://33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif){.aligncenter}
+![TimeTravel](https://33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif){.aligncenter}
 
 ------------------------------------------------------------------------
 
@@ -448,7 +448,7 @@ https://speakerdeck.com/fvcproductions/hiredot-wireframing
 
 ------------------------------------------------------------------------
 
-![TimeTravel](http://33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif){.aligncenter}
+![TimeTravel](https://33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif){.aligncenter}
 
 ------------------------------------------------------------------------
 
@@ -495,7 +495,7 @@ https://speakerdeck.com/fvcproductions/hiredot-wireframing
 
 > How I feel my capstone group is like compared to other groups.
 
-![CapstoneGroup](http://vignette4.wikia.nocookie.net/parody/images/9/9f/Kevin_and_bob_are_bananas.jpg/revision/latest?cb=20141105152333){.aligncenter}
+![CapstoneGroup](https://vignette4.wikia.nocookie.net/parody/images/9/9f/Kevin_and_bob_are_bananas.jpg/revision/latest?cb=20141105152333){.aligncenter}
 
 ------------------------------------------------------------------------
 
@@ -504,7 +504,7 @@ https://speakerdeck.com/fvcproductions/hiredot-wireframing
 
 ------------------------------------------------------------------------
 
-![HiredotHome](http://i.imgur.com/d2OfxQX.png){.aligncenter}
+![HiredotHome](https://i.imgur.com/d2OfxQX.png){.aligncenter}
 
 ------------------------------------------------------------------------
 
@@ -513,11 +513,11 @@ BUT W8! {#butw8}
 
 > Free hug.
 
-![FreeHug](http://i2.kym-cdn.com/photos/images/newsfeed/000/628/413/b92.gif){.aligncenter}
+![FreeHug](https://i2.kym-cdn.com/photos/images/newsfeed/000/628/413/b92.gif){.aligncenter}
 
 > Also, I really feel like dancing.
 
-![Timber](http://i.imgur.com/FF7bjxO.png){.aligncenter}
+![Timber](https://i.imgur.com/FF7bjxO.png){.aligncenter}
 
 \[youtube=“https://youtu.be/hHUbLv4ThOo”\]
 
@@ -528,35 +528,35 @@ BUT W8! {#butw8}
 > So Far
 
 -   [The Search
-    🔍](http://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
--   [The Application 📝](http://fvcproductions.com/2014/12/23/week-20/)
+    🔍](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
+-   [The Application 📝](https://fvcproductions.com/2014/12/23/week-20/)
 -   [The Preparation
-    📚](http://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/)
+    📚](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/)
 -   [The Interview
-    💻](http://fvcproductions.com/2014/12/28/interview-fullstack-academy/)
+    💻](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/)
 -   [The Decision
-    ⏳](http://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/)
+    ⏳](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/)
 -   [Fullstack Foundations - Week 1
-    ⚡️](http://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/)
+    ⚡️](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/)
 -   [Fullstack Foundations - Weeks 2 to 4
-    🚀](http://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/)
+    🚀](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/)
 -   [Fullstack Academy - Week 1
-    💫](http://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/)
+    💫](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/)
 -   [Fullstack Academy - Week 2
-    ⌘⌘](http://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
+    ⌘⌘](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
 -   [Fullstack Academy - Week 3
-    🔦🔦🔦](http://fvcproductions.com/2015/06/26/fullstack-academy-week-3/)
+    🔦🔦🔦](https://fvcproductions.com/2015/06/26/fullstack-academy-week-3/)
 -   [Fullstack Academy - Week 4
-    💲🔮🔮💲](http://fvcproductions.com/2015/07/03/fullstack-academy-week-4/)
+    💲🔮🔮💲](https://fvcproductions.com/2015/07/03/fullstack-academy-week-4/)
 -   [Fullstack Academy - Week 5
-    💕💓💕](http://fvcproductions.com/2015/07/11/fullstack-academy-week-5/)
+    💕💓💕](https://fvcproductions.com/2015/07/11/fullstack-academy-week-5/)
 -   [Fullstack Academy - Week 6 and Review Week
-    🃏🃏🃏🃏🃏🃏](http://fvcproductions.com/2015/07/25/fullstack-academy-week-6-review-week/)
+    🃏🃏🃏🃏🃏🃏](https://fvcproductions.com/2015/07/25/fullstack-academy-week-6-review-week/)
 -   [Web Dev & Design Slides | Fullstack Academy
-    🎨](http://fvcproductions.com/2015/08/05/web-dev-and-web-design-slides-fullstack-academy/)
+    🎨](https://fvcproductions.com/2015/08/05/web-dev-and-web-design-slides-fullstack-academy/)
 
 ------------------------------------------------------------------------
 
 > *Tips or tricks?* :idea:
 >
-> > tweet me at [`@fvcproductions`](http://twitter.com/fvcproductions).
+> > tweet me at [`@fvcproductions`](https://twitter.com/fvcproductions).

@@ -63,7 +63,7 @@ through the motions.
 
 ![](https://fvcproductions.files.wordpress.com/2015/01/img_0075.jpg){.aligncenter}
 
-Using [Super Shuttle](http://www.supershuttle.com/) to go to the hotel,
+Using [Super Shuttle](https://www.supershuttle.com/) to go to the hotel,
 which is cheaper than a standard taxi and also feels safer and less
 awkward because there are other people driving with you.
 
@@ -110,7 +110,7 @@ next time
 
 First official AI event was a tutorial called `RoboCup`, which
 (surprise, surprise) talked about some of the leagues involved in the
-[RoboCup competition](http://en.wikipedia.org/wiki/RoboCup). Stayed for
+[RoboCup competition](https://en.wikipedia.org/wiki/RoboCup). Stayed for
 `RoboCup Soccer` and `RoboCup Rescue`. Both presentations were enhanced
 through video footage, but I think I preferred the soccer presentation
 more just because the speaker went a little faster and it easier to
@@ -159,7 +159,7 @@ game going on, so I left.
 ![](https://fvcproductions.files.wordpress.com/2015/01/img_0090.jpg){.aligncenter}
 
 Finally, there was the fancy reception at the [Gates-Dell
-Complex](http://www.utexas.edu/maps/main/buildings/gdc.html) over at UT
+Complex](https://www.utexas.edu/maps/main/buildings/gdc.html) over at UT
 Austin (so many orange shirts!).
 ![](https://fvcproductions.files.wordpress.com/2015/01/img_0094.jpg){.aligncenter}
 The complex basically houses the entire CS department and is definitely
@@ -185,7 +185,7 @@ a little staticky.
 
 About 15 minutes after the opening remarks, [Oren
 Etzioni](https://homes.cs.washington.edu/~etzioni/), an invited speaker
-and also the CEO of [Ai2](http://allenai.org/team.html), goes ahead and
+and also the CEO of [Ai2](https://allenai.org/team.html), goes ahead and
 delivers his talk. What was really cool was when he showed his
 sneak-peek demo of `Semantic Scholar` which is this search engine that
 allows users to find key survey papers about a topic or to produce a
@@ -200,7 +200,7 @@ good. More discussion on that quote
 He also discouraged focusing on one particular method in AI for
 research/projects and instead encouraged that people try and build
 [integrated
-systems](http://en.wikipedia.org/wiki/Artificial_intelligence_systems_integration)
+systems](https://en.wikipedia.org/wiki/Artificial_intelligence_systems_integration)
 that use all the different methods instead, even it does take longer and
 is generally more difficult to perform.
 
@@ -213,13 +213,13 @@ to appeal to a broader audience.
 ![](https://fvcproductions.files.wordpress.com/2015/01/img_0121.jpg){.aligncenter}
 
 For the lunch break, I visit the
-[MakerSquare](http://www.makersquare.com/) location in Austin, which is
+[MakerSquare](https://www.makersquare.com/) location in Austin, which is
 conveniently located about 20 minutes away from the hotel walking. I get
 a quick tour of the space and am able to ask Amanda, the admissions
 director, a few questions about future changes in MakerSquare since
 they’ve recently been acquired by Hack Reactor. I’m considering whether
 I should attend MakerSquare or [Fullstack
-Academy](http://www.fullstackacademy.com/) for the summer or if I should
+Academy](https://www.fullstackacademy.com/) for the summer or if I should
 just forget about bootcamps altogether and focus on an internship
 instead. It’ll be a very difficult decision, regardless.
 
@@ -227,7 +227,7 @@ instead. It’ll be a very difficult decision, regardless.
 
 I attend the Shakey celebration for a short while and was amused and
 excited by how far we’ve gone since [this
-guy](http://en.wikipedia.org/wiki/Shakey_the_robot).
+guy](https://en.wikipedia.org/wiki/Shakey_the_robot).
 
 ![](https://www.frc.ri.cmu.edu/~hpm/project.archive/robot.papers/2000/revo.slides/1970b.jpg){.aligncenter}
 
@@ -263,7 +263,7 @@ over my head where I could really go ahead and comprehend the majority
 of what they were speaking about.
 
 Next up, after an ML session, an invited talk from [Geoffrey
-Hinton](http://en.wikipedia.org/wiki/Geoffrey_Hinton), and lunch, there
+Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), and lunch, there
 was the community meeting. I was to act as a volunteer and pass out
 little tickets that would act as a complimentary drink for anyone who
 was going to attend the meeting. It was meant to serve as an incentive,
@@ -310,7 +310,7 @@ The moderator was pretty snazzy so it was fun either way.
 ![](https://fvcproductions.files.wordpress.com/2015/01/img_0137.jpg)
 
 A lot of people didn’t know what the [Price is
-Right](http://www.priceisright.com/) was (frankly, neither did I) and I
+Right](https://www.priceisright.com/) was (frankly, neither did I) and I
 ended up spilling the same story every time: the *Price is Right* is
 where you estimate the price of certain things and it’s all about
 estimation and probability. There was a larger turn-up than I expected
@@ -337,8 +337,8 @@ Day 5 - Thursday, January 28
 ----------------------------
 
 Early in the morning, there is a speaker from the [IBM Watson Research
-Center](http://www.research.ibm.com/labs/watson/) called [Meinolf
-Sellmann](http://en.wikipedia.org/wiki/Meinolf_Sellmann).
+Center](https://www.research.ibm.com/labs/watson/) called [Meinolf
+Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann).
 
 I recall that he’s one of the fellows I traveled with through the Super
 Shuttle service on my way to the conference. I remember because some
@@ -355,14 +355,14 @@ https://www.youtube.com/watch?v=AplG6KnOr2Q
 
 Then there was a short period for the awards for the video competition.
 Needless to say, it was pretty awesome seeing an [artificially
-intelligent Mario](http://www.aaaivideos.org/2015/14_mario_lives/)!
+intelligent Mario](https://www.aaaivideos.org/2015/14_mario_lives/)!
 
 After a session on NLP, it’s time for more student fellowship talks.
 
 Ph.D students never fail to be interesting. Well, most of the time.
 
 It was fun to learn more about affordance models, because it reminded me
-of [Baxter](http://www.rethinkrobotics.com/baxter/), who I’m familiar
+of [Baxter](https://www.rethinkrobotics.com/baxter/), who I’m familiar
 with, even though the student was using [Curi from Georgia
 Tech](https://www.youtube.com/watch?v=OthjhGv6iIM).
 
@@ -468,17 +468,17 @@ All in all, it’s been rather delightful.
 
 ------------------------------------------------------------------------
 
-\[gigya src="http://prezi.com/bin/preziloader.swf"
+\[gigya src="https://prezi.com/bin/preziloader.swf"
 allowfullscreen="true" allowscriptaccess="always" width="550"
 height="400" bgcolor="\#ffffff"
 flashvars="prezi\_id=8yrxnvwr2bfo&lock\_to\_path=1&color=ffffff&autoplay=no&autohide\_ctrls=0"
 \]
 
 If Prezi does not work, check it out
-[here](http://prezi.com/8yrxnvwr2bfo/?utm_campaign=share&utm_medium=copy&rc=ex0share "Prezi")!
+[here](https://prezi.com/8yrxnvwr2bfo/?utm_campaign=share&utm_medium=copy&rc=ex0share "Prezi")!
 
 ------------------------------------------------------------------------
 
 > Tips or tricks?
 >
-> > contact me [@fvcproductions](http://twitter.com/fvcproductions)
+> > contact me [@fvcproductions](https://twitter.com/fvcproductions)

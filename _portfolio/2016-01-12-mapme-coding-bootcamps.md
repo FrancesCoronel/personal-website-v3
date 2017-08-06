@@ -1,11 +1,11 @@
---- 
+---
 title: "MapMe | Coding Bootcamps \\U0001F37B"
 date: 2016-01-12
 excerpt: A crowd-sourced map for coding bootcamps.
 ---
 
 Check out the **crowd-sourced** map at\
-[`mapme.com/coding-bootcamps`](http://mapme.com/coding-bootcamps) {#check-out-the-crowd-sourced-map-at-mapme.comcoding-bootcamps style="text-align:center;"}
+[`mapme.com/coding-bootcamps`](https://mapme.com/coding-bootcamps) {#check-out-the-crowd-sourced-map-at-mapme.comcoding-bootcamps style="text-align:center;"}
 =================================================================
 
  
@@ -15,10 +15,10 @@ more geographically/visually oriented website that showed all the
 physical coding bootcamps that are available out there.
 
 In comes [**Coding
-Bootcamps**](http://mapme.com/coding-bootcamps "Coding Bootcamps"), *a
+Bootcamps**](https://mapme.com/coding-bootcamps "Coding Bootcamps"), *a
 crowd-sourced map* that provides links to in-person coding
 bootcamps/development schools located worldwide using the service
-[MapMe](http://mapme.com/ "Mapme").
+[MapMe](https://mapme.com/ "Mapme").
 
 > I began working on this project in **November 2014** and provided a
 > big update on **January 12, 2016**. It is still a WIP.
@@ -37,7 +37,7 @@ ids="3686,3687,3688,3689,3690,3691" orderby="rand"\]
 Tools
 -----
 
--   [MapMe](http://mapme.com/ "Mapme")
+-   [MapMe](https://mapme.com/ "Mapme")
 
 References
 ----------
@@ -48,4 +48,4 @@ Contribute
 ----------
 
 -   Add a bootcamp
-    [`using MapMe`](http://mapme.com/coding-bootcamps "Bootcamp.me - Mapme").
+    [`using MapMe`](https://mapme.com/coding-bootcamps "Bootcamp.me - Mapme").

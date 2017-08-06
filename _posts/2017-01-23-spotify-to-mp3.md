@@ -3,7 +3,7 @@ title: "Convert a Spotify Playlist to MP3 Files"
 excerpt: Want to convert all your favorite tunes from your Spotify playlist to mp3 files that can be imported to iTunes? Look no further.
 date: 2017-01-23
 header:
-    image: http://www.scdn.co/i/_global/open-graph-default.png
+    image: https://www.scdn.co/i/_global/open-graph-default.png
 tags:
     - spotify
     - playlists
@@ -31,7 +31,7 @@ Here in this playlist called Tutorial, I have 5 songs I want to download for lat
 
 IMAGE HERE
 
-## 2. Go to [_playlistbuddy.com_](http://playlistbuddy.com/) and login with your Spotify account.
+## 2. Go to [_playlistbuddy.com_](https://playlistbuddy.com/) and login with your Spotify account.
 
 Here, convert your desired playlist to a YouTube playlist.
 
@@ -41,7 +41,7 @@ IMAGE HERE
 
 ## 3. Install Homebrew
 
-[Homebrew](http://brew.sh/) allows us to install, remove and updated applications and packages. To install it, paste the following command in your Terminal (located under **Applications/Utilities/Terminal**)
+[Homebrew](https://brew.sh/) allows us to install, remove and updated applications and packages. To install it, paste the following command in your Terminal (located under **Applications/Utilities/Terminal**)
 
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"

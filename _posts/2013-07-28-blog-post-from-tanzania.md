@@ -18,7 +18,7 @@ header:
 > an international non-profit academic institution and the largest
 > environmental study abroad program in the US for college undergrads.
 > You can check out more about
-> SFS[here](http://www.fieldstudies.org/ "SFS")if you want (it's a great
+> SFS[here](https://www.fieldstudies.org/ "SFS")if you want (it's a great
 > program, seriously).**
 >
 > **So, without further ado, here are all the entries I created while on

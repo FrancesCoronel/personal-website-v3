@@ -13,7 +13,7 @@ header:
 A.I. International | Google Map {#a.i.-international-google-map style="text-align:center;"}
 ===============================
 
-Written and generated with **[Byword](http://bywordapp.com)**
+Written and generated with **[Byword](https://bywordapp.com)**
 
 *Copyright FVCproductions 2014-2015*
 
@@ -57,7 +57,7 @@ Tools
 -----
 
 -   This map uses the information provided by [AI
-    International](http://www.aiinternational.org/universities.html), a
+    International](https://www.aiinternational.org/universities.html), a
     site designed to help locate and share international AI research
     efforts.
 -   The map is created visually using [Google Maps Engine
@@ -82,4 +82,4 @@ Why?
 > **Tips or Tricks?**
 >
 > Tweet me at
-> [@fvcproductions](http://twitter.com/fvcproductions "FVCproductions on Twitter")
+> [@fvcproductions](https://twitter.com/fvcproductions "FVCproductions on Twitter")

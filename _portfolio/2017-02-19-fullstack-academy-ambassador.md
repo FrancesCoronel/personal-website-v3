@@ -10,7 +10,7 @@ header:
 
 > Presented February 19th, 2017
 
-<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/the-state-of-coding-bootcamps-2017">The State of Coding Bootcamps 2017</a></h4><p>FVCproductions http://fvcproductions.com</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/the-state-of-coding-bootcamps-2017">The State of Coding Bootcamps 2017</a></h4><p>FVCproductions https://fvcproductions.com</p></blockquote>
 
 ## My Summer of Code Experience
 

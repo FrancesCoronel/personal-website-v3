@@ -56,7 +56,7 @@ tags:
 So in your [launcher](https://chrome.google.com/webstore/launcher), you have all these lovely links to useful Google Apps and any apps you can find in the Chrome Web Store. {#so-in-your-launcher-you-have-all-these-lovely-links-to-useful-google-apps-and-any-apps-you-can-find-in-the-chrome-web-store. style="text-align:center;"}
 ============================================================================================================================================================================
 
-![](http://core0.staticworld.net/images/article/2013/02/applaunchersplash-100026310-orig.png){.aligncenter}
+![](https://core0.staticworld.net/images/article/2013/02/applaunchersplash-100026310-orig.png){.aligncenter}
 
 Unfortunately, if you have a website you visit regularly but isn’t
 available in the Chrome Web Store, there’s not much you can do.
@@ -82,19 +82,19 @@ Things You’ll Need
 ------------------
 
 > icons below were created using this [Pixel Icon
-> Generator](http://www.iconj.com/pixel_icon_generator.php)
+> Generator](https://www.iconj.com/pixel_icon_generator.php)
 
 ![](https://fvcproductions.files.wordpress.com/2015/02/chrome.png)
 
-[Chrome](http://www.google.com/chrome/) (derp)
+[Chrome](https://www.google.com/chrome/) (derp)
 
 ![](https://fvcproductions.files.wordpress.com/2015/02/sublime1.png)
 
-[A text editor](http://www.sublimetext.com/) (I prefer Sublime Text)
+[A text editor](https://www.sublimetext.com/) (I prefer Sublime Text)
 
 ![](https://fvcproductions.files.wordpress.com/2015/02/google.png)
 
-[Google-fu](http://www.urbandictionary.com/define.php?term=google-fu)
+[Google-fu](https://www.urbandictionary.com/define.php?term=google-fu)
 (Just a little!)
 
 ------------------------------------------------------------------------
@@ -252,4 +252,4 @@ Step 8
 
 > Tips or tricks?
 >
-> > contact me [@fvcproductions](http://twitter.com/fvcproductions)
+> > contact me [@fvcproductions](https://twitter.com/fvcproductions)

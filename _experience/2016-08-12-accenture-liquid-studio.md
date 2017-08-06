@@ -25,7 +25,7 @@ gallery:
 
 > Employer
 
-## <a title="Accenture Liquid Studio" href="http://accenture.com/us-en/capability-rapid-application-development-studio" target="_blank">Accenture Liquid Studio</a>
+## <a title="Accenture Liquid Studio" href="https://accenture.com/us-en/capability-rapid-application-development-studio" target="_blank">Accenture Liquid Studio</a>
 
 > Location
 
@@ -39,7 +39,7 @@ June 2016 to August 12, 2016
 
 The Accenture Liquid Studios are designed for rapid application development. They help companies become built for change through new skills, processes, products and ways of working.
 
-[<i class='fa fa-twitter'></i> @accenture](http://twitter.com/@accenture)
+[<i class='fa fa-twitter'></i> @accenture](https://twitter.com/@accenture)
 {: .btn .btn--twitter}
 
 [<i class='fa fa-linkedin'></i> LinkedIn](https://www.linkedin.com/company/accenture)

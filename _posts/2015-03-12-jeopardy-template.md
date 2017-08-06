@@ -40,15 +40,15 @@ tags:
 https://speakerdeck.com/fvcproductions/jeopardy-template-keynote
 
 -   **Download Keynote File at
-    [bit.ly/jeopardy-fvc](http://bit.ly/jeopardy-fvc "Jeopardy Template").**
+    [bit.ly/jeopardy-fvc](https://bit.ly/jeopardy-fvc "Jeopardy Template").**
 -   **[Project on
     Behance](https://www.behance.net/gallery/24112247/Jeopardy-Template-Keynote "Jeopardy Template | Behance")**
 -   **[View on Speaker
     Deck](https://speakerdeck.com/fvcproductions/jeopardy-template-keynote "Speaker Deck | Jeopardy Template")**
 -   **External Fonts Used (download links)**
-    -   [Gyparody](http://www.1001fonts.com/gyparody-font.html) (for
+    -   [Gyparody](https://www.1001fonts.com/gyparody-font.html) (for
         Jeopardy Title Slide)
-    -   [Exposition](http://www.ffonts.net/Exposition.font) (for Last
+    -   [Exposition](https://www.ffonts.net/Exposition.font) (for Last
         Slide)
     -   [Square 721](https://www.fontyukle.net/en/1,Square721) (for
         Prize Money Numbers)

@@ -33,7 +33,7 @@ So during my last few days of Fullstack, I was feeling a little something like t
 ====================================================================================
 
 ![I regret
-nothing](http://cdn.smosh.com/sites/default/files/ftpuploads/bloguploads/meme-regret-portal.gif){.aligncenter}
+nothing](https://cdn.smosh.com/sites/default/files/ftpuploads/bloguploads/meme-regret-portal.gif){.aligncenter}
 
 Mainly because the whole thing was a little crazy and stressful, but
 really great, so ergo - *I REGRET NOTHING*.
@@ -94,7 +94,7 @@ relatives being around and all.
 My folks went back only slightly earlier before me and headed to China
 Town, so I went home alone on the dreadful subway, got some pizza, and
 watched what would probably be the last episode I ever watch of the show
-[Dating Naked](http://www.vh1.com/shows/dating-naked/ "Dating Naked")
+[Dating Naked](https://www.vh1.com/shows/dating-naked/ "Dating Naked")
 (why is it so intriguing?!).
 
 Probably not a very ideal way to end an awesome experience, but then
@@ -115,7 +115,7 @@ for Friday so I was happy. Also, the fact that I was greeted by my dog,
 Nefer, and my mom’s sweet iced tea didn’t hurt either.
 
 On Friday, I’d also be starting my course ‘Design 101’ on
-[Designlab](http://trydesignlab.com/ "Designlab").
+[Designlab](https://trydesignlab.com/ "Designlab").
 
 Friday comes and the course gets me all excited. I’m able to access the
 course a few hours before the interview. I’m even starting to write
@@ -138,11 +138,11 @@ Stuff](https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/bill-128.png)
 The Total Cost {#thetotalcost}
 --------------
 
-I use [Mint](http://bywordapp.com/) to track all my costs so it was
+I use [Mint](https://bywordapp.com/) to track all my costs so it was
 pretty easy to figure out how much I spent on everything. I simply
 loathe cash.
 
-![Fullstack Spending](http://i.imgur.com/AIvCgHE.png){.aligncenter}
+![Fullstack Spending](https://i.imgur.com/AIvCgHE.png){.aligncenter}
 
 Now, it’s pretty easy to figure out that with my `$9,500` tuition cost,
 which is included in the graph above, I spent `$14,220.45` in total
@@ -197,41 +197,41 @@ The **Jubilant** Journey I Took Into the Cave of Digital Hieroglyphics {#thejour
 ----------------------------------------------------------------------
 
 -   [The Search
-    🔍](http://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
--   [The Application 📝](http://fvcproductions.com/2014/12/23/week-20/)
+    🔍](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
+-   [The Application 📝](https://fvcproductions.com/2014/12/23/week-20/)
 -   [The Preparation
-    📚](http://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/)
+    📚](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/)
 -   [The Interview
-    💻](http://fvcproductions.com/2014/12/28/interview-fullstack-academy/)
+    💻](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/)
 -   [The Decision
-    ⏳](http://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/)
+    ⏳](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/)
 -   [Fullstack Foundations - Week 1
-    ⚡️](http://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/)
+    ⚡️](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/)
 -   [Fullstack Foundations - Weeks 2 to 4
-    🚀](http://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/)
+    🚀](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/)
 -   [Fullstack Academy - Week 1
-    💫](http://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/)
+    💫](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/)
 -   [Fullstack Academy - Week 2
-    ⌘⌘](http://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
+    ⌘⌘](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
 -   [Fullstack Academy - Week 3
-    🔦🔦🔦](http://fvcproductions.com/2015/06/26/fullstack-academy-week-3/)
+    🔦🔦🔦](https://fvcproductions.com/2015/06/26/fullstack-academy-week-3/)
 -   [Fullstack Academy - Week 4
-    💲🔮🔮💲](http://fvcproductions.com/2015/07/03/fullstack-academy-week-4/)
+    💲🔮🔮💲](https://fvcproductions.com/2015/07/03/fullstack-academy-week-4/)
 -   [Fullstack Academy - Week 5
-    💕💓💕](http://fvcproductions.com/2015/07/11/fullstack-academy-week-5/)
+    💕💓💕](https://fvcproductions.com/2015/07/11/fullstack-academy-week-5/)
 -   [Fullstack Academy - Week 6 and Review Week
-    🃏🃏🃏🃏🃏🃏](http://fvcproductions.com/2015/07/25/fullstack-academy-week-6-review-week/)
+    🃏🃏🃏🃏🃏🃏](https://fvcproductions.com/2015/07/25/fullstack-academy-week-6-review-week/)
 -   [ONE WEEK OF FULLSTACK LEFT
-    😲](http://fvcproductions.com/2015/08/19/one-week-left-of-fullstack/)
+    😲](https://fvcproductions.com/2015/08/19/one-week-left-of-fullstack/)
 -   [Fullstack Academy |
-    Reflections](http://fvcproductions.com/2015/08/30/fullstack-academy-reflections/)
+    Reflections](https://fvcproductions.com/2015/08/30/fullstack-academy-reflections/)
     🕝
 
 ------------------------------------------------------------------------
 
 > *Tips or tricks?* :idea:
 >
-> > tweet me at [`@fvcproductions`](http://twitter.com/fvcproductions).
+> > tweet me at [`@fvcproductions`](https://twitter.com/fvcproductions).
 
 ------------------------------------------------------------------------
 
@@ -242,5 +242,5 @@ website!*
 width="750"\][![Testimonial
 Section](https://fvcproductions.files.wordpress.com/2015/08/summer-of-code-fullstack-academy1.png){.size-full
 .wp-image-3509 width="750"
-height="376"}](http://fullstackacademy.com/summer-of-code) Testimonial
+height="376"}](https://fullstackacademy.com/summer-of-code) Testimonial
 Section\[/caption\]

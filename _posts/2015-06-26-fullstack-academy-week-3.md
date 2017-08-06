@@ -66,7 +66,7 @@ Day Three - Wednesday {#daythree-wednesday}
     progress was made.
 -   There was a brief alumni panel today as well and I’m pretty
     impressed that this one alumnus is already going to be working on
-    [Dropbox](http://dropbox.com "Dropbox") even though his cohort
+    [Dropbox](https://dropbox.com "Dropbox") even though his cohort
     graduated in April (?)(*somewhere around that time*) of this year.
     -   Basically what my conclusion was from the panel is to make sure
         to work on **side projects** and **prepare appropriately** for
@@ -76,7 +76,7 @@ Day Three - Wednesday {#daythree-wednesday}
         that strategy since it is pretty hard coming up with effective
         methods to truly test the ability of able programmers.
     -   💡I really like what [**Aline
-        Lerner**](http://blog.alinelerner.com/ "Aline Lerner's Blog")
+        Lerner**](https://blog.alinelerner.com/ "Aline Lerner's Blog")
         has to say in general about technical recruiting since she also
         feels the same way I do in regards to resumes being pretty
         ineffective for evaluating programming skills.
@@ -111,12 +111,12 @@ Avalon
 > See?
 
 ![Avalon Set
-Up](http://www.boardgamequest.com/wp-content/uploads/2013/07/Resistance-Avalon-Feature.jpg){.aligncenter}
+Up](https://www.boardgamequest.com/wp-content/uploads/2013/07/Resistance-Avalon-Feature.jpg){.aligncenter}
 
 Avalon Set Up
 
 -   Set in the primitive medieval era,
-    [Avalon](http://www.amazon.com/Indie-Boards-Cards-AVA1IBC-Resistance/dp/B009SAAV0C "Avalon")
+    [Avalon](https://www.amazon.com/Indie-Boards-Cards-AVA1IBC-Resistance/dp/B009SAAV0C "Avalon")
     forces people to lie and identify as either a good or bad person,
     which has never made sense to me (not just the good vs bad
     schematic, but the whole light vs dark color theming, etc.) because
@@ -140,7 +140,7 @@ Day Five - Friday {#dayfive-friday}
 -   In other words, it was a crazy day, but the good kind of crazy.
 -   My little team and I had to solve these different programming
     puzzles that related both to the [American Museum of Natural
-    History](http://www.amnh.org/) and to our instructors.
+    History](https://www.amnh.org/) and to our instructors.
 -   I don’t want to spoil anything, but the great part about the first
     half of today was that I felt a lot like [Robert
     Langdon](https://www.wikiwand.com/en/Robert_Langdon "Robert Langdon")
@@ -151,7 +151,7 @@ Day Five - Friday {#dayfive-friday}
         location I was running around in was the museum itself, but
         hey - that museum is **exceptionally** large.
     -   I mean, could you guess the Latin name of this dino? ![Duck Bill
-        Dino](http://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/exhibitions/permanent-exhibitions/fossil-halls/hall-of-ornithischian-dinosaurs2/duck-billed-dinosaur/149935-1-eng-US/duck-billed-dinosaur_dynamic_lead_slide.jpg){.aligncenter}
+        Dino](https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/exhibitions/permanent-exhibitions/fossil-halls/hall-of-ornithischian-dinosaurs2/duck-billed-dinosaur/149935-1-eng-US/duck-billed-dinosaur_dynamic_lead_slide.jpg){.aligncenter}
     -   **Exactly.**
 -   After that whole warp back in time was over and done with, I had
     lunch with Kelsey and Jovia at this yummy vegetarian place. This is
@@ -187,23 +187,23 @@ height="56"}](https://fvcproductions.files.wordpress.com/2015/06/pride-octocat.p
 > So Far
 
 -   [The
-    Search](http://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
+    Search](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
 -   [The
-    Application](http://fvcproductions.com/2014/12/23/week-20/ "The Application")
+    Application](https://fvcproductions.com/2014/12/23/week-20/ "The Application")
 -   [The
-    Preparation](http://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
+    Preparation](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
 -   [The
-    Interview](http://fvcproductions.com/2014/12/28/interview-fullstack-academy/ "The Interview")
+    Interview](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/ "The Interview")
 -   [The
-    Decision](http://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/ "The Decision")
+    Decision](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/ "The Decision")
 -   [Fullstack Foundations - Week
-    1](http://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
+    1](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
 -   [Fullstack Foundations - Weeks 2 -
-    4](http://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
+    4](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
 -   [Fullstack Academy - Week
-    1](http://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/ "Fullstack Academy - Week 1")
+    1](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/ "Fullstack Academy - Week 1")
 -   [Fullstack Academy - Week
-    2](http://fvcproductions.com/2015/06/20/fullstack-academy-week-2/ "Fullstack Academy - Week 2")
+    2](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/ "Fullstack Academy - Week 2")
 
 ------------------------------------------------------------------------
 
@@ -224,4 +224,4 @@ Same Sex Marriage - YAY!!\[/caption\]
 > *Tips or tricks?* :idea:
 >
 > > tweet me at
-> > [`@fvcproductions`](http://twitter.com/fvcproductions "Twitter - FVCproductions").
+> > [`@fvcproductions`](https://twitter.com/fvcproductions "Twitter - FVCproductions").

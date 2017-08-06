@@ -8,7 +8,7 @@ header:
 
 > Name
 
-## <a title="TreeHacks" href="http://treehacks.com/" target="_blank">TreeHacks</a>
+## <a title="TreeHacks" href="https://treehacks.com/" target="_blank">TreeHacks</a>
 
 > Organizer
 
@@ -24,7 +24,7 @@ February 12th to 14th, 2016
 
 > Role
 
-[Travel Grant Recipient](http://medium.com), Participant, Prize Winner
+[Travel Grant Recipient](https://medium.com), Participant, Prize Winner
 
 > About
 
@@ -33,7 +33,7 @@ Stanford's annual hackathon.
 > Awards
 
 - Best Social Impact
-  - Sit down 
+  - Sit down
 - Best Use of Dropbox API
   - 100 GB of Dropbox space
 
@@ -47,7 +47,7 @@ Stanford's annual hackathon.
 
 ### The Hackathon Website
 
-<blockquote class="embedly-card"><h4><a href="http://treehacks.com/">Treehacks: February 17-19 2017</a></h4><p>null</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://treehacks.com/">Treehacks: February 17-19 2017</a></h4><p>null</p></blockquote>
 
 ## Medium article about one of my teammates for the hackathon
 

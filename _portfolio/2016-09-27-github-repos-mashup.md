@@ -7,7 +7,7 @@ excerpt: Showcasing my GitHub projects with GitHub API.
  {#check-out-this-github-mashup-at--a-href--http:--fvcproductions.github.io-mashup--target--_blank---code-http:--fvcproductions.github.io-mashup--code---a-}
 
 Check out this GitHub mashup at
-[`http://fvcproductions.github.io/mashup`](http://fvcproductions.github.io/mashup)
+[`https://fvcproductions.github.io/mashup`](https://fvcproductions.github.io/mashup)
 
 Showcasing my GitHub projects with GitHub API.
 
@@ -26,9 +26,9 @@ orderby="rand"\]
 Links
 -----
 
--   **GitHub Repo** [`mashup`](http://github.com/fvcproductions/mashup)
+-   **GitHub Repo** [`mashup`](https://github.com/fvcproductions/mashup)
 -   **Website**
-    [`http://fvcproductions.github.io/mashup`](http://fvcproductions.github.io/mashup)
+    [`https://fvcproductions.github.io/mashup`](https://fvcproductions.github.io/mashup)
 
 Contributing
 ------------
@@ -50,7 +50,7 @@ Contributing
 License
 -------
 
-2016 © [FVCproductions](http://fvcproductions.com)
+2016 © [FVCproductions](https://fvcproductions.com)
 
 Donations
 ---------
@@ -58,4 +58,4 @@ Donations
 > Feed me… 🍕
 
 [![Donate via
-PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](http://paypal.me/fvcproductions)
+PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](https://paypal.me/fvcproductions)

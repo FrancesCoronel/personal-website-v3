@@ -21,10 +21,10 @@ tags:
 ---
 
 
-[![](http://static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png){.aligncenter width="400" height="98"}](http://static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png) {#section style="text-align:center;"}
+[![](https://static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png){.aligncenter width="400" height="98"}](https://static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png) {#section style="text-align:center;"}
 =============================================================================================================================================================================================================================================================================================
 
-Interview With [Fullstack Academy of Code](http://www.fullstackacademy.com "Fullstack Academy of Code") {#interviewwith-fullstack-academy-of-code style="text-align:center;"}
+Interview With [Fullstack Academy of Code](https://www.fullstackacademy.com "Fullstack Academy of Code") {#interviewwith-fullstack-academy-of-code style="text-align:center;"}
 =======================================================================================================
 
 > This is where I’ll go through how my admissions process was with
@@ -47,7 +47,7 @@ Part 1: The Application 📝
 -------------------------
 
 -   You fill out the virtual application for Fullstack
-    [here](http://www.fullstackacademy.com/apply "Apply to Fullstack Academy").
+    [here](https://www.fullstackacademy.com/apply "Apply to Fullstack Academy").
     It involves filling out basic background info such as education,
     social links, coding abilities, employment status, post-Fullstack
     plans, and a small essay question as to why you’d be a great fit for
@@ -105,7 +105,7 @@ say:
 
     > It’s actually a reference to this book called [“The No Asshole
     > Rule: Building a Civilized Workplace and Surviving One That
-    > Isn’t”](http://www.amazon.com/The-Asshole-Rule-Civilized-Workplace/dp/0446698202 "The Asshole Rule")
+    > Isn’t”](https://www.amazon.com/The-Asshole-Rule-Civilized-Workplace/dp/0446698202 "The Asshole Rule")
     > and we believe the mentality described in the book forms an ideal
     > culture here at Fullstack.
     > `#1 best seller on Amazon in the Business Etiquette category!`
@@ -148,13 +148,13 @@ say:
 8.  **What do you guys recommend students do outside of the course?**\
 
     > We have our own [Meetup group based at
-    > Fullstack](http://www.meetup.com/fullstack-javascript/ "Fullstack Meetup")
+    > Fullstack](https://www.meetup.com/fullstack-javascript/ "Fullstack Meetup")
     > and we encourage our students to attend local Meetups that relate
     > to JavaScript or programming in general. Students will even
     > lecture or present projects at these Meetups midway through the
     > program. We also encourage participating in Hackathons and have
     > gotten a [lot of success with our students participating in local
-    > ones](http://blog.fullstackacademy.com/post/78441810309/hacks-through-history "Hackathons @Fullstack")
+    > ones](https://blog.fullstackacademy.com/post/78441810309/hacks-through-history "Hackathons @Fullstack")
     > as well.
 
 ------------------------------------------------------------------------
@@ -188,4 +188,4 @@ Now here are some logistics for reference:
 > Tips or tricks?
 >
 > > Contact me
-> > [@fvcproductions](http://twitter.com/fvcproductions "FVCproductions - Twitter")!
+> > [@fvcproductions](https://twitter.com/fvcproductions "FVCproductions - Twitter")!

@@ -49,7 +49,7 @@ tags:
 > July 6th to July 10th
 >
 > There are 57 days of [**Fullstack
-> Academy**](http://www.fullstackacademy.com).
+> Academy**](https://www.fullstackacademy.com).
 >
 > These are days 22 through 26 (Week 5).
 >
@@ -67,37 +67,37 @@ Day One - Monday
     reminiscing.
 
 ![The
-Grid](http://img15.deviantart.net/1ea4/i/2012/184/d/1/c__s_grid___tron_wallpaper_by_kylecaio-d55uk9k.png){.aligncenter}
+Grid](https://img15.deviantart.net/1ea4/i/2012/184/d/1/c__s_grid___tron_wallpaper_by_kylecaio-d55uk9k.png){.aligncenter}
 
 \[youtube=https://www.youtube.com/watch?v=YKEZoOjc6to\]
 
 ------------------------------------------------------------------------
 
-![cDock](http://www.macupdate.com/images/icons256/51149.png){.aligncenter}
+![cDock](https://www.macupdate.com/images/icons256/51149.png){.aligncenter}
 
 -   I’m also really sad
-    [`cDock`](http://sourceforge.net/projects/cdock/) is probably not
+    [`cDock`](https://sourceforge.net/projects/cdock/) is probably not
     going to work anymore when
     [`El Capitan`](https://www.apple.com/osx/elcapitan-preview/) comes
     out. Along with probably every other customizing app for my Mac I
-    use/have used such as [`Flavours`](http://flavours.interacto.net/),
-    [`Ubersicht`](http://tracesof.net/uebersicht/),
-    [`LiteIcon`](http://www.freemacsoft.net/liteicon/), etc. Such
+    use/have used such as [`Flavours`](https://flavours.interacto.net/),
+    [`Ubersicht`](https://tracesof.net/uebersicht/),
+    [`LiteIcon`](https://www.freemacsoft.net/liteicon/), etc. Such
     sadness.
 
 > Shoot, I’m going to go download the Public Beta now.
 
-![](http://appleseedcdn.apple.com/sp/assets/open/osx-redem-3-b5354fc65738307112781f260cf50c4c.jpg)
+![](https://appleseedcdn.apple.com/sp/assets/open/osx-redem-3-b5354fc65738307112781f260cf50c4c.jpg)
 
 > ![I have yet to watch a movie about Steve
-> Jobs.](http://www.scubaboard.com/forums/attachment.php?attachmentid=136243&stc=1&d=1348241804){.aligncenter}
+> Jobs.](https://www.scubaboard.com/forums/attachment.php?attachmentid=136243&stc=1&d=1348241804){.aligncenter}
 
 ------------------------------------------------------------------------
 
 Day Two - Tuesday
 -----------------
 
-![Beta Day](http://i.imgur.com/2zJDhXp.png){.aligncenter}
+![Beta Day](https://i.imgur.com/2zJDhXp.png){.aligncenter}
 
 -   I downloaded the Public Beta.
 -   The first
@@ -110,15 +110,15 @@ Day Two - Tuesday
     in the sea of (water?) bugs.
 -   I miss working with the **“pretty”** stuff.
 
-![Purty.](http://i.imgur.com/LLMi7ye.jpg){.aligncenter}
+![Purty.](https://i.imgur.com/LLMi7ye.jpg){.aligncenter}
 
 ------------------------------------------------------------------------
 
 ![Women Who Code
-NYC](http://photos4.meetupstatic.com/photos/event/9/0/a/8/600_341377032.jpeg){.aligncenter}
+NYC](https://photos4.meetupstatic.com/photos/event/9/0/a/8/600_341377032.jpeg){.aligncenter}
 
 -   After school today, I went to a
-    [`Women Who Code`](http://www.meetup.com/WomenWhoCodeNYC/events/220650892/)
+    [`Women Who Code`](https://www.meetup.com/WomenWhoCodeNYC/events/220650892/)
     meetup (my first in the NYC area) featuring “Lightning Talks” with
     Jovia and Kelsey. Out of the 5 presentations I was able to see, the
     two best ones were by folks from Fullstack Academy. Not even trying
@@ -130,7 +130,7 @@ Day Three - Wednesday
 ---------------------
 
 ![Sockets for the
-Win!](http://storage.vexxhost.net/v1/d7594b0298b54bcc9e4e0f252e1da2e4/blog/mean-socket-io-integration-tutorial%2Fsocketio-logo.png){.aligncenter}
+Win!](https://storage.vexxhost.net/v1/d7594b0298b54bcc9e4e0f252e1da2e4/blog/mean-socket-io-integration-tutorial%2Fsocketio-logo.png){.aligncenter}
 
 -   Okay, so I feel a little bad saying this, but I’m pretty sure the
     best lecture I’ve had so far here at Fullstack was just delivered -
@@ -139,7 +139,7 @@ Win!](http://storage.vexxhost.net/v1/d7594b0298b54bcc9e4e0f252e1da2e4/blog/mean-
     guess since we’re all going to be seniors in about a week and a half
     or so, he’s trying to get used to us or something.
 -   Anywhoozies, the lecture on
-    [`Socket.io`](http://socket.io/ "Socket.io") was just awesome.
+    [`Socket.io`](https://socket.io/ "Socket.io") was just awesome.
     Seriously. So much mental stimulation. Sockets for the win!
 -   It helped that I had a good partner for this workshop too.
 -   Another factor to consider was how much trolling one could
@@ -170,7 +170,7 @@ So I’m just going to list them off one by one.
 > to work with for the capstone more easily. Hmmm, yessss.
 
 ![My impression of pair
-programming](http://codurance.com/assets/img/custom/blog/muppetspairprogramming.jpg){.aligncenter}
+programming](https://codurance.com/assets/img/custom/blog/muppetspairprogramming.jpg){.aligncenter}
 
 #### 3. The learning team lunch was today, so of course I spent most of it LMFAO. Like the real VP.
 
@@ -179,7 +179,7 @@ VP.](https://media3.giphy.com/media/G1Zu26ae7mZr2/200.gif){.aligncenter}
 
 #### 4. I found out about the new emoji reactions feature on Slack and that brought a small dose of happiness to my day. Here’s us trying it out with Gavin’s post. 😝
 
-![Emojiii Reactions](http://i.imgur.com/lJxcOh0.png){.aligncenter}
+![Emojiii Reactions](https://i.imgur.com/lJxcOh0.png){.aligncenter}
 
 #### 5. The workshop was interesting. It was basically all about making a primitive version of [Quizlet](https://quizlet.com/ "Quizlet"), or maybe what was probably a lot like the very 1st version of Quizlet.
 
@@ -188,15 +188,15 @@ VP.](https://media3.giphy.com/media/G1Zu26ae7mZr2/200.gif){.aligncenter}
 > line](https://quizlet.com/80424838/fullstack-foundations-intro-to-the-command-line-flash-cards/)
 > using Quizlet.
 
-![Quizlet Example](http://i.imgur.com/YbQ549K.png){.aligncenter}
+![Quizlet Example](https://i.imgur.com/YbQ549K.png){.aligncenter}
 
 ![Cornell
-Tech](http://tech.cornell.edu/static/css/images/content-logo.png){.aligncenter}
+Tech](https://tech.cornell.edu/static/css/images/content-logo.png){.aligncenter}
 
 #### 6. Lady’s Lunch was today.
 
 > There’s this girl named [Joanna](https://github.com/joanaz/) in my
-> cohort who’s attending [Cornell Tech](http://tech.cornell.edu/) for
+> cohort who’s attending [Cornell Tech](https://tech.cornell.edu/) for
 > her Master’s right now (I had no idea) and since I’m actually
 > considering CT as a place for my Master’s, I found it lovely I could
 > meet someone from there. She gave the place quite the **rave** review.
@@ -205,7 +205,7 @@ Tech](http://tech.cornell.edu/static/css/images/content-logo.png){.aligncenter}
 > upcoming campus sure looks nice…
 
 ![Cornell Tech New
-Campus](http://tech.cornell.edu/uploads/galleries/_full/campus-view-from-manhattan-aerial.jpg){.aligncenter}
+Campus](https://tech.cornell.edu/uploads/galleries/_full/campus-view-from-manhattan-aerial.jpg){.aligncenter}
 
 ------------------------------------------------------------------------
 
@@ -251,7 +251,7 @@ School](https://ambassador-api.s3.amazonaws.com/uploads/portal/655/2014_09_16_20
 > > EYYYYYY - it’s been **awesome**! My week in a gif:
 > >
 > > ![Taste the rainbow. Feel the
-> > rainbow.](http://media1.giphy.com/media/SKGo6OYe24EBG/200w.gif){.aligncenter}
+> > rainbow.](https://media1.giphy.com/media/SKGo6OYe24EBG/200w.gif){.aligncenter}
 
 ------------------------------------------------------------------------
 
@@ -260,29 +260,29 @@ School](https://ambassador-api.s3.amazonaws.com/uploads/portal/655/2014_09_16_20
 > So Far
 
 -   [The Search
-    🔍](http://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
--   [The Application 📝](http://fvcproductions.com/2014/12/23/week-20/)
+    🔍](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
+-   [The Application 📝](https://fvcproductions.com/2014/12/23/week-20/)
 -   [The Preparation
-    📚](http://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/)
+    📚](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/)
 -   [The Interview
-    💻](http://fvcproductions.com/2014/12/28/interview-fullstack-academy/)
+    💻](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/)
 -   [The Decision
-    ⏳](http://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/)
+    ⏳](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/)
 -   [Fullstack Foundations - Week 1
-    ⚡️](http://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/)
+    ⚡️](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/)
 -   [Fullstack Foundations - Weeks 2 to 4
-    🚀](http://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/)
+    🚀](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/)
 -   [Fullstack Academy - Week 1
-    💫](http://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/)
+    💫](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/)
 -   [Fullstack Academy - Week 2
-    ⌘⌘](http://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
+    ⌘⌘](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
 -   [Fullstack Academy - Week 3
-    🔦🔦🔦](http://fvcproductions.com/2015/06/26/fullstack-academy-week-3/)
+    🔦🔦🔦](https://fvcproductions.com/2015/06/26/fullstack-academy-week-3/)
 -   [Fullstack Academy - Week 4
-    💲🔮🔮💲](http://fvcproductions.com/2015/07/03/fullstack-academy-week-4/)
+    💲🔮🔮💲](https://fvcproductions.com/2015/07/03/fullstack-academy-week-4/)
 
 ------------------------------------------------------------------------
 
 > *Tips or tricks?* :idea:
 >
-> > tweet me at [`@fvcproductions`](http://twitter.com/fvcproductions).
+> > tweet me at [`@fvcproductions`](https://twitter.com/fvcproductions).

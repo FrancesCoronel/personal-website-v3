@@ -38,7 +38,7 @@ tags:
 
 ### There are 2 main ideas behind selection. {#there-are-2-main-ideas-behind-selection. style="text-align:center;"}
 
-![](http://www.javatpoint.com/images/javascript/javascript_logo.png){.aligncenter}
+![](https://www.javatpoint.com/images/javascript/javascript_logo.png){.aligncenter}
 
 **1. You have a basic working knowledge of JavaScript fundamentals.**
 
@@ -75,7 +75,7 @@ tags:
 **How do I prepare?**
 ---------------------
 
-![](http://www.nacacnet.org/studentinfo/PublishingImages/checklist3.jpg){.aligncenter}
+![](https://www.nacacnet.org/studentinfo/PublishingImages/checklist3.jpg){.aligncenter}
 
 *The Gist Of It*
 
@@ -85,25 +85,25 @@ tags:
 
 **Helpful Resources**
 
--   [coderbyte](http://coderbyte.com/CodingArea/Challenges/ "Coderbyte Easy") -
+-   [coderbyte](https://coderbyte.com/CodingArea/Challenges/ "Coderbyte Easy") -
     the easy challenges
--   [Codecademy](http://www.codecademy.com/en/tracks/javascript "Codecademy") -
+-   [Codecademy](https://www.codecademy.com/en/tracks/javascript "Codecademy") -
     the JavaScript track
 -   [Code
     School](https://www.codeschool.com/paths/javascript "Code School") -
     the `Road to JavaScript`
 -   [Eloquent JavaScript: 2nd
-    Edition](http://eloquentjavascript.net "Eloquent JavaScript") -
+    Edition](https://eloquentjavascript.net "Eloquent JavaScript") -
     basically reading the whole book would be helpful, but if you can’t
     do that, then the 1st 5 chapters are pretty key
 
 **Going All Out**
 
 -   [JavaScript: The Good
-    Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742 "JavaScript: The Good Parts") -
+    Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742 "JavaScript: The Good Parts") -
     the first few chapters
 -   [Functional
-    JavaScript](http://shop.oreilly.com/product/0636920028857.do "Functional JavaScript") -
+    JavaScript](https://shop.oreilly.com/product/0636920028857.do "Functional JavaScript") -
     again, the first few chapters
 
 **Topics that are generally NOT covered in the interview**
@@ -131,23 +131,23 @@ tags:
 1.  [[App Academy Prep
     Work](https://github.com/appacademy/prep-work){.external_link}]{.qlink_container}
 2.  [[Code Fellows - GitBook on Full Stack JavaScript
-    Engineering](http://fsje.codefellows.org/index.html){.external_link}]{.qlink_container}
+    Engineering](https://fsje.codefellows.org/index.html){.external_link}]{.qlink_container}
 3.  [[Flatiron
-    Prework](http://prework.flatironschool.com/){.external_link}]{.qlink_container}
+    Prework](https://prework.flatironschool.com/){.external_link}]{.qlink_container}
 4.  [[Fullstack Academy Interview Preparation
-    Guide](http://www.fullstackacademy.com/interview_prep){.external_link}]{.qlink_container}
+    Guide](https://www.fullstackacademy.com/interview_prep){.external_link}]{.qlink_container}
 5.  [[General Assembly
     Dash](https://dash.generalassemb.ly/){.external_link}]{.qlink_container}
 6.  [[Hackreactor How to Prepare for the Admissions
-    Challenge](http://www.hackreactor.com/prepare-for-admissions-challenge/){.external_link}]{.qlink_container}
+    Challenge](https://www.hackreactor.com/prepare-for-admissions-challenge/){.external_link}]{.qlink_container}
 7.  [[Launch Academy 
-    Codecabulary](http://www.launchacademy.com/codecabulary){.external_link}]{.qlink_container}
+    Codecabulary](https://www.launchacademy.com/codecabulary){.external_link}]{.qlink_container}
 8.  [[MakerSquare |
-    Learn](http://learn.makersquare.com/courses){.external_link}]{.qlink_container}
+    Learn](https://learn.makersquare.com/courses){.external_link}]{.qlink_container}
 9.  [[Viking Code School
-    Prep](http://www.vikingcodeschool.com/prep){.external_link}]{.qlink_container}
+    Prep](https://www.vikingcodeschool.com/prep){.external_link}]{.qlink_container}
 
-![](http://medexec.org/wp-content/uploads/2013/04/The-Nitty-Gritty.jpg)
+![](https://medexec.org/wp-content/uploads/2013/04/The-Nitty-Gritty.jpg)
 
 #### **Really Getting Down to The Nitty Gritty**
 
@@ -171,36 +171,36 @@ tags:
 ------------------------------------------------------------------------
 
 Recently, SwitchUp released their 2014 list of the [top coding
-bootcamps](http://fvcproductions.com/2015/02/20/brief-thoughts-best-bootcamps-switchup/ "Brief Thoughts on SwitchUp’s Review for 31 Best Bootcamps 2014 💭").
+bootcamps](https://fvcproductions.com/2015/02/20/brief-thoughts-best-bootcamps-switchup/ "Brief Thoughts on SwitchUp’s Review for 31 Best Bootcamps 2014 💭").
 I'd check that out too.
 
 For finding them, refer to this post [where I look over the best
 websites for that
-purpose](http://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "A Short Operation: Tips & Tricks 4 Finding Coding Bootcamps 🔎") and
+purpose](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "A Short Operation: Tips & Tricks 4 Finding Coding Bootcamps 🔎") and
 also the post where I [elaborate on
-each](http://fvcproductions.com/2014/11/10/magnifying-the-bootcamp-research-experience/ "Magnifying the Bootcamp Research Experience 🔎").
+each](https://fvcproductions.com/2014/11/10/magnifying-the-bootcamp-research-experience/ "Magnifying the Bootcamp Research Experience 🔎").
 
 I also have shared my **interview experience** with bootcamps such as
 
 -   [Bitmaker
-    Labs](http://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
+    Labs](https://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
 -   [Coding
-    Dojo](http://fvcproductions.com/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
+    Dojo](https://fvcproductions.com/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
 -   [Coding
-    House](http://fvcproductions.com/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
--   [Designation](http://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+    House](https://fvcproductions.com/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
+-   [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
 -   [Dev
-    League](http://fvcproductions.com/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
+    League](https://fvcproductions.com/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
 -   [Fullstack
-    Academy](http://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+    Academy](https://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
 -   [Hack
-    Reactor](http://fvcproductions.com/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
+    Reactor](https://fvcproductions.com/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
 -   [Maker
-    Square](http://fvcproductions.com/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
+    Square](https://fvcproductions.com/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
 ------------------------------------------------------------------------
 
 > Tips or tricks?
 >
 > > contact me
-> > [@fvcproductions](http://twitter.com/fvcproductions "Twitter - FVCproductions")
+> > [@fvcproductions](https://twitter.com/fvcproductions "Twitter - FVCproductions")

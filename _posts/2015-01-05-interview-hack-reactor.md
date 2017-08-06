@@ -37,7 +37,7 @@ tags:
 ---
 
 > Where I rant and share questions my experience from my interview with
-> [Hack Reactor](http://hackreactor.com "Hack Reactor") (sort of).
+> [Hack Reactor](https://hackreactor.com "Hack Reactor") (sort of).
 
 ------------------------------------------------------------------------
 
@@ -45,14 +45,14 @@ I keep looking for the key out of my novice programming level, but
 nothing seems to be clicking in the right place. It’s an icky situation.
 
 \[caption id="" align="aligncenter"
-width="256"\][![](http://www.clipartbest.com/cliparts/7Ta/Mbx/7TaMbxgLc.png){width="256"
-height="256"}](http://www.clipartbest.com/cliparts/7Ta/Mbx/7TaMbxgLc.png)
+width="256"\][![](https://www.clipartbest.com/cliparts/7Ta/Mbx/7TaMbxgLc.png){width="256"
+height="256"}](https://www.clipartbest.com/cliparts/7Ta/Mbx/7TaMbxgLc.png)
 The bow is the circular part.\[/caption\]
 
 The reasons I decided to consider these ‘coding bootcamps’, which have
 garnered both positive and negative public opinions is because I think
 it’s going to provide the
-[bow](http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Parts_of_a_Yale_lock-type_key.svg/2000px-Parts_of_a_Yale_lock-type_key.svg.png)
+[bow](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Parts_of_a_Yale_lock-type_key.svg/2000px-Parts_of_a_Yale_lock-type_key.svg.png)
 for that key I was describing earlier.
 
 I’d have to take care of the important bits of the key of course, but it
@@ -61,17 +61,17 @@ going to avoid going off a tangent here now…
 
 So, in lamest terms, the way I’m feeling right now about my programming
 skills is similar to feeling like `Big Head` from the TV show [Silicon
-Valley](http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)). `Richard`
+Valley](https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)). `Richard`
 and `Big Head` can relate to each other. They’re buddies and they both
 work (or worked) at the same company. **But** their skills level are
 completely off. Richard really gets algorithms and data structures. He
 really **gets** them. But Big Head, he can only make these shady MVPs
 that turn out to be [pretty
-*sexist*](http://www.newyorker.com/tech/elements/the-unfunniest-joke-in-technology).
+*sexist*](https://www.newyorker.com/tech/elements/the-unfunniest-joke-in-technology).
 
 \[caption id="" align="aligncenter"
-width="630"\][![](http://wac.450f.edgecastcdn.net/80450F/screencrush.com/442/files/2014/03/Silicon-Valley.jpg){width="630"
-height="420"}](http://wac.450f.edgecastcdn.net/80450F/screencrush.com/442/files/2014/03/Silicon-Valley.jpg)
+width="630"\][![](https://wac.450f.edgecastcdn.net/80450F/screencrush.com/442/files/2014/03/Silicon-Valley.jpg){width="630"
+height="420"}](https://wac.450f.edgecastcdn.net/80450F/screencrush.com/442/files/2014/03/Silicon-Valley.jpg)
 Whut??\[/caption\]
 
 I mean, **I** can’t even make MVPs yet (not even *shady* ones), but you
@@ -242,7 +242,7 @@ experienced in his cohort).
 
 ------------------------------------------------------------------------
 
-#### If you are interested in more information regarding Hack Reactor, [I compiled a short list of resources to best prepare for the interview and also gave my thoughts on how competitive bootcamps select for students](http://fvcproductions.com/2015/01/05/tiny-glimpse-hack-reactor-selection-preparation/ "A Tiny Glimpse Into Hack Reactor: Selection & Preparation").
+#### If you are interested in more information regarding Hack Reactor, [I compiled a short list of resources to best prepare for the interview and also gave my thoughts on how competitive bootcamps select for students](https://fvcproductions.com/2015/01/05/tiny-glimpse-hack-reactor-selection-preparation/ "A Tiny Glimpse Into Hack Reactor: Selection & Preparation").
 
 ------------------------------------------------------------------------
 
@@ -267,7 +267,7 @@ exactly an hour.]{.s1}
 
 We jumped right into the technical interview and after Christopher
 thought I was tested enough (mainly on callbacks and objects) using
-[CodeShare](http://codeshare.io "CodeShare"), he gave me exactly 10
+[CodeShare](https://codeshare.io "CodeShare"), he gave me exactly 10
 minutes to ask him about his experience about Hack Reactor.
 
 The first question I asked was about his background before he came to
@@ -300,7 +300,7 @@ was able to be a part of it.
 
 I knew already beforehand that no matter what, I'm going to keep
 bettering myself and [riding the waves of
-technology](http://www.urbandictionary.com/define.php?term=Surfing+the+Web "Surfing The Web") and
+technology](https://www.urbandictionary.com/define.php?term=Surfing+the+Web "Surfing The Web") and
 you know, just being me.
 
 **Surf's Up! 🏄**
@@ -312,22 +312,22 @@ https://www.youtube.com/watch?v=dt-dpATRP\_4
 I also have shared my **interview experience** with bootcamps such as
 
 -   [Bitmaker
-    Labs](http://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
+    Labs](https://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
 -   [Coding
-    Dojo](http://fvcproductions.com/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
+    Dojo](https://fvcproductions.com/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
 -   [Coding
-    House](http://fvcproductions.com/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
--   [Designation](http://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+    House](https://fvcproductions.com/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
+-   [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
 -   [Dev
-    League](http://fvcproductions.com/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
+    League](https://fvcproductions.com/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
 -   [Fullstack
-    Academy](http://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+    Academy](https://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
 -   [Maker
-    Square](http://fvcproductions.com/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
+    Square](https://fvcproductions.com/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
 ------------------------------------------------------------------------
 
 **Tips or tricks?** 💡
 
 > Contact me
-> [@fvcproductions](http://twitter.com/fvcproductions "Twitter - FVCproductions")
+> [@fvcproductions](https://twitter.com/fvcproductions "Twitter - FVCproductions")

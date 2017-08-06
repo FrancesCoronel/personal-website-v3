@@ -42,13 +42,13 @@ Scholarship Recipient
 
 Fill
 
-[<i class='fa fa-globe'></i> Website](http://website.com)
+[<i class='fa fa-globe'></i> Website](https://website.com)
 {: .btn}
 
-[<i class='fa fa-twitter'></i> @twitter](http://twitter.com/@twitter)
+[<i class='fa fa-twitter'></i> @twitter](https://twitter.com/@twitter)
 {: .btn .btn--twitter}
 
-[<i class='fa fa-linkedin'></i> LinkedIn](http://linkedin.com)
+[<i class='fa fa-linkedin'></i> LinkedIn](https://linkedin.com)
 {: .btn .btn--linkedin}
 
 {% include gallery caption="A caption."%}

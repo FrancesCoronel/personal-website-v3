@@ -33,7 +33,7 @@ gallery:
 
 > Name
 
-## <a title="RevolutionConf" href="http://revolutionconf.com" target="_blank">RevolutionConf</a>
+## <a title="RevolutionConf" href="https://revolutionconf.com" target="_blank">RevolutionConf</a>
 
 > Organizer
 
@@ -53,7 +53,7 @@ Volunteer
 
 > About
 
-While working at 80|20 Software Consulting, now Array Digital, I volunteered to be a part of the RevolutionConf. 
+While working at 80|20 Software Consulting, now Array Digital, I volunteered to be a part of the RevolutionConf.
 
 I helped develop the sponsor prospectus, flyers, and helped out with registration in-person at the conference as well as confernece chaperoning.
 
@@ -63,5 +63,5 @@ RevolutionConf is a two-day, platform and language agnostic, software developmen
 
 > My blog post on the conference got featured in The Daily Press.
 
-<blockquote class="embedly-card"><h4><a href="http://www.dailypress.com/business/tidewater/dp-may-13-revolutionconf-showcases-software-community-in-hampton-roads-20160513-story.html">What you missed at RevolutionConf in Virginia Beach</a></h4><p>The software industry, including speakers from Microsoft, Detroit Labs and Yahoo, is converging at the Virginia Beach Oceanfront today.</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://www.dailypress.com/business/tidewater/dp-may-13-revolutionconf-showcases-software-community-in-hampton-roads-20160513-story.html">What you missed at RevolutionConf in Virginia Beach</a></h4><p>The software industry, including speakers from Microsoft, Detroit Labs and Yahoo, is converging at the Virginia Beach Oceanfront today.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

@@ -29,14 +29,14 @@ Holy crap, I just got my plane ticket for this.
 It’s happening.
 
 \[caption id="" align="aligncenter"
-width="689"\][![](http://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif){width="689"
-height="374"}](http://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif)
+width="689"\][![](https://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif){width="689"
+height="374"}](https://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif)
 do the Bender dance…\[/caption\]
 
 ------------------------------------------------------------------------
 
 I’ll be acting as a volunteer for [the
-conference](http://www.aaai.org/Conferences/AAAI/aaai15.php "AAAI 2015 Winter Conference")
+conference](https://www.aaai.org/Conferences/AAAI/aaai15.php "AAAI 2015 Winter Conference")
 (it's the first winter conference, too, apparently) and was therefore
 lucky enough to get a \$200 scholarship and a complimentary registration
 (\$450, in my case) to attend.
@@ -72,7 +72,7 @@ height="622"}](https://fvcproductions.files.wordpress.com/2014/12/screenshot-201
 I'll take the very back window seat please, thanks.\[/caption\]
 
 Thankfully, with a scholarship I got from the
-[VSGC](http://vsgc.odu.edu "VSGC @ ODU"), I’ll be able to pay off the
+[VSGC](https://vsgc.odu.edu "VSGC @ ODU"), I’ll be able to pay off the
 majority of these conference fees. **Whew.** In the end, I’ll be
 shelling out only \$300 for it all, which isn’t terrible. Glad I’m
 selling so much crap on eBay, I’ll tell you that.
@@ -129,7 +129,7 @@ unfortunately, since my roommate request didn’t end successfully but
 hopefully I'll meet some friendly fellow volunteers!
 
 Cheers,\
-[fvcproductions](http://twitter.com/fvcproductions "Twitter - FVCproductions")
+[fvcproductions](https://twitter.com/fvcproductions "Twitter - FVCproductions")
 
 ------------------------------------------------------------------------
 

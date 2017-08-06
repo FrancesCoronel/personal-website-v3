@@ -35,7 +35,7 @@ gallery:
 
 > Name
 
-## <a title="ACM Richard Tapia Celebration of Diversity in Computing" href="http://tapiaconference.org" target="_blank">ACM Richard Tapia Celebration of Diversity in Computing</a>
+## <a title="ACM Richard Tapia Celebration of Diversity in Computing" href="https://tapiaconference.org" target="_blank">ACM Richard Tapia Celebration of Diversity in Computing</a>
 
 > Organizer
 
@@ -55,7 +55,7 @@ Tapia Scholar Recipient
 
 > About
 
-[<i class='fa fa-twitter'></i> @Tapia_con](http://twitter.com/@Tapia_con)
+[<i class='fa fa-twitter'></i> @Tapia_con](https://twitter.com/@Tapia_con)
 {: .btn .btn--twitter}
 
 The goal of the Tapia Conferences is to bring together undergraduate and graduate students, faculty, researchers, and professionals in computing from all backgrounds and ethnicities.

@@ -4,12 +4,12 @@ excerpt: "Volunteered for Operation Smile all throughout high school."
 date: 2013-08-02
 header:
   image: https://fvcproductions.files.wordpress.com/2015/11/img_0848.jpg
-tags: 
-    - high school 
-    - high school volunteering 
-    - Maury High School 
-    - op smile 
-    - operation smile 
+tags:
+    - high school
+    - high school volunteering
+    - Maury High School
+    - op smile
+    - operation smile
     - volunteering
 ---
 
@@ -22,7 +22,7 @@ Logo](https://fvcproductions.files.wordpress.com/2015/11/conferencelogos-002-cop
 *Maury High School*
 ===================
 
-**[Operation Smile @ Maury High](http://biogirl757.weebly.com/operation-smile-club.html "ISLC")**
+**[Operation Smile @ Maury High](https://biogirl757.weebly.com/operation-smile-club.html "ISLC")**
 -------------------------------------------------------------------------------------------------
 
 ### ***Member, Vice President, Co-President***
@@ -53,9 +53,9 @@ Logo](https://fvcproductions.files.wordpress.com/2015/11/conferencelogos-002-cop
 
 ### Links
 
--   <http://www.operationsmile.org/act-now/student-youth>
+-   <https://www.operationsmile.org/act-now/student-youth>
 -   <https://www.facebook.com/Maury.OperationSmile21stCentury/>
--   <http://biogirl757.weebly.com/operation-smile-club.html>
+-   <https://biogirl757.weebly.com/operation-smile-club.html>
 
  
 
