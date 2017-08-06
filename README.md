@@ -1,45 +1,36 @@
 # fvcproductions.github.io
 
-[![Github Issues](https://img.shields.io/github/issues/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/issues) [![GitHub  Pull-Requests](https://img.shields.io/github/issues-pr/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/pulls) [![MIT License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](http://paypal.me/fvcproductions)
+[![Github Issues](https://img.shields.io/github/issues/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/issues) [![GitHub Pull-Requests](https://img.shields.io/github/issues-pr/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/pulls) [![MIT License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](http://paypal.me/fvcproductions)
 
-My blog and portfolio all in one.
-
-- View this project via GitHub Pages at [fvcproductions.github.io](http://fvcproductions.github.io)
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Credits](#credits)
+My blog and portfolio all in one. You can view it on GitHub Pages at [fvcproductions.github.io](http://fvcproductions.github.io)
 
 ## Installation
 
-> [Install Ruby & Bundler](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) if you don't have them already.
+Install [Ruby & Bundler](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) if you haven't already.
 
 Use the following commands to locally serve this website.
 
 ```bash
-$ bundle install
-$ bundle exec jekyll serve
+bundle install
+bundle exec jekyll serve
 ```
 
 Make sure to update your gems every now and then!
 
 ```bash
-$ bundle update
+bundle update
 ```
 
 For faster rendering...
 
 ```bash
-$ bundle exec jekyll serve --watch --limit_posts 1
+bundle exec jekyll serve --watch --limit_posts 1
 ```
 
 If you aren't running the latest version:
 
 ```bash
-$ gem update jekyll
+gem update jekyll
 ```
 
 To convert multiple HTML files to Markdown:
@@ -63,7 +54,7 @@ I use CodeKit 3 (`config.codekit3`) to handle compilation.
 
 Find Scope for Sublime Text 3
 
-```
+```text
 <project>,-*/_drafts/*,-*/_sass/vendor/*,-*/.git/*,-*/site/*,-*config.codekit3,-*Gemfile.lock,-*/assets/*
 ```
 
@@ -73,7 +64,7 @@ This website was created from the bottom-up and is a migration from my Wordpress
 
 > Find and Replace in ST3
 
-```
+```text
 Where: <project>, -*/site/*
 ```
 
@@ -93,7 +84,11 @@ So if you have any suggestions, please feel free to contribute!
 
 Or just [create an issue](https://github.com/fvcproductions/fvcproductions.github.io/issues) - any little bit of help counts! 😊
 
-## Credits
+## Contact
 
 - [FVCproductions](http://fvcproductions.com) 🍓🍫
+    - Twitter [@fvcproductions](https://twitter.com/fvcproductions)
+
+## Acknowledgements
+
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes)
