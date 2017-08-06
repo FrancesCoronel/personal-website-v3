@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<title> Sort Detective - Solution \U0001F50D - FVCproductions</title>
+<meta name="application-name" content="FVCproductions">
+<meta name="msapplication-window" content="width=device-width;height=device-height">
+<meta name="msapplication-tooltip" content="I like to dabble with things that ought to be dabbled with.">
+<meta name="title" content="FVCproductions 🍓">
+<meta name="description" content="Stuck on that homework assignment involving SortDetective.jar? No need to worry!">
+<meta name="image" content="https://fvcproductions.files.wordpress.com/2015/04/banners-001.jpg?w=1024&amp;h=436&amp;crop=1">
+<meta itemprop="name" content="FVCproductions">
+<meta itemprop="description" content="Stuck on that homework assignment involving SortDetective.jar? No need to worry!">
+<meta itemprop="image" content="https://fvcproductions.files.wordpress.com/2015/04/banners-001.jpg?w=1024&amp;h=436&amp;crop=1">
+<meta property="og:title" content="Sort Detective - Solution \U0001F50D">
+<meta property="og:description" content="Stuck on that homework assignment involving SortDetective.jar? No need to worry!">
+<meta property="og:image" content="https://fvcproductions.files.wordpress.com/2015/04/banners-001.jpg?w=1024&amp;h=436&amp;crop=1">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="611">
+<meta property="og:url" content="http://localhost:4000/blog/2015/04/18/sort-detective-solution/">
+<meta property="og:site_name" content="FVCproductions">
+<meta property="og:locale" content="en">
+<meta property="og:type" content="website">
+<meta property="article:published_time" content="2015-04-18 00:00:00 -0400">
+<meta property="og:description" content="Stuck on that homework assignment involving SortDetective.jar? No need to worry!">
+<link rel="canonical" href="http://localhost:4000/blog/2015/04/18/sort-detective-solution/">
+<meta property="og:url" content="http://localhost:4000/blog/2015/04/18/sort-detective-solution/">
+<meta name="twitter:site" content="@fvcproductions">
+<meta name="twitter:title" content="Sort Detective - Solution \U0001F50D">
+<meta name="twitter:description" content="Stuck on that homework assignment involving SortDetective.jar? No need to worry!">
+<meta name="twitter:url" content="http://localhost:4000/blog/2015/04/18/sort-detective-solution/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://fvcproductions.files.wordpress.com/2015/04/banners-001.jpg?w=1024&amp;h=436&amp;crop=1">
+<meta name="twitter:image:src" content="https://fvcproductions.files.wordpress.com/2015/04/banners-001.jpg?w=1024&amp;h=436&amp;crop=1">
+<meta property="og:image" content="https://fvcproductions.files.wordpress.com/2015/04/banners-001.jpg?w=1024&amp;h=436&amp;crop=1">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2015-04-18T00:00:00-04:00"> <script type="application/ld+json"> { "@context": "http://schema.org", "@type": "Organization", "url": "http://localhost:4000", "logo": "http://localhost:4000/assets/images/teaser.png" } </script> <script type="application/ld+json"> { "@context": "http://schema.org", "@type": "Organization", "name": "FVCproductions", "url": "http://localhost:4000", "sameAs": ["https://twitter.com/fvcproductions","https://www.linkedin.com/in/fvcproductions","https://behance.net/fvcproductions","https://youtube.com/+fvcproductions2013","https://github.com/fvcproductions","https://speakerdeck.com/fvcproductions"] } </script><meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="cleartype" content="on">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://localhost:4000/assets/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="http://localhost:4000/assets/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/favicons/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="http://localhost:4000/assets/favicons/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="http://localhost:4000/assets/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="http://localhost:4000/assets/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="http://localhost:4000/assets/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="http://localhost:4000/assets/favicons/favicon-128.png" sizes="128x128">
+<meta name="application-name" content="FVCproductions">
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="http://localhost:4000/assets/favicons/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://localhost:4000/assets/favicons/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://localhost:4000/assets/favicons/mstile-150x150.png">
+<meta name="msapplication-wide310x150logo" content="http://localhost:4000/assets/favicons/mstile-310x150.png">
+<meta name="msapplication-square310x310logo" content="http://localhost:4000/assets/favicons/mstile-310x310.png">
+<meta name="msapplication-notification" content="frequency=30;polling-uri=http://notifications.buildmypinnedsite.com/?feed=http://fvcproductions.com/feed.xml&amp;id=1;polling-uri2=http://notifications.buildmypinnedsite.com/?feed=http://fvcproductions.com/feed.xml&amp;id=2;polling-uri3=http://notifications.buildmypinnedsite.com/?feed=http://fvcproductions.com/feed.xml&amp;id=3;polling-uri4=http://notifications.buildmypinnedsite.com/?feed=http://fvcproductions.com/feed.xml&amp;id=4;polling-uri5=http://notifications.buildmypinnedsite.com/?feed=http://fvcproductions.com/feed.xml&amp;id=5;cycle=1">
+<link rel="alternate" href="http://localhost:4000/feed.xml" type="application/atom+xml" title="FVCproductions - RSS Feed">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/lightgallery/1.3.9/css/lightgallery.min.css">
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+</head>
+<body class="layout--single">
+<div class="masthead"><div class="masthead__inner-wrap"><div class="masthead__menu"><nav class="greedy-nav" id="site-nav"> <button><div class="navicon"></div></button><ul class="visible-links">
+<li> <a href="http://localhost:4000/" class="navbar-brand-link" title="FVCproductions"> <img class="navbar-brand" alt="FVCproductions" src="/assets/img/logo-white.svg"> </a>
+</li>
+<li class="masthead__menu-item masthead__menu-item--lg"> <a href="http://localhost:4000/"> FVCproductions </a>
+</li>
+<li class="masthead__menu-item"> <a href="http://localhost:4000/about/"> About 👀️ </a><ul>
+<li> <a href="http://localhost:4000/books/"> Books 📖️️ </a>
+</li>
+<li> <a href="http://localhost:4000/travels/"> Travels 🗺️ </a>
+</li>
+<li> <a href="http://localhost:4000/what-i-use/"> What I Use 📱️ </a>
+</li>
+</ul>
+</li>
+<li class="masthead__menu-item"> <a href="http://localhost:4000/adventures/"> Adventures ✈️ </a><ul>
+<li> <a href="http://localhost:4000/conferences/"> Conferences 🎫️ </a>
+</li>
+<li> <a href="http://localhost:4000/education/"> Education 🎓️ </a>
+</li>
+<li> <a href="http://localhost:4000/experience/"> Experience 👓️ </a>
+</li>
+<li> <a href="http://localhost:4000/hackathons/"> Hackathons 🔨️ </a>
+</li>
+<li> <a href="http://localhost:4000/programs/"> Programs 🚀️ </a>
+</li>
+<li> <a href="http://localhost:4000/volunteering/"> Volunteering 💝️ </a>
+</li>
+</ul>
+</li>
+<li class="masthead__menu-item"> <a href="http://localhost:4000/blog/"> Blog 📝️ </a>
+</li>
+<li class="masthead__menu-item"> <a href="http://localhost:4000/portfolio/"> Portfolio 💼️ </a><ul>
+<li> <a href="http://localhost:4000/awards/"> Awards 🏆️ </a>
+</li>
+<li> <a href="http://localhost:4000/resume/"> Resume 📄️ </a>
+</li>
+</ul>
+</li>
+<li class="masthead__menu-item"> <a href="http://localhost:4000/services/"> Services 💡 </a><ul>
+<li> <a href="http://localhost:4000/freelancing/"> Freelancing 💎 </a>
+</li>
+<li> <a href="http://localhost:4000/mentoring/"> Mentoring 📚️ </a>
+</li>
+<li> <a href="http://localhost:4000/speaking/"> Speaking 💬️ </a>
+</li>
+</ul>
+</li>
+<li class="masthead__menu-item"> <a href="http://localhost:4000/feedback/"> Feedback ✅️ </a>
+</li>
+<li class="masthead__menu-item"> <a href="http://localhost:4000/contact/"> Contact 📨️ </a>
+</li>
+<li class="masthead__menu-item"> <a href="http://localhost:4000/search/"> Search 🔍️ </a>
+</li>
+<li class="masthead__menu-item"> <a href="http://localhost:4000/colophon/"> Colophon 🍓️ </a>
+</li>
+<li class="masthead__menu-item"> <a href="http://github.com/fvcproductions/fvcproductions.github.io" target="_blank"> GitHub Repo 🔧️ </a>
+</li>
+</ul>
+<ul class="hidden-links hidden"></ul></nav></div></div></div>
+<div class="page__hero" style=" "><div id="primary-header" style="background-image: url( https://fvcproductions.files.wordpress.com/2015/04/banners-001.jpg?w=1024&amp;h=436&amp;crop=1 );">
+<div class="overlay"></div>
+<div class="primary-hentry-inner"><div class="container"><h1 class="entry-title" itemprop="headline"> Sort Detective - Solution \U0001F50D</h1></div></div>
+</div></div>
+<div id="main" role="main"><article class="page" itemscope itemtype="http://schema.org/CreativeWork"><meta itemprop="headline" content="Sort Detective - Solution \U0001F50D">
+<meta itemprop="description" content="Stuck on that homework assignment involving SortDetective.jar? No need to worry!">
+<meta itemprop="datePublished" content=" April 18, 2015 ">
+<div class="page__inner-wrap">
+<header class="page__meta"><p itemprop="description"> <i class="fa fa-info-circle fa-lg"></i> Stuck on that homework assignment involving SortDetective.jar? No need to worry!</p>
+<p> <i class="fa fa-clock-o fa-lg" aria-hidden="true"></i> 1 minute read</p>
+<p> <i class="fa fa-pencil-square-o fa-lg" aria-hidden="true"></i> Created <time datetime="2015-04-18T00:00:00-04:00"> April 18, 2015 </time></p>
+<p> <i class="fa fa-line-chart fa-lg"></i> <span id="ga-pageviews">0</span> views</p></header><section class="page__content" itemprop="text"><blockquote><p>This tutorial is “certifiably” Mac Friendly. Whoop. </p></blockquote>
+<hr>
+<h2 id="files-provided-to-you">Files Provided To You</h2>
+<ul><li>
+<code class="highlighter-rouge">SortDetective.jar</code>, which looks something like this:</li></ul>
+<p><img src="https://fvcproductions.files.wordpress.com/2015/04/sortdetective-jar.png" alt="">{.aligncenter}</p>
+<blockquote><p>The purpose of this little HW assignment is to correctly identify the 6 Greek letters (Alpha, Beta, Gamma, Delta, Epsilon, &amp; Zeta) with their matching sorting method (selection, insertion, bubble, quick, merge, &amp; heap sort).</p></blockquote>
+<hr>
+<h2 id="step-1---download-jd-gui">Step 1 - Download JD-GUI</h2>
+<p>Head over to the Java Decompiler <a href="http://jd.benow.ca/" title="Java Decompiler">page located at <code class="highlighter-rouge">jd.benow.ca</code></a>) and download the <code class="highlighter-rouge">ZIP</code> file for the <code class="highlighter-rouge">JD-GUI</code>.</p>
+<p><img src="https://fvcproductions.files.wordpress.com/2015/04/jd-gui.png" alt="">{.aligncenter}</p>
+<hr>
+<h2 id="step-2---launch-jd-gui">Step 2 - Launch JD-GUI</h2>
+<p>Now that you’ve downloaded the <code class="highlighter-rouge">ZIP</code> file, unzip it and launch the application.</p>
+<p><img src="https://fvcproductions.files.wordpress.com/2015/04/jd-gui-unzipped.png" alt="">{.aligncenter}</p>
+<hr>
+<h2 id="step-3---open-your-sortdetectivejar-file-using-jd-gui">Step 3 - Open your <code class="highlighter-rouge">SortDetective.jar</code> file using <code class="highlighter-rouge">JD-GUI</code>
+</h2>
+<p><img src="https://fvcproductions.files.wordpress.com/2015/04/open-sortdetective.png" alt="">{.aligncenter}</p>
+<hr>
+<h1 id="step-4---find-the-formula-that-determines-the-order">Step 4 - Find the Formula That Determines The Order</h1>
+<p><code class="highlighter-rouge">SortDetective.jar</code> determines the sorting method ordering according to your student ID.</p>
+<p>It has an array defined with <strong>5 different</strong> orders that the sorting methods <strong>CAN</strong> be placed in. See <code class="highlighter-rouge">Line 256</code> in the <code class="highlighter-rouge">SortDetective.class</code>.</p>
+<p><img src="https://fvcproductions.files.wordpress.com/2015/04/sortingexperiment-line.png" alt="">{.aligncenter}</p>
+<p>Zooming in…</p>
+<p><img src="https://fvcproductions.files.wordpress.com/2015/04/screenshot-2015-04-18-16-09-09.png" alt="">{.aligncenter}</p>
+<p>With some minor searches, we find out that the method <code class="highlighter-rouge">experimentOrders</code> uses the variable <code class="highlighter-rouge">selectedPermutation</code> to determine what array value it will use to determine the order.</p>
+<p><img src="https://fvcproductions.files.wordpress.com/2015/04/experimentorders-2nd-case.png" alt="">{.aligncenter}</p>
+<p>This redirects us to the <code class="highlighter-rouge">setStudentID()</code> method. So now we’ve figured out the ordering all just depends on the formula the program uses.</p>
+<p><img src="https://fvcproductions.files.wordpress.com/2015/04/selectedpermutation.png" alt="">{.aligncenter}</p>
+<hr>
+<h2 id="step-5---apply-formula-to-experimentorders">Step 5 - Apply Formula To <code class="highlighter-rouge">experimentOrders</code>
+</h2>
+<p>So, in my case, my student ID is <code class="highlighter-rouge">00319124</code>.</p>
+<p>Using the formula, we can determine that the value of <code class="highlighter-rouge">selectedPermutation</code> is going to be <code class="highlighter-rouge">2</code> for me since <code class="highlighter-rouge">319124</code> / <code class="highlighter-rouge">10</code> % <code class="highlighter-rouge">5</code>= <code class="highlighter-rouge">2.4</code> or simply <code class="highlighter-rouge">2</code> for <code class="highlighter-rouge">int</code>. That means that the array value for <code class="highlighter-rouge">experimentOrders</code> will be <code class="highlighter-rouge">2</code>, making a match to the order found on <code class="highlighter-rouge">Line 7</code> when zooming in to <code class="highlighter-rouge">Line 256</code> in <code class="highlighter-rouge">SortDetective.class</code>.</p>
+<p>Remember, arrays are ordered like <code class="highlighter-rouge"><span class="p">{</span><span class="err">0,1,2</span><span class="p">}</span></code>. So <code class="highlighter-rouge">experimentOrders[2]</code> would be the 3rd value in the array.</p>
+<p><img src="https://fvcproductions.files.wordpress.com/2015/04/screenshot-2015-04-18-16-09-09.png" alt="">{.aligncenter}</p>
+<p>There we go! Just like that, I now know for sure that the ordering of the Greek letters for me would go</p>
+<ul>
+<li>Alpha - Quick Sort</li>
+<li>Beta - Selection Sort</li>
+<li>Gamma - Merge Sort</li>
+<li>Delta - Bubble Sort</li>
+<li>Epsilon - Insertion Sort</li>
+<li>Zeta - Heap Sort</li>
+</ul>
+<hr>
+<h3 id="good-luck-with-your-hw-wink">Good luck with your HW! <img class="emoji" title=":wink:" alt=":wink:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f609.png" height="20" width="20" align="absmiddle">
+</h3>
+<hr>
+<blockquote>
+<p>Tips or tricks?</p>
+<blockquote><p>contact me <a href="http://twitter.com/fvcproductions" title="Twitter - FVCproductions"><code class="highlighter-rouge">@fvcproductions</code></a></p></blockquote>
+</blockquote></section><section class="page__taxonomy"><h4 class="page__taxonomy-title"> <i class="fa fa-tags"></i> Tags</h4>
+<span itemprop="keywords"> <a href="http://localhost:4000/tags/#alpha" class="page__taxonomy-item" rel="tag">alpha</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#beta" class="page__taxonomy-item" rel="tag">beta</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#bubble-sort" class="page__taxonomy-item" rel="tag">bubble sort</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#delta" class="page__taxonomy-item" rel="tag">delta</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#epsilon" class="page__taxonomy-item" rel="tag">epsilon</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#experimentorders" class="page__taxonomy-item" rel="tag">experimentOrders</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#formula" class="page__taxonomy-item" rel="tag">formula</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#gamma" class="page__taxonomy-item" rel="tag">gamma</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#greek-letters" class="page__taxonomy-item" rel="tag">greek letters</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#heap-sort" class="page__taxonomy-item" rel="tag">heap sort</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#homework-assignment" class="page__taxonomy-item" rel="tag">homework assignment</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#insertion-sorts" class="page__taxonomy-item" rel="tag">insertion sorts</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#java-decompiler" class="page__taxonomy-item" rel="tag">java decompiler</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#java" class="page__taxonomy-item" rel="tag">java</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#jd" class="page__taxonomy-item" rel="tag">jd</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#jd-benow-ca" class="page__taxonomy-item" rel="tag">jd.benow.ca</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#merge-sort" class="page__taxonomy-item" rel="tag">merge sort</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#quick-sort" class="page__taxonomy-item" rel="tag">quick sort</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#selection-sort" class="page__taxonomy-item" rel="tag">selection sort</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#sort-detective" class="page__taxonomy-item" rel="tag">sort detective</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#sortdetective-jar" class="page__taxonomy-item" rel="tag">sortdetective.jar</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#sorting-methods" class="page__taxonomy-item" rel="tag">sorting methods</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#sortingexperiment" class="page__taxonomy-item" rel="tag">SortingExperiment</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#student-id" class="page__taxonomy-item" rel="tag">student ID</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#ui" class="page__taxonomy-item" rel="tag">ui</a><span class="sep">, </span> <a href="http://localhost:4000/tags/#zeta" class="page__taxonomy-item" rel="tag">zeta</a> </span></section><section class="page__share"><h4 class="page__share-title"> <i class="fa fa-heart"></i> Share the love</h4>
+<div class="social-share-links"> <a href="https://twitter.com/intent/tweet?via=fvcproductions&amp;text=Sort%20Detective%20-%20Solution%20%5CU0001F50D%20http://localhost:4000/blog/2015/04/18/sort-detective-solution/" target="_blank" class="btn btn--twitter" title="Share on Twitter"> <i class="fa fa-fw fa-twitter fa-lg" aria-hidden="true"></i><span> Twitter</span> </a> <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/blog/2015/04/18/sort-detective-solution/" target="_blank" class="btn btn--facebook" title="Share on Facebook"> <i class="fa fa-fw fa-facebook fa-lg" aria-hidden="true"></i><span> Facebook</span> </a> <a href="https://plus.google.com/share?url=http://localhost:4000/blog/2015/04/18/sort-detective-solution/" target="_blank" class="btn btn--google-plus" title="Share on Google Plus"> <i class="fa fa-fw fa-google-plus fa-lg" aria-hidden="true"></i><span> Google+</span> </a> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:4000/blog/2015/04/18/sort-detective-solution/" target="_blank" class="btn btn--linkedin" title="Share on LinkedIn"> <i class="fa fa-fw fa-linkedin fa-lg" aria-hidden="true"></i><span> LinkedIn</span> </a> <a href="https://www.reddit.com/submit?url=http://localhost:4000/blog/2015/04/18/sort-detective-solution/&amp;title=Sort%20Detective%20-%20Solution%20%5CU0001F50D" target="_blank" class="btn btn--reddit" title="Share on Reddit"> <i class="fa fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span> </a> <a href="mailto:?subject=Link%20-%20Sort%20Detective%20-%20Solution%20%5CU0001F50D&amp;body=Check%20out%20this%20link%20by%20FVCproductions:%20http://localhost:4000/blog/2015/04/18/sort-detective-solution/" class="btn btn--email" title="&lt;i class='fa fa-heart'&gt;&lt;/i&gt; Share the love Email"> <i class="fa fa-fw fa-envelope-o" aria-hidden="true"></i><span> Email</span> </a>
+</div></section><section class="page__comments"><h4 class="page__comments-title"> <i class="fa fa-comment"></i> Leave a comment</h4>
+<section id="disqus_thread"></section><section class="page__pagination"><h4 class="page__pagination-title"> <i class="fa fa-book"></i> Read More</h4>
+<nav class="pagination"> <a href="http://localhost:4000/blog/2015/04/13/what-to-do-week-negative-8/" class="pagination--pager" title="What To Do, What To Do, Week -8 "> <i class="fa fa-arrow-left"></i> What To Do, What To Do, Week -8 </a> <a href="http://localhost:4000/blog/2015/04/20/full-of-them/" class="pagination--pager" title="When You Realize the Internet is Full of Trolls "> When You Realize the Internet is Full of Trolls <i class="fa fa-arrow-right"></i> </a></nav></section><section class="page__related"><h4 class="page__related-title"> <i class="fa fa-cubes"></i> Related Posts</h4>
+<div class="grid__wrapper related__posts">
+<div class="grid__item"><article class="archive__item item " itemscope itemtype="http://schema.org/CreativeWork"><div class="archive__item-teaser" id="teaser-header" style="background-image: url( https://fvcproductions.files.wordpress.com/2017/01/airtable.png );"></div>
+<div class="archive__item-content">
+<h2 class="archive__item-title" itemprop="headline"> <a href="http://localhost:4000/blog/2017/01/29/another-spreadsheet-app/" rel="permalink">Another spreadsheet app? 🤔️️ </a>
+</h2>
+<p class="page__meta" itemprop="datePublished"> <i class="fa fa-calendar-o" aria-hidden="true"></i> <time datetime="2017-01-29T00:00:00-05:00"> January 29, 2017 </time></p>
+<p class="page__meta"> <i class="fa fa-clock-o" aria-hidden="true"></i> 2 minute read</p>
+</div></article></div>
+<div class="grid__item"><article class="archive__item item " itemscope itemtype="http://schema.org/CreativeWork"><div class="archive__item-teaser" id="teaser-header" style="background-image: url( http://www.scdn.co/i/_global/open-graph-default.png );"></div>
+<div class="archive__item-content">
+<h2 class="archive__item-title" itemprop="headline"> <a href="http://localhost:4000/blog/2017/01/23/spotify-to-mp3/" rel="permalink">Convert a Spotify Playlist to MP3 Files </a>
+</h2>
+<p class="page__meta" itemprop="datePublished"> <i class="fa fa-calendar-o" aria-hidden="true"></i> <time datetime="2017-01-23T00:00:00-05:00"> January 23, 2017 </time></p>
+<p class="page__meta"> <i class="fa fa-clock-o" aria-hidden="true"></i> 2 minute read</p>
+</div></article></div>
+<div class="grid__item"><article class="archive__item item " itemscope itemtype="http://schema.org/CreativeWork"><div class="archive__item-teaser" id="teaser-header" style="background-image: url( https://fvcproductions.files.wordpress.com/2017/01/home.png );"></div>
+<div class="archive__item-content">
+<h2 class="archive__item-title" itemprop="headline"> <a href="http://localhost:4000/blog/2017/01/13/launch-todo-app-laravel/" rel="permalink">Launch a Todo App Using Laravel Homestead ✅️ </a>
+</h2>
+<p class="page__meta" itemprop="datePublished"> <i class="fa fa-calendar-o" aria-hidden="true"></i> <time datetime="2017-01-13T00:00:00-05:00"> January 13, 2017 </time></p>
+<p class="page__meta"> <i class="fa fa-clock-o" aria-hidden="true"></i> 3 minute read</p>
+</div></article></div>
+</div></section></section>
+</div></article></div>
+<div class="page__footer"><footer><div class="page__footer-follow"><ul class="social-icons">
+<li> <a title="Twitter - FVCproductions" target="_blank" href="https://twitter.com/fvcproductions"><i class="fa fa-fw fa-twitter fa-3x" aria-hidden="true"></i></a>
+</li>
+<li> <a title="LinkedIn - FVCproductions" target="_blank" href="https://linkedin.com/in/fvcproductions"><i class="fa fa-fw fa-linkedin fa-3x" aria-hidden="true"></i></a>
+</li>
+<li> <a title="GitHub - FVCproductions" target="_blank" href="https://github.com/fvcproductions"><i class="fa fa-fw fa-github-alt fa-3x" aria-hidden="true"></i></a>
+</li>
+<li> <a title="YouTube - FVCproductions" target="_blank" href="https://youtube.com/c/fvcproductions2013"><i class="fa fa-fw fa-youtube-play fa-3x" aria-hidden="true"></i></a>
+</li>
+<li> <a title="Spotify - FVCproductions" target="_blank" href="https://open.spotify.com/user/fvcproductions"><i class="fa fa-fw fa-spotify fa-3x" aria-hidden="true"></i></a>
+</li>
+<li> <a title="RSS Feed - FVCproductions" target="_blank" href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss fa-3x" aria-hidden="true"></i></a>
+</li>
+</ul></div>
+<div class="page__footer-copyright">
+<div class="col-6"><p>© 2017 <a href="http://localhost:4000/">FVCproductions</a></p></div>
+<div class="col-6"><p><span id="ga-totalpageview">0</span> views</p></div>
+</div></footer></div>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script> <script src="//cdn.embedly.com/widgets/platform.js"></script> <script src="//twemoji.maxcdn.com/twemoji.min.js"></script> <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script> <script src="//cdn.jsdelivr.net/g/lightgallery,lg-fullscreen,lg-share,lg-video,lg-zoom,lg-thumbnail"></script> <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-63190978-3', 'auto'); ga('send', 'pageview'); </script> <script> var jqxhr = $.ajax("https://fvcproductions-analytics.appspot.com/query?id=ahpzfmZ2Y3Byb2R1Y3Rpb25zLWFuYWx5dGljc3IVCxIIQXBpUXVlcnkYgICAgICAgAoM&format=json") .done(function (response) { if (response !== undefined) { var page_url = "/blog/2015/04/18/sort-detective-solution/"; var page_views = undefined; var total_views = undefined; var oPageViews = {}; var total_views = response.totalsForAllResults['ga:pageviews']; var pagePathIndex; var pageViewsIndex; function findColumnHeaders(element, index, array) { switch (element.name) { case "ga:pagePath": pagePathIndex = index; return; case "ga:pageviews": pageViewsIndex = index; return; } } response.columnHeaders.forEach(findColumnHeaders); if (total_views !== undefined && total_views !== null && $("#ga-totalpageviews-div")) { $("#ga-totalpageviews").html(total_views); } if (response.rows !== undefined) { jQuery.each(response.rows, function (index, row) { var ga_page_url = row[pagePathIndex]; if (page_url.lastIndexOf("/") === (page_url.length - 1)) { page_url = page_url + "index.html"; } if (ga_page_url === page_url) { page_views = row[pageViewsIndex]; if (page_views !== undefined && page_views !== null && $("#ga-pageviews-div")) { $("#ga-pageviews").html(page_views); } } oPageViews[ga_page_url] = row[pageViewsIndex]; }); $('span[data-post-url]').each(function (index) { var dataPostUrl = $(this).attr("data-post-url"); if (dataPostUrl.lastIndexOf("/") === (dataPostUrl.length - 1)) { dataPostUrl = dataPostUrl + "index.html"; } if (oPageViews[dataPostUrl] !== undefined && oPageViews[dataPostUrl] !== null) { $(this).html(oPageViews[dataPostUrl]); } }); } } }) .fail(function (error) { console.log("Failed to get GA data"); }); </script> <script type="text/javascript"> /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */ var disqus_shortname = 'fvcproductions'; /* * * DON'T EDIT BELOW THIS LINE * * */ (function() { var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); })(); /* * * DON'T EDIT BELOW THIS LINE * * */ (function() { var s = document.createElement('script'); s.async = true; s.type = 'text/javascript'; s.src = '//' + disqus_shortname + '.disqus.com/count.js'; (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s); }()); </script> <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript> <script src="http://localhost:4000/assets/js/min/main.min.js"></script>
+</body>
+</html>

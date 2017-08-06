@@ -6,7 +6,6 @@
 .jekyll-metadata
 .sass-cache
 _asset_bundler_cache
-site
 codekit-config.json
 Gemfile.lock
 node_modules
