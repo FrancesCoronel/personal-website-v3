@@ -17,7 +17,7 @@ tags:
 
 > Name
 
-## <a title="Norfolk.js" href="https://norfolkjs.org" target="_blank">Norfolk.js - Norfolk JavaScript Meetup Group</a>
+## <a title="Norfolk.js" href="https://norfolkjs.org" target="_blank" rel="noopener">Norfolk.js - Norfolk JavaScript Meetup Group</a>
 
 > Organizer
 

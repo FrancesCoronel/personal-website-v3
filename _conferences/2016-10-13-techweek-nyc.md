@@ -27,7 +27,7 @@ gallery:
 
 > Name
 
-## <a title="Techweek NYC" href="https://techweek.com" target="_blank">Techweek NYC</a>
+## <a title="Techweek NYC" href="https://techweek.com" target="_blank" rel="noopener">Techweek NYC</a>
 
 > Organizer
 

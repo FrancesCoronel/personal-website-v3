@@ -8,7 +8,7 @@ header:
 
 > Name
 
-## <a title="TreeHacks" href="https://treehacks.com/" target="_blank">TreeHacks</a>
+## <a title="TreeHacks" href="https://treehacks.com/" target="_blank" rel="noopener">TreeHacks</a>
 
 > Organizer
 

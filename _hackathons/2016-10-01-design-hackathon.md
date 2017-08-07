@@ -8,7 +8,7 @@ header:
 
 > Name
 
-## <a title="DesignHackathon" href="https://mysocialcanvas.com/designhackathon" target="_blank">DesignHackathon</a>
+## <a title="DesignHackathon" href="https://mysocialcanvas.com/designhackathon" target="_blank" rel="noopener">DesignHackathon</a>
 
 > Organizer
 
@@ -34,8 +34,8 @@ MEGGS creates tech focused cases that offer beautiful and well designed protecti
 
 The My Social Canvas DesignHackathon will bring together students who are pursuing degrees in fashion, graphic design, technology, and business in an effort to increase awareness, participation and funding for girls in STEM programs across the country. The final deliverable from each team will be an iPhone case design, an e-commerce site to sell their product, and a marketing plan to launch the product. Proceeds from the sales of the winning team's cases will go back to supporting Girls In STEM.
 
-LinkedIn <a href="https://linkedin.com/company/my-social-canvas" target="_blank">`my-social-canvas`</a>
-Twitter <a href="https://twitter.com/MySocialCanvas" target="_blank">`@MySocialCanvas`</a>
+LinkedIn <a href="https://linkedin.com/company/my-social-canvas" target="_blank" rel="noopener">`my-social-canvas`</a>
+Twitter <a href="https://twitter.com/MySocialCanvas" target="_blank" rel="noopener">`@MySocialCanvas`</a>
 
 > Awards
 

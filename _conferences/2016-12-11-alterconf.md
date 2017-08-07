@@ -19,7 +19,7 @@ gallery:
 
 > Name
 
-# <a title="AlterConf NYC" href="https://alterconf.com" target="_blank">AlterConf NYC</a>
+# <a title="AlterConf NYC" href="https://alterconf.com" target="_blank" rel="noopener">AlterConf NYC</a>
 
 > Organizer
 

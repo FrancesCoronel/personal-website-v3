@@ -23,7 +23,7 @@ gallery:
 
 > Name
 
-## <a title="West AAERG/HAERG Leadership Summit" href="https://www.accenture.com/us-en/company-diversity" target="_blank">West AAERG/HAERG Leadership Summit</a>
+## <a title="West AAERG/HAERG Leadership Summit" href="https://www.accenture.com/us-en/company-diversity" target="_blank" rel="noopener">West AAERG/HAERG Leadership Summit</a>
 
 > Organizer
 

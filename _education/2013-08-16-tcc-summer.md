@@ -11,7 +11,7 @@ gallery:
 
 > Institution
 
-## <a title="Tidewater Community College" href="https://tcc.edu" target="_blank">Tidewater Community College</a>
+## <a title="Tidewater Community College" href="https://tcc.edu" target="_blank" rel="noopener">Tidewater Community College</a>
 
 > Location
 

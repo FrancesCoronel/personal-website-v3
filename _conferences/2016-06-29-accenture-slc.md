@@ -55,7 +55,7 @@ gallery:
 
 > Name
 
-## <a title="Accenture Student Leadership Conference" href="https://www.accenture.com/us-en/careers/student-leadership-conference" target="_blank">Student Leadership Conference</a>
+## <a title="Accenture Student Leadership Conference" href="https://www.accenture.com/us-en/careers/student-leadership-conference" target="_blank" rel="noopener">Student Leadership Conference</a>
 
 > Organizer
 

@@ -20,9 +20,9 @@ header:
 
 ##### Links
 
-- <i>LinkedIn</i> <code><a href="https://www.linkedin.com/company/product-school" target="_blank">product-school</a></code>
-- <i>Twitter</i> <code><a href="https://twitter.com/productschool" target="_blank">@productschool</a></code>
-- <i>Website</i> <code><a href="https://productschool.com" target="_blank">productschool.com</a></code>
+- <i>LinkedIn</i> <code><a href="https://www.linkedin.com/company/product-school" target="_blank" rel="noopener">product-school</a></code>
+- <i>Twitter</i> <code><a href="https://twitter.com/productschool" target="_blank" rel="noopener">@productschool</a></code>
+- <i>Website</i> <code><a href="https://productschool.com" target="_blank" rel="noopener">productschool.com</a></code>
 
 
 ![logo](https://cdn.evbuc.com/eventlogos/110662633/pslogoeventimage.png)

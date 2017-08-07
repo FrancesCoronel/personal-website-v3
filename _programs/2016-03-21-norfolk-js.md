@@ -9,7 +9,7 @@ header:
 <img class="aligncenter size-full wp-image-3370" src="https://fvcproductions.files.wordpress.com/2015/11/norfolkjs1.png" alt="NorfolkJS - Circular Logo" width="512" height="512" />
 <code>December 15, 2014 to March 21, 2016</code>
 <em>Norfolk.js</em>
-<strong><em><a title="NorfolkJS" href="https://www.meetup.com/NorfolkJS" target="_blank">Member, Speaker</a></em></strong>
+<strong><em><a title="NorfolkJS" href="https://www.meetup.com/NorfolkJS" target="_blank" rel="noopener">Member, Speaker</a></em></strong>
 Various Locations - Norfolk
 
 ✔︎ attended 9 meetups
@@ -26,10 +26,10 @@ Various Locations - Norfolk
 
 ✔︎ spoke on JS Coding Bootcamps for January 2016 Meetup
 
-◉ <a href="https://norfolkjs.org" target="_blank">norfolkjs.org</a>
-◉ <a href="meetup.com/NorfolkJS/events/227490794" target="_blank">meetup.com/NorfolkJS/events/227490794</a>
+◉ <a href="https://norfolkjs.org" target="_blank" rel="noopener">norfolkjs.org</a>
+◉ <a href="meetup.com/NorfolkJS/events/227490794" target="_blank" rel="noopener">meetup.com/NorfolkJS/events/227490794</a>
 
-<a href="https://www.meetup.com/NorfolkJS/members/182920007/" target="_blank">Learn more</a>
+<a href="https://www.meetup.com/NorfolkJS/members/182920007/" target="_blank" rel="noopener">Learn more</a>
 
 [gallery type="rectangular" size="full" ids="3702,3701,3700,3699,3697" orderby="rand"]
 

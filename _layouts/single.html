@@ -1,89 +1,60 @@
----
-layout: default
----
-
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-    {% include page/hero.html %}
-{% endif %}
+--- layout: default --- {% if page.header.overlay_color or page.header.overlay_image or page.header.image %} {% include page/hero.html
+%} {% endif %}
 
 <div id="main" role="main">
 
     <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
 
         {% if page.title %}
-            <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
-        {% endif %}
-
-        {% if page.excerpt %}
-            <meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">
-        {% endif %}
-
-        {% if page.date %}
-            <meta itemprop="datePublished" content="{{ page.date | date: ' %B %d, %Y ' }}">
-        {% endif %}
-
-        {% if page.modified %}
-            <meta itemprop="dateModified" content="{{ page.modified | date: ' %B %d, %Y ' }}">
-        {% endif %}
+        <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}"> {% endif %} {% if page.excerpt %}
+        <meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}"> {% endif %} {% if page.date %}
+        <meta itemprop="datePublished" content="{{ page.date | date: ' %B %d, %Y ' }}"> {% endif %} {% if page.modified %}
+        <meta itemprop="dateModified" content="{{ page.modified | date: ' %B %d, %Y ' }}"> {% endif %}
 
         <div class="page__inner-wrap">
 
-            {% if page.categories contains "feedback" %}
-                {% include custom/feedback.html %}
-            {% endif %}
-
-            {% unless page.header.overlay_color or page.header.overlay_image or page.header.image %}
-                <header>
-                    {% if page.title %}
-                        <h1 class="page__title" itemprop="headline">
-                        {% if page.cta_url %}
-                            <a href="{{ page.cta_url }}" target="_blank">
+            {% if page.categories contains "feedback" %} {% include custom/feedback.html %} {% endif %} {% unless page.header.overlay_color
+            or page.header.overlay_image or page.header.image %}
+            <header>
+                {% if page.title %}
+                <h1 class="page__title" itemprop="headline">
+                    {% if page.cta_url %}
+                    <a href="{{ page.cta_url }}" target="_blank" rel="noopener">
                                 {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
-                            </a>
-                        {% else %}
-                            {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
-                        {% endif %}
-                    </h1>
-                    {% endif %}
-                </header>
+                            </a> {% else %} {{ page.title | markdownify | remove: "
+                    <p>" | remove: "</p>" }} {% endif %}
+                </h1>
+                {% endif %}
+            </header>
             {% endunless %}
 
             <header class="page__meta">
 
-                {% unless page.categories contains "feedback" %}
-                    {% if page.excerpt %}
-                        <p itemprop="description">
-                            <i class="fa fa-info-circle fa-lg"></i> {{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}
-                        </p>
-                    {% endif %}
-                {% endunless %}
-
-                {% if page.read_time %}
-                    <p>
-                        <i class="fa fa-clock-o fa-lg" aria-hidden="true"></i> {% include page/read-time.html %}
-                    </p>
-                {% endif %}
-
-                {% if page.date %}
-                    <p>
-                        {% if page.permalink == '/services/speaking' %}
-                            <i class="fa fa-commenting fa-lg" aria-hidden="true"></i> Presented
-                        {% else %}
-                            <i class="fa fa-pencil-square-o fa-lg" aria-hidden="true"></i> Created
-                        {% endif %}
-                        <time datetime="{{ page.date | date_to_xmlschema }}">
-                            {{ page.date | date: "%B %d, %Y" }}
-                        </time>
-                    </p>
-                {% endif %}
-
-                {% if page.modified %}
-                    <p>
-                        <i class="fa fa-calendar-check-o fa-lg" aria-hidden="true"></i> Last updated
-                        <time datetime="{{ page.modified | date: " %Y-%m-%d " }}">
-                            {{ page.modified | date: "%B %d, %Y" }}
-                        </time>
-                    </p>
+                {% unless page.categories contains "feedback" %} {% if page.excerpt %}
+                <p itemprop="description">
+                    <i class="fa fa-info-circle fa-lg"></i> {{ page.excerpt | markdownify | strip_html | strip_newlines |
+                    escape_once }}
+                </p>
+                {% endif %} {% endunless %} {% if page.read_time %}
+                <p>
+                    <i class="fa fa-clock-o fa-lg" aria-hidden="true"></i> {% include page/read-time.html %}
+                </p>
+                {% endif %} {% if page.date %}
+                <p>
+                    {% if page.permalink == '/services/speaking' %}
+                    <i class="fa fa-commenting fa-lg" aria-hidden="true"></i> Presented {% else %}
+                    <i class="fa fa-pencil-square-o fa-lg" aria-hidden="true"></i> Created {% endif %}
+                    <time datetime="{{ page.date | date_to_xmlschema }}">
+                        {{ page.date | date: "%B %d, %Y" }}
+                    </time>
+                </p>
+                {% endif %} {% if page.modified %}
+                <p>
+                    <i class="fa fa-calendar-check-o fa-lg" aria-hidden="true"></i> Last updated
+                    <time datetime="{{ page.modified | date: " %Y-%m-%d " }}">
+                        {{ page.modified | date: "%B %d, %Y" }}
+                    </time>
+                </p>
                 {% endif %}
 
                 <p>
@@ -94,33 +65,19 @@ layout: default
             </header>
 
             <section class="page__content" itemprop="text">
-                {{ content }}
-                {% if page.link %}
-                    <div>
-                        <a href="{{ page.link }}" class="btn">
+                {{ content }} {% if page.link %}
+                <div>
+                    <a href="{{ page.link }}" class="btn">
                             {{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}
                         </a>
-                    </div>
+                </div>
                 {% endif %}
             </section>
 
-            {% include page/taxonomy.html %}
-
-            {% if page.share %}
-                {% include page/social-share.html %}
-            {% endif %}
-
-            {% if site.comments.provider and page.comments %}
-                {% include comments/comments.html %}
-            {% endif %}
-
-            {% if page.previous or page.next %}
-                {% include page/post_pagination.html %}
-            {% endif %}
-
-            {% if page.id and page.related and site.related_posts.size > 0 %}
-                {% include page/related.html %}
-            {% endif %}
+            {% include page/taxonomy.html %} {% if page.share %} {% include page/social-share.html %} {% endif %} {% if site.comments.provider
+            and page.comments %} {% include comments/comments.html %} {% endif %} {% if page.previous or page.next %} {%
+            include page/post_pagination.html %} {% endif %} {% if page.id and page.related and site.related_posts.size >
+            0 %} {% include page/related.html %} {% endif %}
         </div>
     </article>
 

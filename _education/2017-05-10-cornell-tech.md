@@ -18,7 +18,7 @@ gallery:
 
 > Institution
 
-## <a title="Cornell Tech" href="https://tech.cornell.edu" target="_blank">Cornell Tech</a>
+## <a title="Cornell Tech" href="https://tech.cornell.edu" target="_blank" rel="noopener">Cornell Tech</a>
 
 > Location
 

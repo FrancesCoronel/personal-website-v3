@@ -7,7 +7,7 @@
 		<div class="archive__item-content">
 			<h2 class="archive__item-title" itemprop="headline">
 				{% if post.link %}
-				<a href="{{ post.link }}" target="_blank">{{ title }} <i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>				{% else %}
+				<a href="{{ post.link }}" target="_blank" rel="noopener">{{ title }} <i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>				{% else %}
 				<a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a> {% endif %}
 			</h2>
 

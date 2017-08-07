@@ -8,7 +8,7 @@ header:
 
 > Name
 
-## <a title="Monarchs Hack the Campus" href="https://www.cs.odu.edu/~acm/hackathon/" target="_blank">Monarchs Hack the Campus</a>
+## <a title="Monarchs Hack the Campus" href="https://www.cs.odu.edu/~acm/hackathon/" target="_blank" rel="noopener">Monarchs Hack the Campus</a>
 
 > Organizer
 

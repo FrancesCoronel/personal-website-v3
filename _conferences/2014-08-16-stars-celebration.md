@@ -13,7 +13,7 @@ gallery:
 
 > Name
 
-## <a title="STARS" href="https://www.starscelebration.org/2014/" target="_blank">STARS Celebration 2014</a>
+## <a title="STARS" href="https://www.starscelebration.org/2014/" target="_blank" rel="noopener">STARS Celebration 2014</a>
 
 > Organizer
 

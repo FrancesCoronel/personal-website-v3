@@ -17,7 +17,7 @@ gallery:
 
 > Name
 
-## <a title="React.js Conf" href="https://conf.reactjs.com/" target="_blank">React.js Conf</a>
+## <a title="React.js Conf" href="https://conf.reactjs.com/" target="_blank" rel="noopener">React.js Conf</a>
 
 > Organizer
 

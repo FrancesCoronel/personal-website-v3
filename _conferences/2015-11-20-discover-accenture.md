@@ -13,7 +13,7 @@ gallery:
 
 > Name
 
-## <a title="Accenture" href="https://www.accenture.com/us-en" target="_blank">Discover Accenture</a>
+## <a title="Accenture" href="https://www.accenture.com/us-en" target="_blank" rel="noopener">Discover Accenture</a>
 
 > Organizer
 

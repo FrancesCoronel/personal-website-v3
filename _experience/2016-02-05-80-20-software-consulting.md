@@ -15,7 +15,7 @@ gallery:
 
 > Employer
 
-## <a title="80|20 Software Consulting" href="https://madeby8020.com" target="_blank">80|20 Software Consulting</a>
+## <a title="80|20 Software Consulting" href="https://madeby8020.com" target="_blank" rel="noopener">80|20 Software Consulting</a>
 
 > Location
 

@@ -426,148 +426,6 @@
 		"oAP": "\/assets\/fonts\/lg.woff",
 		"oF": 0
 		},
-	"\/assets\/fonts\/roboto-mono\/RobotoMono-Bold.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/roboto-mono\/RobotoMono-Bold.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/roboto-mono\/RobotoMono-BoldItalic.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/roboto-mono\/RobotoMono-BoldItalic.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/roboto-mono\/RobotoMono-Italic.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/roboto-mono\/RobotoMono-Italic.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/roboto-mono\/RobotoMono-Light.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/roboto-mono\/RobotoMono-Light.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/roboto-mono\/RobotoMono-LightItalic.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/roboto-mono\/RobotoMono-LightItalic.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/roboto-mono\/RobotoMono-Medium.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/roboto-mono\/RobotoMono-Medium.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/roboto-mono\/RobotoMono-MediumItalic.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/roboto-mono\/RobotoMono-MediumItalic.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/roboto-mono\/RobotoMono-Regular.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/roboto-mono\/RobotoMono-Regular.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/roboto-mono\/RobotoMono-Thin.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/roboto-mono\/RobotoMono-Thin.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/roboto-mono\/RobotoMono-ThinItalic.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/roboto-mono\/RobotoMono-ThinItalic.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Roboto\/Roboto-Black.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Roboto\/Roboto-Black.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Roboto\/Roboto-BlackItalic.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Roboto\/Roboto-BlackItalic.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Roboto\/Roboto-Bold.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Roboto\/Roboto-Bold.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Roboto\/Roboto-BoldItalic.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Roboto\/Roboto-BoldItalic.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Roboto\/Roboto-Italic.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Roboto\/Roboto-Italic.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Roboto\/Roboto-Light.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Roboto\/Roboto-Light.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Roboto\/Roboto-LightItalic.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Roboto\/Roboto-LightItalic.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Roboto\/Roboto-Medium.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Roboto\/Roboto-Medium.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Roboto\/Roboto-MediumItalic.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Roboto\/Roboto-MediumItalic.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Roboto\/Roboto-Regular.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Roboto\/Roboto-Regular.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Roboto\/Roboto-Thin.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Roboto\/Roboto-Thin.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Roboto\/Roboto-ThinItalic.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Roboto\/Roboto-ThinItalic.ttf",
-		"oF": 0
-		},
-	"\/assets\/img\/Algolia.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/img\/Algolia.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/assets\/img\/loading.gif": {
 		"ft": 4194304,
 		"iS": 4178,
@@ -683,14 +541,11 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/js\/plugins\/twemoji.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/min\/twemoji.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
+	"\/CNAME": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/CNAME",
+		"oF": 0
 		},
 	"\/Gemfile": {
 		"ft": 8192,
@@ -747,20 +602,14 @@
 	"\/assets\/js\/main.js": [
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/twemoji.min.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/greedy-navigation.js",
 			"position": 0,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/greedy-navigation.js",
-			"position": 1,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
 			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/iframes.js",
-			"position": 2,
+			"position": 1,
 			"type": 0
 			}
 		]

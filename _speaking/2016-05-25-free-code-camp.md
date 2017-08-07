@@ -30,7 +30,7 @@ Invited to speak for FreeCodeCamp Norfolk's group on how to get started as a dev
 
 <img class="aligncenter wp-image-4379 size-full" src="https://fvcproductions.files.wordpress.com/2016/06/freecodecamp.png" alt="FreeCodeCamp" width="512" height="512" />
     <code>May 25th, 2016</code>
-    <h1><a href="https://www.facebook.com/groups/free.code.camp.norfolk/" target="_blank">Free Code Camp Norfolk</a></h1>
+    <h1><a href="https://www.facebook.com/groups/free.code.camp.norfolk/" target="_blank" rel="noopener">Free Code Camp Norfolk</a></h1>
     <h2><strong>So You Want To Be A Wizard</strong></h2>
     <h3>757 Makerspace</h3>
     <h4>Norfolk, Virginia</h4>
@@ -44,9 +44,9 @@ https://speakerdeck.com/fvcproductions/so-you-want-to-be-a-wizard-free-code-camp
 <h3>Facebook Posts</h3>
 
 <ul>
-    <li><a href="https://www.facebook.com/groups/free.code.camp.norfolk/permalink/812271315539607/" target="_blank">Announcement</a></li>
-    <li><a href="https://www.facebook.com/groups/free.code.camp.norfolk/permalink/806430109457061/" target="_blank">Event</a></li>
-    <li><a href="https://www.facebook.com/groups/free.code.camp.norfolk/permalink/812716962161709/" target="_blank">Aftermath</a></li>
+    <li><a href="https://www.facebook.com/groups/free.code.camp.norfolk/permalink/812271315539607/" target="_blank" rel="noopener">Announcement</a></li>
+    <li><a href="https://www.facebook.com/groups/free.code.camp.norfolk/permalink/806430109457061/" target="_blank" rel="noopener">Event</a></li>
+    <li><a href="https://www.facebook.com/groups/free.code.camp.norfolk/permalink/812716962161709/" target="_blank" rel="noopener">Aftermath</a></li>
 </ul>
 
 ![FreeCodeCamp](https://fvcproductions.files.wordpress.com/2016/06/freecodecamp.png){.aligncenter

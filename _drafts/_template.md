@@ -20,7 +20,7 @@ gallery:
 
 > Name
 
-## <a title="Title" href="link" target="_blank">Title</a>
+## <a title="Title" href="link" target="_blank" rel="noopener">Title</a>
 
 > Organizer
 

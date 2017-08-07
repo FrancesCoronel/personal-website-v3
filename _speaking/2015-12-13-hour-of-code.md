@@ -16,7 +16,7 @@ tags:
 
 > Name
 
-## <a href="https://hourofcode.com" target="_blank">Hour of Code</a>
+## <a href="https://hourofcode.com" target="_blank" rel="noopener">Hour of Code</a>
 
 > Organizer
 

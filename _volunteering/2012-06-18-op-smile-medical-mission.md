@@ -11,11 +11,11 @@ header:
 
 <code>June 7th to 18th, 2012</code>
 <em>Operation Smile</em>
-<strong><a title="ISLC" href="https://studentprograms.operationsmile.org/events/mission-training-workshop/" target="_blank">Medical Mission</a></strong>
+<strong><a title="ISLC" href="https://studentprograms.operationsmile.org/events/mission-training-workshop/" target="_blank" rel="noopener">Medical Mission</a></strong>
 <strong><em>Student Volunteer</em></strong>
 Hanoi, Vietnam
 
-<a href="https://operationsmilevietnam2012.blogspot.com/" target="_blank">blog on Operation Smile mission</a>
+<a href="https://operationsmilevietnam2012.blogspot.com/" target="_blank" rel="noopener">blog on Operation Smile mission</a>
 
 [gallery type="rectangular" size="full" ids="3784,3769,3771,3768,3763,3764,3765,3766,3767,3756,3757,3759,3761,3755,3754,3752" orderby="rand"]
 

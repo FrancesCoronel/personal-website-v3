@@ -8,7 +8,7 @@ header:
 
 > Name
 
-## <a title="HR (Hampton Roads) DevFest" href="https://hrdevfest.org" target="_blank">HR (Hampton Roads) DevFest</a>
+## <a title="HR (Hampton Roads) DevFest" href="https://hrdevfest.org" target="_blank" rel="noopener">HR (Hampton Roads) DevFest</a>
 
 > Organizer
 

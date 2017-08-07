@@ -8,7 +8,7 @@ header:
 
 > Name
 
-## <a title="DE" href="https://hackathon.dominionenterprises.com/" target="_blank"><strong>Hack to Help Hampton Roads</strong></a>
+## <a title="DE" href="https://hackathon.dominionenterprises.com/" target="_blank" rel="noopener"><strong>Hack to Help Hampton Roads</strong></a>
 
 > Organizer
 

@@ -33,7 +33,7 @@ gallery:
 
 > Name
 
-## <a title="RevolutionConf" href="https://revolutionconf.com" target="_blank">RevolutionConf</a>
+## <a title="RevolutionConf" href="https://revolutionconf.com" target="_blank" rel="noopener">RevolutionConf</a>
 
 > Organizer
 

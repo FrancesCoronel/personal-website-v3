@@ -1,11 +1,11 @@
 <div class="masthead">
 	<div class="masthead__inner-wrap">
 		<div class="masthead__menu">
-			<nav class='greedy-nav' id="site-nav">
-				<button>
+			<nav class="greedy-nav" id="site-nav">
+				<button alt="Menu Counter" aria-label="Menu Counter" aria-labelledby="Menu Counter">
 					<div class="navicon"></div>
 				</button>
-				<ul class='visible-links'>
+				<ul class="visible-links">
 					<li>
 						<a href="{{ '/' | absolute_url }}" class="navbar-brand-link" title="FVCproductions">
 							<img class="navbar-brand" alt="FVCproductions" src="https://fvcproductions.com/assets/img/logo-white.svg">
@@ -20,7 +20,7 @@
 					domain = site.url | append: site.baseurl %} {% endif %}
 					<li class="masthead__menu-item">
 						{% if link.new_window == true %}
-						<a href="{{ domain }}{{ link.url }}" target="_blank">
+						<a href="{{ domain }}{{ link.url }}" target="_blank" rel="noopener">
 									{{ link.title }}
 								</a> {% else %}
 						<a href="{{ domain }}{{ link.url }}">

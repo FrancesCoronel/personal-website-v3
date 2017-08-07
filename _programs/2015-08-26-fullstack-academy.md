@@ -16,13 +16,13 @@ June 8th, 2015 to August 26th, 2015 - on campus
 
 <em>Fullstack Academy</em>
 
-<strong><a title="Fullstack Academy" href="https://www.fullstackacademy.com/summer-of-code" target="_blank">Summer of Code</a></strong>
+<strong><a title="Fullstack Academy" href="https://www.fullstackacademy.com/summer-of-code" target="_blank" rel="noopener">Summer of Code</a></strong>
 
 <strong><em>Member of Inaugural Class</em></strong>
 
 Fullstack Academy - New York City, New York
 
-<a href="https://fvcproductions.com/2015/08/30/fullstack-academy-reflections/" target="_blank">Learn more</a>
+<a href="https://fvcproductions.com/2015/08/30/fullstack-academy-reflections/" target="_blank" rel="noopener">Learn more</a>
 
 [gallery type="rectangular" size="full" ids="3802,3772,2443,2695,3509" orderby="rand"]
 

@@ -27,7 +27,7 @@ gallery:
 
 > Name
 
-## <a title="Fluent Conference" href="https://conferences.oreilly.com/fluent/javascript-html-us/" target="_blank">Fluent Conference</a>
+## <a title="Fluent Conference" href="https://conferences.oreilly.com/fluent/javascript-html-us/" target="_blank" rel="noopener">Fluent Conference</a>
 
 > Organizer
 

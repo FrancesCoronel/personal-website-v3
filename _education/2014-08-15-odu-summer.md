@@ -11,7 +11,7 @@ gallery:
 
 > Institution
 
-## <a title="Old Dominion University" href="https://odu.edu" target="_blank">Old Dominion University</a>
+## <a title="Old Dominion University" href="https://odu.edu" target="_blank" rel="noopener">Old Dominion University</a>
 
 > Location
 

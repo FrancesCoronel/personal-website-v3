@@ -14,7 +14,7 @@ gallery:
 
 > Name
 
-## <a title="ISLC" href="https://studentprograms.operationsmile.org/events/islc/" target="_blank">International Student Cultural Exchange</a>
+## <a title="ISLC" href="https://studentprograms.operationsmile.org/events/islc/" target="_blank" rel="noopener">International Student Cultural Exchange</a>
 
 > Organizer
 

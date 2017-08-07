@@ -35,7 +35,7 @@ gallery:
 
 > Name
 
-## <a title="ACM Richard Tapia Celebration of Diversity in Computing" href="https://tapiaconference.org" target="_blank">ACM Richard Tapia Celebration of Diversity in Computing</a>
+## <a title="ACM Richard Tapia Celebration of Diversity in Computing" href="https://tapiaconference.org" target="_blank" rel="noopener">ACM Richard Tapia Celebration of Diversity in Computing</a>
 
 > Organizer
 

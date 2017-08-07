@@ -13,7 +13,7 @@ gallery:
 
 > Name
 
-## <a title="ISLC" href="https://studentprograms.operationsmile.org/events/islc/" target="_blank">International Student Leadership Conference</a>
+## <a title="ISLC" href="https://studentprograms.operationsmile.org/events/islc/" target="_blank" rel="noopener">International Student Leadership Conference</a>
 
 > Organizer
 

@@ -8,7 +8,7 @@ header:
 
 > Name
 
-## <a title="Hoya Hacks" href="https://hoyahacks.com" target="_blank">Hoya Hacks</a>
+## <a title="Hoya Hacks" href="https://hoyahacks.com" target="_blank" rel="noopener">Hoya Hacks</a>
 
 > Organizer
 

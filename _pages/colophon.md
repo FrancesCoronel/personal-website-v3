@@ -12,7 +12,7 @@ Originally published 2013.
 
 Website design, development, and copy writing by Frances Coronel.
 
-Built off of the theme <a href="https://mmistakes.github.io/minimal-mistakes" title="Minimal Mistakes" target="_blank">Minimal Mistakes</a>.
+Built off of the theme <a href="https://mmistakes.github.io/minimal-mistakes" title="Minimal Mistakes" target="_blank" rel="noopener">Minimal Mistakes</a>.
 
 ## Blockquotes
 

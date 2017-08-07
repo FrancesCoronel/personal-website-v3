@@ -24,9 +24,10 @@ $(document).ready(function () {
 
     // Set the size of the rendered Emojis
     // This can be set to 16x16, 36x36, or 72x72
+    // twemoji.parse(document.body);
     twemoji.size = '36x36';
     twemoji.parse(document.body, {
-        folder: 'svg',
+        folder: '2/svg',
         ext: '.svg'
     });
 

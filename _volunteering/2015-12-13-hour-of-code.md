@@ -16,7 +16,7 @@ tags:
 <img class="aligncenter size-full wp-image-3545" src="https://fvcproductions.files.wordpress.com/2015/11/codeorg.png" alt="Code.org - Hour of Code" width="512" height="512" />
 
 <code>December 7th to 13th, 2015</code>
-<h1><a href="https://hourofcode.com" target="_blank">Code.org</a></h1>
+<h1><a href="https://hourofcode.com" target="_blank" rel="noopener">Code.org</a></h1>
 <h2><strong>Hour of Code</strong></h2>
 <h3>Bethel High, Sedgefield Elementary, John B. Dey Elementary, Tallwood Elementary</h3>
 <h4>Various Locations in Hampton Roads, Virginia</h4>

@@ -8,7 +8,7 @@ excerpt: Marketing and mentoring done for Fullstack Academy as an ambassador for
 
 > Employer
 
-## <a title="Fullstack Academy" href="https://fullstackacademy.com" target="_blank">Fullstack Academy</a>
+## <a title="Fullstack Academy" href="https://fullstackacademy.com" target="_blank" rel="noopener">Fullstack Academy</a>
 
 > Location
 
