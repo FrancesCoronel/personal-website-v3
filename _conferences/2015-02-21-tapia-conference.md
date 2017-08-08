@@ -17,7 +17,6 @@ gallery:
     url: https://i0.wp.com/fvcproductions.files.wordpress.com/2015/03/tapia-2015-001.jpg
   - alt: "TAPIA"
     url: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/02/my-lanyard1.jpg
-
 ---
 
 > Name

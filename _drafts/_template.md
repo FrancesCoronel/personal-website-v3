@@ -51,4 +51,4 @@ Fill
 [<i class='fa fa-linkedin'></i> LinkedIn](https://linkedin.com)
 {: .btn .btn--linkedin}
 
-{% include gallery caption="A caption."%}
+{% include gallery %}

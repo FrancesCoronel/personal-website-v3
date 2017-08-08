@@ -5,7 +5,7 @@
 .grid__item {
     margin-bottom: 2em;
     @include breakpoint($small) {
-        @include gallery(4 of 12);
+        @include gallery(6 of 12);
     }
     @include breakpoint($medium) {
         margin-left: 0;
@@ -19,6 +19,6 @@
         /* reset before mixin does its thing*/
         margin-right: 0;
         /* reset before mixin does its thing*/
-        @include gallery(3 of 12);
+        @include gallery(4 of 12);
     }
 }

@@ -11,7 +11,7 @@
 				<a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a> {% endif %}
 			</h2>
 
-			{% unless page.permalink == '/services/' %} {% if post.date %}
+			{% unless page.permalink == '/services/' or page.permalink == '/adventures/' %} {% if post.date %}
 			<p class="page__meta" itemprop="datePublished">
 				<i class="fa fa-calendar-o" aria-hidden="true"></i>
 				<time datetime="{{ post.date | date_to_xmlschema }}">

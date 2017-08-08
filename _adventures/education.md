@@ -22,4 +22,3 @@ comments: false
         {% include archive/single.html type="grid" %}
     {% endfor %}
 </div>
-

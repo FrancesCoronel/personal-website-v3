@@ -15,6 +15,12 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/.sass-lint.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.sass-lint.yml",
+		"oF": 0
+		},
 	"\/.vscode": {
 		"ft": 65536,
 		"oA": 1,
@@ -563,6 +569,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/LICENSE",
+		"oF": 0
+		},
+	"\/node_modules": {
+		"ft": 65536,
+		"oA": 2,
+		"oAP": "\/build\/node_modules",
 		"oF": 0
 		},
 	"\/Rakefile": {

@@ -9,7 +9,6 @@ gallery:
       url: https://i0.wp.com/fvcproductions.files.wordpress.com/2015/11/isce_groupshot_2011.jpg
     - alt: "ISCE 2011"
       url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
-
 ---
 
 > Name
@@ -32,4 +31,4 @@ August 1st to 7th, 2011
 
 This was an international conference Operation Smile hosted for all the student volunteers involved. This was my first serious conference at 16 and I learned so much.
 
-{% include gallery caption="Some photos I was able to salvage."%}
+{% include gallery %}
