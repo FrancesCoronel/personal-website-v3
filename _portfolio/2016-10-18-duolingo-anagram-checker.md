@@ -5,7 +5,7 @@ excerpt: I created this simple website as part of the Duolingo PM intern intervi
 ---
 
 Check this out at duolingo themed anagram checker at [`fvcproductions.github.io/anagram`](https://fvcproductions.github.io/anagram)! {#check-this-out-at-duolingo-themed-anagram-checker-at--a-href--http:--fvcproductions.github.io-anagram--target--_blank---code-fvcproductions.github.io-anagram--code---a--}
------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------
 
 I created this simple website as part of the Duolingo PM intern
 interview process.
@@ -25,10 +25,10 @@ whether the two strings are anagrams of each other.
 
 ### Tools
 
--   [HTML5UP](https://html5up.net)
--   [Sublime Text](https://github.com/fvcproductions/Sublime)
--   [CodeKit](https://incident57.com/codekit/)
--   [Sketch](https://www.sketchapp.com/)
+- [HTML5UP](https://html5up.net)
+- [Sublime Text](https://github.com/fvcproductions/Sublime)
+- [CodeKit](https://incident57.com/codekit/)
+- [Sketch](https://www.sketchapp.com/)
 
 Links
 -----

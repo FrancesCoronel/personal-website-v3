@@ -38,10 +38,10 @@ So For Those Who Are Looking Forward To Technical Interviews For Software Develo
 **Overview**
 ------------
 
--   [General Topics Covered](#section-topics)
--   [Sample Technical Q’s](#section-sampletq)
--   [Sample Personal Q’s](#section-samplepq)
--   [Questions to Ask Your Interviewer](#section-interviewerq)
+- [General Topics Covered](#section-topics)
+- [Sample Technical Q’s](#section-sampletq)
+- [Sample Personal Q’s](#section-samplepq)
+- [Questions to Ask Your Interviewer](#section-interviewerq)
 
 ------------------------------------------------------------------------
 

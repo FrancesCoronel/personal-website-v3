@@ -14,11 +14,9 @@ header:
 [speaker deck]
 
 [![The Pursuit of Knowledge
-14](https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png){.aligncenter
-.size-full .wp-image-3660 width="750"
-height="978"}](https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png)
+14](https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png)](https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png)
 
-![](https://www.ripleys.com/wp-content/uploads/2014/05/download-on-ibooks.png){.aligncenter}
+![](https://www.ripleys.com/wp-content/uploads/2014/05/download-on-ibooks.png)
 
 Essentially, [*Pursuit of
 Knowledge*](https://itunes.apple.com/us/book/pursuit-of-knowledge/id1073378182?ls=1&mt=11)
@@ -49,4 +47,4 @@ orderby="rand"\]
 
 ### Tools
 
--   [iBooks Author](https://www.apple.com/ibooks-author/)
+- [iBooks Author](https://www.apple.com/ibooks-author/)

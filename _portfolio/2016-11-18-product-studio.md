@@ -371,7 +371,7 @@ Q&A | Prototype\[/caption\]
 
 ### Video of Prototype
 
-\[youtube https://youtu.be/sGClxvfYLZk\]
+\https://youtu.be/sGClxvfYLZk\]
 
 ------------------------------------------------------------------------
 
@@ -405,7 +405,7 @@ Team
 ----
 
   Delia Casa                                                                                                                             Frances Coronel                                                                                                                                        Chumeng Xu
-  -------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------ -----------------------------------------------------------------------------------------------------------------------------------------------------
+  -------------------------------------- ------------------------------------------------------ -----------------------------------------------------
   ![Delia Casa](https://fvcproductions.files.wordpress.com/2016/11/delia-casa.jpg){.size-full .wp-image-5128 width="400" height="400"}   ![Frances Coronel](https://fvcproductions.files.wordpress.com/2016/11/square-e1480964746360.jpg){.size-full .wp-image-5129 width="400" height="400"}   ![Chumeng Xu](https://fvcproductions.files.wordpress.com/2016/11/chumeng-xu-e1480965100675.jpg){.size-full .wp-image-5130 width="400" height="400"}
 
 ------------------------------------------------------------------------
@@ -552,8 +552,8 @@ Links
 -----
 
 -   **GitHub Repo | Assets**
-    -   [`github.com/fvcproductions/nyt-comm`](https://github.com/fvcproductions/nyt-comm)
+    - [`github.com/fvcproductions/nyt-comm`](https://github.com/fvcproductions/nyt-comm)
 -   **GitHub Repo | Q&A Prototype**
-    -   [`bit.ly/nyt-qa`](https://bit.ly/nyt-qa)
+    - [`bit.ly/nyt-qa`](https://bit.ly/nyt-qa)
 -   **About Product Studio**
-    -   [`tech.cornell.edu/studio`](https://tech.cornell.edu/studio)
+    - [`tech.cornell.edu/studio`](https://tech.cornell.edu/studio)

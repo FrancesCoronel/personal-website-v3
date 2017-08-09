@@ -44,7 +44,7 @@ tags:
 Best Physical Bootcamps from SwitchUp
 -------------------------------------
 
-1.  [Anyone Can Learn to
+1. [Anyone Can Learn to
     Code](https://anyonecanlearntocode.com/ "Anyone Can Learn to Code")
     (Chicago)
     -   Course Report ([6
@@ -56,7 +56,7 @@ Best Physical Bootcamps from SwitchUp
         ⭐️⭐️⭐️⭐️⭐️ 5/5
     -   Techendo (N/A)
     -   Yelp (N/A)
-2.  [App Academy](https://www.appacademy.io/#p-home) (New York City, San
+2. [App Academy](https://www.appacademy.io/#p-home) (New York City, San
     Francisco)
     -   Course Report ([4
         Reviews](https://www.coursereport.com/schools/app-academy#/about))
@@ -71,7 +71,7 @@ Best Physical Bootcamps from SwitchUp
     -   Yelp ([22
         Reviews](https://www.yelp.com/biz/app-academy-san-francisco))
         ⭐️⭐️⭐️⭐️⭐️ 5/5
-3.  [Bitmaker Labs](https://bitmakerlabs.com/) (Toronto)
+3. [Bitmaker Labs](https://bitmakerlabs.com/) (Toronto)
     -   I can attest to these guys positively at least for their
         admissions process because I applied to their program back in
         2013 and they were really amiable. I didn’t feel uncomfortable
@@ -428,7 +428,7 @@ Best Physical Bootcamps from SwitchUp
 Best Virtual Bootcamps from Switch Up
 -------------------------------------
 
-1.  [Bloc](https://www.bloc.io/)
+1. [Bloc](https://www.bloc.io/)
     -   Course Report ([17
         Reviews](https://www.coursereport.com/schools/bloc)
     -   Quora ([4 Reviews](https://www.quora.com/Reviews-of-Bloc-io))
@@ -436,7 +436,7 @@ Best Virtual Bootcamps from Switch Up
         ⭐️⭐️⭐️⭐️ 4/5
     -   Techendo ([1 Positive, 0
         Negative](https://schools.techendo.com/schools/bloc))
-2.  [Thinkful](https://www.thinkful.com/)
+2. [Thinkful](https://www.thinkful.com/)
     -   Course Report ([10
         Reviews](https://www.coursereport.com/schools/thinkful)
     -   Quora ([3 Reviews](https://www.quora.com/Reviews-of-Thinkful))

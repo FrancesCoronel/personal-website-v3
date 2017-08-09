@@ -25,7 +25,7 @@ which is located in New York City to be part of their inaugural class
 for their [Summer of
 Code](https://www.fullstackacademy.com/summer-of-code "Fullstack Academy | Summer of Code")
 program. Ok, wow, that was a mouthful![![Summer of Code | Fullstack
-Academy](https://fvcproductions.files.wordpress.com/2015/04/summer-of-code-fullstack-academy.png){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/04/summer-of-code-fullstack-academy.png)
+Academy](https://fvcproductions.files.wordpress.com/2015/04/summer-of-code-fullstack-academy.png)](https://fvcproductions.files.wordpress.com/2015/04/summer-of-code-fullstack-academy.png)
 
 It’s only for college kiddies and surprisingly there’s not many programs
 designated specifically for us, so it’s pretty cool that Fullstack
@@ -42,7 +42,7 @@ It was a big decision and was not to be taken lightly. My parents
 supported me throughout the whole process and for that, I’m
 appreciative.
 
-![](https://www.quickmeme.com/img/6d/6dc5a6608cbb656374d791b68a7709f62dbb3e0f3742cf074b295dc8d8edc471.jpg){.aligncenter}
+![](https://www.quickmeme.com/img/6d/6dc5a6608cbb656374d791b68a7709f62dbb3e0f3742cf074b295dc8d8edc471.jpg)
 
 I’m hoping to finally gain those “practical skills” in web development
 so I can finally start implementing all the ideas I have for potential

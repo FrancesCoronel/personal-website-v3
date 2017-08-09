@@ -42,7 +42,7 @@ Files Provided To You
 
 -   `SortDetective.jar`, which looks something like this:
 
-![](https://fvcproductions.files.wordpress.com/2015/04/sortdetective-jar.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/04/sortdetective-jar.png)
 
 > The purpose of this little HW assignment is to correctly identify the
 > 6 Greek letters (Alpha, Beta, Gamma, Delta, Epsilon, & Zeta) with
@@ -58,7 +58,7 @@ Head over to the Java Decompiler [page located at
 `jd.benow.ca`](https://jd.benow.ca/ "Java Decompiler")) and download the
 `ZIP` file for the `JD-GUI`.
 
-![](https://fvcproductions.files.wordpress.com/2015/04/jd-gui.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/04/jd-gui.png)
 
 ------------------------------------------------------------------------
 
@@ -68,14 +68,14 @@ Step 2 - Launch JD-GUI
 Now that you’ve downloaded the `ZIP` file, unzip it and launch the
 application.
 
-![](https://fvcproductions.files.wordpress.com/2015/04/jd-gui-unzipped.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/04/jd-gui-unzipped.png)
 
 ------------------------------------------------------------------------
 
 Step 3 - Open your `SortDetective.jar` file using `JD-GUI`
 ----------------------------------------------------------
 
-![](https://fvcproductions.files.wordpress.com/2015/04/open-sortdetective.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/04/open-sortdetective.png)
 
 ------------------------------------------------------------------------
 
@@ -89,22 +89,22 @@ It has an array defined with **5 different** orders that the sorting
 methods **CAN** be placed in. See `Line 256` in the
 `SortDetective.class`.
 
-![](https://fvcproductions.files.wordpress.com/2015/04/sortingexperiment-line.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/04/sortingexperiment-line.png)
 
 Zooming in…
 
-![](https://fvcproductions.files.wordpress.com/2015/04/screenshot-2015-04-18-16-09-09.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/04/screenshot-2015-04-18-16-09-09.png)
 
 With some minor searches, we find out that the method `experimentOrders`
 uses the variable `selectedPermutation` to determine what array value it
 will use to determine the order.
 
-![](https://fvcproductions.files.wordpress.com/2015/04/experimentorders-2nd-case.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/04/experimentorders-2nd-case.png)
 
 This redirects us to the `setStudentID()` method. So now we’ve figured
 out the ordering all just depends on the formula the program uses.
 
-![](https://fvcproductions.files.wordpress.com/2015/04/selectedpermutation.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/04/selectedpermutation.png)
 
 ------------------------------------------------------------------------
 
@@ -122,7 +122,7 @@ Using the formula, we can determine that the value of
 Remember, arrays are ordered like `{0,1,2}`. So `experimentOrders[2]`
 would be the 3rd value in the array.
 
-![](https://fvcproductions.files.wordpress.com/2015/04/screenshot-2015-04-18-16-09-09.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/04/screenshot-2015-04-18-16-09-09.png)
 
 There we go! Just like that, I now know for sure that the ordering of
 the Greek letters for me would go

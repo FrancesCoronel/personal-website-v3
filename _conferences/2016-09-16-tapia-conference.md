@@ -33,30 +33,27 @@ gallery:
       url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0707.jpg?w=246&h=185&crop&ssl=1&zoom=2
 ---
 
-> Name
+## Name
 
-## <a title="ACM Richard Tapia Celebration of Diversity in Computing" href="https://tapiaconference.org" target="_blank" rel="noopener">ACM Richard Tapia Celebration of Diversity in Computing</a>
+<a title="ACM Richard Tapia Celebration of Diversity in Computing" href="https://tapiaconference.org" target="_blank" rel="noopener">ACM Richard Tapia Celebration of Diversity in Computing</a>
 
-> Organizer
+## Organizer
 
 ACM
 
-> Location
+## Location
 
 Austin Renaissance Hotel - Austin, Texas
 
-> Date
+## Date
 
 Sept 14th to Sept 16th, 2016
 
-> Role
+## Role
 
 Tapia Scholar Recipient
 
-> About
-
-[<i class='fa fa-twitter'></i> @Tapia_con](https://twitter.com/@Tapia_con)
-{: .btn .btn--twitter}
+## About
 
 The goal of the Tapia Conferences is to bring together undergraduate and graduate students, faculty, researchers, and professionals in computing from all backgrounds and ethnicities.
 
@@ -89,6 +86,5 @@ Needless to say, this year was friggin' amazing.
 > I'm the one in pink!
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/SonjaOttley/status/776506790724841472">Sonja Gittens Ottley on Twitter</a></h4><p>Meeting so many great students @Tapia_con, like these from our Startup breakfast co-hosted with @a16z! #Tapia2016</p></blockquote>
-
 
 {% include gallery %}

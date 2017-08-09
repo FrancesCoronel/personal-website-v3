@@ -41,7 +41,7 @@ Day One - Monday {#dayone-monday}
 -   I didn’t go to school today. I was super sick. :(
 
 ![Shaping up with
-Angular](https://s3.amazonaws.com/accredible_courses/images/11072/original/shaping-up-with-angular-js-ec0c2defe370994018c29f0b65e56a3b.jpg){.aligncenter}
+Angular](https://s3.amazonaws.com/accredible_courses/images/11072/original/shaping-up-with-angular-js-ec0c2defe370994018c29f0b65e56a3b.jpg)
 
 -   Thankfully, since we covered angular directives and `ng-model`
     today, it wasn’t that bad since I finished that **Shaping up with
@@ -64,7 +64,7 @@ Day Three - Wednesday {#daythree-wednesday}
     mini-competition for the best flashcard design. We each get a
     Fullstack t-shirt (I still haven’t gotten this yet -\_\_-).
 -   Here’s how the home page for our design ended up looking like, more
-    or less: ![HomePage](https://i.imgur.com/8Lh7IJw.png){.aligncenter}
+    or less: ![HomePage](https://i.imgur.com/8Lh7IJw.png)
 -   We used [FlatUI](https://designmodo.github.io/Flat-UI/), naturally.
 
 ------------------------------------------------------------------------
@@ -87,7 +87,7 @@ Day Five - Friday {#dayfive-friday}
     deck](https://docs.google.com/presentation/d/1ZUYwxJzXCNsvC7x_tiwVRCIGVljh5EFzanV1U9WJl18/edit?usp=sharing)
     showcasing a bunch of web dev stuff I feel is relevant. I should
     probably update it soon. ![Fullstack Web Dev Tips and
-    Tricks](https://i.imgur.com/hDbtU5A.png){.aligncenter}
+    Tricks](https://i.imgur.com/hDbtU5A.png)
 -   We go over what’s going to be in senior phase.
     -   Unfortunately, I think I will only be able to work with other
         college of code students on my final project, since we have 2
@@ -103,7 +103,7 @@ Day Five - Friday {#dayfive-friday}
 > > I’m a senior in every aspect now!
 > >
 > > ![Keep Calm Terminal
-> > Style](https://sd.keepcalm-o-matic.co.uk/i/keep-calm-because-finally-i-m-senior-8.png){.aligncenter}
+> > Style](https://sd.keepcalm-o-matic.co.uk/i/keep-calm-because-finally-i-m-senior-8.png)
 
 ------------------------------------------------------------------------
 
@@ -146,10 +146,10 @@ Review Week! {#reviewweek}
     so to you, Shanna, I say…
 
 ![Thank
-you.](https://media.giphy.com/media/3oEduJnper1UdNqreg/giphy.gif){.aligncenter}
+you.](https://media.giphy.com/media/3oEduJnper1UdNqreg/giphy.gif)
 
 ![Sally
-Conference](https://fvcproductions.files.wordpress.com/2015/07/106e4-1432076952614.png){.aligncenter}
+Conference](https://fvcproductions.files.wordpress.com/2015/07/106e4-1432076952614.png)
 
 ------------------------------------------------------------------------
 
@@ -157,28 +157,28 @@ Conference](https://fvcproductions.files.wordpress.com/2015/07/106e4-14320769526
 
 > So Far
 
--   [The Search
+- [The Search
     🔍](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
--   [The Application 📝](https://fvcproductions.com/2014/12/23/week-20/)
--   [The Preparation
+- [The Application 📝](https://fvcproductions.com/2014/12/23/week-20/)
+- [The Preparation
     📚](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/)
--   [The Interview
+- [The Interview
     💻](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/)
--   [The Decision
+- [The Decision
     ⏳](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/)
--   [Fullstack Foundations - Week 1
+- [Fullstack Foundations - Week 1
     ⚡️](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/)
--   [Fullstack Foundations - Weeks 2 to 4
+- [Fullstack Foundations - Weeks 2 to 4
     🚀](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/)
--   [Fullstack Academy - Week 1
+- [Fullstack Academy - Week 1
     💫](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/)
--   [Fullstack Academy - Week 2
+- [Fullstack Academy - Week 2
     ⌘⌘](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
--   [Fullstack Academy - Week 3
+- [Fullstack Academy - Week 3
     🔦🔦🔦](https://fvcproductions.com/2015/06/26/fullstack-academy-week-3/)
--   [Fullstack Academy - Week 4
+- [Fullstack Academy - Week 4
     💲🔮🔮💲](https://fvcproductions.com/2015/07/03/fullstack-academy-week-4/)
--   [Fullstack Academy - Week 5
+- [Fullstack Academy - Week 5
     💕💓💕](https://fvcproductions.com/2015/07/11/fullstack-academy-week-5/)
 
 ------------------------------------------------------------------------

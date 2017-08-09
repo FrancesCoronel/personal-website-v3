@@ -16,15 +16,15 @@ tags:
     - printing
 ---
 
-1.  Defining an array (character type) of a size 3 called `array`\
+1. Defining an array (character type) of a size 3 called `array`\
     \[code language="java"\]char \[\] array = new char\[10\]\
     \[/code\]
-2.  Ask user to enter 10 characters and assign each of the characters
+2. Ask user to enter 10 characters and assign each of the characters
     into the `array`\
     \[code language="java"\]for (int i = 0; i &lt; array.length; i++)\
     array\[i\] = keyboard.next().charAt(0);\
     \[/code\]
-3.  Use the data in `array` to reverse a list called `reverse` so that
+3. Use the data in `array` to reverse a list called `reverse` so that
     the first element in the list called `array` is the last element in
     `reverse`\
     \[code language="java"\]for (int i = 0; i &lt; array.length; i++)\

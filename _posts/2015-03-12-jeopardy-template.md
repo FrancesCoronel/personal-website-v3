@@ -46,11 +46,11 @@ https://speakerdeck.com/fvcproductions/jeopardy-template-keynote
 -   **[View on Speaker
     Deck](https://speakerdeck.com/fvcproductions/jeopardy-template-keynote "Speaker Deck | Jeopardy Template")**
 -   **External Fonts Used (download links)**
-    -   [Gyparody](https://www.1001fonts.com/gyparody-font.html) (for
+    - [Gyparody](https://www.1001fonts.com/gyparody-font.html) (for
         Jeopardy Title Slide)
-    -   [Exposition](https://www.ffonts.net/Exposition.font) (for Last
+    - [Exposition](https://www.ffonts.net/Exposition.font) (for Last
         Slide)
-    -   [Square 721](https://www.fontyukle.net/en/1,Square721) (for
+    - [Square 721](https://www.fontyukle.net/en/1,Square721) (for
         Prize Money Numbers)
 
 ------------------------------------------------------------------------

@@ -21,27 +21,27 @@ gallery:
       url: https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-1.jpg
 ---
 
-> Name
+## Name
 
-## <a title="West AAERG/HAERG Leadership Summit" href="https://www.accenture.com/us-en/company-diversity" target="_blank" rel="noopener">West AAERG/HAERG Leadership Summit</a>
+<a title="West AAERG/HAERG Leadership Summit" href="https://www.accenture.com/us-en/company-diversity" target="_blank" rel="noopener">West AAERG/HAERG Leadership Summit</a>
 
-> Organizer
+## Organizer
 
 Accenture
 
-> Location
+## Location
 
 JW Marriott San Francisco Union Square
 
-> Date
+## Date
 
 July 21st to 22nd, 2017
 
-> Role
+## Role
 
 Volunteer, Participant
 
-> About
+## About
 
 Had an amazing time at the 2017 West AAERG/HAERG Leadership Summit this Friday! The speakers were absolutely brilliant and I found every aspect of the summit very useful and engaging. In the Design Thinking session, our team received the most amount of stickers for our idea called "The New ERG" to improve awareness for ERGs at Accenture! I will definitely be attending again the next time.
 

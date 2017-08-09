@@ -19,27 +19,27 @@ gallery:
     url: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/02/my-lanyard1.jpg
 ---
 
-> Name
+## Name
 
-## <a title="TAPIA" href="https://tapiaconference.org/" target="_blank" rel="noopener">ACM Richard Tapia Celebration of Diversity in Computing Conference</a>
+<a title="TAPIA" href="https://tapiaconference.org/" target="_blank" rel="noopener">ACM Richard Tapia Celebration of Diversity in Computing Conference</a>
 
-> Organizer
+## Organizer
 
 Association for Computing Machinery
 
-> Location
+## Location
 
 Renaissance Austin Hotel - Austin, Texas
 
-> Date
+## Date
 
 February 18th to 21st, 2015
 
-> Role
+## Role
 
 Google Scholarship Recipient
 
-> About
+## About
 
 The Tapia conference has always been a premier venue to acknowledge, to promote and to celebrate diversity in computing.
 

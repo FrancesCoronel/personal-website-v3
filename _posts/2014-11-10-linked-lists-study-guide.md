@@ -39,9 +39,9 @@ CSC251 Study Guide {#csc251-study-guide style="text-align:center;"}
 Index
 -----
 
--   [Linked Lists vs Arrays](#section-versus)
--   [Linked Lists Properties](#section-linked)
--   [Linked Lists Algorithms/Code](#section-algo)
+- [Linked Lists vs Arrays](#section-versus)
+- [Linked Lists Properties](#section-linked)
+- [Linked Lists Algorithms/Code](#section-algo)
 
 ------------------------------------------------------------------------
 
@@ -78,7 +78,7 @@ Index
     -   data structure of group of nodes that represent a sequence
 -   *diagram*
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Singly-linked-list.svg/408px-Singly-linked-list.svg.png){.aligncenter}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Singly-linked-list.svg/408px-Singly-linked-list.svg.png)
 
 > above is a linked list with nodes that contain 2 fields - an integer
 > value and a link to next to the next node; last node linked to
@@ -119,7 +119,7 @@ Index
     \[code language="java"\]Int\_Node head = null;\
     \[/code\]
     -   pseudocode
-        1.  representing empty list by storing null in head reference\
+        1. representing empty list by storing null in head reference\
 
             > keeping track of front node by using an Int\_Node
             > reference variable called `head`
@@ -127,20 +127,20 @@ Index
     \[code language="java"\]head = new Int\_Node(data, null);\
     \[/code\]
     -   pseudocode
-        1.  create new node for head
-        2.  place data in new node’s data field
-        3.  make head refer to null which is initial head value
+        1. create new node for head
+        2. place data in new node’s data field
+        3. make head refer to null which is initial head value
         4.  connect new node to head
 -   *add node to front of list*\
     \[code language="java"\]head = new Int\_Node(newData, head);\
     \[/code\]
     -   pseudocode
-        1.  create new node
-        2.  place data (`newData`) in new node’s data field
-        3.  connect new node to front of list
+        1. create new node
+        2. place data (`newData`) in new node’s data field
+        3. connect new node to front of list
         4.  make original `head` refer to **new** `head` of linked list
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/CPT-LinkedLists-addingnode.svg/474px-CPT-LinkedLists-addingnode.svg.png){.aligncenter}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/CPT-LinkedLists-addingnode.svg/474px-CPT-LinkedLists-addingnode.svg.png)
 
 > Diagram showing how a node is inserted after an existing node\
 > Inserting node before existing node cannot be done directly - instead
@@ -158,18 +158,18 @@ Index
     \[/code\]
 
     -   pseudocode
-        1.  set a reference named `prev` (for previous) to refer to node
+        1. set a reference named `prev` (for previous) to refer to node
             which is just before new node’s position
 
 -   *removing node at head*\
     \[code language="java"\]head = head.link;\
     \[/code\]
     -   pseudocode
-        1.  directing `head` to node right next to it (`head.link`) so
+        1. directing `head` to node right next to it (`head.link`) so
             that original `head` is removed
 -   *removing node anywhere*
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/CPT-LinkedLists-deletingnode.svg/380px-CPT-LinkedLists-deletingnode.svg.png){.aligncenter}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/CPT-LinkedLists-deletingnode.svg/380px-CPT-LinkedLists-deletingnode.svg.png)
 
 > Removing node after given node - to find and remove a particular node,
 > you still have to keep track of the previous element
@@ -183,15 +183,15 @@ Index
     \[/code\]
 
     -   pseudocode
-        1.  initializing `pointer` to reference `head`
-        2.  while loop that keeps going through entire list until
+        1. initializing `pointer` to reference `head`
+        2. while loop that keeps going through entire list until
             `pointer` (or `head`) is `null`\
 
             > `null` implying that it’s reached the last node because
             > the last node will always have a `null` link since there’s
             > nothing next to the last node so no link so `null` link
 
-        3.  `pointer` referenced to next node or `pointer.link`
+        3. `pointer` referenced to next node or `pointer.link`
 
 -   *print list through traversal*\
     \[code language="java"\]Int\_Node pointer = head;

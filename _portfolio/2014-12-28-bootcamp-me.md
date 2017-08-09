@@ -38,13 +38,13 @@ Stats
 Tools
 -----
 
--   [Google My Maps](https://www.google.com/maps/d/splash?app=mp "Google MyMaps")
--   [Mapme](https://mapme.com/ "Mapme")
+- [Google My Maps](https://www.google.com/maps/d/splash?app=mp "Google MyMaps")
+- [Mapme](https://mapme.com/ "Mapme")
 
 References
 ----------
 
--   [Course Report](https://coursereport.com "Course Report")
+- [Course Report](https://coursereport.com "Course Report")
 
 Contribute
 ----------

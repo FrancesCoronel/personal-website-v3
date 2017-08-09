@@ -50,9 +50,9 @@ tags:
 
 ### Rating, Researching, Reviewing
 
-1.  [Switch](https://www.switchup.org/)
-2.  [Course Report](https://www.coursereport.com/)
-3.  [Bootcamper.io](https://bootcamper.io/)
+1. [Switch](https://www.switchup.org/)
+2. [Course Report](https://www.coursereport.com/)
+3. [Bootcamper.io](https://bootcamper.io/)
 4.  [Bootcamps.in](https://www.bootcamps.in/)
 5.  [Thinkful](https://www.thinkful.com/bootcamps/)
 6.  [Hack App](https://hackapp.co/)
@@ -64,9 +64,9 @@ tags:
 
 ### Prep Resources Directly From The Source
 
-1.  [Makersquare](https://learn.makersquare.com/courses)
-2.  [Hackreactor](https://www.hackreactor.com/prepare-for-admissions-challenge/)
-3.  [Fullstack](https://www.fullstackacademy.com/interview_prep)
+1. [Makersquare](https://learn.makersquare.com/courses)
+2. [Hackreactor](https://www.hackreactor.com/prepare-for-admissions-challenge/)
+3. [Fullstack](https://www.fullstackacademy.com/interview_prep)
 4.  [Flatiron](https://prework.flatironschool.com)
 5.  [Code Fellows](https://fsje.codefellows.org/index.html)
 6.  [App Academy](https://github.com/appacademy/prep-work)

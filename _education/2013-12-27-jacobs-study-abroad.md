@@ -33,21 +33,22 @@ gallery:
 
 > Institution
 
-## <a title="Jacobs University Bremen" href="https://www.jacobs-university.de" target="_blank" rel="noopener">Jacobs University Bremen</a>
+<a title="Jacobs University Bremen" href="https://www.jacobs-university.de" target="_blank" rel="noopener">Jacobs University Bremen</a>
 
-> Location
+## Location
 
 Bremen, Germany
 
-> Date
+## Date
 
 August 2013 to December 2013
 
 > Program
 
-- Study Abroad - Computer Science
+- Study Abroad
+    - Computer Science
 
-> About
+## About
 
 Jacobs University is a private international research university with a residential campus in Bremen, Germany.
 
@@ -61,24 +62,24 @@ I received a generous merit scholarship to attend and study computer science. Wh
 
 #### Mandatory Courses
 
--   Single Variable Calculus
--   General Computer Science I
--   NatSciLab Unit Computer Science I
--   Computer Architecture
--   General Biology/Neuroscience I
+- Single Variable Calculus
+- General Computer Science I
+- NatSciLab Unit Computer Science I
+- Computer Architecture
+- General Biology/Neuroscience I
 
 #### Home School Electives
 
--   NatSciLab Unit Programming in Python I
--   NatSciLab Unit Biology/Neuroscience I
--   German A1.1
+- NatSciLab Unit Programming in Python I
+- NatSciLab Unit Biology/Neuroscience I
+- German A1.1
 
-#### Trandisciplany Courses
+#### Interdisciplinary Courses
 
--   General Environmental Science I
+- General Environmental Science I
 
 #### Academic & Professional Skills
 
--   Business Etiquette Seminar
+- Business Etiquette Seminar
 
 {% include gallery %}

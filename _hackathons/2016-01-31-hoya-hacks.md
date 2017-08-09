@@ -6,35 +6,31 @@ header:
   image: https://fvcproductions.files.wordpress.com/2016/01/banner.png
 ---
 
-> Name
+# Name
 
-## <a title="Hoya Hacks" href="https://hoyahacks.com" target="_blank" rel="noopener">Hoya Hacks</a>
+<a title="Hoya Hacks" href="https://hoyahacks.com" target="_blank" rel="noopener">Hoya Hacks</a>
 
-> Organizer
+## Organizer
 
 Georgetown University
 
-> Location
+## Location
 
 Virtual
 
-> Date
+## Date
 
 January 29th to 31st, 2016
 
-> Role
+## Role
 
 Virtual Participant
 
-> About
+## About
 
-The first hackathon I attended.
+The first virtual hackathon I attended.
 
-### Awards
-
-Our team ...
-
-### Project
+## Project
 
 <blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/35746593/Life-at-Home">Life at Home</a></h4><p>Life at HomeMobile UIHoya HacksJanuary 2016</p></blockquote>
 

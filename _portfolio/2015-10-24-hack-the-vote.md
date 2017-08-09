@@ -4,10 +4,10 @@ date: 2015-10-24
 ---
 
 [![Hack to
-Vote](https://rcodonnell.github.io/code4hr-voting/src/img/favicons/favicon-114.png){.aligncenter}](https://rcodonnell.github.io/code4hr-voting/ "Hack to Vote")
+Vote](https://rcodonnell.github.io/code4hr-voting/src/img/favicons/favicon-114.png)](https://rcodonnell.github.io/code4hr-voting/ "Hack to Vote")
 
 Check out the app at [`rcodonnell.github.io/code4hr-voting`](https://rcodonnell.github.io/code4hr-voting/) {#checkouttheappatahrefhttp:rcodonnell.github.iocode4hr-votingtarget_blankrcodonnell.github.iocode4hr-votinga}
----------------------------------------------------------------------------------------------------------
+---------
 
 ### “Change the world, know your candidate.” {#changetheworldknowyourcandidate.}
 
@@ -51,13 +51,13 @@ orderby="rand"\]
 
 ### Technologies Used {#contributing}
 
--   [Angular.js](https://angularjs.org/)
--   [Moment.js](https://momentjs.com/)
--   [Google Civic Information
+- [Angular.js](https://angularjs.org/)
+- [Moment.js](https://momentjs.com/)
+- [Google Civic Information
     API](https://developers.google.com/civic-information/?hl=en)
--   [Google Maps API](https://developers.google.com/maps/?hl=en)
--   [GitHub Pages](https://pages.github.com/)
--   [Grunt](https://gruntjs.com/)
+- [Google Maps API](https://developers.google.com/maps/?hl=en)
+- [GitHub Pages](https://pages.github.com/)
+- [Grunt](https://gruntjs.com/)
 -   Bootstrap/HTML/CSS/jQuery/Font Awesome
 
 ------------------------------------------------------------------------

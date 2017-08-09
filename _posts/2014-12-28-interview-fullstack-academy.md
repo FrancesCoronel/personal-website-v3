@@ -82,20 +82,20 @@ say:
 
 ------------------------------------------------------------------------
 
-1.  **Yield rate - out of the applicants you accept, what percentage end
+1. **Yield rate - out of the applicants you accept, what percentage end
     up attending?**\
 
     > 80%\
     > `Nice!`
 
-2.  **How many drop out after simply experiencing the pre-work?**\
+2. **How many drop out after simply experiencing the pre-work?**\
 
     > Since we do base our main coursework off the pre-work so we try to
     > select people that we feel can handle the pre-work, which is
     > typically 15–20 hours a week. I don’t think anyone has dropped out
     > yet in that process.
 
-3.  **How many college students have you had in the past?**\
+3. **How many college students have you had in the past?**\
 
     > We’ve had a couple in the last summer cohort. For the upcoming
     > summer cohort, we’re planning on having a separate group

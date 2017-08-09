@@ -27,27 +27,27 @@ gallery:
       url: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0335.jpg
 ---
 
-> Name
+## Name
 
-## <a title="DeveloperWeek" href="https://developerweek.com" target="_blank" rel="noopener">DeveloperWeek</a>
+<a title="DeveloperWeek" href="https://developerweek.com" target="_blank" rel="noopener">DeveloperWeek</a>
 
-> Organizer
+## Organizer
 
 DevNetwork
 
-> Location
+## Location
 
 Pier 27 - San Francisco, California
 
-> Date
+## Date
 
 February 15th to 17th, 2016
 
-> Role
+## Role
 
 Volunteer
 
-> About
+## About
 
 I volunteered for DeveloperWeek, one of the largest tech conferences in San Francisco, and got a VIP ticket in return.
 

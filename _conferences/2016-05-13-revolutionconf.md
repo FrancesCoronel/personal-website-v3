@@ -31,27 +31,27 @@ gallery:
       url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/06/revconf-12.jpg?w=246&h=184&crop&ssl=1&zoom=2
 ---
 
-> Name
+## Name
 
-## <a title="RevolutionConf" href="https://revolutionconf.com" target="_blank" rel="noopener">RevolutionConf</a>
+<a title="RevolutionConf" href="https://revolutionconf.com" target="_blank" rel="noopener">RevolutionConf</a>
 
-> Organizer
+## Organizer
 
 RevolutionVA
 
-> Location
+## Location
 
 Virginia Beach Resort Hotel - Virginia Beach, Virginia
 
-> Date
+## Date
 
 May 13th, 2016
 
-> Role
+## Role
 
 Volunteer
 
-> About
+## About
 
 While working at 80|20 Software Consulting, now Array Digital, I volunteered to be a part of the RevolutionConf.
 
@@ -59,9 +59,10 @@ I helped develop the sponsor prospectus, flyers, and helped out with registratio
 
 RevolutionConf is a two-day, platform and language agnostic, software development conference in VA Beach. It hosts talks from regional, national, and international thought leaders. RevolutionConf is organized and supported by the board members of RevolutionVA, a 501c3 non-profit based in Norfolk, VA. The goal of RevolutionVA is to unite software developers in the mid-Atlantic region through conferences, and career and learning opportunities.
 
-{% include gallery %}
+## Awards
 
-> My blog post on the conference got featured in The Daily Press.
+My blog post on the conference got featured in The Daily Press.
 
 <blockquote class="embedly-card"><h4><a href="https://www.dailypress.com/business/tidewater/dp-may-13-revolutionconf-showcases-software-community-in-hampton-roads-20160513-story.html">What you missed at RevolutionConf in Virginia Beach</a></h4><p>The software industry, including speakers from Microsoft, Detroit Labs and Yahoo, is converging at the Virginia Beach Oceanfront today.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+{% include gallery %}

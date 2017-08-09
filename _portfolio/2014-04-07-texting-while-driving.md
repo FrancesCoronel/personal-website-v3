@@ -31,7 +31,7 @@ As part of a health project, my team and I tackled the effects of texting while 
 
  
 
-\[youtube https://www.youtube.com/watch?v=CcT0GtqPZuw\]
+\https://www.youtube.com/watch?v=CcT0GtqPZuw\]
 
  
 

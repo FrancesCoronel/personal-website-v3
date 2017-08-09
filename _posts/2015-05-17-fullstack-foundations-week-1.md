@@ -35,7 +35,7 @@ As excited as *I* can get anyway, which to some people would not really
 be perceived as very excited at all. Think **[Maurice
 Moss](https://theitcrowd.wikia.com/wiki/Maurice_Moss "Maurice Moss")**.
 
-![Moss](https://media.tumblr.com/tumblr_lib9372zdW1qglrwm.png){.aligncenter}
+![Moss](https://media.tumblr.com/tumblr_lib9372zdW1qglrwm.png)
 
 Basically.
 
@@ -56,7 +56,7 @@ more than I expected - I mean, there was **a lot** to do. A lot to get
 done. You know, the whole doge thing - *much work, such stress, must
 caffeine, alot study* - blah, blah blah.
 
-![Doge](https://s-media-cache-ak0.pinimg.com/736x/a1/19/9e/a1199e56544b00b716791a54bb503e16.jpg){.aligncenter}
+![Doge](https://s-media-cache-ak0.pinimg.com/736x/a1/19/9e/a1199e56544b00b716791a54bb503e16.jpg)
 
 Mmmmhmmm... indeed...
 
@@ -81,34 +81,34 @@ Hmmm… tensions rising.
 The **Jubilant** Journey I Took Into the Cave of Digital Hieroglyphics {#thejourneyitookintothecaveofdigitalhieroglyphics style="text-align:center;"}
 ----------------------------------------------------------------------
 
--   [The Search
+- [The Search
     🔍](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
--   [The Application 📝](https://fvcproductions.com/2014/12/23/week-20/)
--   [The Preparation
+- [The Application 📝](https://fvcproductions.com/2014/12/23/week-20/)
+- [The Preparation
     📚](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/)
--   [The Interview
+- [The Interview
     💻](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/)
--   [The Decision
+- [The Decision
     ⏳](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/)
--   [Fullstack Foundations - Week 1
+- [Fullstack Foundations - Week 1
     ⚡️](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/)
--   [Fullstack Foundations - Weeks 2 to 4
+- [Fullstack Foundations - Weeks 2 to 4
     🚀](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/)
--   [Fullstack Academy - Week 1
+- [Fullstack Academy - Week 1
     💫](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/)
--   [Fullstack Academy - Week 2
+- [Fullstack Academy - Week 2
     ⌘⌘](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
--   [Fullstack Academy - Week 3
+- [Fullstack Academy - Week 3
     🔦🔦🔦](https://fvcproductions.com/2015/06/26/fullstack-academy-week-3/)
--   [Fullstack Academy - Week 4
+- [Fullstack Academy - Week 4
     💲🔮🔮💲](https://fvcproductions.com/2015/07/03/fullstack-academy-week-4/)
--   [Fullstack Academy - Week 5
+- [Fullstack Academy - Week 5
     💕💓💕](https://fvcproductions.com/2015/07/11/fullstack-academy-week-5/)
--   [Fullstack Academy - Week 6 and Review Week
+- [Fullstack Academy - Week 6 and Review Week
     🃏🃏🃏🃏🃏🃏](https://fvcproductions.com/2015/07/25/fullstack-academy-week-6-review-week/)
--   [ONE WEEK OF FULLSTACK LEFT
+- [ONE WEEK OF FULLSTACK LEFT
     😲](https://fvcproductions.com/2015/08/19/one-week-left-of-fullstack/)
--   [Fullstack Academy |
+- [Fullstack Academy |
     Reflections](https://fvcproductions.com/2015/08/30/fullstack-academy-reflections/)
     🕝
 

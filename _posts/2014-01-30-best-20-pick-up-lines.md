@@ -53,9 +53,9 @@ swoon.
 Most of these are cheesy, but hey maybe I'm just cheesy for you (*see
 what I did there?*).
 
-1.  (holds out hand) Would you hold this for me while I go for a walk?
-2.  You look cold. Want to use me as a blanket?
-3.  I wanna live in your socks so I can be with you every step of the
+1. (holds out hand) Would you hold this for me while I go for a walk?
+2. You look cold. Want to use me as a blanket?
+3. I wanna live in your socks so I can be with you every step of the
     way.
 4.  There isn't a word in the dictionary for how good you look.
 5.  Gee, it looks like there is something wrong with my cell phone, it

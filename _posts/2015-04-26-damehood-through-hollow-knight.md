@@ -15,7 +15,7 @@ header:
 ---
 
 Back in December of last year, I was browsing through Kickstarter - eager to spend my limited college student cash on something awesome. I found [Hollow Knight](https://www.kickstarter.com/projects/11662585/hollow-knight "Hollow Knight").
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------
 
 So I ended up coming across a project called [Hollow
 Knight](https://www.kickstarter.com/projects/11662585/hollow-knight "Hollow Knight").

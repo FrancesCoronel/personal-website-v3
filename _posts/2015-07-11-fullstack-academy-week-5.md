@@ -67,13 +67,13 @@ Day One - Monday
     reminiscing.
 
 ![The
-Grid](https://img15.deviantart.net/1ea4/i/2012/184/d/1/c__s_grid___tron_wallpaper_by_kylecaio-d55uk9k.png){.aligncenter}
+Grid](https://img15.deviantart.net/1ea4/i/2012/184/d/1/c__s_grid___tron_wallpaper_by_kylecaio-d55uk9k.png)
 
 \[youtube=https://www.youtube.com/watch?v=YKEZoOjc6to\]
 
 ------------------------------------------------------------------------
 
-![cDock](https://www.macupdate.com/images/icons256/51149.png){.aligncenter}
+![cDock](https://www.macupdate.com/images/icons256/51149.png)
 
 -   I’m also really sad
     [`cDock`](https://sourceforge.net/projects/cdock/) is probably not
@@ -90,14 +90,14 @@ Grid](https://img15.deviantart.net/1ea4/i/2012/184/d/1/c__s_grid___tron_wallpape
 ![](https://appleseedcdn.apple.com/sp/assets/open/osx-redem-3-b5354fc65738307112781f260cf50c4c.jpg)
 
 > ![I have yet to watch a movie about Steve
-> Jobs.](https://www.scubaboard.com/forums/attachment.php?attachmentid=136243&stc=1&d=1348241804){.aligncenter}
+> Jobs.](https://www.scubaboard.com/forums/attachment.php?attachmentid=136243&stc=1&d=1348241804)
 
 ------------------------------------------------------------------------
 
 Day Two - Tuesday
 -----------------
 
-![Beta Day](https://i.imgur.com/2zJDhXp.png){.aligncenter}
+![Beta Day](https://i.imgur.com/2zJDhXp.png)
 
 -   I downloaded the Public Beta.
 -   The first
@@ -110,12 +110,12 @@ Day Two - Tuesday
     in the sea of (water?) bugs.
 -   I miss working with the **“pretty”** stuff.
 
-![Purty.](https://i.imgur.com/LLMi7ye.jpg){.aligncenter}
+![Purty.](https://i.imgur.com/LLMi7ye.jpg)
 
 ------------------------------------------------------------------------
 
 ![Women Who Code
-NYC](https://photos4.meetupstatic.com/photos/event/9/0/a/8/600_341377032.jpeg){.aligncenter}
+NYC](https://photos4.meetupstatic.com/photos/event/9/0/a/8/600_341377032.jpeg)
 
 -   After school today, I went to a
     [`Women Who Code`](https://www.meetup.com/WomenWhoCodeNYC/events/220650892/)
@@ -130,7 +130,7 @@ Day Three - Wednesday
 ---------------------
 
 ![Sockets for the
-Win!](https://storage.vexxhost.net/v1/d7594b0298b54bcc9e4e0f252e1da2e4/blog/mean-socket-io-integration-tutorial%2Fsocketio-logo.png){.aligncenter}
+Win!](https://storage.vexxhost.net/v1/d7594b0298b54bcc9e4e0f252e1da2e4/blog/mean-socket-io-integration-tutorial%2Fsocketio-logo.png)
 
 -   Okay, so I feel a little bad saying this, but I’m pretty sure the
     best lecture I’ve had so far here at Fullstack was just delivered -
@@ -160,7 +160,7 @@ So I’m just going to list them off one by one.
 
 #### 1. Angular.js comes to me more easily than most other concepts I’ve been working with, so I already heart you Angular, you sneaky devil! May you never disappoint me.
 
-![AngularJS](https://prerender.io/img/angularjs.jpg){.aligncenter}
+![AngularJS](https://prerender.io/img/angularjs.jpg)
 
 #### 2. I had a good partner today too so that helped, obviously.
 
@@ -170,16 +170,16 @@ So I’m just going to list them off one by one.
 > to work with for the capstone more easily. Hmmm, yessss.
 
 ![My impression of pair
-programming](https://codurance.com/assets/img/custom/blog/muppetspairprogramming.jpg){.aligncenter}
+programming](https://codurance.com/assets/img/custom/blog/muppetspairprogramming.jpg)
 
 #### 3. The learning team lunch was today, so of course I spent most of it LMFAO. Like the real VP.
 
 ![An actual
-VP.](https://media3.giphy.com/media/G1Zu26ae7mZr2/200.gif){.aligncenter}
+VP.](https://media3.giphy.com/media/G1Zu26ae7mZr2/200.gif)
 
 #### 4. I found out about the new emoji reactions feature on Slack and that brought a small dose of happiness to my day. Here’s us trying it out with Gavin’s post. 😝
 
-![Emojiii Reactions](https://i.imgur.com/lJxcOh0.png){.aligncenter}
+![Emojiii Reactions](https://i.imgur.com/lJxcOh0.png)
 
 #### 5. The workshop was interesting. It was basically all about making a primitive version of [Quizlet](https://quizlet.com/ "Quizlet"), or maybe what was probably a lot like the very 1st version of Quizlet.
 
@@ -188,10 +188,10 @@ VP.](https://media3.giphy.com/media/G1Zu26ae7mZr2/200.gif){.aligncenter}
 > line](https://quizlet.com/80424838/fullstack-foundations-intro-to-the-command-line-flash-cards/)
 > using Quizlet.
 
-![Quizlet Example](https://i.imgur.com/YbQ549K.png){.aligncenter}
+![Quizlet Example](https://i.imgur.com/YbQ549K.png)
 
 ![Cornell
-Tech](https://tech.cornell.edu/static/css/images/content-logo.png){.aligncenter}
+Tech](https://tech.cornell.edu/static/css/images/content-logo.png)
 
 #### 6. Lady’s Lunch was today.
 
@@ -205,7 +205,7 @@ Tech](https://tech.cornell.edu/static/css/images/content-logo.png){.aligncenter}
 > upcoming campus sure looks nice…
 
 ![Cornell Tech New
-Campus](https://tech.cornell.edu/uploads/galleries/_full/campus-view-from-manhattan-aerial.jpg){.aligncenter}
+Campus](https://tech.cornell.edu/uploads/galleries/_full/campus-view-from-manhattan-aerial.jpg)
 
 ------------------------------------------------------------------------
 
@@ -213,7 +213,7 @@ Day Five - Friday (And Some of Saturday Too)
 --------------------------------------------
 
 ![Code
-School](https://ambassador-api.s3.amazonaws.com/uploads/portal/655/2014_09_16_20_43_07_Logo-horizontal.png){.aligncenter}
+School](https://ambassador-api.s3.amazonaws.com/uploads/portal/655/2014_09_16_20_43_07_Logo-horizontal.png)
 
 -   Easy cruising through the lecture and workshop on Angular Directives
     today - going through the relevant course material on `Code School`
@@ -223,7 +223,7 @@ School](https://ambassador-api.s3.amazonaws.com/uploads/portal/655/2014_09_16_20
     afterwards to numb my mind for said reason. It was strange, to say
     the least.
 
-\[tweet 619892020459520000 align='center'\]
+\619892020459520000 align='center'\]
 
 > That’s [Seema](https://twitter.com/seemaisms) talking about
 > **`Big O`l** important stuff such as trees. But the binary kind. 🌳💻🌳
@@ -251,7 +251,7 @@ School](https://ambassador-api.s3.amazonaws.com/uploads/portal/655/2014_09_16_20
 > > EYYYYYY - it’s been **awesome**! My week in a gif:
 > >
 > > ![Taste the rainbow. Feel the
-> > rainbow.](https://media1.giphy.com/media/SKGo6OYe24EBG/200w.gif){.aligncenter}
+> > rainbow.](https://media1.giphy.com/media/SKGo6OYe24EBG/200w.gif)
 
 ------------------------------------------------------------------------
 
@@ -259,26 +259,26 @@ School](https://ambassador-api.s3.amazonaws.com/uploads/portal/655/2014_09_16_20
 
 > So Far
 
--   [The Search
+- [The Search
     🔍](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
--   [The Application 📝](https://fvcproductions.com/2014/12/23/week-20/)
--   [The Preparation
+- [The Application 📝](https://fvcproductions.com/2014/12/23/week-20/)
+- [The Preparation
     📚](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/)
--   [The Interview
+- [The Interview
     💻](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/)
--   [The Decision
+- [The Decision
     ⏳](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/)
--   [Fullstack Foundations - Week 1
+- [Fullstack Foundations - Week 1
     ⚡️](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/)
--   [Fullstack Foundations - Weeks 2 to 4
+- [Fullstack Foundations - Weeks 2 to 4
     🚀](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/)
--   [Fullstack Academy - Week 1
+- [Fullstack Academy - Week 1
     💫](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/)
--   [Fullstack Academy - Week 2
+- [Fullstack Academy - Week 2
     ⌘⌘](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
--   [Fullstack Academy - Week 3
+- [Fullstack Academy - Week 3
     🔦🔦🔦](https://fvcproductions.com/2015/06/26/fullstack-academy-week-3/)
--   [Fullstack Academy - Week 4
+- [Fullstack Academy - Week 4
     💲🔮🔮💲](https://fvcproductions.com/2015/07/03/fullstack-academy-week-4/)
 
 ------------------------------------------------------------------------

@@ -14,26 +14,26 @@ tags:
     - volunteering
 ---
 
-> Name
+## Name
 
 ## <a href="https://hourofcode.com" target="_blank" rel="noopener">Hour of Code</a>
 
-> Organizer
+## Organizer
 
 Code.org
 
-> Location
+## Location
 
 Bethel High, Sedgefield Elementary, John B. Dey Elementary, Tallwood Elementary - Various Locations in Hampton Roads, Virginia
 
-> Date
+## Date
 
 December 7th to 13th, 2015
 
-> Role
+## Role
 
 Volunteer, Mentor, Speaker
 
-> About
+## About
 
 [gallery type="rectangular" size="full" ids="3620,3521,3523,4258,4257,4256,4255,3626,3625,3570,3562,3563,3619,3621,3622,3623,3624,3568,3567,3566,3564,3524" orderby="rand"]

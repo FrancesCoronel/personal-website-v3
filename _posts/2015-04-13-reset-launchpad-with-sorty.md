@@ -19,7 +19,7 @@ tags:
     - yosemite launchpad reset
 ---
 
-![](https://img.informer.com/icons_mac/png/48/297/297271.png){.aligncenter}
+![](https://img.informer.com/icons_mac/png/48/297/297271.png)
 
 Reset Your Launchpad on Yosemite
 ================================
@@ -30,7 +30,7 @@ Reset Your Launchpad on Yosemite
 [`Sorty`](https://wiles.dk/ "Sorty for OSX")? Yes.
 -------------------------------------------------
 
-[![Sorty for OS X](https://fvcproductions.files.wordpress.com/2015/04/sorty-for-os-x.png){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/04/sorty-for-os-x.png)
+[![Sorty for OS X](https://fvcproductions.files.wordpress.com/2015/04/sorty-for-os-x.png)](https://fvcproductions.files.wordpress.com/2015/04/sorty-for-os-x.png)
 ===============================================================================================================================================================================
 
 [Sorty](https://wiles.dk/ "Sorty for OSX")
@@ -53,20 +53,20 @@ I see so many Launchpads that are disorganized and cluttered.
 did something about it!**
 
 There are Launchpads that look like this:[![Calvin C |
-Launchpad](https://fvcproductions.files.wordpress.com/2015/04/screen-shot-2015-04-13-at-11-30-06-am.png){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/04/screen-shot-2015-04-13-at-11-30-06-am.png)
+Launchpad](https://fvcproductions.files.wordpress.com/2015/04/screen-shot-2015-04-13-at-11-30-06-am.png)](https://fvcproductions.files.wordpress.com/2015/04/screen-shot-2015-04-13-at-11-30-06-am.png)
 
 If only it could go back to its default settings and look pretty again,
 like the Launchpad below… :wink:
 
 [![Launchpad |
-Pretty](https://fvcproductions.files.wordpress.com/2015/04/screenshot-2015-04-13-22-36-38.png){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/04/screenshot-2015-04-13-22-36-38.png)
+Pretty](https://fvcproductions.files.wordpress.com/2015/04/screenshot-2015-04-13-22-36-38.png)](https://fvcproductions.files.wordpress.com/2015/04/screenshot-2015-04-13-22-36-38.png)
 
 > Hah - hey pal, don’t  even worry 'bout it!
 
 Just [download Sorty](https://wiles.dk/ "Sorty for OS X")!
 =========================================================
 
-![](https://www.quickmeme.com/img/f0/f0dde7807d61217dd7acc9b55667c2320e46fe62fcf1d95714f0fb563280d18f.jpg){.aligncenter}
+![](https://www.quickmeme.com/img/f0/f0dde7807d61217dd7acc9b55667c2320e46fe62fcf1d95714f0fb563280d18f.jpg)
 
 Smile, for goodness sakes!
 
@@ -78,23 +78,23 @@ This app can do wonders for you!
 
 **Automate everything!!!**
 
-![](https://fvcproductions.files.wordpress.com/2015/04/012c4-littlekidhappy.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/04/012c4-littlekidhappy.png)
 
 [So go ahead, make your worries go away!](https://wiles.dk/ "Sorty for OS X")
 ----------------------------------------------------------------------------
 
-![](https://i0.kym-cdn.com/photos/images/masonry/000/259/943/694.png){.aligncenter}
+![](https://i0.kym-cdn.com/photos/images/masonry/000/259/943/694.png)
 
 ### [You downloaded it, right?](https://wiles.dk/ "Sorty for OS X")
 
-![](https://imgflip.com/s/meme/Jackie-Chan-WTF.jpg){.aligncenter}
+![](https://imgflip.com/s/meme/Jackie-Chan-WTF.jpg)
 
 #### [Wait, why didn’t you download it?](https://wiles.dk/ "Sorty for OS X")
 
-![](https://40.media.tumblr.com/tumblr_lxsx4pAafb1qfu4tho1_500.png){.aligncenter}
+![](https://40.media.tumblr.com/tumblr_lxsx4pAafb1qfu4tho1_500.png)
 
 ##### [Your chances slowly draining away…](https://wiles.dk/ "Sorty for OS X")
 
-![](https://s-media-cache-ak0.pinimg.com/originals/45/55/e7/4555e732a56e8faa1bd65aacac7cae3e.jpg){.aligncenter}
+![](https://s-media-cache-ak0.pinimg.com/originals/45/55/e7/4555e732a56e8faa1bd65aacac7cae3e.jpg)
 
 ###### [DRAINNNNIINGGGG…](https://wiles.dk/ "Sorty for OS X")

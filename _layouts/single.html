@@ -2,13 +2,12 @@
 layout: default
 ---
 
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image %} {% include page/hero.html
-%} {% endif %}
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+{% include page/hero.html %}
+{% endif %}
 
 <div id="main" role="main">
-
     <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-
         {% if page.title %}
         <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}"> {% endif %} {% if page.excerpt %}
         <meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}"> {% endif %} {% if page.date %}
@@ -17,8 +16,7 @@ layout: default
 
         <div class="page__inner-wrap">
 
-            {% if page.categories contains "feedback" %} {% include custom/feedback.html %} {% endif %} {% unless page.header.overlay_color
-            or page.header.overlay_image or page.header.image %}
+            {% unless page.header.overlay_color or page.header.overlay_image or page.header.image %}
             <header>
                 {% if page.title %}
                 <h1 class="page__title" itemprop="headline">
@@ -78,10 +76,11 @@ layout: default
                 {% endif %}
             </section>
 
-            {% include page/taxonomy.html %} {% if page.share %} {% include page/social-share.html %} {% endif %} {% if site.comments.provider
-            and page.comments %} {% include comments/comments.html %} {% endif %} {% if page.previous or page.next %} {%
-            include page/post_pagination.html %} {% endif %} {% if page.id and page.related and site.related_posts.size >
-            0 %} {% include page/related.html %} {% endif %}
+            {% include page/taxonomy.html %}
+            {% if page.share %} {% include page/social-share.html %} {% endif %}
+            {% if site.comments.provider and page.comments %} {% include comments/comments.html %} {% endif %}
+            {% if page.previous or page.next %} {% include page/post_pagination.html %} {% endif %}
+            {% if page.id and page.related and site.related_posts.size > 0 %} {% include page/related.html %} {% endif %}
         </div>
     </article>
 

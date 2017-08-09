@@ -56,7 +56,7 @@ tags:
 So in your [launcher](https://chrome.google.com/webstore/launcher), you have all these lovely links to useful Google Apps and any apps you can find in the Chrome Web Store. {#so-in-your-launcher-you-have-all-these-lovely-links-to-useful-google-apps-and-any-apps-you-can-find-in-the-chrome-web-store. style="text-align:center;"}
 ============================================================================================================================================================================
 
-![](https://core0.staticworld.net/images/article/2013/02/applaunchersplash-100026310-orig.png){.aligncenter}
+![](https://core0.staticworld.net/images/article/2013/02/applaunchersplash-100026310-orig.png)
 
 Unfortunately, if you have a website you visit regularly but isn’t
 available in the Chrome Web Store, there’s not much you can do.
@@ -68,7 +68,7 @@ links you never end up actually benefitting from.
 So all in all, it looks like clutter and a ridiculous \# of bookmark
 folders are your best options.
 
-![](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_496x150.png){.aligncenter}
+![](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_496x150.png)
 
 **UNLESS YOU COULD ADD YOUR OWN LINKS TO THE APP LAUNCHER.**
 
@@ -107,7 +107,7 @@ Step 1
 > > I chose [One Page Love](https://onepagelove.com/), which is a *One
 > > Page* website design gallery showcasing the best *Single Page*
 > > website designs from around the web.
-> > ![](https://fvcproductions.files.wordpress.com/2015/02/one-page-love.png){.aligncenter}
+> > ![](https://fvcproductions.files.wordpress.com/2015/02/one-page-love.png)
 
 ------------------------------------------------------------------------
 
@@ -117,7 +117,7 @@ Step 2
 > Create a folder with he name of the site you want to add to your
 > Chrome App Launcher.
 >
-> ![](https://fvcproductions.files.wordpress.com/2015/02/folders.png){.aligncenter}
+> ![](https://fvcproductions.files.wordpress.com/2015/02/folders.png)
 >
 > > You’re going to end up having two files with each folder/app you
 > > create:
@@ -173,7 +173,7 @@ Step 3
 
 > The above example works with the *One Page Love* website.
 >
-> ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-19-43-50.png){.aligncenter}
+> ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-19-43-50.png)
 
 ------------------------------------------------------------------------
 
@@ -192,7 +192,7 @@ Step 4
 > > the query `info:onepagelove.com` in Google which will provide
 > > information about the url. No spaces, or else it doesn’t work.
 > >
-> > ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-19-51-41.png){.aligncenter}
+> > ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-19-51-41.png)
 
 ------------------------------------------------------------------------
 
@@ -214,8 +214,8 @@ Step 6
 > > then by typing in `filetype:png` into the Google search to select
 > > specifically for PNG files.
 > >
-> > ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-20-15-20.png){.aligncenter}
-> > ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-20-16-32.png){.aligncenter}
+> > ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-20-15-20.png)
+> > ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-20-16-32.png)
 
 ------------------------------------------------------------------------
 
@@ -226,7 +226,7 @@ Step 7
 >
 > Head over to `chrome://extensions` or use your toolbar to get there.
 >
-> > ![](https://fvcproductions.files.wordpress.com/2015/02/loading-e1422840256797.png){.aligncenter}
+> > ![](https://fvcproductions.files.wordpress.com/2015/02/loading-e1422840256797.png)
 >
 > Click `Load unpacked extension...`
 >
@@ -239,12 +239,12 @@ Step 8
 
 > Your website will now show up in the extensions!
 >
-> > ![](https://fvcproductions.files.wordpress.com/2015/02/extensions.png){.aligncenter}
+> > ![](https://fvcproductions.files.wordpress.com/2015/02/extensions.png)
 >
 > And once it shows up in your extensions, it’ll also show up in the
 > `Chrome App Launcher`.
 >
-> > ![](https://fvcproductions.files.wordpress.com/2015/02/complete-e1422839649943.png){.aligncenter}
+> > ![](https://fvcproductions.files.wordpress.com/2015/02/complete-e1422839649943.png)
 >
 > That’s it. Congratulations! 😊
 

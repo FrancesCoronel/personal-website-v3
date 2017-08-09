@@ -6,34 +6,30 @@ header:
   image: https://fvcproductions.files.wordpress.com/2015/11/csaxal9uyaypho3.jpg
 ---
 
-> Name
+## Name
 
-## <a title="DE" href="https://hackathon.dominionenterprises.com/" target="_blank" rel="noopener"><strong>Hack to Help Hampton Roads</strong></a>
+<a title="DE" href="https://hackathon.dominionenterprises.com/" target="_blank" rel="noopener"><strong>Hack to Help Hampton Roads</strong></a>
 
-> Organizer
+## Organizer
 
 Dominion Enterprises
 
-> Location
+## Location
 
 Dominion Enterprises - Norfolk, Virginia
 
-> Date
+## Date
 
 October 23rd to 24th, 2015
 
-> Role
+## Role
 
 Participant from Hampton University
 
-> About
+## About
 
 One of the most fun hackathons I attended. Teamed up with some really fun people, mostly from ODU.
 
-### Awards
-
-We didn't win anything but our team presented!
-
-### Project
+## Project
 
 <blockquote class="embedly-card"><h4><a href="https://fvcproductions.com/portfolio/hack-the-vot">FVCproductions 🍓</a></h4><p>Check out the app at rcodonnell.github.io/code4hr-voting "Change the world, know your candidate." 🔨 with ♥️ at the Hack to Help Hampton Roads Hackathon from October 23-24, 2015 at Dominion Enterprises. Screenshots Installation & Setup Run the following commands to build the app. $ cd path/to/repo $ grunt Now head over to https://localhost:9001 Testing This command...</p></blockquote>

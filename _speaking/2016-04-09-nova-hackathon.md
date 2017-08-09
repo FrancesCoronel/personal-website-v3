@@ -25,27 +25,27 @@ gallery:
     url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0975.jpg?w=382&h=287&crop&ssl=1&zoom=2
 ---
 
-> Name
+## Name
 
-## <a title="InNOVAtion Hackathon" href="https://novahackathon.org" target="_blank" rel="noopener">InNOVAtion Hackathon</a>
+<a title="InNOVAtion Hackathon" href="https://novahackathon.org" target="_blank" rel="noopener">InNOVAtion Hackathon</a>
 
-> Organizer
+## Organizer
 
 Northern Virginia Community College
 
-> Location
+## Location
 
 Woodbridge, Virginia
 
-> Date
+## Date
 
 April 9th, 2016
 
-> Role
+## Role
 
 Volunteer (helped create website)
 
-> About
+## About
 
 First hackathon I spoke at!
 

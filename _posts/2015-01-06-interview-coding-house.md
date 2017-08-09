@@ -60,16 +60,16 @@ Interview with [Coding House](https://www.codinghouse.com "Coding House") {#inte
 
 ------------------------------------------------------------------------
 
-1.  **How many drop out after simply experiencing the pre-work? How much
+1. **How many drop out after simply experiencing the pre-work? How much
     time should I dedicate to the pre-work?** We require a minimum level
     of competency. On a scale of 1–10, we need them to be 4/5, on
     JavaScript and jQuery, we want a 2. Depending on where you start, I
     would imagine about 80–100 hours total on average is needed to
     complete the pre-work. A few have dropped out after pre-work.
-2.  **How many college students have you had in the past?** About 95% of
+2. **How many college students have you had in the past?** About 95% of
     our students have a bachelors, 60% have a Masters, and about 1/3
     have a background in computer science.
-3.  **How would say people get along in the house?** Everyone gets
+3. **How would say people get along in the house?** Everyone gets
     along. They make basically friends for life.
 4.  **What kind of process do your instructors go through?** Our lead
     instructor went to CMU and has been coding for 20 years. Every
@@ -128,18 +128,18 @@ website to get started with the pre-work at home.
 
 I also have shared my **interview experience** with bootcamps such as
 
--   [Bitmaker
+- [Bitmaker
     Labs](https://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
--   [Coding
+- [Coding
     Dojo](https://fvcproductions.com/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
--   [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
--   [Dev
+- [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+- [Dev
     League](https://fvcproductions.com/2015/01/06/experience-with-devleague/ "Interview With DevLeague 💻")
--   [Fullstack
+- [Fullstack
     Academy](https://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
--   [Hack
+- [Hack
     Reactor](https://fvcproductions.com/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
--   [Maker
+- [Maker
     Square](https://fvcproductions.com/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
 ------------------------------------------------------------------------

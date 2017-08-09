@@ -92,9 +92,9 @@ another family’s notifications.
 
 ### Tools
 
--   [Sketch](https://sketchapp.com)
--   [Invision](https://www.invisionapp.com/)
--   [Slack](https://slack.com)
+- [Sketch](https://sketchapp.com)
+- [Invision](https://www.invisionapp.com/)
+- [Slack](https://slack.com)
 
 ### Team
 

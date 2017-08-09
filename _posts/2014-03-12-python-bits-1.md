@@ -50,9 +50,9 @@ Now let’s do this, homie!
 
 Now we’ll be covering 7 “problems” today…
 
-    1.  Installation
-    2.  Numerical Expressions
-    3.  Printing
+    1. Installation
+    2. Numerical Expressions
+    3. Printing
     4.  Initializing
     5.  Strings and Integers
     6.  Area of a rectangle
@@ -104,12 +104,12 @@ Yarharhar. Okay, moving on.
 
 If you want to run Python 3.0 on CodeRunner, you will have to
 
-1.  First download the latest version of Python from Python’s
+1. First download the latest version of Python from Python’s
     website (which they **finally** updated because Lordy it was looking
     mighty messy when I first laid my eyes on it back in the day)
-2.  Unless of course you want to use Python 2.0, since Python 2.0 is
+2. Unless of course you want to use Python 2.0, since Python 2.0 is
     only version automatically supplied with CodeRunner
-3.  Careful to pick the right version depending on whether your Mac is
+3. Careful to pick the right version depending on whether your Mac is
     64 or 32-bit
 4.  After you open up the install dmg file from the website, install it
     using the .mpkg file

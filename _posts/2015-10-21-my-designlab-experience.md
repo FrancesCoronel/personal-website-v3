@@ -28,15 +28,15 @@ tags:
 
 > Overview
 
--   [What is Designlab?](#section-what)
--   [Date & Times](#section-date)
--   [Swag](#section-swag)
--   [My Mentor](#section-mentor)
--   [The Lessons](#section-lessons)
--   [The Projects](#section-projects)
--   [The Difference](#section-difference)
--   [The Aftermath](#section-aftermath)
--   [Concluding Opinion](#section-conclusion)
+- [What is Designlab?](#section-what)
+- [Date & Times](#section-date)
+- [Swag](#section-swag)
+- [My Mentor](#section-mentor)
+- [The Lessons](#section-lessons)
+- [The Projects](#section-projects)
+- [The Difference](#section-difference)
+- [The Aftermath](#section-aftermath)
+- [Concluding Opinion](#section-conclusion)
 
 What is Designlab? {#section-what}
 ------------------
@@ -134,9 +134,9 @@ Designlab - Week 1\[/caption\]
 
 These are already on their website, but I will share again here.
 
-1.  Getting to Know Design
-2.  Visual Hierarchy
-3.  Layout
+1. Getting to Know Design
+2. Visual Hierarchy
+3. Layout
 4.  Typography
 5.  Color Theory
 6.  Process

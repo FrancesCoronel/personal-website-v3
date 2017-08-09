@@ -45,11 +45,11 @@ orderby="rand"\]
 
 ### Tools
 
--   [HTML5UP](https://html5up.net)
--   [Sublime Text](https://github.com/fvcproductions/Sublime)
--   [CodeKit](https://incident57.com/codekit/)
--   [Sketch](https://www.sketchapp.com/)
--   [Typeform](https://typeform.com)
+- [HTML5UP](https://html5up.net)
+- [Sublime Text](https://github.com/fvcproductions/Sublime)
+- [CodeKit](https://incident57.com/codekit/)
+- [Sketch](https://www.sketchapp.com/)
+- [Typeform](https://typeform.com)
 
 ### GitHub Repo
 

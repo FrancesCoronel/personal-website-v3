@@ -17,16 +17,16 @@ tags:
 To write a simple C++ program. To use quotient-remainder arithmetic. To
 use format. To properly comment/document throughout a program.
 
-1.  Write a simple C++ program to read time measurements from the
+1. Write a simple C++ program to read time measurements from the
     keyboard in hours and minutes. There will be two data sets. The
     first will be the hours and minutes. There will be two data sets.
     The first will be the hours and minutes for the first time, the
     second the hours and minutes for the second time.
-2.  Add the two data sets and calculate the result in hours and minutes.
+2. Add the two data sets and calculate the result in hours and minutes.
     Use quotient remainder arithmetic. The minutes in the final answer
     should be less than 60. Also calculate the answer as a real number
     representing the number of hours.
-3.  The program should use format to control the output. The format
+3. The program should use format to control the output. The format
     should include showpoint, fixed, setprecision, and setw. It should
     also be documented.
 4.  Documentation typically includes the following: the name of your C++

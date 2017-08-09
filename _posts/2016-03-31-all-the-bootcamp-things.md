@@ -54,7 +54,7 @@ AND THIS IS MY OFFICIAL 100TH POST!!!!! {#and-this-is-my-official-100th-post sty
 width="396"\]![](https://media3.giphy.com/media/xeXEpUVvAxCV2/200.gif){width="396"
 height="200"} Unimpressed\[/caption\]
 
-#### Now let's get this party started! :mrgreen: {#nowletsgetthispartystarted:mrgreen: style="text-align:center;"}
+#### Now let's get this party started! 😁 {#nowletsgetthispartystarted😁 style="text-align:center;"}
 
 ------------------------------------------------------------------------
 
@@ -66,21 +66,21 @@ DevLeague\[/caption\]
 
 ### My Interviews with Coding Bootcamps
 
--   [Interview with Fullstack Academy of Code
+- [Interview with Fullstack Academy of Code
     🗽](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/)
--   [Interview with MakerSquare
+- [Interview with MakerSquare
     💻](https://fvcproductions.com/2015/01/14/interview-maker-square/)
--   [Interview with Coding Dojo
+- [Interview with Coding Dojo
     🍜](https://fvcproductions.com/2015/01/06/interview-coding-dojo/)
--   [Interview With DevLeague
+- [Interview With DevLeague
     🌴](https://fvcproductions.com/2015/01/06/interview-devleague/)
--   [Interview with Coding House
+- [Interview with Coding House
     🏠](https://fvcproductions.com/2015/01/06/interview-coding-house/)
--   [Interview with Hack Reactor
+- [Interview with Hack Reactor
     🔑](https://fvcproductions.com/2015/01/05/interview-hack-reactor/)
--   [Interview with Bitmaker Labs
+- [Interview with Bitmaker Labs
     🔬](https://fvcproductions.com/2014/03/12/interview-bitmaker-labs/)
--   [Interview with Designation
+- [Interview with Designation
     🎨](https://fvcproductions.com/2015/01/06/interview-with-designation/)
 
 ------------------------------------------------------------------------
@@ -93,34 +93,34 @@ width="750"\]![Fullstack Academy - Week
 
 ### My Fullstack Academy Experience
 
--   [The Search
+- [The Search
     🔍](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
--   [The Application 📝](https://fvcproductions.com/2014/12/23/week-20/)
--   [The Preparation
+- [The Application 📝](https://fvcproductions.com/2014/12/23/week-20/)
+- [The Preparation
     📚](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/)
--   [The Interview
+- [The Interview
     💻](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/)
--   [The Decision
+- [The Decision
     ⏳](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/)
--   [Fullstack Foundations – Week 1
+- [Fullstack Foundations – Week 1
     ⚡](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/)
--   [Fullstack Foundations – Weeks 2 to 4
+- [Fullstack Foundations – Weeks 2 to 4
     🚀](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/)
--   [Fullstack Academy – Week 1
+- [Fullstack Academy – Week 1
     💫](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/)
--   [Fullstack Academy – Week 2
+- [Fullstack Academy – Week 2
     ⌘⌘](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
--   [Fullstack Academy – Week 3
+- [Fullstack Academy – Week 3
     🔦🔦🔦](https://fvcproductions.com/2015/06/26/fullstack-academy-week-3/)
--   [Fullstack Academy – Week 4
+- [Fullstack Academy – Week 4
     💲🔮🔮💲](https://fvcproductions.com/2015/07/03/fullstack-academy-week-4/)
--   [Fullstack Academy – Week 5
+- [Fullstack Academy – Week 5
     💕💓💕](https://fvcproductions.com/2015/07/11/fullstack-academy-week-5/)
--   [Fullstack Academy – Week 6 and Review Week
+- [Fullstack Academy – Week 6 and Review Week
     🃏🃏🃏🃏🃏🃏](https://fvcproductions.com/2015/07/25/fullstack-academy-week-6-review-week/)
--   [ONE WEEK OF FULLSTACK LEFT
+- [ONE WEEK OF FULLSTACK LEFT
     😲](https://fvcproductions.com/2015/08/19/one-week-left-of-fullstack/)
--   [Fullstack Academy | Reflections
+- [Fullstack Academy | Reflections
     🕝](https://fvcproductions.com/2015/08/30/fullstack-academy-reflections/)
 
 ------------------------------------------------------------------------
@@ -133,7 +133,7 @@ Banner\[/caption\]
 
 ### My Designlab Experience
 
--   [My Designlab Experience
+- [My Designlab Experience
     🎨](https://fvcproductions.com/2015/10/21/my-designlab-experience)
 
 ------------------------------------------------------------------------
@@ -146,11 +146,11 @@ Bootcamps\[/caption\]
 
 ### Tools
 
--   [MapMe Coding Bootcamps - Crowd Sourced Map of Coding Bootcamps
+- [MapMe Coding Bootcamps - Crowd Sourced Map of Coding Bootcamps
     Across the World 🗺](https://mapme.com/coding-bootcamps)
--   [Bootcamp.me - Google Map of Coding Bootcamps Across the World
+- [Bootcamp.me - Google Map of Coding Bootcamps Across the World
     🗺](https://bit.ly/bootcampme)
--   [RankMe - Review and Rating Aggregation for Coding Bootcamps
+- [RankMe - Review and Rating Aggregation for Coding Bootcamps
     📊](https://fvcproductions.com/portfolio/rankme/)
 
 ------------------------------------------------------------------------
@@ -163,11 +163,11 @@ Research Experience\[/caption\]
 
 ### Tips and Tricks
 
--   [Preparing for JS Coding Bootcamps
+- [Preparing for JS Coding Bootcamps
     📚](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/)
--   [Finding Coding Bootcamps
+- [Finding Coding Bootcamps
     📚](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
--   [Magnifying the Bootcamp Research Experience
+- [Magnifying the Bootcamp Research Experience
     📚](https://fvcproductions.com/2014/11/10/magnifying-the-bootcamp-research-experience/)
 
 ------------------------------------------------------------------------
@@ -178,11 +178,11 @@ Bootcamp](https://fvcproductions.files.wordpress.com/2016/03/dearbootcamp-e14594
 
 ### Slides
 
--   [Dear Bootcamp
+- [Dear Bootcamp
     📜](https://speakerdeck.com/fvcproductions/dear-bootcamp)
--   [JS Coding Bootcamps - Presented at Norfolk.js Meetup
+- [JS Coding Bootcamps - Presented at Norfolk.js Meetup
     💻](https://speakerdeck.com/fvcproductions/js-coding-bootcamps)
--   [Coding Bootcamps - Presented at CAPWIC
+- [Coding Bootcamps - Presented at CAPWIC
     💻](https://speakerdeck.com/fvcproductions/capwic-2016)
 
 https://speakerdeck.com/fvcproductions/dear-bootcamp

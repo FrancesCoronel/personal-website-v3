@@ -37,12 +37,12 @@ ids="3686,3687,3688,3689,3690,3691" orderby="rand"\]
 Tools
 -----
 
--   [MapMe](https://mapme.com/ "Mapme")
+- [MapMe](https://mapme.com/ "Mapme")
 
 References
 ----------
 
--   [Course Report](https://coursereport.com "Course Report")
+- [Course Report](https://coursereport.com "Course Report")
 
 Contribute
 ----------

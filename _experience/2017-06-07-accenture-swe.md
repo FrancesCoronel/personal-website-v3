@@ -8,21 +8,21 @@ header:
 
 > Employer
 
-## <a title="Accenture Liquid Studio" href="https://accenture.com/us-en/capability-rapid-application-development-studio" target="_blank" rel="noopener">Accenture Liquid Studio</a>
+<a title="Accenture Liquid Studio" href="https://accenture.com/us-en/capability-rapid-application-development-studio" target="_blank" rel="noopener">Accenture Liquid Studio</a>
 
-> Location
+## Location
 
 Redwood City, CA but formally based out of San Francisco, CA
 
-> Date
+## Date
 
 June 7th, 2017 to Present
 
-> About
+## About
 
 The Accenture Liquid Studios are designed for rapid application development. They help companies become built for change through new skills, processes, products and ways of working.
 
-> Role
+## Role
 
 ### Software Engineer
 

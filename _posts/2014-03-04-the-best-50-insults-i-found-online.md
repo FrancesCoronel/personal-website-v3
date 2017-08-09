@@ -66,7 +66,7 @@ Last sentence was kinda stupid, but yeah hope you enjoy sucka! :razz:
 
 ##### 9. Bitch, you’re like Mondays. Nobody likes you. (Cliche, I know) :roll:
 
-##### 10. If you were a game show, you’d be called No Deal. (OHHH.) :mrgreen:
+##### 10. If you were a game show, you’d be called No Deal. (OHHH.) 😁
 
 ##### 11. If someone said that I wasn’t cool, I’d say, ’Cool is another word for cold. Hot is the opposite of cold. So if I’m not cold, then I’d have to be hot. So thank you.’ (You know you can pretty much pull this trick on any word, so word) :neutral:
 

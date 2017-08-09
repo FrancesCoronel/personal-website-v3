@@ -37,10 +37,10 @@ Features
 Tools
 =====
 
--   [GitHub Pages](https://pages.github.com/ "GitHub Pages")
+- [GitHub Pages](https://pages.github.com/ "GitHub Pages")
 -   JavaScript
--   [Bootstrap](https://getbootstrap.com/)
--   [Flat UI](https://designmodo.github.io/Flat-UI/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Flat UI](https://designmodo.github.io/Flat-UI/)
 -   HTML/CSS
 
 Link

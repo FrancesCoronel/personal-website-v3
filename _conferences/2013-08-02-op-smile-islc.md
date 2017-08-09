@@ -11,23 +11,23 @@ gallery:
       url: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0844.jpg
 ---
 
-> Name
+## Name
 
-## <a title="ISLC" href="https://studentprograms.operationsmile.org/events/islc/" target="_blank" rel="noopener">International Student Leadership Conference</a>
+<a title="ISLC" href="https://studentprograms.operationsmile.org/events/islc/" target="_blank" rel="noopener">International Student Leadership Conference</a>
 
-> Organizer
+## Organizer
 
 Operation Smile
 
-> Location
+## Location
 
 Old Dominion University - Norfolk, VA
 
-> Date
+## Date
 
 July 29th to August 2nd, 2013
 
-> About
+## About
 
 This was my second international conference with Operation Smile.
 

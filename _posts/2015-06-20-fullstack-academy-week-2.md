@@ -40,7 +40,7 @@ Day Three - Wednesday
 ---------------------
 
 -   Pair programming worked out great today. I’m building web apps
-    already! :mrgreen:
+    already! 😁
 
 Day Four - Thursday
 -------------------
@@ -80,21 +80,21 @@ Day Five - Friday
 
 > So Far
 
--   [The
+- [The
     Search](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
--   [The
+- [The
     Application](https://fvcproductions.com/2014/12/23/week-20/ "The Application")
--   [The
+- [The
     Preparation](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
--   [The
+- [The
     Interview](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/ "The Interview")
--   [The
+- [The
     Decision](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/ "The Decision")
--   [Fullstack Foundations - Week
+- [Fullstack Foundations - Week
     1](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
--   [Fullstack Foundations - Weeks 2 -
+- [Fullstack Foundations - Weeks 2 -
     4](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
--   [Fullstack Academy - Week
+- [Fullstack Academy - Week
     1](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/ "Fullstack Academy - Week 1")
 
 > *Tips or tricks?* :idea:

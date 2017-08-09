@@ -25,27 +25,27 @@ gallery:
       url: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0527.jpg
 ---
 
-> Name
+## Name
 
-## <a title="Fluent Conference" href="https://conferences.oreilly.com/fluent/javascript-html-us/" target="_blank" rel="noopener">Fluent Conference</a>
+<a title="Fluent Conference" href="https://conferences.oreilly.com/fluent/javascript-html-us/" target="_blank" rel="noopener">Fluent Conference</a>
 
-> Organizer
+## Organizer
 
 O'Reilly
 
-> Location
+## Location
 
 San Francisco Marriot Marquis - San Francisco, California
 
-> Date
+## Date
 
 March 8th to 10th, 2016
 
-> Role
+## Role
 
 Diversity Scholarship Recipient
 
-> About
+## About
 
 I was selected as a "Diversity Scholarship Recipient" by O'Reilly to attend the Fluent Confernece, which covers all things related to web development.
 

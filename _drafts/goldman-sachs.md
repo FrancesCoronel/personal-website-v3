@@ -16,10 +16,10 @@ gallery:
 
 [speaker deck - final presentation]
 
-[youtube - final]
+- final]
 
 [speaker deck - entry presentation]
 
-[youtube - entry]
+- entry]
 
 {% include gallery %}

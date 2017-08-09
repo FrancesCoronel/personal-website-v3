@@ -32,9 +32,9 @@ tags:
 Installation Process {#installationprocess}
 --------------------
 
-1.  Download [**Vagrant**](https://www.vagrantup.com/)
-2.  Download [**VirtualBox**](https://www.virtualbox.org/wiki/Downloads)
-3.  Clone or download [my sample to-do
+1. Download [**Vagrant**](https://www.vagrantup.com/)
+2. Download [**VirtualBox**](https://www.virtualbox.org/wiki/Downloads)
+3. Clone or download [my sample to-do
     app](https://github.com/fvcproductions/ds-todos)
     -   **Option 1.** Use a GitHub client like
         [Tower](https://git-tower.com)
@@ -169,6 +169,6 @@ elsewhere so make sure to get the right file path of that app using
 
 ### Helpful Resources {#helpfulresources}
 
--   [Great video on installation process](https://vimeo.com/164946495)
--   [Laravel Homestead
+- [Great video on installation process](https://vimeo.com/164946495)
+- [Laravel Homestead
     Documentation](https://laravel.com/docs/5.3/homestead)

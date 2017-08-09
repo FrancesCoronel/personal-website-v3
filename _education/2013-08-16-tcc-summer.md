@@ -11,22 +11,21 @@ gallery:
 
 > Institution
 
-## <a title="Tidewater Community College" href="https://tcc.edu" target="_blank" rel="noopener">Tidewater Community College</a>
+<a title="Tidewater Community College" href="https://tcc.edu" target="_blank" rel="noopener">Tidewater Community College</a>
 
-> Location
+## Location
 
 Virginia Beach, VA
 
-> Date
+## Date
 
 May 2013 to August 16th, 2013
 
 > Program
 
-- Advanced Diploma - High School
-- Medical Health & Speciality Program (Dropped out)
+- Dual Enrollment
 
-> About
+## About
 
 TCC is the largest provider of higher education and workforce development services in Hampton Roads, enrolling over 37,000 students annually—the second largest undergraduate student body in the Commonwealth of Virginia.
 
@@ -34,10 +33,10 @@ Through TCC's dual enrollment program, I enrolled in 4 different courses that I 
 
 ### Courses
 
--   NAS 132 - Astronomy II
--   CSC 110 - Introduction to Computing in C++
--   PHI 101 - Introduction to Philosophy I
--   SOC 201 - Introduction to Sociology (AUDIT)
+- NAS 132 - Astronomy II
+- CSC 110 - Introduction to Computing in C++
+- PHI 101 - Introduction to Philosophy I
+- SOC 201 - Introduction to Sociology (AUDIT)
 
 {% include gallery %}
 

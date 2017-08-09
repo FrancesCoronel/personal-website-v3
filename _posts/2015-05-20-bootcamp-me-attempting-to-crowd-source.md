@@ -27,7 +27,7 @@ back in November of last year.\[googlemaps
 https://www.google.com/maps/d/embed?mid=zIblKEWM9BnY.kF6pHtgPUlIo&w=640&h=480\]
 
 Again, you can find the Google Map at [bit.ly/bootcampme](https://bit.ly/bootcampme "Bootcamp.me").
---------------------------------------------------------------------------------------------------
+--
 
 As of right now, there are exactly [165 distinct
 bootcamps](https://bit.ly/bootcamps-to-add "Bootcamp Directory") on the
@@ -47,11 +47,11 @@ users to develop - surprise, surprise - crowdsourced maps.
 > the time being, I’m just going to provide a picture.
 
 \[caption width="" align="aligncenter"\][![Mapme | Coding
-Bootcamps](https://fvcproductions.files.wordpress.com/2015/05/codingbootcamps.png){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/05/codingbootcamps.png)
+Bootcamps](https://fvcproductions.files.wordpress.com/2015/05/codingbootcamps.png)](https://fvcproductions.files.wordpress.com/2015/05/codingbootcamps.png)
 Mapme | Coding Bootcamps\[/caption\]
 
 You can find this work in progress at [mapme.com/coding-bootcamps](https://mapme.com/coding-bootcamps "Mapme | Coding Bootcamps").
----------------------------------------------------------------------------------------------------------------------------------
+---------------------------------
 
 This is partly because I know I’m not going to be able to update this
 project at some point in the future due to other priorities so better to

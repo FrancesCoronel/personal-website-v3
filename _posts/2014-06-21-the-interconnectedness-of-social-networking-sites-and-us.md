@@ -39,11 +39,11 @@ Discovery\_8Pm:
 When one has an account with all these different social networking sites
 (I have a few of these myself, actually), specifically:
 
-1.  [Google+](https://www.google.com/+/learnmore/) (the Facebook
+1. [Google+](https://www.google.com/+/learnmore/) (the Facebook
     wanna-be)
-2.  [Behance](https://www.behance.net) (where creativity can be
+2. [Behance](https://www.behance.net) (where creativity can be
     unleashed)
-3.  [LinkedIn](https://www.linkedin.com) (making business people look
+3. [LinkedIn](https://www.linkedin.com) (making business people look
     good)
 4.  [Wordpress](https://www.wordpress.com) (professional looking posts)
 5.  [Quora](https://www.quora.com) (questions and answers)

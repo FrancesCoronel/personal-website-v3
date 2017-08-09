@@ -15,16 +15,15 @@ gallery:
       url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/11/img_0047.jpg?w=746&h=560&crop&ssl=1&zoom=2
 ---
 
-
 > Institution
 
-## <a title="Cornell Tech" href="https://tech.cornell.edu" target="_blank" rel="noopener">Cornell Tech</a>
+<a title="Cornell Tech" href="https://tech.cornell.edu" target="_blank" rel="noopener">Cornell Tech</a>
 
-> Location
+## Location
 
 Google Building - New York City, New York
 
-> Date
+## Date
 
 August 2016 to May 10th, 2017
 
@@ -32,7 +31,7 @@ August 2016 to May 10th, 2017
 
 - Master of Engineering in Computer Science
 
-> About
+## About
 
 Cornell Tech is the technology-focused campus of Cornell University located in New York City.
 
@@ -46,7 +45,7 @@ Cornell Tech is the technology-focused campus of Cornell University located in N
 
 - [WiTNY](https://tech.cornell.edu/impact/witny) (Women in Technology and Entrepreneurship in New York)
 
-### Awards
+## Awards
 
 - Best Presentation in Grizzly Room for Sprint 3 of Product Studio
 - "Good job" from David Tisch for final sprint of Startup Studio
@@ -68,15 +67,15 @@ Cornell Tech is the technology-focused campus of Cornell University located in N
 
 > Spring 2017
 
-1.  Conversations in the Studio
-2.  Design Thinking
-3.  Leadership for Studio
-4.  Women in Leadership
-5.  HCI & Design
-6.  Product Management
-7.  Privacy in the Digital Age
-8.  Connective Media Systems & Tech
-9.  Startup Studio
+1. Conversations in the Studio
+2. Design Thinking
+3. Leadership for Studio
+4. Women in Leadership
+5. HCI & Design
+6. Product Management
+7. Privacy in the Digital Age
+8. Connective Media Systems & Tech
+9. Startup Studio
 
 {% include gallery %}
 

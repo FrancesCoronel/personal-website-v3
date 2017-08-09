@@ -6,36 +6,33 @@ header:
   image: https://fvcproductions.files.wordpress.com/2016/02/mhtc-table.jpg
 ---
 
-> Name
+## Name
 
-## <a title="Monarchs Hack the Campus" href="https://www.cs.odu.edu/~acm/hackathon/" target="_blank" rel="noopener">Monarchs Hack the Campus</a>
+<a title="Monarchs Hack the Campus" href="https://www.cs.odu.edu/~acm/hackathon/" target="_blank" rel="noopener">Monarchs Hack the Campus</a>
 
-> Organizer
+## Organizer
 
 Old Dominion University
 
-> Location
+## Location
 
 Strome Entrepreneurial Center - Old Dominion University - Norfolk, VA
 
-> Date
+## Date
 
 February 26th to 28th, 2016
 
-> Role
+## Role
 
-Volunteer (helped create website)
+Volunteer
 
-> About
+## About
 
 For an upcoming hackathon at ODU dubbed Monarchs Hack the Campus, I acted as a volunteer and helped create the event website as well as help in-person.
 
-### GitHub Repo
+## Project
 
-- Sorry, it’s private! :/
-
-### Project
-
+- Unfortunately, the GitHub repo is private. ⚰
 - [Typeform](https://mhtc-spring-2016.typeform.com/to/RXB7sy)
 - [Website](https://www.cs.odu.edu/~acm/hackathon/)
 - [Old Portfolio Link](https://fvcproductions.com/portfolio/monarchs-hack-the-campus/)

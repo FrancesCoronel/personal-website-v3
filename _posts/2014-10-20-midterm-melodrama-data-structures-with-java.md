@@ -30,21 +30,21 @@ CSC251 Study Guide {#csc251-study-guide style="text-align:center;"}
 Index
 -----
 
--   [Array Properties](#section-arrays)
+- [Array Properties](#section-arrays)
     -   overview
--   [Stack Properties](#section-stacks)
-    -   overview
-    -   defintion
-    -   diagram
-    -   conceptual implementation
-    -   operations
--   [Queue Properties](#section-queues)
+- [Stack Properties](#section-stacks)
     -   overview
     -   defintion
     -   diagram
     -   conceptual implementation
     -   operations
--   [Stack Code & Algorithms](#section-stackcode)\
+- [Queue Properties](#section-queues)
+    -   overview
+    -   defintion
+    -   diagram
+    -   conceptual implementation
+    -   operations
+- [Stack Code & Algorithms](#section-stackcode)\
 
     > uses arrays for implementation
 
@@ -55,19 +55,19 @@ Index
     -   print in order
     -   find an element in stack
 
--   [Comparing Stacks & Queues](#section-comparing)
+- [Comparing Stacks & Queues](#section-comparing)
     -   overview
     -   advantages
     -   disadvantages
     -   examples of how they can be used
--   [Queue Algorithms](#section-queuealgo)\
+- [Queue Algorithms](#section-queuealgo)\
 
     > uses arrays for implementation
 
     -   shift queue
     -   circular queues
 
--   [Basic Definitions & Phrases](#section-defintions)
+- [Basic Definitions & Phrases](#section-defintions)
 
 ------------------------------------------------------------------------
 
@@ -96,7 +96,7 @@ Index
     -   data structure of ordered items such that items can be inserted
         and removed only at 1 end (called the \[code
         language="java"\]top\[/code\])
--   *diagram*![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Data_stack.svg/1280px-Data_stack.svg.png){.aligncenter}
+-   *diagram*![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Data_stack.svg/1280px-Data_stack.svg.png)
 -   *conceptual implementation*
     -   First In, First Out (FIFO)
         -   add to rear and remove from front
@@ -122,7 +122,7 @@ Index
         (rear) and removed at other end (front)
 -   *diagram*
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Data_Queue.svg/1280px-Data_Queue.svg.png){.aligncenter}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Data_Queue.svg/1280px-Data_Queue.svg.png)
 
 -   *conceptual implementation*
     -   First In, First Out (FIFO)
@@ -167,9 +167,9 @@ stack\[++top\] = element;\
 }\
 \[/code\]
 
-1.  check if stack is not full
-2.  set top position of array to element being added to stack
-3.  increment values of top and count (if partially filled array)
+1. check if stack is not full
+2. set top position of array to element being added to stack
+3. increment values of top and count (if partially filled array)
 
 > *delete from stack*
 
@@ -181,9 +181,9 @@ return stack\[top--\];\
 }\
 \[/code\]
 
-1.  check if stack is not empty
-2.  decrement top
-3.  set return value to top position of array
+1. check if stack is not empty
+2. decrement top
+3. set return value to top position of array
 
 > *print in order*
 
@@ -252,14 +252,14 @@ return false;\
 
 -   *shift queues*
     -   enqueue operation
-        1.  save value at first index to item you want to enqueue
-        2.  increment size
-        3.  if array fills up, all n elements have to be copied to a
+        1. save value at first index to item you want to enqueue
+        2. increment size
+        3. if array fills up, all n elements have to be copied to a
             new, larger array
     -   dequeue operation
-        1.  save value at first index
-        2.  shift all elements left
-        3.  decrement size
+        1. save value at first index
+        2. shift all elements left
+        3. decrement size
 -   *circular queues*
     -   advance queue indexes front (to delete an item) and back (to
         insert an item) by moving them both clockwise around array

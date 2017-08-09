@@ -10,7 +10,7 @@ header:
 
 To use symbolic constants, nested decisions, and sentinel loops.
 
-1.  Write a simple C++ program to calculate the surface area, volume, or
+1. Write a simple C++ program to calculate the surface area, volume, or
     cross-sectional are of a sphere. Use functions to calculate each
     figure. The formulas are as follows for the stupid sphere:
 
@@ -18,14 +18,14 @@ To use symbolic constants, nested decisions, and sentinel loops.
         Surface Area = 4.0*Pi*r^2
         Cross-Sectional Area = Pi*r^2
 
-2.  The input of this friggin program will be a damn letter. ‘V’ as in V
+2. The input of this friggin program will be a damn letter. ‘V’ as in V
     for Vendetta will indicate volume, ‘A’ will indicate surface area,
     ‘X’ as in drop that x before she cheats will indicate the
     cross-sectional area, and finally ‘Q’ will indicate you want to quit
     this little midget of a program.The second part of this dang long
     input will be a single float number representing the rocking radius.
     Woo.
-3.  Now to provide a detestable little example: A 12.8 means find the
+3. Now to provide a detestable little example: A 12.8 means find the
     surface area of a sphere with radius 12.8. Ergo, V 15.7 means find
     the volume of a sphere with radius 15.7. Get it, got it, goo.. and
     no one gives a shiz!

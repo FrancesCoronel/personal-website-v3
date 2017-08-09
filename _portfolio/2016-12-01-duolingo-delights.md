@@ -29,13 +29,13 @@ trying to learn and not just the grammar. This objective will be
 achieved by inserting mini culture-related tasks throughout the user’s
 learning process. These culture-related tasks will be called delights.
 
--   [View this project on
+- [View this project on
     Behance](https://www.behance.net/gallery/48455905/Duolingo-Delights-)
--   [View the slides on Speaker
+- [View the slides on Speaker
     Deck](https://speakerdeck.com/fvcproductions/duolingo-delights-revised-1)
--   [View the PRD on
+- [View the PRD on
     Scribd](https://www.scribd.com/document/333594398/Duolingo-Delights)
--   [View the files used on
+- [View the files used on
     GitHub](https://github.com/fvcproductions/duolingo-delights)
 
 \[gallery
@@ -55,7 +55,7 @@ https://speakerdeck.com/fvcproductions/duolingo-delights-revised-1
 Credits
 -------
 
--   [FVCproductions](https://fvcproductions.com) 🍓🍫
+- [FVCproductions](https://fvcproductions.com) 🍓🍫
 
 Donations
 ---------

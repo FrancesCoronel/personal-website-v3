@@ -39,9 +39,9 @@ orderby="rand"\]
 
 ### Tools
 
--   [Stamplay](https://stamplay.com)
--   [Slack](https://slack.com)
--   [HTML5 UP](https://html5up.net)
+- [Stamplay](https://stamplay.com)
+- [Slack](https://slack.com)
+- [HTML5 UP](https://html5up.net)
 
 ### Contributing
 

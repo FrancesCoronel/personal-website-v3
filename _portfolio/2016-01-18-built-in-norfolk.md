@@ -5,7 +5,7 @@ excerpt: Badges for when you're hacking out in Norfolk.
 ---
 
 Check out the badges at [`built-in-norfolk`](https://github.com/fvcproductions/built-in-norfolk)! {#check-out-the-badges-at--a-href--http:--github.com-fvcproductions-built-in-norfolk--target--_blank---code-built-in-norfolk--code---a--}
-------------------------------------------------------------------------------------------------
+
 
  
 
@@ -66,21 +66,21 @@ Hacked at DE
 
 ### Credits
 
--   [Sketch 3](https://www.sketchapp.com/) (for all design things)
--   [For the Badge](https://github.com/BraveUX/for-the-badge) (original
+- [Sketch 3](https://www.sketchapp.com/) (for all design things)
+- [For the Badge](https://github.com/BraveUX/for-the-badge) (original
     inspiration)
 
 ### Tools
 
--   [Sketch](https://www.sketchapp.com/)
+- [Sketch](https://www.sketchapp.com/)
 
 Links
 -----
 
 -   **GitHub Repo**
-    -   [`built-in-norfolk`](https://github.com/fvcproductions/built-in-norfolk)
+    - [`built-in-norfolk`](https://github.com/fvcproductions/built-in-norfolk)
 -   **Behance Project**
-    -   [Built in
+    - [Built in
         Norfolk](https://www.behance.net/gallery/33000931/Built-in-Norfolk)
 
 Contributing

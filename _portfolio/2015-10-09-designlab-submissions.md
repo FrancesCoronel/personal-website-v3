@@ -20,7 +20,7 @@ or on [my Designlab
 profile](https://trydesignlab.com/course/profile/fvcproductions/ "Designlab Profile").
 
 I also wrote about my Designlab experience [here](https://fvcproductions.com/2015/10/21/my-designlab-experience/ "Behance"). {#i-also-wrote-about-my-designlab-experience-here. style="text-align:center;"}
----------------------------------------------------------------------------------------------------------------------------
+---------------------------
 
 ------------------------------------------------------------------------
 

@@ -104,14 +104,14 @@ Day Four - Thursday {#dayfour-thursday}
 -   🍴 My learning team lunch today involved playing this board game that
     featured a lady with a big bust for the cover.
 
-![Avalon](https://cf.geekdo-images.com/images/pic1398895_md.jpg){.aligncenter}
+![Avalon](https://cf.geekdo-images.com/images/pic1398895_md.jpg)
 
 Avalon
 
 > See?
 
 ![Avalon Set
-Up](https://www.boardgamequest.com/wp-content/uploads/2013/07/Resistance-Avalon-Feature.jpg){.aligncenter}
+Up](https://www.boardgamequest.com/wp-content/uploads/2013/07/Resistance-Avalon-Feature.jpg)
 
 Avalon Set Up
 
@@ -151,7 +151,7 @@ Day Five - Friday {#dayfive-friday}
         location I was running around in was the museum itself, but
         hey - that museum is **exceptionally** large.
     -   I mean, could you guess the Latin name of this dino? ![Duck Bill
-        Dino](https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/exhibitions/permanent-exhibitions/fossil-halls/hall-of-ornithischian-dinosaurs2/duck-billed-dinosaur/149935-1-eng-US/duck-billed-dinosaur_dynamic_lead_slide.jpg){.aligncenter}
+        Dino](https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/exhibitions/permanent-exhibitions/fossil-halls/hall-of-ornithischian-dinosaurs2/duck-billed-dinosaur/149935-1-eng-US/duck-billed-dinosaur_dynamic_lead_slide.jpg)
     -   **Exactly.**
 -   After that whole warp back in time was over and done with, I had
     lunch with Kelsey and Jovia at this yummy vegetarian place. This is
@@ -186,23 +186,23 @@ height="56"}](https://fvcproductions.files.wordpress.com/2015/06/pride-octocat.p
 
 > So Far
 
--   [The
+- [The
     Search](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
--   [The
+- [The
     Application](https://fvcproductions.com/2014/12/23/week-20/ "The Application")
--   [The
+- [The
     Preparation](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
--   [The
+- [The
     Interview](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/ "The Interview")
--   [The
+- [The
     Decision](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/ "The Decision")
--   [Fullstack Foundations - Week
+- [Fullstack Foundations - Week
     1](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
--   [Fullstack Foundations - Weeks 2 -
+- [Fullstack Foundations - Weeks 2 -
     4](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
--   [Fullstack Academy - Week
+- [Fullstack Academy - Week
     1](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/ "Fullstack Academy - Week 1")
--   [Fullstack Academy - Week
+- [Fullstack Academy - Week
     2](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/ "Fullstack Academy - Week 2")
 
 ------------------------------------------------------------------------

@@ -15,27 +15,27 @@ gallery:
       url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/react-js-swag.jpg
 ---
 
-> Name
+## Name
 
-## <a title="React.js Conf" href="https://conf.reactjs.com/" target="_blank" rel="noopener">React.js Conf</a>
+<a title="React.js Conf" href="https://conf.reactjs.com/" target="_blank" rel="noopener">React.js Conf</a>
 
-> Organizer
+## Organizer
 
 Facebook
 
-> Location
+## Location
 
 Grand Hyatt Marriott - San Francisco, CA
 
-> Date
+## Date
 
 February 22nd to 23rd, 2016
 
-> Role
+## Role
 
 Diversity Scholarship Recipient
 
-> About
+## About
 
 As a diversity scholarship recipient, all expenses were taken care of.
 

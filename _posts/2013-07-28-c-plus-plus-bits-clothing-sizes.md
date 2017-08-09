@@ -10,15 +10,15 @@ header:
 
 To declare weight, height, hat size, jacket size, and waist size.
 
-1.  Write a C++ program to calculate a person’s hat size, jacket size,
+1. Write a C++ program to calculate a person’s hat size, jacket size,
     and waist size (in inches). Use functions to calculate each figure.
     The formulas are as follows: Hat Size = 2.9 times weight in pounds
     divided by height in inches
-2.  The input of each program will be the weight (hopefully the person
+2. The input of each program will be the weight (hopefully the person
     ain’t fat as hell either otherwise I’m guessing the program would
     literally terminate itself, no coding need), followed by the height
     in feet and inches.
-3.  For each input, calculate all three answers (hat size, jacket size,
+3. For each input, calculate all three answers (hat size, jacket size,
     and waist size). Use functions for each and then output the results
     with appropriate labels, as a thug would out-shank that priss with
     an appropriate OntarioMKIII Navy Knife (holla!). And yeah as always,

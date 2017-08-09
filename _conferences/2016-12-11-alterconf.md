@@ -17,27 +17,27 @@ gallery:
       url: https://i2.wp.com/fvcproductions.files.wordpress.com/2017/01/img_0162.jpg?w=746&h=560&crop&ssl=1&zoom=2
 ---
 
-> Name
+## Name
 
 # <a title="AlterConf NYC" href="https://alterconf.com" target="_blank" rel="noopener">AlterConf NYC</a>
 
-> Organizer
+## Organizer
 
 AlterConf
 
-> Location
+## Location
 
 Microsoft Headquarters - Times Square
 
-> Date
+## Date
 
 December 11th, 2016
 
-> Role
+## Role
 
 Freelance Blogger, Participant
 
-> About
+## About
 
 ![Intro](https://fvcproductions.files.wordpress.com/2017/01/alterconf.gif)
 

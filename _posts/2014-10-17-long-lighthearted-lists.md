@@ -25,27 +25,27 @@ Long Lighthearted Lists {#long-lighthearted-lists style="text-align:center;"}
 Index
 -----
 
--   [Languages I’ve Been Seriously Exposed To](#section-languages)
--   [Old Science Fair Projects](#section-oldscience)
--   [Cool Places I Can Live When I’m Older](#section-places)
--   [Random Materialistic Wish-List](#section-wishes)
--   [Coding Bootcamp Experiences](#section-bootcamps)
--   [Fun Tech-Related TV Shows](#section-techtv)
--   [Cool Conferences I Can Go To One Day](#section-conferences)
+- [Languages I’ve Been Seriously Exposed To](#section-languages)
+- [Old Science Fair Projects](#section-oldscience)
+- [Cool Places I Can Live When I’m Older](#section-places)
+- [Random Materialistic Wish-List](#section-wishes)
+- [Coding Bootcamp Experiences](#section-bootcamps)
+- [Fun Tech-Related TV Shows](#section-techtv)
+- [Cool Conferences I Can Go To One Day](#section-conferences)
 
 ------------------------------------------------------------------------
 
 ### Languages I’ve Been Seriously Exposed To
 
-![](https://www.clker.com/cliparts/5/9/c/2/1194984395619889880earth_globe_dan_gerhrads_01.svg.med.png){.aligncenter}
+![](https://www.clker.com/cliparts/5/9/c/2/1194984395619889880earth_globe_dan_gerhrads_01.svg.med.png)
 
 > These are listed in chronological order.
 
-1.  Spanish
+1. Spanish
     -   Soy Peruana.
-2.  English
+2. English
     -   Born and raised in the US, so there’s that.
-3.  French
+3. French
     -   I lived in France for about a year in 3rd grade.
 4.  Japanese
     -   Was enrolled in the Newport News Japanese school that ran every
@@ -64,7 +64,7 @@ Index
 
 ### Old Science Fair Projects
 
-![](https://shaullelementary.oursciencefair.com/doc.ashx?id=1491){.aligncenter}
+![](https://shaullelementary.oursciencefair.com/doc.ashx?id=1491)
 
 -   7th Grade - February 2007
     -   The Effect of Different Kinds of Music on the Growth of Plants
@@ -93,7 +93,7 @@ height="300"}](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
 
 ### Random Materialistic Wish-List
 
-![](https://s3.amazonaws.com/rapgenius/Genie-image.gif){.aligncenter}
+![](https://s3.amazonaws.com/rapgenius/Genie-image.gif)
 
 -   Kinect X or Wii (Got a Kinect with money from eBay selling!)
 -   Karaoke Machine
@@ -105,7 +105,7 @@ height="300"}](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
 
 ### Coding Bootcamp Experiences
 
-![](https://cdn.skilledup.com/wp-content/uploads/2013/08/coding-bootcamp.jpg){.aligncenter}
+![](https://cdn.skilledup.com/wp-content/uploads/2013/08/coding-bootcamp.jpg)
 
 -   May 2013 - I learned about coding bootcamps and what they were. The
     first bootcamps I heard about were App Academy and Dev Bootcamp. I
@@ -119,38 +119,38 @@ height="300"}](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
     time web development sessions for the summer, but was unable to
     (unfortunately) attend any of them because I ended up taking summer
     college classes instead. Here are the bootcamps:
-    -   [RefactorU](https://www.refactoru.com) - Boulder, Colorado
+    - [RefactorU](https://www.refactoru.com) - Boulder, Colorado
         -   Applied, interviewed, accepted. Had an interesting
             conversation about an array of topics related to AI and the
             technological singularity with
             [Sean](https://twitter.com/seandaken "Sean Daken - Twitter").
-    -   [Bitmaker Labs](https://bitmakerlabs.com) - Toronto, Canada
+    - [Bitmaker Labs](https://bitmakerlabs.com) - Toronto, Canada
         -   Applied, interviewed, accepted. The people there are SO
             nice - it's ridiculous. I did not feel nervous at all during
             the whole process. You can see more about my Bitmaker
             experience
             [here](https://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs").
-    -   [Code Fellows](https://www.codefellows.org/ "Code Fellows") -
+    - [Code Fellows](https://www.codefellows.org/ "Code Fellows") -
         Seattle, Washington
         -   I applied for the Front-End Design & Development class in
             Seattle but did not go through with the interview. They
             understood and were pretty nice about it.
-    -   [Dev Bootcamp](https://devbootcamp.com/ "Dev Bootcamp") - Chicago
+    - [Dev Bootcamp](https://devbootcamp.com/ "Dev Bootcamp") - Chicago
         -   I applied for their main program at their Chicago site.
             Again, I submitted the application but did not go through
             with the rest.
-    -   [HackerYou](https://hackeryou.com) - Toronto, Canada
+    - [HackerYou](https://hackeryou.com) - Toronto, Canada
         -   Applied, chatted with founder
             [Heather](https://twitter.com/heatherpayne "Heather Payne - Twitter"),
             never ended up completing the rest of admissions process,
             but it was still a great chat.
-    -   [Hackbright Academy](https://www.hackbrightacademy.com) - San
+    - [Hackbright Academy](https://www.hackbrightacademy.com) - San
         Francisco, CA
         -   Applied, chatted with co-founder
             [Christian](https://twitter.com/chriszf "Christian - Twitter")
             and one of the instructors, never ended up completing the
             rest of admissions process.
-    -   [RocketU](https://rocket-space.com/rocketu/ "RocketU") - San
+    - [RocketU](https://rocket-space.com/rocketu/ "RocketU") - San
         Francisco, CA
         -   Applied, chatted with one of the admission officers but told
             them early on I would not be completing the process. They
@@ -160,23 +160,23 @@ height="300"}](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
 
 ### Fun Tech-Related TV Shows
 
-![](https://fanart.tv/fanart/tv/277165/hdtvlogo/silicon-valley-534724dd97592.png){.aligncenter}
+![](https://fanart.tv/fanart/tv/277165/hdtvlogo/silicon-valley-534724dd97592.png)
 
--   [Silicon Valley](https://www.imdb.com/title/tt2575988/)
--   [The IT Crowd](https://www.imdb.com/title/tt0487831/)
--   [betas](https://www.imdb.com/title/tt3012184/)
+- [Silicon Valley](https://www.imdb.com/title/tt2575988/)
+- [The IT Crowd](https://www.imdb.com/title/tt0487831/)
+- [betas](https://www.imdb.com/title/tt3012184/)
 
 ------------------------------------------------------------------------
 
 ### Cool Conferences I Can Go To Eventually
 
-![](https://www.icwsm.org/2012/images/supported-by/aaai.png){.aligncenter}
+![](https://www.icwsm.org/2012/images/supported-by/aaai.png)
 
--   [National Convention for American
+- [National Convention for American
     Atheists](https://atheists.org/convention2015)
--   [Conference of the North American Vegetarian
+- [Conference of the North American Vegetarian
     Society](https://www.vegetariansummerfest.org/index.htm)
--   [Conference of the Association for the Advancement of Artificial
+- [Conference of the Association for the Advancement of Artificial
     Intelligence
     (AAAI)](https://www.aaai.org/Conferences/AAAI/aaai15.php) - I ended
     up doing just that! You can find more about that experience

@@ -39,16 +39,16 @@ three smaller pieces.
 
 ------------------------------------------------------------------------
 
-1.  [Graduating from Undergrad](#section-graduating)
-2.  [A Mentoring Venture](#section-mentoring)
-3.  [Future Plans](#section-future)
+1. [Graduating from Undergrad](#section-graduating)
+2. [A Mentoring Venture](#section-mentoring)
+3. [Future Plans](#section-future)
 
 ------------------------------------------------------------------------
 
 1. Graduating from Undergrad {#section-graduating}
 ----------------------------
 
-![](https://ih0.redbubble.net/image.120345349.1637/sticker,375x360.png){.aligncenter}
+![](https://ih0.redbubble.net/image.120345349.1637/sticker,375x360.png)
 
 ### I’m finished with school homies! Yeah - TINY RICK!
 
@@ -156,7 +156,7 @@ query="start=false&loop=false&delayms=3000" width="960" height="569" /\]
 3. Future Plans {#section-future}
 ===============
 
-![](https://image.slidesharecdn.com/accentureliquidapplicationstudioslideshare4-3-march4v2-160304154715/95/accenture-liquid-application-studio-1-638.jpg?cb=1461012696){.aligncenter}
+![](https://image.slidesharecdn.com/accentureliquidapplicationstudioslideshare4-3-march4v2-160304154715/95/accenture-liquid-application-studio-1-638.jpg?cb=1461012696)
 
 ### **Short-term plans** - attend [RevolutionConf](https://revolutionconf.com) and work on developing programming skills, side projects, and my mentoring sessions throughout the rest of this month
 
@@ -178,7 +178,7 @@ CS](https://tech.cornell.edu/programs/masters-programs/meng-in-computer-science)
 ![](https://courses.cit.cornell.edu/cs5304/ctech.png){.aligncenter
 height="300"}
 
-![](https://b-i.forbesimg.com/peterhigh/files/2014/01/Cornell-NYC-Tech.jpg){.aligncenter}
+![](https://b-i.forbesimg.com/peterhigh/files/2014/01/Cornell-NYC-Tech.jpg)
 
 The most unexpected thing was getting accepted to all 9 schools I
 applied to. Having gone through the experience only 3 years ago of
@@ -188,24 +188,24 @@ undergrad, this was a pretty interesting `180` for me.
 These were the other grad schools I got accepted into but declined
 admission to for obvious reasons:
 
--   [Brown - Program in Innovation Management &
+- [Brown - Program in Innovation Management &
     Entrepreneurship](https://www.brown.edu/academics/engineering/prime/)
--   [Northwestern - MS Engineering Design
+- [Northwestern - MS Engineering Design
     Innovation](https://segal.northwestern.edu/programs/graduate/engineering-design-innovation/)
--   [University of Illinois at Urbana-Champaign - Professional MS
+- [University of Illinois at Urbana-Champaign - Professional MS
     CS](https://cs.illinois.edu/current-students/graduate-students/professional-masters-mcs)
--   [University of Rochester - MS Technical Entrepreneurship and
+- [University of Rochester - MS Technical Entrepreneurship and
     Management](https://www.rochester.edu/team/) - \$28,792 (50% Tuition)
     Scholarship
--   [Northeastern - MS Computer
+- [Northeastern - MS Computer
     Science](https://www.northeastern.edu/graduate/programs/computer-science/#masters)
--   [Rochester Institute of Technology - MS Human-Computer
+- [Rochester Institute of Technology - MS Human-Computer
     Interaction](https://www.rit.edu/programs/human-computer-interaction-ms) -
     \$8,360 Scholarship
--   [NYU - Master’s in Management of
+- [NYU - Master’s in Management of
     Technology](https://engineering.nyu.edu/academics/programs/management-technology-ms) -
     \$8K Scholarship
--   [Duke - MEMP - Masters in Engineering Management
+- [Duke - MEMP - Masters in Engineering Management
     Program](https://memp.pratt.duke.edu/) - \$10K Scholarship
 
 ### HOWEVER.
@@ -234,17 +234,17 @@ are still ones that both of my parents are slowly warming up to given
 that they’re both hard-core academics and they simply want the best for
 me, like any other considerate parents.
 
-1.  Cornell Tech’s new campus doesn’t open until the summer of 2017. By
+1. Cornell Tech’s new campus doesn’t open until the summer of 2017. By
     then, I would have already graduated. Of course, having the new
     campus doesn’t mean the curriculum will change or anything but it’d
     still be nicer to experience the new campus.
-2.  The average age for a graduate student for most of these programs is
+2. The average age for a graduate student for most of these programs is
     around 25, if not older. I’m 20 right now. Product Academy, however,
     caters to those still in college or those who just graduated high
     school (18–25). In other words, it would make more sense to finish
     Make School in 2 years because by then I’ll be 22, which is a
     slightly more normal age for someone to get a Master’s.
-3.  I’ve wanted the chance to explore the Bay Area for a long-term
+3. I’ve wanted the chance to explore the Bay Area for a long-term
     period and Make School provides that opportunity perfectly. I also
     feel like I could get more “bang for my buck”, per se, from Product
     Academy.
@@ -252,17 +252,12 @@ me, like any other considerate parents.
 Only time will tell what I’ll end up doing but either way, it’s going to
 be a whole lot of fun.
 
-So here’s to **change**. {#so-heres-to-change. .aligncenter style="text-align:center;"}
-------------------------
+So here’s to **change**.
 
-### May it be as bittersweet as always. {#may-it-be-as-bittersweet-as-always. .aligncenter style="text-align:center;"}
+### May it be as bittersweet as always.
 
-![](https://media.giphy.com/media/QMkPpxPDYY0fu/giphy.gif){.aligncenter}
+![](https://media.giphy.com/media/QMkPpxPDYY0fu/giphy.gif)
 
-------------------------------------------------------------------------
+![](https://screenrant.com/wp-content/uploads/TJ-Miller-Zach-Woods-Thomas-Middleditch-Kumail-Nanjiani-and-Martin-Starr-in-Silicon-Valley-Season-3.jpg)
 
-![](https://screenrant.com/wp-content/uploads/TJ-Miller-Zach-Woods-Thomas-Middleditch-Kumail-Nanjiani-and-Martin-Starr-in-Silicon-Valley-Season-3.jpg){.aligncenter}
-
-*p.s.* Also, [Silicon Valley](https://www.hbo.com/silicon-valley) is back
-on baby! I’m really looking forward to watching this crap again.
-:mrgreen:
+*p.s.* Also, [Silicon Valley](https://www.hbo.com/silicon-valley) is back on baby! I’m really looking forward to watching this crap again. 😁

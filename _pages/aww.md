@@ -14,4 +14,4 @@ But should you change your mind - here's the piggy again! 🐷 {#but-should-you-
 -----------------------------------------------------------
 
 [![Donate
-Button](https://fvcproductions.files.wordpress.com/2015/09/donate-pig.gif){.aligncenter}](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQN9359FDQNPE)
+Button](https://fvcproductions.files.wordpress.com/2015/09/donate-pig.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QQN9359FDQNPE)

@@ -12,6 +12,6 @@ I don’t know if you remember me but we Skyped a while ago. You were nice enoug
 
 So thank you, you were extremely helpful.
 
-**Update**
+## Update
 
 It's Angel! First day of Senior Phase at Fullstack. It's been crazy as hell, but I've learned so much in the past six weeks. Thanks again for all the help!

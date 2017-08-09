@@ -51,7 +51,7 @@ Day Three - Wednesday
 -   I took a picture of my workplace today.
 
 [![Workstation - Fullstack Academy - Week
-1](https://fvcproductions.files.wordpress.com/2015/06/img_0083.jpg?w=660){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/06/img_0083.jpg)
+1](https://fvcproductions.files.wordpress.com/2015/06/img_0083.jpg?w=660)](https://fvcproductions.files.wordpress.com/2015/06/img_0083.jpg)
 
 -   Fun Jeopardy game today.
     -   My team is called **Bubbles** after bubble sort.
@@ -104,7 +104,7 @@ Day Five - Friday
 > :arrow: **Overall Conclusion?**
 >
 > > Fullstack Academy is a full out marathon and I’m more of a short
-> > distance runner. It’ll get better with time though! :mrgreen:
+> > distance runner. It’ll get better with time though! 😁
 > >
 > > Also, if someone asked me to express how I felt about my first week
 > > using a song…
@@ -117,21 +117,21 @@ Just sayin’. :roll:
 
 > So Far
 
--   [The
+- [The
     Search](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
--   [The
+- [The
     Application](https://fvcproductions.com/2014/12/23/week-20/ "The Application")
--   [The
+- [The
     Preparation](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
--   [The
+- [The
     Interview](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/ "The Interview")
--   [The
+- [The
     Decision](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/ "The Decision")
--   [Fullstack Foundations - Week
+- [Fullstack Foundations - Week
     1](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
--   [Fullstack Foundations - Weeks 2 -
+- [Fullstack Foundations - Weeks 2 -
     4](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
--   [Fullstack Academy - Week
+- [Fullstack Academy - Week
     1](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/)
 
 > *Tips or tricks?* :idea:

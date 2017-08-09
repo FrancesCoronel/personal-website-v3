@@ -25,27 +25,27 @@ gallery:
       url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0886.jpg?w=468&h=624&crop&ssl=1&zoom=2
 ---
 
-> Name
+## Name
 
-## <a title="Techweek NYC" href="https://techweek.com" target="_blank" rel="noopener">Techweek NYC</a>
+<a title="Techweek NYC" href="https://techweek.com" target="_blank" rel="noopener">Techweek NYC</a>
 
-> Organizer
+## Organizer
 
 Techweek
 
-> Location
+## Location
 
 Metropolitan Pavillion - New York City, New York
 
-> Date
+## Date
 
 October 13, 2016
 
-> Role
+## Role
 
 Volunteer
 
-> About
+## About
 
 Volunteered for Techweek at the Met Pavillion during their Speaker Summit in exchange for an Executive pass.
 

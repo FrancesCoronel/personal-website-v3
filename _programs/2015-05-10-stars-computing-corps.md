@@ -10,7 +10,7 @@ header:
 #### January 2014 to May 2015
 
 [STARS (Student & Technology in Academia, Research, & Service) Computing Corps](https://starscomputingcorps.org/)
-----------------------------------------------------------------------------------------------------------------
+----------------
 
 ### STARS Computing Corps is a community of practice for student-led regional engagement as a means to broaden participation in computing.
 

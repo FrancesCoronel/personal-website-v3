@@ -15,34 +15,28 @@ gallery:
 
 > Employer
 
-## <a title="80|20 Software Consulting" href="https://madeby8020.com" target="_blank" rel="noopener">80|20 Software Consulting</a>
+<a title="80|20 Software Consulting" href="https://madeby8020.com" target="_blank" rel="noopener">80|20 Software Consulting</a>
 
-> Location
+## Location
 
 Norfolk, VA
 
-> Date
+## Date
 
 November 2015 to February 5, 2016
 
-> About
+## About
 
 <p>80|20 is a software agency that creates web and mobile applications and provides software consulting solutions for small and mid-sized businesses.</p>
 
-[<i class='fa fa-twitter'></i> @madeby8020](https://twitter.com/@madeby8020)
-{: .btn .btn--twitter}
-
-[<i class='fa fa-linkedin'></i> LinkedIn](https://linkedin.com/company/8020-consulting)
-{: .btn .btn--linkedin}
-
-> Role
+## Role
 
 ### Frontend Developer (Part-Time)
 
 - prototyped mobile/web user interfaces for client projects
 - helped develop/design in-house website creation platform using modern web technologies such as HTML/CSS/JS
 - consulted clients on how to improve their Wordpress based websites
-- gained skills in fullstack web development by working with large scale and heavily modularized web projects
+- gained skills in fullstack web development by working with large scale web projects
 
 {% include gallery %}
 

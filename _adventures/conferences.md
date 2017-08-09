@@ -24,7 +24,8 @@ tags:
 
 ### Upcoming
 
-- Strange Loop (September 28-30th)
+- AffectConf (September 15th-16th)
+- Strange Loop (September 28th-30th)
 
 ### Past
 

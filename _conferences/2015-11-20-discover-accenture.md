@@ -11,27 +11,27 @@ gallery:
       url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0108.jpg
 ---
 
-> Name
+## Name
 
-## <a title="Accenture" href="https://www.accenture.com/us-en" target="_blank" rel="noopener">Discover Accenture</a>
+<a title="Accenture" href="https://www.accenture.com/us-en" target="_blank" rel="noopener">Discover Accenture</a>
 
-> Organizer
+## Organizer
 
 Accenture
 
-> Location
+## Location
 
 San Francisco Office - San Francisco, California
 
-> Date
+## Date
 
 November 20th, 2015
 
-> Role
+## Role
 
 Potential Full-Time Hire Candidate
 
-> About
+## About
 
 I was invited to explore potential careers with Accenture in San Francisco, all expenses paid for.
 

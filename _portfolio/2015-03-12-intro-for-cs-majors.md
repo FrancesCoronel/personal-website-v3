@@ -25,7 +25,7 @@ height="1002"}](https://bit.ly/hu-book)\
 <div class="column">
 
 I wrote an introductory book geared towards Computer Science majors at Hampton University which currently has over 5K pageviews using the GitBook platform. {#i-wrote-an-introductory-book-geared-towards-computer-science-majors-at-hampton-university-which-currently-has-over-5k-pageviews-using-the-gitbook-platform. style="text-align:center;"}
------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------
 
 </div>
 

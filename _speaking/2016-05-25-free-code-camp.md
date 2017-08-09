@@ -70,6 +70,6 @@ https://speakerdeck.com/fvcproductions/so-you-want-to-be-a-wizard-free-code-camp
 
 ### Facebook Posts
 
--   [Announcement](https://www.facebook.com/groups/free.code.camp.norfolk/permalink/812271315539607/)
--   [Event](https://www.facebook.com/groups/free.code.camp.norfolk/permalink/806430109457061/)
--   [Aftermath](https://www.facebook.com/groups/free.code.camp.norfolk/permalink/812716962161709/)
+- [Announcement](https://www.facebook.com/groups/free.code.camp.norfolk/permalink/812271315539607/)
+- [Event](https://www.facebook.com/groups/free.code.camp.norfolk/permalink/806430109457061/)
+- [Aftermath](https://www.facebook.com/groups/free.code.camp.norfolk/permalink/812716962161709/)

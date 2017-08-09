@@ -23,7 +23,7 @@ Logo](https://fvcproductions.files.wordpress.com/2015/11/conferencelogos-002-cop
 ===================
 
 **[Operation Smile @ Maury High](https://biogirl757.weebly.com/operation-smile-club.html "ISLC")**
--------------------------------------------------------------------------------------------------
+-
 
 ### ***Member, Vice President, Co-President***
 

@@ -35,46 +35,37 @@ tags:
     - typeform
 ---
 
-![](https://m1.behance.net/rendition/modules/124031971/disp/fa0c76d4bd39b9bc82c8cf32b90cd846.png){.aligncenter}
+![](https://m1.behance.net/rendition/modules/124031971/disp/fa0c76d4bd39b9bc82c8cf32b90cd846.png)
 
-My Experience with [MakerSquare](https://www.makersquare.com "MakerSquare") {#my-experience-with-makersquare style="text-align:center;"}
-==========================================================================
-
-> This is where I’ll go through how my admissions process was with
-> MakerSquare.
+> This is where I’ll go through how my admissions process was with MakerSquare.
 >
-> Kudos to [Randy
-> Tolentino](https://rantolentino.wordpress.com/2014/07/14/many-thanks-to-makersquare/ "Randy Tolentino")
-> for the featured image. His images have such a nice resolution that it
-> works great with this post. Thanks Randy!
+> Kudos to [Randy Tolentino](https://rantolentino.wordpress.com/2014/07/14/many-thanks-to-makersquare/ "Randy Tolentino") for the featured image. His images have such a nice resolution that it works great with this post. Thanks Randy!
 
-------------------------------------------------------------------------
+## Part 1: The Application 📝
 
-### Part 1: The Application 📝
-
--   You fill out the virtual application for MakerSquare
+- You fill out the virtual application for MakerSquare
     [here](https://makersquare.typeform.com/to/MO9OFv "App MakerSquare").
     They use a special application called
     [Typeform](https://www.typeform.com/ "Typeform") for their admissions
     process, so it’s pretty snazzy.
--   Once you fill this app out, they’ll give you the link for the 1st
+- Once you fill this app out, they’ll give you the link for the 1st
     admissions challenge, which was very simple. I think this challenge
     is just to weed out the people who didn’t even try to learn how to
     program because it’s supa easy.
--   Once I submitted that 1st challenge, I was asked to schedule my
+- Once I submitted that 1st challenge, I was asked to schedule my
     first interview with Shaan Shah, one of the co-founders. I’ll be
     sharing the Q&A session I had with Shaan and that’s basically what
     the 1st interview was about - a get to know you and answering any
     questions I had about the bootcamp.
--   **It doesn’t stop there!** 😁
--   After the 1st interview, I was given a 2nd admissions challenge.
+- **It doesn’t stop there!** 😁
+- After the 1st interview, I was given a 2nd admissions challenge.
     Compared to the 1st one, this one was pretty hard. You had to learn
     enough jQuery to complete it and I didn’t know coming in I would
     have to learn another technology. It’s all good, though. After a few
     days or more of struggling, I cracked it and finished the 2nd
     challenge. I wasn’t able to complete one aspect of it, but I
     finished 95% of it.
--   After completing the 2nd challenge, I was scheduled for my 2nd and
+- After completing the 2nd challenge, I was scheduled for my 2nd and
     final interview with a recent grad of MakerSquare, [Daniel O.]{}.
     This is where my technical abilities were challenged a bit. I’m not
     going to spoil anything but on a scale of 1–10, 10 being super hard,
@@ -88,7 +79,7 @@ My Experience with [MakerSquare](https://www.makersquare.com "MakerSquare") {#my
     did was genuine. It reminded me of Fullstack’s approach in the
     technical challenge as well where they used their own software to
     see how I programmed in real-time.
--   Following this technical session, I was given another email that
+- Following this technical session, I was given another email that
     asked what cohort I was applying to for sure and they reminded me
     that they would giving me an answer whether or not I was accepted
     soon since that the technical session is the final step.
@@ -104,10 +95,7 @@ My Experience with [MakerSquare](https://www.makersquare.com "MakerSquare") {#my
 
 ------------------------------------------------------------------------
 
-Part 2: The Interview 📞
------------------------
-
-### with [Shaan](https://www.linkedin.com/in/shaanshah "Shaan Shah")
+## Part 2: The Interview 📞 with [Shaan](https://www.linkedin.com/in/shaanshah "Shaan Shah")
 
 The first interview focuses solely on getting to know each other and my
 goals for MakerSquare, etc.
@@ -122,7 +110,7 @@ questions were answered by Shaan.
 
 ------------------------------------------------------------------------
 
-1.  **Yield rate - out of the applicants you accept, what percentage of
+1. **Yield rate - out of the applicants you accept, what percentage of
     that end up attending?** 85–90%. There are roughly 20–30 applicants
     for every student ultimately selected. And there are 200 or so
     applicants for a class of about 18 people. We try to keep our
@@ -131,14 +119,14 @@ questions were answered by Shaan.
     all, an increasing number of students are applying, but the
     admissions process is becoming more competitive simultaneously as
     well. `Nifty.`
-2.  **How many drop out after simply experiencing the pre-work? How much
+2. **How many drop out after simply experiencing the pre-work? How much
     time should I dedicate to the pre-work?** Not many people drop out
     at all. Although the pre-work is intended to weed out the ones who
     are not prepared. `Indeed.` It’s also to make sure that every
     student comes in comfortably into the program and is ready to tackle
     harder problems. Students typically are supposed to work about a
     couple hours a day for 2 months on the pre-work.
-3.  **How many college students have you had in the past?** At least a
+3. **How many college students have you had in the past?** At least a
     few, some in Austin. There were 3, I believe, that were currently in
     college or recent graduates. We had one in the last summer cohort
     for San Francisco as well. One of the students who ended up going
@@ -210,24 +198,24 @@ Here’s part of the email they sent me:
 
 ------------------------------------------------------------------------
 
-\[tweet https://twitter.com/CourseReport/status/555387348620689408\]
+\https://twitter.com/CourseReport/status/555387348620689408\]
 
 ------------------------------------------------------------------------
 
 I also have shared my **interview experience** with bootcamps such as
 
--   [Bitmaker
+- [Bitmaker
     Labs](https://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
--   [Coding
+- [Coding
     Dojo](https://fvcproductions.com/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
--   [Coding
+- [Coding
     House](https://fvcproductions.com/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
--   [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
--   [Dev
+- [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+- [Dev
     League](https://fvcproductions.com/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
--   [Fullstack
+- [Fullstack
     Academy](https://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
--   [Hack
+- [Hack
     Reactor](https://fvcproductions.com/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
 
 ------------------------------------------------------------------------

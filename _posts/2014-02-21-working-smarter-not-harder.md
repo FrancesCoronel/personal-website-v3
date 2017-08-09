@@ -48,14 +48,14 @@ You know, something along those lines...
 
 ***So anyhow, the book starts off with study basics…***
 
-1.  **Start off the day using 5 minutes to manage your time**
+1. **Start off the day using 5 minutes to manage your time**
     -   Jot down to-dos and deadlines on a physical/electronic list
         whenever they arise (I use Evernote)
     -   Transfer to-dos and deadlines to a calendar
         (physical/electronic) in morning (I use iCal)
     -   Plan day with realistic time frames
     -   Move what you don’t have time for to a different date
-2.  **Defeat Procrastination**
+2. **Defeat Procrastination**
     -   Keep note of progress with work through small notebook/task list
         (:idea: Evernote’s work great for this)
     -   Record if tasks were successfully accomplished and if not, note
@@ -65,7 +65,7 @@ You know, something along those lines...
         starting energy
     -   Build work routines to make steady progress, not all out bursts
     -   Choose your hard working days to minimize stress impact
-3.  **The When, Where, How**
+3. **The When, Where, How**
     -   Try to fit in as many mini tasks as possible between classes
     -   Study in isolation without distraction
     -   Take a small break every hour
@@ -76,7 +76,7 @@ You know, something along those lines...
 ***Then the book looks at different ways to tackle weekly or daily
 quizzes and exams…***
 
-1.  **Take Smart Notes**
+1. **Take Smart Notes**
     -   Always go to class and try to take the best notes possible
     -   Quality over Quantity
     -   For nontechnical courses (humanities) focus on capturing big
@@ -84,7 +84,7 @@ quizzes and exams…***
         format
     -   For technical courses (STEM) focus on recording as many sample
         problems and answers as possible
-2.  **Demote Assignments**
+2. **Demote Assignments**
     -   Work a little bit each day on your assignments
     -   Avoid suffering from day-before syndrome! It’s dangerous.
     -   Read only the favored reading sources on the syllabus in more
@@ -97,7 +97,7 @@ quizzes and exams…***
         -   readings that only provide context (speech transcripts,
             press clippings)
     -   Take reading notes in the question/evidence/conclusion format
-3.  **Utilize your resources**
+3. **Utilize your resources**
     -   Figure out exactly what the test will cover (either through the
         teacher, syllabus, etc.)
     -   For nontechnical courses, make sure to cluster your notes in an
@@ -133,12 +133,12 @@ problems…*baddabing baddaboom*
 ***Finally the book focused on how to effectively write essays and
 papers…***
 
-1.  **Target a Titillating Topic**
+1. **Target a Titillating Topic**
     -   Start looking for an interesting topic early
-2.  **Conduct a Thesis-Hunting Expedition**
+2. **Conduct a Thesis-Hunting Expedition**
     -   Start with general sources and then follow references to find
         more targeted sources where good thesis ideas often hide
-3.  **Seek a Second Opinion**
+3. **Seek a Second Opinion**
     -   A thesis is not a thesis until the professor has approved it
 4.  **Research like a Machine**
     -   Find sources
@@ -188,7 +188,7 @@ and friends. **
 
 You just have to be a little bit clever.
 
-**Work hard, play hard.** :mrgreen:
+**Work hard, play hard.** 😁
 
 Credits for the study strategies go to author of the book, **Mr.
 Newport**.

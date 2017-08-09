@@ -34,18 +34,18 @@ Written and generated with **[Byword](https://bywordapp.com)**
 Index {#section-index}
 -----
 
--   [Cal Poly](#section-calpoly)
--   [Carnegie Mellon University](#section-cmu)
--   [Stanford](#section-stanford)
--   [Stony Brook University](#section-stonybrook)
--   [UCLA](#section-ucla)
--   [University of Colorado Boulder](#section-colorado)
--   [University of Michigan](#section-umich)
--   [University of Utah](#section-utah)
+- [Cal Poly](#section-calpoly)
+- [Carnegie Mellon University](#section-cmu)
+- [Stanford](#section-stanford)
+- [Stony Brook University](#section-stonybrook)
+- [UCLA](#section-ucla)
+- [University of Colorado Boulder](#section-colorado)
+- [University of Michigan](#section-umich)
+- [University of Utah](#section-utah)
 
 ------------------------------------------------------------------------
 
-![](https://my.calpoly.edu/cas/media/skins/sage/images/CP_Logo_Transparent.png){.aligncenter}
+![](https://my.calpoly.edu/cas/media/skins/sage/images/CP_Logo_Transparent.png)
 
 ### [Cal Poly](https://www.calpoly.edu) {#section-calpoly}
 
@@ -81,7 +81,7 @@ Index {#section-index}
     -   CSU Mentor Application
 -   **Curriculum**
 
-![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-22-05-pm.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-22-05-pm.png)
 
 ------------------------------------------------------------------------
 
@@ -136,7 +136,7 @@ height="509"} Year 2\[/caption\]
 
 ------------------------------------------------------------------------
 
-![](https://www.themarysue.com/wp-content/uploads/2011/08/Stanford_logo-1.png#geekosystem){.aligncenter}
+![](https://www.themarysue.com/wp-content/uploads/2011/08/Stanford_logo-1.png#geekosystem)
 
 ### [Stanford University](https://stanford.edu) {#section-stanford}
 
@@ -174,11 +174,11 @@ height="509"} Year 2\[/caption\]
         each program separately.
 -   **Curriculum**
 
-![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-10-04-37-pm.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-10-04-37-pm.png)
 
 ------------------------------------------------------------------------
 
-![](https://www.msinus.com/image.php?groupid=27&dateline=1324003838){.aligncenter}
+![](https://www.msinus.com/image.php?groupid=27&dateline=1324003838)
 
 ### [Stony Brook University](https://www.stonybrook.edu) {#section-stonybrook}
 
@@ -234,7 +234,7 @@ height="509"} Year 2\[/caption\]
 
 ------------------------------------------------------------------------
 
-![ucla](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/UCLA_Logo.svg/200px-UCLA_Logo.svg.png){.aligncenter}
+![ucla](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/UCLA_Logo.svg/200px-UCLA_Logo.svg.png)
 
 ### [UCLA - University of California Los Angeles](https://ucla.edu) {#section-ucla}
 
@@ -279,11 +279,11 @@ height="509"} Year 2\[/caption\]
         guaranteed admission to the other program.
 -   **Curriculum**
 
-![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-37-44-pm.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-37-44-pm.png)
 
 ------------------------------------------------------------------------
 
-![](https://www.roshan-institute.org/clientimages/39783/ucboulder.png){.aligncenter}
+![](https://www.roshan-institute.org/clientimages/39783/ucboulder.png)
 
 ### [University of Colorado Boulder](https://www.colorado.edu) {#section-colorado}
 
@@ -317,11 +317,11 @@ height="509"} Year 2\[/caption\]
         each program separately.
 -   **Curriculum**
 
-![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-36-40-pm.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-36-40-pm.png)
 
 ------------------------------------------------------------------------
 
-![](https://www-personal.umich.edu/~tamas/TIGimages/wordmark.gif){.aligncenter}
+![](https://www-personal.umich.edu/~tamas/TIGimages/wordmark.gif)
 
 ### [University of Michigan](https://umich.edu) {#section-umich}
 
@@ -352,11 +352,11 @@ height="509"} Year 2\[/caption\]
         each program separately.
 -   **Curriculum**
 
-![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-10-07-17-pm.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-10-07-17-pm.png)
 
 ------------------------------------------------------------------------
 
-![](https://2012.slc.wordcamp.org/files/2012/07/university-of-utah-wordcamp-sponsor.png){.aligncenter}
+![](https://2012.slc.wordcamp.org/files/2012/07/university-of-utah-wordcamp-sponsor.png)
 
 ### [University of Utah](https://utah.edu) {#section-utah}
 
@@ -420,7 +420,7 @@ height="509"} Year 2\[/caption\]
             average GMAT score of 600
 -   **Curriculum**
 
-![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-8-17-40-pm.png){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-8-17-40-pm.png)
 
 ------------------------------------------------------------------------
 

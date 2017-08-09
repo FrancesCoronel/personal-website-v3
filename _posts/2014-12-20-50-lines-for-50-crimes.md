@@ -26,9 +26,9 @@ tags:
 
 ------------------------------------------------------------------------
 
-1.  I know, I know, this is your natural reaction.
-2.  Maybe to help calm your nerves, we can go fishing.
-3.  And then you can go hiking in the forest.
+1. I know, I know, this is your natural reaction.
+2. Maybe to help calm your nerves, we can go fishing.
+3. And then you can go hiking in the forest.
 4.  While I dance to the tune of life's bittersweet symphony.
 5.  So you wonder to yourself: should I go chasing or kiting?
 6.  You decide to avoid either, and instead decide to try out surfing.

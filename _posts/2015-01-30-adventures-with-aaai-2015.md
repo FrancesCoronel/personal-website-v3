@@ -55,13 +55,13 @@ tags:
 Day 1 - Sunday, January 25 - ARRIVAL {#day-1---sunday-january-25---arrival style="text-align:center;"}
 ------------------------------------
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
 
 Much jet lag. So ditzy. I made my seat 37A for both flights to make
 things easy. No problems anytime along the trip so it’s just passing
 through the motions.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0075.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0075.jpg)
 
 Using [Super Shuttle](https://www.supershuttle.com/) to go to the hotel,
 which is cheaper than a standard taxi and also feels safer and less
@@ -73,7 +73,7 @@ you could automatically check in yourself. This was an AI conference
 where people praise automation. A fellow attendee made light of the
 situation. I giggled.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0080.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0080.jpg)
 
 After checking in and receiving my conference badge along with some AAAI
 swag, I went to my room and napped. Later, I indulged myself and ordered
@@ -81,7 +81,7 @@ room service which included a salad, tortilla chips, and a chocolate
 caramel tart. They delivered it to the wrong room, so I got my food for
 free. **First win.**
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0081.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0081.jpg)
 
 After many failed attempts to connect to the Internet, I called the
 front desk and asked them to help me out. They incorrectly redirected me
@@ -103,7 +103,7 @@ Time for sleep. **Third win.**
 Day 2 - Monday, January 26 {#day-2---monday-january-26 style="text-align:center;"}
 --------------------------
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0116.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0116.jpg)
 
 Free breakfast at the Southwest Bistro Note to self: get more pineapple
 next time
@@ -116,9 +116,9 @@ through video footage, but I think I preferred the soccer presentation
 more just because the speaker went a little faster and it easier to
 grasp every concept.
 
-![](https://fvcproductions.files.wordpress.com/2015/02/img_0085.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/02/img_0085.jpg)
 
-![](https://fvcproductions.files.wordpress.com/2015/02/img_0086.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/02/img_0086.jpg)
 
 Went on to another tutorial called
 `Artificial Intelligence and Technological Unemployment`.
@@ -151,22 +151,22 @@ and basically concluded that for 2 candidates, the best voting method
 would always be plurality (so majority wins) but with more than 2
 candidates, there just isn’t any best method at all and boohoo.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0083.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0083.jpg)
 
 I also briefly visited the RoboCup soccer exhibition but there was not a
 game going on, so I left.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0090.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0090.jpg)
 
 Finally, there was the fancy reception at the [Gates-Dell
 Complex](https://www.utexas.edu/maps/main/buildings/gdc.html) over at UT
 Austin (so many orange shirts!).
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0094.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0094.jpg)
 The complex basically houses the entire CS department and is definitely
 a very modern, clean, and generally tech savvy arena. I explored on my
 own and later took a tour.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0106.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0106.jpg)
 
 I almost fall asleep on the shuttle back to the hotel.
 
@@ -178,7 +178,7 @@ Day 3 - Tuesday, January 27 {#day-3---tuesday-january-27 style="text-align:cente
 More free breakfast and this time with more pineapples. Breakfast seems
 to taste sweeter when you’re saving \$17.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0115.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0115.jpg)
 
 The official welcome and opening remarks are today. The presentation got
 a little staticky.
@@ -210,7 +210,7 @@ quite a while. To be fair, most of the material was a bit over my head
 being a newbie to all this but to be fair, the presenters weren’t aiming
 to appeal to a broader audience.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0121.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0121.jpg)
 
 For the lunch break, I visit the
 [MakerSquare](https://www.makersquare.com/) location in Austin, which is
@@ -223,13 +223,13 @@ Academy](https://www.fullstackacademy.com/) for the summer or if I should
 just forget about bootcamps altogether and focus on an internship
 instead. It’ll be a very difficult decision, regardless.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0125.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0125.jpg)
 
 I attend the Shakey celebration for a short while and was amused and
 excited by how far we’ve gone since [this
 guy](https://en.wikipedia.org/wiki/Shakey_the_robot).
 
-![](https://www.frc.ri.cmu.edu/~hpm/project.archive/robot.papers/2000/revo.slides/1970b.jpg){.aligncenter}
+![](https://www.frc.ri.cmu.edu/~hpm/project.archive/robot.papers/2000/revo.slides/1970b.jpg)
 
 Poster and Demos session is the last event for the next 3 nights. It’s
 where researchers showcase their work or demo their project. It’s also
@@ -245,7 +245,7 @@ Day 4 - Wednesday, January 27 {#day-4---wednesday-january-27 style="text-align:c
 Wednesday was probably my favorite day of the conference. This was
 probably because I was acting as a volunteer throughout the evening.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0127.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0127.jpg)
 
 Early in the morning were the *What’s Hot Talks* which basically
 introduced innovative breakthroughs in a certain field within A.I. This
@@ -298,7 +298,7 @@ Following the community meeting, there was the Poster and Demos session
 where I followed the same routine as yesterday: walk around and eat the
 food.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0134.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0134.jpg)
 
 And for the final event of the evening where I would again be
 volunteering: **Games Night**. Here I also had to help pass out tickets.
@@ -321,12 +321,12 @@ with a backpack full of swag from the conference. Then there was the
 raffle. One of the organizers of the event even let me have a free IBM
 Watson t-shirt which looks a little something like this:
 
-![](https://greateribm.files.wordpress.com/2013/12/watson-t-shirt.jpg){.aligncenter}
+![](https://greateribm.files.wordpress.com/2013/12/watson-t-shirt.jpg)
 
 I took pictures of downtown too just because it was such a beautiful
 scene outside.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0142.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0142.jpg)
 
 I have to wake up early in the morning, so once the event officially
 ends at 10 pm, I ask if I can leave to go to bed.
@@ -387,7 +387,7 @@ Then there’s the debate, something I was looking forward to. It was a
 debate on autonomous weapons. I figured it would be intense, but to
 quote someone I overheard, it was “not satisfying”.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0147.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0147.jpg)
 
 One of the two debaters had a PowerPoint to accompany his arguments and
 there was so much text on each slide with him speaking relatively
@@ -458,7 +458,7 @@ mother and child and in both, there is a gay, white male flight
 attendant (well, I presumed they were). And in both, of course, I sat in
 37A.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0157.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/01/img_0157.jpg)
 
 I finally arrive back at home sweet home, my little home by the sea, my
 Norfolk. My mom and sister pick me up, I feed Nefer some treats the

@@ -15,27 +15,27 @@ tags:
   - norfolkjs journey
 ---
 
-> Name
+## Name
 
-## <a title="Norfolk.js" href="https://norfolkjs.org" target="_blank" rel="noopener">Norfolk.js - Norfolk JavaScript Meetup Group</a>
+<a title="Norfolk.js" href="https://norfolkjs.org" target="_blank" rel="noopener">Norfolk.js - Norfolk JavaScript Meetup Group</a>
 
-> Organizer
+## Organizer
 
 Norfolk.js Meetup Group
 
-> Location
+## Location
 
 Pierce/McCoy - Norfolk, VA
 
-> Date
+## Date
 
 January 18th, 2016
 
-> Role
+## Role
 
 Volunteer (helped create website)
 
-> About
+## About
 
 https://www.meetup.com/NorfolkJS/events/227490794/
 

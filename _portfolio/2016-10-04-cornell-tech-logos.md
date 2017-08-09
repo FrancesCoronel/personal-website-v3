@@ -17,7 +17,7 @@ login: fvcproductions email: fvcproductions@gmail.com display\_name:
 Cornell Tech logos in one place. ---
 
 Check out the logos at [`fvcproductions.github.io/cornell-tech-logos`](https://fvcproductions.github.io/cornell-tech-logos) {#check-out-the-logos-at--a-href--http:--fvcproductions.github.io-cornell-tech-logos--target--_blank---code-fvcproductions.github.io-cornell-tech-logos--code---a-}
---------------------------------------------------------------------------------------------------------------------------
+--------------------------
 
  
 

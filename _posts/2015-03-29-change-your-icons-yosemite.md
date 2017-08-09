@@ -10,9 +10,9 @@ header:
 
 **Index**
 
-1.  [Intro](#section-intro)
-2.  [Tools](#section-tools)
-3.  [Step 1 - Get Your Icons](#section-step1)
+1. [Intro](#section-intro)
+2. [Tools](#section-tools)
+3. [Step 1 - Get Your Icons](#section-step1)
 4.  [Step 2 - Get The Command](#section-step2)
 5.  [Step 3 - Execute Command](#section-step3)
 
@@ -50,17 +50,17 @@ If you like the app icons I show in these pictures, then you’re welcome
 to download them from my Dropbox.
 
 [![Bubble Icons - Default
-Apps](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-32-49.png){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-32-49.png)[![Bubble
+Apps](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-32-49.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-32-49.png)[![Bubble
 Icons -
-Utility](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-47-53.png){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-47-53.png)
+Utility](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-47-53.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-47-53.png)
 
 ### [Here is a `ZIP` file of the icons and commands used in this tutorial.](https://github.com/fvcproductions/customize-icons "Icons")
 
 *A special thanks to these guys for the amazing circular icons that I
 use in this how-to.*
 
--   [Sebastian de With](https://dewith.com/ "deWith")
--   [All the contributors to `Yoios` on
+- [Sebastian de With](https://dewith.com/ "deWith")
+- [All the contributors to `Yoios` on
     GitHub](https://github.com/mmarfil/yoios "Yoios")
 
 Step 2 - Get The Command
@@ -110,9 +110,9 @@ that is named `icon-data.json` and a `UNIX Executable File` called
 `setfileicon`.
 
 [![All The Icons Folder Screenshot -
-1](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-10-54.png){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-10-54.png)[![All
+1](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-10-54.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-10-54.png)[![All
 The Icons Screenshot -
-2](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-18.png){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-18.png)
+2](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-18.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-18.png)
 
 These files are both included in a folder called `set_icon` in the
 [`ZIP` file](https://github.com/fvcproductions/customize-icons "Icons")
@@ -136,7 +136,7 @@ yourself using your favorite text-editor.
 Here is how the `JSON` file for the Utilities looks like.
 
 [![JSON
-file](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-49-06.png){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-49-06.png)
+file](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-49-06.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-49-06.png)
 
 It is `case-sensitive`, so make sure to type everything correctly to
 suit what the app is called and what you named the corresponding `icns`
@@ -159,7 +159,7 @@ After that, type in `killall Finder` into Terminal for the command to
 restart the Finder and have the hidden files be revealed in your Finder.
 
 [![Show Hidden Files Command in
-Terminal](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-21-37.png){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-21-37.png)
+Terminal](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-21-37.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-21-37.png)
 
 Now that you have your Finder revealing all the hidden files - in the
 folder where you have all your icons properly named, copy and paste the
@@ -174,7 +174,7 @@ the folder called `Utilities` that can be found in the [`ZIP`
 file](https://github.com/fvcproductions/customize-icons "Icons").
 
 [![Utility
-Sub-Folder](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-42.png){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-42.png)
+Sub-Folder](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-42.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-42.png)
 
 So if you want to change your Utility icons as well, the `.set_icons`
 folder located in the sub-folder `Utilities` already has the `json` file
@@ -218,7 +218,7 @@ Now go ahead and click the `ChangeIcons.command` to change all your
 icons simultaneously.
 
 [![ChangeIcons.command in
-Terminal](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-01-44.png){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-01-44.png)
+Terminal](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-01-44.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-01-44.png)
 
 You will be prompted to enter your password and *walla* you have all
 your snazzy new icons in place in seconds!
@@ -242,9 +242,9 @@ your snazzy new icons in place in seconds!
     `Locked` button.
 
 [![Locked App Error In
-Terminal](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-01-54.png){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-01-54.png)[![Locked
+Terminal](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-01-54.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-01-54.png)[![Locked
 App -
-Dropbox](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-09-37.png){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-09-37.png)
+Dropbox](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-09-37.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-09-37.png)
 
 ### Have fun with your new icons! 😍
 

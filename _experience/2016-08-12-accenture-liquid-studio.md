@@ -25,27 +25,21 @@ gallery:
 
 > Employer
 
-## <a title="Accenture Liquid Studio" href="https://accenture.com/us-en/capability-rapid-application-development-studio" target="_blank" rel="noopener">Accenture Liquid Studio</a>
+<a title="Accenture Liquid Studio" href="https://accenture.com/us-en/capability-rapid-application-development-studio" target="_blank" rel="noopener">Accenture Liquid Studio</a>
 
-> Location
+## Location
 
 Redwood City, CA but formally based out of San Francisco, CA
 
-> Date
+## Date
 
 June 2016 to August 12, 2016
 
-> About
+## About
 
 The Accenture Liquid Studios are designed for rapid application development. They help companies become built for change through new skills, processes, products and ways of working.
 
-[<i class='fa fa-twitter'></i> @accenture](https://twitter.com/@accenture)
-{: .btn .btn--twitter}
-
-[<i class='fa fa-linkedin'></i> LinkedIn](https://www.linkedin.com/company/accenture)
-{: .btn .btn--linkedin}
-
-> Role
+## Role
 
 ### Wearables Developer (Intern)
 
@@ -61,6 +55,5 @@ The Accenture Liquid Studios are designed for rapid application development. The
 <blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/studio-session-number-11-accenture-liquid-studio">Studio Session #11 | Accenture Liquid Studio</a></h4><p>A slightly edited version of the Wearables slide deck. Presented to entire Liquid Studio Team as part of the weekly studio sessions. Accenture | Liquid Studio Wearables Team Summer 2016 Intern</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/wearables-team">Wearables Team</a></h4><p>An overview of the Wearables Team at Accenture's Liquid Studio.</p></blockquote>
-
 
 <blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/ar-vs-vr-accenture">AR vs VR | Accenture</a></h4><p>An overview of the difference between AR and VR. Accenture Liquid Studio Wearables Team Summer 2016 Intern</p></blockquote>

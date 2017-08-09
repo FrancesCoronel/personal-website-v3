@@ -11,7 +11,7 @@ Ammalia, which means surgery in Arabic, is a Leap Motion assisted app that allow
 ------------------------------------------------------------------------
 
 Check out this TreeHack at [`devpost.com/software/ammalia`](https://devpost.com/software/ammalia). {#check-out-this-treehack-at--a-href--http:--devpost.com-software-ammalia--target--_blank---code-devpost.com-software-ammalia--code---a-. style="text-align:center;"}
--------------------------------------------------------------------------------------------------
+-
 
 ------------------------------------------------------------------------
 
@@ -77,23 +77,23 @@ there at the time unfortunately)\[/caption\]
 
 ### Future features
 
-1.  We can see Ammalia potentially pivoting to include 3D manipulation
+1. We can see Ammalia potentially pivoting to include 3D manipulation
     of MRI and CT scans mid-procedure, which is important when, for
     example, determining the extent of a tumor in real-time.
-2.  Another area we could look into is radiology and cardiology
+2. Another area we could look into is radiology and cardiology
     intervention which would actually involve catheter manipulation.
-3.  Also, depending on the patient chosen, Ammalia could also showcase
+3. Also, depending on the patient chosen, Ammalia could also showcase
     different health record data points that pertain to the patient
     being showcased\
     (i.e. name, age, background, etc).
 
 ### Tools
 
--   [Leap Motion](https://developer.leapmotion.com/)
+- [Leap Motion](https://developer.leapmotion.com/)
     -   uses Leap Motion API and hardware to track hand gestures (pan
         in/out, zoom in/out, slide right/left) without physically
         touching computer
--   [Dropbox API](https://www.dropbox.com/developers)
+- [Dropbox API](https://www.dropbox.com/developers)
     -   use Dropbox for uploading/storing images for patient’s problems
     -   have folders within Dropbox API represent a single patient
 
@@ -101,10 +101,10 @@ there at the time unfortunately)\[/caption\]
 
 *Big Hero 4*
 
--   [Frances Coronel (me)](https://github.com/fvcproductions)
--   [Stephanie Zeidan](https://github.com/stephzeid)
--   [Diana Wang](https://github.com/diana-wang)
--   [Effie Nehoran](https://github.com/effien3)
+- [Frances Coronel (me)](https://github.com/fvcproductions)
+- [Stephanie Zeidan](https://github.com/stephzeid)
+- [Diana Wang](https://github.com/diana-wang)
+- [Effie Nehoran](https://github.com/effien3)
 
 ### Contributing
 

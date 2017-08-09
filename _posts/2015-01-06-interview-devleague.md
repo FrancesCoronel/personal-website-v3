@@ -113,13 +113,13 @@ Part 2: The Interview 📞
 
 ------------------------------------------------------------------------
 
-1.  **Yield rate - out of the applicants you accept, what percentage end
+1. **Yield rate - out of the applicants you accept, what percentage end
     up attending?**\
 
     > It’s around 30% and part of that is because we’re a very new
     > bootcamp. For 35 students, we had over 115 applications.
 
-2.  **How many drop out after simply experiencing the pre-work?**\
+2. **How many drop out after simply experiencing the pre-work?**\
 
     > Well, the coding challenge depending on your knowledge takes 2–4
     > weeks possibly. Pre-work takes roughly 40–80 hours of self-study.\
@@ -136,7 +136,7 @@ Part 2: The Interview 📞
     > working out, we do ask them to leave. They have 4 weeks to make a
     > decision for staying in program.
 
-3.  **How many college students have you had in the past?**\
+3. **How many college students have you had in the past?**\
 
     > We get a lot of college graduates actually. We’ve had a few
     > colleges students. At least a couple. In terms of other students,
@@ -191,24 +191,24 @@ are put into place
 
 https://www.facebook.com/permalink.php?story\_fbid=702971763154795&id=419352214850086
 
-\[tweet https://twitter.com/devleaguehawaii/status/556569297133510656\]
+\https://twitter.com/devleaguehawaii/status/556569297133510656\]
 
 ------------------------------------------------------------------------
 
 I also have shared my **interview experience** with bootcamps such as
 
--   [Bitmaker
+- [Bitmaker
     Labs](https://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
--   [Coding
+- [Coding
     Dojo](https://fvcproductions.com/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
--   [Coding
+- [Coding
     House](https://fvcproductions.com/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
--   [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
--   [Fullstack
+- [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+- [Fullstack
     Academy](https://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
--   [Hack
+- [Hack
     Reactor](https://fvcproductions.com/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
--   [Maker
+- [Maker
     Square](https://fvcproductions.com/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
 ------------------------------------------------------------------------

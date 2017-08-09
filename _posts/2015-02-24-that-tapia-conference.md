@@ -103,21 +103,21 @@ Norfolk from up high is pretty cool looking with all the snow
 everywhere.
 
 ![Norfolks the real
-MVP](https://fvcproductions.files.wordpress.com/2015/02/norfolk-from-above.jpg){.aligncenter}
+MVP](https://fvcproductions.files.wordpress.com/2015/02/norfolk-from-above.jpg)
 
 When I get to Philadelphia, my flight to Boston gets delayed… twice. I
 end up having to book a slightly earlier flight through Customer
 Service, but the whole delay was a first.
 
 ![Foundation
-Yeti](https://senlinonline.com/wp-content/uploads/2013/05/foundation-yeti.png){.aligncenter}
+Yeti](https://senlinonline.com/wp-content/uploads/2013/05/foundation-yeti.png)
 
 ⛄️ When I get to Boston, I get the idea that the Yeti (not the one from
 Foundation, just THE Yeti) lives there because it looks like this from
 the plane…
 
 ![Yeti Lives
-Here](https://fvcproductions.files.wordpress.com/2015/02/yeti-lives-here.jpg){.aligncenter}
+Here](https://fvcproductions.files.wordpress.com/2015/02/yeti-lives-here.jpg)
 
 Needless to say, “this snow don’t play”.
 
@@ -135,13 +135,13 @@ pic of him because that would have been kinda awkward since I was
 sitting in shotgun.
 
 ![Real Gru &gt; Animated
-Gru](https://fc00.deviantart.net/fs70/f/2014/220/2/1/despicable_me_gru_render_by_chrez-d7u8z7e.png){.aligncenter}
+Gru](https://fc00.deviantart.net/fs70/f/2014/220/2/1/despicable_me_gru_render_by_chrez-d7u8z7e.png)
 
 Once I arrive at the hotel free-riding, I check into the hotel and then
 register. My lanyard, like with the triple AI conference, has the same
 organization associated with my name - **FVCproductions**. How nice.
 
-![Lanyard](https://fvcproductions.files.wordpress.com/2015/02/my-lanyard1.jpg){.aligncenter}
+![Lanyard](https://fvcproductions.files.wordpress.com/2015/02/my-lanyard1.jpg)
 
 At this point, I have roughly 3 hours left until the scholarship
 recipient orientation. My roommate/buddy, [Anisha Carter]{}, who is also
@@ -151,7 +151,7 @@ Chat’ or the ‘Desert & Career Fair’ session because I’ll be meeting up
 with my cousin who lives in Boston.
 
 ![Boston is
-nice.](https://fvcproductions.files.wordpress.com/2015/02/boston-from-above.jpg){.aligncenter}
+nice.](https://fvcproductions.files.wordpress.com/2015/02/boston-from-above.jpg)
 
 *The first thing I notice about the orientation is that there are a lot
 of minorities, mostly Hispanics and blacks that are relatively
@@ -159,7 +159,7 @@ attractive. I’m biased because I’m a heterosexual Latina, but seriously,
 a lot of people here are young and fresh looking.* \#tapia2015
 
 ![My 1st official
-event.](https://fvcproductions.files.wordpress.com/2015/02/scholarship-reception.jpg){.aligncenter}
+event.](https://fvcproductions.files.wordpress.com/2015/02/scholarship-reception.jpg)
 
 My cousin is late so I attend part of the welcoming reception and then
 end up having to awkwardly leave in the middle of it. Eventually meeting
@@ -207,7 +207,7 @@ Day 2 - Thursday, February 19
     part.
 
 \[caption width=""
-align="aligncenter"\]![](https://rack.1.mshcdn.com/media/ZgkyMDEzLzEwLzIyL2ZjL3RyaXN0YW53YWxrLmRiNDAwLmpwZwpwCXRodW1iCTEyMDB4OTYwMD4/3bcc0bd5/7e4/tristan-walker-iphone.jpg){.aligncenter}
+align="aligncenter"\]![](https://rack.1.mshcdn.com/media/ZgkyMDEzLzEwLzIyL2ZjL3RyaXN0YW53YWxrLmRiNDAwLmpwZwpwCXRodW1iCTEyMDB4OTYwMD4/3bcc0bd5/7e4/tristan-walker-iphone.jpg)
 Tristan is the coolest.\[/caption\]
 
 -   **Career Fair - Wayne** I had a really great talk with somebody
@@ -226,7 +226,7 @@ Tristan is the coolest.\[/caption\]
     mainly because of Wayne. Haha, rhymes.
 
 ![Co-Founders of
-Fullstack](https://fvcproductions.files.wordpress.com/2015/02/fullstack-academy-13-week-coding-academy-in-new-york-city-node-js-angularjs-javascript-mongodb.png){.aligncenter}
+Fullstack](https://fvcproductions.files.wordpress.com/2015/02/fullstack-academy-13-week-coding-academy-in-new-york-city-node-js-angularjs-javascript-mongodb.png)
 
 Day 3 - Friday, February 20
 ---------------------------
@@ -270,8 +270,8 @@ Day 3 - Friday, February 20
     - Manuel\[/code\]
 
 ![HIC
-Group](https://fvcproductions.files.wordpress.com/2015/02/hic-people.jpg){.aligncenter}![HIC
-Slide](https://fvcproductions.files.wordpress.com/2015/02/hic-pres.jpg){.aligncenter}
+Group](https://fvcproductions.files.wordpress.com/2015/02/hic-people.jpg)![HIC
+Slide](https://fvcproductions.files.wordpress.com/2015/02/hic-pres.jpg)
 
 -   **When working for diversity in CS becomes your day job** I saw the
     President of Harvey Mudd at this talk where university
@@ -283,7 +283,7 @@ Slide](https://fvcproductions.files.wordpress.com/2015/02/hic-pres.jpg){.alignce
     person, you know the feeling she was someone who could potentially
     skateboard around campus. Pretty cool.
 
-![](https://fvcproductions.files.wordpress.com/2015/02/working-for-diversity.jpg){.aligncenter}
+![](https://fvcproductions.files.wordpress.com/2015/02/working-for-diversity.jpg)
 
 -   **Increasing Diversity in the K–20 Computing Pipeline: Sharing
     Strategies & Good Practices** Here a bunch of people ended up
@@ -360,7 +360,7 @@ time (which I did do once or twice - I mean,
 eventually decided to try and get a different flight through customer
 service.
 
-![Mmmhmmm.](https://sunnyyq.files.wordpress.com/2012/09/12-08-31-new-york-style-mozzarella-cheese-pizza-sbarro.jpg){.aligncenter}
+![Mmmhmmm.](https://sunnyyq.files.wordpress.com/2012/09/12-08-31-new-york-style-mozzarella-cheese-pizza-sbarro.jpg)
 
 Half way through waiting in this 1-hour line, I call this help line \#
 that this lady from Toronto gives me since the help line only helps with
@@ -374,13 +374,13 @@ of a sudden, US Airways announces that the flight I’ve been waiting for
 4 hours so far now is now boarding.
 
 ![And Im off after a zillion
-hours](https://fvcproductions.files.wordpress.com/2015/02/leaving-to-norfolk.jpg){.aligncenter}
+hours](https://fvcproductions.files.wordpress.com/2015/02/leaving-to-norfolk.jpg)
 
 When I got home, I took all my anger out on the snow which wasn’t really
 a fun process either.
 
 ![In Mother Russia, snow punches
-you.](https://fc00.deviantart.net/fs70/i/2013/263/b/0/punching_snow___d_by_jj18-d6n2tms.jpg){.aligncenter}
+you.](https://fc00.deviantart.net/fs70/i/2013/263/b/0/punching_snow___d_by_jj18-d6n2tms.jpg)
 
 Conclusion
 ==========

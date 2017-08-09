@@ -103,7 +103,7 @@ Day Four - Thursday {#dayfour-thursday}
         [`Inside Out`](https://www.rottentomatoes.com/m/inside_out_2015/ "Inside Out"),
         then that moment of complete *FAIL* would become a hilarious
         core memory. ![Inside
-        Out](https://fvcproductions.files.wordpress.com/2015/07/32cea-inside2bout2bpixar2bpost2b2.png){.aligncenter}
+        Out](https://fvcproductions.files.wordpress.com/2015/07/32cea-inside2bout2bpixar2bpost2b2.png)
 -   *Side Note* I really need to stop getting pizza for lunch. -\_-
 -   After class, there was **Game Night**. Not a single junior came
     (surprisingly), but this was fine with me because I felt as though I
@@ -115,7 +115,7 @@ Day Four - Thursday {#dayfour-thursday}
     reality, but I feel I’ve gotten just a tad bit more deceptive
     playing this game. &gt;:)
     -   He’s the original Voldemort!
-        ![Mordred](https://i137.photobucket.com/albums/q231/ivycrowned/Avalon/mordred.jpg){.aligncenter}
+        ![Mordred](https://i137.photobucket.com/albums/q231/ivycrowned/Avalon/mordred.jpg)
 -   *Side Note* I keep coming up with these small web app ideas every
     week and my desire to implement all of them one by one keeps
     growing. For the mean time though, I’m just keeping them as a handy
@@ -146,25 +146,25 @@ Day Five - Friday {#dayfive-friday}
 
 > So Far
 
--   [The
+- [The
     Search](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
--   [The
+- [The
     Application](https://fvcproductions.com/2014/12/23/week-20/ "The Application")
--   [The
+- [The
     Preparation](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
--   [The
+- [The
     Interview](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/ "The Interview")
--   [The
+- [The
     Decision](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/ "The Decision")
--   [Fullstack Foundations - Week
+- [Fullstack Foundations - Week
     1](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
--   [Fullstack Foundations - Weeks 2 -
+- [Fullstack Foundations - Weeks 2 -
     4](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
--   [Fullstack Academy - Week
+- [Fullstack Academy - Week
     1](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/ "Fullstack Academy - Week 1")
--   [Fullstack Academy - Week
+- [Fullstack Academy - Week
     2](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/ "Fullstack Academy - Week 2")
--   [Fullstack Academy - Week
+- [Fullstack Academy - Week
     3](https://fvcproductions.com/2015/06/26/fullstack-academy-week-3/ "Fulsltack Academy - Week 3")
 
 ------------------------------------------------------------------------

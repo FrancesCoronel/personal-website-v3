@@ -35,16 +35,16 @@ Interview with [Coding Dojo](https://www.codingdojo.com) {#interview-with-coding
 
 ------------------------------------------------------------------------
 
-1.  **How many drop out after simply experiencing the pre-work? How much
+1. **How many drop out after simply experiencing the pre-work? How much
     time should I dedicate to the pre-work?**You have pre-work.
     Realistically, dedicating 50–100 total hours is ideal for pre-work.
     Nobody has dropped out after experiencing pre-work. There have been
     family emergencies, unfortunate situations, but nothing directly
     correlated to Coding Dojo.
-2.  **How many college students have you had in the past?**Quite a few,
+2. **How many college students have you had in the past?**Quite a few,
     more recently so. We have coordinated our schedule to do that. The
     average age is 25–30.
-3.  **What would you say are the key differences between the two
+3. **What would you say are the key differences between the two
     campuses?**The campus in Mountain View is the sort of super center
     and class sizes can go up to 30. Here in Seattle they go up to 25.
     Besides that, there’s not much difference.
@@ -119,18 +119,18 @@ I was accepted! Here’s part of the email they sent me:
 
 I also have shared my **interview experience** with bootcamps such as
 
--   [Bitmaker
+- [Bitmaker
     Labs](https://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
--   [Coding
+- [Coding
     House](https://fvcproductions.com/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
--   [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
--   [Dev
+- [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+- [Dev
     League](https://fvcproductions.com/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
--   [Fullstack
+- [Fullstack
     Academy](https://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
--   [Hack
+- [Hack
     Reactor](https://fvcproductions.com/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
--   [Maker
+- [Maker
     Square](https://fvcproductions.com/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
 ------------------------------------------------------------------------

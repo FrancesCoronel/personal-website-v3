@@ -11,23 +11,23 @@ gallery:
       url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
 ---
 
-> Name
+## Name
 
-## <a title="ISLC" href="https://studentprograms.operationsmile.org/events/islc/" target="_blank" rel="noopener">International Student Cultural Exchange</a>
+<a title="ISLC" href="https://studentprograms.operationsmile.org/events/islc/" target="_blank" rel="noopener">International Student Cultural Exchange</a>
 
-> Organizer
+## Organizer
 
 Operation Smile
 
-> Location
+## Location
 
 Marriott Beijing City Wall - Beijing, China
 
-> Date
+## Date
 
 August 1st to 7th, 2011
 
-> About
+## About
 
 This was an international conference Operation Smile hosted for all the student volunteers involved. This was my first serious conference at 16 and I learned so much.
 

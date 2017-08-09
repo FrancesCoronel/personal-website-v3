@@ -42,25 +42,25 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
 
 ------------------------------------------------------------------------
 
-1.  [Codecademy](https://codecademy.com/)\
+1. [Codecademy](https://codecademy.com/)\
 
     > Codecademy is an online interactive platform that offers free
     > coding classes in six different programming languages like Python,
     > PHP, jQuery, JavaScript, and Ruby, as well as markup languages
     > including HTML and CSS.
     >
-    > ![](https://s3.amazonaws.com/codecademy-blog/assets/03-2013-new-experience.png){.aligncenter}
+    > ![](https://s3.amazonaws.com/codecademy-blog/assets/03-2013-new-experience.png)
 
-2.  [Code School](https://codeschool.com/)\
+2. [Code School](https://codeschool.com/)\
 
     > Code School is an online learning platform that teaches a variety
     > of programming and web design skills. Courses range from beginner
     > to advanced levels and you get to earn rewards and badges as you
     > learn.
     >
-    > ![](https://orm-chimera-prod.s3.amazonaws.com/1234000001682/images/codeschool_jquery.png){.aligncenter}
+    > ![](https://orm-chimera-prod.s3.amazonaws.com/1234000001682/images/codeschool_jquery.png)
 
-3.  [Treehouse](https://teamtreehouse.com/)\
+3. [Treehouse](https://teamtreehouse.com/)\
 
     > Treehouse is the fastest, easiest way to learn to code, make apps,
     > and start a business. Tutorials in CSS, HTML, Ruby, JavaScript,
@@ -77,7 +77,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > lessons are based on open source code, allow you to practice
     > typing the key sequences that appear in real code.
     >
-    > ![](https://www.bram.us/wordpress/wp-content/uploads/2013/12/typingio.png){.aligncenter}
+    > ![](https://www.bram.us/wordpress/wp-content/uploads/2013/12/typingio.png)
 
 5.  [CodeCombat](https://codecombat.com/)\
 
@@ -85,7 +85,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > beginners. Learn Python or JavaScript as you defeat ogres, solve
     > mazes, and level up.
     >
-    > ![](https://d212dsb2sdisoj.cloudfront.net/wp-content/uploads/2013/10/logo64.jpg){.aligncenter}
+    > ![](https://d212dsb2sdisoj.cloudfront.net/wp-content/uploads/2013/10/logo64.jpg)
 
 6.  [codewars](https://codewars.com/)\
 
@@ -95,7 +95,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > feedback. The leaders among them moderate the content and
     > community.
     >
-    > ![](https://ciblogassets.s3.amazonaws.com/crowdblog/asset/214/codewars3.png){.aligncenter}
+    > ![](https://ciblogassets.s3.amazonaws.com/crowdblog/asset/214/codewars3.png)
 
 7.  [Online Python Tutor](https://pythontutor.com/)\
 
@@ -117,7 +117,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > Coderbyte is a web application built to help people practice their
     > programming skills with our collection of programming challenges.
     >
-    > ![](https://s3.amazonaws.com/ksr/assets/000/379/626/6fd69aceb1070555dacf846ed296d84f_large.png?1360397775){.aligncenter}
+    > ![](https://s3.amazonaws.com/ksr/assets/000/379/626/6fd69aceb1070555dacf846ed296d84f_large.png?1360397775)
 
 9.  [Learn Python The Hard Way](https://learnpythonthehardway.org)\
 
@@ -125,7 +125,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > programming, Learn Python The Hard Way is the most successful
     > beginner programming book on the market.
     >
-    > ![](https://www.kno.com/images/book-jackets/9780133124330.jpg){.aligncenter}
+    > ![](https://www.kno.com/images/book-jackets/9780133124330.jpg)
 
 10. [Eloquent JavaScript](https://eloquentjavascript.net)\
 
@@ -136,7 +136,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > structures. Then you’ll dive into the real JavaScript artistry:
     > higher-order functions, closures, and object-oriented programming.
     >
-    > ![](https://eloquentjavascript.net/img/cover.png){.aligncenter}
+    > ![](https://eloquentjavascript.net/img/cover.png)
 
 11. [Jumpstart Lab JavaScript
     Tutorial](https://tutorials.jumpstartlab.com/projects/javascript)\
@@ -168,7 +168,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > designed to fill in the gap for people who are trying to hack it
     > on their own but still want a high quality education.
     >
-    > ![](https://airpair-blog.s3.amazonaws.com/wp-content/uploads/2014/04/The-Odin-Project-Open-Sourced-Free-Curriculum.png){.aligncenter}
+    > ![](https://airpair-blog.s3.amazonaws.com/wp-content/uploads/2014/04/The-Odin-Project-Open-Sourced-Free-Curriculum.png)
 
 14. [[Cracking the Coding
     Interview]{style="color:#1b8be0;"}](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)\
@@ -180,7 +180,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > over 500 pages and includes 150 programming interview questions
     > and answers, as well as other advice.
     >
-    > ![](https://ecx.images-amazon.com/images/I/41wgksZup2L.jpg){.aligncenter}
+    > ![](https://ecx.images-amazon.com/images/I/41wgksZup2L.jpg)
 
 15. [HTML & CSS](https://www.htmlandcssbook.com)\
 
@@ -192,7 +192,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > it belongs in the graphic design section rather than the
     > programming section of a bookstore.
     >
-    > ![](https://cdn.tripwiremagazine.com/wp-content/uploads/2012/05/html-css-design-build-websites.jpg){.aligncenter}
+    > ![](https://cdn.tripwiremagazine.com/wp-content/uploads/2012/05/html-css-design-build-websites.jpg)
 
 ------------------------------------------------------------------------
 

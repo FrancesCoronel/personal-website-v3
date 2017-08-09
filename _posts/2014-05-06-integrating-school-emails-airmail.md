@@ -23,9 +23,9 @@ So I have 4 different email accounts, my personal one, and then 3 other
 ones for the different universities I’ll be attending this summer for
 classes (YEAHHHH, it’s a drag).
 
-1.  Personal email *@gmail.com*
-2.  Hampton University Email *@hamptonu.edu*
-3.  Old Dominion University Email *@odu.edu*
+1. Personal email *@gmail.com*
+2. Hampton University Email *@hamptonu.edu*
+3. Old Dominion University Email *@odu.edu*
 4.  VCCS Email *@email.vccs.edu*
 
 So anyhow, I figured I’d make it easier for myself and go ahead and use

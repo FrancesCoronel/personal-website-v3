@@ -11,23 +11,23 @@ gallery:
     url: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0054.jpg
 ---
 
-> Name
+## Name
 
-## <a title="Discover Goldman Sachs" href="https://www.goldmansachs.com/careers/why-goldman-sachs/diversity/diversity-us.html" target="_blank" rel="noopener">Discover Goldman Sachs</a>
+<a title="Discover Goldman Sachs" href="https://www.goldmansachs.com/careers/why-goldman-sachs/diversity/diversity-us.html" target="_blank" rel="noopener">Discover Goldman Sachs</a>
 
-> Organizer
+## Organizer
 
 Goldman Sachs
 
-> Location
+## Location
 
 Salt Lake City Office - Salt Lake City, Utah
 
-> Date
+## Date
 
 September 24th to 25th, 2015
 
-> About
+## About
 
 The Discover GS Camps are one day programs for students interested in exploring the numerous career paths in the financial services industry and familiarizing themselves with the firm’s business, history and culture.
 

@@ -18,10 +18,10 @@ orderby="rand"\]
 
 ### Tools
 
--   [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
--   [CodeKit](https://incident57.com/codekit/)
--   [Sketch](https://www.sketchapp.com/)
--   [Sublime Text](https://github.com/fvcproductions/Sublime)
+- [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
+- [CodeKit](https://incident57.com/codekit/)
+- [Sketch](https://www.sketchapp.com/)
+- [Sublime Text](https://github.com/fvcproductions/Sublime)
 
 Links
 -----

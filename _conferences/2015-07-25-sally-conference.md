@@ -13,27 +13,27 @@ gallery:
       url: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/ckydracwgaeajgp.jpg
 ---
 
-> Name
+## Name
 
-## <a title="Sally Conference" href="https://www.thesallyconference.com/" target="_blank" rel="noopener">Sally Conference</a>
+<a title="Sally Conference" href="https://www.thesallyconference.com/" target="_blank" rel="noopener">Sally Conference</a>
 
-> Organizer
+## Organizer
 
 Bloom, Women Who Code
 
-> Location
+## Location
 
 ThoughtWorks - New York City, New York
 
-> Date
+## Date
 
 July 25th, 2015
 
-> Role
+## Role
 
 Scholarship Recipient
 
-> About
+## About
 
 While I was at Fullstack Academy, I was offered to attend the Sally Conference, free of cost.
 

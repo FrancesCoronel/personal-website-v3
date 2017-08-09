@@ -14,3 +14,4 @@ npm-debug.log*
 /site/
 **/site/
 /site/**
+**site

@@ -18,7 +18,7 @@ Tech Meetups Nearby {#techmeetupsnearby}
 > custom API & [Meetup.com](https://meetup.com)
 
 Head on over to [`oduacm.github.io/meetups-nearby`](https://oduacm.github.io/meetups-nearby) to check it out! :smile: {#headonovertoahrefhttp:oduacm.github.iomeetups-nearbytarget_blankoduacm.github.iomeetups-nearbyatocheckitout:smile:}
---------------------------------------------------------------------------------------------------------------------
+--------------------
 
 [![Github
 Issues](https://githubbadges.herokuapp.com/oduacm/meetups-nearby/issues.svg?style=flat-square)](https://github.com/oduacm/meetups-nearby/issues)
@@ -64,7 +64,7 @@ Team
 ### Designer
 
   [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](https://fvcproductions.com)
-  ------------------------------------------------------------------------------------------------------------
+  ------------
   [`fvcproductions`](https://github.com/fvcproductions)
 
 ------------------------------------------------------------------------

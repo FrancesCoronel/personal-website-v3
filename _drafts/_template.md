@@ -18,37 +18,28 @@ gallery:
 	  url: image_link_3
 ---
 
-> Name
+## Name
 
-## <a title="Title" href="link" target="_blank" rel="noopener">Title</a>
+<a title="Title" href="link" target="_blank" rel="noopener">Title</a>
 
-> Organizer
+## Organizer
 
 Fill
 
-> Location
+## Location
 
 Place - City, State
 
-> Date
+## Date
 
 Month xst to xth, 20xx
 
-> Role
+## Role
 
 Scholarship Recipient
 
-> About
+## About
 
 Fill
-
-[<i class='fa fa-globe'></i> Website](https://website.com)
-{: .btn}
-
-[<i class='fa fa-twitter'></i> @twitter](https://twitter.com/@twitter)
-{: .btn .btn--twitter}
-
-[<i class='fa fa-linkedin'></i> LinkedIn](https://linkedin.com)
-{: .btn .btn--linkedin}
 
 {% include gallery %}

@@ -11,13 +11,13 @@ gallery:
 
 > Institution
 
-## <a title="Old Dominion University" href="https://odu.edu" target="_blank" rel="noopener">Old Dominion University</a>
+<a title="Old Dominion University" href="https://odu.edu" target="_blank" rel="noopener">Old Dominion University</a>
 
-> Location
+## Location
 
 Norfolk, VA
 
-> Date
+## Date
 
 July 2014 to August 2014
 
@@ -25,7 +25,7 @@ July 2014 to August 2014
 
 - Summer Term
 
-> About
+## About
 
 Old Dominion University, also known as ODU, is a public, co-educational research university located in Norfolk, Virginia, United States, with two satellite campuses in the Hampton Roads area.
 
@@ -33,6 +33,6 @@ I took one course during the summer of 2014 term at Old Dominion University thro
 
 ### Courses
 
--   MATH 212 - Calculus II
+- MATH 212 - Calculus II
 
 {% include gallery %}

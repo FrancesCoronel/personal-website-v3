@@ -11,13 +11,13 @@ gallery:
 
 > Institution
 
-## <a title="Tidewater Community College" href="https://tcc.edu" target="_blank" rel="noopener">Tidewater Community College (TCC)</a>
+<a title="Tidewater Community College" href="https://tcc.edu" target="_blank" rel="noopener">Tidewater Community College (TCC)</a>
 
-> Location
+## Location
 
 Norfolk, VA
 
-> Date
+## Date
 
 May 2010 to August 13th, 2010
 
@@ -25,7 +25,7 @@ May 2010 to August 13th, 2010
 
 Dual Enrollment
 
-> About
+## About
 
 [Tidewater Community College](https://www.tcc.edu/) is the largest provider of higher education and workforce development services in Hampton Roads, enrolling over 37,000 students annually—the second largest undergraduate student body in the Commonwealth of Virginia.
 
@@ -33,8 +33,8 @@ Through TCC's dual enrollment program, I enrolled in 2 different courses in the 
 
 ### Courses
 
--   MTH 158 - College Algebra (A-)
--   ACC 211 - Principles of Accounting I (B)
+- MTH 158 - College Algebra (A-)
+- ACC 211 - Principles of Accounting I (B)
 
 {% include gallery %}
 

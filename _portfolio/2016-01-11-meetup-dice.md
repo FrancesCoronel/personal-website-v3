@@ -15,7 +15,7 @@ height="416"}](https://fvcproductions.files.wordpress.com/2016/01/meetupdice-win
 Meetup Dice - Winner\[/caption\]
 
 Check out the web app at [[meetfvc.herokuapp.com]{style="font-family:monospace;"}](https://meetfvc.herokuapp.com). {#check-out-the-web-app-at--a-href--http:--workwit.me--target--_blank---code-workwit.me--code---a- style="text-align:center;"}
------------------------------------------------------------------------------------------------------------------
+-----------------
 
 So for my [Norfolk.js Meetup group](https://meetup.com/NorfolkJS), they
 like to give out prizes through a raffle every
@@ -53,18 +53,18 @@ of your Meetups):
 
 ### Tools
 
--   [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
--   [Sublime Text](https://github.com/fvcproductions/Sublime)
--   [CodeKit](https://incident57.com/codekit/)
+- [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
+- [Sublime Text](https://github.com/fvcproductions/Sublime)
+- [CodeKit](https://incident57.com/codekit/)
 
 Contributors
 ------------
 
--   [Harlan Harris](https://github.com/HarlanH)
--   [Devin Castro](https://github.com/ddcast)
--   [Chetan Shenoy](https://github.com/cshenoy)
--   [Sheng Zhao](https://github.com/itsheng)
--   [FVCproductions](https://github.com/fvcproductions)
+- [Harlan Harris](https://github.com/HarlanH)
+- [Devin Castro](https://github.com/ddcast)
+- [Chetan Shenoy](https://github.com/cshenoy)
+- [Sheng Zhao](https://github.com/itsheng)
+- [FVCproductions](https://github.com/fvcproductions)
 
 ### Contributing
 

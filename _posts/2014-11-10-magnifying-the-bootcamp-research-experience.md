@@ -64,9 +64,9 @@ Green annotations = good , red = bad (typical).
 
 The 3 criteria I’m judging these sites are as follows:
 
-1.  **UI (User Interface)**
-2.  **UX (User Experience)**
-3.  **High-quality content and reviews**
+1. **UI (User Interface)**
+2. **UX (User Experience)**
+3. **High-quality content and reviews**
 
 I think these key 3 criteria are the minimal requirements each great CB
 website ought to aspire for. Mind you, this is just for the overall web
@@ -95,9 +95,9 @@ I mean, it’s a pretty big decision, y’all! ;)
 
 > in alphabetical order
 
-1.  [Bootcamper](#section-bootcamper)
-2.  [Bootcamps.in](#section-bootcampsin)
-3.  [Coursereport](#section-coursereport)
+1. [Bootcamper](#section-bootcamper)
+2. [Bootcamps.in](#section-bootcampsin)
+3. [Coursereport](#section-coursereport)
 4.  [Switchup](#section-switchup)
 5.  [Thinkful](#section-thinkful)
 
@@ -217,7 +217,7 @@ This is the page for [HackReactor on
 
 ------------------------------------------------------------------------
 
-![](https://media.licdn.com/mpr/mpr/jc/p/3/005/083/356/339a18e.png){.aligncenter}
+![](https://media.licdn.com/mpr/mpr/jc/p/3/005/083/356/339a18e.png)
 
 ### [**Course Report**](https://coursereport.com) {#section-coursereport style="text-align:center;"}
 
@@ -278,7 +278,7 @@ Report*](https://www.coursereport.com/schools/hack-reactor).
 
 ------------------------------------------------------------------------
 
-![](https://www.thinkful.com/microsites/static/bootcamps/assets/BF_logo.png){.aligncenter}
+![](https://www.thinkful.com/microsites/static/bootcamps/assets/BF_logo.png)
 
 ### [**Thinkful Bootcamp Finder**](https://www.thinkful.com/bootcamps/) {#section-thinkful style="text-align:center;"}
 
@@ -336,7 +336,7 @@ Finder*](https://www.thinkful.com/bootcamps/hack-reactor).
 
 ------------------------------------------------------------------------
 
-![](https://blog.lendlayer.com/content/images/2014/Oct/Switch-Logo.png){.aligncenter}
+![](https://blog.lendlayer.com/content/images/2014/Oct/Switch-Logo.png)
 
 ### [**Switchup**](https://switchup.org) {#section-switchup style="text-align:center;"}
 
@@ -413,9 +413,9 @@ This is the page for [HackReactor on
 
 ### 📡 **Other Resources** {#section-resources}
 
-![](https://www.techendo.com/assets/techendo_faces_logo.png){.aligncenter}
+![](https://www.techendo.com/assets/techendo_faces_logo.png)
 
--   [Techendo](https://techendo.com)
+- [Techendo](https://techendo.com)
     -   rates accelerators, tech-related books, software, accelerators,
         venture capitalists, development schools (aka coding bootcamps),
         etc. based on reviews
@@ -431,7 +431,7 @@ Project](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-0
 .wp-image-1000 .aligncenter width="676"
 height="121"}](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-58.png)
 
--   [“The Definitive Guide To Choosing a Bootcamp” -
+- [“The Definitive Guide To Choosing a Bootcamp” -
     theFirehoseProject](https://www.thefirehoseproject.com/definitive-guide)
     -   theFirehouseProject itself is a new immersive online
         apprenticeship targeted to those who want to become a full-stack
@@ -449,7 +449,7 @@ App](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20
 .size-full .wp-image-1001 width="421"
 height="151"}](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-45.png)
 
--   [hack\_app](https://hackapp.co)
+- [hack\_app](https://hackapp.co)
     -   Some CBs have it where you can quickly apply directly through
         their sites, others have more interactive applications &
         pre-work through coding challenges like with
@@ -468,7 +468,7 @@ height="151"}](https://fvcproductions.files.wordpress.com/2014/11/screenshot-201
 width="2738"
 height="381"}](https://cdn.evbuc.com/eventlogos/1546045/code2040transparency.png)
 
--   [Code2040 - Playbook](https://playbook.code2040.org)
+- [Code2040 - Playbook](https://playbook.code2040.org)
     -   This is great not just for minorities interested in tech, but
         just for anyone who wants a really great layout of what’s
         recommend before applying and interviewing for a software
@@ -493,32 +493,32 @@ height="223"}](https://fvcproductions.files.wordpress.com/2014/11/screenshot-201
         first hand and straight away. So here are a few of those in no
         particular order to get ya started (mind you, for some of these,
         you may have to sign up):
-        -   [Fullstack Academy - Interview
+        - [Fullstack Academy - Interview
             Prep](https://www.fullstackacademy.com/interview_prep)
-        -   [MakerSquare - Prep
+        - [MakerSquare - Prep
             Work](https://learn.makersquare.com/signin)
-        -   [Hack Reactor - Prepare for the Admissions
+        - [Hack Reactor - Prepare for the Admissions
             Challenge](https://www.hackreactor.com/prepare-for-admissions-challenge)
-        -   [App Academy - Prep
+        - [App Academy - Prep
             Work](https://github.com/appacademy/prep-work)
-        -   [Flatiron - Prework](https://prework.flatironschool.com)
-        -   [General Assembly - Dash](https://dash.generalassemb.ly)
-        -   [Launch Academy -
+        - [Flatiron - Prework](https://prework.flatironschool.com)
+        - [General Assembly - Dash](https://dash.generalassemb.ly)
+        - [Launch Academy -
             Codecabuary](https://www.launchacademy.com/codecabulary)
-        -   [Code Fellows - Git
+        - [Code Fellows - Git
             Book](https://fsje.codefellows.org/index.html)
 
-![](https://portland.startupweekend.org/files/2013/11/Treehouse-Logo-With-Text.png){.aligncenter}
+![](https://portland.startupweekend.org/files/2013/11/Treehouse-Logo-With-Text.png)
 
 -   And of course you can’t go wrong with your more typical, well-known
     resources for learning how to love `{code}`…
-    -   [Codecademy](https://codecademy.com)
-    -   [Code School](https://codeschool.com)
-    -   [Treehouse](https://teamtreehouse.com)
-    -   [Typing.io](https://typing.io)
-    -   [Code Combat](https://codecombat.com)
-    -   [codewars](https://codewars.com)
-    -   [topcoder](https://www.topcoder.com)
+    - [Codecademy](https://codecademy.com)
+    - [Code School](https://codeschool.com)
+    - [Treehouse](https://teamtreehouse.com)
+    - [Typing.io](https://typing.io)
+    - [Code Combat](https://codecombat.com)
+    - [codewars](https://codewars.com)
+    - [topcoder](https://www.topcoder.com)
 
 [![quora\_icon](https://fvcproductions.files.wordpress.com/2014/11/quora_icon.png){.size-full
 .wp-image-1002 .alignleft width="45"
@@ -549,4 +549,4 @@ this very question too… why does Quora have to be so awesome, geez. 😏
 
 **Cheers!** 😃
 
-\[tweet https://twitter.com/MarcoMorawec/status/537036957851721728\]
+\https://twitter.com/MarcoMorawec/status/537036957851721728\]

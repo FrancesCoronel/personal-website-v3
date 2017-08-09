@@ -38,7 +38,7 @@ tags:
 
 ### There are 2 main ideas behind selection. {#there-are-2-main-ideas-behind-selection. style="text-align:center;"}
 
-![](https://www.javatpoint.com/images/javascript/javascript_logo.png){.aligncenter}
+![](https://www.javatpoint.com/images/javascript/javascript_logo.png)
 
 **1. You have a basic working knowledge of JavaScript fundamentals.**
 
@@ -75,7 +75,7 @@ tags:
 **How do I prepare?**
 ---------------------
 
-![](https://www.nacacnet.org/studentinfo/PublishingImages/checklist3.jpg){.aligncenter}
+![](https://www.nacacnet.org/studentinfo/PublishingImages/checklist3.jpg)
 
 *The Gist Of It*
 
@@ -85,24 +85,24 @@ tags:
 
 **Helpful Resources**
 
--   [coderbyte](https://coderbyte.com/CodingArea/Challenges/ "Coderbyte Easy") -
+- [coderbyte](https://coderbyte.com/CodingArea/Challenges/ "Coderbyte Easy") -
     the easy challenges
--   [Codecademy](https://www.codecademy.com/en/tracks/javascript "Codecademy") -
+- [Codecademy](https://www.codecademy.com/en/tracks/javascript "Codecademy") -
     the JavaScript track
--   [Code
+- [Code
     School](https://www.codeschool.com/paths/javascript "Code School") -
     the `Road to JavaScript`
--   [Eloquent JavaScript: 2nd
+- [Eloquent JavaScript: 2nd
     Edition](https://eloquentjavascript.net "Eloquent JavaScript") -
     basically reading the whole book would be helpful, but if you can’t
     do that, then the 1st 5 chapters are pretty key
 
 **Going All Out**
 
--   [JavaScript: The Good
+- [JavaScript: The Good
     Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742 "JavaScript: The Good Parts") -
     the first few chapters
--   [Functional
+- [Functional
     JavaScript](https://shop.oreilly.com/product/0636920028857.do "Functional JavaScript") -
     again, the first few chapters
 
@@ -128,11 +128,11 @@ tags:
 
 **Prep Resources Offered by Bootcamps**
 
-1.  [[App Academy Prep
+1. [[App Academy Prep
     Work](https://github.com/appacademy/prep-work){.external_link}]{.qlink_container}
-2.  [[Code Fellows - GitBook on Full Stack JavaScript
+2. [[Code Fellows - GitBook on Full Stack JavaScript
     Engineering](https://fsje.codefellows.org/index.html){.external_link}]{.qlink_container}
-3.  [[Flatiron
+3. [[Flatiron
     Prework](https://prework.flatironschool.com/){.external_link}]{.qlink_container}
 4.  [[Fullstack Academy Interview Preparation
     Guide](https://www.fullstackacademy.com/interview_prep){.external_link}]{.qlink_container}
@@ -182,20 +182,20 @@ each](https://fvcproductions.com/2014/11/10/magnifying-the-bootcamp-research-exp
 
 I also have shared my **interview experience** with bootcamps such as
 
--   [Bitmaker
+- [Bitmaker
     Labs](https://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
--   [Coding
+- [Coding
     Dojo](https://fvcproductions.com/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
--   [Coding
+- [Coding
     House](https://fvcproductions.com/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
--   [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
--   [Dev
+- [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+- [Dev
     League](https://fvcproductions.com/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
--   [Fullstack
+- [Fullstack
     Academy](https://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
--   [Hack
+- [Hack
     Reactor](https://fvcproductions.com/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
--   [Maker
+- [Maker
     Square](https://fvcproductions.com/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
 ------------------------------------------------------------------------

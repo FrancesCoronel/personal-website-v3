@@ -11,27 +11,27 @@ gallery:
       url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg
 ---
 
-> Name
+## Name
 
-## <a title="STARS" href="https://www.starscelebration.org/2014/" target="_blank" rel="noopener">STARS Celebration 2014</a>
+<a title="STARS" href="https://www.starscelebration.org/2014/" target="_blank" rel="noopener">STARS Celebration 2014</a>
 
-> Organizer
+## Organizer
 
 STARS Computing Corps
 
-> Location
+## Location
 
 Hyatt Regency Crystal City - Arlington, Virginia
 
-> Date
+## Date
 
 August 14th to 16th, 2014
 
-> Role
+## Role
 
 Scholarship Recipient
 
-> About
+## About
 
 STARS (Students & Technology in Academia, Research & Service) Computing Corps is a community of practice for student-led regional engagement as a means to broaden participation in computing.
 

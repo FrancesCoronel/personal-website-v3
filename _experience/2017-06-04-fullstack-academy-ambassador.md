@@ -8,23 +8,23 @@ excerpt: Marketing and mentoring done for Fullstack Academy as an ambassador for
 
 > Employer
 
-## <a title="Fullstack Academy" href="https://fullstackacademy.com" target="_blank" rel="noopener">Fullstack Academy</a>
+<a title="Fullstack Academy" href="https://fullstackacademy.com" target="_blank" rel="noopener">Fullstack Academy</a>
 
-> Location
+## Location
 
 New York City, NY
 
-> Date
+## Date
 
 December 2016 to June 2017
 
-> About
+## About
 
 Fullstack Academy's flagship program is a full-time accelerated bootcamp for software engineering. Named "Best Coding Bootcamp" in the country by SkilledUp, a leading tech-education publication. Y Combinator backed.
 
 In January 2016, Fullstack Academy launched Grace Hopper Academy, the first all-women coding bootcamp in New York City, and the first in the country to offer a deferred tuition model.
 
-> Role
+## Role
 
 ### Ambassador (Part-Time)
 

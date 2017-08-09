@@ -15,27 +15,27 @@ gallery:
       url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/06/revconf2016-0009.jpg
 ---
 
-> Name
+## Name
 
 ## Accenture All-Hands Conference (Northern California)
 
-> Organizer
+## Organizer
 
 Accenture
 
-> Location
+## Location
 
 San Francisco, CA
 
-> Date
+## Date
 
 June 17th, 2016
 
-> Role
+## Role
 
 Participant
 
-> About
+## About
 
 This was a conference all Accenture employees in the San Francisco Bay
 Area are invited to every year. It was cool to see all the different

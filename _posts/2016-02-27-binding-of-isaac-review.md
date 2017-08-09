@@ -134,7 +134,7 @@ leads to the basement (which is *btw*, **HUMONGOUS**).
  
 
 ![Final
-Boss](https://i.ytimg.com/vi/CQf_IGtA8_k/maxresdefault.jpg){.aligncenter}
+Boss](https://i.ytimg.com/vi/CQf_IGtA8_k/maxresdefault.jpg)
 
 *The final boss in the basement is Isaac’s mother, btw.*
 
@@ -143,7 +143,7 @@ MAJOR SPOILER {#majorspoiler style="text-align:center;"}
 
 HOWEVER, it turns out the plot thickens.
 
-![REAL PLOT](https://i.imgur.com/Ucwvi.jpg){.aligncenter}
+![REAL PLOT](https://i.imgur.com/Ucwvi.jpg)
 
 This is, of course, where all the real fun begins. {#this-is-of-course-where-all-the-real-fun-begins. style="text-align:center;"}
 ==================================================
@@ -171,7 +171,7 @@ was *Isaac*’s own dog and the game lets you know that he is instantly
 *traumatized and gains a very wide-eyed stare*.
 
 ![Maxs
-Head](https://vignette1.wikia.nocookie.net/bindingofisaac/images/a/ab/Maxs_Head_Icon.png/revision/latest?cb=20120707135906){.aligncenter}
+Head](https://vignette1.wikia.nocookie.net/bindingofisaac/images/a/ab/Maxs_Head_Icon.png/revision/latest?cb=20120707135906)
 
  
 
@@ -183,7 +183,7 @@ It’s no wonder that the item multiplies the damage stats of *Isaac* by
 so much.
 
 ![In-Game
-Appearance](https://vignette3.wikia.nocookie.net/bindingofisaac/images/4/40/Maxs_Head_Isaac.png/revision/latest?cb=20130128122345){.aligncenter}
+Appearance](https://vignette3.wikia.nocookie.net/bindingofisaac/images/4/40/Maxs_Head_Isaac.png/revision/latest?cb=20130128122345)
 
 > What doesn’t kill you makes you stronger, I suppose.
 
@@ -209,14 +209,14 @@ convenient) was the diversity of all the monsters. At the end, they
 would join hands to fight against you which only made it more
 appropriate in my eyes.
 
-![Monsters](https://i.ytimg.com/vi/BagNR03izGE/maxresdefault.jpg){.aligncenter}
+![Monsters](https://i.ytimg.com/vi/BagNR03izGE/maxresdefault.jpg)
 
 A more interesting aspect of the monsters at the mini-boss level is how
 they represent the seven deadly sins:
 
-1.  Envy
-2.  Pride
-3.  Gluttony
+1. Envy
+2. Pride
+3. Gluttony
 4.  Sloth
 5.  Greed
 6.  Wrath
@@ -275,7 +275,7 @@ receive a lot better stats than you would with normal Isaac or just more
 items to start the game out with (i.e. with blondie, you would start out
 with a lot more hearts or life).
 
-![Characters](https://sickr.files.wordpress.com/2014/10/binding_of_isaac_who_am_i.jpg){.aligncenter}
+![Characters](https://sickr.files.wordpress.com/2014/10/binding_of_isaac_who_am_i.jpg)
 
 The Best Part {#thebestpart style="text-align:center;"}
 -------------
@@ -288,7 +288,7 @@ first time one of the little creatures joined my crew, I was quite
 joyous. Suddenly, *Issac* wasn’t in this alone. He had help from his
 crew. He was the leader of something. He was forming a revolution.
 
-![Friends](https://sickr.files.wordpress.com/2015/04/the_binding_of_issac_rebirth.jpg){.aligncenter}
+![Friends](https://sickr.files.wordpress.com/2015/04/the_binding_of_issac_rebirth.jpg)
 
  
 
@@ -298,7 +298,7 @@ when one of the characters shouts out
 ### BUDDIES!!! {#buddies style="text-align:center;"}
 
 ![Buddies -
-Minions](https://www.minionmovie.com.au/images/shareimage.jpg){.aligncenter}
+Minions](https://www.minionmovie.com.au/images/shareimage.jpg)
 
 In-Game Screenshots {#in-game-screenshots style="text-align:center;"}
 -------------------
@@ -313,7 +313,7 @@ Even if you’re not into the horror genre of games, I’d give *Isaac* a
 shot because he’s in desperate times and he deserves all the help he can
 get.
 
-![Died](https://i1.wp.com/www.owengrieve.com/caps/2011-10-02_1128.png?resize=600%2C338){.aligncenter}
+![Died](https://i1.wp.com/www.owengrieve.com/caps/2011-10-02_1128.png?resize=600%2C338)
 
 Happy re-birthing. {#happy-re-birthing. style="text-align:center;"}
 ==================

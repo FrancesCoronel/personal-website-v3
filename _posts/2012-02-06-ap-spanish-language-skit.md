@@ -20,9 +20,9 @@ header:
 
 For this parody, you will need
 
-1.  1 Wolf mask (or a hairy dude)
-2.  3 Pig masks (or 3 fat people... I kid, I kid!)
-3.  Guns/Knives (better if fake so no one accidentally gets shanked)
+1. 1 Wolf mask (or a hairy dude)
+2. 3 Pig masks (or 3 fat people... I kid, I kid!)
+3. Guns/Knives (better if fake so no one accidentally gets shanked)
 4.  Fake monopoly money
 5.  Light-saber (optional... helps create image of psychopath)
 

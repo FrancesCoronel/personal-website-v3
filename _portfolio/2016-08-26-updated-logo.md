@@ -7,7 +7,7 @@ background.'
 ---
 
 Decided to update my logo to reflect a more minimal and clean design that could work with any background. I also made sure there were different versions with certain amounts of text (none, bottom, side).
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------
 
  
 

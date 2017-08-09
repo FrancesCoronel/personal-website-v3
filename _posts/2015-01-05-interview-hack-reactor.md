@@ -137,16 +137,16 @@ experienced in his cohort).
 
 > Pertaining to Hack Reactor
 
-1.  **Why do you think those specific bootcamps were chosen to meet with
+1. **Why do you think those specific bootcamps were chosen to meet with
     the Department of Veteran Affairs at the White House?** I’m not
     allowed to comment on that.
-2.  **How do you guys keep a database of all the graduate outcomes?**
+2. **How do you guys keep a database of all the graduate outcomes?**
     The HR community is very strong. The hiring and admissions team
     always make sure the outcome is very positive. For as long the
     school is in existence, HR intends to stay involved in the students
     and their aftermath. Outcomes are generally tracked from the
     beginning of the application.
-3.  **I heard somewhere that you guys use Code School for part of your
+3. **I heard somewhere that you guys use Code School for part of your
     pre-work?** When a student is accepted, a large amount of pre-work
     gets assigned for them to accomplish. There is a number of mandatory
     exercises, and then about 2/3 of that is recommended work. Of that
@@ -160,7 +160,7 @@ experienced in his cohort).
 
 > Overall Student Experience
 
-1.  **If a student was not doing well midway through the program, how
+1. **If a student was not doing well midway through the program, how
     does Hack Reactor handle that?** What we’re told to do as students
     is to make sure to raise those red flags as soon as possible. Having
     said that, there are many safety mechanisms in place. There are
@@ -168,11 +168,11 @@ experienced in his cohort).
     involved in each of the incoming classes. The abilities of each
     student will end up tailoring the after hour activities or lectures.
     No one is going to get left behind.
-2.  **What events do students attend outside the bootcamp (e.g.
+2. **What events do students attend outside the bootcamp (e.g.
     Hackathons, Meetups)?** We host Hackathons here at Hack Reactor and
     we have our own Meetup group. We don’t recommend outside Hackathons
     during the program because there wouldn’t be any time.
-3.  **In the 2nd part of the bootcamp where they have to make projects,
+3. **In the 2nd part of the bootcamp where they have to make projects,
     do teams struggle to come up with solid ideas or do you encourage
     them to think about them beforehand or how does that work?** For the
     individual project, I had something I wanted to work on. For the
@@ -189,10 +189,10 @@ experienced in his cohort).
 
 > Logistics/Numbers
 
-1.  **Did a large percentage of your cohort have a CS background?** No.
-2.  **Does anybody drop out after experiencing the pre-work?** I have no
+1. **Did a large percentage of your cohort have a CS background?** No.
+2. **Does anybody drop out after experiencing the pre-work?** I have no
     info on that.
-3.  **Out of the applicants you accept, what % of that end up
+3. **Out of the applicants you accept, what % of that end up
     attending?** I have no info on that.
 4.  **How do refunds work? At what point do you stop offering full
     refunds?** (UPDATE - March 31, 2016 - Got some info on this from a
@@ -210,16 +210,16 @@ experienced in his cohort).
 
 > Personal Cohort Experience
 
-1.  **Did you ever go through imposter syndrome?** Yeah, absolutely. It
+1. **Did you ever go through imposter syndrome?** Yeah, absolutely. It
     gets talked about a lot here, because the amount of information is
     tremendous that it is impossible to know everything. No one knows
     everything. It’s definitely something that’s talked about and so are
     strategies to overcome it.
-2.  **What was your project about?** My solo project was an astronomy
+2. **What was your project about?** My solo project was an astronomy
     app that would tell you the positioning of all the planets and my
     thesis project involved my team and I creating an iPhone app
     ([Endevr](https://www.youtube.com/watch?v=XTizYogXstU "Endevr")).
-3.  **How often did you stay up late in your experience at Hack
+3. **How often did you stay up late in your experience at Hack
     Reactor?** I was pretty aggressive about getting 6–7 hours of sleep.
     And yes I did stay up late but it was’t frequent.
 4.  **If you made a switch, why do you think you chose your initial
@@ -249,10 +249,10 @@ experienced in his cohort).
 **Questions I Forgot To Ask**
 -----------------------------
 
-1.  Are people encouraged to learn Ruby at all during the program? Why
+1. Are people encouraged to learn Ruby at all during the program? Why
     or why not?
-2.  Define software engineer in HR terms.
-3.  Could you say without a doubt that 100% of grads can be considered
+2. Define software engineer in HR terms.
+3. Could you say without a doubt that 100% of grads can be considered
     software engineers?
 4.  Can I offer suggestions to the website?
 
@@ -311,18 +311,18 @@ https://www.youtube.com/watch?v=dt-dpATRP\_4
 
 I also have shared my **interview experience** with bootcamps such as
 
--   [Bitmaker
+- [Bitmaker
     Labs](https://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
--   [Coding
+- [Coding
     Dojo](https://fvcproductions.com/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
--   [Coding
+- [Coding
     House](https://fvcproductions.com/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
--   [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
--   [Dev
+- [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+- [Dev
     League](https://fvcproductions.com/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
--   [Fullstack
+- [Fullstack
     Academy](https://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
--   [Maker
+- [Maker
     Square](https://fvcproductions.com/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
 ------------------------------------------------------------------------

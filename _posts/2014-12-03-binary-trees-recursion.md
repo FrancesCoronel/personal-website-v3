@@ -105,15 +105,15 @@ CSC251 Study Guide 😓
 
 -   **How to Delete A Binary Search Tree** ␡
     -   no successor
-        1.  if node is leaf, simply removed
-        2.  but if root is leaf, pointer to tree assigned null value
+        1. if node is leaf, simply removed
+        2. but if root is leaf, pointer to tree assigned null value
     -   one successor
-        1.  parent node connected to sucessor node
-        2.  deleted node disposed of
+        1. parent node connected to sucessor node
+        2. deleted node disposed of
     -   two successors
-        1.  find logical predecessor (node in left subtree with largest
+        1. find logical predecessor (node in left subtree with largest
             value)
-        2.  logical predecessor replaces deleted node
+        2. logical predecessor replaces deleted node
 
 ------------------------------------------------------------------------
 

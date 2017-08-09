@@ -53,27 +53,27 @@ gallery:
       url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/07/accentureslc-23.jpg
 ---
 
-> Name
+## Name
 
-## <a title="Accenture Student Leadership Conference" href="https://www.accenture.com/us-en/careers/student-leadership-conference" target="_blank" rel="noopener">Student Leadership Conference</a>
+<a title="Accenture Student Leadership Conference" href="https://www.accenture.com/us-en/careers/student-leadership-conference" target="_blank" rel="noopener">Student Leadership Conference</a>
 
-> Organizer
+## Organizer
 
 Accenture
 
-> Location
+## Location
 
 Q Center - St Charles, Illinois
 
-> Date
+## Date
 
 June 27th to 29th, 2016
 
-> Role
+## Role
 
 Participant
 
-> About
+## About
 
 Accenture annually hosts the Student Leadership Conference (SLC) for their summer interns from across the US and Canada.
 

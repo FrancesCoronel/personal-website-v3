@@ -32,7 +32,7 @@ To the point where it’s actually nothing like the sweet picture above.
 It’s more like this:
 
 [![Cute But Angry
-Bee](https://fvcproductions.files.wordpress.com/2015/06/cute-but-angry-bee.png?w=282){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/06/cute-but-angry-bee.png)
+Bee](https://fvcproductions.files.wordpress.com/2015/06/cute-but-angry-bee.png?w=282)](https://fvcproductions.files.wordpress.com/2015/06/cute-but-angry-bee.png)
 
 So I’m taking a break and writing about how I’ve become the annoyed bee
 depicted above. It’ll allow me to destress for some strange reason.
@@ -40,9 +40,9 @@ depicted above. It’ll allow me to destress for some strange reason.
 Since this is going to be a ridiculously long post (playing catch up
 here), I’ve broken it into sections:
 
-1.  [The Rant](#section-rant)
-2.  [The Big Presentation](#section-presentation)
-3.  [The Foundations](#section-foundations)
+1. [The Rant](#section-rant)
+2. [The Big Presentation](#section-presentation)
+3. [The Foundations](#section-foundations)
 4.  [The Numbers](#section-numbers)
 5.  [The Journey So Far](#section-journey)
 
@@ -56,11 +56,11 @@ Goldman Sachs.
 But that’s not all. Otherwise, I’d still be the first bee. As of now, I
 also have to handle the following:
 
-1.  Finalizing the website and designing a logo for my first ever
+1. Finalizing the website and designing a logo for my first ever
     official client, [Ameot](https://www.ameot.com/ "Ameot")
-2.  Studying for that silly standardized exam (sadly, no - I’m actually
+2. Studying for that silly standardized exam (sadly, no - I’m actually
     talking about the [GRE](https://www.ets.org/gre "GRE")).
-3.  Taking an online summer course that is a total waste of time but I
+3. Taking an online summer course that is a total waste of time but I
     need the course to graduate as a CS major (the course is CSC 120
     which is basically required for all students and learn the ins and
     out of useful things like Microsoft Office, PowerPoint, & Excel,
@@ -122,10 +122,10 @@ Floors 12–14 for instance and then another for Floors 30–40 and so on
 and so forth.
 
 ![The First Floor
-Entrance](https://farm6.static.flickr.com/5286/5319954555_189fc82df2_b.jpg "200 West Street"){.aligncenter}![To
+Entrance](https://farm6.static.flickr.com/5286/5319954555_189fc82df2_b.jpg "200 West Street")![To
 the 11th
-Floor](https://www.3dhousedownload.com/wp-content/uploads/2012/11/Elevator-hallway-ceiling-interior-design-3D.jpg "Elevator Hallway"){.aligncenter}![11th
-Floor](https://static.businessinsider.com/image/5012d4beecad043223000007-590/foursquare-user-hugh-c-snapped-a-shot-of-goldmans-sky-lobby-inside-its-200-west-offices.jpg "Sky Lobby"){.aligncenter}
+Floor](https://www.3dhousedownload.com/wp-content/uploads/2012/11/Elevator-hallway-ceiling-interior-design-3D.jpg "Elevator Hallway")![11th
+Floor](https://static.businessinsider.com/image/5012d4beecad043223000007-590/foursquare-user-hugh-c-snapped-a-shot-of-goldmans-sky-lobby-inside-its-200-west-offices.jpg "Sky Lobby")
 
 Everyone was so used to all the elevators and there were so many people
 just packing inside the next available elevator. It felt like something
@@ -148,7 +148,7 @@ crap!), I did end up finishing the “Guessing Game”, which was a lot of
 fun.
 
 [![The Guessing
-Game](https://fvcproductions.files.wordpress.com/2015/06/unknown.png){.aligncenter}](https://fvcproductions.files.wordpress.com/2015/06/unknown.png)
+Game](https://fvcproductions.files.wordpress.com/2015/06/unknown.png)](https://fvcproductions.files.wordpress.com/2015/06/unknown.png)
 
 > You’re welcome to play the game at
 > [fvcproductions.github.io/Guessing-Game](https://fvcproductions.github.io/Guessing-Game/ "Guessing Game").
@@ -271,17 +271,17 @@ estimating.
 
 > So Far
 
--   [The
+- [The
     Search](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
--   [The
+- [The
     Application](https://fvcproductions.com/2014/12/23/week-20/ "The Application")
--   [The
+- [The
     Preparation](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
--   [The
+- [The
     Interview](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/ "The Interview")
--   [The
+- [The
     Decision](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/ "The Decision")
--   [Fullstack Foundations - Week
+- [Fullstack Foundations - Week
     1](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
--   [Fullstack Foundations - Weeks 2 -
+- [Fullstack Foundations - Weeks 2 -
     4](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
