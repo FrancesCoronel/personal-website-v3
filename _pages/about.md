@@ -7,14 +7,15 @@ modified: 2017-05-25
 
 <h2>I like to dabble with things that <del>shouldn’t</del> ought to be dabbled with.</h2>
 
-Well, at least… that’s my slogan.
+Well, at least... that's my slogan.
 
-My “life motto”, if you will.
+My "life motto", if you will.
 
 Might have something to do with human nature in general, though, so interpret it as you will.
 
 ### Blurb
 
+- SWE with a focus on UI development at Accenture's Liquid Studio in Redwood City, CA 💼
 - Self-driven MS in CS grad with a panache for design 🎓️ 🔨️
 - Latina who gets a lot of personal satisfaction out of helping my local tech community 😊
 - Mentor, freelancer & speaker 💬️
@@ -26,9 +27,10 @@ Might have something to do with human nature in general, though, so interpret it
 
 > This a [now section](https://nownownow.com/about) and if you have your own site, you should make one, too!
 
-- mentoring a student as part of my Fullstack Academy ambassador gig
-- getting ready to move to SF
-- updating this website to be awesomeeeee
+- prepping current state of Jekyll build to migrate to Gatsby
+    - mostly consists of perfecting markdown files and envisioning how my website should look like
+- working at Accenture's Liquid Studio in Redwood City as a SWE
+- applying to volunteer or just participate in awesome tech events
 
 ### Where You Can Find My Work 🍓️
 

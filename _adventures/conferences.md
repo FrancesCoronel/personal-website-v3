@@ -24,8 +24,9 @@ tags:
 
 ### Upcoming
 
-- AffectConf (September 15th-16th)
-- Strange Loop (September 28th-30th)
+- [AffectConf](https://affectconf.com/) (September 15th-16th)
+- [ElmConf](https://www.elm-conf.us/) (September 28th)
+- [Strange Loop](https://www.thestrangeloop.com/) (September 29th-30th)
 
 ### Past
 

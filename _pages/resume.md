@@ -4,7 +4,7 @@ permalink: /resume/
 excerpt: "One page that tries its best to summarize me both academically and professionally. Hah."
 ---
 
-## For a live version of my resume, please refer to <a href="https://linkedin.com/in/fvcproductions" target="_blank" rel="noopener">my LinkedIn</a>.
+## For a live version of my resume, please refer to <a href="https://linkedin.com/in/fvcproductions" target="_blank" rel="noopener">my LinkedIn profile</a>
 
 > Feel free to connect with me on there! 👥️
 

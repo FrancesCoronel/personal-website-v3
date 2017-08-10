@@ -1,11 +1,14 @@
 ---
-title: "Middle School Accomplishments"
-permalink: /middle-school
+title: "Middle School"
 excerpt: "What I did before and during middle school."
 modified: 2009-09-22
+header:
+    image: https://www.npsk12.com/cms/lib/VA02208074/Centricity/ModuleInstance/14118/ghent.JPG
 ---
 
-## Extracurricular
+This was of as of 9th grade in high school.
+
+## Activities
 
 - Swimming - 7th year
 - Tennis - 4th year
