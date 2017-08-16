@@ -22,9 +22,11 @@ layout: default
                 <h1 class="page__title" itemprop="headline">
                     {% if page.cta_url %}
                     <a href="{{ page.cta_url }}" target="_blank" rel="noopener">
-                                {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
-                            </a> {% else %} {{ page.title | markdownify | remove: "
-                    <p>" | remove: "</p>" }} {% endif %}
+                        {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+                    </a>
+                    {% else %}
+                        {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+                    {% endif %}
                 </h1>
                 {% endif %}
             </header>

@@ -15,6 +15,10 @@
     margin-bottom: 1rem;
 }
 
+h1.page__title > p {
+    margin: 0;
+}
+
 .page__lead {
     font-family: $global-font-family;
     font-size: $type-size-4;
@@ -70,7 +74,7 @@
 .page__share,
 .page__comments,
 .page__pagination,
-.page__related, 
+.page__related,
 .page__taxonomy {
     @include full();
     @include clearfix();
