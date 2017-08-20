@@ -7,14 +7,11 @@
     padding-left: 15px;
     padding-right: 15px;
     margin-top: 2rem;
+    @media screen and (max-width: $mobile) {
+        max-width: 90%;
+    }
 }
 
 body.layout--splash #main {
     margin-top: 1em;
-}
-
-@media screen and (max-width: $mobile) {
-    #main {
-        max-width: 90%;
-    }
 }

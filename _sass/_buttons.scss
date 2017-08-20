@@ -202,15 +202,17 @@ a.btn:hover {
     color: #fff;
     margin: 0;
     position: relative;
-    left: 0;
+    left: 10px;
     top: 0;
     font-size: 2em;
-    padding: 35%;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
+    @media screen and (max-width: $mobile) {
+        font-size: 2.5em
+    }
 }
 
 #return-to-top:hover {
