@@ -30,7 +30,7 @@
         .page__meta,
         .page__lead,
         .btn {
-            color: $black;
+            color: $white;
         }
         .page__lead {
             max-width: $medium;
@@ -144,4 +144,5 @@
 
 #primary-header .entry-title {
     font-size: ($type-size-1 * 2);
+    padding: .5em;
 }

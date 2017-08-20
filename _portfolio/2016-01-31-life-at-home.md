@@ -1,5 +1,5 @@
 ---
-title: "Life at Home \\U0001F3E1"
+title: "Life at Home 🏠"
 date: 2016-01-31
 excerpt: 'A mobile user interface for an Android application that allows users to send push notifications containing common household alerts and phrases to the Android devices of their family members.'
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fullstack Academy - Week 2 ⌘⌘
+title: Fullstack Academy - Week 2 👬
 date: 2015-06-20
 excerpt: "June 15th to 19th.\\r\\n\\r\\nThere are 58 57 days in Fullstack. These are the second 5."
 header:

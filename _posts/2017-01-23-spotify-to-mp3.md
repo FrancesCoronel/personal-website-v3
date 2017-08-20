@@ -1,5 +1,5 @@
 ---
-title: "Convert a Spotify Playlist to MP3 Files"
+title: "Convert a Spotify Playlist to MP3 Files 🎵"
 excerpt: Want to convert all your favorite tunes from your Spotify playlist to mp3 files that can be imported to iTunes? Look no further.
 date: 2017-01-23
 header:

@@ -1,5 +1,5 @@
 ---
-title: "README Template for GitHub \\U0001F4DD"
+title: "README Template for GitHub 📄"
 date: 2015-08-20
 excerpt: For all you GitHub lovers out there.
 ---

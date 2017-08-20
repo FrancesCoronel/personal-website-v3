@@ -1,5 +1,5 @@
 ---
-title: "Designlab Submissions \\U0001F3A8"
+title: "Designlab Submissions 🎨"
 date: 2015-10-09
 excerpt: These are some of my favorite submissions from Design 101 course on Designlab.
 ---

@@ -1,5 +1,5 @@
 ---
-title: "VA ACM Slack Invites \\U0001F4E9"
+title: "VA ACM Slack Invites 👥"
 date: 2016-01-04
 excerpt: Meet with other ACM student members and be updated on the latest announcements to get more involved in the local tech community.
 ---

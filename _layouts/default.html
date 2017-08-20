@@ -6,8 +6,8 @@ layout: compress
 <html lang="{{ site.locale | slice: 0,2 }}">
 
 {% include header/head.html %}
-
 <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    <a href="javascript:" id="return-to-top"><i class="fa fa-angle-up"></i></a>
     {% include base/browser-upgrade.html %}
     {% include header/masthead.html %}
     {{ content }}

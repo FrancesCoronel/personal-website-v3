@@ -1,5 +1,5 @@
 ---
-title: "Auschwitz: A Doctor's Eyewitness Account \\U0001F4D6"
+title: "Auschwitz: A Doctor's Eyewitness Account 📖"
 date: 2015-04-11
 excerpt: 'Book review of "Auschwitz: A Doctor''s Eyewitness Account".'
 header:

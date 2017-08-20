@@ -7,7 +7,7 @@
 		"uuidString": "E645A32B-9853-46C2-9B14-A9C7DFE1AA7A"
 		}
 	],
-"creatorBuild": "25849",
+"creatorBuild": "25900",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -160,143 +160,154 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/favicons\/apple-touch-icon-114x114.png": {
+	"\/assets\/favicons\/favicon-114.png": {
 		"ft": 32768,
-		"iS": 2954,
+		"iS": 9209,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/apple-touch-icon-114x114.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/favicons\/apple-touch-icon-120x120.png": {
-		"ft": 32768,
-		"iS": 2288,
-		"oA": 0,
-		"oAP": "\/assets\/favicons\/apple-touch-icon-120x120.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/favicons\/apple-touch-icon-144x144.png": {
-		"ft": 32768,
-		"iS": 3746,
-		"oA": 0,
-		"oAP": "\/assets\/favicons\/apple-touch-icon-144x144.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/favicons\/apple-touch-icon-152x152.png": {
-		"ft": 32768,
-		"iS": 6378,
-		"oA": 0,
-		"oAP": "\/assets\/favicons\/apple-touch-icon-152x152.png",
+		"oAP": "\/assets\/favicons\/favicon-114.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/apple-touch-icon-57x57.png": {
+	"\/assets\/favicons\/favicon-120.png": {
 		"ft": 32768,
-		"iS": 1070,
+		"iS": 9789,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/apple-touch-icon-57x57.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/favicons\/apple-touch-icon-60x60.png": {
-		"ft": 32768,
-		"iS": 1054,
-		"oA": 0,
-		"oAP": "\/assets\/favicons\/apple-touch-icon-60x60.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/favicons\/apple-touch-icon-72x72.png": {
-		"ft": 32768,
-		"iS": 1443,
-		"oA": 0,
-		"oAP": "\/assets\/favicons\/apple-touch-icon-72x72.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/favicons\/apple-touch-icon-76x76.png": {
-		"ft": 32768,
-		"iS": 1646,
-		"oA": 0,
-		"oAP": "\/assets\/favicons\/apple-touch-icon-76x76.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/favicons\/favicon-128.png": {
-		"ft": 32768,
-		"iS": 2148,
-		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-128.png",
+		"oAP": "\/assets\/favicons\/favicon-120.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-16x16.png": {
+	"\/assets\/favicons\/favicon-144.png": {
 		"ft": 32768,
-		"iS": 257,
+		"iS": 12544,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-16x16.png",
+		"oAP": "\/assets\/favicons\/favicon-144.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-196x196.png": {
+	"\/assets\/favicons\/favicon-152.png": {
 		"ft": 32768,
-		"iS": 7969,
+		"iS": 13435,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-196x196.png",
+		"oAP": "\/assets\/favicons\/favicon-152.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-32x32.png": {
+	"\/assets\/favicons\/favicon-180.png": {
 		"ft": 32768,
-		"iS": 509,
+		"iS": 16589,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-32x32.png",
+		"oAP": "\/assets\/favicons\/favicon-180.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-96x96.png": {
+	"\/assets\/favicons\/favicon-192.png": {
 		"ft": 32768,
-		"iS": 2115,
+		"iS": 18479,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-96x96.png",
+		"oAP": "\/assets\/favicons\/favicon-192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/favicon-32.png": {
+		"ft": 32768,
+		"iS": 2448,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/favicon-32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/favicon-36.png": {
+		"ft": 32768,
+		"iS": 2703,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/favicon-36.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/favicon-48.png": {
+		"ft": 32768,
+		"iS": 3525,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/favicon-48.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/favicon-57.png": {
+		"ft": 32768,
+		"iS": 4179,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/favicon-57.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/favicon-60.png": {
+		"ft": 32768,
+		"iS": 4368,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/favicon-60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/favicon-72.png": {
+		"ft": 32768,
+		"iS": 5306,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/favicon-72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/favicon-76.png": {
+		"ft": 32768,
+		"iS": 5671,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/favicon-76.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/favicon-96.png": {
+		"ft": 32768,
+		"iS": 7387,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/favicon-96.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -309,60 +320,13 @@
 		"oAP": "\/assets\/favicons\/favicon.ico",
 		"oF": 0
 		},
-	"\/assets\/favicons\/mstile-144x144.png": {
-		"ft": 32768,
-		"iS": 4780,
-		"oA": 0,
-		"oAP": "\/assets\/favicons\/mstile-144x144.png",
+	"\/assets\/favicons\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/assets\/favicons\/manifest-min.json",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/favicons\/mstile-150x150.png": {
-		"ft": 32768,
-		"iS": 17718,
-		"oA": 0,
-		"oAP": "\/assets\/favicons\/mstile-150x150.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/favicons\/mstile-310x150.png": {
-		"ft": 32768,
-		"iS": 252077,
-		"oA": 0,
-		"oAP": "\/assets\/favicons\/mstile-310x150.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/favicons\/mstile-310x310.png": {
-		"ft": 32768,
-		"iS": 79473,
-		"oA": 0,
-		"oAP": "\/assets\/favicons\/mstile-310x310.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/favicons\/mstile-70x70.png": {
-		"ft": 32768,
-		"iS": 2148,
-		"oA": 0,
-		"oAP": "\/assets\/favicons\/mstile-70x70.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
+		"oO": 0,
+		"oS": 1
 		},
 	"\/assets\/fonts\/font-awesome\/fontawesome-webfont.eot": {
 		"ft": 8192,
@@ -432,82 +396,72 @@
 		"oAP": "\/assets\/fonts\/lg.woff",
 		"oF": 0
 		},
-	"\/assets\/img\/loading.gif": {
+	"\/assets\/images\/loading.gif": {
 		"ft": 4194304,
 		"iS": 4178,
 		"oA": 0,
-		"oAP": "\/assets\/img\/loading.gif",
+		"oAP": "\/assets\/images\/loading.gif",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/assets\/img\/logo-black.svg": {
+	"\/assets\/images\/logo-circle.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/img\/logo-black.svg",
+		"oAP": "\/assets\/images\/logo-circle.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/img\/logo-red.svg": {
+	"\/assets\/images\/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/img\/logo-red.svg",
+		"oAP": "\/assets\/images\/logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/img\/logo-white.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/img\/logo-white.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/assets\/img\/teaser.png": {
+	"\/assets\/images\/teaser.png": {
 		"ft": 32768,
-		"iS": 99295,
+		"iS": 254626,
 		"oA": 0,
-		"oAP": "\/assets\/img\/teaser.png",
+		"oAP": "\/assets\/images\/teaser.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/img\/video-play.png": {
+	"\/assets\/images\/video-play.png": {
 		"ft": 32768,
 		"iS": 4526,
 		"oA": 0,
-		"oAP": "\/assets\/img\/video-play.png",
+		"oAP": "\/assets\/images\/video-play.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/img\/vimeo-play.png": {
+	"\/assets\/images\/vimeo-play.png": {
 		"ft": 32768,
 		"iS": 5428,
 		"oA": 0,
-		"oAP": "\/assets\/img\/vimeo-play.png",
+		"oAP": "\/assets\/images\/vimeo-play.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/img\/youtube-play.png": {
+	"\/assets\/images\/youtube-play.png": {
 		"ft": 32768,
 		"iS": 5177,
 		"oA": 0,
-		"oAP": "\/assets\/img\/youtube-play.png",
+		"oAP": "\/assets\/images\/youtube-play.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -516,6 +470,7 @@
 		},
 	"\/assets\/js\/main.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/min\/main.min.js",
@@ -531,6 +486,7 @@
 		},
 	"\/assets\/js\/plugins\/greedy-navigation.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/assets\/js\/plugins\/min\/greedy-navigation-min.js",
@@ -540,6 +496,7 @@
 		},
 	"\/assets\/js\/plugins\/iframes.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/assets\/js\/plugins\/min\/iframes-min.js",
@@ -575,6 +532,12 @@
 		"ft": 65536,
 		"oA": 2,
 		"oAP": "\/build\/node_modules",
+		"oF": 0
+		},
+	"\/npm-debug.log.2717515348": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/npm-debug.log.2717515348",
 		"oF": 0
 		},
 	"\/Rakefile": {
@@ -1034,6 +997,10 @@
 			"active": 0,
 			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
 			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
 		"array-bracket-spacing": {
 			"active": 0,
 			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
@@ -1041,6 +1008,10 @@
 		"array-callback-return": {
 			"active": 0,
 			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
 			},
 		"arrow-body-style": {
 			"active": 0,
@@ -1138,6 +1109,10 @@
 			"active": 0,
 			"optionString": "'always', {'null': 'always'}"
 			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
 		"func-call-spacing": {
 			"active": 0,
 			"optionString": "'never'"
@@ -1157,6 +1132,10 @@
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
 			},
 		"global-require": {
 			"active": 0,
@@ -1285,6 +1264,10 @@
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-caller": {
 			"active": 0,
@@ -1830,6 +1813,10 @@
 			"active": 0,
 			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
 			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
 		"prefer-arrow-callback": {
 			"active": 0,
 			"optionString": ""
@@ -1898,6 +1885,10 @@
 			"active": 0,
 			"optionString": "{'before': false, 'after': true}"
 			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
 		"sort-imports": {
 			"active": 0,
 			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
@@ -1937,6 +1928,10 @@
 		"strict": {
 			"active": 0,
 			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
 			},
 		"symbol-description": {
 			"active": 0,
@@ -2570,6 +2565,7 @@
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, \/source\/_pages, \/source\/_portfolio, \/source\/_posts, \/source\/_drafts, \/source\/_speaking, \/source\/_adventures, \/source\/_testimonials, \/source\/_services, \/site, \/source\/_hackathons, \/source\/_feedback, \/_pages, \/_portfolio, \/_programs, \/_speaking, \/_experience, \/_conferences, \/_volunteering, \/_education, \/_adventures, \/_hackathons, \/_feedback, \/_services, \/_drafts, \/_posts, \/_includes, \/_layouts, \/_books, \/_data, \/_sass, \/.idea, \/.vscode, \/assets\/js\/min",
 	"sourceFolderName": "source",
+	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {

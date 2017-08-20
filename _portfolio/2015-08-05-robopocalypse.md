@@ -1,5 +1,5 @@
 ---
-title: "Robopocalypse \\U0001F47E"
+title: "Robopocalypse 🤖"
 date: 2015-08-05
 ---
 

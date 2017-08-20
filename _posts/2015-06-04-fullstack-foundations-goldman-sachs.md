@@ -1,5 +1,5 @@
 ---
-title: "Fullstack Foundations & Goldman Sachs \\U0001F680"
+title: "Fullstack Foundations & Goldman Sachs 🚀"
 date: 2015-06-04
 excerpt: An overview of what's been going on in Fullstack Foundations Week 2-4 and the big presentation with Goldman Sachs.
 header:

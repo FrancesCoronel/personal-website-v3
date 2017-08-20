@@ -1,5 +1,5 @@
 ---
-title: "MapMe | Coding Bootcamps \\U0001F37B"
+title: "MapMe | Coding Bootcamps 📍"
 date: 2016-01-12
 excerpt: A crowd-sourced map for coding bootcamps.
 ---

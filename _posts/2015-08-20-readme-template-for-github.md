@@ -1,5 +1,5 @@
 ---
-title: "README Template for GitHub \\U0001F4DD"
+title: "README Template for GitHub 📄"
 date: 2015-08-20
 excerpt: A README template for all your GitHub project needs.
 header:

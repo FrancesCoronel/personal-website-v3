@@ -1,5 +1,5 @@
 ---
-title: "Meetups Nearby \\U0001F30E"
+title: "Meetups Nearby 👥"
 date: 2015-11-11
 excerpt: We showcase tech-related meetups from the 757 area using a custom API & Meetup.com
 ---

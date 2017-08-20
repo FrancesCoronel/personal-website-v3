@@ -1,5 +1,5 @@
 ---
-title: "Hack the Vote \\U0001F1FA\\U0001F1F8"
+title: "Hack the Vote 🇺🇸"
 date: 2015-10-24
 ---
 

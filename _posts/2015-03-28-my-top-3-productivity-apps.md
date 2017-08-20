@@ -1,5 +1,5 @@
 ---
-title: "My Top 3 Productivity Apps \\U0001F4C8"
+title: "My Top 3 Productivity Apps 🎩"
 date: 2015-03-28
 excerpt: "RIP"
 header:

@@ -109,7 +109,7 @@ width="750"\]![Fullstack Academy - Week
 - [Fullstack Academy – Week 1
     💫](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/)
 - [Fullstack Academy – Week 2
-    ⌘⌘](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
+    👬](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
 - [Fullstack Academy – Week 3
     🔦🔦🔦](https://fvcproductions.com/2015/06/26/fullstack-academy-week-3/)
 - [Fullstack Academy – Week 4

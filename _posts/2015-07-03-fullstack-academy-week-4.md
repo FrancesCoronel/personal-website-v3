@@ -1,5 +1,5 @@
 ---
-title: "Fullstack Academy - Week 4 \\U0001F4B2"
+title: "Fullstack Academy - Week 4 💵"
 date: 2015-07-03
 excerpt: "June 29th to July 2nd\\r\\n\\r\ nThere are 57 days of Fullstack Academy. These are days 16 through 19 Week 4."
 header:

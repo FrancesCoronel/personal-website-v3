@@ -1,5 +1,5 @@
 ---
-title: "Bootcamp.me \\U0001F4CD"
+title: "Bootcamp.me 📍"
 date: 2014-12-28
 ---
 

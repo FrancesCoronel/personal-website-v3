@@ -1,6 +1,6 @@
 ---
 title: "Ender's Game - Book Review 👾"
-date: 2010-02-21
+date: 2010-08-03
 excerpt: "The Martian Chronicles, Star Wars, Lord of the Rings, Stranger in a Strange Land...an average geek’s favorite reading list can be literally incalculable."
 header:
     image: https://fvcproductions.files.wordpress.com/2013/08/enders-game.jpg

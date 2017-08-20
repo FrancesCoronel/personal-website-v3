@@ -4,7 +4,7 @@
     right: 0;
     left: 0;
     z-index: 1030;
-    background-color: $black;
+    background: #253137;
     width: 100%;
     box-shadow: 0 2px 4px -1px rgba(0,0,0,.2), 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12);
     &__inner-wrap {
@@ -99,7 +99,7 @@ nav ul ul li {
         }
         &:hover {
             color: $white !important;
-            background: $black !important;
+            background: #253137 !important;
         }
     }
 }

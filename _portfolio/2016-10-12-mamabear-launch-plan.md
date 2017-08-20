@@ -1,5 +1,5 @@
 ---
-title: "MamaBear Launch Plan \\U0001F36F"
+title: "MamaBear Launch Plan 🐻"
 date: 2016-10-12 12:00:44.000000000 -04:00 type: jetpack-portfolio
 published: true status: publish categories: \[\] tags: \[\]
 \_edit\_last: '52653790'  '1' \_thumbnail\_id:

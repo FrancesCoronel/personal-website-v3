@@ -1,5 +1,5 @@
 ---
-title: "Then what shall we code for? \\U0001F30A"
+title: "Then what shall we code for? 🌊"
 date: 2015-05-20
 excerpt: "Then what shall we code for?\\r\\n\\r\\nInspiration from POTC."
 header:

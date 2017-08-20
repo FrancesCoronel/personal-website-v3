@@ -1,5 +1,5 @@
 ---
-title: "FVCproductions | Updated Logo \\U0001F353"
+title: "FVCproductions | Updated Logo 🍓"
 date: 2016-08-26
 excerpt: 'Decided to update my logo to
 reflect a more minimal and clean design that could work with any

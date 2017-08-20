@@ -1,5 +1,5 @@
 ---
-title: "Reset Your Launchpad with Sorty \\U0001F503"
+title: "Reset Your Launchpad with Sorty 🔄"
 date: 2015-04-13
 excerpt: You can reset your launchpad on Yosemite using Sorty.
 header:

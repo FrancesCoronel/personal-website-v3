@@ -1,5 +1,5 @@
 ---
-title: "The MEGGS Case \\U0001F4F1"
+title: "The MEGGS Case 📱"
 date: 2016-10-01
 excerpt: MEGGS creates tech-focused cases that offer beautiful and well designed protective solutions for your iPhone 7.
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Fullstack Academy - Reflections"
+title: "Fullstack Academy - Reflections 💭"
 date: 2015-08-30
 excerpt: At the end of the day, I’m really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye opening pair programming sessions, and the awesome people.
 header:
@@ -212,7 +212,7 @@ The **Jubilant** Journey I Took Into the Cave of Digital Hieroglyphics {#thejour
 - [Fullstack Academy - Week 1
     💫](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/)
 - [Fullstack Academy - Week 2
-    ⌘⌘](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
+    👬](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
 - [Fullstack Academy - Week 3
     🔦🔦🔦](https://fvcproductions.com/2015/06/26/fullstack-academy-week-3/)
 - [Fullstack Academy - Week 4

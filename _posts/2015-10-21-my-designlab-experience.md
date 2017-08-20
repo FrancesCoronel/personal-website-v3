@@ -1,5 +1,5 @@
 ---
-title: "My Designlab Experience \\U0001F3A8"
+title: "My Designlab Experience 🎨"
 date: 2015-10-21
 excerpt: My personal experience with Designlab, an online platform for learning web and mobile design skills.
 header:

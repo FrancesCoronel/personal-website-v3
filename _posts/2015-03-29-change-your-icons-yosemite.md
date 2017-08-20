@@ -1,5 +1,5 @@
 ---
-title: "Change Your Icons on Yosemite with Scripting \\U0001F528"
+title: "Change Your Icons on Yosemite with Scripting 🔧"
 date: 2015-03-29
 excerpt: I got tired of Yosemite’s icons and decided to take some initiative without the usual dependency on an app. It took about 2 days for me to perfect this strategy and now it’s time to make your process a lot easier than mine.
 header:

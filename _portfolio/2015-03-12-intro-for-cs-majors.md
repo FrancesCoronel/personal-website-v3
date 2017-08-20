@@ -1,5 +1,5 @@
 ---
-title: "An Intro for CS Majors \\U0001F4D8"
+title: "An Intro for CS Majors 📘"
 date: 2015-03-12
 ---
 

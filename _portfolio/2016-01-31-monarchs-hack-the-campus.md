@@ -1,5 +1,5 @@
 ---
-title: "Monarchs Hack the Campus \\U0001F981"
+title: "Monarchs Hack the Campus 🦁"
 date: 2016-01-31
 excerpt: I designed the website for the ODU Hackathon and also helped with the branding/registration.
 ---

@@ -30,8 +30,23 @@ $(document).ready(function () {
     });
 
     $('a.navbar-brand-link').hover(function () {
-        $('.navbar-brand img').attr('src', '/assets/img/logo-red.svg');
+        $('.navbar-brand img').attr('src', '/assets/images/logo-red.svg');
     });
 
     $("input.gsc-search-button.gsc-search-button-v2").attr('src', 'https://www.clker.com/cliparts/Y/3/d/w/R/r/search-icon-white-hi.png');
+});
+
+// ===== Scroll to Top ====
+$(window).scroll(function () {
+    if ($(this).scrollTop() >= 50) { // If page is scrolled more than 50px
+        $('#return-to-top').fadeIn(200); // Fade in the arrow
+    } else {
+        $('#return-to-top').fadeOut(200); // Else fade out the arrow
+    }
+});
+
+$('#return-to-top').click(function () { // When arrow is clicked
+    $('body,html').animate({
+        scrollTop: 0 // Scroll to top of body
+    }, 500);
 });

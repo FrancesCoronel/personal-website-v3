@@ -3,7 +3,7 @@ title: "Middle School Poems ✒️"
 date: 2008-06-01
 excerpt: "Random poems from 2008."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: https://fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg?w=800&h=340&crop=1
 tags:
     - trampoline
     - middle school poems
@@ -16,7 +16,7 @@ tags:
 
 ## Trampoline
 
-```
+```text
 I scream in delight
 I slip off my shoes
 For now I have just realized
@@ -36,7 +36,7 @@ A trampoline
 
 ## Wait
 
-```
+```text
 Wait!
 What’s the rush?
 What’s the hurry?
@@ -62,7 +62,7 @@ Oh god no!
 
 ## The Test
 
-```
+```text
 Sitting down
 in a room with twenty,
 chewing at the end of my pencil
@@ -80,7 +80,7 @@ I have finished my test
 
 ## Mr. Shakespeare
 
-```
+```text
 Kill me
 
 for at least then
@@ -108,7 +108,7 @@ Touch me.
 
 ## Gratitude
 
-```
+```text
 Sacred I am
 Humble I be
 

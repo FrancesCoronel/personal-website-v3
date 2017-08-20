@@ -1,5 +1,5 @@
 ---
-title: "Duolingo Delights \\U0001F381"
+title: "Duolingo Delights 🎁"
 date: 2016-12-01
 ---
 

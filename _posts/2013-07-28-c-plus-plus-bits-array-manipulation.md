@@ -1,6 +1,6 @@
 ---
 title: "C++ Bits - Array Manipulation"
-date: 2012-07-30
+date: 2013-07-30
 excerpt: "Manipulating arrays in C++."
 header:
     image: https://fvcproductions.files.wordpress.com/2013/07/banners-002.jpg?w=1024&h=436&crop=1

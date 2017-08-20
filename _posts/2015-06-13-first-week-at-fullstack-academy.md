@@ -1,5 +1,5 @@
 ---
-title: "First Week at Fullstack Academy \\U0001F4AB"
+title: "First Week at Fullstack Academy 😮"
 date: 2015-06-13
 excerpt: There are 58 days in Fullstack. These are the first 5. Let’s begin.
 header:

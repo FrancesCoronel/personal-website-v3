@@ -1,7 +1,7 @@
 #main {
     @include container;
     @include clearfix;
-    max-width: 90%;
+    max-width: 75%;
     animation: intro 0.3s both;
     animation-delay: 0.35s;
     padding-left: 15px;
@@ -11,4 +11,10 @@
 
 body.layout--splash #main {
     margin-top: 1em;
+}
+
+@media screen and (max-width: $mobile) {
+    #main {
+        max-width: 90%;
+    }
 }

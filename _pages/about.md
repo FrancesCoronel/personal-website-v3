@@ -13,6 +13,9 @@ My "life motto", if you will.
 
 Might have something to do with human nature in general, though, so interpret it as you will.
 
+**Fun Fact** My logo is a chocolate dipped strawberry. No particular reason why, I just think they're yummy. 🍓🍫
+{: .notice}
+
 ### Blurb
 
 - SWE with a focus on UI development at Accenture's Liquid Studio in Redwood City, CA 💼
@@ -28,7 +31,7 @@ Might have something to do with human nature in general, though, so interpret it
 > This a [now section](https://nownownow.com/about) and if you have your own site, you should make one, too!
 
 - prepping current state of Jekyll build to migrate to Gatsby
-    - mostly consists of perfecting markdown files and envisioning how my website should look like
+  - mostly consists of perfecting markdown files and envisioning how my website should look like
 - working at Accenture's Liquid Studio in Redwood City as a SWE
 - applying to volunteer or just participate in awesome tech events
 

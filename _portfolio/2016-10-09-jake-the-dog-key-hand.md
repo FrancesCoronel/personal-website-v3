@@ -1,24 +1,10 @@
 ---
-title: "Jake the Dog Key Hand \\U0001F510"
-date: 2016-10-09 12:00:58.000000000 -04:00 type: jetpack-portfolio
-published: true status: publish categories: \[\] tags: \[\]
- '1' \_edit\_last: '52653790' \_thumbnail\_id:
-'4959' _11986126: '1' \_publicize\_job\_id: '27994519086'
-\_publicize\_done\_external:
-a:1:{s:7:"twitter";a:1:{i:4801070;s:60:"https://twitter.com/fvcproductions/status/788583997395742721";}}
-\_publicize\_done\_4874880: '1' \_wpas\_done\_4801070: '1'
-publicize\_twitter\_user: fvcproductions publicize\_linkedin\_url:
-https://www.linkedin.com/updates?discuss=&scope=224320508&stype=M&topic=6194349691564486656&type=U&a=f4eP
-\_publicize\_done\_11054707: '1' \_wpas\_done\_4183252: '1'
-publicize\_google\_plus\_url:
-https://plus.google.com/+fvcproductions2013/posts/N4wthHMT6Dh
-\_publicize\_done\_11940802: '1' \_wpas\_done\_11986126: '1'
-_4801070: '1' _4183252: '1' author: login:
-fvcproductions email: fvcproductions@gmail.com display\_name:
- excerpt:
-"Volunteered for the hardware booth and Foobar (smoothies) and then
+title: "Jake the Dog Key Hand 🐶"
+date: 2016-10-09
+excerpt: "Volunteered for the hardware booth and Foobar (smoothies) and then
 teamed up with my boyfriend to work on a Leap Motion hack that ended up
-winning an award \\U0001F60D" ---
+winning an award 🏆"
+---
 
 Kent Hack Enough
 ================
@@ -74,14 +60,14 @@ numbers).
 
 ### Installation
 
--   Use `CodeKit` to minify `CSS` and `JS` files
--   Make sure to have LeapMotion installed on your computer
+- Use `CodeKit` to minify `CSS` and `JS` files
+- Make sure to have LeapMotion installed on your computer
 
 **Links**
 
--   Devpost Hack
+- Devpost Hack
     [`devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v`](https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v)
--   GitHub Repo
+- GitHub Repo
     [`github.com/fvcproductions/leap-auth-home`](https://fvcproductions/leap-auth-home)
--   Twitter [`@kenthackenough`](https://twitter.com/kenthackenough)
--   Website [`2016.khe.io`](https://2016.khe.io/)
+- Twitter [`@kenthackenough`](https://twitter.com/kenthackenough)
+- Website [`2016.khe.io`](https://2016.khe.io/)

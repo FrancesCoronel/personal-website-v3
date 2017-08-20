@@ -1,5 +1,5 @@
 ---
-title: "Jeopardy Template \\U0001F4C2"
+title: "Jeopardy Template 📁"
 date: 2015-03-01
 excerpt: A free Jeopardy template you can use with Google Slides or Keynote.
 ---

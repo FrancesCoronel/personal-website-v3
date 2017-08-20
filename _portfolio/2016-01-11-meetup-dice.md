@@ -1,5 +1,5 @@
 ---
-title: "Meetup Dice \\U0001F3B2"
+title: "Meetup Dice 🎲"
 date: 2016-01-11
 excerpt: A simple Node.js application for picking a random RSVP’d member from a Meetup.
 ---

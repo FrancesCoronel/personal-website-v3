@@ -1,6 +1,6 @@
 ---
-title: "POTC - Chest Riddle"
-date: 2010-02-21
+title: "POTC - Chest Riddle 👑"
+date: 2013-08-03
 excerpt: "Here's a little riddle that is based on a very recognized riddle,
 except it uses POTC references."
 header:

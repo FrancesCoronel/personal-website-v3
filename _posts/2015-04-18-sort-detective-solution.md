@@ -1,5 +1,5 @@
 ---
-title: "Sort Detective - Solution \\U0001F50D"
+title: "Sort Detective - Solution ☕"
 date: 2015-04-18
 excerpt: "Stuck on that homework assignment involving SortDetective.jar? No need to worry!"
 header:

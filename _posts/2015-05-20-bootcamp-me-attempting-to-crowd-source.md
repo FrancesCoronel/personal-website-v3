@@ -1,5 +1,5 @@
 ---
-title: "Bootcamp.me - Attempting to Crowd Source \\U0001F465"
+title: "Bootcamp.me - Attempting to Crowd Source 📍"
 date: 2015-05-20
 excerpt: I decided to begin a crowdsourced version of the Bootcamp.me Google Map using Mapme.
 header:

@@ -1,5 +1,5 @@
 ---
-title: "GitHub Repos | Mashup \\U0001F63B \\U0001F419"
+title: "GitHub Repos | Mashup 💻"
 date: 2016-09-27
 excerpt: Showcasing my GitHub projects with GitHub API.
 ---

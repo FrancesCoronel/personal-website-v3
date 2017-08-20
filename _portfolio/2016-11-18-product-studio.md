@@ -1,5 +1,5 @@
 ---
-title: "Product Studio \\U0001F4F0"
+title: "Product Studio 🔥"
 date: 2016-11-18
 excerpt: How might we create a safe place for people of all backgrounds to discuss important local, national, and global issues?
 ---

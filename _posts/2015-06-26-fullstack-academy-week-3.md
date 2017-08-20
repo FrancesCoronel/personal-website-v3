@@ -1,5 +1,5 @@
 ---
-title: "Fullstack Academy - Week 3 \\U0001F526"
+title: "Fullstack Academy - Week 3 🔦"
 date: 2015-06-26
 excerpt: "June 22nd to 26th.\\r\\n\\r\\nThere are 57 days in Fullstack. These are the third 5."
 header:
