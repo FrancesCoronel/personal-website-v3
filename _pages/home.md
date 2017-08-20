@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
     overlay_color: "#333"
-    overlay_image: https://fvcproductions.files.wordpress.com/2017/08/wallpaper.png?w=800&h=340&crop=1
+    overlay_image: https://fvcproductions.files.wordpress.com/2017/08/wallpaper.png
     cta_label: "<i class='fa fa-info-circle'></i> About Me"
     cta_url: "/about/"
 excerpt: "I like to dabble with things that ought to be dabbled with."
