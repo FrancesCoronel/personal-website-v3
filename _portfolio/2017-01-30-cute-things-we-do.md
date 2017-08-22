@@ -1,5 +1,5 @@
 ---
-title: "Cute Things We Do \\U0001F491"
+title: "Cute Things We Do ❤"
 date: 2017-01-30
 excerpt: Cute Things We Do is a collaboration between Frances Coronel and Nolan Kovacik.
 ---
@@ -13,7 +13,6 @@ We came up with the idea last year and decided to go forward starting in
 **Cute Things We Do** is a collaboration between Frances Coronel
 (myself) and Nolan Kovacik (my boyfriend).
 
-Feel free to check out our starting website at
-<https://cutethingswedo.com>.
+Feel free to check out our starting website at https://cutethingswedo.com
 
 \[gallery ids="5901,5891" type="rectangular" orderby="rand"\]

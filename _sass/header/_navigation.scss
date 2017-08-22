@@ -16,12 +16,12 @@
         height: 100%;
         right: 0;
         padding: 0 15px;
-        background: #253137;
+        background: $alien;
         border: 0;
         outline: none;
         cursor: pointer;
         &:hover {
-            background-color: #253137;
+            background-color: $alien;
             transform: scale(1.075);
         }
         &::after {
@@ -32,7 +32,7 @@
             right: -5px;
             top: 5px;
             text-align: center;
-            background-color: #253137;
+            background-color: $alien;
             color: $white;
             font-size: $type-size-6;
             line-height: 25px;

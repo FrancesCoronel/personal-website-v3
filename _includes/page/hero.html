@@ -17,19 +17,20 @@ img_path %} {{ page.header.image | absolute_url }} {% endcapture %} {% endif %} 
             <p>" | remove: "</p>" }} {% endif %}
         </h1>
         {% if page.excerpt %}
-        <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+        <p class="page__lead">{{ page.excerpt | markdownify | remove: "
+            <p>" | remove: "</p>" }}</p>
         {% endif %} {% if site.read_time and page.read_time %}
         <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include page/read-time.html %}</p>
         {% endif %} {% if page.header.cta_url %}
         <p>
             <a href="{{ cta_path }}" class="btn btn--hero btn--large">
-                        {{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}
-                    </a>
+                    {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+                </a>
         </p>
         {% endif %}
     </div>
     {% else %}
-    <div id="primary-header" style="background-image: url({{ img_path }});">
+    <div id="primary-header" style="background-image: url({{img_path}});">
         <div class="overlay">
         </div>
         <div class="primary-hentry-inner">
@@ -37,8 +38,8 @@ img_path %} {{ page.header.image | absolute_url }} {% endcapture %} {% endif %} 
                 {% if page.title %} {% if page.cta_url %}
                 <h1 class="entry-title" itemprop="headline">
                     <a href="{{ page.cta_url }}" target="_blank" rel="noopener">
-                                    {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
-                                </a>
+                        {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+                    </a>
                 </h1>
                 {% else %}
                 <h1 class="entry-title" itemprop="headline">

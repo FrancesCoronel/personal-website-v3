@@ -112,7 +112,7 @@ body:hover .visually-hidden button {
 }
 
 .wrapper {
-    max-width: 90%;
+    max-width: 75%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -334,7 +334,7 @@ body:hover .visually-hidden button {
         position: -webkit-sticky;
         position: sticky;
         top: 2em;
-        > * {
+        >* {
             display: block;
         }
     }

@@ -4,9 +4,9 @@
     right: 0;
     left: 0;
     z-index: 1030;
-    background: #253137;
+    background: $alien;
     width: 100%;
-    box-shadow: 0 2px 4px -1px rgba(0,0,0,.2), 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12);
+    box-shadow: 0 2px 4px -1px rgba(0, 0, 0, .2), 0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12);
     &__inner-wrap {
         @include container;
         @include clearfix;
@@ -47,6 +47,7 @@
         font-size: $type-size-5;
     }
 }
+
 
 /** Children Menu */
 
@@ -99,7 +100,7 @@ nav ul ul li {
         }
         &:hover {
             color: $white !important;
-            background: #253137 !important;
+            background: $alien !important;
         }
     }
 }
@@ -109,7 +110,7 @@ nav ul ul ul {
     left: 100%
 }
 
-nav ul li:hover > ul {
+nav ul li:hover>ul {
     display: block !important;
     left: auto;
     top: 100%;
@@ -118,10 +119,10 @@ nav ul li:hover > ul {
     transition: top .45s ease-in-out, opacity .45s ease-in-out;
 }
 
-ul.hidden-links li:hover > ul {
+ul.hidden-links li:hover>ul {
     display: none !important;
 }
 
-nav ul.toc__menu li:hover > ul {
+nav ul.toc__menu li:hover>ul {
     display: none !important;
 }

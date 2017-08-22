@@ -59,6 +59,9 @@
         color: $black;
         border: 1px solid $black;
         border-radius: 0;
+        a {
+            font-size: 100%;
+        }
         &:first-child {
             border-right: none;
         }
@@ -81,10 +84,4 @@
     margin-top: 2em;
     padding-top: 2em;
     border-top: 1px solid $lighter-gray;
-}
-
-@media screen and (max-width: $mobile) {
-    .pagination--pager {
-        width: 100%;
-    }
 }

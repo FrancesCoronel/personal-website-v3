@@ -1,7 +1,7 @@
 .btn {
-    background-color: #253137;
+    background-color: $alien;
     border-radius: 0;
-    border: solid 1px #253137;
+    border: solid 1px $alien;
     color: $white !important;
     cursor: pointer;
     display: inline-block;
@@ -14,8 +14,8 @@
     text-decoration: none;
     &:hover {
         background-color: $white;
-        border-color: #253137 !important;
-        color: #253137 !important;
+        border-color: $alien !important;
+        color: $alien !important;
     }
     .icon {
         margin-right: 0.5em;
@@ -35,11 +35,11 @@
     /* for dark backgrounds */
     &--inverse {
         background-color: $white;
-        border-color: #253137;
-        color: #253137 !important;
+        border-color: $alien;
+        color: $alien !important;
         &:hover {
-            background-color: #253137 !important;
-            border-color: #253137 !important;
+            background-color: $alien !important;
+            border-color: $alien !important;
             color: $white !important;
         }
     }
@@ -47,10 +47,10 @@
     &--hero {
         background-color: white;
         border: solid 2px $white !important;
-        color: #253137 !important;
+        color: $alien !important;
         &:hover {
-            background-color: #253137 !important;
-            border: solid 2px #253137 !important;
+            background-color: $alien !important;
+            border: solid 2px $alien !important;
             color: $white !important;
         }
     }
@@ -60,8 +60,8 @@
         border-color: $white !important;
         color: $white !important;
         &:hover {
-            background-color: #253137;
-            border-color: #253137;
+            background-color: $alien;
+            border-color: $alien;
             color: $white !important;
         }
     }
@@ -216,5 +216,5 @@ a.btn:hover {
 }
 
 #return-to-top:hover {
-    background: #253137;
+    background: $alien;
 }

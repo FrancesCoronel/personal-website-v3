@@ -3,18 +3,11 @@ title: "Undergrad A.I. Internships"
 date: 2014-09-14
 ---
 
-[![Briefcase Icon](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png){.aligncenter .size-full .wp-image-1670 width="128" height="128"}](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png) {#briefcase-icon style="text-align:center;"}
-==============================================================================================================================================================================================================================================
-
-Undergraduate Internships/Fellowships {#undergraduate-internshipsfellowships style="text-align:center;"}
-=====================================
+[![Briefcase Icon](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png){.aligncenter .size-full .wp-image-1670 width="128" height="128"}](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png)
+Undergraduate Internships/Fellowships
 
 Dealing With A.I. {#dealing-with-a.i. style="text-align:center;"}
 =================
-
-------------------------------------------------------------------------
-
- 
 
 Written and generated with **[Byword](https://bywordapp.com)**
 
@@ -41,7 +34,7 @@ Written and generated with **[Byword](https://bywordapp.com)**
 > >
 > > **Updated December 23, 2014.**
 
-------------------------------------------------------------------------
+
 
 Index {#section-index}
 -----
@@ -65,7 +58,7 @@ Index {#section-index}
 
 - [Other Resources](#section-resources)
 
-------------------------------------------------------------------------
+
 
 ![center for visual
 science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
@@ -88,7 +81,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
     -   selected based on academic achievements and an interest in
         pursuing graduate studies in science
 
-------------------------------------------------------------------------
+
 
 ![fusemachines](https://workablehr.s3.amazonaws.com/uploads/account/logo/5940/large_Logo_FM.png)
 
@@ -105,7 +98,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
     [link](https://fusemachines.workable.com) to go directly to their
     career portal.
 
-------------------------------------------------------------------------
+
 
 ![gridspace](https://www.gridspace.com/assets/logo-alt.png)
 
@@ -120,7 +113,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
     [link](https://www.gridspace.com/company-careers) to go directly to
     their career portal.
 
-------------------------------------------------------------------------
+
 
 ![ibm](https://www.alohaonrails.com/wp-content/uploads/2009/07/ibm-logo-black_r_large.png)
 
@@ -167,7 +160,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
         (academic or professional), at least 1 year experience in User
         Centered Design
 
-------------------------------------------------------------------------
+
 
 ![iRobot](https://giveaway.komando.com/images_prize/iRobot-logo-green300(3).png)
 
@@ -193,7 +186,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
         and learn new fields
     -   works well in a fast-paced, small team environment
 
-------------------------------------------------------------------------
+
 
 ![miri](https://intelligence.org/wp-content/uploads/2013/02/miri_horizontal_even.png)
 
@@ -214,7 +207,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
         unsupervised
     -   be willing to do mundane work some of the time
 
-------------------------------------------------------------------------
+
 
 ![nationalsecurityagency.png](https://consortiumnews.com/wp-content/uploads/2011/11/nationalsecurityagency.png)
 
@@ -236,7 +229,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
     -   must be available for an operational interview and other
         applicable processing
 
-------------------------------------------------------------------------
+
 
 ![numenta.png](https://numenta.com/assets/img/logo/numenta.png)
 
@@ -273,7 +266,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
     -   experience with the latest web technologies
     -   experience with NuPIC
 
-------------------------------------------------------------------------
+
 
 ![logo-header-predikt.png](https://www.predikt.com/assets/logo-header-predikt.png)
 
@@ -289,7 +282,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
     -   skills: Python, Data Mining, Django, Web Scraping, Ruby on
         Rails, Tastypie
 
-------------------------------------------------------------------------
+
 
 ![riverside](https://usgif.org/system/avatars/225/xlarge/Riverside_Research.png?1373638885)
 
@@ -316,7 +309,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
     -   ability to work with a team in a research and development
         setting
 
-------------------------------------------------------------------------
+
 
 ![robotics
 institute](https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institute_logo.svg/150px-Robotics_Institute_logo.svg.png)
@@ -343,7 +336,7 @@ institute](https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institu
     -   strong letters of recommendation from an academic advisor or
         faculty member.
 
-------------------------------------------------------------------------
+
 
 ![viascience](https://www.weatheranalytics.com/wa/wp-content/uploads/2014/01/company_viascience1.png)
 
@@ -360,7 +353,7 @@ institute](https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institu
     [link](https://www.viascience.com/careers/) to go directly to their
     career portal.
 
-------------------------------------------------------------------------
+
 
 ![vicarious](https://cloudtimes.org/wp-content/uploads/2012/09/vicarious-logo.png)
 
@@ -386,7 +379,7 @@ institute](https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institu
         a plus
     -   BS in Computer Science or equivalent, MS preferred
 
-------------------------------------------------------------------------
+
 
 ### Other Resources {#section-resources}
 
@@ -419,7 +412,7 @@ Landscape](https://fvcproductions.files.wordpress.com/2015/05/machine_intelligen
 height="570"}](https://fvcproductions.files.wordpress.com/2015/05/machine_intelligence_landscape_12-10-2014.png)
 Machine Intelligence Landscape\[/caption\]
 
-------------------------------------------------------------------------
+
 
 > So, why this project?
 >
@@ -427,7 +420,7 @@ Machine Intelligence Landscape\[/caption\]
 > > (and therefore, not many extensive lists either) so I figured this
 > > might prove useful to other people as well as myself.
 
-------------------------------------------------------------------------
+
 
 > **Tips or Tricks?**
 >
