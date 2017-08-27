@@ -2,6 +2,11 @@
 title: "The MEGGS Case 📱"
 date: 2016-10-01
 excerpt: MEGGS creates tech-focused cases that offer beautiful and well designed protective solutions for your iPhone 7.
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
+gallery:
+    - alt: "Placeholder"
+      url: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 ![](https://static1.squarespace.com/static/57752b91c534a5929ff9177d/t/57894c6920099eb5a807d43b/1468615801024/?format=1500w)

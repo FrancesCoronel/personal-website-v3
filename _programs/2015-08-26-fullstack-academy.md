@@ -24,8 +24,6 @@ Fullstack Academy - New York City, New York
 
 <a href="https://fvcproductions.com/2015/08/30/fullstack-academy-reflections/" target="_blank" rel="noopener">Learn more</a>
 
-[gallery type="rectangular" size="full" ids="3802,3772,2443,2695,3509" orderby="rand"]
-
 ![Fullstack Academy -
 Logo](https://fvcproductions.files.wordpress.com/2015/11/fullstack.png){.size-full
 .wp-image-3452 width="512" height="512"}
@@ -44,6 +42,4 @@ Fullstack Academy - New York City, New York
 [Learn
 more](https://fvcproductions.com/2015/08/30/fullstack-academy-reflections/)
 
-\[gallery type="rectangular" size="full"
-ids="3802,3772,2443,2695,3509,3172,2770,2691,2629,2453,2475,2522,2558,2582,2604,2023,1465,5065"
-orderby="rand"\]
+{% include gallery %}

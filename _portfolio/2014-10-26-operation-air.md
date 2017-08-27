@@ -2,6 +2,8 @@
 title: "operationAIR"
 date: 2014-10-26
 excerpt: Google DC Hackathon in October 2014.
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 \[caption id="attachment\_1187" align="aligncenter"

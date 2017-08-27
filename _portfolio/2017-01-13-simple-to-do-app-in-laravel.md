@@ -2,6 +2,8 @@
 title: Simple To-Do App in Laravel ✅
 date: 2017-01-13
 excerpt: Created a simple to-do app in Laravel 5.3 using Homestead.
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 Created a simple to-do app in Laravel 5.3 using Homestead.

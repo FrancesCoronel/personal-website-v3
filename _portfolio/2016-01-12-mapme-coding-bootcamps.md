@@ -1,7 +1,12 @@
 ---
-title: "MapMe | Coding Bootcamps 📍"
+title: "MapMe - Coding Bootcamps 📍"
 date: 2016-01-12
 excerpt: A crowd-sourced map for coding bootcamps.
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
+gallery:
+    - alt: "Placeholder"
+      url: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 Check out the **crowd-sourced** map at\

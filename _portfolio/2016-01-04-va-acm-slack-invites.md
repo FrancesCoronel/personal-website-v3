@@ -2,6 +2,11 @@
 title: "VA ACM Slack Invites 👥"
 date: 2016-01-04
 excerpt: Meet with other ACM student members and be updated on the latest announcements to get more involved in the local tech community.
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
+gallery:
+    - alt: "Placeholder"
+      url: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 Check out the web app at {#checkoutthewebappatahrefhttp:va-acm.stamplayapp.comtarget_blankva-acm.stamplayapp.coma style="text-align:center;"}

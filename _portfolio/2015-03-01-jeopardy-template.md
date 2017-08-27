@@ -2,6 +2,8 @@
 title: "Jeopardy Template 📁"
 date: 2015-03-01
 excerpt: A free Jeopardy template you can use with Google Slides or Keynote.
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 > These two templates can be used by anybody to create their own

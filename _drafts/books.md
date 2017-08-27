@@ -2,6 +2,7 @@
 title: "Books 📚️"
 permalink: /books/
 excerpt: "Books I've read that were ridiculously memorable."
+type: draft
 ---
 
 <div class="grid__wrapper">

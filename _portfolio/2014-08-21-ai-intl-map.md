@@ -4,7 +4,7 @@ date: 2014-08-21
 excerpt: Map of schools that specialize in AI.
 permalink: /ai-intl-map/
 header:
-  image: https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png
+  image: https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-16-12-55-34.png?w=1440
 ---
 
 [![Robot Waze](https://fvcproductions.files.wordpress.com/2014/09/robot-waze.png){.aligncenter .size-full .wp-image-1669 width="164" height="120"}](https://fvcproductions.files.wordpress.com/2014/09/robot-waze.png)

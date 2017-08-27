@@ -1,6 +1,8 @@
 ---
 title: "MBA & MSCS Grad Programs"
 date: 2014-09-14
+header:
+    image: https://fvcproductions.files.wordpress.com/2014/09/graduation-hats.jpg
 ---
 
 [![Balance](https://fvcproductions.files.wordpress.com/2014/09/1424067174_scales_of_balance-128.png){.aligncenter .size-full .wp-image-1671 width="128" height="128"}](https://fvcproductions.files.wordpress.com/2014/09/1424067174_scales_of_balance-128.png) {#balance style="text-align:center;"}

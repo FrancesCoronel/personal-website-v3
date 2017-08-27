@@ -4,18 +4,14 @@ excerpt: "I created this iBook for my AP English Literature class."
 category: "Book"
 date: 2013-06-06
 header:
-    image: https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png
+    image: https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-18.png?w=246&h=179&zoom=2
 ---
 
 ![The Pursuit of Knowledge](https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png)
 
-[website - link to iBook on store]
+<blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/17475593/Pursuit-of-Knowledge">Pursuit of Knowledge</a></h4><p>End of Year English ProjectPursuit of KnowledgeFVCproductionsCreated 2013Dedicated to Mrs.Cook</p></blockquote>
 
-[behance]
-
-[speaker deck]
-
-![iTunes - Download on iBooks](https://www.ripleys.com/wp-content/uploads/2014/05/download-on-ibooks.png)
+<blockquote class="embedly-card"><h4><a href="https://itunes.apple.com/us/book/pursuit-of-knowledge/id1073378182?ls=1&mt=11">Pursuit of Knowledge by Frances Coronel on iBooks</a></h4><p>Read a free sample or buy Pursuit of Knowledge by Frances Coronel. You can read this book with iBooks on your iPhone, iPad, iPod touch, or Mac.</p></blockquote>
 
 Essentially, [*Pursuit of Knowledge*](https://itunes.apple.com/us/book/pursuit-of-knowledge/id1073378182?ls=1&mt=11) explores various mediums where the plot and theme relation are similar in that they each explore how humans are consistently aiming to create a creature more powerful than themselves and the consequences that can be faced from that decision.
 
@@ -25,17 +21,9 @@ It was written in dedication to the AP Literature professor, Mrs. Cook, who allo
 
 Thank you, Mrs.Cook.
 
-## Screenshots
-
-\[gallery type="rectangular" size="full" link="file"
-ids="3672,3671,3670,3669,3668,3667,3661,3662,3663,3664,3665,3666,3660"
-orderby="rand"\]
-
 ## Features
 
-- 12 interactive pages elaborating on the theme of how humans are
-    consistently aiming to create a creature more powerful than
-    themselves and the consequences that can be faced from that decision
+- 12 interactive pages elaborating on the theme of how humans are consistently aiming to create a creature more powerful than themselves and the consequences that can be faced from that decision
 
 ## Tools
 

@@ -2,6 +2,8 @@
 title: "Connective Media"
 date: 2017-03-14
 excerpt: "Material I developed while taking the 'Connective Media class at Cornell Tech."
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 ## Assignment 1 - Building Successful Online Communities

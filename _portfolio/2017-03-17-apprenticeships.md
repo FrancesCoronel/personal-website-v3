@@ -1,5 +1,5 @@
 ---
-title: "apprenticeships"
+title: "apprenticeships 🔧"
 excerpt: "Apprenticeships to the rescue! 🔧"
 category: "GitHub"
 date: 2017-03-17

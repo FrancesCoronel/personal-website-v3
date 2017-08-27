@@ -2,6 +2,8 @@
 title: "View LinkedIn Profiles Without Logging In 👀"
 date: 2017-02-06
 excerpt: You want to view someone on LinkedIn but you don't have a profile and have no desire to create an account.
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 ## The Problem

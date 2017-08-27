@@ -33,9 +33,9 @@ Stanford's annual hackathon.
 ## Awards
 
 - Best Social Impact
-    - Sit down
+  - Sit down
 - Best Use of Dropbox API
-    - 100 GB of Dropbox space
+  - 100 GB of Dropbox space
 
 ## Project
 

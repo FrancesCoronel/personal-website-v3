@@ -2,6 +2,11 @@
 title: "Ammalia 🏥"
 date: 2016-02-14
 excerpt: Ammalia, which means surgery in Arabic, is a Leap Motion assisted app that allows a surgeon to analyze pictures of their patient's problem (i.e. brain tumors) using the Dropbox API.
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
+gallery:
+    - alt: "Placeholder"
+      url: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 Ammalia, which means surgery in Arabic, is a Leap Motion assisted app that allows a surgeon to analyze pictures of their patient's problem (i.e. brain tumors) using the Dropbox API.

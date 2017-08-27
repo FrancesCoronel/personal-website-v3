@@ -2,6 +2,11 @@
 title: "Meetup Dice 🎲"
 date: 2016-01-11
 excerpt: A simple Node.js application for picking a random RSVP’d member from a Meetup.
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
+gallery:
+    - alt: "Placeholder"
+      url: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 Overview

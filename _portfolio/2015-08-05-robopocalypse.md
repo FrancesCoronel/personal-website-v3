@@ -1,6 +1,8 @@
 ---
 title: "Robopocalypse 🤖"
 date: 2015-08-05
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 [![About Page -

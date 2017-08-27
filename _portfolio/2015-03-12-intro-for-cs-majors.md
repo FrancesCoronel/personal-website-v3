@@ -1,6 +1,8 @@
 ---
 title: "An Intro for CS Majors 📘"
 date: 2015-03-12
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 [![HU Book

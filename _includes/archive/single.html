@@ -1,35 +1,33 @@
 {% include archive/images.html %}
 
 <div class="{{ include.type | default: 'list' }}__item">
-
-	<article class="archive__item {% include archive/classes.html %}" itemscope itemtype="https://schema.org/CreativeWork">
-		{% include archive/titles.html %} {% if include.type == "grid" %} {% include archive/teasers.html %} {% endif %}
-		<div class="archive__item-content">
-			<h2 class="archive__item-title" itemprop="headline">
-				{% if post.link %}
-				<a href="{{ post.link }}" target="_blank" rel="noopener">{{ title }} <i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>				{% else %}
-				<a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a> {% endif %}
-			</h2>
-
-			{% unless page.permalink == '/services/' or page.permalink == '/adventures/' %} {% if post.date %}
-			<p class="page__meta" itemprop="datePublished">
-				<i class="fa fa-calendar-o" aria-hidden="true"></i>
-				<time datetime="{{ post.date | date_to_xmlschema }}">
-					{{ post.date | date: "%B %d, %Y" }}
-				</time>
-			</p>
-			{% endif %} {% endunless %} {% if post.read_time %}
-			<p class="page__meta">
-				<i class="fa fa-clock-o" aria-hidden="true"></i> {% include page/read-time.html %}
-			</p>
-			{% endif %}
-
-			<!-- {% if post.excerpt %}
-	            <p class="page__meta" itemprop="description">
-                    <i class="fa fa-info-circle" aria-hidden="true"></i>
-	                {{ post.excerpt | markdownify | strip_html | truncate: 140, '...' }}
-	            </p>
-            {% endif %} -->
-		</div>
-	</article>
+    <article class="archive__item {% include archive/classes.html %}" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+        {% if include.type == "grid" %}{% include archive/teasers.html %}{% endif %}
+        <div class="archive__item-content">
+            <h2 class="archive__item-title" itemprop="headline">
+                {% if post.link %}
+                    <a href="{{ post.link }}" rel="noopener" target="_blank">{{ title }} <i aria-hidden="true" class="fa fa-link" title="permalink"></i><span class="sr-only">Permalink</span>
+                    </a>
+                {% else %}
+                    <a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a>
+                {% endif %}
+            </h2>
+            {% unless page.permalink == '/services/' or page.permalink == '/adventures/' %}
+                {% if post.date %}
+                    <p class="page__meta" itemprop="datePublished">
+                        <i aria-hidden="true" class="fa fa-calendar-o"></i>
+                        <time datetime="{{ post.date | date_to_xmlschema }}">
+                            {{ post.date | date: "%B %d, %Y" }}
+                        </time>
+                    </p>
+                {% endif %}
+            {% endunless %}
+            {% if post.read_time %}
+                <p class="page__meta">
+                    <i aria-hidden="true" class="fa fa-clock-o"></i>
+                    {% include page/read-time.html %}
+                </p>
+            {% endif %}
+        </div>
+    </article>
 </div>

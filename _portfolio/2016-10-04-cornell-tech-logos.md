@@ -2,6 +2,11 @@
 title: "Cornell Tech Logos 🎓"
 date: 2016-10-04
 excerpt: All the Cornell Tech logos in one place.
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
+gallery:
+    - alt: "Placeholder"
+      url: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 Check out the logos at [`fvcproductions.github.io/cornell-tech-logos`](https://fvcproductions.github.io/cornell-tech-logos) {#check-out-the-logos-at--a-href--http:--fvcproductions.github.io-cornell-tech-logos--target--_blank---code-fvcproductions.github.io-cornell-tech-logos--code---a-}

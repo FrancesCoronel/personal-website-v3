@@ -1,23 +1,13 @@
 ---
 title: "Duolingo Delights 🎁"
 date: 2016-12-01
+excerpt: Surprise yourself with Delights. Learn the language, explore the culture.
+header:
+    image: https://fvcproductions.files.wordpress.com/2016/12/duolingo-revised-product-school-001.jpeg
+gallery:
+    - alt: "Placeholder"
+      url: https://i.imgur.com/8cFXnVj.jpg
 ---
-
-<div class="embed-speakerdeck">
-
-</div>
-
-\_oembed\_time\_5ab9409e7dde8d72c5f077afe4e3da15: '1486409129' author:
-login: fvcproductions email: fvcproductions@gmail.com display\_name:
- excerpt:
-Surprise yourself with Delights. Learn the language, explore the
-culture. ---
-
-![duolingo-revised-product-school-001](https://fvcproductions.files.wordpress.com/2016/12/duolingo-revised-product-school-001.jpeg){.size-full .wp-image-5857 .aligncenter width="1920" height="1080"}
-======================================================================================================================================================================================================
-
-Duolingo Delights {#duolingodelights}
-=================
 
 As part of the interview process for [Duolingo](https://duolingo.com), I
 created this slide deck for a product task that Duolingo could achieve
@@ -64,3 +54,5 @@ Donations
 
 [![Donate via
 PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](https://paypal.me/fvcproductions)
+
+{% include gallery %}

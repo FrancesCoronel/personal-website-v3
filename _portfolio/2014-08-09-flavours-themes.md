@@ -2,6 +2,8 @@
 title: "Flavours Themes"
 date: 2014-08-09
 excerpt: These are all the Flavours themes I’ve created for the Mac customizing application, Flavours.
+header:
+  image: https://fvcproductions.files.wordpress.com/2014/08/flavoursthemes.jpg?w=1440
 ---
 
 ![Flavours Store Icon](https://store.interacto.net/flavours/global/store/images/store@384.png)

@@ -2,6 +2,11 @@
 title: Built in Norfolk
 date: 2016-01-18
 excerpt: Badges for when you're hacking out in Norfolk.
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
+gallery:
+    - alt: "Placeholder"
+      url: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 Check out the badges at [`built-in-norfolk`](https://github.com/fvcproductions/built-in-norfolk)! {#check-out-the-badges-at--a-href--http:--github.com-fvcproductions-built-in-norfolk--target--_blank---code-built-in-norfolk--code---a--}

@@ -2,6 +2,8 @@
 title: "Designlab Submissions 🎨"
 date: 2015-10-09
 excerpt: These are some of my favorite submissions from Design 101 course on Designlab.
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 These are all my submissions from my **[Design 101](https://trydesignlab.com/web-design-course/)** course on [Designlab](https://trydesignlab.com). {#these-are-all-my-submissions-from-my-design-101-course-on-designlab. .intro style="text-align:center;"}

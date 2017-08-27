@@ -2,6 +2,11 @@
 title: "Monarchs Hack the Campus 🦁"
 date: 2016-01-31
 excerpt: I designed the website for the ODU Hackathon and also helped with the branding/registration.
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
+gallery:
+    - alt: "Placeholder"
+      url: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 Overview

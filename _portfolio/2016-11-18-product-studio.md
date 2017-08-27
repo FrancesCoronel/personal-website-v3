@@ -2,6 +2,8 @@
 title: "Product Studio 🔥"
 date: 2016-11-18
 excerpt: How might we create a safe place for people of all backgrounds to discuss important local, national, and global issues?
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 ![The New York Times - White Banner](https://fvcproductions.files.wordpress.com/2016/09/white-banner1.png)

@@ -1,6 +1,8 @@
 ---
 title: The Guessing Game ⁉️
 date: 2015-05-26
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 [![The Guessing

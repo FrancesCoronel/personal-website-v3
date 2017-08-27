@@ -1,6 +1,8 @@
 ---
 title: "Undergrad A.I. Internships"
 date: 2014-09-14
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 [![Briefcase Icon](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png){.aligncenter .size-full .wp-image-1670 width="128" height="128"}](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png)

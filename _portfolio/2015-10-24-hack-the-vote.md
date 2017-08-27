@@ -1,6 +1,11 @@
 ---
 title: "Hack the Vote 🇺🇸"
 date: 2015-10-24
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
+gallery:
+    - alt: "Placeholder"
+      url: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 [![Hack to

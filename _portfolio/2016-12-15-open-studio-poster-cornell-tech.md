@@ -1,7 +1,9 @@
 ---
-title: "Open Studio Poster | Cornell Tech 📰"
+title: "Open Studio Poster - Cornell Tech 📰"
 date: 2016-12-15
 excerpt: At the end of the semester, each team was also tasked to create a poster for their community challenge teams in order to display them at Open Studio.
+header:
+    image: https://i.imgur.com/8cFXnVj.jpg
 ---
 
 Every fall, leading startups, companies, and organizations in NYC pose

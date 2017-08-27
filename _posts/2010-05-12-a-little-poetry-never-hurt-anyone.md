@@ -6,7 +6,10 @@ header:
     image: https://fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg?w=800&h=340&crop=1
 ---
 
-```
+> This is a poem wrote back in the day.
+> [Featured in the POTW Issue 30 of Jacobs University Bremen.](https://www.scribd.com/doc/174387876/POTW-Issue-30)
+
+```text
 Come, come insects and birds!
 Devour and bite, no longer hide.
 For this day can no longer get any worse
@@ -29,11 +32,9 @@ So it would be best not to.
 Yes, very dark outside. A reminder of
 That one guy.  Breathing on a lonesome world right now indeed.
 Those thoughts of “him” are toxic to anyone’s brain.
-With his eyes as black and deep as the Marianna trench and I'm drowning
+With his eyes as black and deep as the Mariana trench and I'm drowning
 in the sea.
 
 I desire the casual yet I know it is
 Time to think of the impossible.
 ```
-
-[Featured in the POTW Issue 30 of Jacobs University Bremen.](https://www.scribd.com/doc/174387876/POTW-Issue-30)
