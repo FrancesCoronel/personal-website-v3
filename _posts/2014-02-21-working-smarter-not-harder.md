@@ -108,13 +108,13 @@ quizzes and exams…***
     -   Embrace quiz-and-recall method - very efficient (:idea: Quizlet
         helped me a ton with this sort of thing)
     -   Spread out memorization over several days
-5.  **Invest in “Academic Disaster Insurance”**
+5.  **Invest in "Academic Disaster Insurance"**
     -   Eliminate the question marks for topics covered in class or from
         the reading that you don’t understand
     -   In other words, if you don’t understand something, figure it out
         using other resources, or start focusing more on the other
         topics so you at least have more leverage
-6.  **Provide “A+” Answers**
+6.  **Provide "A+" Answers**
     -   Look over the whole test first
     -   If you get stuck on a problem and still can’t think of anything
         after 10 seconds, SKIP IT, and move on

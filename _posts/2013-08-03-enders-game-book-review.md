@@ -52,8 +52,8 @@ the adults place in Ender’s path. Soon afterwards, Ender is notified
 that he is being transferred to Command School for the next stage of his
 training. This is where a legendary veteran called Mazer Rackham tutors
 him in the use of a space battle simulator and he learns more about the
-enemy he is facing, which are called the Formics or “buggers”.
-Eventually Ender is disclosed to the “final exam” where he reveals what
+enemy he is facing, which are called the Formics or "buggers".
+Eventually Ender is disclosed to the "final exam" where he reveals what
 he is truly capable of.
 
 With an environment that requires no hint of feebleness or the slightest

@@ -60,16 +60,16 @@ tags:
 29. There’s just a smile with a nod.
 30. The game after all has just begun.
 31. You want to throw up after the cliche, ease the growing pain.
-32. “*Don’t fight it, don't.*”, I say.
-33. "*Don’t fight it, you say?*”, you say.
-34. “*No.*
+32. "*Don’t fight it, don't.*", I say.
+33. "*Don’t fight it, you say?*", you say.
+34. "*No.*
 35. *For if you do, the pain will never go away.*
-36. *One must after all cleanse the body to cleanse the brain.*”
-37. “*You think you know everything, do you - you might as well study
-    tooth decay!*”
-38. “*You have a point, dear buddy of mine, but as I’ve mentioned
+36. *One must after all cleanse the body to cleanse the brain.*"
+37. "*You think you know everything, do you - you might as well study
+    tooth decay!*"
+38. "*You have a point, dear buddy of mine, but as I’ve mentioned
     before, I’d rather be exploring on my private jet the vastly
-    multiple planets of our vastly wonderful Milky Way!*”
+    multiple planets of our vastly wonderful Milky Way!*"
 39. At this point, I’ve come to understand finally the entire reasoning
     behind this short lived school day.
 40. I’ve come to comfort a friend, help her out in any way.

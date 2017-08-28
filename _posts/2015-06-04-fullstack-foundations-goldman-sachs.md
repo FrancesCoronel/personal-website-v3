@@ -144,7 +144,7 @@ Foundations
 ===========
 
 For Part 2 (or Week 2) of Foundations, which was twos week ago (holy
-crap!), I did end up finishing the “Guessing Game”, which was a lot of
+crap!), I did end up finishing the "Guessing Game", which was a lot of
 fun.
 
 [![The Guessing

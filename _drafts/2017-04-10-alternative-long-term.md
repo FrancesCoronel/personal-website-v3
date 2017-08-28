@@ -229,7 +229,7 @@ If you are interested in something other than Computer Science, [MissionU](https
 
 Beginning in 2012, coding bootcamps began offering courses in software development and promising graduates new careers in technology. The schools, now backed by hundreds of millions in VC funding, will educate about **30,000 students** in 2016, and rake in just shy of **half a billion** in tuition fees. 💰
 
-Even the creator of *[“Cracking the Coding Interview”](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) *has gone ahead and vouched for the *[value of coding bootcamps herself](https://medium.freecodecamp.com/so-that-whole-coding-bootcamp-thing-is-a-scam-right-6fddf14087d4#.meynkdi7c). *📖
+Even the creator of *["Cracking the Coding Interview"](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) *has gone ahead and vouched for the *[value of coding bootcamps herself](https://medium.freecodecamp.com/so-that-whole-coding-bootcamp-thing-is-a-scam-right-6fddf14087d4#.meynkdi7c). *📖
 
 **But a key pain point** for a lot of potential students is whether or not they’ll really be able to get a job right afterward and how **trustworthy** it is.
 

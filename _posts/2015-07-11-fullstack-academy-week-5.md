@@ -108,7 +108,7 @@ Day Two - Tuesday
 -   I’m starting to really dislike this Trip Planner project. The code
     is just starting to look more and more gross-looking and I feel lost
     in the sea of (water?) bugs.
--   I miss working with the **“pretty”** stuff.
+-   I miss working with the **"pretty"** stuff.
 
 ![Purty.](https://i.imgur.com/LLMi7ye.jpg)
 
@@ -119,7 +119,7 @@ NYC](https://photos4.meetupstatic.com/photos/event/9/0/a/8/600_341377032.jpeg)
 
 -   After school today, I went to a
     [`Women Who Code`](https://www.meetup.com/WomenWhoCodeNYC/events/220650892/)
-    meetup (my first in the NYC area) featuring “Lightning Talks” with
+    meetup (my first in the NYC area) featuring "Lightning Talks" with
     Jovia and Kelsey. Out of the 5 presentations I was able to see, the
     two best ones were by folks from Fullstack Academy. Not even trying
     to exaggerate or anything, that’s just what happened. ¯\\\_(ツ)\_/¯

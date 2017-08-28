@@ -193,7 +193,7 @@ Friday
 
 ------------------------------------------------------------------------
 
-\[youtube=“https://www.youtube.com/watch?v=dQpGwnN3dfc”\]
+\[youtube="https://www.youtube.com/watch?v=dQpGwnN3dfc"\]
 
 ------------------------------------------------------------------------
 
@@ -519,7 +519,7 @@ BUT W8! {#butw8}
 
 ![Timber](https://i.imgur.com/FF7bjxO.png)
 
-\[youtube=“https://youtu.be/hHUbLv4ThOo”\]
+\[youtube="https://youtu.be/hHUbLv4ThOo"\]
 
 ------------------------------------------------------------------------
 

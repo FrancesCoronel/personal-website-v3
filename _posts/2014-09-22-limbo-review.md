@@ -52,7 +52,7 @@ Munch, munch\[/caption\]
 
 The graphics are pretty much what got to me. Those spider legs without
 the rest of the body (initially anyhow), the boys with spears in their
-hands which made me recall how strange the book “*Lord of the Flies*”
+hands which made me recall how strange the book "*Lord of the Flies*"
 was for me, the turret machine guns, that `HOTEL` sign - they all looked
 so ominous, so macabre, so depressing. I liked how the blood itself
 wasn’t even red and glaring, it was just black liquid. And how
@@ -62,7 +62,7 @@ https://www.youtube.com/watch?v=cHjt8LNaUT8
 
 ***Spider running, log saving.***
 
-Dubbed as a “*trial and death*” kinda game *(which are my favorite kind,
+Dubbed as a "*trial and death*" kinda game *(which are my favorite kind,
 tbh)*, Limbo ended up as my first experience in gaming where my
 character first ended up getting killed by a box. That’s right. Just a
 friggin' box. Yes... the first time I died in the game was when I let a
@@ -124,14 +124,14 @@ least when it comes to the origin of the title and why there’s no adults
 or teenagers *(darn)* in this game.
 
 You see, Oxford Dictionary tells me that in Christian theology,
-“*limbo*” is this place where all the unbaptized *infants* reside.
+"*limbo*" is this place where all the unbaptized *infants* reside.
 *Unbaptized infants*. I mean, geez. Who would have thought that they
 would have a special little place for even **those** guys?? NOT ME, BRO.
-NOT ME. An equally sinister second definition is “*limbo*” being defined
-as a state of neglect or oblivion, e.g., “*children left in an emotional
-limbo*”. Now, someone tell me it’s not even weirder that the example
+NOT ME. An equally sinister second definition is "*limbo*" being defined
+as a state of neglect or oblivion, e.g., "*children left in an emotional
+limbo*". Now, someone tell me it’s not even weirder that the example
 sentence for the second definition was that EXACT same thing I just
-typed: “***children left in an emotional limbo***”. All I gotta say is…
+typed: "***children left in an emotional limbo***". All I gotta say is…
 ***SKETCHHHHHH***! Considering all the subtle horrific encounters I went
 through while in Limbo, either theory makes sense. The subtlety too, man
 - that gets to you!

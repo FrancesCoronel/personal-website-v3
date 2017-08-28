@@ -61,8 +61,8 @@ anything privately or insulting the Workers Party could result in
 long-term prison time, labor camps, or just plain old execution, and
 one's life standard is literally dictated by Party loyalty. I realized
 that perhaps those undernourished children singing songs extolling North
-Korean did not believe it themselves when they sang the refrain: “We
-have nothing to envy,” which is irony by definition. As a professional
+Korean did not believe it themselves when they sang the refrain: "We
+have nothing to envy," which is irony by definition. As a professional
 American journalist and from her experience as the Beijing bureau chief
 of the Los Angeles Times, Demick possess the power to wonderfully weave
 narratives that caused me to pause several times in disbelief, sadness,
@@ -77,7 +77,7 @@ isolated from the rest. It’s a bad part of history presented in the best
 way possible then. Because while most parts of the world today can
 provide large pieces of literature or some sort of documentation to
 convey their past struggles and successes, North Korea’s population
-lacks even basic necessities in their “hermit abyss”. I cannot therefore
+lacks even basic necessities in their "hermit abyss". I cannot therefore
 recommend a better book that adds to the understanding of North Korea’s
 concealed present state in this twenty-first century as it delivers
 captivating human stories as well as informative pieces of political

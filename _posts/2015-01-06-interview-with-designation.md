@@ -107,10 +107,10 @@ Designation. My role as an admissions officer involves me interacting
 with comically large wide range of experiences and places from all
 around the world (from just about every continent now). Each applicant
 is different, but they all tell me that handful of stories (let’s say
-they’re early 30’s or late 20’s): *“I’m making money, but I still wake
-up and am not doing what I’m supposed to.”* or *“There’s something else
+they’re early 30’s or late 20’s): *"I’m making money, but I still wake
+up and am not doing what I’m supposed to."* or *"There’s something else
 I wanted to do and I want to, in a relatively short time, dramatically
-change my skill set.”* Millennials, especially, they want to be
+change my skill set."* Millennials, especially, they want to be
 creative. I got involved and co-founded this program because I felt the
 same way at some point, because even though I was doing something
 creative and felt I wasn’t doing things that weren’t being used at my

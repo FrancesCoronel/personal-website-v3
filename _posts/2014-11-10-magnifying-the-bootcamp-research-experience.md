@@ -119,11 +119,11 @@ This is the page for [HackReactor on
 > 💡About **Bootcamper**
 >
 > > Bootcamper was founded by Aleksandr M., who according to his
-> > [Twitter](https://twitter.com/braincomb), is “a self-proclaimed
-> > code-penguin because monkeys are too cliché” 😆 . Bootcamper wants
-> > their website to be the “one-stop resource for all things bootcamps”
-> > and “wants to make it easier for everyone to find, learn about,
-> > compare and share experiences”.
+> > [Twitter](https://twitter.com/braincomb), is "a self-proclaimed
+> > code-penguin because monkeys are too cliché" 😆 . Bootcamper wants
+> > their website to be the "one-stop resource for all things bootcamps"
+> > and "wants to make it easier for everyone to find, learn about,
+> > compare and share experiences".
 
 **Positives** 😄
 
@@ -268,8 +268,8 @@ Report*](https://www.coursereport.com/schools/hack-reactor).
         up so that the reviews were presented on the left side right
         under the vital information that showed the stars each reviewer
         gave and then an option to show the full review like with what
-        they did with the “School Details”, “More Information”, and
-        “Courses” section
+        they did with the "School Details", "More Information", and
+        "Courses" section
 -   fewer filters for searching
     -   location, price, focus, and type (in person or online) are the
         only filters offered
@@ -299,8 +299,8 @@ Finder*](https://www.thinkful.com/bootcamps/hack-reactor).
 **Positives** 😄
 
 -   different kinds of information provided
-    -   no other website offers a chance to look at “Student Projects”
-        or some of the actual “Hiring Partners” for the bootcamp, which
+    -   no other website offers a chance to look at "Student Projects"
+        or some of the actual "Hiring Partners" for the bootcamp, which
         is pretty neat!
     -   also has student reviews and the technologies you’ll learn at
         the bootcamp
@@ -420,7 +420,7 @@ This is the page for [HackReactor on
         venture capitalists, development schools (aka coding bootcamps),
         etc. based on reviews
     -   has a [leaderboard](https://schools.techendo.com/leaderboard)
-        for the top “Development Schools”
+        for the top "Development Schools"
         -   according to Techendo, [HackReactor is number
             one](https://schools.techendo.com/schools/hack-reactor)
         -   …however, this is only based on 10 positive reviews, so
@@ -431,7 +431,7 @@ Project](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-0
 .wp-image-1000 .aligncenter width="676"
 height="121"}](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-58.png)
 
-- [“The Definitive Guide To Choosing a Bootcamp” -
+- ["The Definitive Guide To Choosing a Bootcamp" -
     theFirehoseProject](https://www.thefirehoseproject.com/definitive-guide)
     -   theFirehouseProject itself is a new immersive online
         apprenticeship targeted to those who want to become a full-stack

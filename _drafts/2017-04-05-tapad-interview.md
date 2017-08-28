@@ -23,7 +23,7 @@ At the heart of the product network is the product itself. The Product, in a sof
 
 Developers (or engineers) are the people who can write and deploy code. Companies usually have people working on the product that aren’t programming, but the people updating the code are the only folks on the team who are strictly necessary. Developers can perform all company duties (while not always effectively).
 
-Users (or, less broadly, “customers”) are the people who either use the product or might use the product. All products have the goal of being used, on some level, by people.
+Users (or, less broadly, "customers") are the people who either use the product or might use the product. All products have the goal of being used, on some level, by people.
 
 The Business is the entity that funds and hopes to benefit (e.g. profit) from the product. Whether the organization is for-profit or non-profit, there is a bank with a finite amount of funds.
 
@@ -39,14 +39,14 @@ Helps their team ship the right product to their users. Not the most technically
 
 ---
 
-Product management is an important organizational role typically in a technology company. The product manager is often considered the CEO of the product and is responsible for the strategy, roadmap, and feature definition for that product or product line. 
+Product management is an important organizational role typically in a technology company. The product manager is often considered the CEO of the product and is responsible for the strategy, roadmap, and feature definition for that product or product line.
 
 The role of product management spans many activities from strategic to tactical and at its best provides cross-functional leadership — bridging gaps within the company between different functions, most notably between engineering-oriented teams, sales and marketing, and support.
 
 ---
 
 The top 10% of product managers excel at a few of these things. The top 1% excel at most or all of them:
-1. 
+1.
 * Think big - A 1% PM's thinking won't be constrained by the resources available to them today or today's market environment. They'll describe large disruptive opportunities, and develop concrete plans for how to take advantage of them.
 * Communicate - A 1% PM can make a case that is impossible to refute or ignore. They'll use data appropriately, when available, but they'll also tap into other biases, beliefs, and triggers that can convince the powers that be to part with headcount, money, or other resources and then get out of the way.
 * Simplify - A 1% PM knows how to get 80% of the value out of any feature or project with 20% of the effort. They do so repeatedly, launching more and achieving compounding effects for the product or business.

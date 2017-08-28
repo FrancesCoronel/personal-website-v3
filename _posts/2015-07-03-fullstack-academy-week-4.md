@@ -52,8 +52,8 @@ Day Two - Tuesday {#daytwo-tuesday}
 -----------------
 
 -   Worked more on this SASS framework - it’s tedious, but as a fellow
-    student wisely stated, “it makes you appreciate
-    [`Bootstrap`](https://getbootstrap.com/) a lot more”.
+    student wisely stated, "it makes you appreciate
+    [`Bootstrap`](https://getbootstrap.com/) a lot more".
 -   Afterwards, we had to make the framework responsive, and I feel as
     though this part was almost too easy. We’ll see what happens
     tomorrow.
@@ -96,7 +96,7 @@ Day Four - Thursday {#dayfour-thursday}
         \[youtube=https://www.youtube.com/watch?v=NdREEcfaihg\]
 -   For my *Bubblunch* (since my learning team’s name is Bubbles), we
     played 2 games of Avalon. In one of the games, I revealed I was
-    Merlin by uttering *“Yeah”* in that part of the game where special
+    Merlin by uttering *"Yeah"* in that part of the game where special
     people get to open their eyes and crap so we had to completely start
     over.
     -   If my mind resembled the plot line of the movie

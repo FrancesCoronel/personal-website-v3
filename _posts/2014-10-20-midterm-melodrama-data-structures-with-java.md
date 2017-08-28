@@ -279,7 +279,7 @@ return false;\
     -   ignores or hides certain details at certain times, e.g.
         collection is abstraction where details of implementation are
         hidden
--   *“abstract” in abstract data type*
+-   *"abstract" in abstract data type*
     -   means that there are many different ways of implementing data
         type
 -   *algorithm*

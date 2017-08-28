@@ -161,8 +161,8 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
 
 13. [The Odin Project](https://www.theodinproject.com/home)\
 
-    > The Odin Project is one of those “What I wish I had when I was
-    > learning” resources. Not everyone has access to a computer science
+    > The Odin Project is one of those "What I wish I had when I was
+    > learning" resources. Not everyone has access to a computer science
     > education or the funds to attend an intensive coding school and
     > neither of those is right for everyone anyway. This project is
     > designed to fill in the gap for people who are trying to hack it

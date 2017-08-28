@@ -184,7 +184,7 @@ with all the necessary modifications.
 > `All The Icons` folder and the
 > `ChangeUtilityIcons.command located within the`Utilities
 > folder`is that on Line 36, the app path is listed as`app\_path =
-> “/Applications/Utilities/\#{key}”\`.
+> "/Applications/Utilities/\#{key}"\`.
 
 *A special thanks to [James
 Moore](https://twitter.com/foozmeat "James Moore"), who created the
@@ -208,7 +208,7 @@ Now you probably have something like the following:
             personal apps
         -   the `setfileicon` UNIX executable file
 
-At this point, if you’ve done everything right, you can “hide” your
+At this point, if you’ve done everything right, you can "hide" your
 hidden files again in your Finder by executing the command
 `defaults write com.apple.finder AppleShowAllFiles NO` in `Terminal`.
 Make sure to execute `killall Finder` as well so that your Finder

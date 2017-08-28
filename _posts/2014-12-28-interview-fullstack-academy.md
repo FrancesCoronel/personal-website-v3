@@ -103,9 +103,9 @@ say:
 
 4.  **Why the ‘no asshole’ rule? Details?**\
 
-    > It’s actually a reference to this book called [“The No Asshole
+    > It’s actually a reference to this book called ["The No Asshole
     > Rule: Building a Civilized Workplace and Surviving One That
-    > Isn’t”](https://www.amazon.com/The-Asshole-Rule-Civilized-Workplace/dp/0446698202 "The Asshole Rule")
+    > Isn’t"](https://www.amazon.com/The-Asshole-Rule-Civilized-Workplace/dp/0446698202 "The Asshole Rule")
     > and we believe the mentality described in the book forms an ideal
     > culture here at Fullstack.
     > `#1 best seller on Amazon in the Business Etiquette category!`

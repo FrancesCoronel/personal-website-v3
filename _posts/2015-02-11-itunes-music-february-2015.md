@@ -21,7 +21,7 @@ changed a few years from now. And it [**will
 change**](https://www.ted.com/talks/dan_gilbert_you_are_always_changing "Dan Gilbert").
 
 As a general rule with my albums, if an artist has less than 5 songs in
-my library, all the songs from that artist are put into a **“Random”**
+my library, all the songs from that artist are put into a **"Random"**
 album, which means they’re bunched up with a whole lot of other songs
 that fall into a particular genre. Because of this ‘rule’, I only have
 30 albums but 621 songs, most albums being the ‘Random’ ones.

@@ -48,7 +48,7 @@ Now let’s do this, homie!
     Compiler - CodeRunner 1.3.1
     Python Version - 3.3.4
 
-Now we’ll be covering 7 “problems” today…
+Now we’ll be covering 7 "problems" today…
 
     1. Installation
     2. Numerical Expressions
@@ -87,7 +87,7 @@ programming in the future. SublimeText is recognized way more by top
 web-developers and can be run on Linux, Windows, and OSX (so that’s a
 plus!). The downside is that SublimeText requires a purchase license for
 continued use, but at the same time there’s no time limit for
-your “evaluation” of the product… so it’s kinda free?
+your "evaluation" of the product… so it’s kinda free?
 
 ANYHOW, SublimeText costs \$70, but there are PLENTY of free options out
 there, so do NOT give up if you’re on a tight budget.
@@ -114,7 +114,7 @@ If you want to run Python 3.0 on CodeRunner, you will have to
 4.  After you open up the install dmg file from the website, install it
     using the .mpkg file
 5.  Then go ahead and use your Terminal, the app you can find in
-    *Applications/Utilities* on your Mac and type in “python3”
+    *Applications/Utilities* on your Mac and type in "python3"
 6.  I have it installed already so this image shows up:\
     ![Already
     Installed](https://fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-04-at-5-19-30-pm.png)
@@ -206,8 +206,8 @@ Now go ahead and print the corresponding messages as shown here:
 **Problem 5 - Strings and Integers**
 
 Some basic pointers for beforehand, text in programming is also known as
-a “string”, and numbers are often referred to as their formats, so there
-are “integer” numbers and “float” numbers.
+a "string", and numbers are often referred to as their formats, so there
+are "integer" numbers and "float" numbers.
 
 The main difference is that float numbers have decimals.
 
@@ -226,7 +226,7 @@ Write a program that reads from the keyboard the width and length of a
 rectangle as integer values.
 
 Compute the area of the corresponding rectangle and print the result as
-a meaningful sentence to the screen, like “The area of the rectangle is
+a meaningful sentence to the screen, like "The area of the rectangle is
 10."
 
 Area of a rectangle is known as length \* width

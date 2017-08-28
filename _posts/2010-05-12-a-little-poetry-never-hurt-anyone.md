@@ -31,7 +31,7 @@ So it would be best not to.
 
 Yes, very dark outside. A reminder of
 That one guy.  Breathing on a lonesome world right now indeed.
-Those thoughts of “him” are toxic to anyone’s brain.
+Those thoughts of "him" are toxic to anyone’s brain.
 With his eyes as black and deep as the Mariana trench and I'm drowning
 in the sea.
 

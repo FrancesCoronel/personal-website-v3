@@ -50,7 +50,7 @@ that Dan Brown so deviously brought into being.*
 
 ***So Dark The Con Of Man***
 
-“So dark the con of man.” The DaVinci Code, a stunning new thriller by
+"So dark the con of man." The DaVinci Code, a stunning new thriller by
 Dan Brown revolved around the Church and the largely speculated Holy
 Grail, has a theme set almost in stone around this key line by Robert
 Langdon, the chief character. Set in modern day France and England, *The
@@ -104,7 +104,7 @@ at what we believe again. It has suspense in nearly every page, making
 it an automatic page-turner. The plot almost has a computer game feel to
 it as the characters face a number of elaborately well made puzzles only
 to be granted the privilege of looking at another until they find the
-ultimate “**holy grail**”. Dan Brown offers his readers a novel of
+ultimate "**holy grail**". Dan Brown offers his readers a novel of
 breathtaking quality and mind-blowing sophistication, with religious
 allusions and extensive idyllic riddles that would make any head
 restless and ultimately has extended even more the spectrum of religious

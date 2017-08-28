@@ -192,9 +192,9 @@ allows users to find key survey papers about a topic or to produce a
 list of important citations or results in a given paper. The user
 interface was a lot more sophisticated than in the other projects I’ve
 looked at so far and was what really made it stand out to me at least.
-He also talked about Jeff Hammerbacher’s quote: “*The best minds of my
+He also talked about Jeff Hammerbacher’s quote: "*The best minds of my
 generation are thinking about how to make people click ads. That
-sucks.*” and how he wanted the community to leverage AI for the better
+sucks.*" and how he wanted the community to leverage AI for the better
 good. More discussion on that quote
 [here](https://www.quora.com/How-true-is-the-statement-The-best-minds-of-my-generation-are-thinking-about-how-to-make-people-click-ads-That-sucks).
 He also discouraged focusing on one particular method in AI for
@@ -377,15 +377,15 @@ looked promising.
 
 During lunch break, while I’m in the elevator heading to my room, some
 couple asks a butler what’s going on. I let them know that the triple AI
-conference is going on. “What does that stand for?” “*The Association
-for the Advancement of Artificial Intelligence*”( It’s always such a
+conference is going on. "What does that stand for?" "*The Association
+for the Advancement of Artificial Intelligence*"( It’s always such a
 mouthful). They go on to talk about how all the ‘computer nerds’ and
 ‘laptop people’ must be here (no joke). They leave the elevator. I
 chuckle quite a bit, but then feel a little sad.
 
 Then there’s the debate, something I was looking forward to. It was a
 debate on autonomous weapons. I figured it would be intense, but to
-quote someone I overheard, it was “not satisfying”.
+quote someone I overheard, it was "not satisfying".
 
 ![](https://fvcproductions.files.wordpress.com/2015/01/img_0147.jpg)
 
@@ -397,8 +397,8 @@ sound robot and that while humans would never be out of the question, it
 was possible to have autonomous robots/weapons that could act more
 ethically moral than their human counterparts who could potentially
 carry emotional baggage and can act irrationally under dangerous
-environments that according to the speaker, “humans weren’t made to be
-in”. I agree with this argument, but I also recognize that I’m a pretty
+environments that according to the speaker, "humans weren’t made to be
+in". I agree with this argument, but I also recognize that I’m a pretty
 idealistic person.
 
 Unfortunately, I noticed most of the audience looking at their laps.

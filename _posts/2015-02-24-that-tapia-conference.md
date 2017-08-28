@@ -119,7 +119,7 @@ the plane…
 ![Yeti Lives
 Here](https://fvcproductions.files.wordpress.com/2015/02/yeti-lives-here.jpg)
 
-Needless to say, “this snow don’t play”.
+Needless to say, "this snow don’t play".
 
 Once I arrive in Boston, I end up hopping on a shared van that the Texas
 A&M students were using. I didn’t even have to pay for anything because
@@ -354,9 +354,9 @@ deplane.
 
 Consistently throughout the process, I faced the dilemma of whether or
 not to take the initiative on finding a different flight or just sayin’
-“screw it, let me get some pizza and a smoothie or something to pass the
+"screw it, let me get some pizza and a smoothie or something to pass the
 time (which I did do once or twice - I mean,
-[Sbarro's](https://www.sbarro.com/ "Sbarro's") is just irresistible)”. I
+[Sbarro's](https://www.sbarro.com/ "Sbarro's") is just irresistible)". I
 eventually decided to try and get a different flight through customer
 service.
 

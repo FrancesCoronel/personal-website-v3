@@ -27,18 +27,18 @@ Jarell
 - What is important to me
 - What you value most personally and professionally
 - Review 6 values of gusto
-- Pick one or two values that really resonated with me in personal and professional experiences 
+- Pick one or two values that really resonated with me in personal and professional experiences
 
 Michael
 - Prioritization
 - Process and features
 - Demands with business
 - Needs of team
-- Case questions 
+- Case questions
 - 1 to identity problems and diagnose and then 2 being able to solve it
-- Project management, communication, 
+- Project management, communication,
 
-Recap on Wednesday 
+Recap on Wednesday
 
 ---
 Questions to Ask
@@ -48,7 +48,7 @@ How do you go from screenwriter to PM? Unique background?
 - understanding people, picking up on their queues, their tells, product management theres a lot of people stuff
 - communicate & undestand
 - without offending people
-- lead them 
+- lead them
 - emphatize
 
 When you're faced with a feature that only 8% of your user base is using, you have to make a call: Kill it or keep it.
@@ -80,7 +80,7 @@ Why did you move from engineering to PM?
 - shepherding with customers and how its helps the customers and build the business
 - bite-sized project to allow an intern to run with it
 - get help with resources in company
-- rely heavily on feedback and 
+- rely heavily on feedback and
 
 What is the biggest advantage of having a engineering background? What about biggest disadvantage?
 
@@ -109,7 +109,7 @@ who they know
 
 2 more questions -- i saw that you use slack and you mentioned sketch- what else do you use on a daily basis
 
-Slack, Sketch, Google Sheets (love/hate), Google Docs, all the Google stuff, I hate Google Drive, data tools - Aleft (database queries using SQL), Calendly, InVision, 
+Slack, Sketch, Google Sheets (love/hate), Google Docs, all the Google stuff, I hate Google Drive, data tools - Aleft (database queries using SQL), Calendly, InVision,
 
 - do your job
 - responsible for writing very detailed specs
@@ -122,7 +122,7 @@ What aspects of product management do you find least interesting and why?
 
 corraling - more stakeholders - everyone needs to know everything but if you let everyone know everything - they dont read anything
 
-lots of reminding people - not reminding but informing people of updates 
+lots of reminding people - not reminding but informing people of updates
 
 give you correct feedback so it doesnt blowup later
 
@@ -131,7 +131,7 @@ read updates - keeping people informed
 so many projects going on at one time - hard for people to keep up
 
 - project management
-    - varying degrees 
+    - varying degrees
     - break work down into chunks
     - getting chunks done on time
     - being accountable to dates
@@ -143,7 +143,7 @@ so many projects going on at one time - hard for people to keep up
 PM Workflows
 
 car company
-CEO 
+CEO
 Americans are drinking more and more coffee
 Head of Product
 Design coffee maker for a car
@@ -162,12 +162,12 @@ Design coffee maker for a car
 
 PM Prioritization
 
-pricing comes up earlier --> think about business 
+pricing comes up earlier --> think about business
 
 office supply company
 move into the digital age
 blackboards - white boards
-how do you 
+how do you
 
     * 3 major components to product
         * What do we build?
@@ -258,7 +258,7 @@ Questions to Ask
     - wrangling of different stakeholders
     - other folks on marketing team
     - coordination
-- love most: longitudinal - deeper on long-term projects - customer search, segmentation, 
+- love most: longitudinal - deeper on long-term projects - customer search, segmentation,
 
 ...
 
@@ -269,7 +269,7 @@ Jarell
 - What is important to me
 - What you value most personally and professionally
 - Review 6 values of gusto
-- Pick one or two values that really resonated with me in personal and professional experiences 
+- Pick one or two values that really resonated with me in personal and professional experiences
 
 GitHub
 Quora
@@ -323,14 +323,14 @@ Gusto - Jenna
     - edge cases
     - functionality
     - shipped 3 or 4 things (8 months)
-    - make impact on 
+    - make impact on
 - If you had to do it over again, would there be anything you would have done differently?
     - really just taking it as an opportunity to make it learn as much as you can
     - go up to random people to ask for their advice and just getting to know
     - talking to senior leadership as much as possible
     - sitting in on a meeting (totally happy doing that)
     - picking up better understanding
-    - strategic roadmap 
+    - strategic roadmap
     - foot in door
 - How do you stay up to date?
     - learn on the job though for sure
@@ -350,7 +350,7 @@ Jenna's Experience
 * 100 to 250 during that summer
 * interviewing at company just as an intern
 * Mayfield Fellows - entrepreneurship work-study program - have to work at startup during summer
-* open PM position on 
+* open PM position on
 * company structured: 5 missions - verticals that a PM can work on
     * 3 of them are around products
         * payroll mission
@@ -387,13 +387,13 @@ Jenna's Experience
 
 Gusto
 
-"“Travis’s biggest strength is that he will run through a wall to accomplish his goals,” said Mark Cuban, the Dallas Mavericks owner and billionaire investor who has mentored Mr. Kalanick. “Travis’s biggest weakness is that he will run through a wall to accomplish his goals. That’s the best way to describe him.”"
+""Travis’s biggest strength is that he will run through a wall to accomplish his goals," said Mark Cuban, the Dallas Mavericks owner and billionaire investor who has mentored Mr. Kalanick. "Travis’s biggest weakness is that he will run through a wall to accomplish his goals. That’s the best way to describe him.""
 
 At the core of every single one of the problems we face as a society is the total lack of social ethics used by businesses. Uber is just another example of fundamentally-unethical business practices in the way both customers and workforce are used.
 
 I'm so tired of alpha males. And alpha females. I don't want to "lean in", conquer the world, grind people's faces into the dust if they're 10 minutes late, act like a frat boy for my whole life. or make billions and billions and billions of dollars. It sounds like a horrible life, but these over achievers with under developed consciences, just keep making our world worse and worse. Couldn't they all go to some survivor island and eat each other alive?
 
-Kalanick illustrates that having a great idea and being a CEO are two very different skill sets. The idea behind Uber is a good one....his ability to be an effective CEO is very questionable. 
+Kalanick illustrates that having a great idea and being a CEO are two very different skill sets. The idea behind Uber is a good one....his ability to be an effective CEO is very questionable.
 
 ---
 
@@ -401,11 +401,11 @@ Hila
 
 Imagine that you are the PM working on this new feature. We want to build a new feature. Every time an employee gets paid, we want to send an email.
 
-Combination between 
+Combination between
 
 Users didn't really know they wanted
 
-Customer customer support case 
+Customer customer support case
 
 No existing framework notifying employees that they've been paid
 

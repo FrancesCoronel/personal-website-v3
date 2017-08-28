@@ -49,8 +49,8 @@ on a remote island called Monte Cristo.
 You finally find the cave and immediately encounter 3 chests along with
 many skeletal corpses surrounding the water around the chests.
 
-One chest is labeled “gold doubloons”, the other “silver doubloons”, and
-the last one “gold and silver doubloons”.
+One chest is labeled "gold doubloons", the other "silver doubloons", and
+the last one "gold and silver doubloons".
 
 As you head towards the gold doubloons chest, the phantom of Benito de
 Soto comes up to you with his sword and challenges you to his battle of
@@ -58,7 +58,7 @@ the wits that many have failed .
 
 You bravely accept his challenge and he tells you that,
 
-> “Each chest has been incorrectly labeled.
+> "Each chest has been incorrectly labeled.
 >
 > You must chose one doubloon from one chest so that you may be then
 > afterwards correctly label the chests.
@@ -67,7 +67,7 @@ You bravely accept his challenge and he tells you that,
 > a miserable death and replace me as phantom.
 >
 > IF, however, you succeed, you may leave and take my gold doubloons
-> with you.”
+> with you."
 
 Assuming that the phantom is telling the truth, how will you, Captain
 Jack Sparrow, label the chests correctly and avoid certain death??\

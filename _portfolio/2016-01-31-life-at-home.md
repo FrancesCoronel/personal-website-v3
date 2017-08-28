@@ -52,9 +52,9 @@ ids="3827,3828,3829,3830,3831,3832,3833,3834" orderby="rand"\]
 
 We are designing an Android application that allows users to send push
 notifications containing common household alerts and phrases to the
-Android devices of their family members. Such phrases may include “The
-laundry room is available”, “The trash needs to be taken out”, or
-“Dinner is in 10 minutes”.
+Android devices of their family members. Such phrases may include "The
+laundry room is available", "The trash needs to be taken out", or
+"Dinner is in 10 minutes".
 
 #### Why is this better than texting? {#why-is-this-better-than-texting-}
 
@@ -72,13 +72,13 @@ group texts.
 #### What if the message I want to send isn’t available? {#what-if-the-message-i-want-to-send-isn-t-available-}
 
 The app will have support for custom messages. For example, if a user
-wants to be able to send the message “The chickens need to be fed” (a
+wants to be able to send the message "The chickens need to be fed" (a
 very useful messages for farming families, but not for average families,
 and thus not a pre-programmed messages). They can add it to the app and
 send it like they would a pre-programmed message.
 
-The built-in messages of the application will support “templating”, e.g.
-“Dinner in X minutes”, where the user will be prompted to specify X
+The built-in messages of the application will support "templating", e.g.
+"Dinner in X minutes", where the user will be prompted to specify X
 before sending. This allows the user to have some control over the
 messages that get sent without the need to create a custom message for
 every possible use case.
@@ -92,7 +92,7 @@ our domain at <https://push.lifeatho.me> (this domain will not be
 accessible from a web browser). Other Android devices will check
 periodically with the web service to see if new push notifications are
 available, and if so will pull them down and display them. Notifications
-will be associated with a “network ID” so that one family does not get
+will be associated with a "network ID" so that one family does not get
 another family’s notifications.
 
 ### Tools

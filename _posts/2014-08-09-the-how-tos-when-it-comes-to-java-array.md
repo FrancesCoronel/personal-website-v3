@@ -33,12 +33,12 @@ tags:
 4.  Write the first use way to use *for-loop* to print out all elements
     in the list called `reverse`\
     \[code language="java"\]for (int i = 0; i &lt; reverse.length; i++)\
-    System.out.print(reverse\[i\] + “ ” );\
+    System.out.print(reverse\[i\] + " " );\
     \[/code\]
 5.  Write the second use way to use *for-loop* to print out all elements
     in the list called `reverse`\
     \[code language="java"\]for (char value : reverse)\
-    System.out.print(value + “ ” );\
+    System.out.print(value + " " );\
     \[/code\]
 6.  Define a 3 by 4 floating point values array, called `scores`\
     \[code language="java"\]double \[\]\[\] scores = new double
@@ -54,7 +54,7 @@ tags:
     \[code language="java"\]for (int row = 0; row &lt; scores.length;
     row++) {\
     for (int col = 0; col &lt; scores\[row\].length; col++)\
-    System.out.print (scores\[row\]\[col\] + “\\t”);\
+    System.out.print (scores\[row\]\[col\] + "\\t");\
     System.out.println();\
     }\
     \[/code\]

@@ -390,7 +390,7 @@ institute](https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institu
 
     > What the author, Danny Bickson, has to say:
     >
-    > > *“I believe that every graduate student should try to do at
+    > > *"I believe that every graduate student should try to do at
     > > least two internships in the industry. It is a great experience.
     > > Below you can find a list I compiled by aggregating information
     > > from some of the companies I am in touch with as a part of our
@@ -398,7 +398,7 @@ institute](https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institu
     > > involved in any of the companies below. I also got some angry
     > > comments about some company or another missing - this is a
     > > personal list. I will be happy to add more companies providing
-    > > the are doing some interesting research.”*
+    > > the are doing some interesting research."*
 
 - [What companies have Data Science Internships? -
     Quora](https://www.quora.com/What-companies-have-data-science-internships)

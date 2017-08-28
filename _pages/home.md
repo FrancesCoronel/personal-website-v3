@@ -6,6 +6,7 @@ header:
     overlay_image: https://fvcproductions.files.wordpress.com/2017/08/wallpaper.png
     cta_label: "<i class='fa fa-info-circle'></i> About Me"
     cta_url: "/about/"
+    caption: "Planets from Prometheus"
 excerpt: "I like to dabble with things that ought to be dabbled with."
 intro:
   - excerpt: "I like to dabble with things that ought to be dabbled with."

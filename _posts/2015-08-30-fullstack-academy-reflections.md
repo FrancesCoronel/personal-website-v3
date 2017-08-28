@@ -51,7 +51,7 @@ other person - Joanna. She was pretty great to work with, and I’m
 actually pretty happy with what we were able to manage in such a short
 span of time.
 
-> “Together, our brains created Hiredot.”
+> "Together, our brains created Hiredot."
 
 ------------------------------------------------------------------------
 

@@ -15,7 +15,7 @@ tags:
 
 Now, I just want to reassure Automattic that I've been loving my Wordpress.com experience. Seriously. I don't worry about maintaining server security or plugins or anything back-end related. I just pick out a cool theme I like and publish all my content. Everything is streamlined and easy to manage.
 
-## **However**, there are a few key issues that have made me want to finally make the big move and they're as follows
+## *However*, there are a few key issues that have made me want to finally make the big move and they're as follows
 
 - Price
   - Theming: During my 4 years using Wordpress.com, I've tried out tons of free themes but have always ended up using a Premium one. Those cost money of course but so far, I've only bought 2\. They were "Venture" ($125) and "tdEditor" ($75), both themes by the same awesome developer Tasko. But yeah, that's $200 bucks... 💸
@@ -28,7 +28,7 @@ Now, I just want to reassure Automattic that I've been loving my Wordpress.com e
 - Scalability
   - I do a ton of shit besides school and work (conferences, hackathons, travels, programs, etc). And generally, I like to blog about it or just share it on my blog to be able to reflect on those adventures later. ✈
   - Unfortunately, the way Wordpress is structured and the way I like to write, it's tedious to create a methodology that will allow me to share as much as I want as fast as possible. I want to be able to share my projects and adventures the instant I finish creating the post and it's hard to do that with Wordpress. 📉
-  - I already write all my content using Markdown, Sublime Text 3 and Marked 2\. With Jekyll, that content can be shared instantly instead of exported to Wordpress and then fine-tuned. 📝
+  - I already write all my content using Markdown, Sublime Text 3 and Marked 2. With Jekyll, that content can be shared instantly instead of exported to Wordpress and then fine-tuned. 📝
 
 ## So this will probably be one of my last posts on this blog as I transition all the content over. 😶
 
@@ -44,6 +44,6 @@ Feel free to view the progress of my new blog at [fvcproductions.github.io](http
 
 ## Overall, I'm super excited about this process and have been actively working on my new website the entirety of this past week. Here's to new beginnings! 🎉
 
-![source](https://fvcproductions.files.wordpress.com/2017/03/source.gif)
+![A Toast](https://fvcproductions.files.wordpress.com/2017/03/source.gif)
 
 > The header image is in reference to that awesome migration Monarch butterflies have every year. 🦋

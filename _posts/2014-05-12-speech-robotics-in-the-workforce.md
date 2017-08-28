@@ -108,7 +108,7 @@ published this January, software and robots have even thrived at
 replacing the average-wage, middle-skill, routine-heavy worker. The
 style of the study by the way, is an academic paper, not popular science
 and according to this same inquiry, nearly half of American jobs today
-could be automated “in a decade or two”. So which half?
+could be automated "in a decade or two". So which half?
 
 Fortunately, the study also provided a chart of jobs with a percent
 likelihood of being replaced by machines and software. They are mostly

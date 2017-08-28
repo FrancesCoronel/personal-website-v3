@@ -33,7 +33,7 @@ diverse users by stimulating more conversation.
 
 ## Features
 
-Introducing “Most-Discussed” on the New York Times app. Here, you can
+Introducing "Most-Discussed" on the New York Times app. Here, you can
 see articles ranked by the number of comments, with curated comments
 from different perspectives. The user photos invite comments from more
 diverse users by showing that this is an inclusive environment.
@@ -131,8 +131,8 @@ is being solicited directly with a question related to her background.
 She is being prompted to share something specific, so she thinks, Aha! I
 have something to add here. And she can see the opinions of other
 Asian-Americans on display, so she knows it’s an environment that will
-support her opinion. And because the question is tagged “Asian
-American,” she can see how her background makes her especially qualified
+support her opinion. And because the question is tagged "Asian
+American," she can see how her background makes her especially qualified
 to make a comment.
 
 Validation Findings
@@ -142,8 +142,8 @@ Of the people we tested, 90% said they were more likely to read the
 comments with our interface, 80% said they were more likely to comment,
 and 100% said they were more likely to do one or the other. We also saw
 a lot of smiles and got a lot of unsolicited positive feedback. And from
-our alumni crit, we got feedback that ranged from “There’s really
-something here” to concerns about our feature inviting trolls in as
+our alumni crit, we got feedback that ranged from "There’s really
+something here" to concerns about our feature inviting trolls in as
 well.
 
 Architecture Evolution

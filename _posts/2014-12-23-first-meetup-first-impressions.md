@@ -31,7 +31,7 @@ tags:
     - vegetarian
 ---
 
-So I just went to my first [Meetup](https://meetup.com) ever on December 15 with [NorfolkJS](https://www.meetup.com/NorfolkJS/) and it was basically an [“Introduction to Travis-CI”](https://www.meetup.com/NorfolkJS/events/213364882/).
+So I just went to my first [Meetup](https://meetup.com) ever on December 15 with [NorfolkJS](https://www.meetup.com/NorfolkJS/) and it was basically an ["Introduction to Travis-CI"](https://www.meetup.com/NorfolkJS/events/213364882/).
 =======================================================================================================================================================================================================================================
 
 \[caption id="attachment\_3370" align="aligncenter"
@@ -46,8 +46,8 @@ for projects](https://github.com/hr-14-15/resources)) but I’m still glad
 I was able to get some perspective from [one of the
 engineers](https://github.com/BanzaiMan) there.
 
-I also got a free book, [“If Hemingway wrote
-JavaScript”](https://www.nostarch.com/hemingwayjs) (which is pretty
+I also got a free book, ["If Hemingway wrote
+JavaScript"](https://www.nostarch.com/hemingwayjs) (which is pretty
 amusing so far!), a [new network](https://757dev.org) of local coding
 peeps, and tons of potential future fun.
 

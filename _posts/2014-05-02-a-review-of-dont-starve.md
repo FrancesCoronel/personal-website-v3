@@ -21,14 +21,14 @@ tags:
     - video games
 ---
 
-So in case you haven't heard of it yet, “[Don’t
-Starve](https://www.dontstarvegame.com)” is this awesome Indie game that
+So in case you haven't heard of it yet, "[Don’t
+Starve](https://www.dontstarvegame.com)" is this awesome Indie game that
 came out late April of last year.
 
 A year into its inception, I gotta say that I’m really glad how amazing
 it’s turned out - high aggregate and review scores - and they’ve
 recently added their first paid downloadable content expansion called
-“Don’t Starve: Reign of Giants”, which basically added a bunch of new
+"Don’t Starve: Reign of Giants", which basically added a bunch of new
 monsters (giants, perhaps?) and territory to discover and be terrorized
 by.
 
@@ -122,7 +122,7 @@ orderby="rand"\]
 
 Isn’t Wilson just downright adorable?
 
-If you’re interested, you can find a lot more of [“Don’t Starve” fan
+If you’re interested, you can find a lot more of ["Don’t Starve" fan
 art](https://www.dontstarvegame.com/fan-art) at the gallery featured on
 their website. They even feature a cute little [Wilson crochet
 doll](https://www.facebook.com/photo.php?fbid=240025272807318&set=pb.102177486592098.-2207520000.1399074073.&type=3&theater)!

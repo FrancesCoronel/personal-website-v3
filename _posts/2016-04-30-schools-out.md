@@ -246,7 +246,7 @@ me, like any other considerate parents.
     slightly more normal age for someone to get a Master’s.
 3. I’ve wanted the chance to explore the Bay Area for a long-term
     period and Make School provides that opportunity perfectly. I also
-    feel like I could get more “bang for my buck”, per se, from Product
+    feel like I could get more "bang for my buck", per se, from Product
     Academy.
 
 Only time will tell what I’ll end up doing but either way, it’s going to

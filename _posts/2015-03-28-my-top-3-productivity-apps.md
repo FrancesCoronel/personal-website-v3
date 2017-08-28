@@ -38,11 +38,11 @@ There are other awesome power apps of course, like
 - [Flux](https://justgetflux.com "Flux")
 - [Sorty](https://wiles.dk/ "Sorty")
 - [Ubersicht](https://tracesof.net/uebersicht/ "Ubersicht")
-- [Yoink](https://eternalstorms.at/yoink/Yoink_-_Draggings_a_drag_no_more/Yoink_-_Draggings_a_drag_no_more%21.html "“Yoink”")
+- [Yoink](https://eternalstorms.at/yoink/Yoink_-_Draggings_a_drag_no_more/Yoink_-_Draggings_a_drag_no_more%21.html ""Yoink"")
 
 among others - but these 3 are by far my favorite.
 
-1. [Automator](https://en.wikipedia.org/wiki/Automator_%28software%29 "“Automator”")
+1. [Automator](https://en.wikipedia.org/wiki/Automator_%28software%29 ""Automator"")
 ===================================================================================
 
 ![Automator](https://www.redundantrobot.com/wp-content/uploads/2013/10/automator.png)
@@ -101,23 +101,23 @@ appropriate title like `Wallpaper - 1`…
 [![Rename Multiple
 Photos](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11-06.png?w=660)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11-06.png)
 
-2. [Alfred](https://www.alfredapp.com/ "“Alfred”")
+2. [Alfred](https://www.alfredapp.com/ ""Alfred"")
 =================================================
 
 ![Alfred](https://a2.mzstatic.com/us/r30/Purple/v4/22/16/13/221613ff-de88-908e-684d-262576f7dbd0/icon128-2x.png)
 
 > Oh, Alfred, where would I be without you?
 >
-> You’re prettier than [LaunchBar](https://www.alfredapp.com/ "“Alfred”")
+> You’re prettier than [LaunchBar](https://www.alfredapp.com/ ""Alfred"")
 > and 10 times more powerful than
-> [Spotlight](https://www.alfredapp.com/ "“Alfred”").
+> [Spotlight](https://www.alfredapp.com/ ""Alfred"").
 >
 > If you were a person, I know you’d be my gay best friend.
 
 Definitely not a haiku there, but man - just goes to show how much I
 depend on the damn bowler hat.
 
-3. [BetterSnapTool](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12 "“BetterSnapTool”")
+3. [BetterSnapTool](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12 ""BetterSnapTool"")
 ========================================================================================================
 
 ![BetterSnapTool](https://a3.mzstatic.com/us/r30/Purple3/v4/b0/e1/f1/b0e1f178-69dc-f01a-3d4e-0faa4379ca8f/icon128-2x.png)
@@ -136,4 +136,4 @@ awesome apps!
 > Tips or tricks?
 >
 > > tweet me
-> > [@fvcproductions](https://twitter.com/fvcproductions "“FVCproductions”")
+> > [@fvcproductions](https://twitter.com/fvcproductions ""FVCproductions"")

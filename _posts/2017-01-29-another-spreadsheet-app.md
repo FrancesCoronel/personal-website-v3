@@ -14,73 +14,56 @@ tags:
 
 ## Google Sheets. Excel.
 
-### The two options most folks think about when they want to create a spreadsheet. 🙄
+The two options most folks think about when they want to create a spreadsheet. 🙄
 
 But not me. No, no, no.
 
-## You see, I've been using this platform called [**Airtable**](https://airtable.com) for a month now and I can't even imagine doing anything in Google Sheets, let alone Excel, any longer. 😊
+## You see, I've been using this platform called [Airtable](https://airtable.com) for a month now and I can't even imagine doing anything in Google Sheets, let alone Excel, any longer. 😊
 
-<img src="https://fvcproductions.files.wordpress.com/2017/01/logo1.png" alt="Airtable Logo" align="middle" width="300" height="300">
+![Airtable Logo](https://fvcproductions.files.wordpress.com/2017/01/logo1.png)
 
-> [**Airtable**](https://airtable.com) is a productivity tool that enables its users to manage spreadsheets.
+> [Airtable](https://airtable.com) is a productivity tool that enables its users to manage spreadsheets.
 
-<img src="https://fvcproductions.files.wordpress.com/2017/01/reimagined2x.png" alt="Screenshot of Airtable" align="middle" width="2148" height="1295">
+![Screenshot of Airtable](https://fvcproductions.files.wordpress.com/2017/01/reimagined2x.png)
 
-**I know what you're thinking. 😅**
+I know what you're thinking. 😅
 
-### **ANOTHER spreadsheet app? What's the big deal? 👿**
+### ANOTHER spreadsheet app? What's the big deal? 👿
 
 To be fair, I'm not in a job that requires the use of either but in terms of organizing data, I have found it useful to utilize spreadsheets in the past to keep track of a variety of different things. However, Google Sheets proved to be far too clunky with a spotty UI for organizing files.
 
-![3fc4a2d8703426a99a3f2d33ad5affb4](https://fvcproductions.files.wordpress.com/2017/01/3fc4a2d8703426a99a3f2d33ad5affb4.png){.size-full
-.wp-image-5742 .aligncenter width="1914" height="796"}
+![3fc4a2d8703426a99a3f2d33ad5affb4](https://fvcproductions.files.wordpress.com/2017/01/3fc4a2d8703426a99a3f2d33ad5affb4.png)
 
-Wth [**Airtable**](https://airtable.com), I feel like I can find whatever I need to in a breeze because of how easy it is to access just about any piece of data you've stored in it. The interface is seamless across mobile and the web, I can share and export to whatever I want, and I can even sync data with my calendar.
+With [Airtable](https://airtable.com), I feel like I can find whatever I need to in a breeze because of how easy it is to access just about any piece of data you've stored in it. The interface is seamless across mobile and the web, I can share and export to whatever I want, and I can even sync data with my calendar.
 
-![2016-10-25\_14-04-23](https://fvcproductions.files.wordpress.com/2017/01/2016-10-25_14-04-23.jpg){.size-full
-.wp-image-5751 .aligncenter width="1125" height="2001"}
+![2016-10-25\_14-04-23](https://fvcproductions.files.wordpress.com/2017/01/2016-10-25_14-04-23.jpg)
 
-> Airtable describes itself as a productivity tool that enables users to
-> format table rows as tappable cards on mobile; add new columns; attach
-> files directly to the rows in tables; preview images and documents;
-> share tables and see changes; connect related data by linking one
-> record to another; sort, filter, and rearrange columns and rows in a
-> table; and integrate with existing systems or build additional
-> functionalities.
+> Airtable describes itself as a productivity tool that enables users to > format table rows as tappable cards on mobile; add new columns; attach > files directly to the rows in tables; preview images and documents; > share tables and see changes; connect related data by linking one > record to another; sort, filter, and rearrange columns and rows in a > table; and integrate with existing systems or build additional > functionalities.
 
-So far, I've been using [**Airtable**](https://airtable.com) to keep track of deadlines, college courses, mentoring sessions, job applications, test scores, awards, all sorts of things! 🛠
+So far, I've been using [Airtable](https://airtable.com) to keep track of deadlines, college courses, mentoring sessions, job applications, test scores, awards, all sorts of things! 🛠
 
-![screen\_shot\_2017-01-20\_at\_7-29-24\_pm](https://fvcproductions.files.wordpress.com/2017/01/screen_shot_2017-01-20_at_7-29-24_pm.png){.size-full
-.wp-image-5739 .aligncenter width="1952" height="1228"}
+![screen\_shot\_2017-01-20\_at\_7-29-24\_pm](https://fvcproductions.files.wordpress.com/2017/01/screen_shot_2017-01-20_at_7-29-24_pm.png)
 
-My favorite aspect of Airtable is how easy it is to share everything. If I'm working on a table that involves deadlines, I can send someone a calendar view or just sync my calendar so I know exactly when everything is due (very handy for job apps). 📆
+My favorite aspect of Airtable is how easy it is to share everything. If I'm working on a table that involves deadlines, I can send someone a calendar view or just sync my calendar so I know exactly when everything is due (very handy for job apps). 📆
 
-![screen\_shot\_2016-08-10\_at\_11-43-02\_am](https://fvcproductions.files.wordpress.com/2017/01/screen_shot_2016-08-10_at_11-43-02_am.png){.size-full
-.wp-image-5737 .aligncenter width="1392" height="821"}
+![screen\_shot\_2016-08-10\_at\_11-43-02\_am](https://fvcproductions.files.wordpress.com/2017/01/screen_shot_2016-08-10_at_11-43-02_am.png)
 
 I can send a stand alone link to just view the specific table I'm logging in or all of them at once. Despite the complexity involved throughout the app, the UI makes it easy to navigate and do just about anything without having to reference documentation.
 
-Plus, there are so many base templates to choose from! 😲
+Plus, there are so many base templates to choose from! 😲
 
-![templates-airtable](https://fvcproductions.files.wordpress.com/2017/01/templates-airtable.png){.size-full
-.wp-image-5746 .aligncenter width="1265" height="688"}
+![templates-airtable](https://fvcproductions.files.wordpress.com/2017/01/templates-airtable.png)
 
-But what I find interesting about [**Airtable**](https://airtable.com) is that they were able to break into a seemingly boring and crowded market (spreadsheets) and still get tons of users onboard because they put the experience of their users first. That's
-why [**Airtable**](https://airtable.com) has been able to raise - get
-this -
-[[\$]{style="font-size:12.5px;"}[10.6M]{.funding_amount}](https://www.crunchbase.com/organization/airtable#/entity)
-[in] [[3
-Rounds](https://www.crunchbase.com/organization/airtable/funding-rounds)]
-[from] [18
-Investors](https://www.crunchbase.com/organization/airtable/investors).
-For just some spreadsheet app, that's quite a bit of moolah. 💰💰💰
+But what I find interesting about [Airtable](https://airtable.com) is that they were able to break into a seemingly boring and crowded market (spreadsheets) and still get tons of users on board because they put the experience of their users first.
 
-Now, no app is perfect. I've found that in my experience with [**Airtable**](https://airtable.com) that formula-heavy projects probably wouldn't be suitable for it and I'd be better off using something else.
+That's why [Airtable](https://airtable.com) has been able to raise - get this - [10.6M}](https://www.crunchbase.com/organization/airtable#/entity) in [3 Rounds](https://www.crunchbase.com/organization/airtable/funding-rounds)from [18 Investors](https://www.crunchbase.com/organization/airtable/investors). For just some spreadsheet app, that's quite a bit of moolah. 💰💰💰
 
-Ergo, if the main purpose of your project is to run calculations (with accounting for example) or test hypothesis (for a business model), then [**Airtable**](https://airtable.com) is probably still too minimal for that kind of work.
+Now, no app is perfect. I've found that in my experience with [Airtable](https://airtable.com) that formula-heavy projects probably wouldn't be suitable for it and I'd be better off using something else.
 
-But for anything else, [**Airtable**](https://airtable.com) powers over the rest every time and remains my tool of choice for anything spreadsheet related! 😉
+Ergo, if the main purpose of your project is to run calculations (with accounting for example) or test hypothesis (for a business model), then [Airtable](https://airtable.com) is probably still too minimal for that kind of work.
 
-### So stop stressing out over formatting and cell management & just **[Airtable](https://airtable.com)**! 🎉
+But for anything else, [Airtable](https://airtable.com) powers over the rest every time and remains my tool of choice for anything spreadsheet related! 😉
+
+### So stop stressing out over formatting and cell management & just [Airtable](https://airtable.com)! 🎉
 
 [![Download Airtable](https://fvcproductions.files.wordpress.com/2017/01/download.png)](https://airtable.com/downloads)

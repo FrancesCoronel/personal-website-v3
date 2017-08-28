@@ -14,7 +14,7 @@ Vote](https://rcodonnell.github.io/code4hr-voting/src/img/favicons/favicon-114.p
 Check out the app at [`rcodonnell.github.io/code4hr-voting`](https://rcodonnell.github.io/code4hr-voting/) {#checkouttheappatahrefhttp:rcodonnell.github.iocode4hr-votingtarget_blankrcodonnell.github.iocode4hr-votinga}
 ---------
 
-### “Change the world, know your candidate.” {#changetheworldknowyourcandidate.}
+### "Change the world, know your candidate." {#changetheworldknowyourcandidate.}
 
 > 🔨 with ♥️ at the [Hack to Help Hampton
 > Roads](https://hackathon.dominionenterprises.com/ "Hack to Help Hampton Roads")

@@ -162,9 +162,9 @@ tags:
 
 -   Create an array of numbers, save it to a variable
 -   Use a loop to iterate through each element of the array
--   Write a separate “doubling” function that returns any number it is
+-   Write a separate "doubling" function that returns any number it is
     given multiplied by two
--   Pass each number from the array to the “doubling” function in turn
+-   Pass each number from the array to the "doubling" function in turn
 -   Save the original numbers and the doubled results as key-value pairs
     in an object
 

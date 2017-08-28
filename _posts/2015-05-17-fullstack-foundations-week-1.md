@@ -9,7 +9,7 @@ tags:
     - intensive
     - intro course
     - prework
-excerpt: Fullstack Academy‘s first ever Summer of Code program, which is described as a program that “gives college students the opportunity to study fullstack web development while on summer break“ is starting this June. Specifically, Monday, June 8th 2015.
+excerpt: Fullstack Academy‘s first ever Summer of Code program, which is described as a program that "gives college students the opportunity to study fullstack web development while on summer break" is starting this June. Specifically, Monday, June 8th 2015.
 header:
     image: https://fvcproductions.files.wordpress.com/2015/05/github.jpg
 ---
@@ -22,9 +22,9 @@ So.
 [Fullstack Academy](https://fullstackacademy.com "Fullstack Academy")‘s
 first ever **[Summer of
 Code](https://www.fullstackacademy.com/summer-of-code "Summer of Code")**
-program, which is described as a program that “*gives college students
+program, which is described as a program that "*gives college students
 the opportunity to study full stack web development while on summer
-break*“ is starting this June.
+break*" is starting this June.
 
 Specifically, Monday, June 8th 2015.
 
@@ -39,8 +39,8 @@ Moss](https://theitcrowd.wikia.com/wiki/Maurice_Moss "Maurice Moss")**.
 
 Basically.
 
-**Anyhow**, I’m starting to realize that when Fullstack says “intensive
-introductory course”, they actually do mean an **intensive introductory
+**Anyhow**, I’m starting to realize that when Fullstack says "intensive
+introductory course", they actually do mean an **intensive introductory
 course**.
 
 Now I’m a CS major. A senior now too, technically speaking! Yet already

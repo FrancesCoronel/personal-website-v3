@@ -8,8 +8,8 @@ header:
 
 My pessimistic side likes to nag me from time to time saying,
 
-“Ah, life is but chock full of mediocrity and wishful thinking.”
+"Ah, life is but chock full of mediocrity and wishful thinking."
 
 But then my optimistic self likes to point out,
 
-“Ah, life.”
+"Ah, life."

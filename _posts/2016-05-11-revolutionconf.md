@@ -39,7 +39,7 @@ Norfolk's tech scene is growing **EVERY DAY**.
 
 Between the newly established [Free Code Camp Facebook study group for the Norfolk area](https://www.facebook.com/groups/free.code.camp.norfolk), the [consistent slew of Meetups](https://www.meetup.com/cities/us/va/norfolk/tech/) I see pop up every week, [PixelFest](https://pixelfest.org/) happening back in April, and now the upcoming [RevolutionConf](https://revolutionconf.com), *it's not very hard to see how that growth is occurring*.
 
-[![757 Dev Network](https://fvcproductions.files.wordpress.com/2016/05/757-dev-network-de-hackathon-series.png {.aligncenter .size-full .wp-image-4284 width="750" height="327"}](https://fvcproductions.files.wordpress.com/2016/05/757-dev-network-de-hackathon-series.png)
+![757 Dev Network](https://fvcproductions.files.wordpress.com/2016/05/757-dev-network-de-hackathon-series.png)
 
 *[Source](https://hackathon.dominionenterprises.com/757-dev/)*
 
@@ -47,18 +47,11 @@ Funny thing is - what most people don't realize is that the Norfolk/VA Beach are
 
 Now that name hasn't really caught on 100% given that **757Dev** has taken more of a stronghold when it comes to catchphrases, but I will say that a quick Google search of [List of places with ‘Silicon' names"](https://www.wikiwand.com/en/List_of_places_with_%22Silicon%22_names) will verify this little factoid - I'm not making it up!
 
-\[slideshare
-id=15878170&doc=norfolk-vbstartupcommunity1-3-130106151325-phpapp01\]
+\[slideshare id=15878170&doc=norfolk-vbstartupcommunity1-3-130106151325-phpapp01\]
 
 **POINT BEING…** Norfolk, overall, is a pretty awesome city. And we have pretty **AWESOME** developers here. I think what [Erik](https://www.linkedin.com/in/erikpmp), the CEO of [80|20](https://8020.co) and one of the chief organizers of the conference, has stated before definitely resonates a lot with me.
 
-> "We have this Napoleon complex here, and we doubt ourselves – we think
-> we're not worthy of national or even state-level praise, and it's not
-> true. We may never be a Silicon Valley, but we can at least rise up in
-> the ranks a little bit." - [Erik
-> O.](https://www.linkedin.com/in/erikpmp)
->
-> *[Source](https://pilotonline.com/inside-business/revolutionconf-seeks-to-unite-software-community/article_5c92cdce-c3cc-5deb-a0a4-e5311105e6b4.html)*
+> "We have this Napoleon complex here, and we doubt ourselves – we think > we're not worthy of national or even state-level praise, and it's not > true. We may never be a Silicon Valley, but we can at least rise up in the ranks a little bit." - [Erik > O.](https://www.linkedin.com/in/erikpmp) > > *[Source](https://pilotonline.com/inside-business/revolutionconf-seeks-to-unite-software-community/article_5c92cdce-c3cc-5deb-a0a4-e5311105e6b4.html)*
 
 Regardless, I'm so excited to be able to act as a volunteer for this upcoming [RevolutionConf](https://revolutionconf.com). Having known [Erik](https://www.linkedin.com/in/erikpmp) from my gig at [80|20](https://8020.co) and [Linda](https://twitter.com/lynnaloo) from the [Norfolk.js Meetup group](https://www.meetup.com/NorfolkJS/), I can say without a doubt that the organizers have whipped up something quite fantastic and probably an event that is long-term (as in it'll keep growing year after year as intended). [Kevin](https://twitter.com/1kevgriff) seems cool too!
 
@@ -68,6 +61,4 @@ In the end, as a Norfolk native, I want people from all over the nation to event
 
 And I believe [RevolutionConf](https://revolutionconf.com) is taking us one step closer to that.
 
-https://revolutionconf.com
-https://twitter.com/revconf
-https://lanyrd.com/2016/revconf/
+https://revolutionconf.com https://twitter.com/revconf https://lanyrd.com/2016/revconf/

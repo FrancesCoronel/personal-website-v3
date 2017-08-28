@@ -44,7 +44,7 @@ appreciative.
 
 ![](https://www.quickmeme.com/img/6d/6dc5a6608cbb656374d791b68a7709f62dbb3e0f3742cf074b295dc8d8edc471.jpg)
 
-I’m hoping to finally gain those “practical skills” in web development
+I’m hoping to finally gain those "practical skills" in web development
 so I can finally start implementing all the ideas I have for potential
 web apps!
 

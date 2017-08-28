@@ -43,8 +43,8 @@ Questions to Ask
 Questions to Ask
 
 - As a VC, what dimension of a company are you disproportionately willing to take risks on?
-- “When you reflect back on your career, is there anything important you would have done differently that other young people who are aspiring into venture capital could benefit from hearing your wisdom and experience about?”
-- “What are the most important decisions you made along the way in your career that you think most greatly contributed to your current success?”
+- "When you reflect back on your career, is there anything important you would have done differently that other young people who are aspiring into venture capital could benefit from hearing your wisdom and experience about?"
+- "What are the most important decisions you made along the way in your career that you think most greatly contributed to your current success?"
     - conferences, 8 to 8 aca,
 - do you see yourself in vc for the long-run or what are your long-term plans
     - eventually transition - more experience in firms - investment processes - want to get
@@ -193,7 +193,7 @@ Schedule
 
 - Mr. Kapor
 - former transcendental meditation teacher?
-- Lotus 1-2-3 spreadsheet, the “killer application” which made the personal computer ubiquitous in the business world
+- Lotus 1-2-3 spreadsheet, the "killer application" which made the personal computer ubiquitous in the business world
 - EFF defends civil liberties in the digital world and works to ensure that rights and freedoms are enhanced and protected as our use of technology grows.
 - In a funny way, having a childhood in which I was a social outcast was a big success factor. I skipped second grade and was two years younger than my classmates and was always excluded from social groups. It gave me an outsider’s perspective. I was never very concerned with approval from my peers and was willing to entertain crazy ideas (like insisting in 1978 everyone in business needed a personal computer or in 1990 that everyone in the world would hook up to the Internet). Being an outsider of course isn’t sufficient but it shaped me and I used it.
 
@@ -211,9 +211,9 @@ Founders Commitment: The purpose of the commitment is to create a culture of div
 
 If you look at the array of skills, networks, and experiences required to be an engaged VC, the best firms build from varied backgrounds and leverage lived experiences to spot entrepreneurs, companies, and trends.
 
-Focusing on key job responsibilities and measurable skills needed — not proxies. As a head of People Ops at a tech company put it, “A degree from Stanford and a previous job at Google are not skills.”
+Focusing on key job responsibilities and measurable skills needed — not proxies. As a head of People Ops at a tech company put it, "A degree from Stanford and a previous job at Google are not skills."
 
-Empasizing actions, not words. We prioritize candidates who have experience building and managing diverse teams, or who have experience being an “only” in a professional or volunteer position. It’s amazing how quickly the “most qualified” candidates go to the bottom of the rankings if demonstrated experience with diverse teams is a requirement in the job description.
+Empasizing actions, not words. We prioritize candidates who have experience building and managing diverse teams, or who have experience being an "only" in a professional or volunteer position. It’s amazing how quickly the "most qualified" candidates go to the bottom of the rankings if demonstrated experience with diverse teams is a requirement in the job description.
 
 Developing a diverse talent pool. We know openings for partners, principals, associates, and analysts occur infrequently in small firms like ours, so we decided to grow our own talent pool. Kapor Capital has worked with Management Leaders for Tomorrow for several years to recruit pre-MBA and MBA students from underrepresented backgrounds as Summer Associates. Several have gone on to full-time positions as investors in the industry. Our very own Brian Dixon was a Kapor Capital Summer Associate, prior to entering business school four years ago. Thereafter, he became a full-time Associate, then a Principal, and just a few months ago was named Partner.
 

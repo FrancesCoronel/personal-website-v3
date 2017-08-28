@@ -89,7 +89,7 @@ height="750"}](https://fvcproductions.com/?attachment_id=3107) Designlab
 - Swag\[/caption\]
 
 I received a few items in the mail August 31st - ooh la la. The book
-“Steal Like An Artist” was included as part of the package and even
+"Steal Like An Artist" was included as part of the package and even
 though I had read it already, it was nice having a physical copy. Even
 my mom ended up reading it and will quote from the book now and then.
 

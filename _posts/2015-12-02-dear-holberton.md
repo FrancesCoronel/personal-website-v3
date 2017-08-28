@@ -17,7 +17,7 @@ When I was in **elementary schoo**l, my goal was to become a **vet**. I was 10, 
 
 So, later in **middle school**, I turned to focus on **biology**. I was sure I wanted to become a biologist, venture into the unexplored fields of pathology and find the next great vaccine. It also didn’t hurt that my biology professor was so inspiring.
 
-However, in **high school**, biology alone felt like it had a limited scope, and so once again, I pivoted my attention to **bioinformatics**, the combination of biology and computer science. *“This is where all the innovation is happening!”*, I thought.
+However, in **high school**, biology alone felt like it had a limited scope, and so once again, I pivoted my attention to **bioinformatics**, the combination of biology and computer science. *"This is where all the innovation is happening!"*, I thought.
 
 And that would be *that*.
 

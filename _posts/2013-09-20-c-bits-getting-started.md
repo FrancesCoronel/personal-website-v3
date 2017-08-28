@@ -56,7 +56,7 @@ Why is the result 0.000? Please fix it.
 
 **Problem 1.2 - Wrong output**
 
-Why does the program print “The answer is –1073745604”?
+Why does the program print "The answer is –1073745604"?
 
 Values will vary.
 
