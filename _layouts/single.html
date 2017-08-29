@@ -48,40 +48,30 @@ layout: default
                 <!-- Page Excerpt -->
                 {% if page.excerpt %}
                     <p itemprop="description">
-                        <i class="fa fa-info-circle fa-lg"></i>
-                        {{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}
+                        <i class="fa fa-info-circle fa-lg"></i>{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}
                     </p>
                 {% endif %}
                 <!-- Page Read Time -->
                 {% if page.read_time %}
                 <p>
-                    <i class="fa fa-clock-o fa-lg" aria-hidden="true"></i>
-                    {% include page/read-time.html %}
+                    <i class="fa fa-clock-o fa-lg" aria-hidden="true"></i>{% include page/read-time.html %}
                 </p>
                 {% endif %}
                 <!-- Page Date -->
                 {% if page.date %}
                     <p>
-                        {% if page.permalink == '/services/speaking' %}
-                            <i class="fa fa-commenting fa-lg" aria-hidden="true"></i>
-                            Presented
-                        {% else %}
-                            <i class="fa fa-pencil-square-o fa-lg" aria-hidden="true"></i>
-                            Created
-                        {% endif %}
-                    <time datetime="{{ page.date | date_to_xmlschema }}">
-                        {{ page.date | date: "%B %d, %Y" }}
-                    </time>
+                    {% if page.permalink == '/services/speaking' %}
+                        <i class="fa fa-commenting fa-lg" aria-hidden="true"></i>Presented
+                    {% else %}
+                        <i class="fa fa-pencil-square-o fa-lg" aria-hidden="true"></i>Created
+                    {% endif %}
+                    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
                     </p>
                 {% endif %}
                 <!-- Page Modified Date -->
                 {% if page.modified %}
                     <p>
-                        <i class="fa fa-calendar-check-o fa-lg" aria-hidden="true"></i>
-                        Last updated
-                        <time datetime="{{ page.modified | date: " %Y-%m-%d " }}">
-                            {{ page.modified | date: "%B %d, %Y" }}
-                        </time>
+                        <i class="fa fa-calendar-check-o fa-lg" aria-hidden="true"></i>Last updated <time datetime="{{ page.modified | date: " %Y-%m-%d " }}">{{ page.modified | date: "%B %d, %Y" }}</time>
                     </p>
                 {% endif %}
                 <!-- Google Analytics Views -->

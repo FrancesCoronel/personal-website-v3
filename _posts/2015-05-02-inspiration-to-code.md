@@ -11,7 +11,7 @@ tags:
     - plans in motion
 excerpt: Back in December of last year, I was browsing through Kickstarter - eager to spend my limited college student cash on something awesome. I found Hollow Knight.
 header:
-    image: https://fvcproductions.files.wordpress.com/2015/04/hollow-knight.jpg?w=1024&h=436&crop=1
+    image: https://i.stack.imgur.com/7cBUc.jpg
 ---
 
 ## What influenced and inspired you to learn how to code?
@@ -46,8 +46,6 @@ Computer science turned into something I wanted to do for the long-term, not jus
 
 This big change in mindset had small beginnings, but it’s changed me for the better, and I find myself delving deeper into the infinite cave that is covered with digital hieroglyphics.
 
-```
-There are no regrets.
-I’m not looking back.
-There is no pivot.
-```
+**There are no regrets.**
+**I’m not looking back.**
+**There is no pivot.**

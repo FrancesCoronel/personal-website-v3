@@ -15,17 +15,13 @@
             {% unless page.permalink == '/services/' or page.permalink == '/adventures/' %}
                 {% if post.date %}
                     <p class="page__meta" itemprop="datePublished">
-                        <i aria-hidden="true" class="fa fa-calendar-o"></i>
-                        <time datetime="{{ post.date | date_to_xmlschema }}">
-                            {{ post.date | date: "%B %d, %Y" }}
-                        </time>
+                        <i aria-hidden="true" class="fa fa-calendar-o"></i><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
                     </p>
                 {% endif %}
             {% endunless %}
             {% if post.read_time %}
                 <p class="page__meta">
-                    <i aria-hidden="true" class="fa fa-clock-o"></i>
-                    {% include page/read-time.html %}
+                    <i aria-hidden="true" class="fa fa-clock-o"></i>{% include page/read-time.html %}
                 </p>
             {% endif %}
         </div>

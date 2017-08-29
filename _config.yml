@@ -19,6 +19,7 @@ url                      : "https://fvcproductions.com"
 baseurl                  : ""
 repository               : "fvcproductions/fvcproductions.github.io"
 teaser                   : "/assets/images/teaser.png"
+theme                    : minimal-mistakes-jekyll
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
