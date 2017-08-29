@@ -15,6 +15,7 @@
         position: absolute;
         height: 100%;
         right: 0;
+        bottom: 5px;
         padding: 0 15px;
         background: $alien;
         border: 0;
@@ -139,7 +140,6 @@
 .navbar-brand {
     display: inline-block;
     padding: 0;
-    margin-right: 1rem;
     font-size: $type-size-4;
     line-height: inherit;
     white-space: nowrap;

@@ -41,7 +41,7 @@ self.addEventListener('install', function (event) {
                             "assets/js/main.min.js",
                             "assets/css/main.css",
                             "assets/favicons/favicon.ico",
-                            "assets/images/logo.svg"
+                            "assets/img/logo.svg"
                         ];
                         cache.addAll(urlsToCache);
                         console.log('cached');

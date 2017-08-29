@@ -28,7 +28,7 @@ gallery:
     - alt: "RevolutionConf"
       url: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/06/revconf-1.jpg
     - alt: "RevolutionConf"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/06/revconf-12.jpg?w=246&h=184&crop&ssl=1&zoom=2
+      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/06/revconf-12.jpg
 ---
 
 ## Name

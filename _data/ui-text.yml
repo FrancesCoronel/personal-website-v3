@@ -11,7 +11,7 @@ en: &DEFAULT_EN
   menu_label                 : "Toggle Menu"
   toc_label                  : "Table of Contents"
   ext_link_label             : "Direct Link"
-  less_than                  : "less than"
+  less_than                  : "Less than"
   minute_read                : "minute read"
   share_on_label             : "<i class='fa fa-heart'></i> Share the love"
   meta_label                 :

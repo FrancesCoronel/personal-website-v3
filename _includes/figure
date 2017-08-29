@@ -1,8 +1,5 @@
-<figure class="{{ include.class }}">
-    <img src="{{ include.image }}" alt="{% if include.alt %}{{ include.alt }}{% endif %}">
-        {% if include.caption %}
-            <figcaption>
-                {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
-            </figcaption>
-        {% endif %}
+<figure id="lightgallery" class="{{ include.class }}">
+    <a href="{{ include.url }}" {% if include.alt %}title="{{ include.alt }}"{% endif %}>
+        <img src="{{ include.url }}" alt="{% if include.alt %}{{ include.alt }}{% endif %}">
+    </a>
 </figure>
