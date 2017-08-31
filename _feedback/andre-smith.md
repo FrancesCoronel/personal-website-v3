@@ -1,7 +1,6 @@
 ---
 title: "Andre Smith"
 date: 2015-10-20
-category: feedback
 cta_url: https://www.linkedin.com/in/andre-smith-776ba32a
 header:
     image: https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/093/350/22be76f.png

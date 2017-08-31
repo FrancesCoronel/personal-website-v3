@@ -1,7 +1,6 @@
 ---
 title: "Wen Tran"
 date: 2016-06-06
-category: feedback
 cta_url: https://github.com/wentran
 header:
     image: https://fvcproductions.files.wordpress.com/2016/06/wentran.jpeg

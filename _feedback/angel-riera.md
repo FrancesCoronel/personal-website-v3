@@ -2,7 +2,6 @@
 title: "Angel Riera"
 date: 2016-04-01
 modified: 2016-06-01
-category: feedback
 cta_url: https://stackoverflow.com/users/5293137/rriera96
 header:
     image: https://fvcproductions.files.wordpress.com/2016/04/photo-on-4-11-16-at-7-33-pm.jpg

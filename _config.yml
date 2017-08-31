@@ -261,10 +261,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _feedback
+  # _reviews
   - scope:
       path: ""
-      type: feedback
+      type: reviews
     values:
       layout: single
       read_time: false
@@ -383,9 +383,9 @@ collections:
   speaking:
     output: true
     permalink: /speaking/:year/:month/:day/:title/
-  feedback:
+  reviews:
     output: true
-    permalink: /feedback/:year/:month/:day/:title/
+    permalink: /reviews/:year/:month/:day/:title/
   adventures:
     output: true
     permalink: /adventures/:year/:month/:day/:title/

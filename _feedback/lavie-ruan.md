@@ -1,7 +1,6 @@
 ---
 title: "Lavie Ruan"
 date: 2016-08-01
-category: feedback
 cta_url: https://linkedin.com/in/laviemaru
 header:
   image: https://fvcproductions.files.wordpress.com/2016/08/lavie.jpg
