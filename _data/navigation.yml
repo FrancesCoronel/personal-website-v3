@@ -2,8 +2,6 @@ main:
   - title: "About 👀️"
     url: /about/
     children:
-      - title: "Books 📖️️"
-        url: /books/
       - title: "Travels 🗺️"
         url: /travels/
       - title: "What I Use 📱️"
