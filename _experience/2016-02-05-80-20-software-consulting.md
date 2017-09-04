@@ -1,5 +1,5 @@
 ---
-title: ! "80|20 Software Consulting - Front End Developer"
+title: ! "80/20 Software Consulting - Front End Developer"
 excerpt: "Frontend Developer"
 date: 2016-02-05
 header:

@@ -7,6 +7,8 @@ header:
 comments: false
 ---
 
+## I've had the opportunity to speak at {{ site.speaking | size }} events so far, with plans to speak more in the future!
+
 <div class="grid__wrapper">
     {% assign sorted_speaking = (site.speaking | sort: 'date') | reverse %}
     {% for post in sorted_speaking %}

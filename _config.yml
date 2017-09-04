@@ -281,10 +281,10 @@ defaults:
       comments: false
       share: true
       related: true
-    # _portfolio
+    # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       read_time: false
@@ -361,20 +361,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _volunteering
-  - scope:
-      path: ""
-      type: books
-    values:
-      layout: single
-      read_time: false
-      comments: true
-      share: true
-      related: true
 
 # collections
 collections:
-  portfolio:
+  projects:
     output: true
     permalink: /portfolio/:year/:month/:day/:title/
   services:
@@ -407,6 +397,3 @@ collections:
   education:
     output: true
     permalink: /education/:year/:month/:day/:title/
-  books:
-    output: true
-    permalink: /books/:year/:month/:day/:title/

@@ -3,7 +3,7 @@ title: "Startup Studio"
 date: 2017-02-24
 excerpt: "Projects from Startup Studio."
 header:
-    image: https://raw.github.com/fvcproductions/venus-co/master/resources/images/logos/mora/type.png
+    image: https://media.githubusercontent.com/media/fvcproductions/venus-co/assets/images/logos/mora/type.png
 ---
 
 ## Overview
