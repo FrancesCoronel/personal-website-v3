@@ -4,7 +4,7 @@
         {{ site.data.ui-text[site.locale].share_on_label | default: "SHARE THE LOVE" }}
     </h4> {% endif %}
     <div class="social-share-links">
-        <a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username }}&{% endif %}text={{ page.title }} {{ page.url | absolute_url }}"
+        <a href="https://twitter.com/intent/tweet?{% if site.author.twitter %}via={{ site.author.twitter }}&{% endif %}text={{ page.title }} {{ page.url | absolute_url }}"
             target="_blank" rel="noopener" class="btn btn--twitter" title="Share on Twitter">
             <i class="fa fa-fw fa-twitter fa-lg" aria-hidden="true"></i><span> Twitter</span>
         </a>

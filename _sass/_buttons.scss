@@ -172,11 +172,14 @@ a.btn:hover {
 }
 
 .archive__item-excerpt a.btn.btn--twitter {
+    color: black !important;
     @media screen and (max-width: $mobile) {
         margin-top: 1em;
     }
+    &:hover {
+        color: white !important;
+    }
 }
-
 
 /** Scroll to Top */
 

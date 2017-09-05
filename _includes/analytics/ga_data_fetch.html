@@ -1,5 +1,5 @@
 <script>
-    var jqxhr = $.ajax("{{site.google_analytics.super_proxy_url}}")
+    var jqxhr = $.ajax("{{site.analytics.google.super_proxy_url}}")
         .done(function (response) {
             if (response !== undefined) {
                 var page_url = "{{ page.url }}";

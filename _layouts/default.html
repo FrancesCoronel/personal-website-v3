@@ -3,15 +3,14 @@ layout: compress
 ---
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}">
-
-{% include header/head.html %}
-<body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-    <a href="javascript:" id="return-to-top"><i class="fa fa-angle-up"></i></a>
-    {% include base/browser-upgrade.html %}
-    {% include header/masthead.html %}
-    {{ content }}
-    {% include footer/footer.html %}
-    {% include base/scripts.html %}
-</body>
+<html lang="{{ site.locale }}">
+    {% include header/head.html %}
+    <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+        <a href="javascript:" id="return-to-top" aria-label="Return to Top" aria-labelledby="Return to Top" aria-hidden="true"><i class="fa fa-angle-up" aria-hidden="true"></i></a>
+        {% include base/browser-upgrade.html %}
+        {% include header/masthead.html %}
+        {{ content }}
+        {% include footer/footer.html %}
+        {% include base/scripts.html %}
+    </body>
 </html>

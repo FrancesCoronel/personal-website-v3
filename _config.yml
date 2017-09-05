@@ -5,57 +5,37 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Where things are
-source     : ./
-destination: ./site
+# Location Paths
+source:                   ./
+destination:              ./site
 
 # Site Settings
-locale                   : "en"
-title                    : "FVCproductions"
-title_separator          : "-"
-name                     : "Frances Coronel"
-description              : "I like to dabble with things that ought to be dabbled with."
-url                      : "https://fvcproductions.com"
-baseurl                  : ""
-repository               : "fvcproductions/fvcproductions.github.io"
-teaser                   : "/assets/img/teaser.png"
-# breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+locale:                   "en_US"
+title:                    "FVCproductions"
+title_separator:          "-"
+name:                     "Frances Coronel"
+description:              "I like to dabble with things that ought to be dabbled with."
+url:                      "https://fvcproductions.com"
+baseurl:                  ""
+repository:               "fvcproductions/fvcproductions.github.io"
+teaser:                   "/assets/img/teaser.png"
+og_image:                 "/assets/img/teaser.png"
+words_per_minute:         200
+github:                   [metadata] # removing GitHub Metadata Error
+google_site_verification: biBOb6vq_csqy61DeBLw8DvAbCDUp5UsG8Vnpgm8qu4
+bing_site_verification:   9C3D9366DA5BF33A14ABDFAF0A81CED3
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider:               "disqus"
   disqus:
-    shortname            : "fvcproductions" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    shortname:            "fvcproductions"
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path:                   # feed.xml
 
-# SEO Related
-google_site_verification : biBOb6vq_csqy61DeBLw8DvAbCDUp5UsG8Vnpgm8qu4
-bing_site_verification   : 9C3D9366DA5BF33A14ABDFAF0A81CED3
-
-# Metadata error
-github: [metadata]
-
-# Social Sharing
-twitter:
-  username               : "fvcproductions"
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : "assets/img/teaser.png" # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+# Google - Structured Data
 social:
-  type                   : "Organization" # Person or Organization (defaults to Person)
-  name                   : "FVCproductions" # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type:                   "Organization"
+  name:                   "FVCproductions"
+  links:
     - "https://twitter.com/fvcproductions"
     - "https://www.linkedin.com/in/fvcproductions"
     - "https://behance.net/fvcproductions"
@@ -65,46 +45,31 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider:               "google"
   google:
-    tracking_id          : UA-63190978-3
-
-
-# Google Super Proxy
-google_analytics:
-  super_proxy_url: "https://fvcproductions-analytics.appspot.com/query?id=ahpzfmZ2Y3Byb2R1Y3Rpb25zLWFuYWx5dGljc3IVCxIIQXBpUXVlcnkYgICAgICAgAoM&format=json"
+    tracking_id:          UA-63190978-3
+    super_proxy_url:      "https://fvcproductions-analytics.appspot.com/query?id=ahpzfmZ2Y3Byb2R1Y3Rpb25zLWFuYWx5dGljc3IVCxIIQXBpUXVlcnkYgICAgICAgAoM&format=json"
 
 # Site Author
 author:
-  name             : "Frances Coronel"
-  avatar           : "assets/img/logo-black.svg" # path of avatar image, e.g. "/assets/img/bio-photo.jpg"
-  bio              : "I like to dabble with things that ought to be dabbled with."
-  location         : "San Francisco, CA"
-  email            : "fvcproductions at gmail dot com"
-  uri              : "https://fvcproductions.com"
-  bitbucket        :
-  codepen          : "fvcproductions"
-  dribbble         : "fvcproductions"
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "fvcproductions"
-  google_plus      : "fvcproductions2013"
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : "fvcproductions"
-  pinterest        :
-  soundcloud       : "fvcproductions"
-  spotify          : "fvcproductions"
-  stackoverflow    : "3000467/fvcproductions" # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : "fvcproductions"
-  tumblr           : "fvcproductions2013"
-  twitter          : "fvcproductions"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : "fvcproductions2013" # "https://youtube.com/c/MichaelRoseDesign"
+  name:                   "Frances Coronel"
+  avatar:                 "assets/img/logo.png"
+  bio:                    "I like to dabble with things that ought to be dabbled with."
+  location:               "Redwood City, CA"
+  email:                  "fvcproductions at gmail dot com"
+  uri:                    "https://fvcproductions.com"
+  codepen:                "fvcproductions"
+  dribbble:               "fvcproductions"
+  github:                 "fvcproductions"
+  google_plus:            "fvcproductions2013"
+  linkedin:               "fvcproductions"
+  soundcloud:             "fvcproductions"
+  spotify:                "fvcproductions"
+  stackoverflow:          "3000467/fvcproductions"
+  steam:                  "fvcproductions"
+  tumblr:                 "fvcproductions2013"
+  twitter:                "fvcproductions"
+  youtube:                "fvcproductions2013"
 
 # Reading Files
 include:
@@ -134,46 +99,38 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
+encoding:                 "utf-8"
+markdown_ext:             "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: ""
-incremental: false
-
+markdown:                 kramdown
+highlighter:              rouge
+lsi:                      false
+excerpt_separator:        ""
+incremental:              false
 
 # Markdown Processing
 kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
+  input:                  GFM
+  hard_wrap:              false
+  auto_ids:               true
+  footnote_nr:            1
+  entity_output:          as_char
+  toc_levels:             1..6
+  smart_quotes:           lsquo,rsquo,ldquo,rdquo
+  enable_coderay:         false
 
 # Sass/SCSS
 sass:
-  sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  sass_dir:               _sass
+  style:                  compressed
 
 # Outputting
-permalink: /blog/:year/:month/:day/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /blog/page:num/
-timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink:                /blog/:year/:month/:day/:title/
+timezone:                 America/Los_Angeles
 
 # Plugins
 gems:
@@ -183,215 +140,186 @@ gems:
   - jekyll-feed
   - jemoji
 
-# # mimic GitHub Pages with --safe
-# whitelist:
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jekyll-gist
-#   - jekyll-feed
-#   - jemoji
-
 # Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
-  type: liquid
-  path: /categories/
+  type:                   liquid
+  path:                   /categories/
 tag_archive:
-  type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+  type:                   liquid
+  path:                   /tags/
 
-# HTML Compression
-# - https://jch.penibelst.de/
+# HTML Compression https: //jch.penibelst.de/
 compress_html:
-  clippings: all
-  comments: all
-  endings: all
+  clippings:              all
+  comments:               all
+  endings:                all
   ignore:
-    envs: [local]
-  blanklines: false
-  profile: false
-  startings: all
+    envs:                 [local]
+  blanklines:             false
+  profile:                false
+  startings:              all
 
 # Defaults
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: posts
+      path:               ""
+      type:               posts
     values:
-      layout: single
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      layout:             single
+      read_time:          true
+      comments:           true
+      share:              true
+      related:            true
   # _pages
   - scope:
-      path: ""
-      type: pages
+      path:               ""
+      type:               pages
     values:
-      layout: single
+      layout:             single
   # _adventures
   - scope:
-      path: ""
-      type: adventures
+      path:               ""
+      type:               adventures
     values:
-      layout: single
-      read_time: false
-      comments: true
-      share: true
-      related: true
+      layout:             single
+      read_time:          false
+      comments:           true
+      share:              true
+      related:            true
   # _reviews
   - scope:
-      path: ""
-      type: reviews
+      path:               ""
+      type:               reviews
     values:
-      layout: single
-      read_time: false
-      comments: true
-      share: true
-      related: true
+      layout:             single
+      read_time:          false
+      comments:           true
+      share:              true
+      related:            true
   # _services
   - scope:
-      path: ""
-      type: services
+      path:               ""
+      type:               services
     values:
-      layout: single
-      read_time: false
-      comments: false
-      share: true
-      related: true
+      layout:             single
+      read_time:          false
+      comments:           false
+      share:              true
+      related:            true
     # _projects
   - scope:
-      path: ""
-      type: projects
+      path:               ""
+      type:               projects
     values:
-      layout: single
-      read_time: false
-      comments: true
-      share: true
-      related: true
+      layout:             single
+      read_time:          false
+      comments:           true
+      share:              true
+      related:            true
   # _speaking
   - scope:
-      path: ""
-      type: speaking
+      path:               ""
+      type:               speaking
     values:
-      layout: single
-      read_time: false
-      comments: true
-      share: true
-      related: true
+      layout:             single
+      read_time:          false
+      comments:           true
+      share:              true
+      related:            true
   # _conferences
   - scope:
-      path: ""
-      type: conferences
+      path:               ""
+      type:               conferences
     values:
-      layout: single
-      read_time: false
-      comments: true
-      share: true
-      related: true
+      layout:             single
+      read_time:          false
+      comments:           true
+      share:              true
+      related:            true
     # _hackathons
   - scope:
-      path: ""
-      type: hackathons
+      path:               ""
+      type:               hackathons
     values:
-      layout: single
-      read_time: false
-      comments: true
-      share: true
-      related: true
+      layout:             single
+      read_time:          false
+      comments:           true
+      share:              true
+      related:            true
   # _experience
   - scope:
-      path: ""
-      type: experience
+      path:               ""
+      type:               experience
     values:
-      layout: single
-      read_time: false
-      comments: true
-      share: true
-      related: true
+      layout:             single
+      read_time:          false
+      comments:           true
+      share:              true
+      related:            true
   # _education
   - scope:
-      path: ""
-      type: education
+      path:               ""
+      type:               education
     values:
-      layout: single
-      read_time: false
-      comments: true
-      share: true
-      related: true
+      layout:             single
+      read_time:          false
+      comments:           true
+      share:              true
+      related:            true
     # _programs
   - scope:
-      path: ""
-      type: programs
+      path:               ""
+      type:               programs
     values:
-      layout: single
-      read_time: false
-      comments: true
-      share: true
-      related: true
+      layout:             single
+      read_time:          false
+      comments:           true
+      share:              true
+      related:            true
   # _volunteering
   - scope:
-      path: ""
-      type: volunteering
+      path:               ""
+      type:               volunteering
     values:
-      layout: single
-      read_time: false
-      comments: true
-      share: true
-      related: true
+      layout:             single
+      read_time:          false
+      comments:           true
+      share:              true
+      related:            true
 
 # collections
 collections:
   projects:
-    output: true
-    permalink: /portfolio/:year/:month/:day/:title/
+    output:               true
+    permalink:            /portfolio/:year/:month/:day/:title/
   services:
-    output: true
-    permalink: /services/:year/:month/:day/:title/
+    output:               true
+    permalink:            /services/:year/:month/:day/:title/
   speaking:
-    output: true
-    permalink: /speaking/:year/:month/:day/:title/
+    output:               true
+    permalink:            /speaking/:year/:month/:day/:title/
   reviews:
-    output: true
-    permalink: /reviews/:year/:month/:day/:title/
+    output:               true
+    permalink:            /reviews/:year/:month/:day/:title/
   adventures:
-    output: true
-    permalink: /adventures/:year/:month/:day/:title/
+    output:               true
+    permalink:            /adventures/:year/:month/:day/:title/
   conferences:
-    output: true
-    permalink: /conferences/:year/:month/:day/:title/
+    output:               true
+    permalink:            /conferences/:year/:month/:day/:title/
   hackathons:
-    output: true
-    permalink: /hackathons/:year/:month/:day/:title/
+    output:               true
+    permalink:            /hackathons/:year/:month/:day/:title/
   programs:
-    output: true
-    permalink: /programs/:year/:month/:day/:title/
+    output:               true
+    permalink:            /programs/:year/:month/:day/:title/
   volunteering:
-    output: true
-    permalink: /volunteering/:year/:month/:day/:title/
+    output:               true
+    permalink:            /volunteering/:year/:month/:day/:title/
   experience:
-    output: true
-    permalink: /experience/:year/:month/:day/:title/
+    output:               true
+    permalink:            /experience/:year/:month/:day/:title/
   education:
-    output: true
-    permalink: /education/:year/:month/:day/:title/
+    output:               true
+    permalink:            /education/:year/:month/:day/:title/

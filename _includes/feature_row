@@ -18,7 +18,7 @@
         <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
             <div class="archive__item">
                 {% if f.image %}
-                    <div class="archive__item-teaser" id="teaser-header" style="background-image: url('{% if f.image contains '://' %}{{ f.image }}{% else %}{{ f.image | absolute_url }}{% endif %}');">
+                    <div class="archive__item-teaser" style="background-image: url('{% if f.image contains '://' %}{{ f.image }}{% else %}{{ f.image | absolute_url }}{% endif %}');">
                     </div>
                 {% endif %}
                 <div class="archive__item-body">
