@@ -39,8 +39,8 @@ So For Those Who Are Looking Forward To Technical Interviews For Software Develo
 ------------
 
 - [General Topics Covered](#section-topics)
-- [Sample Technical Q’s](#section-sampletq)
-- [Sample Personal Q’s](#section-samplepq)
+- [Sample Technical Q's](#section-sampletq)
+- [Sample Personal Q's](#section-samplepq)
 - [Questions to Ask Your Interviewer](#section-interviewerq)
 
 ------------------------------------------------------------------------
@@ -56,7 +56,7 @@ So For Those Who Are Looking Forward To Technical Interviews For Software Develo
 
 ------------------------------------------------------------------------
 
-### **Sample Technical Q’s** {#section-sampletq}
+### **Sample Technical Q's** {#section-sampletq}
 
 -   Write code to test the endianness of a code. Optimitize this code to
     fit 1 line.
@@ -69,7 +69,7 @@ So For Those Who Are Looking Forward To Technical Interviews For Software Develo
 
 ------------------------------------------------------------------------
 
-### **Sample Personal Q’s** {#section-samplepq}
+### **Sample Personal Q's** {#section-samplepq}
 
 -   What makes you most interested in this company? (AH DERP)
 -   Describe yourself.

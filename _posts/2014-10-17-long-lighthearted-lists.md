@@ -25,9 +25,9 @@ Long Lighthearted Lists {#long-lighthearted-lists style="text-align:center;"}
 Index
 -----
 
-- [Languages I’ve Been Seriously Exposed To](#section-languages)
+- [Languages I've Been Seriously Exposed To](#section-languages)
 - [Old Science Fair Projects](#section-oldscience)
-- [Cool Places I Can Live When I’m Older](#section-places)
+- [Cool Places I Can Live When I'm Older](#section-places)
 - [Random Materialistic Wish-List](#section-wishes)
 - [Coding Bootcamp Experiences](#section-bootcamps)
 - [Fun Tech-Related TV Shows](#section-techtv)
@@ -35,7 +35,7 @@ Index
 
 ------------------------------------------------------------------------
 
-### Languages I’ve Been Seriously Exposed To
+### Languages I've Been Seriously Exposed To
 
 ![](https://www.clker.com/cliparts/5/9/c/2/1194984395619889880earth_globe_dan_gerhrads_01.svg.med.png)
 
@@ -44,7 +44,7 @@ Index
 1. Spanish
     -   Soy Peruana.
 2. English
-    -   Born and raised in the US, so there’s that.
+    -   Born and raised in the US, so there's that.
 3. French
     -   I lived in France for about a year in 3rd grade.
 4.  Japanese
@@ -53,7 +53,7 @@ Index
 5.  Swahili
     -   While I was in Tanzania taking a summer course for a month, I
         took Swahili language classes. Plus, everyone in Tanzania speaks
-        Swahili so there’s that.
+        Swahili so there's that.
 6.  Arabic
     -   Took a 1-year intro class my senior year of high school.
 7.  German
@@ -78,7 +78,7 @@ Index
 
 ------------------------------------------------------------------------
 
-### Cool Places I Can Live When I’m Older
+### Cool Places I Can Live When I'm Older
 
 [![Travel to
 Austin](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg?w=294){.size-medium
@@ -109,9 +109,9 @@ height="300"}](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
 
 -   May 2013 - I learned about coding bootcamps and what they were. The
     first bootcamps I heard about were App Academy and Dev Bootcamp. I
-    then decide I’m not prepared for that sort of thing yet because it
+    then decide I'm not prepared for that sort of thing yet because it
     looked beyond my skills at the time.
--   November 2013 - I decide I’m going to apply to bootcamps and attend
+-   November 2013 - I decide I'm going to apply to bootcamps and attend
     one over the summer because I feel more prepared for interviewing. I
     then decide I want to attend a bootcamp that focuses on JavaScript
     and/or Python.

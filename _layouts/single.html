@@ -88,22 +88,31 @@ layout: default
                     </a>
                 {% endif %}
             </section>
+
             <!-- Page Categories/Tags -->
-            {% include page/taxonomy.html %}
+            {% if page.id %}
+                {% include page/taxonomy.html %}
+            {% endif %}
+
             <!-- Social Sharing Buttons -->
             {% if page.share %}
                 {% include page/social-share.html %}
             {% endif %}
 
+            <!-- Comments -->
             {% if site.comments.provider and page.comments %}
                 {% include comments/comments.html %}
             {% endif %}
 
+            <!-- Pagination -->
             {% if page.previous or page.next %}
                 {% include page/post_pagination.html %}
             {% endif %}
 
-            {% if page.id and page.related and site.related_posts.size > 0 %}{% include page/related.html %}{% endif %}
+            <!-- Related Posts -->
+            {% if page.id and page.related and site.related_posts.size > 0 %}
+                {% include page/related.html %}
+            {% endif %}
         </div>
     </article>
 </div>

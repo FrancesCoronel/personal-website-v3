@@ -65,7 +65,7 @@ February 2015
 >
 > > This is more of a telling of a personal journey than a technical
 > > description or overview of what the conference entails. In other
-> > words, it’s meant to be informal so do not take it too seriously
+> > words, it's meant to be informal so do not take it too seriously
 > > (kind of like everything else in blogging).
 
 What is that [TAPIA Conference](https://tapiaconference.org/ "Tapia Confernece")?
@@ -119,10 +119,10 @@ the plane…
 ![Yeti Lives
 Here](https://fvcproductions.files.wordpress.com/2015/02/yeti-lives-here.jpg)
 
-Needless to say, "this snow don’t play".
+Needless to say, "this snow don't play".
 
 Once I arrive in Boston, I end up hopping on a shared van that the Texas
-A&M students were using. I didn’t even have to pay for anything because
+A&M students were using. I didn't even have to pay for anything because
 the driver assumed I was with the students. First win.
 
 The best part about the trip to the hotel was that the driver LOOKED and
@@ -130,7 +130,7 @@ TALKED exactly like the character Gru from [Despicable
 Me](https://en.wikipedia.org/wiki/Despicable_Me "Despicable Me"). It was
 AWESOME. It was really hard to stop myself from LOL every time I heard
 him talk. The massive amounts of snow everywhere was just secondary to
-the experience of seeing a real-life Gru. Unfortunately, I didn’t get a
+the experience of seeing a real-life Gru. Unfortunately, I didn't get a
 pic of him because that would have been kinda awkward since I was
 sitting in shotgun.
 
@@ -146,8 +146,8 @@ organization associated with my name - **FVCproductions**. How nice.
 At this point, I have roughly 3 hours left until the scholarship
 recipient orientation. My roommate/buddy, [Anisha Carter]{}, who is also
 from Hampton gets to the hotel soon after and I help her get started. I
-tell her I won’t be able to attend the ‘Welcome Reception & Fireside
-Chat’ or the ‘Desert & Career Fair’ session because I’ll be meeting up
+tell her I won't be able to attend the ‘Welcome Reception & Fireside
+Chat' or the ‘Desert & Career Fair' session because I'll be meeting up
 with my cousin who lives in Boston.
 
 ![Boston is
@@ -155,7 +155,7 @@ nice.](https://fvcproductions.files.wordpress.com/2015/02/boston-from-above.jpg)
 
 *The first thing I notice about the orientation is that there are a lot
 of minorities, mostly Hispanics and blacks that are relatively
-attractive. I’m biased because I’m a heterosexual Latina, but seriously,
+attractive. I'm biased because I'm a heterosexual Latina, but seriously,
 a lot of people here are young and fresh looking.* \#tapia2015
 
 ![My 1st official
@@ -164,14 +164,14 @@ event.](https://fvcproductions.files.wordpress.com/2015/02/scholarship-reception
 My cousin is late so I attend part of the welcoming reception and then
 end up having to awkwardly leave in the middle of it. Eventually meeting
 up with my coz though was great since we have so much to catch up on.
-I’m full half way through our Thai dinner.
+I'm full half way through our Thai dinner.
 
 Anisha tells me the next day a semi-interesting story about meeting this
 short Hispanic guy named George who invited her and someone she met at
 TAPIA out to drink beer while she was exploring the [Copley
 Place](https://www.simon.com/mall/copley-place "Copley Place"). But I
-guess that’s what happens when you take a picture of a pile of snow and
-reveal you’re a tourist to everyone around you. 😏
+guess that's what happens when you take a picture of a pile of snow and
+reveal you're a tourist to everyone around you. 😏
 
 Day 2 - Thursday, February 19
 -----------------------------
@@ -187,9 +187,9 @@ Day 2 - Thursday, February 19
     Perez-Quiñones](https://perez.cs.vt.edu/ "Manuel PQ") were just
     ridiculously funny, I found myself laughing a lot throughout their
     spheels. There was actually this one part where they talk about
-    ‘statistics’ and that if there was anybody that talked about the
+    ‘statistics' and that if there was anybody that talked about the
     negative statistics associated with minorities, then you ought to go
-    ahead and give out some ‘statistics’ out too. For example, which
+    ahead and give out some ‘statistics' out too. For example, which
     race most represents serial killers? Which race most represents
     teachers that engage in sexual affairs with their students?
     Apparently, the answers are white males and white females,
@@ -203,7 +203,7 @@ Day 2 - Thursday, February 19
     people at the IBM booth that he looks kinda like [Tristan
     Walker](https://twitter.com/tristanwalker "Tristan Walker") and he
     responds pretty apathetically which makes the idea of working at IBM
-    just slightly less appealing. It’s a pretty shallow reaction on my
+    just slightly less appealing. It's a pretty shallow reaction on my
     part.
 
 \[caption width=""
@@ -216,7 +216,7 @@ Tristan is the coolest.\[/caption\]
     surprised to find out he knew who
     [David](https://twitter.com/dyang "David Yang") from [Fullstack
     Academy](https://twitter.com/fullstack "Fullstack Academy") was. I
-    mean, once I found that out, I didn’t really want to stop talking to
+    mean, once I found that out, I didn't really want to stop talking to
     him because I was excited to see that he was involved in reaching
     out to the community. He also really added on what I was talking
     about all the time. Regardless, it was nice finding out Bloomberg
@@ -241,7 +241,7 @@ Day 3 - Friday, February 20
     to earth so far. As of right now, the only thing they have to
     communicate with the 300+ members they have is [this emailing
     list](https://mail.cs.fiu.edu/mailman/listinfo.cgi/hispanicsincomputing "HIC Emailing"). At
-    this point, I decide I resent email because I think it’s holding
+    this point, I decide I resent email because I think it's holding
     people back. I suggested [Slack](https://slack.com "Slack") after the
     conference ended and this is the response I got:\
     \[code language="plain"\]Thanks for your input on this. Over the
@@ -289,7 +289,7 @@ Slide](https://fvcproductions.files.wordpress.com/2015/02/hic-pres.jpg)
     Strategies & Good Practices** Here a bunch of people ended up
     speaking which was great because I have a short term attention span
     and listening to one person talk for hours on end is never something
-    I’ve particularly enjoyed unless they were ridiculously good. I even
+    I've particularly enjoyed unless they were ridiculously good. I even
     saw Nancy, who was somebody I recognized from a Google Hackathon I
     went to last November.
 
@@ -313,11 +313,11 @@ Slide](https://fvcproductions.files.wordpress.com/2015/02/hic-pres.jpg)
     options to keep me more than satisfied, which is a rare thing. After
     we eat, the final speaker,
     [Freeman](https://president.umbc.edu/ "Freeman"), gives the best
-    speech I’ve heard so far in the entire conference. He really covered
+    speech I've heard so far in the entire conference. He really covered
     a lot of great points. Anyhow, having been inspired by **THE
     Freeman**, [Richard](https://www.caam.rice.edu/~rat/ "Richard") talks
     about his background and basically covers the main points of his
-    life story and how he got to where he was. I didn’t realize he had
+    life story and how he got to where he was. I didn't realize he had
     lost his daughter throughout the period where he was getting more
     and more accolades. That was pretty sad. Awards were then given out
     and people got cool things such as [Google
@@ -325,16 +325,16 @@ Slide](https://fvcproductions.files.wordpress.com/2015/02/hic-pres.jpg)
     [Lenovo
     Tablets](https://shop.lenovo.com/us/en/tablets/ "Lenovo Tablets"), an
     [Xbox one](https://www.xbox.com/en-US/xbox-one "Xbox One"), other
-    cool swag I can’t remember off the top of my head.
+    cool swag I can't remember off the top of my head.
 
 <!-- -->
 
 -   **Dancing** Following the banquet, there was dancing, and boy oh
     boy, do I love to dance. Unfortunately, the song selection could
-    have been a bit catchier, but I guess beggars can’t be choosers,
+    have been a bit catchier, but I guess beggars can't be choosers,
     whatever that really means. Regardless, I got to see Latinos who
     REALLY knew how to dance and awkward Harvard students move their
-    hips too. SO all in all, it wasn’t that disappointing. Since I’m
+    hips too. SO all in all, it wasn't that disappointing. Since I'm
     lame, I get tired pretty fast and end up getting to bed around 11
     pm.
 
@@ -348,12 +348,12 @@ should have arrived home at 3 pm, I actually arrived around 9 pm. Get
 ready for an airport horror story.
 
 The first time I got into the plane, we were a few minutes from lifting
-off when the airport decides it’s not safe to fly. We wait for half an
-hour back in the terminal and then it’s finally decided we have to
+off when the airport decides it's not safe to fly. We wait for half an
+hour back in the terminal and then it's finally decided we have to
 deplane.
 
 Consistently throughout the process, I faced the dilemma of whether or
-not to take the initiative on finding a different flight or just sayin’
+not to take the initiative on finding a different flight or just sayin'
 "screw it, let me get some pizza and a smoothie or something to pass the
 time (which I did do once or twice - I mean,
 [Sbarro's](https://www.sbarro.com/ "Sbarro's") is just irresistible)". I
@@ -364,19 +364,19 @@ service.
 
 Half way through waiting in this 1-hour line, I call this help line \#
 that this lady from Toronto gives me since the help line only helps with
-domestic flights. It’s officially from US Airways but then the help line
+domestic flights. It's officially from US Airways but then the help line
 goes on to offer me a \$100 Walmart gift card and insisting that I give
-them my personal info to get this card. I’m pretty gullible, so I give
+them my personal info to get this card. I'm pretty gullible, so I give
 them my name and address but then they ask for my debit card \# and I go
-crazy and ask why they haven’t help me out yet. I’m still in the
+crazy and ask why they haven't help me out yet. I'm still in the
 ridiculously long line and hang up on the stupid help line and then all
-of a sudden, US Airways announces that the flight I’ve been waiting for
+of a sudden, US Airways announces that the flight I've been waiting for
 4 hours so far now is now boarding.
 
 ![And Im off after a zillion
 hours](https://fvcproductions.files.wordpress.com/2015/02/leaving-to-norfolk.jpg)
 
-When I got home, I took all my anger out on the snow which wasn’t really
+When I got home, I took all my anger out on the snow which wasn't really
 a fun process either.
 
 ![In Mother Russia, snow punches
@@ -392,9 +392,9 @@ who I friended on LinkedIn. I even ended up joining 2 organizations,
 [Hispanics in
 Computing](https://mail.cs.fiu.edu/mailman/listinfo.cgi/hispanicsincomputing "HIC Emailing")
 and [Afro Movers &
-Shakers](https://afmvskrs.slack.com "Afro Movers & Shakers"). I’m hoping
+Shakers](https://afmvskrs.slack.com "Afro Movers & Shakers"). I'm hoping
 to help out HIC out because they only have a e-mail listserv right now
-which isn’t very effective in distributing information. I actually ended
+which isn't very effective in distributing information. I actually ended
 up recommending [Slack](https://slack.com "Slack") to the organizer of
 Afro Movers & Shakers and he thought it was a cool idea and made one.
 

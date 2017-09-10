@@ -4,7 +4,7 @@ excerpt: "We don't meet anyone by chance."
 permalink: /conferences/
 comments: false
 header:
-    image: https://fvcproductions.files.wordpress.com/2016/09/photo1.jpg
+    image: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/07/img_0493.jpg
 tags:
     - conferences
     - tech conferences

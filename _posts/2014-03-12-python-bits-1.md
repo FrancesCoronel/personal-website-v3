@@ -22,13 +22,13 @@ header:
 
 ### Hello, hello, hello!
 
-Welcome to Python Bits, where you’re introduced to increasingly
+Welcome to Python Bits, where you're introduced to increasingly
 difficult program problems that you can solve… or not.
 
-It’s up to you, I’m not the pushy type.
+It's up to you, I'm not the pushy type.
 
-So long time, no see, and naturally it’s time for another programming
-session, BUT this time, we’re going to be working with Python!
+So long time, no see, and naturally it's time for another programming
+session, BUT this time, we're going to be working with Python!
 
 For this exercise, I assume you own a device with an OSX system. Sorry
 Windows users.
@@ -38,17 +38,17 @@ problem session, due to the fact that these problems are meant for
 absolute beginners to programming, and Python happens to be one of the
 easier languages to understand in terms of syntax, thankfully.
 
-We’ll be using Python 3.3.2 version, which does have different syntax
+We'll be using Python 3.3.2 version, which does have different syntax
 from the more widely used Python 2, so do note that when looking at
 these programs.
 
-Now let’s do this, homie!
+Now let's do this, homie!
 
     To Note...
     Compiler - CodeRunner 1.3.1
     Python Version - 3.3.4
 
-Now we’ll be covering 7 "problems" today…
+Now we'll be covering 7 "problems" today…
 
     1. Installation
     2. Numerical Expressions
@@ -61,36 +61,36 @@ Now we’ll be covering 7 "problems" today…
 The full program that can be compiled correctly without any errors can
 be found at Github
 [here](https://github.com/fvcproductions/BITS/tree/master/Python-Bits),
-so that if you ever get stuck and don’t feel like stressing, you can
+so that if you ever get stuck and don't feel like stressing, you can
 check that out!
 
 Umm.. except for Problem 1 and 2, that is.
 
 Problem 1 is just involving Installation and with Problem 2, the answers
-are given so it’s all good.
+are given so it's all good.
 
 **Problem 1 - Installation**
 
-Install Python first fool (in case you haven’t already)!
+Install Python first fool (in case you haven't already)!
 
-The latest version as of March 4, 2014 is Python 3.3.4, and I’ll just be
+The latest version as of March 4, 2014 is Python 3.3.4, and I'll just be
 referring to it as Python 3.0.
 
 As an Apple fanatic, I personally use
 [CodeRunner](https://krillapps.com/coderunner/) to compile and run my
-little programs. Although it does cost \$9.99 on Apple’s App Store… so
-you know - that’s your go.
+little programs. Although it does cost \$9.99 on Apple's App Store… so
+you know - that's your go.
 
 However, it is recommended by most web-developers that you learn how to
 use [SublimeText](https://www.sublimetext.com) if you intend to do more
 programming in the future. SublimeText is recognized way more by top
-web-developers and can be run on Linux, Windows, and OSX (so that’s a
+web-developers and can be run on Linux, Windows, and OSX (so that's a
 plus!). The downside is that SublimeText requires a purchase license for
-continued use, but at the same time there’s no time limit for
-your "evaluation" of the product… so it’s kinda free?
+continued use, but at the same time there's no time limit for
+your "evaluation" of the product… so it's kinda free?
 
 ANYHOW, SublimeText costs \$70, but there are PLENTY of free options out
-there, so do NOT give up if you’re on a tight budget.
+there, so do NOT give up if you're on a tight budget.
 
 The popular free ones are
 [TextWrangler](https://www.barebones.com/products/textwrangler/), [Xcode](https://developer.apple.com/xcode/)
@@ -104,7 +104,7 @@ Yarharhar. Okay, moving on.
 
 If you want to run Python 3.0 on CodeRunner, you will have to
 
-1. First download the latest version of Python from Python’s
+1. First download the latest version of Python from Python's
     website (which they **finally** updated because Lordy it was looking
     mighty messy when I first laid my eyes on it back in the day)
 2. Unless of course you want to use Python 2.0, since Python 2.0 is
@@ -118,7 +118,7 @@ If you want to run Python 3.0 on CodeRunner, you will have to
 6.  I have it installed already so this image shows up:\
     ![Already
     Installed](https://fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-04-at-5-19-30-pm.png)
-7.  If that doesn’t show up, you probably screwed up, or I suck at
+7.  If that doesn't show up, you probably screwed up, or I suck at
     giving instructions…check Google.
 8.  If it does work, we can work with CodeRunner now! :D
 9.  So now open up CodeRunner and go to *CodeRunner -&gt; Preferences
@@ -127,13 +127,13 @@ If you want to run Python 3.0 on CodeRunner, you will have to
 11. It should look something like this:\
     ![Adding Python
     3.0](https://fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-04-at-11-47-49-am.png)
-12. Once you’ve done that, you can choose Python 3 from your scroll bar
+12. Once you've done that, you can choose Python 3 from your scroll bar
     of languages…and FINALLY — you can freaking use Python 3.0.
 
 **Problem 2 - Numerical Expressions**
 
 So with Python, you have the ability to to use the language as a
-calculator. I mean, it’s an awesome programming language so you can
+calculator. I mean, it's an awesome programming language so you can
 pretty much use the language to do **whatever the hell you want**.
 
 So go ahead and open up a tab and check out what happens when you work
@@ -160,11 +160,11 @@ with different numerical expressions…
 
     ERROR
     If you try to compile that expression,
-    there will be an immediate error due to the fact you simply can’t divide by zero.
-    Hopefully, you’ve learn that little fact by now...
+    there will be an immediate error due to the fact you simply can't divide by zero.
+    Hopefully, you've learn that little fact by now...
     you know with algebra and what not.
 
-Just to note, it’s not necessary to add spaces between the numbers and
+Just to note, it's not necessary to add spaces between the numbers and
 symbols, but I put them in for reading purposes.
 
 **Problem 3 - Printing**
@@ -181,8 +181,8 @@ So input for me would look like
 
 This would simply output FVC productions onto the console.
 
-The parenthesis isn’t used with Python 2, but for Python 3, you will get
-a syntax error message if you don’t use it.
+The parenthesis isn't used with Python 2, but for Python 3, you will get
+a syntax error message if you don't use it.
 
 **Problem 4 - Initializing**
 
@@ -244,7 +244,7 @@ Area of a circle is known
 
     3*π*radius²
 
-***But here’s a little trick for pi…***
+***But here's a little trick for pi…***
 
 Instead of declaring pi as 3.14 and so on, you can use a built-in math
 constant known as math.pi which will give you the entire value of pi, to
@@ -257,16 +257,16 @@ a circle can be written as
 
 Python also has the built-in function pow.
 
-It’s formatted as pow(x, y) where x is raised to the y.
+It's formatted as pow(x, y) where x is raised to the y.
 
 So in this case we would have
 
     3*math.pi*pow(radius,2)
 
-And booyah baby! **We’re done!**
+And booyah baby! **We're done!**
 
 You just got introduced to your first two built-in mathematical
 function!!
 
-Python has a BUNCH of these and if you’re curious, a list of them can be
+Python has a BUNCH of these and if you're curious, a list of them can be
 found [here](https://docs.python.org/2/library/math.html).

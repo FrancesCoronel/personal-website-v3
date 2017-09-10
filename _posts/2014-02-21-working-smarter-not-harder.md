@@ -26,14 +26,14 @@ tags:
     - working smarter
 ---
 
-So there’s this book that covers the best study strategies.
+So there's this book that covers the best study strategies.
 
 I read it for fun since it was in my local library and it looked pretty
 interesting so I decided to go ahead and share the key points.
 
 I originally made this list February 21, 2014.
 
-When there are so many time-consuming distractions out there, it’s much
+When there are so many time-consuming distractions out there, it's much
 more effective to know how to correctly manage all your precious
 mili-seconds.
 
@@ -54,10 +54,10 @@ You know, something along those lines...
     -   Transfer to-dos and deadlines to a calendar
         (physical/electronic) in morning (I use iCal)
     -   Plan day with realistic time frames
-    -   Move what you don’t have time for to a different date
+    -   Move what you don't have time for to a different date
 2. **Defeat Procrastination**
     -   Keep note of progress with work through small notebook/task list
-        (:idea: Evernote’s work great for this)
+        (:idea: Evernote's work great for this)
     -   Record if tasks were successfully accomplished and if not, note
         why not
     -   When working, eat healthy snacks to maximize energy
@@ -86,7 +86,7 @@ quizzes and exams…***
         problems and answers as possible
 2. **Demote Assignments**
     -   Work a little bit each day on your assignments
-    -   Avoid suffering from day-before syndrome! It’s dangerous.
+    -   Avoid suffering from day-before syndrome! It's dangerous.
     -   Read only the favored reading sources on the syllabus in more
         detail
     -   To decide how much time to spend on supplemental sources, follow
@@ -110,13 +110,13 @@ quizzes and exams…***
     -   Spread out memorization over several days
 5.  **Invest in "Academic Disaster Insurance"**
     -   Eliminate the question marks for topics covered in class or from
-        the reading that you don’t understand
-    -   In other words, if you don’t understand something, figure it out
+        the reading that you don't understand
+    -   In other words, if you don't understand something, figure it out
         using other resources, or start focusing more on the other
         topics so you at least have more leverage
 6.  **Provide "A+" Answers**
     -   Look over the whole test first
-    -   If you get stuck on a problem and still can’t think of anything
+    -   If you get stuck on a problem and still can't think of anything
         after 10 seconds, SKIP IT, and move on
     -   Figure out how much time you have to spend on each question,
         making sure that you focus on the most valuable questions first
@@ -159,18 +159,18 @@ papers…***
     -   Follow your outline and articulate your points clearly
     -   Try not to write no more than 3- 5 pages per weekday or 5 - 8
         days per weekend day
-8.  **Fix, Don’t Fixate**
+8.  **Fix, Don't Fixate**
     -   Read paper carefully on your laptop to make sure your argument
         is clear, fix obvious errors, and rewrite where the flow needs
         improvement
     -   Use built-in or online error-finding applications or software to
-        make sure you don’t miss anything
+        make sure you don't miss anything
     -   Carefully read out loud a printed copy of your paper, marking
         any awkward passages or unclear explanations
     -   A final pass over a printed version of the paper to check the
         overall flow and to root out any remaining errors
 
-If you don’t recall any of this stuff, try to remember that no student
+If you don't recall any of this stuff, try to remember that no student
 should have to study and work all day, sleep for 3 hours, and go through
 the amount of stereotyped head ache and stress society assigns to the
 typical college student.

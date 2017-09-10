@@ -55,14 +55,14 @@ tags:
 -   Synonyms that come up to describe the ideal student
     -   `warm`, `smart`, `driven`, `compassionate`, `capable`,
         `friendly`, `dedicated`
--   You don’t have to be expert coder, but a good learner.
+-   You don't have to be expert coder, but a good learner.
 
 **2. You are a good fit for the program.**
 
 -   Culture fit is vital in the interview process
     -   They want to make sure everyone gets along (so show your best
         self).
-    -   You’re fun to hang out
+    -   You're fun to hang out
     -   You do not ring any alarm bells (ergo, not an asshole).
     -   There are \~30 applicants for each student, but it is important
         to note that qualified applicants typically underestimate
@@ -94,7 +94,7 @@ tags:
     the `Road to JavaScript`
 - [Eloquent JavaScript: 2nd
     Edition](https://eloquentjavascript.net "Eloquent JavaScript") -
-    basically reading the whole book would be helpful, but if you can’t
+    basically reading the whole book would be helpful, but if you can't
     do that, then the 1st 5 chapters are pretty key
 
 **Going All Out**
@@ -171,7 +171,7 @@ tags:
 ------------------------------------------------------------------------
 
 Recently, SwitchUp released their 2014 list of the [top coding
-bootcamps](https://fvcproductions.com/2015/02/20/brief-thoughts-best-bootcamps-switchup/ "Brief Thoughts on SwitchUp’s Review for 31 Best Bootcamps 2014 💭").
+bootcamps](https://fvcproductions.com/2015/02/20/brief-thoughts-best-bootcamps-switchup/ "Brief Thoughts on SwitchUp's Review for 31 Best Bootcamps 2014 💭").
 I'd check that out too.
 
 For finding them, refer to this post [where I look over the best

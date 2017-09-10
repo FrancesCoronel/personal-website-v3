@@ -45,7 +45,7 @@ Day Two - Tuesday {#daytwo-tuesday}
 -----------------
 
 -   The `twitter-js` project was fun, but this `twitter-sql` business is
-    just a whole nother ballgame, and I’m not sure if I really like
+    just a whole nother ballgame, and I'm not sure if I really like
     playing… ⚾️⚾️⚾️
 -   On the other hand, `Mongo` seems nice. The docs are definitely
     cleaner…
@@ -57,14 +57,14 @@ Day Three - Wednesday {#daythree-wednesday}
 
 -   I actually tried doing exercise in the morning by going to the
     swimming pool with my Tia Ceci. It was fun and all, but it
-    definitely requires more effort so I’ll probably just do that sort
+    definitely requires more effort so I'll probably just do that sort
     of thing once a week.
 -   Really want to share that presentation (the one featuring all the
-    cool web dev stuff) soon - but I’m going to hold off until I’ve made
+    cool web dev stuff) soon - but I'm going to hold off until I've made
     a few more tweaks.
 -   The workshop went really well today - got a good partner and
     progress was made.
--   There was a brief alumni panel today as well and I’m pretty
+-   There was a brief alumni panel today as well and I'm pretty
     impressed that this one alumnus is already going to be working on
     [Dropbox](https://dropbox.com "Dropbox") even though his cohort
     graduated in April (?)(*somewhere around that time*) of this year.
@@ -72,7 +72,7 @@ Day Three - Wednesday {#daythree-wednesday}
         to work on **side projects** and **prepare appropriately** for
         the hiring stages/white board interviews.
     -   I do have experience with white board interviews and they are
-        quite scary. However, I don’t blame most companies for keeping
+        quite scary. However, I don't blame most companies for keeping
         that strategy since it is pretty hard coming up with effective
         methods to truly test the ability of able programmers.
     -   💡I really like what [**Aline
@@ -87,10 +87,10 @@ Day Four - Thursday {#dayfour-thursday}
 -------------------
 
 -   The testing process for our Wikistack project of yesterday was much
-    less exciting, but at least I didn’t struggle horribly with it and
+    less exciting, but at least I didn't struggle horribly with it and
     consequently get the urge of sinking into some deep dark hole.
 -   For the third (?) time at Fullstack, I get food from some place
-    other than Lenny’s.
+    other than Lenny's.
     -   So naturally I screw it up by ordering a bloody *personal pan*
         pizza instead of just getting those jumbo slices all the NYC
         pizza places are used to selling. The wait is at least 15
@@ -99,7 +99,7 @@ Day Four - Thursday {#dayfour-thursday}
     -   Given that I am just now realizing that I strongly prefer
         stability when it comes to my food, I can suppose Fullstack is
         just forcing me to rediscover my true relationship with food.
-        Although it might also just be because Lenny’s just has a lot of
+        Although it might also just be because Lenny's just has a lot of
         Latino workers.
 -   🍴 My learning team lunch today involved playing this board game that
     featured a lady with a big bust for the cover.
@@ -120,16 +120,16 @@ Avalon Set Up
     forces people to lie and identify as either a good or bad person,
     which has never made sense to me (not just the good vs bad
     schematic, but the whole light vs dark color theming, etc.) because
-    I’ve always identified as both a good and bad person.
+    I've always identified as both a good and bad person.
     -   Regardless, the game was a lot of fun because it involves the
         wicked art of *deception* and people just made a bunch of
         accusations all throughout which led to a lot of laughter and
         random banter.
-    -   I myself don’t feel I’m terribly good at lying, but people have
-        told me before that I have a great poker face or that I’m just
+    -   I myself don't feel I'm terribly good at lying, but people have
+        told me before that I have a great poker face or that I'm just
         plain shady. *The quiet ones are always a little crazzyyyy…*
     -   Anyways, the good people (such as myself) won, but only because
-        the bad kids weren’t very good at being bad. Shucks.
+        the bad kids weren't very good at being bad. Shucks.
 
 ------------------------------------------------------------------------
 
@@ -141,13 +141,13 @@ Day Five - Friday {#dayfive-friday}
 -   My little team and I had to solve these different programming
     puzzles that related both to the [American Museum of Natural
     History](https://www.amnh.org/) and to our instructors.
--   I don’t want to spoil anything, but the great part about the first
+-   I don't want to spoil anything, but the great part about the first
     half of today was that I felt a lot like [Robert
     Langdon](https://www.wikiwand.com/en/Robert_Langdon "Robert Langdon")
     running around all these historically relevant places with some hot
     chick constantly solving puzzles/riddles and figuring out where the
     next clue will lead him.
-    -   Of course, in my case there wasn’t any hot chick and the only
+    -   Of course, in my case there wasn't any hot chick and the only
         location I was running around in was the museum itself, but
         hey - that museum is **exceptionally** large.
     -   I mean, could you guess the Latin name of this dino? ![Duck Bill
@@ -164,10 +164,10 @@ Octocat](https://fvcproductions.files.wordpress.com/2015/06/pride-octocat.png){.
 height="56"}](https://fvcproductions.files.wordpress.com/2015/06/pride-octocat.png)
 
 -   Once all was said and done and we headed back to Fullstack, I was
-    very full and tired, so the lecture on Promises didn’t get the
+    very full and tired, so the lecture on Promises didn't get the
     attention it deserved from me.
 -   Thankfully though, afterwards, by some freakish and questionable
-    miracle, I’m not struggling with the workshop that much at all.
+    miracle, I'm not struggling with the workshop that much at all.
     *Mmmhmmm.*
 -   The last thing of the day of course is 🔥 **Hot Seat🔥** and once
     again I find myself most delighted by the stories of my fellow

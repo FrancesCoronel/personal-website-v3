@@ -28,8 +28,8 @@ break*" is starting this June.
 
 Specifically, Monday, June 8th 2015.
 
-Ergo, I’m actually going to be part of an inaugural class of
-**something**. That’s never happened before, so I’m pretty darn excited.
+Ergo, I'm actually going to be part of an inaugural class of
+**something**. That's never happened before, so I'm pretty darn excited.
 
 As excited as *I* can get anyway, which to some people would not really
 be perceived as very excited at all. Think **[Maurice
@@ -39,19 +39,19 @@ Moss](https://theitcrowd.wikia.com/wiki/Maurice_Moss "Maurice Moss")**.
 
 Basically.
 
-**Anyhow**, I’m starting to realize that when Fullstack says "intensive
+**Anyhow**, I'm starting to realize that when Fullstack says "intensive
 introductory course", they actually do mean an **intensive introductory
 course**.
 
-Now I’m a CS major. A senior now too, technically speaking! Yet already
+Now I'm a CS major. A senior now too, technically speaking! Yet already
 Week 1 of bloody **Foundations** has been neither a jog through the park
-nor a slice of pie (*frankly though, I don’t enjoy either of those
+nor a slice of pie (*frankly though, I don't enjoy either of those
 things anyways*).
 
-Now that may be because my CS curriculum doesn’t actually focus on web
+Now that may be because my CS curriculum doesn't actually focus on web
 development, like most, but still - geez.
 
-**I’m not saying it was ridiculously difficult either.** It was just
+**I'm not saying it was ridiculously difficult either.** It was just
 more than I expected - I mean, there was **a lot** to do. A lot to get
 done. You know, the whole doge thing - *much work, such stress, must
 caffeine, alot study* - blah, blah blah.
@@ -60,17 +60,17 @@ caffeine, alot study* - blah, blah blah.
 
 Mmmmhmmm... indeed...
 
-Now that all sounds bad, but it’s only because I’m the kind of person
+Now that all sounds bad, but it's only because I'm the kind of person
 who was hoping to sit around all month and be lazy before having to
 really work my butt off for a full 11 weeks. Mmm…
 
-Well, regardless, I was able to manage. I’m actually quite content with
-it all. I feel like I’m learning quite a bit already.
+Well, regardless, I was able to manage. I'm actually quite content with
+it all. I feel like I'm learning quite a bit already.
 
-I’m on the border between feeling productive and antsy, because on one
-hand I know I’m getting crap done, but on the other, I’m worried about
-how much harder it’s all going to get. There’s also that *teeny tiny
-little* fact I’m already aware of about how everybody gets an assessment
+I'm on the border between feeling productive and antsy, because on one
+hand I know I'm getting crap done, but on the other, I'm worried about
+how much harder it's all going to get. There's also that *teeny tiny
+little* fact I'm already aware of about how everybody gets an assessment
 their official first week of Fullstack Academy to see if they will still
 be continuing on.
 

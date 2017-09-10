@@ -148,7 +148,7 @@ pretty helpful and were all available for free online.
 The Projects {#section-projects}
 ------------
 
-I’m still pretty new to the world of design. Even though I already knew
+I'm still pretty new to the world of design. Even though I already knew
 the difference between UX/UI, how a wireframe is different from a
 prototype, and how important design is in general, **Designlab** was
 still made me realize how much more complex design can really be even
@@ -156,7 +156,7 @@ when your only goal is simplicity.
 
 I explored each project more in depth [on this
 page](https://fvcproductions.com/portfolio/designlab-submissions/), but
-you’re also free to look at it on [my Behance
+you're also free to look at it on [my Behance
 portfolio](https://www.behance.net/gallery/29117121/My-Designlab-Experience)
 as well.
 
@@ -173,7 +173,7 @@ The Difference {#section-difference}
 The difference, I believe, between something
 like [DailyUI](https://chadtrutt.com/ "Chad Trutt") challenges and
 [Designlab](https://trydesignlab.com "Designlab") is the amount of
-feedback you’re going to get. I feel the main thing you’re paying for is
+feedback you're going to get. I feel the main thing you're paying for is
 the community and feedback. The articles they provide as mini-lessons
 before each project are all actually free online somewhere, but,
 nonetheless, they were **very** well selected.

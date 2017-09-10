@@ -65,7 +65,7 @@ Head over to the Java Decompiler [page located at
 Step 2 - Launch JD-GUI
 ----------------------
 
-Now that you’ve downloaded the `ZIP` file, unzip it and launch the
+Now that you've downloaded the `ZIP` file, unzip it and launch the
 application.
 
 ![](https://fvcproductions.files.wordpress.com/2015/04/jd-gui-unzipped.png)
@@ -101,7 +101,7 @@ will use to determine the order.
 
 ![](https://fvcproductions.files.wordpress.com/2015/04/experimentorders-2nd-case.png)
 
-This redirects us to the `setStudentID()` method. So now we’ve figured
+This redirects us to the `setStudentID()` method. So now we've figured
 out the ordering all just depends on the formula the program uses.
 
 ![](https://fvcproductions.files.wordpress.com/2015/04/selectedpermutation.png)

@@ -24,7 +24,7 @@ tags:
 
 ------------------------------------------------------------------------
 
-Today I’ll be discussing past and current examples of technological
+Today I'll be discussing past and current examples of technological
 dependence in the economy. To get a better sense of this age old fear of
 technology replacing humans, we also have to go back in time. So in
 essence I will be looking at past and current examples of robotics
@@ -35,16 +35,16 @@ shifting the workforce and how they will influence future circumstances.
 So according to a study published by Oxford University, after the 1950s
 (not too far back), librarians had become a very large profession. When
 the mainframe computer came out, however, in 1957, librarians were
-deathly afraid they were going to lose their jobs. That didn’t end up
+deathly afraid they were going to lose their jobs. That didn't end up
 happening. Jobs continued to increase for librarians for a long time
-afterwards. It wasn’t until about 40 years after the mainframe computer
+afterwards. It wasn't until about 40 years after the mainframe computer
 came out, in the 1990s, that the profession started and continues today
-to face a steep decline. During the 1990’s, the grand Internet came into
-play as well as the widespread use of the personal computer. It’s clear
+to face a steep decline. During the 1990's, the grand Internet came into
+play as well as the widespread use of the personal computer. It's clear
 less librarians are needed for a job that can be rapidly automated. Need
-a book recommendation? There’s an app for that. Need help finding a
-book? Online catalog has your back. It won’t be long before librarians
-aren’t needed at all, with increasing digital book sales these days.
+a book recommendation? There's an app for that. Need help finding a
+book? Online catalog has your back. It won't be long before librarians
+aren't needed at all, with increasing digital book sales these days.
 
 The same idea applies to spreadsheets. Spreadsheets back in the day were
 literally large pieces of paper and the accountants did calculations by
@@ -70,7 +70,7 @@ pharmaceuticals and marketing and has significantly improved its human
 indistinguishability and raised over 40 million to further improve its
 artificially intelligent algorithms.
 
-What about drug store pharmacists? Well, they’re not going to be
+What about drug store pharmacists? Well, they're not going to be
 replaced quite yet. Recently though, the University of California San
 Francisco Medical Center launched an automated, robotics-controlled
 pharmacy at two UCSF hospitals. Once computers electronically receive
@@ -79,7 +79,7 @@ doses of pills. The pharmacy system which works with a few specialized
 human pharmacists has so far prepared 350,000 doses of medication
 without a single error.
 
-Then there’s Baxter. Meet Baxter everyone. And make sure to congratulate
+Then there's Baxter. Meet Baxter everyone. And make sure to congratulate
 him too. On February 17 of this year, this \$22,000 robot successfully
 worked 2,160 straight hours (90 days) in a molding factory in
 Pennsylvania where he had to grab plastic parts off an assembly line,
@@ -96,7 +96,7 @@ culture, much like the industrial revolution did in the 18th century.
 
 Speaking of the future, the advantages robots have today against humans
 will still hold later. Robots are never bored or tired, make fewer
-mistakes, more efficient, don’t ask for raises, can work during
+mistakes, more efficient, don't ask for raises, can work during
 SuperBowl season or holidays, are more physically powerful, save
 companies millions, no liabilities and can be put in dangerous
 locations, higher production, better quality, faster, and the list goes

@@ -10,7 +10,7 @@ source:                   ./
 destination:              ./site
 
 # Site Settings
-locale:                   "en_US"
+locale:                   "en"
 title:                    "FVCproductions"
 title_separator:          "-"
 name:                     "Frances Coronel"

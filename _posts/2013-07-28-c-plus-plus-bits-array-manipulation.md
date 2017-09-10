@@ -1,161 +1,227 @@
 ---
-title: "C++ Bits - Array Manipulation"
+title: "C++ Bits - Array Manipulation ✂️"
 date: 2013-07-30
 excerpt: "Manipulating arrays in C++."
 header:
     image: https://fvcproductions.files.wordpress.com/2013/07/banners-002.jpg?w=1024&h=436&crop=1
 ---
 
-**Purpose**
+## Purpose
 
 To do real simpleton array manipulation. To use functions with awkward
 arrays.
 
-1. Write a C++ program to read numbers (using count technique or a
-    sentinel loop) into an array of integers, and then manipulate the
-    array. Declare the array of size 25 (0 to 24). Use a function to
-    read the array, like I can read your bored out of hell face now.
-    Then do the following shiz..
+1. Write a C++ program to read numbers (using count technique or a sentinel loop) into an array of integers, and then manipulate the array. Declare the array of size 25 (0 to 24). Use a function to read the array, like I can read your bored out of hell face now. Then do the following shiz..
 2. Print the array, writing the indexes and components.
-3. Write the array and indexes in REVERSE ORDER, so the zero component
-    will be written last. Reverse, reverse. Reverse, reverse. Cha cha
-    now y’all, cha cha again. Cha cha now y’all, cha cha again.
-4.  Write the indexes and components as if the array values were
-    divisible by two (so EVEN NUMBERS you blockhead). Test the array
-    components, not the indexes.
-5.  Write the indexes and components where the component is GREATER THAN
-    the value in the next position. Note, Minecraft Look-Alike, that
-    there will be no defined value after the last to compare.
-6.  Finally, each of the above algorithms should be coded with a nice
-    procedure with a nice little message before the output. And yeah
-    parameters need to be in the correct form and shizz..
+3. Write the array and indexes in REVERSE ORDER, so the zero component will be written last. Reverse, reverse. Reverse, reverse. Cha cha now y'all, cha cha again. Cha cha now y'all, cha cha again.
+4. Write the indexes and components as if the array values were divisible by two (so EVEN NUMBERS you blockhead). Test the array components, not the indexes.
+5. Write the indexes and components where the component is GREATER THAN the value in the next position. Note, Minecraft Look-Alike, that there will be no defined value after the last to compare.
+6. Finally, each of the above algorithms should be coded with a nice procedure with a nice little message before the output. And yeah parameters need to be in the correct form and shizz...
 
-------------------------------------------------------------------------
+## Sample Input/Data For Array Program (AKA MY NUMBERS HARPY)
 
-**Sample Input/Data For Array Program (AKA MY NUMBERS HARPY)**
+```txt
+17 - number of array values to read
 
-    17 - number of array values to read
+28
 
-    28
+80
 
-    80
+53
 
-    53
+19
 
-    19
+30
 
-    30
+37
 
-    37
+76
 
-    76
+9
 
-    9
+48
 
-    48
+1
 
-    1
+8
 
-    8
+89
 
-    89
+41
 
-    41
+36
 
-    36
+10
 
-    10
+25
 
-    25
+38
+```
 
-    38
+## Solution
 
-------------------------------------------------------------------------
-
-**Solution**
-
-\[code language="c"\]\#include &lt;iostream&gt;\
+```c++
+#include <iostream>
 using namespace std;
 
-const int MAXSIZE = 25;\
-void getlist(int\[\], int&);\
-void putlist(const int\[\], int);\
-void reverse(const int\[\], int);\
-void EvenValues(const int\[\], int);\
-void GreaterThan(const int\[\], int);
+const int MAXSIZE = 25;
+void getlist(int[], int&);
+void putlist(const int[], int);
+void reverse(const int[], int);
+void EvenValues(const int[], int);
+void GreaterThan(const int[], int);
 
-int main ()\
-{\
-int list \[MAXSIZE\];\
-int num\_items;
+int main()
+{
+    int list[MAXSIZE];
+    int num_items;
 
-getlist(list, num\_items);\
-putlist(list, num\_items);\
-reverse(list, num\_items);\
-EvenValues(list, num\_items);\
-GreaterThan(list, num\_items);
+    getlist(list, num_items);
+    putlist(list, num_items);
+    reverse(list, num_items);
+    EvenValues(list, num_items);
+    GreaterThan(list, num_items);
 
-system("pause");\
-return 0;\
+    system("pause");
+    return 0;
 }
 
-void getlist(int list\[\], int& num\_items)\
-{\
-int i;\
-cout&lt;&lt;"Please enter the number of array values"&lt;&lt;endl;\
-cin&gt;&gt;num\_items;\
-for(i=0; i&lt;num\_items;i++)\
-{\
-cout&lt;&lt;"Enter the next array value"&lt;&lt;endl;\
-cin&gt;&gt;list\[i\];\
-}\
+void getlist(int list[], int& num_items)
+{
+    int i;
+    cout << "Please enter the number of array values" << endl;
+    cin >> num_items;
+    for (i = 0; i < num_items; i++) {
+        cout << "Enter the next array value" << endl;
+        cin >> list[i];
+    }
 }
 
-void putlist(const int list\[\], int num\_items)\
-{\
-cout&lt;&lt;"Array Elements"&lt;&lt;endl;\
-for (int i=0; i&lt;num\_items; i++)\
-cout&lt;&lt;i&lt;&lt;" "&lt;&lt;list\[i\]&lt;&lt;endl;\
+void putlist(const int list[], int num_items)
+{
+    cout << "Array Elements" << endl;
+    for (int i = 0; i < num_items; i++)
+        cout << i << " " << list[i] << endl;
 }
 
-void reverse(const int list\[\], int num\_items)\
-{\
-cout&lt;&lt;"List in Reverse Order"&lt;&lt;endl;\
-for (int i=num\_items - 1; i&gt;=0; i--)\
-cout&lt;&lt;i&lt;&lt;" "&lt;&lt;list\[i\]&lt;&lt;endl;\
+void reverse(const int list[], int num_items)
+{
+    cout << "List in Reverse Order" << endl;
+    for (int i = num_items - 1; i >= 0; i--)
+        cout << i << " " << list[i] << endl;
 }
 
-void EvenValues(const int list\[\], int num\_items)\
-{\
-cout&lt;&lt;"Even Values"&lt;&lt;endl;\
-for (int i=0; i&lt;=num\_items; i++)\
-if (list\[i\]%2 == 0)\
-cout&lt;&lt;i&lt;&lt;" "&lt;&lt;list\[i\]&lt;&lt;endl;\
+void EvenValues(const int list[], int num_items)
+{
+    cout << "Even Values" << endl;
+    for (int i = 0; i <= num_items; i++)
+        if (list[i] % 2 == 0)
+            cout << i << " " << list[i] << endl;
 }
 
-void GreaterThan(const int list\[\], int num\_items)\
-{\
-cout&lt;&lt;"Greater Than"&lt;&lt;endl;\
-for (int i=0; i &lt;= num\_items-1; i++)\
-if (list\[i\]&gt;list\[i + 1\])\
-cout&lt;&lt;i&lt;&lt;" "&lt;&lt;list\[i\]&lt;&lt;endl;\
-}\
-\[/code\]
+void GreaterThan(const int list[], int num_items)
+{
+    cout << "Greater Than" << endl;
+    for (int i = 0; i <= num_items - 1; i++)
+        if (list[i] > list[i + 1])
+            cout << i << " " << list[i] << endl;
+}
+```
 
-------------------------------------------------------------------------
-
-**Output**
+## Output
 
 Just look at this here friggin output text I provided your a\*\*.
 
-\[scribd id=156214585 key=key-25zp0g6uyq3gx4l3n5c3 mode=scroll\]
+```txt
+Please enter the number of array values
+17
+Enter the next array value
+28
+Enter the next array value
+80
+Enter the next array value
+53
+Enter the next array value
+19
+Enter the next array value
+30
+Enter the next array value
+37
+Enter the next array value
+76
+Enter the next array value
+9
+Enter the next array value
+48
+Enter the next array value
+1
+Enter the next array value
+8
+Enter the next array value
+89
+Enter the next array value
+41
+Enter the next array value
+36
+Enter the next array value
+10
+Enter the next array value
+25
+Enter the next array value
+38
+Array Elements
+0 28
+1 80
+2 53
+3 19
+4 30
+5 37
+6 76
+79
+8 48
+91
+10 8
+11 89
+12 41
+13 36
+14 10
+15 25
+16 38
+List in Reverse Order 16 38
+15 25 14 10 13 36 12 41 11 89 10 8 91
+8 48 79 6 76 5 37 4 30
+3 19
+2 53
+1 80
+0 28
+Even Values
+0 28
+1 80
+4 30
+6 76
+8 48
+10 8
+13 36
+14 10
+16 38
+17 7081592
+Greater Than
+1 80
+2 53
+6 76
+8 48
+11 89
+12 41
+13 36
+Press any key to continue . . .
+```
 
-------------------------------------------------------------------------
+## Prototypes For Functions
 
-**Prototypes For Functions…**
-
-    void getlist (int[ ], int &);
-    void putlist (const int[ ], int);
-    void reverse (const int[ ], int);
-    void EvenValues (const int[ ], int);
-    void GreaterThan (const int[ ], int);
+```c++
+void getlist (int[ ], int &);
+void putlist (const int[ ], int);
+void reverse (const int[ ], int);
+void EvenValues (const int[ ], int);
+void GreaterThan (const int[ ], int);
+```

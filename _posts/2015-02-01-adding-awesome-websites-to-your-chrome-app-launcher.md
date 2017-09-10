@@ -58,10 +58,10 @@ So in your [launcher](https://chrome.google.com/webstore/launcher), you have all
 
 ![](https://core0.staticworld.net/images/article/2013/02/applaunchersplash-100026310-orig.png)
 
-Unfortunately, if you have a website you visit regularly but isn’t
-available in the Chrome Web Store, there’s not much you can do.
+Unfortunately, if you have a website you visit regularly but isn't
+available in the Chrome Web Store, there's not much you can do.
 
-You can always use **bookmarks,** but if you’re like me, you know too
+You can always use **bookmarks,** but if you're like me, you know too
 many bookmarks tend to suck and end up just being a useless clutter of
 links you never end up actually benefitting from.
 
@@ -78,7 +78,7 @@ Tutorial time.
 
 ------------------------------------------------------------------------
 
-Things You’ll Need
+Things You'll Need
 ------------------
 
 > icons below were created using this [Pixel Icon
@@ -119,7 +119,7 @@ Step 2
 >
 > ![](https://fvcproductions.files.wordpress.com/2015/02/folders.png)
 >
-> > You’re going to end up having two files with each folder/app you
+> > You're going to end up having two files with each folder/app you
 > > create:
 
 -   `manifest.json` which holds all the information about your app
@@ -128,7 +128,7 @@ Step 2
 
 > > The png can actually be any size, but 128x128 is ideal.
 > >
-> > You’ll need both for this to work (there can be errors!).
+> > You'll need both for this to work (there can be errors!).
 
 ------------------------------------------------------------------------
 
@@ -180,7 +180,7 @@ Step 3
 Step 4
 ------
 
-> There are 4 variables you’re going to change to work for your website
+> There are 4 variables you're going to change to work for your website
 > in the above code:
 
 -   `name` : site title
@@ -190,7 +190,7 @@ Step 4
 
 > > A handy tip to get the description for the website fast is by using
 > > the query `info:onepagelove.com` in Google which will provide
-> > information about the url. No spaces, or else it doesn’t work.
+> > information about the url. No spaces, or else it doesn't work.
 > >
 > > ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-19-51-41.png)
 
@@ -199,7 +199,7 @@ Step 4
 Step 5
 ------
 
-> Now save this file that you’ve edited to work with your website as
+> Now save this file that you've edited to work with your website as
 > `manifest.json` into the folder you created in **Step 2**.
 
 ------------------------------------------------------------------------
@@ -222,7 +222,7 @@ Step 6
 Step 7
 ------
 
-> You’re ready to add the extension!
+> You're ready to add the extension!
 >
 > Head over to `chrome://extensions` or use your toolbar to get there.
 >
@@ -241,12 +241,12 @@ Step 8
 >
 > > ![](https://fvcproductions.files.wordpress.com/2015/02/extensions.png)
 >
-> And once it shows up in your extensions, it’ll also show up in the
+> And once it shows up in your extensions, it'll also show up in the
 > `Chrome App Launcher`.
 >
 > > ![](https://fvcproductions.files.wordpress.com/2015/02/complete-e1422839649943.png)
 >
-> That’s it. Congratulations! 😊
+> That's it. Congratulations! 😊
 
 ------------------------------------------------------------------------
 

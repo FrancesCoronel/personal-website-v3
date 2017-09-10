@@ -1,7 +1,7 @@
 ---
 title: "I'm a Noob When It Comes To Programming - Where To Now?"
 date: 2014-12-27
-excerpt: "I’ve compiled a list of 15 great resources I’ve come to learn about over
+excerpt: "I've compiled a list of 15 great resources I've come to learn about over
 the years of trying to learn how to properly program."
 header:
     image: https://fvcproductions.files.wordpress.com/2014/09/html-css-book-cover.jpg
@@ -35,10 +35,10 @@ tags:
     - web development
 ---
 
-Here, I’ve compiled a list of 15 great resources I’ve come to learn about over the years of trying to learn how to properly program.
+Here, I've compiled a list of 15 great resources I've come to learn about over the years of trying to learn how to properly program.
 ====================================================================================================================================
 
-### I still consider myself a *noob* now (I mean, it's only been 3 years!), but I grow more and more comfortable with the idea that I’ve never going to know everything and that aspiring to be a great programmer is the same as aspiring to improve yourself constantly everyday in the art. It’s what I love about the field and so I hope this list helps you out in your journey into the realm of digital hieroglyphics (as I like to call it) too.
+### I still consider myself a *noob* now (I mean, it's only been 3 years!), but I grow more and more comfortable with the idea that I've never going to know everything and that aspiring to be a great programmer is the same as aspiring to improve yourself constantly everyday in the art. It's what I love about the field and so I hope this list helps you out in your journey into the realm of digital hieroglyphics (as I like to call it) too.
 
 ------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
 
 4.  [Typing.io](https://typing.io/)\
 
-    > Typing.io is a typing tutor/trainer for programmers. Typing.io’s
+    > Typing.io is a typing tutor/trainer for programmers. Typing.io's
     > lessons are based on open source code, allow you to practice
     > typing the key sequences that appear in real code.
     >
@@ -102,7 +102,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
     > Online Python Tutor is a free educational tool created by Philip
     > Guo that helps students overcome a fundamental barrier to learning
     > programming: understanding what happens as the computer executes
-    > each line of a program’s source code. Using this tool, a teacher
+    > each line of a program's source code. Using this tool, a teacher
     > or student can write a Python program in the Web browser and
     > visualize what the computer is doing step-by-step as it executes
     > the program.
@@ -130,10 +130,10 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
 10. [Eloquent JavaScript](https://eloquentjavascript.net)\
 
     > Eloquent JavaScript goes beyond the cut-and-paste scripts of the
-    > recipe books and teaches you to write code that’s elegant and
-    > effective. You’ll start with the basics of programming, and learn
+    > recipe books and teaches you to write code that's elegant and
+    > effective. You'll start with the basics of programming, and learn
     > to use variables, control structures, functions, and data
-    > structures. Then you’ll dive into the real JavaScript artistry:
+    > structures. Then you'll dive into the real JavaScript artistry:
     > higher-order functions, closures, and object-oriented programming.
     >
     > ![](https://eloquentjavascript.net/img/cover.png)
@@ -141,7 +141,7 @@ Here, I’ve compiled a list of 15 great resources I’ve come to learn about ov
 11. [Jumpstart Lab JavaScript
     Tutorial](https://tutorials.jumpstartlab.com/projects/javascript)\
 
-    > Whether you’re a back-end dev, front-end dev or designer, Jump
+    > Whether you're a back-end dev, front-end dev or designer, Jump
     > Start JavaScript is the perfect primer to what may be the single
     > most valuable language to know.
     >

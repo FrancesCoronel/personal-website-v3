@@ -37,15 +37,15 @@ Reset Your Launchpad on Yosemite
 =========================================
 
 > Sorty can easily reset your Launchpad items to default and remove
-> duplicate entries in the ‘Open With’ menu.
+> duplicate entries in the ‘Open With' menu.
 >
 > This application has an easy to use and intuitive interface, with only
-> two buttons: reset launchpad and remove duplicates in the ‘Open With’
+> two buttons: reset launchpad and remove duplicates in the ‘Open With'
 > menu.
 >
 > Copyright [wiles.dk](https://wiles.dk/ "Wiles.dk").
 
-You know, I just don’t think this app is getting enough recognition.
+You know, I just don't think this app is getting enough recognition.
 
 I see so many Launchpads that are disorganized and cluttered.
 
@@ -61,7 +61,7 @@ like the Launchpad below… :wink:
 [![Launchpad |
 Pretty](https://fvcproductions.files.wordpress.com/2015/04/screenshot-2015-04-13-22-36-38.png)](https://fvcproductions.files.wordpress.com/2015/04/screenshot-2015-04-13-22-36-38.png)
 
-> Hah - hey pal, don’t  even worry 'bout it!
+> Hah - hey pal, don't  even worry 'bout it!
 
 Just [download Sorty](https://wiles.dk/ "Sorty for OS X")!
 =========================================================
@@ -89,7 +89,7 @@ This app can do wonders for you!
 
 ![](https://imgflip.com/s/meme/Jackie-Chan-WTF.jpg)
 
-#### [Wait, why didn’t you download it?](https://wiles.dk/ "Sorty for OS X")
+#### [Wait, why didn't you download it?](https://wiles.dk/ "Sorty for OS X")
 
 ![](https://40.media.tumblr.com/tumblr_lxsx4pAafb1qfu4tho1_500.png)
 

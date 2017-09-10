@@ -47,7 +47,7 @@ among others - but these 3 are by far my favorite.
 
 ![Automator](https://www.redundantrobot.com/wp-content/uploads/2013/10/automator.png)
 
-Seriously, I’ve done things with this guy in seconds that would take
+Seriously, I've done things with this guy in seconds that would take
 others hours. Automator is a lot like Terminal in terms of power, but
 with a graphical interface.
 
@@ -58,7 +58,7 @@ significantly.
 ------------------------
 
 You know when you go crazy and you decide you want to get all these
-fonts for a creative project you’re working on and so now you have about
+fonts for a creative project you're working on and so now you have about
 100 different fonts in your `Downloads` folder?
 
 And then you even start to click on them one by one to import them to
@@ -87,13 +87,13 @@ Images](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28
 3. Rename Multiple Photos
 -------------------------
 
-Okay, this one’s pretty obvious.
+Okay, this one's pretty obvious.
 
 You know when you have a ton of cool wallpapers you just downloaded and
-they’re all named something crappy like `1250x1280` or something?
+they're all named something crappy like `1250x1280` or something?
 
 So now you have 30+ wallpaper images in your `Downloads` folder and
-because you’re OCD, you start to rename each image one by one to an
+because you're OCD, you start to rename each image one by one to an
 appropriate title like `Wallpaper - 1`…
 
 **Say no more! Automator to the rescue!**
@@ -108,11 +108,11 @@ Photos](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28
 
 > Oh, Alfred, where would I be without you?
 >
-> You’re prettier than [LaunchBar](https://www.alfredapp.com/ ""Alfred"")
+> You're prettier than [LaunchBar](https://www.alfredapp.com/ ""Alfred"")
 > and 10 times more powerful than
 > [Spotlight](https://www.alfredapp.com/ ""Alfred"").
 >
-> If you were a person, I know you’d be my gay best friend.
+> If you were a person, I know you'd be my gay best friend.
 
 Definitely not a haiku there, but man - just goes to show how much I
 depend on the damn bowler hat.
@@ -129,7 +129,7 @@ the reason.
 
 Only good things can be said about this app, seriously.
 
-And that’s it! Check out my post, [What I
+And that's it! Check out my post, [What I
 Use](https://fvcproductions.com/what-i-use/ "What I Use 📱") for more
 awesome apps!
 

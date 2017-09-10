@@ -85,7 +85,7 @@ of coding schools that offer scholarships.
 
 ### Real Data
 
-Well, Course Report’s latest data reveals the following in terms of
+Well, Course Report's latest data reveals the following in terms of
 [future potential/market
 size](https://www.coursereport.com/resources/course-report-bootcamp-market-size-study)…
 

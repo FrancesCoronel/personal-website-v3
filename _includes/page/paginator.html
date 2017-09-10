@@ -7,13 +7,13 @@
                 {% if paginator.previous_page == 1 %}
                     <li>
                         <a href="{{ first_page_path }}">
-                            {{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}
+                            {{ site.data.ui-text[site.locale].pagination_previous }}
                         </a>
                     </li>
                 {% else %}
                     <li>
                         <a href="{{ site.paginate_path | replace: ':num', paginator.previous_page | replace: '//', '/' | absolute_url }}">
-                            {{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}
+                            {{ site.data.ui-text[site.locale].pagination_previous }}
                         </a>
                     </li>
                 {% endif %}
@@ -21,7 +21,7 @@
                 <li>
                     <a href="#" class="disabled">
                         <span aria-hidden="true">
-                            {{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}
+                            {{ site.data.ui-text[site.locale].pagination_previous }}
                         </span>
                     </a>
                 </li>
@@ -110,14 +110,14 @@
             {% if paginator.next_page %}
                 <li>
                     <a href="{{ site.paginate_path | replace: ':num', paginator.next_page | replace: '//', '/' | absolute_url }}">
-                        {{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}
+                        {{ site.data.ui-text[site.locale].pagination_next }}
                     </a>
                 </li>
             {% else %}
                 <li>
                     <a href="#" class="disabled">
                         <span aria-hidden="true">
-                            {{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}
+                            {{ site.data.ui-text[site.locale].pagination_next }}
                         </span>
                     </a>
                 </li>

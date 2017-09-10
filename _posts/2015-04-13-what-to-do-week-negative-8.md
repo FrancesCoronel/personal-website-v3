@@ -3,7 +3,7 @@ title: "What To Do, What To Do, Week -8"
 date: 2015-04-13
 excerpt: "After applying and interviewing for
 a bunch of internships and coding bootcamps and receiving a bunch of
-rejections and acceptances, I’ve decided to head to Fullstack Academy
+rejections and acceptances, I've decided to head to Fullstack Academy
 this summer."
 header:
     image: https://fvcproductions.files.wordpress.com/2015/04/fullstack-academy-banner.jpg?w=1024&h=435&crop=1
@@ -18,7 +18,7 @@ tags:
 =============================
 
 After applying and interviewing for a bunch of internships and coding
-bootcamps and receiving a bunch of rejections and acceptances, I’ve
+bootcamps and receiving a bunch of rejections and acceptances, I've
 decided to head to [Fullstack
 Academy](https://fullstackacademy.com "Fullstack Academy") this summer
 which is located in New York City to be part of their inaugural class
@@ -27,8 +27,8 @@ Code](https://www.fullstackacademy.com/summer-of-code "Fullstack Academy | Summe
 program. Ok, wow, that was a mouthful![![Summer of Code | Fullstack
 Academy](https://fvcproductions.files.wordpress.com/2015/04/summer-of-code-fullstack-academy.png)](https://fvcproductions.files.wordpress.com/2015/04/summer-of-code-fullstack-academy.png)
 
-It’s only for college kiddies and surprisingly there’s not many programs
-designated specifically for us, so it’s pretty cool that Fullstack
+It's only for college kiddies and surprisingly there's not many programs
+designated specifically for us, so it's pretty cool that Fullstack
 decided to implement this.
 
 **The Deets**
@@ -39,12 +39,12 @@ students?](https://www.quora.com/Are-there-are-any-coding-bootcamps-for-college-
 on [Quora](https://www.quora.com)
 
 It was a big decision and was not to be taken lightly. My parents
-supported me throughout the whole process and for that, I’m
+supported me throughout the whole process and for that, I'm
 appreciative.
 
 ![](https://www.quickmeme.com/img/6d/6dc5a6608cbb656374d791b68a7709f62dbb3e0f3742cf074b295dc8d8edc471.jpg)
 
-I’m hoping to finally gain those "practical skills" in web development
+I'm hoping to finally gain those "practical skills" in web development
 so I can finally start implementing all the ideas I have for potential
 web apps!
 

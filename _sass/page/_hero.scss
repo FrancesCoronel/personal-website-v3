@@ -144,7 +144,13 @@
 }
 
 #primary-header .entry-title {
-    font-size: ($type-size-1 * 2);
+    font-size: ($type-size-1*2);
     padding: .5em;
     margin: 0;
+}
+
+@media screen and (max-width: $mobile) {
+    #primary-header .entry-title {
+        font-size: $type-size-1;
+    }
 }

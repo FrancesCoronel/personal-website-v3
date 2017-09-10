@@ -40,9 +40,9 @@ Logo](https://fvcproductions.files.wordpress.com/2015/11/norfolkjs1.png){.size-f
 .wp-image-3370 width="512" height="512"} NorfolkJS - Circular
 Logo\[/caption\]
 
-I didn’t really know anything about [Travis CI](https://travis-ci.org)
+I didn't really know anything about [Travis CI](https://travis-ci.org)
 going in (other than the fact that some coding bootcamps [have used it
-for projects](https://github.com/hr-14-15/resources)) but I’m still glad
+for projects](https://github.com/hr-14-15/resources)) but I'm still glad
 I was able to get some perspective from [one of the
 engineers](https://github.com/BanzaiMan) there.
 
@@ -87,16 +87,16 @@ Grill Restaurant, Town Center - New Member Mixer Dinner.*
 
 **Highlights**
 
--   Finding out people’s ages was a challenge for everyone (people who
+-   Finding out people's ages was a challenge for everyone (people who
     looked 21 were actually 41).
 -   I was probably the youngest person there at 19 which was
     surprisingly not awkward at all.
 -   I met a fellow Latina, who I chatted a lot with and who shared with
-    me that I was the first Hispanic she’s come across in the Meetups
-    she’s gone to so far.
+    me that I was the first Hispanic she's come across in the Meetups
+    she's gone to so far.
 -   There was a very keen and optimistic meat eater right across from me
-    which was just ironic because I’m strictly vegetarian.
--   Dinner cost \$15 bucks which wasn’t bad for some pretty good pasta,
+    which was just ironic because I'm strictly vegetarian.
+-   Dinner cost \$15 bucks which wasn't bad for some pretty good pasta,
     salad, bread, and water.
 -   I got a few business cards, so the networking part is a check.
 -   The waitress was ridiculously bubbly, so I felt obliged to give her

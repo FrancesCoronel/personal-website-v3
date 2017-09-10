@@ -42,16 +42,16 @@ hundreds of thousands of North Korean families who remain torn apart.
 There is also very little mention of the possibility of failure the
 Western nations had in bringing appropriate humanitarian aid to starving
 North Koreans, and the book itself is somewhat outdated, but still very
-relevant given that it was published five years ago. However, Demick’s
+relevant given that it was published five years ago. However, Demick's
 agenda is very much objective, not personal, and aims to provide a
 different social perspective from a heredity totalitarian state where
 one is not allowed to have their own opinion or basic right of freedom.
 
-Demick’s work is endowed with the validity and vitality needed in this
+Demick's work is endowed with the validity and vitality needed in this
 present-day globalized era, as she discusses her earliest visits from
-the 1990’s and presents factoids all the way up until 2009. Demick
+the 1990's and presents factoids all the way up until 2009. Demick
 explains clearly how in the early nineties before foreign aid rallied,
-North Korea’s society took a turn for the worse, with many crimes,
+North Korea's society took a turn for the worse, with many crimes,
 suicides, and even cannibalism (in remote areas starving adults would
 have access to homeless orphans) becoming commonplace.
 
@@ -71,14 +71,14 @@ the novel was definitely well written, possesses a clear thesis, and
 yields expertly researched backgrounds.
 
 So does this piece of brilliant journalism present itself as good or bad
-history? It’s hard to say. The story itself presents scenes of a small
+history? It's hard to say. The story itself presents scenes of a small
 piece of humanity undergoing this hazy nightmare in this shed of society
-isolated from the rest. It’s a bad part of history presented in the best
+isolated from the rest. It's a bad part of history presented in the best
 way possible then. Because while most parts of the world today can
 provide large pieces of literature or some sort of documentation to
-convey their past struggles and successes, North Korea’s population
+convey their past struggles and successes, North Korea's population
 lacks even basic necessities in their "hermit abyss". I cannot therefore
-recommend a better book that adds to the understanding of North Korea’s
+recommend a better book that adds to the understanding of North Korea's
 concealed present state in this twenty-first century as it delivers
 captivating human stories as well as informative pieces of political
 description of a despondent nation under the rule of one of the last

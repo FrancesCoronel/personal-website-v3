@@ -128,7 +128,7 @@ Index
     \[/code\]
     -   pseudocode
         1. create new node for head
-        2. place data in new node’s data field
+        2. place data in new node's data field
         3. make head refer to null which is initial head value
         4.  connect new node to head
 -   *add node to front of list*\
@@ -136,7 +136,7 @@ Index
     \[/code\]
     -   pseudocode
         1. create new node
-        2. place data (`newData`) in new node’s data field
+        2. place data (`newData`) in new node's data field
         3. connect new node to front of list
         4.  make original `head` refer to **new** `head` of linked list
 
@@ -159,7 +159,7 @@ Index
 
     -   pseudocode
         1. set a reference named `prev` (for previous) to refer to node
-            which is just before new node’s position
+            which is just before new node's position
 
 -   *removing node at head*\
     \[code language="java"\]head = head.link;\
@@ -187,8 +187,8 @@ Index
         2. while loop that keeps going through entire list until
             `pointer` (or `head`) is `null`\
 
-            > `null` implying that it’s reached the last node because
-            > the last node will always have a `null` link since there’s
+            > `null` implying that it's reached the last node because
+            > the last node will always have a `null` link since there's
             > nothing next to the last node so no link so `null` link
 
         3. `pointer` referenced to next node or `pointer.link`

@@ -48,24 +48,24 @@ My Experience With [DevLeague](https://www.devleague.com "DevLeague") {#my-exper
 > with [Jason
 > Sewell](https://www.linkedin.com/in/jasonsewell "Jason Sewell")
 >
-> This is where I’ll go through how my admissions process was with
+> This is where I'll go through how my admissions process was with
 > **DevLeague**, the 1st JavaScript focused coding bootcamp in Hawaii.
 >
-> I’ll be doing this kind of entry with every bootcamp I’ve applied to
+> I'll be doing this kind of entry with every bootcamp I've applied to
 > and be critiquing on positives and negatives along the way. I think
-> it’s important that people have an honest look at each bootcamp.
+> it's important that people have an honest look at each bootcamp.
 >
-> That being said, I’m not releasing anything here without DevLeague’s
+> That being said, I'm not releasing anything here without DevLeague's
 > permission.
 
 ------------------------------------------------------------------------
 
 I decided to apply to DevLeague since they were the first of their kind
-in Hawaii. I have some connection with Hawaii. I’ve actually never been,
+in Hawaii. I have some connection with Hawaii. I've actually never been,
 but I was initially going to attend [Hawaii Pacific
 University](https://www.hpu.edu "HPU") as a double major in Computer
 Science and Integrated Multimedia with a very large scholarship. Since I
-had enough credits from high school, I’d still be able to graduate in 4
+had enough credits from high school, I'd still be able to graduate in 4
 years. I even had a party a few months before school started because I
 was certain at that point I was going to attend HPU. It was a win-win
 situation, but then out of the blue, in July, I got accepted to [Jacobs
@@ -73,12 +73,12 @@ University](https://www.jacobs-university.de "Jacobs University") with a
 medium-sized scholarship and decided to go there for the 3-year CS
 program.
 
-> I don’t regret my decision, but since then, I’ve always had the desire
+> I don't regret my decision, but since then, I've always had the desire
 > to get to know Hawaii but obviously had no chance for financial
-> reasons. DevLeague would be a practical way to do this. I’m also
+> reasons. DevLeague would be a practical way to do this. I'm also
 > considering going to [UH at
 > Manoa](https://www.ics.hawaii.edu "UH@Manoa CS") for my grad studies in
-> CS so there’s that too.
+> CS so there's that too.
 
 ------------------------------------------------------------------------
 
@@ -87,12 +87,12 @@ Part 1: The Application 📝
 
 -   You fill out the virtual application for DevLeague
     [here](https://www.devleague.com/apply "Apply to DevLeague").
--   Like Fullstack, the application didn’t involve a lot of effort, just
+-   Like Fullstack, the application didn't involve a lot of effort, just
     basic background info (employment, coding abilities, cohort choice)
     and two small essay questions. The essay questions are right
     now: `Why would you like to attend DevLeague?` and
     `Tell us a little bit about yourself`.
--   Once you fill this out, they’ll send you an email shortly afterwards
+-   Once you fill this out, they'll send you an email shortly afterwards
     where you will schedule a virtual interview through Skype with one
     of the co-founders,
     [Jason](https://twitter.com/sewell_jason "Jason - Twitter").
@@ -116,7 +116,7 @@ Part 2: The Interview 📞
 1. **Yield rate - out of the applicants you accept, what percentage end
     up attending?**\
 
-    > It’s around 30% and part of that is because we’re a very new
+    > It's around 30% and part of that is because we're a very new
     > bootcamp. For 35 students, we had over 115 applications.
 
 2. **How many drop out after simply experiencing the pre-work?**\
@@ -124,21 +124,21 @@ Part 2: The Interview 📞
     > Well, the coding challenge depending on your knowledge takes 2–4
     > weeks possibly. Pre-work takes roughly 40–80 hours of self-study.\
     > Yeah, people do drop out and it happens very regularly that people
-    > don’t finish the coding challenge. Fortunately, I don’t usually
+    > don't finish the coding challenge. Fortunately, I don't usually
     > have to make those kind of tough decisions because generally
-    > people who don’t finish the challenge are the ones that reject
-    > themselves. If they’re putting time in, then that means they’re
+    > people who don't finish the challenge are the ones that reject
+    > themselves. If they're putting time in, then that means they're
     > dedicated to it. I made an exception once because a student felt
-    > he had too much work going on and it didn’t work out at all.\
+    > he had too much work going on and it didn't work out at all.\
     > We try as much as we can to see these things coming - if they need
-    > more help, we’ll try and help them out. What we have no control is
-    > the amount of effort they put in. If it’s not a situation that’s
+    > more help, we'll try and help them out. What we have no control is
+    > the amount of effort they put in. If it's not a situation that's
     > working out, we do ask them to leave. They have 4 weeks to make a
     > decision for staying in program.
 
 3. **How many college students have you had in the past?**\
 
-    > We get a lot of college graduates actually. We’ve had a few
+    > We get a lot of college graduates actually. We've had a few
     > colleges students. At least a couple. In terms of other students,
     > the backgrounds are all over the place, but they all have the
     > motivation - these are people wanting to make a change
@@ -158,17 +158,17 @@ Part 2: The Interview 📞
     > something we encourage. Through collaborating and networking, you
     > never know what kind of experiences you might get out of it - so
     > we kind of put the pressure on our students sometimes. In the end,
-    > they’re all going to have a website, a couple of projects on
+    > they're all going to have a website, a couple of projects on
     > GitHub, and an updated LinkedIn profile.
     > `This is a great strategy.`
 
-6.  **If you were my age again (I’m 19), would you still attend a
+6.  **If you were my age again (I'm 19), would you still attend a
     bootcamp like DevLeague? Why?**\
 
     > I think I would, honestly. Getting a degree got me an interview,
     > but most of the success I had was from free-lancing, teaching
-    > myself. It’s crazy how long it took us to learn all this stuff vs
-    > how long it takes people these days - it’s just crazy. I wish I
+    > myself. It's crazy how long it took us to learn all this stuff vs
+    > how long it takes people these days - it's just crazy. I wish I
     > had the opportunity to learn that quickly when I was younger.
     > `Truth.`
 
@@ -183,7 +183,7 @@ well within the timeline. 😁
 
 *Logistics*\
 - an initial deposit is required to reserve your seat in the cohort
-after you’re accepted\
+after you're accepted\
 - as the student gets closer to the session start date, payment plans
 are put into place
 

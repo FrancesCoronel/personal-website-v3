@@ -42,12 +42,12 @@ tags:
     - wii sports
 ---
 
-> I’m not very big on gaming, but these following games were the top 25
+> I'm not very big on gaming, but these following games were the top 25
 > games that were the most memorable to me at some point.
 
 **Key To Game Genres…**
 
-> *Every game usually has multiple genres going on, but I’m just going
+> *Every game usually has multiple genres going on, but I'm just going
 > to point out what I thought was the overarching genre.*
 
 👾 - Biology/Animals 💀 - Survival 🔓 - Puzzle/Confusing 🔮 -
@@ -70,7 +70,7 @@ height="330"}](https://graphics8.nytimes.com/images/2008/09/05/arts/05spore-600.
 width="700"
 height="393"}](https://screenshots.en.sftcdn.net/en/scrn/69659000/69659920/dont-starve-02-700x393.jpg)
 
-2\) [**Don’t Starve**](https://www.dontstarvegame.com) - 💀 Mac
+2\) [**Don't Starve**](https://www.dontstarvegame.com) - 💀 Mac
 
 > I wrote a
 > [review](https://fvcproductions.com/2014/05/02/a-review-of-dont-starve/)
@@ -83,10 +83,10 @@ width="600" height="279"}
 
 3\) [**Limbo**](https://playdead.com/limbo/) - 🔓 Mac
 
-> Can’t wait till Inside comes out - cause Limbo was friggin’
+> Can't wait till Inside comes out - cause Limbo was friggin'
 > awesommmeeee! I also wrote a
 > [review](https://fvcproductions.com/2014/09/22/limbo-review/) on this
-> game too because it was friggin’ amazinnnngggg!!!
+> game too because it was friggin' amazinnnngggg!!!
 
 ------------------------------------------------------------------------
 
@@ -98,7 +98,7 @@ height="349"}](https://static.gamesradar.com/images/mb/GamesRadar/us/Games/S/Sim
 Sims 3**](https://www.thesims3.com)/[**The Sims
 2**](https://en.wikipedia.org/wiki/The_Sims_2) - 👤 Mac
 
-> Gets boring after a while (like any Sims game), but it’s pretty good
+> Gets boring after a while (like any Sims game), but it's pretty good
 > while it lasts.
 
 ------------------------------------------------------------------------
@@ -161,7 +161,7 @@ height="462"}](https://robot-dinosaur.com/wp-content/uploads/2014/02/Project-Zom
 
 8\) [**Project Zomboid**](https://projectzomboid.com) - 💀 PC
 
-> Having mods are cool. It’s kind of a lonely game though. 😔
+> Having mods are cool. It's kind of a lonely game though. 😔
 
 ------------------------------------------------------------------------
 
@@ -319,7 +319,7 @@ height="429"}](https://www.crazymonkeygames.com/guide/Pandemic-2/screenInfo.jpg)
 21\) [**Pandemic 2**](https://www.crazymonkeygames.com/Pandemic-2.html) -
 👾 Online Flash
 
-> Friggin’ Madagascar would always get me. Also this game is how I came
+> Friggin' Madagascar would always get me. Also this game is how I came
 > up with my alias because the first virus I ever made was called
 > `Siegius`.
 

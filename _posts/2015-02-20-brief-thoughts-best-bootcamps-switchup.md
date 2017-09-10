@@ -37,7 +37,7 @@ tags:
 > > > > from all the sites combined that automatically updates would be
 > > > > in place here…
 >
-> Also, I’d recommend checking out this Quora [Has anyone had a bad
+> Also, I'd recommend checking out this Quora [Has anyone had a bad
 > experience at a programming bootcamp?](https://qr.ae/EXqFt) and some
 > Reddit threads for horror stories.
 
@@ -74,7 +74,7 @@ Best Physical Bootcamps from SwitchUp
 3. [Bitmaker Labs](https://bitmakerlabs.com/) (Toronto)
     -   I can attest to these guys positively at least for their
         admissions process because I applied to their program back in
-        2013 and they were really amiable. I didn’t feel uncomfortable
+        2013 and they were really amiable. I didn't feel uncomfortable
         at all throughout the interview process.
     -   Course Report ([4
         Reviews](https://www.coursereport.com/schools/bitmaker-labs#/about))
@@ -87,12 +87,12 @@ Best Physical Bootcamps from SwitchUp
     -   Techendo (N/A)
     -   Yelp (N/A)
 4.  [Code Fellows](https://www.codefellows.org/) (Portland, Seattle)
-    -   I applied to these guys back in 2013 but didn’t end up going
+    -   I applied to these guys back in 2013 but didn't end up going
         through with the interview because there was a change of plans.
         They were cool about it.
     -   I can attest to these guys positively at least for their
         admissions process because I applied to their program back in
-        2013 and they were really amiable. I didn’t feel uncomfortable
+        2013 and they were really amiable. I didn't feel uncomfortable
         at all throughout the interview process.
     -   Course Report ([5
         Reviews](https://www.coursereport.com/schools/code-fellows#/about))
@@ -145,7 +145,7 @@ Best Physical Bootcamps from SwitchUp
 9.  [Coding Dojo](https://www.codingdojo.com/) (San Jose, Seattle, LA,
     Silicon Valley, San Francisco)
     -   I applied to the Dojo this year and think they have a solid
-        program for true beginners. I’m not sure if they’re challenging
+        program for true beginners. I'm not sure if they're challenging
         enough for people with a bit of background in programming
         though.
     -   Course Report ([10
@@ -162,7 +162,7 @@ Best Physical Bootcamps from SwitchUp
         ⭐️⭐️⭐️⭐️⭐️ 5/5
 10. [Designation](https://designation.io/) (Chicago)
     -   The admissions officer for this program, Will, is really cool.
-        He’s just so full of zest. I’d definitely recommend this program
+        He's just so full of zest. I'd definitely recommend this program
         to people interested in graphic design because at the least,
         they can meet Will. Haha.
     -   Course Report (N/A)
@@ -194,7 +194,7 @@ Best Physical Bootcamps from SwitchUp
         ⭐️⭐️⭐️⭐️⭐️ 5/5
 12. [Dev League](https://www.devleague.com/) (Honolulu)
     -   The founders of this program are awesome! Paradise and coding?
-        They already know what’s up. I wrote about the admissions
+        They already know what's up. I wrote about the admissions
         process here.
     -   Course Report ([3
         Reviews](https://www.coursereport.com/schools/dev-league))
@@ -226,7 +226,7 @@ Best Physical Bootcamps from SwitchUp
     -   Yelp (N/A)
 15. [Fullstack Academy](https://www.fullstackacademy.com/) (New York
     City)
-    -   There’s a good chance I’ll be heading here for the summer -
+    -   There's a good chance I'll be heading here for the summer -
         huzzah! :D
     -   You can hear more about my experience [here]{}.
     -   Course Report ([15
@@ -255,7 +255,7 @@ Best Physical Bootcamps from SwitchUp
     Francisco)
     -   I applied here back in 2013 too. They never got back to me after
         the 1st interview, which was weird but at that point I knew I
-        wasn’t going to be attending anyhow. Word of caution: there is
+        wasn't going to be attending anyhow. Word of caution: there is
         one very critical review that can be found
         [here](https://www.ashleymcnamara.com/2014/05/06/closing-the-redacted-academy-chapter/).
     -   Course Report (N/A)
@@ -446,13 +446,13 @@ Best Virtual Bootcamps from Switch Up
         ⭐️⭐️⭐️⭐️⭐️ 5/5
     -   Techendo (N/A)
 
-> Even though [Treehouse](https://teamtreehouse.com/) wasn’t listed since
-> I guess technically it’s not really a bootcamp, I’d definitely
+> Even though [Treehouse](https://teamtreehouse.com/) wasn't listed since
+> I guess technically it's not really a bootcamp, I'd definitely
 > recommend it for beginners and then [Code
 > School](https://www.codeschool.com/) for slightly more advanced users.
 > The breadth of what Treehouse offers is pretty neat.
 >
-> I’m in the process of trying out the virtual services
+> I'm in the process of trying out the virtual services
 > [Bento](https://www.bento.io/), [Egghead.io](https://egghead.io/), and
 > [Nodeschool](https://nodeschool.io/) more thoroughly.
 

@@ -90,9 +90,9 @@ Interview with [Coding House](https://www.codinghouse.com "Coding House") {#inte
     we started with part time and then did some weekends. The problems
     we saw with other programs is that all these places take time out of
     your schedule towards learning something new through commuting and
-    taking care of yourself. When you’re in the same place where you
+    taking care of yourself. When you're in the same place where you
     will be learning, that does not happen. Also, we focus on JavaScript
-    and not Rails. Node surpassed Rails in \# of commitments. And that’s
+    and not Rails. Node surpassed Rails in \# of commitments. And that's
     why our program is 70% JS, and 30% Ruby.
 6.  **Do you have any meetings just between the cohort and founders?**
     Yes, weekly, we bring them into our office for an individual
@@ -107,7 +107,7 @@ Interview with [Coding House](https://www.codinghouse.com "Coding House") {#inte
 
 **I got in!**
 
-Here’s part of the email they sent me...
+Here's part of the email they sent me...
 
     Congratulations your in!
 
@@ -121,7 +121,7 @@ Unfortunately, that's not a typing error on my part.
 -   there is no hard date to submit the deposit since they accept people
     on a rolling basis but Nick recommended sooner than later
 
-Once all that is taken care of, they’ll let you access their internal
+Once all that is taken care of, they'll let you access their internal
 website to get started with the pre-work at home.
 
 ------------------------------------------------------------------------

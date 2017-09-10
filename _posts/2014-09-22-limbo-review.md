@@ -30,7 +30,7 @@ Logo](https://fvcproductions.files.wordpress.com/2014/09/aac70-limbo_logo.png){.
 .wp-image-858 .size-full width="1600"
 height="526"}](https://fvcproductions.files.wordpress.com/2014/09/aac70-limbo_logo.png)
 
-**It’s been roughly 3 years (July 2010) since Limbo was first released
+**It's been roughly 3 years (July 2010) since Limbo was first released
 to the Xbox 360 platform.**
 
 Since then, it went on to accommodate practically every other major game
@@ -40,7 +40,7 @@ to the App store on Macs. It already had a decent number of reviews. I
 could tell it was going to be something big, because all the reviews
 were pretty much 5 stars *(ya DERP)*.
 
-And you know, from time to time, I’ll perform this mechanic sort of
+And you know, from time to time, I'll perform this mechanic sort of
 robotic operation: look up new games on the App Store, evaluate their
 reviews, watch a few minutes of game play, try out game.
 `if (game == awesome) {stop} else {repeat}`
@@ -55,7 +55,7 @@ the rest of the body (initially anyhow), the boys with spears in their
 hands which made me recall how strange the book "*Lord of the Flies*"
 was for me, the turret machine guns, that `HOTEL` sign - they all looked
 so ominous, so macabre, so depressing. I liked how the blood itself
-wasn’t even red and glaring, it was just black liquid. And how
+wasn't even red and glaring, it was just black liquid. And how
 everything in the game was a hue of black or white.
 
 https://www.youtube.com/watch?v=cHjt8LNaUT8
@@ -64,35 +64,35 @@ https://www.youtube.com/watch?v=cHjt8LNaUT8
 
 Dubbed as a "*trial and death*" kinda game *(which are my favorite kind,
 tbh)*, Limbo ended up as my first experience in gaming where my
-character first ended up getting killed by a box. That’s right. Just a
+character first ended up getting killed by a box. That's right. Just a
 friggin' box. Yes... the first time I died in the game was when I let a
 box fall on top of the weird boy.
 
 So then I realized pretty quickly that I need to treat this little kid
-like an ACTUAL kid. He was fragile and he didn’t have any super powers,
+like an ACTUAL kid. He was fragile and he didn't have any super powers,
 besides being a decent runner and jumper and honestly we could just
 assume he has ADHD or something so there you go. I mean, he was just
 supposed to be this kid that had to, for whatever reason, endure this
 sort of strange purgatory filled with objects and creatures and other
 little kids that just wanted to kill him off… which is all kind of sad
-in a screwed up kinda way, but while you’re helping him evade all the
+in a screwed up kinda way, but while you're helping him evade all the
 blood loss, your hope for his future only swells too... you know, in a
 kind of screwed up pitiful kinda way.
 
 Even so, while the hope increases, the excitement after death only does
 too. The addiction. If some of these puzzling, think of out of the box
-type situations don’t appease you, then the back story will. One of the
+type situations don't appease you, then the back story will. One of the
 best parts of this game for me was being able to resist cheating. If you
-cheat, the game is basically ruined. You don’t have that sense of joy
+cheat, the game is basically ruined. You don't have that sense of joy
 that you received from finishing it anymore. Of course, if you do want
-to cheat, there’s always YouTube…
+to cheat, there's always YouTube…
 
 \[caption id="" align="alignnone" width="937"\]![125,000 possible LIMBO
 walkthrough
 videos](https://fvcproductions.files.wordpress.com/2014/09/screenshot-2014-09-22-12-10-20.png){width="937"
 height="695"} 125,000 possible LIMBO walk through videos…\[/caption\]
 
-There isn’t any clear story line in this game, which is always cool
+There isn't any clear story line in this game, which is always cool
 because you can make one up yourself. The only characters you really get
 introduced to in the game are giant spiders and their giant legs *(not
 to mention their carcasses)*, no face boys that are trying to kill you
@@ -108,10 +108,10 @@ Man\[/caption\]
 
 So bam, right there, that whole beginning and then the creepy girl
 instance at the end made some people theorize that the game itself is
-just an never ending instance of this boy’s **LIMBO**, because he just
+just an never ending instance of this boy's **LIMBO**, because he just
 ends up in the same place again. Initially, I just thought okay so
-there’s this boy that I control and he really wants to reunite with his
-girlfriend/sister. Okay, cool, let’s play.
+there's this boy that I control and he really wants to reunite with his
+girlfriend/sister. Okay, cool, let's play.
 
 \[caption id="" align="aligncenter" width="591" class=" "\]![Girlfriend
 or
@@ -120,7 +120,7 @@ height="591"} Girlfriend or sister?!\[/caption\]
 
 After I finished the game, I was kinda confused, so I went ahead and did
 a standard Google search and it all made a whole lot more sense - at
-least when it comes to the origin of the title and why there’s no adults
+least when it comes to the origin of the title and why there's no adults
 or teenagers *(darn)* in this game.
 
 You see, Oxford Dictionary tells me that in Christian theology,
@@ -129,7 +129,7 @@ You see, Oxford Dictionary tells me that in Christian theology,
 would have a special little place for even **those** guys?? NOT ME, BRO.
 NOT ME. An equally sinister second definition is "*limbo*" being defined
 as a state of neglect or oblivion, e.g., "*children left in an emotional
-limbo*". Now, someone tell me it’s not even weirder that the example
+limbo*". Now, someone tell me it's not even weirder that the example
 sentence for the second definition was that EXACT same thing I just
 typed: "***children left in an emotional limbo***". All I gotta say is…
 ***SKETCHHHHHH***! Considering all the subtle horrific encounters I went

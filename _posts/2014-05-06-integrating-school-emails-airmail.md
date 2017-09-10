@@ -20,15 +20,15 @@ tags:
 ---
 
 So I have 4 different email accounts, my personal one, and then 3 other
-ones for the different universities I’ll be attending this summer for
-classes (YEAHHHH, it’s a drag).
+ones for the different universities I'll be attending this summer for
+classes (YEAHHHH, it's a drag).
 
 1. Personal email *@gmail.com*
 2. Hampton University Email *@hamptonu.edu*
 3. Old Dominion University Email *@odu.edu*
 4.  VCCS Email *@email.vccs.edu*
 
-So anyhow, I figured I’d make it easier for myself and go ahead and use
+So anyhow, I figured I'd make it easier for myself and go ahead and use
 [Airmail](https://airmailapp.com) to integrate everything into one place.
 
 This is the story of that plan which initially
@@ -40,7 +40,7 @@ You may carry on now...
 
 ------------------------------------------------------------------------
 
-Integrating my personal email was very easy, I didn’t even have to do
+Integrating my personal email was very easy, I didn't even have to do
 anything too advanced.
 
 This is how it ended up looking like in the Account Preferences pane for
@@ -55,7 +55,7 @@ Easy scheemzy\[/caption\]
 *However*, if you have the 2-step security enabled for your Gmail
 account (I do), you will have to create an [app-specific
 password](https://support.google.com/accounts/answer/185833?hl=en),
-which really isn’t too hard at all.
+which really isn't too hard at all.
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ integrate. I just chugged in my email and was set.
 Looks pretty much exactly like the settings for the personal gmail
 account.
 
-Most school emails utilize Gmail, so that’s going to end up happening,
+Most school emails utilize Gmail, so that's going to end up happening,
 obviously...
 
 \[caption id="attachment\_463" align="aligncenter" width="679"\][![VCCS
@@ -82,8 +82,8 @@ and it turns out, I actually needed to set up an app-specific password
 through MIDAS, which is the **[Monarch Identification and Authorization
 System](https://midas.odu.edu)** that ODU has for all their students.
 
-So anyhow, if you’re an ODU student and you want to integrate your
-school email with a separate application, you’re going to want to go to
+So anyhow, if you're an ODU student and you want to integrate your
+school email with a separate application, you're going to want to go to
 your MIDAS page where you will conveniently come across a section that
 looks like this:
 
@@ -121,7 +121,7 @@ thought of...
 **You see**, soon enough I found out I was unable to integrate the last
 of my three school emails (@hamptonu.edu).
 
-[Airmail](https://airmailapp.com) just couldn’t validate it. This is what
+[Airmail](https://airmailapp.com) just couldn't validate it. This is what
 popped up when I tried to add that particular school account.
 
 \[caption id="attachment\_460" align="aligncenter"
@@ -157,7 +157,7 @@ If you lack an account, you can just make a new one and then set the new
 one up with Gmail, so that it integrates with
 [Airmail](https://airmailapp.com).
 
-Now, here’s how it’ll turn out if you end up doing that:
+Now, here's how it'll turn out if you end up doing that:
 
 \[caption id="attachment\_466" align="aligncenter"
 width="696"\][![AIrmail
@@ -185,4 +185,4 @@ are now nicely organized for me to go through.
 Success!
 
 Let me know how this works out for you guys or if you have questions or
-concerns, don’t hesitate to ask - I’m here for you.
+concerns, don't hesitate to ask - I'm here for you.

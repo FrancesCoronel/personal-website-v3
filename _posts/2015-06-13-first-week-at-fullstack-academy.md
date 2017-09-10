@@ -1,7 +1,7 @@
 ---
 title: "First Week at Fullstack Academy 😮"
 date: 2015-06-13
-excerpt: There are 58 days in Fullstack. These are the first 5. Let’s begin.
+excerpt: There are 58 days in Fullstack. These are the first 5. Let's begin.
 header:
     image: https://fvcproductions.files.wordpress.com/2015/06/fullstack-academy-week-1-001.jpg
 tags:
@@ -17,30 +17,30 @@ tags:
 
 > June 8th to 12th
 
-There are 58 days in Fullstack. These are the first 5. Let’s begin.
+There are 58 days in Fullstack. These are the first 5. Let's begin.
 &lt;3
 
 Day One - Monday
 ----------------
 
--   Orientation & icebreakers today. I come to realize I’m actually very
+-   Orientation & icebreakers today. I come to realize I'm actually very
     used to icebreakers after going through many different programs.
     Learning names comes easy.
 -   My first impression is that many people here are nice and somewhat
     soft-spoken.
 -   My second impression is a bit of surprise and respect for those who
     came from far, far away, like New Zealand & France.
--   The big assessment is in the late afternoon. I’m a bit of a nervous
+-   The big assessment is in the late afternoon. I'm a bit of a nervous
     wreck.
 -   When I get home, I feel really down about the assessment.
 
 Day Two - Tuesday
 -----------------
 
--   I’m part of the review group for the assessment. I feel kind of like
-    I’m in the peewees when I actually should have been part of the big
+-   I'm part of the review group for the assessment. I feel kind of like
+    I'm in the peewees when I actually should have been part of the big
     leagues. :/
--   I got my locker buddy. After several attempts, we both still can’t
+-   I got my locker buddy. After several attempts, we both still can't
     manage to open the stupid thing.
 
 Day Three - Wednesday
@@ -79,9 +79,9 @@ Day Four - Thursday
 Day Five - Friday
 -----------------
 
--   People still seem shy and/or tired to participate too much. Can’t
+-   People still seem shy and/or tired to participate too much. Can't
     tell which.
--   I feel if I act too interested, I’ll lose cred. 8-)
+-   I feel if I act too interested, I'll lose cred. 8-)
 -   Ladies lunch today. This was nice to be part of. The tech industry
     is **pretty** one-sided after all.
 -   Met some seniors today. Not literal seniors (old folks).
@@ -92,9 +92,9 @@ Day Five - Friday
         half (the project phase).
 -   Naturally, the first thing the seniors did was pull a joke on me.
     *Classic…* :twisted:
--   Frankly, I’m more excited about the project phase where I’ll
+-   Frankly, I'm more excited about the project phase where I'll
     actually be building things. Looking forward to it already. Weird.
--   I got a friggin’ t-shirt - yessssssss.
+-   I got a friggin' t-shirt - yessssssss.
 -   Mixer today puts me in a great mood because charades is always fun.
 -   I also learned a lot more about this one guy named Isaac because he
     got the hot seat today. Afterward, I thought of all the different
@@ -103,15 +103,15 @@ Day Five - Friday
 
 > :arrow: **Overall Conclusion?**
 >
-> > Fullstack Academy is a full out marathon and I’m more of a short
-> > distance runner. It’ll get better with time though! 😁
+> > Fullstack Academy is a full out marathon and I'm more of a short
+> > distance runner. It'll get better with time though! 😁
 > >
 > > Also, if someone asked me to express how I felt about my first week
 > > using a song…
 
  \
 https://www.youtube.com/watch?v=t-yCg-0-baE\
-Just sayin’. :roll:
+Just sayin'. :roll:
 
 ### Journey Into the Cave of Digital Hieroglyphics
 

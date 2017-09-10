@@ -20,7 +20,7 @@ tags:
 
 So I live in Norfolk, Virginia which is this beautiful small town by the
 sea. Norfolk is part of the Hampton Roads area which is often referred
-to as the `757` since that’s our catchy area code.
+to as the `757` since that's our catchy area code.
 
 ![](https://sci.odu.edu/bem/images/Photos/Downtown%20Norfolk%20Photo.jpg)
 
@@ -33,7 +33,7 @@ actually **today** on November 14th, 2015 from 8:30 am to 6 pm.
 
 \https://twitter.com/HRDevFest/status/665359937908903936\]
 
-It’s always exciting to potentially be part of an inaugural anything so
+It's always exciting to potentially be part of an inaugural anything so
 when the organizers behind HR DevFest announced their call for
 presentations, I decided to give it a shot for the heck of it and
 submitted my proposal on a web design talk that I had presented while at
@@ -47,7 +47,7 @@ speak for the first time at an official tech conference.
 
 \https://twitter.com/HRDevFest/status/656476470454300672\]
 
-I’ve spoken at conferences before, but never at an actual tech
+I've spoken at conferences before, but never at an actual tech
 conference which is why victory was that much sweeter when I finally got
 the opportunity to do so today. So…
 
@@ -101,7 +101,7 @@ LinkedIn Feedback - HR DevFest\[/caption\]
 
 ------------------------------------------------------------------------
 
-> Needless to say, I’m definitely going to be giving more talks in the
+> Needless to say, I'm definitely going to be giving more talks in the
 > future.
 
 ------------------------------------------------------------------------

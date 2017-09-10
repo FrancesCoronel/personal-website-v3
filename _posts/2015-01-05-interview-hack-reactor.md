@@ -42,27 +42,27 @@ tags:
 ------------------------------------------------------------------------
 
 I keep looking for the key out of my novice programming level, but
-nothing seems to be clicking in the right place. It’s an icky situation.
+nothing seems to be clicking in the right place. It's an icky situation.
 
 \[caption id="" align="aligncenter"
 width="256"\][![](https://www.clipartbest.com/cliparts/7Ta/Mbx/7TaMbxgLc.png){width="256"
 height="256"}](https://www.clipartbest.com/cliparts/7Ta/Mbx/7TaMbxgLc.png)
 The bow is the circular part.\[/caption\]
 
-The reasons I decided to consider these ‘coding bootcamps’, which have
+The reasons I decided to consider these ‘coding bootcamps', which have
 garnered both positive and negative public opinions is because I think
-it’s going to provide the
+it's going to provide the
 [bow](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Parts_of_a_Yale_lock-type_key.svg/2000px-Parts_of_a_Yale_lock-type_key.svg.png)
 for that key I was describing earlier.
 
-I’d have to take care of the important bits of the key of course, but it
-would be inconvenient if the key didn’t have a bow, wouldn’t it? I’m
+I'd have to take care of the important bits of the key of course, but it
+would be inconvenient if the key didn't have a bow, wouldn't it? I'm
 going to avoid going off a tangent here now…
 
-So, in lamest terms, the way I’m feeling right now about my programming
+So, in lamest terms, the way I'm feeling right now about my programming
 skills is similar to feeling like `Big Head` from the TV show [Silicon
 Valley](https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)). `Richard`
-and `Big Head` can relate to each other. They’re buddies and they both
+and `Big Head` can relate to each other. They're buddies and they both
 work (or worked) at the same company. **But** their skills level are
 completely off. Richard really gets algorithms and data structures. He
 really **gets** them. But Big Head, he can only make these shady MVPs
@@ -74,11 +74,11 @@ width="630"\][![](https://wac.450f.edgecastcdn.net/80450F/screencrush.com/442/fi
 height="420"}](https://wac.450f.edgecastcdn.net/80450F/screencrush.com/442/files/2014/03/Silicon-Valley.jpg)
 Whut??\[/caption\]
 
-I mean, **I** can’t even make MVPs yet (not even *shady* ones), but you
+I mean, **I** can't even make MVPs yet (not even *shady* ones), but you
 still get the point.
 
 You know, a simpler analogy might have been comparing a `hare` and a
-`turtle` (me being the turtle). I just don’t feel like I’m moving fast
+`turtle` (me being the turtle). I just don't feel like I'm moving fast
 enough in my learning process, and the situation becomes ickier and
 ickier.
 
@@ -92,11 +92,11 @@ blogs of HR students.
 
 So, what is a closure? That is the question.
 
--   A `closure`, I’ve come to understand, is a function that ‘closes
-    over’ local variables.
+-   A `closure`, I've come to understand, is a function that ‘closes
+    over' local variables.
 -   A `callback function`, on the other hand, can be used as a closure,
     but a callback function itself is when the function is called within
-    itself in order to be be ‘called back’ later.
+    itself in order to be be ‘called back' later.
 -   I figured these topics would be something HR wants their applicants
     somewhat familiar with since `Node` works with closures and
     callbacks all the bloody time.
@@ -108,7 +108,7 @@ over my aliases. Whoops. I ended up rescheduling… 😔
 
 However, even though there were some discrepancies over the setup of my
 interview, I was still able to meet up with someone. The interviewer
-asked that I don’t reveal their name and that I should share this
+asked that I don't reveal their name and that I should share this
 article with them. So cheers, interviewer! 😁
 
 ------------------------------------------------------------------------
@@ -127,7 +127,7 @@ article with them. So cheers, interviewer! 😁
 
 > Answers have been paraphrased or are otherwise taken verbatim.
 
-I’ve decided to categorize the questions I asked into 4 sections:
+I've decided to categorize the questions I asked into 4 sections:
 questions specifically `Pertaining to Hack Reactor`,
 `Student Experience`, `Logistics/Numbers`, and
 `Personal Cohort Experience` (what the interviewer personally
@@ -138,7 +138,7 @@ experienced in his cohort).
 > Pertaining to Hack Reactor
 
 1. **Why do you think those specific bootcamps were chosen to meet with
-    the Department of Veteran Affairs at the White House?** I’m not
+    the Department of Veteran Affairs at the White House?** I'm not
     allowed to comment on that.
 2. **How do you guys keep a database of all the graduate outcomes?**
     The HR community is very strong. The hiring and admissions team
@@ -150,7 +150,7 @@ experienced in his cohort).
     pre-work?** When a student is accepted, a large amount of pre-work
     gets assigned for them to accomplish. There is a number of mandatory
     exercises, and then about 2/3 of that is recommended work. Of that
-    recommended work, Code School classes are recommended. It’s still a
+    recommended work, Code School classes are recommended. It's still a
     very tiny portion.
 4.  **During the actual course, do you guys use online learning software
     like that?** No, the curriculum is mostly focused around projects
@@ -161,17 +161,17 @@ experienced in his cohort).
 > Overall Student Experience
 
 1. **If a student was not doing well midway through the program, how
-    does Hack Reactor handle that?** What we’re told to do as students
+    does Hack Reactor handle that?** What we're told to do as students
     is to make sure to raise those red flags as soon as possible. Having
     said that, there are many safety mechanisms in place. There are
-    people in place to act as ‘sheperds’ - those that are highly
+    people in place to act as ‘sheperds' - those that are highly
     involved in each of the incoming classes. The abilities of each
     student will end up tailoring the after hour activities or lectures.
     No one is going to get left behind.
 2. **What events do students attend outside the bootcamp (e.g.
     Hackathons, Meetups)?** We host Hackathons here at Hack Reactor and
-    we have our own Meetup group. We don’t recommend outside Hackathons
-    during the program because there wouldn’t be any time.
+    we have our own Meetup group. We don't recommend outside Hackathons
+    during the program because there wouldn't be any time.
 3. **In the 2nd part of the bootcamp where they have to make projects,
     do teams struggle to come up with solid ideas or do you encourage
     them to think about them beforehand or how does that work?** For the
@@ -182,7 +182,7 @@ experienced in his cohort).
     your question, both are available.
 4.  **Would you say students also learn enough to design the app? Do you
     do this primarily using HTML/CSS and jQuery for interactivity?**
-    It’s personal choice. We generally just need an HTML framework in
+    It's personal choice. We generally just need an HTML framework in
     terms of design. We focus more on functionality over design.
 
 ------------------------------------------------------------------------
@@ -202,7 +202,7 @@ experienced in his cohort).
     cohort felt overwhelmed midcourse and hack reactor allowed them to
     drop out and defer their tuition to a later cohort after doing more
     self-learning.
-5.  **Is everyone recommended to do their development on a Mac?** That’s
+5.  **Is everyone recommended to do their development on a Mac?** That's
     the school standard. There has been people in the past who have
     tried using Windows initially, but they ended up switching over.
 
@@ -213,7 +213,7 @@ experienced in his cohort).
 1. **Did you ever go through imposter syndrome?** Yeah, absolutely. It
     gets talked about a lot here, because the amount of information is
     tremendous that it is impossible to know everything. No one knows
-    everything. It’s definitely something that’s talked about and so are
+    everything. It's definitely something that's talked about and so are
     strategies to overcome it.
 2. **What was your project about?** My solo project was an astronomy
     app that would tell you the positioning of all the planets and my
@@ -221,15 +221,15 @@ experienced in his cohort).
     ([Endevr](https://www.youtube.com/watch?v=XTizYogXstU "Endevr")).
 3. **How often did you stay up late in your experience at Hack
     Reactor?** I was pretty aggressive about getting 6–7 hours of sleep.
-    And yes I did stay up late but it was’t frequent.
+    And yes I did stay up late but it was't frequent.
 4.  **If you made a switch, why do you think you chose your initial
-    field first?** Well, my jump wasn’t that large compared to others. I
+    field first?** Well, my jump wasn't that large compared to others. I
     came in with experience of being a product manager.
 5.  **Do you help construct the curriculum?** Yes, a little bit by
     providing toy problems. I also lecture a bit about toy problems and
     help out with interviews, the help desk, cross sort and debugging.
 6.  **What was your favorite event/memory from Hack Reactor?** The first
-    6 weeks were the most fun I’ve ever had, it was really great meeting
+    6 weeks were the most fun I've ever had, it was really great meeting
     the other students. There are a lot of interesting people getting
     along and figuring out this strange ecosystem. I just really had a
     ball.
@@ -238,7 +238,7 @@ experienced in his cohort).
     great group where you could see from the 1st day, the relationships
     were starting to get made. There were a lot of musicians and chess
     players, so we had these really crazy chess matches. People had a
-    really good time. I’d say you could notice it immediately.
+    really good time. I'd say you could notice it immediately.
 
 ------------------------------------------------------------------------
 

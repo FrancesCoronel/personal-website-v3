@@ -1,7 +1,7 @@
 ---
 title: "Change Your Icons on Yosemite with Scripting 🔧"
 date: 2015-03-29
-excerpt: I got tired of Yosemite’s icons and decided to take some initiative without the usual dependency on an app. It took about 2 days for me to perfect this strategy and now it’s time to make your process a lot easier than mine.
+excerpt: I got tired of Yosemite's icons and decided to take some initiative without the usual dependency on an app. It took about 2 days for me to perfect this strategy and now it's time to make your process a lot easier than mine.
 header:
     image: https://fvcproductions.files.wordpress.com/2015/03/banner-new-icons.png?w=1024&h=435&crop=1
 ---
@@ -19,16 +19,16 @@ header:
 Intro
 -----
 
-So maybe you got tired of Yosemite’s icons. That’s cool.
+So maybe you got tired of Yosemite's icons. That's cool.
 
 Even without apps like the once legendary
 [`CandyBar`](https://www.panic.com/blog/candybar-mountain-lion-and-beyond/ "CandyBar")
 or [`LiteIcon`](https://www.freemacsoft.net/liteicon/ "LiteIcon"), you
 can still change all your icons. No more dependencies!
 
-I got tired of Yosemite’s icons and decided to take some initiative
+I got tired of Yosemite's icons and decided to take some initiative
 without the usual dependency on an app. It took about 2 days for me to
-perfect this strategy and now it’s time to make your process a lot
+perfect this strategy and now it's time to make your process a lot
 easier than mine.
 
 Tools
@@ -46,7 +46,7 @@ for icons sets, but you can also try
 [IconArchive](https://www.iconarchive.com/ "IconArchive") for a broader
 range of options.
 
-If you like the app icons I show in these pictures, then you’re welcome
+If you like the app icons I show in these pictures, then you're welcome
 to download them from my Dropbox.
 
 [![Bubble Icons - Default
@@ -143,11 +143,11 @@ suit what the app is called and what you named the corresponding `icns`
 file.
 
 > When you are editing this file to add on your own apps, make sure
-> there’s not a comma on the last line or there will be an error.
+> there's not a comma on the last line or there will be an error.
 
 Now, using `Terminal`, type in the following:
 `defaults write com.apple.finder AppleShowAllFiles YES`. Once you press
-`Enter`, this command will show all the hidden files on your Mac. Don’t
+`Enter`, this command will show all the hidden files on your Mac. Don't
 mess with any of these hidden files. The reason Apple hides them is so
 that the user has less of a chance of messing things up.
 
@@ -208,7 +208,7 @@ Now you probably have something like the following:
             personal apps
         -   the `setfileicon` UNIX executable file
 
-At this point, if you’ve done everything right, you can "hide" your
+At this point, if you've done everything right, you can "hide" your
 hidden files again in your Finder by executing the command
 `defaults write com.apple.finder AppleShowAllFiles NO` in `Terminal`.
 Make sure to execute `killall Finder` as well so that your Finder

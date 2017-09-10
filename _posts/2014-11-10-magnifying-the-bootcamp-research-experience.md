@@ -49,20 +49,20 @@ tags:
 The Coding Bootcamp Ultimatum {#the-coding-bootcamp-ultimatum style="text-align:center;"}
 =============================
 
-Okay, so on my search for the perfect **coding bootcamp** (I’m just
+Okay, so on my search for the perfect **coding bootcamp** (I'm just
 going to refer to it as **CB**) last year and now again this year, I
 used/am using several different websites.
 
-So today we’ll be looking at each of these compare/finder websites for
+So today we'll be looking at each of these compare/finder websites for
 CBs by analyzing the prominent [**Hack
 Reactor**](https://hackreactor.com) bootcamp on each website.
 
-For each of these sites, I’ll be annotating the design interface
+For each of these sites, I'll be annotating the design interface
 directly with my personal critiques (**if I have any to give**) just
-because there’s always room for improvement, and you know, why not?
+because there's always room for improvement, and you know, why not?
 Green annotations = good , red = bad (typical).
 
-The 3 criteria I’m judging these sites are as follows:
+The 3 criteria I'm judging these sites are as follows:
 
 1. **UI (User Interface)**
 2. **UX (User Experience)**
@@ -70,18 +70,18 @@ The 3 criteria I’m judging these sites are as follows:
 
 I think these key 3 criteria are the minimal requirements each great CB
 website ought to aspire for. Mind you, this is just for the overall web
-site, this isn’t for the CBs themselves, where different criteria would
+site, this isn't for the CBs themselves, where different criteria would
 obviously apply like *teacher quality*, *ROI*, *brand*, *peers*, and so
 forth.
 
-When I’m searching for a CB, It should be easy, I shouldn’t be wondering
+When I'm searching for a CB, It should be easy, I shouldn't be wondering
 how to do a specific task because of the design, and it should give me
 enough high quality background of the bootcamp. This is so that the user
-feels like they don’t have to do any extra work when it comes to
-planning where they’re gonna change the rest of their lives for the next
+feels like they don't have to do any extra work when it comes to
+planning where they're gonna change the rest of their lives for the next
 few months.
 
-I mean, it’s a pretty big decision, y’all! ;)
+I mean, it's a pretty big decision, y'all! ;)
 
 > Made with love on [**Byword 2**](https://bywordapp.com).
 >
@@ -138,13 +138,13 @@ This is the page for [HackReactor on
 **Negatives** 😞
 
 -   login option
-    -   there’s not really an incentive to create an account and login
+    -   there's not really an incentive to create an account and login
         with it
 -   newsletter?
-    -   not much clarification as to what I’d be getting
+    -   not much clarification as to what I'd be getting
 -   very little information provided
     -   besides the basic overview and typical stats on the left or
-        right sidebar, there isn’t much going on
+        right sidebar, there isn't much going on
 -   no other resources provided
     -   although they do intend to release a blog soon…
 
@@ -187,27 +187,27 @@ This is the page for [HackReactor on
     - these are always a nice addition to any website and it utilizes
     the Disqus interface so even better
 -   constantly updated
-    -   there’s always a new bootcamp popping up
+    -   there's always a new bootcamp popping up
 
 **Negatives** 😞
 
 -   ugly UI
-    -   in all honestly, it’s really not the prettiest website out there
-    -   for one thing, it’s a little difficult to maneuver with the
+    -   in all honestly, it's really not the prettiest website out there
+    -   for one thing, it's a little difficult to maneuver with the
         table for information about HackReactor being so long
 -   too much information
     -   most hopefuls would benefit more from some clear necessary
         information on the Bootcamps.in website and some useful links
         for that information on the main bootcamp website rather than a
         whole slew of numbers and data that are provided
--   lots of filters but they don’t help
+-   lots of filters but they don't help
     -   it is nice when code camps are filtered in so many ways by cost,
-        focus, location, and so on but it’s not really nice when they’re
+        focus, location, and so on but it's not really nice when they're
         not filtered in a way that helps you get the most out of it
     -   with this website, you can only select one of these options so
         literally just one location, one focus, one cost and so on and
-        that’s how it’s determined
-    -   so basically, what I’m saying is that if you were looking for a
+        that's how it's determined
+    -   so basically, what I'm saying is that if you were looking for a
         JavaScript focused school that cost less than \$10K located in
         California, that would be really hard for you to actually do
         because this website only allows for one of those factors to be
@@ -234,17 +234,17 @@ Report*](https://www.coursereport.com/schools/hack-reactor).
 > > last year in 2013 by some alumni from
 > > [*LivingSocial*](https://livingsocial.com). This website features
 > > reviews, application tips, founder/student interviews, and resources
-> > to help the hopeful bootcamp participants choose the bootcamp that’s
+> > to help the hopeful bootcamp participants choose the bootcamp that's
 > > right for them.
 
 **Positives** 😄
 
 -   well designed
-    -   very minimal straightforward kind of layout that doesn’t feel
+    -   very minimal straightforward kind of layout that doesn't feel
         cluttered
 -   reviews, founder spotlight, student spotlight
     -   these are extremely informative for anyone who really wants a
-        more inside look into the school and its culture (if there’s one
+        more inside look into the school and its culture (if there's one
         present)
     -   it seems these are really what makes the backbone of the website
         too and is always better than just give out the basic stats on
@@ -259,10 +259,10 @@ Report*](https://www.coursereport.com/schools/hack-reactor).
 
 **Negatives** 😞
 
--   minimal design, but it’s also kinda annoying
+-   minimal design, but it's also kinda annoying
     -   when it comes to their latest news for each school as well as
         their reviews they have them both in 1 column
-    -   this doesn’t allow for space and makes the idea of scrolling
+    -   this doesn't allow for space and makes the idea of scrolling
         down and down to look at either seem tedious
     -   it would be ideal then (personally speaking) if they split these
         up so that the reviews were presented on the left side right
@@ -294,7 +294,7 @@ Finder*](https://www.thinkful.com/bootcamps/hack-reactor).
 > > Thinkful Bootcamp Finder branches off of *Thinkful*, a company
 > > founded 2 years in 2012 that has become an increasingly popular
 > > online learning for those who want to learn how to become a web
-> > developer but don’t want to move or pay LOTS of that cash to do so.
+> > developer but don't want to move or pay LOTS of that cash to do so.
 
 **Positives** 😄
 
@@ -302,7 +302,7 @@ Finder*](https://www.thinkful.com/bootcamps/hack-reactor).
     -   no other website offers a chance to look at "Student Projects"
         or some of the actual "Hiring Partners" for the bootcamp, which
         is pretty neat!
-    -   also has student reviews and the technologies you’ll learn at
+    -   also has student reviews and the technologies you'll learn at
         the bootcamp
 -   very minimal design
     -   no clutter, much love
@@ -314,21 +314,21 @@ Finder*](https://www.thinkful.com/bootcamps/hack-reactor).
 
 -   very minimal information
     -   at least in terms of student reviews, very few were shown and no
-        link was provided to direct to more so there wasn’t much I could
+        link was provided to direct to more so there wasn't much I could
         go off of there
     -   student reviews or reviews in general are vital for these kind
         of websites because they provide perspective to hopefuls - but
         unfortunately the best in depth reviews I could find of some of
-        these bootcamps are all located on friggin’
+        these bootcamps are all located on friggin'
         [*Quora*](https://quora.com) which is fine, but they need to be
         shared with others too
 -   only 2 filters
     -   by topic and city (individually, not simultaneously)
-    -   otherwise, it’s just a long scrolling down of squares
+    -   otherwise, it's just a long scrolling down of squares
         representing bootcamps with you trying to find one that appeals
         to you
 -   very few bootcamps
-    -   there’s roughly \~200 legitimate coding bootcamps out there
+    -   there's roughly \~200 legitimate coding bootcamps out there
         globally (give or take), but they only preview about \~50 of the
         more well known ones
 
@@ -358,16 +358,16 @@ This is the page for [HackReactor on
 **Positives** 😄
 
 -   really differentiates itself from the competition
-    -   they offer a career quiz to help get you started (apparently I’d
+    -   they offer a career quiz to help get you started (apparently I'd
         be great as someone in back-end - hehe)!
     -   they (like Course Report) offers spotlight of founders and
         student along with the latest news pertaining to whichever
         relevant bootcamp
 -   thewebsite design is sooo sexy
     -   pictures of actual people - holy crap - are on each coding
-        bootcamp’s representative square on the website along with extra
+        bootcamp's representative square on the website along with extra
         hover information
-    -   this actually makes scrolling down fun even if you’re just
+    -   this actually makes scrolling down fun even if you're just
         browsing!
 -   allthe bootcamps in the world (huzzaaah!)
     -   they offer roughly \~170 bootcamps, in a very clean and
@@ -395,17 +395,17 @@ This is the page for [HackReactor on
             little tedious
     -   that price filter
         -   to somebody in high places, one of these \$ might mean
-            \$10,000 so I’m not a big fan of the simple \$, \$\$,
-            \$\$\$, and so on unless there’s some background provided
+            \$10,000 so I'm not a big fan of the simple \$, \$\$,
+            \$\$\$, and so on unless there's some background provided
     -   that ratings filter
         -   okay, so why would anybody want to search for a 1-star or
             2-star rated bootcamp again, just for funsies?
-        -   it’s understandable that it’s there given that it correlates
+        -   it's understandable that it's there given that it correlates
             with the student reviews but…
 -   limitedinformation for each bootcamp
     -   besides the stunning student review section and a basic overview
         of what the bootcamp has to offer (which is a similarity between
-        all the websites), there’s not much else going on
+        all the websites), there's not much else going on
 
 📝 **THE VERDICT: 4.5/5**
 
@@ -440,7 +440,7 @@ height="121"}](https://fvcproductions.files.wordpress.com/2014/11/screenshot-201
         comparison/review site but rather serves as one of the first
         full guides dedicated to just researching and choosing the right
         coding bootcamp
-    -   needless to say, you should definitely give it a go if you’re a
+    -   needless to say, you should definitely give it a go if you're a
         newb to the whole CB scene, because this guide steps you through
         **everything** you need to know
 
@@ -461,7 +461,7 @@ height="151"}](https://fvcproductions.files.wordpress.com/2014/11/screenshot-201
         application portal dedicated to making it easy for users to
         research and apply to CBs.
     -   So far, it only has 28 schools participating, but it has a great
-        UI/UX so if you really want a swift and easy app process, I’d go
+        UI/UX so if you really want a swift and easy app process, I'd go
         with hack\_app.
 
 [![](https://cdn.evbuc.com/eventlogos/1546045/code2040transparency.png){.aligncenter
@@ -470,13 +470,13 @@ height="381"}](https://cdn.evbuc.com/eventlogos/1546045/code2040transparency.png
 
 - [Code2040 - Playbook](https://playbook.code2040.org)
     -   This is great not just for minorities interested in tech, but
-        just for anyone who wants a really great layout of what’s
+        just for anyone who wants a really great layout of what's
         recommend before applying and interviewing for a software
         development internship. This sort of logic applies for
         competitive coding bootcamps as well, so get out there! :) The
         founder of the organization, [Tristan
         Walker](https://www.fastcompany.com/3037933/the-visible-man "Tristan Walker - Fast Company"),
-        is also friggin’ awesome.
+        is also friggin' awesome.
 
 [\
 ](https://fvcproductions.files.wordpress.com/2014/11/hack-reactor-interior.jpg)
@@ -510,7 +510,7 @@ height="223"}](https://fvcproductions.files.wordpress.com/2014/11/screenshot-201
 
 ![](https://portland.startupweekend.org/files/2013/11/Treehouse-Logo-With-Text.png)
 
--   And of course you can’t go wrong with your more typical, well-known
+-   And of course you can't go wrong with your more typical, well-known
     resources for learning how to love `{code}`…
     - [Codecademy](https://codecademy.com)
     - [Code School](https://codeschool.com)

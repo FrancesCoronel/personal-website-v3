@@ -214,7 +214,7 @@ return false;\
 
 -   *overview*
     -   stacks and queues are similar data structures
-    -   they’re different only by how an item is removed first
+    -   they're different only by how an item is removed first
     -   both can be implemented as arrays or linked lists
 -   *advantages*
     -   implementing a stack as an array is easy, but implementing a
@@ -229,8 +229,8 @@ return false;\
         shrunk so you want to use an array when you know your max upper
         limit
     -   ***TL; DR***
-        -   if you’re not sure how many values there will be in your
-            data structure, then it’s better to not use an array and
+        -   if you're not sure how many values there will be in your
+            data structure, then it's better to not use an array and
             stick with a linked list (ergo, queues) because arrays
             always have a fixed size
 -   *examples of stacks*
@@ -241,7 +241,7 @@ return false;\
     -   Towers of Hanoi
 -   *examples of queues*
     -   waiting line for a roller coaster
-    -   hamburger processing line at Mickey D’s
+    -   hamburger processing line at Mickey D's
     -   vehicles on a toll bridge
     -   luggage checking machine
     -   phone answering system for most big tech companies

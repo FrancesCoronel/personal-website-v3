@@ -47,11 +47,11 @@ Interview with [Coding Dojo](https://www.codingdojo.com) {#interview-with-coding
 3. **What would you say are the key differences between the two
     campuses?**The campus in Mountain View is the sort of super center
     and class sizes can go up to 30. Here in Seattle they go up to 25.
-    Besides that, there’s not much difference.
+    Besides that, there's not much difference.
 4.  **What kind of process do your instructors go through?**Most
     instructors will have quite a few years in development experience.
 5.  **What is your background? How were introduced into the tech/web
-    development scene?**I’m a graduate of Coding Dojo with a background
+    development scene?**I'm a graduate of Coding Dojo with a background
     in Management. I always wanted to get into computers, but my father
     wanted me to get into finance and wanted me to get an MBA. I ended
     up taking 6 months off and found myself coding. One thing led into
@@ -67,25 +67,25 @@ Interview with [Coding Dojo](https://www.codingdojo.com) {#interview-with-coding
     Hackathons and such because then it will make more sense. Before and
     after - the difference in skill is massive. Hacakathons are always
     great, but the schedule is just so busy and structured so there
-    won’t be enough time. The more you code, the better.
-7.  **What’s the idea behind founding this program? What made you think
-    it was a good idea?**The founder’s idea was that he wanted to
-    transform people’s lives and offer the ability to make it better.
+    won't be enough time. The more you code, the better.
+7.  **What's the idea behind founding this program? What made you think
+    it was a good idea?**The founder's idea was that he wanted to
+    transform people's lives and offer the ability to make it better.
     Development is just one vision in that. Anyone can be a developer
     and develop something. From 0 to 100, as long as that person is
     motivated, driven, you can move forward. Even with 0 knowledge, we
-    can transform people’s lives and teach people that they can go back
+    can transform people's lives and teach people that they can go back
     and get into computers. The graduates have experienced that.
-8.  **Anything else? **There is 20 minute rule - it’s the idea that if
-    you’re there coding, and that you’re stuck, you need to spend 20
+8.  **Anything else? **There is 20 minute rule - it's the idea that if
+    you're there coding, and that you're stuck, you need to spend 20
     minutes to figure out that problem (60–70% of students solve it at
-    that point). If after 20 minutes, you can’t figure it out, there are
+    that point). If after 20 minutes, you can't figure it out, there are
     2people that you can ask for help. A lot of problems that were
-    goingto be asked don’t get asked and helps the student strengthen
-    that knowledge. It’s the most efficient way so that peopleare forced
+    goingto be asked don't get asked and helps the student strengthen
+    that knowledge. It's the most efficient way so that peopleare forced
     to learn things.We teach the LAMP stack, which is basic. From that
     we move to Node.js. Then we move to Ruby on Rails last. There is a
-    desire and need for Ruby on Rails and it’s unique because it’s a
+    desire and need for Ruby on Rails and it's unique because it's a
     high level language. There are shortcuts and a little amount of code
     required. For example in PHP 15–20 lines equates to 1 line of code
     in Ruby. Same with SQL (15–20 lines) and then that converts to 5–6
@@ -97,7 +97,7 @@ Interview with [Coding Dojo](https://www.codingdojo.com) {#interview-with-coding
 Aftermath
 ---------
 
-I was accepted! Here’s part of the email they sent me:
+I was accepted! Here's part of the email they sent me:
 
     Congratulations!
 

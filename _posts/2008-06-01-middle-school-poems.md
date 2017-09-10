@@ -23,13 +23,13 @@ For now I have just realized
 that the fun has arrived
 the fun has begun
 jumping all on one piece
-almost feeling like I couldn’t breathe
+almost feeling like I couldn't breathe
 blood rushing through me
 a second, a beat
 I feel the air on my face
 My hair in the sky
 Free as free as it can be
-That’s what you feel
+That's what you feel
 When you are on
 A trampoline
 ```
@@ -38,18 +38,18 @@ A trampoline
 
 ```text
 Wait!
-What’s the rush?
-What’s the hurry?
-We don’t have to take it now
+What's the rush?
+What's the hurry?
+We don't have to take it now
 So please
 Yes pretty please
 We still have the right to study
-Don’t we?
+Don't we?
 Yes, we do!
-So don’t make us take the quiz now
+So don't make us take the quiz now
 So please
-What’s the rush?
-What’s the hurry?
+What's the rush?
+What's the hurry?
 You can give me
 such an ache
 oh yes I swear

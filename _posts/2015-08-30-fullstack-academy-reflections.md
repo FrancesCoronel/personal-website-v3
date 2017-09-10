@@ -1,7 +1,7 @@
 ---
 title: "Fullstack Academy - Reflections 💭"
 date: 2015-08-30
-excerpt: At the end of the day, I’m really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye opening pair programming sessions, and the awesome people.
+excerpt: At the end of the day, I'm really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye opening pair programming sessions, and the awesome people.
 header:
     image: https://fvcproductions.files.wordpress.com/2015/08/banners-0011.jpg
 tags:
@@ -39,15 +39,15 @@ Mainly because the whole thing was a little crazy and stressful, but
 really great, so ergo - *I REGRET NOTHING*.
 
 My official last day of Fullstack was **Wednesday, August 26, 2015**,
-but I’ve been so busy getting ready for school and settling in back
-home, it’s been hard to focus on writing anything substantial.
+but I've been so busy getting ready for school and settling in back
+home, it's been hard to focus on writing anything substantial.
 
 Anywho, the last week and 3 days of Fullstack was a bit of a whirlwind,
-with my uncle’s birthday and relatives coming over along with making
+with my uncle's birthday and relatives coming over along with making
 sure the Capstone project looked presentable.
 
-As I’ve mentioned before, I worked on the Capstone project with only one
-other person - Joanna. She was pretty great to work with, and I’m
+As I've mentioned before, I worked on the Capstone project with only one
+other person - Joanna. She was pretty great to work with, and I'm
 actually pretty happy with what we were able to manage in such a short
 span of time.
 
@@ -78,17 +78,17 @@ Family](https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/theatre-128.
 Friends & Family Day {#friendsfamilyday}
 --------------------
 
-So my last day involved demoing our capstone projects to everybody’s
+So my last day involved demoing our capstone projects to everybody's
 friends and families. My brother, Tío, and Tía were able to attend.
 
 \[instagram url=https://instagram.com/p/63Rvp7wGZx/\]
 
 > A few of the Summer of Code students saying goodbye to my learning
-> team fellow, Jimmy. If it isn’t obvious already, he went to UT Austin.
+> team fellow, Jimmy. If it isn't obvious already, he went to UT Austin.
 > :P
 
-Saying goodbye is unpleasant so I just didn’t for the most part with
-most people. The circumstances were also slightly tricky with everyone’s
+Saying goodbye is unpleasant so I just didn't for the most part with
+most people. The circumstances were also slightly tricky with everyone's
 relatives being around and all.
 
 My folks went back only slightly earlier before me and headed to China
@@ -109,19 +109,19 @@ Going Back Home {#goingbackhome}
 
 My bus ride home with my brother was early the next morning.
 
-I didn’t really get any rest with the noise so that was kind of dreary,
+I didn't really get any rest with the noise so that was kind of dreary,
 but during the ride, my next interview was scheduled with Apple Retail
 for Friday so I was happy. Also, the fact that I was greeted by my dog,
-Nefer, and my mom’s sweet iced tea didn’t hurt either.
+Nefer, and my mom's sweet iced tea didn't hurt either.
 
-On Friday, I’d also be starting my course ‘Design 101’ on
+On Friday, I'd also be starting my course ‘Design 101' on
 [Designlab](https://trydesignlab.com/ "Designlab").
 
-Friday comes and the course gets me all excited. I’m able to access the
-course a few hours before the interview. I’m even starting to write
+Friday comes and the course gets me all excited. I'm able to access the
+course a few hours before the interview. I'm even starting to write
 about my experience with the course in a separate post.
 
-It’s Sunday now and the first class of my last undergrad semester starts
+It's Sunday now and the first class of my last undergrad semester starts
 tomorrow at 10 am.
 
 Should be interesting.
@@ -144,21 +144,21 @@ loathe cash.
 
 ![Fullstack Spending](https://i.imgur.com/AIvCgHE.png)
 
-Now, it’s pretty easy to figure out that with my `$9,500` tuition cost,
+Now, it's pretty easy to figure out that with my `$9,500` tuition cost,
 which is included in the graph above, I spent `$14,220.45` in total
 while in New York for Fullstack Academy from June 8th to August 26th.
 
 ### Pricey!
 
-**HOWEVER**, this total amount of spending doesn’t account for impulsive
-buys, silly mistakes (*like buying an extra Metro Card when I couldn’t
+**HOWEVER**, this total amount of spending doesn't account for impulsive
+buys, silly mistakes (*like buying an extra Metro Card when I couldn't
 find my other one and then finding the old one later*), and birthday
 gifts (*I try to spoil my family*).
 
-So, I’d say realistically I spent more like `$3,500` on external
+So, I'd say realistically I spent more like `$3,500` on external
 expenses.
 
-> All I can say is that I’m glad I’m not taking that many credits this
+> All I can say is that I'm glad I'm not taking that many credits this
 > semester so I can take on a part-time job. Wooweee..
 
 ------------------------------------------------------------------------
@@ -182,14 +182,14 @@ Fullstack was 9:30 am to 6:30 pm Monday through Friday. **Roughly** 50
 days, 9 hours a day. This totals to \~450 hours, not including time
 spent outside of class.
 
-If that’s not an immersive experience, I don’t know what is.
+If that's not an immersive experience, I don't know what is.
 
 ------------------------------------------------------------------------
 
-At the end of the day, I’m really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye-opening pair programming sessions, and the amazingly bright people. {#attheendofthedayimreallygratefuliwasabletoenjoyeverythingfullstackacademyhastoofferfromladieslunchesmylearningteamlaughseyeopeningpairprogrammingsessionsandtheawesomepeople.}
+At the end of the day, I'm really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye-opening pair programming sessions, and the amazingly bright people. {#attheendofthedayimreallygratefuliwasabletoenjoyeverythingfullstackacademyhastoofferfromladieslunchesmylearningteamlaughseyeopeningpairprogrammingsessionsandtheawesomepeople.}
 ===============================================================================================================================================================================================================================
 
-> It’s been real (awesome).
+> It's been real (awesome).
 
 ------------------------------------------------------------------------
 

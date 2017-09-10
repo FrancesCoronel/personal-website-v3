@@ -1,5 +1,5 @@
 ---
-title: "My Cups of Tea - 2013"
+title: "My Cups of Tea - 2013 ☕"
 date: 2013-09-14
 excerpt: "My primary interests for the year 2013."
 header:
@@ -27,27 +27,19 @@ tags:
 ---
 
 1. Artificial Intelligence
---------------------------
-
--   Chat Development
--   Python/iOS
--   KinectX
--   Presentation Software
--   Hacking
--   Sharing
-
+    - Chat Development
+    - Python/iOS
+    - KinectX
+    - Presentation Software
+    - Hacking
+    - Sharing
 2. Film
--------
-
--   Cinema4D
--   Adobe Premiere Pro
--   Adobe After Effects
--   Final Cut Pro X
--   Motion
-
+    - Cinema4D
+    - Adobe Premiere Pro
+    - Adobe After Effects
+    - Final Cut Pro X
+    - Motion
 3. Writing
-----------
-
--   Blogging
--   Personal journal
--   Short stories
+    - Blogging
+    - Personal journal
+    - Short stories

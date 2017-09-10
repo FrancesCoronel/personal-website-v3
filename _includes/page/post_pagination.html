@@ -4,12 +4,12 @@
         {% if page.previous %}
         <a href="{{ page.previous.url | absolute_url }}" class="pagination--pager" title="{{ page.previous.title | markdownify | strip_html }}"><i class="fa fa-arrow-left"></i> {{ page.previous.title | markdownify | strip_html }}</a>
         {% else %}
-        <a href="#" class="pagination--pager disabled"><i class="fa fa-arrow-left"></i>{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+        <a href="#" class="pagination--pager disabled"><i class="fa fa-arrow-left"></i>{{ site.data.ui-text[site.locale].pagination_previous }}</a>
         {% endif %}
         {% if page.next %}
         <a href="{{ page.next.url | absolute_url }}" class="pagination--pager" title="{{ page.next.title | markdownify | strip_html }}">{{ page.next.title | markdownify | strip_html }} <i class="fa fa-arrow-right"></i> </a>
         {% else %}
-        <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }} <i class="fa fa-arrow-right"></i> </a>
+        <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next }} <i class="fa fa-arrow-right"></i> </a>
         {% endif %}
     </nav>
 </section>

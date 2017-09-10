@@ -21,14 +21,14 @@ tags:
     - video games
 ---
 
-So in case you haven't heard of it yet, "[Don’t
+So in case you haven't heard of it yet, "[Don't
 Starve](https://www.dontstarvegame.com)" is this awesome Indie game that
 came out late April of last year.
 
-A year into its inception, I gotta say that I’m really glad how amazing
-it’s turned out - high aggregate and review scores - and they’ve
+A year into its inception, I gotta say that I'm really glad how amazing
+it's turned out - high aggregate and review scores - and they've
 recently added their first paid downloadable content expansion called
-"Don’t Starve: Reign of Giants", which basically added a bunch of new
+"Don't Starve: Reign of Giants", which basically added a bunch of new
 monsters (giants, perhaps?) and territory to discover and be terrorized
 by.
 
@@ -41,7 +41,7 @@ Screenshot from gameplay\[/caption\]
 
 I think the first time I saw this game back in June last year, I was
 kind of hesitant. The
-[trailer](https://www.youtube.com/watch?v=W689SOpXG9o) didn’t really
+[trailer](https://www.youtube.com/watch?v=W689SOpXG9o) didn't really
 impress me that much and it looked like I was just going to be walking
 around a lot and not divulging in as much excitement as I would like.
 
@@ -52,35 +52,35 @@ gameplay to create that creepy atmosphere that makes the game so
 special.
 
 Any whoozies, once I got into the game, I found that I was genuinely
-scared for my character’s (Wilson) livelihood. And that was amazing! To
+scared for my character's (Wilson) livelihood. And that was amazing! To
 feel emotionally connected to any character in the game is a win-win,
 right? The gamer feels the adrenaline pumping through their body and the
 developer can be satisfied knowing that the gamer really was entertained
-and moved. And what with Wilson’s famous
-[beard](https://dont-starve-game.wikia.com/wiki/Beard), it’s hard NOT to
+and moved. And what with Wilson's famous
+[beard](https://dont-starve-game.wikia.com/wiki/Beard), it's hard NOT to
 like the guy.
 
-In the game, for example, there’s a clock that will alert you as to when
+In the game, for example, there's a clock that will alert you as to when
 it is the morning, afternoon, evening, and then midnight (there are even
-seasons), which is the darkest hour and you basically can’t see crap.
+seasons), which is the darkest hour and you basically can't see crap.
 AND you will come to realize that in the game, things definitely go bump
-in the night, if you know what I’m mean.
+in the night, if you know what I'm mean.
 
-There’s also different structures and magical tools you can construct
+There's also different structures and magical tools you can construct
 with the proper amount of material. Build a house or fortress, create a
 magical dark sword, cook a wonderful [meat
 soufflé](https://dont-starve-game.wikia.com/wiki/Meat) (something along
-those lines). It’s really your call, which converts to many fun hours of
+those lines). It's really your call, which converts to many fun hours of
 random gameplay.
 
 My first time playing the game, I thought I was all good. I mean, I got
 my food, my materials - everything was JUST dandy. BUT then I realized
-oh wait, it’s getting close to midnight, what does that mean?! It means
-I friggin’ died just because a stupid spider killed me when I couldn’t
+oh wait, it's getting close to midnight, what does that mean?! It means
+I friggin' died just because a stupid spider killed me when I couldn't
 see anything but pure pitch darkness.
 
-Be prepared to die in this game, a lot. Unless you’re really into
-survival games. Then you’re probably just going to die a few times.
+Be prepared to die in this game, a lot. Unless you're really into
+survival games. Then you're probably just going to die a few times.
 
 [![frankenweenie\_by\_9emiliecharlie9-d5hszqu](https://fvcproductions.files.wordpress.com/2014/05/frankenweenie_by_9emiliecharlie9-d5hszqu.png){.aligncenter
 .size-full .wp-image-442 width="696"
@@ -88,18 +88,18 @@ height="453"}](https://fvcproductions.files.wordpress.com/2014/05/frankenweenie_
 
 For a game that looks like something pulled out of Frankenweenie (the
 developers were inspired by Tim Burton after all) , they make sure to be
-consistently in touch with reality - you’ll get hungry pretty fast, you
-can become insane (and I mean who wouldn’t if they were stuck in the
-wilderness with all these [f’ed up
+consistently in touch with reality - you'll get hungry pretty fast, you
+can become insane (and I mean who wouldn't if they were stuck in the
+wilderness with all these [f'ed up
 creatures](https://dont-starve-game.wikia.com/wiki/Monsters)?), you can
-get sick, and so on. By the way, if you’re going to look at how the
-monsters look like, consider yourself spoiled because it’s much better
+get sick, and so on. By the way, if you're going to look at how the
+monsters look like, consider yourself spoiled because it's much better
 to have them scare you in real time.
 
 Regardless, even the constant string of deaths, which are actually
 preventable with the [right
 ingredients](https://dont-starve-game.wikia.com/wiki/Meat_Effigy),
-couldn’t stop my utter fascination with the overall ominous ambiance of
+couldn't stop my utter fascination with the overall ominous ambiance of
 the game. I mean, not only does it take a long time to just discover
 everything the game has to offer with the multiple characters, adventure
 mode, story mode, all the sweet monsters and the strange societies they
@@ -115,14 +115,14 @@ have you.
 ![wilsondrinksteabycrispyjelly-2](https://fvcproductions.files.wordpress.com/2014/05/wilsondrinksteabycrispyjelly-2.gif){.size-full
 .wp-image-507 .aligncenter width="48" height="80"}
 
-Also, it doesn’t hurt that the game has awesome fanart. Check it out.
+Also, it doesn't hurt that the game has awesome fanart. Check it out.
 
 \[gallery type="circle" size="full" ids="440,437,1945,1947,1948,1949"
 orderby="rand"\]
 
-Isn’t Wilson just downright adorable?
+Isn't Wilson just downright adorable?
 
-If you’re interested, you can find a lot more of ["Don’t Starve" fan
+If you're interested, you can find a lot more of ["Don't Starve" fan
 art](https://www.dontstarvegame.com/fan-art) at the gallery featured on
 their website. They even feature a cute little [Wilson crochet
 doll](https://www.facebook.com/photo.php?fbid=240025272807318&set=pb.102177486592098.-2207520000.1399074073.&type=3&theater)!
@@ -131,10 +131,10 @@ doll](https://www.facebook.com/photo.php?fbid=240025272807318&set=pb.10217748659
 .size-full .wp-image-439 width="602"
 height="401"}](https://fvcproductions.files.wordpress.com/2014/05/1008247_544492965589213_1379285285_o.jpg)
 
-There’s many ways to play this game and so there are many ways to fall
+There's many ways to play this game and so there are many ways to fall
 in love with it.
 
-Indeed, I’ll be starving today once again. Cheers.
+Indeed, I'll be starving today once again. Cheers.
 
 [![post-7347-13764590855412](https://fvcproductions.files.wordpress.com/2014/05/post-7347-13764590855412.gif){.size-full
 .wp-image-508 .aligncenter width="106"

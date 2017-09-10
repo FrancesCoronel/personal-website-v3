@@ -16,8 +16,8 @@ tags:
     - tech diversity
 ---
 
-> AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries. By highlighting the powerful voices and positive initiatives of local community members, we build hope and strengthen the community’s resolve to create safer spaces for everyone.
-> This conference was held at Microsoft’s headquarters in New York City at 11 Times Square on December 10th, 2016 from 10 am to 5 pm.
+> AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries. By highlighting the powerful voices and positive initiatives of local community members, we build hope and strengthen the community's resolve to create safer spaces for everyone.
+> This conference was held at Microsoft's headquarters in New York City at 11 Times Square on December 10th, 2016 from 10 am to 5 pm.
 
 <blockquote class="embedly-card"><h4><a href="https://www.instagram.com/p/BN1yrxFARXT/">About to give my talk on hacking harassment - the internet is for everyone at #MicrosoftNYC for #AlterConf</a></h4><p>12 Likes, 2 Comments - Alexandra Bowen (Brower) (@alexshmoopie) on Instagram: "About to give my talk on hacking harassment - the internet is for everyone at #MicrosoftNYC for..."</p></blockquote>
 
@@ -49,9 +49,9 @@ Danielle, a marketing specialist at MongoDB and an avid shipper of diversity ini
 
 #### [Christina González](https://medium.com/@c_gonzalez), @c_gonzalez
 
-The global Internet audience has been steadily changing over time. The structure of the Internet itself, however, has been slower to catch up. Internationalized Domain Names (IDNs), which utilize non-Latin alphabets and diacritic marks, were proposed in the mid-90’s, but not realized until 2010. Even now, not all services play nicely with them. In a country and a world where the Internet can serve as a lifeline to learning tools, as well as opportunity, access must go beyond simply connecting to the Internet.
+The global Internet audience has been steadily changing over time. The structure of the Internet itself, however, has been slower to catch up. Internationalized Domain Names (IDNs), which utilize non-Latin alphabets and diacritic marks, were proposed in the mid-90's, but not realized until 2010. Even now, not all services play nicely with them. In a country and a world where the Internet can serve as a lifeline to learning tools, as well as opportunity, access must go beyond simply connecting to the Internet.
 
-While changes are coming, there is still widespread inconsistency in how user-friendly to non-English speakers some of the country’s, and sometimes the world’s, most popular sites and services are. There may be top trending hash tags worldwide on Twitter in Arabic, but user names must be in Latin characters. There’s a disconnect between the creators of services and spaces and today’s current and potential audiences.
+While changes are coming, there is still widespread inconsistency in how user-friendly to non-English speakers some of the country's, and sometimes the world's, most popular sites and services are. There may be top trending hash tags worldwide on Twitter in Arabic, but user names must be in Latin characters. There's a disconnect between the creators of services and spaces and today's current and potential audiences.
 
 Christina addresses this from a personal perspective (Do you really need that accent on your name?) to a wider one, points out some of these inconsistencies, and talks about possible solutions.
 
@@ -63,9 +63,9 @@ Christina addresses this from a personal perspective (Do you really need that ac
 
 #### **Alexandra Bowen**, [@AlexandraABowen](https://twitter.com/AlexandraABowen)
 
-Alexandra doesn’t want to let trolls define your experiences in work, in your communities and in your projects. If you’ve ever had to deal with an intellectual bully in an online community, on a project, or social media, you know that it’s one of the most unpleasant aspects of the Internet.
+Alexandra doesn't want to let trolls define your experiences in work, in your communities and in your projects. If you've ever had to deal with an intellectual bully in an online community, on a project, or social media, you know that it's one of the most unpleasant aspects of the Internet.
 
-An intellectual bully may be adding value, but is mostly condescending, rude and aggressive. Toxic users shouldn’t have to define your online community.
+An intellectual bully may be adding value, but is mostly condescending, rude and aggressive. Toxic users shouldn't have to define your online community.
 
 So do you want a "death star" or "rock star" community member? Alexandra expands on how to create inclusive experiences online.
 
@@ -105,15 +105,15 @@ It was great to see the sponsors involved from some great companies. The officia
 
 #### **Aditya Mukerjee**, [@chimeracoder](https://twitter.com/chimeracoder)
 
-In *The Hitchhikers’s Guide to the Galaxy*, the Babel Fish is a universal translator. By allowing all beings to communicate regardless of language, it "neatly crosses the language divide between any species".
+In *The Hitchhikers's Guide to the Galaxy*, the Babel Fish is a universal translator. By allowing all beings to communicate regardless of language, it "neatly crosses the language divide between any species".
 
 Most programming languages are designed for English speakers. Programming language keywords are usually in English, and programmers must understand a basic amount of English in order to collaborate with others on open-source projects written in those languages.
 
-But does this need to be the case? Could we create a truly multilingual programming language — one that can be localized, so any developer only ever reads or writes code using their native language, all while maintaining interoperability with code written by developers who speak a different language? And how would we create a multilingual programming language community, allowing developers to collaborate on open-source projects even when they don’t speak the same (human) language?
+But does this need to be the case? Could we create a truly multilingual programming language — one that can be localized, so any developer only ever reads or writes code using their native language, all while maintaining interoperability with code written by developers who speak a different language? And how would we create a multilingual programming language community, allowing developers to collaborate on open-source projects even when they don't speak the same (human) language?
 
 Aditya looks at an example of a localized programming language: করো (*koro*), which localizes the Go programming language into Bengali and expands on how this could be extended to other languages as well.
 
-He also talks about the steps to making open-source projects fully multilingual so that developers who only speak English can collaborate seamlessly with developers who don’t speak English at all.
+He also talks about the steps to making open-source projects fully multilingual so that developers who only speak English can collaborate seamlessly with developers who don't speak English at all.
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/SarahEJudd/status/807642859444715521">Sarah Judd on Twitter</a></h4><p>The only thing worse than a cryptic error message, is one in a foreign language you don't understand." @chimeracoder #alterconf</p></blockquote>
 
@@ -123,7 +123,7 @@ He also talks about the steps to making open-source projects fully multilingual 
 
 ---
 
-### **HOW TO BE BOSS WHEN YOU’RE NOT THE BOSS: EFFECTIVE LEADERSHIP STRATEGIES FOR EVERYONE!**
+### **HOW TO BE BOSS WHEN YOU'RE NOT THE BOSS: EFFECTIVE LEADERSHIP STRATEGIES FOR EVERYONE!**
 
 #### **Natali Wachtman Perilo**, [@NataliJewel](https://twitter.com/NataliJewel)
 
@@ -137,7 +137,7 @@ Natalie uses applied behavioral science strategies to understand why people do t
 
 ---
 
-### **IT’S NOT LIT: STRATEGIES FOR EXPOSING AND ELIMINATING CULTURAL APPROPRIATION IN MARKETING**
+### **IT'S NOT LIT: STRATEGIES FOR EXPOSING AND ELIMINATING CULTURAL APPROPRIATION IN MARKETING**
 
 #### **Candace Williams**, [@teacherc](https://twitter.com/teacherc)
 
@@ -159,7 +159,7 @@ In this talk, Candace identifies examples of this issue and leads a brainstormin
 
 #### **Jameson Hampton**, [@jameybash](https://twitter.com/jameybash)
 
-Microaggressions. You know, the slights that sting but seem so small that you feel like you’re overreacting, even though they become more and more hurtful the more (dozens of) times you hear them?
+Microaggressions. You know, the slights that sting but seem so small that you feel like you're overreacting, even though they become more and more hurtful the more (dozens of) times you hear them?
 
 This talk will make visible the microaggressions too regularly lobbed at non-binary people in tech, discuss how to combat them, and what self-care we can employ when on the receiving end.
 
@@ -173,7 +173,7 @@ This talk will make visible the microaggressions too regularly lobbed at non-bin
 
 #### **Neem Serra**, [@teamneem](https://twitter.com/teamneem)
 
-Unconscious biases affect our perceptions, decisions, and interactions every day. How do we address biases if we don’t know about them?
+Unconscious biases affect our perceptions, decisions, and interactions every day. How do we address biases if we don't know about them?
 
 In this talk, Neem talks about how to recognize and counter the biases that play a part in interviewing, creating a product, and day-to-day interactions. She goes in depth on biases beyond sexism and racism and hopes to help the world become a more magical place!
 
@@ -191,7 +191,7 @@ Chatbots are re-emerging as a technology that can be used to automate businesses
 
 In her talk, Conversational Designer, Lauren will be diving into the exciting opportunities personal chatbots bring individuals, and how she believes they will ultimately make our lives better.
 
-She’ll also be discussing Ghostbot for Burner, a chatbot she designed that aims to make dating better for those that receive harassment while online dating.
+She'll also be discussing Ghostbot for Burner, a chatbot she designed that aims to make dating better for those that receive harassment while online dating.
 
 ❗ **Trigger Warnings:** Lauren will be discussing online sexual harassment in this talk, but she does not cite any specific examples. She will also be calling out sources where users can seek out examples of harassment that are vulgar and sometimes violent, but will only reference the source and give me warnings as to what can be found there. She will also be discussing how harassment affects women and other marginalized groups online and will cite some statistics around that concept.
 
@@ -247,7 +247,7 @@ We live in a historical period where many traditional binaries are breaking down
 
 Incredible Witness seeks to encourage this disintegration, and find ways of learning to accept each other fully, beyond the categories.
 
-In the Incredible Witness laboratory, they invite people into unusual perceptual worlds to bring home viscerally how different each person’s experience of the world can be, using games and game-based environments. The talk will review the results of their participatory experiments and point to future activities.
+In the Incredible Witness laboratory, they invite people into unusual perceptual worlds to bring home viscerally how different each person's experience of the world can be, using games and game-based environments. The talk will review the results of their participatory experiments and point to future activities.
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/SignyTheSage/status/807697153225355265">❄ Signý ❄ on Twitter</a></h4><p>Presentation on using games to show how different ways of seeing/being in the world are. Love this idea! #alterconf</p></blockquote>
 
@@ -257,11 +257,11 @@ In the Incredible Witness laboratory, they invite people into unusual perceptual
 
 #### **Lizzie Siegle**, [@lizziepika](https://twitter.com/lizziepika)
 
-Though both diversity and inclusion are important, it’s not enough to be in the room where it happens, which is like diversity. You want both the Adams Administration as well as Washington on your side, which is like inclusion. The latter breeds the former because even on a diverse team, you could still be uncomfortable and helpless.
+Though both diversity and inclusion are important, it's not enough to be in the room where it happens, which is like diversity. You want both the Adams Administration as well as Washington on your side, which is like inclusion. The latter breeds the former because even on a diverse team, you could still be uncomfortable and helpless.
 
 After attending and speaking at tech Meetups and conferences on both American coasts, Lizzie realized that companies should initially focus on inclusion, which will in turn lead to diversity. Lizzie realized that the diversity initiatives were successful because of the empowering and supportive atmosphere and that that same atmosphere is also obtained through inclusion and not necessarily diversity.
 
-So what’s the difference between the two? Lizzie uses Hamilton lyrics to go over similarities, differences, and the importance of both.
+So what's the difference between the two? Lizzie uses Hamilton lyrics to go over similarities, differences, and the importance of both.
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/SeanMHanson/status/807701752430661632">babashookt trolley on Twitter</a></h4><p>Eat, Sleep, Code" is an unhealthy and unreasonable attitude for CS students and engineers alike @lizziepika #Alterconf</p></blockquote>
 

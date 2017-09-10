@@ -31,10 +31,10 @@ Again, you can find the Google Map at [bit.ly/bootcampme](https://bit.ly/bootcam
 
 As of right now, there are exactly [165 distinct
 bootcamps](https://bit.ly/bootcamps-to-add "Bootcamp Directory") on the
-map, which is *pretty* awesome. I mean, it’s only been 3 years and
-there’s already so many! Says a lot.
+map, which is *pretty* awesome. I mean, it's only been 3 years and
+there's already so many! Says a lot.
 
-It’s also really cool seeing where they are popping up, which is
+It's also really cool seeing where they are popping up, which is
 practically **everywhere**, but there are definitely some clusters here
 and there.
 
@@ -43,8 +43,8 @@ crowdsourced version of the map using
 [Mapme](https://mapme.com "Map.me"), an Israel based startup that allows
 users to develop - surprise, surprise - crowdsourced maps.
 
-> I’m actually having trouble embedding the map onto Wordpress, so for
-> the time being, I’m just going to provide a picture.
+> I'm actually having trouble embedding the map onto Wordpress, so for
+> the time being, I'm just going to provide a picture.
 
 \[caption width="" align="aligncenter"\][![Mapme | Coding
 Bootcamps](https://fvcproductions.files.wordpress.com/2015/05/codingbootcamps.png)](https://fvcproductions.files.wordpress.com/2015/05/codingbootcamps.png)
@@ -53,17 +53,17 @@ Mapme | Coding Bootcamps\[/caption\]
 You can find this work in progress at [mapme.com/coding-bootcamps](https://mapme.com/coding-bootcamps "Mapme | Coding Bootcamps").
 ---------------------------------
 
-This is partly because I know I’m not going to be able to update this
+This is partly because I know I'm not going to be able to update this
 project at some point in the future due to other priorities so better to
 have it updated constantly by everybody instead of me alone.
 
-Now I’m not **completely** switching over to this map quite yet. Mapme
-is still a work in progress being a startup themselves so the app isn’t
-quite refined yet. It’s nice, however, that I was able to get early
-access. It’s obvious they’re dedicated to quality over quantity right
+Now I'm not **completely** switching over to this map quite yet. Mapme
+is still a work in progress being a startup themselves so the app isn't
+quite refined yet. It's nice, however, that I was able to get early
+access. It's obvious they're dedicated to quality over quantity right
 now.
 
-**For the time being**, I’ll be adding on to the crowdsourced map
+**For the time being**, I'll be adding on to the crowdsourced map
 **gradually** (I have a lot going on with [Fullstack
 Academy](https://fullstackacademy.com "Fullstack Academy") right now),
 but the Google Map will still act as the main reference, even if it does

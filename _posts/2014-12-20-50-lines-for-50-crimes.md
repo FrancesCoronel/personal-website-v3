@@ -41,14 +41,14 @@ tags:
 13. I suppose it's ideal you're ageless, otherwise the only feeling
     indeed you'd be feeling for me is a sort of hatred.
 14. I guess I can try my hand at scaring little babies.
-15. All I’ve got to do is repeat the number 50.
+15. All I've got to do is repeat the number 50.
 16. Scaring 50 little babies.
 17. I kid of course, if love is what you desire, I care not to inquire.
 18. Just remember to calm the fire, or it dare burn brighter and
     brighter, consuming all that ever once transpired.
-19. Besides I’d much rather have my own private jet.
+19. Besides I'd much rather have my own private jet.
 20. Ignoring my reply, you turn to yourself.
-21. Never let yourself down, that’s what the mind is for.
+21. Never let yourself down, that's what the mind is for.
 22. So take all the jewels you own, for soon we will end up being
     ninety.
 23. Take them, take them all.
@@ -57,22 +57,22 @@ tags:
 26. This time, I turn to myself, and I say.
 27. I say.
 28. I say absolutely nothing at all.
-29. There’s just a smile with a nod.
+29. There's just a smile with a nod.
 30. The game after all has just begun.
 31. You want to throw up after the cliche, ease the growing pain.
-32. "*Don’t fight it, don't.*", I say.
-33. "*Don’t fight it, you say?*", you say.
+32. "*Don't fight it, don't.*", I say.
+33. "*Don't fight it, you say?*", you say.
 34. "*No.*
 35. *For if you do, the pain will never go away.*
 36. *One must after all cleanse the body to cleanse the brain.*"
 37. "*You think you know everything, do you - you might as well study
     tooth decay!*"
-38. "*You have a point, dear buddy of mine, but as I’ve mentioned
-    before, I’d rather be exploring on my private jet the vastly
+38. "*You have a point, dear buddy of mine, but as I've mentioned
+    before, I'd rather be exploring on my private jet the vastly
     multiple planets of our vastly wonderful Milky Way!*"
-39. At this point, I’ve come to understand finally the entire reasoning
+39. At this point, I've come to understand finally the entire reasoning
     behind this short lived school day.
-40. I’ve come to comfort a friend, help her out in any way.
+40. I've come to comfort a friend, help her out in any way.
 41. 50 lines for 50 crimes.
 42. *Buddy*, can you read between the lines?
 43. But the point is, silly, that wherever I decide to go, I'll be

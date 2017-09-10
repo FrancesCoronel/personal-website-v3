@@ -87,7 +87,7 @@ Or just [create an issue](https://github.com/fvcproductions/fvcproductions.githu
 ## Contact
 
 - [FVCproductions](https://fvcproductions.com) 🍓🍫
-    - Twitter [@fvcproductions](https://twitter.com/fvcproductions)
+  - Twitter [@fvcproductions](https://twitter.com/fvcproductions)
 
 ## Acknowledgements
 
