@@ -1,5 +1,5 @@
 <figure id="lightgallery" class="{{ include.class }}">
-    <a href="{{ include.url }}" {% if include.alt %}title="{{ include.alt }}"{% endif %}>
+    <a href="{% if include.ext_link %}{{ include.ext_link }}{% else %}{{ include.url }}{% endif %}" {% if include.alt %}title="{{ include.alt }}"{% endif %}>
         <img src="{{ include.url }}" alt="{% if include.alt %}{{ include.alt }}{% endif %}">
     </a>
 </figure>

@@ -44,6 +44,6 @@ Feel free to view the progress of my new blog at [fvcproductions.github.io](http
 
 ## Overall, I'm super excited about this process and have been actively working on my new website the entirety of this past week. Here's to new beginnings! 🎉
 
-![A Toast](https://fvcproductions.files.wordpress.com/2017/03/source.gif)
+{% include figure url='https://fvcproductions.files.wordpress.com/2017/03/source.gif' alt='The Great Gatsby Toast' %}
 
 > The header image is in reference to that awesome migration Monarch butterflies have every year. 🦋

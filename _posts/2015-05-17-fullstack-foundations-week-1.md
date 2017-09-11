@@ -82,34 +82,34 @@ The **Jubilant** Journey I Took Into the Cave of Digital Hieroglyphics {#thejour
 ----------------------------------------------------------------------
 
 - [The Search
-    🔍](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
-- [The Application 📝](https://fvcproductions.com/2014/12/23/week-20/)
+    🔍](https://fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
+- [The Application 📝](https://fvcproductions.com/blog/2014/12/23/week-20/)
 - [The Preparation
-    📚](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/)
+    📚](https://fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/)
 - [The Interview
-    💻](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/)
+    💻](https://fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/)
 - [The Decision
-    ⏳](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/)
+    ⏳](https://fvcproductions.com/blog/2015/04/13/what-to-do-week-negative-8/)
 - [Fullstack Foundations - Week 1
-    ⚡️](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/)
+    ⚡️](https://fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/)
 - [Fullstack Foundations - Weeks 2 to 4
-    🚀](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/)
+    🚀](https://fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/)
 - [Fullstack Academy - Week 1
-    💫](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/)
+    💫](https://fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/)
 - [Fullstack Academy - Week 2
-    👬](https://fvcproductions.com/2015/06/20/fullstack-academy-week-2/)
+    👬](https://fvcproductions.com/blog/2015/06/20/fullstack-academy-week-2/)
 - [Fullstack Academy - Week 3
-    🔦🔦🔦](https://fvcproductions.com/2015/06/26/fullstack-academy-week-3/)
+    🔦🔦🔦](https://fvcproductions.com/blog/2015/06/26/fullstack-academy-week-3/)
 - [Fullstack Academy - Week 4
-    💲🔮🔮💲](https://fvcproductions.com/2015/07/03/fullstack-academy-week-4/)
+    💲🔮🔮💲](https://fvcproductions.com/blog/2015/07/03/fullstack-academy-week-4/)
 - [Fullstack Academy - Week 5
-    💕💓💕](https://fvcproductions.com/2015/07/11/fullstack-academy-week-5/)
+    💕💓💕](https://fvcproductions.com/blog/2015/07/11/fullstack-academy-week-5/)
 - [Fullstack Academy - Week 6 and Review Week
-    🃏🃏🃏🃏🃏🃏](https://fvcproductions.com/2015/07/25/fullstack-academy-week-6-review-week/)
+    🃏🃏🃏🃏🃏🃏](https://fvcproductions.com/blog/2015/07/25/fullstack-academy-week-6-review-week/)
 - [ONE WEEK OF FULLSTACK LEFT
-    😲](https://fvcproductions.com/2015/08/19/one-week-left-of-fullstack/)
+    😲](https://fvcproductions.com/blog/2015/08/19/one-week-left-of-fullstack/)
 - [Fullstack Academy |
-    Reflections](https://fvcproductions.com/2015/08/30/fullstack-academy-reflections/)
+    Reflections](https://fvcproductions.com/blog/2015/08/30/fullstack-academy-reflections/)
     🕝
 
 ------------------------------------------------------------------------

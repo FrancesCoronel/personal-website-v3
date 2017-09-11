@@ -73,7 +73,7 @@ height="393"}](https://screenshots.en.sftcdn.net/en/scrn/69659000/69659920/dont-
 2\) [**Don't Starve**](https://www.dontstarvegame.com) - 💀 Mac
 
 > I wrote a
-> [review](https://fvcproductions.com/2014/05/02/a-review-of-dont-starve/)
+> [review](https://fvcproductions.com/blog/2014/05/02/a-review-of-dont-starve/)
 > of this little guy!
 
 ------------------------------------------------------------------------
@@ -85,7 +85,7 @@ width="600" height="279"}
 
 > Can't wait till Inside comes out - cause Limbo was friggin'
 > awesommmeeee! I also wrote a
-> [review](https://fvcproductions.com/2014/09/22/limbo-review/) on this
+> [review](https://fvcproductions.com/blog/2014/09/22/limbo-review/) on this
 > game too because it was friggin' amazinnnngggg!!!
 
 ------------------------------------------------------------------------

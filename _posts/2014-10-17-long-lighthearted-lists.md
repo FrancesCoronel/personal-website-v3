@@ -129,7 +129,7 @@ height="300"}](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
             nice - it's ridiculous. I did not feel nervous at all during
             the whole process. You can see more about my Bitmaker
             experience
-            [here](https://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs").
+            [here](https://fvcproductions.com/blog/2014/03/12/bitmaker-labs/ "Bitmaker Labs").
     - [Code Fellows](https://www.codefellows.org/ "Code Fellows") -
         Seattle, Washington
         -   I applied for the Front-End Design & Development class in
@@ -180,6 +180,6 @@ height="300"}](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
     Intelligence
     (AAAI)](https://www.aaai.org/Conferences/AAAI/aaai15.php) - I ended
     up doing just that! You can find more about that experience
-    [here](https://fvcproductions.com/2015/01/30/adventures-with-aaai-2015/ "Adventures with AAAI").
+    [here](https://fvcproductions.com/blog/2015/01/30/adventures-with-aaai-2015/ "Adventures with AAAI").
 
 ------------------------------------------------------------------------

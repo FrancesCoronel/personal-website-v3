@@ -100,7 +100,7 @@ My Mentor {#section-mentor}
 width="750"\][![Designlab -
 Mentor](https://fvcproductions.files.wordpress.com/2015/10/designlab-mentor.png){.size-full
 .wp-image-3119 width="750"
-height="425"}](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-mentor-2/)
+height="425"}](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-mentor-2/)
 Designlab - Mentor\[/caption\]
 
 [My mentor,
@@ -129,7 +129,7 @@ The Lessons {#section-lessons}
 width="750"\][![Designlab - Week
 1](https://fvcproductions.files.wordpress.com/2015/10/designlab-week1.png){.size-full
 .wp-image-3118 width="750"
-height="429"}](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-week1/)
+height="429"}](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-week1/)
 Designlab - Week 1\[/caption\]
 
 These are already on their website, but I will share again here.
@@ -164,7 +164,7 @@ as well.
 width="750"\][![Designlab -
 Profile](https://fvcproductions.files.wordpress.com/2015/10/designlab-profile.png){.size-full
 .wp-image-3114 width="750"
-height="542"}](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-profile-2/)
+height="542"}](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-profile-2/)
 Designlab - Profile\[/caption\]
 
 The Difference {#section-difference}
@@ -182,7 +182,7 @@ nonetheless, they were **very** well selected.
 width="750"\][![Designlab -
 Discussion](https://fvcproductions.files.wordpress.com/2015/10/designlab-discussion.png){.size-full
 .wp-image-3109 width="750"
-height="429"}](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-discussion-2/)
+height="429"}](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-discussion-2/)
 Designlab - Discussion\[/caption\]
 
 The Aftermath {#section-aftermath}
@@ -192,7 +192,7 @@ The Aftermath {#section-aftermath}
 width="750"\][![Designlab - Course
 Completion](https://fvcproductions.files.wordpress.com/2015/10/designlab-course-summary.png){.size-full
 .wp-image-3120 width="750"
-height="416"}](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-course-summary/)
+height="416"}](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-course-summary/)
 Designlab - Course Completion\[/caption\]
 
 Upon course completion, I received a [nice online

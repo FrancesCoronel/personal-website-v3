@@ -81,21 +81,21 @@ Day Five - Friday
 > So Far
 
 - [The
-    Search](https://fvcproductions.com/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
+    Search](https://fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
 - [The
-    Application](https://fvcproductions.com/2014/12/23/week-20/ "The Application")
+    Application](https://fvcproductions.com/blog/2014/12/23/week-20/ "The Application")
 - [The
-    Preparation](https://fvcproductions.com/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
+    Preparation](https://fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
 - [The
-    Interview](https://fvcproductions.com/2014/12/28/interview-fullstack-academy/ "The Interview")
+    Interview](https://fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/ "The Interview")
 - [The
-    Decision](https://fvcproductions.com/2015/04/13/what-to-do-week-negative-8/ "The Decision")
+    Decision](https://fvcproductions.com/blog/2015/04/13/what-to-do-week-negative-8/ "The Decision")
 - [Fullstack Foundations - Week
-    1](https://fvcproductions.com/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
+    1](https://fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
 - [Fullstack Foundations - Weeks 2 -
-    4](https://fvcproductions.com/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
+    4](https://fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
 - [Fullstack Academy - Week
-    1](https://fvcproductions.com/2015/06/13/first-week-at-fullstack-academy/ "Fullstack Academy - Week 1")
+    1](https://fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/ "Fullstack Academy - Week 1")
 
 > *Tips or tricks?* :idea:
 >

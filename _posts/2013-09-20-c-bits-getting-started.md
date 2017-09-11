@@ -28,7 +28,7 @@ The obvious solution of course was to use GitHub – git it?!
 
 Any who, here I will provide the questions and then you can go to the necessary GitHub repository that I uploaded and download the program files - yay! :D
 
-The also include the question as a comment on top and can be found on my GitHub.
+The solutions that also include the question as a comment on top and can be found on my GitHub.
 
 <blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/coder-bits">fvcproductions/coder-bits</a></h4><p>coder-bits - HTML, Java, Python, C, PHP, C++, JS 💩</p></blockquote>
 

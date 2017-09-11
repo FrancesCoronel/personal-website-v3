@@ -59,10 +59,8 @@ the opportunity to do so today. So…
 width="750"\][![Lanyard - HR
 DevFest](https://fvcproductions.files.wordpress.com/2015/11/img_0100.jpg){.size-full
 .wp-image-3409 width="750"
-height="1000"}](https://fvcproductions.com/2015/11/13/hrdevfest-talk/img_0100/)
+height="1000"}](https://fvcproductions.com/blog/2015/11/13/hrdevfest-talk/img_0100/)
 Lanyard - HR DevFest\[/caption\]
-
-------------------------------------------------------------------------
 
 Slides on Speaker Deck {#slidesonspeakerdeck}
 ----------------------
@@ -74,8 +72,6 @@ Video on YouTube {#videoonyoutube}
 
 \https://www.youtube.com/watch?v=dEJyRuQF4Ww\]
 
-------------------------------------------------------------------------
-
 I did end getting some positive feedback! {#ididendgettingsomepositivefeedback}
 -----------------------------------------
 
@@ -85,7 +81,7 @@ I did end getting some positive feedback! {#ididendgettingsomepositivefeedback}
 width="750"\][![Slack Feedback -
 HRDevFest](https://fvcproductions.files.wordpress.com/2015/11/screenshot-2015-11-14-20-14-11.png){.size-full
 .wp-image-3405 width="750"
-height="199"}](https://fvcproductions.com/2015/11/13/hrdevfest-talk/screenshot-2015-11-14-20-14-11/)
+height="199"}](https://fvcproductions.com/blog/2015/11/13/hrdevfest-talk/screenshot-2015-11-14-20-14-11/)
 Slack Feedback - HR DevFest\[/caption\]
 
 \https://twitter.com/aag1091/status/665554097798426624\]
@@ -94,17 +90,13 @@ Slack Feedback - HR DevFest\[/caption\]
 width="671"\][![LinkedIn -
 Feedback](https://fvcproductions.files.wordpress.com/2015/11/screenshot-2015-11-14-23-14-32.png){.size-full
 .wp-image-3406 width="671"
-height="306"}](https://fvcproductions.com/2015/11/13/hrdevfest-talk/screenshot-2015-11-14-23-14-32/)
+height="306"}](https://fvcproductions.com/blog/2015/11/13/hrdevfest-talk/screenshot-2015-11-14-23-14-32/)
 LinkedIn Feedback - HR DevFest\[/caption\]
 
 \https://twitter.com/erikpmp/status/665554118182703105\]
 
-------------------------------------------------------------------------
-
 > Needless to say, I'm definitely going to be giving more talks in the
 > future.
-
-------------------------------------------------------------------------
 
 Conference Website {#conferencewebsite}
 ------------------
@@ -114,8 +106,6 @@ width="750"\][![Hampton Roads
 DevFest](https://fvcproductions.files.wordpress.com/2015/11/hampton-roads-devfest.jpg){.size-full
 .wp-image-3407 width="750" height="3989"}](https://hrdevfest.org/)
 Hampton Roads DevFest\[/caption\]
-
-------------------------------------------------------------------------
 
 References/Resources
 --------------------
@@ -133,37 +123,27 @@ References/Resources
 - [Font Squirrel](https://fontsquirrel.com/)
 - [Font Awesome](https://fontawesome.com/)
 - [Color Emotion Guide](https://visual.ly/color-emotion-guide)
-- [The Trials and Tribulations of Being a
-    Skeleton](https://vimeo.com/108496060)
-- [2015 Subtraction.com Design Tools
-    Survey](https://tools.subtraction.com/)
+- [The Trials and Tribulations of Being a Skeleton](https://vimeo.com/108496060)
+- [2015 Subtraction.com Design Tools Survey](https://tools.subtraction.com/)
 - [Macaw](https://macaw.co)
-- [Material
-    Design](https://www.google.com/design/spec/material-design/introduction.html)
+- [Material Design](https://www.google.com/design/spec/material-design/introduction.html)
 - [Materialize CSS](https://materializecss.com/)
 - [Angular Material](https://material.angularjs.org/latest/)
-- [Material Design for
-    Bootstrap](https://fezvrasta.github.io/bootstrap-material-design/)
+- [Material Design for Bootstrap](https://fezvrasta.github.io/bootstrap-material-design/)
 - [Netflix Branding](https://gretelny.com/project/56/netflix-branding)
-- [Mobile Use in
-    2015](https://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/)
-- [US Government Web Design
-    Standards](https://playbook.cio.gov/designstandards/)
-- [Designing Web Applications by Nathan
-    Barry](https://nathanbarry.com/webapps/)
+- [Mobile Use in 2015](https://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/)
+- [US Government Web Design Standards](https://playbook.cio.gov/designstandards/)
+- [Designing Web Applications by Nathan Barry](https://nathanbarry.com/webapps/)
 - [Forbes](https://www.forbes.com/sites/calebmelby/2012/10/05/the-top-5-ugliest-billionaire-websites/)
 - [Skilledup](https://www.skilledup.com/articles/christopher-nolan-movies-teach-winning-hackathons)
 - [Envato Market](https://themeforest.net/community/market)
 - [Design Disruptors](https://designdisruptors.com)
-- [Product Hunt -
-    Design](https://www.producthunt.com/#!/s/posts/design)
+- [Product Hunt - Design](https://www.producthunt.com/#!/s/posts/design)
 - [Material Up](https://www.materialup.com/)
 - [UXPin - Knowledge](https://www.uxpin.com/knowledge.html)
 - [UXDesigner21](https://uxdesigner21.com/)
-- [Design Your
-    Way](www.designyourway.net/blog/inspiration/the-case-against-using-bootstrap-to-design-websites/)
-- [Robert Half
-    Technology](www.roberthalf.com/technology/blog/6-reasons-why-coders-should-understand-design)
+- [Design Your Way](www.designyourway.net/blog/inspiration/the-case-against-using-bootstrap-to-design-websites/)
+- [Robert Half Technology](www.roberthalf.com/technology/blog/6-reasons-why-coders-should-understand-design)
 - [Wikiwand - Web Design](https://www.wikiwand.com/en/Web_design)
 - [EchoLeaf](https://www.echoleaf.com/blog/why-website-design-so-important)
 - [Luke W - Ideation + Design](https://www.lukew.com/ff/entry.asp?1945)

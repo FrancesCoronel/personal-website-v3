@@ -129,18 +129,18 @@ website to get started with the pre-work at home.
 I also have shared my **interview experience** with bootcamps such as
 
 - [Bitmaker
-    Labs](https://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
+    Labs](https://fvcproductions.com/blog/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
 - [Coding
-    Dojo](https://fvcproductions.com/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
-- [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+    Dojo](https://fvcproductions.com/blog/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
+- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
 - [Dev
-    League](https://fvcproductions.com/2015/01/06/experience-with-devleague/ "Interview With DevLeague 💻")
+    League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "Interview With DevLeague 💻")
 - [Fullstack
-    Academy](https://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+    Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
 - [Hack
-    Reactor](https://fvcproductions.com/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
+    Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
 - [Maker
-    Square](https://fvcproductions.com/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
+    Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
 ------------------------------------------------------------------------
 

@@ -242,7 +242,7 @@ experienced in his cohort).
 
 ------------------------------------------------------------------------
 
-#### If you are interested in more information regarding Hack Reactor, [I compiled a short list of resources to best prepare for the interview and also gave my thoughts on how competitive bootcamps select for students](https://fvcproductions.com/2015/01/05/tiny-glimpse-hack-reactor-selection-preparation/ "A Tiny Glimpse Into Hack Reactor: Selection & Preparation").
+#### If you are interested in more information regarding Hack Reactor, [I compiled a short list of resources to best prepare for the interview and also gave my thoughts on how competitive bootcamps select for students](https://fvcproductions.com/blog/2015/01/05/tiny-glimpse-hack-reactor-selection-preparation/ "A Tiny Glimpse Into Hack Reactor: Selection & Preparation").
 
 ------------------------------------------------------------------------
 
@@ -312,18 +312,18 @@ https://www.youtube.com/watch?v=dt-dpATRP\_4
 I also have shared my **interview experience** with bootcamps such as
 
 - [Bitmaker
-    Labs](https://fvcproductions.com/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
+    Labs](https://fvcproductions.com/blog/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
 - [Coding
-    Dojo](https://fvcproductions.com/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
+    Dojo](https://fvcproductions.com/blog/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
 - [Coding
-    House](https://fvcproductions.com/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
-- [Designation](https://fvcproductions.com/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+    House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
+- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
 - [Dev
-    League](https://fvcproductions.com/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
+    League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
 - [Fullstack
-    Academy](https://fvcproductions.com/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+    Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
 - [Maker
-    Square](https://fvcproductions.com/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
+    Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
 ------------------------------------------------------------------------
 
