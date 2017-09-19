@@ -49,6 +49,7 @@ Might have something to do with human nature in general, though, so interpret it
 ### Where You Can Find Me on the Internets 🌐
 
 - [Calendly](https://calendly.com/fvcproductions) <i class="fa fa-calendar"></i>
+- [Code School](https://www.codeschool.com/users/fvcproductions) <i class="fa fa-code-school"></i>
 - [Codecademy](https://www.codecademy.com/fvcproductions) <i class="fa fa-codecademy"></i>
 - [CodeCombat](https://codecombat.com/user/fvcproductions) <i class="fa fa-codecombat"></i>
 - [CodePen](https://codepen.io/fvcproductions/) <i class="fa fa-codepen"></i>
