@@ -5,13 +5,13 @@ date: 2017-09-16
 header:
   image: https://i.imgur.com/TxMdO3z.jpg
 gallery:
-    - alt: "Affect Conf 1"
+    - alt: "Eliot Center"
       url: https://i.imgur.com/4Nj0CQT.jpg
-    - alt: "Affect Conf 2"
+    - alt: "Downtown Portland"
       url: https://i.imgur.com/TZevtW5.jpg
-    - alt: "Affect Conf 3"
+    - alt: "Taken by Morgen!"
       url: https://i.imgur.com/TxMdO3z.jpg
-    - alt: "Affect Conf 4"
+    - alt: "Amazing talk by Kaya!"
       url: https://i.imgur.com/vsrNWFo.jpg
 ---
 
