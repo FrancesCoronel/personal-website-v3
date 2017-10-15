@@ -4,6 +4,7 @@ excerpt: "Our team created Hack the Vote at Hack to Help HR at Dominion Enterpri
 date: 2015-10-24
 header:
   image: https://fvcproductions.files.wordpress.com/2015/11/csaxal9uyaypho3.jpg
+
 ---
 
 ## Name

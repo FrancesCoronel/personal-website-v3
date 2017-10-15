@@ -74,8 +74,4 @@ Might have something to do with human nature in general, though, so interpret it
 
 ## If you have found any of my contributions valuable, kindly consider supporting me through a small donation or by becoming an ongoing patron. 💛️
 
-[![Become a Patron!](https://c5.patreon.com/external/logo/become_a_patron_button@2x.png)](https://www.patreon.com/fvcproductions)
-
-<a href="https://www.patreon.com/fvcproductions" target="_blank"rel="noopener">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="50" alt="Become a Patron!">
-</a>
+<a href="https://www.patreon.com/fvcproductions" target="_blank" rel="noopener"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="50" alt="Become a Patron!"></a>

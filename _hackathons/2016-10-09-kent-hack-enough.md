@@ -44,3 +44,5 @@ Volunteered for the hardware booth and Foobar (smoothies) and then teamed up wit
 ### Awards
 
 Won award of <strong>[Best Security Privacy Hack](https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v)</strong> sponsored by Ubisoft with the prize being two copies of <code>Watch Dog 2</code>
+
+{% include gallery %}
