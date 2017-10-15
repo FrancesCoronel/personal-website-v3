@@ -1,5 +1,5 @@
 ---
-title: ! "80/|20 Software Consulting - Front End Developer"
+title: "80&#124;20 Software Consulting - Front End Developer"
 excerpt: "Frontend Developer"
 date: 2016-02-05
 header:
@@ -13,7 +13,7 @@ gallery:
       url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/norfolkjs-jan-2016-0032.jpg
 ---
 
-> Employer
+## Employer
 
 <a title="80|20 Software Consulting" href="https://madeby8020.com" target="_blank" rel="noopener">80|20 Software Consulting</a>
 
@@ -23,7 +23,7 @@ Norfolk, VA
 
 ## Date
 
-November 2015 to February 5, 2016
+November 2015 to February 5th, 2016
 
 ## About
 

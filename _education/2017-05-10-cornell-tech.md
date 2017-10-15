@@ -15,7 +15,7 @@ gallery:
       url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/11/img_0047.jpg?w=746&h=560&crop&ssl=1&zoom=2
 ---
 
-> Institution
+## Institution
 
 <a title="Cornell Tech" href="https://tech.cornell.edu" target="_blank" rel="noopener">Cornell Tech</a>
 
@@ -23,29 +23,23 @@ gallery:
 
 Google Building - New York City, New York
 
-## Date
+## Dates
 
 August 2016 to May 10th, 2017
 
-> Program
+## Program
 
-- Master of Engineering in Computer Science
+Master's of Engineering in Computer Science
 
 ## About
 
 Cornell Tech is the technology-focused campus of Cornell University located in New York City.
 
-[<i class='fa fa-twitter'></i> @cornell_tech](https://twitter.com/@cornell_tech)
-{: .btn .btn--twitter}
-
-[<i class='fa fa-linkedin'></i> LinkedIn](https://linkedin.com/company/cornell-tech)
-{: .btn .btn--linkedin}
-
 ### Activities
 
 - [WiTNY](https://tech.cornell.edu/impact/witny) (Women in Technology and Entrepreneurship in New York)
 
-## Awards
+### Awards
 
 - Best Presentation in Grizzly Room for Sprint 3 of Product Studio
 - "Good job" from David Tisch for final sprint of Startup Studio
@@ -53,7 +47,7 @@ Cornell Tech is the technology-focused campus of Cornell University located in N
 
 ### Courses
 
-> Fall 2016
+#### Fall 2016
 
 1. Startup Systems Design & Engineering
 2. Physical Computing
@@ -65,7 +59,7 @@ Cornell Tech is the technology-focused campus of Cornell University located in N
 8. Business for Tech
 9. Leadership for Studio
 
-> Spring 2017
+#### Spring 2017
 
 1. Conversations in the Studio
 2. Design Thinking
@@ -77,6 +71,8 @@ Cornell Tech is the technology-focused campus of Cornell University located in N
 8. Connective Media Systems & Tech
 9. Startup Studio
 
-{% include gallery %}
+### Transcript
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/349468859/Cornell-Tech-Official-Transcript">Cornell Tech - Official Transcript</a></h4><p>Cornell Tech - Official Transcript - Free download as PDF File (.pdf), Text File (.txt) or view presentation slides online. This is my official transcript for Cornell Tech where I earned a MEng in CS in May 2017.</p></blockquote>
+
+{% include gallery %}

@@ -1,5 +1,5 @@
 ---
-title: "Title"
+title: "School Template"
 excerpt: "Excerpt"
 date: 2010-10-10
 modified: 2016-01-01
@@ -18,13 +18,9 @@ gallery:
 	  url: image_link_3
 ---
 
-## Name
+## Institution
 
 <a title="Title" href="link" target="_blank" rel="noopener">Title</a>
-
-## Organizer
-
-Fill
 
 ## Location
 
@@ -32,14 +28,14 @@ Place - City, State
 
 ## Date
 
-Month xst to xth, 20xx
+## Program
 
-## Role
+### Activities
 
-Scholarship Recipient
+### Awards
 
-## About
+### Coursework
 
-Fill
+### Transcript
 
 {% include gallery %}

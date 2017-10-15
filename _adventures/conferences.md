@@ -25,8 +25,7 @@ tags:
 
 ### Upcoming
 
-- [ElmConf](https://www.elm-conf.us/) (September 28th)
-- [Strange Loop](https://www.thestrangeloop.com/) (September 29th-30th)
+- [Chrome DevSummit](https://developer.chrome.com/devsummit/) (October 23rd-24th)
 
 ### Past
 

@@ -5,7 +5,7 @@ date: 2011-08-07
 header:
     image: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
 gallery:
-    - alt: "ISCE 2011"
+    - alt: "ISCE 2011 - Group Shot"
       url: https://i0.wp.com/fvcproductions.files.wordpress.com/2015/11/isce_groupshot_2011.jpg
     - alt: "ISCE 2011"
       url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg

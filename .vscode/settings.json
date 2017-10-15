@@ -4,5 +4,8 @@
     "editor.fontSize": 18,
     "files.trimTrailingWhitespace": true,
     "editor.formatOnSave": false,
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "cSpell.words": [
+        "ISLC"
+    ]
 }

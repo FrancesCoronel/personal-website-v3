@@ -35,12 +35,12 @@ Volunteer, Participant, Winner
 
 ## About
 
-<h3 class="intro">Volunteered for the hardware booth and Foobar (smoothies) and then teamed up with my boyfriend to work on [a Leap Motion hack](https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v) that ended up winning an award 😍<
+Volunteered for the hardware booth and Foobar (smoothies) and then teamed up with my boyfriend to work on [a Leap Motion hack](https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v) that ended up winning an award 😍<
 
 ## Project
 
 <blockquote class="embedly-card"><h4><a href="https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v">Jake the Dog Key Hand</a></h4><p>Jake the Dog Key Hand - Secure your home using Leap Motion.</p></blockquote>
 
-## Awards
+### Awards
 
 Won award of <strong>[Best Security Privacy Hack](https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v)</strong> sponsored by Ubisoft with the prize being two copies of <code>Watch Dog 2</code>

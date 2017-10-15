@@ -23,6 +23,8 @@ gallery:
     url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/06/nova-5.jpg?w=360&h=544&crop&ssl=1&zoom=2
   - alt: "InNOVAtion Hackathon"
     url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0975.jpg?w=382&h=287&crop&ssl=1&zoom=2
+  - alt: "News Article"
+    url: https://i.imgur.com/s7aRRJq.png
 ---
 
 ## Name
@@ -57,3 +59,5 @@ I spoke about 2 topics:
 https://speakerdeck.com/fvcproductions/so-you-want-to-be-a-wizard-nova-hackathon
 
 https://speakerdeck.com/fvcproductions/web-design-innovation-hackathon
+
+http://www.nvcc.edu/news/media-alerts/nova-hackathon.html

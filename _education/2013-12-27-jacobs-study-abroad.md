@@ -31,7 +31,7 @@ gallery:
       url: https://i0.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-12.jpg?w=216&h=144&crop&ssl=1&zoom=2
 ---
 
-> Institution
+## Institution
 
 <a title="Jacobs University Bremen" href="https://www.jacobs-university.de" target="_blank" rel="noopener">Jacobs University Bremen</a>
 
@@ -43,10 +43,9 @@ Bremen, Germany
 
 August 2013 to December 2013
 
-> Program
+## Program
 
-- Study Abroad
-    - Computer Science
+Study Abroad - Computer Science
 
 ## About
 
@@ -54,7 +53,7 @@ Jacobs University is a private international research university with a resident
 
 I received a generous merit scholarship to attend and study computer science. While I was there, I attended meetings for the CS club and enrolled in quite a few courses.
 
-### Activites
+### Activities
 
 - Computer Science Club
 

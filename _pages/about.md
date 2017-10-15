@@ -43,7 +43,7 @@ Might have something to do with human nature in general, though, so interpret it
 - [GitHub](https://github.com/fvcproductions) <i class="fa fa-github"></i>
 - [Quora](https://quora.com/profile/Frances-Coronel-1) <i class="fa fa-quora"></i>
 - [Scribd](https://www.scribd.com/user/194063411/FVCproductions) <i class="fa fa-scribd"></i>
-- [Speaker Deck](https://speakerdeck.com/fvcproductions) <i class="fa fa-speaker-deck"></i>
+- [SlideShare](https://www.slideshare.net/FVCproductions) <i class="fa fa-slideshare"></i>
 - [YouTube](https://youtube.com/+fvcproductions2013) <i class="fa fa-youtube-alt"></i>
 
 ### Where You Can Find Me on the Internets 🌐
@@ -64,7 +64,18 @@ Might have something to do with human nature in general, though, so interpret it
 - [Meetup](https://www.meetup.com/members/182920007/) <i class="fa fa-meetup"></i>
 - [Product Hunt](https://www.producthunt.com/@fvcproductions) <i class="fa fa-product-hunt"></i>
 - [Rotten Tomatoes](https://www.rottentomatoes.com/user/id/966430171) <i class="fa fa-rotten-tomatoes"></i>
+- [Speaker Deck](https://speakerdeck.com/fvcproductions) <i class="fa fa-speaker-deck"></i>
 - [Spotify](https://open.spotify.com/user/fvcproductions) <i class="fa fa-spotify"></i>
 - [Stack Overflow](https://stackoverflow.com/users/3000467/fvcproductions) <i class="fa fa-stack-overflow"></i>
 - [Twitter](https://twitter.com/fvcproductions) <i class="fa fa-twitter"></i>
 - [Wordpress](https://fvcproductions.wordpress.com) <i class="fa fa-wordpress"></i>
+
+---
+
+## If you have found any of my contributions valuable, kindly consider supporting me through a small donation or by becoming an ongoing patron. 💛️
+
+[![Become a Patron!](https://c5.patreon.com/external/logo/become_a_patron_button@2x.png)](https://www.patreon.com/fvcproductions)
+
+<a href="https://www.patreon.com/fvcproductions" target="_blank"rel="noopener">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="50" alt="Become a Patron!">
+</a>

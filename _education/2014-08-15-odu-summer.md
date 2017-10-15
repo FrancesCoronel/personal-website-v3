@@ -9,7 +9,7 @@ gallery:
       url: https://fvcproductions.files.wordpress.com/2017/01/odu.jpeg
 ---
 
-> Institution
+## Institution
 
 <a title="Old Dominion University" href="https://odu.edu" target="_blank" rel="noopener">Old Dominion University</a>
 
@@ -21,9 +21,9 @@ Norfolk, VA
 
 July 2014 to August 2014
 
-> Program
+## Program
 
-- Summer Term
+Summer Term
 
 ## About
 
