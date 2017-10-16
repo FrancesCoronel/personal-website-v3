@@ -6,12 +6,9 @@ header:
     image: https://i.imgur.com/8cFXnVj.jpg
 ---
 
-\[caption id="attachment\_1187" align="aligncenter"
-width="750"\][![Operation Air |
-Banner](https://fvcproductions.files.wordpress.com/2014/10/hedaer-0011.jpg){.size-full
-.wp-image-1187 width="750"
-height="297"}](https://fvcproductions.files.wordpress.com/2014/10/hedaer-0011.jpg)
-Operation Air | Banner\[/caption\]
+[![Operation Air |
+Banner](https://fvcproductions.files.wordpress.com/2014/10/hedaer-0011.jpg)](https://fvcproductions.files.wordpress.com/2014/10/hedaer-0011.jpg)
+Operation Air | Banner
 
 With a four-person team, I participated in a Google-sponsored hackathon
 at their DC headquarters that was just open for two HCBU's - Hampton and
@@ -25,7 +22,7 @@ users could add markers onto a map.
 Check it out at
 [beato-2014.appspot.com](https://beato-2014.appspot.com/).
 
-[![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5839b420810715.562f17e65a860.png){.aligncenter
+[![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5839b420810715.562f17e65a860.png){
 width="1200"
 height="1884"}](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5839b420810715.562f17e65a860.png)
 

@@ -17,4 +17,4 @@ We came up with the idea last year and decided to go forward starting in
 
 Feel free to check out our starting website at https://cutethingswedo.com
 
-\[gallery ids="5901,5891" type="rectangular" orderby="rand"\]
+TODO: [gallery ids="5901,5891" type="rectangular" ]

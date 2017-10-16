@@ -26,9 +26,7 @@ tags:
 ---
 
 [![Limbo
-Logo](https://fvcproductions.files.wordpress.com/2014/09/aac70-limbo_logo.png){.aligncenter
-.wp-image-858 .size-full width="1600"
-height="526"}](https://fvcproductions.files.wordpress.com/2014/09/aac70-limbo_logo.png)
+Logo](https://fvcproductions.files.wordpress.com/2014/09/aac70-limbo_logo.png)](https://fvcproductions.files.wordpress.com/2014/09/aac70-limbo_logo.png)
 
 **It's been roughly 3 years (July 2010) since Limbo was first released
 to the Xbox 360 platform.**
@@ -45,10 +43,9 @@ robotic operation: look up new games on the App Store, evaluate their
 reviews, watch a few minutes of game play, try out game.
 `if (game == awesome) {stop} else {repeat}`
 
-\[caption id="" align="aligncenter" width="530"\][![Munch,
-munch](https://www.blogcdn.com/www.joystiq.com/media/2011/12/limboxmas-530.jpg){width="530"
-height="379"}](https://www.blogcdn.com/www.joystiq.com/media/2011/12/limboxmas-530.jpg)
-Munch, munch\[/caption\]
+[![Munch,
+munch](https://www.blogcdn.com/www.joystiq.com/media/2011/12/limboxmas-530.jpg)](https://www.blogcdn.com/www.joystiq.com/media/2011/12/limboxmas-530.jpg)
+Munch, munch
 
 The graphics are pretty much what got to me. Those spider legs without
 the rest of the body (initially anyhow), the boys with spears in their
@@ -87,10 +84,9 @@ cheat, the game is basically ruined. You don't have that sense of joy
 that you received from finishing it anymore. Of course, if you do want
 to cheat, there's always YouTube…
 
-\[caption id="" align="alignnone" width="937"\]![125,000 possible LIMBO
+![125,000 possible LIMBO
 walkthrough
-videos](https://fvcproductions.files.wordpress.com/2014/09/screenshot-2014-09-22-12-10-20.png){width="937"
-height="695"} 125,000 possible LIMBO walk through videos…\[/caption\]
+videos](https://fvcproductions.files.wordpress.com/2014/09/screenshot-2014-09-22-12-10-20.png) 125,000 possible LIMBO walk through videos…
 
 There isn't any clear story line in this game, which is always cool
 because you can make one up yourself. The only characters you really get
@@ -100,11 +96,10 @@ to mention their carcasses)*, no face boys that are trying to kill you
 girl that you only see twice the entire game, in the beginning and in
 the end.
 
-\[caption id="" align="aligncenter" width="1215"\]![Limbo Crossover: The
+![Limbo Crossover: The
 leader of the no face boys Slender
-Man](https://th00.deviantart.net/fs71/PRE/f/2013/048/c/4/limbo_ft__slender_man_by_iresarts-d5vaea7.png){width="1215"
-height="657"} Limbo Crossover: The leader of the no face boys… Slender
-Man\[/caption\]
+Man](https://th00.deviantart.net/fs71/PRE/f/2013/048/c/4/limbo_ft__slender_man_by_iresarts-d5vaea7.png) Limbo Crossover: The leader of the no face boys… Slender
+Man
 
 So bam, right there, that whole beginning and then the creepy girl
 instance at the end made some people theorize that the game itself is
@@ -113,10 +108,9 @@ ends up in the same place again. Initially, I just thought okay so
 there's this boy that I control and he really wants to reunite with his
 girlfriend/sister. Okay, cool, let's play.
 
-\[caption id="" align="aligncenter" width="591" class=" "\]![Girlfriend
+![Girlfriend
 or
-sister?!](https://fc05.deviantart.net/fs70/f/2012/176/a/7/welcome_to_limbo_by_kumonokuni-d54ums6.png){width="591"
-height="591"} Girlfriend or sister?!\[/caption\]
+sister?!](https://fc05.deviantart.net/fs70/f/2012/176/a/7/welcome_to_limbo_by_kumonokuni-d54ums6.png) Girlfriend or sister?!
 
 After I finished the game, I was kinda confused, so I went ahead and did
 a standard Google search and it all made a whole lot more sense - at
@@ -136,11 +130,10 @@ typed: "***children left in an emotional limbo***". All I gotta say is…
 through while in Limbo, either theory makes sense. The subtlety too, man
 - that gets to you!
 
-\[caption id="" align="alignnone" width="1280"\]![Pyamid Head chilling
+![Pyamid Head chilling
 with all these hanging (unbaptized?)
-kids](https://fc04.deviantart.net/fs71/i/2012/034/3/3/pyramid_head_in_limbo__by_z0h3-d4oj0fa.jpg){width="1280"
-height="853"} Pyramid Head chilling with all these hanging (unbaptized?)
-kids…\[/caption\]
+kids](https://fc04.deviantart.net/fs71/i/2012/034/3/3/pyramid_head_in_limbo__by_z0h3-d4oj0fa.jpg) Pyramid Head chilling with all these hanging (unbaptized?)
+kids…
 
 Anyhow, hoped you enjoyed this review! Be sure to check out the sweet
 fan artwork that feature Limbo crossovers and check out their sweet new

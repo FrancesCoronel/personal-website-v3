@@ -29,7 +29,7 @@ tags:
 >
 > There are 57 days in Fullstack. These are the third 5.
 
-------------------------------------------------------------------------
+
 
 Day One - Monday {#dayone-monday}
 ----------------
@@ -39,7 +39,7 @@ Day One - Monday {#dayone-monday}
     with (Nirmohi) was really in sync with how I worked.
 -   Looking forward to more promises being made. Hehe. 😋
 
-------------------------------------------------------------------------
+
 
 Day Two - Tuesday {#daytwo-tuesday}
 -----------------
@@ -50,7 +50,7 @@ Day Two - Tuesday {#daytwo-tuesday}
 -   On the other hand, `Mongo` seems nice. The docs are definitely
     cleaner…
 
-------------------------------------------------------------------------
+
 
 Day Three - Wednesday {#daythree-wednesday}
 ---------------------
@@ -81,7 +81,7 @@ Day Three - Wednesday {#daythree-wednesday}
         feels the same way I do in regards to resumes being pretty
         ineffective for evaluating programming skills.
 
-------------------------------------------------------------------------
+
 
 Day Four - Thursday {#dayfour-thursday}
 -------------------
@@ -131,7 +131,7 @@ Avalon Set Up
     -   Anyways, the good people (such as myself) won, but only because
         the bad kids weren't very good at being bad. Shucks.
 
-------------------------------------------------------------------------
+
 
 Day Five - Friday {#dayfive-friday}
 -----------------
@@ -159,9 +159,7 @@ Day Five - Friday {#dayfive-friday}
     **EVERYWHERE**. WOOT WOOT!!!
 
 [![Pride
-Octocat](https://fvcproductions.files.wordpress.com/2015/06/pride-octocat.png){.size-full
-.wp-image-2547 .aligncenter width="57"
-height="56"}](https://fvcproductions.files.wordpress.com/2015/06/pride-octocat.png)
+Octocat](https://fvcproductions.files.wordpress.com/2015/06/pride-octocat.png)](https://fvcproductions.files.wordpress.com/2015/06/pride-octocat.png)
 
 -   Once all was said and done and we headed back to Fullstack, I was
     very full and tired, so the lecture on Promises didn't get the
@@ -174,13 +172,13 @@ height="56"}](https://fvcproductions.files.wordpress.com/2015/06/pride-octocat.p
     peers.
 -   Good times.
 
-------------------------------------------------------------------------
+
 
 > :arrow: **Overall Conclusion?**
 >
 > > A lot of great things have happened this week. \^\_\^
 
-------------------------------------------------------------------------
+
 
 ### Journey Into the Cave of Digital Hieroglyphics {#journeyintothecaveofdigitalhieroglyphics}
 
@@ -205,21 +203,19 @@ height="56"}](https://fvcproductions.files.wordpress.com/2015/06/pride-octocat.p
 - [Fullstack Academy - Week
     2](https://fvcproductions.com/blog/2015/06/20/fullstack-academy-week-2/ "Fullstack Academy - Week 2")
 
-------------------------------------------------------------------------
+
 
 **Side note.**
 
 This theme for creating a post today on Wordpress is very snazzy! Kudos
 to the sensational WP team.
 
-\[caption id="attachment\_2524" align="aligncenter" width="660"\][![Same
+[![Same
 Sex Marriage -
-YAY!!](https://fvcproductions.files.wordpress.com/2015/06/screenshot-2015-06-26-22-58-42.png?w=660){.size-large
-.wp-image-2524 width="660"
-height="373"}](https://fvcproductions.files.wordpress.com/2015/06/screenshot-2015-06-26-22-58-42.png)
-Same Sex Marriage - YAY!!\[/caption\]
+YAY!!](https://fvcproductions.files.wordpress.com/2015/06/screenshot-2015-06-26-22-58-42.png?w=660)](https://fvcproductions.files.wordpress.com/2015/06/screenshot-2015-06-26-22-58-42.png)
+Same Sex Marriage - YAY!!
 
-------------------------------------------------------------------------
+
 
 > *Tips or tricks?* :idea:
 >

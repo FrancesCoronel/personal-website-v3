@@ -62,7 +62,7 @@ AND THIS IS MY OFFICIAL 100TH POST!!!!!
 - [Interview with Bitmaker Labs 🔬](https://fvcproductions.com/blog/2014/03/12/interview-bitmaker-labs/)
 - [Interview with Designation 🎨](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/)
 
-\[caption id="attachment\_2453" align="aligncenter" width="750"\]![Fullstack Academy - Week 1](https://fvcproductions.files.wordpress.com/2015/06/fullstack-academy-week-1-001.jpg){.size-full .wp-image-2453 width="750" height="329"} Fullstack Academy - Week 1\[/caption\]
+![Fullstack Academy - Week 1](https://fvcproductions.files.wordpress.com/2015/06/fullstack-academy-week-1-001.jpg) Fullstack Academy - Week 1
 
 ### My Fullstack Academy Experience
 
@@ -82,13 +82,13 @@ AND THIS IS MY OFFICIAL 100TH POST!!!!!
 - [ONE WEEK OF FULLSTACK LEFT 😲](https://fvcproductions.com/blog/2015/08/19/one-week-left-of-fullstack/)
 - [Fullstack Academy | Reflections 🕝](https://fvcproductions.com/blog/2015/08/30/fullstack-academy-reflections/)
 
-\[caption id="attachment\_3144" align="aligncenter" width="750"\]![My Designlab Experience - Banner](https://fvcproductions.files.wordpress.com/2015/10/newbanners.jpg){.size-full .wp-image-3144 width="750" height="382"} My Designlab Experience - Banner\[/caption\]
+![My Designlab Experience - Banner](https://fvcproductions.files.wordpress.com/2015/10/newbanners.jpg) My Designlab Experience - Banner
 
 ### My Designlab Experience
 
 - [My Designlab Experience 🎨](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience)
 
-\[caption id="attachment\_4196" align="aligncenter" width="750"\]![MapMe - Coding Bootcamps](https://fvcproductions.files.wordpress.com/2016/03/mapme.png){.size-full .wp-image-4196 width="750" height="469"} MapMe - Coding Bootcamps\[/caption\]
+![MapMe - Coding Bootcamps](https://fvcproductions.files.wordpress.com/2016/03/mapme.png)
 
 ### Tools
 
@@ -96,7 +96,7 @@ AND THIS IS MY OFFICIAL 100TH POST!!!!!
 - [Bootcamp.me - Google Map of Coding Bootcamps Across the World 🗺](https://bit.ly/bootcampme)
 - [RankMe - Review and Rating Aggregation for Coding Bootcamps 📊](https://fvcproductions.com/portfolio/rankme/)
 
-\[caption id="attachment\_4198" align="aligncenter" width="750"\]![Magnifying the Bootcamp Research Experience](https://fvcproductions.files.wordpress.com/2016/03/screenshot-2016-03-31-22-20-16.png){.size-full .wp-image-4198 width="750" height="285"} Magnifying the Bootcamp Research Experience\[/caption\]
+[Magnifying the Bootcamp Research Experience](https://fvcproductions.files.wordpress.com/2016/03/screenshot-2016-03-31-22-20-16.png)
 
 ### Tips and Tricks
 
@@ -104,7 +104,7 @@ AND THIS IS MY OFFICIAL 100TH POST!!!!!
 - [Finding Coding Bootcamps 📚](https://fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
 - [Magnifying the Bootcamp Research Experience 📚](https://fvcproductions.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/)
 
-\[caption id="attachment\_4195" align="aligncenter" width="750"\]![Dear Bootcamp](https://fvcproductions.files.wordpress.com/2016/03/dearbootcamp-e1459477035126.png){.size-full .wp-image-4195 width="750" height="568"} Dear Bootcamp\[/caption\]
+![Dear Bootcamp](https://fvcproductions.files.wordpress.com/2016/03/dearbootcamp-e1459477035126.png) Dear Bootcamp
 
 ### Slides
 

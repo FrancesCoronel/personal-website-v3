@@ -46,7 +46,7 @@ tags:
 
 ###  Want a [more comprehensive look at the best sites](https://fvcproductions.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/ "Magnifying the Bootcamp Research Experience")? {#want-a-more-comprehensive-look-at-the-best-sites style="text-align:center;"}
 
-------------------------------------------------------------------------
+
 
 ### Rating, Researching, Reviewing
 
@@ -60,7 +60,7 @@ tags:
     Project](https://www.thefirehoseproject.com/definitive-guide)
 8.  [Techenedo](https://schools.techendo.com/leaderboard)
 
-------------------------------------------------------------------------
+
 
 ### Prep Resources Directly From The Source
 
@@ -73,7 +73,7 @@ tags:
 7.  [General Assembly](https://dash.generalassemb.ly)
 8.  [Launch Academy](https://www.launchacademy.com/codecabulary)
 
-------------------------------------------------------------------------
+
 
 ### Need a scholarship to attend?
 
@@ -81,7 +81,7 @@ Course Report has your back with a [definitive
 list](https://www.coursereport.com/resources/the-definitive-list-of-programming-bootcamp-scholarships)
 of coding schools that offer scholarships.
 
-------------------------------------------------------------------------
+
 
 ### Real Data
 
@@ -97,7 +97,7 @@ And in terms of
 
 ![](https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/274/original/course-20report-20survey.jpg)
 
-------------------------------------------------------------------------
+
 
 > Tips or tricks?
 >

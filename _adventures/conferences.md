@@ -21,7 +21,7 @@ tags:
 
 > Conference activity can also be found on <a href="https://lanyrd.com/profile/fvcproductions/" target="_blank" rel="noopener" title="Lanyrd">my Lanyrd profile</a>.
 >
-> To see events I've spoken at and not just attended, head over to [my speaking page](https://fvcproductions.com/services/speaking/ "Speaking")!
+> To see events I've spoken at and not just attended, head over to [my speaking page](/speaking)!
 
 ### Upcoming
 

@@ -17,8 +17,8 @@ interview process.
 
 ### Screenshots
 
-\[gallery type="rectangular" size="full" ids="5106,5105,5104"
-orderby="rand"\]
+TODO: [gallery type="rectangular" size="full" ids="5106,5105,5104"
+]
 
 ### Features
 

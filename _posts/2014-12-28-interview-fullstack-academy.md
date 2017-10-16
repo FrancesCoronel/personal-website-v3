@@ -21,7 +21,7 @@ tags:
 ---
 
 
-[![](https://static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png){.aligncenter width="400" height="98"}](https://static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png) {#section style="text-align:center;"}
+[![](https://static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png)](https://static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png) {#section style="text-align:center;"}
 =============================================================================================================================================================================================================================================================================================
 
 Interview With [Fullstack Academy of Code](https://www.fullstackacademy.com "Fullstack Academy of Code") {#interviewwith-fullstack-academy-of-code style="text-align:center;"}
@@ -41,7 +41,7 @@ Interview With [Fullstack Academy of Code](https://www.fullstackacademy.com "Fu
 > overall admissions process, so they'll be my first so I can head off
 > to a positive start with all this reviewing. 😁
 
-------------------------------------------------------------------------
+
 
 Part 1: The Application 📝
 -------------------------
@@ -59,7 +59,7 @@ Part 1: The Application 📝
 -   The process overall was clean, efficient, and very organized. No
     problems here.
 
-------------------------------------------------------------------------
+
 
 Part 2: The Interview 📞
 -----------------------
@@ -80,7 +80,7 @@ say:
 >
 > personal comments are highlighted `like this`
 
-------------------------------------------------------------------------
+
 
 1. **Yield rate - out of the applicants you accept, what percentage end
     up attending?**\
@@ -157,7 +157,7 @@ say:
     > ones](https://blog.fullstackacademy.com/post/78441810309/hacks-through-history "Hackathons @Fullstack")
     > as well.
 
-------------------------------------------------------------------------
+
 
 Part 3: The Decision 💡
 ----------------------
@@ -183,7 +183,7 @@ Now here are some logistics for reference:
     doing yet, so I'll be talking with him in late January again to see
     what my plans are from there.
 
-------------------------------------------------------------------------
+
 
 > Tips or tricks?
 >

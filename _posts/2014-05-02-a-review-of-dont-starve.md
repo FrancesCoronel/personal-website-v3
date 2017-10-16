@@ -32,12 +32,9 @@ recently added their first paid downloadable content expansion called
 monsters (giants, perhaps?) and territory to discover and be terrorized
 by.
 
-\[caption id="attachment\_456" align="aligncenter"
-width="696"\][![Screenshot from
-gameplay](https://fvcproductions.files.wordpress.com/2014/05/screen-shot-2014-05-02-at-6-53-20-pm.png){.size-full
-.wp-image-456 width="696"
-height="381"}](https://fvcproductions.files.wordpress.com/2014/05/screen-shot-2014-05-02-at-6-53-20-pm.png)
-Screenshot from gameplay\[/caption\]
+[![Screenshot from
+gameplay](https://fvcproductions.files.wordpress.com/2014/05/screen-shot-2014-05-02-at-6-53-20-pm.png)](https://fvcproductions.files.wordpress.com/2014/05/screen-shot-2014-05-02-at-6-53-20-pm.png)
+Screenshot from gameplay
 
 I think the first time I saw this game back in June last year, I was
 kind of hesitant. The
@@ -82,9 +79,7 @@ see anything but pure pitch darkness.
 Be prepared to die in this game, a lot. Unless you're really into
 survival games. Then you're probably just going to die a few times.
 
-[![frankenweenie\_by\_9emiliecharlie9-d5hszqu](https://fvcproductions.files.wordpress.com/2014/05/frankenweenie_by_9emiliecharlie9-d5hszqu.png){.aligncenter
-.size-full .wp-image-442 width="696"
-height="453"}](https://fvcproductions.files.wordpress.com/2014/05/frankenweenie_by_9emiliecharlie9-d5hszqu.png)
+[![frankenweenie\_by\_9emiliecharlie9-d5hszqu](https://fvcproductions.files.wordpress.com/2014/05/frankenweenie_by_9emiliecharlie9-d5hszqu.png)](https://fvcproductions.files.wordpress.com/2014/05/frankenweenie_by_9emiliecharlie9-d5hszqu.png)
 
 For a game that looks like something pulled out of Frankenweenie (the
 developers were inspired by Tim Burton after all) , they make sure to be
@@ -112,13 +107,11 @@ So **THANK YOU** Klein Entertainment for providing a great Indie game.
 Obviously my personal rating is going to end up as a 5/5 or 10/10 - what
 have you.
 
-![wilsondrinksteabycrispyjelly-2](https://fvcproductions.files.wordpress.com/2014/05/wilsondrinksteabycrispyjelly-2.gif){.size-full
-.wp-image-507 .aligncenter width="48" height="80"}
+![wilsondrinksteabycrispyjelly-2](https://fvcproductions.files.wordpress.com/2014/05/wilsondrinksteabycrispyjelly-2.gif)
 
 Also, it doesn't hurt that the game has awesome fanart. Check it out.
 
-\[gallery type="circle" size="full" ids="440,437,1945,1947,1948,1949"
-orderby="rand"\]
+TODO: [gallery ids="440,437,1945,1947,1948,1949"]
 
 Isn't Wilson just downright adorable?
 
@@ -127,15 +120,11 @@ art](https://www.dontstarvegame.com/fan-art) at the gallery featured on
 their website. They even feature a cute little [Wilson crochet
 doll](https://www.facebook.com/photo.php?fbid=240025272807318&set=pb.102177486592098.-2207520000.1399074073.&type=3&theater)!
 
-[![1008247\_544492965589213\_1379285285\_o](https://fvcproductions.files.wordpress.com/2014/05/1008247_544492965589213_1379285285_o.jpg){.aligncenter
-.size-full .wp-image-439 width="602"
-height="401"}](https://fvcproductions.files.wordpress.com/2014/05/1008247_544492965589213_1379285285_o.jpg)
+[![1008247\_544492965589213\_1379285285\_o](https://fvcproductions.files.wordpress.com/2014/05/1008247_544492965589213_1379285285_o.jpg)](https://fvcproductions.files.wordpress.com/2014/05/1008247_544492965589213_1379285285_o.jpg)
 
 There's many ways to play this game and so there are many ways to fall
 in love with it.
 
 Indeed, I'll be starving today once again. Cheers.
 
-[![post-7347-13764590855412](https://fvcproductions.files.wordpress.com/2014/05/post-7347-13764590855412.gif){.size-full
-.wp-image-508 .aligncenter width="106"
-height="79"}](https://fvcproductions.files.wordpress.com/2014/05/post-7347-13764590855412.gif)
+[![post-7347-13764590855412](https://fvcproductions.files.wordpress.com/2014/05/post-7347-13764590855412.gif)](https://fvcproductions.files.wordpress.com/2014/05/post-7347-13764590855412.gif)

@@ -39,7 +39,7 @@ CSC251 Study Guide 😓
 
 ### Binary Trees and Recursion Exam 📖
 
-------------------------------------------------------------------------
+
 
 ### Binary Trees 🌲
 
@@ -78,7 +78,7 @@ CSC251 Study Guide 😓
     -   left and right subtrees of any node are the same height\
         ![](https://www.stoimen.com/blog/wp-content/uploads/2012/06/10.-Balanced-or-not.png)
 
-------------------------------------------------------------------------
+
 
 -   *preorder*
     -   node/root, left, right
@@ -101,7 +101,7 @@ CSC251 Study Guide 😓
 > > in-order traversal is probably easiest to see, because it sorts the
 > > values from smallest to largest (literally)
 
-------------------------------------------------------------------------
+
 
 -   **How to Delete A Binary Search Tree** ␡
     -   no successor
@@ -115,9 +115,9 @@ CSC251 Study Guide 😓
             value)
         2. logical predecessor replaces deleted node
 
-------------------------------------------------------------------------
 
-------------------------------------------------------------------------
+
+
 
 ### Recursion 🚥
 
@@ -139,10 +139,10 @@ CSC251 Study Guide 😓
     -   towers of hanoi fun pic:\
         ![](https://upload.wikimedia.org/wikipedia/commons/6/60/Tower_of_Hanoi_4.gif)
 
-------------------------------------------------------------------------
+
 
 -   **example 1 provided - emptyVase** 🍶\
-    \[code language="java"\]void emptyVase(int flowersInVase) {\
+    ```void emptyVase(int flowersInVase) {\
     if (flowersInVase &gt; 0) {\
     //takes one flower\
     emptyVase(flowersInVase-1);\
@@ -150,9 +150,9 @@ CSC251 Study Guide 😓
     // vase is empty, nothing to do\
     }\
     }\
-    \[/code\]
+    ```
 -   **example 2 provided - Recursion2**\
-    \[code language="java"\]public class Recursion2 {\
+    ```public class Recursion2 {\
     public void countItDown(int counter) {\
     if (counter == 0)\
     return;\
@@ -169,9 +169,9 @@ CSC251 Study Guide 😓
     myRecursor.countItDown(5);\
     }\
     }\
-    \[/code\]
+    ```
 -   **example 3 provided - count** ⓴\
-    \[code language="java"\]count(n)\
+    ```count(n)\
     if (n &gt; 0)\
     print n\
     count (n-1)\
@@ -181,10 +181,10 @@ CSC251 Study Guide 😓
     count: (n-1) --&gt; n = 2\
     count: (n-1) --&gt; n = 1\
     count: (n-1) --&gt; n = 0\
-    \[/code\]
--   **example 4 - from textbook \[code language="java"\]Foundations of
-    Java\[/code\]**\
-    \[code language="java"\] public class Recursive {\
+    ```
+-   **example 4 - from textbook ```Foundations of
+    Java```**\
+    ``` public class Recursive {\
     public static void message(int n) { //displays message n times\
     if (n &gt; 0) {\
     System.out.println("This is a recursive method.");\
@@ -192,10 +192,10 @@ CSC251 Study Guide 😓
     }\
     }\
     }\
-    \[/code\]
--   **example 5 - from textbook \[code language="java"\]Foundations of
-    Java\[/code\]**\
-    \[code language="java"\] public static int fib(int n) { // returns
+    ```
+-   **example 5 - from textbook ```Foundations of
+    Java```**\
+    ``` public static int fib(int n) { // returns
     nth number in Fibonacci sequence\
     if (n == 0)\
     return 0;\
@@ -204,29 +204,29 @@ CSC251 Study Guide 😓
     else\
     return fib(n - 1) + fib(n - 2);\
     }\
-    \[/code\]
--   **example 6 - from textbook \[code language="java"\]Foundations of
-    Java\[/code\]**\
-    \[code language="java"\] public static int factorial(int n) { //
+    ```
+-   **example 6 - from textbook ```Foundations of
+    Java```**\
+    ``` public static int factorial(int n) { //
     returns factorial of non-negative argument\
     if (n == 0)\
     return 1;\
     else\
     return n \* factorial(n-1);\
     }\
-    \[/code\]
--   **example 7 - from textbook \[code language="java"\]Foundations of
-    Java\[/code\]**\
-    \[code language="java"\] public static int gcd(int x, int y) { //
+    ```
+-   **example 7 - from textbook ```Foundations of
+    Java```**\
+    ``` public static int gcd(int x, int y) { //
     returns greater common denominator of two arguments\
     if (x % y == 0)\
     return y;\
     else\
     return gcd(y, x % y);\
     }\
-    \[/code\]
+    ```
 
-------------------------------------------------------------------------
+
 
 > Tips or Tricks? 🔎
 >

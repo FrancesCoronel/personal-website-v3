@@ -15,7 +15,7 @@ I’ve also tutored kids at the elementary, middle, and high school level on how
 
 > As of **May 2017**, I’ve dedicated **over 55 hours** of my free time mentoring awesome people.
 
-Feedback from my mentoring sessions can be found in the [feedback section](https://fvcproductions.com/feedback) of my website.
+Feedback from my mentoring sessions can be found in the [feedback section](https://fvcproductions.com/reviews/) of my website.
 
 ### If you’re interested in being mentored, please feel free to [contact me](https://fvcproductions.com/contact) through my website. 📨
 

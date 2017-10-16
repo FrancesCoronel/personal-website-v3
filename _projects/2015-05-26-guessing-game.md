@@ -6,9 +6,7 @@ header:
 ---
 
 [![The Guessing
-Game](https://fvcproductions.files.wordpress.com/2015/06/unknown.png){.aligncenter
-.wp-image-2422 .size-full width="760"
-height="447"}](https://fvcproductions.github.io/Guessing-Game/)
+Game](https://fvcproductions.files.wordpress.com/2015/06/unknown.png)](https://fvcproductions.github.io/Guessing-Game/)
 
 Overview
 ========
@@ -22,8 +20,8 @@ Academy](https://fullstackacademy.com "Fullstack Academy").
 Screenshots
 -----------
 
-\[gallery type="rectangular" size="full" ids="2999,3000,2422"
-orderby="rand"\]
+TODO: [gallery type="rectangular" size="full" ids="2999,3000,2422"
+]
 
 Features
 --------

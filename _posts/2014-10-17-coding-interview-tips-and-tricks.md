@@ -18,22 +18,20 @@ tags:
     - tips and tricks
 ---
 
-[![tumblr\_nd30ogjKdp1qcrg73o1\_500](https://fvcproductions.files.wordpress.com/2014/10/tumblr_nd30ogjkdp1qcrg73o1_500.jpg){.aligncenter
-.wp-image-908 .size-full width="480"
-height="359"}](https://fvcproductions.files.wordpress.com/2014/10/tumblr_nd30ogjkdp1qcrg73o1_500.jpg)
+[![tumblr\_nd30ogjKdp1qcrg73o1\_500](https://fvcproductions.files.wordpress.com/2014/10/tumblr_nd30ogjkdp1qcrg73o1_500.jpg)](https://fvcproductions.files.wordpress.com/2014/10/tumblr_nd30ogjkdp1qcrg73o1_500.jpg)
 
 So I decided to compile a bunch of fun interview topics of interest and
 questions. This article is limited to what I know from my job
 interviews.
 
-------------------------------------------------------------------------
 
-So For Those Who Are Looking Forward To Technical Interviews For Software Developer Internships… {#so-for-those-who-are-looking-forward-to-technical-interviews-for-software-developer-internships style="text-align:center;"}
+
+So For Those Who Are Looking Forward To Technical Interviews For Software Developer Internships…
 ================================================================================================
 
 ***Here we go!*** :grin:
 
-------------------------------------------------------------------------
+
 
 **Overview**
 ------------
@@ -43,7 +41,7 @@ So For Those Who Are Looking Forward To Technical Interviews For Software Develo
 - [Sample Personal Q's](#section-samplepq)
 - [Questions to Ask Your Interviewer](#section-interviewerq)
 
-------------------------------------------------------------------------
+
 
 ### **General Topics Covered** {#section-topics}
 
@@ -54,7 +52,7 @@ So For Those Who Are Looking Forward To Technical Interviews For Software Develo
 -   bit manipulation
 -   string manipulation
 
-------------------------------------------------------------------------
+
 
 ### **Sample Technical Q's** {#section-sampletq}
 
@@ -67,7 +65,7 @@ So For Those Who Are Looking Forward To Technical Interviews For Software Develo
 -   What techniques can be used to design a spam filter?
 -   What features should `so and so` server provide?
 
-------------------------------------------------------------------------
+
 
 ### **Sample Personal Q's** {#section-samplepq}
 
@@ -77,7 +75,7 @@ So For Those Who Are Looking Forward To Technical Interviews For Software Develo
 -   How often do you code?
 -   Have you worked on projects outside of class? If so, why?
 
-------------------------------------------------------------------------
+
 
 ### **Questions to Ask Your Interviewer** {#section-interviewerq}
 
@@ -89,7 +87,7 @@ So For Those Who Are Looking Forward To Technical Interviews For Software Develo
     -   What is the interaction between them like?
 -   Were you ever an intern yourself?
 
-------------------------------------------------------------------------
+
 
 > *Tips or tricks?*
 >

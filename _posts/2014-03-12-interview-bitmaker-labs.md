@@ -23,58 +23,30 @@ tags:
     - web dev
 ---
 
-So this past winter, I applied to [**Bitmaker
-Labs**](https://bitmakerlabs.com "BitmakerLabs") for their summer 2014
-full-time web development immersive course and was luckily accepted.
+So this past winter, I applied to [**Bitmaker Labs**](https://bitmakerlabs.com "BitmakerLabs") for their summer 2014 full-time web development immersive course and was luckily accepted.
 
-Bitmaker Labs is a coding boot camp located in Toronto, Canada that
-focuses on making curious people great web developers within 9 weeks.
+Bitmaker Labs is a coding boot camp located in Toronto, Canada that focuses on making curious people great web developers within 9 weeks.
 
-*Unfortunately*, I won't be able to attend given that I have mandatory
-school courses I have to take, but for anyone looking to learn more
-about coding, specifically within web development, I'd definitely
-recommend this one.
+*Unfortunately*, I won't be able to attend given that I have mandatory school courses I have to take, but for anyone looking to learn more about coding, specifically within web development, I'd definitely recommend this one.
 
-[![Screen Shot 2014-03-12 at 2.41.13
-PM](https://fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-12-at-2-41-13-pm.png){.size-full
-.wp-image-239 .aligncenter width="696"
-height="353"}](https://fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-12-at-2-41-13-pm.png)
+[![Screen Shot 2014-03-12 at 2.41.13 PM](https://fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-12-at-2-41-13-pm.png)](https://fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-12-at-2-41-13-pm.png)
 
-Not only do they have a web-development immersive session, they also
-specialize in iOS dev and UI design.
+Not only do they have a web-development immersive session, they also specialize in iOS dev and UI design.
 
-The people who interviewed me were extremely amiable and I never felt
-too antsy all throughout the process.
+The people who interviewed me were extremely amiable and I never felt too antsy all throughout the process.
 
-You can learn more about Bitmaker Labs courses  at their wonderfully
-designed website located
-[here](https://bitmakerlabs.com/courses/ "Bitmaker Lab Courses").
+You can learn more about Bitmaker Labs courses at their wonderfully designed website located [here](https://bitmakerlabs.com/courses/ "Bitmaker Lab Courses").
 
-Bitmaker Labs definitely sounds like a worthy investment, so don't
-hesitate!
+Bitmaker Labs definitely sounds like a worthy investment, so don't hesitate!
 
-Oh, and then actually make sure your schedule works around it. It'll
-save you some trouble.
+Oh, and then actually make sure your schedule works around it. It'll save you some trouble.
 
-I've also included the curriculum they sent me while I was involved in
-the application process. Here it is:
+I've also included the curriculum they sent me while I was involved in the application process. Here it is:
 
 \[scribd id=212098992 key=key-hh0dv63n5f06s1eiopj mode=scroll\]
 
-------------------------------------------------------------------------
+
 
 I also have shared my **interview experience** with bootcamps such as
 
-- [Coding
-    Dojo](https://fvcproductions.com/blog/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
-- [Coding
-    House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
-- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
-- [Dev
-    League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
-- [Fullstack
-    Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
-- [Hack
-    Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
-- [Maker
-    Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
+- [Coding Dojo](/blog/2015/01/06/interview-coding-dojo/) - [Coding House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠") - [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨") - [Dev League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻") - [Fullstack Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻") - [Hack Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑") - [Maker Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")

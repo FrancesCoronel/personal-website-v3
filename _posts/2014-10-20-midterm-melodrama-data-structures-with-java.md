@@ -20,12 +20,12 @@ tags:
     - study guide
 ---
 
-CSC251 Study Guide {#csc251-study-guide style="text-align:center;"}
+CSC251 Study Guide
 ==================
 
-### Midterm Melodrama {#midterm-melodrama style="text-align:center;"}
+### Midterm Melodrama
 
-------------------------------------------------------------------------
+
 
 Index
 -----
@@ -69,7 +69,7 @@ Index
 
 - [Basic Definitions & Phrases](#section-defintions)
 
-------------------------------------------------------------------------
+
 
 ### Array Properties {#section-arrays}
 
@@ -81,7 +81,7 @@ Index
     -   linear
     -   can add/remove at any position
 
-------------------------------------------------------------------------
+
 
 ### Stack Properties {#section-stacks}
 
@@ -95,22 +95,22 @@ Index
 -   *defintion*
     -   data structure of ordered items such that items can be inserted
         and removed only at 1 end (called the \[code
-        language="java"\]top\[/code\])
+        language="java"\]top```)
 -   *diagram*![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Data_stack.svg/1280px-Data_stack.svg.png)
 -   *conceptual implementation*
     -   First In, First Out (FIFO)
         -   add to rear and remove from front
 -   *operations*
-    -   \[code language="java"\]push\[/code\] - adds item to stack
-    -   \[code language="java"\]pop\[/code\] - deletes item from stack
-    -   \[code language="java"\]peek\[/code\] - looks at top item in
+    -   ```push``` - adds item to stack
+    -   ```pop``` - deletes item from stack
+    -   ```peek``` - looks at top item in
         stack
-    -   \[code language="java"\]size\[/code\] - returns \# of elements
+    -   ```size``` - returns \# of elements
         in stack by examining top
-    -   \[code language="java"\]isEmpty\[/code\] - tests for emptiness
+    -   ```isEmpty``` - tests for emptiness
         in stack by examining top
 
-------------------------------------------------------------------------
+
 
 ### Queue Properties {#section-queues}
 
@@ -128,44 +128,44 @@ Index
     -   First In, First Out (FIFO)
         -   add to rear and remove from front
 -   *operations*
-    -   \[code language="java"\]enqueue\[/code\] - adds item to queue
-    -   \[code language="java"\]dequeue\[/code\] - removes item from
+    -   ```enqueue``` - adds item to queue
+    -   ```dequeue``` - removes item from
         queue
-    -   \[code language="java"\]first\[/code\] - looks at top item in
+    -   ```first``` - looks at top item in
         stack - so front
-    -   \[code language="java"\]size\[/code\] - returns \# of elements
+    -   ```size``` - returns \# of elements
         in queue by examining top
-    -   \[code language="java"\]isEmpty\[/code\] - tests for emptiness
+    -   ```isEmpty``` - tests for emptiness
         by examining top
 
-------------------------------------------------------------------------
+
 
 ### Stack Code & Algorithms {#section-stackcode}
 
 > *isEmpty*
 
-\[code language="java"\]int top = -1; //or 0\
+```int top = -1; //or 0\
 public boolean isEmpty () {\
 return (top == -1);\
 }\
-\[/code\]
+```
 
 > *isFull*
 
-\[code language="java"\]public boolean isFull() {\
+```public boolean isFull() {\
 return (top == size-1);\
 }\
-\[/code\]
+```
 
 > *add to stack*
 
-\[code language="java"\]public void add (int element) {\
+```public void add (int element) {\
 if (isFull() == true)\
 System.out.println("Stack full, cannot add element.");\
 else\
 stack\[++top\] = element;\
 }\
-\[/code\]
+```
 
 1. check if stack is not full
 2. set top position of array to element being added to stack
@@ -173,13 +173,13 @@ stack\[++top\] = element;\
 
 > *delete from stack*
 
-\[code language="java"\]public int delete () {\
+```public int delete () {\
 if (isEmpty() == true)\
 System.out.println("Stack empty, cannot delete element.");\
 else\
 return stack\[top--\];\
 }\
-\[/code\]
+```
 
 1. check if stack is not empty
 2. decrement top
@@ -187,17 +187,17 @@ return stack\[top--\];\
 
 > *print in order*
 
-\[code language="java"\]public void printOrder() {\
+```public void printOrder() {\
 while(!isEmpty()) {\
 int value = remove();\
 System.out.print(value + " ");\
 }\
 }\
-\[/code\]
+```
 
 > *find an element in stack*
 
-\[code language="java"\]public boolean find(int element) {\
+```public boolean find(int element) {\
 System.out.print("Please enter element to find: ");\
 element = keyboard.nextInt();\
 for (int i = 0; i &lt; size; i++) {\
@@ -206,9 +206,9 @@ return true;\
 }\
 return false;\
 }\
-\[/code\]
+```
 
-------------------------------------------------------------------------
+
 
 ### Comparing Stacks & Queues {#section-comparing}
 
@@ -246,7 +246,7 @@ return false;\
     -   luggage checking machine
     -   phone answering system for most big tech companies
 
-------------------------------------------------------------------------
+
 
 ### Queue Algorithms {#section-queuealgo}
 
@@ -264,7 +264,7 @@ return false;\
     -   advance queue indexes front (to delete an item) and back (to
         insert an item) by moving them both clockwise around array
 
-------------------------------------------------------------------------
+
 
 ### Basic Definitions & Phrases {#section-definitions}
 
@@ -296,7 +296,7 @@ return false;\
     -   writing methods & procedures to implement operations of data for
         given data types
 
-------------------------------------------------------------------------
+
 
 > **TO NOTE**
 >
@@ -305,7 +305,7 @@ return false;\
 > > on this test; but you should be able to write an algorithm to
 > > demonstrate the concept of a queue.
 
-------------------------------------------------------------------------
+
 
 > Tips or Tricks?
 >

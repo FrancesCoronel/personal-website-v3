@@ -29,8 +29,8 @@ Serving ACM student chapters from the VA since November 2015.
 
 ### Screenshots
 
-\[gallery type="rectangular" size="full" ids="3676,3677,3678"
-orderby="rand"\]
+TODO: [gallery type="rectangular" size="full" ids="3676,3677,3678"
+]
 
 ### Tutorial
 

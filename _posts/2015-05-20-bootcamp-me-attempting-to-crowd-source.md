@@ -48,7 +48,7 @@ users to develop - surprise, surprise - crowdsourced maps.
 
 \[caption width="" align="aligncenter"\][![Mapme | Coding
 Bootcamps](https://fvcproductions.files.wordpress.com/2015/05/codingbootcamps.png)](https://fvcproductions.files.wordpress.com/2015/05/codingbootcamps.png)
-Mapme | Coding Bootcamps\[/caption\]
+Mapme | Coding Bootcamps
 
 You can find this work in progress at [mapme.com/coding-bootcamps](https://mapme.com/coding-bootcamps "Mapme | Coding Bootcamps").
 ---------------------------------

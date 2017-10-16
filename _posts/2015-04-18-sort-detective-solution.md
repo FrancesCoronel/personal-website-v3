@@ -35,7 +35,7 @@ tags:
 
 > This tutorial is "certifiably" Mac Friendly. Whoop. 
 
-------------------------------------------------------------------------
+
 
 Files Provided To You
 ---------------------
@@ -49,7 +49,7 @@ Files Provided To You
 > their matching sorting method (selection, insertion, bubble, quick,
 > merge, & heap sort).
 
-------------------------------------------------------------------------
+
 
 Step 1 - Download JD-GUI
 ------------------------
@@ -60,7 +60,7 @@ Head over to the Java Decompiler [page located at
 
 ![](https://fvcproductions.files.wordpress.com/2015/04/jd-gui.png)
 
-------------------------------------------------------------------------
+
 
 Step 2 - Launch JD-GUI
 ----------------------
@@ -70,14 +70,14 @@ application.
 
 ![](https://fvcproductions.files.wordpress.com/2015/04/jd-gui-unzipped.png)
 
-------------------------------------------------------------------------
+
 
 Step 3 - Open your `SortDetective.jar` file using `JD-GUI`
 ----------------------------------------------------------
 
 ![](https://fvcproductions.files.wordpress.com/2015/04/open-sortdetective.png)
 
-------------------------------------------------------------------------
+
 
 Step 4 - Find the Formula That Determines The Order
 ===================================================
@@ -106,7 +106,7 @@ out the ordering all just depends on the formula the program uses.
 
 ![](https://fvcproductions.files.wordpress.com/2015/04/selectedpermutation.png)
 
-------------------------------------------------------------------------
+
 
 Step 5 - Apply Formula To `experimentOrders`
 --------------------------------------------
@@ -134,11 +134,11 @@ the Greek letters for me would go
 -   Epsilon - Insertion Sort
 -   Zeta - Heap Sort
 
-------------------------------------------------------------------------
+
 
 ### Good luck with your HW! :wink:
 
-------------------------------------------------------------------------
+
 
 > Tips or tricks?
 >

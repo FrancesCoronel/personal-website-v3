@@ -13,9 +13,7 @@ Overview
 ========
 
 [![White
-Banner](https://fvcproductions.files.wordpress.com/2016/01/white-banner.png){.aligncenter
-.size-full .wp-image-3842 width="750"
-height="250"}](https://fvcproductions.files.wordpress.com/2016/01/white-banner.png)
+Banner](https://fvcproductions.files.wordpress.com/2016/01/white-banner.png)](https://fvcproductions.files.wordpress.com/2016/01/white-banner.png)
 
 Check out the website at `cs.odu.edu/~acm/hackathon/`. {#check-out-the-web-site-at--a-href--http:--www.cs.odu.edu--acm-hackathon---target--_blank---code-cs.odu.edu--acm-hackathon---code---a- style="text-align:center;"}
 ------------------------------------------------------
@@ -45,8 +43,8 @@ tasks.
 
 ### Screenshots
 
-\[gallery type="rectangular" size="full" ids="3842,3845,3841,3852,3853"
-orderby="rand"\]
+TODO: [gallery type="rectangular" size="full" ids="3842,3845,3841,3852,3853"
+]
 
 ### Tools
 

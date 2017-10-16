@@ -55,9 +55,7 @@ tags:
 ---
 
 [![Binding of
-Isaac](https://fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg){.aligncenter
-.wp-image-4094 .size-full width="750"
-height="382"}](https://fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg)
+Isaac](https://fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg)](https://fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg)
 
 > **WARNING** SPOILERS AHEAD.
 
@@ -119,8 +117,7 @@ His own mother tries to murder him. {#his-own-mother-tries-to-murder-him. style=
  
 
 ![Mother
-Murdering](https://fvcproductions.files.wordpress.com/2016/02/cfafc-tboi-24.png){.aligncenter
-width="1014" height="763"}
+Murdering](https://fvcproductions.files.wordpress.com/2016/02/cfafc-tboi-24.png)
 
  
 
@@ -223,9 +220,7 @@ they represent the seven deadly sins:
 7.  Lust
 
 [![7 Deadly
-Sins](https://fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-37-42.png){.aligncenter
-.size-full .wp-image-4102 width="482"
-height="438"}](https://fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-37-42.png)
+Sins](https://fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-37-42.png)](https://fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-37-42.png)
 
 I feel like these monsters, in particular, were designed so carefully so
 as to accurately represent the given sin. It's quite amazing.
@@ -236,9 +231,7 @@ you've completed the game all the way through once (i.e. *Isaac*
 successfully killed Mom).
 
 [![Headless
-Horseman](https://fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-44-03.png){.aligncenter
-.size-full .wp-image-4103 width="750"
-height="288"}](https://fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-44-03.png)
+Horseman](https://fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-44-03.png)](https://fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-44-03.png)
 
 Once I realized that every horseman can drop a cube of meat, I looked
 forward to battling them every time I entered a boss room at the end of
@@ -247,21 +240,17 @@ each floor.
 *You see, a cube of meat means being able to create your own friend,
 **Meat Boy***.
 
-\[caption id="" align="alignleft" width="200"\]![First
-Stage](https://vignette2.wikia.nocookie.net/bindingofisaac/images/4/41/Meat1boy.png/revision/latest?cb=20130125213417){width="200"
-height="167"} First Stage\[/caption\]
+![First
+Stage](https://vignette2.wikia.nocookie.net/bindingofisaac/images/4/41/Meat1boy.png/revision/latest?cb=20130125213417) First Stage
 
-\[caption id="" align="alignleft" width="200"\]![Second
-Stage](https://vignette1.wikia.nocookie.net/bindingofisaac/images/c/cb/Meat2boy.png/revision/latest?cb=20130125213448){width="200"
-height="173"} Second Stage\[/caption\]
+![Second
+Stage](https://vignette1.wikia.nocookie.net/bindingofisaac/images/c/cb/Meat2boy.png/revision/latest?cb=20130125213448) Second Stage
 
-\[caption id="" align="alignleft" width="200"\]![Third
-Stage](https://vignette2.wikia.nocookie.net/bindingofisaac/images/a/aa/M3atboy.png/revision/latest?cb=20130125213846){width="200"
-height="270"} Third Stage\[/caption\]
+![Third
+Stage](https://vignette2.wikia.nocookie.net/bindingofisaac/images/a/aa/M3atboy.png/revision/latest?cb=20130125213846) Third Stage
 
-\[caption id="" align="aligncenter" width="200"\]![Fourth
-Stage](https://vignette3.wikia.nocookie.net/bindingofisaac/images/f/fd/Meat4boy.png/revision/latest?cb=20130125213925&format=webp){width="200"
-height="280"} Fourth Stage\[/caption\]
+![Fourth
+Stage](https://vignette3.wikia.nocookie.net/bindingofisaac/images/f/fd/Meat4boy.png/revision/latest?cb=20130125213925&format=webp) Fourth Stage
 
 There are four cubes required for a fully formed **Meat Boy** which are
 only dropped by the headless horsemen (naturally, right?). And you
@@ -303,8 +292,8 @@ Minions](https://www.minionmovie.com.au/images/shareimage.jpg)
 In-Game Screenshots {#in-game-screenshots style="text-align:center;"}
 -------------------
 
-\[gallery type="rectangular" size="full"
-ids="3872,3873,3871,3864,3865,3866,3867,3868,3869,3870" orderby="rand"\]
+TODO: [gallery type="rectangular" size="full"
+ids="3872,3873,3871,3864,3865,3866,3867,3868,3869,3870" ]
 
 A *Hearty* Conclusion {#aheartyconclusion style="text-align:center;"}
 ---------------------
@@ -320,7 +309,7 @@ Happy re-birthing. {#happy-re-birthing. style="text-align:center;"}
 
  
 
-------------------------------------------------------------------------
+
 
 > Tips or Tricks?
 >

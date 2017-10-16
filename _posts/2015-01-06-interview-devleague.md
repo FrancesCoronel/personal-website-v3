@@ -38,9 +38,7 @@ login: fvcproductions email: fvcproductions@gmail.com display\_name:
  excerpt: I
 applied to DevLeague, a new coding bootcamp in Hawaii! ---
 
-\[caption id="attachment\_1501" align="aligncenter"
-width="660"\]![DevLeague](https://fvcproductions.files.wordpress.com/2015/01/devleague2.jpg){.wp-image-1501
-.size-full width="660" height="154"} Mahalo, indeed.\[/caption\]
+![DevLeague](https://fvcproductions.files.wordpress.com/2015/01/devleague2.jpg) Mahalo, indeed.
 
 My Experience With [DevLeague](https://www.devleague.com "DevLeague") {#my-experience-with-devleague style="text-align:center;"}
 ====================================================================
@@ -58,7 +56,7 @@ My Experience With [DevLeague](https://www.devleague.com "DevLeague") {#my-exper
 > That being said, I'm not releasing anything here without DevLeague's
 > permission.
 
-------------------------------------------------------------------------
+
 
 I decided to apply to DevLeague since they were the first of their kind
 in Hawaii. I have some connection with Hawaii. I've actually never been,
@@ -80,7 +78,7 @@ program.
 > Manoa](https://www.ics.hawaii.edu "UH@Manoa CS") for my grad studies in
 > CS so there's that too.
 
-------------------------------------------------------------------------
+
 
 Part 1: The Application 📝
 -------------------------
@@ -99,7 +97,7 @@ Part 1: The Application 📝
 -   Again, the process overall was clean, efficient, and very organized.
     No problems here.
 
-------------------------------------------------------------------------
+
 
 Part 2: The Interview 📞
 -----------------------
@@ -111,7 +109,7 @@ Part 2: The Interview 📞
 >
 > personal comments are highlighted `like this`
 
-------------------------------------------------------------------------
+
 
 1. **Yield rate - out of the applicants you accept, what percentage end
     up attending?**\
@@ -172,7 +170,7 @@ Part 2: The Interview 📞
     > had the opportunity to learn that quickly when I was younger.
     > `Truth.`
 
-------------------------------------------------------------------------
+
 
 Part 3: The Decision 💡
 ----------------------
@@ -187,20 +185,20 @@ after you're accepted\
 - as the student gets closer to the session start date, payment plans
 are put into place
 
-------------------------------------------------------------------------
+
 
 https://www.facebook.com/permalink.php?story\_fbid=702971763154795&id=419352214850086
 
-\https://twitter.com/devleaguehawaii/status/556569297133510656\]
+https://twitter.com/devleaguehawaii/status/556569297133510656\]
 
-------------------------------------------------------------------------
+
 
 I also have shared my **interview experience** with bootcamps such as
 
 - [Bitmaker
-    Labs](https://fvcproductions.com/blog/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
+    Labs](/blog/2014/03/12/interview-bitmaker-labs/)
 - [Coding
-    Dojo](https://fvcproductions.com/blog/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
+    Dojo](/blog/2015/01/06/interview-coding-dojo/)
 - [Coding
     House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
 - [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
@@ -211,7 +209,7 @@ I also have shared my **interview experience** with bootcamps such as
 - [Maker
     Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
-------------------------------------------------------------------------
+
 
 > Tips or tricks?
 >

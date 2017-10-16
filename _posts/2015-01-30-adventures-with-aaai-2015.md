@@ -50,7 +50,7 @@ tags:
 > > words, it's meant to be informal so do not take it too seriously
 > > (kind of like everything else in blogging).
 
-------------------------------------------------------------------------
+
 
 Day 1 - Sunday, January 25 - ARRIVAL {#day-1---sunday-january-25---arrival style="text-align:center;"}
 ------------------------------------
@@ -98,7 +98,7 @@ morning.
 
 Time for sleep. **Third win.**
 
-------------------------------------------------------------------------
+
 
 Day 2 - Monday, January 26 {#day-2---monday-january-26 style="text-align:center;"}
 --------------------------
@@ -170,7 +170,7 @@ own and later took a tour.
 
 I almost fall asleep on the shuttle back to the hotel.
 
-------------------------------------------------------------------------
+
 
 Day 3 - Tuesday, January 27 {#day-3---tuesday-january-27 style="text-align:center;"}
 ---------------------------
@@ -237,7 +237,7 @@ where various companies/institutions will gather to showcase what
 they're currently working on as well. I walk around, eat some food, and
 get to bed.
 
-------------------------------------------------------------------------
+
 
 Day 4 - Wednesday, January 27 {#day-4---wednesday-january-27 style="text-align:center;"}
 -----------------------------
@@ -331,7 +331,7 @@ scene outside.
 I have to wake up early in the morning, so once the event officially
 ends at 10 pm, I ask if I can leave to go to bed.
 
-------------------------------------------------------------------------
+
 
 Day 5 - Thursday, January 28
 ----------------------------
@@ -423,7 +423,7 @@ Bitcoin and why it's obvious there is a lot of risk involved.
 Also, there was wild mushroom pasta, which was quite possibly the best
 thing I ate since I arrived.
 
-------------------------------------------------------------------------
+
 
 Day 6 - Friday, January 30 - DEPARTURE
 --------------------------------------
@@ -466,7 +466,7 @@ minute she greets me, and my mom has some mushroom pasta fixed for me.
 
 All in all, it's been rather delightful.
 
-------------------------------------------------------------------------
+
 
 \[gigya src="https://prezi.com/bin/preziloader.swf"
 allowfullscreen="true" allowscriptaccess="always" width="550"
@@ -477,7 +477,7 @@ flashvars="prezi\_id=8yrxnvwr2bfo&lock\_to\_path=1&color=ffffff&autoplay=no&auto
 If Prezi does not work, check it out
 [here](https://prezi.com/8yrxnvwr2bfo/?utm_campaign=share&utm_medium=copy&rc=ex0share "Prezi")!
 
-------------------------------------------------------------------------
+
 
 > Tips or tricks?
 >

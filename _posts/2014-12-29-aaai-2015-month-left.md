@@ -28,12 +28,10 @@ Holy crap, I just got my plane ticket for this.
 
 It's happening.
 
-\[caption id="" align="aligncenter"
-width="689"\][![](https://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif){width="689"
-height="374"}](https://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif)
-do the Bender dance…\[/caption\]
+[![](https://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif)](https://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif)
+do the Bender dance…
 
-------------------------------------------------------------------------
+
 
 I'll be acting as a volunteer for [the
 conference](https://www.aaai.org/Conferences/AAAI/aaai15.php "AAAI 2015 Winter Conference")
@@ -64,12 +62,9 @@ incurring extra travel costs. Either way, it's probably going to cost me
 roughly \$1.5K not including the \$200 scholarship they gave me. Ah,
 well. Hopefully, it'll be worth it! See lovely flight details below.
 
-\[caption id="attachment\_1383" align="aligncenter"
-width="600"\][![Delta Flight
-Details](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-30-20-31-34.png){.wp-image-1383
-.size-full width="600"
-height="622"}](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-30-20-31-34.png)
-I'll take the very back window seat please, thanks.\[/caption\]
+[![Delta Flight
+Details](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-30-20-31-34.png)](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-30-20-31-34.png)
+I'll take the very back window seat please, thanks.
 
 Thankfully, with a scholarship I got from the
 [VSGC](https://vsgc.odu.edu "VSGC @ ODU"), I'll be able to pay off the
@@ -82,7 +77,7 @@ yet in terms of scheduling.
 
 I mean, I just know the basics as of right now…
 
-------------------------------------------------------------------------
+
 
 **AAAI–15 Program Overview**
 
@@ -122,7 +117,7 @@ I mean, I just know the basics as of right now…
 -   **Friday, January 30**
     -   **And I'm off in the morning!**
 
-------------------------------------------------------------------------
+
 
 Any-whoozies, should be fun overall. I'll be rooming alone,
 unfortunately, since my roommate request didn't end successfully but
@@ -131,11 +126,9 @@ hopefully I'll meet some friendly fellow volunteers!
 Cheers,\
 [fvcproductions](https://twitter.com/fvcproductions "Twitter - FVCproductions")
 
-------------------------------------------------------------------------
+
 
 [![AAAI-2015
-Banner](https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg){.aligncenter
-.size-full .wp-image-1384 width="760"
-height="272"}](https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg)
+Banner](https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg)](https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg)
 
 *\^ I made a banner for the conference out of sheer excitement!*

@@ -28,7 +28,7 @@ Studio.
 
 ![poster](https://fvcproductions.files.wordpress.com/2016/12/poster.png)
 
-\[gallery ids="5238,5239,5240,5237" type="rectangular" orderby="rand"\]
+TODO: [gallery ids="5238,5239,5240,5237" type="rectangular" ]
 
 ## Tools Used
 

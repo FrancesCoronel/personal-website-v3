@@ -36,8 +36,8 @@ Stats as of November 2016 {#stats}
 Screenshots
 -----------
 
-\[gallery type="rectangular" size="full"
-ids="3686,3687,3688,3689,3690,3691" orderby="rand"\]
+TODO: [gallery type="rectangular" size="full"
+ids="3686,3687,3688,3689,3690,3691" ]
 
 Tools
 -----

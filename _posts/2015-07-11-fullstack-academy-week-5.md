@@ -55,7 +55,7 @@ tags:
 >
 > ❤️
 
-------------------------------------------------------------------------
+
 
 Day One - Monday
 ----------------
@@ -71,7 +71,7 @@ Grid](https://img15.deviantart.net/1ea4/i/2012/184/d/1/c__s_grid___tron_wallpape
 
 \[youtube=https://www.youtube.com/watch?v=YKEZoOjc6to\]
 
-------------------------------------------------------------------------
+
 
 ![cDock](https://www.macupdate.com/images/icons256/51149.png)
 
@@ -92,7 +92,7 @@ Grid](https://img15.deviantart.net/1ea4/i/2012/184/d/1/c__s_grid___tron_wallpape
 > ![I have yet to watch a movie about Steve
 > Jobs.](https://www.scubaboard.com/forums/attachment.php?attachmentid=136243&stc=1&d=1348241804)
 
-------------------------------------------------------------------------
+
 
 Day Two - Tuesday
 -----------------
@@ -112,7 +112,7 @@ Day Two - Tuesday
 
 ![Purty.](https://i.imgur.com/LLMi7ye.jpg)
 
-------------------------------------------------------------------------
+
 
 ![Women Who Code
 NYC](https://photos4.meetupstatic.com/photos/event/9/0/a/8/600_341377032.jpeg)
@@ -124,7 +124,7 @@ NYC](https://photos4.meetupstatic.com/photos/event/9/0/a/8/600_341377032.jpeg)
     two best ones were by folks from Fullstack Academy. Not even trying
     to exaggerate or anything, that's just what happened. ¯\\\_(ツ)\_/¯
 
-------------------------------------------------------------------------
+
 
 Day Three - Wednesday
 ---------------------
@@ -149,7 +149,7 @@ Win!](https://storage.vexxhost.net/v1/d7594b0298b54bcc9e4e0f252e1da2e4/blog/mean
     browser. My partner and I breezed through this workshop so yeah, we
     were feeling pretty confident. 😎😎😎
 
-------------------------------------------------------------------------
+
 
 Day Four - Thursday
 -------------------
@@ -207,7 +207,7 @@ Tech](https://tech.cornell.edu/static/css/images/content-logo.png)
 ![Cornell Tech New
 Campus](https://tech.cornell.edu/uploads/galleries/_full/campus-view-from-manhattan-aerial.jpg)
 
-------------------------------------------------------------------------
+
 
 Day Five - Friday (And Some of Saturday Too)
 --------------------------------------------
@@ -244,7 +244,7 @@ School](https://ambassador-api.s3.amazonaws.com/uploads/portal/655/2014_09_16_20
 
 \[youtube=https://www.youtube.com/watch?v=qQraeOG-3L8\]
 
-------------------------------------------------------------------------
+
 
 > :arrow: **Overall Conclusion?**
 >
@@ -253,7 +253,7 @@ School](https://ambassador-api.s3.amazonaws.com/uploads/portal/655/2014_09_16_20
 > > ![Taste the rainbow. Feel the
 > > rainbow.](https://media1.giphy.com/media/SKGo6OYe24EBG/200w.gif)
 
-------------------------------------------------------------------------
+
 
 ### Journey Into the Cave of Digital Hieroglyphics
 
@@ -281,7 +281,7 @@ School](https://ambassador-api.s3.amazonaws.com/uploads/portal/655/2014_09_16_20
 - [Fullstack Academy - Week 4
     💲🔮🔮💲](https://fvcproductions.com/blog/2015/07/03/fullstack-academy-week-4/)
 
-------------------------------------------------------------------------
+
 
 > *Tips or tricks?* :idea:
 >

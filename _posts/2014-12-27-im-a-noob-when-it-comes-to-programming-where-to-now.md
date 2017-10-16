@@ -40,7 +40,7 @@ Here, I've compiled a list of 15 great resources I've come to learn about over t
 
 ### I still consider myself a *noob* now (I mean, it's only been 3 years!), but I grow more and more comfortable with the idea that I've never going to know everything and that aspiring to be a great programmer is the same as aspiring to improve yourself constantly everyday in the art. It's what I love about the field and so I hope this list helps you out in your journey into the realm of digital hieroglyphics (as I like to call it) too.
 
-------------------------------------------------------------------------
+
 
 1. [Codecademy](https://codecademy.com/)\
 
@@ -67,9 +67,7 @@ Here, I've compiled a list of 15 great resources I've come to learn about over t
     > iOS, and more.
     >
     > [![Treehouse
-    > Banner](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-06-25.png?w=660){.wp-image-1300
-    > .size-large .aligncenter width="660"
-    > height="370"}](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-06-25.png)
+    > Banner](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-06-25.png?w=660)](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-06-25.png)
 
 4.  [Typing.io](https://typing.io/)\
 
@@ -108,9 +106,7 @@ Here, I've compiled a list of 15 great resources I've come to learn about over t
     > the program.
     >
     > [![Online Python Tutor
-    > Banner](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-54-57.png?w=660){.wp-image-1306
-    > .size-large .aligncenter width="660"
-    > height="578"}](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-54-57.png)
+    > Banner](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-54-57.png?w=660)](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-54-57.png)
 
 8.  [coderbyte](https://coderbyte.com)\
 
@@ -146,18 +142,14 @@ Here, I've compiled a list of 15 great resources I've come to learn about over t
     > most valuable language to know.
     >
     > [![JumpStart
-    > JavaScript](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-20-41-12.png?w=660){.wp-image-1301
-    > .size-large .aligncenter width="660"
-    > height="482"}](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-20-41-12.png)
+    > JavaScript](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-20-41-12.png?w=660)](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-20-41-12.png)
 
 12. [SUPERHERO.JS](https://superherojs.com)\
 
     > A collection of the best articles, videos and presentations about
     > creating, testing and maintaining a large JavaScript code base.
     >
-    > [![SUPERHERO.JS](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-20-42-401.png?w=660){.aligncenter
-    > .wp-image-1303 .size-large width="660"
-    > height="372"}](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-20-42-401.png)
+    > [![SUPERHERO.JS](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-20-42-401.png?w=660)](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-20-42-401.png)
 
 13. [The Odin Project](https://www.theodinproject.com/home)\
 
@@ -194,7 +186,7 @@ Here, I've compiled a list of 15 great resources I've come to learn about over t
     >
     > ![](https://cdn.tripwiremagazine.com/wp-content/uploads/2012/05/html-css-design-build-websites.jpg)
 
-------------------------------------------------------------------------
+
 
 > Tips or tricks?
 >

@@ -93,7 +93,7 @@ tags:
 > Also, constantly going through these weed out steps made victory all
 > the sweeter when I made it on the other side.
 
-------------------------------------------------------------------------
+
 
 ## Part 2: The Interview 📞 with [Shaan](https://www.linkedin.com/in/shaanshah "Shaan Shah")
 
@@ -108,7 +108,7 @@ questions were answered by Shaan.
 > answers were paraphrased or just referenced verbatim\
 > personal comments are highlighted `like this`
 
-------------------------------------------------------------------------
+
 
 1. **Yield rate - out of the applicants you accept, what percentage of
     that end up attending?** 85–90%. There are roughly 20–30 applicants
@@ -180,7 +180,7 @@ questions were answered by Shaan.
     order to help each other and collaborate with the code they're
     working on as well.
 
-------------------------------------------------------------------------
+
 
 Part 3: The Decision 💡
 ----------------------
@@ -196,18 +196,18 @@ Here's part of the email they sent me:
 
     The decision to adjust the start date was to provide our instructors a week gap for preparation between the end of the prior class and the start of your class. It will help us ensure that each class starts off on the right foot, and things are seamless from the beginning. We're really excited to be able to do this going forward. The program still remains as a 12 week program.
 
-------------------------------------------------------------------------
 
-\https://twitter.com/CourseReport/status/555387348620689408\]
 
-------------------------------------------------------------------------
+https://twitter.com/CourseReport/status/555387348620689408\]
+
+
 
 I also have shared my **interview experience** with bootcamps such as
 
 - [Bitmaker
-    Labs](https://fvcproductions.com/blog/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
+    Labs](/blog/2014/03/12/interview-bitmaker-labs/)
 - [Coding
-    Dojo](https://fvcproductions.com/blog/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
+    Dojo](/blog/2015/01/06/interview-coding-dojo/)
 - [Coding
     House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
 - [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
@@ -218,7 +218,7 @@ I also have shared my **interview experience** with bootcamps such as
 - [Hack
     Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
 
-------------------------------------------------------------------------
+
 
 Tips or tricks?
 

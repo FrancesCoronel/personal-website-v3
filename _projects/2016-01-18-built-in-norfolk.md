@@ -16,14 +16,11 @@ Check out the badges at [`built-in-norfolk`](https://github.com/fvcproductions/b
 
 Badges for when you're hacking out in Norfolk.
 
-\[caption id="attachment\_5124" align="aligncenter"
-width="750"\][![Built in Norfolk
-Badges](https://fvcproductions.files.wordpress.com/2016/11/cover.png?w=750){.size-large
-.wp-image-5124 width="750"
-height="536"}](https://fvcproductions.files.wordpress.com/2016/11/cover.png)
-Built in Norfolk Badges\[/caption\]
+[![Built in Norfolk
+Badges](https://fvcproductions.files.wordpress.com/2016/11/cover.png?w=750)](https://fvcproductions.files.wordpress.com/2016/11/cover.png)
+Built in Norfolk Badges
 
-### To include a badge in your README, just copy the `Markdown`. {#to-include-a-badge-in-your-readme--just-copy-the--code-markdown--code-.}
+### To include a badge in your README, just copy the `Markdown`.
 
 ![built-in-norfolk-ship](https://cdn.rawgit.com/fvcproductions/built-in-norfolk/master/images/built-in-norfolk-ship.svg)
 

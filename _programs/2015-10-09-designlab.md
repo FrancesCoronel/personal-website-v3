@@ -6,17 +6,29 @@ header:
     image: https://fvcproductions.files.wordpress.com/2015/10/newbanners.jpg
 ---
 
-<img class="size-full wp-image-3451" src="https://fvcproductions.files.wordpress.com/2015/11/designlab.png" alt="Designlab - Logo" width="512" height="512" />
+## Name
 
-<code>August 28, 2015 to October 9, 2015</code>
+<a title="Design 101" href="https://trydesignlab.com" target="_blank" rel="noopener">Designlab - Design 101</a>
 
-<em>Designlab</em>
+## Location
 
-<strong><a title="Design 101" href="https://trydesignlab.com" target="_blank" rel="noopener">Design 101</a></strong>
 Virtual
 
-<a href="https://fvcproductions.com/2015/10/21/my-designlab-experience/" target="_blank" rel="noopener">Learn more</a>
+## Date
 
-[display-posts id="3513" image_size="large" include_date="true" include_excerpt="true" wrapper="div"]
+August 28, 2015 to October 9, 2015
 
-[gallery type="rectangular" size="full" ids="3788,3144,3117,3114,3113" orderby="rand"]
+## Role
+
+Online student
+
+## About
+
+Designlab is the best way to learn UI/UX design skills online — through project-based courses and 1-on-1 mentorship from expert designers.
+
+<a href="https://fvcproductions.com/portfolio/2015/10/09/designlab-submissions/" target="_blank" rel="noopener">I blogged about my experience.</a>
+
+## Projects
+
+<blockquote class="embedly-card"><h4><a href="http://trydesignlab.com/profile/fvcproductions/">fvcproductions's Profile | Designlab</a></h4><p>fvcproductions's profile on Designlab. Designlab is the best way to learn UI & UX design skills online.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

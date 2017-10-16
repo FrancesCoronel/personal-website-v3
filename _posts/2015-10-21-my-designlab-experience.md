@@ -41,12 +41,9 @@ tags:
 What is Designlab? {#section-what}
 ------------------
 
-\[caption id="attachment\_3137" align="aligncenter"
-width="646"\][![Designlab -
-Logo](https://fvcproductions.files.wordpress.com/2015/10/designlab-logo.png){.size-full
-.wp-image-3137 width="646"
-height="218"}](https://fvcproductions.files.wordpress.com/2015/10/designlab-logo.png)
-Designlab - Logo\[/caption\]
+[![Designlab -
+Logo](https://fvcproductions.files.wordpress.com/2015/10/designlab-logo.png)](https://fvcproductions.files.wordpress.com/2015/10/designlab-logo.png)
+Designlab - Logo
 
 > [Designlab](https://trydesignlab.com)is the best way to learn web and
 > mobile design skills online. Practice the principles of visual design,
@@ -81,12 +78,9 @@ required coursework - woot, woot!
 Swag {#section-swag}
 ----
 
-\[caption id="attachment\_3107" align="aligncenter"
-width="750"\][![Designlab -
-Swag](https://fvcproductions.files.wordpress.com/2015/10/designlab-swag.jpg){.wp-image-3107
-.size-full width="750"
-height="750"}](https://fvcproductions.com/?attachment_id=3107) Designlab
-- Swag\[/caption\]
+[![Designlab -
+Swag](https://fvcproductions.files.wordpress.com/2015/10/designlab-swag.jpg)](https://fvcproductions.com/?attachment_id=3107) Designlab
+- Swag
 
 I received a few items in the mail August 31st - ooh la la. The book
 "Steal Like An Artist" was included as part of the package and even
@@ -96,12 +90,9 @@ my mom ended up reading it and will quote from the book now and then.
 My Mentor {#section-mentor}
 ---------
 
-\[caption id="attachment\_3119" align="aligncenter"
-width="750"\][![Designlab -
-Mentor](https://fvcproductions.files.wordpress.com/2015/10/designlab-mentor.png){.size-full
-.wp-image-3119 width="750"
-height="425"}](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-mentor-2/)
-Designlab - Mentor\[/caption\]
+[![Designlab -
+Mentor](https://fvcproductions.files.wordpress.com/2015/10/designlab-mentor.png)](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-mentor-2/)
+Designlab - Mentor
 
 [My mentor,
 ]{style="line-height:1.75;"}[Chad](https://chadtrutt.com/ "Chad Trutt")[
@@ -109,10 +100,9 @@ was pretty cool. I checked ]{style="line-height:1.75;"}out h[is website
 and he has some killer work, like this
 pepper:]{style="line-height:1.75;"}
 
-\[caption id="" align="aligncenter" width="600"\][![Low-Poly Chilli
-Pepper](https://m2.behance.net/rendition/pm/17019797/disp/d7e391ee6a819bdc0bdb3cf9eb6bed0c.jpg){width="600"
-height="450"}](https://m2.behance.net/rendition/pm/17019797/disp/d7e391ee6a819bdc0bdb3cf9eb6bed0c.jpg)
-Low-Poly Chilli Pepper by Chad Trutt\[/caption\]
+[![Low-Poly Chilli
+Pepper](https://m2.behance.net/rendition/pm/17019797/disp/d7e391ee6a819bdc0bdb3cf9eb6bed0c.jpg)](https://m2.behance.net/rendition/pm/17019797/disp/d7e391ee6a819bdc0bdb3cf9eb6bed0c.jpg)
+Low-Poly Chilli Pepper by Chad Trutt
 
 But to be honest, we only ended up Skyping each other once because I was
 always busy or had something going on that was of higher priority. This
@@ -125,12 +115,9 @@ for me! :)
 The Lessons {#section-lessons}
 -----------
 
-\[caption id="attachment\_3118" align="aligncenter"
-width="750"\][![Designlab - Week
-1](https://fvcproductions.files.wordpress.com/2015/10/designlab-week1.png){.size-full
-.wp-image-3118 width="750"
-height="429"}](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-week1/)
-Designlab - Week 1\[/caption\]
+[![Designlab - Week
+1](https://fvcproductions.files.wordpress.com/2015/10/designlab-week1.png)](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-week1/)
+Designlab - Week 1
 
 These are already on their website, but I will share again here.
 
@@ -160,12 +147,9 @@ you're also free to look at it on [my Behance
 portfolio](https://www.behance.net/gallery/29117121/My-Designlab-Experience)
 as well.
 
-\[caption id="attachment\_3114" align="aligncenter"
-width="750"\][![Designlab -
-Profile](https://fvcproductions.files.wordpress.com/2015/10/designlab-profile.png){.size-full
-.wp-image-3114 width="750"
-height="542"}](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-profile-2/)
-Designlab - Profile\[/caption\]
+[![Designlab -
+Profile](https://fvcproductions.files.wordpress.com/2015/10/designlab-profile.png)](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-profile-2/)
+Designlab - Profile
 
 The Difference {#section-difference}
 --------------
@@ -178,22 +162,16 @@ the community and feedback. The articles they provide as mini-lessons
 before each project are all actually free online somewhere, but,
 nonetheless, they were **very** well selected.
 
-\[caption id="attachment\_3109" align="aligncenter"
-width="750"\][![Designlab -
-Discussion](https://fvcproductions.files.wordpress.com/2015/10/designlab-discussion.png){.size-full
-.wp-image-3109 width="750"
-height="429"}](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-discussion-2/)
-Designlab - Discussion\[/caption\]
+[![Designlab -
+Discussion](https://fvcproductions.files.wordpress.com/2015/10/designlab-discussion.png)](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-discussion-2/)
+Designlab - Discussion
 
 The Aftermath {#section-aftermath}
 -------------
 
-\[caption id="attachment\_3120" align="aligncenter"
-width="750"\][![Designlab - Course
-Completion](https://fvcproductions.files.wordpress.com/2015/10/designlab-course-summary.png){.size-full
-.wp-image-3120 width="750"
-height="416"}](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-course-summary/)
-Designlab - Course Completion\[/caption\]
+[![Designlab - Course
+Completion](https://fvcproductions.files.wordpress.com/2015/10/designlab-course-summary.png)](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-course-summary/)
+Designlab - Course Completion
 
 Upon course completion, I received a [nice online
 certificate](https://trydesignlab.com/certificates/design-101/fvcproductions/)

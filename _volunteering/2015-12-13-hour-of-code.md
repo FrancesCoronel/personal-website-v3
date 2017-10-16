@@ -28,8 +28,7 @@ tags:
 Volunteering for the Hour of Code!
 
 ![Code.org - Hour of
-Code](https://fvcproductions.files.wordpress.com/2015/11/codeorg.png){.aligncenter
-.size-full .wp-image-3545 width="512" height="512"}
+Code](https://fvcproductions.files.wordpress.com/2015/11/codeorg.png)
 
 
 
@@ -51,9 +50,9 @@ include\_excerpt="true" wrapper="div"\]
 
  
 
-\[gallery type="rectangular" size="full"
+TODO: [gallery type="rectangular" size="full"
 ids="3620,3521,3523,4258,4257,4256,4255,3626,3625,3570,3562,3563,3619,3621,3622,3623,3624,3568,3567,3566,3564,3524"
-orderby="rand"\]---
+]---
 title: Code.org - December 2015 date: 2015-12-13
 12:00:14.000000000 -05:00 type: page published: true status: publish
 categories: \[\] tags: - code.org - code.org hour of code - december
@@ -66,8 +65,7 @@ Frances last\_name: Coronel excerpt: Volunteered for the Hour of Code
 through Code.org ---
 
 ![Code.org - Hour of
-Code](https://fvcproductions.files.wordpress.com/2015/11/codeorg.png){.size-full
-.wp-image-3545 .alignnone width="512" height="512"}
+Code](https://fvcproductions.files.wordpress.com/2015/11/codeorg.png)
 
 `December 7th to 13th, 2015`
 
@@ -88,6 +86,6 @@ include\_excerpt="true" wrapper="div"\]
 
  
 
-\[gallery type="rectangular" size="full"
+TODO: [gallery type="rectangular" size="full"
 ids="3620,3521,3523,4258,4257,4256,4255,3626,3625,3570,3562,3563,3619,3621,3622,3623,3624,3568,3567,3566,3564,3524,3791,3512,3517,3525"
-orderby="rand"\]
+]

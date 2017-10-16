@@ -53,7 +53,7 @@ span of time.
 
 > "Together, our brains created Hiredot."
 
-------------------------------------------------------------------------
+
 
 ![Hack](https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/wrench-128.png)
 
@@ -67,10 +67,10 @@ experience. Students and companies can also be matched together through
 their preferences using the [stable marriage
 algorithm](https://www.wikiwand.com/en/Stable_marriage_problem "Stable Marriage").
 
-\[gallery type="slideshow" size="full" link="file"
+TODO: [gallery type="slideshow" size="full" link="file"
 ids="2705,2704,2701,2699,2698,2697,2702,2700,2703"\]
 
-------------------------------------------------------------------------
+
 
 ![Friends &
 Family](https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/theatre-128.png)
@@ -100,7 +100,7 @@ watched what would probably be the last episode I ever watch of the show
 Probably not a very ideal way to end an awesome experience, but then
 again, it was also really relaxing. 😁
 
-------------------------------------------------------------------------
+
 
 ![Traveling](https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/luggage-128.png)
 
@@ -126,11 +126,11 @@ tomorrow at 10 am.
 
 Should be interesting.
 
-------------------------------------------------------------------------
+
 
 ### For the rest of this post, I want to cover a few other smaller points. {#fortherestofthispostiwanttocoverafewothersmallerpoints.}
 
-------------------------------------------------------------------------
+
 
 ![Pricey
 Stuff](https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/bill-128.png)
@@ -161,7 +161,7 @@ expenses.
 > All I can say is that I'm glad I'm not taking that many credits this
 > semester so I can take on a part-time job. Wooweee..
 
-------------------------------------------------------------------------
+
 
 ![Time
 Flies](https://cdn4.iconfinder.com/data/icons/ballicons-2-free/100/669347-watch-128.png)
@@ -184,14 +184,14 @@ spent outside of class.
 
 If that's not an immersive experience, I don't know what is.
 
-------------------------------------------------------------------------
+
 
 At the end of the day, I'm really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye-opening pair programming sessions, and the amazingly bright people. {#attheendofthedayimreallygratefuliwasabletoenjoyeverythingfullstackacademyhastoofferfromladieslunchesmylearningteamlaughseyeopeningpairprogrammingsessionsandtheawesomepeople.}
 ===============================================================================================================================================================================================================================
 
 > It's been real (awesome).
 
-------------------------------------------------------------------------
+
 
 The **Jubilant** Journey I Took Into the Cave of Digital Hieroglyphics {#thejourneyitookintothecaveofdigitalhieroglyphics style="text-align:center;"}
 ----------------------------------------------------------------------
@@ -227,20 +227,17 @@ The **Jubilant** Journey I Took Into the Cave of Digital Hieroglyphics {#thejour
     Reflections](https://fvcproductions.com/blog/2015/08/30/fullstack-academy-reflections/)
     🕝
 
-------------------------------------------------------------------------
+
 
 > *Tips or tricks?* :idea:
 >
 > > tweet me at [`@fvcproductions`](https://twitter.com/fvcproductions).
 
-------------------------------------------------------------------------
+
 
 *Part of my review for Fullstack Academy on Quora was featured on their
 website!*
 
-\[caption id="attachment\_3509" align="aligncenter"
-width="750"\][![Testimonial
-Section](https://fvcproductions.files.wordpress.com/2015/08/summer-of-code-fullstack-academy1.png){.size-full
-.wp-image-3509 width="750"
-height="376"}](https://fullstackacademy.com/summer-of-code) Testimonial
-Section\[/caption\]
+[![Testimonial
+Section](https://fvcproductions.files.wordpress.com/2015/08/summer-of-code-fullstack-academy1.png)](https://fullstackacademy.com/summer-of-code) Testimonial
+Section

@@ -5,7 +5,7 @@ header:
     image: https://fvcproductions.files.wordpress.com/2014/09/graduation-hats.jpg
 ---
 
-[![Balance](https://fvcproductions.files.wordpress.com/2014/09/1424067174_scales_of_balance-128.png){.aligncenter .size-full .wp-image-1671 width="128" height="128"}](https://fvcproductions.files.wordpress.com/2014/09/1424067174_scales_of_balance-128.png) {#balance style="text-align:center;"}
+[![Balance](https://fvcproductions.files.wordpress.com/2014/09/1424067174_scales_of_balance-128.png)](https://fvcproductions.files.wordpress.com/2014/09/1424067174_scales_of_balance-128.png) {#balance style="text-align:center;"}
 ===============================================================================================================================================================================================================================================================
 
 Graduate Programs - MBA/MSCS {#graduateprograms-mbamscs style="text-align:center;"}
@@ -31,7 +31,7 @@ Written and generated with **[Byword](https://bywordapp.com)**
 > >
 > > **This list was originally created September 14, 2014.**
 
-------------------------------------------------------------------------
+
 
 Index {#section-index}
 -----
@@ -45,7 +45,7 @@ Index {#section-index}
 - [University of Michigan](#section-umich)
 - [University of Utah](#section-utah)
 
-------------------------------------------------------------------------
+
 
 ![](https://my.calpoly.edu/cas/media/skins/sage/images/CP_Logo_Transparent.png)
 
@@ -85,9 +85,9 @@ Index {#section-index}
 
 ![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-22-05-pm.png)
 
-------------------------------------------------------------------------
 
-### [![](https://raemadeline.com/cmu/CM_logo_horiz_red.png){.aligncenter width="673" height="102"}](https://raemadeline.com/cmu/CM_logo_horiz_red.png)
+
+### [![](https://raemadeline.com/cmu/CM_logo_horiz_red.png){ width="673" height="102"}](https://raemadeline.com/cmu/CM_logo_horiz_red.png)
 
 ### [Carnegie Mellon University](https://cmu.edu) {#section-cmu}
 
@@ -128,15 +128,15 @@ Index {#section-index}
         Admissions Test (GMAT) or the GRE
 -   **Curriculum for MBA Only**
 
-\[caption id="" align="aligncenter" width="872"\]![Year
+![Year
 1](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-02-47-pm.png){width="872"
-height="599"} Year 1\[/caption\]
+height="599"} Year 1
 
-\[caption id="" align="aligncenter" width="870"\]![Year
+![Year
 2](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-02-57-pm.png){width="870"
-height="509"} Year 2\[/caption\]
+height="509"} Year 2
 
-------------------------------------------------------------------------
+
 
 ![](https://www.themarysue.com/wp-content/uploads/2011/08/Stanford_logo-1.png#geekosystem)
 
@@ -178,7 +178,7 @@ height="509"} Year 2\[/caption\]
 
 ![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-10-04-37-pm.png)
 
-------------------------------------------------------------------------
+
 
 ![](https://www.msinus.com/image.php?groupid=27&dateline=1324003838)
 
@@ -234,7 +234,7 @@ height="509"} Year 2\[/caption\]
     -   The candidate would have to be approved by both admissions
         committees to gain admission to the combined program.
 
-------------------------------------------------------------------------
+
 
 ![ucla](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/UCLA_Logo.svg/200px-UCLA_Logo.svg.png)
 
@@ -283,7 +283,7 @@ height="509"} Year 2\[/caption\]
 
 ![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-37-44-pm.png)
 
-------------------------------------------------------------------------
+
 
 ![](https://www.roshan-institute.org/clientimages/39783/ucboulder.png)
 
@@ -321,7 +321,7 @@ height="509"} Year 2\[/caption\]
 
 ![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-9-36-40-pm.png)
 
-------------------------------------------------------------------------
+
 
 ![](https://www-personal.umich.edu/~tamas/TIGimages/wordmark.gif)
 
@@ -356,7 +356,7 @@ height="509"} Year 2\[/caption\]
 
 ![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-10-07-17-pm.png)
 
-------------------------------------------------------------------------
+
 
 ![](https://2012.slc.wordcamp.org/files/2012/07/university-of-utah-wordcamp-sponsor.png)
 
@@ -424,7 +424,7 @@ height="509"} Year 2\[/caption\]
 
 ![](https://fvcproductions.files.wordpress.com/2014/09/screen-shot-2014-09-14-at-8-17-40-pm.png)
 
-------------------------------------------------------------------------
+
 
 **Why?**
 --------
@@ -433,7 +433,7 @@ height="509"} Year 2\[/caption\]
     people as well as myself since I intend to pursue this particular
     dual degree as well.
 
-------------------------------------------------------------------------
+
 
 **Tips or tricks?**
 

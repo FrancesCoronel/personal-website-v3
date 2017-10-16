@@ -12,15 +12,13 @@ gallery:
 Overview
 ========
 
-\[caption id="attachment\_3828" align="aligncenter" width="750"\][![Life
+[![Life
 at Home -
-Banner](https://fvcproductions.files.wordpress.com/2016/01/banner.png){.size-full
-.wp-image-3828 width="750"
-height="461"}](https://fvcproductions.files.wordpress.com/2016/01/banner.png)
-Life at Home - Banner\[/caption\]
+Banner](https://fvcproductions.files.wordpress.com/2016/01/banner.png)](https://fvcproductions.files.wordpress.com/2016/01/banner.png)
+Life at Home - Banner
 
-Check out the mobile UI I created at [`invis.io/7G5THL7KA`](https://invis.io/7G5THL7KA). {#check-out-the-mobile-ui-i-created-at--a-href--https:--invis.io-7g5thl7ka--target--_blank---code-invis.io-7g5thl7ka--code---a-. style="text-align:center;"}
-----------------------------------------------------------------------------------------
+Check out the mobile UI I created at [`invis.io/7G5THL7KA`](https://invis.io/7G5THL7KA).
+----------------
 
  
 
@@ -39,8 +37,8 @@ into fruition
 
 ### Screenshots
 
-\[gallery type="rectangular" size="full"
-ids="3827,3828,3829,3830,3831,3832,3833,3834" orderby="rand"\]
+TODO: [gallery type="rectangular" size="full"
+ids="3827,3828,3829,3830,3831,3832,3833,3834" ]
 
 ### Features
 

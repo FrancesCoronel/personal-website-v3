@@ -34,7 +34,7 @@ tags:
 > Academy**](https://www.fullstackacademy.com "Fullstack Academy"). These
 > are days 16 through 19 (Week 4). ❤️
 
-------------------------------------------------------------------------
+
 
 Day One - Monday {#dayone-monday}
 ----------------
@@ -46,7 +46,7 @@ Day One - Monday {#dayone-monday}
     been introduced to the more technical CSS side of design. **Amateur
     time!!!**
 
-------------------------------------------------------------------------
+
 
 Day Two - Tuesday {#daytwo-tuesday}
 -----------------
@@ -58,7 +58,7 @@ Day Two - Tuesday {#daytwo-tuesday}
     though this part was almost too easy. We'll see what happens
     tomorrow.
 
-------------------------------------------------------------------------
+
 
 Day Three - Wednesday {#daythree-wednesday}
 ---------------------
@@ -81,7 +81,7 @@ Day Three - Wednesday {#daythree-wednesday}
             in the technological aspect. **ba da ba ba ba, I'm lovin
             it!** Hehe.
 
-------------------------------------------------------------------------
+
 
 Day Four - Thursday {#dayfour-thursday}
 -------------------
@@ -122,7 +122,7 @@ Day Four - Thursday {#dayfour-thursday}
     [`Alternote`](https://alternoteapp.com/ "Alternote"). ***You'll be
     alive soon enough, my little inklings!***
 
-------------------------------------------------------------------------
+
 
 Day Five - Friday {#dayfive-friday}
 -----------------
@@ -134,13 +134,13 @@ Day Five - Friday {#dayfive-friday}
 -   I'm making it a goal to work on the trip planner app more tomorrow
     **for sure**.
 
-------------------------------------------------------------------------
+
 
 > :arrow: **Overall Conclusion?**
 >
 > > **BUSY** & **BUBBLY** week.
 
-------------------------------------------------------------------------
+
 
 ### Journey Into the Cave of Digital Hieroglyphics {#journeyintothecaveofdigitalhieroglyphics}
 
@@ -167,7 +167,7 @@ Day Five - Friday {#dayfive-friday}
 - [Fullstack Academy - Week
     3](https://fvcproductions.com/blog/2015/06/26/fullstack-academy-week-3/ "Fulsltack Academy - Week 3")
 
-------------------------------------------------------------------------
+
 
 > *Tips or tricks?* :idea:
 >

@@ -29,12 +29,12 @@ tags:
     - traversal
 ---
 
-CSC251 Study Guide {#csc251-study-guide style="text-align:center;"}
+CSC251 Study Guide
 ==================
 
-### Linked Lists Exam {#linked-lists-exam style="text-align:center;"}
+### Linked Lists Exam
 
-------------------------------------------------------------------------
+
 
 Index
 -----
@@ -43,7 +43,7 @@ Index
 - [Linked Lists Properties](#section-linked)
 - [Linked Lists Algorithms/Code](#section-algo)
 
-------------------------------------------------------------------------
+
 
 ### Linked Lists vs Arrays {#section-versus}
 
@@ -65,7 +65,7 @@ Index
     -   underlying layout of data in memory
     -   how individual elements are accessed
 
-------------------------------------------------------------------------
+
 
 ### Linked Lists Properties {#section-linked}
 
@@ -109,31 +109,31 @@ Index
 ### Linked Lists Algorithms {#section-algo}
 
 -   *constructor for an integer node in a linked list*\
-    \[code language="java"\]public Int\_Node (int initialData, Int\_node
+    ```public Int\_Node (int initialData, Int\_node
     initialLink) {\
     data = initialData; //integer value\
     link = initialLink; //reference to next node in list\
     }\
-    \[/code\]
+    ```
 -   *define empty linked list*\
-    \[code language="java"\]Int\_Node head = null;\
-    \[/code\]
+    ```Int\_Node head = null;\
+    ```
     -   pseudocode
         1. representing empty list by storing null in head reference\
 
             > keeping track of front node by using an Int\_Node
             > reference variable called `head`
 -   *add new node to empty list*\
-    \[code language="java"\]head = new Int\_Node(data, null);\
-    \[/code\]
+    ```head = new Int\_Node(data, null);\
+    ```
     -   pseudocode
         1. create new node for head
         2. place data in new node's data field
         3. make head refer to null which is initial head value
         4.  connect new node to head
 -   *add node to front of list*\
-    \[code language="java"\]head = new Int\_Node(newData, head);\
-    \[/code\]
+    ```head = new Int\_Node(newData, head);\
+    ```
     -   pseudocode
         1. create new node
         2. place data (`newData`) in new node's data field
@@ -148,22 +148,22 @@ Index
 > that
 
 -   *adding anywhere but front*\
-    \[code language="java"\]previous.link = new Int\_Node(newData,
+    ```previous.link = new Int\_Node(newData,
     previous.link);
 
     while (prev.link != null) {\
     prev = head;\
     prev = prev.link;\
     }\
-    \[/code\]
+    ```
 
     -   pseudocode
         1. set a reference named `prev` (for previous) to refer to node
             which is just before new node's position
 
 -   *removing node at head*\
-    \[code language="java"\]head = head.link;\
-    \[/code\]
+    ```head = head.link;\
+    ```
     -   pseudocode
         1. directing `head` to node right next to it (`head.link`) so
             that original `head` is removed
@@ -175,12 +175,12 @@ Index
 > you still have to keep track of the previous element
 
 -   *traverse through list*\
-    \[code language="java"\]Int\_Node pointer = head;
+    ```Int\_Node pointer = head;
 
     while (pointer != null) {\
     pointer = pointer.link;\
     }\
-    \[/code\]
+    ```
 
     -   pseudocode
         1. initializing `pointer` to reference `head`
@@ -194,20 +194,20 @@ Index
         3. `pointer` referenced to next node or `pointer.link`
 
 -   *print list through traversal*\
-    \[code language="java"\]Int\_Node pointer = head;
+    ```Int\_Node pointer = head;
 
     while (pointer != null) {\
     System.out.print(pointer.data + " ");\
     pointer = pointer.link;\
     }\
-    \[/code\]
+    ```
 
     -   pseudocode\
 
         > same as traversal algorithm but just printing out data of
         > pointer as you go along the node sequence with `pointer.data`
 
-------------------------------------------------------------------------
+
 
 > Tips or Tricks?
 >

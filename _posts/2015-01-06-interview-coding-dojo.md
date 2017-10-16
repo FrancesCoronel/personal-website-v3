@@ -19,21 +19,19 @@ tags:
     - web development bootcamp
 ---
 
-\[caption id="" align="aligncenter"
-width="1142"\][![](https://jlau-bucket-1.s3.amazonaws.com/uploads/topic/image/5/coding_dojo.png){width="1142"
-height="476"}](https://codingdojo.com) Fancy.\[/caption\]
+[![](https://jlau-bucket-1.s3.amazonaws.com/uploads/topic/image/5/coding_dojo.png) Fancy.
 
 Interview with [Coding Dojo](https://www.codingdojo.com) {#interview-with-coding-dojo style="text-align:center;"}
 =======================================================
 
-------------------------------------------------------------------------
+
 
 ### with [Speros Misirlakis](https://www.linkedin.com/pub/speros-misirlakis/28/743/384) {#with-speros-misirlakis style="text-align:center;"}
 
 > answers were paraphrased or just referenced verbatim\
 > personal comments are highlighted `like this`
 
-------------------------------------------------------------------------
+
 
 1. **How many drop out after simply experiencing the pre-work? How much
     time should I dedicate to the pre-work?**You have pre-work.
@@ -92,7 +90,7 @@ Interview with [Coding Dojo](https://www.codingdojo.com) {#interview-with-coding
     lines on Active Record. When students write code, they know whats
     going on and how they can go about fixing it.
 
-------------------------------------------------------------------------
+
 
 Aftermath
 ---------
@@ -115,12 +113,12 @@ I was accepted! Here's part of the email they sent me:
 
     Again, the deadline to reserve your seat and receive your scholarship is: May 3, 2015.  As there is a limited number of student seats available, it is critical that you complete your first payment in a timely manner to save your spot.
 
-------------------------------------------------------------------------
+
 
 I also have shared my **interview experience** with bootcamps such as
 
 - [Bitmaker
-    Labs](https://fvcproductions.com/blog/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
+    Labs](/blog/2014/03/12/interview-bitmaker-labs/)
 - [Coding
     House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
 - [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
@@ -133,7 +131,7 @@ I also have shared my **interview experience** with bootcamps such as
 - [Maker
     Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
-------------------------------------------------------------------------
+
 
 Tips or tricks?
 

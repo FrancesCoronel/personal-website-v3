@@ -88,7 +88,7 @@ I mean, it's a pretty big decision, y'all! ;)
 > > Source file
 > > [here](https://github.com/fvcproductions/blogging/blob/master/to%20publish/Comparisons/Comparing%20Bootcamp%20Sites%20with%20Hack%20Reactor.txt "Byword Source File").
 
-------------------------------------------------------------------------
+
 
 **Recap - The Big 5**
 ---------------------
@@ -103,15 +103,13 @@ I mean, it's a pretty big decision, y'all! ;)
 
 > and a big woo-hoo 🎉 for [other resources](#section-resources)!
 
-------------------------------------------------------------------------
 
-### [![Bootcamper](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-52-50.png?w=300){.aligncenter .wp-image-1004 .size-medium width="300" height="114"}](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-52-50.png)
+
+### [![Bootcamper](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-52-50.png?w=300)](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-52-50.png)
 
 ### [**Bootcamper**](https://bootcamper.io) {#section-bootcamper style="text-align:center;"}
 
-[![Bootcamper](https://fvcproductions.files.wordpress.com/2014/11/bootcamper.jpg?w=676){.aligncenter
-.size-large .wp-image-1005 width="676"
-height="814"}](https://fvcproductions.files.wordpress.com/2014/11/bootcamper.jpg)
+[![Bootcamper](https://fvcproductions.files.wordpress.com/2014/11/bootcamper.jpg?w=676)](https://fvcproductions.files.wordpress.com/2014/11/bootcamper.jpg)
 
 This is the page for [HackReactor on
 *Bootcamper*](https://bootcamper.io/schools/hack-reactor).
@@ -150,17 +148,13 @@ This is the page for [HackReactor on
 
 📝 **THE VERDICT: 3.5/5**
 
-------------------------------------------------------------------------
 
-[![Bootcamps.in](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-21-09-41.png){.aligncenter
-.size-full .wp-image-999 width="400"
-height="87"}](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-21-09-41.png)
+
+[![Bootcamps.in](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-21-09-41.png)](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-21-09-41.png)
 
 ### **[Bootcamps.in](https://bootcamps.in)** {#section-bootcampsin style="text-align:center;"}
 
-[![Bootcamps.in](https://fvcproductions.files.wordpress.com/2014/11/bootcamps-in.png?w=676){.aligncenter
-.size-large .wp-image-1006 width="676"
-height="814"}](https://fvcproductions.files.wordpress.com/2014/11/bootcamps-in.png)
+[![Bootcamps.in](https://fvcproductions.files.wordpress.com/2014/11/bootcamps-in.png?w=676)](https://fvcproductions.files.wordpress.com/2014/11/bootcamps-in.png)
 
 This is the page for [HackReactor on
 *Bootcamps.in*](https://www.bootcamps.in/san-francisco/hack-reactor/).
@@ -215,15 +209,13 @@ This is the page for [HackReactor on
 
 📝 **THE VERDICT: 2/5**
 
-------------------------------------------------------------------------
+
 
 ![](https://media.licdn.com/mpr/mpr/jc/p/3/005/083/356/339a18e.png)
 
 ### [**Course Report**](https://coursereport.com) {#section-coursereport style="text-align:center;"}
 
-[![Coursereport](https://fvcproductions.files.wordpress.com/2014/11/coursereport.png?w=676){.aligncenter
-.size-large .wp-image-1007 width="676"
-height="814"}](https://fvcproductions.files.wordpress.com/2014/11/coursereport.png)
+[![Coursereport](https://fvcproductions.files.wordpress.com/2014/11/coursereport.png?w=676)](https://fvcproductions.files.wordpress.com/2014/11/coursereport.png)
 
 This is the page for [HackReactor on *Course
 Report*](https://www.coursereport.com/schools/hack-reactor).
@@ -276,15 +268,13 @@ Report*](https://www.coursereport.com/schools/hack-reactor).
 
 📝 **THE VERDICT: 4/5**
 
-------------------------------------------------------------------------
+
 
 ![](https://www.thinkful.com/microsites/static/bootcamps/assets/BF_logo.png)
 
 ### [**Thinkful Bootcamp Finder**](https://www.thinkful.com/bootcamps/) {#section-thinkful style="text-align:center;"}
 
-[![Thinkful](https://fvcproductions.files.wordpress.com/2014/11/thinkful.jpg?w=617){.aligncenter
-.size-large .wp-image-1008 width="617"
-height="1024"}](https://fvcproductions.files.wordpress.com/2014/11/thinkful.jpg)
+[![Thinkful](https://fvcproductions.files.wordpress.com/2014/11/thinkful.jpg?w=617)](https://fvcproductions.files.wordpress.com/2014/11/thinkful.jpg)
 
 This is the page for [HackReactor on the *Thinkful Bootcamp
 Finder*](https://www.thinkful.com/bootcamps/hack-reactor).
@@ -334,15 +324,13 @@ Finder*](https://www.thinkful.com/bootcamps/hack-reactor).
 
 📝 **THE VERDICT: 3/5**
 
-------------------------------------------------------------------------
+
 
 ![](https://blog.lendlayer.com/content/images/2014/Oct/Switch-Logo.png)
 
 ### [**Switchup**](https://switchup.org) {#section-switchup style="text-align:center;"}
 
-[![Switch](https://fvcproductions.files.wordpress.com/2014/11/switch.jpg?w=660){.aligncenter
-.size-large .wp-image-1009 width="660"
-height="1024"}](https://fvcproductions.files.wordpress.com/2014/11/switch.jpg)
+[![Switch](https://fvcproductions.files.wordpress.com/2014/11/switch.jpg?w=660)](https://fvcproductions.files.wordpress.com/2014/11/switch.jpg)
 
 This is the page for [HackReactor on
 *Switchup*](https://www.switchup.org/bootcamps/hack-reactor).
@@ -409,7 +397,7 @@ This is the page for [HackReactor on
 
 📝 **THE VERDICT: 4.5/5**
 
-------------------------------------------------------------------------
+
 
 ### 📡 **Other Resources** {#section-resources}
 
@@ -427,9 +415,7 @@ This is the page for [HackReactor on
             still needs some more data
 
 [![Firehose
-Project](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-58.png?w=676){.size-large
-.wp-image-1000 .aligncenter width="676"
-height="121"}](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-58.png)
+Project](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-58.png?w=676)](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-58.png)
 
 - ["The Definitive Guide To Choosing a Bootcamp" -
     theFirehoseProject](https://www.thefirehoseproject.com/definitive-guide)
@@ -445,9 +431,7 @@ height="121"}](https://fvcproductions.files.wordpress.com/2014/11/screenshot-201
         **everything** you need to know
 
 [![Hack
-App](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-45.png){.aligncenter
-.size-full .wp-image-1001 width="421"
-height="151"}](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-45.png)
+App](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-45.png)](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-45.png)
 
 - [hack\_app](https://hackapp.co)
     -   Some CBs have it where you can quickly apply directly through
@@ -464,9 +448,7 @@ height="151"}](https://fvcproductions.files.wordpress.com/2014/11/screenshot-201
         UI/UX so if you really want a swift and easy app process, I'd go
         with hack\_app.
 
-[![](https://cdn.evbuc.com/eventlogos/1546045/code2040transparency.png){.aligncenter
-width="2738"
-height="381"}](https://cdn.evbuc.com/eventlogos/1546045/code2040transparency.png)
+[![](https://cdn.evbuc.com/eventlogos/1546045/code2040transparency.png)](https://cdn.evbuc.com/eventlogos/1546045/code2040transparency.png)
 
 - [Code2040 - Playbook](https://playbook.code2040.org)
     -   This is great not just for minorities interested in tech, but
@@ -480,9 +462,7 @@ height="381"}](https://cdn.evbuc.com/eventlogos/1546045/code2040transparency.png
 
 [\
 ](https://fvcproductions.files.wordpress.com/2014/11/hack-reactor-interior.jpg)
-[![MakerSquare](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-20-46-39.png?w=676){.aligncenter
-.size-large .wp-image-1013 width="676"
-height="223"}](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-20-46-39.png)
+[![MakerSquare](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-20-46-39.png?w=676)](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-20-46-39.png)
 
 -   Resources the CBs Provide
     -   Bootcamps who are really passionate about their goal tend to
@@ -520,13 +500,11 @@ height="223"}](https://fvcproductions.files.wordpress.com/2014/11/screenshot-201
     - [codewars](https://codewars.com)
     - [topcoder](https://www.topcoder.com)
 
-[![quora\_icon](https://fvcproductions.files.wordpress.com/2014/11/quora_icon.png){.size-full
-.wp-image-1002 .alignleft width="45"
-height="45"}](https://fvcproductions.files.wordpress.com/2014/11/quora_icon.png)General
+[![quora\_icon](https://fvcproductions.files.wordpress.com/2014/11/quora_icon.png)](https://fvcproductions.files.wordpress.com/2014/11/quora_icon.png)General
 Tip: [Quora](https://quora.com) usually has a ton of useful answers for
 this very question too… why does Quora have to be so awesome, geez. 😏
 
-------------------------------------------------------------------------
+
 
 > To Note… 📄
 >
@@ -539,7 +517,7 @@ this very question too… why does Quora have to be so awesome, geez. 😏
 > > reviews (some replicas) being scattered through the web for each
 > > individual bootcamp.
 
-------------------------------------------------------------------------
+
 
 > 🔧**Tips or Tricks?**
 >
@@ -549,4 +527,4 @@ this very question too… why does Quora have to be so awesome, geez. 😏
 
 **Cheers!** 😃
 
-\https://twitter.com/MarcoMorawec/status/537036957851721728\]
+https://twitter.com/MarcoMorawec/status/537036957851721728\]

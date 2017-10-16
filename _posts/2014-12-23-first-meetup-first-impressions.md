@@ -34,11 +34,9 @@ tags:
 So I just went to my first [Meetup](https://meetup.com) ever on December 15 with [NorfolkJS](https://www.meetup.com/NorfolkJS/) and it was basically an ["Introduction to Travis-CI"](https://www.meetup.com/NorfolkJS/events/213364882/).
 =======================================================================================================================================================================================================================================
 
-\[caption id="attachment\_3370" align="aligncenter"
-width="512"\]![NorfolkJS - Circular
-Logo](https://fvcproductions.files.wordpress.com/2015/11/norfolkjs1.png){.size-full
-.wp-image-3370 width="512" height="512"} NorfolkJS - Circular
-Logo\[/caption\]
+![NorfolkJS - Circular
+Logo](https://fvcproductions.files.wordpress.com/2015/11/norfolkjs1.png) NorfolkJS - Circular
+Logo
 
 I didn't really know anything about [Travis CI](https://travis-ci.org)
 going in (other than the fact that some coding bootcamps [have used it
@@ -71,11 +69,10 @@ Cowboy) in other Meetups so far.
 
 TL;DR - Looking forward to the next Meetups for sure!!!
 
-------------------------------------------------------------------------
+
 
 ![Meetup - HR
-Fen](https://fvcproductions.files.wordpress.com/2015/06/1433270063_featured.png){.size-full
-.wp-image-2392 .aligncenter width="660" height="289"} Meetup - HR Fen
+Fen](https://fvcproductions.files.wordpress.com/2015/06/1433270063_featured.png) Meetup - HR Fen
 
 I also ended up going to my first non-tech related meetup soon
 afterwards with [Hampton Roads Friends, Events, and

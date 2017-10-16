@@ -12,12 +12,9 @@ gallery:
 Overview
 ========
 
-\[caption id="attachment\_3862" align="aligncenter"
-width="750"\][![Meetup Dice -
-Winner](https://fvcproductions.files.wordpress.com/2016/01/meetupdice-winner.png){.size-full
-.wp-image-3862 width="750"
-height="416"}](https://fvcproductions.files.wordpress.com/2016/01/meetupdice-winner.png)
-Meetup Dice - Winner\[/caption\]
+[![Meetup Dice -
+Winner](https://fvcproductions.files.wordpress.com/2016/01/meetupdice-winner.png)](https://fvcproductions.files.wordpress.com/2016/01/meetupdice-winner.png)
+Meetup Dice - Winner
 
 Check out the web app at [[meetfvc.herokuapp.com]{style="font-family:monospace;"}](https://meetfvc.herokuapp.com). {#check-out-the-web-app-at--a-href--http:--workwit.me--target--_blank---code-workwit.me--code---a- style="text-align:center;"}
 -----------------
@@ -40,8 +37,8 @@ Meetup profile.
 
 ### Screenshots
 
-\[gallery type="rectangular" size="full" ids="3859,3860,3861,3862"
-orderby="rand"\]
+TODO: [gallery type="rectangular" size="full" ids="3859,3860,3861,3862"
+]
 
 ### Setup
 

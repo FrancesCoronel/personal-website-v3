@@ -40,10 +40,10 @@ tags:
   - web development
 ---
 
-[B]{.dropcap}ecause of how busy I've been, I haven't really been able to
+Because of how busy I've been, I haven't really been able to
 get into the proper mood to be able to blog about such and such.
 
-[A]{.dropcap}s a result, there are now only **7** days of
+As a result, there are now only **7** days of
 [**Fullstack**](https://www.fullstackacademy.com) left.
 
 > Yup, just **7 MORE DAYS**.
@@ -64,7 +64,7 @@ SERIOUSLY?? {#seriously style="text-align:center;"}
 ![Computer
 Reaction](https://i1.kym-cdn.com/photos/images/newsfeed/000/228/791/632.gif)
 
-------------------------------------------------------------------------
+
 
 My Junior Phase {#myjuniorphase style="text-align:center;"}
 ===============
@@ -80,11 +80,11 @@ My Junior Phase {#myjuniorphase style="text-align:center;"}
 
 -   July 3rd was a holiday for Fullstack.
 
-------------------------------------------------------------------------
+
 
 ### Review Week! July 20th to July 24th. {#reviewweekjuly20thtojuly24th. style="text-align:center;"}
 
-------------------------------------------------------------------------
+
 
 My Senior Phase {#myseniorphase style="text-align:center;"}
 ===============
@@ -98,7 +98,7 @@ My Senior Phase {#myseniorphase style="text-align:center;"}
 -   Missed out on Friday's Tessle Hackathon in Week 9 because of an
     Apple Hiring Event. More on *that* later.
 
-------------------------------------------------------------------------
+
 
 What's Left {#myseniorphase style="text-align:center;"}
 ===========
@@ -108,11 +108,11 @@ What's Left {#myseniorphase style="text-align:center;"}
   August 17th to 21st   Days 44 to 48   Week 10
   August 24th to 26th   Days 49 to 51   1/2 of Week 11
 
-------------------------------------------------------------------------
+
 
 > Overarching thought... ***holy crap***.
 
-------------------------------------------------------------------------
+
 
 **SO NOW WE MUST TRAVEL BACK IN TIME.** {#sonowwemusttravelbackintime. style="text-align:center;"}
 =======================================
@@ -121,11 +121,11 @@ What's Left {#myseniorphase style="text-align:center;"}
 > were actually slightly more stressful than they are now here in Week
 > 10….
 
-------------------------------------------------------------------------
+
 
 ![TimeTravel](https://33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif)
 
-------------------------------------------------------------------------
+
 
 We have now gone 3 weeks back in time, all the way back to the beginning of my senior phase here at Fullstack, otherwise known as Week 7. {#wehavenowgone3weeksbackintimeallthewaybacktothebeginningofmyseniorphasehereatfullstackeither-wiseknownasweek7. style="text-align:center;"}
 -----------------------------------------
@@ -138,11 +138,11 @@ Monday
 
 > Here is the presentation in its full glory:
 
-------------------------------------------------------------------------
+
 
 https://speakerdeck.com/fvcproductions/awesome-web-dev-tips-and-tricks
 
-------------------------------------------------------------------------
+
 
 -   1st `REACTO` today. `stress++;`
 
@@ -191,11 +191,11 @@ Friday
     introduce myself with this speech I memorized (refer to speech
     below). `ego -= 5;`
 
-------------------------------------------------------------------------
+
 
 \[youtube="https://www.youtube.com/watch?v=dQpGwnN3dfc"\]
 
-------------------------------------------------------------------------
+
 
 -   Here's the first tidbit of the speech (the entire thing is kind of
     long). This is all from memory because the speech is just *that*
@@ -239,15 +239,13 @@ Friday
     -   In other words, it was a **major reality check.**\
         `goals.push(" improve public speaking skills (perhaps through Toastmasters?)");`
 
-------------------------------------------------------------------------
+
 
 > :arrow: **Overall Conclusion for Week 7?**
 >
 > > Hah, I'm stressed out.
 
-------------------------------------------------------------------------
-
-\[code language="javascript"\]\
+```
 /\*\*\
 \* essentially how my week 7 would look like if I was a JS program\
 \*/
@@ -328,31 +326,31 @@ week7();
 speaking skills (perhaps through Toastmasters?)
 
 \*/\
-\[/code\]
+```
 
-------------------------------------------------------------------------
+
 
 > Oh look, a repl out in the wild. **Gotta catch 'em all**……
 > [`https://repl.it/BC5A`](https://repl.it/BC5A)
 
-------------------------------------------------------------------------
 
-[O]{.dropcap}K, SO AFTER THAT EXCESSIVE RAMBLING, WE MUST NOW TRAVEL [BACK ]{style="text-decoration:line-through;"}FORWARD IN TIME… {#spanclassdropcapospanksoafterthatexcessiveramblingwemustnowtravelbackintimeonceagain... style="text-align:center;"}
+
+OK, SO AFTER THAT EXCESSIVE RAMBLING, WE MUST NOW TRAVEL [BACK ]{style="text-decoration:line-through;"}FORWARD IN TIME…
 ===================================================================================================================================
 
 > and this time simply get a quick overview of how the rest of senior
 > phase has been so far in these nifty little things called bullet
 > points.
 
-------------------------------------------------------------------------
+
 
 ![TimeTravel](https://33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif)
 
-------------------------------------------------------------------------
+
 
 > Short trip this time. ;)
 
-------------------------------------------------------------------------
+
 
 -   **Week 8**
     -   More REACTO.
@@ -366,25 +364,25 @@ speaking skills (perhaps through Toastmasters?)
 > My team's Stackstore. See it in full glory on Heroku at
 > [`https://robopocalypse.herokuapp.com`](https://robopocalypse.herokuapp.com).
 
-\[gallery type="slideshow" link="file" size="full"
+TODO: [gallery type="slideshow" link="file" size="full"
 ids="2630,2631,2632,2633,2634,2635,2636,2637,2638,2639,2640,2641,2642,2643,2644,2645,2646,2647,2648,2649,2650"
-orderby="rand"\]
+]
 
 > My tech talk.
 
-------------------------------------------------------------------------
+
 
 https://speakerdeck.com/fvcproductions/web-design-tech-talk
 
-------------------------------------------------------------------------
+
 
 ![TimeTravel](https://33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif)
 
-------------------------------------------------------------------------
+
 
 > Yawn.
 
-------------------------------------------------------------------------
+
 
 -   **Week 9**
     -   On Monday, I get an invitation to attend an Apple Hiring Event
@@ -425,36 +423,36 @@ https://speakerdeck.com/fvcproductions/web-design-tech-talk
             ground for this project per se since it'll be continually
             developed and improved upon within Fullstack regardless.
 
-------------------------------------------------------------------------
+
 
 > By the time I finally finish out the last kinks of my stackathon
 > project Monday morning, I'm feeling something like this:
 
 [![Ooohhh](https://cdn0.vox-cdn.com/thumbor/So_Sc-rt5khq-17lV0YO_4nu5xg=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3859280/giphy%20(1).gif)](https://github.com/fvcproductions/RankMe)
 
-------------------------------------------------------------------------
+
 
 > Stackathon Project - About Page
 
 ![RankMe](https://fvcproductions.files.wordpress.com/2015/08/rank-me-about.png)
 
-------------------------------------------------------------------------
+
 
 > Capstone Project - `Hiredot2` - Wireframing
 
-------------------------------------------------------------------------
+
 
 https://speakerdeck.com/fvcproductions/hiredot-wireframing
 
-------------------------------------------------------------------------
+
 
 ![TimeTravel](https://33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif)
 
-------------------------------------------------------------------------
+
 
 > Time travel wasn't even that necessary this time, but hey. 8-)
 
-------------------------------------------------------------------------
+
 
 -   **Week 10**
     -   As it turns out, there are only 2 people in my group for the
@@ -491,22 +489,22 @@ https://speakerdeck.com/fvcproductions/hiredot-wireframing
         to be created for the hiring event state and the dragging and
         dropping feature for students and companies.
 
-------------------------------------------------------------------------
+
 
 > How I feel my capstone group is like compared to other groups.
 
 ![CapstoneGroup](https://vignette4.wikia.nocookie.net/parody/images/9/9f/Kevin_and_bob_are_bananas.jpg/revision/latest?cb=20141105152333)
 
-------------------------------------------------------------------------
+
 
 > And here's how the home page looks like now for `Hiredot2`. There's
 > obviously more I could show you, but ehhh.
 
-------------------------------------------------------------------------
+
 
 ![HiredotHome](https://i.imgur.com/d2OfxQX.png)
 
-------------------------------------------------------------------------
+
 
 BUT W8! {#butw8}
 =======
@@ -521,7 +519,7 @@ BUT W8! {#butw8}
 
 \[youtube="https://youtu.be/hHUbLv4ThOo"\]
 
-------------------------------------------------------------------------
+
 
 ### Journey Into the Cave of Digital Hieroglyphics {#journeyintothecaveofdigitalhieroglyphics}
 
@@ -555,7 +553,7 @@ BUT W8! {#butw8}
 - [Web Dev & Design Slides | Fullstack Academy
     🎨](https://fvcproductions.com/blog/2015/08/05/web-dev-and-web-design-slides-fullstack-academy/)
 
-------------------------------------------------------------------------
+
 
 > *Tips or tricks?* :idea:
 >

@@ -81,7 +81,7 @@ This app can do wonders for you!
 ![](https://fvcproductions.files.wordpress.com/2015/04/012c4-littlekidhappy.png)
 
 [So go ahead, make your worries go away!](https://wiles.dk/ "Sorty for OS X")
-----------------------------------------------------------------------------
+----
 
 ![](https://i0.kym-cdn.com/photos/images/masonry/000/259/943/694.png)
 

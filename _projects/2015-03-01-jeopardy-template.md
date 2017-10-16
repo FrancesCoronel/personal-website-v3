@@ -15,7 +15,7 @@ header:
 >
 > Enjoy! :smile:
 
-------------------------------------------------------------------------
+
 
 [](#keynote){#keynote}Keynote {#keynote style="text-align:center;"}
 =============================
@@ -36,7 +36,7 @@ https://speakerdeck.com/fvcproductions/jeopardy-template-keynote
     - [Square 721](https://www.fontyukle.net/en/1,Square721) (for
         Prize Money Numbers)
 
-------------------------------------------------------------------------
+
 
 [](#google-slides){#google-slides}Google Slides {#google-slides style="text-align:center;"}
 ===============================================
@@ -48,13 +48,10 @@ https://speakerdeck.com/fvcproductions/jeopardy-template-google-slides
 -   **[View on Speaker
     Deck](https://speakerdeck.com/fvcproductions/jeopardy-template-google-slides "Speaker Deck | Jeopardy Template").**
 
-\[caption id="attachment\_2345" align="aligncenter"
-width="1437"\][![MakeCopy](https://fvcproductions.files.wordpress.com/2015/05/makecopy.gif){.wp-image-2345
-.size-full width="1437"
-height="826"}](https://fvcproductions.files.wordpress.com/2015/05/makecopy.gif)
-MakeCopy\[/caption\]
+[![MakeCopy](https://fvcproductions.files.wordpress.com/2015/05/makecopy.gif)](https://fvcproductions.files.wordpress.com/2015/05/makecopy.gif)
+MakeCopy
 
-------------------------------------------------------------------------
+
 
 ### Stats
 
@@ -73,5 +70,5 @@ MakeCopy\[/caption\]
 -   1,900+ views for Behance of Google Slides
 -   = 15,800+ total views across the web
 
-\[gallery type="rectangular" size="full" ids="5093,5094,5095,5096"
-orderby="rand"\]
+TODO: [gallery type="rectangular" size="full" ids="5093,5094,5095,5096"
+]

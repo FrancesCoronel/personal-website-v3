@@ -5,7 +5,7 @@ header:
     image: https://i.imgur.com/8cFXnVj.jpg
 ---
 
-\[gallery type="rectangular" ids="2737,2768,2771,2770"\]
+TODO: [gallery type="rectangular" ids="2737,2768,2771,2770"\]
 
 The world is teeming with coding bootcamps, but I just couldn’t find a
 more geographically/visually oriented website that showed all the
@@ -20,7 +20,7 @@ I also created a crowd-sourced version of the map using the service
 
 > I began working on this project on **November 8, 2014**.
 
-------------------------------------------------------------------------
+
 
 Links
 -----

@@ -18,8 +18,8 @@ All logos are available in PNG and SVG and have transparent backgrounds.
 
 ### Screenshots
 
-\[gallery type="rectangular" size="full" ids="4922,4921"
-orderby="rand"\]
+TODO: [gallery type="rectangular" size="full" ids="4922,4921"
+]
 
 ### Features
 

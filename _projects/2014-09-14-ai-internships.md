@@ -5,7 +5,7 @@ header:
     image: https://i.imgur.com/8cFXnVj.jpg
 ---
 
-[![Briefcase Icon](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png){.aligncenter .size-full .wp-image-1670 width="128" height="128"}](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png)
+[![Briefcase Icon](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png)](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png)
 Undergraduate Internships/Fellowships
 
 Dealing With A.I. {#dealing-with-a.i. style="text-align:center;"}
@@ -407,12 +407,9 @@ institute](https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institu
     that [Shivon Zilis](https://twitter.com/shivon "Shivon Z.") made to
     showcase the ‘*Machine Intelligence Landscape*’. Brilliant!
 
-\[caption id="attachment\_2381" align="aligncenter"
-width="760"\][![Machine Intelligence
-Landscape](https://fvcproductions.files.wordpress.com/2015/05/machine_intelligence_landscape_12-10-2014.png){.size-full
-.wp-image-2381 width="760"
-height="570"}](https://fvcproductions.files.wordpress.com/2015/05/machine_intelligence_landscape_12-10-2014.png)
-Machine Intelligence Landscape\[/caption\]
+[![Machine Intelligence
+Landscape](https://fvcproductions.files.wordpress.com/2015/05/machine_intelligence_landscape_12-10-2014.png)](https://fvcproductions.files.wordpress.com/2015/05/machine_intelligence_landscape_12-10-2014.png)
+Machine Intelligence Landscape
 
 
 

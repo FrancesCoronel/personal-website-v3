@@ -59,10 +59,7 @@ Let's look at comments first.
 ### Go ahead, press the button! :D Virtually…
 
 ![Computer
-Hope](https://citycleanersoftx.com/wp-content/uploads/2014/01/Easy-Button.jpg){width="190"
-height="85"}
-
-------------------------------------------------------------------------
+Hope](https://citycleanersoftx.com/wp-content/uploads/2014/01/Easy-Button.jpg)
 
 So moving on…to the main method!
 --------------------------------

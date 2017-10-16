@@ -57,7 +57,7 @@ I hate paper.
 
 ### So I read this article recently on [**Coding Bootcamps and Emotional Labor**](https://modelviewculture.com/pieces/coding-bootcamps-and-emotional-labor).
 
-[![Coding Bootcamps & Emotional Labor](https://fvcproductions.files.wordpress.com/2016/04/coding-bootcamps-and-emotional-labor-by-tilde-ann-thurium-model-view-culture-e1462073378530.png){.wp-image-4265 .size-full .aligncenter width="808" height="744"}](https://modelviewculture.com/pieces/coding-bootcamps-and-emotional-labor)
+[![Coding Bootcamps & Emotional Labor](https://fvcproductions.files.wordpress.com/2016/04/coding-bootcamps-and-emotional-labor-by-tilde-ann-thurium-model-view-culture-e1462073378530.png)](https://modelviewculture.com/pieces/coding-bootcamps-and-emotional-labor)
 
 The article is essentially about how the alumni of certain bootcamps are either forced to or pushed to volunteer for free for people in the current bootcamp cohorts.
 
@@ -103,7 +103,7 @@ So this summer, I'll be interning with Accenture at their [Liquid Application St
 
 Of course, now that I've graduated, the next natural step my parents expect of me is graduate school. And I did get accepted to quite a few great programs but I decided ultimately that I'd like to attend [Cornell Tech](https://tech.cornell.edu/) for their [MEng in CS](https://tech.cornell.edu/programs/masters-programs/meng-in-computer-science) (they offered me a \$10K scholarship).
 
-![](https://courses.cit.cornell.edu/cs5304/ctech.png){.aligncenter height="300"}
+![](https://courses.cit.cornell.edu/cs5304/ctech.png)
 
 ![](https://b-i.forbesimg.com/peterhigh/files/2014/01/Cornell-NYC-Tech.jpg)
 
@@ -134,7 +134,7 @@ It's this 2-year program that aims to act as a sort of college replacement for f
 
 I basically see it as a longer version of [Fullstack Academy](https://fullstackacademy.com) and having gone through Fullstack and knowing how much that experience benefited me in the long run, I can only imagine how much more awesome Make School could be for me.
 
-![](https://cdn.rawgit.com/MakeSchool-Tutorials/News/5486ee9046104519efeddefede39d38477c2ea9a/70923cab-38a3-4c1c-a6c7-6308702b340e/cover_photo.png){.aligncenter height="400"}
+![](https://cdn.rawgit.com/MakeSchool-Tutorials/News/5486ee9046104519efeddefede39d38477c2ea9a/70923cab-38a3-4c1c-a6c7-6308702b340e/cover_photo.png)
 
 There are three main reasons behind my reasoning for wanting to defer enrolling in grad school for the time being. These reasons, of course, are still ones that both of my parents are slowly warming up to given that they're both hard-core academics and they simply want the best for me, like any other considerate parents.
 

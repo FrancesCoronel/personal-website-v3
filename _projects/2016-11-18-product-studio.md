@@ -48,7 +48,7 @@ https://fvcproductions.files.wordpress.com/2016/09/screenshot-2016-09-26-18-00-3
 
 https://invis.io/HZ8PJDK89
 
-\[gallery type="rectangular" size="full"
+TODO: [gallery type="rectangular" size="full"
 ids="5046,5047,5048,5049,5050,5051,5052,5053,5054,5055"\]
 
 ### Tools
@@ -164,7 +164,7 @@ https://speakerdeck.com/fvcproductions/sprint-2-product-studio
 
 <https://invis.io/VA94THAWY>
 
-\[gallery type="rectangular" size="full"
+TODO: [gallery type="rectangular" size="full"
 ids="5041,5042,5043,5044,5045,5040"\]
 
 ### Tools
@@ -209,8 +209,8 @@ The challenge is as follows:
 > How might we create a safe place for people of all backgrounds to
 > discuss important local, national, and global issues?
 
-\[gallery type="rectangular" size="full" ids="5131,5132,5133"
-orderby="rand"\]
+TODO: [gallery type="rectangular" size="full" ids="5131,5132,5133"
+]
 
 Presentation
 
@@ -260,7 +260,7 @@ Team
   Frances Coronel
                       Chumeng Xu
 
-  ![Delia Casa](https://fvcproductions.files.wordpress.com/2016/11/delia-casa.jpg){.size-full .wp-image-5128 width="400" height="400"}   ![Frances Coronel](https://fvcproductions.files.wordpress.com/2016/11/square-e1480964746360.jpg){.size-full .wp-image-5129 width="400" height="400"}   ![Chumeng Xu](https://fvcproductions.files.wordpress.com/2016/11/chumeng-xu-e1480965100675.jpg){.size-full .wp-image-5130 width="400" height="400"}
+  ![Delia Casa](https://fvcproductions.files.wordpress.com/2016/11/delia-casa.jpg)   ![Frances Coronel](https://fvcproductions.files.wordpress.com/2016/11/square-e1480964746360.jpg)   ![Chumeng Xu](https://fvcproductions.files.wordpress.com/2016/11/chumeng-xu-e1480965100675.jpg)
 
 Narrative
 

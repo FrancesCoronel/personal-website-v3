@@ -39,15 +39,13 @@ tags:
 > Where I rant and share questions my experience from my interview with
 > [Hack Reactor](https://hackreactor.com "Hack Reactor") (sort of).
 
-------------------------------------------------------------------------
+
 
 I keep looking for the key out of my novice programming level, but
 nothing seems to be clicking in the right place. It's an icky situation.
 
-\[caption id="" align="aligncenter"
-width="256"\][![](https://www.clipartbest.com/cliparts/7Ta/Mbx/7TaMbxgLc.png){width="256"
-height="256"}](https://www.clipartbest.com/cliparts/7Ta/Mbx/7TaMbxgLc.png)
-The bow is the circular part.\[/caption\]
+[![](https://www.clipartbest.com/cliparts/7Ta/Mbx/7TaMbxgLc.png)](https://www.clipartbest.com/cliparts/7Ta/Mbx/7TaMbxgLc.png)
+The bow is the circular part.
 
 The reasons I decided to consider these ‘coding bootcamps', which have
 garnered both positive and negative public opinions is because I think
@@ -69,10 +67,8 @@ really **gets** them. But Big Head, he can only make these shady MVPs
 that turn out to be [pretty
 *sexist*](https://www.newyorker.com/tech/elements/the-unfunniest-joke-in-technology).
 
-\[caption id="" align="aligncenter"
-width="630"\][![](https://wac.450f.edgecastcdn.net/80450F/screencrush.com/442/files/2014/03/Silicon-Valley.jpg){width="630"
-height="420"}](https://wac.450f.edgecastcdn.net/80450F/screencrush.com/442/files/2014/03/Silicon-Valley.jpg)
-Whut??\[/caption\]
+[![](https://wac.450f.edgecastcdn.net/80450F/screencrush.com/442/files/2014/03/Silicon-Valley.jpg)](https://wac.450f.edgecastcdn.net/80450F/screencrush.com/442/files/2014/03/Silicon-Valley.jpg)
+Whut??
 
 I mean, **I** can't even make MVPs yet (not even *shady* ones), but you
 still get the point.
@@ -82,7 +78,7 @@ You know, a simpler analogy might have been comparing a `hare` and a
 enough in my learning process, and the situation becomes ickier and
 ickier.
 
-------------------------------------------------------------------------
+
 
 **Anyways**, I had an interview scheduled with Hack Reactor today.
 
@@ -101,7 +97,7 @@ So, what is a closure? That is the question.
     somewhat familiar with since `Node` works with closures and
     callbacks all the bloody time.
 
-------------------------------------------------------------------------
+
 
 **Unfortunately**, the interview never took place over some confusion
 over my aliases. Whoops. I ended up rescheduling… 😔
@@ -111,7 +107,7 @@ interview, I was still able to meet up with someone. The interviewer
 asked that I don't reveal their name and that I should share this
 article with them. So cheers, interviewer! 😁
 
-------------------------------------------------------------------------
+
 
 > The interviewer in question was a Hacker in Residence and a recent
 > grad of the program, having graduated in December. The interviewer now
@@ -120,7 +116,7 @@ article with them. So cheers, interviewer! 😁
 > Being a full-time software engineering would just be part of that
 > goal.
 
-------------------------------------------------------------------------
+
 
 **Questions Asked (Not In Any Particular Order) 💬**
 ---------------------------------------------------
@@ -133,7 +129,7 @@ questions specifically `Pertaining to Hack Reactor`,
 `Personal Cohort Experience` (what the interviewer personally
 experienced in his cohort).
 
-------------------------------------------------------------------------
+
 
 > Pertaining to Hack Reactor
 
@@ -156,7 +152,7 @@ experienced in his cohort).
     like that?** No, the curriculum is mostly focused around projects
     that are based in GitHub repos.
 
-------------------------------------------------------------------------
+
 
 > Overall Student Experience
 
@@ -185,7 +181,7 @@ experienced in his cohort).
     It's personal choice. We generally just need an HTML framework in
     terms of design. We focus more on functionality over design.
 
-------------------------------------------------------------------------
+
 
 > Logistics/Numbers
 
@@ -206,7 +202,7 @@ experienced in his cohort).
     the school standard. There has been people in the past who have
     tried using Windows initially, but they ended up switching over.
 
-------------------------------------------------------------------------
+
 
 > Personal Cohort Experience
 
@@ -240,11 +236,11 @@ experienced in his cohort).
     players, so we had these really crazy chess matches. People had a
     really good time. I'd say you could notice it immediately.
 
-------------------------------------------------------------------------
+
 
 #### If you are interested in more information regarding Hack Reactor, [I compiled a short list of resources to best prepare for the interview and also gave my thoughts on how competitive bootcamps select for students](https://fvcproductions.com/blog/2015/01/05/tiny-glimpse-hack-reactor-selection-preparation/ "A Tiny Glimpse Into Hack Reactor: Selection & Preparation").
 
-------------------------------------------------------------------------
+
 
 **Questions I Forgot To Ask**
 -----------------------------
@@ -256,7 +252,7 @@ experienced in his cohort).
     software engineers?
 4.  Can I offer suggestions to the website?
 
-------------------------------------------------------------------------
+
 
 **Technical Interview**
 -----------------------
@@ -307,14 +303,14 @@ you know, just being me.
 
 https://www.youtube.com/watch?v=dt-dpATRP\_4
 
-------------------------------------------------------------------------
+
 
 I also have shared my **interview experience** with bootcamps such as
 
 - [Bitmaker
-    Labs](https://fvcproductions.com/blog/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
+    Labs](/blog/2014/03/12/interview-bitmaker-labs/)
 - [Coding
-    Dojo](https://fvcproductions.com/blog/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
+    Dojo](/blog/2015/01/06/interview-coding-dojo/)
 - [Coding
     House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
 - [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
@@ -325,7 +321,7 @@ I also have shared my **interview experience** with bootcamps such as
 - [Maker
     Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
-------------------------------------------------------------------------
+
 
 **Tips or tricks?** 💡
 

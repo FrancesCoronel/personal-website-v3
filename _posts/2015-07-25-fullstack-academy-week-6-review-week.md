@@ -30,7 +30,7 @@ tags:
 >
 > ❤️
 
-------------------------------------------------------------------------
+
 
 Day One - Monday {#dayone-monday}
 ----------------
@@ -47,14 +47,14 @@ Angular](https://s3.amazonaws.com/accredible_courses/images/11072/original/shapi
     today, it wasn't that bad since I finished that **Shaping up with
     Angular.js** Code School course.
 
-------------------------------------------------------------------------
+
 
 Day Two - Tuesday {#daytwo-tuesday}
 -----------------
 
 -   More work on the flashcards application.
 
-------------------------------------------------------------------------
+
 
 Day Three - Wednesday {#daythree-wednesday}
 ---------------------
@@ -67,7 +67,7 @@ Day Three - Wednesday {#daythree-wednesday}
     or less: ![HomePage](https://i.imgur.com/8Lh7IJw.png)
 -   We used [FlatUI](https://designmodo.github.io/Flat-UI/), naturally.
 
-------------------------------------------------------------------------
+
 
 Day Four - Thursday {#dayfour-thursday}
 -------------------
@@ -76,7 +76,7 @@ Day Four - Thursday {#dayfour-thursday}
 -   Second day working on authentication.
 -   Learning team lunch today. I'm getting better at Avalon. 😈
 
-------------------------------------------------------------------------
+
 
 Day Five - Friday {#dayfive-friday}
 -----------------
@@ -96,7 +96,7 @@ Day Five - Friday {#dayfive-friday}
         we have complementary skills (my strong suite is front-end, his
         is back-end). Darn.
 
-------------------------------------------------------------------------
+
 
 > :arrow: **Overall Conclusion?**
 >
@@ -105,7 +105,7 @@ Day Five - Friday {#dayfive-friday}
 > > ![Keep Calm Terminal
 > > Style](https://sd.keepcalm-o-matic.co.uk/i/keep-calm-because-finally-i-m-senior-8.png)
 
-------------------------------------------------------------------------
+
 
 Review Week! {#reviewweek}
 ------------
@@ -151,7 +151,7 @@ you.](https://media.giphy.com/media/3oEduJnper1UdNqreg/giphy.gif)
 ![Sally
 Conference](https://fvcproductions.files.wordpress.com/2015/07/106e4-1432076952614.png)
 
-------------------------------------------------------------------------
+
 
 ### Journey Into the Cave of Digital Hieroglyphics {#journeyintothecaveofdigitalhieroglyphics}
 
@@ -181,7 +181,7 @@ Conference](https://fvcproductions.files.wordpress.com/2015/07/106e4-14320769526
 - [Fullstack Academy - Week 5
     💕💓💕](https://fvcproductions.com/blog/2015/07/11/fullstack-academy-week-5/)
 
-------------------------------------------------------------------------
+
 
 > *Tips or tricks?* :idea:
 >

@@ -19,5 +19,5 @@ created [my own
 tutorial](https://fvcproductions.com/2017/01/13/launch-todo-app-laravel/)
 as well!
 
-\[gallery type="rectangular" size="full" ids="5460,5459,5458"
-orderby="rand"\]
+TODO: [gallery type="rectangular" size="full" ids="5460,5459,5458"
+]

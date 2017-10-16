@@ -76,7 +76,7 @@ be continuing on.
 
 Hmmm… tensions rising.
 
-------------------------------------------------------------------------
+
 
 The **Jubilant** Journey I Took Into the Cave of Digital Hieroglyphics {#thejourneyitookintothecaveofdigitalhieroglyphics style="text-align:center;"}
 ----------------------------------------------------------------------
@@ -112,7 +112,7 @@ The **Jubilant** Journey I Took Into the Cave of Digital Hieroglyphics {#thejour
     Reflections](https://fvcproductions.com/blog/2015/08/30/fullstack-academy-reflections/)
     🕝
 
-------------------------------------------------------------------------
+
 
 > *Tips or tricks?* :idea:
 >

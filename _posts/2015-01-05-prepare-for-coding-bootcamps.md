@@ -70,7 +70,7 @@ tags:
     -   Your formal education and previous job success does not matter,
         only your ability to code
 
-------------------------------------------------------------------------
+
 
 **How do I prepare?**
 ---------------------
@@ -128,24 +128,24 @@ tags:
 
 **Prep Resources Offered by Bootcamps**
 
-1. [[App Academy Prep
-    Work](https://github.com/appacademy/prep-work){.external_link}]{.qlink_container}
-2. [[Code Fellows - GitBook on Full Stack JavaScript
-    Engineering](https://fsje.codefellows.org/index.html){.external_link}]{.qlink_container}
-3. [[Flatiron
-    Prework](https://prework.flatironschool.com/){.external_link}]{.qlink_container}
-4.  [[Fullstack Academy Interview Preparation
-    Guide](https://www.fullstackacademy.com/interview_prep){.external_link}]{.qlink_container}
-5.  [[General Assembly
-    Dash](https://dash.generalassemb.ly/){.external_link}]{.qlink_container}
-6.  [[Hackreactor How to Prepare for the Admissions
-    Challenge](https://www.hackreactor.com/prepare-for-admissions-challenge/){.external_link}]{.qlink_container}
-7.  [[Launch Academy 
-    Codecabulary](https://www.launchacademy.com/codecabulary){.external_link}]{.qlink_container}
-8.  [[MakerSquare |
-    Learn](https://learn.makersquare.com/courses){.external_link}]{.qlink_container}
-9.  [[Viking Code School
-    Prep](https://www.vikingcodeschool.com/prep){.external_link}]{.qlink_container}
+1. [App Academy Prep
+    Work](https://github.com/appacademy/prep-work)
+2. [Code Fellows - GitBook on Full Stack JavaScript
+    Engineering](https://fsje.codefellows.org/index.html)
+3. [Flatiron
+    Prework](https://prework.flatironschool.com/)
+4.  [Fullstack Academy Interview Preparation
+    Guide](https://www.fullstackacademy.com/interview_prep)
+5.  [General Assembly
+    Dash](https://dash.generalassemb.ly/)
+6.  [Hackreactor How to Prepare for the Admissions
+    Challenge](https://www.hackreactor.com/prepare-for-admissions-challenge/)
+7.  [Launch Academy 
+    Codecabulary](https://www.launchacademy.com/codecabulary)
+8.  [MakerSquare |
+    Learn](https://learn.makersquare.com/courses)
+9.  [Viking Code School
+    Prep](https://www.vikingcodeschool.com/prep)
 
 ![](https://medexec.org/wp-content/uploads/2013/04/The-Nitty-Gritty.jpg)
 
@@ -168,7 +168,7 @@ tags:
 -   Save the original numbers and the doubled results as key-value pairs
     in an object
 
-------------------------------------------------------------------------
+
 
 Recently, SwitchUp released their 2014 list of the [top coding
 bootcamps](https://fvcproductions.com/blog/2015/02/20/brief-thoughts-best-bootcamps-switchup/ "Brief Thoughts on SwitchUp's Review for 31 Best Bootcamps 2014 💭").
@@ -183,9 +183,9 @@ each](https://fvcproductions.com/blog/2014/11/10/magnifying-the-bootcamp-researc
 I also have shared my **interview experience** with bootcamps such as
 
 - [Bitmaker
-    Labs](https://fvcproductions.com/blog/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
+    Labs](/blog/2014/03/12/interview-bitmaker-labs/)
 - [Coding
-    Dojo](https://fvcproductions.com/blog/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
+    Dojo](/blog/2015/01/06/interview-coding-dojo/)
 - [Coding
     House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
 - [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
@@ -198,7 +198,7 @@ I also have shared my **interview experience** with bootcamps such as
 - [Maker
     Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
-------------------------------------------------------------------------
+
 
 > Tips or tricks?
 >

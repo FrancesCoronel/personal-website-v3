@@ -7,7 +7,7 @@ header:
   image: https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-16-12-55-34.png?w=1440
 ---
 
-[![Robot Waze](https://fvcproductions.files.wordpress.com/2014/09/robot-waze.png){.aligncenter .size-full .wp-image-1669 width="164" height="120"}](https://fvcproductions.files.wordpress.com/2014/09/robot-waze.png)
+[![Robot Waze](https://fvcproductions.files.wordpress.com/2014/09/robot-waze.png)](https://fvcproductions.files.wordpress.com/2014/09/robot-waze.png)
 
 ## A.I. International | Google Map
 

@@ -21,14 +21,14 @@ Check out the app at [`rcodonnell.github.io/code4hr-voting`](https://rcodonnell.
 > Hackathon from October 23–24, 2015 at [Dominion
 > Enterprises](https://www.dominionenterprises.com/ "DE").
 
-------------------------------------------------------------------------
+
 
 ### Screenshots
 
-\[gallery type="rectangular" size="full" ids="3152,3160,3158"
-orderby="rand"\]
+TODO: [gallery type="rectangular" size="full" ids="3152,3160,3158"
+]
 
-------------------------------------------------------------------------
+
 
 ### Installation & Setup {#installationsetup}
 
@@ -65,20 +65,20 @@ orderby="rand"\]
 - [Grunt](https://gruntjs.com/)
 -   Bootstrap/HTML/CSS/jQuery/Font Awesome
 
-------------------------------------------------------------------------
+
 
 Team
 ----
 
   [Corey O’Donnell](https://github.com/rcodonnell)                        [Galina Tsoy](https://github.com/gtsoy454)                               [Mark Carter](https://github.com/mark4carter)
-  ----------------------------------------------------------------------- ------------------------------------------------------------------------ ---------------------------------------------------------------------
+  -----------------------------------------------------------------------  ---------------------------------------------------------------------
   ![Corey](https://avatars0.githubusercontent.com/u/10536895?v=3&s=460)   ![Galina](https://avatars0.githubusercontent.com/u/13660440?v=3&s=460)   ![Mark](https://avatars2.githubusercontent.com/u/6766137?v=3&s=460)
 
   [Chris Bliss](https://github.com/thecbliss)                            [Joshua Harris](https://www.joshuajharris.com/)                           [FVCproductions](https://fvcproductions.com)
-  ---------------------------------------------------------------------- ------------------------------------------------------------------------ -------------------------------------------------------------------------------
+  ----------------------------------------------------------------------  -------
   ![Chris](https://avatars3.githubusercontent.com/u/9258699?v=3&s=460)   ![Joshua](https://avatars2.githubusercontent.com/u/10967744?v=3&s=460)   ![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=460)
 
-------------------------------------------------------------------------
+
 
 GitHub Repo {#githubrepo}
 -----------

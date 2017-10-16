@@ -22,12 +22,12 @@ To get a better idea of what I have to offer, feel free to look through a [few s
 1. You contact me through my website with some details about what your needs are.
 2. I will [set up a time to meet](https://calendly.com/fvcproductions) so we can discuss the project further as well as pricing.
 3. A contract will be set up [through Bonsai](https://www.hellobonsai.com) and iteration starts. This will involve you receiving consistent updates on the project and an overview of the hours I've worked through [Toggl](https://toggl.com/) and [Trello](https://trello.com).
-4.  Once you're happy with the final changes and payments are finalized [via PayPal](https://paypal.me/fvcproductions) or your method of choice, the project is complete!
-5.  If you'd like to at this point, you can also [add a testimonial](https://fvcproductions.com/contact/feedback/).
+4. Once you're happy with the final changes and payments are finalized [via PayPal](https://paypal.me/fvcproductions) or your method of choice, the project is complete!
+5. If you'd like to at this point, you can also add a testimonial by [reaching out to me](/contact).
 
 ### Pricing
 
-> Web Design or Development
+#### Web Design or Development
 
 I charge a minimum of $50/hour when it comes to web design or development but this price gets lower if the process only involves branding & identity.
 
@@ -35,13 +35,13 @@ I charged my last development client $300 for a static website.
 
 I charged my last design client $150 for branding.
 
-> Freelance Writing
+#### Freelance Writing
 
 In terms of freelance writing, I charge 7 cents per word and a minimum of $10/hour.
 
 I charged my last writing client $200 for 2000+ words.
 
-> Mentoring
+#### Mentoring
 
 I do charge to mentor others unless I feel it's appropriate to be generous.
 

@@ -29,7 +29,7 @@ I acted as the tech student in my team of 3 which had to compromise of a
 business, tech, and design student. Together we created **The MEGGS
 Case**.
 
-\[gallery type="rectangular" ids="4906" orderby="rand"\]
+TODO: [gallery type="rectangular" ids="4906" ]
 
 MEGGS creates tech-focused cases that offer beautiful and well designed
 protective solutions for your iPhone 7. We believe getting women
@@ -38,7 +38,7 @@ well balanced and educated society. Through our cases, we want to give
 young women and girls a tangible way to showcase their passion in
 interests through fashion accessories.
 
-\[gallery type="rectangular" size="full"
+TODO: [gallery type="rectangular" size="full"
 ids="4898,4899,4902,4901,4903,4897,4896,4895,4900,4905,4904"\]
 
 **Project Links**
@@ -59,7 +59,7 @@ https://speakerdeck.com/fvcproductions/the-meggs-case
 
 \[scribd id=326087214 key=key-ITxe9vkikLvdPpGG7iyM mode=scroll\]
 
-\https://youtu.be/iWgY7Mzbwfw\]
+https://youtu.be/iWgY7Mzbwfw\]
 
 **Links**
 

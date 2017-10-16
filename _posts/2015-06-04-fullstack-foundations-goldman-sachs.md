@@ -23,10 +23,8 @@ tags:
 
 I have been *quite* the busy bee.
 
-\[caption id="" align="aligncenter"
-width="285"\][![](https://www.emilyurness.com/wp-content/uploads/2015/04/RTAdGe8TL.png){width="285"
-height="298"}](https://www.emilyurness.com/wp-content/uploads/2015/04/RTAdGe8TL.png)
-Busy But Happy Bee\[/caption\]
+[![](https://www.emilyurness.com/wp-content/uploads/2015/04/RTAdGe8TL.png)](https://www.emilyurness.com/wp-content/uploads/2015/04/RTAdGe8TL.png)
+Busy But Happy Bee
 
 To the point where it's actually nothing like the sweet picture above.
 It's more like this:

@@ -33,11 +33,7 @@ gallery:
 
 ## Name
 
-<a title="SFS" href="https://www.fieldstudies.org/eastafrica" target="_blank" rel="noopener">Wildlife Management Studies - Techniques for Wildlife Field Research</a>
-
-## Organizer
-
-School for Field Studies
+<a title="SFS" href="https://www.fieldstudies.org/eastafrica" target="_blank" rel="noopener">School for Field Studies (SFS) - Wildlife Management Studies: Techniques for Wildlife Field Research</a>
 
 ## Location
 
@@ -53,18 +49,11 @@ Student
 
 ## About
 
-![SFS Logo](https://fvcproductions.files.wordpress.com/2015/11/sfs.png)
-
-The School for Field Studies creates transformative study abroad
-experiences through field-based learning and research. Students part of
-the Wildlife Management program study how changes in land-use and
-resource can be managed to foster the well-being of local communities
-while safeguarding and promoting biodiversity conservation.
+The School for Field Studies creates transformative study abroad experiences through field-based learning and research. Students part of the Wildlife Management program study how changes in land-use and resource can be managed to foster the well-being of local communities while safeguarding and promoting biodiversity conservation.
 
 I got a lot from this program. Specifically, I...
 
-- learned how to perform the effective identification, sampling, and data collection and analysis methods for flora and fauna; remote and on-ground sensing; spatial mapping; survey design and interviewing skills; and communication skills (report writing and public presentation)
-- gained foundational skills in observation and evaluations of wildlife, as well as interactive methods used for assessing local community attitudes and behaviors toward conservation efforts and applied these techniques to advance long-term research goals at the research center
+- learned how to perform the effective identification, sampling, and data collection and analysis methods for flora and fauna; remote and on-ground sensing; spatial mapping; survey design and interviewing skills; and communication skills (report writing and public presentation) - gained foundational skills in observation and evaluations of wildlife, as well as interactive methods used for assessing local community attitudes and behaviors toward conservation efforts and applied these techniques to advance long-term research goals at the research center
 
 I also <a href="https://fvcproductions.com/2013/07/28/blog-post-from-tanzania/" target="_blank" rel="noopener">blogged about my experience</a>
 

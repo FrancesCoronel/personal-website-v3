@@ -36,13 +36,12 @@ tags:
     - yield rate
 ---
 
-[![](https://designation.io/downloads/designation_logo_black/designation_vertical_black.png){.aligncenter
-width="500" height="500"}](https://designation.io)
+[![](https://designation.io/downloads/designation_logo_black/designation_vertical_black.png)](https://designation.io)
 
 Interview with [Designation.io](https://designation.io "Designation") {#interview-with-designation.io style="text-align:center;"}
 ====================================================================
 
-------------------------------------------------------------------------
+
 
 ### with [Will Shandling](https://www.linkedin.com/in/wshandling "Will Shandling") {#with-willshandling style="text-align:center;"}
 
@@ -53,7 +52,7 @@ Interview with [Designation.io](https://designation.io "Designation") {#intervie
 *Will was a great interviewer. He is a really lively guy who knows how
 to communicate a lot of information in a fun way. Kudos to Will.*
 
-------------------------------------------------------------------------
+
 
 **1. Yield rate - out of the applicants you accept, what percentage of
 that end up attending?**
@@ -62,7 +61,7 @@ A third and half end up attending. Some qualities are looked for
 specifically in each applicant that we think will contribute to the best
 sort of class experience.
 
-------------------------------------------------------------------------
+
 
 **2. How many drop out after simply experiencing the pre-work? How much
 time should I dedicate to the pre-work?**
@@ -70,7 +69,7 @@ time should I dedicate to the pre-work?**
 No one has dropped out yet. The average student needs 25 hours per week
 in pre-work.
 
-------------------------------------------------------------------------
+
 
 **3. How many college students have you had in the past?**
 
@@ -80,7 +79,7 @@ careers or are coming to learn more technological aspects of design.
 There has been someone from CMU that took a semester off and attended
 Designation over the summer as well.
 
-------------------------------------------------------------------------
+
 
 **4. What kind of process do your instructors go through?**
 
@@ -93,7 +92,7 @@ assignments can be changed and developed over time. There is a lot of
 feedback interchanging between founders and instructors - definitely a
 dialogue.
 
-------------------------------------------------------------------------
+
 
 **5. What is your background? How were you introduced into the tech/web
 development scene?**
@@ -117,7 +116,7 @@ creative and felt I wasn't doing things that weren't being used at my
 old job - it just seemed like something fun to do.
 `Will is really an interesting guy!`
 
-------------------------------------------------------------------------
+
 
 **6. What do you guys recommend students do outside of the course?**
 
@@ -128,7 +127,7 @@ time you're here. In Chicago - there's a lot of Meetups. People who come
 from out-of-town can really focus on the program because there are fewer
 distractions.
 
-------------------------------------------------------------------------
+
 
 **7. Do you think an undergrad graphic design major can benefit from
 your program?**
@@ -145,7 +144,7 @@ the curriculum, we can. We have no one to answer to except ourselves and
 the happiness of our students. That's what distinguishes ourselves from
 alternative options. `SO ON POINT!`
 
-------------------------------------------------------------------------
+
 
 **8. What are the backgrounds of the students overall?**
 
@@ -157,7 +156,7 @@ with creative fields or web dev. Then the last 1/3 of our alumni are
 students, recent college grads, and miscellanies.
 `I really love how knowledgable Will is!`
 
-------------------------------------------------------------------------
+
 
 Aftermath {#aftermath style="text-align:center;"}
 ---------
@@ -183,7 +182,7 @@ Aftermath {#aftermath style="text-align:center;"}
     make my decision, and he understood, so again, kudos to Will and his
     quick feedback!).
 
-------------------------------------------------------------------------
+
 
 > Tips or tricks?
 >

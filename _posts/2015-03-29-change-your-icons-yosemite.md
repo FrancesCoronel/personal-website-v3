@@ -71,7 +71,8 @@ file](https://github.com/fvcproductions/customize-icons "Icons")
 mentioned in **Step 1**, but for reference, here is the code for the
 `ChangeIcons.command`.
 
-\[code language="plain"\]\#!/usr/bin/env ruby
+```
+\#!/usr/bin/env ruby
 
 require 'json'\
 require 'shellwords'
@@ -103,7 +104,7 @@ puts "Restarting Finder and the Dock"\
 puts %Q(Finished!)
 
 end\
-\[/code\]
+
 
 Now here comes the tricky part. This command relies on a `JSON` file
 that is named `icon-data.json` and a `UNIX Executable File` called
@@ -120,12 +121,12 @@ provided in **Step 1**.
 
 The `icon-data.json` file looks something like this:
 
-\[code language="plain"\]{\
+```{\
 "1Password 5.app":"1Password 5",\
 "Alfred 2.app":"Alfred 2",\
 "Amphetamine.app":"Amphetamine"\
 }\
-\[/code\]
+```
 
 It is formatted with the name of the app first in quotes followed by a
 semi-colon and then the name of the `icns` file.

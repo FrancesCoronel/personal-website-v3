@@ -22,19 +22,14 @@ tags:
 **Yesterday**, I successfully packaged a bag of Air Heads, an
 appreciative letter, and the complete and unabridged works of Edgar
 Allen Poe in support of [Peter
-Sunde](https://www.facebook.com/pages/Peter-Sunde/126485467393990){#js_3
-.profileLink} - hope he enjoys it!
+Sunde](https://www.facebook.com/pages/Peter-Sunde/126485467393990) - hope he enjoys it!
 
 My mom even sent a letter
-to [Gottfrid](https://www.facebook.com/pages/Gottfrid-Svartholm/103131853059969){.profileLink}...
+to [Gottfrid](https://www.facebook.com/pages/Gottfrid-Svartholm/103131853059969)...
 
-\[caption id="attachment\_777" align="aligncenter" width="224" class="
-"\]![IMG\_0001](https://fvcproductions.files.wordpress.com/2014/09/img_0001.jpg?w=224){.wp-image-777
-.size-medium width="224" height="300"} The package\[/caption\]
+![IMG\_0001](https://fvcproductions.files.wordpress.com/2014/09/img_0001.jpg?w=224) The package
 
-\[caption id="attachment\_778" align="aligncenter" width="224" class="
-"\]![IMG\_0004](https://fvcproductions.files.wordpress.com/2014/09/img_0004.jpg?w=224){.wp-image-778
-.size-medium width="224" height="300"} The letter.\[/caption\]
+![IMG\_0004](https://fvcproductions.files.wordpress.com/2014/09/img_0004.jpg?w=224) The letter.
 
 **Later today**, my mum provided the receipt that she got from the
 Postal Service. It had a smiley face in red with a little message right

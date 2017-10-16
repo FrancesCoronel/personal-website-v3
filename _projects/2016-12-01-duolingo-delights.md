@@ -28,7 +28,7 @@ learning process. These culture-related tasks will be called delights.
 - [View the files used on
     GitHub](https://github.com/fvcproductions/duolingo-delights)
 
-\[gallery
+TODO: [gallery
 ids="5857,5858,5859,5860,5861,5862,5863,5864,5865,5866,5867,5868,5869,5870,5871,5872,5873,5874,5875,5876,5877,5878,5879"
 type="rectangular"\]
 

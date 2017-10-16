@@ -49,8 +49,7 @@ https://speakerdeck.com/fvcproductions/so-you-want-to-be-a-wizard-free-code-camp
     <li><a href="https://www.facebook.com/groups/free.code.camp.norfolk/permalink/812716962161709/" target="_blank" rel="noopener">Aftermath</a></li>
 </ul>
 
-![FreeCodeCamp](https://fvcproductions.files.wordpress.com/2016/06/freecodecamp.png){.aligncenter
-.wp-image-4379 .size-full width="512" height="512"}
+![FreeCodeCamp](https://fvcproductions.files.wordpress.com/2016/06/freecodecamp.png)
 
 `May 25th, 2016`
 [Free Code Camp Norfolk](https://www.facebook.com/groups/free.code.camp.norfolk/)

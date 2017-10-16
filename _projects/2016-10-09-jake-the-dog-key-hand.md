@@ -29,7 +29,7 @@ the prize being two copies of `Watch Dog 2`
 > Check out the hack at
 > [fvcproductions.github.io/leap-auth-home](https://fvcproductions.tech/leap-auth-home)
 
-\[gallery type="rectangular" size="large" ids="5026,4958,4959"\]
+TODO: [gallery type="rectangular" size="large" ids="5026,4958,4959"\]
 
 ### Inspiration
 

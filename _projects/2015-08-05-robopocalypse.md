@@ -6,9 +6,7 @@ header:
 ---
 
 [![About Page -
-1](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse4.png){.size-full
-.wp-image-2632 .aligncenter width="760"
-height="421"}](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse4.png)
+1](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse4.png)](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse4.png)
 
 Overview
 ========
@@ -43,9 +41,9 @@ Features
 Screenshots
 -----------
 
-\[gallery type="rectangular" size="full"
+TODO: [gallery type="rectangular" size="full"
 ids="2650,2649,2648,2647,2646,2645,2639,2640,2641,2642,2644,2638,2643,2637,2636,2635,2634,2633,2630,2631,2632"
-orderby="rand"\]
+]
 
 Stats
 -----

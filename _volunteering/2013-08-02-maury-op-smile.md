@@ -14,8 +14,7 @@ tags:
 ---
 
 ![Operation Smile - Conference
-Logo](https://fvcproductions.files.wordpress.com/2015/11/conferencelogos-002-copy.png){.size-full
-.wp-image-3177 width="512" height="512"}
+Logo](https://fvcproductions.files.wordpress.com/2015/11/conferencelogos-002-copy.png)
 
 #### `October 2009 to August 2013`
 
@@ -59,5 +58,5 @@ Logo](https://fvcproductions.files.wordpress.com/2015/11/conferencelogos-002-cop
 
  
 
-\[gallery type="rectangular" size="full" ids="3798,3796,3797,3753"
-orderby="rand"\]
+TODO: [gallery type="rectangular" size="full" ids="3798,3796,3797,3753"
+]

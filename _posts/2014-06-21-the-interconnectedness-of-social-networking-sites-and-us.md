@@ -84,12 +84,11 @@ It's clear then that the average one essentially has no need for
 put the Internet to work for you. A few examples of how IFTT are shown
 below.
 
-\[caption id="attachment\_770" align="aligncenter" width="676"\]![Screen
+![Screen
 Shot 2014-05-01 at 6.41.35
-PM](https://fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-6-41-35-pm.png){.wp-image-770
-.size-full width="676" height="647"} Vimeo, Twitter, Tumblr, and
+PM](https://fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-6-41-35-pm.png) Vimeo, Twitter, Tumblr, and
 Wordpress are all producing output to the Facebook Page which then
-receives it as a form of input\[/caption\]
+receives it as a form of input
 
 Mind you, I mean that IFTT is not really necessary at all for the
 *average* Internet user.
@@ -101,19 +100,17 @@ of connections - but derp - of course it looks like a cloud. -\_-
 Regardless, if you don't use IFTT the right way, your Facebook page
 could end up looking something like this:
 
-\[caption id="attachment\_768" align="aligncenter" width="499"\]![Screen
+![Screen
 Shot 2014-05-01 at 6.19.08
-PM](https://fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-6-19-08-pm.png){.wp-image-768
-.size-full width="499" height="644"} So many connections - ergo, so many
-reposts of the same exact thing!!!\[/caption\]
+PM](https://fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-6-19-08-pm.png)So many connections - ergo, so many
+reposts of the same exact thing!!!
 
 So focusing on the Facebook page, we get a diagram that looks like this:
 
-\[caption id="attachment\_774" align="aligncenter" width="716"\]![Screen
+![Screen
 Shot 2014-05-01 at 6.33.22
-PM](https://fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-6-33-22-pm.png){.wp-image-774
-.size-full width="716" height="566"} All the links to the Facebook
-Page\[/caption\]
+PM](https://fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-6-33-22-pm.png) All the links to the Facebook
+Page
 
 That's not to say IFTT is not totally lost with all these social
 networking sites having the options there.
@@ -124,11 +121,10 @@ up my Apple contacts to Google, updating profile pictures
 simultaneously, sending emails at certain times, etc. Here's an example
 I still use today:
 
-\[caption id="attachment\_772" align="aligncenter" width="712"\]![Screen
+![Screen
 Shot 2014-05-01 at 7.55.46
-PM](https://fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-7-55-46-pm.png){.wp-image-772
-.size-full width="712" height="228"} Behance project feed to Tumblr
-blog\[/caption\]
+PM](https://fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-7-55-46-pm.png) Behance project feed to Tumblr
+blog
 
 At the core of its own recipe, IFTT has a simple if-statement one could
 find in a beginner programming class, which I find amusing/amazing since
@@ -148,14 +144,10 @@ bad.](https://www.youtube.com/watch?v=IzryBRPwsog "Plurality.") Well...
 
 :twisted:
 
-\[caption id="attachment\_544" align="aligncenter"
-width="696"\][![Version
-2](https://fvcproductions.files.wordpress.com/2014/06/version-2.jpg?w=696){.wp-image-544
-.size-large width="696"
-height="508"}](https://fvcproductions.files.wordpress.com/2014/06/version-2.jpg)
-Version 2 of the Diagram\[/caption\]
+[![Version
+2](https://fvcproductions.files.wordpress.com/2014/06/version-2.jpg?w=696)](https://fvcproductions.files.wordpress.com/2014/06/version-2.jpg)
+Version 2 of the Diagram
 
-\[caption id="attachment\_769" align="aligncenter" width="564"\]![Screen
+![Screen
 Shot 2014-05-01 at 6.28.05
-PM](https://fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-6-28-05-pm.png){.wp-image-769
-.size-full width="564" height="569"} Version 3\[/caption\]
+PM](https://fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-6-28-05-pm.png) Version 3

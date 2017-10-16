@@ -22,7 +22,7 @@ tags:
 
 > #### This was a speech I made for my Oral Communications class regarding the idea of technology (robots) taking over the economy.
 
-------------------------------------------------------------------------
+
 
 Today I'll be discussing past and current examples of technological
 dependence in the economy. To get a better sense of this age old fear of
@@ -30,7 +30,7 @@ technology replacing humans, we also have to go back in time. So in
 essence I will be looking at past and current examples of robotics
 shifting the workforce and how they will influence future circumstances.
 
-------------------------------------------------------------------------
+
 
 So according to a study published by Oxford University, after the 1950s
 (not too far back), librarians had become a very large profession. When
@@ -55,7 +55,7 @@ the best accountants.
 Going back to an older example, when the Great Depression hit, 20% of
 the US population were farmers
 
-------------------------------------------------------------------------
+
 
 Now, transitioning to today, farmers consist of about 2% of the
 population, even though food production is at all time high. The US
@@ -92,7 +92,7 @@ Robotics boasts about \$80 million in venture capital. Baxter represents
 a long-term view of the way technology will transform work, lives, and
 culture, much like the industrial revolution did in the 18th century.
 
-------------------------------------------------------------------------
+
 
 Speaking of the future, the advantages robots have today against humans
 will still hold later. Robots are never bored or tired, make fewer
@@ -126,7 +126,7 @@ future (naturally in part due to Moore's Law). It's clear then that in
 order for workers to win the race against the machine, they will have to
 acquire high levels of creative and social skills.
 
-------------------------------------------------------------------------
+
 
 Evidence has been provided from the past, present, and future. Robotics
 , technology in general, has, is, and will provide major breakthroughs

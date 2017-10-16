@@ -25,20 +25,19 @@ tags:
     - tricks
 ---
 
-[![](https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/74/s300/coding-house-logo.png){.aligncenter
-width="250" height="147"}](https://www.codinghouse.com)
+[![](https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/74/s300/coding-house-logo.png)](https://www.codinghouse.com)
 
 Interview with [Coding House](https://www.codinghouse.com "Coding House") {#interview-with-coding-house style="text-align:center;"}
 ========================================================================
 
-------------------------------------------------------------------------
+
 
 ### with [Nick James](https://www.linkedin.com/in/hellonick) and [Samer Buna](https://www.linkedin.com/in/samerbuna)
 
 > answers were paraphrased or just referenced verbatim\
 > personal comments are highlighted `like this`
 
-------------------------------------------------------------------------
+
 
 **Part 1: The Application 📝**
 -----------------------------
@@ -53,12 +52,12 @@ Interview with [Coding House](https://www.codinghouse.com "Coding House") {#inte
 > Both calls were pretty informal and did not require me to complete any
 > technical challenge.
 
-------------------------------------------------------------------------
+
 
 **Part 2: The Interview (with Nick)** 📞
 ---------------------------------------
 
-------------------------------------------------------------------------
+
 
 1. **How many drop out after simply experiencing the pre-work? How much
     time should I dedicate to the pre-work?** We require a minimum level
@@ -98,12 +97,12 @@ Interview with [Coding House](https://www.codinghouse.com "Coding House") {#inte
     Yes, weekly, we bring them into our office for an individual
     learning assessment.
 
-------------------------------------------------------------------------
+
 
 **The Decision 💡**
 ------------------
 
-------------------------------------------------------------------------
+
 
 **I got in!**
 
@@ -124,14 +123,14 @@ Unfortunately, that's not a typing error on my part.
 Once all that is taken care of, they'll let you access their internal
 website to get started with the pre-work at home.
 
-------------------------------------------------------------------------
+
 
 I also have shared my **interview experience** with bootcamps such as
 
 - [Bitmaker
-    Labs](https://fvcproductions.com/blog/2014/03/12/bitmaker-labs/ "Bitmaker Labs")
+    Labs](/blog/2014/03/12/interview-bitmaker-labs/)
 - [Coding
-    Dojo](https://fvcproductions.com/blog/2015/01/06/interview-coding-dojo/ "Interview with Coding Dojo 🍜")
+    Dojo](/blog/2015/01/06/interview-coding-dojo/)
 - [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
 - [Dev
     League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "Interview With DevLeague 💻")
@@ -142,7 +141,7 @@ I also have shared my **interview experience** with bootcamps such as
 - [Maker
     Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
-------------------------------------------------------------------------
+
 
 > Tips or tricks?
 >

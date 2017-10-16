@@ -20,7 +20,7 @@ tags:
     - wish list
 ---
 
-Long Lighthearted Lists {#long-lighthearted-lists style="text-align:center;"}
+Long Lighthearted Lists
 
 Index
 -----
@@ -33,7 +33,7 @@ Index
 - [Fun Tech-Related TV Shows](#section-techtv)
 - [Cool Conferences I Can Go To One Day](#section-conferences)
 
-------------------------------------------------------------------------
+
 
 ### Languages I've Been Seriously Exposed To
 
@@ -60,7 +60,7 @@ Index
     -   Studied abroad in Germany for about 4 months for my first
         semester of college.
 
-------------------------------------------------------------------------
+
 
 ### Old Science Fair Projects
 
@@ -76,20 +76,18 @@ Index
         (Combat Ant Killer Gel) is still the most effective and
         persistent in getting rid of ants.
 
-------------------------------------------------------------------------
+
 
 ### Cool Places I Can Live When I'm Older
 
 [![Travel to
-Austin](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg?w=294){.size-medium
-.wp-image-1539 .aligncenter width="294"
-height="300"}](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
+Austin](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg?w=294)](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
 
 -   Honolulu, Hawaii
 -   Miami, Florida
 -   Boston, Massachusetts
 
-------------------------------------------------------------------------
+
 
 ### Random Materialistic Wish-List
 
@@ -101,7 +99,7 @@ height="300"}](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
 -   Portable Scanner (It ended up sucking so I returned it!)
 -   3D Printer
 
-------------------------------------------------------------------------
+
 
 ### Coding Bootcamp Experiences
 
@@ -129,7 +127,7 @@ height="300"}](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
             nice - it's ridiculous. I did not feel nervous at all during
             the whole process. You can see more about my Bitmaker
             experience
-            [here](https://fvcproductions.com/blog/2014/03/12/bitmaker-labs/ "Bitmaker Labs").
+            [here](/blog/2014/03/12/interview-bitmaker-labs/).
     - [Code Fellows](https://www.codefellows.org/ "Code Fellows") -
         Seattle, Washington
         -   I applied for the Front-End Design & Development class in
@@ -156,7 +154,7 @@ height="300"}](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
             them early on I would not be completing the process. They
             were very understanding.
 
-------------------------------------------------------------------------
+
 
 ### Fun Tech-Related TV Shows
 
@@ -166,7 +164,7 @@ height="300"}](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
 - [The IT Crowd](https://www.imdb.com/title/tt0487831/)
 - [betas](https://www.imdb.com/title/tt3012184/)
 
-------------------------------------------------------------------------
+
 
 ### Cool Conferences I Can Go To Eventually
 
@@ -182,4 +180,4 @@ height="300"}](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
     up doing just that! You can find more about that experience
     [here](https://fvcproductions.com/blog/2015/01/30/adventures-with-aaai-2015/ "Adventures with AAAI").
 
-------------------------------------------------------------------------
+

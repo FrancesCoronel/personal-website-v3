@@ -31,7 +31,7 @@ Having said that, **[HR DevFest](https://hrdevfest.org "HRDevFest")**,
 the **first major tech conference catering to the `757` area**, was
 actually **today** on November 14th, 2015 from 8:30 am to 6 pm.
 
-\https://twitter.com/HRDevFest/status/665359937908903936\]
+https://twitter.com/HRDevFest/status/665359937908903936\]
 
 It's always exciting to potentially be part of an inaugural anything so
 when the organizers behind HR DevFest announced their call for
@@ -45,22 +45,19 @@ I was surprised by the amount of support I received from the community
 for the proposal and before I knew it, I had gotten the opportunity to
 speak for the first time at an official tech conference.
 
-\https://twitter.com/HRDevFest/status/656476470454300672\]
+https://twitter.com/HRDevFest/status/656476470454300672\]
 
 I've spoken at conferences before, but never at an actual tech
 conference which is why victory was that much sweeter when I finally got
 the opportunity to do so today. So…
 
-\https://twitter.com/fvcproductions/status/662647429737615360\]
+https://twitter.com/fvcproductions/status/662647429737615360\]
 
 ***Thanks HR DevFest.***
 
-\[caption id="attachment\_3409" align="aligncenter"
-width="750"\][![Lanyard - HR
-DevFest](https://fvcproductions.files.wordpress.com/2015/11/img_0100.jpg){.size-full
-.wp-image-3409 width="750"
-height="1000"}](https://fvcproductions.com/blog/2015/11/13/hrdevfest-talk/img_0100/)
-Lanyard - HR DevFest\[/caption\]
+[![Lanyard - HR
+DevFest](https://fvcproductions.files.wordpress.com/2015/11/img_0100.jpg)](https://fvcproductions.com/blog/2015/11/13/hrdevfest-talk/img_0100/)
+Lanyard - HR DevFest
 
 Slides on Speaker Deck {#slidesonspeakerdeck}
 ----------------------
@@ -70,30 +67,24 @@ https://speakerdeck.com/fvcproductions/hrdevfest-web-design
 Video on YouTube {#videoonyoutube}
 ----------------
 
-\https://www.youtube.com/watch?v=dEJyRuQF4Ww\]
+https://www.youtube.com/watch?v=dEJyRuQF4Ww\]
 
 I did end getting some positive feedback! {#ididendgettingsomepositivefeedback}
 -----------------------------------------
 
-\https://twitter.com/lisadenoia/status/665604693549170688\]
+https://twitter.com/lisadenoia/status/665604693549170688\]
 
-\[caption id="attachment\_3405" align="aligncenter"
-width="750"\][![Slack Feedback -
-HRDevFest](https://fvcproductions.files.wordpress.com/2015/11/screenshot-2015-11-14-20-14-11.png){.size-full
-.wp-image-3405 width="750"
-height="199"}](https://fvcproductions.com/blog/2015/11/13/hrdevfest-talk/screenshot-2015-11-14-20-14-11/)
-Slack Feedback - HR DevFest\[/caption\]
+[![Slack Feedback -
+HRDevFest](https://fvcproductions.files.wordpress.com/2015/11/screenshot-2015-11-14-20-14-11.png)](https://fvcproductions.com/blog/2015/11/13/hrdevfest-talk/screenshot-2015-11-14-20-14-11/)
+Slack Feedback - HR DevFest
 
-\https://twitter.com/aag1091/status/665554097798426624\]
+https://twitter.com/aag1091/status/665554097798426624\]
 
-\[caption id="attachment\_3406" align="aligncenter"
-width="671"\][![LinkedIn -
-Feedback](https://fvcproductions.files.wordpress.com/2015/11/screenshot-2015-11-14-23-14-32.png){.size-full
-.wp-image-3406 width="671"
-height="306"}](https://fvcproductions.com/blog/2015/11/13/hrdevfest-talk/screenshot-2015-11-14-23-14-32/)
-LinkedIn Feedback - HR DevFest\[/caption\]
+[![LinkedIn -
+Feedback](https://fvcproductions.files.wordpress.com/2015/11/screenshot-2015-11-14-23-14-32.png)](https://fvcproductions.com/blog/2015/11/13/hrdevfest-talk/screenshot-2015-11-14-23-14-32/)
+LinkedIn Feedback - HR DevFest
 
-\https://twitter.com/erikpmp/status/665554118182703105\]
+https://twitter.com/erikpmp/status/665554118182703105\]
 
 > Needless to say, I'm definitely going to be giving more talks in the
 > future.
@@ -101,11 +92,9 @@ LinkedIn Feedback - HR DevFest\[/caption\]
 Conference Website {#conferencewebsite}
 ------------------
 
-\[caption id="attachment\_3407" align="aligncenter"
-width="750"\][![Hampton Roads
-DevFest](https://fvcproductions.files.wordpress.com/2015/11/hampton-roads-devfest.jpg){.size-full
-.wp-image-3407 width="750" height="3989"}](https://hrdevfest.org/)
-Hampton Roads DevFest\[/caption\]
+[![Hampton Roads
+DevFest](https://fvcproductions.files.wordpress.com/2015/11/hampton-roads-devfest.jpg)](https://hrdevfest.org/)
+Hampton Roads DevFest
 
 References/Resources
 --------------------

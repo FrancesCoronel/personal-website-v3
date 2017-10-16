@@ -76,7 +76,7 @@ folders are your best options.
 
 Tutorial time.
 
-------------------------------------------------------------------------
+
 
 Things You'll Need
 ------------------
@@ -97,7 +97,7 @@ Things You'll Need
 [Google-fu](https://www.urbandictionary.com/define.php?term=google-fu)
 (Just a little!)
 
-------------------------------------------------------------------------
+
 
 Step 1
 ======
@@ -109,7 +109,7 @@ Step 1
 > > website designs from around the web.
 > > ![](https://fvcproductions.files.wordpress.com/2015/02/one-page-love.png)
 
-------------------------------------------------------------------------
+
 
 Step 2
 ======
@@ -130,7 +130,7 @@ Step 2
 > >
 > > You'll need both for this to work (there can be errors!).
 
-------------------------------------------------------------------------
+
 
 Step 3
 ------
@@ -175,7 +175,7 @@ Step 3
 >
 > ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-19-43-50.png)
 
-------------------------------------------------------------------------
+
 
 Step 4
 ------
@@ -194,7 +194,7 @@ Step 4
 > >
 > > ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-19-51-41.png)
 
-------------------------------------------------------------------------
+
 
 Step 5
 ------
@@ -202,7 +202,7 @@ Step 5
 > Now save this file that you've edited to work with your website as
 > `manifest.json` into the folder you created in **Step 2**.
 
-------------------------------------------------------------------------
+
 
 Step 6
 ------
@@ -217,7 +217,7 @@ Step 6
 > > ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-20-15-20.png)
 > > ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-20-16-32.png)
 
-------------------------------------------------------------------------
+
 
 Step 7
 ------
@@ -232,7 +232,7 @@ Step 7
 >
 > Choose the folder with your files that you created **Step 4**.
 
-------------------------------------------------------------------------
+
 
 Step 8
 ------
@@ -248,7 +248,7 @@ Step 8
 >
 > That's it. Congratulations! 😊
 
-------------------------------------------------------------------------
+
 
 > Tips or tricks?
 >

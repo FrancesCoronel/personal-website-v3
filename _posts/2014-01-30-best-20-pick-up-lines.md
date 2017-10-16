@@ -41,7 +41,7 @@ tags:
 
 I originally made this list January 30, 2014.
 
-I figured I would switch things up a bit since I published a [long list of insults](https://fvcproductions.com/blog/2014/03/04/the-best-50-insults-i-found-online/ "Insults") and so I'm going to go ahead and post some of my favorite pick up lines.
+I figured I would switch things up a bit since I published a [long list of insults](/blog/2014/03/04/the-best-50-insults-i-found-online/) and so I'm going to go ahead and post some of my favorite pick up lines.
 
 They're more for amusement's sake than anything else.
 
