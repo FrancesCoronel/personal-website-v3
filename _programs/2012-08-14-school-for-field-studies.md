@@ -68,10 +68,11 @@ I got a lot from this program. Specifically, I...
 
 I also <a href="https://fvcproductions.com/2013/07/28/blog-post-from-tanzania/" target="_blank" rel="noopener">blogged about my experience</a>
 
-## Awards
+### Awards
 
-I received college credit from Boston University for completing this
-course.
+I received college credit from Boston University for completing this course.
+
+### Transcript
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/doc/313099732/Boston-University-Transcript">Boston University Transcript</a></h4><p>FVCproductions Check me out at fvcproductions.com Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright FVCproductions 2016 Don't forget to like and/or comment! :)</p></blockquote>
 

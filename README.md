@@ -1,6 +1,8 @@
 # fvcproductions.github.io
 
-[![Github Issues](https://img.shields.io/github/issues/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/issues) [![GitHub Pull-Requests](https://img.shields.io/github/issues-pr/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/pulls)  [![MIT License](https://img.shields.io/github/license/fvcproductions/readme.svg?style=flat-square)](http://badges.mit-license.org) [![Become a Patron!](https://img.shields.io/badge/Patreon-Become%20a%20Patron!-orange.svg?style=flat-square)](https://www.patreon.com/fvcproductions)
+[![Github Issues](https://img.shields.io/github/issues/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/issues) [![GitHub Pull-Requests](https://img.shields.io/github/issues-pr/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/pulls) [![MIT License](https://img.shields.io/github/license/fvcproductions/readme.svg?style=flat-square)](http://badges.mit-license.org) [![Become a Patron!](https://img.shields.io/badge/Patreon-Become%20a%20Patron!-orange.svg?style=flat-square)](https://www.patreon.com/fvcproductions)
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffvcproductions%2Ffvcproductions.github.io.svg?type=small)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffvcproductions%2Ffvcproductions.github.io?ref=badge_small)
 
 My blog and portfolio all in one. You can view it on GitHub Pages at [fvcproductions.github.io](https://fvcproductions.github.io)
 
@@ -14,6 +16,7 @@ My blog and portfolio all in one. You can view it on GitHub Pages at [fvcproduct
 - [Contributing](#contributing)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
+- [License](#license)
 
 <!-- /TOC -->
 
@@ -86,8 +89,6 @@ Where: <project>, -*/site/*
   - [lazy-sizes](https://github.com/aFarkas/lazysizes)
 - migrate to [Hugo](https://gohugo.io/) with [victor-hugo](https://github.com/netlify/victor-hugo) boilerplate
 - include Patreon link in default template for portfolio and posts
-- `what-i-use`
-  - remove Airtable and create larger post with updated tools/pictures of tools
 
 ## Contributing
 
@@ -113,3 +114,7 @@ Or just [create an issue](https://github.com/fvcproductions/fvcproductions.githu
 ## Acknowledgements
 
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes)
+
+## License
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Ffvcproductions%2Ffvcproductions.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Ffvcproductions%2Ffvcproductions.github.io?ref=badge_large)
