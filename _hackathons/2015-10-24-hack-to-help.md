@@ -4,7 +4,11 @@ excerpt: "Our team created Hack the Vote at Hack to Help HR at Dominion Enterpri
 date: 2015-10-24
 header:
   image: https://fvcproductions.files.wordpress.com/2015/11/csaxal9uyaypho3.jpg
-
+gallery:
+  - url: https://fvcproductions.files.wordpress.com/2015/11/csaxal9uyaypho3.jpg
+    alt: Team Photo
+  - url: https://fvcproductions.files.wordpress.com/2015/11/12185447_625125410958828_1289917126824218099_o.jpg
+    alt: Presenting
 ---
 
 ## Name
@@ -33,4 +37,8 @@ One of the most fun hackathons I attended. Teamed up with some really fun people
 
 ## Project
 
-<blockquote class="embedly-card"><h4><a href="https://fvcproductions.com/portfolio/hack-the-vot">FVCproductions 🍓</a></h4><p>Check out the app at rcodonnell.github.io/code4hr-voting "Change the world, know your candidate." 🔨 with ♥️ at the Hack to Help Hampton Roads Hackathon from October 23-24, 2015 at Dominion Enterprises. Screenshots Installation & Setup Run the following commands to build the app. $ cd path/to/repo $ grunt Now head over to https://localhost:9001 Testing This command...</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="http://rcodonnell.github.io/code4hr-voting/">Hack the Vote</a></h4><p>Change the world, know your candidate.</p></blockquote>
+
+<blockquote class="embedly-card"><h4><a href="https://github.com/rcodonnell/code4hr-voting">rcodonnell/code4hr-voting</a></h4><p>Contribute to code4hr-voting development by creating an account on GitHub.</p></blockquote>
+
+{% include gallery %}

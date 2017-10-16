@@ -6,7 +6,7 @@ header:
     image: https://fvcproductions.files.wordpress.com/2017/07/iphone.jpeg
 ---
 
-### Feel free to email me at `fvcproductions at gmail dot com`. 📥
+## Feel free to email me at `fvcproductions at gmail dot com`. 📥
 
 > Or you can reach out to me via...
 
@@ -14,10 +14,8 @@ header:
 - <a href="https://linkedin.com/in/fvcproductions" target="_blank" rel="noopener">LinkedIn</a> 👥️
 - <a href="https://calendly.com/fvcproductions" target="_blank" rel="noopener">Calendly</a> 📅
 
-#### ❤︎ Enjoy my work? ❤︎
+### Become a Patron!
 
-Show your love by making a donation using <a href="https://www.paypal.me/fvcproductions" target="_blank" rel="noopener">PayPal Me</a> or <a href="https://venmo.com/fvcproductions" target="_blank" rel="noopener">Venmo</a>.
+If you have found any of my contributions valuable, kindly consider supporting me through a small donation or by becoming an ongoing patron. 💛️
 
-> You can just click on the **piggy** below! 🐷
-
-<a href="https://paypal.me/fvcproductions" target="_blank" rel="noopener"><img src="https://fvcproductions.files.wordpress.com/2015/09/donate-pig.gif" alt="Donate Button" width="400" height="300" /></a>
+<a href="https://www.patreon.com/fvcproductions" target="_blank" rel="noopener"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="50" alt="Become a Patron!"></a>

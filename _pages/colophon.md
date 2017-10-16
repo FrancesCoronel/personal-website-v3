@@ -209,15 +209,21 @@ This allows you to denote <var>variables</var>.
 
 ## Unordered List
 
-* List item one
-    * List item one
-        * List item one
-        * List item two
-        * List item three
-        * List item four
-    * List item two
-    * List item three
-    * List item four
-* List item two
-* List item three
-* List item four
+- List item one
+  - List item one
+    - List item one
+    - List item two
+    - List item three
+    - List item four
+  - List item two
+  - List item three
+  - List item four
+- List item two
+- List item three
+- List item four
+
+### Become a Patron!
+
+If you have found any of my contributions valuable, kindly consider supporting me through a small donation or by becoming an ongoing patron. 💛️
+
+<a href="https://www.patreon.com/fvcproductions" target="_blank" rel="noopener"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="50" alt="Become a Patron!"></a>

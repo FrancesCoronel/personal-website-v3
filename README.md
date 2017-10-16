@@ -1,8 +1,21 @@
 # fvcproductions.github.io
 
-[![Github Issues](https://img.shields.io/github/issues/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/issues) [![GitHub Pull-Requests](https://img.shields.io/github/issues-pr/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/pulls) [![MIT License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](https://paypal.me/fvcproductions)
+[![Github Issues](https://img.shields.io/github/issues/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/issues) [![GitHub Pull-Requests](https://img.shields.io/github/issues-pr/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/pulls)  [![MIT License](https://img.shields.io/github/license/fvcproductions/readme.svg?style=flat-square)](http://badges.mit-license.org) [![Become a Patron!](https://img.shields.io/badge/Patreon-Become%20a%20Patron!-orange.svg?style=flat-square)](https://www.patreon.com/fvcproductions)
 
 My blog and portfolio all in one. You can view it on GitHub Pages at [fvcproductions.github.io](https://fvcproductions.github.io)
+
+> Table of Contents
+
+<!-- TOC -->
+
+- [Installation](#installation)
+- [Usage](#usage)
+  - [To-Do](#to-do)
+- [Contributing](#contributing)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
+<!-- /TOC -->
 
 ## Installation
 
@@ -52,12 +65,6 @@ JekyllImport::Importers::WordpressDotCom.run({
 
 I use CodeKit 3 (`config.codekit3`) to handle compilation.
 
-Find Scope for Sublime Text 3
-
-```text
-<project>,-*/_drafts/*,-*/_sass/vendor/*,-*/.git/*,-*/site/*,-*config.codekit3,-*Gemfile.lock,-*/assets/*
-```
-
 ## Usage
 
 This website was created from the bottom-up and is a migration from my Wordpress website at [`fvcproductions.wordpress.com`](https://fvcproductions.wordpress.com).
@@ -67,6 +74,20 @@ This website was created from the bottom-up and is a migration from my Wordpress
 ```text
 Where: <project>, -*/site/*
 ```
+
+### To-Do
+
+- better alt tags for images in galleries
+- add galleries
+- update portfolio
+- update posts
+- use [Isotope](https://isotope.metafizzy.co/) to filter posts by category
+- use [lazy-loading](https://www.adamwills.io/blog/responsive-images-hugo/) to load posts
+  - [lazy-sizes](https://github.com/aFarkas/lazysizes)
+- migrate to [Hugo](https://gohugo.io/) with [victor-hugo](https://github.com/netlify/victor-hugo) boilerplate
+- include Patreon link in default template for portfolio and posts
+- `what-i-use`
+  - remove Airtable and create larger post with updated tools/pictures of tools
 
 ## Contributing
 
