@@ -1,6 +1,7 @@
 # fvcproductions.github.io
 
 [![Github Issues](https://img.shields.io/github/issues/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/issues) [![GitHub Pull-Requests](https://img.shields.io/github/issues-pr/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/pulls) [![MIT License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](https://paypal.me/fvcproductions)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Ffvcproductions%2Ffvcproductions.github.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Ffvcproductions%2Ffvcproductions.github.io?ref=badge_shield)
 
 My blog and portfolio all in one. You can view it on GitHub Pages at [fvcproductions.github.io](https://fvcproductions.github.io)
 
@@ -92,3 +93,7 @@ Or just [create an issue](https://github.com/fvcproductions/fvcproductions.githu
 ## Acknowledgements
 
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Ffvcproductions%2Ffvcproductions.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Ffvcproductions%2Ffvcproductions.github.io?ref=badge_large)
