@@ -22,9 +22,7 @@ users could add markers onto a map.
 Check it out at
 [beato-2014.appspot.com](https://beato-2014.appspot.com/).
 
-[![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5839b420810715.562f17e65a860.png){
-width="1200"
-height="1884"}](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5839b420810715.562f17e65a860.png)
+[![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5839b420810715.562f17e65a860.png)](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5839b420810715.562f17e65a860.png)
 
 We also had a demo presentation.
 

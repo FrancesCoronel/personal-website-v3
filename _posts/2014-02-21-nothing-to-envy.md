@@ -18,7 +18,7 @@ tags:
 
 This was a more research-oriented piece for my history class, but I hope you enjoy it - it was honestly a really eye-opening book and I'm just grateful to have read it.
 
-[Written February 21, 2014]{style="line-height:1.5em;"}
+[Written February 21, 2014]
 
  Barbara Demick, *Nothing to Envy: Ordinary Lives in North Korea* (New
 York: Spiegel & Grau, 2009).

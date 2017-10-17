@@ -39,7 +39,7 @@ Regardless, it's a whole lot. So I'm going to break this news up into three smal
 2. [A Mentoring Venture](#section-mentoring)
 3. [Future Plans](#section-future)
 
-## 1. Graduating from Undergrad {#section-graduating}
+## 1. Graduating from Undergrad
 
 ![](https://ih0.redbubble.net/image.120345349.1637/sticker,375x360.png)
 
@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=ewRjZoRtu0Y
 
 I hate paper.
 
-## 2. A Mentoring Venture {#section-mentoring}
+## 2. A Mentoring Venture
 
 ### So I read this article recently on [**Coding Bootcamps and Emotional Labor**](https://modelviewculture.com/pieces/coding-bootcamps-and-emotional-labor).
 

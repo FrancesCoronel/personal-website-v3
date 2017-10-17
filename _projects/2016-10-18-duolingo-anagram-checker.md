@@ -9,9 +9,7 @@ gallery:
       url: https://i.imgur.com/8cFXnVj.jpg
 ---
 
-Check this out at duolingo themed anagram checker at [`fvcproductions.github.io/anagram`](https://fvcproductions.github.io/anagram)! {#check-this-out-at-duolingo-themed-anagram-checker-at--a-href--http:--fvcproductions.github.io-anagram--target--_blank---code-fvcproductions.github.io-anagram--code---a--}
------------------------------------
-
+Check this out at duolingo themed anagram checker at [`fvcproductions.github.io/anagram`](https://fvcproductions.github.io/anagram)!
 I created this simple website as part of the Duolingo PM intern
 interview process.
 

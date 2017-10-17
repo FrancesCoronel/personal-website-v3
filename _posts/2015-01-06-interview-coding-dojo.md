@@ -21,12 +21,12 @@ tags:
 
 [![](https://jlau-bucket-1.s3.amazonaws.com/uploads/topic/image/5/coding_dojo.png) Fancy.
 
-Interview with [Coding Dojo](https://www.codingdojo.com) {#interview-with-coding-dojo style="text-align:center;"}
+Interview with [Coding Dojo](https://www.codingdojo.com)
 =======================================================
 
 
 
-### with [Speros Misirlakis](https://www.linkedin.com/pub/speros-misirlakis/28/743/384) {#with-speros-misirlakis style="text-align:center;"}
+### with [Speros Misirlakis](https://www.linkedin.com/pub/speros-misirlakis/28/743/384)
 
 > answers were paraphrased or just referenced verbatim\
 > personal comments are highlighted `like this`

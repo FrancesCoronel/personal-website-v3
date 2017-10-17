@@ -37,7 +37,7 @@ PRD
 
 \[scribd id=333594398 key=key-SEA7TANaoddyrZKsrVDZ mode=scroll\]
 
-Speaker Deck {#speakerdeck}
+Speaker Deck
 ------------
 
 https://speakerdeck.com/fvcproductions/duolingo-delights-revised-1

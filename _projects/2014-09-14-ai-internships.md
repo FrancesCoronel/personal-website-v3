@@ -8,7 +8,7 @@ header:
 [![Briefcase Icon](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png)](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png)
 Undergraduate Internships/Fellowships
 
-Dealing With A.I. {#dealing-with-a.i. style="text-align:center;"}
+Dealing With A.I.
 =================
 
 Written and generated with **[Byword](https://bywordapp.com)**
@@ -38,7 +38,7 @@ Written and generated with **[Byword](https://bywordapp.com)**
 
 
 
-Index {#section-index}
+Index
 -----
 
 - [Center For Visual Science at University of
@@ -65,7 +65,7 @@ Index {#section-index}
 ![center for visual
 science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
 
-### [Center For Visual Science at University of Rochester](https://www.cvs.rochester.edu/index.php) {#section-centerforvisualscience}
+### [Center For Visual Science at University of Rochester](https://www.cvs.rochester.edu/index.php)
 
 > **About**
 >
@@ -87,7 +87,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
 
 ![fusemachines](https://workablehr.s3.amazonaws.com/uploads/account/logo/5940/large_Logo_FM.png)
 
-### [Fusemachines](https://fusemachines.com) {#section-fusemachines}
+### [Fusemachines](https://fusemachines.com)
 
 > **About**
 >
@@ -104,7 +104,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
 
 ![gridspace](https://www.gridspace.com/assets/logo-alt.png)
 
-### [Gridspace](https://www.gridspace.com) {#section-gridspace}
+### [Gridspace](https://www.gridspace.com)
 
 > **About**
 >
@@ -119,8 +119,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
 
 ![ibm](https://www.alohaonrails.com/wp-content/uploads/2009/07/ibm-logo-black_r_large.png)
 
-### [IBM](https://www.ibm.com/us/en/) {#section-ibm}
-
+### [IBM](https://www.ibm.com/us/en/)
 > **About**
 >
 > > The International Business Machines Corporation (IBM) is an American
@@ -166,7 +165,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
 
 ![iRobot](https://giveaway.komando.com/images_prize/iRobot-logo-green300(3).png)
 
-### [iRobot](https://www.irobot.com) {#section-irobot}
+### [iRobot](https://www.irobot.com)
 
 > **About**
 >
@@ -192,7 +191,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
 
 ![miri](https://intelligence.org/wp-content/uploads/2013/02/miri_horizontal_even.png)
 
-### [MIRI: Machine Intelligence Research Institute](https://intelligence.org/#) {#section-miri}
+### [MIRI: Machine Intelligence Research Institute](https://intelligence.org/#)
 
 > **About**
 >
@@ -213,7 +212,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
 
 ![nationalsecurityagency.png](https://consortiumnews.com/wp-content/uploads/2011/11/nationalsecurityagency.png)
 
-### [NSA: National Security Agency](https://www.nsa.gov) {#section-nsa}
+### [NSA: National Security Agency](https://www.nsa.gov)
 
 > **About**
 >
@@ -235,7 +234,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
 
 ![numenta.png](https://numenta.com/assets/img/logo/numenta.png)
 
-### [Numenta](https://www.numenta.com) {#section-numenta}
+### [Numenta](https://www.numenta.com)
 
 > **About**
 >
@@ -272,7 +271,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
 
 ![logo-header-predikt.png](https://www.predikt.com/assets/logo-header-predikt.png)
 
-### [Predikt](https://www.predikt.co/) {#section-predikt}
+### [Predikt](https://www.predikt.co/)
 
 > **About**
 >
@@ -288,7 +287,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
 
 ![riverside](https://usgif.org/system/avatars/225/xlarge/Riverside_Research.png?1373638885)
 
-### [Riverside Research](https://www.riversideresearch.org) {#section-riversideresearch}
+### [Riverside Research](https://www.riversideresearch.org)
 
 > **About**
 >
@@ -316,7 +315,7 @@ science](https://www.cvs.rochester.edu/assets/images/UR-logo.png)
 ![robotics
 institute](https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institute_logo.svg/150px-Robotics_Institute_logo.svg.png)
 
-### [Robotics Institute at Carnegie Mellon](https://www.ri.cmu.edu/index.html) {#section-roboticscmu}
+### [Robotics Institute at Carnegie Mellon](https://www.ri.cmu.edu/index.html)
 
 > **About**
 >
@@ -342,7 +341,7 @@ institute](https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institu
 
 ![viascience](https://www.weatheranalytics.com/wa/wp-content/uploads/2014/01/company_viascience1.png)
 
-### [Via Science](https://www.viascience.com) {#section-viascience}
+### [Via Science](https://www.viascience.com)
 
 > **About**
 >
@@ -359,7 +358,7 @@ institute](https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institu
 
 ![vicarious](https://cloudtimes.org/wp-content/uploads/2012/09/vicarious-logo.png)
 
-### [Vicarious](https://www.vicarious.com) {#section-vicarious}
+### [Vicarious](https://www.vicarious.com)
 
 > **About**
 >
@@ -383,7 +382,7 @@ institute](https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Robotics_Institu
 
 
 
-### Other Resources {#section-resources}
+### Other Resources
 
 - [The World’s Coolest Machine Learning
     Internships](https://bickson.blogspot.com/2012/01/worlds-coolest-machine-learning.html)\

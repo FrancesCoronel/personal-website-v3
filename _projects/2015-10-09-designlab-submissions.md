@@ -6,7 +6,7 @@ header:
     image: https://i.imgur.com/8cFXnVj.jpg
 ---
 
-These are all my submissions from my **[Design 101](https://trydesignlab.com/web-design-course/)** course on [Designlab](https://trydesignlab.com). {#these-are-all-my-submissions-from-my-design-101-course-on-designlab. .intro style="text-align:center;"}
+These are all my submissions from my **[Design 101](https://trydesignlab.com/web-design-course/)** course on [Designlab](https://trydesignlab.com).
 =================================================================================================================================================
 
 [![Designlab - Behance
@@ -23,7 +23,7 @@ I also wrote about my Designlab experience [here](https://fvcproductions.com/201
 
 
 
-SuperGood {#flitter}
+SuperGood
 ---------
 
 > Landing Page for Smoothie Company
@@ -41,7 +41,7 @@ Flitter
 Social](https://fvcproductions.files.wordpress.com/2015/10/designlab-social.jpg)](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-social/)
 Designlab - Social
 
-Two Words on Design {#flitter}
+Two Words on Design
 -------------------
 
 > Blog Article
@@ -50,7 +50,7 @@ Two Words on Design {#flitter}
 Article](https://fvcproductions.files.wordpress.com/2015/10/designlab-blog-article.jpg)](https://fvcproductions.com/portfolio/designlab-submissions/designlab-blog-article/)
 Designlab - Blog Article
 
-readingit {#flitter}
+readingit
 ---------
 
 > News Listings
@@ -59,7 +59,7 @@ readingit {#flitter}
 News](https://fvcproductions.files.wordpress.com/2015/10/designlab-news.jpg)](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-news/)
 Designlab - News
 
-RankMe {#flitter}
+RankMe
 ------
 
 > Wireframe/Prototype
@@ -68,7 +68,7 @@ RankMe {#flitter}
 Prototype](https://fvcproductions.files.wordpress.com/2015/10/designlab-prototype.jpg)](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-prototype/)
 Designlab - Prototype
 
-Web Layout {#flitter}
+Web Layout
 ----------
 
 > Visual Hierachy
@@ -76,7 +76,7 @@ Web Layout {#flitter}
 [![Designlab - Visual
 Layout](https://fvcproductions.files.wordpress.com/2015/10/designlab-visual-layout.jpg)](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-visual-layout/)
 
-Style Guide {#flitter}
+Style Guide
 -----------
 
 > I chose to do a style guide for Designlab.
@@ -85,7 +85,7 @@ Style Guide {#flitter}
 Styleguide](https://fvcproductions.files.wordpress.com/2015/10/designlab-styleguide.jpeg)](https://fvcproductions.com/2015/10/21/my-designlab-experience/designlab-styleguide/)
 Designlab - Styleguide
 
-Final Project {#flitter}
+Final Project
 -------------
 
 > I chose to do a landing page for my projects at Designlab.
@@ -96,7 +96,7 @@ Designlab - Final Project
 
 
 
-Certificate of Completion {#certificateofcompletion}
+Certificate of Completion
 =========================
 
 [![Designlab - Certificate of

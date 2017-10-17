@@ -9,7 +9,7 @@ gallery:
       url: https://i.imgur.com/8cFXnVj.jpg
 ---
 
-Check out the logos at [`fvcproductions.github.io/cornell-tech-logos`](https://fvcproductions.github.io/cornell-tech-logos) {#check-out-the-logos-at--a-href--http:--fvcproductions.github.io-cornell-tech-logos--target--_blank---code-fvcproductions.github.io-cornell-tech-logos--code---a-}
+Check out the logos at [`fvcproductions.github.io/cornell-tech-logos`](https://fvcproductions.github.io/cornell-tech-logos)
 --------------------------
 
 All the Cornell Tech logos in one place.

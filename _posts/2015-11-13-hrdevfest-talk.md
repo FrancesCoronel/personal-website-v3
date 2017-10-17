@@ -59,17 +59,17 @@ https://twitter.com/fvcproductions/status/662647429737615360\]
 DevFest](https://fvcproductions.files.wordpress.com/2015/11/img_0100.jpg)](https://fvcproductions.com/blog/2015/11/13/hrdevfest-talk/img_0100/)
 Lanyard - HR DevFest
 
-Slides on Speaker Deck {#slidesonspeakerdeck}
+Slides on Speaker Deck
 ----------------------
 
 https://speakerdeck.com/fvcproductions/hrdevfest-web-design
 
-Video on YouTube {#videoonyoutube}
+Video on YouTube
 ----------------
 
 https://www.youtube.com/watch?v=dEJyRuQF4Ww\]
 
-I did end getting some positive feedback! {#ididendgettingsomepositivefeedback}
+I did end getting some positive feedback!
 -----------------------------------------
 
 https://twitter.com/lisadenoia/status/665604693549170688\]
@@ -89,7 +89,7 @@ https://twitter.com/erikpmp/status/665554118182703105\]
 > Needless to say, I'm definitely going to be giving more talks in the
 > future.
 
-Conference Website {#conferencewebsite}
+Conference Website
 ------------------
 
 [![Hampton Roads

@@ -31,7 +31,7 @@ tags:
 
 
 
-Day One - Monday {#dayone-monday}
+Day One - Monday
 ----------------
 
 -   My feelings on FQL represented by an emotive - 😐
@@ -41,7 +41,7 @@ Day One - Monday {#dayone-monday}
 
 
 
-Day Two - Tuesday {#daytwo-tuesday}
+Day Two - Tuesday
 -----------------
 
 -   The `twitter-js` project was fun, but this `twitter-sql` business is
@@ -52,7 +52,7 @@ Day Two - Tuesday {#daytwo-tuesday}
 
 
 
-Day Three - Wednesday {#daythree-wednesday}
+Day Three - Wednesday
 ---------------------
 
 -   I actually tried doing exercise in the morning by going to the
@@ -83,7 +83,7 @@ Day Three - Wednesday {#daythree-wednesday}
 
 
 
-Day Four - Thursday {#dayfour-thursday}
+Day Four - Thursday
 -------------------
 
 -   The testing process for our Wikistack project of yesterday was much
@@ -133,7 +133,7 @@ Avalon Set Up
 
 
 
-Day Five - Friday {#dayfive-friday}
+Day Five - Friday
 -----------------
 
 -   Shoot, today was a mad race against time.
@@ -180,7 +180,7 @@ Octocat](https://fvcproductions.files.wordpress.com/2015/06/pride-octocat.png)](
 
 
 
-### Journey Into the Cave of Digital Hieroglyphics {#journeyintothecaveofdigitalhieroglyphics}
+### Journey Into the Cave of Digital Hieroglyphics
 
 > So Far
 

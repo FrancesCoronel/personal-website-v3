@@ -39,18 +39,18 @@ This is how the completed app looks like.
 7. Clone down **Laravel Homestead** and install it in a folder called `Homestead` using`cd ~ && git clone https://github.com/laravel/homestead.git Homestead`
 8. Initialize Homestead using `cd Homestead && bash init.sh`
 9. While still in `~/Homestead` folder, `sudo nano /private/etc/hosts` to edit the hosts file and add on [these two lines (refer below)](#hosts)
-10. []{#after-hosts}Create a key to authorize ssh using `cd ~/Homestead && ssh-keygen -t rsa -b 4096`
+10. Create a key to authorize ssh using `cd ~/Homestead && ssh-keygen -t rsa -b 4096`
 11. Hit **Enter** twice (you don't have to enter a password)
 12. Time to start up **Vagrant** using `cd ~/Homestead && vagrant up` and enter password when asked
 13. Edit the `Homestead.yaml` file to configure locations of code using `nano ~/.homestead/Homestead.yaml` and make the`folder` and `sites` sections [look like this (refer below)](#yaml-config)
     - ❗ Anytime you edit this `Homestead.yaml` file, you have to perform the next 3 steps in order for it to work, so let's go ahead and do those now.
-14. []{#after-yaml}Stop vagrant temporarily by using `vagrant halt`
+14. Stop vagrant temporarily by using `vagrant halt`
 15. Reload `yaml` configurations by using `vagrant reload --provision` and enter password when asked
 16. While still in `~/Homestead` folder, use `vagrant ssh` to enter into your `Vagrant` setup
 17. Enter into your `Code` folder you created earlier and then your `ds-todos` app using `cd ~/Code/ds-todos`
 18. While you're in your `ds-todos` folder, use `composer install` to install the necessary dependencies for the to-do app
 19. You will also need to configure your environment for `ds-todos` by creating an `.env` file and [typing the following in (refer below)](#env) using `touch .env && nano .env`
-20. []{#after-env}Use `php artisan migrate` to migrate the app data over
+20. Use `php artisan migrate` to migrate the app data over
 21. Then use `php artisan db:seed` to seed the database
 22. Finally, use `php artisan key:generate` to generate an app key for security purposes
 23. At this point, you should be able to head over to `https://ds-todos.app` in your browser and marvel at being able to set this all up! 🎉
@@ -59,7 +59,7 @@ This is how the completed app looks like.
 
 If you want to compile `SASS` files, you will first have to install all npm dependencies using `npm i`. Then just perform a `gulp watch` and you're good to go. Anytime you edit the `SASS` files, `gulp` will check it and compile it down to `CSS`.
 
-### [Hosts]{#hosts} {#spanidhostshostsspan}
+### Hosts
 
 ```text
 192.168.10.10  homestead.app
@@ -68,7 +68,7 @@ If you want to compile `SASS` files, you will first have to install all npm depe
 
 > [Go to the next step.](#after-hosts)
 
-### [YAML Config]{#yaml-config}
+### YAML Config
 
 ❗ Since my `ds-todos` code is located in `~Dropbox/github/ds-todos`, that's where I map it to. However, you probably have it located elsewhere so make sure to get the right file path of that app using `pwd` in **Terminal**.
 
@@ -90,7 +90,7 @@ sites:
 
 > [Go to the next step.](#after-yaml)
 
-### [Environment Setup]{#env}
+### [Environment Setup]
 
 ```text
 APP_ENV=local

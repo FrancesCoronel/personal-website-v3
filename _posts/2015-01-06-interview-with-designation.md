@@ -38,12 +38,12 @@ tags:
 
 [![](https://designation.io/downloads/designation_logo_black/designation_vertical_black.png)](https://designation.io)
 
-Interview with [Designation.io](https://designation.io "Designation") {#interview-with-designation.io style="text-align:center;"}
+Interview with [Designation.io](https://designation.io "Designation")
 ====================================================================
 
 
 
-### with [Will Shandling](https://www.linkedin.com/in/wshandling "Will Shandling") {#with-willshandling style="text-align:center;"}
+### with [Will Shandling](https://www.linkedin.com/in/wshandling "Will Shandling")
 
 > answers are paraphrased or just referenced verbatim
 >
@@ -158,7 +158,7 @@ students, recent college grads, and miscellanies.
 
 
 
-Aftermath {#aftermath style="text-align:center;"}
+Aftermath
 ---------
 
 **I was accepted!** Here's part of the acceptance email they gave me.

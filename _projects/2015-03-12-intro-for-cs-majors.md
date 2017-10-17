@@ -24,7 +24,7 @@ Icon](https://huacm.files.wordpress.com/2015/03/hubookicon.jpg?w=788)](https://b
 
 <div class="column">
 
-I wrote an introductory book geared towards Computer Science majors at Hampton University which currently has over 5K pageviews using the GitBook platform. {#i-wrote-an-introductory-book-geared-towards-computer-science-majors-at-hampton-university-which-currently-has-over-5k-pageviews-using-the-gitbook-platform. style="text-align:center;"}
+I wrote an introductory book geared towards Computer Science majors at Hampton University which currently has over 5K pageviews using the GitBook platform.
 -----------------------------------------------------------
 
 </div>
@@ -38,10 +38,10 @@ I wrote an introductory book geared towards Computer Science majors at Hampton U
 > [![An Intro for CS Majors | Book
 > Cover](https://fvcproductions.files.wordpress.com/2015/03/cs-book-cover.jpeg)](https://fvcproductions.files.wordpress.com/2015/03/cs-book-cover.jpeg)
 >
-> **cs book** [bit.ly/hu-book](https://bit.ly/hu-book "Intro to CS at HU | GitBook") {#cs-bookbit.lyhu-book style="text-align:center;"}
+> **cs book** [bit.ly/hu-book](https://bit.ly/hu-book "Intro to CS at HU | GitBook")
 > ---------
 
-> **website** [hubook.strikingly.com](https://hubook.strikingly.com/ "Strikingly HU Book") {#websitehubook.strikingly.com style="text-align:center;"}
+> **website** [hubook.strikingly.com](https://hubook.strikingly.com/ "Strikingly HU Book")
 > ---------------
 
 
@@ -60,7 +60,7 @@ GitBook](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-04-1
 
 
 
-Tools {#section-tools}
+Tools
 -----
 
 -   This book is published using the platform
@@ -72,7 +72,7 @@ Tools {#section-tools}
 
 
 
-Why this project? {#section-whyproject}
+Why this project?
 -----------------
 
 -   This book would have been so helpful when I was starting out, so I

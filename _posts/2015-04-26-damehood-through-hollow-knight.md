@@ -24,14 +24,8 @@ later to see if I still wanted to back up. The video was beyond amazing,
 but I was just a little unsure if my 2nd investment on Kickstarter
 should be in a 2D game.
 
- 
 
-<div style="clear:both;text-align:center;">
-
-\[embed height="315"
-width="560"\]https://www.youtube.com/watch?v=Y2amTl5lBYM\[/embed\]
-
-</div>
+https://www.youtube.com/watch?v=Y2amTl5lBYM
 
  
 
@@ -49,16 +43,7 @@ soundtrack can be downloaded over at
 [Incompetech.com](https://incompetech.com/music/royalty-free/ "Incompetech")
 by searching for `Plans in Motion`, the title.
 
- 
-
-<div style="clear:both;text-align:center;">
-
-\[embed height="315"
-width="560"\]https://www.youtube.com/watch?v=742XMxswT5Q\[/embed\]
-
-</div>
-
- 
+https://www.youtube.com/watch?v=742XMxswT5Q
 
 Anyways, I'm really really looking forward to achieving damehood. The
 full game for OS X should be coming out until June, so until then, I

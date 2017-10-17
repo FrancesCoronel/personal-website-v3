@@ -50,7 +50,7 @@ Stats
 
 -   `515` commits
 
-GitHub Repo {#githubrepo}
+GitHub Repo
 -----------
 
 View the project at

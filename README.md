@@ -89,11 +89,10 @@ Where: <project>, -*/site/*
   - [lazy-sizes](https://github.com/aFarkas/lazysizes)
 - migrate to [Hugo](https://gohugo.io/) with [victor-hugo](https://github.com/netlify/victor-hugo) boilerplate
 - include Patreon link in default template for portfolio and posts
-- get rid of Wordpress markup like `{  .wp-image-239width="696" height="353"}`
 - replace bare fvcproductions.com links with relative links
-- get rid of `){`
-- get rif of `{#`
 - replace strike through html
+- get rid of line breaks
+- \[
 
 ## Contributing
 

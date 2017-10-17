@@ -10,7 +10,7 @@ gallery:
 ---
 
 Check out the **crowd-sourced** map at\
-[`mapme.com/coding-bootcamps`](https://mapme.com/coding-bootcamps) {#check-out-the-crowd-sourced-map-at-mapme.comcoding-bootcamps style="text-align:center;"}
+[`mapme.com/coding-bootcamps`](https://mapme.com/coding-bootcamps)
 =================================================================
 
  
@@ -28,7 +28,7 @@ bootcamps/development schools located worldwide using the service
 > I began working on this project in **November 2014** and provided a
 > big update on **January 12, 2016**. It is still a WIP.
 
-Stats as of November 2016 {#stats}
+Stats as of November 2016
 -------------------------
 
 -   300+ schools listed so far

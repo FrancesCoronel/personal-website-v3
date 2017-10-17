@@ -20,7 +20,7 @@ tags:
 
 > July 13th to July 17th
 >
-> There are [57]{style="text-decoration:line-through;"} 52 days of
+> There are ~~57~~ 52 days of
 > [**Fullstack Academy**](https://www.fullstackacademy.com).
 >
 > These are days 29 through 33 (Week 6).
@@ -32,7 +32,7 @@ tags:
 
 
 
-Day One - Monday {#dayone-monday}
+Day One - Monday
 ----------------
 
 -   This is my last week as a junior. I guess I could go all cliche here
@@ -49,14 +49,14 @@ Angular](https://s3.amazonaws.com/accredible_courses/images/11072/original/shapi
 
 
 
-Day Two - Tuesday {#daytwo-tuesday}
+Day Two - Tuesday
 -----------------
 
 -   More work on the flashcards application.
 
 
 
-Day Three - Wednesday {#daythree-wednesday}
+Day Three - Wednesday
 ---------------------
 
 -   Today, my partner Yves and I were the only team that showcased a
@@ -69,7 +69,7 @@ Day Three - Wednesday {#daythree-wednesday}
 
 
 
-Day Four - Thursday {#dayfour-thursday}
+Day Four - Thursday
 -------------------
 
 -   Spelunking.
@@ -78,7 +78,7 @@ Day Four - Thursday {#dayfour-thursday}
 
 
 
-Day Five - Friday {#dayfive-friday}
+Day Five - Friday
 -----------------
 
 -   More auth stuff.
@@ -107,10 +107,10 @@ Day Five - Friday {#dayfive-friday}
 
 
 
-Review Week! {#reviewweek}
+Review Week!
 ------------
 
-### A week where we get a break from Fullstack, take some review assessments, and get the opportunity to revitalize for the intense project phase ahead of us. {#aweekwherewegetabreakfromfullstacktakesomereviewassessmentsandgettheopportunitytorevitalizefortheintenseprojectphaseaheadofus.}
+### A week where we get a break from Fullstack, take some review assessments, and get the opportunity to revitalize for the intense project phase ahead of us.
 
 > Monday through Wednesday
 
@@ -153,7 +153,7 @@ Conference](https://fvcproductions.files.wordpress.com/2015/07/106e4-14320769526
 
 
 
-### Journey Into the Cave of Digital Hieroglyphics {#journeyintothecaveofdigitalhieroglyphics}
+### Journey Into the Cave of Digital Hieroglyphics
 
 > So Far
 

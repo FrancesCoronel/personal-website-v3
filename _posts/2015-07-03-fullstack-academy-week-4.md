@@ -36,7 +36,7 @@ tags:
 
 
 
-Day One - Monday {#dayone-monday}
+Day One - Monday
 ----------------
 
 -   Much progress was made with Promises - I still need to review some
@@ -48,7 +48,7 @@ Day One - Monday {#dayone-monday}
 
 
 
-Day Two - Tuesday {#daytwo-tuesday}
+Day Two - Tuesday
 -----------------
 
 -   Worked more on this SASS framework - it's tedious, but as a fellow
@@ -60,7 +60,7 @@ Day Two - Tuesday {#daytwo-tuesday}
 
 
 
-Day Three - Wednesday {#daythree-wednesday}
+Day Three - Wednesday
 ---------------------
 
 -   A lot happened today!
@@ -83,7 +83,7 @@ Day Three - Wednesday {#daythree-wednesday}
 
 
 
-Day Four - Thursday {#dayfour-thursday}
+Day Four - Thursday
 -------------------
 
 -   Today was basically all about using `jQuery` to implement the live
@@ -93,7 +93,7 @@ Day Four - Thursday {#dayfour-thursday}
     `jQuery` but not `JS` itself, even though `jQuery` **IS** a `JS`
     library!
     -   It reminded me of this video.
-        \[youtube=https://www.youtube.com/watch?v=NdREEcfaihg\]
+        https://www.youtube.com/watch?v=NdREEcfaihg
 -   For my *Bubblunch* (since my learning team's name is Bubbles), we
     played 2 games of Avalon. In one of the games, I revealed I was
     Merlin by uttering *"Yeah"* in that part of the game where special
@@ -124,7 +124,7 @@ Day Four - Thursday {#dayfour-thursday}
 
 
 
-Day Five - Friday {#dayfive-friday}
+Day Five - Friday
 -----------------
 
 -   No class today because of the 4th of the July. -\_-
@@ -142,7 +142,7 @@ Day Five - Friday {#dayfive-friday}
 
 
 
-### Journey Into the Cave of Digital Hieroglyphics {#journeyintothecaveofdigitalhieroglyphics}
+### Journey Into the Cave of Digital Hieroglyphics
 
 > So Far
 

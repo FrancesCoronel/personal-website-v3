@@ -29,7 +29,7 @@ tags:
     - time
 ---
 
-So during my last few days of Fullstack, I was feeling a little something like this… {#reflectiononfullstackacademy}
+So during my last few days of Fullstack, I was feeling a little something like this…
 ====================================================================================
 
 ![I regret
@@ -75,7 +75,7 @@ ids="2705,2704,2701,2699,2698,2697,2702,2700,2703"\]
 ![Friends &
 Family](https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/theatre-128.png)
 
-Friends & Family Day {#friendsfamilyday}
+Friends & Family Day
 --------------------
 
 So my last day involved demoing our capstone projects to everybody's
@@ -104,7 +104,7 @@ again, it was also really relaxing. 😁
 
 ![Traveling](https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/luggage-128.png)
 
-Going Back Home {#goingbackhome}
+Going Back Home
 ---------------
 
 My bus ride home with my brother was early the next morning.
@@ -128,14 +128,13 @@ Should be interesting.
 
 
 
-### For the rest of this post, I want to cover a few other smaller points. {#fortherestofthispostiwanttocoverafewothersmallerpoints.}
-
+### For the rest of this post, I want to cover a few other smaller points.
 
 
 ![Pricey
 Stuff](https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/bill-128.png)
 
-The Total Cost {#thetotalcost}
+The Total Cost
 --------------
 
 I use [Mint](https://bywordapp.com/) to track all my costs so it was
@@ -166,7 +165,7 @@ expenses.
 ![Time
 Flies](https://cdn4.iconfinder.com/data/icons/ballicons-2-free/100/669347-watch-128.png)
 
-The Total Time {#thetotaltime}
+The Total Time
 --------------
 
 I missed a few days of Fullstack on account of being sick and also that
@@ -186,14 +185,14 @@ If that's not an immersive experience, I don't know what is.
 
 
 
-At the end of the day, I'm really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye-opening pair programming sessions, and the amazingly bright people. {#attheendofthedayimreallygratefuliwasabletoenjoyeverythingfullstackacademyhastoofferfromladieslunchesmylearningteamlaughseyeopeningpairprogrammingsessionsandtheawesomepeople.}
+At the end of the day, I'm really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye-opening pair programming sessions, and the amazingly bright people.
 ===============================================================================================================================================================================================================================
 
 > It's been real (awesome).
 
 
 
-The **Jubilant** Journey I Took Into the Cave of Digital Hieroglyphics {#thejourneyitookintothecaveofdigitalhieroglyphics style="text-align:center;"}
+The **Jubilant** Journey I Took Into the Cave of Digital Hieroglyphics
 ----------------------------------------------------------------------
 
 - [The Search

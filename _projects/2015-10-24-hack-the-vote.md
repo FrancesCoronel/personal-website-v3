@@ -11,11 +11,10 @@ gallery:
 [![Hack to
 Vote](https://rcodonnell.github.io/code4hr-voting/src/img/favicons/favicon-114.png)](https://rcodonnell.github.io/code4hr-voting/ "Hack to Vote")
 
-Check out the app at [`rcodonnell.github.io/code4hr-voting`](https://rcodonnell.github.io/code4hr-voting/) {#checkouttheappatahrefhttp:rcodonnell.github.iocode4hr-votingtarget_blankrcodonnell.github.iocode4hr-votinga}
+Check out the app at [`rcodonnell.github.io/code4hr-voting`](https://rcodonnell.github.io/code4hr-voting/)
 ---------
 
-### "Change the world, know your candidate." {#changetheworldknowyourcandidate.}
-
+### "Change the world, know your candidate."
 > 🔨 with ♥️ at the [Hack to Help Hampton
 > Roads](https://hackathon.dominionenterprises.com/ "Hack to Help Hampton Roads")
 > Hackathon from October 23–24, 2015 at [Dominion
@@ -30,7 +29,7 @@ TODO: [gallery type="rectangular" size="full" ids="3152,3160,3158"
 
 
 
-### Installation & Setup {#installationsetup}
+### Installation & Setup
 
 -   Run the following commands to build the app.
 
@@ -54,7 +53,7 @@ TODO: [gallery type="rectangular" size="full" ids="3152,3160,3158"
 -   🔃 Create a new pull request using
     [`https://github.com/Code4HR/code4hr-voting/`](https://github.com/Code4HR/code4hr-voting).
 
-### Technologies Used {#contributing}
+### Technologies Used
 
 - [Angular.js](https://angularjs.org/)
 - [Moment.js](https://momentjs.com/)
@@ -80,7 +79,7 @@ Team
 
 
 
-GitHub Repo {#githubrepo}
+GitHub Repo
 -----------
 
 View the project at

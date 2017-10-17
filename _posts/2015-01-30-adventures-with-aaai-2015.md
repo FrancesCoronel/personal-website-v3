@@ -52,7 +52,7 @@ tags:
 
 
 
-Day 1 - Sunday, January 25 - ARRIVAL {#day-1---sunday-january-25---arrival style="text-align:center;"}
+Day 1 - Sunday, January 25 - ARRIVAL
 ------------------------------------
 
 ![](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
@@ -100,7 +100,7 @@ Time for sleep. **Third win.**
 
 
 
-Day 2 - Monday, January 26 {#day-2---monday-january-26 style="text-align:center;"}
+Day 2 - Monday, January 26
 --------------------------
 
 ![](https://fvcproductions.files.wordpress.com/2015/01/img_0116.jpg)
@@ -172,7 +172,7 @@ I almost fall asleep on the shuttle back to the hotel.
 
 
 
-Day 3 - Tuesday, January 27 {#day-3---tuesday-january-27 style="text-align:center;"}
+Day 3 - Tuesday, January 27
 ---------------------------
 
 More free breakfast and this time with more pineapples. Breakfast seems
@@ -239,7 +239,7 @@ get to bed.
 
 
 
-Day 4 - Wednesday, January 27 {#day-4---wednesday-january-27 style="text-align:center;"}
+Day 4 - Wednesday, January 27
 -----------------------------
 
 Wednesday was probably my favorite day of the conference. This was

@@ -11,7 +11,7 @@ tags:
 
 Okay, I've decided to compile all the music from my iTunes library due to sheer boredom.
 
-Okay, I've decided to compile all the music from my iTunes library due to sheer boredom. {#okay-ive-decided-to-compile-all-the-music-from-my-itunes-library-due-to-sheer-boredom. style="text-align:center;"}
+Okay, I've decided to compile all the music from my iTunes library due to sheer boredom.
 ========================================================================================
 
 

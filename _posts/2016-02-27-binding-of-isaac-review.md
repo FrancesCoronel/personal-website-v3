@@ -62,7 +62,7 @@ Isaac](https://fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg)](
 This is going to be a quick game review on **[The Binding of
 *Isaac*](https://store.steampowered.com/app/113200/)**.
 
-*TLDR:* Just play the bloody game. {#tldr-just-play-the-bloody-game. style="text-align:center;"}
+*TLDR:* Just play the bloody game.
 ==================================
 
  
@@ -73,7 +73,7 @@ play games let alone try to review my experience with them.*
 *However, I just had to make an exception since this review has been on
 my mind for such a long time.*
 
-Background {#background style="text-align:center;"}
+Background
 ----------
 
 If you're not already familiar with **[The Binding of
@@ -103,7 +103,7 @@ Now at this point, *Isaac* is very sad because he doesn't have a lot
 going for him besides having to succumb to his mother's crazy psychotic
 wishes that some voice in her head told her were necessary.
 
-### It gets worse... {#it-gets-worse... style="text-align:center;"}
+### It gets worse...
 
 *Isaac* at this point is already in a pretty desolate state physically
 and mentally but then his mom gets one last message from *God*. *God*
@@ -111,7 +111,7 @@ tells her that in order to show her true love for him, she must make the
 ultimate sacrifice. Given that the protagonist's name has biblical
 references, most people can assume what this means for him.
 
-His own mother tries to murder him. {#his-own-mother-tries-to-murder-him. style="text-align:center;"}
+His own mother tries to murder him.
 -----------------------------------
 
  
@@ -135,14 +135,14 @@ Boss](https://i.ytimg.com/vi/CQf_IGtA8_k/maxresdefault.jpg)
 
 *The final boss in the basement is Isaac's mother, btw.*
 
-MAJOR SPOILER {#majorspoiler style="text-align:center;"}
+MAJOR SPOILER
 -------------
 
 HOWEVER, it turns out the plot thickens.
 
 ![REAL PLOT](https://i.imgur.com/Ucwvi.jpg)
 
-This is, of course, where all the real fun begins. {#this-is-of-course-where-all-the-real-fun-begins. style="text-align:center;"}
+This is, of course, where all the real fun begins.
 ==================================================
 
  
@@ -184,7 +184,7 @@ Appearance](https://vignette3.wikia.nocookie.net/bindingofisaac/images/4/40/Maxs
 
 > What doesn't kill you makes you stronger, I suppose.
 
-Features {#features style="text-align:center;"}
+Features
 --------
 
 One of the unique qualities of the game is the randomly generated
@@ -266,10 +266,10 @@ with a lot more hearts or life).
 
 ![Characters](https://sickr.files.wordpress.com/2014/10/binding_of_isaac_who_am_i.jpg)
 
-The Best Part {#thebestpart style="text-align:center;"}
+The Best Part
 -------------
 
-#### Having your own crew. {#having-your-own-crew. style="text-align:center;"}
+#### Having your own crew.
 
 This sounds strange at first, but the game isn't all blood and gore.
 It's a friendly kind of macabre. *Isaac* can gain his own friends. The
@@ -284,19 +284,19 @@ crew. He was the leader of something. He was forming a revolution.
 Or in other words, if you've ever watched *Minions*, it's basically like
 when one of the characters shouts out
 
-### BUDDIES!!! {#buddies style="text-align:center;"}
+### BUDDIES!!!
 
 ![Buddies -
 Minions](https://www.minionmovie.com.au/images/shareimage.jpg)
 
-In-Game Screenshots {#in-game-screenshots style="text-align:center;"}
+In-Game Screenshots
 -------------------
 
 TODO: [gallery type="rectangular" size="full"
 ids="3872,3873,3871,3864,3865,3866,3867,3868,3869,3870" ]
 
-A *Hearty* Conclusion {#aheartyconclusion style="text-align:center;"}
----------------------
+A *Hearty* Conclusion
+----
 
 Even if you're not into the horror genre of games, I'd give *Isaac* a
 shot because he's in desperate times and he deserves all the help he can
@@ -304,7 +304,7 @@ get.
 
 ![Died](https://i1.wp.com/www.owengrieve.com/caps/2011-10-02_1128.png?resize=600%2C338)
 
-Happy re-birthing. {#happy-re-birthing. style="text-align:center;"}
+Happy re-birthing.
 ==================
 
  

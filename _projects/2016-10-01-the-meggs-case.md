@@ -17,11 +17,11 @@ gallery:
 My Social Canvas
 ----------------
 
-### Grind Workspace, Verizon Building - New York, NY {#grind-workspace--verizon-building---new-york--ny}
+### Grind Workspace, Verizon Building - New York, NY
 
-#### `October 1st, 2016` {#L-code-october-1st--2016--code-}
+#### `October 1st, 2016`
 
-### The My Social Canvas DesignHackathon will bring together students who are pursuing degrees in fashion, graphic design, technology, and business in an effort to increase awareness, participation, and funding for girls in STEM programs across the country. The final deliverable from each team will be an iPhone case design, an e-commerce site to sell their product, and a marketing plan to launch the product. Proceeds from the sales of the winning team's cases will go back to supporting Girls In STEM. {#the-my-social-canvas-designhackathon-will-bring-together-students-who-are-pursuing-degrees-in-fashion-graphic-design-technology-and-business-in-an-effort-to-increase-awareness-participation-and-funding-for-girls-in-stem-programs-across-the-country.-the-final-deliverable-from-each-team-will-be-an-iphone-case-design-an-e-commerce-site-to-sell-their-product-and-a-marketing-plan-to-launch-the-product.-proceeds-from-the-sales-of-the-winning-teams-cases-will-go-back-to-supporting-girls-in-stem. .intro}
+### The My Social Canvas DesignHackathon will bring together students who are pursuing degrees in fashion, graphic design, technology, and business in an effort to increase awareness, participation, and funding for girls in STEM programs across the country. The final deliverable from each team will be an iPhone case design, an e-commerce site to sell their product, and a marketing plan to launch the product. Proceeds from the sales of the winning team's cases will go back to supporting Girls In STEM.
 
 ![](https://static1.squarespace.com/static/57752b91c534a5929ff9177d/t/57d6f14d59cc683d257687ef/1473704279091/?format=1500w)
 

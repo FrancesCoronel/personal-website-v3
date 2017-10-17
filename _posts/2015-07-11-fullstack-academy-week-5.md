@@ -69,7 +69,7 @@ Day One - Monday
 ![The
 Grid](https://img15.deviantart.net/1ea4/i/2012/184/d/1/c__s_grid___tron_wallpaper_by_kylecaio-d55uk9k.png)
 
-\[youtube=https://www.youtube.com/watch?v=YKEZoOjc6to\]
+https://www.youtube.com/watch?v=YKEZoOjc6to
 
 
 
@@ -223,7 +223,6 @@ School](https://ambassador-api.s3.amazonaws.com/uploads/portal/655/2014_09_16_20
     afterwards to numb my mind for said reason. It was strange, to say
     the least.
 
-\619892020459520000 align='center'\]
 
 > That's [Seema](https://twitter.com/seemaisms) talking about
 > **`Big O`l** important stuff such as trees. But the binary kind. 🌳💻🌳
@@ -242,7 +241,7 @@ School](https://ambassador-api.s3.amazonaws.com/uploads/portal/655/2014_09_16_20
 -   ¯\\\_(ツ)\_/¯
 -   ┬──┬◡ﾉ(° -°ﾉ)
 
-\[youtube=https://www.youtube.com/watch?v=qQraeOG-3L8\]
+https://www.youtube.com/watch?v=qQraeOG-3L8
 
 
 

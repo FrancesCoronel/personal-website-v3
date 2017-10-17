@@ -46,7 +46,7 @@ ids="3827,3828,3829,3830,3831,3832,3833,3834" ]
 > claim any credit for the idea and the text below is from the Project
 > Plan Google Doc.
 
-#### What Are We Designing? {#what-are-we-designing-}
+#### What Are We Designing?
 
 We are designing an Android application that allows users to send push
 notifications containing common household alerts and phrases to the
@@ -54,7 +54,7 @@ Android devices of their family members. Such phrases may include "The
 laundry room is available", "The trash needs to be taken out", or
 "Dinner is in 10 minutes".
 
-#### Why is this better than texting? {#why-is-this-better-than-texting-}
+#### Why is this better than texting?
 
 It is better than texting because all of the messages will be
 pre-programmed (there will be support for custom messages too). Thus, to
@@ -67,7 +67,7 @@ family or to just one or two individual family members, and it doesn’t
 support replies, thus removing the burden of complicated and annoying
 group texts.
 
-#### What if the message I want to send isn’t available? {#what-if-the-message-i-want-to-send-isn-t-available-}
+#### What if the message I want to send isn’t available?
 
 The app will have support for custom messages. For example, if a user
 wants to be able to send the message "The chickens need to be fed" (a
@@ -81,7 +81,7 @@ before sending. This allows the user to have some control over the
 messages that get sent without the need to create a custom message for
 every possible use case.
 
-#### What parts will the project be made up of? {#what-parts-will-the-project-be-made-up-of-}
+#### What parts will the project be made up of?
 
 The project will be made up of two parts: the Android app itself, and a
 web service to process the push notifications. When a message is sent

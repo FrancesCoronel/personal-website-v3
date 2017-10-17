@@ -15,9 +15,6 @@ header:
 >
 > Enjoy! :smile:
 
-
-
-[](#keynote){#keynote}Keynote {#keynote style="text-align:center;"}
 =============================
 
 https://speakerdeck.com/fvcproductions/jeopardy-template-keynote
@@ -35,11 +32,6 @@ https://speakerdeck.com/fvcproductions/jeopardy-template-keynote
         Slide)
     - [Square 721](https://www.fontyukle.net/en/1,Square721) (for
         Prize Money Numbers)
-
-
-
-[](#google-slides){#google-slides}Google Slides {#google-slides style="text-align:center;"}
-===============================================
 
 https://speakerdeck.com/fvcproductions/jeopardy-template-google-slides
 

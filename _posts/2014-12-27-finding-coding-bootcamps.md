@@ -44,8 +44,7 @@ tags:
     - tuition price
 ---
 
-###  Want a [more comprehensive look at the best sites](https://fvcproductions.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/ "Magnifying the Bootcamp Research Experience")? {#want-a-more-comprehensive-look-at-the-best-sites style="text-align:center;"}
-
+###  Want a [more comprehensive look at the best sites](https://fvcproductions.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/ "Magnifying the Bootcamp Research Experience")?
 
 
 ### Rating, Researching, Reviewing

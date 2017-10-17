@@ -45,7 +45,7 @@ Index
 
 
 
-### Linked Lists vs Arrays {#section-versus}
+### Linked Lists vs Arrays
 
 -   *Arrays*
     -   can access any element directly via indexing
@@ -67,7 +67,7 @@ Index
 
 
 
-### Linked Lists Properties {#section-linked}
+### Linked Lists Properties
 
 -   *overview*
     -   a sequence of elements arranged 1 after another with each
@@ -106,7 +106,7 @@ Index
         access individual nodes
     -   very difficult to reverse traverse
 
-### Linked Lists Algorithms {#section-algo}
+### Linked Lists Algorithms
 
 -   *constructor for an integer node in a linked list*\
     ```public Int\_Node (int initialData, Int\_node

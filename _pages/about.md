@@ -44,7 +44,7 @@ Might have something to do with human nature in general, though, so interpret it
 - [Quora](https://quora.com/profile/Frances-Coronel-1) <i class="fa fa-quora"></i>
 - [Scribd](https://www.scribd.com/user/194063411/FVCproductions) <i class="fa fa-scribd"></i>
 - [SlideShare](https://www.slideshare.net/FVCproductions) <i class="fa fa-slideshare"></i>
-- [YouTube](https://youtube.com/+fvcproductions2013) <i class="fa fa-youtube-alt"></i>
+- [YouTube](https://youtube.com/+fvcproductions2013) <i class="fa fa-youtube-play"></i>
 
 ### Where You Can Find Me on the Internets 🌐
 

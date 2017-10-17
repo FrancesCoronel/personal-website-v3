@@ -43,7 +43,7 @@ So For Those Who Are Looking Forward To Technical Interviews For Software Develo
 
 
 
-### **General Topics Covered** {#section-topics}
+### **General Topics Covered**
 
 -   hash maps
 -   heaps
@@ -54,7 +54,7 @@ So For Those Who Are Looking Forward To Technical Interviews For Software Develo
 
 
 
-### **Sample Technical Q's** {#section-sampletq}
+### **Sample Technical Q's**
 
 -   Write code to test the endianness of a code. Optimitize this code to
     fit 1 line.
@@ -67,7 +67,7 @@ So For Those Who Are Looking Forward To Technical Interviews For Software Develo
 
 
 
-### **Sample Personal Q's** {#section-samplepq}
+### **Sample Personal Q's**
 
 -   What makes you most interested in this company? (AH DERP)
 -   Describe yourself.
@@ -77,7 +77,7 @@ So For Those Who Are Looking Forward To Technical Interviews For Software Develo
 
 
 
-### **Questions to Ask Your Interviewer** {#section-interviewerq}
+### **Questions to Ask Your Interviewer**
 
 -   How much of your day do you spend coding?
 -   How many meetings do you have every week?

@@ -14,14 +14,14 @@ gallery:
 Kent Hack Enough
 ================
 
-Volunteer, Participant, Winner {#volunteer--participant--winner}
+Volunteer, Participant, Winner
 ------------------------------
 
-### Kent, OH {#kent--oh}
+### Kent, OH
 
-#### `October 7th to 9th, 2016` {#L-code-october-7th-to-9th--2016--code-}
+#### `October 7th to 9th, 2016`
 
-### Volunteered for the hardware booth and Foobar (smoothies) and then teamed up with my boyfriend to work on a Leap Motion hack that ended up winning an award 😍 {#volunteered-for-the-hardware-booth-and-foobar-smoothies-and-then-teamed-up-with-my-boyfriend-to-work-on-a-leap-motion-hack-that-ended-up-winning-an-award .intro}
+### Volunteered for the hardware booth and Foobar (smoothies) and then teamed up with my boyfriend to work on a Leap Motion hack that ended up winning an award 😍
 
 Won award of **Best Security Privacy Hack** sponsored by Ubisoft with
 the prize being two copies of `Watch Dog 2`
@@ -50,7 +50,7 @@ plugins along with the API.
 Getting the Leap Motion hands to display properly was hard. We spent a
 lot of time working on features that we shouldn’t have.
 
-### Accomplishments that we’re proud of {#accomplishments-that-we-re-proud-of}
+### Accomplishments that we’re proud of
 
 Getting it to work in only a few hours!
 
@@ -58,8 +58,7 @@ Getting it to work in only a few hours!
 
 Different Leap Motion plugins.
 
-### What’s next for Jake the Dog Key Hand | Security Corp {#what-s-next-for-jake-the-dog-key-hand---security-corp}
-
+### What’s next for Jake the Dog Key Hand | Security Corp
 Optimizing the UI, extending password combination capabilities (multiple
 numbers).
 

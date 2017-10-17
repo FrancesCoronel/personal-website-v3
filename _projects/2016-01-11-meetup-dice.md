@@ -16,7 +16,7 @@ Overview
 Winner](https://fvcproductions.files.wordpress.com/2016/01/meetupdice-winner.png)](https://fvcproductions.files.wordpress.com/2016/01/meetupdice-winner.png)
 Meetup Dice - Winner
 
-Check out the web app at [[meetfvc.herokuapp.com]{style="font-family:monospace;"}](https://meetfvc.herokuapp.com). {#check-out-the-web-app-at--a-href--http:--workwit.me--target--_blank---code-workwit.me--code---a- style="text-align:center;"}
+Check out the web app at [`meetfvc.herokuapp.com`](https://meetfvc.herokuapp.com).
 -----------------
 
 So for my [Norfolk.js Meetup group](https://meetup.com/NorfolkJS), they

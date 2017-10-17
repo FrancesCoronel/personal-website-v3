@@ -15,10 +15,10 @@ Overview
 [![White
 Banner](https://fvcproductions.files.wordpress.com/2016/01/white-banner.png)](https://fvcproductions.files.wordpress.com/2016/01/white-banner.png)
 
-Check out the website at `cs.odu.edu/~acm/hackathon/`. {#check-out-the-web-site-at--a-href--http:--www.cs.odu.edu--acm-hackathon---target--_blank---code-cs.odu.edu--acm-hackathon---code---a- style="text-align:center;"}
+Check out the website at `cs.odu.edu/~acm/hackathon/`.
 ------------------------------------------------------
 
-Check out the Typeform at `mhtc-spring-2016.typeform.com/to/RXB7sy`. {#check-out-the-typeform-at--a-href--https:--mhtc-spring-2016.typeform.com-to-rxb7sy--target--_blank---code-mhtc-spring-2016.typeform.com-to-rxb7sy--code---a- style="text-align:center;"}
+Check out the Typeform at `mhtc-spring-2016.typeform.com/to/RXB7sy`.
 --------------------------------------------------------------------
 
  

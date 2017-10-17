@@ -78,7 +78,7 @@ Hmmm… tensions rising.
 
 
 
-The **Jubilant** Journey I Took Into the Cave of Digital Hieroglyphics {#thejourneyitookintothecaveofdigitalhieroglyphics style="text-align:center;"}
+The **Jubilant** Journey I Took Into the Cave of Digital Hieroglyphics
 ----------------------------------------------------------------------
 
 - [The Search

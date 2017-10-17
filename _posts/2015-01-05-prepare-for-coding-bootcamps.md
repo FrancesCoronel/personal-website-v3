@@ -36,7 +36,7 @@ tags:
 **How are students selected?**
 ------------------------------
 
-### There are 2 main ideas behind selection. {#there-are-2-main-ideas-behind-selection. style="text-align:center;"}
+### There are 2 main ideas behind selection.
 
 ![](https://www.javatpoint.com/images/javascript/javascript_logo.png)
 

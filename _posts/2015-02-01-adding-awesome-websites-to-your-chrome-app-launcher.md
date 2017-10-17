@@ -53,7 +53,7 @@ tags:
     - Websites
 ---
 
-So in your [launcher](https://chrome.google.com/webstore/launcher), you have all these lovely links to useful Google Apps and any apps you can find in the Chrome Web Store. {#so-in-your-launcher-you-have-all-these-lovely-links-to-useful-google-apps-and-any-apps-you-can-find-in-the-chrome-web-store. style="text-align:center;"}
+So in your [launcher](https://chrome.google.com/webstore/launcher), you have all these lovely links to useful Google Apps and any apps you can find in the Chrome Web Store.
 ============================================================================================================================================================================
 
 ![](https://core0.staticworld.net/images/article/2013/02/applaunchersplash-100026310-orig.png)

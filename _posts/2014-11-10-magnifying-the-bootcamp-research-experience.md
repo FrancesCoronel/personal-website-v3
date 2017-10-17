@@ -46,8 +46,7 @@ tags:
     - yelp
 ---
 
-The Coding Bootcamp Ultimatum {#the-coding-bootcamp-ultimatum style="text-align:center;"}
-=============================
+The Coding Bootcamp Ultimatum
 
 Okay, so on my search for the perfect **coding bootcamp** (I'm just
 going to refer to it as **CB**) last year and now again this year, I
@@ -107,7 +106,7 @@ I mean, it's a pretty big decision, y'all! ;)
 
 ### [![Bootcamper](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-52-50.png?w=300)](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-52-50.png)
 
-### [**Bootcamper**](https://bootcamper.io) {#section-bootcamper style="text-align:center;"}
+### [**Bootcamper**](https://bootcamper.io)
 
 [![Bootcamper](https://fvcproductions.files.wordpress.com/2014/11/bootcamper.jpg?w=676)](https://fvcproductions.files.wordpress.com/2014/11/bootcamper.jpg)
 
@@ -152,7 +151,7 @@ This is the page for [HackReactor on
 
 [![Bootcamps.in](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-21-09-41.png)](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-21-09-41.png)
 
-### **[Bootcamps.in](https://bootcamps.in)** {#section-bootcampsin style="text-align:center;"}
+### **[Bootcamps.in](https://bootcamps.in)**
 
 [![Bootcamps.in](https://fvcproductions.files.wordpress.com/2014/11/bootcamps-in.png?w=676)](https://fvcproductions.files.wordpress.com/2014/11/bootcamps-in.png)
 
@@ -213,7 +212,7 @@ This is the page for [HackReactor on
 
 ![](https://media.licdn.com/mpr/mpr/jc/p/3/005/083/356/339a18e.png)
 
-### [**Course Report**](https://coursereport.com) {#section-coursereport style="text-align:center;"}
+### [**Course Report**](https://coursereport.com)
 
 [![Coursereport](https://fvcproductions.files.wordpress.com/2014/11/coursereport.png?w=676)](https://fvcproductions.files.wordpress.com/2014/11/coursereport.png)
 
@@ -272,7 +271,7 @@ Report*](https://www.coursereport.com/schools/hack-reactor).
 
 ![](https://www.thinkful.com/microsites/static/bootcamps/assets/BF_logo.png)
 
-### [**Thinkful Bootcamp Finder**](https://www.thinkful.com/bootcamps/) {#section-thinkful style="text-align:center;"}
+### [**Thinkful Bootcamp Finder**](https://www.thinkful.com/bootcamps/)
 
 [![Thinkful](https://fvcproductions.files.wordpress.com/2014/11/thinkful.jpg?w=617)](https://fvcproductions.files.wordpress.com/2014/11/thinkful.jpg)
 
@@ -328,8 +327,7 @@ Finder*](https://www.thinkful.com/bootcamps/hack-reactor).
 
 ![](https://blog.lendlayer.com/content/images/2014/Oct/Switch-Logo.png)
 
-### [**Switchup**](https://switchup.org) {#section-switchup style="text-align:center;"}
-
+### [**Switchup**](https://switchup.org)
 [![Switch](https://fvcproductions.files.wordpress.com/2014/11/switch.jpg?w=660)](https://fvcproductions.files.wordpress.com/2014/11/switch.jpg)
 
 This is the page for [HackReactor on
@@ -399,7 +397,7 @@ This is the page for [HackReactor on
 
 
 
-### 📡 **Other Resources** {#section-resources}
+### 📡 **Other Resources**
 
 ![](https://www.techendo.com/assets/techendo_faces_logo.png)
 

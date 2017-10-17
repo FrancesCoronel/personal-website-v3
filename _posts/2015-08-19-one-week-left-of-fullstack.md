@@ -48,25 +48,25 @@ As a result, there are now only **7** days of
 
 > Yup, just **7 MORE DAYS**.
 
-**WHATTTTTTTTTTTTTT.** {#whatttttttttttttt. style="text-align:center;"}
+**WHATTTTTTTTTTTTTT.**
 ======================
 
 ![Minions
 What](https://33.media.tumblr.com/4a1750cc9cf2b68c3c58799bcf2f4173/tumblr_nshpk7ZqhP1ubdz64o1_400.gif)
 
-SERIOUSLY?? {#seriously style="text-align:center;"}
+SERIOUSLY??
 -----------
 
 ![Seriously](https://i3.kym-cdn.com/photos/images/original/000/363/814/eb7.gif)
 
-### AND here's a `GIF` on how I feel about my lack of blogging so far here in my senior phase. {#andthenjustasimplegifonhowifeelaboutmylackofbloggingsofarhereinmyseniorphase.}
+### AND here's a `GIF` on how I feel about my lack of blogging so far here in my senior phase.
 
 ![Computer
 Reaction](https://i1.kym-cdn.com/photos/images/newsfeed/000/228/791/632.gif)
 
 
 
-My Junior Phase {#myjuniorphase style="text-align:center;"}
+My Junior Phase
 ===============
 
   Date Range               Day Numbers     Week
@@ -82,11 +82,11 @@ My Junior Phase {#myjuniorphase style="text-align:center;"}
 
 
 
-### Review Week! July 20th to July 24th. {#reviewweekjuly20thtojuly24th. style="text-align:center;"}
+### Review Week! July 20th to July 24th.
 
 
 
-My Senior Phase {#myseniorphase style="text-align:center;"}
+My Senior Phase
 ===============
 
   Date Range               Day Numbers     Week
@@ -100,7 +100,7 @@ My Senior Phase {#myseniorphase style="text-align:center;"}
 
 
 
-What's Left {#myseniorphase style="text-align:center;"}
+What's Left
 ===========
 
   Date Range            Day Numbers     Week
@@ -114,7 +114,7 @@ What's Left {#myseniorphase style="text-align:center;"}
 
 
 
-**SO NOW WE MUST TRAVEL BACK IN TIME.** {#sonowwemusttravelbackintime. style="text-align:center;"}
+**SO NOW WE MUST TRAVEL BACK IN TIME.**
 =======================================
 
 > Specifically to Week 7, which is where I left off and also when things
@@ -127,7 +127,7 @@ What's Left {#myseniorphase style="text-align:center;"}
 
 
 
-We have now gone 3 weeks back in time, all the way back to the beginning of my senior phase here at Fullstack, otherwise known as Week 7. {#wehavenowgone3weeksbackintimeallthewaybacktothebeginningofmyseniorphasehereatfullstackeither-wiseknownasweek7. style="text-align:center;"}
+We have now gone 3 weeks back in time, all the way back to the beginning of my senior phase here at Fullstack, otherwise known as Week 7.
 -----------------------------------------
 
 Monday
@@ -192,8 +192,7 @@ Friday
     below). `ego -= 5;`
 
 
-
-\[youtube="https://www.youtube.com/watch?v=dQpGwnN3dfc"\]
+https://www.youtube.com/watch?v=dQpGwnN3dfc
 
 
 
@@ -335,7 +334,7 @@ speaking skills (perhaps through Toastmasters?)
 
 
 
-OK, SO AFTER THAT EXCESSIVE RAMBLING, WE MUST NOW TRAVEL [BACK ]{style="text-decoration:line-through;"}FORWARD IN TIME…
+OK, SO AFTER THAT EXCESSIVE RAMBLING, WE MUST NOW TRAVEL ~~BACK~~ FORWARD IN TIME…
 ===================================================================================================================================
 
 > and this time simply get a quick overview of how the rest of senior
@@ -506,7 +505,7 @@ https://speakerdeck.com/fvcproductions/hiredot-wireframing
 
 
 
-BUT W8! {#butw8}
+BUT W8!
 =======
 
 > Free hug.
@@ -517,11 +516,11 @@ BUT W8! {#butw8}
 
 ![Timber](https://i.imgur.com/FF7bjxO.png)
 
-\[youtube="https://youtu.be/hHUbLv4ThOo"\]
+https://youtu.be/hHUbLv4ThOo
 
 
 
-### Journey Into the Cave of Digital Hieroglyphics {#journeyintothecaveofdigitalhieroglyphics}
+### Journey Into the Cave of Digital Hieroglyphics
 
 > So Far
 

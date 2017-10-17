@@ -48,7 +48,7 @@ feature_row:
       url: "/contact/"
       btn_label: "<i class='fa fa-envelope-o'></i> Get in Touch"
 intro:
-    - excerpt: "Get notified when I add new stuff &nbsp; [<i class='fa fa-twitter'></i> @fvcproductions](https://twitter.com/fvcproductions){: .btn .btn--twitter}"
+    - excerpt: "Get notified when I add new stuff &nbsp; <a href='https://twitter.com/fvcproductions' class='btn btn--twitter'><i class='fa fa-twitter'></i> @fvcproductions</a>"
 ---
 
 {% include feature_row id="intro" type="center" %}

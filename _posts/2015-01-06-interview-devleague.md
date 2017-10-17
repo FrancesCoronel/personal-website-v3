@@ -40,7 +40,7 @@ applied to DevLeague, a new coding bootcamp in Hawaii! ---
 
 ![DevLeague](https://fvcproductions.files.wordpress.com/2015/01/devleague2.jpg) Mahalo, indeed.
 
-My Experience With [DevLeague](https://www.devleague.com "DevLeague") {#my-experience-with-devleague style="text-align:center;"}
+My Experience With [DevLeague](https://www.devleague.com "DevLeague")
 ====================================================================
 
 > with [Jason

@@ -6,7 +6,7 @@ header:
     image: https://fvcproductions.files.wordpress.com/2015/05/potc.jpg
 ---
 
-\[youtube="https://youtu.be/sKGoHPGM7v8?t=1m50s"\]
+https://youtu.be/sKGoHPGM7v8?t=1m50s
 
 > **Then what shall we code for?**
 >

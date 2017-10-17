@@ -99,10 +99,7 @@ category!
 
 This was the final submission I presented.
 
-<div style="clear:both;text-align:center;">
-
-\[embed height="315"
-width="560"\]https://www.youtube.com/watch?v=fZ1iTIHHXmE\[/embed\]
+https://www.youtube.com/watch?v=fZ1iTIHHXmE
 
 </div>
 

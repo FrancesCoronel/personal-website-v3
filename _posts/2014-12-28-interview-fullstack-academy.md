@@ -21,10 +21,10 @@ tags:
 ---
 
 
-[![](https://static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png)](https://static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png) {#section style="text-align:center;"}
+[![](https://static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png)](https://static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png)
 =============================================================================================================================================================================================================================================================================================
 
-Interview With [Fullstack Academy of Code](https://www.fullstackacademy.com "Fullstack Academy of Code") {#interviewwith-fullstack-academy-of-code style="text-align:center;"}
+Interview With [Fullstack Academy of Code](https://www.fullstackacademy.com "Fullstack Academy of Code")
 =======================================================================================================
 
 > This is where I'll go through how my admissions process was with

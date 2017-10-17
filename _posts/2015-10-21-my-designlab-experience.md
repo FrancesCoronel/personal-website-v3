@@ -38,7 +38,7 @@ tags:
 - [The Aftermath](#section-aftermath)
 - [Concluding Opinion](#section-conclusion)
 
-What is Designlab? {#section-what}
+What is Designlab?
 ------------------
 
 [![Designlab -
@@ -62,7 +62,7 @@ to get a better understanding of how design can be incorporated into my
 work. You can view the syllabus
 [here](https://storage.trydesignlab.com/syllabus/design-101.pdf).
 
-Date & Times {#section-date}
+Date & Times
 ------------
 
   **Start Date**             **End Date**               **My Actual End Date**
@@ -75,7 +75,7 @@ everything up.
 So, finally, on Sunday, October 18th, I managed to finish all the
 required coursework - woot, woot!
 
-Swag {#section-swag}
+Swag
 ----
 
 [![Designlab -
@@ -87,18 +87,18 @@ I received a few items in the mail August 31st - ooh la la. The book
 though I had read it already, it was nice having a physical copy. Even
 my mom ended up reading it and will quote from the book now and then.
 
-My Mentor {#section-mentor}
+My Mentor
 ---------
 
 [![Designlab -
 Mentor](https://fvcproductions.files.wordpress.com/2015/10/designlab-mentor.png)](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-mentor-2/)
 Designlab - Mentor
 
-[My mentor,
-]{style="line-height:1.75;"}[Chad](https://chadtrutt.com/ "Chad Trutt")[
-was pretty cool. I checked ]{style="line-height:1.75;"}out h[is website
+My mentor,
+[Chad](https://chadtrutt.com/ "Chad Trutt")
+was pretty cool. I checked out his website
 and he has some killer work, like this
-pepper:]{style="line-height:1.75;"}
+pepper:
 
 [![Low-Poly Chilli
 Pepper](https://m2.behance.net/rendition/pm/17019797/disp/d7e391ee6a819bdc0bdb3cf9eb6bed0c.jpg)](https://m2.behance.net/rendition/pm/17019797/disp/d7e391ee6a819bdc0bdb3cf9eb6bed0c.jpg)
@@ -112,7 +112,7 @@ Regardless, becoming the marvelous mentor he is, Chad always made sure
 to give me helpful feedback, even after the course was technically over
 for me! :)
 
-The Lessons {#section-lessons}
+The Lessons
 -----------
 
 [![Designlab - Week
@@ -132,7 +132,7 @@ Each unit had designated projects and with each project, there were
 several articles that were optional to read. Most of the articles were
 pretty helpful and were all available for free online.
 
-The Projects {#section-projects}
+The Projects
 ------------
 
 I'm still pretty new to the world of design. Even though I already knew
@@ -151,7 +151,7 @@ as well.
 Profile](https://fvcproductions.files.wordpress.com/2015/10/designlab-profile.png)](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-profile-2/)
 Designlab - Profile
 
-The Difference {#section-difference}
+The Difference
 --------------
 
 The difference, I believe, between something
@@ -166,7 +166,7 @@ nonetheless, they were **very** well selected.
 Discussion](https://fvcproductions.files.wordpress.com/2015/10/designlab-discussion.png)](https://fvcproductions.com/blog/2015/10/21/my-designlab-experience/designlab-discussion-2/)
 Designlab - Discussion
 
-The Aftermath {#section-aftermath}
+The Aftermath
 -------------
 
 [![Designlab - Course

@@ -9,8 +9,7 @@ gallery:
       url: https://i.imgur.com/8cFXnVj.jpg
 ---
 
-Check out the badges at [`built-in-norfolk`](https://github.com/fvcproductions/built-in-norfolk)! {#check-out-the-badges-at--a-href--http:--github.com-fvcproductions-built-in-norfolk--target--_blank---code-built-in-norfolk--code---a--}
-
+Check out the badges at [`built-in-norfolk`](https://github.com/fvcproductions/built-in-norfolk)!
 
  
 
@@ -48,8 +47,7 @@ Built in Norfolk
 
     ![built-in-norfolk](https://cdn.rawgit.com/fvcproductions/built-in-norfolk/master/images/built-in-norfolk.svg)
 
-Powered by 80|20 {#powered-by-80-20}
-----------------
+Powered by 80|20
 
 ![powered-by-8020](https://cdn.rawgit.com/fvcproductions/built-in-norfolk/master/images/powered-by-8020.svg)
 

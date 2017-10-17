@@ -46,7 +46,7 @@ users to develop - surprise, surprise - crowdsourced maps.
 > I'm actually having trouble embedding the map onto Wordpress, so for
 > the time being, I'm just going to provide a picture.
 
-\[caption width="" align="aligncenter"\][![Mapme | Coding
+[![Mapme | Coding
 Bootcamps](https://fvcproductions.files.wordpress.com/2015/05/codingbootcamps.png)](https://fvcproductions.files.wordpress.com/2015/05/codingbootcamps.png)
 Mapme | Coding Bootcamps
 

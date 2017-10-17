@@ -31,40 +31,42 @@ Multi line blockquote with a cite reference:
 
 Make any link standout more when applying the `.btn` class.
 
+<a href="#" class="btn">Primary Button</a>
+
 <a href="#" class="btn btn--success">Success Button</a>
+
+<a href="#" class="btn btn--warning">Warning Button</a>
+
+<a href="#" class="btn btn--danger">Danger Button</a>
+
+<a href="#" class="btn btn--info">Info Button</a>
+
+<a href="#" class="btn btn--inverse">Inverse Button</a>
+
+<a href="#" class="btn btn--x-large">Extra Large Button</a>
+
+<a href="#" class="btn btn--large">Large Button</a>
+
+<a href="#" class="btn btn--small">Small Button</a>
 
 ```html
+<a href="#" class="btn">Primary Button</a>
+
 <a href="#" class="btn btn--success">Success Button</a>
-```
 
-[Primary Button](#){: .btn}
-[Success Button](#){: .btn .btn--success}
-[Warning Button](#){: .btn .btn--warning}
-[Danger Button](#){: .btn .btn--danger}
-[Info Button](#){: .btn .btn--info}
-[Inverse Button](#){: .btn .btn--inverse}
-[Light Outline Button](#){: .btn .btn--light-outline}
+<a href="#" class="btn btn--warning">Warning Button</a>
 
-```markdown
-[Primary Button Text](#link){: .btn}
-[Success Button Text](#link){: .btn .btn--success}
-[Warning Button Text](#link){: .btn .btn--warning}
-[Danger Button Text](#link){: .btn .btn--danger}
-[Info Button Text](#link){: .btn .btn--info}
-[Inverse Button](#link){: .btn .btn--inverse}
-[Light Outline Button](#link){: .btn .btn--light-outline}
-```
+<a href="#" class="btn btn--danger">Danger Button</a>
 
-[X-Large Button](#){: .btn .btn--x-large}
-[Large Button](#){: .btn .btn--large}
-[Default Button](#){: .btn}
-[Small Button](#){: .btn .btn--small}
+<a href="#" class="btn btn--info">Info Button</a>
 
-```markdown
-[X-Large Button](#link){: .btn .btn--x-large}
-[Large Button](#link){: .btn .btn--large}
-[Default Button](#link){: .btn}
-[Small Button](#link){: .btn .btn--small}
+<a href="#" class="btn btn--inverse">Inverse Button</a>
+
+<a href="#" class="btn btn--x-large">Extra Large Button</a>
+
+<a href="#" class="btn btn--large">Large Button</a>
+
+<a href="#" class="btn btn--small">Small Button</a>
 ```
 
 ## Definition Lists

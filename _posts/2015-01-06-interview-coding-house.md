@@ -27,7 +27,7 @@ tags:
 
 [![](https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/74/s300/coding-house-logo.png)](https://www.codinghouse.com)
 
-Interview with [Coding House](https://www.codinghouse.com "Coding House") {#interview-with-coding-house style="text-align:center;"}
+Interview with [Coding House](https://www.codinghouse.com "Coding House")
 ========================================================================
 
 

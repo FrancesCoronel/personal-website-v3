@@ -163,7 +163,7 @@ Here, I've compiled a list of 15 great resources I've come to learn about over t
     > ![](https://airpair-blog.s3.amazonaws.com/wp-content/uploads/2014/04/The-Odin-Project-Open-Sourced-Free-Curriculum.png)
 
 14. [[Cracking the Coding
-    Interview]{style="color:#1b8be0;"}](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)\
+    Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)\
 
     > Now in the 5th edition, Cracking the Coding Interview gives you
     > the interview preparation you need to get the top software

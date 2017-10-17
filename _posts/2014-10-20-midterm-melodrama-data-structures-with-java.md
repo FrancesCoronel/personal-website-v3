@@ -71,7 +71,7 @@ Index
 
 
 
-### Array Properties {#section-arrays}
+### Array Properties
 
 -   *overview*
     -   fixed size
@@ -83,7 +83,7 @@ Index
 
 
 
-### Stack Properties {#section-stacks}
+### Stack Properties
 
 -   *overview*
     -   example of a collection SDT
@@ -112,8 +112,7 @@ Index
 
 
 
-### Queue Properties {#section-queues}
-
+### Queue Properties
 -   *overview*
     -   example of a collection SDT
     -   operations: enqueue (add), dequeue (delete)
@@ -140,8 +139,7 @@ Index
 
 
 
-### Stack Code & Algorithms {#section-stackcode}
-
+### Stack Code & Algorithms
 > *isEmpty*
 
 ```int top = -1; //or 0\
@@ -210,7 +208,7 @@ return false;\
 
 
 
-### Comparing Stacks & Queues {#section-comparing}
+### Comparing Stacks & Queues
 
 -   *overview*
     -   stacks and queues are similar data structures
@@ -248,7 +246,7 @@ return false;\
 
 
 
-### Queue Algorithms {#section-queuealgo}
+### Queue Algorithms
 
 -   *shift queues*
     -   enqueue operation
@@ -266,7 +264,7 @@ return false;\
 
 
 
-### Basic Definitions & Phrases {#section-definitions}
+### Basic Definitions & Phrases
 
 -   *abstract data type*\
 

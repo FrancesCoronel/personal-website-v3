@@ -73,7 +73,7 @@ So moving on…to the main method!
 This is the main method that you're going to use every time you run a
 Java program, unless you're making just a class file, in which case you
 will not need the whole `public static void main (String[] args)`, but
-you will still need [`class`]{style="color:#0000ff;"} with the class
+you will still need [`class`] with the class
 name next to it.
 
 Brackets or the curly braces (what have you) that look like this `{ }`
@@ -92,9 +92,9 @@ easier to understand what's going on by adding color to the types of
 different texts.
 
 For example, with the Strings involved in the program, they are the
-color [red]{style="color:#ff0000;"}. With the comments involved in the
-program, they are the color [gray[. Different methods are highlighted in
-[blue]{style="color:#0000ff;"}.]{style="color:#000000;"}]{style="color:#999999;"}
+color [red]. With the comments involved in the
+program, they are the color [gray]. Different methods are highlighted in
+[blue].
 
 So that's pretty much it for the super duper basics of any Java program.
 
@@ -103,7 +103,7 @@ Remember, you gotta have your:\
 2. curly braces `{}`\
 3. semi-colons `;`\
 4. comments to explain what the heck you're doing in the program such
-as [`//single-line stuff`]{style="color:#999999;"} or
-[`/*multi-line stuff*/`]{style="color:#999999;"}
+as [`//single-line stuff`] or
+[`/*multi-line stuff*/`]
 
 #### Get it? Got it? Good.

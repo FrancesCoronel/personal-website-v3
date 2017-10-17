@@ -49,7 +49,7 @@ Link
 Play the game at
 [`fvcproductions.github.io/Guessing-Game`](https://fvcproductions.github.io/Guessing-Game/ "Guessing Game").
 
-GitHub Repo {#githubrepo}
+GitHub Repo
 -----------
 
 View the repo at

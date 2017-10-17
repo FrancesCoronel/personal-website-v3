@@ -9,10 +9,8 @@ gallery:
       url: https://i.imgur.com/8cFXnVj.jpg
 ---
 
-Check out the web app at {#checkoutthewebappatahrefhttp:va-acm.stamplayapp.comtarget_blankva-acm.stamplayapp.coma style="text-align:center;"}
-------------------------
-
-[`va-acm.stamplayapp.com`](https://va-acm.stamplayapp.com/) {#va-acm.stamplayapp.com style="text-align:center;"}
+Check out the web app at
+[`va-acm.stamplayapp.com`](https://va-acm.stamplayapp.com/)
 ----------------------------------------------------------
 
  
@@ -37,7 +35,7 @@ TODO: [gallery type="rectangular" size="full" ids="3676,3677,3678"
 -   The full tutorial can be found [on the Stamplay
     blog](https://blog.stamplay.com/launch-your-community-with-a-fully-automated-slack-signup-page/).
 
-### Future Features {#tutorial}
+### Future Features
 
 -   Evaluating web hook component output so that it shows if the email
     is already registered with our Slack community
@@ -56,13 +54,13 @@ TODO: [gallery type="rectangular" size="full" ids="3676,3677,3678"
 -   🔨 Hack away.
 -   🔃 Create a new pull request.
 
-GitHub Repo {#githubrepo}
+GitHub Repo
 -----------
 
 -   View the project at
     [`github.com/fvcproductions/slack-invites`](https://github.com/fvcproductions/slack-invites)
 
-Twitter {#githubrepo}
+Twitter
 -------
 
 -   Tweet us at [twitter.com/va\_acm](https://twitter.com/va_acm)
