@@ -86,7 +86,18 @@ This website was created from the bottom-up and is a migration from my Wordpress
 - replace bare fvcproductions.com links with relative links
 - replace strike through html
 - get rid of line breaks
-- \[
+- put all events on one page with load more button and lots of filter categories (one post can have multiple categories)
+  - Speaker
+  - Volunteer/Mentor
+  - Conference
+  - Hackathon
+  - Program
+  - School
+  - Post
+  - Project
+  - Job
+  - School
+  - Program
 
 ## Contributing
 

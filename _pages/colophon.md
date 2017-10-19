@@ -224,7 +224,7 @@ This allows you to denote <var>variables</var>.
 - List item three
 - List item four
 
-### Become a Patron!
+## Become a Patron!
 
 If you have found any of my contributions valuable, kindly consider supporting me through a small donation or by becoming an ongoing patron. 💛️
 

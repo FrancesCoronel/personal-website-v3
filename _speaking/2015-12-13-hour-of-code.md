@@ -36,4 +36,6 @@ Volunteer, Mentor, Speaker
 
 ## About
 
-[gallery type="rectangular" size="full" ids="3620,3521,3523,4258,4257,4256,4255,3626,3625,3570,3562,3563,3619,3621,3622,3623,3624,3568,3567,3566,3564,3524" orderby="rand"]
+TODO: Add more pictures to gallery
+
+{% include gallery %}

@@ -1,0 +1,6 @@
+Ticket: Women Who Code Silicon Valley Hackathon 2017
+
+Paypal, Town Hall
+2161 N. 1st Street San Jose CA US
+
+October 21st 8:30 am to 8:30 pm

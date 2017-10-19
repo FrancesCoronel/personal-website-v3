@@ -2,7 +2,6 @@
 title: "About 👀️"
 permalink: /about/
 excerpt: "I like to dabble with things that ought to be dabbled with."
-modified: 2017-05-25
 ---
 
 <h2>I like to dabble with things that <del>shouldn’t</del> ought to be dabbled with.</h2>
@@ -29,13 +28,16 @@ Might have something to do with human nature in general, though, so interpret it
 ### What's Happening Nowadays 📅
 
 > This a [now section](https://nownownow.com/about) and if you have your own site, you should make one, too!
+>
+> Last updated October 2017
 
-- sanitizing website posts and projects
+- lots of migrations going on! 🦋️
+  - still completing migration from Wordpress for this website
   - will be switching from Jekyll to to [Hugo](https://gohugo.io/) because it's a GAJILLIONNN times faster - eyyyyyy 🏎
-- working hard at the Liquid Studio as a software engineer
-  - feel I've been doing more than necessary so I'm going to chill and let that go - lol 😅
-- exporting all my old slide decks and designs from a zillion years ago so I can publish them and delete dem files
-  - publish or perish - DUN DUN DUN 💀
+  - all my presentations will be moved from Speaker Deck to Slideshare
+- trying to avoid the whole "I'm going to let work consume me whole" mentality
+  - by attending tech events whenever I can such as conferences or hackathons
+  - and by contributing to open-source 👐🏽️
 
 ### Where You Can Find My Work 🍓️
 
@@ -69,8 +71,6 @@ Might have something to do with human nature in general, though, so interpret it
 - [Stack Overflow](https://stackoverflow.com/users/3000467/fvcproductions) <i class="fa fa-stack-overflow"></i>
 - [Twitter](https://twitter.com/fvcproductions) <i class="fa fa-twitter"></i>
 - [Wordpress](https://fvcproductions.wordpress.com) <i class="fa fa-wordpress"></i>
-
----
 
 ## Become a Patron!
 

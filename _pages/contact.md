@@ -14,7 +14,7 @@ header:
 - <a href="https://linkedin.com/in/fvcproductions" target="_blank" rel="noopener">LinkedIn</a> 👥️
 - <a href="https://calendly.com/fvcproductions" target="_blank" rel="noopener">Calendly</a> 📅
 
-### Become a Patron!
+## Become a Patron!
 
 If you have found any of my contributions valuable, kindly consider supporting me through a small donation or by becoming an ongoing patron. 💛️
 

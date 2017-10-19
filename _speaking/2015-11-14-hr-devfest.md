@@ -4,6 +4,9 @@ date: 2015-11-14
 excerpt: "My first speaking event at a tech conference!"
 header:
     image: https://fvcproductions.files.wordpress.com/2015/11/issuetrak-conference-00831.jpg
+gallery:
+  - url: https://fvcproductions.files.wordpress.com/2015/11/issuetrak-conference-00831.jpg
+    alt: HR DevFest 2015
 ---
 
 ## Name
@@ -24,22 +27,28 @@ November 14th, 2015
 
 ## Role
 
-Scholarship Recipient, Speaker (Web Design for Developers)
+Scholarship Recipient, Speaker - Web Design for Developers
 
 ## About
 
 Hampton Roads DevFest is a technology conference focused on giving software engineers in the region exposure to new innovations and best practices.
 
-[display-posts id="3385" image_size="large" include_date="true" include_excerpt="true" wrapper="div"]
+### Presentation
 
-[gallery type="rectangular" size="full" ids="3730,3734,3733,3732,3727,3728,3726" orderby="rand"]
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/fvcproductions/status/662647429737615360">Frances Coronel on Twitter</a></h4><p>I'll speaking at @HRDevFest on web design this Saturday - should be a blast! #webdesign #hrdevfest</p></blockquote>
 
-https://speakerdeck.com/fvcproductions/hrdevfest-web-design
+TODO: https://speakerdeck.com/fvcproductions/hrdevfest-web-design
 
-https://www.youtube.com/watch?v=dEJyRuQF4Ww
+<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=dEJyRuQF4Ww">HR DevFest | Web Design Talk</a></h4><p>For references, please refer to: https://speakerdeck.com/fvcproductions/hrdevfest-web-design FVCproductions No copyright intended.</p></blockquote>
 
-https://twitter.com/lisadenoia/status/665604693549170688
+### Feedback
 
-https://twitter.com/aag1091/status/665554097798426624
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/lisadenoia/status/665604693549170688">Lisa on Twitter</a></h4><p>@fvcproductions I really enjoyed your session at @hrdevfest this morning! Well done! #hrdevfest</p></blockquote>
 
-https://twitter.com/erikpmp/status/665554118182703105
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/aag1091/status/665554097798426624">Avinash Gosavi on Twitter</a></h4><p>@fvcproductions That was a pretty awesome talk.</p></blockquote>
+
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/erikpmp/status/665554118182703105">Erik Olson on Twitter</a></h4><p>Thanks @fvcproductions for letting me know about the upcoming documentary DESIGN DISRUPTORS! https://t.co/a3QvMSqkWy #hrdevfest</p></blockquote>
+
+TODO: Add more pictures to gallery
+
+{% include gallery %}
