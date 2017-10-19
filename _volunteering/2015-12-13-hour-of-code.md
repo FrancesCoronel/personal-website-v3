@@ -1,7 +1,7 @@
 ---
 title: "Hour of Code 2015"
-excerpt: "Participated in WiTNY’s Java Talk program."
-date: 2016-11-30
+excerpt: "Volunteering for the Hour of Code for the first time!"
+date: 2015-12-13
 header:
   image: https://fvcproductions.files.wordpress.com/2015/12/img_2021.jpg
 tags:
@@ -11,81 +11,33 @@ tags:
     - elementary school
     - high school
     - hour of code
+gallery:
+  - url: https://fvcproductions.files.wordpress.com/2015/12/img_2021.jpg
+    alt: Hour of Code 2015
 ---
 
-<img class="aligncenter size-full wp-image-3545" src="https://fvcproductions.files.wordpress.com/2015/11/codeorg.png" alt="Code.org - Hour of Code" width="512" height="512" />
+![Code.org - Hour of Code](https://fvcproductions.files.wordpress.com/2015/11/codeorg.png)
 
-<code>December 7th to 13th, 2015</code>
-<h1><a href="https://hourofcode.com" target="_blank" rel="noopener">Code.org</a></h1>
-<h2><strong>Hour of Code</strong></h2>
-<h3>Bethel High, Sedgefield Elementary, John B. Dey Elementary, Tallwood Elementary</h3>
-<h4>Various Locations in Hampton Roads, Virginia</h4>
+## Name
 
-[display-posts id="3513" image_size="large" include_date="true" include_excerpt="true" wrapper="div"]
+<a  title="Hour of Code" href="https://hourofcode.com" target="_blank" rel="noopener">Hour of Code</a>
 
-[gallery type="rectangular" size="full" ids="3620,3521,3523,4258,4257,4256,4255,3626,3625,3570,3562,3563,3619,3621,3622,3623,3624,3568,3567,3566,3564,3524" orderby="rand"]
+## Organizer
 
-Volunteering for the Hour of Code!
+[Code.org](https://code.org)
 
-![Code.org - Hour of
-Code](https://fvcproductions.files.wordpress.com/2015/11/codeorg.png)
+## Location
 
+Bethel High, Sedgefield Elementary, John B. Dey Elementary, Tallwood Elementary - Hampton Roads, VA
 
+## Date
 
-`December 7th to 13th, 2015`
+December 7th to 13th, 2015
 
-[Code.org](https://hourofcode.com)
-=================================
+## Role
 
-**Hour of Code**
-----------------
+High School Student Volunteer
 
-### Bethel High, Sedgefield Elementary, John B. Dey Elementary, Tallwood Elementary
+## About
 
-#### Various Locations in Hampton Roads, Virginia
- 
-
-\[display-posts id="3513" image\_size="large" include\_date="true"
-include\_excerpt="true" wrapper="div"\]
-
- 
-
-TODO: [gallery type="rectangular" size="full"
-ids="3620,3521,3523,4258,4257,4256,4255,3626,3625,3570,3562,3563,3619,3621,3622,3623,3624,3568,3567,3566,3564,3524"
-]---
-title: Code.org - December 2015 date: 2015-12-13
-12:00:14.000000000 -05:00 type: page published: true status: publish
-categories: \[\] tags: - code.org - code.org hour of code - december
-2015 - elementary school - high school - hour of code
-\_edit\_last: '52653790'  '1' \_thumbnail\_id:
-'3564' \_wp\_page\_template: default geo\_public: '0'
-\_publicize\_pending: '1' author: login: fvcproductions email:
-fvcproductions@gmail.com display\_name: fvcproductions first\_name:
-Frances last\_name: Coronel excerpt: Volunteered for the Hour of Code
-through Code.org ---
-
-![Code.org - Hour of
-Code](https://fvcproductions.files.wordpress.com/2015/11/codeorg.png)
-
-`December 7th to 13th, 2015`
-
-[Code.org](https://hourofcode.com)
-=================================
-
-**Hour of Code**
-----------------
-
-### Bethel High, Sedgefield Elementary, John B. Dey Elementary, Tallwood Elementary
-
-#### Various Locations in Hampton Roads, Virginia
-
- 
-
-\[display-posts id="3513" image\_size="large" include\_date="true"
-include\_excerpt="true" wrapper="div"\]
-
- 
-
-TODO: [gallery type="rectangular" size="full"
-ids="3620,3521,3523,4258,4257,4256,4255,3626,3625,3570,3562,3563,3619,3621,3622,3623,3624,3568,3567,3566,3564,3524,3791,3512,3517,3525"
-]
+This was my first time volunteering for the Hour of Code. A lot of teachers requested I come in to give a talk and I just couldn't say no!

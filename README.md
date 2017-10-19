@@ -72,12 +72,6 @@ I use CodeKit 3 (`config.codekit3`) to handle compilation.
 
 This website was created from the bottom-up and is a migration from my Wordpress website at [`fvcproductions.wordpress.com`](https://fvcproductions.wordpress.com).
 
-> Find and Replace in ST3
-
-```text
-Where: <project>, -*/site/*
-```
-
 ### To-Do
 
 - better alt tags for images in galleries
