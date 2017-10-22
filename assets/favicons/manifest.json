@@ -1,12 +1,6 @@
 {
 	"short_name": "FVCprxds",
 	"name": "FVCproductions",
-	"start_url": "/?homescreen=1",
-	"background_color": "#FAFAFA",
-	"theme_color": "#253137",
-	"scope": "/",
-	"display": "standalone",
-	"orientation": "portrait",
 	"icons": [{
 			"src": "favicon-36.png",
 			"sizes": "36x36",
@@ -52,5 +46,12 @@
 			"sizes": "512x512",
 			"type": "image/png"
 		}
-	]
+	],
+	"start_url": "/?homescreen=1",
+	"display": "standalone",
+	"orientation": "portrait",
+	"background_color": "#FAFAFA",
+	"theme_color": "#253137",
+	"scope": "/"
 }
+

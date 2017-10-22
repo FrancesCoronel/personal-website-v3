@@ -50,3 +50,8 @@ $('#return-to-top').click(function () { // When arrow is clicked
         scrollTop: 0 // Scroll to top of body
     }, 500);
 });
+
+// Passive Listener - Touch Start
+document.addEventListener('touchstart', onTouchStart, {
+    passive: true
+});

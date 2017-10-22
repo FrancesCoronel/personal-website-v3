@@ -3,10 +3,13 @@
     "editor.tabSize": 2,
     "editor.fontSize": 18,
     "files.trimTrailingWhitespace": true,
-    "editor.formatOnSave": false,
+    "editor.formatOnSave": true,
     "editor.wordWrap": "on",
     "cSpell.words": [
+        "Codelabs",
         "ISLC",
+        "PWAs",
+        "Udacity",
         "schooler"
     ]
 }
