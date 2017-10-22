@@ -53,7 +53,7 @@ Our team submitted everything on time but in the end, they went with another tea
 
 <blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/mysocialcanvas">fvcproductions/mysocialcanvas</a></h4><p>mysocialcanvas - My Social Canvas #DesignHackathon 🎨</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://youtu.be/iWgY7Mzbwfw">The MEGGS Team</a></h4><p>Website: http://bit.ly/meggs-case Video: http://youtube.com/watch?v=vF5-M75n30U GitHub: http://github.com/fvcproductions/mysocialcanvas The MEGGS Team (#2) Frances Coronel Megan Ristine Jessica Libby October 1st, 2016 MySocialCanvas #DesignHackathon FVCproductions No copyright intended.</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://youtu.be/iWgY7Mzbwfw">The MEGGS Team</a></h4><p>Website: //bit.ly/meggs-case Video: //youtube.com/watch?v=vF5-M75n30U GitHub: //github.com/fvcproductions/mysocialcanvas The MEGGS Team (#2) Frances Coronel Megan Ristine Jessica Libby October 1st, 2016 MySocialCanvas #DesignHackathon FVCproductions No copyright intended.</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/the-meggs-case">The MEGGS Case</a></h4><p>MEGGS creates tech focused cases that offer beautiful and well designed protective solutions for your iPhone 7. We believe getting women interested and involved in STEM is vital to the industries and creates a well balanced and educated society.</p></blockquote>
 

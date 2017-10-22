@@ -37,7 +37,7 @@ One of the most fun hackathons I attended. Teamed up with some really fun people
 
 ## Project
 
-<blockquote class="embedly-card"><h4><a href="http://rcodonnell.github.io/code4hr-voting/">Hack the Vote</a></h4><p>Change the world, know your candidate.</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="//rcodonnell.github.io/code4hr-voting/">Hack the Vote</a></h4><p>Change the world, know your candidate.</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="https://github.com/rcodonnell/code4hr-voting">rcodonnell/code4hr-voting</a></h4><p>Contribute to code4hr-voting development by creating an account on GitHub.</p></blockquote>
 

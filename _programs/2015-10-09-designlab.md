@@ -30,5 +30,5 @@ Designlab is the best way to learn UI/UX design skills online — through projec
 
 ## Projects
 
-<blockquote class="embedly-card"><h4><a href="http://trydesignlab.com/profile/fvcproductions/">fvcproductions's Profile | Designlab</a></h4><p>fvcproductions's profile on Designlab. Designlab is the best way to learn UI & UX design skills online.</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="//trydesignlab.com/profile/fvcproductions/">fvcproductions's Profile | Designlab</a></h4><p>fvcproductions's profile on Designlab. Designlab is the best way to learn UI & UX design skills online.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

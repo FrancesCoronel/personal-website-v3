@@ -56,11 +56,11 @@ Might have something to do with human nature in general, though, so interpret it
 - [CodeCombat](https://codecombat.com/user/fvcproductions) <i class="fa fa-codecombat"></i>
 - [CodePen](https://codepen.io/fvcproductions/) <i class="fa fa-codepen"></i>
 - [DeviantArt](https://fvcproductions.deviantart.com/) <i class="fa fa-deviantart"></i>
-- [Goodreads](http://www.goodreads.com/user/show/27884143-frances-coronel) <i class="fa fa-goodreads"></i>
+- [Goodreads](//www.goodreads.com/user/show/27884143-frances-coronel) <i class="fa fa-goodreads"></i>
 - [Gravatar](https://en.gravatar.com/fvcproductions) <i class="fa fa-gravatar"></i>
-- [Imgur](http://fvcproductions.imgur.com/) <i class="fa fa-imgur"></i>
+- [Imgur](//fvcproductions.imgur.com/) <i class="fa fa-imgur"></i>
 - [Kickstarter](https://www.kickstarter.com/profile/fvcproductions1618) <i class="fa fa-kickstarter"></i>
-- [Lanyrd](http://lanyrd.com/profile/fvcproductions/) <i class="fa fa-lanyrd"></i>
+- [Lanyrd](//lanyrd.com/profile/fvcproductions/) <i class="fa fa-lanyrd"></i>
 - [LinkedIn](https://linkedin.com/in/fvcproductions) <i class="fa fa-linkedin"></i>
 - [Medium](https://medium.com/@fvcproductions) <i class="fa fa-medium"></i>
 - [Meetup](https://www.meetup.com/members/182920007/) <i class="fa fa-meetup"></i>

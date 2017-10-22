@@ -21,7 +21,7 @@ gallery:
 
 ## Organizer
 
-[Elea Chang](http://twitter.com/elea)
+[Elea Chang](//twitter.com/elea)
 
 ## Location
 

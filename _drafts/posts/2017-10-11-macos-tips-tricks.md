@@ -38,7 +38,7 @@ header:
 - Hazel
 - Gemini
 - CleanMyMac
-- [Default Folder X](http://stclairsoft.com/DefaultFolderX/)
+- [Default Folder X](//stclairsoft.com/DefaultFolderX/)
 - [Kap](https://github.com/wulkano/kap)
 - [iStat Menus](https://bjango.com/mac/istatmenus/)
 - [PopClip](https://pilotmoon.com/popclip/)
@@ -46,7 +46,7 @@ header:
 
 ## Writing
 
-- [Marked](http://marked2app.com/)
+- [Marked](//marked2app.com/)
 
 ## Development
 
@@ -84,20 +84,20 @@ header:
 ## Lifestyle
 
 - [Raindrop]()
-- [Reeder](http://reederapp.com/mac/#help)
+- [Reeder](//reederapp.com/mac/#help)
 - Day One
 - Spotify
 - Fantastical
 - YNAB
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu)
-- [Noizio](http://noiz.io/)
+- [Noizio](//noiz.io/)
 - [IINA](https://github.com/lhc70000/iina)
 
 ### Music
 
 ### Movies
 
-- [Dragand](http://dragand.watch/)
+- [Dragand](//dragand.watch/)
 
 ### Pictures
 

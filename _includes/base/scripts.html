@@ -1,20 +1,25 @@
-<!-- jQuery -->
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+<!-- Defer -->
+<!-- Only executing these script file once the HTML document has been fully parsed -->
 <!-- Embedly -->
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<script src="//cdn.embedly.com/widgets/platform.js" defer></script>
 <!-- Light Gallery -->
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
-<script src="//cdn.jsdelivr.net/g/lightgallery,lg-fullscreen,lg-share,lg-video,lg-zoom,lg-thumbnail"></script>
-<!-- Twemojii 2.5 -->
-<script src="//twemoji.maxcdn.com/2/twemoji.min.js?2.5.0"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js" defer></script>
+<script src="//cdn.jsdelivr.net/g/lightgallery,lg-fullscreen,lg-share,lg-video,lg-zoom,lg-thumbnail" defer></script>
 <!--- Web Analytics -->
 {% include analytics/analytics.html %}
 <!-- Comment Provider - Disqus -->
 {% include comments/script.html %}
+<!-- Custom Scripts -->
+<script src="{{ '/assets/js/min/main.min.js' | absolute_url }}" defer></script>
+
+<!-- Async -->
+<!-- These scripts files can be executed asynchronously -->
+<!-- jQuery -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.0/jquery.min.js" async></script>
 <!-- Service Worker -->
-<script>
+<script async>
     if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('/service-worker.js', {
+        navigator.serviceWorker.register('/OneSignalSDKWorker.js', {
                 scope: '/'
             })
             .then(function (registration) {
@@ -25,5 +30,18 @@
         });
     }
 </script>
-<!-- Custom Scripts -->
-<script src="{{ '/assets/js/min/main.min.js' | absolute_url }}"></script>
+<!-- Twemojii 2.5 -->
+<script src="//twemoji.maxcdn.com/2/twemoji.min.js?2.5.0" async></script>
+<!-- One Signal - Web Push Notifications -->
+<script src="//cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+<script async>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(["init", {
+        appId: "7bc782bf-6ee1-4373-8d1d-1346aba3b9ff",
+        autoRegister: false,
+        persistNotification: false,
+        notifyButton: {
+            enable: true /* Set to false to hide */
+        }
+    }]);
+</script>

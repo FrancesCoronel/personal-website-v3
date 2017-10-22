@@ -60,4 +60,4 @@ https://speakerdeck.com/fvcproductions/so-you-want-to-be-a-wizard-nova-hackathon
 
 https://speakerdeck.com/fvcproductions/web-design-innovation-hackathon
 
-http://www.nvcc.edu/news/media-alerts/nova-hackathon.html
+//www.nvcc.edu/news/media-alerts/nova-hackathon.html

@@ -3,7 +3,7 @@ title: "Dear Holberton 📮"
 date: 2015-12-02
 excerpt: "Why I want to attend Holberton."
 header:
-    image: http://www.yellopixel.com/wp-content/uploads/2017/02/holberton-school.jpg
+    image: //www.yellopixel.com/wp-content/uploads/2017/02/holberton-school.jpg
 ---
 
 ## Dear Holberton,

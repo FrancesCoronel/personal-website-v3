@@ -8,7 +8,7 @@ excerpt: "One page that tries its best to summarize me both academically and pro
 
 > And feel free to connect with me on there as well! 👥️
 
-<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script src="//platform.linkedin.com/in.js"></script>
 <script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/fvcproductions" data-format="inline" data-related="false"></script>
 
 ### But here's the hard copy for reference. `¯\_(ツ)_/¯`

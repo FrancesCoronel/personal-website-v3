@@ -61,4 +61,4 @@ GOogle
 - [Google Jobs - Associate Product Manager](https://www.google.com/search?q=associate+product+manager+jobs)
 - [Quora - What companies offer Associate Product Manager position?](https://www.quora.com/What-companies-offer-Associate-Product-Manager-position)
 
-I recommend using a job tracker like [JobHero](http://gojobhero.com) when applying to these awesome positions.
+I recommend using a job tracker like [JobHero](//gojobhero.com) when applying to these awesome positions.

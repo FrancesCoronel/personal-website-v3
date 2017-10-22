@@ -10,6 +10,8 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <!-- Make sure theme-color is defined -->
     <meta name="theme-color" content="#253137">
+    <!-- Manifest -->
+    <link rel="manifest" href="{{ 'manifest.json' | absolute_url }}">
     <!-- For IE10 Metro -->
     <meta name="msapplication-TileColor" content="#FFFFFF">
     <meta name="msapplication-TileImage" content="{{ 'assets/favicons/favicon-144.png' | absolute_url }}">
@@ -18,7 +20,8 @@
     <!-- Favicons -->
     {% include header/favicons.html %}
     <!-- RSS Feed -->
-    <link rel="alternate" hreflang="en-us" href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}" type="application/atom+xml" title="{{ site.title }} - RSS Feed">
+    <link rel="alternate" hreflang="en-us" href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"
+        type="application/atom+xml" title="{{ site.title }} - RSS Feed">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}">
 </head>
