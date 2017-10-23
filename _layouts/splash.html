@@ -1,12 +1,8 @@
----
-layout: default
----
-
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image %} {% include page/hero.html
+--- layout: default --- {% if page.header.overlay_color or page.header.overlay_image or page.header.image %} {% include page/hero.html
 %} {% elsif page.header.video.id and page.header.video.provider %} {% include page/hero-video.html %} {% endif %}
 
 <div id="main" role="main">
-    <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
+    <article class="splash" itemscope itemtype="//schema.org/CreativeWork">
         {% if page.title %}
         <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}"> {% endif %} {% if page.excerpt %}
         <meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}"> {% endif %} {% if page.date %}
