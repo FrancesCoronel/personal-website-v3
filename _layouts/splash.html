@@ -1,4 +1,8 @@
---- layout: default --- {% if page.header.overlay_color or page.header.overlay_image or page.header.image %} {% include page/hero.html
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %} {% include page/hero.html
 %} {% elsif page.header.video.id and page.header.video.provider %} {% include page/hero-video.html %} {% endif %}
 
 <div id="main" role="main">

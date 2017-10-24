@@ -1,27 +1,21 @@
-<!-- Load right away -->
 <!-- jQuery -->
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
 <!-- Twemojii 2.5 -->
 <script src="//twemoji.maxcdn.com/2/twemoji.min.js?2.5.0"></script>
-<!-- Light Gallery -->
+<!-- jQuery Mouse Wheel -->
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
+<!-- Light Gallery -->
 <script src="//cdn.jsdelivr.net/g/lightgallery,lg-fullscreen,lg-share,lg-video,lg-zoom,lg-thumbnail"></script>
 <!-- Custom Scripts -->
 <script src="{{ '/assets/js/min/main.min.js' | absolute_url }}"></script>
-
-<!-- Defer -->
-<!-- Only executing these script file once the HTML document has been fully parsed -->
 <!-- Embedly -->
 <script src="//cdn.embedly.com/widgets/platform.js" defer></script>
 <!--- Web Analytics -->
 {% include analytics/analytics.html %}
 <!-- Comment Provider - Disqus -->
 {% include comments/script.html %}
-
-<!-- Async -->
-<!-- These scripts files can be executed asynchronously -->
 <!-- Service Worker -->
-<script async>
+<script>
     if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('/OneSignalSDKWorker.js', {
             scope: '/'
@@ -36,8 +30,8 @@
 </script>
 
 <!-- One Signal - Web Push Notifications -->
-<script src="//cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
-<script async>
+<script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
+<script>
     var OneSignal = window.OneSignal || [];
     OneSignal.push(["init", {
         appId: "7bc782bf-6ee1-4373-8d1d-1346aba3b9ff",
