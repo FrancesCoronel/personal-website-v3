@@ -24,8 +24,8 @@
 <script async>
     if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('/OneSignalSDKWorker.js', {
-                scope: '/'
-            })
+            scope: '/'
+        })
             .then(function (registration) {
                 console.log('Service Worker Registered');
             });

@@ -7,9 +7,13 @@
     "editor.wordWrap": "on",
     "cSpell.words": [
         "Codelabs",
+        "Customizations",
         "ISLC",
         "PWAs",
+        "Roboto",
         "Udacity",
-        "schooler"
+        "markdownlint",
+        "schooler",
+        "scrollbar"
     ]
 }
