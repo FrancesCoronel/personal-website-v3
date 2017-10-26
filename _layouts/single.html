@@ -1,112 +1,101 @@
 ---
 layout: default
 ---
-
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-    {% include page / hero.html %}
-{% endif %}
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %} {% include page/hero.html
+%} {% endif %}
 
 <div id="main" role="main">
-    <article class="page" itemscope="itemscope" itemtype="//schema.org/CreativeWork">
+    <article class="page" itemscope itemtype="//schema.org/CreativeWork">
         <!-- Meta Content -->
         <!-- Meta Title -->
         {% if page.title %}
-            <meta content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}" itemprop="headline">
-        {% endif %}
+        <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}"> {% endif %}
         <!-- Meta Excerpt -->
         {% if page.excerpt %}
-            <meta content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}" itemprop="description">
-        {% endif %}
+        <meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}"> {% endif %}
         <!-- Meta Date -->
         {% if page.date %}
-            <meta content="{{ page.date | date: ' %B %d, %Y ' }}" itemprop="datePublished">
-        {% endif %}
+        <meta itemprop="datePublished" content="{{ page.date | date: ' %B %d, %Y ' }}"> {% endif %}
         <!-- Meta Modified Date -->
         {% if page.modified %}
-            <meta content="{{ page.modified | date: ' %B %d, %Y ' }}" itemprop="dateModified">
-        {% endif %}
+        <meta itemprop="dateModified" content="{{ page.modified | date: ' %B %d, %Y ' }}"> {% endif %}
         <!-- Page Starts -->
         <div class="page__inner-wrap">
             <!-- Header -->
             {% unless page.header.overlay_color or page.header.overlay_image or page.header.image %}
-                <header>
-                    {% if page.title %}
-                        <h1 class="page__title" itemprop="headline">
-                            {% if page.cta_url %}
-                                <a href="{{ page.cta_url }}" rel="noopener" target="_blank">
-                                    {{ page.title | markdownify }}
-                                </a>
-                            {% else %}
-                                {{ page.title | markdownify }}
-                            {% endif %}
-                        </h1>
-                    {% endif %}
-                </header>
+            <header>
+                {% if page.title %}
+                <h1 class="page__title" itemprop="headline">
+                    {% if page.cta_url %}
+                    <a href="{{ page.cta_url }}" target="_blank" rel="noopener">
+                        {{ page.title | markdownify | remove: "
+                        <p>" | remove: "</p>" }}
+                    </a>
+                    {% else %} {{ page.title | markdownify | remove: "
+                    <p>" | remove: "</p>" }} {% endif %}
+                </h1>
+                {% endif %}
+            </header>
             {% endunless %}
             <!-- Page Info -->
             <header class="page__meta">
                 <!-- Page Excerpt -->
                 {% if page.excerpt %}
-                    <p itemprop="description">
-                        <i class="fa fa-info-circle fa-lg"></i>{{ page.excerpt | markdownify }}</p>
+                <p itemprop="description">
+                    <i class="fa fa-info-circle fa-lg"></i>{{ page.excerpt | markdownify | remove: "
+                    <p>" | remove: "</p>" }}
+                </p>
                 {% endif %}
                 <!-- Page Read Time -->
                 {% if page.read_time %}
-                    <p>
-                        <i aria-hidden="true" class="fa fa-clock-o fa-lg"></i>{% include page/read-time.html %}
-                    </p>
+                <p>
+                    <i class="fa fa-clock-o fa-lg" aria-hidden="true"></i>{% include page/read-time.html %}
+                </p>
                 {% endif %}
                 <!-- Page Date -->
                 {% if page.date %}
-                    <p>
-                        {% if page.permalink == '/services/speaking' %}
-                            <i aria-hidden="true" class="fa fa-commenting fa-lg"></i>Presented
-                        {% else %}
-                            <i aria-hidden="true" class="fa fa-pencil-square-o fa-lg"></i>Created
-                        {% endif %}
-                        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
-                    </p>
+                <p>
+                    {% if page.permalink == '/services/speaking' %}
+                    <i class="fa fa-commenting fa-lg" aria-hidden="true"></i>Presented {% else %}
+                    <i class="fa fa-pencil-square-o fa-lg" aria-hidden="true"></i>Created {% endif %}
+                    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+                </p>
                 {% endif %}
                 <!-- Page Modified Date -->
                 {% if page.modified %}
-                    <p>
-                        <i aria-hidden="true" class="fa fa-calendar-check-o fa-lg"></i>Last updated
-                        <time " }}" %y-%m-%d="%Y-%m-%d" datetime="{{ page.modified | date: ">{{ page.modified | date: "%B %d, %Y" }}</time>
-                    </p>
+                <p>
+                    <i class="fa fa-calendar-check-o fa-lg" aria-hidden="true"></i>Last updated
+                    <time datetime="{{ page.modified | date: " %Y-%m-%d " }}">{{ page.modified | date: "%B %d, %Y" }}</time>
+                </p>
                 {% endif %}
                 <!-- Google Analytics Views -->
-                <!-- <p> <i class="fa fa-line-chart fa-lg"></i><span
-                id="ga-pageviews">0</span>views </p> -->
+                <!-- <p>
+                    <i class="fa fa-line-chart fa-lg"></i><span id="ga-pageviews">0</span>views
+                </p> -->
             </header>
             <!-- Page Content -->
             <section class="page__content" itemprop="text">
-                {{ content }}
-                {% if page.link %}
-                    <a class="btn" href="{{ page.link }}">
-                        {{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}
-                    </a>
+                {{ content }} {% if page.link %}
+                <a href="{{ page.link }}" class="btn">
+                    {{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}
+                </a>
                 {% endif %}
             </section>
+
             <!-- Page Categories/Tags -->
-            {% if page.id %}
-                {% include page / taxonomy.html %}
-            {% endif %}
+            {% if page.id %} {% include page/taxonomy.html %} {% endif %}
+
             <!-- Social Sharing Buttons -->
-            {% if page.share %}
-                {% include page/social-share.html %}
-            {% endif %}
+            {% if page.share %} {% include page/social-share.html %} {% endif %}
+
             <!-- Comments -->
-            {% if site.comments.provider and page.comments %}
-                {% include comments / comments.html %}
-            {% endif %}
+            {% if site.comments.provider and page.comments %} {% include comments/comments.html %} {% endif %}
+
             <!-- Pagination -->
-            {% if page.previous or page.next %}
-                {% include page / post_pagination.html %}
-            {% endif %}
+            {% if page.previous or page.next %} {% include page/post_pagination.html %} {% endif %}
+
             <!-- Related Posts -->
-            {% if page.id and page.related and site.related_posts.size > 0 %}
-                {% include page / related.html %}
-            {% endif %}
+            {% if page.id and page.related and site.related_posts.size > 0 %} {% include page/related.html %} {% endif %}
         </div>
     </article>
 </div>
