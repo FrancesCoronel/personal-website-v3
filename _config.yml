@@ -133,7 +133,7 @@ permalink:                /blog/:year/:month/:day/:title/
 timezone:                 America/Los_Angeles
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
