@@ -3,11 +3,11 @@
 
 # TEAM
 
-  Frances Coronel
+Frances Coronel
 
 # THANKS
 
-  Minimal Mistakes Theme Creator - Michael Rose
+Minimal Mistakes Theme Creator - Michael Rose
 
 # TECHNOLOGY COLOPHON
 
@@ -17,3 +17,4 @@
 - Twemoji
 - Disqus
 - Google Analytics
+

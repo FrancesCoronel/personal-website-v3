@@ -17,8 +17,5 @@ comments: false
 ## I've attended a total of {{ site.education | size }} educational institutions.
 
 <div class="grid__wrapper">
-    {% assign sorted_education = (site.education | sort: 'date') | reverse %}
-    {% for post in sorted_education %}
-        {% include archive/single.html type="grid" %}
-    {% endfor %}
+{% assign sorted_education = site.education | sort: 'date' | reverse %}{% for post in sorted_education %}{% include archive/single.html type="grid" %}{% endfor %}
 </div>

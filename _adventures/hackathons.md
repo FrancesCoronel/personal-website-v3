@@ -14,8 +14,5 @@ comments: false
 > To see hackathons I've spoken at and not just attended, head over to [my speaking page](https://fvcproductions.com/services/speaking/ "Speaking")!
 
 <div class="grid__wrapper">
-    {% assign sorted_hackathons = (site.hackathons | sort: 'date') | reverse %}
-    {% for post in sorted_hackathons %}
-        {% include archive/single.html type="grid" %}
-    {% endfor %}
+{% assign sorted_hackathons = site.hackathons | sort: 'date' | reverse %}{% for post in sorted_hackathons %}{% include archive/single.html type="grid" %}{% endfor %}
 </div>

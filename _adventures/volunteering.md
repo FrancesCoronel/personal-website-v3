@@ -10,8 +10,5 @@ comments: false
 ## I've volunteered with {{ site.volunteering | size }} amazing organizations so far, with plans to volunteer for more in the future!
 
 <div class="grid__wrapper">
-    {% assign sorted_volunteering = (site.volunteering | sort: 'date') | reverse %}
-    {% for post in sorted_volunteering %}
-        {% include archive/single.html type="grid" %}
-    {% endfor %}
+{% assign sorted_volunteering = site.volunteering | sort: 'date' | reverse %}{% for post in sorted_volunteering %}{% include archive/single.html type="grid" %}{% endfor %}
 </div>

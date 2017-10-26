@@ -25,13 +25,12 @@ tags:
 
 ### Upcoming
 
-- [Chrome DevSummit](https://developer.chrome.com/devsummit/) (October 23rd-24th)
+- None as of right now, but that'll probably change soon!
+
+<!-- - None as of right now, but that'll probably change soon! -->
 
 ### Past
 
 <div class="grid__wrapper">
-    {% assign sorted_conferences = (site.conferences | sort: 'date') | reverse %}
-    {% for post in sorted_conferences %}
-        {% include archive/single.html type="grid" %}
-    {% endfor %}
+{% assign sorted_conferences = site.conferences | sort: 'date' | reverse %}{% for post in sorted_conferences %}{% include archive/single.html type="grid" %}{% endfor %}
 </div>

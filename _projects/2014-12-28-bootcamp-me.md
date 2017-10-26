@@ -1,5 +1,5 @@
 ---
-title: "Bootcamp.me 📍"
+title: "Bootcamp.me - Google Map 📍"
 date: 2014-12-28
 header:
     image: https://i.imgur.com/8cFXnVj.jpg

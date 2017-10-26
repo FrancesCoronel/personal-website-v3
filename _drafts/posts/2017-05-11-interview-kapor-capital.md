@@ -302,3 +302,17 @@ It's clear that education has always been a huge part of my life, whether or not
 Are you currently enrolled in a MBA, MS, JD, PhD or have received a letter of acceptance from to start graduate studies in Fall 2017? (You do not have to be enrolled in a graduate program to apply).
 
 Yes, I'm currently pursuing an MS in Computer Science at Cornell Tech in NYC.
+
+---
+
+## Why do you want a job in Venture Capital?
+
+I have this insatiability to learn more. I've pursued courses whether informally or formally in engineering, design, product management, and creating a startup - David Tisch, co-founder of BoxGroup & co-founder of TechStars NYC --> seed stage VC firm.
+
+Love of the technology / science, excitement for investing in companies, enjoying communication with interesting people, the thrill of looking at new ideas and chasing the next Google, etc.
+
+I have a heavy technical background, I create slide decks all the time,
+
+Kapor Capital specifically... I see myself in Brian, who's a partner, and I see myself in Carolina.
+
+Adrian: I think what you'll get out of it will tend to be very personal but I wanted to use the opportunity to dip my toe into VC, understand if it's something that I want to pursue further, understand what stage of the investment cycle I enjoy most, understand how social impact VC differs from traditional VC, etc. I think I was certainly able to get that out of my summer at Kapor.

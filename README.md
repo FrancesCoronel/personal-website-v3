@@ -13,6 +13,7 @@ My blog and portfolio all in one. You can view it on GitHub Pages at [fvcproduct
 - [Installation](#installation)
 - [Usage](#usage)
   - [To-Do](#to-do)
+  - [Collections](#collections)
 - [Contributing](#contributing)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -78,6 +79,8 @@ This website was created from the bottom-up and is a migration from my Wordpress
 - add galleries
 - update portfolio
 - update posts
+- IFTTT to social media for new posts and projects
+- 100 score for Lighthouse (PWA)
 - use [Isotope](https://isotope.metafizzy.co/) to filter posts by category
 - use [lazy-loading](https://www.adamwills.io/blog/responsive-images-hugo/) to load posts
   - [lazy-sizes](https://github.com/aFarkas/lazysizes)
@@ -98,6 +101,63 @@ This website was created from the bottom-up and is a migration from my Wordpress
   - Job
   - School
   - Program
+
+### Collections
+
+> FVCproductions Branding
+
+- Logos
+  - behance (lots)
+- Flavicons
+- Banners
+- Websites
+  - behance
+    - strikingly theme
+    - strike 2
+    - tdEditora
+    - tdEditor updated
+
+> User Interfaces
+
+- [ ] old ones
+- [ ] el capitan
+- [ ] obsessed with labs
+- [ ] needs flavours
+- [ ] baby pink
+- [ ] snow white
+- [ ] black apple
+
+> Icon & Logo Designs
+
+- [ ] Speaker Deck
+- [ ] Mora
+- [ ] TSP
+- [ ] FVCproductions
+- merge two behance into one
+- [ ] Fullstack Academy Award
+- [ ] Ameot
+- [ ] Popcorn Time
+- [ ] Writefull
+- [ ] Alchemize
+- [ ] Blogo
+- [ ] Hipster Mermaid
+- [ ] Raindrop
+- [ ] Bebop.me
+- [ ] RESPECT
+- [ ] scribd/github ring
+
+> Print
+
+- [ ] npmCamp
+- [ ] TAPIA
+- [ ] TCC
+- [ ] Fullstack Academy
+- [ ] 2015 conferences
+- [ ] Party Activities
+- [ ] Mother's Day Card - Netflix
+- [ ] leh business card
+- [ ] Grad Party
+- [ ] Chinese Wall (4 from Behance)
 
 ## Contributing
 
