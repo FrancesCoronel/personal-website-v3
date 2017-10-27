@@ -6,14 +6,16 @@
     "editor.formatOnSave": false,
     "editor.wordWrap": "on",
     "cSpell.words": [
-        "Codelabs",
-        "Customizations",
-        "ISLC",
-        "PWAs",
-        "Roboto",
-        "Udacity",
-        "markdownlint",
-        "schooler",
-        "scrollbar"
+      "Codelabs",
+      "Cproductions",
+      "Customizations",
+      "ISLC",
+      "PWAs",
+      "Roboto",
+      "Udacity",
+      "lightgallery",
+      "markdownlint",
+      "schooler",
+      "scrollbar"
     ]
-}
+  }

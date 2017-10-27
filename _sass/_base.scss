@@ -360,3 +360,11 @@ input[type="submit"],
     -webkit-transition: $global-transition;
     transition: $global-transition;
 }
+
+/* Input */
+input {
+  border-radius: 0;
+  font-size: $type-size-6;
+  margin-bottom: 0.25em;
+  padding: 0.5em 1em;
+}

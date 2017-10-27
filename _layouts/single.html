@@ -18,11 +18,11 @@ layout: default
     {% endif %}
     <!-- Meta Date -->
     {% if page.date %}
-      <meta itemprop="datePublished" content="{{ page.date | date: ' %B %d, %Y ' }}">
+      <meta itemprop="datePublished" content="{{ page.date | date: '%B %d, %Y' }}">
     {% endif %}
     <!-- Meta Modified Date -->
     {% if page.modified %}
-      <meta itemprop="dateModified" content="{{ page.modified | date: ' %B %d, %Y ' }}">
+      <meta itemprop="dateModified" content="{{ page.modified | date: '%B %d, %Y' }}">
     {% endif %}
     <!-- Page Starts -->
     <div class="page__inner-wrap">
@@ -42,41 +42,43 @@ layout: default
           {% endif %}
         </header>
       {% endunless %}
-      <!-- Page Info -->
-      <header class="page__meta">
-        <!-- Page Excerpt -->
-        {% if page.excerpt %}
-          <p itemprop="description"><i class="fa fa-info-circle fa-lg"></i>{{ page.excerpt | markdownify | strip_html }}</p>
-        {% endif %}
-        <!-- Page Read Time -->
-        {% if page.read_time %}
-          <p><i class="fa fa-clock-o fa-lg" aria-hidden="true"></i>{% include page/read-time.html %}</p>
-        {% endif %}
-        <!-- Page Date -->
-        {% if page.date %}
-          <p>
-            {% if page.permalink == '/services/speaking' %}
-              <i class="fa fa-commenting fa-lg" aria-hidden="true"></i>Presented
-            {% else %}
-              <i class="fa fa-pencil-square-o fa-lg" aria-hidden="true"></i>Created
-            {% endif %}
-            <time datetime="{{ page.date | date_to_xmlschema }}">
-              {{ page.date | date: "%B %d, %Y" }}
-            </time>
-          </p>
-        {% endif %}
-        <!-- Page Modified Date -->
-        {% if page.modified %}
-          <p>
-            <i class="fa fa-calendar-check-o fa-lg" aria-hidden="true"></i>Last updated
-            <time datetime="{{ page.modified | date: " %Y-%m-%d " }}">
-              {{ page.modified | date: "%B %d, %Y" }}
-            </time>
-          </p>
-        {% endif %}
-        <!-- Google Analytics Views -->
-        <!-- <p><i class="fa fa-line-chart fa-lg"></i><span id="ga-pageviews">0</span>views</p> -->
-      </header>
+      {% if page.excerpt or page.read_time or page.date or page.modified %}
+        <!-- Page Info -->
+        <header class="page__meta">
+          <!-- Page Excerpt -->
+          {% if page.excerpt %}
+            <p itemprop="description"><i class="fa fa-info-circle fa-lg"></i>{{ page.excerpt | markdownify | strip_html }}</p>
+          {% endif %}
+          <!-- Page Read Time -->
+          {% if page.read_time %}
+            <p><i class="fa fa-clock-o fa-lg" aria-hidden="true"></i>{% include page/read-time.html %}</p>
+          {% endif %}
+          <!-- Page Date -->
+          {% if page.date %}
+            <p>
+              {% if page.permalink == '/services/speaking' %}
+                <i class="fa fa-commenting fa-lg" aria-hidden="true"></i>Presented
+              {% else %}
+                <i class="fa fa-pencil-square-o fa-lg" aria-hidden="true"></i>Created
+              {% endif %}
+              <time datetime="{{ page.date | date_to_xmlschema }}">
+                {{ page.date | date: "%B %d, %Y" }}
+              </time>
+            </p>
+          {% endif %}
+          <!-- Page Modified Date -->
+          {% if page.modified %}
+            <p>
+              <i class="fa fa-calendar-check-o fa-lg" aria-hidden="true"></i>Last updated
+              <time datetime="{{ page.modified | date: " %Y-%m-%d " }}">
+                {{ page.modified | date: "%B %d, %Y" }}
+              </time>
+            </p>
+          {% endif %}
+          <!-- Google Analytics Views -->
+          <!-- <p><i class="fa fa-line-chart fa-lg"></i><span id="ga-pageviews">0</span>views</p> -->
+        </header>
+      {% endif %}
       <!-- Page Content -->
       <section class="page__content" itemprop="text">
         {{ content }}
@@ -100,7 +102,7 @@ layout: default
       {% endif %}
       <!-- Pagination -->
       {% if page.previous or page.next %}
-        {% include page/post_pagination.html %}
+        {% include page/post-pagination.html %}
       {% endif %}
       <!-- Related Posts -->
       {% if page.id and page.related and site.related_posts.size > 0 %}

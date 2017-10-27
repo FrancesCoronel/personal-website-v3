@@ -6,7 +6,7 @@ header:
     image: https://fvcproductions.files.wordpress.com/2017/07/iphone.jpeg
 ---
 
-## Feel free to email me at `hello at fvcproductions dot com`. 📥
+## Feel free to email me at `hello at fvcproductions dot com` 📥
 
 > Or you can reach out to me via...
 
@@ -14,7 +14,19 @@ header:
 - <a href="https://linkedin.com/in/fvcproductions" target="_blank" rel="noopener">LinkedIn</a> 👥️
 - <a href="https://calendly.com/fvcproductions" target="_blank" rel="noopener">Calendly</a> 📅
 
-## Become a Patron!
+## Contact Form
+
+> If you feel like being old-school `#90s` 😎 then feel free to fill out the contact form below which will automatically send me an email.
+
+<form method="POST" action="http://formspree.io/hello@fvcproductions.com">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="What's up?"></textarea>
+  <button class="btn--inverse" type="submit">Send message</button>
+  <input type="hidden" name="_subject" value="FVCproductions - New Contact Message 📥" />
+  <input type="hidden" name="_next" value="/got-your-message/" />
+</form>
+
+## Become a Patron
 
 If you have found any of my contributions valuable, kindly consider supporting me through a small donation or by becoming an ongoing patron. 💛️
 

@@ -1,10 +1,9 @@
 ---
-title: Thank You
-excerpt: Thanks so much for donating!
-permalink: /thank-you/
+title: I got your message!
+permalink: /got-your-message/
 ---
 
-## You just made my day! 🎉
+## Your message was sent! 🎉
 
 As I eventually come across your generous donation, I can’t tell you how much I appreciate your support for the work I've done across many mediums, whether it be through development, designs, writing, or anything else - I appreciate it a lot!
 

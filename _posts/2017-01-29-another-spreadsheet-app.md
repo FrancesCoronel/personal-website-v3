@@ -67,5 +67,3 @@ But for anything else, [Airtable](https://airtable.com) powers over the rest eve
 ### So stop stressing out over formatting and cell management & just [Airtable](https://airtable.com/downloads)! 🎉
 
 [![Download Airtable](https://fvcproductions.files.wordpress.com/2017/01/download.png)](https://airtable.com/downloads)
-
-{% include figure url='https://fvcproductions.files.wordpress.com/2017/01/download.png' alt='Download Airtable' ext_link='https://airtable.com/downloads' %}

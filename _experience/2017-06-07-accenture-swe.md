@@ -13,7 +13,7 @@ gallery:
 
 ## Employer
 
-<figure url="https://i.imgur.com/xgLGmTV.jpg" alt="Accenture Liquid Studio - Silicon Valley">
+{% include figure url="https://i.imgur.com/xgLGmTV.jpg" alt="Accenture Liquid Studio - Silicon Valley" %}
 
 <a title="Accenture Liquid Studio" href="https://accenture.com/us-en/capability-rapid-application-development-studio" target="_blank" rel="noopener">Accenture Liquid Studio</a>
 
