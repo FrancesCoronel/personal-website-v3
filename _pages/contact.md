@@ -6,7 +6,7 @@ header:
     image: https://fvcproductions.files.wordpress.com/2017/07/iphone.jpeg
 ---
 
-## Feel free to email me at `fvcproductions at gmail dot com`. 📥
+## Feel free to email me at `hello at fvcproductions dot com`. 📥
 
 > Or you can reach out to me via...
 
