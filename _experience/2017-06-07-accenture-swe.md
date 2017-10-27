@@ -3,10 +3,17 @@ title: "Accenture Liquid Studio - Software Engineer"
 excerpt: "Software Engineer"
 date: 2017-06-07
 header:
-  image: https://i.ytimg.com/vi/XummPPDtJ_c/maxresdefault.jpg
+  image: https://i.imgur.com/2VW391R.jpg
+gallery:
+  - url: https://i.imgur.com/2VW391R.jpg
+    alt: "People Profile"
+  - url: https://i.imgur.com/l3pUvUR.png
+    alt: "Internal Liquid Studio Website"
 ---
 
 ## Employer
+
+<figure url="https://i.imgur.com/xgLGmTV.jpg" alt="Accenture Liquid Studio - Silicon Valley">
 
 <a title="Accenture Liquid Studio" href="https://accenture.com/us-en/capability-rapid-application-development-studio" target="_blank" rel="noopener">Accenture Liquid Studio</a>
 
@@ -41,5 +48,9 @@ Outside of client work, I've also been involved in the following
 - Liquid Studio Silicon Valley Onboarding Lead
 - Technology Development Program Rewards & Recognition Action Team Lead
 - Chief Editor of the Lightweight Architecture assets for the Liquid Studios
-- volunteer for the 2017 West Leadership Summit
-- third place winner at an Alexa Hackathon hosted by Amazon and Accenture
+- Volunteer for the 2017 West Leadership Summit
+- Winner (3rd Place) at an Alexa Hackathon hosted by Amazon and Accenture
+- Featured in Accenture's internal site for the Liquid Studio
+- Created Liquid Studio wiki from scratch
+
+{% include gallery %}

@@ -102,6 +102,12 @@ The final Project Alloy event happened concurrently
 
 This was an event sponsored by Netflix that was going on con-currently with the Project Include Meetup.
 
+<blockquote class="embedly-card"><h4><a href="https://jenniferkormanphotography.pixieset.com/diversityintech/?pid=1367692777&id=92&h=NDQyMzY5MTgy">Diversity in Tech</a></h4><p>Photo by Jennifer Korman Photography</p></blockquote>
+
+<blockquote class="embedly-card"><h4><a href="https://jenniferkormanphotography.pixieset.com/diversityintech/?pid=1367691991&id=102&h=MjM5ODk3NzEwNg">Diversity in Tech</a></h4><p>Photo by Jennifer Korman Photography</p></blockquote>
+
+<blockquote class="embedly-card"><h4><a href="https://jenniferkormanphotography.pixieset.com/diversityintech/?pid=1367690754&id=125&h=MjY3MzY5MjYwNg">Diversity in Tech</a></h4><p>Photo by Jennifer Korman Photography</p></blockquote>
+
 I ended up taking a photo with two other grantees that I met at Strange Loop and thought were really cool.
 
 ![#INCLUDE <ALL>](https://media.giphy.com/media/3ohhwgrG71d6wmkIiQ/giphy.gif)
@@ -117,7 +123,6 @@ My talk was selected and I was able to present the first Lightning Talk starting
 My talk was called **"TypeScript 101"**.
 
 <blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/typescript-101-80676517">TypeScript 101</a></h4><p>Lightning Talks Strange Loop 2017 8:30 PM - Friday, September 29th</p></blockquote>
-
 
 I got a lot of great feedback on it too!
 
