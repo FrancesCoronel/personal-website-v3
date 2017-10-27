@@ -3,17 +3,17 @@ title: "STARS Celebration 2014"
 excerpt: "Conference by the STARS Computing Corps"
 date: 2014-08-16
 header:
-    image: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg
+    image: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg
 gallery:
     - alt: "STARS 2014"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-84.jpg
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-84.jpg
     - alt: "STARS 2014"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg
 ---
 
 ## Name
 
-<a title="STARS" href="https://www.starscelebration.org/2014/" target="_blank" rel="noopener">STARS Celebration 2014</a>
+<a title="STARS" href="//www.starscelebration.org/2014/" target="_blank" rel="noopener">STARS Celebration 2014</a>
 
 ## Organizer
 

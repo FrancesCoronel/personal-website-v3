@@ -8,7 +8,7 @@
     {% endcapture %}
 {% endif %}
 
-{% if page.header.image contains "://" %}
+{% if page.header.image contains "//" %}
     {% capture img_path %}
         {{ page.header.image }}
     {% endcapture %}

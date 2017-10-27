@@ -2,13 +2,13 @@
 title: Fullstack Academy - Ambassador
 date: 2017-06-04
 header:
-    image: https://fvcproductions.files.wordpress.com/2015/11/11821194_439697182900579_299304949_n-1-e1457320708289.jpg
+    image: //fvcproductions.files.wordpress.com/2015/11/11821194_439697182900579_299304949_n-1-e1457320708289.jpg
 excerpt: Marketing and mentoring done for Fullstack Academy as an ambassador for their programs.
 ---
 
 ## Employer
 
-<a title="Fullstack Academy" href="https://fullstackacademy.com" target="_blank" rel="noopener">Fullstack Academy</a>
+<a title="Fullstack Academy" href="//fullstackacademy.com" target="_blank" rel="noopener">Fullstack Academy</a>
 
 ## Location
 

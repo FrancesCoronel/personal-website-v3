@@ -3,16 +3,16 @@ title: "Accenture All-Hands Conference"
 excerpt: "This was a conference all Accenture employees in the San Francisco Bay Area are invited to every year."
 date: 2016-06-17
 header:
-  image: https://fvcproductions.files.wordpress.com/2017/01/img_0068.jpg
+  image: //fvcproductions.files.wordpress.com/2017/01/img_0068.jpg
 gallery:
     - alt: "Accenture All-Hands Conference"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/05/revolutionconf-2016.png
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/05/revolutionconf-2016.png
     - alt: "Accenture All-Hands Conference"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/06/revconf-2.jpg
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/06/revconf-2.jpg
     - alt: "Accenture All-Hands Conference"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/06/revconf-19.jpg
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/06/revconf-19.jpg
     - alt: "Accenture All-Hands Conference"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/06/revconf2016-0009.jpg
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/06/revconf2016-0009.jpg
 ---
 
 ## Name

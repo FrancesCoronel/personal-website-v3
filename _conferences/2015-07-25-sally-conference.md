@@ -3,19 +3,19 @@ title: "Sally Conference"
 excerpt: "Sponsored by Bloom & Women Who Code"
 date: 2015-07-25
 header:
-  image: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/ckydracwgaeajgp.jpg
+  image: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/ckydracwgaeajgp.jpg
 gallery:
     - alt: "Sally Conference"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0001.jpg
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0001.jpg
     - alt: "Sally Conference"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0002.jpg
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0002.jpg
     - alt: "Sally Conference"
-      url: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/ckydracwgaeajgp.jpg
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/ckydracwgaeajgp.jpg
 ---
 
 ## Name
 
-<a title="Sally Conference" href="https://www.thesallyconference.com/" target="_blank" rel="noopener">Sally Conference</a>
+<a title="Sally Conference" href="//www.thesallyconference.com/" target="_blank" rel="noopener">Sally Conference</a>
 
 ## Organizer
 

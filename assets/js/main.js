@@ -1,15 +1,3 @@
-if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('/OneSignalSDKWorker.js', {
-      scope: '/'
-    })
-    .then(function (registration) {
-      console.log('Service Worker Registered');
-    });
-  navigator.serviceWorker.ready.then(function (registration) {
-    console.log('Service Worker Ready');
-  });
-}
-
 $(document).ready(function () {
 
   /* Light Gallery */
@@ -21,7 +9,19 @@ $(document).ready(function () {
 
   /* Changing Tab Title */
   var title = document.title;
-  var altTitles = ["Whatcha up to? 👀", "'Ello Gov'nor! 🎩", "Top o' the mornin' to ya! ☘", "Wubba, lubba dub-dub! 🔬", "E.T. phone home. 👽", "There's no place like home. 🏠", "Live long and prosper. 🖖", "Here's Johnny! 🔪", "My precious. 💍", "Do you read me, HAL? 🔴", "Expecto patronum! ⚡"];
+  var altTitles = [
+    "Whatcha up to? 👀",
+    "'Ello Gov'nor! 🎩",
+    "Top o' the mornin' to ya! ☘",
+    "Wubba, lubba dub-dub! 🔬",
+    "E.T. phone home. 👽",
+    "There's no place like home. 🏠",
+    "Live long and prosper. 🖖",
+    "Here's Johnny! 🔪",
+    "My precious. 💍",
+    "Do you read me, HAL? 🔴",
+    "Expecto patronum! ⚡"
+  ];
   var altTitle = altTitles[Math.floor(Math.random() * altTitles.length)];
 
   $(window).blur(function () {

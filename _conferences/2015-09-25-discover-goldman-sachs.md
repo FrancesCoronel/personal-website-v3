@@ -3,17 +3,17 @@ title: "Discover Goldman Sachs"
 excerpt: "I was invited to explore careers with Goldman Sachs."
 date: 2015-09-25
 header:
-  image: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0052.jpg
+  image: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0052.jpg
 gallery:
   - alt: "Goldman Sachs"
-    url: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0052.jpg
+    url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0052.jpg
   - alt: "Goldman Sachs"
-    url: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0054.jpg
+    url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0054.jpg
 ---
 
 ## Name
 
-<a title="Discover Goldman Sachs" href="https://www.goldmansachs.com/careers/why-goldman-sachs/diversity/diversity-us.html" target="_blank" rel="noopener">Discover Goldman Sachs</a>
+<a title="Discover Goldman Sachs" href="//www.goldmansachs.com/careers/why-goldman-sachs/diversity/diversity-us.html" target="_blank" rel="noopener">Discover Goldman Sachs</a>
 
 ## Organizer
 

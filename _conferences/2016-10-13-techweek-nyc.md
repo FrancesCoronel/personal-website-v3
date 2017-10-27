@@ -3,31 +3,31 @@ title: "Techweek NYC"
 excerpt: "A conference for developers"
 date: 2016-10-13
 header:
-  image: https://fvcproductions.files.wordpress.com/2016/10/img_0886.jpg
+  image: //fvcproductions.files.wordpress.com/2016/10/img_0886.jpg
 gallery:
     - alt: "Techweek NYC"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0875.jpg?w=348&h=261&crop&ssl=1&zoom=2
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0875.jpg?w=348&h=261&crop&ssl=1&zoom=2
     - alt: "Techweek NYC"
-      url: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0865.jpg?w=348&h=261&crop&ssl=1&zoom=2
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0865.jpg?w=348&h=261&crop&ssl=1&zoom=2
     - alt: "Techweek NYC"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0872.jpg?w=394&h=526&crop&ssl=1&zoom=2
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0872.jpg?w=394&h=526&crop&ssl=1&zoom=2
     - alt: "Techweek NYC"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0870.jpg?w=496&h=372&crop&ssl=1&zoom=2
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0870.jpg?w=496&h=372&crop&ssl=1&zoom=2
     - alt: "Techweek NYC"
-      url: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0878.jpg?w=246&h=184&crop&ssl=1&zoom=2
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0878.jpg?w=246&h=184&crop&ssl=1&zoom=2
     - alt: "Techweek NYC"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0888.jpg?w=246&h=184&crop&ssl=1&zoom=2
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0888.jpg?w=246&h=184&crop&ssl=1&zoom=2
     - alt: "Techweek NYC"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0877.jpg?w=274&h=205&crop&ssl=1&zoom=2
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0877.jpg?w=274&h=205&crop&ssl=1&zoom=2
     - alt: "Techweek NYC"
-      url: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0890.jpg?w=274&h=205&crop&ssl=1&zoom=2
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0890.jpg?w=274&h=205&crop&ssl=1&zoom=2
     - alt: "Techweek NYC"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0886.jpg?w=468&h=624&crop&ssl=1&zoom=2
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/10/img_0886.jpg?w=468&h=624&crop&ssl=1&zoom=2
 ---
 
 ## Name
 
-<a title="Techweek NYC" href="https://techweek.com" target="_blank" rel="noopener">Techweek NYC</a>
+<a title="Techweek NYC" href="//techweek.com" target="_blank" rel="noopener">Techweek NYC</a>
 
 ## Organizer
 

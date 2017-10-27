@@ -3,25 +3,25 @@ title: "TAPIA 2015"
 excerpt: "ACM Richard Tapia Celebration of Diversity in Computing Conference"
 date: 2015-02-21
 header:
-  image: https://fvcproductions.files.wordpress.com/2015/02/11193236_10205024245979886_9129577345082938607_n.jpg
+  image: //fvcproductions.files.wordpress.com/2015/02/11193236_10205024245979886_9129577345082938607_n.jpg
 gallery:
   - alt: "TAPIA"
-    url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/02/scholarship-reception.jpg
+    url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/02/scholarship-reception.jpg
   - alt: "TAPIA"
-    url: https://fvcproductions.files.wordpress.com/2015/02/11193236_10205024245979886_9129577345082938607_n.jp
+    url: //fvcproductions.files.wordpress.com/2015/02/11193236_10205024245979886_9129577345082938607_n.jp
   - alt: "TAPIA"
-    url: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/02/hic-people.jpg
+    url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/02/hic-people.jpg
   - alt: "TAPIA"
-    url: https://i0.wp.com/fvcproductions.files.wordpress.com/2015/02/hic-pres.jpg
+    url: //i0.wp.com/fvcproductions.files.wordpress.com/2015/02/hic-pres.jpg
   - alt: "TAPIA"
-    url: https://i0.wp.com/fvcproductions.files.wordpress.com/2015/03/tapia-2015-001.jpg
+    url: //i0.wp.com/fvcproductions.files.wordpress.com/2015/03/tapia-2015-001.jpg
   - alt: "TAPIA"
-    url: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/02/my-lanyard1.jpg
+    url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/02/my-lanyard1.jpg
 ---
 
 ## Name
 
-<a title="TAPIA" href="https://tapiaconference.org/" target="_blank" rel="noopener">ACM Richard Tapia Celebration of Diversity in Computing Conference</a>
+<a title="TAPIA" href="//tapiaconference.org/" target="_blank" rel="noopener">ACM Richard Tapia Celebration of Diversity in Computing Conference</a>
 
 ## Organizer
 

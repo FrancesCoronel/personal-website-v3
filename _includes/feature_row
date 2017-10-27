@@ -6,7 +6,7 @@
 
 <div class="feature__wrapper">
     {% for f in feature_row %}
-        {% if f.url contains "://" %}
+        {% if f.url contains "//" %}
             {% capture f_url %}
                 {{ f.url }}
             {% endcapture %}
@@ -18,7 +18,7 @@
         <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
             <div class="archive__item">
                 {% if f.image %}
-                    <div class="archive__item-teaser" style="background-image: url('{% if f.image contains '://' %}{{ f.image }}{% else %}{{ f.image | absolute_url }}{% endif %}');">
+                    <div class="archive__item-teaser" style="background-image: url('{% if f.image contains '//' %}{{ f.image }}{% else %}{{ f.image | absolute_url }}{% endif %}');">
                     </div>
                 {% endif %}
                 <div class="archive__item-body">

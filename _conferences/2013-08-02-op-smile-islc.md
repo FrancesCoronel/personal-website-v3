@@ -3,17 +3,17 @@ title: "ISLC 2013"
 excerpt: "International Student Leadership Conference"
 date: 2013-08-02
 header:
-  image: https://i0.wp.com/fvcproductions.files.wordpress.com/2015/11/screen-shot-2016-01-22-at-9-53-08-pm.jpg
+  image: //i0.wp.com/fvcproductions.files.wordpress.com/2015/11/screen-shot-2016-01-22-at-9-53-08-pm.jpg
 gallery:
     - alt: "ISLC 2013"
-      url: https://i0.wp.com/fvcproductions.files.wordpress.com/2015/11/screen-shot-2016-01-22-at-9-53-08-pm.jpg
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2015/11/screen-shot-2016-01-22-at-9-53-08-pm.jpg
     - alt: "ISLC 2013"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0844.jpg
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0844.jpg
 ---
 
 ## Name
 
-<a title="ISLC" href="https://studentprograms.operationsmile.org/events/islc/" target="_blank" rel="noopener">International Student Leadership Conference</a>
+<a title="ISLC" href="//studentprograms.operationsmile.org/events/islc/" target="_blank" rel="noopener">International Student Leadership Conference</a>
 
 ## Organizer
 

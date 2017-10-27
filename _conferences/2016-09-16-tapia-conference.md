@@ -3,39 +3,39 @@ title: "TAPIA 2016"
 excerpt: "ACM Richard Tapia Celebration of Diversity in Computing"
 date: 2016-09-16
 header:
-  image: https://fvcproductions.files.wordpress.com/2016/09/photo1.jpg
+  image: //fvcproductions.files.wordpress.com/2016/09/photo1.jpg
 gallery:
     - alt: "TAPIA 2016"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0717.jpg?w=233&h=1154&crop&ssl=1&zoom=2
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0717.jpg?w=233&h=1154&crop&ssl=1&zoom=2
     - alt: "TAPIA 2016"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0706.jpg?w=509&h=382&crop&ssl=1&zoom=2
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0706.jpg?w=509&h=382&crop&ssl=1&zoom=2
     - alt: "TAPIA 2016"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0704.jpg?w=479&h=359&crop&ssl=1&zoom=2
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0704.jpg?w=479&h=359&crop&ssl=1&zoom=2
     - alt: "TAPIA 2016"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0728.jpg?w=164&h=123&crop&ssl=1&zoom=2
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0728.jpg?w=164&h=123&crop&ssl=1&zoom=2
     - alt: "TAPIA 2016"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0715.jpg?w=509&h=382&crop&ssl=1&zoom=2
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0715.jpg?w=509&h=382&crop&ssl=1&zoom=2
     - alt: "TAPIA 2016"
-      url: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0701.jpg?w=509&h=382&crop&ssl=1&zoom=2
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0701.jpg?w=509&h=382&crop&ssl=1&zoom=2
     - alt: "TAPIA 2016"
-      url: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/09/dropbox-booth.gif?w=185&h=123&crop&ssl=1&zoom=2
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/09/dropbox-booth.gif?w=185&h=123&crop&ssl=1&zoom=2
     - alt: "TAPIA 2016"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0705.jpg?w=165&h=123&crop&ssl=1&zoom=2
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0705.jpg?w=165&h=123&crop&ssl=1&zoom=2
     - alt: "TAPIA 2016"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0723.jpg?w=220&h=123&crop&ssl=1&zoom=2
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0723.jpg?w=220&h=123&crop&ssl=1&zoom=2
     - alt: "TAPIA 2016"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0714.jpg?w=263&h=158&crop&ssl=1
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0714.jpg?w=263&h=158&crop&ssl=1
     - alt: "TAPIA 2016"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
     - alt: "TAPIA 2016"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0710.jpg?w=246&h=185&crop&ssl=1&zoom=2
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0710.jpg?w=246&h=185&crop&ssl=1&zoom=2
     - alt: "TAPIA 2016"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0707.jpg?w=246&h=185&crop&ssl=1&zoom=2
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0707.jpg?w=246&h=185&crop&ssl=1&zoom=2
 ---
 
 ## Name
 
-<a title="ACM Richard Tapia Celebration of Diversity in Computing" href="https://tapiaconference.org" target="_blank" rel="noopener">ACM Richard Tapia Celebration of Diversity in Computing</a>
+<a title="ACM Richard Tapia Celebration of Diversity in Computing" href="//tapiaconference.org" target="_blank" rel="noopener">ACM Richard Tapia Celebration of Diversity in Computing</a>
 
 ## Organizer
 
@@ -85,6 +85,6 @@ Needless to say, this year was friggin' amazing.
 
 > I'm the one in pink!
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/SonjaOttley/status/776506790724841472">Sonja Gittens Ottley on Twitter</a></h4><p>Meeting so many great students @Tapia_con, like these from our Startup breakfast co-hosted with @a16z! #Tapia2016</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="//twitter.com/SonjaOttley/status/776506790724841472">Sonja Gittens Ottley on Twitter</a></h4><p>Meeting so many great students @Tapia_con, like these from our Startup breakfast co-hosted with @a16z! #Tapia2016</p></blockquote>
 
 {% include gallery %}

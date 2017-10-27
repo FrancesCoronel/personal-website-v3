@@ -3,31 +3,31 @@ title: "Fluent Conference"
 excerpt: "Sponsored by OReilly."
 date: 2016-03-10
 header:
-    image: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0526.jpg
+    image: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0526.jpg
 gallery:
     - alt: "Fluent Conf"
-      url: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0510.jpg
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0510.jpg
     - alt: "Fluent Conf"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0491.jpg
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0491.jpg
     - alt: "Fluent Conf"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0484.jpg
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0484.jpg
     - alt: "Fluent Conf"
-      url: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0520.jpg
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0520.jpg
     - alt: "Fluent Conf"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0556.jpg
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0556.jpg
     - alt: "Fluent Conf"
-      url: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0527.jpg
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0527.jpg
     - alt: "Fluent Conf"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0526.jpg
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0526.jpg
     - alt: "Fluent Conf"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0502.jpg
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0502.jpg
     - alt: "Fluent Conf"
-      url: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0527.jpg
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0527.jpg
 ---
 
 ## Name
 
-<a title="Fluent Conference" href="https://conferences.oreilly.com/fluent/javascript-html-us/" target="_blank" rel="noopener">Fluent Conference</a>
+<a title="Fluent Conference" href="//conferences.oreilly.com/fluent/javascript-html-us/" target="_blank" rel="noopener">Fluent Conference</a>
 
 ## Organizer
 

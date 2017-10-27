@@ -16,7 +16,7 @@
     {% for img in gallery %}
         {% if img.url %}
             <a href=
-                {% if img.url contains "://" %}
+                {% if img.url contains "//" %}
                     "{{ img.url }}"
                 {% else %}
                     "{{ img.url | absolute_url }}"
@@ -25,7 +25,7 @@
                     title="{{ img.title }}"
                 {% endif %}>
                 <img src=
-                    {% if img.url contains "://" %}
+                    {% if img.url contains "//" %}
                         "{{ img.url }}"
                     {% else %}
                         "{{ img.url | absolute_url }}"

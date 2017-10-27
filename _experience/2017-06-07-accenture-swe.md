@@ -3,19 +3,19 @@ title: "Accenture Liquid Studio - Software Engineer"
 excerpt: "Software Engineer"
 date: 2017-06-07
 header:
-  image: https://i.imgur.com/2VW391R.jpg
+  image: //i.imgur.com/2VW391R.jpg
 gallery:
-  - url: https://i.imgur.com/2VW391R.jpg
+  - url: //i.imgur.com/2VW391R.jpg
     alt: "People Profile"
-  - url: https://i.imgur.com/l3pUvUR.png
+  - url: //i.imgur.com/l3pUvUR.png
     alt: "Internal Liquid Studio Website"
 ---
 
 ## Employer
 
-{% include figure url="https://i.imgur.com/xgLGmTV.jpg" alt="Accenture Liquid Studio - Silicon Valley" %}
+![Accenture Liquid Studio - Silicon Valley](//i.imgur.com/xgLGmTV.jpg)
 
-<a title="Accenture Liquid Studio" href="https://accenture.com/us-en/capability-rapid-application-development-studio" target="_blank" rel="noopener">Accenture Liquid Studio</a>
+<a title="Accenture Liquid Studio" href="//accenture.com/us-en/capability-rapid-application-development-studio" target="_blank" rel="noopener">Accenture Liquid Studio</a>
 
 ## Location
 

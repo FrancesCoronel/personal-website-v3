@@ -3,21 +3,21 @@ title: "React.js Conf"
 excerpt: "Sponsored by Facebook."
 date: 2016-02-23
 header:
-    image: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0413.jpg
+    image: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0413.jpg
 gallery:
     - alt: "React.js Conf"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0419.jpg
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0419.jpg
     - alt: "React.js Conf"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0411.jpg
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0411.jpg
     - alt: "React.js Conf"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0413.jpg
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0413.jpg
     - alt: "React.js Conf"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/react-js-swag.jpg
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/react-js-swag.jpg
 ---
 
 ## Name
 
-<a title="React.js Conf" href="https://conf.reactjs.com/" target="_blank" rel="noopener">React.js Conf</a>
+<a title="React.js Conf" href="//conf.reactjs.com/" target="_blank" rel="noopener">React.js Conf</a>
 
 ## Organizer
 

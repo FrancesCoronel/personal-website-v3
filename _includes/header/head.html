@@ -1,26 +1,27 @@
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="cleartype" content="on">
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Tell the browser it's a PWA -->
-    <meta name="mobile-web-app-capable" content="yes">
-    <!-- Tell iOS it's a PWA -->
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <!-- Make sure theme-color is defined -->
-    <meta name="theme-color" content="#253137">
-    <!-- Manifest -->
-    <link rel="manifest" href="{{ 'manifest.json' | absolute_url }}">
-    <!-- For IE10 Metro -->
-    <meta name="msapplication-TileColor" content="#FFFFFF">
-    <meta name="msapplication-TileImage" content="{{ 'assets/favicons/favicon-144.png' | absolute_url }}">
-    <!-- SEO -->
-    {% include base/seo.html %}
-    <!-- Favicons -->
-    {% include header/favicons.html %}
-    <!-- RSS Feed -->
-    <link rel="alternate" hreflang="en-us" href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}" type="application/atom+xml" title="{{ site.title }} - RSS Feed">
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}">
+  <meta charset="utf-8">
+  <meta http-equiv="cleartype" content="on">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Tell the browser it's a PWA -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <!-- Tell iOS it's a PWA -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <!-- Make sure theme-color is defined -->
+  <meta name="theme-color" content="#253137">
+  <!-- Manifest -->
+  <link rel="manifest" href="{{ '/manifest.json' | absolute_url }}">
+  <!-- For IE10 Metro -->
+  <meta name="msapplication-TileColor" content="#FFFFFF">
+  <meta name="msapplication-TileImage" content="{{ '/assets/favicons/favicon-144.png' | absolute_url }}">
+  <!-- SEO -->
+  {% include base/seo.html %}
+  <!-- Favicons -->
+  {% include header/favicons.html %}
+  <!-- RSS Feed -->
+  <link rel="alternate" hreflang="en-us" href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"
+    type="application/atom+xml" title="{{ site.title }} - RSS Feed">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}">
 </head>

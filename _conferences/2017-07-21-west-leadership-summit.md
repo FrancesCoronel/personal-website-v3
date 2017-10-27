@@ -3,27 +3,27 @@ title: "West AAERG/HAERG Leadership Summit"
 excerpt: "Accenture's annual leadership summit for African American and Hispanic American employees."
 date: 2017-07-21
 header:
-  image: https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-5.jpeg
+  image: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-5.jpeg
 gallery:
     - alt: "West Leadership Summit"
-      url: https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-7.jpg
+      url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-7.jpg
     - alt: "West Leadership Summit"
-      url: https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-6.jpeg
+      url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-6.jpeg
     - alt: "West Leadership Summit"
-      url: https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-5.jpeg
+      url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-5.jpeg
     - alt: "West Leadership Summit"
-      url: https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-4.jpeg
+      url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-4.jpeg
     - alt: "West Leadership Summit"
-      url: https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-3.jpeg
+      url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-3.jpeg
     - alt: "West Leadership Summit"
-      url: https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-2.jpg
+      url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-2.jpg
     - alt: "West Leadership Summit"
-      url: https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-1.jpg
+      url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-1.jpg
 ---
 
 ## Name
 
-<a title="West AAERG/HAERG Leadership Summit" href="https://www.accenture.com/us-en/company-diversity" target="_blank" rel="noopener">West AAERG/HAERG Leadership Summit</a>
+<a title="West AAERG/HAERG Leadership Summit" href="//www.accenture.com/us-en/company-diversity" target="_blank" rel="noopener">West AAERG/HAERG Leadership Summit</a>
 
 ## Organizer
 

@@ -1,23 +1,25 @@
 <div class="page__footer">
-    <footer>
-        <div class="page__footer-follow">
-            <ul class="social-icons">
-                {% include footer/footer-social.html %}
-            </ul>
-        </div>
-        <div class="page__footer-copyright">
-            <div class="col-6">
-                <p>&copy; {{ site.time | date: '%Y' }}
-                    <a href="{{ '/' | absolute_url }}">{{ site.title }}</a>
-                </p>
-            </div>
-            <div class="col-6">
-                <!-- <p><span id="ga-totalpageview">0</span> views</p> -->
-                <p>View
-                    <b>
-                        <a href="//github.com/fvcproductions/fvcproductions.github.io" target="_blank" rel="noopener">GitHub Repo</b>
-                    </a>
-            </div>
-        </div>
-    </footer>
+  <footer>
+    <div class="page__footer-follow">
+      <ul class="social-icons">
+        {% include footer/footer-social.html %}
+      </ul>
+    </div>
+    <div class="page__footer-copyright">
+      <div class="col-6">
+        <p>&copy; {{ site.time | date: '%Y' }}
+          <a href="{{ '/' | absolute_url }}">{{ site.title }}</a>
+        </p>
+      </div>
+      <div class="col-6">
+        <!-- <p><span id="ga-totalpageview">0</span> views</p> -->
+        <p>View
+          <b>
+            <a href="//github.com/fvcproductions/fvcproductions.github.io" target="_blank" rel="noopener">
+              GitHub Repo
+            </a>
+          </b>
+      </div>
+    </div>
+  </footer>
 </div>

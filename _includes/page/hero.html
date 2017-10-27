@@ -1,4 +1,4 @@
-{% if page.header.image contains "://" %}
+{% if page.header.image contains "//" %}
     {% capture img_path %}
         {{ page.header.image }}
     {% endcapture %}
@@ -8,7 +8,7 @@
     {% endcapture %}
 {% endif %}
 
-{% if page.header.cta_url contains "://" %}
+{% if page.header.cta_url contains "//" %}
     {% capture cta_path %}
         {{ page.header.cta_url }}
     {% endcapture %}
@@ -18,7 +18,7 @@
     {% endcapture %}
 {% endif %}
 
-{% if page.header.overlay_image contains "://" %}
+{% if page.header.overlay_image contains "//" %}
     {% capture overlay_img_path %}
         {{ page.header.overlay_image }}
     {% endcapture %}

@@ -3,7 +3,7 @@ title: "Experience 💼️"
 excerpt: "Don't cry because it's over, smile because it happened. -Dr. Seuss"
 permalink: /experience/
 header:
-    image: https://fvcproductions.files.wordpress.com/2016/07/accentureslc-1.jpeg
+    image: //fvcproductions.files.wordpress.com/2016/07/accentureslc-1.jpeg
 comments: false
 ---
 

@@ -3,33 +3,33 @@ title: "DeveloperWeek"
 excerpt: "Conference for developers in SF"
 date: 2016-02-17
 header:
-    image: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0270.jpg
+    image: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0270.jpg
 gallery:
     - alt: "DeveloperWeek"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_02551.jpg
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_02551.jpg
     - alt: "DeveloperWeek"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0383.jpg
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0383.jpg
     - alt: "DeveloperWeek"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0390.jpg
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0390.jpg
     - alt: "DeveloperWeek"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_02881.jpg
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_02881.jpg
     - alt: "DeveloperWeek"
-      url: https://i0.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0370.jpg
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0370.jpg
     - alt: "DeveloperWeek"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0313.jpg
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0313.jpg
     - alt: "DeveloperWeek"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0399.jpg
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0399.jpg
     - alt: "DeveloperWeek"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0270.jpg
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0270.jpg
     - alt: "DeveloperWeek"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_02481.jpg
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_02481.jpg
     - alt: "DeveloperWeek"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0335.jpg
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0335.jpg
 ---
 
 ## Name
 
-<a title="DeveloperWeek" href="https://developerweek.com" target="_blank" rel="noopener">DeveloperWeek</a>
+<a title="DeveloperWeek" href="//developerweek.com" target="_blank" rel="noopener">DeveloperWeek</a>
 
 ## Organizer
 

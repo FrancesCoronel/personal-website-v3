@@ -3,17 +3,17 @@ title: "Discover Accenture"
 excerpt: "Invited to explore Accenture as a potential full-time candidate."
 date: 2015-11-20
 header:
-  image: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0108.jpg
+  image: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0108.jpg
 gallery:
     - alt: "Discover Accenture"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/kate-selfie.jpg
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/kate-selfie.jpg
     - alt: "Discover Accenture"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0108.jpg
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0108.jpg
 ---
 
 ## Name
 
-<a title="Accenture" href="https://www.accenture.com/us-en" target="_blank" rel="noopener">Discover Accenture</a>
+<a title="Accenture" href="//www.accenture.com/us-en" target="_blank" rel="noopener">Discover Accenture</a>
 
 ## Organizer
 
