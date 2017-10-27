@@ -20,8 +20,7 @@
     <!-- Favicons -->
     {% include header/favicons.html %}
     <!-- RSS Feed -->
-    <link rel="alternate" hreflang="en-us" href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"
-        type="application/atom+xml" title="{{ site.title }} - RSS Feed">
+    <link rel="alternate" hreflang="en-us" href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}" type="application/atom+xml" title="{{ site.title }} - RSS Feed">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}">
 </head>

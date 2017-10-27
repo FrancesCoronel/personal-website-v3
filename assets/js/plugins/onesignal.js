@@ -9,21 +9,21 @@ OneSignal.push(["init", {
     size: 'medium', // One of 'small', 'medium', or 'large'
     theme: 'default', // One of 'default' (red-white) or 'inverse" (white-red)
     colors: { // Customize the colors of the main button and dialog popup button
-      'circle.background': 'rgb(37, 49, 55)',
+      'circle.background': 'rgb(96, 125, 139)',
       'circle.foreground': 'white',
-      'badge.background': 'rgb(37, 49, 55)',
+      'badge.background': 'rgb(96, 125, 139)',
       'badge.foreground': 'white',
       'badge.bordercolor': 'white',
       'pulse.color': 'white',
-      'dialog.button.background.hovering': 'rgb(77, 101, 113)',
-      'dialog.button.background.active': 'rgb(70, 92, 103)',
-      'dialog.button.background': 'rgb(37, 49, 55)',
+      'dialog.button.background.hovering': 'rgb(37, 49, 55)',
+      'dialog.button.background.active': 'rgb(37, 49, 55)',
+      'dialog.button.background': 'rgb(96, 125, 139)',
       'dialog.button.foreground': 'white'
     },
     position: 'bottom-left', // Either 'bottom-left' or 'bottom-right'
     offset: {
-      bottom: '0px',
-      left: '0px',
+      bottom: '20px',
+      left: '20px',
       /* Only applied if bottom-left */
       right: '0px' /* Only applied if bottom-right */
     },
