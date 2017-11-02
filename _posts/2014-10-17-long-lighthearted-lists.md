@@ -4,7 +4,7 @@ date: 2014-10-17
 excerpt: "Long lighthearted lists covering languages, old science fair project, coding
 bootcamps, cool places, TV shows, and conferences."
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/10/long-lists.jpg
+    image: //fvcproductions.files.wordpress.com/2014/10/long-lists.jpg
 tags:
     - bootcamp
     - Coding
@@ -37,7 +37,7 @@ Index
 
 ### Languages I've Been Seriously Exposed To
 
-![](https://www.clker.com/cliparts/5/9/c/2/1194984395619889880earth_globe_dan_gerhrads_01.svg.med.png)
+![](//www.clker.com/cliparts/5/9/c/2/1194984395619889880earth_globe_dan_gerhrads_01.svg.med.png)
 
 > These are listed in chronological order.
 
@@ -64,7 +64,7 @@ Index
 
 ### Old Science Fair Projects
 
-![](https://shaullelementary.oursciencefair.com/doc.ashx?id=1491)
+![](//shaullelementary.oursciencefair.com/doc.ashx?id=1491)
 
 -   7th Grade - February 2007
     -   The Effect of Different Kinds of Music on the Growth of Plants
@@ -81,7 +81,7 @@ Index
 ### Cool Places I Can Live When I'm Older
 
 [![Travel to
-Austin](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg?w=294)](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
+Austin](//fvcproductions.files.wordpress.com/2015/01/img_0074.jpg?w=294)](//fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
 
 -   Honolulu, Hawaii
 -   Miami, Florida
@@ -91,7 +91,7 @@ Austin](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg?w=294)](
 
 ### Random Materialistic Wish-List
 
-![](https://s3.amazonaws.com/rapgenius/Genie-image.gif)
+![](//s3.amazonaws.com/rapgenius/Genie-image.gif)
 
 -   Kinect X or Wii (Got a Kinect with money from eBay selling!)
 -   Karaoke Machine
@@ -103,7 +103,7 @@ Austin](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg?w=294)](
 
 ### Coding Bootcamp Experiences
 
-![](https://cdn.skilledup.com/wp-content/uploads/2013/08/coding-bootcamp.jpg)
+![](//cdn.skilledup.com/wp-content/uploads/2013/08/coding-bootcamp.jpg)
 
 -   May 2013 - I learned about coding bootcamps and what they were. The
     first bootcamps I heard about were App Academy and Dev Bootcamp. I
@@ -117,38 +117,38 @@ Austin](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg?w=294)](
     time web development sessions for the summer, but was unable to
     (unfortunately) attend any of them because I ended up taking summer
     college classes instead. Here are the bootcamps:
-    - [RefactorU](https://www.refactoru.com) - Boulder, Colorado
+    - [RefactorU](//www.refactoru.com) - Boulder, Colorado
         -   Applied, interviewed, accepted. Had an interesting
             conversation about an array of topics related to AI and the
             technological singularity with
-            [Sean](https://twitter.com/seandaken "Sean Daken - Twitter").
-    - [Bitmaker Labs](https://bitmakerlabs.com) - Toronto, Canada
+            [Sean](//twitter.com/seandaken "Sean Daken - Twitter").
+    - [Bitmaker Labs](//bitmakerlabs.com) - Toronto, Canada
         -   Applied, interviewed, accepted. The people there are SO
             nice - it's ridiculous. I did not feel nervous at all during
             the whole process. You can see more about my Bitmaker
             experience
             [here](/blog/2014/03/12/interview-bitmaker-labs/).
-    - [Code Fellows](https://www.codefellows.org/ "Code Fellows") -
+    - [Code Fellows](//www.codefellows.org/ "Code Fellows") -
         Seattle, Washington
         -   I applied for the Front-End Design & Development class in
             Seattle but did not go through with the interview. They
             understood and were pretty nice about it.
-    - [Dev Bootcamp](https://devbootcamp.com/ "Dev Bootcamp") - Chicago
+    - [Dev Bootcamp](//devbootcamp.com/ "Dev Bootcamp") - Chicago
         -   I applied for their main program at their Chicago site.
             Again, I submitted the application but did not go through
             with the rest.
-    - [HackerYou](https://hackeryou.com) - Toronto, Canada
+    - [HackerYou](//hackeryou.com) - Toronto, Canada
         -   Applied, chatted with founder
-            [Heather](https://twitter.com/heatherpayne "Heather Payne - Twitter"),
+            [Heather](//twitter.com/heatherpayne "Heather Payne - Twitter"),
             never ended up completing the rest of admissions process,
             but it was still a great chat.
-    - [Hackbright Academy](https://www.hackbrightacademy.com) - San
+    - [Hackbright Academy](//www.hackbrightacademy.com) - San
         Francisco, CA
         -   Applied, chatted with co-founder
-            [Christian](https://twitter.com/chriszf "Christian - Twitter")
+            [Christian](//twitter.com/chriszf "Christian - Twitter")
             and one of the instructors, never ended up completing the
             rest of admissions process.
-    - [RocketU](https://rocket-space.com/rocketu/ "RocketU") - San
+    - [RocketU](//rocket-space.com/rocketu/ "RocketU") - San
         Francisco, CA
         -   Applied, chatted with one of the admission officers but told
             them early on I would not be completing the process. They
@@ -158,26 +158,26 @@ Austin](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg?w=294)](
 
 ### Fun Tech-Related TV Shows
 
-![](https://fanart.tv/fanart/tv/277165/hdtvlogo/silicon-valley-534724dd97592.png)
+![](//fanart.tv/fanart/tv/277165/hdtvlogo/silicon-valley-534724dd97592.png)
 
-- [Silicon Valley](https://www.imdb.com/title/tt2575988/)
-- [The IT Crowd](https://www.imdb.com/title/tt0487831/)
-- [betas](https://www.imdb.com/title/tt3012184/)
+- [Silicon Valley](//www.imdb.com/title/tt2575988/)
+- [The IT Crowd](//www.imdb.com/title/tt0487831/)
+- [betas](//www.imdb.com/title/tt3012184/)
 
 
 
 ### Cool Conferences I Can Go To Eventually
 
-![](https://www.icwsm.org/2012/images/supported-by/aaai.png)
+![](//www.icwsm.org/2012/images/supported-by/aaai.png)
 
 - [National Convention for American
-    Atheists](https://atheists.org/convention2015)
+    Atheists](//atheists.org/convention2015)
 - [Conference of the North American Vegetarian
-    Society](https://www.vegetariansummerfest.org/index.htm)
+    Society](//www.vegetariansummerfest.org/index.htm)
 - [Conference of the Association for the Advancement of Artificial
     Intelligence
-    (AAAI)](https://www.aaai.org/Conferences/AAAI/aaai15.php) - I ended
+    (AAAI)](//www.aaai.org/Conferences/AAAI/aaai15.php) - I ended
     up doing just that! You can find more about that experience
-    [here](https://fvcproductions.com/blog/2015/01/30/adventures-with-aaai-2015/ "Adventures with AAAI").
+    [here](//fvcproductions.com/blog/2015/01/30/adventures-with-aaai-2015/ "Adventures with AAAI").
 
 

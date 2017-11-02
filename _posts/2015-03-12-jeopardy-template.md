@@ -3,7 +3,7 @@ title: "Keynote & Google Slides Template - Jeopardy Game"
 date: 2015-03-12
 excerpt: "Need a Jeopardy template? Look no further!"
 header:
-    image: https://fvcproductions.files.wordpress.com/2015/03/jeopardy-template.jpg?w=1024&h=436&crop=1
+    image: //fvcproductions.files.wordpress.com/2015/03/jeopardy-template.jpg?w=1024&h=436&crop=1
 tags:
     - behance
     - creations
@@ -32,31 +32,31 @@ tags:
 >
 > Enjoy! :smile:
 
-https://speakerdeck.com/fvcproductions/jeopardy-template-keynote
+//speakerdeck.com/fvcproductions/jeopardy-template-keynote
 
 -   **Download Keynote File at
-    [bit.ly/jeopardy-fvc](https://bit.ly/jeopardy-fvc "Jeopardy Template").**
+    [bit.ly/jeopardy-fvc](//bit.ly/jeopardy-fvc "Jeopardy Template").**
 -   **[Project on
-    Behance](https://www.behance.net/gallery/24112247/Jeopardy-Template-Keynote "Jeopardy Template | Behance")**
+    Behance](//www.behance.net/gallery/24112247/Jeopardy-Template-Keynote "Jeopardy Template | Behance")**
 -   **[View on Speaker
-    Deck](https://speakerdeck.com/fvcproductions/jeopardy-template-keynote "Speaker Deck | Jeopardy Template")**
+    Deck](//speakerdeck.com/fvcproductions/jeopardy-template-keynote "Speaker Deck | Jeopardy Template")**
 -   **External Fonts Used (download links)**
-    - [Gyparody](https://www.1001fonts.com/gyparody-font.html) (for
+    - [Gyparody](//www.1001fonts.com/gyparody-font.html) (for
         Jeopardy Title Slide)
-    - [Exposition](https://www.ffonts.net/Exposition.font) (for Last
+    - [Exposition](//www.ffonts.net/Exposition.font) (for Last
         Slide)
-    - [Square 721](https://www.fontyukle.net/en/1,Square721) (for
+    - [Square 721](//www.fontyukle.net/en/1,Square721) (for
         Prize Money Numbers)
 
 
-https://speakerdeck.com/fvcproductions/jeopardy-template-google-slides
+//speakerdeck.com/fvcproductions/jeopardy-template-google-slides
 
 -   **Make your own copy at
-    [bit.ly/jeopardy-google-slides](https://bit.ly/jeopardy-google-slides "Jeopardy Template | Google Slides").**
+    [bit.ly/jeopardy-google-slides](//bit.ly/jeopardy-google-slides "Jeopardy Template | Google Slides").**
 -   **[View on Speaker
-    Deck](https://speakerdeck.com/fvcproductions/jeopardy-template-google-slides "Speaker Deck | Jeopardy Template").**
+    Deck](//speakerdeck.com/fvcproductions/jeopardy-template-google-slides "Speaker Deck | Jeopardy Template").**
 
-[![MakeCopy](https://fvcproductions.files.wordpress.com/2015/05/makecopy.gif)](https://fvcproductions.files.wordpress.com/2015/05/makecopy.gif)
+[![MakeCopy](//fvcproductions.files.wordpress.com/2015/05/makecopy.gif)](//fvcproductions.files.wordpress.com/2015/05/makecopy.gif)
 MakeCopy
 
 

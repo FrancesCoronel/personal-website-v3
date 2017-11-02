@@ -3,7 +3,7 @@ title: "POTC - Parchment Riddle 📜"
 date: 2013-08-03
 excerpt: "A riddle inspired by Pirates of the Caribbean."
 header:
-    image: https://fvcproductions.files.wordpress.com/2013/08/father_and_son.jpg?w=800&h=340&crop=1
+    image: //fvcproductions.files.wordpress.com/2013/08/father_and_son.jpg?w=800&h=340&crop=1
 tags:
     - BARBOSSA
     - Black Beard
@@ -25,7 +25,7 @@ You are permitted to pick out one of the pieces of parchments (without looking),
 
 Otherwise, the death sentence is carried out and YOUR LIFE WILL BE SUCKED UP CLEAN by BLACK BEARD.
 
-{% include figure url="https://fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-32-03-am.png" alt="Before Barbossa Screwed You Over" %}
+{% include figure url="//fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-32-03-am.png" title="Before Barbossa Screwed You Over" %}
 
 However, BARBOSSA, one of your worst ENEMIES, wanting to get rid of you forever, has substituted the piece of parchment with "LIFE" written on it with another piece of parchment labeled "DEATH".
 
@@ -37,7 +37,7 @@ Barbossa has also made sure you have absolutely no chance to switch the paper or
 
 How will you, Captain Jack Sparrow, avoid CERTAIN DEATH???
 
-{% include figure url="https://fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-36-48-am.png" alt="After Barbossa Screwed You Over" %}
+{% include figure url="//fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-36-48-am.png" title="After Barbossa Screwed You Over" %}
 
 ---
 

@@ -3,7 +3,7 @@ title: "First Week at Fullstack Academy 😮"
 date: 2015-06-13
 excerpt: There are 58 days in Fullstack. These are the first 5. Let's begin.
 header:
-    image: https://fvcproductions.files.wordpress.com/2015/06/fullstack-academy-week-1-001.jpg
+    image: //fvcproductions.files.wordpress.com/2015/06/fullstack-academy-week-1-001.jpg
 tags:
     - coding bootcamp experience
     - coding bootcamps
@@ -51,7 +51,7 @@ Day Three - Wednesday
 -   I took a picture of my workplace today.
 
 [![Workstation - Fullstack Academy - Week
-1](https://fvcproductions.files.wordpress.com/2015/06/img_0083.jpg?w=660)](https://fvcproductions.files.wordpress.com/2015/06/img_0083.jpg)
+1](//fvcproductions.files.wordpress.com/2015/06/img_0083.jpg?w=660)](//fvcproductions.files.wordpress.com/2015/06/img_0083.jpg)
 
 -   Fun Jeopardy game today.
     -   My team is called **Bubbles** after bubble sort.
@@ -110,7 +110,7 @@ Day Five - Friday
 > > using a song…
 
  \
-https://www.youtube.com/watch?v=t-yCg-0-baE\
+//www.youtube.com/watch?v=t-yCg-0-baE\
 Just sayin'. :roll:
 
 ### Journey Into the Cave of Digital Hieroglyphics
@@ -118,22 +118,22 @@ Just sayin'. :roll:
 > So Far
 
 - [The
-    Search](https://fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
+    Search](//fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
 - [The
-    Application](https://fvcproductions.com/blog/2014/12/23/week-20/ "The Application")
+    Application](//fvcproductions.com/blog/2014/12/23/week-20/ "The Application")
 - [The
-    Preparation](https://fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
+    Preparation](//fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
 - [The
-    Interview](https://fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/ "The Interview")
+    Interview](//fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/ "The Interview")
 - [The
-    Decision](https://fvcproductions.com/blog/2015/04/13/what-to-do-week-negative-8/ "The Decision")
+    Decision](//fvcproductions.com/blog/2015/04/13/what-to-do-week-negative-8/ "The Decision")
 - [Fullstack Foundations - Week
-    1](https://fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
+    1](//fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
 - [Fullstack Foundations - Weeks 2 -
-    4](https://fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
+    4](//fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
 - [Fullstack Academy - Week
-    1](https://fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/)
+    1](//fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/)
 
 > *Tips or tricks?* :idea:
 >
-> > Tweet me at [`@fvcproductions`](https://twitter.com/fvcproductions).
+> > Tweet me at [`@fvcproductions`](//twitter.com/fvcproductions).

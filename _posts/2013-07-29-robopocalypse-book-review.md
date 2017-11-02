@@ -3,7 +3,7 @@ title: "Robopocalypse - Book Review 🤖️"
 date: 2013-07-29
 excerpt: "A book review on 'Robopocalypse' by Daniel Wilson."
 header:
-    image: https://fvcproductions.files.wordpress.com/2013/07/what_if_____ws_by_casperium6.jpg?w=1024&h=435&crop=1
+    image: //fvcproductions.files.wordpress.com/2013/07/what_if_____ws_by_casperium6.jpg?w=1024&h=435&crop=1
 tags:
     - AI
     - archos
@@ -22,7 +22,7 @@ tags:
 
 > SO I have a mild obsession with this notion of A.I. and so naturally when my English teacher asks me for a book review, I'm gonna give her one relating to some sweet dear honey-eyed robots.
 >
-> Bam dum - NO! More like some seething damn homicidal eye sentient androids. HELL YES - I refer to the one and only... Robopocalypse. Kudos goes to the author's (Daniel Wilson by the way - check him out: <https://danielhwilson.com/>) writing, kept me on the tips of my toes from start to finish the first AND second time reading it. Not so much the third to fourth time reading it, but the magic can't always stay.
+> Bam dum - NO! More like some seething damn homicidal eye sentient androids. HELL YES - I refer to the one and only... Robopocalypse. Kudos goes to the author's (Daniel Wilson by the way - check him out: <//danielhwilson.com/>) writing, kept me on the tips of my toes from start to finish the first AND second time reading it. Not so much the third to fourth time reading it, but the magic can't always stay.
 >
 > Any who, here is a book review dedicated to an exceptional novel. The book review was created in March 2013 for an English assignment.
 

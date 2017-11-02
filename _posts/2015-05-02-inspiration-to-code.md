@@ -11,7 +11,7 @@ tags:
     - plans in motion
 excerpt: Back in December of last year, I was browsing through Kickstarter - eager to spend my limited college student cash on something awesome. I found Hollow Knight.
 header:
-    image: https://i.stack.imgur.com/7cBUc.jpg
+    image: //i.stack.imgur.com/7cBUc.jpg
 ---
 
 ## What influenced and inspired you to learn how to code?

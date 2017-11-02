@@ -166,3 +166,29 @@ boys parents reunite with girls parents and applaud each other on a job well don
 ## Liar, Liar
 
 A video showing different clips throughout history of people lying in real life (e.g. Bill Cosby, Richard Nixon, Bill Clinton, etc).
+
+---
+
+Rosi’s Story
+I just had an epiphany.
+
+Standing in the room of my sister, as I canter towards the multitude of desks sparsely coordinated on the edge of her room, I experience this epiphany.
+
+Classical music lulls the brief silence I had coming rom the stairs like an enchanting, mysterious lullaby.
+
+I flick the light switch and there lay the wondrous beast dosing in her slumber.
+
+That was a joke. I would never call my sister a beast, I only say that to amuse you and to amuse myself.
+
+Ha.
+
+As I was saying, she lay there for what it seemed a full minute until her eyes dilated and squinted at the haze of light that casted upon her room.
+
+Beautiful, awakening, and alive.
+
+She’s human, she’s not mecha. She’s always had a great idea of this technology spread around the walls of her room.
+
+In fact, she has the most embellished room of the house, layered with posters and printouts that she had collected from online.
+
+I’ve come to realize that my sister is very fond of collecting old things that the members of my family have lost respect for.
+

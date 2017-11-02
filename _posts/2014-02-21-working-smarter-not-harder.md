@@ -3,7 +3,7 @@ title: "Working Smarter, Not Harder"
 date: 2014-02-21
 excerpt: "Work smarter, not harder with these key study strategies."
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/03/book.jpg
+    image: //fvcproductions.files.wordpress.com/2014/03/book.jpg
 tags:
     - essays
     - exams
@@ -179,7 +179,7 @@ Also, if you feel anything you're doing could be completed
 automatically, either by an intelligent algorithm currently online or a
 cyborg/intelligent algorithm in the **NEAR** future, try to avoid doing
 more of that, or [you're probably not gonna have a job
-later](https://www.economist.com/news/briefing/21594264-previous-technological-innovation-has-always-delivered-more-long-run-employment-not-less "Economist Article on Tech Replacing People").
+later](//www.economist.com/news/briefing/21594264-previous-technological-innovation-has-always-delivered-more-long-run-employment-not-less "Economist Article on Tech Replacing People").
 :|
 
 **It is VERY possible to complete all the necessary school work while

@@ -3,7 +3,7 @@ title: "How Texting Has An Impact on Relationships 📵️"
 date: 2010-12-13
 excerpt: "Talks about the mainly negative impact of texting on relationships."
 header:
-    image: https://fvcproductions.files.wordpress.com/2013/08/old-technology-never-forget.jpg?w=1024&h=436&crop=1
+    image: //fvcproductions.files.wordpress.com/2013/08/old-technology-never-forget.jpg?w=1024&h=436&crop=1
 tags:
     - awkward silences
     - essay talks

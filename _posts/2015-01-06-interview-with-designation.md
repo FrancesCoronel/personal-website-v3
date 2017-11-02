@@ -3,7 +3,7 @@ title: "Interview with Designation"
 date: 2015-01-06
 excerpt: "My interview with Designation."
 header:
-    image: https://fvcproductions.files.wordpress.com/2015/01/open_graph.jpg?w=1024&h=435&crop=1
+    image: //fvcproductions.files.wordpress.com/2015/01/open_graph.jpg?w=1024&h=435&crop=1
 tags:
     - accepted
     - aftermath
@@ -36,14 +36,14 @@ tags:
     - yield rate
 ---
 
-[![](https://designation.io/downloads/designation_logo_black/designation_vertical_black.png)](https://designation.io)
+[![](//designation.io/downloads/designation_logo_black/designation_vertical_black.png)](//designation.io)
 
-Interview with [Designation.io](https://designation.io "Designation")
+Interview with [Designation.io](//designation.io "Designation")
 ====================================================================
 
 
 
-### with [Will Shandling](https://www.linkedin.com/in/wshandling "Will Shandling")
+### with [Will Shandling](//www.linkedin.com/in/wshandling "Will Shandling")
 
 > answers are paraphrased or just referenced verbatim
 >
@@ -174,7 +174,7 @@ Aftermath
     your deposit
 -   Remaining tuition is due 2 weeks before class starts
 -   You get set up with an account on
-    [Lynda.com](https://lynda.com "Lynda") once you pay the first
+    [Lynda.com](//lynda.com "Lynda") once you pay the first
     deposit.
 -   The total cost of the program is \$6K.
 -   You have to officially confirm your acceptance no later than 1 week
@@ -187,4 +187,4 @@ Aftermath
 > Tips or tricks?
 >
 > > Contact me
-> > [@fvcproductions](https://twitter.com/fvcproductions "Twitter - FVCproductions")
+> > [@fvcproductions](//twitter.com/fvcproductions "Twitter - FVCproductions")

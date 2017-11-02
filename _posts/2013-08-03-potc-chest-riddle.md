@@ -4,7 +4,7 @@ date: 2013-08-03
 excerpt: "Here's a little riddle that is based on a very recognized riddle,
 except it uses POTC references."
 header:
-    image: https://fvcproductions.files.wordpress.com/2013/08/dmc.jpg?w=1024&h=435&crop=1
+    image: //fvcproductions.files.wordpress.com/2013/08/dmc.jpg?w=1024&h=435&crop=1
 tags:
     - aviation
     - Benito de Soto
@@ -26,11 +26,11 @@ tags:
 
 ## Here's a little riddle that is based on a very recognized riddle, except it uses POTC references.
 
-So basically it's like [Star Trek Monopoly](https://www.amazon.com/USAopoly-MN066-201-Monopoly-Star-Continuum/dp/B001SN8G8G "Star Trek Monopoly"), a spoof of the original.
+So basically it's like [Star Trek Monopoly](//www.amazon.com/USAopoly-MN066-201-Monopoly-Star-Continuum/dp/B001SN8G8G "Star Trek Monopoly"), a spoof of the original.
 
 Made it up on by own and really love it so hope you do too.
 
-{% include figure url="https://fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-08-46-am.png" alt="POTC riddle" %}
+{% include figure url="//fvcproductions.files.wordpress.com/2013/08/screen-shot-2013-08-03-at-2-08-46-am.png" title="POTC riddle" %}
 
 You are Jack Sparrow, Captain Jack Sparrow of the Black Pearl, and are on a journey to discover untold riches of the long gone Spanish pirate Benito de Soto.
 
@@ -70,10 +70,10 @@ OR
 
 So if you were able to figure it out, HUZZAH! Here's Jack congratulating you on a job well done.
 
-{% include figure url="https://i174.photobucket.com/albums/w99/bandkock/pirates3news/JackSaoCrew.jpg" alt="Well done, mate!" %}
+{% include figure url="//i174.photobucket.com/albums/w99/bandkock/pirates3news/JackSaoCrew.jpg" title="Well done, mate!" %}
 
 If not...
 
 TO DAVY JONE'S LOCKER WITH YA!
 
-{% include figure url="https://fc09.deviantart.net/fs71/f/2012/091/8/8/888932a04770474f05192ad81845df50-d4uoswh.jpg" alt="Aww, but it's the chibi version.." %}
+{% include figure url="//fc09.deviantart.net/fs71/f/2012/091/8/8/888932a04770474f05192ad81845df50-d4uoswh.jpg" title="Aww, but it's the chibi version.." %}

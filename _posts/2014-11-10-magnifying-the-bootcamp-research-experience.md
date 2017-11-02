@@ -3,7 +3,7 @@ title: "Magnifying the Bootcamp Research Experience"
 date: 2014-11-10
 excerpt: "The coding bootcamp ultimatum."
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/11/hack-reactor-interior.jpg?w=1024&h=435&crop=1
+    image: //fvcproductions.files.wordpress.com/2014/11/hack-reactor-interior.jpg?w=1024&h=435&crop=1
 tags:
     - app academy
     - bootcamper.io
@@ -54,7 +54,7 @@ used/am using several different websites.
 
 So today we'll be looking at each of these compare/finder websites for
 CBs by analyzing the prominent [**Hack
-Reactor**](https://hackreactor.com) bootcamp on each website.
+Reactor**](//hackreactor.com) bootcamp on each website.
 
 For each of these sites, I'll be annotating the design interface
 directly with my personal critiques (**if I have any to give**) just
@@ -82,10 +82,10 @@ few months.
 
 I mean, it's a pretty big decision, y'all! ;)
 
-> Made with love on [**Byword 2**](https://bywordapp.com).
+> Made with love on [**Byword 2**](//bywordapp.com).
 >
 > > Source file
-> > [here](https://github.com/fvcproductions/blogging/blob/master/to%20publish/Comparisons/Comparing%20Bootcamp%20Sites%20with%20Hack%20Reactor.txt "Byword Source File").
+> > [here](//github.com/fvcproductions/blogging/blob/master/to%20publish/Comparisons/Comparing%20Bootcamp%20Sites%20with%20Hack%20Reactor.txt "Byword Source File").
 
 
 
@@ -104,19 +104,19 @@ I mean, it's a pretty big decision, y'all! ;)
 
 
 
-### [![Bootcamper](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-52-50.png?w=300)](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-52-50.png)
+### [![Bootcamper](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-52-50.png?w=300)](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-52-50.png)
 
-### [**Bootcamper**](https://bootcamper.io)
+### [**Bootcamper**](//bootcamper.io)
 
-[![Bootcamper](https://fvcproductions.files.wordpress.com/2014/11/bootcamper.jpg?w=676)](https://fvcproductions.files.wordpress.com/2014/11/bootcamper.jpg)
+[![Bootcamper](//fvcproductions.files.wordpress.com/2014/11/bootcamper.jpg?w=676)](//fvcproductions.files.wordpress.com/2014/11/bootcamper.jpg)
 
 This is the page for [HackReactor on
-*Bootcamper*](https://bootcamper.io/schools/hack-reactor).
+*Bootcamper*](//bootcamper.io/schools/hack-reactor).
 
 > 💡About **Bootcamper**
 >
 > > Bootcamper was founded by Aleksandr M., who according to his
-> > [Twitter](https://twitter.com/braincomb), is "a self-proclaimed
+> > [Twitter](//twitter.com/braincomb), is "a self-proclaimed
 > > code-penguin because monkeys are too cliché" 😆 . Bootcamper wants
 > > their website to be the "one-stop resource for all things bootcamps"
 > > and "wants to make it easier for everyone to find, learn about,
@@ -127,7 +127,7 @@ This is the page for [HackReactor on
 -   purty
     -   minimal design makes for more fun
 -   plenty of reviews in the comment section
-    -   using the [Disqus](https://disqus.com "Disqus") platform was a
+    -   using the [Disqus](//disqus.com "Disqus") platform was a
         great idea!
 -   makes use of other features
     -   twitter timeline
@@ -149,20 +149,20 @@ This is the page for [HackReactor on
 
 
 
-[![Bootcamps.in](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-21-09-41.png)](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-21-09-41.png)
+[![Bootcamps.in](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-21-09-41.png)](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-21-09-41.png)
 
-### **[Bootcamps.in](https://bootcamps.in)**
+### **[Bootcamps.in](//bootcamps.in)**
 
-[![Bootcamps.in](https://fvcproductions.files.wordpress.com/2014/11/bootcamps-in.png?w=676)](https://fvcproductions.files.wordpress.com/2014/11/bootcamps-in.png)
+[![Bootcamps.in](//fvcproductions.files.wordpress.com/2014/11/bootcamps-in.png?w=676)](//fvcproductions.files.wordpress.com/2014/11/bootcamps-in.png)
 
 This is the page for [HackReactor on
-*Bootcamps.in*](https://www.bootcamps.in/san-francisco/hack-reactor/).
+*Bootcamps.in*](//www.bootcamps.in/san-francisco/hack-reactor/).
 
 > 💡About Bootcamps.in
 >
 > > This website was founded roughly 2 years ago, some time after
 > > November 2012, which is when the founder, Dmitri, unfortunately did
-> > not get accepted to [*App Academy*](https://www.appacademy.io).
+> > not get accepted to [*App Academy*](//www.appacademy.io).
 > > Dmitri then came up with the idea to create Bootcamps.in so that
 > > potential students can compare programming schools side-by-side.
 
@@ -210,20 +210,20 @@ This is the page for [HackReactor on
 
 
 
-![](https://media.licdn.com/mpr/mpr/jc/p/3/005/083/356/339a18e.png)
+![](//media.licdn.com/mpr/mpr/jc/p/3/005/083/356/339a18e.png)
 
-### [**Course Report**](https://coursereport.com)
+### [**Course Report**](//coursereport.com)
 
-[![Coursereport](https://fvcproductions.files.wordpress.com/2014/11/coursereport.png?w=676)](https://fvcproductions.files.wordpress.com/2014/11/coursereport.png)
+[![Coursereport](//fvcproductions.files.wordpress.com/2014/11/coursereport.png?w=676)](//fvcproductions.files.wordpress.com/2014/11/coursereport.png)
 
 This is the page for [HackReactor on *Course
-Report*](https://www.coursereport.com/schools/hack-reactor).
+Report*](//www.coursereport.com/schools/hack-reactor).
 
 > 💡About Course Report
 >
 > > CourseReport is a relatively new CB finder that was founded just
 > > last year in 2013 by some alumni from
-> > [*LivingSocial*](https://livingsocial.com). This website features
+> > [*LivingSocial*](//livingsocial.com). This website features
 > > reviews, application tips, founder/student interviews, and resources
 > > to help the hopeful bootcamp participants choose the bootcamp that's
 > > right for them.
@@ -269,14 +269,14 @@ Report*](https://www.coursereport.com/schools/hack-reactor).
 
 
 
-![](https://www.thinkful.com/microsites/static/bootcamps/assets/BF_logo.png)
+![](//www.thinkful.com/microsites/static/bootcamps/assets/BF_logo.png)
 
-### [**Thinkful Bootcamp Finder**](https://www.thinkful.com/bootcamps/)
+### [**Thinkful Bootcamp Finder**](//www.thinkful.com/bootcamps/)
 
-[![Thinkful](https://fvcproductions.files.wordpress.com/2014/11/thinkful.jpg?w=617)](https://fvcproductions.files.wordpress.com/2014/11/thinkful.jpg)
+[![Thinkful](//fvcproductions.files.wordpress.com/2014/11/thinkful.jpg?w=617)](//fvcproductions.files.wordpress.com/2014/11/thinkful.jpg)
 
 This is the page for [HackReactor on the *Thinkful Bootcamp
-Finder*](https://www.thinkful.com/bootcamps/hack-reactor).
+Finder*](//www.thinkful.com/bootcamps/hack-reactor).
 
 > 💡About **Thinkful Bootcamp Finder**
 >
@@ -309,7 +309,7 @@ Finder*](https://www.thinkful.com/bootcamps/hack-reactor).
         of websites because they provide perspective to hopefuls - but
         unfortunately the best in depth reviews I could find of some of
         these bootcamps are all located on friggin'
-        [*Quora*](https://quora.com) which is fine, but they need to be
+        [*Quora*](//quora.com) which is fine, but they need to be
         shared with others too
 -   only 2 filters
     -   by topic and city (individually, not simultaneously)
@@ -325,17 +325,17 @@ Finder*](https://www.thinkful.com/bootcamps/hack-reactor).
 
 
 
-![](https://blog.lendlayer.com/content/images/2014/Oct/Switch-Logo.png)
+![](//blog.lendlayer.com/content/images/2014/Oct/Switch-Logo.png)
 
-### [**Switchup**](https://switchup.org)
-[![Switch](https://fvcproductions.files.wordpress.com/2014/11/switch.jpg?w=660)](https://fvcproductions.files.wordpress.com/2014/11/switch.jpg)
+### [**Switchup**](//switchup.org)
+[![Switch](//fvcproductions.files.wordpress.com/2014/11/switch.jpg?w=660)](//fvcproductions.files.wordpress.com/2014/11/switch.jpg)
 
 This is the page for [HackReactor on
-*Switchup*](https://www.switchup.org/bootcamps/hack-reactor).
+*Switchup*](//www.switchup.org/bootcamps/hack-reactor).
 
 > 💡About **Switchup**
 >
-> > An alumnus of [Launch Academy](https://www.launchacademy.com) in
+> > An alumnus of [Launch Academy](//www.launchacademy.com) in
 > > Boston, Jonathan Lau created Switchup, which aims to ease the
 > > process of anybody researching or looking to switch their careers
 > > into tech through a coding bootcamp by providing admissions
@@ -399,24 +399,24 @@ This is the page for [HackReactor on
 
 ### 📡 **Other Resources**
 
-![](https://www.techendo.com/assets/techendo_faces_logo.png)
+![](//www.techendo.com/assets/techendo_faces_logo.png)
 
-- [Techendo](https://techendo.com)
+- [Techendo](//techendo.com)
     -   rates accelerators, tech-related books, software, accelerators,
         venture capitalists, development schools (aka coding bootcamps),
         etc. based on reviews
-    -   has a [leaderboard](https://schools.techendo.com/leaderboard)
+    -   has a [leaderboard](//schools.techendo.com/leaderboard)
         for the top "Development Schools"
         -   according to Techendo, [HackReactor is number
-            one](https://schools.techendo.com/schools/hack-reactor)
+            one](//schools.techendo.com/schools/hack-reactor)
         -   …however, this is only based on 10 positive reviews, so
             still needs some more data
 
 [![Firehose
-Project](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-58.png?w=676)](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-58.png)
+Project](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-58.png?w=676)](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-58.png)
 
 - ["The Definitive Guide To Choosing a Bootcamp" -
-    theFirehoseProject](https://www.thefirehoseproject.com/definitive-guide)
+    theFirehoseProject](//www.thefirehoseproject.com/definitive-guide)
     -   theFirehouseProject itself is a new immersive online
         apprenticeship targeted to those who want to become a full-stack
         web developer
@@ -429,16 +429,16 @@ Project](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-0
         **everything** you need to know
 
 [![Hack
-App](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-45.png)](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-45.png)
+App](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-45.png)](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-45.png)
 
-- [hack\_app](https://hackapp.co)
+- [hack\_app](//hackapp.co)
     -   Some CBs have it where you can quickly apply directly through
         their sites, others have more interactive applications &
         pre-work through coding challenges like with
-        [MakerSquare](https://makersquare.gitbooks.io/preparing-for-makersquare/content/index.html),
-        [HackReactor](https://admissions.hackreactor.com),
-        [Flatiron](https://prework.flatironschool.com),
-        [Fullstack](https://www.fullstackacademy.com/interview_prep),
+        [MakerSquare](//makersquare.gitbooks.io/preparing-for-makersquare/content/index.html),
+        [HackReactor](//admissions.hackreactor.com),
+        [Flatiron](//prework.flatironschool.com),
+        [Fullstack](//www.fullstackacademy.com/interview_prep),
         etc., and still others might use hack\_app, which is an
         application portal dedicated to making it easy for users to
         research and apply to CBs.
@@ -446,21 +446,21 @@ App](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20
         UI/UX so if you really want a swift and easy app process, I'd go
         with hack\_app.
 
-[![](https://cdn.evbuc.com/eventlogos/1546045/code2040transparency.png)](https://cdn.evbuc.com/eventlogos/1546045/code2040transparency.png)
+[![](//cdn.evbuc.com/eventlogos/1546045/code2040transparency.png)](//cdn.evbuc.com/eventlogos/1546045/code2040transparency.png)
 
-- [Code2040 - Playbook](https://playbook.code2040.org)
+- [Code2040 - Playbook](//playbook.code2040.org)
     -   This is great not just for minorities interested in tech, but
         just for anyone who wants a really great layout of what's
         recommend before applying and interviewing for a software
         development internship. This sort of logic applies for
         competitive coding bootcamps as well, so get out there! :) The
         founder of the organization, [Tristan
-        Walker](https://www.fastcompany.com/3037933/the-visible-man "Tristan Walker - Fast Company"),
+        Walker](//www.fastcompany.com/3037933/the-visible-man "Tristan Walker - Fast Company"),
         is also friggin' awesome.
 
 [\
-](https://fvcproductions.files.wordpress.com/2014/11/hack-reactor-interior.jpg)
-[![MakerSquare](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-20-46-39.png?w=676)](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-20-46-39.png)
+](//fvcproductions.files.wordpress.com/2014/11/hack-reactor-interior.jpg)
+[![MakerSquare](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-20-46-39.png?w=676)](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-20-46-39.png)
 
 -   Resources the CBs Provide
     -   Bootcamps who are really passionate about their goal tend to
@@ -472,34 +472,34 @@ App](https://fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20
         particular order to get ya started (mind you, for some of these,
         you may have to sign up):
         - [Fullstack Academy - Interview
-            Prep](https://www.fullstackacademy.com/interview_prep)
+            Prep](//www.fullstackacademy.com/interview_prep)
         - [MakerSquare - Prep
-            Work](https://learn.makersquare.com/signin)
+            Work](//learn.makersquare.com/signin)
         - [Hack Reactor - Prepare for the Admissions
-            Challenge](https://www.hackreactor.com/prepare-for-admissions-challenge)
+            Challenge](//www.hackreactor.com/prepare-for-admissions-challenge)
         - [App Academy - Prep
-            Work](https://github.com/appacademy/prep-work)
-        - [Flatiron - Prework](https://prework.flatironschool.com)
-        - [General Assembly - Dash](https://dash.generalassemb.ly)
+            Work](//github.com/appacademy/prep-work)
+        - [Flatiron - Prework](//prework.flatironschool.com)
+        - [General Assembly - Dash](//dash.generalassemb.ly)
         - [Launch Academy -
-            Codecabuary](https://www.launchacademy.com/codecabulary)
+            Codecabuary](//www.launchacademy.com/codecabulary)
         - [Code Fellows - Git
-            Book](https://fsje.codefellows.org/index.html)
+            Book](//fsje.codefellows.org/index.html)
 
-![](https://portland.startupweekend.org/files/2013/11/Treehouse-Logo-With-Text.png)
+![](//portland.startupweekend.org/files/2013/11/Treehouse-Logo-With-Text.png)
 
 -   And of course you can't go wrong with your more typical, well-known
     resources for learning how to love `{code}`…
-    - [Codecademy](https://codecademy.com)
-    - [Code School](https://codeschool.com)
-    - [Treehouse](https://teamtreehouse.com)
-    - [Typing.io](https://typing.io)
-    - [Code Combat](https://codecombat.com)
-    - [codewars](https://codewars.com)
-    - [topcoder](https://www.topcoder.com)
+    - [Codecademy](//codecademy.com)
+    - [Code School](//codeschool.com)
+    - [Treehouse](//teamtreehouse.com)
+    - [Typing.io](//typing.io)
+    - [Code Combat](//codecombat.com)
+    - [codewars](//codewars.com)
+    - [topcoder](//www.topcoder.com)
 
-[![quora\_icon](https://fvcproductions.files.wordpress.com/2014/11/quora_icon.png)](https://fvcproductions.files.wordpress.com/2014/11/quora_icon.png)General
-Tip: [Quora](https://quora.com) usually has a ton of useful answers for
+[![quora\_icon](//fvcproductions.files.wordpress.com/2014/11/quora_icon.png)](//fvcproductions.files.wordpress.com/2014/11/quora_icon.png)General
+Tip: [Quora](//quora.com) usually has a ton of useful answers for
 this very question too… why does Quora have to be so awesome, geez. 😏
 
 
@@ -520,9 +520,9 @@ this very question too… why does Quora have to be so awesome, geez. 😏
 > 🔧**Tips or Tricks?**
 >
 > > Tweet me at
-> > [@fvcproductions](https://twitter.com/fvcproductions "FVCproductions on Twitter")
+> > [@fvcproductions](//twitter.com/fvcproductions "FVCproductions on Twitter")
 > > 🐦
 
 **Cheers!** 😃
 
-https://twitter.com/MarcoMorawec/status/537036957851721728\]
+//twitter.com/MarcoMorawec/status/537036957851721728\]

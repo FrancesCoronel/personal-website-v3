@@ -3,14 +3,14 @@ title: "My Time in Tanzania 🌍"
 date: 2012-07-30
 excerpt: "All the blog posts from my time in Tanzania studying wildlife research techniques."
 header:
-    image: https://fvcproductions.files.wordpress.com/2013/07/serengeti-292.jpg
+    image: //fvcproductions.files.wordpress.com/2013/07/serengeti-292.jpg
 ---
 
 > I created a very brief diary while in Tanzania and thought I would go ahead and share my experience.
 
 ## Context
 
-I took a "Wildlife Research Techniques" study abroad course in Tanzania through Boston University's School For Field Studies program the summer of my junior year in high school. I was able to gain 4 college credits from Boston University too for studying abroad. SFS is an international non-profit academic institution and the largest environmental study abroad program in the US for college undergrads. You can check out more about SFS [here](https://www.fieldstudies.org/ "SFS")if you want (it's a great program, seriously).
+I took a "Wildlife Research Techniques" study abroad course in Tanzania through Boston University's School For Field Studies program the summer of my junior year in high school. I was able to gain 4 college credits from Boston University too for studying abroad. SFS is an international non-profit academic institution and the largest environmental study abroad program in the US for college undergrads. You can check out more about SFS [here](//www.fieldstudies.org/ "SFS")if you want (it's a great program, seriously).
 
 So, without further ado, here are all the entries I created while on that trip, with the first having been created July 30, 2012 - a magnificent Monday.
 
@@ -22,7 +22,7 @@ One, I had never been to Africa and life is very well... non lengthy. I don't re
 
 Two, I wanted to study something related to zoology at the time and "Wildlife Research Techniques", which is the formal title of the course, sounded pretty close enough to me (sarcasm). I mean, obviously I thought it through a lot more than it seems but you get the picture.
 
-So in conclusion, SFS was a pretty big opportunity for me, it was there, and I just took the chance when I got it. And I ended up finding out about it with a simple [Google search](https://www.google.com/search?client=safari&rls=en&q=link+a+google+search&ie=UTF-8&oe=UTF-8#q=summer+wildlife+research+college+program&rls=en "Google Search SFS"). Of course, I had to go through tons of PDF lists of programs and many pages on Google's search engine (so much fun by the way) , BUT in the end it was definitely... I mean, *most definitely* worth it.
+So in conclusion, SFS was a pretty big opportunity for me, it was there, and I just took the chance when I got it. And I ended up finding out about it with a simple [Google search](//www.google.com/search?client=safari&rls=en&q=link+a+google+search&ie=UTF-8&oe=UTF-8#q=summer+wildlife+research+college+program&rls=en "Google Search SFS"). Of course, I had to go through tons of PDF lists of programs and many pages on Google's search engine (so much fun by the way) , BUT in the end it was definitely... I mean, *most definitely* worth it.
 
 ---
 

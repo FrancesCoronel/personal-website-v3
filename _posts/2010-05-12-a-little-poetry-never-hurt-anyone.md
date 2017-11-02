@@ -3,11 +3,11 @@ title: "Desiring the Casual 🐛"
 date: 2010-05-12
 excerpt: "A little poetry never hurt anyone."
 header:
-    image: https://fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg?w=800&h=340&crop=1
+    image: //fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg?w=800&h=340&crop=1
 ---
 
 > This is a poem wrote back in the day.
-> [Featured in the POTW Issue 30 of Jacobs University Bremen.](https://www.scribd.com/doc/174387876/POTW-Issue-30)
+> [Featured in the POTW Issue 30 of Jacobs University Bremen.](//www.scribd.com/doc/174387876/POTW-Issue-30)
 
 ```text
 Come, come insects and birds!

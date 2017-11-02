@@ -30,7 +30,7 @@
                     {% else %}
                         "{{ img.url | absolute_url }}"
                     {% endif %}
-                alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+                alt="{% if img.title %}{{ img.title }}{% endif %}">
             </a>
         {% endif %}
     {% endfor %}

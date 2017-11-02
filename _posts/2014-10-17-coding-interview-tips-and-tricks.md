@@ -3,7 +3,7 @@ title: "Job Interview - Tips and Tricks"
 date: 2014-10-17
 excerpt: "Expressing my gratitude."
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/10/screenshot-2014-10-17-21-22-13.png
+    image: //fvcproductions.files.wordpress.com/2014/10/screenshot-2014-10-17-21-22-13.png
 tags:
     - coding
     - coding interview
@@ -18,7 +18,7 @@ tags:
     - tips and tricks
 ---
 
-[![tumblr\_nd30ogjKdp1qcrg73o1\_500](https://fvcproductions.files.wordpress.com/2014/10/tumblr_nd30ogjkdp1qcrg73o1_500.jpg)](https://fvcproductions.files.wordpress.com/2014/10/tumblr_nd30ogjkdp1qcrg73o1_500.jpg)
+[![tumblr\_nd30ogjKdp1qcrg73o1\_500](//fvcproductions.files.wordpress.com/2014/10/tumblr_nd30ogjkdp1qcrg73o1_500.jpg)](//fvcproductions.files.wordpress.com/2014/10/tumblr_nd30ogjkdp1qcrg73o1_500.jpg)
 
 So I decided to compile a bunch of fun interview topics of interest and
 questions. This article is limited to what I know from my job
@@ -91,4 +91,4 @@ So For Those Who Are Looking Forward To Technical Interviews For Software Develo
 
 > *Tips or tricks?*
 >
-> > Tweet me at [@fvcproductions](https://twitter.com/fvcproductions)!
+> > Tweet me at [@fvcproductions](//twitter.com/fvcproductions)!

@@ -3,7 +3,7 @@ title: "Auschwitz: A Doctor's Eyewitness Account 📖"
 date: 2015-04-11
 excerpt: 'Book review of "Auschwitz: A Doctor''s Eyewitness Account".'
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/06/toaletter_pc3a5_auschwitz_2.jpg
+    image: //fvcproductions.files.wordpress.com/2014/06/toaletter_pc3a5_auschwitz_2.jpg
 tags:
     - Arcade Publishing
     - auschwitz
@@ -24,4 +24,4 @@ There fails to be any bias present and I feel it would be wrong to try to rate t
 
 At a mere 300 pages, *Auschwitz* doesn't really tell a story. It acts more as a brief yet fulfilling memoir and an often unemotional first-hand witness account. *Auschwitz* tells a story that needs to be told and it is a story that would rather not be told. I praise the author for his courage in writing the memoir and for remembering those who could not live themselves to express their personal accounts. Ultimately, the book is the daring product of a doctor's knowledge and an integral source of enlightenment for anyone studying this period in history.
 
-Miklos Nyiszli, *[Auschwitz: A Doctor's Eyewitness Account](https://www.amazon.com/Auschwitz-A-Doctors-Eyewitness-Account/dp/161145011X "Auschwitz: A Doctor's Eyewitness")* (Arcade Publishing, 2007).
+Miklos Nyiszli, *[Auschwitz: A Doctor's Eyewitness Account](//www.amazon.com/Auschwitz-A-Doctors-Eyewitness-Account/dp/161145011X "Auschwitz: A Doctor's Eyewitness")* (Arcade Publishing, 2007).

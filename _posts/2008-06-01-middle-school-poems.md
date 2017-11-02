@@ -3,7 +3,7 @@ title: "Middle School Poems ✒️"
 date: 2008-06-01
 excerpt: "Random poems from 2008."
 header:
-    image: https://fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg?w=800&h=340&crop=1
+    image: //fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg?w=800&h=340&crop=1
 tags:
     - trampoline
     - middle school poems

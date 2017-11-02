@@ -3,7 +3,7 @@ title: "Nothing to Envy - Book Review"
 date: 2014-02-21
 excerpt: "A research-oriented piece for my history class."
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/03/51454715.jpg?w=600&h=340&crop=1
+    image: //fvcproductions.files.wordpress.com/2014/03/51454715.jpg?w=600&h=340&crop=1
 tags:
     - barbara demick
     - book review

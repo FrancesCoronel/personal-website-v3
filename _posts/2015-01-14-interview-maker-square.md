@@ -3,7 +3,7 @@ title: "Interview with MakerSquare"
 date: 2015-01-14
 excerpt: "My interview with MakerSquare."
 header:
-    image: https://fvcproductions.files.wordpress.com/2015/01/mksc6.jpg
+    image: //fvcproductions.files.wordpress.com/2015/01/mksc6.jpg
 tags:
     - acceptance
     - admissions
@@ -35,18 +35,18 @@ tags:
     - typeform
 ---
 
-![](https://m1.behance.net/rendition/modules/124031971/disp/fa0c76d4bd39b9bc82c8cf32b90cd846.png)
+![](//m1.behance.net/rendition/modules/124031971/disp/fa0c76d4bd39b9bc82c8cf32b90cd846.png)
 
 > This is where I'll go through how my admissions process was with MakerSquare.
 >
-> Kudos to [Randy Tolentino](https://rantolentino.wordpress.com/2014/07/14/many-thanks-to-makersquare/ "Randy Tolentino") for the featured image. His images have such a nice resolution that it works great with this post. Thanks Randy!
+> Kudos to [Randy Tolentino](//rantolentino.wordpress.com/2014/07/14/many-thanks-to-makersquare/ "Randy Tolentino") for the featured image. His images have such a nice resolution that it works great with this post. Thanks Randy!
 
 ## Part 1: The Application 📝
 
 - You fill out the virtual application for MakerSquare
-    [here](https://makersquare.typeform.com/to/MO9OFv "App MakerSquare").
+    [here](//makersquare.typeform.com/to/MO9OFv "App MakerSquare").
     They use a special application called
-    [Typeform](https://www.typeform.com/ "Typeform") for their admissions
+    [Typeform](//www.typeform.com/ "Typeform") for their admissions
     process, so it's pretty snazzy.
 - Once you fill this app out, they'll give you the link for the 1st
     admissions challenge, which was very simple. I think this challenge
@@ -72,7 +72,7 @@ tags:
     I'd say it was a 5.5/10. One question was a little harder than I was
     prepared for, but everything was pretty straight forward. The cool
     part about this interview was that we didn't use Skype, we used
-    [Screenhero](https://screenhero.com/ "Screenhero"), which is
+    [Screenhero](//screenhero.com/ "Screenhero"), which is
     definitely the most ideal tech to use in this situation since you
     can manipulate the screen of the interviewees and see how they work
     out the problem. This is a great way to also verify that what they
@@ -95,7 +95,7 @@ tags:
 
 
 
-## Part 2: The Interview 📞 with [Shaan](https://www.linkedin.com/in/shaanshah "Shaan Shah")
+## Part 2: The Interview 📞 with [Shaan](//www.linkedin.com/in/shaanshah "Shaan Shah")
 
 The first interview focuses solely on getting to know each other and my
 goals for MakerSquare, etc.
@@ -155,7 +155,7 @@ questions were answered by Shaan.
     noticed that more technical skills were needed to build these
     projects, so I tried immersing myself in the software development
     area. I actually went through [Starter
-    League](https://www.starterleague.com "Starter League") in Chicago
+    League](//www.starterleague.com "Starter League") in Chicago
     back when they had part-time classes. That's essentially how I
     transitioned from finance to software.
 7.  **What do you guys recommend students do outside of the course?** We
@@ -187,7 +187,7 @@ Part 3: The Decision 💡
 
 I was accepted!!! ☺️ Woot, woot! I think I was able to prove that I was
 ready during the technical interview since
-[Screenhero](https://screenhero.com/ "Screenhero") was the best tool to
+[Screenhero](//screenhero.com/ "Screenhero") was the best tool to
 showcase what kind of programmer I was.
 
 Here's part of the email they sent me:
@@ -198,7 +198,7 @@ Here's part of the email they sent me:
 
 
 
-https://twitter.com/CourseReport/status/555387348620689408\]
+//twitter.com/CourseReport/status/555387348620689408\]
 
 
 
@@ -209,18 +209,18 @@ I also have shared my **interview experience** with bootcamps such as
 - [Coding
     Dojo](/blog/2015/01/06/interview-coding-dojo/)
 - [Coding
-    House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
-- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+    House](//fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
+- [Designation](//fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
 - [Dev
-    League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
+    League](//fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
 - [Fullstack
-    Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+    Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
 - [Hack
-    Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
+    Reactor](//fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
 
 
 
 Tips or tricks?
 
 > Contact me
-> [@fvcproductions](https://twitter.com/fvcproductions "Twitter - FVCproductions")
+> [@fvcproductions](//twitter.com/fvcproductions "Twitter - FVCproductions")

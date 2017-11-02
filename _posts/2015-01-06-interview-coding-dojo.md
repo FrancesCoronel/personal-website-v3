@@ -3,7 +3,7 @@ title: "Interview with Coding Dojo"
 date: 2015-01-06
 excerpt: "My interview with Coding Dojo."
 header:
-    image: https://fvcproductions.files.wordpress.com/2015/01/mg_3322.jpg
+    image: //fvcproductions.files.wordpress.com/2015/01/mg_3322.jpg
 tags:
     - coding
     - coding bootcamps
@@ -19,14 +19,14 @@ tags:
     - web development bootcamp
 ---
 
-[![](https://jlau-bucket-1.s3.amazonaws.com/uploads/topic/image/5/coding_dojo.png) Fancy.
+[![](//jlau-bucket-1.s3.amazonaws.com/uploads/topic/image/5/coding_dojo.png) Fancy.
 
-Interview with [Coding Dojo](https://www.codingdojo.com)
+Interview with [Coding Dojo](//www.codingdojo.com)
 =======================================================
 
 
 
-### with [Speros Misirlakis](https://www.linkedin.com/pub/speros-misirlakis/28/743/384)
+### with [Speros Misirlakis](//www.linkedin.com/pub/speros-misirlakis/28/743/384)
 
 > answers were paraphrased or just referenced verbatim\
 > personal comments are highlighted `like this`
@@ -101,7 +101,7 @@ I was accepted! Here's part of the email they sent me:
 
     We're pleased to inform you that you have been formally accepted into the Onsite Coding Dojo Bootcamp beginning Monday, May 11th in Mountain View, CA. We're excited to have you as a part of the class and equally as excited for the things you will build!
 
-    To reserve your seat, please go to our payment site, select the bootcamp you have been accepted to, and make your deposit payment: https://www.codingdojo.com/tuition/mv
+    To reserve your seat, please go to our payment site, select the bootcamp you have been accepted to, and make your deposit payment: //www.codingdojo.com/tuition/mv
 
     After making your first payment of $2,000, your pre-course work will be opened and you can begin preparing for your course!
 
@@ -120,19 +120,19 @@ I also have shared my **interview experience** with bootcamps such as
 - [Bitmaker
     Labs](/blog/2014/03/12/interview-bitmaker-labs/)
 - [Coding
-    House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
-- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+    House](//fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
+- [Designation](//fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
 - [Dev
-    League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
+    League](//fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
 - [Fullstack
-    Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+    Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
 - [Hack
-    Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
+    Reactor](//fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
 - [Maker
-    Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
+    Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
 
 
 Tips or tricks?
 
-> Contact me [@fvcproductions](https://twitter.com/fvcproductions)
+> Contact me [@fvcproductions](//twitter.com/fvcproductions)

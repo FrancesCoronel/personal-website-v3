@@ -3,7 +3,7 @@ title: "Midterm Melodrama - Data Structures with Java"
 date: 2014-10-17
 excerpt: "A study guide for the Data Structures midterm."
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
+    image: //fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
 tags:
     - array implementation
     - computer science
@@ -96,7 +96,7 @@ Index
     -   data structure of ordered items such that items can be inserted
         and removed only at 1 end (called the \[code
         language="java"\]top```)
--   *diagram*![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Data_stack.svg/1280px-Data_stack.svg.png)
+-   *diagram*![](//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Data_stack.svg/1280px-Data_stack.svg.png)
 -   *conceptual implementation*
     -   First In, First Out (FIFO)
         -   add to rear and remove from front
@@ -121,7 +121,7 @@ Index
         (rear) and removed at other end (front)
 -   *diagram*
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Data_Queue.svg/1280px-Data_Queue.svg.png)
+![](//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Data_Queue.svg/1280px-Data_Queue.svg.png)
 
 -   *conceptual implementation*
     -   First In, First Out (FIFO)
@@ -307,4 +307,4 @@ return false;\
 
 > Tips or Tricks?
 >
-> > Contact me [@fvcproductions](https://twitter.com/fvcproductions)
+> > Contact me [@fvcproductions](//twitter.com/fvcproductions)

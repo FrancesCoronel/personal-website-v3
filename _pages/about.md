@@ -12,6 +12,8 @@ My "life motto", if you will.
 
 Might have something to do with human nature in general, though, so interpret it as you will.
 
+{% include figure url="http://fvcproductions.com/assets/img/logo.png" title="FVCproductions - Logo" %}
+
 **Fun Fact** My logo is a chocolate dipped strawberry. No particular reason why, I just think they're yummy. 🍓 🍫
 {: .notice}
 
@@ -38,6 +40,16 @@ Might have something to do with human nature in general, though, so interpret it
 - trying to avoid the whole "I'm going to let work consume me whole" mentality
   - by attending tech events whenever I can such as conferences or hackathons
   - and by contributing to open-source 👐🏽️
+
+### I Code!
+
+> Too much!
+
+<figure><embed src="https://wakatime.com/share/@fvcproductions/96c7ec55-befc-4727-9b6b-d14b997dbcad.svg"></embed></figure>
+
+> I have no idea what the `Other` represents!
+
+<figure><embed src="https://wakatime.com/share/@fvcproductions/6a719475-6bdf-45d3-bc3d-f5faa2c952b7.svg"></embed></figure>
 
 ### Where You Can Find My Work 🍓️
 

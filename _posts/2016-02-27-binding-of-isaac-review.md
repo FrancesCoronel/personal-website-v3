@@ -3,7 +3,7 @@ title: "Binding of Isaac - Review 💀"
 date: 2016-02-27
 excerpt: My review of the 'Binding of Isaac' desktop game.
 header:
-    image: https://fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg
+    image: //fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg
 tags:
     - apocalypse
     - background
@@ -55,12 +55,12 @@ tags:
 ---
 
 [![Binding of
-Isaac](https://fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg)](https://fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg)
+Isaac](//fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg)](//fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg)
 
 > **WARNING** SPOILERS AHEAD.
 
 This is going to be a quick game review on **[The Binding of
-*Isaac*](https://store.steampowered.com/app/113200/)**.
+*Isaac*](//store.steampowered.com/app/113200/)**.
 
 *TLDR:* Just play the bloody game.
 ==================================
@@ -77,7 +77,7 @@ Background
 ----------
 
 If you're not already familiar with **[The Binding of
-*Isaac*](https://store.steampowered.com/app/113200/)**, you essentially
+*Isaac*](//store.steampowered.com/app/113200/)**, you essentially
 control this little bald child called *Isaac* who is being chased down
 by his psychotic overly religious mother.
 
@@ -85,7 +85,7 @@ Being an atheist, this background story resonated a lot with me from the
 get-go. You see, when you start the game, they give you a small glimpse
 of *Isaac*'s life before it went haywire.
 
-https://www.youtube.com/watch?v=4UvCYpmsfNE
+//www.youtube.com/watch?v=4UvCYpmsfNE
 
 *Isaac* was living with his mother, who enjoyed watching religious TV
 shows all day long. He was fine with it since he was mostly left to play
@@ -117,7 +117,7 @@ His own mother tries to murder him.
  
 
 ![Mother
-Murdering](https://fvcproductions.files.wordpress.com/2016/02/cfafc-tboi-24.png)
+Murdering](//fvcproductions.files.wordpress.com/2016/02/cfafc-tboi-24.png)
 
  
 
@@ -131,7 +131,7 @@ leads to the basement (which is *btw*, **HUMONGOUS**).
  
 
 ![Final
-Boss](https://i.ytimg.com/vi/CQf_IGtA8_k/maxresdefault.jpg)
+Boss](//i.ytimg.com/vi/CQf_IGtA8_k/maxresdefault.jpg)
 
 *The final boss in the basement is Isaac's mother, btw.*
 
@@ -140,7 +140,7 @@ MAJOR SPOILER
 
 HOWEVER, it turns out the plot thickens.
 
-![REAL PLOT](https://i.imgur.com/Ucwvi.jpg)
+![REAL PLOT](//i.imgur.com/Ucwvi.jpg)
 
 This is, of course, where all the real fun begins.
 ==================================================
@@ -148,7 +148,7 @@ This is, of course, where all the real fun begins.
  
 
 By having such a very morbid ambiance all throughout the game, **[The
-Binding of *Isaac*](https://store.steampowered.com/app/113200/)**
+Binding of *Isaac*](//store.steampowered.com/app/113200/)**
 successfully communicates what a terrible situation *Isaac* is really
 in.
 
@@ -168,7 +168,7 @@ was *Isaac*'s own dog and the game lets you know that he is instantly
 *traumatized and gains a very wide-eyed stare*.
 
 ![Maxs
-Head](https://vignette1.wikia.nocookie.net/bindingofisaac/images/a/ab/Maxs_Head_Icon.png/revision/latest?cb=20120707135906)
+Head](//vignette1.wikia.nocookie.net/bindingofisaac/images/a/ab/Maxs_Head_Icon.png/revision/latest?cb=20120707135906)
 
  
 
@@ -180,7 +180,7 @@ It's no wonder that the item multiplies the damage stats of *Isaac* by
 so much.
 
 ![In-Game
-Appearance](https://vignette3.wikia.nocookie.net/bindingofisaac/images/4/40/Maxs_Head_Isaac.png/revision/latest?cb=20130128122345)
+Appearance](//vignette3.wikia.nocookie.net/bindingofisaac/images/4/40/Maxs_Head_Isaac.png/revision/latest?cb=20130128122345)
 
 > What doesn't kill you makes you stronger, I suppose.
 
@@ -206,7 +206,7 @@ convenient) was the diversity of all the monsters. At the end, they
 would join hands to fight against you which only made it more
 appropriate in my eyes.
 
-![Monsters](https://i.ytimg.com/vi/BagNR03izGE/maxresdefault.jpg)
+![Monsters](//i.ytimg.com/vi/BagNR03izGE/maxresdefault.jpg)
 
 A more interesting aspect of the monsters at the mini-boss level is how
 they represent the seven deadly sins:
@@ -220,7 +220,7 @@ they represent the seven deadly sins:
 7.  Lust
 
 [![7 Deadly
-Sins](https://fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-37-42.png)](https://fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-37-42.png)
+Sins](//fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-37-42.png)](//fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-37-42.png)
 
 I feel like these monsters, in particular, were designed so carefully so
 as to accurately represent the given sin. It's quite amazing.
@@ -231,7 +231,7 @@ you've completed the game all the way through once (i.e. *Isaac*
 successfully killed Mom).
 
 [![Headless
-Horseman](https://fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-44-03.png)](https://fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-44-03.png)
+Horseman](//fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-44-03.png)](//fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-44-03.png)
 
 Once I realized that every horseman can drop a cube of meat, I looked
 forward to battling them every time I entered a boss room at the end of
@@ -241,16 +241,16 @@ each floor.
 **Meat Boy***.
 
 ![First
-Stage](https://vignette2.wikia.nocookie.net/bindingofisaac/images/4/41/Meat1boy.png/revision/latest?cb=20130125213417) First Stage
+Stage](//vignette2.wikia.nocookie.net/bindingofisaac/images/4/41/Meat1boy.png/revision/latest?cb=20130125213417) First Stage
 
 ![Second
-Stage](https://vignette1.wikia.nocookie.net/bindingofisaac/images/c/cb/Meat2boy.png/revision/latest?cb=20130125213448) Second Stage
+Stage](//vignette1.wikia.nocookie.net/bindingofisaac/images/c/cb/Meat2boy.png/revision/latest?cb=20130125213448) Second Stage
 
 ![Third
-Stage](https://vignette2.wikia.nocookie.net/bindingofisaac/images/a/aa/M3atboy.png/revision/latest?cb=20130125213846) Third Stage
+Stage](//vignette2.wikia.nocookie.net/bindingofisaac/images/a/aa/M3atboy.png/revision/latest?cb=20130125213846) Third Stage
 
 ![Fourth
-Stage](https://vignette3.wikia.nocookie.net/bindingofisaac/images/f/fd/Meat4boy.png/revision/latest?cb=20130125213925&format=webp) Fourth Stage
+Stage](//vignette3.wikia.nocookie.net/bindingofisaac/images/f/fd/Meat4boy.png/revision/latest?cb=20130125213925&format=webp) Fourth Stage
 
 There are four cubes required for a fully formed **Meat Boy** which are
 only dropped by the headless horsemen (naturally, right?). And you
@@ -264,7 +264,7 @@ receive a lot better stats than you would with normal Isaac or just more
 items to start the game out with (i.e. with blondie, you would start out
 with a lot more hearts or life).
 
-![Characters](https://sickr.files.wordpress.com/2014/10/binding_of_isaac_who_am_i.jpg)
+![Characters](//sickr.files.wordpress.com/2014/10/binding_of_isaac_who_am_i.jpg)
 
 The Best Part
 -------------
@@ -277,7 +277,7 @@ first time one of the little creatures joined my crew, I was quite
 joyous. Suddenly, *Issac* wasn't in this alone. He had help from his
 crew. He was the leader of something. He was forming a revolution.
 
-![Friends](https://sickr.files.wordpress.com/2015/04/the_binding_of_issac_rebirth.jpg)
+![Friends](//sickr.files.wordpress.com/2015/04/the_binding_of_issac_rebirth.jpg)
 
  
 
@@ -287,7 +287,7 @@ when one of the characters shouts out
 ### BUDDIES!!!
 
 ![Buddies -
-Minions](https://www.minionmovie.com.au/images/shareimage.jpg)
+Minions](//www.minionmovie.com.au/images/shareimage.jpg)
 
 In-Game Screenshots
 -------------------
@@ -302,7 +302,7 @@ Even if you're not into the horror genre of games, I'd give *Isaac* a
 shot because he's in desperate times and he deserves all the help he can
 get.
 
-![Died](https://i1.wp.com/www.owengrieve.com/caps/2011-10-02_1128.png?resize=600%2C338)
+![Died](//i1.wp.com/www.owengrieve.com/caps/2011-10-02_1128.png?resize=600%2C338)
 
 Happy re-birthing.
 ==================
@@ -313,4 +313,4 @@ Happy re-birthing.
 
 > Tips or Tricks?
 >
-> > Tweet me [@fvcproductions](https://twitter.com/fvcproductions).
+> > Tweet me [@fvcproductions](//twitter.com/fvcproductions).

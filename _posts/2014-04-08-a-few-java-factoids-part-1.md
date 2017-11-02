@@ -3,7 +3,7 @@ title: "A Few Java Factoids - Part 1"
 date: 2014-03-03
 excerpt: "A few basic facts about Java."
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
+    image: //fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
 tags:
     - basic structure
     - beginner
@@ -59,7 +59,7 @@ Let's look at comments first.
 ### Go ahead, press the button! :D Virtually…
 
 ![Computer
-Hope](https://citycleanersoftx.com/wp-content/uploads/2014/01/Easy-Button.jpg)
+Hope](//citycleanersoftx.com/wp-content/uploads/2014/01/Easy-Button.jpg)
 
 So moving on…to the main method!
 --------------------------------

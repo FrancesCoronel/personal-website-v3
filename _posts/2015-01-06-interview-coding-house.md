@@ -3,7 +3,7 @@ title: "Interview with Coding House"
 date: 2015-01-06
 excerpt: "My interview with Coding House."
 header:
-    image: https://fvcproductions.files.wordpress.com/2015/01/photo-2.jpg
+    image: //fvcproductions.files.wordpress.com/2015/01/photo-2.jpg
 tags:
     - application
     - bootcamp
@@ -25,14 +25,14 @@ tags:
     - tricks
 ---
 
-[![](https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/74/s300/coding-house-logo.png)](https://www.codinghouse.com)
+[![](//course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/74/s300/coding-house-logo.png)](//www.codinghouse.com)
 
-Interview with [Coding House](https://www.codinghouse.com "Coding House")
+Interview with [Coding House](//www.codinghouse.com "Coding House")
 ========================================================================
 
 
 
-### with [Nick James](https://www.linkedin.com/in/hellonick) and [Samer Buna](https://www.linkedin.com/in/samerbuna)
+### with [Nick James](//www.linkedin.com/in/hellonick) and [Samer Buna](//www.linkedin.com/in/samerbuna)
 
 > answers were paraphrased or just referenced verbatim\
 > personal comments are highlighted `like this`
@@ -131,18 +131,18 @@ I also have shared my **interview experience** with bootcamps such as
     Labs](/blog/2014/03/12/interview-bitmaker-labs/)
 - [Coding
     Dojo](/blog/2015/01/06/interview-coding-dojo/)
-- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+- [Designation](//fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
 - [Dev
-    League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "Interview With DevLeague 💻")
+    League](//fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "Interview With DevLeague 💻")
 - [Fullstack
-    Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+    Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
 - [Hack
-    Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
+    Reactor](//fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
 - [Maker
-    Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
+    Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
 
 
 > Tips or tricks?
 >
-> > Contact me [@fvcproductions](https://twitter.com/fvcproductions)
+> > Contact me [@fvcproductions](//twitter.com/fvcproductions)

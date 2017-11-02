@@ -3,7 +3,7 @@ title: Launch a Todo App Using Laravel Homestead ✅️
 date: 2017-01-13
 excerpt: Our goal? To launch a simple to-do app using Laravel Homestead on macOS.
 header:
-    image: https://fvcproductions.files.wordpress.com/2017/01/home.png
+    image: //fvcproductions.files.wordpress.com/2017/01/home.png
 tags:
     - laravel
     - laravel 5
@@ -26,17 +26,17 @@ This is how the completed app looks like.
 
 ## Installation Process
 
-1. Download [**Vagrant**](https://www.vagrantup.com/)
-2. Download [**VirtualBox**](https://www.virtualbox.org/wiki/Downloads)
-3. Clone or download [my sample to-do app](https://github.com/fvcproductions/ds-todos)
-    - **Option 1.** Use a GitHub client like [Tower](https://git-tower.com)
-    - **Option 2.** `git clone https://github.com/fvcproductions/ds-todos.git`
+1. Download [**Vagrant**](//www.vagrantup.com/)
+2. Download [**VirtualBox**](//www.virtualbox.org/wiki/Downloads)
+3. Clone or download [my sample to-do app](//github.com/fvcproductions/ds-todos)
+    - **Option 1.** Use a GitHub client like [Tower](//git-tower.com)
+    - **Option 2.** `git clone //github.com/fvcproductions/ds-todos.git`
     - Make note of the file path for this repo by using `pwd`, i.e. `~/Dropbox/github/ds-todos`
 4. `cd ~ && vagrant box laravel/homestead`
 5. They will ask for the provider so we are going to enter in `1` since we are using **VirtualBox**
 6. `cd ~ && mkdir Code`
     - We will need this folder later
-7. Clone down **Laravel Homestead** and install it in a folder called `Homestead` using`cd ~ && git clone https://github.com/laravel/homestead.git Homestead`
+7. Clone down **Laravel Homestead** and install it in a folder called `Homestead` using`cd ~ && git clone //github.com/laravel/homestead.git Homestead`
 8. Initialize Homestead using `cd Homestead && bash init.sh`
 9. While still in `~/Homestead` folder, `sudo nano /private/etc/hosts` to edit the hosts file and add on [these two lines (refer below)](#hosts)
 10. Create a key to authorize ssh using `cd ~/Homestead && ssh-keygen -t rsa -b 4096`
@@ -53,7 +53,7 @@ This is how the completed app looks like.
 20. Use `php artisan migrate` to migrate the app data over
 21. Then use `php artisan db:seed` to seed the database
 22. Finally, use `php artisan key:generate` to generate an app key for security purposes
-23. At this point, you should be able to head over to `https://ds-todos.app` in your browser and marvel at being able to set this all up! 🎉
+23. At this point, you should be able to head over to `//ds-todos.app` in your browser and marvel at being able to set this all up! 🎉
 
 ## Optional - Compiling SASS
 
@@ -96,7 +96,7 @@ sites:
 APP_ENV=local
 APP_DEBUG=true
 APP_KEY=SomeRandomString
-APP_URL=https://localhost
+APP_URL=//localhost
 
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -125,5 +125,5 @@ MAIL_ENCRYPTION=null
 
 ### Helpful Resources
 
-- [Great video on installation process](https://vimeo.com/164946495)
-- [Laravel Homestead Documentation](https://laravel.com/docs/5.3/homestead)
+- [Great video on installation process](//vimeo.com/164946495)
+- [Laravel Homestead Documentation](//laravel.com/docs/5.3/homestead)

@@ -38,4 +38,4 @@ I attended 9 Meetups in total.
 
 I presented on JS Coding Bootcamps for the [January 2016 Meetup](meetup.com/NorfolkJS/events/227490794).
 
-<img class="aligncenter size-full wp-image-3370" src="https://fvcproductions.files.wordpress.com/2015/11/norfolkjs1.png" alt="NorfolkJS - Circular Logo" width="512" height="512" />
+{% include figure url="https://fvcproductions.files.wordpress.com/2015/11/norfolkjs1.png" title="NorfolkJS - Circular Logo" %}

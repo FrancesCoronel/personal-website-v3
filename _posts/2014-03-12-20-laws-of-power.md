@@ -3,7 +3,7 @@ title: "20 Laws of Power"
 date: 2014-03-12
 excerpt: "My favorite 20 laws of power."
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/03/book.jpg
+    image: //fvcproductions.files.wordpress.com/2014/03/book.jpg
 tags:
     - adapt and survive
     - be wary
@@ -24,7 +24,7 @@ tags:
 
 So if you're not already familiar with Robert Green's popular book "[The
 48 Laws of
-Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power "48 Laws of Power - Wiki")"
+Power](//en.wikipedia.org/wiki/The_48_Laws_of_Power "48 Laws of Power - Wiki")"
 that was published in 1998, I'm going to suggest you read it… right now.
 
 Like any popular book, it has its positive and negative criticisms, but

@@ -3,7 +3,7 @@ title: "ONE WEEK OF FULLSTACK LEFT 🙊"
 date: 2015-08-19
 excerpt: 'There''s only one week of Fullstack Academy left. Overarching feeling: HOLY CRAP.'
 header:
-    image: https://fvcproductions.files.wordpress.com/2015/08/banners-001.jpg
+    image: //fvcproductions.files.wordpress.com/2015/08/banners-001.jpg
 tags:
   - apple
   - at home advisor
@@ -44,7 +44,7 @@ Because of how busy I've been, I haven't really been able to
 get into the proper mood to be able to blog about such and such.
 
 As a result, there are now only **7** days of
-[**Fullstack**](https://www.fullstackacademy.com) left.
+[**Fullstack**](//www.fullstackacademy.com) left.
 
 > Yup, just **7 MORE DAYS**.
 
@@ -52,17 +52,17 @@ As a result, there are now only **7** days of
 ======================
 
 ![Minions
-What](https://33.media.tumblr.com/4a1750cc9cf2b68c3c58799bcf2f4173/tumblr_nshpk7ZqhP1ubdz64o1_400.gif)
+What](//33.media.tumblr.com/4a1750cc9cf2b68c3c58799bcf2f4173/tumblr_nshpk7ZqhP1ubdz64o1_400.gif)
 
 SERIOUSLY??
 -----------
 
-![Seriously](https://i3.kym-cdn.com/photos/images/original/000/363/814/eb7.gif)
+![Seriously](//i3.kym-cdn.com/photos/images/original/000/363/814/eb7.gif)
 
 ### AND here's a `GIF` on how I feel about my lack of blogging so far here in my senior phase.
 
 ![Computer
-Reaction](https://i1.kym-cdn.com/photos/images/newsfeed/000/228/791/632.gif)
+Reaction](//i1.kym-cdn.com/photos/images/newsfeed/000/228/791/632.gif)
 
 
 
@@ -123,7 +123,7 @@ What's Left
 
 
 
-![TimeTravel](https://33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif)
+![TimeTravel](//33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif)
 
 
 
@@ -140,7 +140,7 @@ Monday
 
 
 
-https://speakerdeck.com/fvcproductions/awesome-web-dev-tips-and-tricks
+//speakerdeck.com/fvcproductions/awesome-web-dev-tips-and-tricks
 
 
 
@@ -170,7 +170,7 @@ Thursday
 -   I see my fellow Jimmy on the subway.
 -   Yeah, I guess that's basically it.
 
-![TrollForJimmy](https://cdn2.scratch.mit.edu/get_image/gallery/221290_200x130.png?v=1371781049.0)
+![TrollForJimmy](//cdn2.scratch.mit.edu/get_image/gallery/221290_200x130.png?v=1371781049.0)
 
 -   `ego++;`
 
@@ -192,7 +192,7 @@ Friday
     below). `ego -= 5;`
 
 
-https://www.youtube.com/watch?v=dQpGwnN3dfc
+//www.youtube.com/watch?v=dQpGwnN3dfc
 
 
 
@@ -227,7 +227,7 @@ https://www.youtube.com/watch?v=dQpGwnN3dfc
 -   In my head, I was thinking this is how the speech was going to go
     since I practiced and such:
 
-![MinionsSpeech](https://33.media.tumblr.com/8642075103c54ee6eae9bb3808377121/tumblr_noenylQkFh1s8njeuo1_500.gif)
+![MinionsSpeech](//33.media.tumblr.com/8642075103c54ee6eae9bb3808377121/tumblr_noenylQkFh1s8njeuo1_500.gif)
 
 -   But in reality, when I tried to speak it out, my entire face started
     to almost melt and I felt this strange sense of uncertainty all
@@ -330,7 +330,7 @@ speaking skills (perhaps through Toastmasters?)
 
 
 > Oh look, a repl out in the wild. **Gotta catch 'em all**……
-> [`https://repl.it/BC5A`](https://repl.it/BC5A)
+> [`//repl.it/BC5A`](//repl.it/BC5A)
 
 
 
@@ -343,7 +343,7 @@ OK, SO AFTER THAT EXCESSIVE RAMBLING, WE MUST NOW TRAVEL ~~BACK~~ FORWARD IN TIM
 
 
 
-![TimeTravel](https://33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif)
+![TimeTravel](//33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif)
 
 
 
@@ -361,7 +361,7 @@ OK, SO AFTER THAT EXCESSIVE RAMBLING, WE MUST NOW TRAVEL ~~BACK~~ FORWARD IN TIM
         till Monday to work on it, so *ughhhhh*.
 
 > My team's Stackstore. See it in full glory on Heroku at
-> [`https://robopocalypse.herokuapp.com`](https://robopocalypse.herokuapp.com).
+> [`//robopocalypse.herokuapp.com`](//robopocalypse.herokuapp.com).
 
 TODO: [gallery type="slideshow" link="file" size="full"
 ids="2630,2631,2632,2633,2634,2635,2636,2637,2638,2639,2640,2641,2642,2643,2644,2645,2646,2647,2648,2649,2650"
@@ -371,11 +371,11 @@ ids="2630,2631,2632,2633,2634,2635,2636,2637,2638,2639,2640,2641,2642,2643,2644,
 
 
 
-https://speakerdeck.com/fvcproductions/web-design-tech-talk
+//speakerdeck.com/fvcproductions/web-design-tech-talk
 
 
 
-![TimeTravel](https://33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif)
+![TimeTravel](//33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif)
 
 
 
@@ -390,7 +390,7 @@ https://speakerdeck.com/fvcproductions/web-design-tech-talk
         follow back. The event is on Sunday.
     -   We also present our stackathon projects on Monday.
         -   My stackathon project was **[Rank
-            Me](https://github.com/fvcproductions/RankMe)**, an app that
+            Me](//github.com/fvcproductions/RankMe)**, an app that
             ranks coding bootcamps on their rating and social scores
             based on data that is crawled from various sites.
         -   I bothered Jimmy a lot to get my crawler working nicely.
@@ -427,13 +427,13 @@ https://speakerdeck.com/fvcproductions/web-design-tech-talk
 > By the time I finally finish out the last kinks of my stackathon
 > project Monday morning, I'm feeling something like this:
 
-[![Ooohhh](https://cdn0.vox-cdn.com/thumbor/So_Sc-rt5khq-17lV0YO_4nu5xg=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3859280/giphy%20(1).gif)](https://github.com/fvcproductions/RankMe)
+[![Ooohhh](//cdn0.vox-cdn.com/thumbor/So_Sc-rt5khq-17lV0YO_4nu5xg=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3859280/giphy%20(1).gif)](//github.com/fvcproductions/RankMe)
 
 
 
 > Stackathon Project - About Page
 
-![RankMe](https://fvcproductions.files.wordpress.com/2015/08/rank-me-about.png)
+![RankMe](//fvcproductions.files.wordpress.com/2015/08/rank-me-about.png)
 
 
 
@@ -441,11 +441,11 @@ https://speakerdeck.com/fvcproductions/web-design-tech-talk
 
 
 
-https://speakerdeck.com/fvcproductions/hiredot-wireframing
+//speakerdeck.com/fvcproductions/hiredot-wireframing
 
 
 
-![TimeTravel](https://33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif)
+![TimeTravel](//33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif)
 
 
 
@@ -492,7 +492,7 @@ https://speakerdeck.com/fvcproductions/hiredot-wireframing
 
 > How I feel my capstone group is like compared to other groups.
 
-![CapstoneGroup](https://vignette4.wikia.nocookie.net/parody/images/9/9f/Kevin_and_bob_are_bananas.jpg/revision/latest?cb=20141105152333)
+![CapstoneGroup](//vignette4.wikia.nocookie.net/parody/images/9/9f/Kevin_and_bob_are_bananas.jpg/revision/latest?cb=20141105152333)
 
 
 
@@ -501,7 +501,7 @@ https://speakerdeck.com/fvcproductions/hiredot-wireframing
 
 
 
-![HiredotHome](https://i.imgur.com/d2OfxQX.png)
+![HiredotHome](//i.imgur.com/d2OfxQX.png)
 
 
 
@@ -510,13 +510,13 @@ BUT W8!
 
 > Free hug.
 
-![FreeHug](https://i2.kym-cdn.com/photos/images/newsfeed/000/628/413/b92.gif)
+![FreeHug](//i2.kym-cdn.com/photos/images/newsfeed/000/628/413/b92.gif)
 
 > Also, I really feel like dancing.
 
-![Timber](https://i.imgur.com/FF7bjxO.png)
+![Timber](//i.imgur.com/FF7bjxO.png)
 
-https://youtu.be/hHUbLv4ThOo
+//youtu.be/hHUbLv4ThOo
 
 
 
@@ -525,35 +525,35 @@ https://youtu.be/hHUbLv4ThOo
 > So Far
 
 - [The Search
-    🔍](https://fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
-- [The Application 📝](https://fvcproductions.com/blog/2014/12/23/week-20/)
+    🔍](//fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
+- [The Application 📝](//fvcproductions.com/blog/2014/12/23/week-20/)
 - [The Preparation
-    📚](https://fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/)
+    📚](//fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/)
 - [The Interview
-    💻](https://fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/)
+    💻](//fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/)
 - [The Decision
-    ⏳](https://fvcproductions.com/blog/2015/04/13/what-to-do-week-negative-8/)
+    ⏳](//fvcproductions.com/blog/2015/04/13/what-to-do-week-negative-8/)
 - [Fullstack Foundations - Week 1
-    ⚡️](https://fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/)
+    ⚡️](//fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/)
 - [Fullstack Foundations - Weeks 2 to 4
-    🚀](https://fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/)
+    🚀](//fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/)
 - [Fullstack Academy - Week 1
-    💫](https://fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/)
+    💫](//fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/)
 - [Fullstack Academy - Week 2
-    👬](https://fvcproductions.com/blog/2015/06/20/fullstack-academy-week-2/)
+    👬](//fvcproductions.com/blog/2015/06/20/fullstack-academy-week-2/)
 - [Fullstack Academy - Week 3
-    🔦🔦🔦](https://fvcproductions.com/blog/2015/06/26/fullstack-academy-week-3/)
+    🔦🔦🔦](//fvcproductions.com/blog/2015/06/26/fullstack-academy-week-3/)
 - [Fullstack Academy - Week 4
-    💲🔮🔮💲](https://fvcproductions.com/blog/2015/07/03/fullstack-academy-week-4/)
+    💲🔮🔮💲](//fvcproductions.com/blog/2015/07/03/fullstack-academy-week-4/)
 - [Fullstack Academy - Week 5
-    💕💓💕](https://fvcproductions.com/blog/2015/07/11/fullstack-academy-week-5/)
+    💕💓💕](//fvcproductions.com/blog/2015/07/11/fullstack-academy-week-5/)
 - [Fullstack Academy - Week 6 and Review Week
-    🃏🃏🃏🃏🃏🃏](https://fvcproductions.com/blog/2015/07/25/fullstack-academy-week-6-review-week/)
+    🃏🃏🃏🃏🃏🃏](//fvcproductions.com/blog/2015/07/25/fullstack-academy-week-6-review-week/)
 - [Web Dev & Design Slides | Fullstack Academy
-    🎨](https://fvcproductions.com/blog/2015/08/05/web-dev-and-web-design-slides-fullstack-academy/)
+    🎨](//fvcproductions.com/blog/2015/08/05/web-dev-and-web-design-slides-fullstack-academy/)
 
 
 
 > *Tips or tricks?* :idea:
 >
-> > tweet me at [`@fvcproductions`](https://twitter.com/fvcproductions).
+> > tweet me at [`@fvcproductions`](//twitter.com/fvcproductions).

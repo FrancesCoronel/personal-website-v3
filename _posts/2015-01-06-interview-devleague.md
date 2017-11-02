@@ -3,7 +3,7 @@ title: "Interview with DevLeague"
 date: 2015-01-06
 excerpt: "My interview with DevLeague."
 header:
-    image: https://fvcproductions.files.wordpress.com/2015/01/devleague-join-the-movement-learn-to-code-in-hawaii.png?w=1024&h=435&crop=1
+    image: //fvcproductions.files.wordpress.com/2015/01/devleague-join-the-movement-learn-to-code-in-hawaii.png?w=1024&h=435&crop=1
 tags:
     - acceptance
     - bootcamp
@@ -28,9 +28,9 @@ tags:
 > started getting many applications from the mainland and...
 >
 > Posted by [Dev
-> League](https://www.facebook.com/Dev-League-419352214850086/)
+> League](//www.facebook.com/Dev-League-419352214850086/)
 > on [Friday, January 16,
-> 2015](https://www.facebook.com/permalink.php?story_fbid=702971763154795&id=419352214850086)
+> 2015](//www.facebook.com/permalink.php?story_fbid=702971763154795&id=419352214850086)
 
 
 \_oembed\_time\_c34a1a7c05f0f71be4c25c8ffb32d2ea: '1447941722' author:
@@ -38,13 +38,13 @@ login: fvcproductions email: fvcproductions@gmail.com display\_name:
  excerpt: I
 applied to DevLeague, a new coding bootcamp in Hawaii! ---
 
-![DevLeague](https://fvcproductions.files.wordpress.com/2015/01/devleague2.jpg) Mahalo, indeed.
+![DevLeague](//fvcproductions.files.wordpress.com/2015/01/devleague2.jpg) Mahalo, indeed.
 
-My Experience With [DevLeague](https://www.devleague.com "DevLeague")
+My Experience With [DevLeague](//www.devleague.com "DevLeague")
 ====================================================================
 
 > with [Jason
-> Sewell](https://www.linkedin.com/in/jasonsewell "Jason Sewell")
+> Sewell](//www.linkedin.com/in/jasonsewell "Jason Sewell")
 >
 > This is where I'll go through how my admissions process was with
 > **DevLeague**, the 1st JavaScript focused coding bootcamp in Hawaii.
@@ -61,13 +61,13 @@ My Experience With [DevLeague](https://www.devleague.com "DevLeague")
 I decided to apply to DevLeague since they were the first of their kind
 in Hawaii. I have some connection with Hawaii. I've actually never been,
 but I was initially going to attend [Hawaii Pacific
-University](https://www.hpu.edu "HPU") as a double major in Computer
+University](//www.hpu.edu "HPU") as a double major in Computer
 Science and Integrated Multimedia with a very large scholarship. Since I
 had enough credits from high school, I'd still be able to graduate in 4
 years. I even had a party a few months before school started because I
 was certain at that point I was going to attend HPU. It was a win-win
 situation, but then out of the blue, in July, I got accepted to [Jacobs
-University](https://www.jacobs-university.de "Jacobs University") with a
+University](//www.jacobs-university.de "Jacobs University") with a
 medium-sized scholarship and decided to go there for the 3-year CS
 program.
 
@@ -75,7 +75,7 @@ program.
 > to get to know Hawaii but obviously had no chance for financial
 > reasons. DevLeague would be a practical way to do this. I'm also
 > considering going to [UH at
-> Manoa](https://www.ics.hawaii.edu "UH@Manoa CS") for my grad studies in
+> Manoa](//www.ics.hawaii.edu "UH@Manoa CS") for my grad studies in
 > CS so there's that too.
 
 
@@ -84,7 +84,7 @@ Part 1: The Application 📝
 -------------------------
 
 -   You fill out the virtual application for DevLeague
-    [here](https://www.devleague.com/apply "Apply to DevLeague").
+    [here](//www.devleague.com/apply "Apply to DevLeague").
 -   Like Fullstack, the application didn't involve a lot of effort, just
     basic background info (employment, coding abilities, cohort choice)
     and two small essay questions. The essay questions are right
@@ -93,7 +93,7 @@ Part 1: The Application 📝
 -   Once you fill this out, they'll send you an email shortly afterwards
     where you will schedule a virtual interview through Skype with one
     of the co-founders,
-    [Jason](https://twitter.com/sewell_jason "Jason - Twitter").
+    [Jason](//twitter.com/sewell_jason "Jason - Twitter").
 -   Again, the process overall was clean, efficient, and very organized.
     No problems here.
 
@@ -187,9 +187,9 @@ are put into place
 
 
 
-https://www.facebook.com/permalink.php?story\_fbid=702971763154795&id=419352214850086
+//www.facebook.com/permalink.php?story\_fbid=702971763154795&id=419352214850086
 
-https://twitter.com/devleaguehawaii/status/556569297133510656\]
+//twitter.com/devleaguehawaii/status/556569297133510656\]
 
 
 
@@ -200,18 +200,18 @@ I also have shared my **interview experience** with bootcamps such as
 - [Coding
     Dojo](/blog/2015/01/06/interview-coding-dojo/)
 - [Coding
-    House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
-- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+    House](//fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
+- [Designation](//fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
 - [Fullstack
-    Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+    Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
 - [Hack
-    Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
+    Reactor](//fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
 - [Maker
-    Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
+    Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
 
 
 
 > Tips or tricks?
 >
 > > Contact me
-> > [@fvcproductions](https://twitter.com/fvcproductions "Twitter - FVCproductions")!
+> > [@fvcproductions](//twitter.com/fvcproductions "Twitter - FVCproductions")!

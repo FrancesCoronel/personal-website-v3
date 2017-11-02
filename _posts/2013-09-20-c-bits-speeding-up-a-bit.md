@@ -3,7 +3,7 @@ title: "C Bits - Speeding Up A Bit 🚤"
 date: 2013-09-20
 excerpt: The 2nd part in a mini-series for beginners in C.
 header:
-    image: https://fvcproductions.files.wordpress.com/2013/09/banners-001.jpg?w=1024&h=436&crop=1
+    image: //fvcproductions.files.wordpress.com/2013/09/banners-001.jpg?w=1024&h=436&crop=1
 tags:
     - blogging
     - c++
@@ -28,7 +28,7 @@ C Programming Help that is…
 
 The solutions that also include the question as a comment on top and can be found on my GitHub.
 
-<blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/coder-bits">fvcproductions/coder-bits</a></h4><p>coder-bits - HTML, Java, Python, C, PHP, C++, JS 💩</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="//github.com/fvcproductions/coder-bits">fvcproductions/coder-bits</a></h4><p>coder-bits - HTML, Java, Python, C, PHP, C++, JS 💩</p></blockquote>
 
 ### Problem 2.1 - Reading from the keyboard
 

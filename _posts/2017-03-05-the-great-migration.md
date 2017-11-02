@@ -3,7 +3,7 @@ title: "The Start of a Wondrous Migration 🦋"
 date: 2017-03-05
 excerpt: "I'm starting the process of migrating this blog from Wordpress to Jekyll."
 header:
-    image: https://fvcproductions.files.wordpress.com/2017/03/monarch-butterfly-wallpaper-2.jpg
+    image: //fvcproductions.files.wordpress.com/2017/03/monarch-butterfly-wallpaper-2.jpg
 tags:
     - migration
     - wordpress
@@ -37,13 +37,13 @@ Feel free to view the progress of my new blog at [fvcproductions.github.io](//fv
 ## In the meantime, I am still actively publishing content to the following services so feel free to check them out! 😊
 
 - [Behance](//behance.net/fvcproductions) (design) 🎨
-- [GitHub](https://github.com/fvcproductions) (code) 💻
-- [Scribd](https://www.scribd.com/user/194063411/FVCproductions) (docs) 🗒
+- [GitHub](//github.com/fvcproductions) (code) 💻
+- [Scribd](//www.scribd.com/user/194063411/FVCproductions) (docs) 🗒
 - [SpeakerDeck](//speakerdeck.com/fvcproductions) (presentations) 💬
-- [YouTube](https://www.youtube.com/+fvcproductions2013) (videos) 🎥
+- [YouTube](//www.youtube.com/+fvcproductions2013) (videos) 🎥
 
 ## Overall, I'm super excited about this process and have been actively working on my new website the entirety of this past week. Here's to new beginnings! 🎉
 
-{% include figure url='https://fvcproductions.files.wordpress.com/2017/03/source.gif' alt='The Great Gatsby Toast' %}
+![The Great Gatsby Toast](//fvcproductions.files.wordpress.com/2017/03/source.gif)
 
 > The header image is in reference to that awesome migration Monarch butterflies have every year. 🦋

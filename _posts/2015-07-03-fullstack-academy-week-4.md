@@ -3,7 +3,7 @@ title: "Fullstack Academy - Week 4 💵"
 date: 2015-07-03
 excerpt: "June 29th to July 2nd\\r\\n\\r\ nThere are 57 days of Fullstack Academy. These are days 16 through 19 Week 4."
 header:
-    image: https://fvcproductions.files.wordpress.com/2015/07/banners-001.jpg
+    image: //fvcproductions.files.wordpress.com/2015/07/banners-001.jpg
 tags:
     - alternote
     - avalon
@@ -31,7 +31,7 @@ tags:
 > June 29th to July 2nd
 >
 > There are 57 days of [**Fullstack
-> Academy**](https://www.fullstackacademy.com "Fullstack Academy"). These
+> Academy**](//www.fullstackacademy.com "Fullstack Academy"). These
 > are days 16 through 19 (Week 4). ❤️
 
 
@@ -53,7 +53,7 @@ Day Two - Tuesday
 
 -   Worked more on this SASS framework - it's tedious, but as a fellow
     student wisely stated, "it makes you appreciate
-    [`Bootstrap`](https://getbootstrap.com/) a lot more".
+    [`Bootstrap`](//getbootstrap.com/) a lot more".
 -   Afterwards, we had to make the framework responsive, and I feel as
     though this part was almost too easy. We'll see what happens
     tomorrow.
@@ -76,7 +76,7 @@ Day Three - Wednesday
     -   It was at a steak house so I had limited options, but I learned
         a lot about finances in general.
         -   *Apparently*, there's an app called
-            [Venmo](https://venmo.com/ "Venmo") that is all the rage.
+            [Venmo](//venmo.com/ "Venmo") that is all the rage.
             It's the first time in a while that I actually feel behind
             in the technological aspect. **ba da ba ba ba, I'm lovin
             it!** Hehe.
@@ -93,17 +93,17 @@ Day Four - Thursday
     `jQuery` but not `JS` itself, even though `jQuery` **IS** a `JS`
     library!
     -   It reminded me of this video.
-        https://www.youtube.com/watch?v=NdREEcfaihg
+        //www.youtube.com/watch?v=NdREEcfaihg
 -   For my *Bubblunch* (since my learning team's name is Bubbles), we
     played 2 games of Avalon. In one of the games, I revealed I was
     Merlin by uttering *"Yeah"* in that part of the game where special
     people get to open their eyes and crap so we had to completely start
     over.
     -   If my mind resembled the plot line of the movie
-        [`Inside Out`](https://www.rottentomatoes.com/m/inside_out_2015/ "Inside Out"),
+        [`Inside Out`](//www.rottentomatoes.com/m/inside_out_2015/ "Inside Out"),
         then that moment of complete *FAIL* would become a hilarious
         core memory. ![Inside
-        Out](https://fvcproductions.files.wordpress.com/2015/07/32cea-inside2bout2bpixar2bpost2b2.png)
+        Out](//fvcproductions.files.wordpress.com/2015/07/32cea-inside2bout2bpixar2bpost2b2.png)
 -   *Side Note* I really need to stop getting pizza for lunch. -\_-
 -   After class, there was **Game Night**. Not a single junior came
     (surprisingly), but this was fine with me because I felt as though I
@@ -115,11 +115,11 @@ Day Four - Thursday
     reality, but I feel I've gotten just a tad bit more deceptive
     playing this game. &gt;:)
     -   He's the original Voldemort!
-        ![Mordred](https://i137.photobucket.com/albums/q231/ivycrowned/Avalon/mordred.jpg)
+        ![Mordred](//i137.photobucket.com/albums/q231/ivycrowned/Avalon/mordred.jpg)
 -   *Side Note* I keep coming up with these small web app ideas every
     week and my desire to implement all of them one by one keeps
     growing. For the mean time though, I'm just keeping them as a handy
-    [`Alternote`](https://alternoteapp.com/ "Alternote"). ***You'll be
+    [`Alternote`](//alternoteapp.com/ "Alternote"). ***You'll be
     alive soon enough, my little inklings!***
 
 
@@ -147,29 +147,29 @@ Day Five - Friday
 > So Far
 
 - [The
-    Search](https://fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
+    Search](//fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
 - [The
-    Application](https://fvcproductions.com/blog/2014/12/23/week-20/ "The Application")
+    Application](//fvcproductions.com/blog/2014/12/23/week-20/ "The Application")
 - [The
-    Preparation](https://fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
+    Preparation](//fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
 - [The
-    Interview](https://fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/ "The Interview")
+    Interview](//fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/ "The Interview")
 - [The
-    Decision](https://fvcproductions.com/blog/2015/04/13/what-to-do-week-negative-8/ "The Decision")
+    Decision](//fvcproductions.com/blog/2015/04/13/what-to-do-week-negative-8/ "The Decision")
 - [Fullstack Foundations - Week
-    1](https://fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
+    1](//fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
 - [Fullstack Foundations - Weeks 2 -
-    4](https://fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
+    4](//fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
 - [Fullstack Academy - Week
-    1](https://fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/ "Fullstack Academy - Week 1")
+    1](//fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/ "Fullstack Academy - Week 1")
 - [Fullstack Academy - Week
-    2](https://fvcproductions.com/blog/2015/06/20/fullstack-academy-week-2/ "Fullstack Academy - Week 2")
+    2](//fvcproductions.com/blog/2015/06/20/fullstack-academy-week-2/ "Fullstack Academy - Week 2")
 - [Fullstack Academy - Week
-    3](https://fvcproductions.com/blog/2015/06/26/fullstack-academy-week-3/ "Fulsltack Academy - Week 3")
+    3](//fvcproductions.com/blog/2015/06/26/fullstack-academy-week-3/ "Fulsltack Academy - Week 3")
 
 
 
 > *Tips or tricks?* :idea:
 >
 > > tweet me at
-> > [`@fvcproductions`](https://twitter.com/fvcproductions "Twitter - FVCproductions").
+> > [`@fvcproductions`](//twitter.com/fvcproductions "Twitter - FVCproductions").

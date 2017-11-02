@@ -3,7 +3,7 @@ title: "Fullstack Academy - Reflections 💭"
 date: 2015-08-30
 excerpt: At the end of the day, I'm really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye opening pair programming sessions, and the awesome people.
 header:
-    image: https://fvcproductions.files.wordpress.com/2015/08/banners-0011.jpg
+    image: //fvcproductions.files.wordpress.com/2015/08/banners-0011.jpg
 tags:
     - apple
     - capstone project
@@ -33,7 +33,7 @@ So during my last few days of Fullstack, I was feeling a little something like t
 ====================================================================================
 
 ![I regret
-nothing](https://cdn.smosh.com/sites/default/files/ftpuploads/bloguploads/meme-regret-portal.gif)
+nothing](//cdn.smosh.com/sites/default/files/ftpuploads/bloguploads/meme-regret-portal.gif)
 
 Mainly because the whole thing was a little crazy and stressful, but
 really great, so ergo - *I REGRET NOTHING*.
@@ -55,17 +55,17 @@ span of time.
 
 
 
-![Hack](https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/wrench-128.png)
+![Hack](//cdn2.iconfinder.com/data/icons/ballicons-2-free/100/wrench-128.png)
 
 Hiredot
 -------
 
-Specifically, **[Hiredot](https://github.com/joanaz/HireDot2)** is a
+Specifically, **[Hiredot](//github.com/joanaz/HireDot2)** is a
 portal where current students, potential students, alumni, employers,
 and even guests can explore the various aspects of the Fullstack Academy
 experience. Students and companies can also be matched together through
 their preferences using the [stable marriage
-algorithm](https://www.wikiwand.com/en/Stable_marriage_problem "Stable Marriage").
+algorithm](//www.wikiwand.com/en/Stable_marriage_problem "Stable Marriage").
 
 TODO: [gallery type="slideshow" size="full" link="file"
 ids="2705,2704,2701,2699,2698,2697,2702,2700,2703"\]
@@ -73,7 +73,7 @@ ids="2705,2704,2701,2699,2698,2697,2702,2700,2703"\]
 
 
 ![Friends &
-Family](https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/theatre-128.png)
+Family](//cdn2.iconfinder.com/data/icons/ballicons-2-free/100/theatre-128.png)
 
 Friends & Family Day
 --------------------
@@ -81,7 +81,7 @@ Friends & Family Day
 So my last day involved demoing our capstone projects to everybody's
 friends and families. My brother, Tío, and Tía were able to attend.
 
-\[instagram url=https://instagram.com/p/63Rvp7wGZx/\]
+\[instagram url=//instagram.com/p/63Rvp7wGZx/\]
 
 > A few of the Summer of Code students saying goodbye to my learning
 > team fellow, Jimmy. If it isn't obvious already, he went to UT Austin.
@@ -94,7 +94,7 @@ relatives being around and all.
 My folks went back only slightly earlier before me and headed to China
 Town, so I went home alone on the dreadful subway, got some pizza, and
 watched what would probably be the last episode I ever watch of the show
-[Dating Naked](https://www.vh1.com/shows/dating-naked/ "Dating Naked")
+[Dating Naked](//www.vh1.com/shows/dating-naked/ "Dating Naked")
 (why is it so intriguing?!).
 
 Probably not a very ideal way to end an awesome experience, but then
@@ -102,7 +102,7 @@ again, it was also really relaxing. 😁
 
 
 
-![Traveling](https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/luggage-128.png)
+![Traveling](//cdn2.iconfinder.com/data/icons/ballicons-2-free/100/luggage-128.png)
 
 Going Back Home
 ---------------
@@ -115,7 +115,7 @@ for Friday so I was happy. Also, the fact that I was greeted by my dog,
 Nefer, and my mom's sweet iced tea didn't hurt either.
 
 On Friday, I'd also be starting my course ‘Design 101' on
-[Designlab](https://trydesignlab.com/ "Designlab").
+[Designlab](//trydesignlab.com/ "Designlab").
 
 Friday comes and the course gets me all excited. I'm able to access the
 course a few hours before the interview. I'm even starting to write
@@ -132,16 +132,16 @@ Should be interesting.
 
 
 ![Pricey
-Stuff](https://cdn2.iconfinder.com/data/icons/ballicons-2-free/100/bill-128.png)
+Stuff](//cdn2.iconfinder.com/data/icons/ballicons-2-free/100/bill-128.png)
 
 The Total Cost
 --------------
 
-I use [Mint](https://bywordapp.com/) to track all my costs so it was
+I use [Mint](//bywordapp.com/) to track all my costs so it was
 pretty easy to figure out how much I spent on everything. I simply
 loathe cash.
 
-![Fullstack Spending](https://i.imgur.com/AIvCgHE.png)
+![Fullstack Spending](//i.imgur.com/AIvCgHE.png)
 
 Now, it's pretty easy to figure out that with my `$9,500` tuition cost,
 which is included in the graph above, I spent `$14,220.45` in total
@@ -163,7 +163,7 @@ expenses.
 
 
 ![Time
-Flies](https://cdn4.iconfinder.com/data/icons/ballicons-2-free/100/669347-watch-128.png)
+Flies](//cdn4.iconfinder.com/data/icons/ballicons-2-free/100/669347-watch-128.png)
 
 The Total Time
 --------------
@@ -196,41 +196,41 @@ The **Jubilant** Journey I Took Into the Cave of Digital Hieroglyphics
 ----------------------------------------------------------------------
 
 - [The Search
-    🔍](https://fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
-- [The Application 📝](https://fvcproductions.com/blog/2014/12/23/week-20/)
+    🔍](//fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
+- [The Application 📝](//fvcproductions.com/blog/2014/12/23/week-20/)
 - [The Preparation
-    📚](https://fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/)
+    📚](//fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/)
 - [The Interview
-    💻](https://fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/)
+    💻](//fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/)
 - [The Decision
-    ⏳](https://fvcproductions.com/blog/2015/04/13/what-to-do-week-negative-8/)
+    ⏳](//fvcproductions.com/blog/2015/04/13/what-to-do-week-negative-8/)
 - [Fullstack Foundations - Week 1
-    ⚡️](https://fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/)
+    ⚡️](//fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/)
 - [Fullstack Foundations - Weeks 2 to 4
-    🚀](https://fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/)
+    🚀](//fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/)
 - [Fullstack Academy - Week 1
-    💫](https://fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/)
+    💫](//fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/)
 - [Fullstack Academy - Week 2
-    👬](https://fvcproductions.com/blog/2015/06/20/fullstack-academy-week-2/)
+    👬](//fvcproductions.com/blog/2015/06/20/fullstack-academy-week-2/)
 - [Fullstack Academy - Week 3
-    🔦🔦🔦](https://fvcproductions.com/blog/2015/06/26/fullstack-academy-week-3/)
+    🔦🔦🔦](//fvcproductions.com/blog/2015/06/26/fullstack-academy-week-3/)
 - [Fullstack Academy - Week 4
-    💲🔮🔮💲](https://fvcproductions.com/blog/2015/07/03/fullstack-academy-week-4/)
+    💲🔮🔮💲](//fvcproductions.com/blog/2015/07/03/fullstack-academy-week-4/)
 - [Fullstack Academy - Week 5
-    💕💓💕](https://fvcproductions.com/blog/2015/07/11/fullstack-academy-week-5/)
+    💕💓💕](//fvcproductions.com/blog/2015/07/11/fullstack-academy-week-5/)
 - [Fullstack Academy - Week 6 and Review Week
-    🃏🃏🃏🃏🃏🃏](https://fvcproductions.com/blog/2015/07/25/fullstack-academy-week-6-review-week/)
+    🃏🃏🃏🃏🃏🃏](//fvcproductions.com/blog/2015/07/25/fullstack-academy-week-6-review-week/)
 - [ONE WEEK OF FULLSTACK LEFT
-    😲](https://fvcproductions.com/blog/2015/08/19/one-week-left-of-fullstack/)
+    😲](//fvcproductions.com/blog/2015/08/19/one-week-left-of-fullstack/)
 - [Fullstack Academy |
-    Reflections](https://fvcproductions.com/blog/2015/08/30/fullstack-academy-reflections/)
+    Reflections](//fvcproductions.com/blog/2015/08/30/fullstack-academy-reflections/)
     🕝
 
 
 
 > *Tips or tricks?* :idea:
 >
-> > tweet me at [`@fvcproductions`](https://twitter.com/fvcproductions).
+> > tweet me at [`@fvcproductions`](//twitter.com/fvcproductions).
 
 
 
@@ -238,5 +238,5 @@ The **Jubilant** Journey I Took Into the Cave of Digital Hieroglyphics
 website!*
 
 [![Testimonial
-Section](https://fvcproductions.files.wordpress.com/2015/08/summer-of-code-fullstack-academy1.png)](https://fullstackacademy.com/summer-of-code) Testimonial
+Section](//fvcproductions.files.wordpress.com/2015/08/summer-of-code-fullstack-academy1.png)](//fullstackacademy.com/summer-of-code) Testimonial
 Section

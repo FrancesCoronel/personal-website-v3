@@ -3,7 +3,7 @@ title: "Binary Trees & Recursion"
 date: 2014-12-03
 excerpt: "CSC 251 Study Guide"
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/12/binary_fractal_tree_03_30_60_065_075.png?w=800&h=340&crop=1
+    image: //fvcproductions.files.wordpress.com/2014/12/binary_fractal_tree_03_30_60_065_075.png?w=800&h=340&crop=1
 tags:
     - ancestor
     - balanced
@@ -53,7 +53,7 @@ CSC251 Study Guide 😓
     -   structure where each item is called a node and where each node
         can have a max of two children, left and right child node
     -   diagram:\
-        ![](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/pix/tree1.bmp)
+        ![](//www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/pix/tree1.bmp)
 -   *leaf*
     -   node with no children
 -   *descendant*
@@ -66,17 +66,17 @@ CSC251 Study Guide 😓
         subtree) and less than value in its right child and any of its
         descendants (nodes in right subtree)
     -   diagram:\
-        ![](https://programminggeeks.com/wp-content/uploads/2014/01/nodes-in-binary-search-tree.png)
+        ![](//programminggeeks.com/wp-content/uploads/2014/01/nodes-in-binary-search-tree.png)
 -   *full binary tree*
     -   binary tree where all of leaves are on same level and every
         nonleaf node has 2 children
 -   *complete binary tree*
     -   binary tree that is full or full through next-to-last level,
         with leaves on last level as far as possible\
-        ![](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/pix/full_complete.bmp)
+        ![](//www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/pix/full_complete.bmp)
 -   *balanced tree*
     -   left and right subtrees of any node are the same height\
-        ![](https://www.stoimen.com/blog/wp-content/uploads/2012/06/10.-Balanced-or-not.png)
+        ![](//www.stoimen.com/blog/wp-content/uploads/2012/06/10.-Balanced-or-not.png)
 
 
 
@@ -87,7 +87,7 @@ CSC251 Study Guide 😓
 -   *postorder*
     -   left, right, node/root
 
-![](https://www.cse.unt.edu/~donr/courses/2050/images/Figure1010.gif)
+![](//www.cse.unt.edu/~donr/courses/2050/images/Figure1010.gif)
 
 > **FUN TIP I** 🌟
 >
@@ -137,7 +137,7 @@ CSC251 Study Guide 😓
     -   quick sort, merge sort, flowers,Towers of Hanoi, Fibonacci
         sequence, factorials
     -   towers of hanoi fun pic:\
-        ![](https://upload.wikimedia.org/wikipedia/commons/6/60/Tower_of_Hanoi_4.gif)
+        ![](//upload.wikimedia.org/wikipedia/commons/6/60/Tower_of_Hanoi_4.gif)
 
 
 
@@ -230,4 +230,4 @@ CSC251 Study Guide 😓
 
 > Tips or Tricks? 🔎
 >
-> > Contact me [@fvcproductions](https://twitter.com/fvcproductions)
+> > Contact me [@fvcproductions](//twitter.com/fvcproductions)

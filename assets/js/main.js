@@ -1,13 +1,12 @@
 $(document).ready(function () {
-
-  /* Light Gallery */
+  // Light gallery initialization
   $("#lightgallery").lightGallery({
     thumbnail: true,
     animateThumb: true,
     showThumbByDefault: true
   });
 
-  /* Changing Tab Title */
+  // Changing title of tab
   var title = document.title;
   var altTitles = [
     "Whatcha up to? 👀",
@@ -32,8 +31,7 @@ $(document).ready(function () {
     document.title = title;
   });
 
-  /* Twemoji */
-
+  // Twemoji
   // Set the size of the rendered Emojis
   // This can be set to 16x16, 36x36, or 72x72
   twemoji.parse(document.body, {
@@ -45,25 +43,26 @@ $(document).ready(function () {
     $('.navbar-brand img').attr('src', '/assets/img/logo-red.svg');
   });
 
+  // Google Search
   $("input.gsc-search-button.gsc-search-button-v2").attr('src', 'https://www.clker.com/cliparts/Y/3/d/w/R/r/search-icon-white-hi.png');
+
+  // Return to Top
+  $(window).scroll(function () {
+    if ($(this).scrollTop() >= 50) { // If page is scrolled more than 50px
+      $('#return-to-top').fadeIn(200); // Fade in the arrow
+    } else {
+      $('#return-to-top').fadeOut(200); // Else fade out the arrow
+    }
+  });
+
+  $('#return-to-top').click(function () { // When arrow is clicked
+    $('body,html').animate({
+      scrollTop: 0 // Scroll to top of body
+    }, 500);
+  });
 });
 
-// ===== Scroll to Top ====
-$(window).scroll(function () {
-  if ($(this).scrollTop() >= 50) { // If page is scrolled more than 50px
-    $('#return-to-top').fadeIn(200); // Fade in the arrow
-  } else {
-    $('#return-to-top').fadeOut(200); // Else fade out the arrow
-  }
-});
-
-$('#return-to-top').click(function () { // When arrow is clicked
-  $('body,html').animate({
-    scrollTop: 0 // Scroll to top of body
-  }, 500);
-});
-
-// Passive Listener - Touch Start
+// Passive Event Listener
 document.addEventListener('touchstart', onTouchStart, {
   passive: true
 });

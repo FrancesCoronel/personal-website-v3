@@ -3,7 +3,7 @@ title: "The Best 50 Insults"
 date: 2014-03-04
 excerpt: "I first started compiling this long list back in August 2013 and they always made/make me laugh my head clean off."
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/03/banners-002.jpg?w=1024&h=436&crop=1
+    image: //fvcproductions.files.wordpress.com/2014/03/banners-002.jpg?w=1024&h=436&crop=1
 tags:
     - accountability
     - arsenic
@@ -144,6 +144,6 @@ Last sentence was kinda stupid, but yeah hope you enjoy sucka! :razz:
 
 ##### 48. This is an excellent time for you to become a missing person.
 
-##### 49. You sir are as thick as a damn bull's walt. :?: (see Urban Dictionary's [definition](https://www.urbandictionary.com/define.php?term=bull%20walt))
+##### 49. You sir are as thick as a damn bull's walt. :?: (see Urban Dictionary's [definition](//www.urbandictionary.com/define.php?term=bull%20walt))
 
-##### 50. You are the reason some animals eat their young. :idea: (seriously, that's no joke - it's on [Wiki](https://en.wikipedia.org/wiki/Infanticide_(zoology))!)
+##### 50. You are the reason some animals eat their young. :idea: (seriously, that's no joke - it's on [Wiki](//en.wikipedia.org/wiki/Infanticide_(zoology))!)

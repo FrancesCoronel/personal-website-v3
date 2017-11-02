@@ -3,7 +3,7 @@ title: "The Interconnectedness of Social Networking Sites"
 date: 2014-06-21
 excerpt: "So, I've made a somewhat interesting discovery."
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/06/version-1.jpg?w=1024&h=435&crop=1
+    image: //fvcproductions.files.wordpress.com/2014/06/version-1.jpg?w=1024&h=435&crop=1
 tags:
     - behance
     - Facebook
@@ -39,24 +39,24 @@ Discovery\_8Pm:
 When one has an account with all these different social networking sites
 (I have a few of these myself, actually), specifically:
 
-1. [Google+](https://www.google.com/+/learnmore/) (the Facebook
+1. [Google+](//www.google.com/+/learnmore/) (the Facebook
     wanna-be)
-2. [Behance](https://www.behance.net) (where creativity can be
+2. [Behance](//www.behance.net) (where creativity can be
     unleashed)
-3. [LinkedIn](https://www.linkedin.com) (making business people look
+3. [LinkedIn](//www.linkedin.com) (making business people look
     good)
-4.  [Wordpress](https://www.wordpress.com) (professional looking posts)
-5.  [Quora](https://www.quora.com) (questions and answers)
-6.  [Tumblr](https://www.tumblr.com) (diverse posts)
-7.  [SoundCloud](https://www.soundcloud.com) (music)
-8.  [Vimeo](https://www.vimeo.com) (high quality videos)
-9.  [Scribd](https://www.scribd.com) (documents/books)
-10. [YouTube](https://www.youtube.com) (the best and worst videos)
-11. [Twitter](https://www.twitter.com) (tweet, tweet)
-12. [Quizlet](https://www.quizlet.com) (quizzes all abound)
-13. [a Facebook Account](https://www.facebook.com) (casual stalking)
+4.  [Wordpress](//www.wordpress.com) (professional looking posts)
+5.  [Quora](//www.quora.com) (questions and answers)
+6.  [Tumblr](//www.tumblr.com) (diverse posts)
+7.  [SoundCloud](//www.soundcloud.com) (music)
+8.  [Vimeo](//www.vimeo.com) (high quality videos)
+9.  [Scribd](//www.scribd.com) (documents/books)
+10. [YouTube](//www.youtube.com) (the best and worst videos)
+11. [Twitter](//www.twitter.com) (tweet, tweet)
+12. [Quizlet](//www.quizlet.com) (quizzes all abound)
+13. [a Facebook Account](//www.facebook.com) (casual stalking)
 14. [a Facebook
-    Page](https://www.facebook.com/help/174987089221178 "What is a Facebook Page?")
+    Page](//www.facebook.com/help/174987089221178 "What is a Facebook Page?")
     (organization stalking)
 
 there's a lot one can't not do. Which is exciting.
@@ -78,15 +78,15 @@ differently. I prefer the one that looks like this circle where
 everything goes round and round, infinitely.
 
 It's clear then that the average one essentially has no need for
-[IFTT](https://ifttt.com)!
+[IFTT](//ifttt.com)!
 
-[IFTT](https://ifttt.com), by the way, is the utility that promises to
+[IFTT](//ifttt.com), by the way, is the utility that promises to
 put the Internet to work for you. A few examples of how IFTT are shown
 below.
 
 ![Screen
 Shot 2014-05-01 at 6.41.35
-PM](https://fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-6-41-35-pm.png) Vimeo, Twitter, Tumblr, and
+PM](//fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-6-41-35-pm.png) Vimeo, Twitter, Tumblr, and
 Wordpress are all producing output to the Facebook Page which then
 receives it as a form of input
 
@@ -102,28 +102,28 @@ could end up looking something like this:
 
 ![Screen
 Shot 2014-05-01 at 6.19.08
-PM](https://fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-6-19-08-pm.png)So many connections - ergo, so many
+PM](//fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-6-19-08-pm.png)So many connections - ergo, so many
 reposts of the same exact thing!!!
 
 So focusing on the Facebook page, we get a diagram that looks like this:
 
 ![Screen
 Shot 2014-05-01 at 6.33.22
-PM](https://fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-6-33-22-pm.png) All the links to the Facebook
+PM](//fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-6-33-22-pm.png) All the links to the Facebook
 Page
 
 That's not to say IFTT is not totally lost with all these social
 networking sites having the options there.
 
 I myself still use IFTT for making personal recipes and using the [most
-useful, popular ones](https://ifttt.com/recipes#popular), like backing
+useful, popular ones](//ifttt.com/recipes#popular), like backing
 up my Apple contacts to Google, updating profile pictures
 simultaneously, sending emails at certain times, etc. Here's an example
 I still use today:
 
 ![Screen
 Shot 2014-05-01 at 7.55.46
-PM](https://fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-7-55-46-pm.png) Behance project feed to Tumblr
+PM](//fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-7-55-46-pm.png) Behance project feed to Tumblr
 blog
 
 At the core of its own recipe, IFTT has a simple if-statement one could
@@ -140,14 +140,14 @@ And all the while, I'll be waiting eagerly/cautiously of the moment
 where some sort of revolutionary virtual/biological "Grid" is created
 and everyone is truly connected one way or another. Could end up bad,
 though. [Really
-bad.](https://www.youtube.com/watch?v=IzryBRPwsog "Plurality.") Well...
+bad.](//www.youtube.com/watch?v=IzryBRPwsog "Plurality.") Well...
 
 :twisted:
 
 [![Version
-2](https://fvcproductions.files.wordpress.com/2014/06/version-2.jpg?w=696)](https://fvcproductions.files.wordpress.com/2014/06/version-2.jpg)
+2](//fvcproductions.files.wordpress.com/2014/06/version-2.jpg?w=696)](//fvcproductions.files.wordpress.com/2014/06/version-2.jpg)
 Version 2 of the Diagram
 
 ![Screen
 Shot 2014-05-01 at 6.28.05
-PM](https://fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-6-28-05-pm.png) Version 3
+PM](//fvcproductions.files.wordpress.com/2014/06/screen-shot-2014-05-01-at-6-28-05-pm.png) Version 3

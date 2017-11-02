@@ -17,7 +17,7 @@ tags:
     - python bits
     - strings python
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/06/python.jpg?w=1024&h=435&crop=1
+    image: //fvcproductions.files.wordpress.com/2014/06/python.jpg?w=1024&h=435&crop=1
 ---
 
 ### Hello, hello, hello!
@@ -60,7 +60,7 @@ Now we'll be covering 7 "problems" today…
 
 The full program that can be compiled correctly without any errors can
 be found at Github
-[here](https://github.com/fvcproductions/BITS/tree/master/Python-Bits),
+[here](//github.com/fvcproductions/BITS/tree/master/Python-Bits),
 so that if you ever get stuck and don't feel like stressing, you can
 check that out!
 
@@ -77,12 +77,12 @@ The latest version as of March 4, 2014 is Python 3.3.4, and I'll just be
 referring to it as Python 3.0.
 
 As an Apple fanatic, I personally use
-[CodeRunner](https://krillapps.com/coderunner/) to compile and run my
+[CodeRunner](//krillapps.com/coderunner/) to compile and run my
 little programs. Although it does cost \$9.99 on Apple's App Store… so
 you know - that's your go.
 
 However, it is recommended by most web-developers that you learn how to
-use [SublimeText](https://www.sublimetext.com) if you intend to do more
+use [SublimeText](//www.sublimetext.com) if you intend to do more
 programming in the future. SublimeText is recognized way more by top
 web-developers and can be run on Linux, Windows, and OSX (so that's a
 plus!). The downside is that SublimeText requires a purchase license for
@@ -93,11 +93,11 @@ ANYHOW, SublimeText costs \$70, but there are PLENTY of free options out
 there, so do NOT give up if you're on a tight budget.
 
 The popular free ones are
-[TextWrangler](https://www.barebones.com/products/textwrangler/), [Xcode](https://developer.apple.com/xcode/)
-(if you have OSX), [Eclipse](https://www.eclipse.org) and some popular
-expensive ones are [Coda](https://panic.com/coda/),
-[BBEdit](https://www.barebones.com/products/bbedit/),
-[PyCharm](https://www.jetbrains.com/pycharm/), and SublimeText 2…which I
+[TextWrangler](//www.barebones.com/products/textwrangler/), [Xcode](//developer.apple.com/xcode/)
+(if you have OSX), [Eclipse](//www.eclipse.org) and some popular
+expensive ones are [Coda](//panic.com/coda/),
+[BBEdit](//www.barebones.com/products/bbedit/),
+[PyCharm](//www.jetbrains.com/pycharm/), and SublimeText 2…which I
 mentioned already.
 
 Yarharhar. Okay, moving on.
@@ -117,7 +117,7 @@ If you want to run Python 3.0 on CodeRunner, you will have to
     *Applications/Utilities* on your Mac and type in "python3"
 6.  I have it installed already so this image shows up:\
     ![Already
-    Installed](https://fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-04-at-5-19-30-pm.png)
+    Installed](//fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-04-at-5-19-30-pm.png)
 7.  If that doesn't show up, you probably screwed up, or I suck at
     giving instructions…check Google.
 8.  If it does work, we can work with CodeRunner now! :D
@@ -126,7 +126,7 @@ If you want to run Python 3.0 on CodeRunner, you will have to
 10. Then go ahead and create a new language with the + button
 11. It should look something like this:\
     ![Adding Python
-    3.0](https://fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-04-at-11-47-49-am.png)
+    3.0](//fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-04-at-11-47-49-am.png)
 12. Once you've done that, you can choose Python 3 from your scroll bar
     of languages…and FINALLY — you can freaking use Python 3.0.
 
@@ -269,4 +269,4 @@ You just got introduced to your first two built-in mathematical
 function!!
 
 Python has a BUNCH of these and if you're curious, a list of them can be
-found [here](https://docs.python.org/2/library/math.html).
+found [here](//docs.python.org/2/library/math.html).

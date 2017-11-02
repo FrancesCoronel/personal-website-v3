@@ -10,14 +10,13 @@ My blog and portfolio all in one. You can view it on GitHub Pages at [fvcproduct
 
 <!-- TOC -->
 
-- [Installation](#installation)
-- [Usage](#usage)
-  - [To-Do](#to-do)
-  - [Collections](#collections)
-- [Contributing](#contributing)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
+- [fvcproductions.github.io](#fvcproductionsgithubio)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Contact](#contact)
+  - [Acknowledgements](#acknowledgements)
+  - [License](#license)
 
 <!-- /TOC -->
 
@@ -72,92 +71,6 @@ I use CodeKit 3 (`config.codekit3`) to handle compilation.
 ## Usage
 
 This website was created from the bottom-up and is a migration from my Wordpress website at [`fvcproductions.wordpress.com`](https://fvcproductions.wordpress.com).
-
-### To-Do
-
-- better alt tags for images in galleries
-- add galleries
-- update portfolio
-- update posts
-- IFTTT to social media for new posts and projects
-- 100 score for Lighthouse (PWA)
-- use [Isotope](https://isotope.metafizzy.co/) to filter posts by category
-- use [lazy-loading](https://www.adamwills.io/blog/responsive-images-hugo/) to load posts
-  - [lazy-sizes](https://github.com/aFarkas/lazysizes)
-- migrate to [Hugo](https://gohugo.io/) with [victor-hugo](https://github.com/netlify/victor-hugo) boilerplate
-- include Patreon link in default template for portfolio and posts
-- replace bare fvcproductions.com links with relative links
-- replace strike through html
-- get rid of line breaks
-- put all events on one page with load more button and lots of filter categories (one post can have multiple categories)
-  - Speaker
-  - Volunteer/Mentor
-  - Conference
-  - Hackathon
-  - Program
-  - School
-  - Post
-  - Project
-  - Job
-  - School
-  - Program
-
-### Collections
-
-> FVCproductions Branding
-
-- Logos
-  - behance (lots)
-- Flavicons
-- Banners
-- Websites
-  - behance
-    - strikingly theme
-    - strike 2
-    - tdEditora
-    - tdEditor updated
-
-> User Interfaces
-
-- [ ] old ones
-- [ ] el capitan
-- [ ] obsessed with labs
-- [ ] needs flavours
-- [ ] baby pink
-- [ ] snow white
-- [ ] black apple
-
-> Icon & Logo Designs
-
-- [ ] Speaker Deck
-- [ ] Mora
-- [ ] TSP
-- [ ] FVCproductions
-- merge two behance into one
-- [ ] Fullstack Academy Award
-- [ ] Ameot
-- [ ] Popcorn Time
-- [ ] Writefull
-- [ ] Alchemize
-- [ ] Blogo
-- [ ] Hipster Mermaid
-- [ ] Raindrop
-- [ ] Bebop.me
-- [ ] RESPECT
-- [ ] scribd/github ring
-
-> Print
-
-- [ ] npmCamp
-- [ ] TAPIA
-- [ ] TCC
-- [ ] Fullstack Academy
-- [ ] 2015 conferences
-- [ ] Party Activities
-- [ ] Mother's Day Card - Netflix
-- [ ] leh business card
-- [ ] Grad Party
-- [ ] Chinese Wall (4 from Behance)
 
 ## Contributing
 

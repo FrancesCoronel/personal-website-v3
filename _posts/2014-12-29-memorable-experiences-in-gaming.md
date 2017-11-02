@@ -3,7 +3,7 @@ title: "My Most Memorable Experiences in Gaming"
 date: 2014-12-29
 excerpt: "One month left till the AAAI 2015 Conference."
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/12/gaming-backgrounds.jpg?w=675&h=340&crop=1
+    image: //fvcproductions.files.wordpress.com/2014/12/gaming-backgrounds.jpg?w=675&h=340&crop=1
 tags:
     - chaos faction
     - chronicles of narnia
@@ -56,61 +56,61 @@ Fantasy/Medieval\
 
 
 
-[![](https://graphics8.nytimes.com/images/2008/09/05/arts/05spore-600.jpg)](https://graphics8.nytimes.com/images/2008/09/05/arts/05spore-600.jpg)
+[![](//graphics8.nytimes.com/images/2008/09/05/arts/05spore-600.jpg)](//graphics8.nytimes.com/images/2008/09/05/arts/05spore-600.jpg)
 
-1\) [**Spore**](https://www.spore.com) - 👾 Mac
+1\) [**Spore**](//www.spore.com) - 👾 Mac
 
 > AHHH, EVOLUTION.
 
 
 
-[![](https://screenshots.en.sftcdn.net/en/scrn/69659000/69659920/dont-starve-02-700x393.jpg)](https://screenshots.en.sftcdn.net/en/scrn/69659000/69659920/dont-starve-02-700x393.jpg)
+[![](//screenshots.en.sftcdn.net/en/scrn/69659000/69659920/dont-starve-02-700x393.jpg)](//screenshots.en.sftcdn.net/en/scrn/69659000/69659920/dont-starve-02-700x393.jpg)
 
-2\) [**Don't Starve**](https://www.dontstarvegame.com) - 💀 Mac
+2\) [**Don't Starve**](//www.dontstarvegame.com) - 💀 Mac
 
 > I wrote a
-> [review](https://fvcproductions.com/blog/2014/05/02/a-review-of-dont-starve/)
+> [review](//fvcproductions.com/blog/2014/05/02/a-review-of-dont-starve/)
 > of this little guy!
 
 
 
-![](https://www.rockpapershotgun.com/images/11/aug/limb4.jpg)
+![](//www.rockpapershotgun.com/images/11/aug/limb4.jpg)
 
-3\) [**Limbo**](https://playdead.com/limbo/) - 🔓 Mac
+3\) [**Limbo**](//playdead.com/limbo/) - 🔓 Mac
 
 > Can't wait till Inside comes out - cause Limbo was friggin'
 > awesommmeeee! I also wrote a
-> [review](https://fvcproductions.com/blog/2014/09/22/limbo-review/) on this
+> [review](//fvcproductions.com/blog/2014/09/22/limbo-review/) on this
 > game too because it was friggin' amazinnnngggg!!!
 
 
 
-[![](https://static.gamesradar.com/images/mb/GamesRadar/us/Games/S/Sims%20Medieval/Bulk%20Viewer/PC/2010-11-11/TSM_Wizard_CAS_2--article_image.jpg)](https://static.gamesradar.com/images/mb/GamesRadar/us/Games/S/Sims%20Medieval/Bulk%20Viewer/PC/2010-11-11/TSM_Wizard_CAS_2--article_image.jpg)
+[![](//static.gamesradar.com/images/mb/GamesRadar/us/Games/S/Sims%20Medieval/Bulk%20Viewer/PC/2010-11-11/TSM_Wizard_CAS_2--article_image.jpg)](//static.gamesradar.com/images/mb/GamesRadar/us/Games/S/Sims%20Medieval/Bulk%20Viewer/PC/2010-11-11/TSM_Wizard_CAS_2--article_image.jpg)
 
-4\) [**The Sims Medieval**](https://www.ea.com/the-sims-medieval)/[**The
-Sims 3**](https://www.thesims3.com)/[**The Sims
-2**](https://en.wikipedia.org/wiki/The_Sims_2) - 👤 Mac
+4\) [**The Sims Medieval**](//www.ea.com/the-sims-medieval)/[**The
+Sims 3**](//www.thesims3.com)/[**The Sims
+2**](//en.wikipedia.org/wiki/The_Sims_2) - 👤 Mac
 
 > Gets boring after a while (like any Sims game), but it's pretty good
 > while it lasts.
 
 
 
-[![](https://86bb71d19d3bcb79effc-d9e6924a0395cb1b5b9f03b7640d26eb.r91.cf1.rackcdn.com/wp-content/uploads/2012/10/the-walking-dead-game-episode-4-walkthrough.jpg)](https://86bb71d19d3bcb79effc-d9e6924a0395cb1b5b9f03b7640d26eb.r91.cf1.rackcdn.com/wp-content/uploads/2012/10/the-walking-dead-game-episode-4-walkthrough.jpg)
+[![](//86bb71d19d3bcb79effc-d9e6924a0395cb1b5b9f03b7640d26eb.r91.cf1.rackcdn.com/wp-content/uploads/2012/10/the-walking-dead-game-episode-4-walkthrough.jpg)](//86bb71d19d3bcb79effc-d9e6924a0395cb1b5b9f03b7640d26eb.r91.cf1.rackcdn.com/wp-content/uploads/2012/10/the-walking-dead-game-episode-4-walkthrough.jpg)
 
-5\) [**The Walking Dead**](https://www.telltalegames.com/walkingdead/) -
+5\) [**The Walking Dead**](//www.telltalegames.com/walkingdead/) -
 💀 [iOS (Season
-1)](https://itunes.apple.com/us/app/walking-dead-the-game/id524731580?mt=8)
+1)](//itunes.apple.com/us/app/walking-dead-the-game/id524731580?mt=8)
 and [Mac (Season
-2)](https://www.macgamestore.com/product/3034/The-Walking-Dead-Season-2/)
+2)](//www.macgamestore.com/product/3034/The-Walking-Dead-Season-2/)
 
 > Intensely intense game. Would recommend to anyone. That is all.
 
 
 
-[![](https://pad3.whstatic.com/images/thumb/3/3d/Make-Treasure-Cards-in-Wizard-101-Step-3.jpg/670px-Make-Treasure-Cards-in-Wizard-101-Step-3.jpg)](https://pad3.whstatic.com/images/thumb/3/3d/Make-Treasure-Cards-in-Wizard-101-Step-3.jpg/670px-Make-Treasure-Cards-in-Wizard-101-Step-3.jpg)
+[![](//pad3.whstatic.com/images/thumb/3/3d/Make-Treasure-Cards-in-Wizard-101-Step-3.jpg/670px-Make-Treasure-Cards-in-Wizard-101-Step-3.jpg)](//pad3.whstatic.com/images/thumb/3/3d/Make-Treasure-Cards-in-Wizard-101-Step-3.jpg/670px-Make-Treasure-Cards-in-Wizard-101-Step-3.jpg)
 
-6\) [**Wizard 101**](https://wizard101.com) - 🔮 MMORPG
+6\) [**Wizard 101**](//wizard101.com) - 🔮 MMORPG
 
 > I used to actually be addicted to this game. But one day, my account
 > got borrowed by my brother, which in turn got borrowed by somebody
@@ -120,9 +120,9 @@ and [Mac (Season
 
 
 
-[![](https://i2.cdnds.net/13/19/618x330/gamning-runescape-3-screenshot-9.jpg)](https://i2.cdnds.net/13/19/618x330/gamning-runescape-3-screenshot-9.jpg)
+[![](//i2.cdnds.net/13/19/618x330/gamning-runescape-3-screenshot-9.jpg)](//i2.cdnds.net/13/19/618x330/gamning-runescape-3-screenshot-9.jpg)
 
-7\) [**Runescape**](https://runescape.com) - 🔮 MMORPG
+7\) [**Runescape**](//runescape.com) - 🔮 MMORPG
 
 > I was a member from 2006 until mid 2014. My account got hacked into by
 > 3rd party software so Runescape banned my account from ever playing
@@ -132,25 +132,25 @@ and [Mac (Season
 > was cool. Here are some screenshots showing my "offenses":
 >
 > [![Runescape
-> Ban](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-29-13-46-56.png)](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-29-13-46-56.png)
+> Ban](//fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-29-13-46-56.png)](//fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-29-13-46-56.png)
 > Such is life.
 >
 >  
 
 
 
-[![](https://robot-dinosaur.com/wp-content/uploads/2014/02/Project-Zomboid.jpg)](https://robot-dinosaur.com/wp-content/uploads/2014/02/Project-Zomboid.jpg)
+[![](//robot-dinosaur.com/wp-content/uploads/2014/02/Project-Zomboid.jpg)](//robot-dinosaur.com/wp-content/uploads/2014/02/Project-Zomboid.jpg)
 
-8\) [**Project Zomboid**](https://projectzomboid.com) - 💀 PC
+8\) [**Project Zomboid**](//projectzomboid.com) - 💀 PC
 
 > Having mods are cool. It's kind of a lonely game though. 😔
 
 
 
-[![](https://i.telegraph.co.uk/multimedia/archive/01949/Harry_Potter_and_t_1949984i.jpg)](https://i.telegraph.co.uk/multimedia/archive/01949/Harry_Potter_and_t_1949984i.jpg)
+[![](//i.telegraph.co.uk/multimedia/archive/01949/Harry_Potter_and_t_1949984i.jpg)](//i.telegraph.co.uk/multimedia/archive/01949/Harry_Potter_and_t_1949984i.jpg)
 
 9\) [**Harry Potter - Video Game
-Series**](https://harrypotter.wikia.com/wiki/Harry_Potter_(video_game_series))
+Series**](//harrypotter.wikia.com/wiki/Harry_Potter_(video_game_series))
 - 🔮 PC
 
 > I literally played every single game in this series and they never let
@@ -158,121 +158,121 @@ Series**](https://harrypotter.wikia.com/wiki/Harry_Potter_(video_game_series))
 
 
 
-[![](https://angelsworld4u.net/wp-content/uploads/2014/03/The-Chronicles-of-Narnia-Prince-Caspian-7.jpg)](https://angelsworld4u.net/wp-content/uploads/2014/03/The-Chronicles-of-Narnia-Prince-Caspian-7.jpg)
+[![](//angelsworld4u.net/wp-content/uploads/2014/03/The-Chronicles-of-Narnia-Prince-Caspian-7.jpg)](//angelsworld4u.net/wp-content/uploads/2014/03/The-Chronicles-of-Narnia-Prince-Caspian-7.jpg)
 
 10\) [**The Chronicles of Narnia: Prince
-Caspian**](https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_Prince_Caspian_(video_game))
+Caspian**](//en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_Prince_Caspian_(video_game))
 - 🔮 PS2
 
 > `Fun.equals('defeating ogres');`
 
 
 
-[![](https://www.impulsegamer.com/ps2/eragon3.jpg)](https://www.impulsegamer.com/ps2/eragon3.jpg)
+[![](//www.impulsegamer.com/ps2/eragon3.jpg)](//www.impulsegamer.com/ps2/eragon3.jpg)
 
-11\) [**Eragon**](https://en.wikipedia.org/wiki/Eragon_(video_game)) - 🔮
-[PS2](https://www.playstation.com/en-us/games/eragon-ps2/) and [Nintendo
-DS](https://www.ign.com/games/eragon/nds-823205)
+11\) [**Eragon**](//en.wikipedia.org/wiki/Eragon_(video_game)) - 🔮
+[PS2](//www.playstation.com/en-us/games/eragon-ps2/) and [Nintendo
+DS](//www.ign.com/games/eragon/nds-823205)
 
 > `Fun.equals('defeating ogres');`
 
 
 
-[![](https://www.virginmedia.com/images/New_Super_Mario_Bros.jpg)](https://www.virginmedia.com/images/New_Super_Mario_Bros.jpg)
+[![](//www.virginmedia.com/images/New_Super_Mario_Bros.jpg)](//www.virginmedia.com/images/New_Super_Mario_Bros.jpg)
 
 12\) [**New Super Mario
-Bros.**](https://newsupermariobrosds.nintendo.com) - 🔥 Nintendo DS
+Bros.**](//newsupermariobrosds.nintendo.com) - 🔥 Nintendo DS
 
 > Playing as Luigi with someone else was so nice to win!
 
 
 
-[![](https://cdn02.nintendo-europe.com/media/images/06_screenshots/games_5/nintendo_ds_7/nds_mariokartds/NDS_MarioKartDS_05.jpg)](https://cdn02.nintendo-europe.com/media/images/06_screenshots/games_5/nintendo_ds_7/nds_mariokartds/NDS_MarioKartDS_05.jpg)
+[![](//cdn02.nintendo-europe.com/media/images/06_screenshots/games_5/nintendo_ds_7/nds_mariokartds/NDS_MarioKartDS_05.jpg)](//cdn02.nintendo-europe.com/media/images/06_screenshots/games_5/nintendo_ds_7/nds_mariokartds/NDS_MarioKartDS_05.jpg)
 
-13\) [**Mario Kart**](https://en.wikipedia.org/wiki/Mario_Kart) - 🔥
-[Nintendo DS](https://www.mariokart.com/mkds/launch/index.html) and
-[Wii](https://www.mariokart.com/wii/launch/)
+13\) [**Mario Kart**](//en.wikipedia.org/wiki/Mario_Kart) - 🔥
+[Nintendo DS](//www.mariokart.com/mkds/launch/index.html) and
+[Wii](//www.mariokart.com/wii/launch/)
 
 > I always got hit by shells!
 
 
 
-[![](https://d3esbfg30x759i.cloudfront.net/ss/zlCfzSk6HzMBkcWj_9)](https://d3esbfg30x759i.cloudfront.net/ss/zlCfzSk6HzMBkcWj_9)
+[![](//d3esbfg30x759i.cloudfront.net/ss/zlCfzSk6HzMBkcWj_9)](//d3esbfg30x759i.cloudfront.net/ss/zlCfzSk6HzMBkcWj_9)
 
 14\) [**Super Smash
-Bros**](https://en.wikipedia.org/wiki/Super_Smash_Bros.) - 🔥
-[Wii](https://www.smashbros.com/us/) and PC with
-[Dolphin](https://dolphin-emu.org)
+Bros**](//en.wikipedia.org/wiki/Super_Smash_Bros.) - 🔥
+[Wii](//www.smashbros.com/us/) and PC with
+[Dolphin](//dolphin-emu.org)
 
 > Playing with others and alone can be really fun and really takes your
 > mind off of things.
 
 
 
-[![](https://thegamershub.com/wp-content/uploads/2013/10/Just-Dance-2014-screen-2.jpg)](https://thegamershub.com/wp-content/uploads/2013/10/Just-Dance-2014-screen-2.jpg)
+[![](//thegamershub.com/wp-content/uploads/2013/10/Just-Dance-2014-screen-2.jpg)](//thegamershub.com/wp-content/uploads/2013/10/Just-Dance-2014-screen-2.jpg)
 
 15\) [**Just Dance
-2014**](https://just-dance.ubi.com/en-us/games/just-dance-2014.aspx) - 🎾
+2014**](//just-dance.ubi.com/en-us/games/just-dance-2014.aspx) - 🎾
 Wii and Xbox One
 
 > Dancing with friends is a great way to party.
 
 
 
-[![](https://cloud.attackofthefanboy.com/wp-content/uploads/2014/04/kinect-sports-rivals-rock-climb.jpg)](https://cloud.attackofthefanboy.com/wp-content/uploads/2014/04/kinect-sports-rivals-rock-climb.jpg)
+[![](//cloud.attackofthefanboy.com/wp-content/uploads/2014/04/kinect-sports-rivals-rock-climb.jpg)](//cloud.attackofthefanboy.com/wp-content/uploads/2014/04/kinect-sports-rivals-rock-climb.jpg)
 
 16\) [**Kinect Sports
-Rivals**](https://www.xbox.com/en-US/xbox-one/games/kinect-sports-rivals)
+Rivals**](//www.xbox.com/en-US/xbox-one/games/kinect-sports-rivals)
 - 🎾 Xbox One with Kinect
 
 > Climbing and jet ski racing are my favorite. Check my live profile
-> [here](https://account.xbox.com/en-US/Profile?gamerTag=fvcproductions)
+> [here](//account.xbox.com/en-US/Profile?gamerTag=fvcproductions)
 
 
 
-[![](https://pcmedia.ign.com/pc/image/lotrreturnking_101703_inx5.jpg)](https://pcmedia.ign.com/pc/image/lotrreturnking_101703_inx5.jpg)
+[![](//pcmedia.ign.com/pc/image/lotrreturnking_101703_inx5.jpg)](//pcmedia.ign.com/pc/image/lotrreturnking_101703_inx5.jpg)
 
 17\) [**Lord of the Rings: Return of the
-King**](https://www.amazon.com/Lord-Rings-Return-King-PlayStation-2/dp/B00009VE6D)
+King**](//www.amazon.com/Lord-Rings-Return-King-PlayStation-2/dp/B00009VE6D)
 - 🔮 PS2
 
 > `Fun.equals('defeating ogres');`
 
 
 
-[![](https://image.deadgames.org/the-last-stand-union-city-militarybase.jpg)](https://image.deadgames.org/the-last-stand-union-city-militarybase.jpg)
+[![](//image.deadgames.org/the-last-stand-union-city-militarybase.jpg)](//image.deadgames.org/the-last-stand-union-city-militarybase.jpg)
 
 18\) [**The Last Stand: Union
-City**](https://armorgames.com/play/12009/the-last-stand-union-city) - 🔥
+City**](//armorgames.com/play/12009/the-last-stand-union-city) - 🔥
 Online Flash
 
 > Actually pretty engaging!
 
 
 
-[![](https://static.tvtropes.org/pmwiki/pub/images/TheImpossibleQuiz.jpg)](https://static.tvtropes.org/pmwiki/pub/images/TheImpossibleQuiz.jpg)
+[![](//static.tvtropes.org/pmwiki/pub/images/TheImpossibleQuiz.jpg)](//static.tvtropes.org/pmwiki/pub/images/TheImpossibleQuiz.jpg)
 
 19\) [**The Impossible
-Quiz**](https://www.addictinggames.com/puzzle-games/theimpossiblequiz.jsp)
+Quiz**](//www.addictinggames.com/puzzle-games/theimpossiblequiz.jsp)
 - 🔓Online Flash
 
 > FRUSTRATING.
 
 
 
-[![](https://i120.photobucket.com/albums/o194/apelingon/The%20Game%20Boots/ChaosFaction01.jpg)](https://i120.photobucket.com/albums/o194/apelingon/The%20Game%20Boots/ChaosFaction01.jpg)
+[![](//i120.photobucket.com/albums/o194/apelingon/The%20Game%20Boots/ChaosFaction01.jpg)](//i120.photobucket.com/albums/o194/apelingon/The%20Game%20Boots/ChaosFaction01.jpg)
 
 20\) [**Chaos
-Faction**](https://www.crazymonkeygames.com/Chaos-Faction.html) - 🔥
+Faction**](//www.crazymonkeygames.com/Chaos-Faction.html) - 🔥
 Online Flash
 
 > So many levels, so much action!
 
 
 
-[![](https://www.crazymonkeygames.com/guide/Pandemic-2/screenInfo.jpg)](https://www.crazymonkeygames.com/guide/Pandemic-2/screenInfo.jpg)
+[![](//www.crazymonkeygames.com/guide/Pandemic-2/screenInfo.jpg)](//www.crazymonkeygames.com/guide/Pandemic-2/screenInfo.jpg)
 
-21\) [**Pandemic 2**](https://www.crazymonkeygames.com/Pandemic-2.html) -
+21\) [**Pandemic 2**](//www.crazymonkeygames.com/Pandemic-2.html) -
 👾 Online Flash
 
 > Friggin' Madagascar would always get me. Also this game is how I came
@@ -281,37 +281,37 @@ Online Flash
 
 
 
-[![](https://hackedmonster.com/games/spank-the-monkey-hacked-1331745846.jpg)](https://hackedmonster.com/games/spank-the-monkey-hacked-1331745846.jpg)
+[![](//hackedmonster.com/games/spank-the-monkey-hacked-1331745846.jpg)](//hackedmonster.com/games/spank-the-monkey-hacked-1331745846.jpg)
 
 22\) [**Spank the
-Monkey**](https://www.addictinggames.com/funny-games/monkey.jsp) - 💩
+Monkey**](//www.addictinggames.com/funny-games/monkey.jsp) - 💩
 Online Flash
 
 > Such an amusing game!
 
 
 
-[![](https://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2010/01/wii-sports-resort.jpg)](https://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2010/01/wii-sports-resort.jpg)
+[![](//www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2010/01/wii-sports-resort.jpg)](//www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2010/01/wii-sports-resort.jpg)
 
 23\) [**Wii
-Sports**](https://www.nintendo.com/games/detail/1OTtO06SP7M52gi5m8pD6CnahbW8CzxE) -
+Sports**](//www.nintendo.com/games/detail/1OTtO06SP7M52gi5m8pD6CnahbW8CzxE) -
  🎾 Wii
 
 > Bashing people has never been more exhilarating.
 
 
 
-[![](https://www.theisozone.com/images/screens/playstation-40300-41324140322.jpg)](https://www.theisozone.com/images/screens/playstation-40300-41324140322.jpg)
+[![](//www.theisozone.com/images/screens/playstation-40300-41324140322.jpg)](//www.theisozone.com/images/screens/playstation-40300-41324140322.jpg)
 
-24\) [Portal Runner](https://en.wikipedia.org/wiki/Portal_Runner) - 🔥 PS2
+24\) [Portal Runner](//en.wikipedia.org/wiki/Portal_Runner) - 🔥 PS2
 
 > One of the first games I ever played.
 
 
 
-[![](https://fvcproductions.files.wordpress.com/2014/12/b7672-astromom.png)](https://fvcproductions.files.wordpress.com/2014/12/b7672-astromom.png)
+[![](//fvcproductions.files.wordpress.com/2014/12/b7672-astromom.png)](//fvcproductions.files.wordpress.com/2014/12/b7672-astromom.png)
 
-25\) [Poptropica](https://www.poptropica.com) - 🔓 Online Flash
+25\) [Poptropica](//www.poptropica.com) - 🔓 Online Flash
 
 > The stories were pretty interesting, so I stayed for those.
 
@@ -320,4 +320,4 @@ Sports**](https://www.nintendo.com/games/detail/1OTtO06SP7M52gi5m8pD6CnahbW8CzxE
 > Know any great games?
 >
 > > Let me know
-> > [@fvcproductions](https://twitter.com/fvcproductions "Twitter - FVCproductions")
+> > [@fvcproductions](//twitter.com/fvcproductions "Twitter - FVCproductions")

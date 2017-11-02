@@ -3,7 +3,7 @@ title: "Adventures with AAAI"
 date: 2015-01-30
 excerpt: "Attending the AAAI conference."
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg
+    image: //fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg
 tags:
     - aaai
     - aaai 2015
@@ -55,15 +55,15 @@ tags:
 Day 1 - Sunday, January 25 - ARRIVAL
 ------------------------------------
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
 
 Much jet lag. So ditzy. I made my seat 37A for both flights to make
 things easy. No problems anytime along the trip so it's just passing
 through the motions.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0075.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0075.jpg)
 
-Using [Super Shuttle](https://www.supershuttle.com/) to go to the hotel,
+Using [Super Shuttle](//www.supershuttle.com/) to go to the hotel,
 which is cheaper than a standard taxi and also feels safer and less
 awkward because there are other people driving with you.
 
@@ -73,7 +73,7 @@ you could automatically check in yourself. This was an AI conference
 where people praise automation. A fellow attendee made light of the
 situation. I giggled.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0080.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0080.jpg)
 
 After checking in and receiving my conference badge along with some AAAI
 swag, I went to my room and napped. Later, I indulged myself and ordered
@@ -81,7 +81,7 @@ room service which included a salad, tortilla chips, and a chocolate
 caramel tart. They delivered it to the wrong room, so I got my food for
 free. **First win.**
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0081.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0081.jpg)
 
 After many failed attempts to connect to the Internet, I called the
 front desk and asked them to help me out. They incorrectly redirected me
@@ -103,22 +103,22 @@ Time for sleep. **Third win.**
 Day 2 - Monday, January 26
 --------------------------
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0116.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0116.jpg)
 
 Free breakfast at the Southwest Bistro Note to self: get more pineapple
 next time
 
 First official AI event was a tutorial called `RoboCup`, which
 (surprise, surprise) talked about some of the leagues involved in the
-[RoboCup competition](https://en.wikipedia.org/wiki/RoboCup). Stayed for
+[RoboCup competition](//en.wikipedia.org/wiki/RoboCup). Stayed for
 `RoboCup Soccer` and `RoboCup Rescue`. Both presentations were enhanced
 through video footage, but I think I preferred the soccer presentation
 more just because the speaker went a little faster and it easier to
 grasp every concept.
 
-![](https://fvcproductions.files.wordpress.com/2015/02/img_0085.jpg)
+![](//fvcproductions.files.wordpress.com/2015/02/img_0085.jpg)
 
-![](https://fvcproductions.files.wordpress.com/2015/02/img_0086.jpg)
+![](//fvcproductions.files.wordpress.com/2015/02/img_0086.jpg)
 
 Went on to another tutorial called
 `Artificial Intelligence and Technological Unemployment`.
@@ -138,7 +138,7 @@ want wasn't such a terrible thing at all.
 I was actually first introduced to this whole idea of increased
 technological unemployment through the advancement of AI in the book
 [*The Last
-Firewall*](https://www.goodreads.com/book/show/18305964-the-last-firewall)
+Firewall*](//www.goodreads.com/book/show/18305964-the-last-firewall)
 by William Hertling. In this little future, the protagonist likes the
 idea of being in a position to learn whatever she wants and most people
 have neural implants anyhow which makes these sort of amped up humans
@@ -151,22 +151,22 @@ and basically concluded that for 2 candidates, the best voting method
 would always be plurality (so majority wins) but with more than 2
 candidates, there just isn't any best method at all and boohoo.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0083.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0083.jpg)
 
 I also briefly visited the RoboCup soccer exhibition but there was not a
 game going on, so I left.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0090.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0090.jpg)
 
 Finally, there was the fancy reception at the [Gates-Dell
-Complex](https://www.utexas.edu/maps/main/buildings/gdc.html) over at UT
+Complex](//www.utexas.edu/maps/main/buildings/gdc.html) over at UT
 Austin (so many orange shirts!).
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0094.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0094.jpg)
 The complex basically houses the entire CS department and is definitely
 a very modern, clean, and generally tech savvy arena. I explored on my
 own and later took a tour.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0106.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0106.jpg)
 
 I almost fall asleep on the shuttle back to the hotel.
 
@@ -178,14 +178,14 @@ Day 3 - Tuesday, January 27
 More free breakfast and this time with more pineapples. Breakfast seems
 to taste sweeter when you're saving \$17.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0115.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0115.jpg)
 
 The official welcome and opening remarks are today. The presentation got
 a little staticky.
 
 About 15 minutes after the opening remarks, [Oren
-Etzioni](https://homes.cs.washington.edu/~etzioni/), an invited speaker
-and also the CEO of [Ai2](https://allenai.org/team.html), goes ahead and
+Etzioni](//homes.cs.washington.edu/~etzioni/), an invited speaker
+and also the CEO of [Ai2](//allenai.org/team.html), goes ahead and
 delivers his talk. What was really cool was when he showed his
 sneak-peek demo of `Semantic Scholar` which is this search engine that
 allows users to find key survey papers about a topic or to produce a
@@ -196,11 +196,11 @@ He also talked about Jeff Hammerbacher's quote: "*The best minds of my
 generation are thinking about how to make people click ads. That
 sucks.*" and how he wanted the community to leverage AI for the better
 good. More discussion on that quote
-[here](https://www.quora.com/How-true-is-the-statement-The-best-minds-of-my-generation-are-thinking-about-how-to-make-people-click-ads-That-sucks).
+[here](//www.quora.com/How-true-is-the-statement-The-best-minds-of-my-generation-are-thinking-about-how-to-make-people-click-ads-That-sucks).
 He also discouraged focusing on one particular method in AI for
 research/projects and instead encouraged that people try and build
 [integrated
-systems](https://en.wikipedia.org/wiki/Artificial_intelligence_systems_integration)
+systems](//en.wikipedia.org/wiki/Artificial_intelligence_systems_integration)
 that use all the different methods instead, even it does take longer and
 is generally more difficult to perform.
 
@@ -210,26 +210,26 @@ quite a while. To be fair, most of the material was a bit over my head
 being a newbie to all this but to be fair, the presenters weren't aiming
 to appeal to a broader audience.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0121.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0121.jpg)
 
 For the lunch break, I visit the
-[MakerSquare](https://www.makersquare.com/) location in Austin, which is
+[MakerSquare](//www.makersquare.com/) location in Austin, which is
 conveniently located about 20 minutes away from the hotel walking. I get
 a quick tour of the space and am able to ask Amanda, the admissions
 director, a few questions about future changes in MakerSquare since
 they've recently been acquired by Hack Reactor. I'm considering whether
 I should attend MakerSquare or [Fullstack
-Academy](https://www.fullstackacademy.com/) for the summer or if I should
+Academy](//www.fullstackacademy.com/) for the summer or if I should
 just forget about bootcamps altogether and focus on an internship
 instead. It'll be a very difficult decision, regardless.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0125.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0125.jpg)
 
 I attend the Shakey celebration for a short while and was amused and
 excited by how far we've gone since [this
-guy](https://en.wikipedia.org/wiki/Shakey_the_robot).
+guy](//en.wikipedia.org/wiki/Shakey_the_robot).
 
-![](https://www.frc.ri.cmu.edu/~hpm/project.archive/robot.papers/2000/revo.slides/1970b.jpg)
+![](//www.frc.ri.cmu.edu/~hpm/project.archive/robot.papers/2000/revo.slides/1970b.jpg)
 
 Poster and Demos session is the last event for the next 3 nights. It's
 where researchers showcase their work or demo their project. It's also
@@ -245,7 +245,7 @@ Day 4 - Wednesday, January 27
 Wednesday was probably my favorite day of the conference. This was
 probably because I was acting as a volunteer throughout the evening.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0127.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0127.jpg)
 
 Early in the morning were the *What's Hot Talks* which basically
 introduced innovative breakthroughs in a certain field within A.I. This
@@ -263,7 +263,7 @@ over my head where I could really go ahead and comprehend the majority
 of what they were speaking about.
 
 Next up, after an ML session, an invited talk from [Geoffrey
-Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), and lunch, there
+Hinton](//en.wikipedia.org/wiki/Geoffrey_Hinton), and lunch, there
 was the community meeting. I was to act as a volunteer and pass out
 little tickets that would act as a complimentary drink for anyone who
 was going to attend the meeting. It was meant to serve as an incentive,
@@ -298,7 +298,7 @@ Following the community meeting, there was the Poster and Demos session
 where I followed the same routine as yesterday: walk around and eat the
 food.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0134.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0134.jpg)
 
 And for the final event of the evening where I would again be
 volunteering: **Games Night**. Here I also had to help pass out tickets.
@@ -307,10 +307,10 @@ receive one, either to enter in to play the *Price is Right (AAAI
 Version)* or be entered in to receive prizes in the raffle at the end.
 The moderator was pretty snazzy so it was fun either way.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0137.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0137.jpg)
 
 A lot of people didn't know what the [Price is
-Right](https://www.priceisright.com/) was (frankly, neither did I) and I
+Right](//www.priceisright.com/) was (frankly, neither did I) and I
 ended up spilling the same story every time: the *Price is Right* is
 where you estimate the price of certain things and it's all about
 estimation and probability. There was a larger turn-up than I expected
@@ -321,12 +321,12 @@ with a backpack full of swag from the conference. Then there was the
 raffle. One of the organizers of the event even let me have a free IBM
 Watson t-shirt which looks a little something like this:
 
-![](https://greateribm.files.wordpress.com/2013/12/watson-t-shirt.jpg)
+![](//greateribm.files.wordpress.com/2013/12/watson-t-shirt.jpg)
 
 I took pictures of downtown too just because it was such a beautiful
 scene outside.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0142.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0142.jpg)
 
 I have to wake up early in the morning, so once the event officially
 ends at 10 pm, I ask if I can leave to go to bed.
@@ -337,8 +337,8 @@ Day 5 - Thursday, January 28
 ----------------------------
 
 Early in the morning, there is a speaker from the [IBM Watson Research
-Center](https://www.research.ibm.com/labs/watson/) called [Meinolf
-Sellmann](https://en.wikipedia.org/wiki/Meinolf_Sellmann).
+Center](//www.research.ibm.com/labs/watson/) called [Meinolf
+Sellmann](//en.wikipedia.org/wiki/Meinolf_Sellmann).
 
 I recall that he's one of the fellows I traveled with through the Super
 Shuttle service on my way to the conference. I remember because some
@@ -349,24 +349,24 @@ the SAT Solver.
 
 There's another *What's Hot Talk*. This time, it's a lot more
 interesting than HCI simply because someone talks about [artificially
-intelligent Angry Birds](https://aibirds.org/). Who knew?
+intelligent Angry Birds](//aibirds.org/). Who knew?
 
-https://www.youtube.com/watch?v=AplG6KnOr2Q
+//www.youtube.com/watch?v=AplG6KnOr2Q
 
 Then there was a short period for the awards for the video competition.
 Needless to say, it was pretty awesome seeing an [artificially
-intelligent Mario](https://www.aaaivideos.org/2015/14_mario_lives/)!
+intelligent Mario](//www.aaaivideos.org/2015/14_mario_lives/)!
 
 After a session on NLP, it's time for more student fellowship talks.
 
 Ph.D students never fail to be interesting. Well, most of the time.
 
 It was fun to learn more about affordance models, because it reminded me
-of [Baxter](https://www.rethinkrobotics.com/baxter/), who I'm familiar
+of [Baxter](//www.rethinkrobotics.com/baxter/), who I'm familiar
 with, even though the student was using [Curi from Georgia
-Tech](https://www.youtube.com/watch?v=OthjhGv6iIM).
+Tech](//www.youtube.com/watch?v=OthjhGv6iIM).
 
-Someone from [CSAIL](https://www.csail.mit.edu/) at MIT also talked
+Someone from [CSAIL](//www.csail.mit.edu/) at MIT also talked
 about human-robot collaboration and concluded that humans don't think
 any less of their robot counterparts assuming they're highly autonomous.
 Go figure.
@@ -387,7 +387,7 @@ Then there's the debate, something I was looking forward to. It was a
 debate on autonomous weapons. I figured it would be intense, but to
 quote someone I overheard, it was "not satisfying".
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0147.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0147.jpg)
 
 One of the two debaters had a PowerPoint to accompany his arguments and
 there was so much text on each slide with him speaking relatively
@@ -416,7 +416,7 @@ days, I follow the same routine of walking around and eating food.
 
 I'm particularly pleased with the way this session turns out because I
 was able to strike a conversation with somebody working with
-crowd-sourcing data in [Bitcoin](https://bitcoin.org/en/). It was
+crowd-sourcing data in [Bitcoin](//bitcoin.org/en/). It was
 random, but I came away knowing more about the mechanizations behind
 Bitcoin and why it's obvious there is a lot of risk involved.
 
@@ -458,7 +458,7 @@ mother and child and in both, there is a gay, white male flight
 attendant (well, I presumed they were). And in both, of course, I sat in
 37A.
 
-![](https://fvcproductions.files.wordpress.com/2015/01/img_0157.jpg)
+![](//fvcproductions.files.wordpress.com/2015/01/img_0157.jpg)
 
 I finally arrive back at home sweet home, my little home by the sea, my
 Norfolk. My mom and sister pick me up, I feed Nefer some treats the
@@ -468,17 +468,17 @@ All in all, it's been rather delightful.
 
 
 
-\[gigya src="https://prezi.com/bin/preziloader.swf"
+\[gigya src="//prezi.com/bin/preziloader.swf"
 allowfullscreen="true" allowscriptaccess="always" width="550"
 height="400" bgcolor="\#ffffff"
 flashvars="prezi\_id=8yrxnvwr2bfo&lock\_to\_path=1&color=ffffff&autoplay=no&autohide\_ctrls=0"
 \]
 
 If Prezi does not work, check it out
-[here](https://prezi.com/8yrxnvwr2bfo/?utm_campaign=share&utm_medium=copy&rc=ex0share "Prezi")!
+[here](//prezi.com/8yrxnvwr2bfo/?utm_campaign=share&utm_medium=copy&rc=ex0share "Prezi")!
 
 
 
 > Tips or tricks?
 >
-> > contact me [@fvcproductions](https://twitter.com/fvcproductions)
+> > contact me [@fvcproductions](//twitter.com/fvcproductions)

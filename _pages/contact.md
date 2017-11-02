@@ -18,10 +18,10 @@ header:
 
 > If you feel like being old-school `#90s` 😎 then feel free to fill out the contact form below which will automatically send me an email.
 
-<form method="POST" action="http://formspree.io/hello@fvcproductions.com">
+<form method="POST" action="https://formspree.io/hello@fvcproductions.com">
   <input type="email" name="email" placeholder="Your email">
   <textarea name="message" placeholder="What's up?"></textarea>
-  <button class="btn--inverse" type="submit">Send message</button>
+  <button class="btn btn--inverse" type="submit">Send message</button>
   <input type="hidden" name="_subject" value="FVCproductions - New Contact Message 📥" />
   <input type="hidden" name="_next" value="/got-your-message/" />
 </form>

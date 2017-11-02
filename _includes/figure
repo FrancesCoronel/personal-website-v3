@@ -1,3 +1,21 @@
-<figure id="lightgallery" class="{{ include.class }}">
-  <a href="{{ include.url }}" title="{% if include.alt %}{{ include.alt }}{% else %}FVCproductions - Image{% endif %}><img src="{{ include.url }}" alt="{% if include.alt %}{{ include.alt }}{% else %}FVCproductions - Image{% endif %}"></a>
+<figure id="lightgallery">
+  {% if include.url %}
+      <a href=
+          {% if include.url contains "//" %}
+              "{{ include.url }}"
+          {% else %}
+              "{{ include.url | absolute_url }}"
+          {% endif %}
+          {% if include.title %}
+              title="{{ include.title }}"
+          {% endif %}>
+          <img src=
+              {% if include.url contains "//" %}
+                  "{{ include.url }}"
+              {% else %}
+                  "{{ include.url | absolute_url }}"
+              {% endif %}
+          alt="{% if include.title %}{{ include.title }}{% endif %}">
+      </a>
+  {% endif %}
 </figure>

@@ -3,7 +3,7 @@ title: "To become a social media guru or not? 🎒"
 date: 2011-12-14
 excerpt: "Talks about social networking in the classroom basically."
 header:
-    image: https://images.pexels.com/photos/169657/pexels-photo-169657.jpeg
+    image: //images.pexels.com/photos/169657/pexels-photo-169657.jpeg
 tags:
     - awkward silences
     - essay talks

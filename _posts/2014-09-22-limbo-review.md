@@ -3,7 +3,7 @@ title: "Review - Limbo"
 date: 2014-09-22
 excerpt: "Expressing my gratitude."
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/09/limbo-featurebanner.jpg?w=1024&h=435&crop=1
+    image: //fvcproductions.files.wordpress.com/2014/09/limbo-featurebanner.jpg?w=1024&h=435&crop=1
 tags:
     - app store
     - boys
@@ -26,7 +26,7 @@ tags:
 ---
 
 [![Limbo
-Logo](https://fvcproductions.files.wordpress.com/2014/09/aac70-limbo_logo.png)](https://fvcproductions.files.wordpress.com/2014/09/aac70-limbo_logo.png)
+Logo](//fvcproductions.files.wordpress.com/2014/09/aac70-limbo_logo.png)](//fvcproductions.files.wordpress.com/2014/09/aac70-limbo_logo.png)
 
 **It's been roughly 3 years (July 2010) since Limbo was first released
 to the Xbox 360 platform.**
@@ -44,7 +44,7 @@ reviews, watch a few minutes of game play, try out game.
 `if (game == awesome) {stop} else {repeat}`
 
 [![Munch,
-munch](https://www.blogcdn.com/www.joystiq.com/media/2011/12/limboxmas-530.jpg)](https://www.blogcdn.com/www.joystiq.com/media/2011/12/limboxmas-530.jpg)
+munch](//www.blogcdn.com/www.joystiq.com/media/2011/12/limboxmas-530.jpg)](//www.blogcdn.com/www.joystiq.com/media/2011/12/limboxmas-530.jpg)
 Munch, munch
 
 The graphics are pretty much what got to me. Those spider legs without
@@ -55,7 +55,7 @@ so ominous, so macabre, so depressing. I liked how the blood itself
 wasn't even red and glaring, it was just black liquid. And how
 everything in the game was a hue of black or white.
 
-https://www.youtube.com/watch?v=cHjt8LNaUT8
+//www.youtube.com/watch?v=cHjt8LNaUT8
 
 ***Spider running, log saving.***
 
@@ -86,7 +86,7 @@ to cheat, there's always YouTube…
 
 ![125,000 possible LIMBO
 walkthrough
-videos](https://fvcproductions.files.wordpress.com/2014/09/screenshot-2014-09-22-12-10-20.png) 125,000 possible LIMBO walk through videos…
+videos](//fvcproductions.files.wordpress.com/2014/09/screenshot-2014-09-22-12-10-20.png) 125,000 possible LIMBO walk through videos…
 
 There isn't any clear story line in this game, which is always cool
 because you can make one up yourself. The only characters you really get
@@ -98,7 +98,7 @@ the end.
 
 ![Limbo Crossover: The
 leader of the no face boys Slender
-Man](https://th00.deviantart.net/fs71/PRE/f/2013/048/c/4/limbo_ft__slender_man_by_iresarts-d5vaea7.png) Limbo Crossover: The leader of the no face boys… Slender
+Man](//th00.deviantart.net/fs71/PRE/f/2013/048/c/4/limbo_ft__slender_man_by_iresarts-d5vaea7.png) Limbo Crossover: The leader of the no face boys… Slender
 Man
 
 So bam, right there, that whole beginning and then the creepy girl
@@ -110,7 +110,7 @@ girlfriend/sister. Okay, cool, let's play.
 
 ![Girlfriend
 or
-sister?!](https://fc05.deviantart.net/fs70/f/2012/176/a/7/welcome_to_limbo_by_kumonokuni-d54ums6.png) Girlfriend or sister?!
+sister?!](//fc05.deviantart.net/fs70/f/2012/176/a/7/welcome_to_limbo_by_kumonokuni-d54ums6.png) Girlfriend or sister?!
 
 After I finished the game, I was kinda confused, so I went ahead and did
 a standard Google search and it all made a whole lot more sense - at
@@ -132,15 +132,15 @@ through while in Limbo, either theory makes sense. The subtlety too, man
 
 ![Pyamid Head chilling
 with all these hanging (unbaptized?)
-kids](https://fc04.deviantart.net/fs71/i/2012/034/3/3/pyramid_head_in_limbo__by_z0h3-d4oj0fa.jpg) Pyramid Head chilling with all these hanging (unbaptized?)
+kids](//fc04.deviantart.net/fs71/i/2012/034/3/3/pyramid_head_in_limbo__by_z0h3-d4oj0fa.jpg) Pyramid Head chilling with all these hanging (unbaptized?)
 kids…
 
 Anyhow, hoped you enjoyed this review! Be sure to check out the sweet
 fan artwork that feature Limbo crossovers and check out their sweet new
-game when it comes out called [**INSIDE**](https://playdead.com/inside/)
+game when it comes out called [**INSIDE**](//playdead.com/inside/)
 (featured below).
 
-https://www.youtube.com/watch?v=op4G1--kb-g
+//www.youtube.com/watch?v=op4G1--kb-g
 
 ***OMGGGGG***
 
@@ -148,4 +148,4 @@ Until then, cheers!
 
 > Tips or Tricks?
 >
-> Tweet me at [@fvcproductions](https://twitter.com/fvcproductions)
+> Tweet me at [@fvcproductions](//twitter.com/fvcproductions)

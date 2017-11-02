@@ -3,7 +3,7 @@ title: "AP Spanish Language Skit 🐷️"
 date: 2012-02-06
 excerpt: "This was a fun little skit I did with a few kids from my AP Spanish Language class."
 header:
-    image: https://fvcproductions.files.wordpress.com/2013/07/three-pigs.jpg
+    image: //fvcproductions.files.wordpress.com/2013/07/three-pigs.jpg
 ---
 
 > So this was a fun little skit I did with a few kids from my AP Spanish Language class. It was really memorable for me so I figured I'd post it up here along with the rest of my little tidbits.

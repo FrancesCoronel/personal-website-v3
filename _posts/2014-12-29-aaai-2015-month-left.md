@@ -3,7 +3,7 @@ title: "AAAI 2015 Winter Conference - A Month Left"
 date: 2014-12-29
 excerpt: "One month left till the AAAI 2015 Conference."
 header:
-    image: https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg
+    image: //fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg
 tags:
     - aaai
     - aaai 2015
@@ -28,13 +28,13 @@ Holy crap, I just got my plane ticket for this.
 
 It's happening.
 
-[![](https://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif)](https://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif)
+[![](//fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif)](//fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif)
 do the Bender dance…
 
 
 
 I'll be acting as a volunteer for [the
-conference](https://www.aaai.org/Conferences/AAAI/aaai15.php "AAAI 2015 Winter Conference")
+conference](//www.aaai.org/Conferences/AAAI/aaai15.php "AAAI 2015 Winter Conference")
 (it's the first winter conference, too, apparently) and was therefore
 lucky enough to get a \$200 scholarship and a complimentary registration
 (\$450, in my case) to attend.
@@ -63,11 +63,11 @@ roughly \$1.5K not including the \$200 scholarship they gave me. Ah,
 well. Hopefully, it'll be worth it! See lovely flight details below.
 
 [![Delta Flight
-Details](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-30-20-31-34.png)](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-30-20-31-34.png)
+Details](//fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-30-20-31-34.png)](//fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-30-20-31-34.png)
 I'll take the very back window seat please, thanks.
 
 Thankfully, with a scholarship I got from the
-[VSGC](https://vsgc.odu.edu "VSGC @ ODU"), I'll be able to pay off the
+[VSGC](//vsgc.odu.edu "VSGC @ ODU"), I'll be able to pay off the
 majority of these conference fees. **Whew.** In the end, I'll be
 shelling out only \$300 for it all, which isn't terrible. Glad I'm
 selling so much crap on eBay, I'll tell you that.
@@ -124,11 +124,11 @@ unfortunately, since my roommate request didn't end successfully but
 hopefully I'll meet some friendly fellow volunteers!
 
 Cheers,\
-[fvcproductions](https://twitter.com/fvcproductions "Twitter - FVCproductions")
+[fvcproductions](//twitter.com/fvcproductions "Twitter - FVCproductions")
 
 
 
 [![AAAI-2015
-Banner](https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg)](https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg)
+Banner](//fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg)](//fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg)
 
 *\^ I made a banner for the conference out of sheer excitement!*

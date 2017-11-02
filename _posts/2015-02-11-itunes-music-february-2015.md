@@ -3,7 +3,7 @@ title: "Cataloging my iTunes Music"
 date: 2015-02-11
 excerpt: "Compiling all the music from my iTunes library due to sheer boredom."
 header:
-    image: https://fvcproductions.files.wordpress.com/2015/02/itunesbanner.jpg
+    image: //fvcproductions.files.wordpress.com/2015/02/itunesbanner.jpg
 tags:
     - music
     - fvcproductions
@@ -18,7 +18,7 @@ Okay, I've decided to compile all the music from my iTunes library due to sheer 
 
 Also, I think it'll be nice to see how much my musical preferences have
 changed a few years from now. And it [**will
-change**](https://www.ted.com/talks/dan_gilbert_you_are_always_changing "Dan Gilbert").
+change**](//www.ted.com/talks/dan_gilbert_you_are_always_changing "Dan Gilbert").
 
 As a general rule with my albums, if an artist has less than 5 songs in
 my library, all the songs from that artist are put into a **"Random"**
@@ -51,7 +51,7 @@ never actually played before.**
 
 One of my all time favorites is `Assassin's Creed III Main Theme.`
 
-https://www.youtube.com/watch?v=RE0Y5VmkILQ
+//www.youtube.com/watch?v=RE0Y5VmkILQ
 
 
 
@@ -61,7 +61,7 @@ https://www.youtube.com/watch?v=RE0Y5VmkILQ
 
 **The Classics.**
 
-https://www.youtube.com/watch?v=8rR367GrFhk
+//www.youtube.com/watch?v=8rR367GrFhk
 
 
 
@@ -71,7 +71,7 @@ don't come from that one album.**
 
 I don't think I could ever get tired of `Heartbeat`.
 
-https://www.youtube.com/watch?v=NVk4vENObiI
+//www.youtube.com/watch?v=NVk4vENObiI
 
 
 
@@ -87,11 +87,11 @@ crazy people that took the plot too seriously and made up all these
 hypothetical scenarios about dream worlds and how I'd probably remain
 stuck in one too and my totem would just keep moving about, endlessly
 turning and turning.
-Mmmmhmmm..**![](https://fvcproductions.files.wordpress.com/2015/02/inception.png)
+Mmmmhmmm..**![](//fvcproductions.files.wordpress.com/2015/02/inception.png)
 
 I used to be addicted to Zimmer's `Time`.
 
-https://www.youtube.com/watch?v=RxabLA7UQ9k
+//www.youtube.com/watch?v=RxabLA7UQ9k
 
 
 
@@ -101,7 +101,7 @@ actually floating in space during some parts of the film. **
 I like `S.T.A.Y`. the most because that's when everything just came into
 place during the film.
 
-https://www.youtube.com/watch?v=-x3zAMfmpAM
+//www.youtube.com/watch?v=-x3zAMfmpAM
 
 
 
@@ -112,7 +112,7 @@ The first time I heard `Comptine d'Un Autre Été` was before I even knew
 who Amelie was so when I heard it again in the movie, it just clicked
 and I still don't get tired of listening to it.
 
-https://www.youtube.com/watch?v=H2-1u8xvk54
+//www.youtube.com/watch?v=H2-1u8xvk54
 
 
 
@@ -123,7 +123,7 @@ It was great hearing the Misty Mountains in one of the very trailers for
 the Hobbit because finally, it felt like the song was being lifted above
 the pages.
 
-https://www.youtube.com/watch?v=T90Holdcrps
+//www.youtube.com/watch?v=T90Holdcrps
 
 
 
@@ -132,13 +132,13 @@ https://www.youtube.com/watch?v=T90Holdcrps
 My favorite from this album is definitely the main
 theme: `The Maze Runner`.
 
-https://www.youtube.com/watch?v=ALnsIdSs4O0
+//www.youtube.com/watch?v=ALnsIdSs4O0
 
 
 
 **You can't go wrong with POTC. YOU CANNOT.**
 
-https://www.youtube.com/watch?v=OTJ6xt-sfWQ&index=2&list=PLD7B049F3DEC8CB6C
+//www.youtube.com/watch?v=OTJ6xt-sfWQ&index=2&list=PLD7B049F3DEC8CB6C
 
 
 
@@ -152,7 +152,7 @@ And cause it's your birthday, you're gonna `lose yourself to dance`
 
 Copyright FVCproductions 2015. Lol.
 
-https://www.youtube.com/watch?v=NF-kLy44Hls
+//www.youtube.com/watch?v=NF-kLy44Hls
 
 
 
@@ -160,7 +160,7 @@ https://www.youtube.com/watch?v=NF-kLy44Hls
 
 La da di da...
 
-https://www.youtube.com/watch?v=T0gO2bqZ8v4
+//www.youtube.com/watch?v=T0gO2bqZ8v4
 
 
 
@@ -168,7 +168,7 @@ https://www.youtube.com/watch?v=T0gO2bqZ8v4
 
 Yes, ma Cherie...
 
-https://www.youtube.com/watch?v=FGAyjfwK-wI
+//www.youtube.com/watch?v=FGAyjfwK-wI
 
 
 
@@ -177,33 +177,33 @@ or are just in separate albums. Too much epicness to handle sometimes.**
 
 A long time favorite of mine from here is `Nara`.
 
-https://www.youtube.com/watch?v=8AEU5pBxY6E
+//www.youtube.com/watch?v=8AEU5pBxY6E
 
 
 
 **To be honest, I'm not that much into indie music unless it's
 ridiculously mellow or just sounds kinda like techno.**
 
-https://www.youtube.com/watch?v=S3fTw\_D3l10
+//www.youtube.com/watch?v=S3fTw\_D3l10
 
 
 
 **Where I go to if I'm trying to workout and feel bummed out. Or just
 because.**
 
-https://www.youtube.com/watch?v=lsSC2vx7zFQ
+//www.youtube.com/watch?v=lsSC2vx7zFQ
 
 
 
 **Si, ya tu sabes. Jaja. ;-)**
 
-https://www.youtube.com/watch?v=cpLZeSigNvY
+//www.youtube.com/watch?v=cpLZeSigNvY
 
 
 
 **I'm really not much of an oldies fan, but if I'm really in the mood…**
 
-https://www.youtube.com/watch?v=ym1eDeOxq14
+//www.youtube.com/watch?v=ym1eDeOxq14
 
 
 
@@ -218,7 +218,7 @@ these are all ‘R&B' per se.**
 `Ice Box` by Omarion is a long time favorite of mine, I have yet to grow
 tired of listening to it.
 
-https://www.youtube.com/watch?v=jQybgJCswF0
+//www.youtube.com/watch?v=jQybgJCswF0
 
 
 
@@ -237,7 +237,7 @@ I could actually probably drop all these songs and be ok with it…
 `Bla Bla Bla` definitely isn't my favorite song from my techno album,
 but it has the best music video by far.
 
-https://www.youtube.com/watch?v=KZ2lWyTi0oY
+//www.youtube.com/watch?v=KZ2lWyTi0oY
 
 
 
@@ -247,13 +247,13 @@ Swedish, Portuguese, French, Iranian, Italian, Belizean, Chinese,
 Lebanese, Romanian, and Russian genres mixed up in this one. It's always
 nice finding a catchy non-American song.**
 
-https://www.youtube.com/watch?v=won4qtytcgo
+//www.youtube.com/watch?v=won4qtytcgo
 
 
 
 **Beam me up, Scotty.**
 
-https://www.youtube.com/watch?v=EMu5jP2-c5U
+//www.youtube.com/watch?v=EMu5jP2-c5U
 
 
 
@@ -262,7 +262,7 @@ https://www.youtube.com/watch?v=EMu5jP2-c5U
 I really enjoy `Guardians at the Gate` because it reminds me of the
 trailer from **AVATAR**.
 
-https://www.youtube.com/watch?v=cRdxXPV9GNQ
+//www.youtube.com/watch?v=cRdxXPV9GNQ
 
 
 
@@ -274,7 +274,7 @@ played it when I needed to relax and let go a bit. It had 10 times more
 plays than any of my other songs, it was ridiculous. Then again, it is
 only 95 seconds long..
 
-https://www.youtube.com/watch?v=vlEN8svyHj8
+//www.youtube.com/watch?v=vlEN8svyHj8
 
 
 
@@ -284,7 +284,7 @@ at making the epiccesssttt of epic music.**
 
 One of my favorites of theirs is `Heart of Courage`.
 
-https://www.youtube.com/watch?v=LRLdhFVzqt4
+//www.youtube.com/watch?v=LRLdhFVzqt4
 
 
 
@@ -292,7 +292,7 @@ https://www.youtube.com/watch?v=LRLdhFVzqt4
 
 *I'm dreaming of a white Christmas* (in deep voice).
 
-https://www.youtube.com/watch?v=GfZPtkqXQIA
+//www.youtube.com/watch?v=GfZPtkqXQIA
 
 
 
@@ -303,4 +303,4 @@ Whew. Okay, enough of this.
 > **Think my music is lacking a bit?**
 >
 > > Give me music suggestions
-> > [@fvcproductions](https://twitter.com/fvcproductions)
+> > [@fvcproductions](//twitter.com/fvcproductions)
