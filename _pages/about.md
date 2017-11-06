@@ -12,7 +12,7 @@ My "life motto", if you will.
 
 Might have something to do with human nature in general, though, so interpret it as you will.
 
-{% include figure url="http://fvcproductions.com/assets/img/logo.png" title="FVCproductions - Logo" %}
+{% include figure url="//fvcproductions.com/assets/img/logo.png" title="FVCproductions - Logo" %}
 
 **Fun Fact** My logo is a chocolate dipped strawberry. No particular reason why, I just think they're yummy. 🍓 🍫
 {: .notice}
@@ -45,11 +45,11 @@ Might have something to do with human nature in general, though, so interpret it
 
 > Too much!
 
-<figure><embed src="https://wakatime.com/share/@fvcproductions/96c7ec55-befc-4727-9b6b-d14b997dbcad.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@fvcproductions/96c7ec55-befc-4727-9b6b-d14b997dbcad.svg">
 
 > I have no idea what the `Other` represents!
 
-<figure><embed src="https://wakatime.com/share/@fvcproductions/6a719475-6bdf-45d3-bc3d-f5faa2c952b7.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@fvcproductions/6a719475-6bdf-45d3-bc3d-f5faa2c952b7.svg">
 
 ### Where You Can Find My Work 🍓️
 

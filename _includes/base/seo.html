@@ -1,27 +1,43 @@
 <!-- URL -->
 {% assign seo_url = site.url | append: site.baseurl %}
 {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
+
 <!-- Author -->
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
 {% assign seo_author_twitter = site.author.twitter | replace: "@", "" %}
+
 <!-- Image -->
-{% if page.header.image %} {% assign seo_image = page.header.image %} {% elsif page.header.overlay_image %} {% if page.permalink
-== '/' %} {% assign seo_image = site.og_image | absolute_url %} {% else %} {% assign seo_image = page.header.overlay_image
-%} {% endif %} {% elsif page.header.teaser %} {% assign seo_image = page.header.teaser %} {% else %} {% assign seo_image
-= site.og_image | absolute_url %} {% endif %}
+{% if page.header.image %}
+  {% assign seo_image = page.header.image %}
+{% elsif page.header.overlay_image %}
+  {% if page.permalink == '/' %}
+    {% assign seo_image = site.og_image | absolute_url %}
+  {% else %}
+    {% assign seo_image = page.header.overlay_image %}
+  {% endif %}
+{% elsif page.header.teaser %}
+  {% assign seo_image = page.header.teaser %}
+{% else %}
+  {% assign seo_image = site.og_image | absolute_url %}
+{% endif %}
+
+{% assign site_image = site.og_image | absolute_url %}
+
 <!-- Description -->
-{% assign seo_description = page.excerpt | markdownify | strip_html | strip_newlines | escape_once | default: site.description
-%}
+{% assign seo_description = page.excerpt | markdownify | strip_html | strip_newlines | escape_once | default: site.description %}
+
 <!-- Date -->
 {% assign page.date = page.date | date: "%A, %B %-d, %Y" %}
+
 <!-- Title -->
 {% if page.title %}
   {% assign seo_title = page.title %}
 {% endif %}
+
 <title>
-{{ seo_title | default: site.title }} {% if paginator %} {% unless paginator.page == 1 %} {{ site.title_separator }} {{ site.data.ui-text[site.locale].page
-}} {{ paginator.page }} {% endunless %} {% endif %}
+{{ seo_title | default: site.title }} {% if paginator %} {% unless paginator.page == 1 %} {{ site.title_separator }} {{ site.data.ui-text[site.locale].page }} {{ paginator.page }} {% endunless %} {% endif %}
 </title>
+
 <!-- Search Engine -->
 <meta name="application-name" content="{{ site.title }}">
 <meta name="msapplication-window" content="width=device-width;height=device-height">
@@ -29,10 +45,13 @@
 <meta name="title" content="{{ site.title }}">
 <meta name="description" content="{{ seo_description }}">
 <meta name="image" content="{{ seo_image }}">
+<meta name="robots" content="index, follow">
+
 <!-- Schema.org for Google -->
 <meta itemprop="name" content="{{ site.title }}">
 <meta itemprop="description" content="{{ seo_description }}">
 <meta itemprop="image" content="{{ seo_image }}">
+
 <!-- Open Graph general (Facebook, Pinterest & Google+) -->
 <meta property="og:title" content="{{ seo_title | default: site.title }}">
 <meta property="og:description" content="{{ seo_description }}">
@@ -43,8 +62,8 @@
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:locale" content="{{ site.locale }}">
 <meta property="og:type" content="website">
-<meta property="article:published_time" content="{{ page.date }}">
 <meta property="og:description" content="{{ seo_description }}">
+
 <!-- Twitter -->
 <meta name="twitter:site" content="@{{ seo_author_twitter }}">
 <meta name="twitter:title" content="{{ seo_title | default: site.title }}">
@@ -54,42 +73,86 @@
 <meta name="twitter:image" content="{{ seo_image }}">
 <meta name="twitter:image:src" content="{{ seo_image }}">
 <meta name="twitter:creator" content="@{{ seo_author_twitter }}">
+
+{% if post.read_time %}
+  <meta name="twitter:label1" value="Reading time">
+  <meta name="twitter:data1" value="4 min read">
+{% endif %}
+
 <!-- Date -->
-{% if page.date %}
-<meta property="og:type" content="article">
-<meta property="article:published_time" content="{{ page.date }}"> {% endif %}
+{% if post.id %}
+  <link rel="author" href="{{ site.url }}">
+  <link rel="publisher" href="{{ site.url }}">
+  <meta property="article:author" content="{{ site.name }}">
+  <meta property="article:published_time" content="{{ page.date }}">
+  <meta property="article:publisher" content="{{ site.title }}">
+  <meta property="author" content="{{ site.name }}">
+  <meta property="og:type" content="article">
+{% endif %}
 
 <!-- Site Verification -->
 <meta name="google-site-verification" content="{{ site.google_site_verification }}">
 <meta name="msvalidate.01" content="{{ site.bing_site_verification }}">
 
 <!-- Structured Data -->
-<script type="application/ld+json">
-{
-"@context": "//schema.org",
-"@type": "{{ site.social.type }}",
-"name": "{{ site.title }}",
-"url": {
-{
-seo_url | jsonify
-}
-},
-"logo": {
-{
-site.og_image | absolute_url | jsonify
-}
-},
-"sameAs": {
-{
-site.social.links | jsonify
-}
-}
-}
-</script>
+{% if post.id %}
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "image": {
+        "@type": "ImageObject",
+        "width": 1920,
+        "height": 1280,
+        "url": "{{ seo_image }}"
+      },
+      "datePublished": "{{ page.date }}",
+      "dateModified": "{{ page.modified }}",
+      "headline": "{{ seo_title | default: site.title }}",
+      "name": "{{ seo_title | default: site.title }}",
+      "keywords": [{{ page.tags }}],
+      "author": {
+        "@type": "{{ site.name_type }}",
+        "name": "{{ site.name }}",
+        "url": "{{ site.url }}"
+      },
+      "sameAs": "{{ site.social.links | jsonify }}",
+      "creator": [{{ site.name }}],
+      "publisher": {
+        "@type": "{{ site.social.type }}",
+        "name": "{{ site.title }}",
+        "url": "{{ site.url }}",
+        "logo": {
+          "@type": "ImageObject",
+          "width": 215,
+          "height": 60,
+          "url": "{{ site_image }}"
+        }
+      },
+      "mainEntityOfPage": "{{ site.canonical_url }}"
+    }
+  </script>
+{% else %}
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "{{ site.social.type }}",
+      "logo": "{{ site_image }}"
+      "name": "{{ site.title }}",
+      "sameAs": {{ site.social.links | jsonify }}
+      "url": "{{ seo_url }}",
+    }
+  </script>
+{% endif %}
 
 <!-- Pagination -->
 {% if paginator.previous_page %}
-<link rel="prev" href="{{ paginator.previous_page_path | prepend: seo_url }}"> {% endif %} {% if paginator.next_page %}
-<link rel="next" href="{{ paginator.next_page_path | prepend: seo_url }}"> {% endif %}
+  <link rel="prev" href="{{ paginator.previous_page_path | prepend: seo_url }}">
+{% endif %}
 
+{% if paginator.next_page %}
+  <link rel="next" href="{{ paginator.next_page_path | prepend: seo_url }}">
+{% endif %}
+
+<!-- Canonical -->
 <link rel="canonical" href="{{ canonical_url }}">

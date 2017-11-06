@@ -23,6 +23,8 @@
                 {% endif %}
                 {% if img.title %}
                     title="{{ img.title }}"
+                {% else %}
+                    title="FVCproductions - Image"
                 {% endif %}>
                 <img src=
                     {% if img.url contains "//" %}
@@ -30,7 +32,7 @@
                     {% else %}
                         "{{ img.url | absolute_url }}"
                     {% endif %}
-                alt="{% if img.title %}{{ img.title }}{% endif %}">
+                alt="{% if img.title %}{{ img.title }}{% else %}FVCproductions - Image{% endif %}">
             </a>
         {% endif %}
     {% endfor %}

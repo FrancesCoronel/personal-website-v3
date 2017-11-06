@@ -7,21 +7,24 @@
 		"uuidString": "E645A32B-9853-46C2-9B14-A9C7DFE1AA7A"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26097",
 "files": {
 	"\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
 	"\/.jshintrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.jshintrc",
 		"oF": 0
 		},
 	"\/.sass-lint.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.sass-lint.yml",
@@ -46,6 +49,7 @@
 		"oF": 0
 		},
 	"\/_config.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_config.yml",
@@ -160,200 +164,421 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/assets\/favicons\/favicon-114.png": {
+	"\/assets\/favicons\/android-chrome-144x144.png": {
 		"ft": 32768,
-		"iS": 9209,
+		"iS": 10166,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-114.png",
+		"oAP": "\/assets\/favicons\/android-chrome-144x144.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-120.png": {
+	"\/assets\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
-		"iS": 9789,
+		"iS": 13738,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-120.png",
+		"oAP": "\/assets\/favicons\/android-chrome-192x192.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-144.png": {
+	"\/assets\/favicons\/android-chrome-256x256.png": {
 		"ft": 32768,
-		"iS": 12544,
+		"iS": 20002,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-144.png",
+		"oAP": "\/assets\/favicons\/android-chrome-256x256.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-152.png": {
+	"\/assets\/favicons\/android-chrome-36x36.png": {
 		"ft": 32768,
-		"iS": 13435,
+		"iS": 2181,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-152.png",
+		"oAP": "\/assets\/favicons\/android-chrome-36x36.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-180.png": {
+	"\/assets\/favicons\/android-chrome-384x384.png": {
 		"ft": 32768,
-		"iS": 16589,
+		"iS": 35199,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-180.png",
+		"oAP": "\/assets\/favicons\/android-chrome-384x384.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-192.png": {
+	"\/assets\/favicons\/android-chrome-48x48.png": {
 		"ft": 32768,
-		"iS": 18479,
+		"iS": 2927,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-192.png",
+		"oAP": "\/assets\/favicons\/android-chrome-48x48.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-256.png": {
+	"\/assets\/favicons\/android-chrome-512x512.png": {
 		"ft": 32768,
-		"iS": 25540,
+		"iS": 54424,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-256.png",
+		"oAP": "\/assets\/favicons\/android-chrome-512x512.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-32.png": {
+	"\/assets\/favicons\/android-chrome-72x72.png": {
 		"ft": 32768,
-		"iS": 2448,
+		"iS": 4590,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-32.png",
+		"oAP": "\/assets\/favicons\/android-chrome-72x72.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-36.png": {
+	"\/assets\/favicons\/android-chrome-96x96.png": {
 		"ft": 32768,
-		"iS": 2703,
+		"iS": 6253,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-36.png",
+		"oAP": "\/assets\/favicons\/android-chrome-96x96.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-384.png": {
+	"\/assets\/favicons\/apple-touch-icon-114x114-precomposed.png": {
 		"ft": 32768,
-		"iS": 48832,
+		"iS": 6107,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-384.png",
+		"oAP": "\/assets\/favicons\/apple-touch-icon-114x114-precomposed.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-48.png": {
+	"\/assets\/favicons\/apple-touch-icon-114x114.png": {
 		"ft": 32768,
-		"iS": 3525,
+		"iS": 5179,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-48.png",
+		"oAP": "\/assets\/favicons\/apple-touch-icon-114x114.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-512.png": {
+	"\/assets\/favicons\/apple-touch-icon-120x120-precomposed.png": {
 		"ft": 32768,
-		"iS": 73347,
+		"iS": 6559,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-512.png",
+		"oAP": "\/assets\/favicons\/apple-touch-icon-120x120-precomposed.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-57.png": {
+	"\/assets\/favicons\/apple-touch-icon-120x120.png": {
 		"ft": 32768,
-		"iS": 4179,
+		"iS": 5581,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-57.png",
+		"oAP": "\/assets\/favicons\/apple-touch-icon-120x120.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-60.png": {
+	"\/assets\/favicons\/apple-touch-icon-144x144-precomposed.png": {
 		"ft": 32768,
-		"iS": 4368,
+		"iS": 8131,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-60.png",
+		"oAP": "\/assets\/favicons\/apple-touch-icon-144x144-precomposed.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-72.png": {
+	"\/assets\/favicons\/apple-touch-icon-144x144.png": {
 		"ft": 32768,
-		"iS": 5306,
+		"iS": 6954,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-72.png",
+		"oAP": "\/assets\/favicons\/apple-touch-icon-144x144.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-76.png": {
+	"\/assets\/favicons\/apple-touch-icon-152x152-precomposed.png": {
 		"ft": 32768,
-		"iS": 5671,
+		"iS": 8605,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-76.png",
+		"oAP": "\/assets\/favicons\/apple-touch-icon-152x152-precomposed.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon-96.png": {
+	"\/assets\/favicons\/apple-touch-icon-152x152.png": {
 		"ft": 32768,
-		"iS": 7387,
+		"iS": 7399,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/favicon-96.png",
+		"oAP": "\/assets\/favicons\/apple-touch-icon-152x152.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/favicon.ico": {
+	"\/assets\/favicons\/apple-touch-icon-180x180-precomposed.png": {
+		"ft": 32768,
+		"iS": 10586,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/apple-touch-icon-180x180-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/apple-touch-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 9088,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/apple-touch-icon-180x180.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/apple-touch-icon-57x57-precomposed.png": {
+		"ft": 32768,
+		"iS": 2826,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/apple-touch-icon-57x57-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/apple-touch-icon-57x57.png": {
+		"ft": 32768,
+		"iS": 2428,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/apple-touch-icon-57x57.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/apple-touch-icon-60x60-precomposed.png": {
+		"ft": 32768,
+		"iS": 2962,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/apple-touch-icon-60x60-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/apple-touch-icon-60x60.png": {
+		"ft": 32768,
+		"iS": 2560,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/apple-touch-icon-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/apple-touch-icon-72x72-precomposed.png": {
+		"ft": 32768,
+		"iS": 3620,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/apple-touch-icon-72x72-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/apple-touch-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 3075,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/apple-touch-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/apple-touch-icon-76x76-precomposed.png": {
+		"ft": 32768,
+		"iS": 3835,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/apple-touch-icon-76x76-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/apple-touch-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 3255,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/apple-touch-icon-76x76.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/apple-touch-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 10586,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/apple-touch-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 9088,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/browserconfig.xml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/favicons\/favicon.ico",
+		"oAP": "\/assets\/favicons\/browserconfig.xml",
 		"oF": 0
 		},
+	"\/assets\/favicons\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1087,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 1925,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/mstile-144x144.png": {
+		"ft": 32768,
+		"iS": 10064,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 9291,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/mstile-310x150.png": {
+		"ft": 32768,
+		"iS": 9957,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-310x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/mstile-310x310.png": {
+		"ft": 32768,
+		"iS": 23161,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/mstile-70x70.png": {
+		"ft": 32768,
+		"iS": 6480,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-70x70.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/favicons\/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/assets\/fonts\/font-awesome\/fontawesome-webfont.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/assets\/fonts\/font-awesome\/fontawesome-webfont.eot",
@@ -370,30 +595,35 @@
 		"prP": 0
 		},
 	"\/assets\/fonts\/font-awesome\/fontawesome-webfont.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/assets\/fonts\/font-awesome\/fontawesome-webfont.ttf",
 		"oF": 1
 		},
 	"\/assets\/fonts\/font-awesome\/fontawesome-webfont.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/assets\/fonts\/font-awesome\/fontawesome-webfont.woff",
 		"oF": 1
 		},
 	"\/assets\/fonts\/font-awesome\/fontawesome-webfont.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/assets\/fonts\/font-awesome\/fontawesome-webfont.woff2",
 		"oF": 1
 		},
 	"\/assets\/fonts\/font-awesome\/FontAwesome.otf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/assets\/fonts\/font-awesome\/FontAwesome.otf",
 		"oF": 1
 		},
 	"\/assets\/fonts\/lg.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/lg.eot",
@@ -410,12 +640,14 @@
 		"prP": 0
 		},
 	"\/assets\/fonts\/lg.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/lg.ttf",
 		"oF": 0
 		},
 	"\/assets\/fonts\/lg.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/lg.woff",
@@ -560,7 +792,7 @@
 		"sC": 3,
 		"tS": 1
 		},
-	"\/assets\/js\/plugins\/service-worker.js": {
+	"\/assets\/js\/service-worker.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -571,30 +803,42 @@
 		"tS": 1
 		},
 	"\/CNAME": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/CNAME",
 		"oF": 0
 		},
+	"\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/favicon.ico",
+		"oF": 0
+		},
 	"\/Gemfile": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/Gemfile",
 		"oF": 0
 		},
 	"\/Gemfile.lock": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/Gemfile.lock",
 		"oF": 0
 		},
 	"\/humans.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/humans.txt",
 		"oF": 0
 		},
 	"\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/LICENSE",
@@ -607,6 +851,16 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/min\/OneSignalSDKWorker-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/min\/min\/OneSignalSDKWorker-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 1
 		},
 	"\/OneSignalSDKUpdaterWorker.js": {
 		"ft": 64,
@@ -629,16 +883,17 @@
 		"tS": 1
 		},
 	"\/Rakefile": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/Rakefile",
 		"oF": 0
 		},
 	"\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -653,6 +908,7 @@
 		"uCM": 0
 		},
 	"\/robots.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/robots.txt",
@@ -681,19 +937,19 @@
 	"\/assets\/js\/main.js": [
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/onesignal.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/greedy-navigation.js",
 			"position": 0,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/greedy-navigation.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/iframes.js",
 			"position": 1,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/iframes.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/onesignal.js",
 			"position": 2,
 			"type": 0
 			}
@@ -1239,6 +1495,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -1303,9 +1563,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -1335,6 +1595,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -1344,14 +1608,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -2455,7 +2711,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 2,
@@ -2488,6 +2745,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -2529,7 +2787,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -2561,13 +2820,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -2576,7 +2835,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -2596,7 +2856,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -2624,7 +2885,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,

@@ -1,4 +1,4 @@
-$(document).ready(function () {
+window.onload = function () {
   // Light gallery initialization
   $("#lightgallery").lightGallery({
     thumbnail: true,
@@ -60,9 +60,9 @@ $(document).ready(function () {
       scrollTop: 0 // Scroll to top of body
     }, 500);
   });
-});
 
-// Passive Event Listener
-document.addEventListener('touchstart', onTouchStart, {
-  passive: true
-});
+  // Passive Event Listener
+  document.addEventListener('touchstart', onTouchStart, {
+    passive: true
+  });
+};

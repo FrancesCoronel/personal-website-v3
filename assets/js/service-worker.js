@@ -6,7 +6,7 @@ self.addEventListener('install', e => {
           `/`,
           `assets/js/min/main.min.js?timestamp=${timeStamp}`,
           `assets/css/main.css?timestamp=${timeStamp}`,
-          `assets/favicons/favicon.ico?timestamp=${timeStamp}`,
+          `/favicon.ico?timestamp=${timeStamp}`,
           `assets/img/teaser.png?timestamp=${timeStamp}`,
           `assets/img/logo-circle.svg?timestamp=${timeStamp}`
         ])

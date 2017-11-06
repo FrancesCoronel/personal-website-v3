@@ -10,13 +10,12 @@ My blog and portfolio all in one. You can view it on GitHub Pages at [fvcproduct
 
 <!-- TOC -->
 
-- [fvcproductions.github.io](#fvcproductionsgithubio)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [Contact](#contact)
-  - [Acknowledgements](#acknowledgements)
-  - [License](#license)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
 
 <!-- /TOC -->
 
