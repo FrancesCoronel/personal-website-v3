@@ -762,36 +762,6 @@
 		"oAP": "\/build\/assets\/js\/min",
 		"oF": 0
 		},
-	"\/assets\/js\/plugins\/greedy-navigation.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/min\/greedy-navigation-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 1
-		},
-	"\/assets\/js\/plugins\/iframes.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/min\/iframes-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 1
-		},
-	"\/assets\/js\/plugins\/onesignal.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/plugins\/min\/onesignal-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 1
-		},
 	"\/assets\/js\/service-worker.js": {
 		"ft": 64,
 		"ma": 0,
@@ -924,26 +894,6 @@
 "hooks": [
 	],
 "manualImportLinks": {
-	"\/assets\/js\/main.js": [
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/greedy-navigation.js",
-			"position": 0,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/iframes.js",
-			"position": 1,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/onesignal.js",
-			"position": 2,
-			"type": 0
-			}
-		]
 	},
 "projectAttributes": {
 	"creationDate": 506321634,

@@ -1,6 +1,99 @@
 jQuery(document).ready(function ($) {
-  // standard on load code goes here with $ prefix
-  // note: the $ is setup inside the anonymous function of the ready command
+  /*
+   * Greedy Navigation
+   *
+   * https://codepen.io/lukejacksonn/pen/PwmwWV
+   *
+   */
+
+  var $nav = $('#site-nav');
+  var $btn = $('#site-nav button');
+  var $vlinks = $('#site-nav .visible-links');
+  var $hlinks = $('#site-nav .hidden-links');
+
+  var breaks = [];
+
+  function updateNav() {
+
+    var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
+
+    // The visible list is overflowing the nav
+    if ($vlinks.width() > availableSpace) {
+
+      // Record the width of the list
+      breaks.push($vlinks.width());
+
+      // Move item to the hidden list
+      $vlinks.children().last().prependTo($hlinks);
+
+      // Show the dropdown btn
+      if ($btn.hasClass('hidden')) {
+        $btn.removeClass('hidden');
+      }
+
+      // The visible list is not overflowing
+    } else {
+
+      // There is space for another item in the nav
+      if (availableSpace > breaks[breaks.length - 1]) {
+
+        // Move the item to the visible list
+        $hlinks.children().first().appendTo($vlinks);
+        breaks.pop();
+      }
+
+      // Hide the dropdown btn if hidden list is empty
+      if (breaks.length < 1) {
+        $btn.addClass('hidden');
+        $hlinks.addClass('hidden');
+      }
+    }
+
+    // Keep counter updated
+    $btn.attr("count", breaks.length);
+
+    // Recur if the visible list is still overflowing the nav
+    if ($vlinks.width() > availableSpace) {
+      updateNav();
+    }
+
+  }
+
+  /** https://benmarshall.me/responsive-iframes/ **/
+  // Find all iframes
+  var $iframes = $("iframe");
+
+  // Find &#x26; save the aspect ratio for all iframes
+  $iframes.each(function () {
+    $(this).data("ratio", this.height / this.width)
+      // Remove the hardcoded width &#x26; height attributes
+      .removeAttr("width")
+      .removeAttr("height");
+  });
+
+  // Resize the iframes when the window is resized
+  $(window).resize(function () {
+    $iframes.each(function () {
+      // Get the parent container&#x27;s width
+      var width = $(this).parent().width();
+      $(this).width(width)
+        .height(width * $(this).data("ratio"));
+    });
+    // Resize to fix all iframes on page load.
+  }).resize();
+
+  // Window listeners
+
+  $(window).resize(function () {
+    updateNav();
+  });
+
+  $btn.on('click', function () {
+    $hlinks.toggleClass('hidden');
+    $(this).toggleClass('close');
+  });
+
+  updateNav();
   // Light gallery initialization
   $("#lightgallery").lightGallery({
     thumbnail: true,
@@ -68,3 +161,53 @@ jQuery(document).ready(function ($) {
     passive: true
   });
 });
+
+var OneSignal = window.OneSignal || [];
+
+OneSignal.push(["init", {
+  appId: "7bc782bf-6ee1-4373-8d1d-1346aba3b9ff",
+  autoRegister: false,
+  persistNotification: false,
+  notifyButton: {
+    enable: true, // Required to use the notify button
+    size: 'medium', // One of 'small', 'medium', or 'large'
+    theme: 'default', // One of 'default' (red-white) or 'inverse" (white-red)
+    colors: { // Customize the colors of the main button and dialog popup button
+      'circle.background': 'rgb(96, 125, 139)',
+      'circle.foreground': 'white',
+      'badge.background': 'rgb(96, 125, 139)',
+      'badge.foreground': 'white',
+      'badge.bordercolor': 'white',
+      'pulse.color': 'white',
+      'dialog.button.background.hovering': 'rgb(37, 49, 55)',
+      'dialog.button.background.active': 'rgb(37, 49, 55)',
+      'dialog.button.background': 'rgb(96, 125, 139)',
+      'dialog.button.foreground': 'white'
+    },
+    position: 'bottom-left', // Either 'bottom-left' or 'bottom-right'
+    offset: {
+      bottom: '20px',
+      left: '20px',
+      /* Only applied if bottom-left */
+      right: '0px' /* Only applied if bottom-right */
+    },
+    prenotify: true,
+    /* Show an icon with 1 unread message for first-time site visitors */
+    showCredit: false,
+    /* Hide the OneSignal logo */
+    text: {
+      'tip.state.unsubscribed': 'Subscribe to notifications 🍓️',
+      'tip.state.subscribed': "You're subscribed to notifications 🎉",
+      'tip.state.blocked': "You've blocked notifications 😢️",
+      'message.prenotify': 'Click to subscribe to notifications 🍓️',
+      'message.action.subscribed': "Thanks for subscribing! 😊",
+      'message.action.resubscribed': "You're subscribed to notifications 🎉",
+      'message.action.unsubscribed': "You won't receive notifications again 😳",
+      'dialog.main.title': 'Manage Site Notifications ⚙️',
+      'dialog.main.button.subscribe': 'SUBSCRIBE',
+      'dialog.main.button.unsubscribe': 'UNSUBSCRIBE',
+      'dialog.blocked.title': 'Unblock Notifications',
+      'dialog.blocked.message': "Follow these instructions to allow notifications:"
+    }
+  }
+}]);
