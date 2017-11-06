@@ -1,4 +1,6 @@
-window.onload = function () {
+jQuery(document).ready(function ($) {
+  // standard on load code goes here with $ prefix
+  // note: the $ is setup inside the anonymous function of the ready command
   // Light gallery initialization
   $("#lightgallery").lightGallery({
     thumbnail: true,
@@ -65,4 +67,4 @@ window.onload = function () {
   document.addEventListener('touchstart', onTouchStart, {
     passive: true
   });
-};
+});

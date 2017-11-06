@@ -852,16 +852,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"\/min\/OneSignalSDKWorker-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/min\/min\/OneSignalSDKWorker-min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 1
-		},
 	"\/OneSignalSDKUpdaterWorker.js": {
 		"ft": 64,
 		"ma": 0,
