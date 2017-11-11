@@ -68,6 +68,7 @@ Might have something to do with human nature in general, though, so interpret it
 - [CodeCombat](https://codecombat.com/user/fvcproductions) <i class="fa fa-codecombat"></i>
 - [CodePen](https://codepen.io/fvcproductions/) <i class="fa fa-codepen"></i>
 - [DeviantArt](https://fvcproductions.deviantart.com/) <i class="fa fa-deviantart"></i>
+- [Devpost](https://devpost.com/fvcproductions) <i class="fa fa-devpost"></i>
 - [Goodreads](//www.goodreads.com/user/show/27884143-frances-coronel) <i class="fa fa-goodreads"></i>
 - [Gravatar](https://en.gravatar.com/fvcproductions) <i class="fa fa-gravatar"></i>
 - [Imgur](//fvcproductions.imgur.com/) <i class="fa fa-imgur"></i>
@@ -83,6 +84,15 @@ Might have something to do with human nature in general, though, so interpret it
 - [Stack Overflow](https://stackoverflow.com/users/3000467/fvcproductions) <i class="fa fa-stack-overflow"></i>
 - [Twitter](https://twitter.com/fvcproductions) <i class="fa fa-twitter"></i>
 - [Wordpress](https://fvcproductions.wordpress.com) <i class="fa fa-wordpress"></i>
+
+## Child Pages
+
+{% assign sorted_about = site.about | sort: 'title' %}
+<div class="grid__wrapper">
+  {% for post in sorted_about %}
+    {% include archive/single.html type="grid" %}
+  {% endfor %}
+</div>
 
 ## Become a Patron!
 

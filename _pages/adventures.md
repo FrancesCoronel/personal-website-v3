@@ -4,7 +4,7 @@ permalink: /adventures/
 excerpt: "Never say 'no' to adventures. Always say 'yes,' otherwise, you'll lead a very dull life."
 ---
 
-{% assign sorted_adventures = site.adventures | sort: 'title' %}
+{% assign sorted_adventures = site.adventures | sort: 'date' %}
 
 <div class="grid__wrapper">
   {% for post in sorted_adventures %}

@@ -1,52 +1,13 @@
 main:
   - title: "About 👀️"
     url: /about/
-    children:
-      - title: "Travels 🗺️"
-        url: /travels/
-      - title: "What I Use 📱️"
-        url: /what-i-use/
   - title: "Adventures ✈️"
     url: /adventures/
-    children:
-      - title: "Conferences 🎫️"
-        url: /conferences/
-      - title: "Education 🎓️"
-        url: /education/
-      - title: "Experience 👓️"
-        url: /experience/
-      - title: "Hackathons 🔨️"
-        url: /hackathons/
-      - title: "Programs 🚀️"
-        url: /programs/
-      - title: "Volunteering 💝️"
-        url: /volunteering/
+  - title: "Awards 🏆️"
+    url: /awards/
   - title: "Blog 📝️"
     url: /blog/
   - title: "Portfolio 💼️"
     url: /portfolio/
-    children:
-      - title: "Awards 🏆️"
-        url: /awards/
-      - title: "Resume 📄️"
-        url : /resume/
-  - title: "Services 💡"
-    url: /services/
-    children:
-      - title: "Freelancing 💎"
-        url: /freelancing/
-      - title: "Mentoring 📚️"
-        url: /mentoring/
-      - title: "Speaking 💬️"
-        url: /speaking/
-  - title: "Reviews ✅️"
-    url: /reviews/
   - title: "Contact 📨️"
     url : /contact/
-  - title: "Search 🔍️"
-    url: /search/
-  - title: "Colophon 🍓️"
-    url: /colophon/
-  - title: "GitHub Repo 🔧️"
-    url: https://github.com/fvcproductions/fvcproductions.github.io
-    new_window: true
