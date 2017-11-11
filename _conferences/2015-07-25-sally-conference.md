@@ -1,6 +1,7 @@
 ---
 title: "Sally Conference"
 excerpt: "Sponsored by Bloom & Women Who Code"
+category: "Conference"
 date: 2015-07-25
 header:
   image: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/ckydracwgaeajgp.jpg

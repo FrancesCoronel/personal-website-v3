@@ -1,4 +1,4 @@
-jQuery(document).ready(function ($) {
+$(document).ready(function() {
   /*
    * Greedy Navigation
    *
@@ -6,46 +6,50 @@ jQuery(document).ready(function ($) {
    *
    */
 
-  var $nav = $('#site-nav');
-  var $btn = $('#site-nav button');
-  var $vlinks = $('#site-nav .visible-links');
-  var $hlinks = $('#site-nav .hidden-links');
+  var $nav = $("#site-nav");
+  var $btn = $("#site-nav button");
+  var $vlinks = $("#site-nav .visible-links");
+  var $hlinks = $("#site-nav .hidden-links");
 
   var breaks = [];
 
   function updateNav() {
-
-    var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
+    var availableSpace = $btn.hasClass("hidden")
+      ? $nav.width()
+      : $nav.width() - $btn.width() - 30;
 
     // The visible list is overflowing the nav
     if ($vlinks.width() > availableSpace) {
-
       // Record the width of the list
       breaks.push($vlinks.width());
 
       // Move item to the hidden list
-      $vlinks.children().last().prependTo($hlinks);
+      $vlinks
+        .children()
+        .last()
+        .prependTo($hlinks);
 
       // Show the dropdown btn
-      if ($btn.hasClass('hidden')) {
-        $btn.removeClass('hidden');
+      if ($btn.hasClass("hidden")) {
+        $btn.removeClass("hidden");
       }
 
       // The visible list is not overflowing
     } else {
-
       // There is space for another item in the nav
       if (availableSpace > breaks[breaks.length - 1]) {
-
         // Move the item to the visible list
-        $hlinks.children().first().appendTo($vlinks);
+        $hlinks
+          .children()
+          .first()
+          .appendTo($vlinks);
         breaks.pop();
       }
 
       // Hide the dropdown btn if hidden list is empty
       if (breaks.length < 1) {
-        $btn.addClass('hidden');
-        $hlinks.addClass('hidden');
+        $btn.addClass("hidden");
+        $hlinks.addClass("hidden");
       }
     }
 
@@ -56,7 +60,6 @@ jQuery(document).ready(function ($) {
     if ($vlinks.width() > availableSpace) {
       updateNav();
     }
-
   }
 
   /** https://benmarshall.me/responsive-iframes/ **/
@@ -64,33 +67,39 @@ jQuery(document).ready(function ($) {
   var $iframes = $("iframe");
 
   // Find &#x26; save the aspect ratio for all iframes
-  $iframes.each(function () {
-    $(this).data("ratio", this.height / this.width)
+  $iframes.each(function() {
+    $(this)
+      .data("ratio", this.height / this.width)
       // Remove the hardcoded width &#x26; height attributes
       .removeAttr("width")
       .removeAttr("height");
   });
 
   // Resize the iframes when the window is resized
-  $(window).resize(function () {
-    $iframes.each(function () {
-      // Get the parent container&#x27;s width
-      var width = $(this).parent().width();
-      $(this).width(width)
-        .height(width * $(this).data("ratio"));
-    });
-    // Resize to fix all iframes on page load.
-  }).resize();
+  $(window)
+    .resize(function() {
+      $iframes.each(function() {
+        // Get the parent container&#x27;s width
+        var width = $(this)
+          .parent()
+          .width();
+        $(this)
+          .width(width)
+          .height(width * $(this).data("ratio"));
+      });
+      // Resize to fix all iframes on page load.
+    })
+    .resize();
 
   // Window listeners
 
-  $(window).resize(function () {
+  $(window).resize(function() {
     updateNav();
   });
 
-  $btn.on('click', function () {
-    $hlinks.toggleClass('hidden');
-    $(this).toggleClass('close');
+  $btn.on("click", function() {
+    $hlinks.toggleClass("hidden");
+    $(this).toggleClass("close");
   });
 
   updateNav();
@@ -118,11 +127,11 @@ jQuery(document).ready(function ($) {
   ];
   var altTitle = altTitles[Math.floor(Math.random() * altTitles.length)];
 
-  $(window).blur(function () {
+  $(window).blur(function() {
     document.title = altTitle;
   });
 
-  $(window).focus(function () {
+  $(window).focus(function() {
     document.title = title;
   });
 
@@ -130,35 +139,38 @@ jQuery(document).ready(function ($) {
   // Set the size of the rendered Emojis
   // This can be set to 16x16, 36x36, or 72x72
   twemoji.parse(document.body, {
-    folder: 'svg',
-    ext: '.svg'
+    folder: "svg",
+    ext: ".svg"
   });
 
-  $('a.navbar-brand-link').hover(function () {
-    $('.navbar-brand img').attr('src', '/assets/img/logo-red.svg');
+  $("a.navbar-brand-link").hover(function() {
+    $(".navbar-brand img").attr("src", "/assets/img/logo-red.svg");
   });
 
   // Google Search
-  $("input.gsc-search-button.gsc-search-button-v2").attr('src', 'https://www.clker.com/cliparts/Y/3/d/w/R/r/search-icon-white-hi.png');
+  $("input.gsc-search-button.gsc-search-button-v2").attr(
+    "src",
+    "https://www.clker.com/cliparts/Y/3/d/w/R/r/search-icon-white-hi.png"
+  );
 
   // Return to Top
-  $(window).scroll(function () {
-    if ($(this).scrollTop() >= 50) { // If page is scrolled more than 50px
-      $('#return-to-top').fadeIn(200); // Fade in the arrow
+  $(window).scroll(function() {
+    if ($(this).scrollTop() >= 50) {
+      // If page is scrolled more than 50px
+      $("#return-to-top").fadeIn(200); // Fade in the arrow
     } else {
-      $('#return-to-top').fadeOut(200); // Else fade out the arrow
+      $("#return-to-top").fadeOut(200); // Else fade out the arrow
     }
   });
 
-  $('#return-to-top').click(function () { // When arrow is clicked
-    $('body,html').animate({
-      scrollTop: 0 // Scroll to top of body
-    }, 500);
-  });
-
-  // Passive Event Listener
-  document.addEventListener('touchstart', onTouchStart, {
-    passive: true
+  $("#return-to-top").click(function() {
+    // When arrow is clicked
+    $("body,html").animate(
+      {
+        scrollTop: 0 // Scroll to top of body
+      },
+      500
+    );
   });
 });
 

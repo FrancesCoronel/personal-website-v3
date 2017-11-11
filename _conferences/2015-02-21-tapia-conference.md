@@ -1,6 +1,7 @@
 ---
 title: "TAPIA 2015"
 excerpt: "ACM Richard Tapia Celebration of Diversity in Computing Conference"
+category: "Conference"
 date: 2015-02-21
 header:
   image: //fvcproductions.files.wordpress.com/2015/02/11193236_10205024245979886_9129577345082938607_n.jpg

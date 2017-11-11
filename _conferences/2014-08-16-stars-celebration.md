@@ -1,6 +1,7 @@
 ---
 title: "STARS Celebration 2014"
 excerpt: "Conference by the STARS Computing Corps"
+category: "Conference"
 date: 2014-08-16
 header:
     image: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg

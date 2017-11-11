@@ -1,6 +1,7 @@
 ---
 title: "ISCE 2011"
 excerpt: "My first conference through OP Smile!"
+category: "Conference"
 date: 2011-08-07
 header:
     image: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg

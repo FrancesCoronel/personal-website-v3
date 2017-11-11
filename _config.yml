@@ -208,10 +208,10 @@ defaults:
       comments:           false
       share:              true
       related:            true
-    # _projects
+    # _portfolio
   - scope:
       path:               ""
-      type:               projects
+      type:               portfolio
     values:
       layout:             single
       read_time:          false
@@ -291,7 +291,7 @@ defaults:
 
 # collections
 collections:
-  projects:
+  portfolio:
     output:               true
     permalink:            /portfolio/:year/:month/:day/:title/
   services:

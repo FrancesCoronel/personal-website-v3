@@ -7,11 +7,13 @@ header:
     image: https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-18.png?w=246&h=179&zoom=2
 ---
 
-![The Pursuit of Knowledge](https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png)
+{% include figure url="https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png" alt="The Pursuit of Knowledge" %}
 
 <blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/17475593/Pursuit-of-Knowledge">Pursuit of Knowledge</a></h4><p>End of Year English ProjectPursuit of KnowledgeFVCproductionsCreated 2013Dedicated to Mrs.Cook</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="https://itunes.apple.com/us/book/pursuit-of-knowledge/id1073378182?ls=1&mt=11">Pursuit of Knowledge by Frances Coronel on iBooks</a></h4><p>Read a free sample or buy Pursuit of Knowledge by Frances Coronel. You can read this book with iBooks on your iPhone, iPad, iPod touch, or Mac.</p></blockquote>
+
+## About
 
 Essentially, [*Pursuit of Knowledge*](https://itunes.apple.com/us/book/pursuit-of-knowledge/id1073378182?ls=1&mt=11) explores various mediums where the plot and theme relation are similar in that they each explore how humans are consistently aiming to create a creature more powerful than themselves and the consequences that can be faced from that decision.
 

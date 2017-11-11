@@ -1,6 +1,7 @@
 ---
 title: "Operation Smile - Medical Mission"
 excerpt: "Volunteered as a high schooler for a medical mission in Vietnam through Operation Smile."
+category: "Volunteering"
 date: 2012-06-18
 header:
   image: https://fvcproductions.files.wordpress.com/2015/11/581163_207413282713894_160438369_n.jpg

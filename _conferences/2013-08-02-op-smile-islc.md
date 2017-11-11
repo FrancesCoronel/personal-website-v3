@@ -1,6 +1,7 @@
 ---
 title: "ISLC 2013"
 excerpt: "International Student Leadership Conference"
+category: "Conference"
 date: 2013-08-02
 header:
   image: //i0.wp.com/fvcproductions.files.wordpress.com/2015/11/screen-shot-2016-01-22-at-9-53-08-pm.jpg

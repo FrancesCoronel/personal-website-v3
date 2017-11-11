@@ -19,10 +19,6 @@
 $susy: ( columns: 12, gutters: 1/4, math: fluid, output: float, gutter-position: after, container: $large, global-box-sizing: border-box, );
 @import "vendor/susy/susy";
 
-/* Font Awesome */
-
-@import "vendor/font-awesome/scss/font-awesome";
-
 /* Light Gallery */
 
 @import "vendor/lightgallery/lightgallery";
