@@ -1,6 +1,5 @@
 ---
 title: "Aww"
-date: 2015-09-15
 permalink: /aww/
 tags:
     - aww

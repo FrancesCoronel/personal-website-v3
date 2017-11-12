@@ -85,17 +85,18 @@ Might have something to do with human nature in general, though, so interpret it
 - [Twitter](https://twitter.com/fvcproductions) <i class="fa fa-twitter"></i>
 - [Wordpress](https://fvcproductions.wordpress.com) <i class="fa fa-wordpress"></i>
 
-## Child Pages
-
-{% assign sorted_about = site.about | sort: 'title' %}
-<div class="grid__wrapper">
-  {% for post in sorted_about %}
-    {% include archive/single.html type="grid" %}
-  {% endfor %}
-</div>
-
 ## Become a Patron!
 
 If you have found any of my contributions valuable, kindly consider supporting me through a small donation or by becoming an ongoing patron. 💛️
 
 <a href="https://www.patreon.com/fvcproductions" target="_blank" rel="noopener"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="50" alt="Become a Patron!"></a>
+
+---
+
+{% assign sorted_about = site.about | sort: 'title' %}
+
+<div class="grid__wrapper">
+  {% for post in sorted_about %}
+    {% include archive/single.html type="grid" %}
+  {% endfor %}
+</div>

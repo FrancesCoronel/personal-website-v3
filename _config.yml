@@ -130,7 +130,7 @@ sass:
   style:                  compressed
 
 # Outputting
-permalink:                /blog/:year/:month/:day/:title/
+permalink:                /adventures/:year/:month/:day/:title/
 timezone:                 America/Los_Angeles
 
 # Plugins
@@ -140,6 +140,10 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+
+# Pagination
+paginate: 12 # amount of posts to show
+paginate_path: "/adventures/page:num/"
 
 # Archives
 category_archive:
@@ -165,7 +169,7 @@ defaults:
   # _posts
   - scope:
       path:               ""
-      type:               posts
+      type:               adventures
     values:
       layout:             single
       read_time:          true
@@ -178,149 +182,23 @@ defaults:
       type:               pages
     values:
       layout:             single
-  # _adventures
-  - scope:
-      path:               ""
-      type:               adventures
-    values:
-      layout:             single
       read_time:          false
-      comments:           true
+      comments:           false
       share:              true
       related:            true
-  # _reviews
+  # _about
   - scope:
       path:               ""
-      type:               reviews
-    values:
-      layout:             single
-      read_time:          false
-      comments:           true
-      share:              true
-      related:            true
-  # _services
-  - scope:
-      path:               ""
-      type:               services
+      type:               about
     values:
       layout:             single
       read_time:          false
       comments:           false
       share:              true
       related:            true
-    # _portfolio
-  - scope:
-      path:               ""
-      type:               portfolio
-    values:
-      layout:             single
-      read_time:          false
-      comments:           true
-      share:              true
-      related:            true
-  # _speaking
-  - scope:
-      path:               ""
-      type:               speaking
-    values:
-      layout:             single
-      read_time:          false
-      comments:           true
-      share:              true
-      related:            true
-  # _conferences
-  - scope:
-      path:               ""
-      type:               conferences
-    values:
-      layout:             single
-      read_time:          false
-      comments:           true
-      share:              true
-      related:            true
-    # _hackathons
-  - scope:
-      path:               ""
-      type:               hackathons
-    values:
-      layout:             single
-      read_time:          false
-      comments:           true
-      share:              true
-      related:            true
-  # _experience
-  - scope:
-      path:               ""
-      type:               experience
-    values:
-      layout:             single
-      read_time:          false
-      comments:           true
-      share:              true
-      related:            true
-  # _education
-  - scope:
-      path:               ""
-      type:               education
-    values:
-      layout:             single
-      read_time:          false
-      comments:           true
-      share:              true
-      related:            true
-    # _programs
-  - scope:
-      path:               ""
-      type:               programs
-    values:
-      layout:             single
-      read_time:          false
-      comments:           true
-      share:              true
-      related:            true
-  # _volunteering
-  - scope:
-      path:               ""
-      type:               volunteering
-    values:
-      layout:             single
-      read_time:          false
-      comments:           true
-      share:              true
-      related:            true
 
 # collections
 collections:
-  portfolio:
+  about:
     output:               true
-    permalink:            /portfolio/:year/:month/:day/:title/
-  services:
-    output:               true
-    permalink:            /services/:year/:month/:day/:title/
-  speaking:
-    output:               true
-    permalink:            /speaking/:year/:month/:day/:title/
-  reviews:
-    output:               true
-    permalink:            /reviews/:year/:month/:day/:title/
-  adventures:
-    output:               true
-    permalink:            /adventures/:year/:month/:day/:title/
-  conferences:
-    output:               true
-    permalink:            /conferences/:year/:month/:day/:title/
-  hackathons:
-    output:               true
-    permalink:            /hackathons/:year/:month/:day/:title/
-  programs:
-    output:               true
-    permalink:            /programs/:year/:month/:day/:title/
-  volunteering:
-    output:               true
-    permalink:            /volunteering/:year/:month/:day/:title/
-  experience:
-    output:               true
-    permalink:            /experience/:year/:month/:day/:title/
-  education:
-    output:               true
-    permalink:            /education/:year/:month/:day/:title/
+    permalink:            /about/:title/

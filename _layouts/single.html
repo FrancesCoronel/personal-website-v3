@@ -102,7 +102,7 @@ layout: default
       {% endif %}
       <!-- Pagination -->
       {% if page.previous or page.next %}
-        {% include page/paginator.html %}
+        {% include page/post-paginator.html %}
       {% endif %}
       <!-- Related Posts -->
       {% if page.id and page.related and site.related_posts.size > 0 %}

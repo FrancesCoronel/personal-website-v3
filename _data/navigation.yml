@@ -5,9 +5,7 @@ main:
     url: /adventures/
   - title: "Awards 🏆️"
     url: /awards/
-  - title: "Blog 📝️"
-    url: /blog/
-  - title: "Portfolio 💼️"
-    url: /portfolio/
   - title: "Contact 📨️"
     url : /contact/
+  - title: "Search 🔍️"
+    url : /search/
