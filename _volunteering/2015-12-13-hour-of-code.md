@@ -1,6 +1,7 @@
 ---
 title: "Hour of Code 2015"
 excerpt: "Volunteering for the Hour of Code for the first time!"
+category: "Volunteering"
 date: 2015-12-13
 header:
   image: https://fvcproductions.files.wordpress.com/2015/12/img_2021.jpg

@@ -19,4 +19,22 @@ Games
 - Fire Boy and Water Girl
 - World of Warcraft
 - Lord of the Rings Online
-
+Binding of Isaac
+Chaos Faction 1 and 2
+Don’t Starve
+Eragon - NintendoDS
+Fire Boy and Water Girl
+Gaia Online
+Lord of the Rings - PlayStation
+Lord of the Rings Online
+Magical Diary: Horse Hall
+Pirates of the Caribbean Online
+Poptropica
+Runescape
+some 2d anime MMORPG with dragons and vampires and crap
+Terraria
+The Chronicles of Narnia - PlayStation
+The Royal Trap
+Trine 2
+Wizard101
+World of Warcraft

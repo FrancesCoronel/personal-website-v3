@@ -7,7 +7,7 @@
 		"uuidString": "E645A32B-9853-46C2-9B14-A9C7DFE1AA7A"
 		}
 	],
-"creatorBuild": "26097",
+"creatorBuild": "26148",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -103,6 +103,12 @@
 		"oAP": "\/build\/_pages",
 		"oF": 0
 		},
+	"\/_portfolio": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/_portfolio",
+		"oF": 0
+		},
 	"\/_posts": {
 		"ft": 65536,
 		"oA": 1,
@@ -113,12 +119,6 @@
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "\/build\/_programs",
-		"oF": 0
-		},
-	"\/_projects": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/build\/_projects",
 		"oF": 0
 		},
 	"\/_reviews": {
@@ -170,8 +170,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/android-chrome-144x144.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -181,8 +181,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/android-chrome-192x192.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -192,8 +192,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/android-chrome-256x256.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -203,8 +203,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/android-chrome-36x36.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -214,8 +214,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/android-chrome-384x384.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -225,8 +225,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/android-chrome-48x48.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -236,8 +236,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/android-chrome-512x512.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -247,8 +247,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/android-chrome-72x72.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -258,8 +258,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/android-chrome-96x96.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -269,8 +269,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-114x114-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -280,7 +280,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-114x114.png",
 		"oF": 0,
-		"oIPL": 0,
+		"oIPL": 1,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
@@ -291,8 +291,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-120x120-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -302,8 +302,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-120x120.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -313,8 +313,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-144x144-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -324,8 +324,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-144x144.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -335,8 +335,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-152x152-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -346,8 +346,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-152x152.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -357,8 +357,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-180x180-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -368,8 +368,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-180x180.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -379,8 +379,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-57x57-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -390,8 +390,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-57x57.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -401,8 +401,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-60x60-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -412,8 +412,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-60x60.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -423,8 +423,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-72x72-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -434,8 +434,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-72x72.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -445,8 +445,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-76x76-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -456,8 +456,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-76x76.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -467,8 +467,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -478,8 +478,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -496,8 +496,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon-16x16.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -507,8 +507,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon-32x32.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -518,8 +518,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/mstile-144x144.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -529,8 +529,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/mstile-150x150.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -540,8 +540,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/mstile-310x150.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -551,8 +551,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/mstile-310x310.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -562,8 +562,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/mstile-70x70.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -576,51 +576,6 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"\/assets\/fonts\/font-awesome\/fontawesome-webfont.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/fonts\/font-awesome\/fontawesome-webfont.eot",
-		"oF": 1
-		},
-	"\/assets\/fonts\/font-awesome\/fontawesome-webfont.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/font-awesome\/fontawesome-webfont.svg",
-		"oF": 1,
-		"opt": 1,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/assets\/fonts\/font-awesome\/fontawesome-webfont.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/fonts\/font-awesome\/fontawesome-webfont.ttf",
-		"oF": 1
-		},
-	"\/assets\/fonts\/font-awesome\/fontawesome-webfont.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/fonts\/font-awesome\/fontawesome-webfont.woff",
-		"oF": 1
-		},
-	"\/assets\/fonts\/font-awesome\/fontawesome-webfont.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/fonts\/font-awesome\/fontawesome-webfont.woff2",
-		"oF": 1
-		},
-	"\/assets\/fonts\/font-awesome\/FontAwesome.otf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/assets\/fonts\/font-awesome\/FontAwesome.otf",
-		"oF": 1
 		},
 	"\/assets\/fonts\/lg.eot": {
 		"cB": 0,
@@ -899,7 +854,8 @@
 	"creationDate": 506321634,
 	"displayValue": "GitHub Page",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-doge"
+	"iconImageName": "meme-doge",
+	"lastBuiltDate": 532122344
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
