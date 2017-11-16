@@ -3,7 +3,7 @@ title: "View LinkedIn Profiles Without Logging In 👀"
 date: 2017-02-06
 excerpt: You want to view someone on LinkedIn but you don't have a profile and have no desire to create an account.
 header:
-    image: https://i.imgur.com/8cFXnVj.jpg
+    image: https://i.imgur.com/10PHLUS.png
 ---
 
 ## The Problem
@@ -14,7 +14,7 @@ You want to view someone on [LinkedIn](https://linkedin.com/in/fvcproductions) b
 
 ## Either way, LinkedIn wants you to sign in and will have an annoying popup that looks like this
 
-[![LinkedIn Popup](https://fvcproductions.files.wordpress.com/2017/01/bill-gates-linkedin.png)
+![LinkedIn Popup](https://i.imgur.com/38oabN0.png)
 
 ## The Solution
 
@@ -26,13 +26,62 @@ Let's get rid of this of this annoying popup and continue browsing profiles with
 
 ![Stylebot ChromeExtension](https://fvcproductions.files.wordpress.com/2017/01/stylebot-chrome-web-store.png)
 
-### Step 2. [Install Style in Stylebot](https://stylebot.me/styles/15975)
+### Step 2. Add a new style
 
-I created this style using Stylebot that will allow us to avoid looking
-at ads and the popups when viewing a LinkedIn profile.
+Click on the Stylebot extension and select `Options`.
 
-![LinkedIn Style on Stylebot](https://fvcproductions.files.wordpress.com/2017/01/view-linkedin-profiles-without-logging-in.png)
+![Options](https://i.imgur.com/yVoibzs.png)
+
+Select the `Add a new style...` button.
+
+![Add a new style](https://i.imgur.com/so4wcql.png)
+
+Enter `linkedin.com` as the URL and the following CSS code.
+
+> Don't forget to hit `Save`!
+
+![LinkedIn Style](https://i.imgur.com/0XB0v4k.png)
+
+```css
+#ad {
+    display: none;
+}
+
+#advocate-modal {
+    background: none;
+}
+
+#advocate-modal .modal-content {
+    display: none;
+}
+
+.reg-upsell {
+    display: none;
+}
+
+body.advocate-modal-visible {
+    overflow: initial;
+}
+```
 
 ### Step 3. That's it! 😁
 
-No more ads or popups!
+![Bill Gates](https://i.imgur.com/10PHLUS.png)
+
+> No more ads or popups!
+
+Note in the screenshot above that I have the Stylebot extension enabled and am browsing in `Incognito`.
+
+This way, I can still be logged into LinkedIn but whenever I need to, I can also discretely view profiles without letting the other person know.
+
+#### Troubleshooting
+
+If you are still seeing the annoying popup, make sure that the Stylebot extension is enabled and refresh the page.
+
+Also, make sure the URL of the profile you want to view is formatted as
+
+```txt
+https://www.linkedin.com/in/USERNAME_HERE
+```
+
+or you may still end up seeing the popup.
