@@ -6,31 +6,31 @@ please read the [code of conduct](CODE_OF_CONDUCT.md).
 ## Setup
 
 ```sh
-$ git clone https://github.com/netlify/victor-hugo
-$ cd victor-hugo
-$ npm install
+git clone https://github.com/netlify/victor-hugo
+cd victor-hugo
+npm install
 ```
 
 ## Building
 
 ```sh
-$ npm run build
+npm run build
 ```
 
 ## Testing
 
 ```sh
-$ npm run test
+npm run test
 ```
 
 ```sh
-$ npm run test:watch
+npm run test:watch
 ```
 
 ## Runing the server
 
 ```sh
-$ npm run start
+npm run start
 ```
 
 ## Pull Requests

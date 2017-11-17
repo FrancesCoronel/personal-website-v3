@@ -62,3 +62,5 @@ typings/
 
 # Output
 dist/
+data/**/hash.*
+static/
