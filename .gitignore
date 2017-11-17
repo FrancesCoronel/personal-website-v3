@@ -15,3 +15,5 @@ npm-debug.log*
 **/site/
 /site/**
 **site
+node_modules/
+dist/

@@ -1,0 +1,46 @@
+// SASS
+@import "node_modules/bulma/sass/utilities/initial-variables.sass";
+@import "node_modules/bulma/sass/utilities/functions.sass";
+
+// Roboto Font
+@import "node_modules/roboto-fontface/css/roboto/sass/roboto-fontface-regular.scss";
+
+$family-serif: "Roboto", BlinkMacSystemFont, -apple-system, "Helvetica Neue",
+  "Helvetica", "Arial", sans-serif;
+
+// 3. Set the derived variablesBlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+// Use the new pink as the primary color
+$primary: #253137;
+$primary-invert: findColorInvert($primary);
+$link-hover: #657c89;
+$family-primary: $family-serif; // 4. Setup your Custom Colors
+
+// Bulma
+@import "node_modules/bulma/bulma";
+
+.navbar {
+  .navbar-item {
+    padding: 0.5em 2em;
+    img {
+      max-height: 5em;
+    }
+    a.navbar-item {
+      font-size: 1.2em;
+    }
+    img.emoji {
+      max-height: 2em;
+      margin-left: 1em;
+    }
+  }
+}
+
+a {
+  color: $primary;
+}
+
+.footer {
+  padding: 0;
+  img.emoji {
+    max-height: 1em;
+  }
+}

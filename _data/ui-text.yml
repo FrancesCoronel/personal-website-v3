@@ -1,7 +1,4 @@
-# User interface text and labels
-
 # English (default)
-# -----------------
 en: &DEFAULT_EN
   page                       : "Page"
   pagination_previous        : "Previous Post"
@@ -51,7 +48,6 @@ en-AU:
   <<: *DEFAULT_EN
 
 # Spanish
-# --------------
 es: &DEFAULT_ES
   page                       : "Página"
   pagination_previous        : "Anterior"
@@ -96,7 +92,6 @@ es-CO:
   <<: *DEFAULT_ES
 
 # French
-# -----------------
 fr: &DEFAULT_FR
   page                       : "Page"
   pagination_previous        : "Précédent"
@@ -144,7 +139,6 @@ fr-CH:
   <<: *DEFAULT_FR
 
 # Turkish
-# -----------------
 tr: &DEFAULT_TR
   page                       : "Sayfa"
   pagination_previous        : "Önceki"
@@ -187,7 +181,6 @@ tr-TR:
   <<: *DEFAULT_TR
 
 # Portuguese
-# -----------------
 pt: &DEFAULT_PT
   page                       : "Página"
   pagination_previous        : "Anterior"
@@ -226,6 +219,7 @@ pt: &DEFAULT_PT
   comment_success_msg        : "Obrigado pelo seu comentário! Será visível no site logo que aprovado."
   comment_error_msg          : "Lamento, ocorreu um erro na sua submissão. Por favor verifique se todos os campos obrigatórios estão corretamente preenchidos e tente novamente."
   loading_label              : "A carregar..."
+
 # Brazilian Portuguese
 pt-BR:
   page                       : "Página"
@@ -269,7 +263,6 @@ pt-PT:
   <<: *DEFAULT_PT
 
 # Italian
-# -----------------
 it: &DEFAULT_IT
   page                       : "Pagina"
   pagination_previous        : "Precedente"
@@ -312,7 +305,6 @@ it-IT:
   <<: *DEFAULT_IT
 
 # Chinese  (zh-CN Chinese - China)
-# -----------------
 zh: &DEFAULT_ZH
   page                       : "页面"
   pagination_previous        : "向前"
@@ -361,7 +353,6 @@ zh-TW:
   <<: *DEFAULT_ZH
 
 # German / Deutsch
-# -----------------
 de: &DEFAULT_DE
   page                       : "Seite"
   pagination_previous        : "Vorherige"
@@ -412,8 +403,8 @@ de-LI:
   <<: *DEFAULT_DE
 de-LU:
   <<: *DEFAULT_DE
+
 # Nepali (Nepal)
-# -----------------
 ne: &DEFAULT_NE
   page                       : "पृष्‍ठ"
   pagination_previous        : "अघिल्लो"
@@ -454,5 +445,3 @@ ne: &DEFAULT_NE
   loading_label              : "लोड हुँदैछ ..."
 ne-NP:
   <<: *DEFAULT_NE
-# Another locale
-# --------------
