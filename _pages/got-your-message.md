@@ -1,8 +1,6 @@
 ---
-title: I got your message!
+title: Success! 🎉
 permalink: /got-your-message/
 ---
 
-## Your message was sent! 🎉
-
-And I will be getting back to you ASAP!
+I got your message and I will be getting back to you ASAP! 😊
