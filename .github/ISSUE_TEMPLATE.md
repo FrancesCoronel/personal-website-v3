@@ -1,27 +1,12 @@
-<!--
-If you are reporting a new issue, make sure that we do not have any duplicates
-already open. You can ensure this by searching the issue list for this
-repository. If there is a duplicate, please close your issue and add a comment
-to the existing issue instead.
+Insert description of issue here
 
-If you suspect your issue is a bug, please edit your issue description to
-include the BUG REPORT INFORMATION shown below. If you fail to provide this
-information within 7 days, we cannot debug your issue and will close it. We
-will, however, reopen it if you later provide the information.
+---
 
----------------------------------------------------
-BUG REPORT INFORMATION
----------------------------------------------------
-Use the commands below to provide key information from your environment:
-You do NOT have to include this information if this is a FEATURE REQUEST
--->
+<!-- Thank you for contributing to this repo, it is much appreciated! 😊 -->
 
-**- Do you want to request a *feature* or report a *bug*?**
+<!-- Before raising an issue, make sure to verify the following. -->
 
-**- What is the current behavior?**
+> ✅️ By submitting this issue, I have verified the following
 
-**- If the current behavior is a bug, please provide the steps to reproduce.**
-
-**- What is the expected behavior?**
-
-**- Please mention your node.js, NPM, Hugo and operating system version.**
+- [] [Checked](https://github.com/fvcproductions/fvcproductions.github.io/issues?q=is%3Aissue+is%3Aclosed) to see if the issue has already been discussed before. 🤔️
+- [] *If* proposing new content to be added, made sure enough details were provided. 🔍️

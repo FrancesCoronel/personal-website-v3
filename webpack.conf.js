@@ -32,8 +32,8 @@ export default {
     app: ["./js/app"]
   },
   output: {
-    path: path.join(__dirname, "dist"),
-    publicPath: "/js",
+    path: path.join(__dirname, "dist/assets/js"),
+    publicPath: "",
     filename: "[name].js"
   },
   externals: [/^vendor\/.+\.js$/]

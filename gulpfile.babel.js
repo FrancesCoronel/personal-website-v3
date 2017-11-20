@@ -22,9 +22,11 @@ gulp.task("hugo", cb => buildSite(cb));
 gulp.task("hugo-preview", cb => buildSite(cb, hugoArgsPreview));
 
 // Build/production tasks
-gulp.task("build", ["sass", "js"], cb => buildSite(cb, [], "production"));
+gulp.task("build", ["sass", "js", "static"], cb =>
+  buildSite(cb, [], "production")
+);
 
-gulp.task("build-preview", ["sass", "js"], cb =>
+gulp.task("build-preview", ["sass", "js", "static"], cb =>
   buildSite(cb, hugoArgsPreview, "production")
 );
 
@@ -37,7 +39,14 @@ gulp.task("sass", () =>
       }).on("error", sass.logError)
     )
     .pipe(postcss([autoprefixer(), cssnano()]))
-    .pipe(gulp.dest("./dist/css"))
+    .pipe(gulp.dest("./dist/assets/css"))
+    .pipe(browserSync.stream())
+);
+
+gulp.task("static", () =>
+  gulp
+    .src("./src/static/**/*")
+    .pipe(gulp.dest("./dist/assets"))
     .pipe(browserSync.stream())
 );
 
@@ -59,7 +68,7 @@ gulp.task("js", () => {
 });
 
 // Development server with browser sync
-gulp.task("server", ["hugo", "sass", "js"], () => {
+gulp.task("server", ["hugo", "sass", "js", "static"], () => {
   browserSync.init({
     server: {
       baseDir: "./dist"
@@ -70,6 +79,9 @@ gulp.task("server", ["hugo", "sass", "js"], () => {
   });
   watch("./src/js/**/*.js", () => {
     gulp.start(["js"]);
+  });
+  watch("./src/static/**/*", () => {
+    gulp.start(["static"]);
   });
   watch("./site/**/*", () => {
     gulp.start(["hugo"]);

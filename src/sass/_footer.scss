@@ -1,76 +1,34 @@
-.page__footer {
-    @include full();
-    @include clearfix;
-    color: $black;
-    -webkit-animation: intro 0.3s both;
-    animation: intro 0.3s both;
-    -webkit-animation-delay: 0.45s;
-    animation-delay: 0.45s;
-    /* start sticky footer fix */
-    position: absolute;
-    bottom: 0;
-    /* Set the fixed height of the footer here */
-    height: 250px;
-    /* end sticky footer fix */
-    footer {
-        @include container;
-        @include clearfix;
-        text-align: center;
-        max-width: 90%;
+.footer {
+  padding: 2em;
+  img.emoji {
+    max-height: 1em;
+    margin-top: 0.25em;
+    margin-right: 0.5em;
+  }
+  p.copyright {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  a {
+    text-decoration: none;
+    color: $primary;
+    &:hover {
+      text-decoration: none;
     }
-    a {
-        color: inherit;
-        text-decoration: none;
-        &:hover {
-            text-decoration: underline;
-        }
-    }
-    .fa {
-        color: $black;
-    }
+  }
 }
 
-.page__footer-copyright {
-    font-family: $monospace;
-    font-size: $type-size-5;
-}
-
-.page__footer-follow {
-    ul {
-        margin: 0;
-        padding: 0;
-        list-style-type: none;
+$fa-social: (facebook, $facebook-color),  (spotify, $spotify-color),
+   (twitter, $twitter-color),  (google-plus, $google-plus-color),
+   (linkedin, $linkedin-color),  (rss, $rss-color),
+   (youtube-play, $youtube-color),  (behance, $behance-color),
+   (github-alt, $github-color),  (reddit, $reddit-color);
+@each $social-network, $fa-color in $fa-social {
+  .social-icons .fa-#{$social-network} {
+    margin-right: 0.5em;
+    &:hover {
+      color: $fa-color !important;
     }
-    li {
-        display: inline-block;
-        padding-top: 5px;
-        padding-bottom: 5px;
-        font-family: $sans-serif-narrow;
-        font-size: $type-size-6;
-        text-transform: uppercase;
-    }
-    li+li:before {
-        content: "";
-        padding-right: 5px;
-    }
-    a {
-        padding-right: 10px;
-        font-weight: bold;
-    }
-}
-
-.col-6 {
-    @media screen and (max-width: $mobile) {
-        width: span(12);
-    }
-    @media screen and (min-width: $small) {
-        width: span(6);
-    }
-    display: inline-block;
-}
-
-.page__footer .fa {
-    @media screen and (max-width: $mobile) {
-        margin-right: 0;
-    }
+  }
 }

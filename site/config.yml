@@ -1,0 +1,52 @@
+baseURL: /
+config: config.yaml
+defaultContentLanguage: en
+disableKinds: []
+disqusShortname: fvcproductions
+enableEmoji: true
+footnoteReturnLinkContents: ↩
+googleAnalytics: UA-63190978-3
+google_site_verification: biBOb6vq_csqy61DeBLw8DvAbCDUp5UsG8Vnpgm8qu4
+bing_site_verification: 9C3D9366DA5BF33A14ABDFAF0A81CED3
+language:
+  lang: en-us
+summaryLength: 70
+layoutDir: layouts
+metaDataFormat: yaml
+paginate: 12
+paginatePath: page
+permalinks:
+  post: '/adventures/:year/:month/:day/:title/'
+pygmentsCodeFences: true
+pygmentsCodeFencesGuessSyntax: true
+pygmentsStyle: monokai
+pygmentsUseClasses: false
+rssLimit: 15
+title: FVCproductions
+title_separator: '-'
+watch: true
+taxonomies:
+  - category: categories
+  - tag: tags
+name: Frances Coronel
+avatar: assets/img/logo.png
+description: >-
+  I like to dabble with things that ought to be dabbled with. &#127827;
+  &#127851;
+url: 'https://fvcproductions.com'
+teaser_image: /img/teaser.png
+github_repo: fvcproductions/fvcproductions.github.io
+location: 'Redwood City, CA'
+email: fvcproductions at gmail dot com
+stackoverflow: 3000467/fvcproductions
+handle: fvcproductions
+alt_handle: fvcproductions2013
+base_social:
+  - 'https://twitter.com/fvcproductions'
+  - 'https://linkedin.com/in/fvcproductions'
+  - 'https://behance.net/fvcproductions'
+  - 'https://youtube.com/+fvcproductions2013'
+  - 'https://github.com/fvcproductions'
+  - 'https://slideshare.net/fvcproductions'
+super_proxy_url: >-
+  https://fvcproductions-analytics.appspot.com/query?id=ahpzfmZ2Y3Byb2R1Y3Rpb25zLWFuYWx5dGljc3IVCxIIQXBpUXVlcnkYgICAgICAgAoM&format=json

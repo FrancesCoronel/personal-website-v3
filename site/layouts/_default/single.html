@@ -1,0 +1,23 @@
+{{ define "main" }}
+<!-- Hero -->
+{{ partial "hero" . }}
+<section class="section">
+  <div class="container">
+    <div class="meta">
+      {{ with .Lastmod }}
+      <p>
+        <i class="fa fa-calendar-o fa-lg" aria-hidden="true"></i> Last modified
+        <b>{{ .Format "Monday - January 2, 2006" }}</b>
+      </p>
+      {{ end }} {{ with .ReadingTime }}
+      <p>
+        <i class="fa fa-clock-o fa-lg" aria-hidden="true"></i> {{ . }} minute read {{ end }} {{ with .WordCount }} ∙ {{ . }} words
+      </p>
+      {{ end }}
+    </div>
+    <div class="content">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+{{ end }}

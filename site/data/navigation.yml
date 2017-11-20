@@ -1,11 +1,11 @@
 main:
-  - title: "About 👀️"
+  - title: "About \uD83D\uDC40️"
     url: /about/
-  - title: "Adventures ✈️"
+  - title: Adventures ✈
     url: /adventures/
-  - title: "Awards 🏆️"
+  - title: "Awards \uD83C\uDFC6️"
     url: /awards/
-  - title: "Contact 📨️"
-    url : /contact/
-  - title: "Search 🔍️"
-    url : /search/
+  - title: "Contact \uD83D\uDCE8️"
+    url: /contact/
+  - title: "Search \uD83D\uDD0D️"
+    url: /search/

@@ -1,0 +1,8 @@
+{{ define "main" }} {{ .Content }} {{ range first 1 .Site.Taxonomies.categories.sport }}
+<h2>
+  <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+</h2>
+<p>
+  {{ .Page.Summary }}
+</p>
+{{ end }} {{ end }}

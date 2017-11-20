@@ -1,35 +1,13 @@
-<!--
-Thanks for submitting a pull request!
+Insert description of PR here
 
-Please make sure you've read and understood our contributing guidelines;
-https://github.com/netlify/victor-hugo/blob/master/CONTRIBUTING.md
+---
 
-If this is a bug fix, make sure your description includes "fixes #xxxx", or
-"closes #xxxx", where #xxxx is the issue number.
+<!-- Thank you for contributing to this repo, it is much appreciated! 😊 -->
 
-Please provide enough information so that others can review your pull request.
-The first three fields are mandatory:
--->
+<!-- Before creating a PR, make sure to verify the following. -->
 
-**- Summary**
+## ✅️ By submitting this PR, I have verified the following
 
-<!--
-Explain the **motivation** for making this change.
-What existing problem does the pull request solve?
--->
-
-**- Test plan**
-
-<!--
-Demonstrate the code is solid.
-Example: The exact commands you ran and their output, screenshots / videos if the pull request changes UI.
--->
-
-**- Description for the changelog**
-
-<!--
-Write a short (one line) summary that describes the changes in this
-pull request for inclusion in the changelog:
--->
-
-**- A picture of a cute animal (not mandatory but encouraged)**
+- [] [Checked](https://github.com/fvcproductions/fvcproductions.github.io/pulls?q=is%3Aopen+is%3Apr) to see if a similar PR has already been opened. 🤔️
+- [] Reviewed the contributing guidelines at [`CONTRIBUTING.md`](https://github.com/fvcproductions/fvcproductions.github.io/.github/CONTRIBUTING.md). 🔍️
+- [] Added my name to the bottom of the list under the **Credits* section in the `README.md` with a link to my website or GitHub profile. 👥️
