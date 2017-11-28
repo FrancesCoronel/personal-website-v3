@@ -4,14 +4,18 @@
 <section class="section">
   <div class="container">
     <div class="meta">
-      {{ with .Lastmod }}
+      {{ with .Params.excerpt }}
       <p>
-        <i class="fa fa-calendar-o fa-lg" aria-hidden="true"></i> Last modified
+        <i class="fa fa-info-circle fa-lg" aria-hidden="true"></i>{{ . }}
+      </p>
+      {{ end }} {{ with .Date }}
+      <p>
+        <i class="fa fa-calendar-o fa-lg" aria-hidden="true"></i>Created
         <b>{{ .Format "Monday - January 2, 2006" }}</b>
       </p>
       {{ end }} {{ with .ReadingTime }}
       <p>
-        <i class="fa fa-clock-o fa-lg" aria-hidden="true"></i> {{ . }} minute read {{ end }} {{ with .WordCount }} ∙ {{ . }} words
+        <i class="fa fa-clock-o fa-lg" aria-hidden="true"></i>{{ . }} minute read {{ end }} {{ with .WordCount }} ∙ {{ . }} words
       </p>
       {{ end }}
     </div>
