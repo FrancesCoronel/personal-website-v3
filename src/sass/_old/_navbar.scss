@@ -1,0 +1,50 @@
+.navbar {
+  font-family: $family-mono;
+  font-size: $font-size-8;
+  -webkit-box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.2), 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12);
+  box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.2), 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12);
+  transform: translateY(0px);
+  top: 0;
+  left: 0;
+  position: fixed;
+  right: 0;
+  z-index: 30;
+  .navbar-dropdown {
+    border-top: none;
+  }
+  .navbar-link:after {
+    border-color: white;
+  }
+  img.navbar-logo {
+    max-height: 3em;
+    margin-right: 1em;
+  }
+  img.emoji {
+    margin-left: 0.5em;
+  }
+  .navbar-burger {
+    height: inherit;
+    width: 5em;
+  }
+  a.navbar-item.is-active,
+  a.navbar-item:hover,
+  a.navbar-link.is-active,
+  a.navbar-link:hover,
+  .navbar-item.has-dropdown.is-active .navbar-link,
+  .navbar-item.has-dropdown:hover .navbar-link {
+    color: lightgray;
+    background-color: inherit;
+  }
+  .navbar-item {
+    padding: 0.5em 2em;
+  }
+  .navbar-item,
+  .navbar-link {
+    color: white;
+  }
+}
+
+.navbar,
+.navbar-dropdown {
+  background-color: $primary;
+}

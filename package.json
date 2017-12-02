@@ -1,8 +1,8 @@
 {
-  "name": "victor-hugo",
+  "name": "fvcproductions",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
-  "repository": "netlify/victor-hugo",
+  "description": "I like to dabble with things that ought to be dabbled with.",
+  "repository": "fvcproductions/fvcproductions.github.io",
   "main": "index.js",
   "scripts": {
     "hugo": "gulp hugo",
@@ -11,7 +11,7 @@
     "start": "gulp server",
     "lint": "eslint src"
   },
-  "author": "",
+  "author": "Frances Coronel",
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "^7.1.6",
@@ -24,6 +24,7 @@
     "babel-plugin-transform-object-rest-spread": "^6.8.0",
     "babel-preset-env": "1.6.0",
     "babel-register": "^6.11.6",
+    "bootstrap": "^4.0.0-beta.2",
     "browser-sync": "^2.13.0",
     "bulma": "^0.6.1",
     "clipboard": "^1.7.1",
@@ -39,9 +40,12 @@
     "gulp-sass": "^3.1.0",
     "gulp-util": "^3.0.7",
     "gulp-watch": "^4.3.11",
-    "hugo-bin": "^0.13.0",
+    "hugo-bin": "^0.18.0",
     "imports-loader": "^0.7.1",
-    "node-sass": "^4.6.1",
+    "infinite-scroll": "^3.0.2",
+    "jquery": "^1.9.1",
+    "node-sass": "^4.7.2",
+    "popper.js": "^1.12.9",
     "roboto-fontface": "^0.8.0",
     "roboto-mono-webfont": "^2.0.986",
     "url-loader": "^0.5.7",

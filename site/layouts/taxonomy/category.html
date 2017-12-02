@@ -1,0 +1,23 @@
+{{ define "main" }}
+   <h1 id="title">{{ .Title }}</h1>
+    {{ range .Data.Pages }}
+      <hr />
+                <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                
+                <p>
+                {{ .Date.Format "Mon, Jan 2, 2006" }}
+                </p>
+
+                <div>
+                {{ .Description }}
+                </div>
+
+                <div>
+                {{ .Summary }}
+                </div>
+
+                <p class="align-right"><a href='{{ .Permalink }}'><nobr>{{ .Site.Data.i18n.morelink }} →</nobr></a></p>   
+  {{ end }}
+{{ end }}
+
+

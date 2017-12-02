@@ -1,0 +1,7 @@
+<nav class="pagination is-centered" role="navigation" aria-label="pagination">
+  {{ if .PrevInSection }}
+  <a class="pagination-previous" href="{{ .PrevInSection.Permalink }}">Previous</a>
+  {{ end }} {{ if .NextInSection }}
+  <a class="pagination-next" href="{{ .NextInSection.Permalink }}">Next</a>
+  {{ end }}
+</nav>

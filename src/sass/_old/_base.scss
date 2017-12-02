@@ -1,0 +1,87 @@
+// Links
+a {
+  color: $primary;
+  &:hover {
+    cursor: -webkit-image-set( url(https://hovastate.s3.amazonaws.com/hova.png) 1x, url(https://hovastate.s3.amazonaws.com/hova.2x.png) 2x) 24 1, default;
+  }
+  &:hover,
+  &:active {
+    outline: 0;
+  }
+}
+
+// Images
+img.emoji {
+  display: inline;
+  border: none;
+  box-shadow: none;
+  margin: 0 0.1em;
+  width: 1em;
+  vertical-align: -0.1em;
+  background: none;
+  padding: 0;
+}
+
+// Notice
+.notice {
+  margin: 2em 0 !important;
+  padding: 1em;
+  font-family: "Roboto", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-size: 1em !important;
+  text-indent: initial;
+  background-color: #f7f7f7;
+  border-radius: 4px;
+  box-shadow: 0 1px 1px rgba(173, 173, 173, 0.25);
+}
+
+// Code
+tt,
+code,
+kbd,
+samp,
+pre {
+  font-family: $family-mono;
+}
+
+pre {
+  overflow-x: auto;
+}
+
+// Separator
+hr {
+  display: block;
+  margin: 1em 0;
+  border: 0;
+  border-top: 1px solid lightgray;
+}
+
+// Transitions
+b,
+i,
+strong,
+em,
+blockquote,
+p,
+q,
+span,
+figure,
+img,
+h1,
+h2,
+header,
+input,
+a,
+tr,
+td,
+form button {
+  -webkit-transition: $global-transition;
+  transition: $global-transition;
+}
+
+// Forms
+input {
+  border-radius: 0;
+  font-size: $font-size-6;
+  margin-bottom: 0.25em;
+  padding: 0.5em 1em;
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}" class="no-js" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+
+<head>
+  {{ partial "meta" . }}
+  <base href="{{ .Site.BaseURL }}">
+  <title>{{ if .Title }} {{ .Title }} {{ else }} {{ .Site.Title }} {{ end }}</title>
+  {{ partial "favicons" . }}
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+
+<body lang="en">
+  {{ partial "navbar" . }} {{ block "main" . }} {{ end }}
+  <a href="javascript:" id="return-to-top" aria-label="Return to Top" aria-labelledby="Return to Top" aria-hidden="true">
+    <i class="fa fa-angle-up" aria-hidden="true"></i>
+  </a>
+  {{ partial "footer" . }} {{ partial "scripts" . }}
+</body>
+
+</html>

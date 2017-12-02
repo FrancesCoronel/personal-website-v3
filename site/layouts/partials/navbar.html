@@ -1,34 +1,14 @@
-<nav class="navbar">
-  <div class="navbar-brand">
-    <a class="navbar-item" href="{{ .Site.BaseURL }}">
-      <img class="navbar-logo" src="/assets/img/logo.svg" alt="FVCproductions">
-    </a>
-    <div class="navbar-burger burger" data-target="navmenu-transparent">
-      <span></span>
-      <span></span>
-      <span></span>
-    </div>
-  </div>
-  <div id="navmenu-transparent" class="navbar-menu">
-    <div class="navbar-start">
-      <a class="navbar-item" href="/about">About 👀</a>
-      <a class="navbar-item" href="/adventures">Adventures ✈️</a>
-      <a class="navbar-item" href="/awards">Awards 🏆️</a>
-      <a class="navbar-item" href="/speaking">Speaking 💬️</a>
-      <a class="navbar-item" href="/contact">Contact 📨️</a>
-      <a class="navbar-item" href="/search">Search 🔍️</a>
-      <!-- <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link">
-          More
-        </a>
-        <div class="navbar-dropdown">
-          <a class="navbar-item" href="/contact">Contact 📨️</a>
-          <a class="navbar-item" href="/search">Search 🔍️</a>
-          <hr class="navbar-divider">
-          <div class="navbar-item">
-            Version 0.6.1
-          </div>
-        </div>
-      </div> -->
-    </div>
-</nav>
+					<!-- Menu -->
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							{{ range .Site.Menus.main }}
+                			<li>
+                    		<a href="{{ .URL }}">
+            				{{ with .Identifier }}
+                            <i class="{{ . }}">&nbsp;</i>{{ end }}{{ .Name }}
+                    		</a>
+                			</li>
+            				{{ end }}
+						</ul>
+					</nav>

@@ -1,0 +1,77 @@
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  src:
+    local('Source Sans Pro Light'),
+    local('SourceSansPro-Light'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGHdR0F235EfZ1nyXVjo75tg.eot */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_300.eot?#iefix') format('embedded-opentype'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGIPZSf8Ud0kNoe3bGnF7K24.woff */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_300.woff') format('woff'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGI5cJNhwEsOquLJPbRyuuWw.woff2 */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_300.woff2') format('woff2'),
+    /* from https://fonts.gstatic.com/l/font?kit=toadOcfmlt9b38dHJxOBGBwFAR_JC3J8Zm-uv-UzQO0&skey=e2b26fc7e9e1ade8&v=v9#SourceSansPro */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_300.svg#SourceSansPro') format('svg'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGEBls_1aQwi4AfipSOlE3SU.ttf */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_300.ttf') format('truetype');
+} 
+
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('Source Sans Pro'),
+    local('SourceSansPro-Regular'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v9/ODelI1aHBYDBqgeIAH2zlEA6tAhcINGmHcufV_v7M-I.eot */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_400.eot?#iefix') format('embedded-opentype'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v9/ODelI1aHBYDBqgeIAH2zlBBHWFfxJXS04xYOz0jw624.woff */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_400.woff') format('woff'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v9/ODelI1aHBYDBqgeIAH2zlMiuYsbw7ku9F25X8Z55niY.woff2 */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_400.woff2') format('woff2'),
+    /* from https://fonts.gstatic.com/l/font?kit=ODelI1aHBYDBqgeIAH2zlFDQFM_ssmsMllHqrQ3bQJE&skey=1e026b1c27170b9b&v=v9#SourceSansPro */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_400.svg#SourceSansPro') format('svg'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v9/ODelI1aHBYDBqgeIAH2zlFzCdIATDt8zXO3QNtzVeJ8.ttf */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_400.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  src:
+    local('Source Sans Pro Bold'),
+    local('SourceSansPro-Bold'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGDe0M8oPjGfL9wLU31UDwGU.eot */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_700.eot?#iefix') format('embedded-opentype'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGAE-U1AYRUXXE0Dth8uKIE0.woff */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_700.woff') format('woff'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGDKEjXUiyhWCZIsL2JQb0_M.woff2 */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_700.woff2') format('woff2'),
+    /* from https://fonts.gstatic.com/l/font?kit=toadOcfmlt9b38dHJxOBGPlpfttWJ2iMxK1L9KFTb5k&skey=84e1cdfb74260b1d&v=v9#SourceSansPro */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_700.svg#SourceSansPro') format('svg'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGGAlZ1PukdtTN2z-JxSzbe8.ttf */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_700.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 900;
+  src:
+    local('Source Sans Pro Black'),
+    local('SourceSansPro-Black'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGPBMV3AEIVrfWDS8L9r2OXE.eot */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_900.eot?#iefix') format('embedded-opentype'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGLhvvL6PHcOvkHgRlzWiaCU.woff */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_900.woff') format('woff'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGODfZJzivlN_xWznx6dlQGA.woff2 */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_900.woff2') format('woff2'),
+    /* from https://fonts.gstatic.com/l/font?kit=toadOcfmlt9b38dHJxOBGJkxXmvkr3wo7QzWWbp-UKM&skey=cf4dfcb31d72fb0a&v=v9#SourceSansPro */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_900.svg#SourceSansPro') format('svg'),
+    /* from https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGOmWm5x7AGfSS0YwqQKRPBc.ttf */
+    url('../fonts/Source_Sans_Pro/Source_Sans_Pro_900.ttf') format('truetype');
+}
+

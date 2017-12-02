@@ -1,0 +1,21 @@
+{{ define "main" }}
+<!-- Hero -->
+{{ partial "hero" . }}
+<section class="section">
+  <div class="container">
+    <h1>{{.Title}}</h1>
+    <div class="content">
+      <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+      {{.Content}}
+      <ul>
+        <!-- Ranges through content/post/*.md -->
+        {{ range .Data.Pages }}
+        <li>
+          <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -1,20 +1,52 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}" class="no-js" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<!DOCTYPE HTML>
+<!--
+	Phantom by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>{{ .Title }}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 
-<head>
-  {{ partial "meta" . }}
-  <base href="{{ .Site.BaseURL }}">
-  <title>{{ if .Title }} {{ .Title }} {{ else }} {{ .Site.Title }} {{ end }}</title>
-  {{ partial "favicons" . }}
-  <link rel="stylesheet" href="assets/css/main.css">
-</head>
+		<link rel="schema.DC"      href="http://purl.org/dc/elements/1.1/" />
+        <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+        <meta name="DC.title" content="{{ .Title }}" />
+        <meta name="DC.description" content="{{ .Description }}" />
+        <meta name="DC.creator" content="Jan Ulrich Hasecke" />
+        <meta name="DC.language" content="de" />
+        <meta name="DC.publisher" content="Jan Ulrich Hasecke"/>
+        <meta name="DC.subject" content="{{ range .Params.tags }}{{ . }},{{ end }}" />
+		{{ template "_internal/twitter_cards.html" . }}
+        {{ template "_internal/opengraph.html" . }}
+        {{ template "_internal/schema.html" . }}
+        {{ template "_internal/google_news.html" . }}
+	</head>
+	<body>
+		<!-- Wrapper -->
+			<div id="wrapper">
+			{{ partial "logo.html" . }}
+			{{ partial "navbar.html" . }}
+			<div id="main">
+    		<div class="inner">
+			{{ block "main" . }}{{ end }}
+			</div>
+            </div>
+            {{ partial "footer" . }}
+							
+			</div>
 
-<body lang="en">
-  {{ partial "navbar" . }} {{ block "main" . }} {{ end }}
-  <a href="javascript:" id="return-to-top" aria-label="Return to Top" aria-labelledby="Return to Top" aria-hidden="true">
-    <i class="fa fa-angle-up" aria-hidden="true"></i>
-  </a>
-  {{ partial "footer" . }} {{ partial "scripts" . }}
-</body>
+		<!-- Scripts -->
+			<script src="/js/jquery.min.js"></script>
+			<script src="/js/skel.min.js"></script>
+			<script src="/js/util.js"></script>
+			<!--[if lte IE 8]><script src="/js/ie/respond.min.js"></script><![endif]-->
+			<script src="/js/main.js"></script>
 
+	</body>
 </html>

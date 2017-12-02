@@ -1,0 +1,29 @@
+{{ if .Params.header.image }}
+<section class="hero is-fullheight" style="background-image:url({{ .Params.header.image }});">
+  <div class="overlay"></div>
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">{{ .Title }}</h1>
+      {{ with .Params.subtitle }}
+      <h2 class="subtitle">{{ . }}</h2>
+      {{ end }}
+    </div>
+  </div>
+  {{ with .Params.header.caption }}
+  <span class="hero-caption">
+    {{ . }}
+  </span>
+  {{ end }}
+</section>
+{{ else }}
+<section class="hero is-primary">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">{{ .Title }}</h1>
+      {{ with .Params.subtitle }}
+      <h2 class="subtitle">{{ . }}</h2>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

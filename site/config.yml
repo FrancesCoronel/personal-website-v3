@@ -16,11 +16,10 @@ metaDataFormat: yaml
 paginate: 12
 paginatePath: page
 permalinks:
-  post: '/adventures/:year/:month/:day/:title/'
-pygmentsCodeFences: true
-pygmentsCodeFencesGuessSyntax: true
+  blog: /blog/:year/:month/:day/:title/
+pygmentsCodefences: true
+pygmentsCodefencesGuessSyntax: true
 pygmentsStyle: monokai
-pygmentsUseClasses: false
 rssLimit: 15
 title: FVCproductions
 title_separator: '-'

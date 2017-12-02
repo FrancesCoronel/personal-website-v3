@@ -1,32 +1,104 @@
-<footer class="footer">
-  <div class="container">
-    <div class="content has-text-centered">
-      <div class="columns">
-        <div class="column social-icons">
-          <a title="Twitter - FVCproductions" target="_blank" rel="noopener" href="//twitter.com/fvcproductions">
-            <i class="fa fa-fw fa-twitter fa-3x" aria-hidden="true"></i>
-          </a>
-          <a title="LinkedIn - FVCproductions" target="_blank" rel="noopener" href="//linkedin.com/in/fvcproductions">
-            <i class="fa fa-fw fa-linkedin fa-3x" aria-hidden="true"></i>
-          </a>
-          <a title="GitHub - FVCproductions" target="_blank" rel="noopener" href="//github.com/fvcproductions">
-            <i class="fa fa-fw fa-github-alt fa-3x" aria-hidden="true"></i>
-          </a>
-          <a title="Behance - FVCproductions" target="_blank" rel="noopener" href="//behance.net/fvcproductions">
-            <i class="fa fa-fw fa-behance fa-3x" aria-hidden="true"></i>
-          </a>
-          <a title="YouTube - FVCproductions" target="_blank" rel="noopener" href="//youtube.com/c/fvcproductions2013">
-            <i class="fa fa-fw fa-youtube-play fa-3x" aria-hidden="true"></i>
-          </a>
-          <a title="Spotify - FVCproductions" target="_blank" rel="noopener" href="//open.spotify.com/user/fvcproductions">
-            <i class="fa fa-fw fa-spotify fa-3x" aria-hidden="true"></i>
-          </a>
-          <a title="RSS Feed - FVCproductions" target="_blank" rel="noopener" href="{{ .RSSLink }}">
-            <i class="fa fa-fw fa-rss fa-3x" aria-hidden="true"></i>
-          </a>
-        </div>
-      </div>
-      <p class="copyright"> &copy; ️FVCproductions 2013-{{ now.Format "2006" }} </p>
-    </div>
-  </div>
-</footer>
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+						<!-- Disabled because we have no service for that
+							<section>
+								<h2>Get in touch</h2>
+								<form method="post" action="#">
+									<div class="field half first">
+										<input type="text" name="name" id="name" placeholder="Name" />
+									</div>
+									<div class="field half">
+										<input type="email" name="email" id="email" placeholder="Email" />
+									</div>
+									<div class="field">
+										<textarea name="message" id="message" placeholder="Message"></textarea>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send" class="special" /></li>
+									</ul>
+								</form>
+							</section>
+							-->
+							<section>
+								<h2>{{ .Site.Data.i18n.sectionshare }}</h2>
+								<ul class="icons">
+								<!-- Social Share Button HTML -->
+
+                                	<!-- Twitter -->
+                                	<li><a href="//twitter.com/share?url={{ .Permalink }}&text={{ .Title }}&via={{ .Site.Social.twitter }}" target="_blank" class="icon                                 	style2 fa-twitter">
+                                	    <span class="label">Twitter</span>
+                                	</a></li>
+
+                                	<!-- Google Plus -->
+                                	<li><a href="//plus.google.com/share?url={{ .Permalink }}" target="_blank" class="icon style2 fa-google-plus">
+                                	    <span class="label">Google+</span>
+                                	</a></li>
+
+                                	<!-- Facebook -->
+                                	<li><a href="//www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" class="icon style2 fa-facebook">
+                                	    <span class="label">Facebook</span>
+                                	</a></li>
+
+                                	<!-- Reddit (url, title) -->
+                                	<li><a href="//reddit.com/submit?url={{ .Permalink }}&title={{ .Title }}" target="_blank" class="icon style2 fa-reddit">
+                                	    <span class="label">Reddit</span>
+                                	</a></li>
+
+                                	<!-- LinkedIn -->
+                                	<li><a href="//www.linkedin.com/shareArticle?url={{ .Permalink }}&title={{ .Title }}" target="_blank" class="icon style2 fa-linkedin">
+                                	    <span class="label">LinkedIn</span>
+                                	</a></li>
+
+                                	<!-- StumbleUpon (url, title) -->
+                                	<li><a href="//www.stumbleupon.com/submit?url={{ .Permalink }}&title={{ .Title }}" target="_blank" class="icon style2 fa-stumbleupon">
+                                	    <span class="label">StumbleUpon</span>
+                                	</a></li>
+
+                                	<!-- Email -->
+                                	<li><a href="mailto:?subject=Lies diesen Artikel von {{ .Params.author }}&body={{ .Permalink }}" target="_blank" class="icon style2                                 	fa-envelope-o">
+                                	    <span class="label">Email</span>
+                                	</a></li>
+
+								</ul>
+							</section>
+							<section>
+								<h2>{{ .Site.Data.i18n.sectionfollow }}</h2>
+								<ul class="icons">
+
+									{{ with .Site.Social.twitter }}
+									<li><a href="//twitter.com/{{.}}" class="icon style2 fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+									{{ end }}
+<!--
+									{{ with .Site.Social.facebook }}
+									<li><a href="//facebook.com/{{.}}" class="icon style2 fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+									{{ end }}
+
+									{{ with .Site.Social.instagram }}
+									<li><a href="//instagram.com/{{.}}" class="icon style2 fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+									{{ end }}
+
+									{{ with .Site.Social.dribble }}
+									<li><a href="//dribbble.com/{{.}}" class="icon style2 fa-dribbble" target="_blank"><span class="label">Dribbble</span></a></li>
+									{{ end }}
+-->
+									{{ with .Site.Social.github }}
+									<li><a href="//github.com/{{.}}" class="icon style2 fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+									{{ end }}
+
+									{{ with .Site.Social.email }}
+									<li><a href="mailto:{{.}}" class="icon style2 fa-envelope-o" target="_blank"><span class="label">Email</span></a></li>
+									{{ end }}
+
+									<li><a href="/index.xml" class="icon style2 fa-rss" target="_blank"><span class="label">RSS</span></a></li>
+								</ul>
+							</section>
+							<ul class="copyright">
+								{{ with .Site.Params.copyright }}
+								<li>&copy; {{ . }}{{ end }} {{with .Site.Params.year }} {{ . }} {{ end }} – {{ now.Year }}</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+								<li>Hosting by <a href="https://www.hostsharing.net">Hostsharing</a></li>
+								<li><a href="/impressum">Impressum</a></li>
+
+							</ul>
+						</div>
+					</footer>
