@@ -1,55 +1,132 @@
-baseurl = "www.yoursite.com"
-languageCode = "en-EN"
-title = "FVCproductions"
-preserveTaxonomyNames = true
-paginate = 5
-metaDataFormat = "yaml"
+baseURL                       = "/"
+title                         = "FVCproductions"
+metaDataFormat                = "yaml"
+enableEmoji                   = true
+footnoteReturnLinkContents    = "↩"
 
+# Language
+languageCode                  = "en-EN"
+DefaultContentLanguage        = "en"
+
+# Categories
+preserveTaxonomyNames         = true
+paginate                      = 5
+
+# Code
+pygmentsCodefences            = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsStyle                 = "monokai"
+
+# Internal Templates
+googleAnalytics = "UA-63190978-3"
+disqusShortname = "fvcproductions"
+
+# RSS
+[outputs]
+    home = ["HTML", "AMP", "RSS"]
+    page = ["HTML", "AMP"]
+
+[outputFormats]
+    [outputFormats.RSS]
+        mediatype = "application/rss"
+        baseName = "feed"
+
+# Homepage
 [params]
-    headline             = "This is Phantom, a free, fully responsive site template designed by HTML5 UP."
-    description          = "Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam."
-    copyright            = "Your name"
-    year                 = 2017
+    headline                  = "Hey there, I'm Frances! 👋🏽️"
+    description               = "I like to dabble with things that ought to be dabbled with. 🍓️️🍫️"
+    copyright                 = "FVCproductions"
+    year                      = 2013
 
-# Set up your menu items in the navigation bar
-# You can use identifier to prepend a font awesome icon to your text
-#[[menu.main]]
-#    name = "Blog"
-#    url = "/blog"
-#    identifier = "fa fa-newspaper-o"
-#    weight = 1
+# Permalinks
+[permalinks]
+  adventures                  = "/adventures/:year/:month/:day/:title/"
+
+# Navigation Menu
+[[menu.main]]
+    name                      = "Home 🏠"
+    url                       = "/"
+    weight                    = 1
 
 [[menu.main]]
-    name = "Start"
-    url = "/"
-    weight = 0
+    name                      = "About 👀"
+    url                       = "/about"
+    weight                    = 2
 
 [[menu.main]]
-    name = "Contents"
-    url = "/post"
-    weight = 1
+    name                      = "Adventures ✈️"
+    url                       = "/adventures"
+    weight                    = 3
 
 [[menu.main]]
-    name = "Categories"
-    url = "/categories"
-    weight = 2
+    name                      = "Awards 🏆️"
+    url                       = "/awards"
+    weight                    = 4
 
 [[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 3
+   name                       = "Blog 📝️"
+   url                        = "/blog"
+   weight                     = 5
 
 [[menu.main]]
-    name = "Imprint"
-    url = "/imprint"
-    weight = 4
+    name                      = "Contact 📨"
+    url                       = "/contact"
+    weight                    = 6
 
-# Insert your username and the icon will appear at the bottom of the site.
-# Look at the partial footer.html if you want to add more.
+[[menu.main]]
+    name                      = "Now 🕒️"
+    url                       = "/now"
+    weight                    = 7
+
+[[menu.main]]
+    name                      = "Portfolio 💼"
+    url                       = "/portfolio"
+    weight                    = 8
+
+[[menu.main]]
+    name                      = "Services 🛠️"
+    url                       = "/services"
+    weight                    = 9
+
+[[menu.main]]
+    name                      = "Speaking 💬️"
+    url                       = "/speaking"
+    weight                    = 10
+
+# Social Links
 [social]
-    github          = "fvcproductions"
-    dribbble        = "fvcproductions"
-    instagram       = "fvcproductions"
-    facebook        = "fvcproductions"
-    twitter         = "fvcproductions"
-    email           = "fvcproductions"
+    angellist                 = "fvcproductions"
+    behance                   = "fvcproductions"
+    calendly                  = "fvcproductions"
+    codepen                   = "fvcproductions"
+    deviantart                = "fvcproductions"
+    dribbble                  = "fvcproductions"
+    email                     = "hello@fvcproductions.com"
+    etsy                      = "fvcproductions"
+    facebook                  = "fvcproductions"
+    freecodecamp              = "fvcproductions"
+    github                    = "fvcproductions"
+    gitlab                    = "fvcproductions"
+    googleplus                = "fvcproductions2013"
+    hackernews                = "fvcproductions"
+    houzz                     = "fvcproductions"
+    instagram                 = "fvcproductions"
+    linkedin                  = "fvcproductions"
+    medium                    = "fvcproductions"
+    meetup                    = "182920007"
+    paypal                    = "fvcproductions"
+    producthunt               = "fvcproductions"
+    quora                     = "Frances-Coronel-1"
+    reddit                    = "fvcproductions"
+    scribd                    = "194063411/FVCproductions"
+    slideshare                = "fvcproductions"
+    soundcloud                = "fvcproductions"
+    spotify                   = "fvcproductions"
+    stackexchange             = "3595658/fvcproductions"
+    stackoverflow             = "3000467/fvcproductions"
+    steam                     = "fvcproductions"
+    trello                    = "fvcproductions"
+    tumblr                    = "fvcproductions2013"
+    twitter                   = "fvcproductions"
+    vimeo                     = "fvcproductions"
+    youtube                   = "fvcproductions2013"

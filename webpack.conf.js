@@ -5,12 +5,16 @@ export default {
   module: {
     rules: [
       {
-        test: /\.((png)|(eot)|(woff)|(woff2)|(ttf)|(svg)|(gif))(\?v=\d+\.\d+\.\d+)?$/,
-        loader: "file-loader?name=/[hash].[ext]"
-      },
-      {
         test: /\.json$/,
         loader: "json-loader"
+      },
+      {
+        test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/,
+        loader: "url-loader"
+      },
+      {
+        test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
+        loader: "url-loader"
       },
       {
         loader: "babel-loader",
@@ -19,6 +23,10 @@ export default {
         query: {
           cacheDirectory: true
         }
+      },
+      {
+        test: /\.css$/,
+        use: ["style-loader", "css-loader"]
       }
     ]
   },
@@ -29,11 +37,12 @@ export default {
   ],
   context: path.join(__dirname, "src"),
   entry: {
+    ie: ["./js/vendor/ie"],
     app: ["./js/app"]
   },
   output: {
     path: path.join(__dirname, "dist/assets/js"),
-    publicPath: "",
+    publicPath: "/dist/assets/js/",
     filename: "[name].js"
   },
   externals: [/^vendor\/.+\.js$/]

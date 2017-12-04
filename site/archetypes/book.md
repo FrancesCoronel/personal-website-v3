@@ -1,7 +1,7 @@
 ---
 title: "Books 📚️"
 permalink: /books/
-excerpt: "Books I've read that were ridiculously memorable."
+description: "Books I've read that were ridiculously memorable."
 type: draft
 ---
 

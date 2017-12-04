@@ -1,6 +1,6 @@
 ---
 title: "macOS Tips & Tricks "
-excerpt: "After nearly 10 years of being a macOS user..."
+description: "After nearly 10 years of being a macOS user..."
 date: 2017-10-11
 draft: true
 header:

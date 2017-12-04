@@ -10,6 +10,8 @@ import BrowserSync from "browser-sync";
 import watch from "gulp-watch";
 import webpack from "webpack";
 import webpackConfig from "./webpack.conf";
+import imagemin from "gulp-imagemin";
+import del from "del";
 
 const browserSync = BrowserSync.create();
 
@@ -22,11 +24,11 @@ gulp.task("hugo", cb => buildSite(cb));
 gulp.task("hugo-preview", cb => buildSite(cb, hugoArgsPreview));
 
 // Build/production tasks
-gulp.task("build", ["sass", "js", "static"], cb =>
+gulp.task("build", ["clean", "sass", "js", "ie", "img", "static"], cb =>
   buildSite(cb, [], "production")
 );
 
-gulp.task("build-preview", ["sass", "js", "static"], cb =>
+gulp.task("build-preview", ["clean", "sass", "ie", "js", "img", "static"], cb =>
   buildSite(cb, hugoArgsPreview, "production")
 );
 
@@ -43,12 +45,36 @@ gulp.task("sass", () =>
     .pipe(browserSync.stream())
 );
 
+gulp.task("ie", () =>
+  gulp
+    .src(["./src/sass/ie8.scss", "./src/sass/ie9.scss"])
+    .pipe(
+      sass({
+        outputStyle: "compressed"
+      }).on("error", sass.logError)
+    )
+    .pipe(postcss([autoprefixer(), cssnano()]))
+    .pipe(gulp.dest("./dist/assets/css"))
+    .pipe(browserSync.stream())
+);
+
+gulp.task("img", () =>
+  gulp
+    .src("./src/img/**/*")
+    .pipe(imagemin())
+    .pipe(gulp.dest("./dist/assets/img"))
+);
+
 gulp.task("static", () =>
   gulp
     .src("./src/static/**/*")
     .pipe(gulp.dest("./dist/assets"))
     .pipe(browserSync.stream())
 );
+
+gulp.task("clean", function() {
+  return del.sync("dist");
+});
 
 // Compile Javascript
 gulp.task("js", () => {
@@ -68,7 +94,7 @@ gulp.task("js", () => {
 });
 
 // Development server with browser sync
-gulp.task("server", ["hugo", "sass", "js", "static"], () => {
+gulp.task("server", ["hugo", "sass", "js", "img", "static"], () => {
   browserSync.init({
     server: {
       baseDir: "./dist"
@@ -80,7 +106,10 @@ gulp.task("server", ["hugo", "sass", "js", "static"], () => {
   watch("./src/js/**/*.js", () => {
     gulp.start(["js"]);
   });
-  watch("./src/static/**/*", () => {
+  watch("./src/img/**/*", () => {
+    gulp.start(["img"]);
+  });
+  watch("./src/assets/**/*", () => {
     gulp.start(["static"]);
   });
   watch("./site/**/*", () => {

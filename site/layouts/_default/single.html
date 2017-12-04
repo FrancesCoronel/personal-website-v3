@@ -1,21 +1,24 @@
 {{ define "main" }}
-				<!-- Main -->
-						<h1>{{ .Title }}</h1>
-						<div class="row">
-						<div class="8u">
-						<p><strong>{{ .Description }}</strong></p>
-						</div>
-						<div class="4u">
-							<p class="align-right">{{ .PublishDate.Format "02.01.2006" }}
-							</p>
-						</div>
-					</div>
-					<div class="row">
-						<div class="12u$">
-						{{ with .Params.images }}
-						<span class="image main"><img src="{{ index . 1 | relURL }}" alt="" /></span>
-						{{ end }}
-						<p>{{ .Content }}</p>
-					</div>
-				</div>
+<!-- Begin Main -->
+<div class="page">
+  <!-- Header -->
+  {{ partial "header.html" . }}
+  <div class="page-content">
+    <!-- Content -->
+    {{ if .Content }} {{ partial "content.html" . }} {{ end }}
+    <!-- Filter by Tag -->
+    {{ if .Params.speaking }}
+    <section class="section tiles">
+      {{ range ($.Site.Taxonomies.tags.speaking).Pages.ByDate.Reverse }} {{ partial "tile.html" . }} {{ end }}
+    </section>
+    {{ end }}
+    <!-- Donate -->
+    {{ partial "donate.html" . }}
+    <!-- Pagination -->
+    {{ if or (or (.PrevInSection) (.NextInSection)) }} {{ partial "pagination.html" . }} {{ end }}
+    <!-- Disqus Comments -->
+    {{ if not .Params.noComments }} {{ partial "comments.html" . }} {{ end }}
+  </div>
+</div>
+<!-- End Main -->
 {{ end }}

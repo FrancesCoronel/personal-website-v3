@@ -1,6 +1,6 @@
 ---
 title: "APM Programs for Fresh Grads 💼"
-excerpt: "So you want to be an 'Associate Product Manager'..."
+description: "So you want to be an 'Associate Product Manager'..."
 date: 2017-08-28
 draft: true
 header:

@@ -1,0 +1,51 @@
+<meta charset="utf-8">
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="HandheldFriendly" content="True">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0">
+<meta name="application-name" content="{{ .Title }}">
+<meta name="msapplication-window" content="width=device-width;height=device-height">
+<meta name="msapplication-tooltip" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} {{ end }}">
+<meta name="title" content="{{ .Title }}">
+<meta name="description" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} {{ end }}">
+<meta name="image" content="assets/img/teaser.png">
+<meta name="robots" content="index, follow">
+<meta itemprop="name" content="{{ .Title }}">
+<meta itemprop="description" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} {{ end }}">
+<meta itemprop="image" content="assets/img/teaser.png">
+<!-- Open Graph -->
+<meta property="og:title" content="FVCproductions 🍫️ 🍓">
+<meta property="og:description" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} {{ end }}">
+<meta property="og:image" content="assets/img/teaser.png">
+<meta property="og:image:width" content="1050">
+<meta property="og:image:height" content="600">
+<meta property="og:url" content="{{ .Site.BaseURL }}">
+<meta property="og:site_name" content="{{ .Title }}">
+<meta property="og:locale" content="en">
+<meta property="og:type" content="website">
+<meta property="og:description" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} {{ end }}">
+<!-- Twitter -->
+<meta name="twitter:site" content="@fvcproductions">
+<meta name="twitter:title" content="FVCproductions 🍫️ 🍓">
+<meta name="twitter:description" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} {{ end }}">
+<meta name="twitter:url" content="{{ .Site.BaseURL }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="assets/img/teaser.png">
+<meta name="twitter:image:src" content="assets/img/teaser.png">
+<meta name="twitter:creator" content="@fvcproductions">
+<!-- Preconnect API. For browser compatibility, check http://caniuse.com/#feat=link-rel-preconnect -->
+<link rel="preconnect" href="{{ .Site.BaseURL }}">
+<!-- Canonical -->
+<link rel="canonical" href="{{ .Permalink }}">
+<!-- RSS -->
+{{ if .RSSLink }}
+<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}" /> {{ end }}
+<!-- Add prefetch and prerender on section pages. Works especially well for articles or blog posts in a series -->
+{{ if .IsPage }} {{if .NextInSection }}
+<link rel="prefetch" href="{{.NextInSection.Permalink}}">
+<link rel="prerender" href="{{.NextInSection.Permalink}}"> {{ end }} {{if .PrevInSection }}
+<link rel="prefetch" href="{{.PrevInSection.Permalink}}">
+<link rel="prerender" href="{{.PrevInSection.Permalink}}"> {{ end }} {{ end }}

@@ -1,26 +1,80 @@
-// Navbar
-document.addEventListener("DOMContentLoaded", function() {
-  // Get all "navbar-burger" elements
-  var $navbarBurgers = Array.prototype.slice.call(
-    document.querySelectorAll(".navbar-burger"),
-    0
-  );
-  // Check if there are any nav burgers
-  if ($navbarBurgers.length > 0) {
-    // Add a click event on each of them
-    $navbarBurgers.forEach(function($el) {
-      $el.addEventListener("click", function() {
-        // Get the target from the "data-target" attribute
-        var target = $el.dataset.target;
-        var $target = document.getElementById(target);
+// Phantom
+require("./vendor/phantom.js");
 
-        // Toggle the class on both the "navbar-burger" and the "navbar-menu"
-        $el.classList.toggle("is-active");
-        $target.classList.toggle("is-active");
-      });
-    });
-  }
+// Roboto Fonts
+require("typeface-roboto");
+require("typeface-roboto-mono");
+
+// Font Awesome
+require("font-awesome-webpack");
+
+// Twemoji
+import twemoji from "twemoji";
+
+// Isotope
+function getHashFilter() {
+  // get filter=filterName
+  var matches = location.hash.match(/filter=([^&]+)/i);
+  var hashFilter = matches && matches[1];
+  return hashFilter && decodeURIComponent(hashFilter);
+}
+
+// init Isotope
+var $grid = $(".isotope-grid");
+
+// bind filter button click
+var $filterButtonGroup = $(".button-group");
+$filterButtonGroup.on("click", "button", function() {
+  var filterAttr = $(this).attr("data-filter");
+  // set filter in hash
+  location.hash = "filter=" + encodeURIComponent(filterAttr);
 });
+
+$("#loading").show();
+
+// Isotope
+var $grid = $(".isotope-grid").imagesLoaded(function() {
+  $(".isotope-grid").show();
+  $("#loading").hide();
+  // init Isotope after all images have loaded
+  $grid.isotope({
+    itemSelector: ".isotope-item",
+    layoutMode: "fitRows"
+  });
+});
+
+var isIsotopeInit = false;
+
+function onHashchange() {
+  var hashFilter = getHashFilter();
+  if (!hashFilter && isIsotopeInit) {
+    return;
+  }
+  isIsotopeInit = true;
+  // filter isotope
+  var $grid = $(".isotope-grid").imagesLoaded(function() {
+    $(".isotope-grid").show();
+    $("#loading").hide();
+    // init Isotope after all images have loaded
+    $grid.isotope({
+      itemSelector: ".isotope-item",
+      layoutMode: "fitRows",
+      filter: hashFilter
+    });
+  });
+  // set selected class on button
+  if (hashFilter) {
+    $filterButtonGroup.find(".is-checked").removeClass("is-checked");
+    $filterButtonGroup
+      .find('[data-filter="' + hashFilter + '"]')
+      .addClass("is-checked");
+  }
+}
+
+$(window).on("hashchange", onHashchange);
+
+// trigger event handler to init Isotope
+onHashchange();
 
 // Changing title of tab
 var title = document.title;
@@ -39,13 +93,13 @@ var altTitles = [
 ];
 var altTitle = altTitles[Math.floor(Math.random() * altTitles.length)];
 
-window.blur = function() {
+$(window).blur(() => {
   document.title = altTitle;
-};
+});
 
-window.focus = function() {
+$(window).focus(() => {
   document.title = title;
-};
+});
 
 // Twemoji
 twemoji.parse(document.body, {

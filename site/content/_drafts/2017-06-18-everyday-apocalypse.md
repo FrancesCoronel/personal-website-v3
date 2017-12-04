@@ -1,6 +1,6 @@
 ---
 title: "Your Everyday Apocalypse 💀"
-excerpt: "A short story I never finished."
+description: "A short story I never finished."
 date: 2017-08-28
 draft: true
 header:

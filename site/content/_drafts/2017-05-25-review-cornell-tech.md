@@ -1,6 +1,6 @@
 ---
 title: "Cornell Tech - A Review"
-excerpt: "Excerpt"
+description: "Excerpt"
 date: 2017-05-25
 draft: true
 ---

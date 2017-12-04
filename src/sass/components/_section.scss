@@ -1,25 +1,86 @@
-///
-/// Phantom by HTML5 UP
-/// html5up.net | @ajlkn
-/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-///
+section,
+article {
+  &.special {
+    text-align: center;
+  }
+}
 
-/* Section/Article */
+header {
+  p {
+    margin-top: 0;
+    font-size: 2em;
+  }
 
-	section, article {
-		&.special {
-			text-align: center;
-		}
-	}
+  @include breakpoint(small) {
+    p {
+      margin-top: 0;
+    }
+  }
+}
 
-	header {
-		p {
-			margin-top: _size(element-margin) * -0.5;
-		}
+section.section.tiles {
+  margin: 0;
+  padding-bottom: 2em;
+  article {
+    margin: 0;
+    padding: 1em;
+  }
+}
 
-		@include breakpoint(small) {
-			p {
-				margin-top: 0;
-			}
-		}
-	}
+.previous {
+  float: left;
+}
+
+.next {
+  float: right;
+}
+
+.page {
+  padding: 0 1em 1em 1em;
+}
+
+.page {
+  margin-bottom: 2em;
+}
+
+#menu h2 {
+  font-size: 2em;
+}
+
+blockquote {
+  margin: 0;
+}
+
+.contact-form {
+  padding-top: 2em;
+  padding-bottom: 0em;
+}
+
+textarea#message {
+  min-height: 10em;
+}
+
+.page-content {
+  a:hover {
+    border-bottom: 2px solid rgba(37, 49, 55, 0.5);
+    font-weight: 400;
+  }
+}
+
+.row.pagination {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+.page-body img {
+  display: block;
+  width: 100%;
+  border-radius: 10px;
+  border: 0;
+  display: inline-block;
+  position: relative;
+}
+
+ul li ul {
+  margin-bottom: 0;
+}

@@ -1,0 +1,18 @@
+<div class="row pagination">
+  <!-- Previous Page -->
+  {{ if .PrevInSection }}
+  <div class="previous">
+    <a class="button" href="{{ .PrevInSection.Permalink }}">
+      <i class="fa fa-hand-o-left" aria-hidden="true"></i> {{ .PrevInSection.Title }}</a>
+  </div>
+  {{ end }}
+  <!-- Next Page -->
+  {{ if .NextInSection }}
+  <div class="next">
+    <a class="button" href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}
+      <i class="fa fa-hand-o-right" aria-hidden="true"></i>
+    </a>
+  </div>
+  {{ end }}
+  </p>
+</div>

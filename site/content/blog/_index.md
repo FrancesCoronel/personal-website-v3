@@ -1,8 +1,7 @@
 ---
-title: My Golang Journey
-date: 2017-03-23
+title: Blog 📝️
+description: Writings and musings.
+alphabetical: true
+header:
+  image: https://fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg
 ---
-
-I decided to start learning Golang in March 2017.
-
-Follow my journey through this new blog.

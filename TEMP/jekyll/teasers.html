@@ -1,7 +1,0 @@
-{% if post.header.image %}
-<div class="archive__item-teaser" style="background-image: url({{teaser}});"></div>
-{% else %} {% if post.category == 'GitHub' %} {% capture teaser %}//i.imgur.com/ehf21vT.png{% endcapture%}
-<div class="archive__item-teaser" style="background-image: url({{teaser}});"></div>
-{% else %}
-<div class="archive__item-teaser" style="background-image: url('//fvcproductions.com/assets/img/teaser.png');"></div>
-{% endif %} {% endif %}

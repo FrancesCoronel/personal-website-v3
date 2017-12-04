@@ -1,0 +1,32 @@
+<div class="page-header">
+  <h1>{{ .Title }}</h1>
+  <div class="page-info">
+    {{ with .Description }}
+    <div class="row">
+      <div class="8u">
+        <p>
+          <i class="fa fa-info-circle" aria-hidden="true"></i>{{ . }}
+        </p>
+      </div>
+    </div>
+    {{ end }} {{ if not .PublishDate.IsZero }}
+    <div class="row">
+      <div class="8u">
+        <p>
+          <i class="fa fa-calendar-o" aria-hidden="true"></i>Created {{ .Date.Format "Monday - January 2, 2006" }}
+        </p>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  <div class="row">
+    <div class="12u$">
+      <!-- Header Image -->
+      {{ if .Params.header.image }}
+      <span class="image main">
+        <img src="{{ .Params.header.image }}" alt="{{ .Params.header.caption }}">
+      </span>
+      {{ end }}
+    </div>
+  </div>
+</div>

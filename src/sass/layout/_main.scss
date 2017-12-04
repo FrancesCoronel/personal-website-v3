@@ -3,13 +3,105 @@
 /// html5up.net | @ajlkn
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
+body {
+  color: #292929;
+  font-family: "Roboto", -apple-system, ".SFNSText-Regular", "San Francisco",
+    "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-weight: 300;
+  line-height: 1.8;
+  letter-spacing: 0.0125em;
+  word-wrap: break-word;
+}
 
-/* Main */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0.5em 0 0.5em;
+  font-family: "Roboto", -apple-system, ".SFNSText-Regular", "San Francisco",
+    "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-weight: 300;
+}
 
-	#main {
-		@include padding(5em, 0, (-5em, 0, 3em, 0));
+h1 {
+  font-size: 4em;
+  font-weight: 500;
+}
 
-		@include breakpoint(small) {
-			@include padding(3em, 0, (-3em, 0, 3em, 0));
-		}
-	}
+h2 {
+  font-size: 3em;
+  font-weight: 400;
+}
+
+h3 {
+  font-size: 2em;
+}
+
+h4 {
+  font-size: 1.75em;
+}
+
+h5 {
+  font-size: 1.5em;
+}
+
+h6 {
+  font-size: 1.25em;
+}
+
+small,
+.small {
+  font-size: 1em;
+}
+
+p {
+  margin-bottom: 1.3em;
+}
+
+u,
+ins {
+  text-decoration: none;
+  border-bottom: 1px solid #292929;
+}
+
+u a,
+ins a {
+  color: inherit;
+}
+
+del a {
+  color: inherit;
+}
+
+p,
+pre,
+blockquote,
+ul,
+ol,
+dl,
+figure,
+table,
+fieldset {
+  orphans: 3;
+  widows: 3;
+}
+
+p#ga-pageviews {
+  margin-bottom: 0;
+}
+
+abbr[title],
+abbr[data-original-title] {
+  text-decoration: none;
+  cursor: help;
+  border-bottom: 1px dotted #292929;
+}
+
+blockquote {
+  padding-left: 1em;
+  padding-right: 1em;
+  border-left: 0.25em solid #adadad;
+  color: #adadad;
+}

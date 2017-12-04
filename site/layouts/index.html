@@ -1,35 +1,32 @@
 {{ define "main" }}
-<!-- Main -->
 <header>
-    <h1>{{ .Site.Params.headline }}</h1>
-    <p>{{ .Site.Params.description }}</p>
+  <h1>{{ .Site.Params.headline }}</h1>
+  <p>{{ .Site.Params.description }}</p>
 </header>
-<section class="tiles">
-    {{ $.Scratch.Set "classCounter" 1}}
-        {{ range first 12 (where .Data.Pages "Section" "post")}}
-            <article class="style{{ $.Scratch.Get " classCounter " }}">
-                <span class="image">
-                    {{ with .Params.images}}
-                        <img src="{{ index . 0 | relURL }}" alt="">
-                    {{ end }}
-                </span>
-                <a href="{{ .Permalink }}">
-                    <h2>{{ .Title }} </h2>
-                    <div class="content">
-                        <p>{{ .Description }}</p>
-                    </div>
-                </a>
-            </article>
-            {{ if eq ($.Scratch.Get "classCounter") 6 }}
-                {{ $.Scratch.Set "classCounter" 1}}
-            {{ else}}
-                {{ $.Scratch.Add "classCounter" 1 }}
-            {{ end }}
-        {{ end }}
+<section class="home tiles">
+  {{ $pages := where .Site.RegularPages "Type" "page" }}
+  {{ $pages := $pages | union (.Site.Sections) }}
+  {{ $pages := $pages | union (where .Site.Sections "Type" "!=" "archive") }}
+  {{ range $pages.ByTitle }}
+  <article>
+    <span class="image home-article" style="background-image:url({{ .Params.header.image }});"></span>
+    {{ if .Params.link }}
+    <a href="{{ .Params.link }}" target="_blank"> ↗️
+    {{ else }}
+    <a href="{{ .Permalink }}">
+      {{ end }}
+      <h2>{{ .Title }} </h2>
+      <div class="content">
+        <p>{{ .Description }}</p>
+      </div>
+    </a>
+  </article>
+  {{ end }}
 </section>
-<div style="padding:4ex;">
-    <p class="align-center">
-        <a class="button special fit" href="/post/">{{ .Site.Data.i18n.morelink }}</a>
-    </p>
-</div>
+<!-- More Button -->
+<!-- <div class="archive-button">
+  <p class="align-center">
+    <a class="button special fit" href="/archive/">{{ .Site.Data.i18n.morelink }}</a>
+  </p>
+</div> -->
 {{ end }}

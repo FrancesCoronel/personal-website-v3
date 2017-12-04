@@ -1,52 +1,47 @@
-<!DOCTYPE HTML>
-<!--
-	Phantom by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>{{ .Title }}</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="/css/main.css" />
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+<!DOCTYPE html>
+<html lang="en">
 
-		<link rel="schema.DC"      href="http://purl.org/dc/elements/1.1/" />
-        <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
-        <meta name="DC.title" content="{{ .Title }}" />
-        <meta name="DC.description" content="{{ .Description }}" />
-        <meta name="DC.creator" content="Jan Ulrich Hasecke" />
-        <meta name="DC.language" content="de" />
-        <meta name="DC.publisher" content="Jan Ulrich Hasecke"/>
-        <meta name="DC.subject" content="{{ range .Params.tags }}{{ . }},{{ end }}" />
-		{{ template "_internal/twitter_cards.html" . }}
-        {{ template "_internal/opengraph.html" . }}
-        {{ template "_internal/schema.html" . }}
-        {{ template "_internal/google_news.html" . }}
-	</head>
-	<body>
-		<!-- Wrapper -->
-			<div id="wrapper">
-			{{ partial "logo.html" . }}
-			{{ partial "navbar.html" . }}
-			<div id="main">
-    		<div class="inner">
-			{{ block "main" . }}{{ end }}
-			</div>
-            </div>
-            {{ partial "footer" . }}
-							
-			</div>
+<head>
+  <title>{{ .Title }}</title>
+  <base href="{{ .Site.BaseURL }}">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1"> {{ partial "seo.html" . }}
+  <meta name="DC.title" content="{{ .Title }}">
+  <meta name="DC.description" content="{{ .Description }}">
+  <meta name="DC.creator" content="Frances Coronel">
+  <meta name="DC.language" content="en">
+  <meta name="DC.publisher" content="Frances Coronel">
+  <meta name="DC.subject" content="{{ range .Params.tags }}{{ . }},{{ end }}">
+  <!-- Twitter Cards -->
+  {{ template "_internal/twitter_cards.html" . }}
+  <!-- Open Graph -->
+  {{ template "_internal/opengraph.html" . }}
+  <!-- Schema -->
+  {{ template "_internal/schema.html" . }}
+  <!-- Google News -->
+  {{ template "_internal/google_news.html" . }}
+  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+  <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+  <link rel="stylesheet" href="assets/css/main.css">
+  <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css"><![endif]-->
+  <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css"><![endif]-->
+</head>
 
-		<!-- Scripts -->
-			<script src="/js/jquery.min.js"></script>
-			<script src="/js/skel.min.js"></script>
-			<script src="/js/util.js"></script>
-			<!--[if lte IE 8]><script src="/js/ie/respond.min.js"></script><![endif]-->
-			<script src="/js/main.js"></script>
+<body>
+  <!-- Wrapper -->
+  <div id="wrapper">
+    {{ partial "logo.html" . }} {{ partial "navbar.html" . }}
+    <div class="inner">
+      {{ block "main" . }} {{ end }}
+    </div>
+    {{ partial "footer" . }}
+  </div>
+  <!-- Scripts -->
+  <script src="//code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+  <script src="//unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+  <script src="//npmcdn.com/imagesloaded@4/imagesloaded.pkgd.js"></script>
+  <!--[if lte IE 8]><script src="assets/js/ie.js"></script><![endif]-->
+  <script src="assets/js/app.js"></script>
+</body>
 
-	</body>
 </html>

@@ -1,9 +1,7 @@
 ---
-title: "FVCproductions 🍓🍫️"
-subtitle: "I like to dabble with things that ought to be dabbled with."
+title: Services 💡️
+description: What you can hire me for.
 header:
-  image: https://i.imgur.com/1iiIU2G.png
-  caption: "Planets from Prometheus"
+  image: https://fvcproductions.files.wordpress.com/2015/11/banners_new-001.jpeg
+alphabetical: true
 ---
-
-## Latest 🕒️

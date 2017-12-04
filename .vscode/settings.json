@@ -1,21 +1,21 @@
 // Place your settings in this file to overwrite default and user settings.
 {
-    "editor.tabSize": 2,
-    "editor.fontSize": 18,
-    "files.trimTrailingWhitespace": true,
-    "editor.formatOnSave": true,
-    "editor.wordWrap": "on",
-    "cSpell.words": [
-      "Codelabs",
-      "Cproductions",
-      "Customizations",
-      "ISLC",
-      "PWAs",
-      "Roboto",
-      "Udacity",
-      "lightgallery",
-      "markdownlint",
-      "schooler",
-      "scrollbar"
-    ]
-  }
+  "editor.tabSize": 2,
+  "editor.fontSize": 18,
+  "files.trimTrailingWhitespace": true,
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "cSpell.words": [
+    "Codelabs",
+    "Cproductions",
+    "Customizations",
+    "ISLC",
+    "PWAs",
+    "Roboto",
+    "Udacity",
+    "lightgallery",
+    "markdownlint",
+    "schooler",
+    "scrollbar"
+  ]
+}

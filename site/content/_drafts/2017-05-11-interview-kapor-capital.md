@@ -1,6 +1,6 @@
 ---
 title: Interview with Kapor Capital
-excerpt: How an MS in CS student with no prior VC experience got an interview with one of the most well-recognized VC firms in Silicon Valley.
+description: How an MS in CS student with no prior VC experience got an interview with one of the most well-recognized VC firms in Silicon Valley.
 date: 2017-05-11
 draft: true
 ---

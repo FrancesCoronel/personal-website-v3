@@ -1,0 +1,43 @@
+{{ define "main" }}
+<!-- Begin Main -->
+<div class="page">
+  <!-- Header -->
+  {{ partial "header.html" . }}
+  <!-- Content -->
+  <div class="page-content">
+    <!-- Body -->
+    {{ if .Content }} {{ partial "content.html" . }} {{ end }}
+    <!-- Isotope Filters -->
+    {{ if .Params.isotope }}
+    <div class="row">
+      <div id="filters" class="button-group">
+        <button class="button is-checked" data-filter="*">All</button>
+        <button class="button" data-filter=".conference">Conferences 👥</button>
+        <button class="button" data-filter=".education">Education 🎓</button>
+        <button class="button" data-filter=".experience">Experiences 💼</button>
+
+        <button class="button" data-filter=".hackathon">Hackathons 🛠️</button>
+        <button class="button" data-filter=".program">Programs 🎒️</button>
+        <button class="button" data-filter=".speaking">Speaking 💬️</button>
+        <button class="button" data-filter=".volunteering">Volunteering 💛️</button>
+      </div>
+    </div>
+    {{ end }}
+    <!-- No Isotope Results -->
+    <div class="row">
+      <p id="loading">Loading these precious tiles ⏳</p>
+    </div>
+    <!-- Child Pages in Isotope Grid -->
+    {{ $pages := .Pages | union (.Sections) }}
+    <section class="section tiles {{ if .Params.isotope }}isotope-grid{{ end }}">
+      <!-- Alphabetical Order -->
+      {{ if .Params.alphabetical }} {{ range $pages.ByTitle }} {{ partial "tile.html" . }} {{ end }}
+      <!-- Date Order -->
+      {{ else }} {{ range $pages.ByDate.Reverse }} {{ partial "tile.html" . }} {{ end }} {{ end }}
+    </section>
+    <!-- Donate -->
+    {{ partial "donate.html" . }}
+  </div>
+</div>
+<!-- End Main -->
+{{ end }}

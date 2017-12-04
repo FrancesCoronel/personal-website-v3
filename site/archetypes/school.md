@@ -1,6 +1,6 @@
 ---
 title: "School Template"
-excerpt: "Excerpt"
+description: "Excerpt"
 date: 2010-10-10
 modified: 2016-01-01
 header:

@@ -1,14 +1,14 @@
-					<!-- Menu -->
-					<nav id="menu">
-						<h2>Menu</h2>
-						<ul>
-							{{ range .Site.Menus.main }}
-                			<li>
-                    		<a href="{{ .URL }}">
-            				{{ with .Identifier }}
-                            <i class="{{ . }}">&nbsp;</i>{{ end }}{{ .Name }}
-                    		</a>
-                			</li>
-            				{{ end }}
-						</ul>
-					</nav>
+<!-- Menu -->
+<nav id="menu">
+  <h2>Menu</h2>
+  <ul>
+    {{ range .Site.Menus.main }}
+    <li>
+      <a href="{{ .URL }}">
+        {{ with .Identifier }}
+        <i class="{{ . }}">&nbsp;</i>{{ end }}{{ .Name }}
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</nav>
