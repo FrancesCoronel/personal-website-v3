@@ -5,8 +5,8 @@ enableEmoji                   = true
 footnoteReturnLinkContents    = "↩"
 
 # Language
-languageCode                  = "en-EN"
-DefaultContentLanguage        = "en"
+languageCode                  = "en-us"
+defaultContentLanguage        = "en"
 
 # Categories
 preserveTaxonomyNames         = true
@@ -15,7 +15,8 @@ paginate                      = 5
 # Code
 pygmentsCodefences            = true
 pygmentsCodefencesGuessSyntax = true
-pygmentsStyle                 = "monokai"
+pygmentsStyle                 = "manni"
+# pygmentsOptions = "linenos=table"
 
 # Internal Templates
 googleAnalytics = "UA-63190978-3"
@@ -95,6 +96,7 @@ disqusShortname = "fvcproductions"
 
 # Social Links
 [social]
+    amazon                    = "AGCK4BOZOTAMEA4HTNM2DF7AL4RA"
     angellist                 = "fvcproductions"
     behance                   = "fvcproductions"
     calendly                  = "fvcproductions"
@@ -103,14 +105,15 @@ disqusShortname = "fvcproductions"
     dribbble                  = "fvcproductions"
     email                     = "hello@fvcproductions.com"
     etsy                      = "fvcproductions"
-    facebook                  = "fvcproductions"
+    # facebook                  = "fvcproductions"
     freecodecamp              = "fvcproductions"
     github                    = "fvcproductions"
     gitlab                    = "fvcproductions"
     googleplus                = "fvcproductions2013"
     hackernews                = "fvcproductions"
     houzz                     = "fvcproductions"
-    instagram                 = "fvcproductions"
+    # instagram                 = "fvcproductions"
+    imgur                     = "fvcproductions"
     linkedin                  = "fvcproductions"
     medium                    = "fvcproductions"
     meetup                    = "182920007"
@@ -118,6 +121,7 @@ disqusShortname = "fvcproductions"
     producthunt               = "fvcproductions"
     quora                     = "Frances-Coronel-1"
     reddit                    = "fvcproductions"
+    rottentomatoes            = "966430171"
     scribd                    = "194063411/FVCproductions"
     slideshare                = "fvcproductions"
     soundcloud                = "fvcproductions"
@@ -129,4 +133,6 @@ disqusShortname = "fvcproductions"
     tumblr                    = "fvcproductions2013"
     twitter                   = "fvcproductions"
     vimeo                     = "fvcproductions"
+    wordpress                 = "fvcproductions"
+    yelp                      = "E6StflkoWAutmRZ31zNTug"
     youtube                   = "fvcproductions2013"

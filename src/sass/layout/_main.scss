@@ -1,8 +1,3 @@
-///
-/// Phantom by HTML5 UP
-/// html5up.net | @ajlkn
-/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-///
 body {
   color: #292929;
   font-family: "Roboto", -apple-system, ".SFNSText-Regular", "San Francisco",
@@ -101,7 +96,268 @@ abbr[data-original-title] {
 
 blockquote {
   padding-left: 1em;
-  padding-right: 1em;
   border-left: 0.25em solid #adadad;
   color: #adadad;
+}
+
+.page {
+  .fa {
+    margin-right: 0.5em;
+  }
+}
+
+.home {
+  margin-bottom: 5em;
+}
+
+.home-article {
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+  background-position: center center;
+  background-attachment: scroll;
+  min-height: 15em;
+}
+
+.archive-button {
+  padding: 5em;
+}
+
+a:hover {
+  img {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    &.emoji {
+      box-shadow: none;
+    }
+  }
+}
+
+section.section.tiles h2 {
+  font-size: 1.5em;
+}
+
+section,
+article {
+  &.special {
+    text-align: center;
+  }
+}
+
+header {
+  p {
+    margin-top: 0;
+    font-size: 2em;
+  }
+  @include breakpoint(small) {
+    p {
+      margin-top: 0;
+    }
+  }
+}
+
+section.section.tiles {
+  margin: 0;
+  article {
+    margin: 0;
+    padding: 1em;
+  }
+}
+
+.previous {
+  float: left;
+}
+
+.next {
+  float: right;
+}
+
+.page {
+  padding: 0 1em 1em 1em;
+}
+
+#menu h2 {
+  font-size: 2em;
+}
+
+blockquote {
+  margin: 0;
+}
+
+.contact-form {
+  padding-top: 2em;
+  padding-bottom: 0em;
+}
+
+textarea#message {
+  min-height: 10em;
+}
+
+.page-content {
+  a:hover {
+    &p {
+      border-bottom: 2px solid rgba(37, 49, 55, 0.5);
+      font-weight: 400;
+    }
+  }
+}
+
+.row.pagination {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+.page-body {
+  img {
+    display: block;
+    border-radius: _size(border-radius);
+    border: 0;
+    display: inline-block;
+    position: relative;
+    width: 100%;
+  }
+  img.emoji {
+    border-radius: 0;
+    width: 1em;
+  }
+}
+
+ol > li > ul,
+ul > li > ul,
+ol > li > ol,
+ul > li > ol {
+  margin-bottom: 0;
+}
+
+li label {
+  margin: 0;
+}
+
+.image.main {
+  width: 100%;
+}
+
+input {
+  color: #585858;
+  font-size: 16pt;
+  font-weight: 300;
+  line-height: 1.75;
+}
+
+label {
+  font-size: 0.9em;
+  font-weight: 900;
+  margin: 0 0 1em 0;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  display: inline;
+}
+
+.page-section {
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+.button {
+  letter-spacing: 0;
+  text-transform: none;
+  padding: 0 1.5em;
+}
+
+#footer .inner .social-icons .icon {
+  font-size: 2em;
+}
+
+.page-section {
+  img.emoji {
+    margin-right: 0.25em;
+  }
+}
+
+kbd {
+  display: inline-block;
+  padding: 0.5em;
+  font-size: 1em;
+  line-height: 0.5em;
+  color: #444d56;
+  vertical-align: middle;
+  background-color: #fafbfc;
+  border: solid 1px #c6cbd1;
+  border-bottom-color: #959da5;
+  border-radius: 5px;
+  box-shadow: inset 0 -1px 0 #959da5;
+}
+
+table th {
+  text-align: center;
+  font-size: 1em;
+}
+
+.page-content {
+  img.emoji {
+    margin: 0 0.1em;
+  }
+}
+
+.notice {
+  margin: 2em 0 !important;
+  /* override*/
+  padding: 1em;
+  text-indent: initial;
+  /* override*/
+  background-color: mix(white, lightgray, 75%);
+  border-radius: _size(border-radius);
+  box-shadow: 0 1px 1px rgba(lightgray, 0.25);
+  h4 {
+    margin-top: 0 !important;
+    /* override*/
+    margin-bottom: 0.75em;
+  }
+  p {
+    &:last-child {
+      margin-bottom: 0 !important;
+      /* override*/
+    }
+  }
+  h4 + p {
+    /* remove space above paragraphs that appear directly after notice headline*/
+    margin-top: 0;
+    padding-top: 0;
+  }
+  a {
+    color: lightgray;
+    &:hover {
+      color: mix(black, lightgray, 40%);
+    }
+  }
+  code {
+    background-color: mix(white, lightgray, 95%);
+  }
+  ul {
+    &:last-child {
+      margin-bottom: 0;
+      /* override*/
+    }
+  }
+}
+
+table tbody tr:nth-child(odd) {
+  background-color: #f0f3f3;
+}
+
+iframe.airtable-embed {
+  min-height: 100em;
+}
+
+a[href^="http://"]:after,
+a[href^="https://"]:after {
+  content: " ↗";
 }

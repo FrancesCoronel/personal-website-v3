@@ -10,13 +10,15 @@ gallery:
 tags:
     - volunteering
     - speaking
+    - burnprevention
 ---
 
 ![Operation Smile - Conference Logo](https://fvcproductions.files.wordpress.com/2015/11/conferencelogos-002-copy.png)
 
 ## Name
 
-<a title="Medical Mission" href="https://operationsmilevietnam2012.blogspot.com/" target="_blank" rel="noopener">Medical Mission</a>
+<a title="Medical Mission" href="https://operationsmilevietnam2012.blogspot.com/" target="_blank" rel="noopener">Medical
+Mission</a>
 
 ## Organizer
 
@@ -36,6 +38,8 @@ High School Student Volunteer
 
 ## About
 
-I volunteered as a high schooler for a medical mission in Vietnam where I was responsible for educating the families there on best post-surgery care methods, helping the kids feel less scared and giving away care packages.
+I volunteered as a high schooler for a medical mission in Vietnam where I was
+responsible for educating the families there on best post-surgery care methods,
+helping the kids feel less scared and giving away care packages.
 
 {% include gallery %}

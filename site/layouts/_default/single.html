@@ -6,18 +6,16 @@
   <div class="page-content">
     <!-- Content -->
     {{ if .Content }} {{ partial "content.html" . }} {{ end }}
-    <!-- Filter by Tag -->
-    {{ if .Params.speaking }}
-    <section class="section tiles">
-      {{ range ($.Site.Taxonomies.tags.speaking).Pages.ByDate.Reverse }} {{ partial "tile.html" . }} {{ end }}
-    </section>
-    {{ end }}
+    <!-- Sharing -->
+    {{ partial "sharing.html" . }}
+    <!-- Contact -->
+    {{ partial "contact.html" . }}
     <!-- Donate -->
     {{ partial "donate.html" . }}
-    <!-- Pagination -->
-    {{ if or (or (.PrevInSection) (.NextInSection)) }} {{ partial "pagination.html" . }} {{ end }}
     <!-- Disqus Comments -->
     {{ if not .Params.noComments }} {{ partial "comments.html" . }} {{ end }}
+    <!-- Pagination -->
+    {{ if or (or (.PrevInSection) (.NextInSection)) }} {{ partial "pagination.html" . }} {{ end }}
   </div>
 </div>
 <!-- End Main -->

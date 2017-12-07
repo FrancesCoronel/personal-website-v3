@@ -14,11 +14,13 @@ tags:
   - norfolkjs
   - norfolkjs journey
   - speaking
+  - bootcamps
 ---
 
 ## Name
 
-<a title="Norfolk.js" href="https://norfolkjs.org" target="_blank" rel="noopener">Norfolk.js - Norfolk JavaScript Meetup Group</a>
+<a title="Norfolk.js" href="https://norfolkjs.org" target="_blank" rel="noopener">Norfolk.js -
+Norfolk JavaScript Meetup Group</a>
 
 ## Organizer
 
@@ -40,7 +42,8 @@ Volunteer (helped create website)
 
 https://www.meetup.com/NorfolkJS/events/227490794/
 
-[gallery type="rectangular" size="full" ids="3697,3698,3699,3700,3701,3702" orderby="rand"]
+[gallery type="rectangular" size="full" ids="3697,3698,3699,3700,3701,3702"
+orderby="rand"]
 
 https://speakerdeck.com/fvcproductions/js-coding-bootcamps-norfolk-dot-js
 

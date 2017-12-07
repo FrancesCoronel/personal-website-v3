@@ -10,9 +10,8 @@
 
   article {
     @include vendor("transition", (
-				"transform #{$duration} #{$ease}",
-				"opacity #{$duration} #{$ease}"
-			));
+    		"opacity #{$duration} #{$ease}"
+    	));
     position: relative;
     width: calc(#{(100% / 3)} - #{$gutter * 1});
     margin: $gutter 0 0 $gutter;

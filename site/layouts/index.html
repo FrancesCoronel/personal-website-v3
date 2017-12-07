@@ -4,29 +4,36 @@
   <p>{{ .Site.Params.description }}</p>
 </header>
 <section class="home tiles">
+  <!-- Pages -->
   {{ $pages := where .Site.RegularPages "Type" "page" }}
+  <!-- Section Pages -->
   {{ $pages := $pages | union (.Site.Sections) }}
-  {{ $pages := $pages | union (where .Site.Sections "Type" "!=" "archive") }}
+  <!-- Looping -->
   {{ range $pages.ByTitle }}
   <article>
+    <!-- Image -->
     <span class="image home-article" style="background-image:url({{ .Params.header.image }});"></span>
+    <!-- External Link -->
     {{ if .Params.link }}
     <a href="{{ .Params.link }}" target="_blank"> ↗️
-    {{ else }}
-    <a href="{{ .Permalink }}">
-      {{ end }}
-      <h2>{{ .Title }} </h2>
-      <div class="content">
-        <p>{{ .Description }}</p>
-      </div>
-    </a>
+      <!-- No External Link -->
+      {{ else }}
+      <a href="{{ .Permalink }}">
+        {{ end }}
+        <!-- Title -->
+        <h2>{{ .Title }} </h2>
+        <!-- Description -->
+        <div class="content">
+          <p>{{ .Description }}</p>
+        </div>
+      </a>
   </article>
   {{ end }}
 </section>
 <!-- More Button -->
 <!-- <div class="archive-button">
   <p class="align-center">
-    <a class="button special fit" href="/archive/">{{ .Site.Data.i18n.morelink }}</a>
+    <a class="button special fit" href="/archive/">{{ .Site.Data.i18n.en.morelink }}</a>
   </p>
 </div> -->
 {{ end }}

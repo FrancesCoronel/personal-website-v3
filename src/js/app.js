@@ -1,4 +1,6 @@
 // Phantom
+import twemoji from 'twemoji';
+
 require("./vendor/phantom.js");
 
 // Roboto Fonts
@@ -7,9 +9,6 @@ require("typeface-roboto-mono");
 
 // Font Awesome
 require("font-awesome-webpack");
-
-// Twemoji
-import twemoji from "twemoji";
 
 // Isotope
 function getHashFilter() {
@@ -66,7 +65,7 @@ function onHashchange() {
   if (hashFilter) {
     $filterButtonGroup.find(".is-checked").removeClass("is-checked");
     $filterButtonGroup
-      .find('[data-filter="' + hashFilter + '"]')
+      .find("[data-filter='' + hashFilter + '']")
       .addClass("is-checked");
   }
 }
@@ -118,8 +117,8 @@ OneSignal.push([
     persistNotification: false,
     notifyButton: {
       enable: true, // Required to use the notify button
-      size: "medium", // One of 'small', 'medium', or 'large'
-      theme: "default", // One of 'default' (red-white) or 'inverse" (white-red)
+      size: "medium", // One of "small", "medium", or "large"
+      theme: "default", // One of "default" (red-white) or "inverse" (white-red)
       colors: {
         // Customize the colors of the main button and dialog popup button
         "circle.background": "rgb(96, 125, 139)",
@@ -133,7 +132,7 @@ OneSignal.push([
         "dialog.button.background": "rgb(96, 125, 139)",
         "dialog.button.foreground": "white"
       },
-      position: "bottom-left", // Either 'bottom-left' or 'bottom-right'
+      position: "bottom-left", // Either "bottom-left" or "bottom-right"
       offset: {
         bottom: "20px",
         left: "20px",

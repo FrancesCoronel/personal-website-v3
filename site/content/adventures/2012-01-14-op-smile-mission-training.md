@@ -11,6 +11,7 @@ tags:
     - speaking
     - volunteering
     - program
+    - imovie101
 ---
 
 ## Who
@@ -19,7 +20,8 @@ Operation Smile
 
 ## What
 
-<a title="Operation Smile Mission Training Workshop" href="https://studentprograms.operationsmile.org/events/mission-training-workshop/" target="_blank" rel="noopener">Operation Smile Mission Training Workshop</a>
+<a title="Operation Smile Mission Training Workshop" href="https://studentprograms.operationsmile.org/events/mission-training-workshop/" target="_blank" rel="noopener">Operation
+Smile Mission Training Workshop</a>
 
 ## Where
 
@@ -37,7 +39,8 @@ Speaker - iMovie 101
 
 ### About
 
-I don’t have any pictures of me while speaking, but these were taken at the mission training event.
+I don’t have any pictures of me while speaking, but these were taken at the
+mission training event.
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/128758878/iMovie-101-Operation-Smile-Mission-Training-Workshop">iMovie 101 Operation Smile Mission Training Workshop</a></h4><p>FVCproductions Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright 2014</p></blockquote>
 

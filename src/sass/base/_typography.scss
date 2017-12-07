@@ -19,16 +19,14 @@ textarea {
 }
 
 a {
-  @include vendor("transition", (
-			"border-bottom-color #{_duration(transition)} ease",
-			"color #{_duration(transition)} ease"
+  @include vendor('transition', (
+			'border-bottom-color #{_duration(transition)} ease',
+			'color #{_duration(transition)} ease'
 		));
   text-decoration: none;
   color: _palette(fg);
-  border-bottom: dotted 1px transparentize(_palette(fg), 0.5);
 
   &:hover {
-    border-bottom-color: transparent;
     color: _palette(accent1);
     cursor: -webkit-image-set(
           url(https://hovastate.s3.amazonaws.com/hova.png) 1x,
@@ -36,6 +34,18 @@ a {
         )
         24 1,
       default;
+  }
+}
+
+p,
+li,
+ul {
+  a {
+    border-bottom: dotted 1px transparentize(_palette(fg), 0.5);
+    &:hover {
+      border-style: solid;
+      font-weight: 400;
+    }
   }
 }
 
@@ -163,11 +173,23 @@ code {
   padding: 0.25em 0.65em;
 }
 
-.highlight code {
-  background: inherit;
-  border-radius: 0;
-  border: none;
-  padding: 2em;
+.highlight {
+  font-size: 1em;
+  code {
+    background: inherit;
+    border-radius: 0;
+    border: none;
+    padding: 2em;
+  }
+  pre {
+    margin-bottom: 0;
+    font-size: 1em;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+  }
 }
 
 pre {

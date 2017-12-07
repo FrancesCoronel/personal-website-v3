@@ -1,8 +1,15 @@
-<div class="row">
-  <div id="disqus_thread">
+<div class="row page-section">
+  <div class="12u$">
+    <section>
+      <h3>
+        💖 {{ .Site.Data.i18n.en.sectioncomments }}
+      </h3>
+      <div class="row">
+        <div id="disqus_thread"></div>
+      </div>
+    </section>
   </div>
 </div>
-
 <script type="text/javascript">
   (function () {
     // Don't ever inject Disqus on localhost--it creates unwanted
@@ -16,7 +23,6 @@
     dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
   })();
-
 </script>
 <noscript>Please enable JavaScript to view the
   <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>

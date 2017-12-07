@@ -5,6 +5,8 @@ date: 2016-04-09
 tags:
     - hackathon
     - speaking
+    - webdesign
+    - wizard
 header:
   image: https://fvcproductions.files.wordpress.com/2016/02/img_4602.jpg
 gallery:
@@ -32,7 +34,8 @@ gallery:
 
 ## Name
 
-<a title="InNOVAtion Hackathon" href="https://novahackathon.org" target="_blank" rel="noopener">InNOVAtion Hackathon</a>
+<a title="InNOVAtion Hackathon" href="https://novahackathon.org" target="_blank" rel="noopener">InNOVAtion
+Hackathon</a>
 
 ## Organizer
 

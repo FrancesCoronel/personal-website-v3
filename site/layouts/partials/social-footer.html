@@ -1,0 +1,50 @@
+<section class="social-icons">
+  <ul class="icons">
+    <!-- Behance -->
+    {{ with .Site.Social.behance }}
+    <li>
+      <a href="//behance.net/{{ . }}" class="icon style2 fa-behance" target="_blank" rel="nofollow">
+        <span class="label">Behance</span>
+      </a>
+    </li>
+    {{ end }}
+    <!-- GitHub -->
+    {{ with .Site.Social.github }}
+    <li>
+      <a href="//github.com/{{ . }}" class="icon style2 fa-github-alt" target="_blank" rel="nofollow">
+        <span class="label">GitHub</span>
+      </a>
+    </li>
+    {{ end }}
+    <!-- LinkedIn -->
+    {{ with .Site.Social.linkedin }}
+    <li>
+      <a href="//linkedin.com/{{ . }}" class="icon style2 fa-linkedin" target="_blank" rel="nofollow">
+        <span class="label">LinkedIn</span>
+      </a>
+    </li>
+    {{ end }}
+    <!-- Medium -->
+    {{ with .Site.Social.medium }}
+    <li>
+      <a href="//medium.com/{{ . }}" class="icon style2 fa-medium" target="_blank" rel="nofollow">
+        <span class="label">Medium</span>
+      </a>
+    </li>
+    {{ end }}
+    <!-- RSS -->
+    <li>
+      <a href="/index.xml" class="icon style2 fa-rss" target="_blank" rel="nofollow">
+        <span class="label">RSS</span>
+      </a>
+    </li>
+    <!-- Twitter -->
+    {{ with .Site.Social.twitter }}
+    <li>
+      <a href="//twitter.com/{{ . }}" class="icon style2 fa-twitter" target="_blank" rel="nofollow">
+        <span class="label">Twitter</span>
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</section>

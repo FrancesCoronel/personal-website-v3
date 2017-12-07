@@ -8,11 +8,10 @@
 
 // Images
 img.emoji {
-  display: inline;
+  width: 1em;
   border: none;
   box-shadow: none;
-  margin: 0 0.1em;
-  width: 1em;
+  margin: 0;
   vertical-align: -0.1em;
   background: none;
   padding: 0;
@@ -26,6 +25,14 @@ img.emoji {
   img {
     border-radius: _size(border-radius);
     display: block;
+    width: 100%;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    width: 100%;
+    @include breakpoint(small) {
+      margin: 0 0 _size(element-margin) 0;
+    }
   }
   &.left,
   &.right {
@@ -50,18 +57,6 @@ img.emoji {
     width: 100%;
     img {
       width: 100%;
-    }
-  }
-  &.main {
-    display: block;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    width: 100%;
-    img {
-      width: 100%;
-    }
-    @include breakpoint(small) {
-      margin: 0 0 _size(element-margin) 0;
     }
   }
 }

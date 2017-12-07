@@ -10,11 +10,13 @@ gallery:
 tags:
     - conference
     - speaking
+    - webdesign
 ---
 
 ## Name
 
-<a title="HR (Hampton Roads) DevFest" href="https://hrdevfest.org" target="_blank" rel="noopener">HR (Hampton Roads) DevFest</a>
+<a title="HR (Hampton Roads) DevFest" href="https://hrdevfest.org" target="_blank" rel="noopener">HR
+(Hampton Roads) DevFest</a>
 
 ## Organizer
 
@@ -34,7 +36,8 @@ Scholarship Recipient, Speaker - Web Design for Developers
 
 ## About
 
-Hampton Roads DevFest is a technology conference focused on giving software engineers in the region exposure to new innovations and best practices.
+Hampton Roads DevFest is a technology conference focused on giving software
+engineers in the region exposure to new innovations and best practices.
 
 ### Presentation
 

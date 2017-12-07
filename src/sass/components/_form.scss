@@ -2,7 +2,7 @@ form {
   margin: (_size(element-margin) * -0.5) 0 _size(element-margin) 0;
 
   &:after {
-    content: "";
+    content: '';
     display: block;
     clear: both;
     height: 1px;
@@ -64,13 +64,13 @@ label {
   margin: 0 0 (_size(element-margin) * 0.5) 0;
 }
 
-input[type="text"],
-input[type="password"],
-input[type="email"],
-input[type="tel"],
+input[type='text'],
+input[type='password'],
+input[type='email'],
+input[type='tel'],
 select,
 textarea {
-  @include vendor("appearance", "none");
+  @include vendor('appearance', 'none');
   background-color: transparent;
   border: none;
   border-radius: 0;
@@ -99,7 +99,7 @@ textarea {
 
   &:before {
     color: _palette(border);
-    content: "\f078";
+    content: '\f078';
     display: block;
     height: _size(element-height);
     line-height: _size(element-height);
@@ -116,9 +116,9 @@ textarea {
   }
 }
 
-input[type="text"],
-input[type="password"],
-input[type="email"],
+input[type='text'],
+input[type='password'],
+input[type='email'],
 select {
   height: _size(element-height);
 }
@@ -128,13 +128,9 @@ textarea {
   min-height: (_size(element-height) * 1.25);
 }
 
-input[type="checkbox"],
-input[type="radio"] {
-  @include vendor("appearance", "none");
+input[type='checkbox'],
+input[type='radio'] {
   display: block;
-  float: left;
-  margin-right: -2em;
-  opacity: 0;
   width: 1em;
   z-index: -1;
 
@@ -152,7 +148,7 @@ input[type="radio"] {
     &:before {
       border-radius: _size(border-radius);
       border: solid _size(border-width) _palette(border);
-      content: "";
+      content: '';
       display: inline-block;
       height: (_size(element-height) * 0.6);
       left: 0;
@@ -169,7 +165,7 @@ input[type="radio"] {
       background: _palette(fg);
       border-color: _palette(fg);
       color: _palette(bg);
-      content: "\f00c";
+      content: '\f00c';
     }
   }
 
@@ -181,7 +177,7 @@ input[type="radio"] {
   }
 }
 
-input[type="checkbox"] {
+input[type='checkbox'] {
   & + label {
     &:before {
       border-radius: _size(border-radius);
@@ -189,10 +185,19 @@ input[type="checkbox"] {
   }
 }
 
-input[type="radio"] {
+input[type='radio'] {
   & + label {
     &:before {
       border-radius: 100%;
     }
   }
+}
+
+ul.task-list {
+  list-style: none;
+  margin-left: -2em;
+}
+
+.image .main {
+  width: 100%;
 }

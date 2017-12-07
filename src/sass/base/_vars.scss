@@ -7,7 +7,7 @@ $duration: (
 );
 // Size.
 $size: (
-  border-radius: 10px,
+  border-radius: 0,
   border-width: 1px,
   element-height: 3em,
   element-margin: 2em,
@@ -20,24 +20,24 @@ $size: (
 $font: (
   family:
     (
-      "Roboto",
+      'Roboto',
       -apple-system,
       system-ui,
       BlinkMacSystemFont,
-      "Segoe UI",
-      "Roboto",
-      "Helvetica Neue",
+      'Segoe UI',
+      'Roboto',
+      'Helvetica Neue',
       Arial,
       sans-serif
     ),
   family-fixed:
     (
-      "Roboto Mono",
+      'Roboto Mono',
       Menlo,
       Monaco,
       Consolas,
-      "Liberation Mono",
-      "Courier New",
+      'Liberation Mono',
+      'Courier New',
       monospace
     ),
   weight: 400,

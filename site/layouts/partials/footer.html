@@ -1,19 +1,22 @@
 <!-- Footer -->
 <footer id="footer">
   <div class="inner">
-    <section class="social-icons">
-      <ul class="icons">
-        {{ partial "social-icons.html" . }}
-      </ul>
-    </section>
+    {{ partial "social-footer.html" . }}
     <ul class="copyright">
+      <!-- Copyright -->
       {{ with .Site.Params.copyright }}
       <li>
         Copyright
-        <a href="/">{{ . }}</a>{{ end }} {{ with .Site.Params.year }} {{ . }} {{ end }} to {{ now.Year }} &nbsp;|&nbsp; Developed with
+        <a href="/">{{ . }}</a>{{ end }}
+        <!-- Year -->
+        {{ with .Site.Params.year }} {{ . }} {{ end }} to {{ now.Year }}
+        <!-- Developed -->
+        &nbsp;|&nbsp; Developed with
         <a href="//gohugo.io" target="_blank" rel="nofollow">Hugo</a>
+        <!-- Designed -->
         &nbsp;|&nbsp; Designed by moi &
         <a href="http://html5up.net" target="_blank" rel="nofollow">HTML5 UP</a>
+        <!-- Hosting -->
         &nbsp;|&nbsp; Hosting on
         <a href="https://www.netlify.com" target="_blank" rel="nofollow">Netlify</a>
       </li>
