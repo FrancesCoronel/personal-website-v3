@@ -7,34 +7,6 @@ noComments: true
 contact: true
 ---
 
-## Where You Can Find Me on the Internets 🌐
-
-Feel free to reach out to me via your favorite platform!
-
-* [Code School](//www.codeschool.com/users/fvcproductions)
-  <i class="fa fa-code-school" aria-hidden="true"></i>
-* [Codecademy](//www.codecademy.com/fvcproductions)
-  <i class="fa fa-codecademy" aria-hidden="true"></i>
-* [CodeCombat](//codecombat.com/user/fvcproductions)
-  <i class="fa fa-codecombat" aria-hidden="true"></i>
-
-- [Devpost](//devpost.com/fvcproductions)
-  <i class="fa fa-devpost" aria-hidden="true"></i>
-
-* [Goodreads](//www.goodreads.com/user/show/27884143-frances-coronel)
-  <i class="fa fa-goodreads" aria-hidden="true"></i>
-* [Gravatar](//en.gravatar.com/fvcproductions)
-  <i class="fa fa-gravatar" aria-hidden="true"></i>
-* [Kickstarter](//www.kickstarter.com/profile/fvcproductions1618)
-  <i class="fa fa-kickstarter" aria-hidden="true"></i>
-* [Lanyrd](//lanyrd.com/profile/fvcproductions/)
-  <i class="fa fa-lanyrd" aria-hidden="true"></i>
-* [Patreon](//patreon.com/fvcproductions)
-  <i class="fa fa-patreon" aria-hidden="true"></i>
-
-- [Rotten Tomatoes](//www.rottentomatoes.com/user/id/966430171)
-  <i class="fa fa-rotten-tomatoes" aria-hidden="true"></i>
-
 ## Contact Form 💾
 
 > Go old school and use this nifty contact form!
@@ -58,3 +30,7 @@ Feel free to reach out to me via your favorite platform!
     <input type="hidden" name="_subject" value="FVCproductions - New Contact Message 📥" />
   </form>
 </section>
+
+<script src="https://app.engati.com/static/js/chat_widget.js"></script>
+
+<script>EngtChat.init({"bot_key": "48eb665693764723", "e":"p", "bot_name":"FVCproductions","welcome_msg":true});</script>

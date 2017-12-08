@@ -37,7 +37,7 @@ export default {
   ],
   context: path.join(__dirname, "src"),
   entry: {
-    ie: ["./js/vendor/ie"],
+    ie: ["./js/components/ie"],
     app: ["./js/app"]
   },
   output: {

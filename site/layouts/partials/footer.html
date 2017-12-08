@@ -6,19 +6,16 @@
       <!-- Copyright -->
       {{ with .Site.Params.copyright }}
       <li>
-        Copyright
-        <a href="/">{{ . }}</a>{{ end }}
+        <i class="fa fa-copyright" aria-hidden="true"></i> Copyright
+        <!-- FVCproductions -->
+        <a href="/">{{ . }}</a>
+        {{ end }}
         <!-- Year -->
         {{ with .Site.Params.year }} {{ . }} {{ end }} to {{ now.Year }}
-        <!-- Developed -->
-        &nbsp;|&nbsp; Developed with
-        <a href="//gohugo.io" target="_blank" rel="nofollow">Hugo</a>
-        <!-- Designed -->
-        &nbsp;|&nbsp; Designed by moi &
-        <a href="http://html5up.net" target="_blank" rel="nofollow">HTML5 UP</a>
-        <!-- Hosting -->
-        &nbsp;|&nbsp; Hosting on
-        <a href="https://www.netlify.com" target="_blank" rel="nofollow">Netlify</a>
+        <!-- Colophon -->
+        &nbsp;|&nbsp;
+        <i class="fa fa-cog" aria-hidden="true"></i>
+        <a href="/about/colophon/">Colophon</a>
       </li>
     </ul>
   </div>

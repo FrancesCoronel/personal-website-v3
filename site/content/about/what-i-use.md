@@ -21,12 +21,16 @@ noComments: true
 
 ### Peripherals
 
-I won a pair of [Bose headphones](https://www.bose.com/en_us/products/headphones.html) at the TAPIA conference from a Dropbox raffle so I use those basically all the time.
+I won a pair of
+[Bose headphones](https://www.bose.com/en_us/products/headphones.html) at the
+TAPIA conference from a Dropbox raffle so I use those basically all the time.
 
-[![Bose Headphones](https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/categories/subcategory_wireless_headphones/wh_subcat_best_QC35_1x1.psd/_jcr_content/renditions/cq5dam.web.320.320.png)](https://www.bose.com/en_us/products/headphones.html)
+[![Bose Headphones](https://cnet2.cbsistatic.com/img/IwuqCeoFETSbn95uZhqoHKaFu8A=/2017/09/26/4c6ec5f4-8dcb-45c7-8770-e87208e3d3ae/17bose-quietcomfort-35-ii.jpg)](https://www.bose.com/en_us/products/headphones.html)
 
 ### Phone
 
-I decided to switch from an iPhone 6 to a [Google Pixel 2](https://store.google.com/product/pixel_2) recently. So far, I'm very very satisfied with the transition.
+I decided to switch from an iPhone 6 to a
+[Google Pixel 2](https://store.google.com/product/pixel_2) recently. So far, I'm
+very very satisfied with the transition.
 
-[![Google Pixel 2](https://i.imgur.com/ybYLqSn.png)](https://store.google.com/product/pixel_2)
+[![Google Pixel 2](https://media.wired.com/photos/59d4290d60c1a86fbf83ea5e/master/w_2400,c_limit/Taim_2GRP_BF_oreo-TA.jpg)](https://store.google.com/product/pixel_2)

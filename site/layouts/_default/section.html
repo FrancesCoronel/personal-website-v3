@@ -7,17 +7,18 @@
   <div class="page-content">
     <!-- Body -->
     {{ if .Content }} {{ partial "content.html" . }} {{ end }}
-    <!-- Isotope Filters -->
-    {{ if .Params.isotope }} {{ partial "adventures.html" . }} {{ end }}
+    <!-- Adventures - Isotope -->
+    {{ if .Params.adventures }} {{ partial "adventures.html" . }} {{ else }}
     <!-- Child Pages in Isotope Grid -->
-    {{ $pages := .Pages | union (.Sections) }}
-    <section class="section tiles {{ if .Params.isotope }}isotope-grid{{ end }}">
+    {{ if .Pages | union (.Sections) }} {{ $pages := .Pages | union (.Sections) }}
+    <section class="section tiles">
       <!-- Alphabetical Order -->
       {{ if .Params.alphabetical }} {{ range $pages.ByTitle }} {{ partial "tile.html" . }} {{ end }}
       <!-- Date Order -->
       {{ else }} {{ range $pages.ByDate.Reverse }} {{ partial "tile.html" . }} {{ end }} {{ end }}
     </section>
-    <!-- Speaking Tag -->
+    {{ end }} {{ end }}
+    <!-- Speaking - Isotope -->
     {{ if .Params.speaking }} {{ partial "speaking.html" . }} {{ end }}
     <!-- Sharing -->
     {{ partial "sharing.html" . }}

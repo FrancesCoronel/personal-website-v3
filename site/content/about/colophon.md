@@ -1,7 +1,9 @@
 ---
 title: "Colophon 🍓️"
-excerpt: "Unveiling the inner workings of this website."
-permalink: /colophon/
+description: "Unveiling the inner workings of this website."
+header:
+  image: https://i.imgur.com/D4dPpG2.jpg
+noComments: true
 ---
 
 ## Copyright ∞ FVCproductions
@@ -10,15 +12,15 @@ Originally published 2013.
 
 Website design, development, and copy writing by Frances Coronel.
 
----
-
 ## Credits
 
 * **CMS**
-  * Hugo
+  * [Hugo](//gohugo.io)
 * **Hosting**
-  * Netlify
+  * [Netlify](//www.netlify.com)
 * **Dependencies**
+  * [HTML5 UP](//html5up.net)
+  * Skel
   * Embedly
   * Light Gallery
   * Twemoji
@@ -39,8 +41,21 @@ Website design, development, and copy writing by Frances Coronel.
 > I like to dabble with things that ought to be dabbled with.
 
 I'm **obsessed** with emoji so I'm using
-[Twitter's emoji library](https://github.com/twitter/twemoji) called `Twemoji`
-so that they look the same across all browsers. 🎉🎂🎈🎁
+[Twitter's emoji library](//github.com/twitter/twemoji) called `Twemoji` so that
+they look the same across all browsers. 🎉🎂🎈🎁
+
+_This means that even IE users can see 💩._
+
+For external links, a ↗ is automatically added to the end like
+[//google.com](//google.com).
+
+External links also automatically have `target='_blank'` and `rel='nofollow'`
+added to the `a` tag.
+
+The important part to note is that I've set the `↗` up to work only with links
+that start with `//` so [https://google.com](https://google.com) and
+[http://google.com](http://google.com) will just have the `target` and `rel`
+added.
 
 1. List item one
    1. List item one
@@ -64,14 +79,25 @@ so that they look the same across all browsers. 🎉🎂🎈🎁
 | Phillip J. Fry  |      Delivery Boy      | 25  |
 |  Finn Mertens   |       Adventurer       | 16  |
 
-_This means that even IE users can see 💩._
-
 ```md
 > I like to dabble with things that ought to be dabbled with.
 
 I'm **obsessed** with emoji so I'm using
-[Twitter's emoji library](https://github.com/twitter/twemoji) called `Twemoji`
-so that they look the same across all browsers. 🎉🎂🎈🎁
+[Twitter's emoji library](//github.com/twitter/twemoji) called `Twemoji` so that
+they look the same across all browsers. 🎉🎂🎈🎁
+
+_This means that even IE users can see 💩._
+
+For external links, a ↗ is automatically added to the end like
+[//google.com](//google.com).
+
+External links also automatically have `target='_blank'` and `rel='nofollow'`
+added to the `a` tag.
+
+The important part to note is that I've set the `↗` up to work only with links
+that start with `//` so [https://google.com](https://google.com) and
+[http://google.com](http://google.com) will just have the `target` and `rel`
+added.
 
 1. List item one
    1. List item one

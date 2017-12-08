@@ -1,7 +1,7 @@
 ---
-author: "Frances Coronel"
 title: About 👀️
 description: Yep, that's me!
+alphabetical: true
 header:
   image: https://i.imgur.com/N6otIx9.jpg
 ---

@@ -1,7 +1,7 @@
 body {
   color: #292929;
-  font-family: "Roboto", -apple-system, ".SFNSText-Regular", "San Francisco",
-    "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: 'Roboto', -apple-system, '.SFNSText-Regular', 'San Francisco',
+    'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif;
   font-weight: 300;
   line-height: 1.8;
   letter-spacing: 0.0125em;
@@ -15,8 +15,8 @@ h4,
 h5,
 h6 {
   margin: 0.5em 0 0.5em;
-  font-family: "Roboto", -apple-system, ".SFNSText-Regular", "San Francisco",
-    "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: 'Roboto', -apple-system, '.SFNSText-Regular', 'San Francisco',
+    'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif;
   font-weight: 300;
 }
 
@@ -256,8 +256,8 @@ label {
   margin: 0 0 1em 0;
 }
 
-input[type="checkbox"],
-input[type="radio"] {
+input[type='checkbox'],
+input[type='radio'] {
   display: inline;
 }
 
@@ -357,7 +357,13 @@ iframe.airtable-embed {
   min-height: 100em;
 }
 
-a[href^="http://"]:after,
-a[href^="https://"]:after {
-  content: " ↗";
+.page-body {
+  a[href^='//']:not([href*='fvcproductions.com']):after {
+    content: ' ↗';
+  }
 }
+
+// a[href^="http://"]:not([href*="fvcproductions.com"]):after,
+// a[href^="https://"]:not([href*="fvcproductions.com"]):after {
+//   content: " ↗";
+// }

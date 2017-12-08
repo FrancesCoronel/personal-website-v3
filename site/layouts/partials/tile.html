@@ -9,7 +9,8 @@
       {{ if not .PublishDate.IsZero }}
       <p>{{ .Date.Format "January 2006" }}</p>
       {{ end }}
-      <h2>{{ .Title }} {{ if .Params.link }}↗️{{ end }}</h2>
+      <h2>{{ .Title }} {{ if .Params.link }}↗️{{ end }}
+      </h2>
       <!-- Description -->
       {{ with .Description }}
       <div class="content">

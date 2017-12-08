@@ -18,13 +18,15 @@
   {{ template "_internal/twitter_cards.html" . }}
   <!-- Open Graph -->
   {{ template "_internal/opengraph.html" . }}
-  <!-- Schema -->
-  {{ template "_internal/schema.html" . }}
   <!-- Google News -->
   {{ template "_internal/google_news.html" . }}
+  <!-- Schema -->
+  {{ template "_internal/schema.html" . }}
   <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
   <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+  <!-- Custom CSS -->
   <link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/main.css">
+  <!-- IE Styling -->
   <!--[if lte IE 9]><link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/ie9.css"><![endif]-->
   <!--[if lte IE 8]><link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/ie8.css"><![endif]-->
 </head>
@@ -39,10 +41,14 @@
     {{ partial "footer" . }}
   </div>
   <!-- Scripts -->
+  <!-- jQuery -->
   <script src="//code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+  <!-- Isotope -->
   <script src="//unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
   <script src="//npmcdn.com/imagesloaded@4/imagesloaded.pkgd.js"></script>
-  <!--[if lte IE 8]><script src="{{.Site.BaseURL}}assets/js/ie.js"></script><![endif]-->
+  <!-- IE -->
+  <!--[if lte IE 8]><script src="{{.Site.BaseURL}}assets/js/components/ie.js"></script><![endif]-->
+  <!-- Custom JS -->
   <script src="{{.Site.BaseURL}}assets/js/app.js"></script>
 </body>
 
