@@ -20,17 +20,17 @@ Website design, development, and copy writing by Frances Coronel.
   * [Netlify](//www.netlify.com)
 * **Dependencies**
   * [HTML5 UP](//html5up.net)
-  * Skel
-  * Embedly
-  * Light Gallery
-  * Twemoji
-  * Disqus
-  * Isotope
-  * Google Analytics
+  * [Skel](//github.com/ajlkn/skel)
+  * [Embedly](//embed.ly/)
+  * [Light Gallery](//sachinchoolur.github.io/lightGallery/)
+  * [Twemoji](//github.com/twitter/twemoji)
+  * [Disqus](//disqus.com/)
+  * [Isotope](//isotope.metafizzy.co/)
+  * [Google Analytics](//analytics.google.com)
 * **Fonts**
-  * Roboto
-  * Roboto Mono
-  * Font Awesome
+  * [Roboto](//fonts.google.com/specimen/Roboto)
+  * [Roboto Mono](//fonts.google.com/specimen/Roboto+Mono)
+  * [Font Awesome 5](//fontawesome.com)
 
 ---
 
@@ -40,22 +40,15 @@ Website design, development, and copy writing by Frances Coronel.
 
 > I like to dabble with things that ought to be dabbled with.
 
-I'm **obsessed** with emoji so I'm using
-[Twitter's emoji library](//github.com/twitter/twemoji) called `Twemoji` so that
-they look the same across all browsers. 🎉🎂🎈🎁
+I'm **obsessed** with emoji so I'm using [Twitter's emoji library](//github.com/twitter/twemoji) called `Twemoji` so that they look the same across all browsers. 🎉🎂🎈🎁
 
 _This means that even IE users can see 💩._
 
-For external links, a ↗ is automatically added to the end like
-[//google.com](//google.com).
+For external links, a ↗ is automatically added to the end like [//google.com](//google.com).
 
-External links also automatically have `target='_blank'` and `rel='nofollow'`
-added to the `a` tag.
+External links also automatically have `target='_blank'` and `rel='nofollow'` added to the `a` tag.
 
-The important part to note is that I've set the `↗` up to work only with links
-that start with `//` so [https://google.com](https://google.com) and
-[http://google.com](http://google.com) will just have the `target` and `rel`
-added.
+The important part to note is that I've set the `↗` up to work only with links that start with `//` so [https://google.com](https://google.com) and [http://google.com](http://google.com) will just have the `target='_blank'` and `rel='nofollow'` added.
 
 1. List item one
    1. List item one
@@ -82,22 +75,15 @@ added.
 ```md
 > I like to dabble with things that ought to be dabbled with.
 
-I'm **obsessed** with emoji so I'm using
-[Twitter's emoji library](//github.com/twitter/twemoji) called `Twemoji` so that
-they look the same across all browsers. 🎉🎂🎈🎁
+I'm **obsessed** with emoji so I'm using [Twitter's emoji library](//github.com/twitter/twemoji) called `Twemoji` so that they look the same across all browsers. 🎉🎂🎈🎁
 
 _This means that even IE users can see 💩._
 
-For external links, a ↗ is automatically added to the end like
-[//google.com](//google.com).
+For external links, a ↗ is automatically added to the end like [//google.com](//google.com).
 
-External links also automatically have `target='_blank'` and `rel='nofollow'`
-added to the `a` tag.
+External links also automatically have `target='_blank'` and `rel='nofollow'` added to the `a` tag.
 
-The important part to note is that I've set the `↗` up to work only with links
-that start with `//` so [https://google.com](https://google.com) and
-[http://google.com](http://google.com) will just have the `target` and `rel`
-added.
+The important part to note is that I've set the `↗` up to work only with links that start with `//` so [https://google.com](https://google.com) and [http://google.com](http://google.com) will just have the `target` and `rel` added.
 
 1. List item one
    1. List item one
@@ -127,8 +113,7 @@ added.
 <p class="notice"><b>Fun Fact</b> My logo is a chocolate dipped strawberry. No particular
 reason why, I just think they're yummy. 🍓🍫</p>
 
-There are <sup>superscripts</sup> like in E = MC<sup>2</sup> and
-<sub>subscripts</sub> like with H<sub>2</sub>O.
+There are <sup>superscripts</sup> like in E = MC<sup>2</sup> and <sub>subscripts</sub> like with H<sub>2</sub>O.
 
 This tag should denote <ins>inserted</ins> text.
 

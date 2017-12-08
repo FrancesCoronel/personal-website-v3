@@ -2,19 +2,17 @@
   <div class="12u$">
     <!-- Previous Page -->
     {{ if .PrevInSection }}
-    <div class="previous">
-      <a class="button" href="{{ .PrevInSection.Permalink }}">
-        <i class="fa fa-hand-o-left" aria-hidden="true"></i> {{ .PrevInSection.Title }}</a>
-    </div>
+    <a class="button big" href="{{ .PrevInSection.Permalink }}">
+      <i class="fas fa-long-arrow-alt-left" title="Previous Section"></i>
+      {{ .PrevInSection.Title }}
+    </a>
     {{ end }}
     <!-- Next Page -->
-    {{ if .NextInSection }}
-    <div class="next">
-      <a class="button" href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}
-        <i class="fa fa-hand-o-right" aria-hidden="true"></i>
-      </a>
-    </div>
+    {{ if .NextInSection }} &nbsp;
+    <a class="button big" href="{{ .NextInSection.Permalink }}">
+      {{ .NextInSection.Title }}
+      <i class="fas fa-long-arrow-alt-right" title="Next Section"></i>
+    </a>
     {{ end }}
-    </p>
   </div>
 </div>

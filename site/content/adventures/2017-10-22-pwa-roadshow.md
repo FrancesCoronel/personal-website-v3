@@ -1,7 +1,6 @@
 ---
 title: "PWA Roadshow"
 date: 2017-10-22
-link: "//google.com"
 tags:
   - conference
   - program

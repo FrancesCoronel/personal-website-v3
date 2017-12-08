@@ -4,6 +4,16 @@
   <!-- Header -->
   {{ partial "header.html" . }}
   <div class="page-content">
+    <!-- External Link -->
+    {{ with .Params.link }}
+    <div class="page-body">
+      <h2>
+        <a href="{{ . }}">
+          <b>View external link</b>
+        </a> for this page.
+      </h2>
+    </div>
+    {{ end }}
     <!-- Content -->
     {{ if .Content }} {{ partial "content.html" . }} {{ end }}
     <!-- Sharing -->

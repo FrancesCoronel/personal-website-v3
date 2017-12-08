@@ -5,4 +5,5 @@ require("typeface-roboto");
 require("typeface-roboto-mono");
 
 // Font Awesome
-require("font-awesome-webpack");
+// @TODO: Replace with Font Awesome 5 when available
+// require("font-awesome-webpack");

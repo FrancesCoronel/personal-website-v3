@@ -46,22 +46,22 @@ npm run build-preview
 
 ## Tools
 
-- [Babel](https://babeljs.io/)
-- [Bulma](https://bulam.io)
-- [GitHub Pages](https://pages.github.com)
-- [Google Analytics](https://analytics.google.com)
-- [Gulp](https://gulpjs.com/)
-- [Hugo](https://gohugo.io/)
-- [PostCSS](http://postcss.org/)
-- [Shields.io](http://shields.io/)
-- [Webpack](https://webpack.js.org/)
+* [Babel](https://babeljs.io/)
+* [Bulma](https://bulam.io)
+* [GitHub Pages](https://pages.github.com)
+* [Google Analytics](https://analytics.google.com)
+* [Gulp](https://gulpjs.com/)
+* [Hugo](https://gohugo.io/)
+* [PostCSS](http://postcss.org/)
+* [Shields.io](http://shields.io/)
+* [Webpack](https://webpack.js.org/)
 
 ### Typography
 
-- Roboto
-- Roboto Mono
-- Font Awesome
-- Input Mono
+* Roboto
+* Roboto Mono
+* Font Awesome
+* Input Mono
 
 ## Contributing
 
@@ -87,9 +87,9 @@ More details can be found at this project's [code of conduct](CODE_OF_CONDUCT.md
 
 ## Credits
 
-- [FVCproductions](https://github.com/fvcproductions) 🍓🍫
-- [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes)
-- [Victor Hugo](https://github.com/netlify/victor-hugo)
+* [FVCproductions](https://github.com/fvcproductions) 🍓🍫
+* [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes)
+* [Victor Hugo](https://github.com/netlify/victor-hugo)
 
 ## License
 
@@ -97,36 +97,27 @@ More details can be found at this project's [code of conduct](CODE_OF_CONDUCT.md
 
 ---
 
-Phantom by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Phantom by HTML5 UP html5up.net | @ajlkn Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+This is Phantom, a simple design built around a grid of large, colorful, semi-interactive image tiles (of which you can have as many or as few as you like). Makes use of some SVG and animation techniques I've been experimenting with on that other project of mine you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
 
-This is Phantom, a simple design built around a grid of large, colorful, semi-interactive
-image tiles (of which you can have as many or as few as you like). Makes use of some
-SVG and animation techniques I've been experimenting with on that other project of mine
-you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
+Demo images\* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images you can use for pretty much whatever.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+(\* = not included)
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
+AJ aj@lkn.io | @ajlkn
 
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+    Demo Images:
+    	Unsplash (unsplash.com)
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+    Icons:
+    	Font Awesome 5 (fortawesome.github.com/Font-Awesome)
 
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+    Other:
+    	jQuery (jquery.com)
+    	html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+    	Misc. Sass functions (@HugoGiraudel)
+    	Respond.js (j.mp/respondjs)
+    	Skel (skel.io)
