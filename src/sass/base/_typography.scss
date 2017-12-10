@@ -19,9 +19,9 @@ textarea {
 }
 
 a {
-  @include vendor('transition', (
-			'border-bottom-color #{_duration(transition)} ease',
-			'color #{_duration(transition)} ease'
+  @include vendor("transition", (
+			"border-bottom-color #{_duration(transition)} ease",
+			"color #{_duration(transition)} ease"
 		));
   text-decoration: none;
   color: _palette(fg);
@@ -37,14 +37,23 @@ a {
   }
 }
 
-p,
-li,
-ul {
-  a {
-    border-bottom: dotted 1px transparentize(_palette(fg), 0.5);
-    &:hover {
-      border-style: solid;
-      font-weight: 400;
+.page {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  li,
+  ol,
+  ul {
+    a {
+      border-bottom: dotted 1px transparentize(_palette(fg), 0.5);
+      &:hover {
+        border-style: solid;
+        font-weight: 400;
+      }
     }
   }
 }

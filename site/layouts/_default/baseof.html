@@ -18,6 +18,8 @@
   {{ template "_internal/twitter_cards.html" . }}
   <!-- Open Graph -->
   {{ template "_internal/opengraph.html" . }}
+  <!-- Google Analytics -->
+  {{ template "_internal/google_analytics_async.html" . }}
   <!-- Google News -->
   {{ template "_internal/google_news.html" . }}
   <!-- Schema -->
@@ -29,6 +31,7 @@
   <!-- IE Styling -->
   <!--[if lte IE 9]><link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/ie9.css"><![endif]-->
   <!--[if lte IE 8]><link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/ie8.css"><![endif]-->
+  <script src="https://widget.battleforthenet.com/widget.js" async></script>
 </head>
 
 <body>
@@ -41,15 +44,16 @@
     {{ partial "footer" . }}
   </div>
   <!-- Scripts -->
-  <!-- jQuery -->
-  <script src="//code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-  <!-- Font Awesome -->
-  <script defer src="https://use.fontawesome.com/releases/v5.0.0/js/all.js"></script>
-  <!-- Isotope -->
-  <script defer src="//unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
-  <script src="//npmcdn.com/imagesloaded@4/imagesloaded.pkgd.js"></script>
   <!-- IE -->
-  <!--[if lte IE 8]><script src="{{.Site.BaseURL}}assets/js/components/ie.js"></script><![endif]-->
+  <!--[if lte IE 8]><script src="{{.Site.BaseURL}}assets/js/ie.js"></script><![endif]-->
+  <!-- MailChimp -->
+  <script id="mcjs">
+    ! function (c, h, i, m, p) {
+      m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p)
+    }(document, "script",
+      "https://chimpstatic.com/mcjs-connected/js/users/0c1cb29d65da6e773de7acb68/f53091a91a4fa5282f2276da2.js");
+
+  </script>
   <!-- Custom JS -->
   <script src="{{.Site.BaseURL}}assets/js/app.js"></script>
 </body>

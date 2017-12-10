@@ -1,55 +1,11 @@
-<div class="row page-section">
+<div class="row page-section share-section">
   <div class="12u$">
     <section>
       <h3>
-        💗️ {{ .Site.Data.i18n.en.sectionshare }}
+        💗️ {{ .Site.Data.i18n.en.share }}
       </h3>
-      <ul class="icons">
-        <!-- Social Share Button HTML -->
-        <!-- Twitter -->
-        <li>
-          <a href="//twitter.com/intent/tweet?url={{ .Permalink }}&via={{ .Site.Social.twitter }}&text={{ .Page.Title }}" target="_blank"
-            class="icon style2 fa-twitter">
-            <span class="label">Twitter</span>
-          </a>
-        </li>
-        <!-- Google Plus -->
-        <li>
-          <a href="//plus.google.com/share?url={{ .Permalink }}" target="_blank" class="icon style2 fa-google-plus">
-            <span class="label">Google+</span>
-          </a>
-        </li>
-        <!-- Facebook -->
-        <li>
-          <a href="//www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" class="icon style2 fa-facebook">
-            <span class="label">Facebook</span>
-          </a>
-        </li>
-        <!-- Reddit (url, title) -->
-        <li>
-          <a href="//reddit.com/submit?url={{ .Permalink }}&title={{ .Title }}" target="_blank" class="icon style2 fa-reddit">
-            <span class="label">Reddit</span>
-          </a>
-        </li>
-        <!-- LinkedIn -->
-        <li>
-          <a href="//www.linkedin.com/shareArticle?url={{ .Permalink }}&title={{ .Title }}" target="_blank" class="icon style2 fa-linkedin">
-            <span class="label">LinkedIn</span>
-          </a>
-        </li>
-        <!-- StumbleUpon (url, title) -->
-        <li>
-          <a href="//www.stumbleupon.com/submit?url={{ .Permalink }}&title={{ .Title }}" target="_blank" class="icon style2 fa-stumbleupon">
-            <span class="label">StumbleUpon</span>
-          </a>
-        </li>
-        <!-- Email -->
-        <li>
-          <a href="mailto:?subject=Check out this work by {{ .Params.author }}&body={{ .Permalink }}" target="_blank" class="icon style2 fa-envelope-o">
-            <span class="label">Email</span>
-          </a>
-        </li>
-      </ul>
+      <script async type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a2c79985f46a9c0"></script>
+      <div class="addthis_inline_share_toolbox"></div>
     </section>
   </div>
 </div>

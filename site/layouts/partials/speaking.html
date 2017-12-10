@@ -1,33 +1,35 @@
 <div class="row page-section">
   <div class="12u$">
-    <h3>Events</h3>
-    <!-- <p>Some conference activity can also be found on my
-      <a href="https://lanyrd.com/profile/fvcproductions/" target="_blank" rel="nofollow">Lanyrd &#x2197;</a>.</p> -->
-    <blockquote>You can filter the events by the talk I gave.</blockquote>
     <!-- No Isotope Results -->
-    <p id="loading">It's loading - give it a sec! ⏳</p>
-    <!-- Filters -->
-    <div class="row page-section">
-      <div class="12u$">
-        <div id="filters" class="button-group">
-          <button class="button is-checked" data-filter="*">All Talks</button>
-          <button class="button" data-filter=".burnprevention">Burn Prevention</button>
-          <button class="button" data-filter=".bootcamps">Coding Bootcamps</button>
-          <button class="button" data-filter=".hourofcode">Hour of Code</button>
-          <button class="button" data-filter=".imovie101">iMovie 101</button>
-          <button class="button" data-filter=".wizard">So You Want To Be A Wizard</button>
-          <button class="button" data-filter=".typescript101">TypeScript 101</button>
-          <button class="button" data-filter=".vaacm">VA ACM</button>
-          <button class="button" data-filter=".webdesign">Web Design</button>
+    <h2 id="loading">It's loading - give it a sec! ⏳</h2>
+    <div class="isotope-results">
+      <h3>Events</h3>
+      <p>Some conference activity can also be found on my
+        <a href="https://lanyrd.com/profile/fvcproductions/" target="_blank" rel="nofollow">Lanyrd &#x2197;</a>.</p>
+      <blockquote>You can filter the events by the talk I gave.</blockquote>
+      <!-- Filters -->
+      <div class="row page-section">
+        <div class="12u$">
+          <div id="filters" class="filter-button-group">
+            <button class="button is-checked" data-filter="*">All Talks</button>
+            <button class="button" data-filter=".burnprevention">Burn Prevention</button>
+            <button class="button" data-filter=".bootcamps">Coding Bootcamps</button>
+            <button class="button" data-filter=".hourofcode">Hour of Code</button>
+            <button class="button" data-filter=".imovie101">iMovie 101</button>
+            <button class="button" data-filter=".wizard">So You Want To Be A Wizard</button>
+            <button class="button" data-filter=".typescript101">TypeScript 101</button>
+            <button class="button" data-filter=".vaacm">VA ACM</button>
+            <button class="button" data-filter=".webdesign">Web Design</button>
+          </div>
         </div>
       </div>
-    </div>
-    <!-- Speaking Tiles -->
-    <div class="row page-section">
-      <div class="12u$">
-        <section class="section tiles isotope-grid">
-          {{ range ($.Site.Taxonomies.tags.speaking).Pages.ByDate.Reverse }} {{ partial "tile.html" . }} {{ end }}
-        </section>
+      <!-- Speaking Tiles -->
+      <div class="row page-section">
+        <div class="12u$">
+          <section class="section tiles isotope-grid">
+            {{ range ($.Site.Taxonomies.tags.speaking).Pages.ByDate.Reverse }} {{ partial "tile.html" . }} {{ end }}
+          </section>
+        </div>
       </div>
     </div>
   </div>

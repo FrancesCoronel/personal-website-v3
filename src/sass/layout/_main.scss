@@ -46,11 +46,6 @@ h6 {
   font-size: 1.25em;
 }
 
-small,
-.small {
-  font-size: 1em;
-}
-
 p {
   margin-bottom: 1.3em;
 }
@@ -108,7 +103,7 @@ blockquote {
 }
 
 .home {
-  margin-bottom: 5em;
+  margin-bottom: 2em;
 }
 
 .home-article {
@@ -133,7 +128,7 @@ blockquote {
 
 a:hover {
   img {
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
     &.emoji {
       box-shadow: none;
     }
@@ -159,6 +154,7 @@ header {
   @include breakpoint(small) {
     p {
       margin-top: 0;
+      margin-bottom: 0;
     }
   }
 }
@@ -194,25 +190,36 @@ blockquote {
 .contact-form {
   padding-top: 2em;
   padding-bottom: 0em;
+  form {
+    margin: 0;
+    .actions {
+      margin: 0;
+    }
+  }
+}
+
+.contact-section {
+  ul.icons {
+    margin: 0;
+    li {
+      padding-left: 0;
+    }
+  }
 }
 
 textarea#message {
   min-height: 10em;
 }
 
-.page-content {
-  a:hover {
-    &p {
-      border-bottom: 2px solid rgba(37, 49, 55, 0.5);
-      font-weight: 400;
-    }
-  }
-}
-
-.pagination {
+.pagination-section {
   text-align: center;
   &.row {
     margin-top: 3em;
+  }
+  a.button {
+    @include breakpoint(small) {
+      width: 100%;
+    }
   }
 }
 
@@ -285,6 +292,22 @@ input[type="radio"] {
   }
 }
 
+pre,
+code {
+  white-space: pre;
+  word-wrap: break-word;
+}
+
+.highlight {
+  code {
+    white-space: pre-wrap;
+  }
+}
+
+.at4-jumboshare .at4-count-container {
+  display: inherit;
+}
+
 kbd {
   display: inline-block;
   padding: 0.5em;
@@ -304,9 +327,22 @@ table th {
   font-size: 1em;
 }
 
-.page-content {
+.page {
   img.emoji {
     margin: 0 0.1em;
+  }
+}
+
+.subscribe-form {
+  padding: 0;
+  form {
+    margin: 0;
+    padding: 0;
+  }
+  img.mailchimp-logo {
+    width: 2em;
+    vertical-align: -0.5em;
+    margin-right: 0.5em;
   }
 }
 
@@ -365,8 +401,3 @@ iframe.airtable-embed {
     content: " ↗";
   }
 }
-
-// a[href^="http://"]:not([href*="fvcproductions.com"]):after,
-// a[href^="https://"]:not([href*="fvcproductions.com"]):after {
-//   content: " ↗";
-// }

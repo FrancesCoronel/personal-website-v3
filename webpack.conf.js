@@ -1,5 +1,5 @@
-import webpack from "webpack";
-import path from "path";
+const webpack = require("webpack");
+const path = require("path");
 
 export default {
   module: {
@@ -31,12 +31,25 @@ export default {
     ]
   },
   plugins: [
+    new webpack.optimize.ModuleConcatenationPlugin(),
     new webpack.ProvidePlugin({
       fetch: "imports-loader?this=>global!exports?global.fetch!whatwg-fetch"
+    }),
+    new webpack.ProvidePlugin({
+      $: "jquery",
+      jQuery: "jquery"
     })
   ],
+  resolve: {
+    alias: {
+      jquery: "jquery/src/jquery",
+      masonry: "masonry-layout",
+      isotope: "isotope-layout"
+    }
+  },
   context: path.join(__dirname, "src"),
   entry: {
+    // isotope: ["./js/components/isotope"],
     ie: ["./js/components/ie"],
     app: ["./js/app"]
   },

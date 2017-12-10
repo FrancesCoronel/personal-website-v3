@@ -27,6 +27,8 @@ Website design, development, and copy writing by Frances Coronel.
   * [Disqus](//disqus.com/)
   * [Isotope](//isotope.metafizzy.co/)
   * [Google Analytics](//analytics.google.com)
+  * [MailChimp](//eepurl.com/ddx07z)
+  * [AddThis](//addthis.com/)
 * **Fonts**
   * [Roboto](//fonts.google.com/specimen/Roboto)
   * [Roboto Mono](//fonts.google.com/specimen/Roboto+Mono)
@@ -119,15 +121,15 @@ This tag should denote <ins>inserted</ins> text.
 
 Let's not forget about our precious <kbd>Delete</kbd> key.
 
-<a href="#" class="button big">Big Button</a>
+<button class="button big">Big Button</button>
 
-<a href="#" class="button">Primary Button</a>
+<button class="button">Primary Button</button>
 
-<a href="#" class="button small">Small Button</a>
+<button class="button small">Small Button</button>
 
-<a href="#" class="button icon fa-download">Button with Icon</a>
+<button class="button icon fa-download">Button with Icon</button>
 
-<a href="#" class="button fit">Fit Button</a>
+<button class="button fit">Fit Button</button>
 
 ```html
 <p class="notice"><b>Fun Fact</b> My logo is a chocolate dipped strawberry. No particular
@@ -140,13 +142,13 @@ This tag should denote <ins>inserted</ins> text.
 
 Let's not forget about our precious <kbd>Delete</kbd> key.
 
-<a href="#" class="button big">Big Button</a>
+<button class="button big">Big Button</button>
 
-<a href="#" class="button">Primary Button</a>
+<button class="button">Primary Button</button>
 
-<a href="#" class="button small">Small Button</a>
+<button class="button small">Small Button</button>
 
-<a href="#" class="button icon fa-download">Button with Icon</a>
+<button class="button icon fa-download">Button with Icon</button>
 
-<a href="#" class="button fit">Fit Button</a>
+<button class="button fit">Fit Button</button>
 ```

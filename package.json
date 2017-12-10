@@ -14,7 +14,7 @@
   "author": "Frances Coronel",
   "license": "MIT",
   "dependencies": {
-    "autoprefixer": "^7.2.1",
+    "autoprefixer": "^7.2.2",
     "babel": "^6.23.0",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
@@ -35,8 +35,6 @@
     "eslint-plugin-import": "^1.11.1",
     "exports-loader": "^0.6.3",
     "file-loader": "^0.11.2",
-    "font-awesome": "^4.7.0",
-    "font-awesome-webpack": "0.0.5-beta.2",
     "graceful-fs": "^4.1.11",
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
@@ -48,11 +46,11 @@
     "hugo-bin": "^0.18.0",
     "imagesloaded": "^4.1.3",
     "imports-loader": "^0.7.1",
-    "infinite-scroll": "^3.0.2",
-    "isotope": "^1.0.0-alpha.3",
     "isotope-layout": "^3.0.4",
-    "jquery": "^1.9.1",
+    "jquery": "^3.2.1",
+    "jquery-bridget": "^2.0.1",
     "less": "^2.7.3",
+    "masonry-layout": "^4.2.0",
     "minimatch": "^3.0.4",
     "node-sass": "^4.7.2",
     "popper.js": "^1.13.0",
@@ -62,7 +60,7 @@
     "typeface-roboto": "0.0.45",
     "typeface-roboto-mono": "0.0.44",
     "url-loader": "^0.5.9",
-    "webpack": "^3.9.1",
+    "webpack": "^3.10.0",
     "whatwg-fetch": "^1.0.0"
   }
 }

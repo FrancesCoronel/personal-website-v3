@@ -3,30 +3,25 @@
 <div class="page">
   <!-- Header -->
   {{ partial "header.html" . }}
-  <!-- Content -->
-  <div class="page-content">
-    <!-- Body -->
-    {{ if .Content }} {{ partial "content.html" . }} {{ end }}
-    <!-- Adventures - Isotope -->
-    {{ if .Params.adventures }} {{ partial "adventures.html" . }} {{ else }}
-    <!-- Child Pages in Isotope Grid -->
-    {{ if .Pages | union (.Sections) }} {{ $pages := .Pages | union (.Sections) }}
-    <section class="section tiles">
-      <!-- Alphabetical Order -->
-      {{ if .Params.alphabetical }} {{ range $pages.ByTitle }} {{ partial "tile.html" . }} {{ end }}
-      <!-- Date Order -->
-      {{ else }} {{ range $pages.ByDate.Reverse }} {{ partial "tile.html" . }} {{ end }} {{ end }}
-    </section>
-    {{ end }} {{ end }}
-    <!-- Speaking - Isotope -->
-    {{ if .Params.speaking }} {{ partial "speaking.html" . }} {{ end }}
-    <!-- Sharing -->
-    {{ partial "sharing.html" . }}
-    <!-- Contact -->
-    {{ partial "contact.html" . }}
-    <!-- Donate -->
-    {{ partial "donate.html" . }}
-  </div>
+  <!-- Body -->
+  {{ if .Content }} {{ partial "content.html" . }} {{ end }}
+  <!-- Adventures - Isotope -->
+  {{ if .Params.adventures }} {{ partial "adventures.html" . }} {{ else }}
+  <!-- Child Pages in Isotope Grid -->
+  {{ if .Pages | union (.Sections) }} {{ $pages := .Pages | union (.Sections) }}
+  <section class="section tiles">
+    <!-- Alphabetical Order -->
+    {{ if .Params.alphabetical }} {{ range $pages.ByTitle }} {{ partial "tile.html" . }} {{ end }}
+    <!-- Date Order -->
+    {{ else }} {{ range $pages.ByDate.Reverse }} {{ partial "tile.html" . }} {{ end }} {{ end }}
+  </section>
+  {{ end }} {{ end }}
+  <!-- Speaking - Isotope -->
+  {{ if .Params.speaking }} {{ partial "speaking.html" . }} {{ end }}
+  <!-- Sharing -->
+  {{ partial "sharing.html" . }}
+  <!-- Donate -->
+  {{ partial "donate.html" . }}
 </div>
 <!-- End Main -->
 {{ end }}

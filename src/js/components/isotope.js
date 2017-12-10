@@ -1,4 +1,12 @@
 // Isotope
+// var $ = require("jquery");
+
+var imagesLoaded = require("imagesloaded");
+var Isotope = require("isotope-layout");
+var jQueryBridget = require("jquery-bridget");
+
+imagesLoaded.makeJQueryPlugin($);
+jQueryBridget("isotope", Isotope, $);
 
 function getHashFilter() {
   // get filter=filterName
@@ -7,24 +15,17 @@ function getHashFilter() {
   return hashFilter && decodeURIComponent(hashFilter);
 }
 
+// init Isotope
+var $grid = $(".isotope-grid");
+var $loadingMessage = $("#loading");
+var $results = $(".isotope-results");
+
 // bind filter button click
-var $filterButtonGroup = $(".button-group");
+var $filterButtonGroup = $(".filter-button-group");
 $filterButtonGroup.on("click", "button", function() {
   var filterAttr = $(this).attr("data-filter");
   // set filter in hash
   location.hash = "filter=" + encodeURIComponent(filterAttr);
-});
-
-$("#loading").show();
-
-var $grid = $(".isotope-grid").imagesLoaded(function() {
-  $(".isotope-grid").show();
-  $("#loading").hide();
-  // init Isotope after all images have loaded
-  $grid.isotope({
-    itemSelector: ".isotope-item",
-    layoutMode: "fitRows"
-  });
 });
 
 var isIsotopeInit = false;
@@ -35,23 +36,23 @@ function onHashchange() {
     return;
   }
   isIsotopeInit = true;
+  $loadingMessage.show();
+  $results.hide();
   // filter isotope
-  var $grid = $(".isotope-grid").imagesLoaded(function() {
-    $(".isotope-grid").show();
-    $("#loading").hide();
-    // init Isotope after all images have loaded
+  $grid.imagesLoaded(() => {
+    $results.show();
+    $loadingMessage.hide();
     $grid.isotope({
       itemSelector: ".isotope-item",
       layoutMode: "fitRows",
+      // use filterFns
       filter: hashFilter
     });
   });
   // set selected class on button
   if (hashFilter) {
     $filterButtonGroup.find(".is-checked").removeClass("is-checked");
-    $filterButtonGroup
-      .find("[data-filter='' + hashFilter + '']")
-      .addClass("is-checked");
+    $filterButtonGroup.find('[data-filter="' + hashFilter + '"]').addClass("is-checked");
   }
 }
 

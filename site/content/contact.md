@@ -20,17 +20,18 @@ contact: true
       <input autocomplete="on" type="email" name="email" placeholder="Your email">
     </div>
     <div class="field">
-      <textarea spellcheck="true" rows="20" name="message" id="message" placeholder="Message"></textarea>
+      <textarea spellcheck="true" rows="20" name="message" id="message" placeholder="Your message"></textarea>
     </div>
     <ul class="actions">
       <li>
-        <input type="submit" value="Send message" class="button">
+        <input type="submit" value="Send message" class="button big">
       </li>
     </ul>
     <input type="hidden" name="_subject" value="FVCproductions - New Contact Message 📥" />
   </form>
 </section>
 
-<script src="https://app.engati.com/static/js/chat_widget.js"></script>
+<!-- Chat Bot -->
 
-<script>EngtChat.init({"bot_key": "48eb665693764723", "e":"p", "bot_name":"FVCproductions","welcome_msg":true});</script>
+<!-- <script src="https://app.engati.com/static/js/chat_widget.js"></script>
+<script>EngtChat.init({"bot_key": "48eb665693764723", "e":"p", "bot_name":"FVCproductions","welcome_msg":true});</script> -->

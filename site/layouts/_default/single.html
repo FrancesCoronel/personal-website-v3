@@ -3,30 +3,20 @@
 <div class="page">
   <!-- Header -->
   {{ partial "header.html" . }}
-  <div class="page-content">
-    <!-- External Link -->
-    {{ with .Params.link }}
-    <div class="page-body">
-      <h2>
-        <a href="{{ . }}">
-          <b>View external link</b>
-        </a> for this page.
-      </h2>
-    </div>
-    {{ end }}
-    <!-- Content -->
-    {{ if .Content }} {{ partial "content.html" . }} {{ end }}
-    <!-- Sharing -->
-    {{ partial "sharing.html" . }}
-    <!-- Contact -->
-    {{ partial "contact.html" . }}
-    <!-- Donate -->
-    {{ partial "donate.html" . }}
-    <!-- Disqus Comments -->
-    {{ if not .Params.noComments }} {{ partial "comments.html" . }} {{ end }}
-    <!-- Pagination -->
-    {{ if or (or (.PrevInSection) (.NextInSection)) }} {{ partial "pagination.html" . }} {{ end }}
-  </div>
+  <!-- Content -->
+  {{ if .Content }} {{ partial "content.html" . }} {{ end }}
+  <!-- Sharing -->
+  {{ partial "sharing.html" . }}
+  <!-- Subscribe -->
+  {{ partial "subscribe.html" . }}
+  <!-- Contact -->
+  {{ partial "contact.html" . }}
+  <!-- Donate -->
+  {{ partial "donate.html" . }}
+  <!-- Disqus Comments -->
+  {{ if not .Params.noComments }} {{ partial "comments.html" . }} {{ end }}
+  <!-- Pagination -->
+  {{ if or (or (.PrevInSection) (.NextInSection)) }} {{ partial "pagination.html" . }} {{ end }}
 </div>
 <!-- End Main -->
 {{ end }}
