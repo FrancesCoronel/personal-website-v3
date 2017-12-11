@@ -1,14 +1,11 @@
 ---
 title: "Resume 📄️"
 description: "One page that tries its best to summarize me both academically and professionally. Hah."
-header:
-  image: https://images.pexels.com/photos/270238/pexels-photo-270238.png?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb
+banner: https://images.pexels.com/photos/270238/pexels-photo-270238.png?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb
 noComments: true
 ---
 
-## For a live version of my resume, please refer to
-
-<a href="https://linkedin.com/in/fvcproductions" target="_blank" rel="noopener">my LinkedIn profile</a>.
+## For a live version of my resume, please refer to <a href="//linkedin.com/in/fvcproductions" target="_blank" rel="noopener">my LinkedIn profile</a>.
 
 > And feel free to connect with me on there as well! 👥️
 
@@ -16,7 +13,7 @@ noComments: true
 
 <script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/fvcproductions" data-format="inline" data-related="false"></script>
 
-## But here's the hard copy for reference. `¯\_( ツ )_/¯`
+### But here's the hard copy for reference. `¯\_( ツ )_/¯`
 
 > Last updated October 2017
 

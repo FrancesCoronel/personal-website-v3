@@ -44,7 +44,8 @@ export default {
     alias: {
       jquery: "jquery/src/jquery",
       masonry: "masonry-layout",
-      isotope: "isotope-layout"
+      isotope: "isotope-layout",
+      lightgallery: "lightgallery"
     }
   },
   context: path.join(__dirname, "src"),

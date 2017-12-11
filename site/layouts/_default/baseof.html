@@ -3,7 +3,7 @@
 
 <head>
   <title>{{ .Title }}</title>
-  <base href="{{ .Site.BaseURL }}">
+  <!-- <base href="{{ .Site.BaseURL }}"> -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="DC.title" content="{{ .Title }}">
@@ -13,47 +13,33 @@
   <meta name="DC.publisher" content="Frances Coronel">
   <meta name="DC.subject" content="{{ range .Params.tags }}{{ . }},{{ end }}">
   <!-- SEO -->
-  {{ partial "seo.html" . }}
-  <!-- Twitter Cards -->
-  {{ template "_internal/twitter_cards.html" . }}
-  <!-- Open Graph -->
-  {{ template "_internal/opengraph.html" . }}
-  <!-- Google Analytics -->
-  {{ template "_internal/google_analytics_async.html" . }}
-  <!-- Google News -->
-  {{ template "_internal/google_news.html" . }}
-  <!-- Schema -->
-  {{ template "_internal/schema.html" . }}
-  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
-  <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+  {{ partial "base/header/seo.html" . }}
   <!-- Custom CSS -->
   <link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/main.css">
   <!-- IE Styling -->
   <!--[if lte IE 9]><link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/ie9.css"><![endif]-->
   <!--[if lte IE 8]><link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/ie8.css"><![endif]-->
-  <script src="https://widget.battleforthenet.com/widget.js" async></script>
 </head>
 
 <body>
   <!-- Wrapper -->
   <div id="wrapper">
-    {{ partial "logo.html" . }} {{ partial "navbar.html" . }}
+    <!-- Logo -->
+    {{ partial "base/header/logo.html" . }}
+    <!-- Right Menu Bar -->
+    {{ partial "base/header/navbar.html" . }}
+    <!-- Main Block -->
     <div class="inner">
       {{ block "main" . }} {{ end }}
     </div>
-    {{ partial "footer" . }}
+    <!-- Footer -->
+    {{ partial "base/footer/index.html" . }}
   </div>
   <!-- Scripts -->
   <!-- IE -->
   <!--[if lte IE 8]><script src="{{.Site.BaseURL}}assets/js/ie.js"></script><![endif]-->
-  <!-- MailChimp -->
-  <script id="mcjs">
-    ! function (c, h, i, m, p) {
-      m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p)
-    }(document, "script",
-      "https://chimpstatic.com/mcjs-connected/js/users/0c1cb29d65da6e773de7acb68/f53091a91a4fa5282f2276da2.js");
-
-  </script>
+  <!-- Google Analytics -->
+  <!-- {{ template "_internal/google_analytics_async.html" . }} -->
   <!-- Custom JS -->
   <script src="{{.Site.BaseURL}}assets/js/app.js"></script>
 </body>

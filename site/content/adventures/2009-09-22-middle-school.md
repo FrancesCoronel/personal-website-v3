@@ -1,10 +1,9 @@
 ---
-title: "Ghent School"
-description: "What I did before and during middle school."
+title: Ghent School
+description: What I did before and during middle school.
 date: 2009-09-22
-header:
-    image: https://www.npsk12.com/cms/lib/VA02208074/Centricity/ModuleInstance/14118/ghent.JPG
-tags:
+banner: https://www.npsk12.com/cms/lib/VA02208074/Centricity/ModuleInstance/14118/ghent.JPG
+categories:
     - education
 ---
 

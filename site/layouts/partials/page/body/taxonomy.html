@@ -1,0 +1,20 @@
+<!-- Categories -->
+{{ if .Params.categories }}
+<div class="row">
+  <div class="12u">
+    <p>
+      <i title="Calendly" class="fas fa-calendar-check fa-lg"></i>Categories:
+      <!-- Range -->
+      {{ range $category := .Params.categories }}
+      <a href="/categories/{{ $category | urlize }}" title="{{ $category }}">{{ $category }}</a>
+      {{ end }}
+    </p>
+  </div>
+</div>
+{{ end }}
+<!-- Tags -->
+{{ if isset .Params "tags" }} {{ range $tag := .Params.tags }}
+<a class="ui label" href="/tags/{{ $tag | urlize }}" title="{{ $tag }}">{{ $tag }}</a>
+{{ end }} {{ else }}
+<span>{{ i18n "noTag" }}</span>
+{{ end }}

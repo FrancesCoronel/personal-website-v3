@@ -95,8 +95,7 @@ blockquote {
   color: #adadad;
 }
 
-.page-header,
-.page-body {
+.page-header {
   .svg-inline--fa {
     margin-right: 1em;
   }
@@ -135,10 +134,6 @@ a:hover {
   }
 }
 
-section.section.tiles h2 {
-  font-size: 1.5em;
-}
-
 section,
 article {
   &.special {
@@ -156,14 +151,6 @@ header {
       margin-top: 0;
       margin-bottom: 0;
     }
-  }
-}
-
-section.section.tiles {
-  margin: 0;
-  article {
-    margin: 0;
-    padding: 1em;
   }
 }
 
@@ -272,8 +259,29 @@ input[type="radio"] {
 }
 
 .page-section {
-  margin-bottom: 1em;
-  margin-top: 1em;
+  margin: 1em 0 1em 0;
+}
+
+.page-footer {
+  margin: 3em 0 2em 0;
+  border-style: dotted;
+  border-color: #283136;
+  border-top-width: 1em;
+  .page-section {
+    margin-top: 3em;
+    margin-bottom: 0;
+  }
+  img.emoji {
+    margin-right: 0.25em;
+  }
+}
+
+.subscribe-form {
+  margin: 2em 0 4em 0;
+}
+
+.highlight {
+  margin: 3em 0;
 }
 
 .button {
@@ -284,12 +292,6 @@ input[type="radio"] {
 
 #footer .inner .social-icons .icon {
   font-size: 2em;
-}
-
-.page-section {
-  img.emoji {
-    margin-right: 0.25em;
-  }
 }
 
 pre,
@@ -327,7 +329,7 @@ table th {
   font-size: 1em;
 }
 
-.page {
+.page-body {
   img.emoji {
     margin: 0 0.1em;
   }
@@ -400,4 +402,43 @@ iframe.airtable-embed {
   a[href^="//"]:not([href*="fvcproductions.com"]):after {
     content: " ↗";
   }
+}
+
+.filter-button-group {
+  button {
+    margin: 0.5em 0.5em 0.5em 0;
+  }
+}
+
+.section.tiles {
+  margin: 0;
+  article {
+    margin: 0;
+    padding: 1em;
+  }
+  h2 {
+    font-size: 1.5em;
+  }
+}
+
+archive-date {
+  margin-right: 1em;
+}
+
+.banner-caption {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 0;
+  padding: 0.5em;
+  color: #fff;
+  font-size: 1em;
+  background: #000;
+  text-align: right;
+  z-index: 5;
+  opacity: 0.5;
+}
+
+span.image.main img {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
 }

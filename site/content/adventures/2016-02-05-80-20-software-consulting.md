@@ -2,8 +2,7 @@
 title: "80|20 Software Consulting"
 description: "Frontend Developer"
 date: 2016-02-05
-header:
-  image: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/64e84044-e263-4dd1-94ac-ff1bf9a6d179.jpg
+banner: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/64e84044-e263-4dd1-94ac-ff1bf9a6d179.jpg
 gallery:
     - alt: "80|20 Software Consulting"
       url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/4dfb4620-587f-486d-96fb-518bf9736736.jpg
@@ -11,7 +10,7 @@ gallery:
       url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/64e84044-e263-4dd1-94ac-ff1bf9a6d179.jpg
     - alt: "80|20 Software Consulting"
       url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/norfolkjs-jan-2016-0032.jpg
-tags:
+categories:
     - experience
 ---
 

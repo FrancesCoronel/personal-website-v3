@@ -3,8 +3,7 @@ title: "Sally Conference"
 description: "Sponsored by Bloom & Women Who Code"
 category: "Conference"
 date: 2015-07-25
-header:
-  image: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/ckydracwgaeajgp.jpg
+banner: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/ckydracwgaeajgp.jpg
 gallery:
     - alt: "Sally Conference"
       url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0001.jpg
@@ -12,7 +11,7 @@ gallery:
       url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0002.jpg
     - alt: "Sally Conference"
       url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/ckydracwgaeajgp.jpg
-tags:
+categories:
     - conference
 ---
 

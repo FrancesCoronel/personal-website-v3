@@ -10,7 +10,7 @@
     @include vendor("flex-direction", "row");
     text-align: center;
     justify-content: center;
-    >*> :last-child {
+    > * > :last-child {
       margin-bottom: 0;
     }
     a {
@@ -36,20 +36,12 @@
     }
     .copyright {
       width: 100%;
-      padding: 0;
-      margin-top: 4em;
+      padding: 2em;
       list-style: none;
-      font-size: 1em;
-      li {
-        display: inline-block;
-        border-left: solid 1px transparentize(_palette(fg), 0.85);
-        line-height: 1;
-        padding: 0 0 0 1em;
-        margin: 0 0 0 1em;
-        &:first-child {
-          border-left: 0;
-          padding-left: 0;
-          margin-left: 0;
+      font-size: 1.5em;
+      @include breakpoint(small) {
+        .colophon {
+          margin-top: 1em;
         }
       }
     }
@@ -62,7 +54,7 @@
   }
   @include breakpoint(small) {
     @include padding(3em, 0);
-    >.inner {
+    > .inner {
       @include vendor("flex-direction", "column");
       section:nth-child(1) {
         width: 100%;
@@ -72,15 +64,11 @@
         @include vendor("order", "-1");
         width: 100%;
       }
-      .copyright {
-        margin-top: 3em;
-      }
     }
   }
   @include breakpoint(xsmall) {
-    >.inner {
+    > .inner {
       .copyright {
-        margin-top: 3em;
         li {
           border-left: 0;
           padding-left: 0;

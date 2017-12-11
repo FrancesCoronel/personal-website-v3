@@ -2,10 +2,9 @@
 title: "Accenture SLC"
 description: "Student Leadership Conference."
 date: 2016-06-29
-tags:
+categories:
     - conference
-header:
-  image: //fvcproductions.files.wordpress.com/2016/07/accentureslc-23.jpg
+banner: //fvcproductions.files.wordpress.com/2016/07/accentureslc-23.jpg
 gallery:
     - alt: "Accenture SLC"
       url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/07/accentureslc-1.jpg

@@ -1,9 +1,8 @@
 ---
-title: "School for Field Studies"
+title: School for Field Studies
 date: 2012-08-14
-description: "Studied Wildlife Research Techniques in Tanzania during the summer of 2012."
-header:
-    image: https://fvcproductions.files.wordpress.com/2015/11/461956_476846202328099_271376704_o.jpg
+description: Studied Wildlife Research Techniques in Tanzania during the summer of 2012.
+banner: https://fvcproductions.files.wordpress.com/2015/11/461956_476846202328099_271376704_o.jpg
 gallery:
     - alt: "SFS"
       url: https://fvcproductions.files.wordpress.com/2015/11/323071_476875508991835_1185245848_o.jpg?w=517&h=342&zoom=2
@@ -29,7 +28,7 @@ gallery:
       url: https://fvcproductions.files.wordpress.com/2015/11/dscf5448.jpg?w=200&h=133&zoom=2
     - alt: "SFS"
       url: https://fvcproductions.files.wordpress.com/2015/11/img_0967.jpg?w=178&h=133&zoom=2
-tags:
+categories:
     - program
     - education
 ---

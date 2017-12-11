@@ -1,11 +1,10 @@
 ---
 title: "Kent Hack Enough"
 description: "Volunteered and teamed up with my boyfriend to work on a Leap Motion hack that won an award"
-tags:
+categories:
     - hackathon
 date: 2016-10-09
-header:
-    image: https://fvcproductions.files.wordpress.com/2016/10/img_0849.jpg
+banner: https://fvcproductions.files.wordpress.com/2016/10/img_0849.jpg
 gallery:
     - alt: "KHE 2016"
       url: https://fvcproductions.files.wordpress.com/2016/10/img_0849.jpg

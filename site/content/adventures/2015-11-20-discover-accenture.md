@@ -2,14 +2,13 @@
 title: "Discover Accenture"
 description: "Invited to explore Accenture as a potential full-time candidate."
 date: 2015-11-20
-header:
-  image: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0108.jpg
+banner: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0108.jpg
 gallery:
     - alt: "Discover Accenture"
       url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/kate-selfie.jpg
     - alt: "Discover Accenture"
       url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0108.jpg
-tags:
+categories:
     - conference
 ---
 

@@ -1,9 +1,8 @@
 ---
-title: "Lavie Ruan"
+title: Lavie Ruan
 date: 2016-08-01
-cta_url: https://linkedin.com/in/laviemaru
-header:
-  image: https://fvcproductions.files.wordpress.com/2016/08/lavie.jpg
+banner: https://fvcproductions.files.wordpress.com/2016/08/lavie.jpg
+banner_link: https://linkedin.com/in/laviemaru
 ---
 
 Frances has been a great help in the process of my web development journey. She showed me what a good web development environment is.

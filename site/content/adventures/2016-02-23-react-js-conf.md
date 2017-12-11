@@ -2,10 +2,9 @@
 title: "React.js Conf"
 description: "Sponsored by Facebook."
 date: 2016-02-23
-tags:
+categories:
     - conference
-header:
-    image: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0413.jpg
+banner: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0413.jpg
 gallery:
     - alt: "React.js Conf"
       url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0419.jpg

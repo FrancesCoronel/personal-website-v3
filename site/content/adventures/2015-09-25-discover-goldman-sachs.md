@@ -3,14 +3,13 @@ title: "Discover Goldman Sachs"
 description: "I was invited to explore careers with Goldman Sachs."
 category: "Conference"
 date: 2015-09-25
-header:
-  image: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0052.jpg
+banner: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0052.jpg
 gallery:
   - alt: "Goldman Sachs"
     url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0052.jpg
   - alt: "Goldman Sachs"
     url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0054.jpg
-tags:
+categories:
     - conference
 ---
 

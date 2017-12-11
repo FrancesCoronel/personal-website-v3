@@ -5,8 +5,7 @@ noComments: true
 speaking: true
 alphabetical: true
 isotope: true
-header:
-  image: https://fvcproductions.files.wordpress.com/2015/11/12219321_941445252602315_1897049180671471124_n.jpg
+banner: https://fvcproductions.files.wordpress.com/2015/11/12219321_941445252602315_1897049180671471124_n.jpg
 ---
 
 ## I've given talks on a variety of topics.

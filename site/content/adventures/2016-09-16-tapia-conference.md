@@ -2,10 +2,9 @@
 title: "TAPIA 2016"
 description: "ACM Richard Tapia Celebration of Diversity in Computing"
 date: 2016-09-16
-tags:
+categories:
     - conference
-header:
-  image: //fvcproductions.files.wordpress.com/2016/09/photo1.jpg
+banner: //fvcproductions.files.wordpress.com/2016/09/photo1.jpg
 gallery:
     - alt: "TAPIA 2016"
       url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0717.jpg?w=233&h=1154&crop&ssl=1&zoom=2

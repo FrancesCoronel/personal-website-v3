@@ -3,7 +3,7 @@
   "editor.tabSize": 2,
   "editor.fontSize": 18,
   "files.trimTrailingWhitespace": true,
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   "editor.wordWrap": "on",
   "prettier.eslintIntegration": true,
   "cSpell.words": ["Codelabs", "Cproductions", "Customizations", "ISLC", "PWAs", "Roboto", "Udacity", "lightgallery", "markdownlint", "schooler", "scrollbar"],

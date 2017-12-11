@@ -3,14 +3,13 @@ title: "ISLC 2013"
 description: "International Student Leadership Conference"
 category: "Conference"
 date: 2013-08-02
-header:
-  image: //i0.wp.com/fvcproductions.files.wordpress.com/2015/11/screen-shot-2016-01-22-at-9-53-08-pm.jpg
+banner: //i0.wp.com/fvcproductions.files.wordpress.com/2015/11/screen-shot-2016-01-22-at-9-53-08-pm.jpg
 gallery:
     - alt: "ISLC 2013"
       url: //i0.wp.com/fvcproductions.files.wordpress.com/2015/11/screen-shot-2016-01-22-at-9-53-08-pm.jpg
     - alt: "ISLC 2013"
       url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0844.jpg
-tags:
+categories:
     - conference
 ---
 

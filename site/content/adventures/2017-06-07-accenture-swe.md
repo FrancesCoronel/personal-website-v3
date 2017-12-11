@@ -1,15 +1,14 @@
 ---
-title: "Accenture Liquid Studio"
-description: "Software Engineer"
+title: Accenture Liquid Studio
+description: Software Engineer
 date: 2017-06-07
-header:
-  image: //i.imgur.com/2VW391R.jpg
+banner: //i.imgur.com/2VW391R.jpg
 gallery:
   - url: //i.imgur.com/2VW391R.jpg
     alt: "People Profile"
   - url: //i.imgur.com/l3pUvUR.png
     alt: "Internal Liquid Studio Website"
-tags:
+categories:
     - experience
 ---
 

@@ -1,25 +1,24 @@
 ---
-title: "West AAERG/HAERG Leadership Summit"
-description: "Accenture's annual leadership summit for African American and Hispanic American employees."
+title: West AAERG/HAERG Leadership Summit
+description: Accenture's annual leadership summit for African American and Hispanic American employees.
 date: 2017-07-21
-header:
-  image: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-5.jpeg
+banner: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-5.jpeg
 gallery:
-    - alt: "West Leadership Summit"
+    - alt: West Leadership Summit
       url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-7.jpg
-    - alt: "West Leadership Summit"
+    - alt: West Leadership Summit
       url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-6.jpeg
-    - alt: "West Leadership Summit"
+    - alt: West Leadership Summit
       url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-5.jpeg
-    - alt: "West Leadership Summit"
+    - alt: West Leadership Summit
       url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-4.jpeg
-    - alt: "West Leadership Summit"
+    - alt: West Leadership Summit
       url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-3.jpeg
-    - alt: "West Leadership Summit"
+    - alt: West Leadership Summit
       url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-2.jpg
-    - alt: "West Leadership Summit"
+    - alt: West Leadership Summit
       url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-1.jpg
-tags:
+categories:
     - conference
 ---
 

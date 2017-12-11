@@ -1,8 +1,7 @@
 ---
-title: "Freelancing 💎️"
-description: "Developing with a design background."
-header:
-    image: https://fvcproductions.files.wordpress.com/2015/11/banners_new-001.jpeg
+title: Freelancing 💎️
+description: Developing with a design background.
+banner: https://fvcproductions.files.wordpress.com/2015/11/banners_new-001.jpeg
 ---
 
 ## I work with clients of all backgrounds on both product design & development.

@@ -1,10 +1,9 @@
 ---
-title: "Strange Loop 2017"
-description: "Strange Loop is a multi-disciplinary conference that brings together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web."
+title: Strange Loop 2017
+description: Strange Loop is a multi-disciplinary conference that brings together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.
 date: 2017-09-27
-header:
-  image: //i.imgur.com/uBaeAmo.jpg?1
-tags:
+banner: //i.imgur.com/uBaeAmo.jpg?1
+categories:
     - conference
     - speaking
     - typescript101

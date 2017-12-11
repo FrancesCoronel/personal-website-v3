@@ -1,7 +1,5 @@
 import gulp from "gulp";
-import {
-  spawn
-} from "child_process";
+import {spawn} from "child_process";
 import hugoBin from "hugo-bin";
 import gutil from "gulp-util";
 import postcss from "gulp-postcss";
@@ -26,52 +24,48 @@ gulp.task("hugo", (cb) => buildSite(cb));
 gulp.task("hugo-preview", (cb) => buildSite(cb, hugoArgsPreview));
 
 // Build/production tasks
-gulp.task("build", ["clean", "sass", "js", "ie", "img", "static"], (cb) =>
-  buildSite(cb, [], "production")
-);
+gulp.task("build", ["clean", "sass", "js", "ie", "img", "static"], (cb) => buildSite(cb, [], "production"));
 
-gulp.task("build-preview", ["clean", "sass", "ie", "js", "img", "static"], (cb) =>
-  buildSite(cb, hugoArgsPreview, "production")
-);
+gulp.task("build-preview", ["clean", "sass", "ie", "js", "img", "static"], (cb) => buildSite(cb, hugoArgsPreview, "production"));
 
 gulp.task("sass", () =>
   gulp
-  .src("./src/sass/main.scss")
-  .pipe(
-    sass({
-      outputStyle: "compressed"
-    }).on("error", sass.logError)
-  )
-  .pipe(postcss([autoprefixer(), cssnano()]))
-  .pipe(gulp.dest("./dist/assets/css"))
-  .pipe(browserSync.stream())
+    .src("./src/sass/main.scss")
+    .pipe(
+      sass({
+        outputStyle: "compressed"
+      }).on("error", sass.logError)
+    )
+    .pipe(postcss([autoprefixer(), cssnano()]))
+    .pipe(gulp.dest("./dist/assets/css"))
+    .pipe(browserSync.stream())
 );
 
 gulp.task("ie", () =>
   gulp
-  .src(["./src/sass/ie8.scss", "./src/sass/ie9.scss"])
-  .pipe(
-    sass({
-      outputStyle: "compressed"
-    }).on("error", sass.logError)
-  )
-  .pipe(postcss([autoprefixer(), cssnano()]))
-  .pipe(gulp.dest("./dist/assets/css"))
-  .pipe(browserSync.stream())
+    .src(["./src/sass/ie8.scss", "./src/sass/ie9.scss"])
+    .pipe(
+      sass({
+        outputStyle: "compressed"
+      }).on("error", sass.logError)
+    )
+    .pipe(postcss([autoprefixer(), cssnano()]))
+    .pipe(gulp.dest("./dist/assets/css"))
+    .pipe(browserSync.stream())
 );
 
 gulp.task("img", () =>
   gulp
-  .src("./src/img/**/*")
-  .pipe(imagemin())
-  .pipe(gulp.dest("./dist/assets/img"))
+    .src("./src/img/**/*")
+    .pipe(imagemin())
+    .pipe(gulp.dest("./dist/assets/img"))
 );
 
 gulp.task("static", () =>
   gulp
-  .src("./src/static/**/*")
-  .pipe(gulp.dest("./dist/assets"))
-  .pipe(browserSync.stream())
+    .src("./src/static/**/*")
+    .pipe(gulp.dest("./dist/assets"))
+    .pipe(browserSync.stream())
 );
 
 gulp.task("clean", () => {

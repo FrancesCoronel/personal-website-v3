@@ -2,11 +2,10 @@
 title: "RevolutionConf"
 description: "Organized by RevolutionVA."
 date: 2016-05-13
-tags:
+categories:
     - conference
     - volunteering
-header:
-  image: //i1.wp.com/fvcproductions.files.wordpress.com/2016/06/revconf-13.jpg
+banner: //i1.wp.com/fvcproductions.files.wordpress.com/2016/06/revconf-13.jpg
 gallery:
     - alt: "RevolutionConf"
       url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/05/revolutionconf-2016.png

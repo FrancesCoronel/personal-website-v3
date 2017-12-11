@@ -1,8 +1,7 @@
 ---
 title: "Contact 📨️"
 description: "Getting in touch."
-header:
-    image: https://i.imgur.com/0n5zqiA.jpg
+banner: https://i.imgur.com/0n5zqiA.jpg
 noComments: true
 contact: true
 ---

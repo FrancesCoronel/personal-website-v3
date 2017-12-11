@@ -1,0 +1,7 @@
+<figure class="lightgallery">
+  {{ range $img := $.Page.Params.gallery }}
+  <a href="{{ $img.url}}">
+    <img src="{{ $img.url }}" title="{{ if $img.title }}{{ $img.title }}{{ else }}FVCproductions - Image{{ end }}">
+  </a>
+  {{ end }}
+</figure>

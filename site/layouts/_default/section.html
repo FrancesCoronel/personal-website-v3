@@ -2,26 +2,37 @@
 <!-- Begin Main -->
 <div class="page">
   <!-- Header -->
-  {{ partial "header.html" . }}
+  {{ partial "page/header/index.html" . }}
   <!-- Body -->
-  {{ if .Content }} {{ partial "content.html" . }} {{ end }}
-  <!-- Adventures - Isotope -->
-  {{ if .Params.adventures }} {{ partial "adventures.html" . }} {{ else }}
-  <!-- Child Pages in Isotope Grid -->
-  {{ if .Pages | union (.Sections) }} {{ $pages := .Pages | union (.Sections) }}
-  <section class="section tiles">
-    <!-- Alphabetical Order -->
-    {{ if .Params.alphabetical }} {{ range $pages.ByTitle }} {{ partial "tile.html" . }} {{ end }}
-    <!-- Date Order -->
-    {{ else }} {{ range $pages.ByDate.Reverse }} {{ partial "tile.html" . }} {{ end }} {{ end }}
-  </section>
-  {{ end }} {{ end }}
-  <!-- Speaking - Isotope -->
-  {{ if .Params.speaking }} {{ partial "speaking.html" . }} {{ end }}
-  <!-- Sharing -->
-  {{ partial "sharing.html" . }}
-  <!-- Donate -->
-  {{ partial "donate.html" . }}
+  {{ partial "page/body/index.html" . }}
+  <!-- Start - Not Primary Adventures Page -->
+  {{ if not .Params.adventures }}
+  <!-- Start - Check for child pages and child section pages -->
+  {{ if .Pages | union (.Sections) }}
+  <!-- Define Variable -->
+  {{ $pages := .Pages | union (.Sections) }}
+  <!-- Start Tiles -->
+  <div class="page-section">
+    <section class="section tiles">
+      <!-- Alphabetical Order -->
+      {{ if .Params.alphabetical }}
+      <!-- By Title -->
+      {{ range $pages.ByTitle }} {{ partial "page/body/tile.html" . }} {{ end }}
+      <!-- Date Order -->
+      {{ else }}
+      <!-- Reverse Order -->
+      {{ range $pages.ByDate.Reverse }} {{ partial "page/body/tile.html" . }} {{ end }} {{ end }}
+    </section>
+  </div>
+  <!-- End Tiles -->
+  {{ end }}
+  <!-- End - Check for child pages and child section pages -->
+  {{ end }}
+  <!-- End - Not Primary Adventures Page -->
+  <!-- Isotope -->
+  {{ partial "section/isotope.html" . }}
+  <!-- Page Footer -->
+  {{ partial "page/footer/index.html" . }}
 </div>
 <!-- End Main -->
 {{ end }}

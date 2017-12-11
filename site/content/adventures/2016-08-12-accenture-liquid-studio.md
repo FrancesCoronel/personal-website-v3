@@ -1,11 +1,10 @@
 ---
 title: "Accenture Liquid Studio - Summer 2016"
 description: "Wearables Developer"
-tags:
+categories:
     - experience
 date: 2016-08-12
-header:
-  image: //fvcproductions.files.wordpress.com/2016/07/accentureslc-1.jpeg
+banner: //fvcproductions.files.wordpress.com/2016/07/accentureslc-1.jpeg
 gallery:
     - alt: "Internship with Accenture"
       url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/06/accenture-internship-5.jpg?w=274&h=205&crop&ssl=1&zoom=2

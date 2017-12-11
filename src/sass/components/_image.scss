@@ -22,13 +22,12 @@ img.emoji {
   border: 0;
   display: inline-block;
   position: relative;
+  margin-top: 0.5em 0 0 0.5em;
   img {
     border-radius: _size(border-radius);
     display: block;
     width: 100%;
     display: block;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
     width: 100%;
     @include breakpoint(small) {
       margin: 0;

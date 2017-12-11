@@ -1,22 +1,12 @@
 {{ define "main" }}
 <!-- Begin Main -->
 <div class="page">
-  <!-- Header -->
-  {{ partial "header.html" . }}
-  <!-- Content -->
-  {{ if .Content }} {{ partial "content.html" . }} {{ end }}
-  <!-- Sharing -->
-  {{ partial "sharing.html" . }}
-  <!-- Subscribe -->
-  {{ partial "subscribe.html" . }}
-  <!-- Contact -->
-  {{ partial "contact.html" . }}
-  <!-- Donate -->
-  {{ partial "donate.html" . }}
-  <!-- Disqus Comments -->
-  {{ if not .Params.noComments }} {{ partial "comments.html" . }} {{ end }}
-  <!-- Pagination -->
-  {{ if or (or (.PrevInSection) (.NextInSection)) }} {{ partial "pagination.html" . }} {{ end }}
+  <!-- Page Header -->
+  {{ partial "page/header/index.html" . }}
+  <!-- Page Body -->
+  {{ partial "page/body/index.html" . }}
+  <!-- Page Footer -->
+  {{ partial "page/footer/index.html" . }}
 </div>
 <!-- End Main -->
 {{ end }}

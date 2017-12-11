@@ -2,13 +2,12 @@
 title: "InNOVAtion Hackathon"
 description: "My first speaking event at an MLH hackathon!"
 date: 2016-04-09
-tags:
+categories:
     - hackathon
     - speaking
     - webdesign
     - wizard
-header:
-  image: https://fvcproductions.files.wordpress.com/2016/02/img_4602.jpg
+banner: https://fvcproductions.files.wordpress.com/2016/02/img_4602.jpg
 gallery:
   - alt: "InNOVAtion Hackathon"
     url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_4576.jpg?w=515&h=343&crop&ssl=1&zoom=2
@@ -34,8 +33,7 @@ gallery:
 
 ## Name
 
-<a title="InNOVAtion Hackathon" href="https://novahackathon.org" target="_blank" rel="noopener">InNOVAtion
-Hackathon</a>
+<a title="InNOVAtion Hackathon" href="https://novahackathon.org" target="_blank" rel="noopener">InNOVAtion Hackathon</a>
 
 ## Organizer
 

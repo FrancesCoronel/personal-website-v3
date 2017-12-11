@@ -1,8 +1,7 @@
 ---
 title: "Colophon 🍓️"
 description: "Unveiling the inner workings of this website."
-header:
-  image: https://i.imgur.com/D4dPpG2.jpg
+banner: https://i.imgur.com/D4dPpG2.jpg
 noComments: true
 ---
 
@@ -50,7 +49,7 @@ For external links, a ↗ is automatically added to the end like [//google.com](
 
 External links also automatically have `target='_blank'` and `rel='nofollow'` added to the `a` tag.
 
-The important part to note is that I've set the `↗` up to work only with links that start with `//` so [https://google.com](https://google.com) and [http://google.com](http://google.com) will just have the `target='_blank'` and `rel='nofollow'` added.
+The important part to note is that I've set the ↗ up to work only with links that start with `//` so [https://google.com](https://google.com) and [http://google.com](http://google.com) will just have the `target='_blank'` and `rel='nofollow'` added.
 
 1. List item one
    1. List item one
@@ -85,7 +84,7 @@ For external links, a ↗ is automatically added to the end like [//google.com](
 
 External links also automatically have `target='_blank'` and `rel='nofollow'` added to the `a` tag.
 
-The important part to note is that I've set the `↗` up to work only with links that start with `//` so [https://google.com](https://google.com) and [http://google.com](http://google.com) will just have the `target` and `rel` added.
+The important part to note is that I've set the ↗ up to work only with links that start with `//` so [https://google.com](https://google.com) and [http://google.com](http://google.com) will just have the `target='_blank'` and `rel='nofollow'` added.
 
 1. List item one
    1. List item one
@@ -135,8 +134,7 @@ Let's not forget about our precious <kbd>Delete</kbd> key.
 <p class="notice"><b>Fun Fact</b> My logo is a chocolate dipped strawberry. No particular
 reason why, I just think they're yummy. 🍓🍫</p>
 
-There are <sup>superscripts</sup> like in E = MC<sup>2</sup> and
-<sub>subscripts</sub> like with H<sub>2</sub>O.
+There are <sup>superscripts</sup> like in E = MC<sup>2</sup> and <sub>subscripts</sub> like with H<sub>2</sub>O.
 
 This tag should denote <ins>inserted</ins> text.
 

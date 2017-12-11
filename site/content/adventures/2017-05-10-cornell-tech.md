@@ -2,8 +2,9 @@
 title: "Cornell Tech"
 description: "Master of Engineering in Computer Science at Cornell Tech in New York City."
 date: 2017-05-26
-header:
-    image: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/11/2016-11-29-photo-00000102.jpg?w=255&h=191&crop&ssl=1&zoom=2
+banner: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/11/2016-11-29-photo-00000102.jpg?w=255&h=191&crop&ssl=1&zoom=2
+categories:
+    - education
 gallery:
     - alt: "Cornell Tech"
       url: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/11/buildboard-1.jpg?w=487&h=365&crop&ssl=1&zoom=2
@@ -13,8 +14,6 @@ gallery:
       url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/11/2016-11-29-photo-00000102.jpg?w=255&h=191&crop&ssl=1&zoom=2
     - alt: "Cornell Tech"
       url: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/11/img_0047.jpg?w=746&h=560&crop&ssl=1&zoom=2
-tags:
-    - education
 ---
 
 ## Institution

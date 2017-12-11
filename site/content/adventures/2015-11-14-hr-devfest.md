@@ -2,12 +2,11 @@
 title: "HR DevFest"
 date: 2015-11-14
 description: "My first speaking event at a tech conference!"
-header:
-    image: https://fvcproductions.files.wordpress.com/2015/11/issuetrak-conference-00831.jpg
+banner: https://fvcproductions.files.wordpress.com/2015/11/issuetrak-conference-00831.jpg
 gallery:
   - url: https://fvcproductions.files.wordpress.com/2015/11/issuetrak-conference-00831.jpg
     alt: HR DevFest 2015
-tags:
+categories:
     - conference
     - speaking
     - webdesign
@@ -15,8 +14,7 @@ tags:
 
 ## Name
 
-<a title="HR (Hampton Roads) DevFest" href="https://hrdevfest.org" target="_blank" rel="noopener">HR
-(Hampton Roads) DevFest</a>
+<a title="HR (Hampton Roads) DevFest" href="https://hrdevfest.org" target="_blank" rel="noopener">HR (Hampton Roads) DevFest</a>
 
 ## Organizer
 
@@ -36,8 +34,7 @@ Scholarship Recipient, Speaker - Web Design for Developers
 
 ## About
 
-Hampton Roads DevFest is a technology conference focused on giving software
-engineers in the region exposure to new innovations and best practices.
+Hampton Roads DevFest is a technology conference focused on giving software engineers in the region exposure to new innovations and best practices.
 
 ### Presentation
 

@@ -3,14 +3,13 @@ title: "STARS Celebration"
 description: "Conference by the STARS Computing Corps"
 category: "Conference"
 date: 2014-08-16
-header:
-    image: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg
+banner: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg
 gallery:
     - alt: "STARS 2014"
       url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-84.jpg
     - alt: "STARS 2014"
       url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg
-tags:
+categories:
     - conference
 ---
 

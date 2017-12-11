@@ -2,9 +2,8 @@
 title: Fullstack Academy
 date: 2016-08-26
 description: Summer of Code
-header:
-    image: https://fvcproductions.files.wordpress.com/2015/11/11821194_439697182900579_299304949_n-1-e1457320708289.jpg
-tags:
+banner: https://fvcproductions.files.wordpress.com/2015/11/11821194_439697182900579_299304949_n-1-e1457320708289.jpg
+categories:
     - program
     - speaking
     - webdesign
@@ -12,8 +11,7 @@ tags:
 
 ## Name
 
-<a title="Fullstack Academy" href="https://www.fullstackacademy.com/summer-of-code" target="_blank" rel="noopener">Fullstack
-Academy - Summer of Code</a>
+<a title="Fullstack Academy" href="https://www.fullstackacademy.com/summer-of-code" target="_blank" rel="noopener">Fullstack Academy - Summer of Code</a>
 
 ## Location
 
@@ -31,7 +29,6 @@ Student of inaugural class of Summer of Code
 
 ## About
 
-Summer of Code is an 11-week coding immersive for college students in NYC and
-Chicago
+Summer of Code is an 11-week coding immersive for college students in NYC and Chicago
 
 [I blogged about my experience.](https://fvcproductions.com/blog/2015/08/30/fullstack-academy-reflections/)

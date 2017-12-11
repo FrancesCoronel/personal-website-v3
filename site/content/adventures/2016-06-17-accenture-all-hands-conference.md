@@ -2,10 +2,9 @@
 title: "Accenture All-Hands Conference"
 description: "This was a conference all Accenture employees in the San Francisco Bay Area are invited to every year."
 date: 2016-06-17
-tags:
+categories:
     - conference
-header:
-  image: //fvcproductions.files.wordpress.com/2017/01/img_0068.jpg
+banner: //fvcproductions.files.wordpress.com/2017/01/img_0068.jpg
 gallery:
     - alt: "Accenture All-Hands Conference"
       url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/05/revolutionconf-2016.png

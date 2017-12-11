@@ -2244,7 +2244,7 @@
           },
 
           // Element/input types
-          header: function(elem) {
+           function(elem) {
             return rheader.test(elem.nodeName);
           },
 
@@ -2326,7 +2326,7 @@
         checkbox: true,
         file: true,
         password: true,
-        image: true
+     banner: true
       }) {
         Expr.pseudos[i] = createInputPseudo(i);
       }

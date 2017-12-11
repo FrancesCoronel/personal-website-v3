@@ -2,10 +2,9 @@
 title: "Fluent Conference"
 description: "Sponsored by OReilly."
 date: 2016-03-10
-tags:
+categories:
     - conference
-header:
-    image: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0526.jpg
+banner: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0526.jpg
 gallery:
     - alt: "Fluent Conf"
       url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0510.jpg

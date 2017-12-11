@@ -1,7 +1,10 @@
 ---
 title: Blog 📝️
 description: Writings and musings.
+banner: https://fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg
 alphabetical: true
-header:
-  image: https://fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg
+blog: true
+isotope: true
 ---
+
+### Below are a few sites where I regularly publish content.

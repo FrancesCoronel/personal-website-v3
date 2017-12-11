@@ -1,7 +1,6 @@
 ---
-title: Medium Publication
-description: My blog on Medium. I transferred my Wordpress posts over here but I still need to sanitize them. 😅️
-link: "//medium.com/fvcproductions"
-header:
-  image: https://i.imgur.com/TMRgTBo.png
+title: Medium
+description: My profile on Medium. My blog remains here.
+link: "//medium.com/@fvcproductions"
+banner: https://i.imgur.com/TMRgTBo.png
 ---

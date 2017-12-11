@@ -2,11 +2,10 @@
 title: "DeveloperWeek"
 description: "Conference for developers in SF"
 date: 2016-02-17
-tags:
+categories:
     - conference
     - volunteering
-header:
-    image: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0270.jpg
+banner: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0270.jpg
 gallery:
     - alt: "DeveloperWeek"
       url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_02551.jpg

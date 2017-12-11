@@ -1,16 +1,14 @@
 ---
-title: "ISCE 2011"
-description: "My first conference through OP Smile!"
-category: "Conference"
+title: ISCE 2011
+description: My first conference through OP Smile!
 date: 2011-08-07
-header:
-    image: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
+banner: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
 gallery:
     - alt: "ISCE 2011 - Group Shot"
       url: //i0.wp.com/fvcproductions.files.wordpress.com/2015/11/isce_groupshot_2011.jpg
     - alt: "ISCE 2011"
       url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
-tags:
+categories:
     - conference
 ---
 

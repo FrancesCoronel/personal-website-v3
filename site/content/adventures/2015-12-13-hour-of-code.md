@@ -2,8 +2,7 @@
 title: "Hour of Code"
 description: "Volunteering for the Hour of Code for the first time!"
 date: 2015-12-13
-header:
-  image: https://fvcproductions.files.wordpress.com/2015/12/img_2021.jpg
+banner: https://fvcproductions.files.wordpress.com/2015/12/img_2021.jpg
 tags:
     - bethel high school
     - code.org
@@ -11,6 +10,7 @@ tags:
     - john b dey
     - sedgefield
     - tallwood
+categories:
     - volunteering
     - speaking
     - hourofcode
@@ -23,8 +23,7 @@ gallery:
 
 ## Name
 
-<a title="Hour of Code" href="https://hourofcode.com" target="_blank" rel="noopener">Hour
-of Code</a>
+<a title="Hour of Code" href="https://hourofcode.com" target="_blank" rel="noopener">Hour of Code</a>
 
 ## Organizer
 
@@ -32,8 +31,7 @@ of Code</a>
 
 ## Location
 
-Bethel High, Sedgefield Elementary, John B. Dey Elementary, Tallwood
-Elementary - Hampton Roads, VA
+Bethel High, Sedgefield Elementary, John B. Dey Elementary, Tallwood Elementary - Hampton Roads, VA
 
 ## Date
 
@@ -45,5 +43,4 @@ High School Student Volunteer
 
 ## About
 
-This was my first time volunteering for the Hour of Code. A lot of teachers
-requested I come in to give a talk and I just couldn't say no!
+This was my first time volunteering for the Hour of Code. A lot of teachers requested I come in to give a talk and I just couldn't say no!

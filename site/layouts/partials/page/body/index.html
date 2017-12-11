@@ -1,0 +1,13 @@
+{{ if .Content }}
+<div class="page-body">
+  <div class="12u$">
+    <p>
+      {{ .Content }}
+    </p>
+  </div>
+</div>
+{{ end }}
+<!-- Archive Page -->
+{{ if .Params.Archive }} {{ partial "page/body/archive.html" . }} {{ end }}
+<!-- Taxonomy -->
+{{ if or (or (.Params.tags) (.Params.categories)) }} {{ end }}

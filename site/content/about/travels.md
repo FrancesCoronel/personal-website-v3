@@ -1,8 +1,7 @@
 ---
 title: "Travels 🌎️"
 description: "Oh, the places you'll go. - Dr. Seuss"
-header:
-  image: https://images.pexels.com/photos/59519/pexels-photo-59519.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb
+banner: https://images.pexels.com/photos/59519/pexels-photo-59519.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb
 noComments: true
 ---
 

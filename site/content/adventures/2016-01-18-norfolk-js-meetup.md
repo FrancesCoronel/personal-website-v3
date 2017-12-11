@@ -2,8 +2,7 @@
 title: Norfolk.js Meetup
 date: 2016-01-18
 description: My first speaking event for a Meetup group!
-header:
-    image: https://fvcproductions.files.wordpress.com/2015/11/norfolkjs-jan-2016-0041.jpg
+banner: https://fvcproductions.files.wordpress.com/2015/11/norfolkjs-jan-2016-0041.jpg
 tags:
   - 757
   - 757dev
@@ -13,14 +12,14 @@ tags:
   - norfolk javascript
   - norfolkjs
   - norfolkjs journey
+categories:
   - speaking
   - bootcamps
 ---
 
 ## Name
 
-<a title="Norfolk.js" href="https://norfolkjs.org" target="_blank" rel="noopener">Norfolk.js -
-Norfolk JavaScript Meetup Group</a>
+<a title="Norfolk.js" href="https://norfolkjs.org" target="_blank" rel="noopener">Norfolk.js - Norfolk JavaScript Meetup Group</a>
 
 ## Organizer
 
@@ -42,8 +41,7 @@ Volunteer (helped create website)
 
 https://www.meetup.com/NorfolkJS/events/227490794/
 
-[gallery type="rectangular" size="full" ids="3697,3698,3699,3700,3701,3702"
-orderby="rand"]
+[gallery type="rectangular" size="full" ids="3697,3698,3699,3700,3701,3702" orderby="rand"]
 
 https://speakerdeck.com/fvcproductions/js-coding-bootcamps-norfolk-dot-js
 

@@ -4,8 +4,7 @@ description: "AlterConf is a traveling conference
 series that provides safe opportunities for marginalized people and
 those who support them in the tech and gaming industries."
 date: 2016-12-11
-header:
-  image: //fvcproductions.files.wordpress.com/2017/01/img_0320.jpg
+banner: //fvcproductions.files.wordpress.com/2017/01/img_0320.jpg
 gallery:
     - alt: "AlterConf"
       url: //i1.wp.com/fvcproductions.files.wordpress.com/2017/01/img_0320.jpg?w=437&h=328&crop&ssl=1&zoom=2
@@ -15,7 +14,7 @@ gallery:
       url: //i0.wp.com/fvcproductions.files.wordpress.com/2017/01/volunteers.png?w=305&h=169&crop&ssl=1&zoom=2
     - alt: "AlterConf"
       url: //i2.wp.com/fvcproductions.files.wordpress.com/2017/01/img_0162.jpg?w=746&h=560&crop&ssl=1&zoom=2
-tags:
+categories:
     - conference
 ---
 

@@ -2,12 +2,11 @@
 title: "Fullstack Academy - Alumni Panel"
 date: 2017-03-15
 description: "Spoke at an alumni panel for Fullstack Academy's senior cohort."
-header:
-    image: https://i.imgur.com/5PVK7I1.png
+banner: https://i.imgur.com/5PVK7I1.png
 gallery:
   - url: https://i.imgur.com/5PVK7I1.png
     alt: Fullstack Academy Alumni Panel
-tags:
+categories:
     - speaking
 ---
 

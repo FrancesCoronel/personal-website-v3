@@ -1,7 +1,9 @@
+<!-- Start - Main -->
 {{ define "main" }}
-<!-- Main -->
+<!-- Start - By Year -->
 {{ range .Data.Pages.GroupByDate "2006" }}
 <h1>{{ .Key }}</h1>
+<!-- Start - Pages for Each Year -->
 {{ range .Pages }}
 <hr />
 <h2>
@@ -21,6 +23,9 @@
     </a>
   </p>
 </div>
-{{ end }} {{ end }}
-<!-- Donate -->
-{{ partial "donate.html" . }} {{ end }}
+{{ end }}
+<!-- End - Pages for Each Year -->
+{{ end }}
+<!-- End - By Year -->
+{{ end }}
+<!-- End - Main -->
