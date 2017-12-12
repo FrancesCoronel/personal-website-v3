@@ -1,13 +1,11 @@
-{{ if .Content }}
 <div class="page-body">
   <div class="12u$">
-    <p>
-      {{ .Content }}
-    </p>
+    {{ if .Content }} {{ .Content }} {{ end }}
+    <!-- Archive Page -->
+    {{ if .Params.Archive }} {{ partial "page/body/archive.html" . }} {{ end }}
+    <!-- Taxonomy -->
+    {{ if or (or (.Params.tags) (.Params.categories)) }} {{ partial "page/body/taxonomy.html" . }} {{ end }}
+    <!-- Awards Page -->
+    {{ if .Params.awards }} {{ partial "page/body/awards.html" . }} {{ end }}
   </div>
 </div>
-{{ end }}
-<!-- Archive Page -->
-{{ if .Params.Archive }} {{ partial "page/body/archive.html" . }} {{ end }}
-<!-- Taxonomy -->
-{{ if or (or (.Params.tags) (.Params.categories)) }} {{ end }}

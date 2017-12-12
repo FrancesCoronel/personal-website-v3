@@ -1,0 +1,618 @@
+data:
+  - award: Grant Recipient - Strange Loop Conference
+    issuer: Project Alloy
+    month: 'May'
+    year: 2017
+    link: '//projectalloy.org/'
+    notes: >-
+      Projecy Alloy offered me a grant towards attending the 2017 Strange Loop
+      conference that covers tickets, pre-conference activities, airfare, and
+      hotel accomodations.
+  - award: Accepted to Design Inc.
+    issuer: Design Inc.
+    month: 'March'
+    year: 2017
+    link: '//designinc.com/'
+    notes: Accepted among the many extremely talented creatives over at Design Inc.
+  - award: Finalist - hackNY Fellows Program
+    issuer: hackNY
+    month: 'March'
+    year: 2017
+    link: '//apply.hackny.org/'
+    notes: Progressed to final stages of interview process
+  - award: Finalist - HUGE Experience Design School
+    issuer: Huge
+    month: 'March'
+    year: 2017
+    link: '//hugeinc.com/schools'
+    notes: Progressed through all stages of interview process
+  - award: Finalist - KPCB Product Fellow Program
+    issuer: KPCB
+    month: 'March'
+    year: 2017
+    link: '//kpcbfellows.com/'
+    notes: |
+      Product Fellow; top 10% of applicants
+  - award: Finalist - PennApps Fellows Program
+    issuer: PennApps Fellows
+    month: 'March'
+    year: 2017
+    link: '//www.pennappsfellows.com/'
+    notes: Finalist
+  - award: Invited to VSGC Student Research Conference
+    issuer: Virginia Space Grant Consortium
+    month: 'March'
+    year: 2017
+    link: '//vsgc.odu.edu'
+    notes: >-
+      2017 Virginia Space Grant Consortium (VSGC) Student Research Conference at
+      the Woodlands Hotel and Suites Conference Center in Williamsburg, VA
+  - award: Selected for Cornell Tech Student Panel
+    issuer: Cornell Tech
+    month: 'February'
+    year: 2017
+    link: '//tech.cornell.edu/admissions/visit-us'
+    notes: >-
+      One of two CS students selected to represent Cornell Tech in an open panel
+      for prospective students on February 8th, 2017
+  - award: Best Final Sprint Presentation in Grizzly Room
+    issuer: Cornell Tech
+    month: 'December'
+    year: 2016
+    link: '//tech.cornell.edu/studio/curriculum/product-studio'
+    notes: >-
+      Recognized as having one of the best team presentations during the final
+      sprint in the Product Studio class at Cornell Tech.
+  - award: Scholarship Recipient
+    issuer: Computing Research Association
+    month: 'December'
+    year: 2016
+    link: '//cra.org/cra-w/grad-cohort-workshop/'
+    notes: |-
+      CRA-Women Grad Cohort Workshop
+
+      Scholarships provides hotel, travel, & food.
+  - award: Artful Artifacts
+    issuer: Cornell Tech
+    month: 'November'
+    year: 2016
+    link: '//tech.cornell.edu/studio/curriculum/product-studio'
+    notes: >-
+      We've pulled these for the class to see great examples of teams or
+      individuals that have produced meaningful artifacts that not only showcase
+      an interesting way of representing their solution, but also act as useful
+      milestones that can be referenced to in the future of the product
+      development process.
+  - award: Best Device Privacy Hack
+    issuer: Kent Hack Enough
+    month: 'October'
+    year: 2016
+    link: '//devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v'
+    notes: "Teamed up with my boyfriend to work on a Leap Motion hack called Jake the Dog Key Hand that ended up winning an award. Won award of Best Security Privacy Hack sponsored by Ubisoft with the prize being two copies of Watch Dog 2."
+  - award: James H. and Marilyn H. Simons Graduate Fellowship
+    issuer: Cornell Tech
+    month: 'August'
+    year: 2016
+    link: //news.cornell.edu/stories/2013/02/new-graduate-fellowship-supports-cornell-tech
+    notes: merit-based scholarship of $10K
+  - award: TAPIA Conference Scholarship Recipient
+    issuer: TAPIA Conference
+    month: 'August'
+    year: 2016
+    link: '//tapiaconference.org/'
+    notes: >-
+      Scholarship includes conference registration, shared hotel with another
+      scholarship recipient and $500 travel award.
+  - award: Diversity Scholarship Recipient
+    issuer: npmCamp
+    month: 'May'
+    year: 2016
+    link: '//npm.camp/'
+    notes: Fully discounted conference ticket
+  - award: Featured Blog Post
+    issuer: Daily Press
+    month: 'May'
+    year: 2016
+    link: //dailypress.com/business/tidewater/dp-may-13-revolutionconf-showcases-software-community-in-hampton-roads-20160513-story.html
+    notes: >-
+      I wrote a blog post talking about the growing tech scene within the 757
+      area which is where I’m from. The Daily Press got hold of it and it was featured within an article
+      talking about RevolutionConf.
+  - award: Top Undergraduate Departmental Award
+    issuer: Hampton University
+    month: 'May'
+    year: 2016
+    link: //facebook.com/CSHamptonU/photos/a.1125124277538340.1073741838.797634530287318/1125124377538330/?type=3&theater
+    notes: >-
+      graduated with highest GPA in the Computer Science department at Hampton
+      University
+  - award: STEM Bridge Scholarship
+    issuer: Virginia Space Grant Consortium
+    month: 'April'
+    year: 2016
+    link: '//vsgc.odu.edu/awardees/20152016/'
+    notes: >-
+      $1,000 renewable scholarship for being a high-achieving minority student
+      studying STEM
+  - award: Featured Fullstack Academy Alumnus
+    issuer: Course Report
+    month: 'March'
+    year: 2016
+    link: //coursereport.com/schools/fullstack-academy#/news/alumni-spotlight-frances-coronel-of-fullstack-summer-of-code
+    notes: >-
+      I was featured as an alumnus of Fullstack Academy on Course Report, the
+      premier site for finding a coding bootcamp.
+  - award: Best Use of Dropbox API & Best Social Impact Prize
+    issuer: TreeHacks
+    month: 'February'
+    year: 2016
+    link: '//devpost.com/software/ammalia'
+    notes: >-
+      Ammalia, which means surgery in Arabic, is a Leap Motion assisted app that
+      allows a surgeon to analyze pictures of their patient’s problem (i.e.
+      brain tumors) using the Dropbox API.
+
+      Our team, Big Hero 4, won the following prizes at TreeHacks 2016
+
+      Best Social Impact Prize - Sponsored by GoodHacks
+
+      Lunch with Stanford President Hennessey + $400 to a charity of your choice
+
+      Coaching with Shannon Farley & Tour of Fast Forward + $400 to a charity of
+      your choice
+
+      Best Use of Dropbox API - Sponsored by Dropbox
+
+      100GB of free Dropbox storage for each member
+  - award: Diversity Scholarship
+    issuer: O'Reilly
+    month: 'January'
+    year: 2016
+    link: '//oreilly.com/conferences/diversity-application.csp'
+    notes: >-
+      Used for FluentConf.Conference pass that includes workshops/tutorials, plus the video
+      compilation (Gold Pass or equivalent); training courses are not included
+      in the scholarship
+
+      $599 (USD) prepaid gift card to help offset the costs related to attending
+      the conference such as travel, lodging, food, and child care; gift card
+      will be awarded to recipient onsite at the conference
+  - award: Diversity Scholarship Recipient
+    issuer: React.js Conf
+    month: 'December'
+    year: 2015
+    link: //facebook.github.io/react/blog/2015/12/04/react-js-conf-2016-diversity-scholarship.html
+    notes: >-
+      One of 40 applicants selected.
+
+      Paid registration fee for the React.js Conf Feburary 22 & 23 in downtown
+      San Francisco, CAPaid lodging expenses for February 21, 22, 23
+  - award: Out of State Applicant Scholarship
+    issuer: TreeHacks
+    month: 'December'
+    year: 2015
+    link: //medium.com/@hackwithtrees/treehacks-admissions-our-goals-and-process-b204a198d4a6
+    notes: >-
+      1 of 150 hackers from out of state from over two thousand applicants, so
+      basically a ~7.5% acceptance rate
+  - award: >-
+      Most Viewed Writer - Fullstack Academy, General Assembly, MakerSquare, App
+      Academy
+    issuer: Quora
+    month: 'October'
+    year: 2015
+    link: '//quora.com/profile/Frances-Coronel-1/highlights'
+    notes: >-
+      Showcased as a most viewed writer and up and coming writer for several
+      topics mostly related to coding bootcamps. Most Viewed Writers are the 10
+      writers with the most answer views in a topic in the last 30 days. These
+      rankings are from any point I received that highlight on Quora.
+  - award: >-
+      Up & Coming Writer - Programming Bootcamps, Hack Reactor, Dev Bootcamp,
+      Flatiron School
+    issuer: Quora
+    month: 'October'
+    year: 2015
+    link: '//quora.com/profile/Frances-Coronel-1/highlights'
+    notes: >-
+      Showcased as a most viewed writer and up and coming writer for several
+      topics mostly related to coding bootcamps. Most Viewed Writers are the 10
+      writers with the most answer views in a topic in the last 30 days. These
+      rankings are from any point I received that highlight on Quora.
+  - award: Google Scholarship Recipient
+    issuer: TAPIA Conference
+    month: 'August'
+    year: 2015
+    link: '//tapiaconference.org/'
+    notes: >-
+      Scholarship includes conference registration, shared hotel with another
+      scholarship recipient and $500 travel award.
+  - award: '10,000 Small Businesses Student Challenge Winner'
+    issuer: Goldman Sachs
+    month: 'May'
+    year: 2015
+    link: //goldmansachs.com/careers/students-and-graduates/our-programs/americas-programs/student-challenge.html
+    notes: >-
+      Invited to come up with an innovative solution to one of three business
+      challenges
+
+      1 of 9 finalists from 80+ applicants
+
+      winner for BrooklynCupcake company challenge out of 3 competitors
+
+      awarded a first-round interview with Goldman Sachs, a spot in a
+      Cornerstone event, and a $5,000 scholarship
+  - award: Featured Blog on Course Report - "6 Must-Read Blogs"
+    issuer: Course Report
+    month: 'May'
+    year: 2015
+    link: '//coursereport.com/blog/6-must-read-bootcamp-blogs'
+    notes: >
+      My blog was featured as one of the 6 Must-Read Bootcamp Blogs on Course
+      Report, the premier site for finding a coding bootcamp.
+  - award: STEM Bridge Scholarship
+    issuer: Virginia Space Grant Consortium
+    month: 'April'
+    year: 2015
+    link: '//vsgc.odu.edu/awardees/20142015/'
+    notes: >-
+      $1,000 renewable scholarship for being a high-achieving minority student
+      studying STEM
+  - award: Featured Blog Post on DevLeague Blog
+    issuer: DevLeague
+    month: 'January'
+    year: 2015
+    link: //facebook.com/permalink.php?story_fbid=702971763154795&id=419352214850086
+    notes: >-
+      When I was in the process of applying to a ton of coding bootcamps, I came
+      across DevLeague.
+
+      They were kind enough to feature my blog post on my interview experience
+      with them on their own website through their blog. I thought they were
+      some of the nicest people I came across when the coding bootcamp interview
+      process and definitely appreciate how they’re the only coding bootcamp in
+      Hawaii.
+  - award: Student Scholar Program Awardee
+    issuer: AAAI
+    month: 'January'
+    year: 2015
+    link: '//www.aaai.org/Conferences/AAAI/2016/aaai16scholarship.php'
+    notes: >-
+      AAAI is pleased to announce the continuation of its Student Scholarship
+      Program for 2016, which is sponsored by the AI Journal. The Student
+      Scholar Program provides partial travel support for students who are
+      full-time undergraduate or graduate students at colleges and universities;
+      are members of AAAI; submit papers to the conference program or letters of
+      recommendation from their faculty advisor; and submit scholarship
+      applications to AAAI by November 30, 2015. In addition, repeat scholarship
+      applicants must have fulfilled the volunteer and reporting requirements
+      for previous awards. In the event that scholarship applications exceed
+      available funds, preference will be given to students who have an accepted
+      technical paper, and then to students who are actively participating in
+      the conference in some way. However, all eligible students are encouraged
+      to apply. After the conference, an expense report will be required to
+      account for the funds awarded.
+
+      The Student Volunteer Program is an essential part of the conference and
+      student participation is a valuable contribution. Volunteers will support
+      AAAI organizers in Phoenix, Arizona. In 2016, a limited number of
+      complimentary technical program registrations will be available for
+      students who volunteer during the conference. Preference will be given to
+      participating students for the volunteer positions. Local students or
+      students not requiring travel assistance can apply for the Volunteer
+      Program if openings are available. AAAI membership is required for
+      eligibility. The deadline for volunteer applications is November 30, 2015.
+  - award: Membership - Golden Key International Honour Society
+    issuer: Golden Key International Honour Society
+    month: 'May'
+    year: 2014
+    link: '//goldenkey.org/'
+    notes: Recognized as being in the top 15% of my class.
+  - award: Featured Poem on Pulse of the World
+    issuer: Jacobs University Bremen
+    month: 'October'
+    year: 2013
+    link: '//scribd.com/document/174387876/POTW-Issue-30'
+    notes: >-
+      My poem was featured on Jacob University’s student-run newspaper “POTW”
+      (Issue 11) while I was a student there.
+  - award: Merit-Based Scholarship
+    issuer: Jacobs University Bremen
+    month: 'August'
+    year: 2013
+    link: //jacobs-university.de/study/undergraduate/fees-finances/scholarships
+    notes: merit-based annual scholarship of $10K
+  - award: AP Scholar Award
+    issuer: The College Board
+    month: 'July'
+    year: 2013
+    link: '//apscore.collegeboard.org/scores/ap-awards/ap-scholar-awards//'
+    notes: |
+      qualified by receiving a score of 3 or higher on 3 or more AP Exams
+  - award: Governor's Certificate of Recognition - Early College Scholars Program
+    issuer: Commonwealth of Virginia
+    month: 'June'
+    year: 2013
+    link: '//www.doe.virginia.gov/instruction/graduation/early_college_scholars/'
+    notes: >-
+      Completed rigorous requirements of completing numerous college courses
+      before graduating high school.
+
+      Have a 'B' average or better;
+
+      Be pursuing an Advanced Studies Diploma; and
+
+      Take and complete college-level course work (i.e., Advanced Placement,
+      International Baccalaureate, Cambridge, or dual enrollment) that will earn
+      at least 15 transferable college credits.
+  - award: Innovation Honor Award
+    issuer: The American High School Innovation Foundation
+    month: 'June'
+    year: 2013
+    link: '//scribd.com/document/335000991/innovation-award'
+    notes: >-
+      identified as a creative student working to make the world a new and
+      better place
+  - award: President's Scholarship
+    issuer: Hawaii Pacific University
+    month: 'June'
+    year: 2013
+    link: '//www.hpu.edu/financialaid/Scholarships/'
+    notes: merit-based annual scholarship of $10K
+  - award: Featured as OP Smile Co-President in School Newspaper
+    issuer: Maury High School
+    month: 'May'
+    year: 2013
+    link: //scribd.com/document/335001007/Certificates-Before-2016?secret_password=a3881gjwMFqwERYl97m7#page=18
+    notes: >-
+      Brief article was written about me in the school newspaper when I was a
+      senior in high school. I got a full half page!
+  - award: Certificate of Completion - Digital Content Design for Game Development
+    issuer: 'Old Dominion University,"Virginia Modeling, Analysis & Simulation Center"'
+    month: 'August'
+    year: 2012
+    link: '//odu.edu/vmasc/summer-camps#tab170=2'
+    notes: |-
+      ODU/VMASC Digital Content Design for Game Development Camp
+
+      Learned 3D Modeling with Maya
+  - award: AP Scholar Award
+    issuer: The College Board
+    month: 'July'
+    year: 2012
+    link: '//apscore.collegeboard.org/scores/ap-awards/ap-scholar-awards//'
+    notes: |
+      qualified by receiving a score of 3 or higher on 3 or more AP Exams
+  - award: Certificate of Achievement - Spanish
+    issuer: Maury High School
+    month: 'June'
+    year: 2012
+    notes: Granted for having a top grade in my Spanish classes.
+  - award: Certificate of Appreciation - International Surgical Mission to Vietnam
+    issuer: Operation Smile
+    month: 'June'
+    year: 2012
+    link: '//www.operationsmile.org/act-now/student-youth'
+    notes: >-
+      In grateul appreciation for outsatanding and unselfish contributions to
+      the children of Vietnam.
+
+      Nghe An - Vietnam - June 8th to 17th 2012
+  - award: 3rd Place - Grade 11 - NPL Book Review Contest
+    issuer: Norfolk Public Library
+    month: 'May'
+    year: 2012
+    link: '//scribd.com/document/174387876/POTW-Issue-30'
+    notes: >-
+      My book review of Stardust won third place for the Grade 11 category of
+      the 2012 Friends of the Norfolk Public Library (NPL) Book Review Contest.
+
+      Sponsored by Friends of the Norfolk Public Library.
+  - award: Academic High Honors
+    issuer: Maury High School
+    month: 'May'
+    year: 2012
+    notes: Recognized for having a top GPA in my class.
+  - award: First Place Sophomore Winner - Community Care Day Poster Contest
+    issuer: 'Maury High School,Eastern Virginia Medical School'
+    month: 'April'
+    year: 2011
+    notes: >-
+      Poster done on cocacine as part of Medical & Health Specialties Program at
+      Maury High School
+  - award: >-
+      Summer Residential Governor's School for Mathematics, Science, and
+      Technology at Lynchburg College
+    issuer: Commonwealth of Virginia
+    month: 'April'
+    year: 2011
+    link: //doe.virginia.gov/instruction/governors_school_programs/summer_residential/
+    notes: >-
+      Summer Residential Governor’s Schools provide gifted high school juniors
+      and seniors with intensive educational experiences in visual and
+      performing arts; humanities; mathematics, science, and technology; or
+      through mentorships in marine science, medicine and health sciences, or
+      engineering.
+  - award: SuperTeen
+    issuer: NextStepU
+    month: 'April'
+    year: 2011
+    link: '//scribd.com/document/306948896/NextStepU-Super-Teens-'
+    year: 2012
+    notes: >-
+      These extraordinary teens stood out from hundreds of applicants by tak-ing
+      on leadership roles, overcoming adversity or demonstrating dedication and
+      perseverance.
+  - award: Community Service Hours
+    issuer: Maury High School
+    month: 'June'
+    year: 2010
+    notes: '177 hours, 2009 to 2010'
+  - award: Membership - The National Society of High School Scholars
+    issuer: Maury High School
+    month: 'June'
+    year: 2010
+  - award: Academic High Honors
+    issuer: Maury High School
+    month: 'May'
+    year: 2010
+    notes: Recognized for having a top GPA in my class.
+  - award: >-
+      Microsoft Office Specialist Official Certification - Microsoft Office Word
+      2003
+    issuer: Microsoft
+    month: 'May'
+    year: 2010
+    notes: |
+      Officially certified as a Microsoft Office specialist
+  - award: Spanish Honor Society
+    issuer: Maury High School
+    month: 'March'
+    year: 2010
+  - award: Honorable Mention - Legal - Democratic Republic of Congo
+    issuer: Model United Nations Society
+    month: 'February'
+    year: 2010
+    notes: |-
+      ODUMUN High School Conference February 10th-13th, 2010
+      XXXII High School Conference
+  - award: FBLA Stock Market Challenge Participant
+    issuer: Maury High School
+    month: 'December'
+    year: 2009
+    notes: Team Won 8th Place
+  - award: Honor Roll
+    issuer: Maury High School
+    month: 'December'
+    year: 2009
+    notes: Recognized for having a top GPA in my class.
+  - award: Perfect Attendance
+    issuer: Maury High School
+    month: 'December'
+    year: 2009
+    notes: Didn't miss a day of class!
+  - award: A Honor Roll
+    issuer: Ghent School
+    month: 'June'
+    year: 2009
+    notes: '4th Nine Weeks, 2008 to 2009'
+  - award: President's Award for Educational Excellence
+    issuer: Ghent School
+    month: 'June'
+    year: 2009
+    notes: Outstanding Academic Excellence
+  - award: >-
+      Certificate of Recognition - Distinguished Achievement in WordMasters
+      Challenge
+    issuer: Ghent School
+    month: 'May'
+    year: 2009
+  - award: Medical and Health Specialty Progam Acceptance
+    issuer: Maury High School
+    month: 'May'
+    year: 2009
+  - award: Pre-IB Program Acceptance
+    issuer: Granby High School
+    month: 'May'
+    year: 2009
+  - award: Who's Who Registry for Academic Excellence - Middle School Edition
+    issuer: Who's Who Registry of Academic Excellence
+    month: 'May'
+    year: 2009
+  - award: Certificate of Completion for Medical Explorers Program
+    issuer: Eastern Virginia Medical School
+    month: 'April'
+    year: 2009
+    notes: September 2008 to April 2009
+  - award: CTYOnline Courses in Math and Science
+    issuer: John Hopkins Center of Talented Youth
+    month: 'April'
+    year: 2009
+  - award: Certificate of Achievement for PreSAT Program
+    issuer: Norfolk Public Schools
+    month: 'January'
+    year: 2009
+  - award: A-B Honor Roll
+    issuer: Ghent School
+    month: 'October'
+    year: 2008
+    notes: '1st Nine Weeks, 2008 to 2009'
+  - award: B Honor Roll
+    issuer: Ghent School
+    month: 'April'
+    year: 2008
+    notes: '3rd Nine Weeks, 2007 to 2008'
+  - award: B Honor Roll
+    issuer: Ghent School
+    month: 'December'
+    year: 2007
+    notes: '2nd Nine Weeks, 2007 to 2008'
+  - award: B Honor Roll
+    issuer: Ghent School
+    month: 'October'
+    year: 2007
+    notes: '1st Nine Weeks, 2007 to 2008'
+  - award: A Honor Roll
+    issuer: Ghent School
+    month: 'April'
+    year: 2007
+    notes: '3rd Quarter, 2006 to 2007'
+  - award: A Honor Roll
+    issuer: Ghent School
+    month: 'December'
+    year: 2006
+    notes: |
+      2nd Quarter, 2006 to 2007
+  - award: Perfect Attendance
+    issuer: Ghent School
+    month: 'April'
+    year: 2006
+    notes: |
+      3rd Quarter, 2005 to 2006
+  - award: WordMasters Challenge Award
+    issuer: Ghent School
+    month: 'December'
+    year: 2005
+    notes: >-
+      WordMasters Challenge helps improve vocabulary skills for students in
+      grades 3-8.
+  - award: B Honor Roll
+    issuer: Ghent School
+    month: 'December'
+    year: 2004
+    notes: '2nd Nine Weeks, 2004 to 2005'
+  - award: Accelerated Reading
+    issuer: Ghent School
+    month: 'March'
+    year: 2003
+    notes: 100 Points Earned
+  - award: Accelerated Reading
+    issuer: Ghent School
+    month: 'March'
+    year: 2003
+    notes: 50 Points Earned
+  - award: Accelerated Reading
+    issuer: Ghent School
+    month: 'March'
+    year: 2003
+    notes: 125 Points Earned
+  - award: Accelerated Reading
+    issuer: Ghent School
+    month: 'March'
+    year: 2003
+    notes: 75 Points Earned
+  - award: Accelerated Reading
+    issuer: Ghent School
+    month: 'March'
+    year: 2003
+    notes: 25 Points Earned
+  - award: Accelerated Reading
+    issuer: Ghent School
+    month: 'March'
+    year: 2003
+    notes: 5 Points Earned
+  - award: Accelerated Reading
+    issuer: Ghent School
+    month: 'March'
+    year: 2003
+    notes: 150 Points Earned

@@ -12,7 +12,6 @@ noComments: true
 > This has an overview of everything software related that I use.
 
 <blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/dotfiles">fvcproductions/dotfiles</a></h4><p>dotfiles - My custom start script for new laptops 💻</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/fvcproductions/status/927052673781719040">Frances Coronel on Twitter</a></h4><p>If you're in need of some cool dotfiles inspired by @google @materialdesign, I've published mine on @github🎨🎉🖌️ https://t.co/zpye8PLuNl</p></blockquote>
 
@@ -29,3 +28,5 @@ I won a pair of [Bose headphones](//bose.com/en_us/products/headphones.html) at 
 I decided to switch from an iPhone 6 to a [Google Pixel 2](//store.google.com/product/pixel_2) recently. So far, I'm very very satisfied with the transition.
 
 [![Google Pixel 2](https://media.wired.com/photos/59d4290d60c1a86fbf83ea5e/master/w_2400,c_limit/Taim_2GRP_BF_oreo-TA.jpg)](https://store.google.com/product/pixel_2)
+
+<script defer src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

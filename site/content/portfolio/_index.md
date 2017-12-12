@@ -1,7 +1,7 @@
 ---
 title: Portfolio 💼️
 description: My work across the interwebs.
-banner: https://fvcproductions.files.wordpress.com/2014/12/network_image_robert_ghrist_pl_card.jpg
+banner: https://i.imgur.com/DZnLjQQ.png
 isotope: true
 portfolio: true
 ---

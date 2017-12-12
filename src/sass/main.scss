@@ -14,9 +14,12 @@
 @import "components/table";
 @import "components/button";
 @import "components/tiles";
+// Vendor
+@import "vendor/font-awesome";
 // Layout
 @import "layout/menu";
 @import "layout/header";
 @import "layout/wrapper";
 @import "layout/main";
 @import "layout/footer";
+@import "layout/print";

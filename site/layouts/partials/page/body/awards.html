@@ -1,0 +1,24 @@
+<section class="section tiles awards">
+  {{ range $.Site.Data.awards.data }}
+  <article>
+    {{ if .image }}
+    <span class="award-image" style="background-image:url({{ .image }});"></span>
+    {{ end }}
+    <!-- Header -->
+    <h6>
+      <b>
+        <!-- Link -->
+        {{ if .link }}
+        <a href="{{ .link }}">{{ .award }}</a>
+        <!-- No Link -->
+        {{ else }} {{ .award }} {{ end }}
+      </b>
+    </h6>
+    <!-- Month/Year - Issuer -->
+    <blockquote>{{ .month }} {{ .year }} - {{ .issuer }}</blockquote>
+    <!-- Description -->
+    {{ .notes }}
+  </article>
+
+  {{ end }}
+</section>

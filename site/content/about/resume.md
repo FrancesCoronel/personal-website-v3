@@ -1,7 +1,7 @@
 ---
 title: "Resume 📄️"
 description: "One page that tries its best to summarize me both academically and professionally. Hah."
-banner: https://images.pexels.com/photos/270238/pexels-photo-270238.png?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb
+banner: https://i.imgur.com/vEg8KOi.jpg
 noComments: true
 ---
 

@@ -185,7 +185,8 @@ blockquote {
   }
 }
 
-.contact-section {
+.contact-section,
+.sharing-section {
   ul.icons {
     margin: 0;
     li {
@@ -394,8 +395,19 @@ table tbody tr:nth-child(odd) {
   background-color: #f0f3f3;
 }
 
-iframe.airtable-embed {
-  min-height: 100em;
+.award-image {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+  background-attachment: scroll;
+  min-height: 15em;
+  display: block;
+  width: 100%;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+blockquote {
+  margin: 1em;
 }
 
 .page-body {
@@ -439,6 +451,37 @@ archive-date {
   opacity: 0.5;
 }
 
+.section.tiles.awards article {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  margin: 1em;
+  padding: 2em;
+  a {
+    color: #283136;
+    :hover {
+      color: #607d8b;
+    }
+  }
+}
+
 span.image.main img {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+#return-to-top {
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s linear;
+  bottom: 1em;
+  color: #283136;
+  display: none;
+  font-size: 1.5em;
+  position: fixed;
+  right: 1em;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  z-index: 5000;
+  &:hover {
+    color: #607d8b;
+  }
 }

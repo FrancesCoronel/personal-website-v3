@@ -1,6 +1,11 @@
 <ul class="icons">
-  <!-- Social Share Button HTML -->
-  <!-- Twitter -->
+  <!-- Facebook -->
+  <li>
+    <a href="//www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" class="icon style2">
+      <i title="Facebook" class="fab fa-facebook"></i>
+      <span class="label">Facebook</span>
+    </a>
+  </li>  <!-- Twitter -->
   <li>
     <a href="//twitter.com/intent/tweet?url={{ .Permalink }}&via={{ .Site.Social.twitter }}&text={{ .Page.Title }}" target="_blank"
       class="icon style2">
@@ -13,13 +18,6 @@
     <a href="//plus.google.com/share?url={{ .Permalink }}" target="_blank" class="icon style2">
       <i title="Google Plus" class="fab fa-google-plus-g"></i>
       <span class="label">Google+</span>
-    </a>
-  </li>
-  <!-- Facebook -->
-  <li>
-    <a href="//www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" class="icon style2">
-      <i title="Facebook" class="fab fa-facebook"></i>
-      <span class="label">Facebook</span>
     </a>
   </li>
   <!-- Reddit (url, title) -->
@@ -46,8 +44,15 @@
   <!-- Email -->
   <li>
     <a href="mailto:?subject=Check out this work by {{ .Params.author }}&body={{ .Permalink }}" target="_blank" class="icon style2">
-      <i title="Email" class="far fa-envelope"></i>
+      <i title="Email" class="fas fa-envelope"></i>
       <span class="label">Email</span>
     </a>
   </li>
+    <!-- Email -->
+    <li>
+      <a href="javascript:window.print()" target="_blank" class="icon style2">
+        <i title="Print" class="fas fa-print"></i>
+        <span class="label">Print</span>
+      </a>
+    </li>
 </ul>

@@ -1,36 +1,36 @@
 // Skel Breakpoints
-@include skel-breakpoints( ( xxxxlarge: '(min-width: 4000px)', xxxlarge: '(min-width: 3000px)', xxlarge: '(min-width: 2000px)', xlarge: '(max-width: 1680px)', large: '(max-width: 1280px)', medium: '(max-width: 980px)', small: '(max-width: 736px)', xsmall: '(max-width: 480px)', xxsmall: '(max-width: 360px)'));
+@include skel-breakpoints( ( xxxxlarge: "(min-width: 4000px)", xxxlarge: "(min-width: 3000px)", xxlarge: "(min-width: 2000px)", xlarge: "(max-width: 1680px)", large: "(max-width: 1280px)", medium: "(max-width: 980px)", small: "(max-width: 736px)", xsmall: "(max-width: 480px)", xxsmall: "(max-width: 360px)"));
 // Skel Layout
-@include skel-layout( ( reset: 'full', boxModel: 'border', grid: ( gutters: 2em), breakpoints: ( medium: ( grid: ( gutters: 1.5em)), small: ( grid: ( gutters: 1em)))));
+@include skel-layout( ( reset: "full", boxModel: "border", grid: ( gutters: 2em), breakpoints: ( medium: ( grid: ( gutters: 1.5em)), small: ( grid: ( gutters: 1em)))));
 // MSIE: Required for IEMobile.
 @-ms-viewport {
-    width: device-width;
+  width: device-width;
 }
 
 // MSIE: Prevents scrollbar from overlapping content.
 body {
-    -ms-overflow-style: scrollbar;
+  -ms-overflow-style: scrollbar;
 }
 
 // Ensures page width is always >=320px.
 @include breakpoint(xsmall) {
-    html,
-    body {
-        min-width: 320px;
-    }
+  html,
+  body {
+    min-width: 320px;
+  }
 }
 
 // Body
 body {
-    background: _palette(bg);
-    // Prevents animation/transition "flicker" on page load.
-    // Automatically added/removed by js/main.js.
-    &.is-loading {
-        *,
-        *:before,
-        *:after {
-            @include vendor('animation', 'none !important');
-            @include vendor('transition', 'none !important');
-        }
+  background: _palette(bg);
+  // Prevents animation/transition "flicker" on page load.
+  // Automatically added/removed by js/main.js.
+  &.is-loading {
+    *,
+    *:before,
+    *:after {
+      @include vendor("animation", "none !important");
+      @include vendor("transition", "none !important");
     }
+  }
 }
