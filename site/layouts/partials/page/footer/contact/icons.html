@@ -129,6 +129,16 @@
     </li>
     {{ end }}
 
+    <!-- Goodreads -->
+    {{ with .Site.Social.goodreads }}
+    <li>
+      <a href="//goodreads.com/{{ . }}" class="icon style2" target="_blank" rel="nofollow">
+        <i title="Goodreads" class="fas fa-book"></i>
+        <span class="label">Goodreads</span>
+      </a>
+    </li>
+    {{ end }}
+
     <!-- Google Plus -->
     {{ with .Site.Social.googleplus }}
     <li>

@@ -395,7 +395,7 @@ table tbody tr:nth-child(odd) {
   background-color: #f0f3f3;
 }
 
-.award-image {
+.plain-tile-image {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50%;
@@ -451,7 +451,8 @@ archive-date {
   opacity: 0.5;
 }
 
-.section.tiles.awards article {
+.section.tiles.plain article,
+.section.tiles.isotope.blog.plain article {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
   margin: 1em;
   padding: 2em;
@@ -462,6 +463,28 @@ archive-date {
     }
   }
 }
+
+.contact-section.social-icons {
+  font-size: 1.25em;
+}
+
+// .section.tiles.plain {
+//   margin: 1em;
+//   article {
+//     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+//     margin: 0;
+//     padding: 0;
+//     a {
+//       color: #283136;
+//       :hover {
+//         color: #607d8b;
+//       }
+//     }
+//     .content {
+//       padding: 1em;
+//     }
+//   }
+// }
 
 span.image.main img {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);

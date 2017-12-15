@@ -7,4 +7,6 @@ blog: true
 isotope: true
 ---
 
-### Below are a few sites where I regularly publish content.
+### Below are a few sites where I've published my words.
+
+> I created the banners myself. 😉

@@ -1,6 +1,3 @@
-// Isotope
-// var $ = require("jquery");
-
 var imagesLoaded = require("imagesloaded");
 var Isotope = require("isotope-layout");
 var jQueryBridget = require("jquery-bridget");

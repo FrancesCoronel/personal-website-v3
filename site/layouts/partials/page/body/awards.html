@@ -1,8 +1,8 @@
-<section class="section tiles awards">
+<section class="section tiles plain">
   {{ range $.Site.Data.awards.data }}
   <article>
     {{ if .image }}
-    <span class="award-image" style="background-image:url({{ .image }});"></span>
+    <span class="plain-tile-image" style="background-image:url({{ .image }});"></span>
     {{ end }}
     <!-- Header -->
     <h6>

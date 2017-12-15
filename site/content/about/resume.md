@@ -5,7 +5,7 @@ banner: https://i.imgur.com/vEg8KOi.jpg
 noComments: true
 ---
 
-## For a live version of my resume, please refer to <a href="//linkedin.com/in/fvcproductions" target="_blank" rel="noopener">my LinkedIn profile</a>.
+## For a live version of my resume, please refer to [my LinkedIn profile](//linkedin.com/in/fvcproductions).
 
 > And feel free to connect with me on there as well! 👥️
 

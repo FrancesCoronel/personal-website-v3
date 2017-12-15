@@ -6,8 +6,19 @@
   "editor.formatOnSave": true,
   "editor.wordWrap": "on",
   "prettier.eslintIntegration": true,
-  "cSpell.words": ["Codelabs", "Cproductions", "Customizations", "ISLC", "PWAs", "Roboto", "Udacity", "lightgallery", "markdownlint", "schooler", "scrollbar"],
-  "eslint.enable": true,
-  "workbench.editor.enablePreview": false,
-  "markdown.extension.preview.autoShowPreviewToSide": false
+  "cSpell.words": [
+    "Codelabs",
+    "Cproductions",
+    "Customizations",
+    "ISLC",
+    "PWAs",
+    "Roboto",
+    "Udacity",
+    "lightgallery",
+    "markdownlint",
+    "schooler",
+    "scrollbar",
+    "twemoji"
+  ],
+  "eslint.enable": true
 }

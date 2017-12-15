@@ -1,4 +1,3 @@
-// One Signal
 var OneSignal = window.OneSignal || [];
 
 OneSignal.push([
@@ -42,14 +41,12 @@ OneSignal.push([
         "message.prenotify": "Click to subscribe to notifications 🍓️",
         "message.action.subscribed": "Thanks for subscribing! 😊",
         "message.action.resubscribed": "You're subscribed to notifications 🎉",
-        "message.action.unsubscribed":
-          "You won't receive notifications again 😳",
+        "message.action.unsubscribed": "You won't receive notifications again 😳",
         "dialog.main.title": "Manage Site Notifications ⚙️",
         "dialog.main.button.subscribe": "SUBSCRIBE",
         "dialog.main.button.unsubscribe": "UNSUBSCRIBE",
         "dialog.blocked.title": "Unblock Notifications",
-        "dialog.blocked.message":
-          "Follow these instructions to allow notifications:"
+        "dialog.blocked.message": "Follow these instructions to allow notifications:"
       }
     }
   }

@@ -14,8 +14,7 @@
   "author": "Frances Coronel",
   "license": "MIT",
   "dependencies": {
-    "autoprefixer": "^7.2.2",
-    "babel": "^6.23.0",
+    "autoprefixer": "^7.2.3",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
     "babel-eslint": "^6.1.2",
@@ -67,7 +66,7 @@
     "node-sass": "^4.7.2",
     "popper.js": "^1.13.0",
     "sass-loader": "^6.0.6",
-    "style-loader": "^0.19.0",
+    "style-loader": "^0.19.1",
     "twemoji": "^2.5.0",
     "typeface-roboto": "0.0.45",
     "typeface-roboto-mono": "0.0.44",

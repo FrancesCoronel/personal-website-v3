@@ -1,3 +1,4 @@
+// jQuery
 jQuery = require("jquery");
 $ = require("jquery");
 
