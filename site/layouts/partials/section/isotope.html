@@ -9,11 +9,11 @@
       <!-- No Isotope Results -->
       <h2 id="loading">It's loading - give it a sec! ⏳</h2>
       <!-- Tiles -->
-      <section class="section tiles isotope-grid plain">
+      <section class="section tiles isotope-grid">
         <!-- Adventures -->
         {{ if .Params.adventures }} {{ $isopages := .Pages | union (.Sections) }} {{ range $isopages.ByDate.Reverse }} {{ partial "page/body/tile.html" . }} {{ end }} {{ end }}
         <!-- Blogging -->
-        {{ if .Params.blog }} {{ $isopages := ($.Site.Taxonomies.categories.blog).Pages }} {{ range $isopages.ByDate.Reverse }} {{ partial "page/body/plain-tile.html" . }} {{ end }} {{ end }}
+        {{ if .Params.blog }} {{ $isopages := ($.Site.Taxonomies.categories.blog).Pages }} {{ range $isopages.ByDate.Reverse }} {{ partial "page/body/tile.html" . }} {{ end }} {{ end }}
         <!-- Speaking -->
         {{ if .Params.speaking }} {{ $isopages := ($.Site.Taxonomies.categories.speaking).Pages }} {{ range $isopages.ByDate.Reverse }} {{ partial "page/body/tile.html" . }} {{ end }} {{ end }}
         <!-- Portfolio -->

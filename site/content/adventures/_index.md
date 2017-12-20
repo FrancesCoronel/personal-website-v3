@@ -5,4 +5,5 @@ banner: https://i.imgur.com/3k5oRoh.jpg
 caption: Ngorongoro Conservation Area, Tanzania - Summer 2012
 isotope: true
 adventures: true
+noComments: true
 ---

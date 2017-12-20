@@ -7,7 +7,7 @@
     {{ if not .PublishDate.IsZero }}
     <p>{{ .Date.Format "January 2006" }}</p>
     {{ end }}
-  <!-- Title -->
+    <!-- Title -->
     {{ if .Params.link }}
     <a href="{{ .Params.link }}">
       <h2>{{ .Title }} {{ if .Params.link }}↗️{{ end }}
