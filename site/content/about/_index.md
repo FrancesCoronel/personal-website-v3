@@ -1,9 +1,9 @@
 ---
 title: About 👀️
 description: Yep, that's me!
-alphabetical: true
 banner: https://i.imgur.com/gbb1Ewe.jpg
 caption: Ha Long Bay in Vietnam - Summer 2012
+alphabetical: true
 ---
 
 <h2>I like to dabble with things that <del>shouldn’t</del> ought to be dabbled with.</h2>

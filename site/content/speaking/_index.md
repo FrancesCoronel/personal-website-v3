@@ -1,11 +1,12 @@
 ---
 title: Speaking 💬️
 description: What I've spoken about at conferences, Meetups, hackathons, etc.
+# TODO: Change banner link
+banner: https://fvcproductions.files.wordpress.com/2015/11/12219321_941445252602315_1897049180671471124_n.jpg
 noComments: true
 speaking: true
 alphabetical: true
 isotope: true
-banner: https://fvcproductions.files.wordpress.com/2015/11/12219321_941445252602315_1897049180671471124_n.jpg
 ---
 
 ## I've given talks on a variety of topics.

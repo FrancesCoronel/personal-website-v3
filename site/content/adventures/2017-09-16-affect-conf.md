@@ -1,17 +1,8 @@
 ---
 title: Affect Conf
-description: Affect is a 2-day conference examining the work, culture, and design of social change.
 date: 2017-09-16
-banner: //i.imgur.com/TxMdO3z.jpg
-gallery:
-    - alt: "Eliot Center"
-      url: //i.imgur.com/4Nj0CQT.jpg
-    - alt: "Downtown Portland"
-      url: //i.imgur.com/TZevtW5.jpg
-    - alt: "Taken by Morgen!"
-      url: //i.imgur.com/TxMdO3z.jpg
-    - alt: "Amazing talk by Kaya!"
-      url: //i.imgur.com/vsrNWFo.jpg
+description: Affect is a 2-day conference examining the work, culture, and design of social change.
+banner: https://i.imgur.com/TxMdO3z.jpg
 categories:
     - conference
     - volunteering
@@ -47,4 +38,10 @@ My favorite talks were:
 * **We Read Too Creating A Central Resource For Books By POC** by [Kaya Thomas](//twitter.com/kthomas901)
 * **Voting Machines And A Road To Accidental Activism** by and [Emily Gorcenski](//twitter.com/EmilyGorcenski)
 
-{% include gallery %}
+![Eliot Center](https://i.imgur.com/4Nj0CQT.jpg)
+
+![Downtown Portland](https://i.imgur.com/TZevtW5.jpg)
+
+![Taken by Morgen!](https://i.imgur.com/TxMdO3z.jpg)
+
+![Amazing talk by Kaya!](https://i.imgur.com/vsrNWFo.jpg)

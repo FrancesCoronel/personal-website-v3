@@ -1,6 +1,6 @@
 ---
 title: Medium
-description: My profile on Medium. No blog posts here.
-link: "//medium.com/@fvcproductions"
+description: My profile on Medium. My blog remains here.
 banner: https://i.imgur.com/TMRgTBo.png
+link: //medium.com/@fvcproductions
 ---

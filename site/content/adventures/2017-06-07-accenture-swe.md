@@ -1,20 +1,15 @@
 ---
 title: Accenture Liquid Studio
-description: Software Engineer
 date: 2017-06-07
-banner: //i.imgur.com/2VW391R.jpg
-gallery:
-  - url: //i.imgur.com/2VW391R.jpg
-    alt: "People Profile"
-  - url: //i.imgur.com/l3pUvUR.png
-    alt: "Internal Liquid Studio Website"
+description: Software Engineer
+banner: https://i.imgur.com/2VW391R.jpg
 categories:
     - experience
 ---
 
 ## Employer
 
-![Accenture Liquid Studio - Silicon Valley](//i.imgur.com/xgLGmTV.jpg)
+![Accenture Liquid Studio - Silicon Valley](https://i.imgur.com/xgLGmTV.jpg)
 
 <a title="Accenture Liquid Studio" href="//accenture.com/us-en/capability-rapid-application-development-studio" target="_blank" rel="noopener">Accenture Liquid Studio</a>
 
@@ -54,4 +49,6 @@ Outside of client work, I've also been involved in the following
 * Featured in Accenture's internal site for the Liquid Studio
 * Created Liquid Studio wiki from scratch
 
-{% include gallery %}
+![People Profile](https://i.imgur.com/2VW391R.jpg)
+
+![Internal Liquid Studio Website](https://i.imgur.com/l3pUvUR.png)

@@ -1,23 +1,8 @@
 ---
 title: West AAERG/HAERG Leadership Summit
-description: Accenture's annual leadership summit for African American and Hispanic American employees.
 date: 2017-07-21
-banner: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-5.jpeg
-gallery:
-    - alt: West Leadership Summit
-      url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-7.jpg
-    - alt: West Leadership Summit
-      url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-6.jpeg
-    - alt: West Leadership Summit
-      url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-5.jpeg
-    - alt: West Leadership Summit
-      url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-4.jpeg
-    - alt: West Leadership Summit
-      url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-3.jpeg
-    - alt: West Leadership Summit
-      url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-2.jpg
-    - alt: West Leadership Summit
-      url: //fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-1.jpg
+description: Accenture's annual leadership summit for African American and Hispanic American employees.
+banner: https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-5.jpeg
 categories:
     - conference
 ---
@@ -46,4 +31,16 @@ Volunteer, Participant
 
 Had an amazing time at the 2017 West AAERG/HAERG Leadership Summit this Friday! The speakers were absolutely brilliant and I found every aspect of the summit very useful and engaging. In the Design Thinking session, our team received the most amount of stickers for our idea called "The New ERG" to improve awareness for ERGs at Accenture! I will definitely be attending again the next time.
 
-{% include gallery %}
+![West Leadership Summit](https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-7.jpg)
+
+![West Leadership Summit](https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-6.jpeg)
+
+![West Leadership Summit](https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-5.jpeg)
+
+![West Leadership Summit](https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-4.jpeg)
+
+![West Leadership Summit](https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-3.jpeg)
+
+![West Leadership Summit](https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-2.jpg)
+
+![West Leadership Summit](https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-1.jpg)

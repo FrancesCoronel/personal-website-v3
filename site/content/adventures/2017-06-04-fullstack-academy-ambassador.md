@@ -1,8 +1,8 @@
 ---
 title: Fullstack Academy - Ambassador
 date: 2017-05-10
-banner: //fvcproductions.files.wordpress.com/2015/11/11821194_439697182900579_299304949_n-1-e1457320708289.jpg
 description: Marketing and mentoring done for Fullstack Academy as an ambassador for their programs.
+banner: https://fvcproductions.files.wordpress.com/2015/11/11821194_439697182900579_299304949_n-1-e1457320708289.jpg
 categories:
     - experience
 ---

@@ -1,11 +1,8 @@
 ---
 title: "Amazon Alexa Hackathon"
-description: "Accenture + Amazon host a hackathon."
 date: 2017-06-30
+description: "Accenture + Amazon host a hackathon."
 banner: https://i.imgur.com/S7te2Ld.png
-gallery:
-    - alt: "Amazon Alexa Hackathon"
-      url: https://i.imgur.com/S7te2Ld.png
 categories:
     - hackathon
 ---
@@ -46,4 +43,6 @@ The 5 Love Languages
 
 * Alexa devices for everyone on the team! 🎉
 
-{% include gallery %}
+![Amazon Alexa Hackathon](https://i.imgur.com/S7te2Ld.png)
+
+<script defer src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

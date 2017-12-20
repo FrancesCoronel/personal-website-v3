@@ -1,11 +1,11 @@
 ---
-title: "Travels 🌎️"
-description: "Oh, the places you'll go. - Dr. Seuss"
+title: Travels 🌎️
+description: Oh, the places you'll go. - Dr. Seuss
 banner: https://images.pexels.com/photos/59519/pexels-photo-59519.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb
 noComments: true
 ---
 
-<blockquote class="embedly-card"><h4><a href="https://www.google.com/maps/d/u/0/embed?mid=11xSbsfkr_6UXjic4znLDZSObW_M">Travels</a></h4><p>Where I've been. https://fvcproductions.com/travels © FVCproductions</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://www.google.com/maps/d/u/0/embed?mid=11xSbsfkr_6UXjic4znLDZSObW_M">Travels</a></h4><p>Where I've been. https://fvcproductions.com/about/travels © FVCproductions</p></blockquote>
 
 ## So I’ve come to the conclusion that I come from a pretty interesting background.
 
@@ -65,7 +65,7 @@ noComments: true
 * [x] Arizona
 * [ ] Arkansas
 * [x] California
-* [ ] Colorado
+* [x] Colorado
 * [ ] Connecticut
 * [x] Delaware
 * [x] Florida
@@ -111,4 +111,4 @@ noComments: true
 * [ ] Wisconsin
 * [ ] Wyoming
 
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<script defer src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

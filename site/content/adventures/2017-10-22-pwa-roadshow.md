@@ -1,14 +1,11 @@
 ---
 title: PWA Roadshow
 date: 2017-10-22
+description: The Progressive Web App Roadshow is a series of events that explains the what, why and how of PWAs and allows participants to work through some code labs that provides hands-on experience.
+banner: https://gdg-korea-webtech.firebaseapp.com/pwa-roadshow17/roadshow.jpg
 categories:
   - conference
   - program
-description: The Progressive Web App Roadshow is a series of events that explains the what, why and how of PWAs and allows participants to work through some code labs that provides hands-on experience.
-banner: https://gdg-korea-webtech.firebaseapp.com/pwa-roadshow17/roadshow.jpg
-gallery:
-  - url: https://gdg-korea-webtech.firebaseapp.com/pwa-roadshow17/roadshow.jpg
-    alt: PWA Roadshow 2017
 ---
 
 ## Name
@@ -58,6 +55,8 @@ Progressive Web Apps are experiences that combine the best of the web and the be
 
 #### Engaging
 
+* [Web Push Notifications Library](//github.com/web-push-libs/web-push)
+
 * Web Push Notifications
   * Carnival
 * Good Notifications
@@ -94,7 +93,6 @@ Progressive Web Apps are experiences that combine the best of the web and the be
       * First ask, then prompt
       * Weather.com
         * gives options
-    * [`web-push-libs/web-push`](//github.com/web-push-libs/web-push)
 
 #### Security
 
@@ -105,7 +103,7 @@ Progressive Web Apps are experiences that combine the best of the web and the be
 * Man in the middle attacks
 * First get `HTTPS` then extend to `HTTP/2`
 * Certificate
-  * [Let's Encrypt](https://letsencrypt.org/)
+  * [Let's Encrypt](//letsencrypt.org/)
 * Referrer Policy
 
 ### Lighthouse
@@ -124,4 +122,4 @@ Progressive Web Apps are experiences that combine the best of the web and the be
 * [Adding Push Notifications](//goo.gl/Mt2n5k)
 * [Frictionless Payments with the Payment Request API](//goo.gl/SV4tgJ)
 
-{% include gallery %}
+![PWA Roadshow 2017](https://gdg-korea-webtech.firebaseapp.com/pwa-roadshow17/roadshow.jpg)

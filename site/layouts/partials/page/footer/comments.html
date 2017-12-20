@@ -5,29 +5,32 @@
       <h3>
         🙈️🙉️🙊️ {{ .Site.Data.i18n.en.comment }}
       </h3>
-      <div class="row">
-        <div id="disqus_thread"></div>
-      </div>
+      {{ template "_internal/disqus.html" . }}
     </section>
   </div>
 </div>
-<script type="text/javascript">
-  (function () {
-    // Don't ever inject Disqus on localhost--it creates unwanted
-    // discussions from 'localhost:1313' on your Disqus account...
+<!-- <script type="text/javascript">
+  var disqus_config = function () {
+    this.page.url = '{{ .URL }}';
+    this.page.identifier = '{{ .UniqueID }}';
+    this.page.title = '{{ .Title }}';
+  };
+  (function () { // DON'T EDIT BELOW THIS LINE
     if (window.location.hostname == "localhost")
       return;
-    var dsq = document.createElement('script');
-    dsq.type = 'text/javascript';
-    dsq.async = true;
+    var d = document,
+      s = d.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
     var disqus_shortname = '{{ .Site.DisqusShortname }}';
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    s.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
   })();
 
 </script>
 <noscript>Please enable JavaScript to view the
-  <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
 </noscript>
-<a id="disqus-link" href="http://disqus.com/" target="_blank" rel="nofollow">Comments powered by Disqus</a>
+<a id="disqus-link" href="http://disqus.com/" target="_blank" rel="nofollow">Comments powered by Disqus</a> -->
 {{ end }}

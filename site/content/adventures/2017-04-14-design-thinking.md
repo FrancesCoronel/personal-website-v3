@@ -1,7 +1,7 @@
 ---
 title: "PathFinder"
-description: "Visualize your future."
 date: 2017-04-14
+description: "Visualize your future."
 banner: https://i.ytimg.com/vi/WAGKzph41Rg/hqdefault.jpg
 categories:
     - portfolio

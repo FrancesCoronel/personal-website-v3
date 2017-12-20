@@ -2,7 +2,7 @@
 title: Strange Loop 2017
 description: Strange Loop is a multi-disciplinary conference that brings together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.
 date: 2017-09-27
-banner: //i.imgur.com/uBaeAmo.jpg?1
+banner: https://i.imgur.com/uBaeAmo.jpg?1
 categories:
     - conference
     - speaking
@@ -37,6 +37,8 @@ Strange Loop is a multi-disciplinary conference that brings together the develop
 
 <blockquote class="embedly-card"><h4><a href="//imgur.com/a/4OYm2">Strange Loop 2017</a></h4><p>My adventures at Strange Loop in St Louis, MO from September 27th to 29th, 2017.</p></blockquote>
 
+---
+
 ## Wednesday, September 27th
 
 My plane departed from San Francisco to St Louis around 10:30 am and arrived around 4:30 pm (there's a two hour time difference).
@@ -51,7 +53,7 @@ I never ended up meeting my Airbnb host but her dog, Rizzo, who is a black lab m
 
 So Strange Loop itself is a major conference that has grown to the point that there are even [unofficial events](//www.thestrangeloop.com/unofficial-events.html) that happen beforehand.
 
-{% include figure url="//img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F34806650%2F72481470389%2F1%2Foriginal.jpg?w=1000&rect=0%2C0%2C10834%2C5417&s=0f310628a1b4506fdb7b2ad358f5e556" title="What Makes the Web Work" %}
+![What Makes the Web Work](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F34806650%2F72481470389%2F1%2Foriginal.jpg?w=1000&rect=0%2C0%2C10834%2C5417&s=0f310628a1b4506fdb7b2ad358f5e556)
 
 The first of these unofficial events was the [Mozilla Developer Roadshow](//www.eventbrite.com/e/mozilla-developer-roadshow-presents-what-makes-the-web-work-tickets-37377977537?utm_campaign=order_confirmation_email&utm_medium=email&ref=eemailordconf&utm_source=eb_email&utm_term=eventname) which was presented by both Mozilla and Launch Code.
 
@@ -69,7 +71,7 @@ I really enjoyed this event not just for the speakers but because it felt very p
 
 Today was all about pre-conference activities.
 
-{% include figure url="//www.elm-conf.us/favicon.png" title="Elm Conf" %}
+![Elm Conf](https:////www.elm-conf.us/favicon.png)
 
 I decided to attend [Elm Conf](//www.elm-conf.us/) since I have zilch experience with functional programming and I figured it would be interesting to learn something way out of my element.
 
@@ -115,7 +117,7 @@ This was an event sponsored by Netflix that was going on con-currently with the 
 
 I ended up taking a photo with two other grantees that I met at Strange Loop and thought were really cool.
 
-{% include figure url="//media.giphy.com/media/3ohhwgrG71d6wmkIiQ/giphy.gif" title="#INCLUDE <ALL>" %}
+![#INCLUDE <ALL>](https://media.giphy.com/media/3ohhwgrG71d6wmkIiQ/giphy.gif)
 
 ### Lightning Talks
 
@@ -123,7 +125,7 @@ Out of the 26 talks submitted to be a Strange Loop Lightning Talk, 12 were selec
 
 My talk was selected and I was able to present the first Lightning Talk starting at 8:30 pm in the Grand Ballroom EF.
 
-{% include figure url="//i.imgur.com/vHCJVfY.png" title="Lightning Talks" %}
+![Lightning Talks](https://i.imgur.com/vHCJVfY.png)
 
 My talk was called **"TypeScript 101"**.
 
@@ -149,4 +151,4 @@ Waking up super early to catch a flight home. 😴️
 
 > <a name="footnote1"><b>1.</b></a> Ian is one of the [Project Alloy](//www.projectalloy.org/) co-founders.
 
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<script defer src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

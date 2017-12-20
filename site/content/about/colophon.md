@@ -21,13 +21,12 @@ Website design, development, and copy writing by Frances Coronel.
   * [HTML5 UP](//html5up.net)
   * [Skel](//github.com/ajlkn/skel)
   * [Embedly](//embed.ly/)
-  * [Light Gallery](//sachinchoolur.github.io/lightGallery/)
+    <!-- * [Light Gallery](//sachinchoolur.github.io/lightGallery/) -->
   * [Twemoji](//github.com/twitter/twemoji)
   * [Disqus](//disqus.com/)
   * [Isotope](//isotope.metafizzy.co/)
   * [Google Analytics](//analytics.google.com)
   * [MailChimp](//eepurl.com/ddx07z)
-  * [AddThis](//addthis.com/)
 * **Fonts**
   * [Roboto](//fonts.google.com/specimen/Roboto)
   * [Roboto Mono](//fonts.google.com/specimen/Roboto+Mono)
