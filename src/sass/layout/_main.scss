@@ -162,10 +162,6 @@ header {
   float: right;
 }
 
-.page {
-  padding: 0 1em 1em 1em;
-}
-
 #menu h2 {
   font-size: 2em;
 }
@@ -264,10 +260,10 @@ input[type="radio"] {
 }
 
 .page-footer {
-  margin: 3em 0 2em 0;
-  border-style: dotted;
+  margin: 2em 0;
+  border-style: solid;
   border-color: #283136;
-  border-top-width: 1em;
+  border-top-width: 0.25em;
   .page-section {
     margin-top: 3em;
     margin-bottom: 0;
@@ -449,12 +445,24 @@ archive-date {
   text-align: right;
   z-index: 5;
   opacity: 0.5;
+  @include breakpoint(small) {
+    position: relative;
+    font-style: italic;
+    margin-top: 1em;
+    background: none;
+    z-index: 0;
+    opacity: 0.75;
+    color: black;
+    text-align: center;
+    padding: 0;
+    float: right;
+  }
 }
 
 .section.tiles.plain article,
 .section.tiles.isotope.blog.plain article {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-  margin: 1em;
+  margin: 0.5em;
   padding: 2em;
   a {
     color: #283136;
@@ -466,6 +474,12 @@ archive-date {
 
 .contact-section.social-icons {
   font-size: 1.25em;
+}
+
+.page-header {
+  .image.main {
+    margin: 1em 0;
+  }
 }
 
 // .section.tiles.plain {

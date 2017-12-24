@@ -5,6 +5,8 @@
 @import "base/skel";
 @import "base/page";
 @import "base/typography";
+// Vendor
+@import "vendor/font-awesome";
 // Components
 @import "components/icon";
 @import "components/list";
@@ -14,8 +16,6 @@
 @import "components/table";
 @import "components/button";
 @import "components/tiles";
-// Vendor
-@import "vendor/font-awesome";
 // Layout
 @import "layout/menu";
 @import "layout/header";

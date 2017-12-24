@@ -3,18 +3,29 @@
 <div class="row">
   <div class="12u">
     <p>
-      <i title="Calendly" class="fas fa-calendar-check fa-lg"></i>Categories:
+      <i title="Categories" class="fas fa-folder fa-lg"></i>&nbsp;&nbsp;Categories
+      <br>
       <!-- Range -->
       {{ range $category := .Params.categories }}
       <a href="/categories/{{ $category | urlize }}" title="{{ $category }}">{{ $category }}</a>
-      {{ end }}
+      <br> {{ end }}
     </p>
   </div>
 </div>
 {{ end }}
 <!-- Tags -->
-{{ if isset .Params "tags" }} {{ range $tag := .Params.tags }}
-<a class="ui label" href="/tags/{{ $tag | urlize }}" title="{{ $tag }}">{{ $tag }}</a>
-{{ end }} {{ else }}
-<span>{{ i18n "noTag" }}</span>
-{{ end }}
+{{ if isset .Params "tags" }}
+<div class="row">
+  <div class="12u">
+    <p>
+      <i title="Tags" class="fas fa-thumbtack fa-lg"></i>&nbsp;&nbsp;Tags
+      <br>
+      <!-- Range -->
+      {{ range $tag := .Params.tags }}
+      <a href="/tags/" title="{{ $tag }}">{{ $tag }}</a>
+      <br> {{ end }} {{ else }}
+      <span>{{ i18n "noTag" }}</span>
+      {{ end }}
+    </p>
+  </div>
+</div>

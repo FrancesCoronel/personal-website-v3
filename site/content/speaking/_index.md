@@ -7,6 +7,7 @@ noComments: true
 speaking: true
 alphabetical: true
 isotope: true
+noTimeEstimate: true
 ---
 
 ## I've given talks on a variety of topics.

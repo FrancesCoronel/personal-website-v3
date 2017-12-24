@@ -11,12 +11,22 @@
       </div>
     </div>
     {{ end }}
-    <!-- Minute Read & Word Count -->
-    {{ with .ReadingTime }}
-    <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>{{ . }} minute read {{ end }} {{ with .WordCount }} ∙ {{ . }} words
-    </p>
+    <!-- Publish Date -->
+    {{ if not .PublishDate.IsZero }}
+    <div class="row">
+      <div class="12u">
+        <p>
+          <i title="Calendly" class="fas fa-calendar-check fa-lg"></i>Created {{ .Date.Format "Monday - January 2, 2006" }}
+        </p>
+      </div>
+    </div>
     {{ end }}
+    <!-- Minute Read & Word Count -->
+    {{ if not .Params.noTimeEstimate }} {{ if .ReadingTime }} {{ if .WordCount }}
+    <p>
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>{{ .ReadingTime }} minute read ∙ {{ .WordCount }} words
+    </p>
+    {{ end }} {{ end }} {{ end }}
     <!-- External Link -->
     {{ with .Params.link }}
     <div class="row">
@@ -24,16 +34,6 @@
         <p>
           <i title="External Link" class="fas fa-external-link-square-alt fa-lg"></i>
           <a href="https:{{ . }}" target="_blank" rel="nofollow">https:{{ . }}</a>
-        </p>
-      </div>
-    </div>
-    {{ end }}
-    <!-- Publish Date -->
-    {{ if not .PublishDate.IsZero }}
-    <div class="row">
-      <div class="12u">
-        <p>
-          <i title="Calendly" class="fas fa-calendar-check fa-lg"></i>Created {{ .Date.Format "Monday - January 2, 2006" }}
         </p>
       </div>
     </div>

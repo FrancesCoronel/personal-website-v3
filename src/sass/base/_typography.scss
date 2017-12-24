@@ -165,11 +165,15 @@ sup {
   top: -0.5em;
 }
 
-blockquote {
+@mixin blockquote {
   border-left: solid (_size(border-width) * 4) _palette(border);
   font-style: italic;
   margin: 0 0 _size(element-margin) 0;
   padding-left: 1em;
+}
+
+blockquote {
+  @include blockquote();
 }
 
 code {

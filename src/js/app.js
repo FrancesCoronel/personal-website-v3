@@ -2,8 +2,8 @@
 jQuery = require("jquery");
 $ = require("jquery");
 
-// Phantom
-require("./vendor/phantom");
+// Phantom - HTML5 UP
+require("./components/phantom");
 
 // Fonts
 require("./components/fonts");
@@ -12,9 +12,9 @@ require("./components/fonts");
 require("./components/twemoji");
 
 // Font Awesome
-require("./vendor/font-awesome/fa-brands.min.js");
-require("./vendor/font-awesome/fa-solid.min.js");
-require("./vendor/font-awesome/fontawesome.min.js");
+require("@fortawesome/fontawesome");
+require("@fortawesome/fontawesome-free-solid");
+require("@fortawesome/fontawesome-free-brands");
 
 // Return to Top
 require("./components/returnToTop");
