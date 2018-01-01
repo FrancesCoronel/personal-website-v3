@@ -1,7 +1,7 @@
 ---
 title: Blog 📝️
 description: Writings and musings.
-banner: https://i.imgur.com/iFVrP3w.jpg
+banner: https://i.imgur.com/85KFCCP.jpg
 caption: "At some point, I'm going to get a better banner picture with me writing or typing - lol."
 alphabetical: true
 blog: true
