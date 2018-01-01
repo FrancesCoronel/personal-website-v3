@@ -1,0 +1,1293 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+
+<head>
+  <title>Launch a Todo App Using Laravel Homestead ✅️</title>
+  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="DC.title" content="Launch a Todo App Using Laravel Homestead ✅️">
+  <meta name="DC.description" content="Our goal? To launch a simple to-do app using Laravel Homestead on macOS.">
+  <meta name="DC.creator" content="Frances Coronel">
+  <meta name="DC.language" content="en">
+  <meta name="DC.publisher" content="Frances Coronel">
+  <meta name="DC.subject" content="laravel,laravel 5,laravel 5.3,todo,todo app,todo app laravel,">
+  
+  <meta charset="utf-8">
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="HandheldFriendly" content="True">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0">
+<meta name="application-name" content="Launch a Todo App Using Laravel Homestead ✅️">
+<meta name="msapplication-window" content="width=device-width;height=device-height">
+<meta name="msapplication-tooltip" content=" Our goal? To launch a simple to-do app using Laravel Homestead on macOS. ">
+<meta name="title" content="Launch a Todo App Using Laravel Homestead ✅️">
+<meta name="description" content=" Our goal? To launch a simple to-do app using Laravel Homestead on macOS. ">
+<meta name="image" content="assets/img/teaser.png">
+<meta name="robots" content="index, follow">
+<meta itemprop="name" content="Launch a Todo App Using Laravel Homestead ✅️">
+<meta itemprop="description" content=" Our goal? To launch a simple to-do app using Laravel Homestead on macOS. ">
+<meta itemprop="image" content="assets/img/teaser.png">
+
+<meta property="og:title" content="FVCproductions 🍫️ 🍓">
+<meta property="og:description" content=" Our goal? To launch a simple to-do app using Laravel Homestead on macOS. ">
+<meta property="og:image" content="assets/img/teaser.png">
+<meta property="og:image:width" content="1050">
+<meta property="og:image:height" content="600">
+<meta property="og:url" content="/">
+<meta property="og:site_name" content="Launch a Todo App Using Laravel Homestead ✅️">
+<meta property="og:locale" content="en">
+<meta property="og:type" content="website">
+<meta property="og:description" content=" Our goal? To launch a simple to-do app using Laravel Homestead on macOS. ">
+
+<meta name="twitter:site" content="@fvcproductions">
+<meta name="twitter:title" content="FVCproductions 🍫️ 🍓">
+<meta name="twitter:description" content=" Our goal? To launch a simple to-do app using Laravel Homestead on macOS. ">
+<meta name="twitter:url" content="/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="assets/img/teaser.png">
+<meta name="twitter:image:src" content="assets/img/teaser.png">
+<meta name="twitter:creator" content="@fvcproductions">
+
+<link rel="preconnect" href="/">
+
+<link rel="canonical" href="/2017/01/13/launch-a-todo-app-using-laravel-homestead-%EF%B8%8F/">
+
+
+
+ 
+<link rel="prefetch" href="/2017/01/21/huge-school-application-2017/">
+<link rel="prerender" href="/2017/01/21/huge-school-application-2017/">  
+<link rel="prefetch" href="/2017/01/13/simple-to-do-app-in-laravel-/">
+<link rel="prerender" href="/2017/01/13/simple-to-do-app-in-laravel-/">  
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Launch a Todo App Using Laravel Homestead ✅️"/>
+<meta name="twitter:description" content="Our goal? To launch a simple to-do app using Laravel Homestead on macOS."/>
+<meta name="twitter:site" content="@fvcproductions"/>
+
+
+<meta property="og:title" content="Launch a Todo App Using Laravel Homestead ✅️" />
+<meta property="og:description" content="Our goal? To launch a simple to-do app using Laravel Homestead on macOS." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2017/01/13/launch-a-todo-app-using-laravel-homestead-%EF%B8%8F/" />
+
+
+
+<meta property="article:published_time" content="2017-01-13T00:00:00&#43;00:00"/>
+
+<meta property="article:modified_time" content="2017-01-13T00:00:00&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="Launch a Todo App Using Laravel Homestead ✅️">
+<meta itemprop="description" content="Our goal? To launch a simple to-do app using Laravel Homestead on macOS.">
+
+
+<meta itemprop="datePublished" content="2017-01-13T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2017-01-13T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="581">
+
+
+
+<meta itemprop="keywords" content="laravel,laravel 5,laravel 5.3,todo,todo app,todo app laravel," />
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+
+  
+  <link rel="apple-touch-icon-precomposed" href="/assets/img/favicons/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/favicons/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/img/favicons/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/favicons/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/img/favicons/apple-touch-icon-152x152-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/img/favicons/apple-touch-icon-180x180-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/img/favicons/apple-touch-icon-57x57-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/assets/img/favicons/apple-touch-icon-60x60-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/favicons/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/img/favicons/apple-touch-icon-76x76-precomposed.png">
+<link rel="apple-touch-icon" href="/assets/img/favicons/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/img/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/img/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/img/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/img/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicons/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/img/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/img/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/img/favicons/apple-touch-icon-76x76.png">
+<link rel="icon" sizes="144x144" type="image/png" href="/assets/img/favicons/android-chrome-144x144.png">
+<link rel="icon" sizes="16x16 32x32" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" sizes="16x16" type="image/png" href="/assets/img/favicons/favicon-16x16.png">
+<link rel="icon" sizes="192x192" type="image/png" href="/assets/img/favicons/android-chrome-192x192.png">
+<link rel="icon" sizes="256x256" type="image/png" href="/assets/img/favicons/android-chrome-256x256.png">
+<link rel="icon" sizes="32x32" type="image/png" href="/assets/img/favicons/favicon-32x32.png">
+<link rel="icon" sizes="36x36" type="image/png" href="/assets/img/favicons/android-chrome-36x36.png">
+<link rel="icon" sizes="384x384" type="image/png" href="/assets/img/favicons/android-chrome-384x384.png">
+<link rel="icon" sizes="48x48" type="image/png" href="/assets/img/favicons/android-chrome-48x48.png">
+<link rel="icon" sizes="512x512" type="image/png" href="/assets/img/favicons/android-chrome-512x512.png">
+<link rel="icon" sizes="72x72" type="image/png" href="/assets/img/favicons/android-chrome-72x72.png">
+<link rel="icon" sizes="96x96" type="image/png" href="/assets/img/favicons/android-chrome-96x96.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" color="#253137" href="/assets/img/favicons/safari-pinned-tab.svg">
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="Launch a Todo App Using Laravel Homestead ✅️">
+<meta name="application-name" content="Launch a Todo App Using Laravel Homestead ✅️">
+<meta name="msapplication-TileColor" content="#253137">
+<meta name="msapplication-TileImage" content="/assets/img/favicons/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+  
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+  
+  
+</head>
+
+<body>
+  
+  <div id="wrapper">
+    
+    
+<header id="header">
+  <div class="inner">
+    
+    <a href="/" class="logo">
+      <span class="symbol">
+        <img src="/assets/img/logo.svg" alt="FVCproductions - Logo">
+      </span>
+      <span class="title">FVCproductions</span>
+    </a>
+    
+    <nav>
+      <ul>
+        <li>
+          <a href="#menu">Menu</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+    
+    
+<nav id="menu">
+  <h2>Menu</h2>
+  <ul>
+    
+    
+    
+    <li>
+      <a href="/">
+        Home 🏠
+      </a>
+    </li>
+    
+    <li>
+      <a href="/about">
+        About 👀
+      </a>
+    </li>
+    
+    <li>
+      <a href="/adventures">
+        Adventures ✈️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/archive">
+        Archive 🕒️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/awards">
+        Awards 🏆️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/blog">
+        Blog 📝️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/contact">
+        Contact 📨
+      </a>
+    </li>
+    
+    <li>
+      <a href="/portfolio">
+        Portfolio 💼
+      </a>
+    </li>
+    
+    <li>
+      <a href="/services">
+        Services 🛠️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/speaking">
+        Speaking 💬️
+      </a>
+    </li>
+    
+  </ul>
+</nav>
+
+    
+    <div class="inner">
+      
+
+
+<a href="javascript:" id="return-to-top" aria-label="Return to Top" aria-labelledby="Return to Top" aria-hidden="true">
+  <i class="fas fa-arrow-up"></i>
+</a>
+<div class="page">
+  
+  <div class="page-header">
+  <h1>Launch a Todo App Using Laravel Homestead ✅️</h1>
+  <div class="page-info">
+    
+    
+    <div class="row">
+      <div class="12u">
+        <p>
+          <i title="Description" class="fas fa-info-circle fa-lg"></i>Our goal? To launch a simple to-do app using Laravel Homestead on macOS.
+        </p>
+      </div>
+    </div>
+    
+    
+    
+    <div class="row">
+      <div class="12u">
+        <p>
+          <i title="Calendly" class="fas fa-calendar-check fa-lg"></i>Created Friday - January 13, 2017
+        </p>
+      </div>
+    </div>
+    
+    
+      
+    <p>
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>3 minute read ∙ 581 words
+    </p>
+      
+    
+    
+    
+    
+    <div class="row">
+      <div class="12u">
+        <p>
+          <i title="Comments" class="fas fa-comments fa-lg"></i>
+          <a href="/2017/01/13/launch-a-todo-app-using-laravel-homestead-%EF%B8%8F/#disqus_thread" class="disqus-comment-count" data-disqus-identifier="8eb96a257151801d4b526a1ddba0de02">0 Comments</a>
+        </p>
+      </div>
+    </div>
+    
+  </div>
+  
+  <div class="row">
+    <div class="12u$">
+      
+      
+      
+      
+      <span class="image main">
+        
+        <img src="//fvcproductions.files.wordpress.com/2017/01/home.png" alt="">
+        
+        
+      </span>
+      
+      
+      
+    </div>
+  </div>
+</div>
+<script id="dsq-count-scr" src="//fvcproductions.disqus.com/count.js" async></script>
+
+  
+  <div class="page-body">
+  <div class="12u$">
+     
+
+<h2 id="our-goal-to-launch-a-simple-to-do-app-using-laravel-homestead-on-macos">Our goal? To launch a simple to-do app using Laravel Homestead on macOS.</h2>
+
+<p>This is <strong>QUITE a tedious process</strong> (if you ask me), but I&rsquo;ll try to condense it into a simple 30 step process (LOL). 😂</p>
+
+<p>This is how the completed app looks like.</p>
+
+<h2 id="you-will-need">You will need&hellip;</h2>
+
+<ul>
+<li>Basic <strong>Terminal</strong> Knowledge
+
+<ul>
+<li>I will be referring to a lot of commands you&rsquo;ll have to type in.</li>
+</ul></li>
+</ul>
+
+<h2 id="installation-process">Installation Process</h2>
+
+<ol>
+<li>Download <a href="//www.vagrantup.com/"><strong>Vagrant</strong></a></li>
+<li>Download <a href="//www.virtualbox.org/wiki/Downloads"><strong>VirtualBox</strong></a></li>
+<li>Clone or download <a href="//github.com/fvcproductions/ds-todos">my sample to-do app</a>
+
+<ul>
+<li><strong>Option 1.</strong> Use a GitHub client like <a href="//git-tower.com">Tower</a></li>
+<li><strong>Option 2.</strong> <code>git clone //github.com/fvcproductions/ds-todos.git</code></li>
+<li>Make note of the file path for this repo by using <code>pwd</code>, i.e. <code>~/Dropbox/github/ds-todos</code></li>
+</ul></li>
+<li><code>cd ~ &amp;&amp; vagrant box laravel/homestead</code></li>
+<li>They will ask for the provider so we are going to enter in <code>1</code> since we are using <strong>VirtualBox</strong></li>
+<li><code>cd ~ &amp;&amp; mkdir Code</code>
+
+<ul>
+<li>We will need this folder later</li>
+</ul></li>
+<li>Clone down <strong>Laravel Homestead</strong> and install it in a folder called <code>Homestead</code> using<code>cd ~ &amp;&amp; git clone //github.com/laravel/homestead.git Homestead</code></li>
+<li>Initialize Homestead using <code>cd Homestead &amp;&amp; bash init.sh</code></li>
+<li>While still in <code>~/Homestead</code> folder, <code>sudo nano /private/etc/hosts</code> to edit the hosts file and add on <a href="#hosts">these two lines (refer below)</a></li>
+<li>Create a key to authorize ssh using <code>cd ~/Homestead &amp;&amp; ssh-keygen -t rsa -b 4096</code></li>
+<li>Hit <strong>Enter</strong> twice (you don&rsquo;t have to enter a password)</li>
+<li>Time to start up <strong>Vagrant</strong> using <code>cd ~/Homestead &amp;&amp; vagrant up</code> and enter password when asked</li>
+<li>Edit the <code>Homestead.yaml</code> file to configure locations of code using <code>nano ~/.homestead/Homestead.yaml</code> and make the<code>folder</code> and <code>sites</code> sections <a href="#yaml-config">look like this (refer below)</a>
+
+<ul>
+<li>❗ Anytime you edit this <code>Homestead.yaml</code> file, you have to perform the next 3 steps in order for it to work, so let&rsquo;s go ahead and do those now.</li>
+</ul></li>
+<li>Stop vagrant temporarily by using <code>vagrant halt</code></li>
+<li>Reload <code>yaml</code> configurations by using <code>vagrant reload --provision</code> and enter password when asked</li>
+<li>While still in <code>~/Homestead</code> folder, use <code>vagrant ssh</code> to enter into your <code>Vagrant</code> setup</li>
+<li>Enter into your <code>Code</code> folder you created earlier and then your <code>ds-todos</code> app using <code>cd ~/Code/ds-todos</code></li>
+<li>While you&rsquo;re in your <code>ds-todos</code> folder, use <code>composer install</code> to install the necessary dependencies for the to-do app</li>
+<li>You will also need to configure your environment for <code>ds-todos</code> by creating an <code>.env</code> file and <a href="#env">typing the following in (refer below)</a> using <code>touch .env &amp;&amp; nano .env</code></li>
+<li>Use <code>php artisan migrate</code> to migrate the app data over</li>
+<li>Then use <code>php artisan db:seed</code> to seed the database</li>
+<li>Finally, use <code>php artisan key:generate</code> to generate an app key for security purposes</li>
+<li>At this point, you should be able to head over to <code>//ds-todos.app</code> in your browser and marvel at being able to set this all up! 🎉</li>
+</ol>
+
+<h2 id="optional-compiling-sass">Optional - Compiling SASS</h2>
+
+<p>If you want to compile <code>SASS</code> files, you will first have to install all npm dependencies using <code>npm i</code>. Then just perform a <code>gulp watch</code> and you&rsquo;re good to go. Anytime you edit the <code>SASS</code> files, <code>gulp</code> will check it and compile it down to <code>CSS</code>.</p>
+
+<h3 id="hosts">Hosts</h3>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">192.168.10.10  homestead.app
+192.168.10.10  ds-todos.app</code></pre></div>
+<blockquote>
+<p><a href="#after-hosts">Go to the next step.</a></p>
+</blockquote>
+
+<h3 id="yaml-config">YAML Config</h3>
+
+<p>❗ Since my <code>ds-todos</code> code is located in <code>~Dropbox/github/ds-todos</code>, that&rsquo;s where I map it to. However, you probably have it located elsewhere so make sure to get the right file path of that app using <code>pwd</code> in <strong>Terminal</strong>.</p>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml">folders:<span style="color:#bbb">
+</span><span style="color:#bbb">    </span>-<span style="color:#bbb"> </span>map:<span style="color:#bbb"> </span>~/Code<span style="color:#bbb">
+</span><span style="color:#bbb">        </span>to:<span style="color:#bbb"> </span>/home/vagrant/Code<span style="color:#bbb">
+</span><span style="color:#bbb">        </span>type:<span style="color:#bbb"> </span><span style="color:#c30">&#34;nfs&#34;</span><span style="color:#bbb">
+</span><span style="color:#bbb">    </span>-<span style="color:#bbb"> </span>map:<span style="color:#bbb"> </span>~/Dropbox/github/ds-todos<span style="color:#bbb">
+</span><span style="color:#bbb">        </span>to:<span style="color:#bbb"> </span>/home/vagrant/Code/ds-todos<span style="color:#bbb">
+</span><span style="color:#bbb">        </span>type:<span style="color:#bbb"> </span><span style="color:#c30">&#34;nfs&#34;</span><span style="color:#bbb">
+</span><span style="color:#bbb">
+</span><span style="color:#bbb"></span>sites:<span style="color:#bbb">
+</span><span style="color:#bbb">    </span>-<span style="color:#bbb"> </span>map:<span style="color:#bbb"> </span>homestead.app<span style="color:#bbb">
+</span><span style="color:#bbb">        </span>to:<span style="color:#bbb"> </span>/home/vagrant/Code/Laravel/public<span style="color:#bbb">
+</span><span style="color:#bbb">    </span>-<span style="color:#bbb"> </span>map:<span style="color:#bbb"> </span>ds-todos.app<span style="color:#bbb">
+</span><span style="color:#bbb">        </span>to:<span style="color:#bbb"> </span>/home/vagrant/Code/ds-todos/public</code></pre></div>
+<blockquote>
+<p><a href="#after-yaml">Go to the next step.</a></p>
+</blockquote>
+
+<h3 id="environment-setup">[Environment Setup]</h3>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">APP_ENV=local
+APP_DEBUG=true
+APP_KEY=SomeRandomString
+APP_URL=//localhost
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=homestead
+DB_USERNAME=homestead
+DB_PASSWORD=secret
+
+CACHE_DRIVER=file
+SESSION_DRIVER=file
+QUEUE_DRIVER=sync
+
+REDIS_HOST=127.0.0.1
+REDIS_PASSWORD=null
+REDIS_PORT=6379
+
+MAIL_DRIVER=smtp
+MAIL_HOST=mailtrap.io
+MAIL_PORT=2525
+MAIL_USERNAME=null
+MAIL_PASSWORD=null
+MAIL_ENCRYPTION=null</code></pre></div>
+<blockquote>
+<p><a href="#after-env">Go to the next step.</a></p>
+</blockquote>
+
+<h3 id="helpful-resources">Helpful Resources</h3>
+
+<ul>
+<li><a href="//vimeo.com/164946495">Great video on installation process</a></li>
+<li><a href="//laravel.com/docs/5.3/homestead">Laravel Homestead Documentation</a></li>
+</ul>
+ 
+    
+    
+
+<div class="page-section taxonomy-section">
+  <div class="row">
+    
+    
+    <div class="6u 12u$(small) 12u$(xsmall)">
+      <h3>
+        📂 Categories
+      </h3>
+      <ul>
+        
+        <li>
+          <a href="/categories/blog" title="blog">blog</a>
+        </li>
+        
+      </ul>
+    </div>
+    
+    
+    
+    <div class="6u 12u$(small) 12u$(xsmall)">
+      <h3>
+        📌 Tags
+      </h3>
+
+      <ul>
+        
+        <li>
+          <a href="/tags/laravel" title="laravel">laravel</a>
+        </li>
+        
+        <li>
+          <a href="/tags/laravel-5" title="laravel 5">laravel 5</a>
+        </li>
+        
+        <li>
+          <a href="/tags/laravel-5.3" title="laravel 5.3">laravel 5.3</a>
+        </li>
+        
+        <li>
+          <a href="/tags/todo" title="todo">todo</a>
+        </li>
+        
+        <li>
+          <a href="/tags/todo-app" title="todo app">todo app</a>
+        </li>
+        
+        <li>
+          <a href="/tags/todo-app-laravel" title="todo app laravel">todo app laravel</a>
+        </li>
+        
+      </ul>
+
+    </div>
+    
+  </div>
+</div>
+
+
+    
+    
+    
+    
+  </div>
+</div>
+
+  
+  <div class="page-footer">
+  
+  <div class="page-section sharing-section">
+  <div class="12u$">
+    <h3>
+      💗️ Share this page
+    </h3>
+    <ul class="icons">
+  
+  <li>
+    <a href="//www.facebook.com/sharer.php?u=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f" target="_blank" class="icon font-awesome fa-facebook">
+      <i title="Facebook" class="fab fa-facebook fa-lg"></i>
+      <span class="label">Facebook</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//twitter.com/intent/tweet?url=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f&via=fvcproductions&text=Launch%20a%20Todo%20App%20Using%20Laravel%20Homestead%20%e2%9c%85%ef%b8%8f" target="_blank" class="icon font-awesome fa-twitter">
+      <i title="Twitter" class="fab fa-twitter fa-lg"></i>
+      <span class="label">Twitter</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//plus.google.com/share?url=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f" target="_blank" class="icon font-awesome fa-google-plus-g">
+      <i title="Google Plus" class="fab fa-google-plus-g fa-lg"></i>
+      <span class="label">Google+</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//pinterest.com/pin/create/bookmarklet/?media=%2f%2ffvcproductions.files.wordpress.com%2f2017%2f01%2fhome.png&url=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f&description=Launch%20a%20Todo%20App%20Using%20Laravel%20Homestead%20%e2%9c%85%ef%b8%8f" target="_blank" class="icon font-awesome fa-pinterest">
+      <i title="Pinterest" class="fab fa-pinterest fa-lg"></i>
+      <span class="label">Pinterest</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.linkedin.com/shareArticle?mini=true&url=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f&title=Launch%20a%20Todo%20App%20Using%20Laravel%20Homestead%20%e2%9c%85%ef%b8%8f&summary=Our%20goal%3f%20To%20launch%20a%20simple%20to-do%20app%20using%20Laravel%20Homestead%20on%20macOS.%20This%20is%20QUITE%20a%20tedious%20process%20%28if%20you%20ask%20me%29%2c%20but%20I%26rsquo%3bll%20try%20to%20condense%20it%20into%20a%20simple%2030%20step%20process%20%28LOL%29.%20%f0%9f%98%82%0aThis%20is%20how%20the%20completed%20app%20looks%20like.%0aYou%20will%20need%26hellip%3b%20%20Basic%20Terminal%20Knowledge%20%20I%20will%20be%20referring%20to%20a%20lot%20of%20commands%20you%26rsquo%3bll%20have%20to%20type%20in.%20%20%20Installation%20Process%20%20Download%20Vagrant%20Download%20VirtualBox%20Clone%20or%20download%20my%20sample%20to-do%20app%20%20Option%201.&source=FVCproductions" target="_blank" class="icon font-awesome fa-linkedin-in">
+      <i title="LinkedIn" class="fab fa-linkedin-in fa-lg"></i>
+      <span class="label">LinkedIn</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.tumblr.com/widgets/share/tool?canonicalUrl=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f&title=Launch%20a%20Todo%20App%20Using%20Laravel%20Homestead%20%e2%9c%85%ef%b8%8f&caption=Our%20goal%3f%20To%20launch%20a%20simple%20to-do%20app%20using%20Laravel%20Homestead%20on%20macOS.%20This%20is%20QUITE%20a%20tedious%20process%20%28if%20you%20ask%20me%29%2c%20but%20I%26rsquo%3bll%20try%20to%20condense%20it%20into%20a%20simple%2030%20step%20process%20%28LOL%29.%20%f0%9f%98%82%0aThis%20is%20how%20the%20completed%20app%20looks%20like.%0aYou%20will%20need%26hellip%3b%20%20Basic%20Terminal%20Knowledge%20%20I%20will%20be%20referring%20to%20a%20lot%20of%20commands%20you%26rsquo%3bll%20have%20to%20type%20in.%20%20%20Installation%20Process%20%20Download%20Vagrant%20Download%20VirtualBox%20Clone%20or%20download%20my%20sample%20to-do%20app%20%20Option%201." target="_blank" class="icon font-awesome fa-digg">
+      <i title="Digg" class="fab fa-digg fa-lg"></i>
+      <span class="label">Digg</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.tumblr.com/widgets/share/tool?canonicalUrl=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f&title=Launch%20a%20Todo%20App%20Using%20Laravel%20Homestead%20%e2%9c%85%ef%b8%8f&caption=Our%20goal%3f%20To%20launch%20a%20simple%20to-do%20app%20using%20Laravel%20Homestead%20on%20macOS.%20This%20is%20QUITE%20a%20tedious%20process%20%28if%20you%20ask%20me%29%2c%20but%20I%26rsquo%3bll%20try%20to%20condense%20it%20into%20a%20simple%2030%20step%20process%20%28LOL%29.%20%f0%9f%98%82%0aThis%20is%20how%20the%20completed%20app%20looks%20like.%0aYou%20will%20need%26hellip%3b%20%20Basic%20Terminal%20Knowledge%20%20I%20will%20be%20referring%20to%20a%20lot%20of%20commands%20you%26rsquo%3bll%20have%20to%20type%20in.%20%20%20Installation%20Process%20%20Download%20Vagrant%20Download%20VirtualBox%20Clone%20or%20download%20my%20sample%20to-do%20app%20%20Option%201." target="_blank" class="icon font-awesome fa-tumblr">
+      <i title="Tumblr" class="fab fa-tumblr fa-lg"></i>
+      <span class="label">Tumblr</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//reddit.com/submit?url=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f&title=Launch%20a%20Todo%20App%20Using%20Laravel%20Homestead%20%e2%9c%85%ef%b8%8f" target="_blank" class="icon font-awesome fa-reddit">
+      <i title="Reddit" class="fab fa-reddit fa-lg"></i>
+      <span class="label">Reddit</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//news.ycombinator.com/submitlink?u=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f&t=Launch%20a%20Todo%20App%20Using%20Laravel%20Homestead%20%e2%9c%85%ef%b8%8f" target="_blank" class="icon font-awesome fa-hacker-news">
+      <i title="Hacker News" class="fab fa-hacker-news fa-lg"></i>
+      <span class="label">Hacker News</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.stumbleupon.com/submit?url=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f&title=Launch%20a%20Todo%20App%20Using%20Laravel%20Homestead%20%e2%9c%85%ef%b8%8f" target="_blank" class="icon font-awesome fa-stumbleupon">
+      <i title="StumbleUpon" class="fab fa-stumbleupon fa-lg"></i>
+      <span class="label">StumbleUpon</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//delicious.com/save?v=5&provider=FVCproductions&noui&jump=close&url=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f&title=Launch%20a%20Todo%20App%20Using%20Laravel%20Homestead%20%e2%9c%85%ef%b8%8f" target="_blank" class="icon font-awesome fa-delicious">
+      <i title="Delicious" class="fab fa-delicious fa-lg"></i>
+      <span class="label">Delicious</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.tumblr.com/widgets/share/tool?canonicalUrl=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f&title=Launch%20a%20Todo%20App%20Using%20Laravel%20Homestead%20%e2%9c%85%ef%b8%8f&caption=Our%20goal%3f%20To%20launch%20a%20simple%20to-do%20app%20using%20Laravel%20Homestead%20on%20macOS.%20This%20is%20QUITE%20a%20tedious%20process%20%28if%20you%20ask%20me%29%2c%20but%20I%26rsquo%3bll%20try%20to%20condense%20it%20into%20a%20simple%2030%20step%20process%20%28LOL%29.%20%f0%9f%98%82%0aThis%20is%20how%20the%20completed%20app%20looks%20like.%0aYou%20will%20need%26hellip%3b%20%20Basic%20Terminal%20Knowledge%20%20I%20will%20be%20referring%20to%20a%20lot%20of%20commands%20you%26rsquo%3bll%20have%20to%20type%20in.%20%20%20Installation%20Process%20%20Download%20Vagrant%20Download%20VirtualBox%20Clone%20or%20download%20my%20sample%20to-do%20app%20%20Option%201." target="_blank" class="icon font-awesome fa-blogger-b">
+      <i title="Blogger" class="fab fa-blogger-b fa-lg"></i>
+      <span class="label">Blogger</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//getpocket.com/save?url=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f" target="_blank" class="icon font-awesome fa-get-pocket">
+      <i title="Pocket" class="fab fa-get-pocket fa-lg"></i>
+      <span class="label">Pocket</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="viber://forward?text=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f" target="_blank" class="icon font-awesome fa-viber">
+      <i title="Viber" class="fab fa-viber fa-lg"></i>
+      <span class="label">Viber</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//lineit.line.me/share/ui?url=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f" target="_blank" class="icon font-awesome fa-line">
+      <i title="Line.me" class="fab fa-line fa-lg"></i>
+      <span class="label">Line.me</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//web.skype.com/share?url=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f" target="_blank" class="icon font-awesome fa-skype">
+      <i title="Skype" class="fab fa-skype fa-lg"></i>
+      <span class="label">Skype</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="whatsapp://send?text=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f" target="_blank" class="icon font-awesome fa-whatsapp">
+      <i title="WhatsApp" class="fab fa-whatsapp fa-lg"></i>
+      <span class="label">WhatsApp</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//telegram.me/share/url?url=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f&text=Launch%20a%20Todo%20App%20Using%20Laravel%20Homestead%20%e2%9c%85%ef%b8%8f" target="_blank" class="icon font-awesome fa-telegram">
+      <i title="Telegram" class="fab fa-telegram fa-lg"></i>
+      <span class="label">Telegram.me</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//vk.com/share.php?url=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f" target="_blank" class="icon font-awesome fa-vk">
+      <i title="VK" class="fab fa-vk fa-lg"></i>
+      <span class="label">VK</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.xing.com/app/user?op=share&url=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f" target="_blank" class="icon font-awesome fa-xing">
+      <i title="Xing" class="fab fa-xing fa-lg"></i>
+      <span class="label">Xing</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//widget.renren.com/dialog/share?resourceurl=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f&srcurl=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f&title=Launch%20a%20Todo%20App%20Using%20Laravel%20Homestead%20%e2%9c%85%ef%b8%8f" target="_blank" class="icon font-awesome fa-renren">
+      <i title="Ren Ren" class="fab fa-renren fa-lg"></i>
+      <span class="label">RenRen</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//service.weibo.com/share/share.php?url=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f&title=Launch%20a%20Todo%20App%20Using%20Laravel%20Homestead%20%e2%9c%85%ef%b8%8f" target="_blank" class="icon font-awesome fa-weibo">
+      <i title="Weibo" class="fab fa-weibo fa-lg"></i>
+      <span class="label">Weibo</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="mailto:?subject=Check out this work by FVCproductions&body=%2f2017%2f01%2f13%2flaunch-a-todo-app-using-laravel-homestead-%25EF%25B8%258F%2f" target="_blank" class="icon font-awesome">
+      <i title="Email" class="fas fa-envelope fa-lg"></i>
+      <span class="label">Email</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="javascript:window.print()" target="_blank" class="icon font-awesome">
+      <i title="Print" class="fas fa-print fa-lg"></i>
+      <span class="label">Print</span>
+    </a>
+  </li>
+</ul>
+
+  </div>
+</div>
+  
+  <div class="page-section subscribe-section">
+  <div class="12u$">
+    <h3>
+      🌟️ Subscribe to updates
+    </h3>
+    <p>Get new updates sent to your inbox every month!</p>
+    <section class="subscribe-form">
+      <form action="https://fvcproductions.us12.list-manage.com/subscribe/post?u=0c1cb29d65da6e773de7acb68&amp;id=0427c5c75d" method="post"
+        id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div class="field half first">
+          <input autocomplete="on" type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="First Name">
+        </div>
+        <div class="field half">
+          <input autocomplete="on" type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="Last Name">
+        </div>
+        <div class="field">
+          <input autocomplete="on" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email">
+        </div>
+        <div id="mce-responses" class="clear">
+          <div class="response" id="mce-error-response" style="display:none"></div>
+          <div class="response" id="mce-success-response" style="display:none"></div>
+        </div>
+        <ul class="actions">
+          <li>
+            <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button big">
+          </li>
+          <li>
+            <div style="position: absolute; left: -5000px;" aria-hidden="true">
+              <input type="text" name="b_0c1cb29d65da6e773de7acb68_0427c5c75d" tabindex="-1" value="">
+            </div>
+          </li>
+          <li>
+            <img src="https://kb.mailchimp.com/images/winking-freddie.svg" class="mailchimp-logo"> Powered by
+            <a href="http://eepurl.com/ddx07z" title="MailChimp - email marketing made easy and fun">MailChimp ↗️</a>
+          </li>
+        </ul>
+      </form>
+    </section>
+  </div>
+  
+  <script defer id="mcjs">
+    ! function (c, h, i, m, p) {
+      m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.defer = 1, m.src = i, p.parentNode.insertBefore(m, p)
+    }(document, "script",
+      "https://chimpstatic.com/mcjs-connected/js/users/0c1cb29d65da6e773de7acb68/f53091a91a4fa5282f2276da2.js");
+
+  </script>
+  <script defer type="text/javascript" src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+</div>
+
+  
+  <div class="page-section contact-section">
+  <div class="12u$">
+    <h3>
+      🌐️ Social links
+    </h3>
+    <section class="social-icons">
+  <ul class="icons">
+    
+    
+    <li>
+      <a href="//angel.co/fvcproductions" class="icon font-awesome fa-angellist" target="_blank" rel="nofollow">
+        <i title="AngelList" class="fab fa-angellist fa-lg"></i>
+        <span class="label">AngelList</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//amazon.com/gp/profile/amzn1.account.AGCK4BOZOTAMEA4HTNM2DF7AL4RA" class="icon font-awesome fa-amazon" target="_blank" rel="nofollow">
+        <i title="Amazon" class="fab  fa-amazon fa-lg"></i>
+        <span class="label">Amazon</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//behance.net/fvcproductions" class="icon font-awesome fa-behance" target="_blank" rel="nofollow">
+        <i title="Behance" class="fab fa-behance fa-lg"></i>
+        <span class="label">Behance</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//codepen.io/fvcproductions" class="icon font-awesome fa-codepen" target="_blank" rel="nofollow">
+        <i title="Codepen" class="fab fa-codepen fa-lg"></i>
+        <span class="label">Codepen</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//fvcproductions.deviantart.com" class="icon font-awesome fa-deviantart" target="_blank" rel="nofollow">
+        <i title="DeviantArt" class="fab fa-deviantart fa-lg"></i>
+        <span class="label">DeviantArt</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//dribbble.com/fvcproductions" class="icon font-awesome fa-dribbble" target="_blank" rel="nofollow">
+        <i title="Dribbble" class="fab fa-dribbble fa-lg"></i>
+        <span class="label">Dribbble</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="mailto:hello@fvcproductions.com" class="icon font-awesome fa-envelope" target="_blank" rel="nofollow">
+        <i title="Email" class="fas fa-envelope fa-lg"></i>
+        <span class="label">Email</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//etsy.com/people/fvcproductions" class="icon font-awesome fa-etsy" target="_blank" rel="nofollow">
+        <i title="Etsy" class="fab fa-etsy fa-lg"></i>
+        <span class="label">Etsy</span>
+      </a>
+    </li>
+    
+    
+    
+    
+    
+    <li>
+      <a href="//freecodecamp.org/fvcproductions" class="icon font-awesome fa-free-code-camp" target="_blank" rel="nofollow">
+        <i title="freeCodeCamp" class="fab fa-free-code-camp fa-lg"></i>
+        <span class="label">freeCodeCamp</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//github.com/fvcproductions" class="icon font-awesome fa-github-alt" target="_blank" rel="nofollow">
+        <i title="GitHub" class="fab fa-github-alt fa-lg"></i>
+        <span class="label">GitHub</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//gitlab.com/fvcproductions" class="icon font-awesome fa-gitlab" target="_blank" rel="nofollow">
+        <i title="GitLab" class="fab fa-gitlab fa-lg"></i>
+        <span class="label">GitLab</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//plus.google.com/+fvcproductions2013" class="icon font-awesome fa-google-plus-g" target="_blank" rel="nofollow">
+        <i title="Google Plus" class="fab fa-google-plus-g fa-lg"></i>
+        <span class="label">Google Plus</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//news.ycombinator.com/user?id=fvcproductions" class="icon font-awesome fa-hacker-news" target="_blank" rel="nofollow">
+        <i title="Hacker News" class="fab fa-hacker-news fa-lg"></i>
+        <span class="label">Hacker News</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//houzz.com/user/fvcproductions" class="icon font-awesome fa-houzz" target="_blank" rel="nofollow">
+        <i title="Houzz" class="fab fa-houzz fa-lg"></i>
+        <span class="label">Houzz</span>
+      </a>
+    </li>
+    
+    
+    
+    
+    
+    <li>
+      <a href="//linkedin.com/fvcproductions" class="icon font-awesome fa-linkedin-in" target="_blank" rel="nofollow">
+        <i title="LinkedIn" class="fab fa-linkedin-in fa-lg"></i>
+        <span class="label">LinkedIn</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//medium.com/@fvcproductions" class="icon font-awesome fa-medium-m" target="_blank" rel="nofollow">
+        <i title="Medium" class="fab fa-medium-m fa-lg"></i>
+        <span class="label">Medium</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//meetup.com/members/182920007" class="icon font-awesome fa-meetup" target="_blank" rel="nofollow">
+        <i title="Meetup" class="fab fa-meetup fa-lg"></i>
+        <span class="label">Meetup</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//paypal.me/fvcproductions/5" class="icon font-awesome fa-paypal" target="_blank" rel="nofollow">
+        <i title="PayPal" class="fab fa-paypal fa-lg"></i>
+        <span class="label">PayPal</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//producthunt.com/fvcproductions" class="icon font-awesome fa-product-hunt" target="_blank" rel="nofollow">
+        <i title="ProductHunt" class="fab fa-product-hunt fa-lg"></i>
+        <span class="label">ProductHunt</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//quora.com/profile/fvcproductions" class="icon font-awesome fa-quora" target="_blank" rel="nofollow">
+        <i title="Quora" class="fab fa-quora fa-lg"></i>
+        <span class="label">Quora</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//reddit.com/user/fvcproductions" class="icon font-awesome fa-reddit" target="_blank" rel="nofollow">
+        <i title="Reddit" class="fab fa-reddit fa-lg"></i>
+        <span class="label">Reddit</span>
+      </a>
+    </li>
+    
+    
+    <li>
+      <a href="/index.xml" class="icon font-awesome fa-rss" target="_blank" rel="nofollow">
+        <i title="RSS" class="fas fa-rss fa-lg"></i>
+        <span class="label">RSS</span>
+      </a>
+    </li>
+    
+    
+    <li>
+      <a href="//scribd.com/user/194063411/FVCproductions" class="icon font-awesome fa-scribd" target="_blank" rel="nofollow">
+        <i title="Scribd" class="fab fa-scribd fa-lg"></i>
+        <span class="label">Scribd</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//slideshare.net/fvcproductions" class="icon font-awesome fa-slideshare" target="_blank" rel="nofollow">
+        <i title="SlideShare" class="fab fa-slideshare fa-lg"></i>
+        <span class="label">SlideShare</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//soundcloud.com/fvcproductions" class="icon font-awesome fa-soundcloud" target="_blank" rel="nofollow">
+        <i title="SoundCloud" class="fab fa-soundcloud fa-lg"></i>
+        <span class="label">SoundCloud</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//open.spotify.com/user/fvcproductions" class="icon font-awesome fa-spotify" target="_blank" rel="nofollow">
+        <i title="Spotify" class="fab fa-spotify fa-lg"></i>
+        <span class="label">Spotify</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//stackexchange.com/users/3595658/fvcproductions" class="icon font-awesome fa-stack-exchange" target="_blank" rel="nofollow">
+        <i title="StackExchange" class="fab fa-stack-exchange fa-lg"></i>
+        <span class="label">StackExchange</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//stackoverflow.com/users/3000467/fvcproductions" class="icon font-awesome fa-stack-overflow" target="_blank" rel="nofollow">
+        <i title="StackOverflow" class="fab fa-stack-overflow fa-lg"></i>
+        <span class="label">StackOverflow</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//steamcommunity.com/id/fvcproductions" class="icon font-awesome fa-steam" target="_blank" rel="nofollow">
+        <i title="Steam" class="fab fa-steam fa-lg"></i>
+        <span class="label">Steam</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//trello.com/fvcproductions" class="icon font-awesome fa-trello" target="_blank" rel="nofollow">
+        <i title="Trello" class="fab fa-trello fa-lg"></i>
+        <span class="label">Trello</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//fvcproductions2013tumblr.com" class="icon font-awesome fa-tumblr" target="_blank" rel="nofollow">
+        <i title="Tumblr" class="fab fa-tumblr fa-lg"></i>
+        <span class="label">Tumblr</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//twitter.com/fvcproductions" class="icon font-awesome fa-twitter" target="_blank" rel="nofollow">
+        <i title="Twitter" class="fab fa-twitter fa-lg"></i>
+        <span class="label">Twitter</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//fvcproductions.wordpress.com" class="icon font-awesome fa-wordpress" target="_blank" rel="nofollow">
+        <i title="Wordpress" class="fab fa-wordpress fa-lg"></i>
+        <span class="label">Wordpress</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//vimeo.com/fvcproductions" class="icon font-awesome fa-vimeo" target="_blank" rel="nofollow">
+        <i title="Vimeo" class="fab fa-vimeo fa-lg"></i>
+        <span class="label">Vimeo</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//yelp.com/user_details?userid=E6StflkoWAutmRZ31zNTug" class="icon font-awesome fa-yelp" target="_blank" rel="nofollow">
+        <i title="Yelp" class="fab fa-yelp fa-lg"></i>
+        <span class="label">Yelp</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//youtube.com/fvcproductions2013" class="icon font-awesome fa-youtube" target="_blank" rel="nofollow">
+        <i title="YouTube" class="fab fa-youtube fa-lg"></i>
+        <span class="label">YouTube</span>
+      </a>
+    </li>
+    
+  </ul>
+</section>
+
+  </div>
+</div>
+
+  
+  <div class="page-section donate-section">
+  <div class="12u$">
+    <h3>
+      💸️ Donate
+    </h3>
+    <p>If you have found any of my contributions valuable, kindly consider supporting me through a small donation or by becoming
+      an ongoing patron. </p>
+    
+    <a href="//patreon.com/fvcproductions" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/patreon.svg" height="50" alt="Patreon">
+    </a>
+    
+    &nbsp;
+    <a href="//paypal.me/fvcproductions/5" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/paypal.svg" height="50" alt="PayPal.Me">
+    </a>
+    
+    &nbsp;
+    <a href="//venmo.com/fvcproductions" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/venmo.svg" height="50" alt="Venmo">
+    </a>
+    
+    &nbsp;
+    <a href="//smile.amazon.com/gp/registry/wishlist/183BMRKTBNR0A" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/amazon.svg" height="50" alt="Amazon Smile">
+    </a>
+    
+    &nbsp;
+    <a href="//cash.me/$fvcprdxs/5" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/cash.svg" height="50" alt="Square Cash">
+    </a>
+    <br>
+  </div>
+</div>
+
+  
+  
+<div class="page-section comments-section">
+  <div class="12u$">
+    <section>
+      <h3>
+        🙈️🙉️🙊️ Leave a comment
+      </h3>
+      <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "fvcproductions" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </section>
+  </div>
+</div>
+
+
+
+  
+  
+<div class="page-section pagination-section">
+  <div class="12u$">
+    
+    
+    <a class="button big" href="/2017/01/13/simple-to-do-app-in-laravel-/">
+      <i class="fas fa-long-arrow-alt-left" title="Previous Section"></i>
+      Simple To-Do App in Laravel ✅
+    </a>
+    
+    
+     &nbsp;
+    <a class="button big" href="/2017/01/21/huge-school-application-2017/">
+      Huge School Application 2017
+      <i class="fas fa-long-arrow-alt-right" title="Next Section"></i>
+    </a>
+    
+  </div>
+</div>
+
+
+</div>
+
+</div>
+
+
+    </div>
+    
+    
+<footer id="footer">
+  <div class="inner">
+    <section class="social-icons">
+  <ul class="icons">
+    
+    
+    <li>
+      <a href="//behance.net/fvcproductions" class="icon font-awesome" target="_blank" rel="nofollow">
+        <i title="Behance" class="fab fa-behance"></i>
+        <span class="label">Behance</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//github.com/fvcproductions" class="icon font-awesome" target="_blank" rel="nofollow">
+        <i title="GitHub" class="fab fa-github-alt"></i>
+        <span class="label">GitHub</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//linkedin.com/fvcproductions" class="icon font-awesome" target="_blank" rel="nofollow">
+        <i title="LinkedIn" class="fab fa-linkedin-in"></i>
+        <span class="label">LinkedIn</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//slideshare.net/fvcproductions" class="icon font-awesome" target="_blank" rel="nofollow">
+        <i title="SlideShare" class="fab fa-slideshare"></i>
+        <span class="label">SlideShare</span>
+      </a>
+    </li>
+    
+    
+    <li>
+      <a href="/index.xml" class="icon font-awesome" target="_blank" rel="nofollow">
+        <i title="RSS" class="fas fa-rss"></i>
+        <span class="label">RSS</span>
+      </a>
+    </li>
+    
+    
+    <li>
+      <a href="//twitter.com/fvcproductions" class="icon font-awesome" target="_blank" rel="nofollow">
+        <i title="Twitter" class="fab fa-twitter"></i>
+        <span class="label">Twitter</span>
+      </a>
+    </li>
+    
+  </ul>
+</section>
+
+    <div class="copyright">
+      <div class="row">
+        <div class="12u$">
+          
+          
+          <i title="Copyright FVCproductions" class="fas fa-copyright"></i>
+          <a href="/">FVCproductions</a>
+          
+          
+           2013  to 2018
+          <br>
+          <br>
+          <i title="Colophon" class="fas fa-cog"></i>
+          <a href="/about/colophon/">Colophon</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  </div>
+  
+  
+  
+  
+  
+  
+  
+  <script src="/assets/js/app.js"></script>
+</body>
+
+</html>
