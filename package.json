@@ -9,7 +9,8 @@
     "build": "gulp build",
     "preview": "gulp build-preview",
     "start": "gulp server",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "deploy": "git subtree push --prefix dist origin master"
   },
   "author": "Frances Coronel",
   "license": "MIT",
