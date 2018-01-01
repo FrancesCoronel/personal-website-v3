@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+
+<head>
+  <title>{{ .Title }}</title>
+  <!-- <base href="{{ .Site.BaseURL }}"> -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="DC.title" content="{{ .Title }}">
+  <meta name="DC.description" content="{{ .Description }}">
+  <meta name="DC.creator" content="Frances Coronel">
+  <meta name="DC.language" content="en">
+  <meta name="DC.publisher" content="Frances Coronel">
+  <meta name="DC.subject" content="{{ range .Params.tags }}{{ . }},{{ end }}">
+  <!-- SEO -->
+  {{ partial "base/header/seo.html" . }}
+  <!-- Favicons -->
+  {{ partial "base/header/favicons.html" . }}
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/main.css">
+  <!-- IE Styling -->
+  <!--[if lte IE 9]><link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/ie9.css"><![endif]-->
+  <!--[if lte IE 8]><link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/ie8.css"><![endif]-->
+</head>
+
+<body>
+  <!-- Wrapper -->
+  <div id="wrapper">
+    <!-- Logo -->
+    {{ partial "base/header/logo.html" . }}
+    <!-- Right Menu Bar -->
+    {{ partial "base/header/navbar.html" . }}
+    <!-- Main Block -->
+    <div class="inner">
+      {{ block "main" . }} {{ end }}
+    </div>
+    <!-- Footer -->
+    {{ partial "base/footer/index.html" . }}
+  </div>
+  <!-- Scripts -->
+  <!-- IE -->
+  <!--[if lte IE 8]><script src="{{.Site.BaseURL}}assets/js/ie.js"></script><![endif]-->
+  <!-- Google Analytics -->
+  <!-- {{ template "_internal/google_analytics_async.html" . }} -->
+  <!--use just the brands and solid styles-->
+  <!-- Custom JS -->
+  <script src="{{.Site.BaseURL}}assets/js/app.js"></script>
+</body>
+
+</html>

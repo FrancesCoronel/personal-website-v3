@@ -1,0 +1,20 @@
+#wrapper {
+  .inner {
+    width: 100%;
+    margin: 0 auto;
+    $gutter: _size(gutter) * 0.8;
+    padding: 0 $gutter;
+    @include breakpoint(small) {
+      padding: 0 1em;
+    }
+    @include breakpoint(xxlarge) {
+      padding: 0 20em;
+    }
+    @include breakpoint(xxxlarge) {
+      padding: 0 40em;
+    }
+    @include breakpoint(xxxxlarge) {
+      padding: 0 60em;
+    }
+  }
+}

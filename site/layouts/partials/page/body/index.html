@@ -1,0 +1,11 @@
+<div class="page-body">
+  <div class="12u$">
+    {{ if .Content }} {{ .Content }} {{ end }}
+    <!-- Taxonomy -->
+    {{ partial "page/body/taxonomy.html" . }}
+    <!-- Archive Page -->
+    {{ if .Params.Archive }} {{ partial "page/body/archive.html" . }} {{ end }}
+    <!-- Awards Page -->
+    {{ if .Params.awards }} {{ partial "page/body/awards.html" . }} {{ end }}
+  </div>
+</div>

@@ -1,0 +1,20 @@
+<!-- Menu -->
+<nav id="menu">
+  <h2>Menu</h2>
+  <ul>
+    <!-- TODO: Add Algolia Search -->
+    <!-- <li>
+      <p>
+        <b>Search... 🔍️</b>
+      </p>
+    </li> -->
+    {{ range .Site.Menus.main }}
+    <li>
+      <a href="{{ .URL }}">
+        {{ with .Identifier }}
+        <i class="{{ . }}">&nbsp;</i>{{ end }}{{ .Name }}
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</nav>

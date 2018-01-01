@@ -1,0 +1,23 @@
+<!-- Adventures -->
+{{ if .Params.adventures }}
+<blockquote>You can filter adventures by their type!</blockquote>
+<!-- Blogging -->
+{{ else if .Params.blog }}
+<h3>Posts</h3>
+<blockquote>You can filter the posts by their category type.</blockquote>
+<!-- Portfolio -->
+{{ else if .Params.portfolio }}
+<h3>Projects</h3>
+<blockquote>You can filter the projects by their category type.</blockquote>
+<!-- Services -->
+{{ else if .Params.services }}
+<h3>✅ Reviews</h3>
+<blockquote>All the nice things folks have had to say.</blockquote>
+<!-- Speaking -->
+{{ else if .Params.speaking }}
+<h3>Events</h3>
+<p>Some conference activity can also be found on my
+  <a href="https://lanyrd.com/profile/fvcproductions/" target="_blank" rel="nofollow">Lanyrd &#x2197;</a>.</p>
+<blockquote>You can filter the events by the talk I gave.</blockquote>
+<!-- End -->
+{{ end }}

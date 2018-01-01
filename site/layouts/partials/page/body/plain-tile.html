@@ -1,0 +1,28 @@
+<article class="plain-tile {{ if .Parent.Params.isotope }}isotope-item{{ end }} {{ with .Params.categories }}{{ delimit . " " }}{{ end }}">
+  {{ if .Params.banner }}
+  <span class="plain-tile-image" style="background-image:url({{ .Params.banner }});"></span>
+  {{ end }}
+  <div class="content">
+    <!-- Date -->
+    {{ if not .PublishDate.IsZero }}
+    <p>{{ .Date.Format "January 2006" }}</p>
+    {{ end }}
+    <!-- Title -->
+    {{ if .Params.link }}
+    <a href="{{ .Params.link }}">
+      <h2>{{ .Title }} {{ if .Params.link }}↗️{{ end }}
+      </h2>
+    </a>
+    {{ else }}
+    <a href="{{ .Permalink }}">
+      <h2>{{ .Title }}</h2>
+    </a>
+    {{ end }}
+    <!-- Description -->
+    {{ if .Description }}
+    <p>{{ .Description | truncate 100 | safeHTML }}</p>
+    {{ else }}
+    <p>{{ .Summary | truncate 100 | safeHTML }}</p>
+    {{ end }}
+  </div>
+</article>

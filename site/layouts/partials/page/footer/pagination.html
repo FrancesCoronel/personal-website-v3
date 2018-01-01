@@ -1,0 +1,20 @@
+{{ if or (or (.PrevInSection) (.NextInSection)) }}
+<div class="page-section pagination-section">
+  <div class="12u$">
+    <!-- Previous Page -->
+    {{ if .PrevInSection }}
+    <a class="button big" href="{{ .PrevInSection.Permalink }}">
+      <i class="fas fa-long-arrow-alt-left" title="Previous Section"></i>
+      {{ .PrevInSection.Title }}
+    </a>
+    {{ end }}
+    <!-- Next Page -->
+    {{ if .NextInSection }} &nbsp;
+    <a class="button big" href="{{ .NextInSection.Permalink }}">
+      {{ .NextInSection.Title }}
+      <i class="fas fa-long-arrow-alt-right" title="Next Section"></i>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

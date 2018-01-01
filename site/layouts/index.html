@@ -1,0 +1,33 @@
+{{ define "main" }}
+<header>
+  <h1>{{ .Site.Params.headline }}</h1>
+  <p>{{ .Site.Params.description }}</p>
+</header>
+<section class="home tiles">
+  <!-- Pages -->
+  {{ $pages := where .Site.RegularPages "Type" "page" }}
+  <!-- Section Pages -->
+  {{ $pages := $pages | union (.Site.Sections) }}
+  <!-- Looping -->
+  {{ range $pages.ByTitle }}
+  <article>
+    <!-- Image -->
+    <span class="image home-article" style="background-image:url({{ .Params.banner }});"></span>
+    <!-- External Link -->
+    {{ if .Params.link }}
+    <a href="{{ .Params.link }}" target="_blank"> ↗️
+      <!-- No External Link -->
+      {{ else }}
+      <a href="{{ .Permalink }}">
+        {{ end }}
+        <!-- Title -->
+        <h2>{{ .Title }} </h2>
+        <!-- Description -->
+        <div class="content">
+          <p>{{ .Description }}</p>
+        </div>
+      </a>
+  </article>
+  {{ end }}
+</section>
+{{ end }}
