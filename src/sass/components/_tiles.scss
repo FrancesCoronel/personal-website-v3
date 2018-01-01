@@ -7,6 +7,7 @@
   @include vendor("flex-wrap", "wrap");
   position: relative;
   margin: ($gutter * -1) 0 0 ($gutter * -1);
+  overflow: hidden;
   article {
     @include vendor("transition", ( "opacity #{$duration} #{$ease}"));
     position: relative;
@@ -74,6 +75,7 @@
       width: 100%;
       height: 100%;
       padding: 2em;
+      overflow: hidden;
       border-radius: _size(border-radius);
       border-bottom: 0;
       color: _palette(fg-accent);

@@ -1,7 +1,6 @@
 body {
   color: #292929;
-  font-family: "Roboto", -apple-system, ".SFNSText-Regular", "San Francisco",
-    "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: "Roboto", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-weight: 300;
   line-height: 1.8;
   letter-spacing: 0.0125em;
@@ -15,8 +14,7 @@ h4,
 h5,
 h6 {
   margin: 0.5em 0 0.5em;
-  font-family: "Roboto", -apple-system, ".SFNSText-Regular", "San Francisco",
-    "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  font-family: "Roboto", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
   font-weight: 300;
 }
 
@@ -222,10 +220,10 @@ textarea#message {
   }
 }
 
-ol > li > ul,
-ul > li > ul,
-ol > li > ol,
-ul > li > ol {
+ol>li>ul,
+ul>li>ul,
+ol>li>ol,
+ul>li>ol {
   margin-bottom: 0;
 }
 
@@ -276,7 +274,6 @@ input[type="radio"] {
 .archive-date {
   margin-right: 1em;
 }
-
 
 .subscribe-form {
   margin: 2em 0 4em 0;
@@ -370,7 +367,7 @@ table th {
       /* override*/
     }
   }
-  h4 + p {
+  h4+p {
     /* remove space above paragraphs that appear directly after notice headline*/
     margin-top: 0;
     padding-top: 0;
@@ -420,6 +417,9 @@ blockquote {
 .filter-button-group {
   button {
     margin: 0.5em 0.5em 0.5em 0;
+    @include breakpoint(small) {
+      width: 100%;
+    }
   }
 }
 
@@ -464,6 +464,17 @@ archive-date {
   }
 }
 
+.page {
+  margin: 0 auto;
+  width: 90%;
+  @include breakpoint(small) {
+    width: 100%;
+  }
+  @include breakpoint(medium) {
+    width: 95%;
+  }
+}
+
 .section.tiles.plain article,
 .section.tiles.isotope.blog.plain article {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
@@ -471,7 +482,7 @@ archive-date {
   padding: 2em;
   a {
     color: _palette(fg);
-    :hover {
+     :hover {
       color: #607d8b;
     }
   }
@@ -504,7 +515,6 @@ archive-date {
 //     }
 //   }
 // }
-
 span.image.main img {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
 }
