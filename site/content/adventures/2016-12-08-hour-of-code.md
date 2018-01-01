@@ -41,5 +41,3 @@ Helped out middle school students in their [CodeCombat](https://codecombat.com) 
 I even received some swag from ELiTE Education in exchange! 😊
 
 TODO: upload presentation
-
-{% include gallery %}

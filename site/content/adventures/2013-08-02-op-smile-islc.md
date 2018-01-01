@@ -36,5 +36,3 @@ This was my second international conference with Operation Smile.
 I really enjoyed this conference because I was able to bring in a lot of my fellow members from the Operation Smile Club at Maury High School where I was the VP.
 
 It was conveniently located in my hometown of Norfolk and marked my final piece of involvement with Operation Smile since I had just graduated from high school.
-
-{% include gallery %}

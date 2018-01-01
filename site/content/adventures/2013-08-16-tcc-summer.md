@@ -42,5 +42,3 @@ Through TCC's dual enrollment program, I enrolled in 4 different courses that I 
 ### Transcript
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/353207049/Tidewater-Community-College-Transcript">Tidewater Community College Transcript</a></h4><p>This is my transcript from my two summers at Tidewater Community College where I enrolled in courses while still in high school.</p></blockquote>
-
-{% include gallery %}

@@ -77,5 +77,3 @@ Participant
 ## About
 
 Accenture annually hosts the Student Leadership Conference (SLC) for their summer interns from across the US and Canada.
-
-{% include gallery %}

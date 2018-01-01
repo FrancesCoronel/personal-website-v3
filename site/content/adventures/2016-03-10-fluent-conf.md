@@ -51,5 +51,3 @@ Diversity Scholarship Recipient
 I was selected as a "Diversity Scholarship Recipient" by O'Reilly to attend the Fluent Confernece, which covers all things related to web development.
 
 Fluent brings together talented people from diverse backgrounds who are building great projects for the web and are eager to share experiences and expertise. They explore topics related to core web platform technologies, tools to help build the modern web, and strategies for building performant and resilient apps and sites:
-
-{% include gallery %}

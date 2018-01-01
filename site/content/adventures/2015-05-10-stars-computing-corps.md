@@ -35,5 +35,3 @@ STARS Computing Corps is a community of practice for student-led regional engage
 ### Awards
 
 I was awarded a full scholarship to attend the annual [STARS Celebration conference in August 2014](https://www.starscelebration.org/2014).
-
-{% include gallery %}

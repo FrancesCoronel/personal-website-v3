@@ -58,5 +58,3 @@ The Accenture Liquid Studios are designed for rapid application development. The
 <blockquote class="embedly-card"><h4><a href="//speakerdeck.com/fvcproductions/wearables-team">Wearables Team</a></h4><p>An overview of the Wearables Team at Accenture's Liquid Studio.</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="//speakerdeck.com/fvcproductions/ar-vs-vr-accenture">AR vs VR | Accenture</a></h4><p>An overview of the difference between AR and VR. Accenture Liquid Studio Wearables Team Summer 2016 Intern</p></blockquote>
-
-{% include gallery %}

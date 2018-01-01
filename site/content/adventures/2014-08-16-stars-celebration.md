@@ -42,5 +42,3 @@ The STARS celebration showcases current STARS participants and STARS alumni, as 
 Celebration provides opportunities for learning, collaborating, and networking with academic and industry partners.
 
 I attended with other students from Hampton University.
-
-{% include gallery %}

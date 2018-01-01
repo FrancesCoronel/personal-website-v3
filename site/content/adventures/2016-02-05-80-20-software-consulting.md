@@ -39,8 +39,6 @@ November 2015 to February 5th, 2016
 * consulted clients on how to improve their Wordpress based websites
 * gained skills in fullstack web development by working with large scale web projects
 
-{% include gallery %}
-
 <blockquote class="embedly-card"><h4><a href="//twitter.com/madeby8020/status/669603319330021377">80|20 on Twitter</a></h4><p>We're excited to have @fvcproductions joining the team as a front-end developer!</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="//twitter.com/fvcproductions/status/700371760663891968">Frances Coronel on Twitter</a></h4><p>Company lunch @8020co! 🍳☕️🍞</p></blockquote>

@@ -102,5 +102,3 @@ View the project at [`github.com/fvcproductions/ammalia`](https://github.com/fvc
 Created a README badge to be used for project READMEs hacked out at the TreeHacks hackathon at Stanford. February 16th, 2016
 
 [![Hacked at TreeHacks](https://fvcproductions.files.wordpress.com/2016/02/treehacks.png)](https://fvcproductions.files.wordpress.com/2016/02/treehacks.png) Hacked at TreeHacks
-
-{% include gallery %}

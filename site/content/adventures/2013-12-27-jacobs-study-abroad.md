@@ -81,5 +81,3 @@ I received a generous merit scholarship to attend and study computer science. Wh
 #### Academic & Professional Skills
 
 * Business Etiquette Seminar
-
-{% include gallery %}

@@ -53,5 +53,3 @@ TODO: https://speakerdeck.com/fvcproductions/hrdevfest-web-design
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/erikpmp/status/665554118182703105">Erik Olson on Twitter</a></h4><p>Thanks @fvcproductions for letting me know about the upcoming documentary DESIGN DISRUPTORS! https://t.co/a3QvMSqkWy #hrdevfest</p></blockquote>
 
 TODO: Add more pictures to gallery
-
-{% include gallery %}

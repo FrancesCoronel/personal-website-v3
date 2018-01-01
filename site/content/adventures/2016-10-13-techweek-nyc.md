@@ -52,5 +52,3 @@ Volunteer
 Volunteered for Techweek at the Met Pavillion during their Speaker Summit in exchange for an Executive pass.
 
 Listened to a few speakers, attended the career fair, and visited booths in the expo.
-
-{% include gallery %}

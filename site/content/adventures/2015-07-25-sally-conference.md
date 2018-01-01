@@ -40,5 +40,3 @@ Scholarship Recipient
 While I was at Fullstack Academy, I was offered to attend the Sally Conference, free of cost.
 
 It was definitely an interesting session and I heard a lot of great speakers.
-
-{% include gallery %}

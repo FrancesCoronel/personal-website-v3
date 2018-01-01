@@ -35,5 +35,3 @@ Potential Full-Time Hire Candidate
 ## About
 
 I was invited to explore potential careers with Accenture in San Francisco, all expenses paid for.
-
-{% include gallery %}

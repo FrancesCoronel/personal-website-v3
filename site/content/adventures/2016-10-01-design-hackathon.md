@@ -59,5 +59,3 @@ Our team submitted everything on time but in the end, they went with another tea
 <blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/the-meggs-case">The MEGGS Case</a></h4><p>MEGGS creates tech focused cases that offer beautiful and well designed protective solutions for your iPhone 7. We believe getting women interested and involved in STEM is vital to the industries and creates a well balanced and educated society.</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="https://scribd.com/document/326087214/Business-Plan-The-MEGGS-Case">Business Plan - The MEGGS Case</a></h4><p>MEGGS creates tech-focused cases that offer beautiful and well designed protective solutions for your iPhone 7. We believe getting women interested and involved in STEM is vital to the industries and creates a well balanced and educated society. Through our cases, we want to give young women and girls a tangible way to showcase their passion in interests through fashion accessories.</p></blockquote>
-
-{% include gallery %}

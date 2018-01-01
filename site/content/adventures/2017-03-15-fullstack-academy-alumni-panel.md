@@ -27,5 +27,3 @@ New York, NY
 Invited to speak at Fullstack Academy for the current senior cohort as one of three alumni.
 
 <blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=nzOfNIL9GWE">FSA - Alumni Panel</a></h4><p>Uploaded by Fullstack Academy on 2017-03-16.</p></blockquote>
-
-{% include gallery %}

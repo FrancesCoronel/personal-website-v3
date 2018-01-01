@@ -87,5 +87,3 @@ Needless to say, this year was friggin' amazing.
 > I'm the one in pink!
 
 <blockquote class="embedly-card"><h4><a href="//twitter.com/SonjaOttley/status/776506790724841472">Sonja Gittens Ottley on Twitter</a></h4><p>Meeting so many great students @Tapia_con, like these from our Startup breakfast co-hosted with @a16z! #Tapia2016</p></blockquote>
-
-{% include gallery %}

@@ -52,5 +52,3 @@ Volunteer
 ## About
 
 I volunteered for DeveloperWeek, one of the largest tech conferences in San Francisco, and got a VIP ticket in return.
-
-{% include gallery %}

@@ -39,5 +39,3 @@ Participant
 ## About
 
 This was a conference all Accenture employees in the San Francisco Bay Area are invited to every year. It was cool to see all the different folks involved and how big of a deal the Liquid Studio is for Accenture.
-
-{% include gallery %}

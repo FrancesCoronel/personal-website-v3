@@ -12,8 +12,6 @@ categories:
 
 ## Check it out at [fvcproductions.github.io](https://fvcproductions.github.io/)! 😊
 
-{% include gallery %}
-
 Updated my GitHub page in order to better showcase my current state of mind.
 
 If you click on 'black' or 'white', the interface changes colors. Woot!

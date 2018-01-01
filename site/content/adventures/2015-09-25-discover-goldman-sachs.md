@@ -32,5 +32,3 @@ September 24th to 25th, 2015
 ## About
 
 The Discover GS Camps are one day programs for students interested in exploring the numerous career paths in the financial services industry and familiarizing themselves with the firm’s business, history and culture.
-
-{% include gallery %}

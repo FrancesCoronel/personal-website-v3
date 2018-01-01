@@ -39,5 +39,3 @@ https://speakerdeck.com/fvcproductions/duolingo-delights-revised-1
 
 [![Donate via
 PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](https://paypal.me/fvcproductions)
-
-{% include gallery %}

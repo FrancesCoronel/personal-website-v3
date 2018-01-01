@@ -3,11 +3,6 @@ title: ISCE 2011
 description: My first conference through OP Smile!
 date: 2011-08-07
 banner: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
-gallery:
-    - alt: "ISCE 2011 - Group Shot"
-      url: //i0.wp.com/fvcproductions.files.wordpress.com/2015/11/isce_groupshot_2011.jpg
-    - alt: "ISCE 2011"
-      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
 categories:
     - conference
     - certainty
@@ -15,7 +10,7 @@ categories:
 
 ## Name
 
-<a title="ISLC" href="//studentprograms.operationsmile.org/events/islc/" target="_blank" rel="noopener">International Student Cultural Exchange</a>
+[International Student Cultural Exchange](//studentprograms.operationsmile.org/events/islc/)
 
 ## Organizer
 
@@ -33,4 +28,6 @@ August 1st to 7th, 2011
 
 This was an international conference Operation Smile hosted for all the student volunteers involved. This was my first serious conference at 16 and I learned so much.
 
-{% include gallery %}
+![ISCE 2011 - Group Shot](https://i0.wp.com/fvcproductions.files.wordpress.com/2015/11/isce_groupshot_2011.jpg)
+
+![ISCE 2011](https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg)

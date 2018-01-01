@@ -43,5 +43,3 @@ As a diversity scholarship recipient, all expenses were taken care of.
 A few folks from Norfolk.js and I were able to attend React.js Conf together and it was so much fun!
 
 I even met a Fullstack Academy alumnus from my cohort while there!
-
-{% include gallery %}
