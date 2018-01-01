@@ -1,11 +1,11 @@
-// Misc.
+// Misc
 $misc: (z-index-base: 10000);
-// Duration.
+// Duration
 $duration: (
   menu: 0.45s,
   transition: 0.2s
 );
-// Size.
+// Size
 $size: (
   border-radius: 0,
   border-width: 1px,
@@ -16,28 +16,28 @@ $size: (
   inner: 54em,
   menu: 22em
 );
-// Font.
+// Font
 $font: (
   family:
     (
-      'Roboto',
+      "Roboto",
       -apple-system,
       system-ui,
       BlinkMacSystemFont,
-      'Segoe UI',
-      'Roboto',
-      'Helvetica Neue',
+      "Segoe UI",
+      "Roboto",
+      "Helvetica Neue",
       Arial,
       sans-serif
     ),
   family-fixed:
     (
-      'Roboto Mono',
+      "Roboto Mono",
       Menlo,
       Monaco,
       Consolas,
-      'Liberation Mono',
-      'Courier New',
+      "Liberation Mono",
+      "Courier New",
       monospace
     ),
   weight: 400,
@@ -46,7 +46,7 @@ $font: (
   letter-spacing: 0.35em,
   letter-spacing-alt: -0.035em
 );
-// Palette.
+// Palette
 $palette: (
   bg: #ffffff,
   bg-accent: #333333,

@@ -9,7 +9,7 @@ import cssnano from "cssnano";
 import BrowserSync from "browser-sync";
 import watch from "gulp-watch";
 import webpack from "webpack";
-import webpackConfig from "./webpack.conf";
+import webpackConfig from "./webpack.config";
 import imagemin from "gulp-imagemin";
 import del from "del";
 

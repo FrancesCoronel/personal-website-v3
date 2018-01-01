@@ -12,7 +12,7 @@
     position: relative;
     width: calc(#{(100% / 3)} - #{$gutter * 1});
     margin: $gutter 0 0 $gutter;
-    >.image {
+    > .image {
       @include vendor("transition", "transform #{$duration} #{$ease}");
       position: relative;
       display: block;
@@ -47,7 +47,9 @@
         left: 0;
         width: 100%;
         height: 100%;
-        background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" preserveAspectRatio="none"><style>line { stroke-width: 0.25px; stroke: #ffffff; }</style><line x1="0" y1="0" x2="100" y2="100" /><line x1="100" y1="0" x2="0" y2="100" /></svg>');
+        background-image: svg-url(
+          '<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" preserveAspectRatio="none"><style>line { stroke-width: 0.25px; stroke: #ffffff; }</style><line x1="0" y1="0" x2="100" y2="100" /><line x1="100" y1="0" x2="0" y2="100" /></svg>'
+        );
         background-position: center;
         background-repeat: no-repeat;
         background-size: 100% 100%;
@@ -55,7 +57,7 @@
         z-index: 2;
       }
     }
-    >a {
+    > a {
       @include vendor("display",
       "flex");
       @include vendor("flex-direction",
@@ -102,39 +104,9 @@
         }
       }
     }
-    &.style1 {
-      >.image:before {
-        background-color: _palette(accent1);
-      }
-    }
-    &.style2 {
-      >.image:before {
-        background-color: _palette(accent2);
-      }
-    }
-    &.style3 {
-      >.image:before {
-        background-color: _palette(accent3);
-      }
-    }
-    &.style4 {
-      >.image:before {
-        background-color: _palette(accent4);
-      }
-    }
-    &.style5 {
-      >.image:before {
-        background-color: _palette(accent5);
-      }
-    }
-    &.style6 {
-      >.image:before {
-        background-color: _palette(accent6);
-      }
-    }
     body:not(.is-touch) & {
       &:hover {
-        >.image {
+        > .image {
           @include vendor("transform",
           "scale(1.1)");
           &:before {
@@ -158,7 +130,7 @@
     article {
       @include vendor("transform",
       "scale(0.9)");
-      opacity: 0.2;
+      opacity: 0.95;
     }
   }
   body.is-touch & {
@@ -192,7 +164,7 @@
       width: calc(#{(100% / 2)} - #{$gutter * 1});
       margin: $gutter 0 0 $gutter;
       &:hover {
-        >.image {
+        > .image {
           @include vendor("transform",
           "scale(1.0)");
         }

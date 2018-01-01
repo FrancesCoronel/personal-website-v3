@@ -1,13 +1,12 @@
 const webpack = require("webpack");
 const path = require("path");
 
+const HtmlWebpackPlugin = require("html-webpack-plugin");
+const WorkboxPlugin = require("workbox-webpack-plugin");
+
 export default {
   module: {
     rules: [
-      {
-        test: /\.json$/,
-        loader: "json-loader"
-      },
       {
         test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/,
         loader: "url-loader"
@@ -17,8 +16,8 @@ export default {
         loader: "url-loader"
       },
       {
-        loader: "babel-loader",
         test: /\.js?$/,
+        loader: "babel-loader",
         exclude: /node_modules/,
         query: {
           cacheDirectory: true
@@ -38,6 +37,14 @@ export default {
     new webpack.ProvidePlugin({
       $: "jquery",
       jQuery: "jquery"
+    }),
+    new HtmlWebpackPlugin({}),
+    new WorkboxPlugin({
+      globDirectory: "dist",
+      globPatterns: ["**/*.{html,js, css}"],
+      swDest: path.join("dist", "sw.js"),
+      clientsClaim: true,
+      skipWaiting: true
     })
   ],
   resolve: {
@@ -50,7 +57,8 @@ export default {
   },
   context: path.join(__dirname, "src"),
   entry: {
-    // isotope: ["./js/components/isotope"],
+    OneSignalSDKUpdaterWorker: ["./js/service-worker/OneSignalSDKUpdaterWorker"],
+    OneSignalSDKWorker: ["./js/service-worker/OneSignalSDKWorker"],
     ie: ["./js/components/ie"],
     app: ["./js/app"]
   },
@@ -58,6 +66,5 @@ export default {
     path: path.join(__dirname, "dist/assets/js"),
     publicPath: "/dist/assets/js/",
     filename: "[name].js"
-  },
-  externals: [/^vendor\/.+\.js$/]
+  }
 };

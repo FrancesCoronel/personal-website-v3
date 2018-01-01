@@ -8,6 +8,7 @@ gallery:
       url: https://i.imgur.com/8cFXnVj.jpg
 categories:
     - portfolio
+    - 2016
 ---
 
 Check out the web app at [`va-acm.stamplayapp.com`](https://va-acm.stamplayapp.com/)

@@ -3,34 +3,10 @@ title: School for Field Studies
 date: 2012-08-14
 description: Studied Wildlife Research Techniques in Tanzania during the summer of 2012.
 banner: https://fvcproductions.files.wordpress.com/2015/11/461956_476846202328099_271376704_o.jpg
-gallery:
-    - alt: "SFS"
-      url: https://fvcproductions.files.wordpress.com/2015/11/323071_476875508991835_1185245848_o.jpg?w=517&h=342&zoom=2
-    - alt: "SFS"
-      url: https://fvcproductions.files.wordpress.com/2015/11/img_0146.jpg?w=225&h=169&zoom=2
-    - alt: "SFS"
-      url: https://fvcproductions.files.wordpress.com/2015/11/461956_476846202328099_271376704_o.jpg?w=225&h=169&zoom=2
-    - alt: "SFS"
-      url: https://fvcproductions.files.wordpress.com/2015/11/599336_10151111795034456_946669947_n.jpg?w=315&h=210&zoom=2
-    - alt: "SFS"
-      url: https://fvcproductions.files.wordpress.com/2015/11/the-crater.jpg?w=427&h=210&zoom=2
-    - alt: "SFS"
-      url: https://fvcproductions.files.wordpress.com/2015/11/dscf5534.jpg?w=235&h=176&zoom=2
-    - alt: "SFS"
-      url: https://fvcproductions.files.wordpress.com/2015/11/dscf5267.jpg?w=235&h=157&zoom=2
-    - alt: "SFS"
-      url: https://fvcproductions.files.wordpress.com/2015/11/dsc_9569.jpg?w=507&h=337&zoom=2
-    - alt: "SFS"
-      url: https://fvcproductions.files.wordpress.com/2015/11/dscf5097.jpg?w=178&h=133&zoom=2
-    - alt: "SFS"
-      url: https://fvcproductions.files.wordpress.com/2015/11/403998_10151001701941363_1690786442_n.jpg?w=178&h=133&zoom=2
-    - alt: "SFS"
-      url: https://fvcproductions.files.wordpress.com/2015/11/dscf5448.jpg?w=200&h=133&zoom=2
-    - alt: "SFS"
-      url: https://fvcproductions.files.wordpress.com/2015/11/img_0967.jpg?w=178&h=133&zoom=2
 categories:
     - program
     - education
+    - certainty
 ---
 
 ## Name
@@ -67,4 +43,26 @@ I received college credit from Boston University for completing this course.
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/doc/313099732/Boston-University-Transcript">Boston University Transcript</a></h4><p>FVCproductions Check me out at fvcproductions.com Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright FVCproductions 2016 Don't forget to like and/or comment! :)</p></blockquote>
 
-{% include gallery %}
+![](https://fvcproductions.files.wordpress.com/2015/11/323071_476875508991835_1185245848_o.jpg?w=517&h=342&zoom=2)
+
+![](https://fvcproductions.files.wordpress.com/2015/11/img_0146.jpg?w=225&h=169&zoom=2)
+
+![](https://fvcproductions.files.wordpress.com/2015/11/461956_476846202328099_271376704_o.jpg?w=225&h=169&zoom=2)
+
+![](https://fvcproductions.files.wordpress.com/2015/11/599336_10151111795034456_946669947_n.jpg?w=315&h=210&zoom=2)
+
+![](https://fvcproductions.files.wordpress.com/2015/11/the-crater.jpg?w=427&h=210&zoom=2)
+
+![](https://fvcproductions.files.wordpress.com/2015/11/dscf5534.jpg?w=235&h=176&zoom=2)
+
+![](https://fvcproductions.files.wordpress.com/2015/11/dscf5267.jpg?w=235&h=157&zoom=2)
+
+![](https://fvcproductions.files.wordpress.com/2015/11/dsc_9569.jpg?w=507&h=337&zoom=2)
+
+![](https://fvcproductions.files.wordpress.com/2015/11/dscf5097.jpg?w=178&h=133&zoom=2)
+
+![](https://fvcproductions.files.wordpress.com/2015/11/403998_10151001701941363_1690786442_n.jpg?w=178&h=133&zoom=2)
+
+![](https://fvcproductions.files.wordpress.com/2015/11/dscf5448.jpg?w=200&h=133&zoom=2)
+
+![](https://fvcproductions.files.wordpress.com/2015/11/img_0967.jpg?w=178&h=133&zoom=2)

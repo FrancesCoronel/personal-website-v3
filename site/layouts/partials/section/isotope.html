@@ -14,10 +14,12 @@
         {{ if .Params.adventures }} {{ $isopages := .Pages | union (.Sections) }} {{ range $isopages.ByDate.Reverse }} {{ partial "page/body/tile.html" . }} {{ end }} {{ end }}
         <!-- Blogging -->
         {{ if .Params.blog }} {{ $isopages := ($.Site.Taxonomies.categories.blog).Pages }} {{ range $isopages.ByDate.Reverse }} {{ partial "page/body/tile.html" . }} {{ end }} {{ end }}
-        <!-- Speaking -->
-        {{ if .Params.speaking }} {{ $isopages := ($.Site.Taxonomies.categories.speaking).Pages }} {{ range $isopages.ByDate.Reverse }} {{ partial "page/body/tile.html" . }} {{ end }} {{ end }}
+        <!-- Reviews -->
+        {{ if .Params.services }} {{ $isopages := ($.Site.Taxonomies.categories.review).Pages }} {{ range $isopages.ByDate.Reverse }} {{ partial "page/body/tile.html" . }} {{ end }} {{ end }}
         <!-- Portfolio -->
         {{ if .Params.portfolio }} {{ $isopages := ($.Site.Taxonomies.categories.portfolio).Pages }} {{ range $isopages.ByDate.Reverse }} {{ partial "page/body/tile.html" . }} {{ end }} {{ end }}
+        <!-- Speaking -->
+        {{ if .Params.speaking }} {{ $isopages := ($.Site.Taxonomies.categories.speaking).Pages }} {{ range $isopages.ByDate.Reverse }} {{ partial "page/body/tile.html" . }} {{ end }} {{ end }}
       </section>
     </div>
   </div>

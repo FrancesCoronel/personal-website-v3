@@ -8,11 +8,9 @@ categories:
     - volunteering
     - program
     - imovie101
+    - certainty
 tags:
     - imovie101
-gallery:
-  - url: https://fvcproductions.files.wordpress.com/2015/11/335160_10151174118370037_887620036_22617982_1518303044_o.jpg
-    alt: Operation Smile Mission Training Workshop
 ---
 
 ## Who
@@ -45,4 +43,4 @@ I don’t have any pictures of me while speaking, but these were taken at the mi
 
 TODO: Add more pictures to gallery
 
-{% include gallery %}
+![Operation Smile Mission Training Workshop](https://fvcproductions.files.wordpress.com/2015/11/335160_10151174118370037_887620036_22617982_1518303044_o.jpg)

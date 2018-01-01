@@ -2,8 +2,9 @@
 title: "Contact 📨️"
 description: "Getting in touch."
 banner: https://i.imgur.com/0n5zqiA.jpg
-noComments: true
 contact: true
+noComments: true
+noTimeEstimate: true
 ---
 
 ## Contact Form 💾

@@ -10,6 +10,7 @@ gallery:
       url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
 categories:
     - conference
+    - certainty
 ---
 
 ## Name

@@ -15,7 +15,7 @@ So I first decided that blogging would be a fun thing to do in my spare time bac
 
 I had just graduated high school and I was terribly excited to get away from the very familiar scene that was my hometown of Norfolk, VA. While my peers would flaunt their out of state colleges that they’d be attending, I was on my way out of the country. Germany was my next step as I finalized my decision to pursue computer science at Jacobs University. _Later on, after just one semester, I would transfer and go back to VA a tad more humble but that’s a different story._
 
-So with this big change, I figured a blog would help me navigate my new adventures within the realms of college. ¯\_(ツ)\_/¯ _Later on, I would learn that this hypothesis proved to be correct as I slowly became more obsessed with publishing new content online but that too is a whole nother story._
+So with this big change, I figured a blog would help me navigate my new adventures within the realms of college. `¯\_(ツ)\_/¯` _Later on, I would learn that this hypothesis proved to be correct as I slowly became more obsessed with publishing new content online but that too is a whole nother story._
 
 Anywho, back in 2013, I did a bunch of research into what would be the best option to manage my blog and while I tested out a bunch of different platforms, I ultimately decided on **WordPress**. It was a pretty good decision as WordPress offers a lot of obvious benefits and I ended up staying with the platform for nearly 4 years.
 
@@ -31,7 +31,7 @@ Development became such a pain that I became unmotivated to work on anything to 
 
 I decided once again to look at what options I had. I knew I wanted to work with a static site generator so I wouldn’t have to pay any subscription costs and would have more control over the look and feel. But I also needed an option that was fast, where it was easy to get started and where there was an option to import my Jekyll posts.
 
-SO I started the switch AGAIN to **Hugo **which is a newer static site generator that uses Go. It’s actually been terribly pleasant working with Hugo and moving forward I’ll be using Hugo to create my much leaner website.
+SO I started the switch AGAIN to **Hugo** which is a newer static site generator that uses Go. It’s actually been terribly pleasant working with Hugo and moving forward I’ll be using Hugo to create my much leaner website.
 
 Within the last few months, I started just getting **really** tired of micromanaging my blog and online identity so I’ve decided to just say _fuck it_ and go with whatever is most the popular option available to publish my blog posts. So here I am on **Medium**. I’ve already migrated all my posts from my original WordPress blog which had the bulk of it and so now all that’s left is migrating the few posts I created from my static site generator days.
 

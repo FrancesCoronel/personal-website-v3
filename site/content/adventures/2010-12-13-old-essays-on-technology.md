@@ -18,6 +18,7 @@ tags:
     - Wii
 categories:
     - blog
+    - certainty
 ---
 
 > This first essay talks about the mainly negative impact of texting on relationships. This essay was finished December 13, 2010. I wrote this for an application to the VA Governor's School for MST (Math, Science, and Technology) for the following summer but alas I was not accepted.

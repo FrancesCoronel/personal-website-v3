@@ -262,8 +262,8 @@ input[type="radio"] {
 .page-footer {
   margin: 2em 0;
   border-style: solid;
-  border-color: #283136;
-  border-top-width: 0.25em;
+  border-color: _palette(fg);
+  border-top-width: 0.3em;
   .page-section {
     margin-top: 3em;
     margin-bottom: 0;
@@ -272,6 +272,11 @@ input[type="radio"] {
     margin-right: 0.25em;
   }
 }
+
+.archive-date {
+  margin-right: 1em;
+}
+
 
 .subscribe-form {
   margin: 2em 0 4em 0;
@@ -465,7 +470,7 @@ archive-date {
   margin: 0.5em;
   padding: 2em;
   a {
-    color: #283136;
+    color: _palette(fg);
     :hover {
       color: #607d8b;
     }
@@ -489,7 +494,7 @@ archive-date {
 //     margin: 0;
 //     padding: 0;
 //     a {
-//       color: #283136;
+//       color: _palette(fg);
 //       :hover {
 //         color: #607d8b;
 //       }
@@ -510,7 +515,7 @@ span.image.main img {
   -o-transition: all 0.3s ease;
   -webkit-transition: all 0.3s linear;
   bottom: 1em;
-  color: #283136;
+  color: _palette(fg);
   display: none;
   font-size: 1.5em;
   position: fixed;

@@ -3,10 +3,11 @@ title: AP Spanish Language Skit 🐷️
 date: 2012-02-06
 description: This was a fun little skit I did with a few kids from my AP Spanish Language class.
 banner: //fvcproductions.files.wordpress.com/2013/07/three-pigs.jpg
-tags:
-    - spanish
 categories:
     - blog
+    - certainty
+tags:
+    - spanish
 ---
 
 > So this was a fun little skit I did with a few kids from my AP Spanish Language class. It was really memorable for me so I figured I'd post it up here along with the rest of my little tidbits. Creds also go to Lizzy, Suzie, and Patricia who were all part of my little skit group. It's a parody of the "Three Little Pigs", but in Spanish... obviously. I would translate it all, but it's only for AP Spanish rug rats anyways.

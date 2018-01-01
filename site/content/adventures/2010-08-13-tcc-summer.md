@@ -5,6 +5,7 @@ date: 2010-08-13
 banner: https://fvcproductions.files.wordpress.com/2017/01/tcc-banner1.png
 categories:
     - education
+    - certainty
 gallery:
     - alt: "TCC Banner"
       url: https://fvcproductions.files.wordpress.com/2017/01/tcc-banner1.png

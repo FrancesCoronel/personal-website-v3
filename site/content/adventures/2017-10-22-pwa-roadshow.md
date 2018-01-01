@@ -56,7 +56,6 @@ Progressive Web Apps are experiences that combine the best of the web and the be
 #### Engaging
 
 * [Web Push Notifications Library](//github.com/web-push-libs/web-push)
-
 * Web Push Notifications
   * Carnival
 * Good Notifications
@@ -121,5 +120,3 @@ Progressive Web Apps are experiences that combine the best of the web and the be
 * [Debugging Service Workers](//goo.gl/QY5FFL)
 * [Adding Push Notifications](//goo.gl/Mt2n5k)
 * [Frictionless Payments with the Payment Request API](//goo.gl/SV4tgJ)
-
-![PWA Roadshow 2017](https://gdg-korea-webtech.firebaseapp.com/pwa-roadshow17/roadshow.jpg)

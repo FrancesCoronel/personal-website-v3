@@ -1,8 +1,10 @@
 ---
 title: About 👀️
 description: Yep, that's me!
-banner: https://i.imgur.com/gbb1Ewe.jpg
-caption: Ha Long Bay in Vietnam - Summer 2012
+# banner: https://i.imgur.com/gbb1Ewe.jpg
+# banner: https://i.imgur.com/6Tt4j4l.jpg
+banner: https://i.imgur.com/b4fb57D.jpg
+caption: Chrome Dev Summit - October 2017
 alphabetical: true
 noComments: true
 noTimeEstimate: true
@@ -30,6 +32,8 @@ reason why, I just think they're yummy. 🍓🍫</p>
 * Avid conference & hackathon goer 🚗
 * Code pusher, design publisher & online blogger 🌐️
 * Lover of chocolate dipped strawberries (my logo) 🍓️🍫️ and the base 12 system (bae likes it so yeah, sure) 📐😍
+
+![Holidays 2017](https://i.imgur.com/6Tt4j4l.jpg)
 
 ### What's Happening Nowadays 📅
 

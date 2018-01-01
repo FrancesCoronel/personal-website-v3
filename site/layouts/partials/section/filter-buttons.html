@@ -4,19 +4,35 @@
       <!-- Adventures -->
       {{ if .Params.adventures }}
       <button class="button big is-checked" data-filter="*">All Adventures</button>
+      <button class="button big" data-filter=".award">Awards ️️🏆</button>
       <button class="button big" data-filter=".blog">Blog ️📝️</button>
       <button class="button big" data-filter=".conference">Conferences 👥</button>
       <button class="button big" data-filter=".education">Education 🎓</button>
       <button class="button big" data-filter=".experience">Experiences 👓️</button>
       <button class="button big" data-filter=".hackathon">Hackathons 🛠️</button>
       <button class="button big" data-filter=".program">Programs 🎒️</button>
+      <button class="button big" data-filter=".review">Reviews ️✅</button>
       <button class="button big" data-filter=".speaking">Speaking 💬️</button>
       <button class="button big" data-filter=".volunteering">Volunteering 💛️</button>
       <!-- Blogging -->
       {{ else if .Params.blog }}
       <button class="button is-checked" data-filter="*">All Posts</button>
-      <button class="button" data-filter=".conference">Conferences 👥</button>
-      <button class="button" data-filter=".portfolio">Portfolio 💼</button>
+      <button class="button" data-filter=".certainties">Certainties 📰</button>
+      <button class="button" data-filter=".coding">Coding 💻</button>
+      <button class="button" data-filter=".creativity">Creativity 🎨</button>
+      <!-- Portfolio -->
+      {{ else if .Params.portfolio }}
+      <button class="button is-checked" data-filter="*">All Projects</button>
+      <button class="button" data-filter=".book">Books</button>
+      <button class="button" data-filter=".design">Designs</button>
+      <button class="button" data-filter=".presentation">Presentations</button>
+      <button class="button" data-filter=".research">Research</button>
+      <!-- Services -->
+      {{ else if .Params.services }}
+      <button class="button is-checked" data-filter="*">All Reviews</button>
+      <button class="button" data-filter=".2017">2017</button>
+      <button class="button" data-filter=".2016">2016</button>
+      <button class="button" data-filter=".2015">2015</button>
       <!-- Speaking -->
       {{ else if .Params.speaking }}
       <button class="button is-checked" data-filter="*">All Talks</button>
@@ -28,13 +44,6 @@
       <button class="button" data-filter=".typescript101">TypeScript 101</button>
       <button class="button" data-filter=".vaacm">VA ACM</button>
       <button class="button" data-filter=".webdesign">Web Design</button>
-      <!-- Portfolio -->
-      {{ else if .Params.portfolio }}
-      <button class="button is-checked" data-filter="*">All Projects</button>
-      <button class="button" data-filter=".book">Books</button>
-      <button class="button" data-filter=".design">Designs</button>
-      <button class="button" data-filter=".presentation">Presentations</button>
-      <button class="button" data-filter=".research">Research</button>
       {{ end }}
     </div>
   </div>

@@ -1,7 +1,8 @@
 ---
 title: Blog 📝️
 description: Writings and musings.
-banner: https://fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg
+banner: https://i.imgur.com/iFVrP3w.jpg
+caption: "At some point, I'm going to get a better banner picture with me writing or typing - lol."
 alphabetical: true
 blog: true
 isotope: true

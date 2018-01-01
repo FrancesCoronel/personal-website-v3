@@ -30,3 +30,6 @@ require("./components/isotope");
 
 // OneSignal
 require("./components/oneSignal");
+
+// Service Worker
+require("./components/serviceWorker");

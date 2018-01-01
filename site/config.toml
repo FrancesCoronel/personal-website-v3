@@ -9,7 +9,7 @@ languageCode                  = "en-us"
 defaultContentLanguage        = "en"
 
 # Categories
-preserveTaxonomyNames         = true
+preserveTaxonomyNames         = false
 paginate                      = 5
 
 # Code

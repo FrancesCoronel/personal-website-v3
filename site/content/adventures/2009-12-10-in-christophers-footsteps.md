@@ -5,6 +5,7 @@ description: I was assigned to write a sort of creative essay from the POV of Ch
 banner: //fvcproductions.files.wordpress.com/2013/07/dog-in-the-night-time.png
 categories:
     - blog
+    - creativity
 tags:
     - Asperger
     - Asperger syndrome
