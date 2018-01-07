@@ -100,7 +100,7 @@
 
 <meta itemprop="datePublished" content="2015-11-14T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2015-11-14T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="138">
+<meta itemprop="wordCount" content="134">
 
 
 
@@ -156,6 +156,8 @@
   
   
   
+  
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -290,7 +292,7 @@
     
       
     <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 138 words
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 134 words
     </p>
       
     
@@ -374,8 +376,6 @@
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/erikpmp/status/665554118182703105">Erik Olson on Twitter</a></h4><p>Thanks @fvcproductions for letting me know about the upcoming documentary DESIGN DISRUPTORS! https://t.co/a3QvMSqkWy #hrdevfest</p></blockquote>
 
 <p>TODO: Add more pictures to gallery</p>
-
-<p>{% include gallery %}</p>
  
     
     
@@ -1178,6 +1178,19 @@
   
   
   <script src="/assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>

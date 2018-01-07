@@ -100,7 +100,7 @@
 
 <meta itemprop="datePublished" content="2013-08-02T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2013-08-02T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="95">
+<meta itemprop="wordCount" content="91">
 
 
 
@@ -156,6 +156,8 @@
   
   
   
+  
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -290,7 +292,7 @@
     
       
     <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 95 words
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 91 words
     </p>
       
     
@@ -356,8 +358,6 @@
 <p>I really enjoyed this conference because I was able to bring in a lot of my fellow members from the Operation Smile Club at Maury High School where I was the VP.</p>
 
 <p>It was conveniently located in my hometown of Norfolk and marked my final piece of involvement with Operation Smile since I had just graduated from high school.</p>
-
-<p>{% include gallery %}</p>
  
     
     
@@ -1152,6 +1152,19 @@
   
   
   <script src="/assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>

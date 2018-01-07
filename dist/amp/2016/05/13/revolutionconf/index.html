@@ -100,7 +100,7 @@
 
 <meta itemprop="datePublished" content="2016-05-13T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2016-05-13T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="164">
+<meta itemprop="wordCount" content="160">
 
 
 
@@ -156,6 +156,8 @@
   
   
   
+  
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -290,7 +292,7 @@
     
       
     <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 164 words
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 160 words
     </p>
       
     
@@ -366,8 +368,6 @@
 <p>My blog post on the conference got featured in The Daily Press.</p>
 
 <blockquote class="embedly-card"><h4><a href="//www.dailypress.com/business/tidewater/dp-may-13-revolutionconf-showcases-software-community-in-hampton-roads-20160513-story.html">What you missed at RevolutionConf in Virginia Beach</a></h4><p>The software industry, including speakers from Microsoft, Detroit Labs and Yahoo, is converging at the Virginia Beach Oceanfront today.</p></blockquote>
-
-<p>{% include gallery %}</p>
  
     
     
@@ -1166,6 +1166,19 @@
   
   
   <script src="/assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>

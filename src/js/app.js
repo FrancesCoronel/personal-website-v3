@@ -32,4 +32,4 @@ require("./components/isotope");
 require("./components/oneSignal");
 
 // Service Worker
-require("./components/serviceWorker");
+//require("./components/serviceWorker");

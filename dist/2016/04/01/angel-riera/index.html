@@ -162,6 +162,8 @@ Update It&rsquo;s Angel! First day of Senior Phase at Fullstack. It&rsquo;s been
   
   
   
+  
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -1139,6 +1141,19 @@ Update It&rsquo;s Angel! First day of Senior Phase at Fullstack. It&rsquo;s been
   
   
   <script src="/assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>

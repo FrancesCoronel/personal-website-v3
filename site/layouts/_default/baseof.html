@@ -21,6 +21,8 @@
   <!-- IE Styling -->
   <!--[if lte IE 9]><link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/ie9.css"><![endif]-->
   <!--[if lte IE 8]><link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/ie8.css"><![endif]-->
+  <!-- OneSignal -->
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -45,6 +47,19 @@
   <!--use just the brands and solid styles-->
   <!-- Custom JS -->
   <script src="{{.Site.BaseURL}}assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>

@@ -100,7 +100,7 @@
 
 <meta itemprop="datePublished" content="2016-12-08T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2016-12-08T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="96">
+<meta itemprop="wordCount" content="92">
 
 
 
@@ -156,6 +156,8 @@
   
   
   
+  
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -290,7 +292,7 @@
     
       
     <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 96 words
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 92 words
     </p>
       
     
@@ -362,8 +364,6 @@
 <p>I even received some swag from ELiTE Education in exchange! 😊</p>
 
 <p>TODO: upload presentation</p>
-
-<p>{% include gallery %}</p>
  
     
     
@@ -1166,6 +1166,19 @@
   
   
   <script src="/assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>

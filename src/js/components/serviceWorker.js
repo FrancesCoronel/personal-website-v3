@@ -1,12 +1,12 @@
 if ("serviceWorker" in navigator) {
-  window.addEventListener("load", () => {
-    navigator.serviceWorker
-      .register("/sw.js")
-      .then(registration => {
-        console.log("SW registered: ", registration);
-      })
-      .catch(registrationError => {
-        console.log("SW registration failed: ", registrationError);
-      });
+  navigator.serviceWorker
+    .register("/OneSignalSDKWorker.js", {
+      scope: "/"
+    })
+    .then(function(registration) {
+      console.log("Service Worker Registered");
+    });
+  navigator.serviceWorker.ready.then(function(registration) {
+    console.log("Service Worker Ready");
   });
 }

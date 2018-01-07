@@ -100,7 +100,7 @@
 
 <meta itemprop="datePublished" content="2016-02-14T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2016-02-14T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="599">
+<meta itemprop="wordCount" content="595">
 
 
 
@@ -156,6 +156,8 @@
   
   
   
+  
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -290,7 +292,7 @@
     
       
     <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>3 minute read ∙ 599 words
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>3 minute read ∙ 595 words
     </p>
       
     
@@ -448,8 +450,6 @@
 <p>Created a README badge to be used for project READMEs hacked out at the TreeHacks hackathon at Stanford. February 16th, 2016</p>
 
 <p><a href="https://fvcproductions.files.wordpress.com/2016/02/treehacks.png"><img src="https://fvcproductions.files.wordpress.com/2016/02/treehacks.png" alt="Hacked at TreeHacks" /></a> Hacked at TreeHacks</p>
-
-<p>{% include gallery %}</p>
  
     
     
@@ -1248,6 +1248,19 @@
   
   
   <script src="/assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>

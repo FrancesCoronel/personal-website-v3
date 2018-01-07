@@ -100,7 +100,7 @@
 
 <meta itemprop="datePublished" content="2016-05-04T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2016-05-04T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="309">
+<meta itemprop="wordCount" content="305">
 
 
 
@@ -156,6 +156,8 @@
   
   
   
+  
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -290,7 +292,7 @@
     
       
     <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>2 minute read ∙ 309 words
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>2 minute read ∙ 305 words
     </p>
       
     
@@ -402,8 +404,6 @@
 </ul>
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/315207507/Hampton-University-Transcript">Hampton University Transcript</a></h4><p>FVCproductions Check me out at fvcproductions.com Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright FVCproduction... by fvcproductions in Types > School Work, books, and article</p></blockquote>
-
-<p>{% include gallery %}</p>
  
     
     
@@ -1198,6 +1198,19 @@
   
   
   <script src="/assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>

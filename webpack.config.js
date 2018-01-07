@@ -57,8 +57,8 @@ export default {
   },
   context: path.join(__dirname, "src"),
   entry: {
-    OneSignalSDKUpdaterWorker: ["./js/service-worker/OneSignalSDKUpdaterWorker"],
-    OneSignalSDKWorker: ["./js/service-worker/OneSignalSDKWorker"],
+    // OneSignalSDKUpdaterWorker: ["./js/service-worker/OneSignalSDKUpdaterWorker"],
+    // OneSignalSDKWorker: ["./js/service-worker/OneSignalSDKWorker"],
     ie: ["./js/components/ie"],
     app: ["./js/app"]
   },

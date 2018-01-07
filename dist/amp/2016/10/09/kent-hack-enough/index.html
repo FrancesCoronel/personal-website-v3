@@ -100,7 +100,7 @@
 
 <meta itemprop="datePublished" content="2016-10-09T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2016-10-09T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="97">
+<meta itemprop="wordCount" content="93">
 
 
 
@@ -156,6 +156,8 @@
   
   
   
+  
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -290,7 +292,7 @@
     
       
     <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 97 words
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 93 words
     </p>
       
     
@@ -364,8 +366,6 @@
 <h3 id="awards">Awards</h3>
 
 <p>Won award of <strong><a href="https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v">Best Security Privacy Hack</a></strong> sponsored by Ubisoft with the prize being two copies of <code>Watch Dog 2</code></p>
-
-<p>{% include gallery %}</p>
  
     
     
@@ -1160,6 +1160,19 @@
   
   
   <script src="/assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>

@@ -100,7 +100,7 @@
 
 <meta itemprop="datePublished" content="2016-07-30T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2016-07-30T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="192">
+<meta itemprop="wordCount" content="188">
 
 
 
@@ -156,6 +156,8 @@
   
   
   
+  
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -290,7 +292,7 @@
     
       
     <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 192 words
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 188 words
     </p>
       
     
@@ -378,8 +380,6 @@
 <p>Just so this page looks good, I created two versions of a banner for the conference from the website so that it is completely SVG ready.</p>
 
 <p>They look like this&hellip;</p>
-
-<p>{% include gallery %}</p>
 
 <blockquote>
 <p>Feel free to download them from this GitHub repo.</p>
@@ -1190,6 +1190,19 @@
   
   
   <script src="/assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>

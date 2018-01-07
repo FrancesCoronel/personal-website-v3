@@ -100,7 +100,7 @@
 
 <meta itemprop="datePublished" content="2014-10-26T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2014-10-26T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="179">
+<meta itemprop="wordCount" content="175">
 
 
 
@@ -156,6 +156,8 @@
   
   
   
+  
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -290,7 +292,7 @@
     
       
     <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 179 words
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 175 words
     </p>
       
     
@@ -368,8 +370,6 @@
 <blockquote class="embedly-card"><h4><a href="https://fvcproductions.com/portfolio/2014/10/26/operation-air/">operationAIR</a></h4><p>Google DC Hackathon in October 2014.</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/beato-demo-presentation">Beato Demo Presentation</a></h4><p>Beato Demo Presentation Google Hackathon October 26, 2014 Washington, DC It was hard but we pulled off a working app by the end of it!</p></blockquote>
-
-<p>{% include gallery %}</p>
 
 <p><a href="https://fvcproductions.files.wordpress.com/2014/10/hedaer-0011.jpg"><img src="https://fvcproductions.files.wordpress.com/2014/10/hedaer-0011.jpg" alt="Operation Air |
 Banner" /></a> Operation Air | Banner</p>
@@ -1189,6 +1189,19 @@ Banner" /></a> Operation Air | Banner</p>
   
   
   <script src="/assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>

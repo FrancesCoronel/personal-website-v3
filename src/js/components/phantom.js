@@ -320,16 +320,16 @@ var skel = function () {
   return skel
 });
 
-(function($) {
+(function ($) {
   /**
    * Generate an indented list of links from a nav. Meant for use with panel().
    * @return {jQuery} jQuery object.
    */
-  $.fn.navList = function() {
+  $.fn.navList = function () {
     var $this = $(this);
     ($a = $this.find("a")), (b = []);
 
-    $a.each(function() {
+    $a.each(function () {
       var $this = $(this),
         indent = Math.max(0, $this.parents("li").length - 1),
         href = $this.attr("href"),
@@ -337,21 +337,21 @@ var skel = function () {
 
       b.push(
         "<a " +
-          'class="link depth-' +
-          indent +
-          '"' +
-          (typeof target !== "undefined" && target != ""
-            ? ' target="' + target + '"'
-            : "") +
-          (typeof href !== "undefined" && href != ""
-            ? ' href="' + href + '"'
-            : "") +
-          ">" +
-          '<span class="indent-' +
-          indent +
-          '"></span>' +
-          $this.text() +
-          "</a>"
+        'class="link depth-' +
+        indent +
+        '"' +
+        (typeof target !== "undefined" && target != "" ?
+          ' target="' + target + '"' :
+          "") +
+        (typeof href !== "undefined" && href != "" ?
+          ' href="' + href + '"' :
+          "") +
+        ">" +
+        '<span class="indent-' +
+        indent +
+        '"></span>' +
+        $this.text() +
+        "</a>"
       );
     });
 
@@ -363,7 +363,7 @@ var skel = function () {
    * @param {object} userConfig User config.
    * @return {jQuery} jQuery object.
    */
-  $.fn.panel = function(userConfig) {
+  $.fn.panel = function (userConfig) {
     // No elements?
     if (this.length == 0) return $this;
 
@@ -382,8 +382,7 @@ var skel = function () {
       config;
 
     // Config.
-    config = $.extend(
-      {
+    config = $.extend({
         // Delay.
         delay: 0,
 
@@ -420,7 +419,7 @@ var skel = function () {
     // Panel.
 
     // Methods.
-    $this._hide = function(event) {
+    $this._hide = function (event) {
       // Already hidden? Bail.
       if (!config.target.hasClass(config.visibleClass)) return;
 
@@ -434,13 +433,13 @@ var skel = function () {
       config.target.removeClass(config.visibleClass);
 
       // Post-hide stuff.
-      window.setTimeout(function() {
+      window.setTimeout(function () {
         // Reset scroll position.
         if (config.resetScroll) $this.scrollTop(0);
 
         // Reset forms.
         if (config.resetForms)
-          $this.find("form").each(function() {
+          $this.find("form").each(function () {
             this.reset();
           });
       }, config.delay);
@@ -455,7 +454,7 @@ var skel = function () {
     if (config.hideOnClick) {
       $this.find("a").css("-webkit-tap-highlight-color", "rgba(0,0,0,0)");
 
-      $this.on("click", "a", function(event) {
+      $this.on("click", "a", function (event) {
         var $a = $(this),
           href = $a.attr("href"),
           target = $a.attr("target");
@@ -470,7 +469,7 @@ var skel = function () {
         $this._hide();
 
         // Redirect to href.
-        window.setTimeout(function() {
+        window.setTimeout(function () {
           if (target == "_blank") window.open(href);
           else window.location.href = href;
         }, config.delay + 10);
@@ -478,12 +477,12 @@ var skel = function () {
     }
 
     // Event: Touch stuff.
-    $this.on("touchstart", function(event) {
+    $this.on("touchstart", function (event) {
       $this.touchPosX = event.originalEvent.touches[0].pageX;
       $this.touchPosY = event.originalEvent.touches[0].pageY;
     });
 
-    $this.on("touchmove", function(event) {
+    $this.on("touchmove", function (event) {
       if ($this.touchPosX === null || $this.touchPosY === null) return;
 
       var diffX = $this.touchPosX - event.originalEvent.touches[0].pageX,
@@ -540,12 +539,12 @@ var skel = function () {
     });
 
     // Event: Prevent certain events inside the panel from bubbling.
-    $this.on("click touchend touchstart touchmove", function(event) {
+    $this.on("click touchend touchstart touchmove", function (event) {
       event.stopPropagation();
     });
 
     // Event: Hide panel if a child anchor tag pointing to its ID is clicked.
-    $this.on("click", 'a[href="#' + id + '"]', function(event) {
+    $this.on("click", 'a[href="#' + id + '"]', function (event) {
       event.preventDefault();
       event.stopPropagation();
 
@@ -555,12 +554,12 @@ var skel = function () {
     // Body.
 
     // Event: Hide panel on body click/tap.
-    $body.on("click touchend", function(event) {
+    $body.on("click touchend", function (event) {
       $this._hide(event);
     });
 
     // Event: Toggle.
-    $body.on("click", 'a[href="#' + id + '"]', function(event) {
+    $body.on("click", 'a[href="#' + id + '"]', function (event) {
       event.preventDefault();
       event.stopPropagation();
 
@@ -571,7 +570,7 @@ var skel = function () {
 
     // Event: Hide on ESC.
     if (config.hideOnEscape)
-      $window.on("keydown", function(event) {
+      $window.on("keydown", function (event) {
         if (event.keyCode == 27) $this._hide(event);
       });
 
@@ -582,7 +581,7 @@ var skel = function () {
    * Apply "placeholder" attribute polyfill to one or more forms.
    * @return {jQuery} jQuery object.
    */
-  $.fn.placeholder = function() {
+  $.fn.placeholder = function () {
     // Browser natively supports placeholders? Bail.
     if (typeof document.createElement("input").placeholder != "undefined")
       return $(this);
@@ -603,13 +602,13 @@ var skel = function () {
     // Text, TextArea.
     $this
       .find("input[type=text],textarea")
-      .each(function() {
+      .each(function () {
         var i = $(this);
 
         if (i.val() == "" || i.val() == i.attr("placeholder"))
           i.addClass("polyfill-placeholder").val(i.attr("placeholder"));
       })
-      .on("blur", function() {
+      .on("blur", function () {
         var i = $(this);
 
         if (i.attr("name").match(/-polyfill-field$/)) return;
@@ -617,7 +616,7 @@ var skel = function () {
         if (i.val() == "")
           i.addClass("polyfill-placeholder").val(i.attr("placeholder"));
       })
-      .on("focus", function() {
+      .on("focus", function () {
         var i = $(this);
 
         if (i.attr("name").match(/-polyfill-field$/)) return;
@@ -627,15 +626,15 @@ var skel = function () {
       });
 
     // Password.
-    $this.find("input[type=password]").each(function() {
+    $this.find("input[type=password]").each(function () {
       var i = $(this);
       var x = $(
         $("<div>")
-          .append(i.clone())
-          .remove()
-          .html()
-          .replace(/type="password"/i, 'type="text"')
-          .replace(/type=password/i, "type=text")
+        .append(i.clone())
+        .remove()
+        .html()
+        .replace(/type="password"/i, 'type="text"')
+        .replace(/type=password/i, "type=text")
       );
 
       if (i.attr("id") != "") x.attr("id", i.attr("id") + "-polyfill-field");
@@ -651,7 +650,7 @@ var skel = function () {
       if (i.val() == "") i.hide();
       else x.hide();
 
-      i.on("blur", function(event) {
+      i.on("blur", function (event) {
         event.preventDefault();
 
         var x = i
@@ -665,22 +664,22 @@ var skel = function () {
       });
 
       x
-        .on("focus", function(event) {
+        .on("focus", function (event) {
           event.preventDefault();
 
           var i = x
             .parent()
             .find(
               "input[name=" +
-                x.attr("name").replace("-polyfill-field", "") +
-                "]"
+              x.attr("name").replace("-polyfill-field", "") +
+              "]"
             );
 
           x.hide();
 
           i.show().focus();
         })
-        .on("keypress", function(event) {
+        .on("keypress", function (event) {
           event.preventDefault();
           x.val("");
         });
@@ -688,10 +687,10 @@ var skel = function () {
 
     // Events.
     $this
-      .on("submit", function() {
+      .on("submit", function () {
         $this
           .find("input[type=text],input[type=password],textarea")
-          .each(function(event) {
+          .each(function (event) {
             var i = $(this);
 
             if (i.attr("name").match(/-polyfill-field$/)) i.attr("name", "");
@@ -702,12 +701,12 @@ var skel = function () {
             }
           });
       })
-      .on("reset", function(event) {
+      .on("reset", function (event) {
         event.preventDefault();
 
         $this.find("select").val($("option:first").val());
 
-        $this.find("input,textarea").each(function() {
+        $this.find("input,textarea").each(function () {
           var i = $(this),
             x;
 
@@ -766,14 +765,14 @@ var skel = function () {
    * @param {jQuery} $elements Elements (or selector) to move.
    * @param {bool} condition If true, moves elements to the top. Otherwise, moves elements back to their original locations.
    */
-  $.prioritize = function($elements, condition) {
+  $.prioritize = function ($elements, condition) {
     var key = "__prioritize";
 
     // Expand $elements if it's not already a jQuery object.
     if (typeof $elements != "jQuery") $elements = $($elements);
 
     // Step through elements.
-    $elements.each(function() {
+    $elements.each(function () {
       var $e = $(this),
         $p,
         $parent = $e.parent();
@@ -820,7 +819,7 @@ var skel = function () {
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-(function($) {
+(function ($) {
   skel.breakpoints({
     xlarge: "(max-width: 1680px)",
     large: "(max-width: 1280px)",
@@ -829,15 +828,14 @@ var skel = function () {
     xsmall: "(max-width: 480px)"
   });
 
-  $(function() {
-    var $window = $(window),
-      $body = $("body");
+  $(function () {
+    var $window = $(window), $body = $("body");
 
     // Disable animations/transitions until the page has loaded.
     $body.addClass("is-loading");
 
-    $window.on("load", function() {
-      window.setTimeout(function() {
+    $window.on("load", function () {
+      window.setTimeout(function () {
         $body.removeClass("is-loading");
       }, 100);
     });
@@ -849,7 +847,7 @@ var skel = function () {
     var $form = $("form");
 
     // Auto-resizing textareas.
-    $form.find("textarea").each(function() {
+    $form.find("textarea").each(function () {
       var $this = $(this),
         $wrapper = $('<div class="textarea-wrapper"></div>'),
         $submits = $this.find('input[type="submit"]');
@@ -859,7 +857,7 @@ var skel = function () {
         .attr("rows", 1)
         .css("overflow", "hidden")
         .css("resize", "none")
-        .on("keydown", function(event) {
+        .on("keydown", function (event) {
           if (event.keyCode == 13 && event.ctrlKey) {
             event.preventDefault();
             event.stopPropagation();
@@ -867,17 +865,17 @@ var skel = function () {
             $(this).blur();
           }
         })
-        .on("blur focus", function() {
+        .on("blur focus", function () {
           $this.val($.trim($this.val()));
         })
-        .on("input blur focus --init", function() {
+        .on("input blur focus --init", function () {
           $wrapper.css("height", $this.height());
 
           $this
             .css("height", "auto")
             .css("height", $this.prop("scrollHeight") + "px");
         })
-        .on("keyup", function(event) {
+        .on("keyup", function (event) {
           if (event.keyCode == 9) $this.select();
         })
         .triggerHandler("--init");
@@ -891,7 +889,7 @@ var skel = function () {
     $form.placeholder();
 
     // Prioritize "important" elements on medium.
-    skel.on("+medium -medium", function() {
+    skel.on("+medium -medium", function () {
       $.prioritize(
         ".important\\28 medium\\29",
         skel.breakpoint("medium").active
@@ -905,36 +903,36 @@ var skel = function () {
 
     $menu._locked = false;
 
-    $menu._lock = function() {
+    $menu._lock = function () {
       if ($menu._locked) return false;
 
       $menu._locked = true;
 
-      window.setTimeout(function() {
+      window.setTimeout(function () {
         $menu._locked = false;
       }, 350);
 
       return true;
     };
 
-    $menu._show = function() {
+    $menu._show = function () {
       if ($menu._lock()) $body.addClass("is-menu-visible");
     };
 
-    $menu._hide = function() {
+    $menu._hide = function () {
       if ($menu._lock()) $body.removeClass("is-menu-visible");
     };
 
-    $menu._toggle = function() {
+    $menu._toggle = function () {
       if ($menu._lock()) $body.toggleClass("is-menu-visible");
     };
 
     $menu
       .appendTo($body)
-      .on("click", function(event) {
+      .on("click", function (event) {
         event.stopPropagation();
       })
-      .on("click", "a", function(event) {
+      .on("click", "a", function (event) {
         var href = $(this).attr("href");
 
         event.preventDefault();
@@ -946,25 +944,25 @@ var skel = function () {
         // Redirect.
         if (href == "#menu") return;
 
-        window.setTimeout(function() {
+        window.setTimeout(function () {
           window.location.href = href;
         }, 350);
       })
       .append('<a class="close" href="#menu">Close</a>');
 
     $body
-      .on("click", 'a[href="#menu"]', function(event) {
+      .on("click", 'a[href="#menu"]', function (event) {
         event.stopPropagation();
         event.preventDefault();
 
         // Toggle.
         $menu._toggle();
       })
-      .on("click", function(event) {
+      .on("click", function (event) {
         // Hide.
         $menu._hide();
       })
-      .on("keydown", function(event) {
+      .on("keydown", function (event) {
         // Hide on escape.
         if (event.keyCode == 27) $menu._hide();
       });

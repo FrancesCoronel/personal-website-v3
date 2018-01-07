@@ -258,12 +258,12 @@ it would be game changing if we&amp;hellip; could provide a way for students to 
       <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/03/15/fullstack-academy---alumni-panel/</guid>
-      <description>Event Alumni Panel at Fullstack Academy
+      <description> Event Alumni Panel at Fullstack Academy
 When March 15th, 2017
 Location New York, NY
 About Invited to speak at Fullstack Academy for the current senior cohort as one of three alumni.
 FSA - Alumni PanelUploaded by Fullstack Academy on 2017-03-16.
- {% include gallery %}</description>
+ </description>
     </item>
     
     <item>
@@ -331,8 +331,7 @@ Organizer Youngstown State University
 Location Stambaugh Stadium - Youngstown State University
 Date February 17th to 19th, 2017
 Role Speaker, Judge
-About Acted as a judge for HackYSU.
-{% include gallery %}</description>
+About Acted as a judge for HackYSU.</description>
     </item>
     
     <item>
@@ -447,8 +446,7 @@ TODO: [gallery type=&amp;ldquo;rectangular&amp;rdquo; size=&amp;ldquo;full&amp;r
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/01/07/updated-github-page-/</guid>
-      <description>Check it out at fvcproductions.github.io! 😊 {% include gallery %}
-Updated my GitHub page in order to better showcase my current state of mind.
+      <description>Check it out at fvcproductions.github.io! 😊 Updated my GitHub page in order to better showcase my current state of mind.
 If you click on &amp;lsquo;black&amp;rsquo; or &amp;lsquo;white&amp;rsquo;, the interface changes colors. Woot!
 Created using Bootstrap 4, CodeKit, &amp;amp; Sketch.</description>
     </item>
@@ -631,8 +629,7 @@ Location Metropolitan Pavillion - New York City, New York
 Date October 13, 2016
 Role Volunteer
 About Volunteered for Techweek at the Met Pavillion during their Speaker Summit in exchange for an Executive pass.
-Listened to a few speakers, attended the career fair, and visited booths in the expo.
-{% include gallery %}</description>
+Listened to a few speakers, attended the career fair, and visited booths in the expo.</description>
     </item>
     
     <item>
@@ -808,8 +805,7 @@ Organizer Accenture
 Location Q Center - St Charles, Illinois
 Date June 27th to 29th, 2016
 Role Participant
-About Accenture annually hosts the Student Leadership Conference (SLC) for their summer interns from across the US and Canada.
-{% include gallery %}</description>
+About Accenture annually hosts the Student Leadership Conference (SLC) for their summer interns from across the US and Canada.</description>
     </item>
     
     <item>
@@ -822,8 +818,7 @@ About Accenture annually hosts the Student Leadership Conference (SLC) for their
 Location San Francisco, CA
 Date June 17th, 2016
 Role Participant
-About This was a conference all Accenture employees in the San Francisco Bay Area are invited to every year. It was cool to see all the different folks involved and how big of a deal the Liquid Studio is for Accenture.
-{% include gallery %}</description>
+About This was a conference all Accenture employees in the San Francisco Bay Area are invited to every year. It was cool to see all the different folks involved and how big of a deal the Liquid Studio is for Accenture.</description>
     </item>
     
     <item>
@@ -918,8 +913,7 @@ Location NASA Langley Research Center - Hampton, Virginia
 Date April 11th, 2016
 Role STEM Bridge Scholarship Recipient
 About As part of the STEM Bridge program, scholarship recipients are required to attend an annual research conference at the Langley Research Center in Hampton, VA.
-I was returning back for my final research conference before graduating from Hampton.
-{% include gallery %}</description>
+I was returning back for my final research conference before graduating from Hampton.</description>
     </item>
     
     <item>
@@ -1029,8 +1023,7 @@ Date February 22nd to 23rd, 2016
 Role Diversity Scholarship Recipient
 About As a diversity scholarship recipient, all expenses were taken care of.
 A few folks from Norfolk.js and I were able to attend React.js Conf together and it was so much fun!
-I even met a Fullstack Academy alumnus from my cohort while there!
-{% include gallery %}</description>
+I even met a Fullstack Academy alumnus from my cohort while there!</description>
     </item>
     
     <item>
@@ -1044,8 +1037,7 @@ Organizer DevNetwork
 Location Pier 27 - San Francisco, California
 Date February 15th to 17th, 2016
 Role Volunteer
-About I volunteered for DeveloperWeek, one of the largest tech conferences in San Francisco, and got a VIP ticket in return.
-{% include gallery %}</description>
+About I volunteered for DeveloperWeek, one of the largest tech conferences in San Francisco, and got a VIP ticket in return.</description>
     </item>
     
     <item>
@@ -1089,7 +1081,7 @@ About ACM, the world&amp;rsquo;s largest educational and scientific computing so
 Location Norfolk, VA
 Date November 2015 to February 5th, 2016
 About 80|20 is a software agency that creates web and mobile applications and provides software consulting solutions for small and mid-sized businesses.
-Role Frontend Developer (Part-Time)  prototyped mobile/web user interfaces for client projects helped develop/design in-house website creation platform using modern web technologies such as HTML/CSS/JS consulted clients on how to improve their Wordpress based websites gained skills in fullstack web development by working with large scale web projects  {% include gallery %}</description>
+Role Frontend Developer (Part-Time)  prototyped mobile/web user interfaces for client projects helped develop/design in-house website creation platform using modern web technologies such as HTML/CSS/JS consulted clients on how to improve their Wordpress based websites gained skills in fullstack web development by working with large scale web projects  80|20 on TwitterWe&#39;re excited to have @fvcproductions joining the team as a front-end developer!</description>
     </item>
     
     <item>
@@ -1326,8 +1318,7 @@ Organizer Accenture
 Location San Francisco Office - San Francisco, California
 Date November 20th, 2015
 Role Potential Full-Time Hire Candidate
-About I was invited to explore potential careers with Accenture in San Francisco, all expenses paid for.
-{% include gallery %}</description>
+About I was invited to explore potential careers with Accenture in San Francisco, all expenses paid for.</description>
     </item>
     
     <item>
@@ -1410,7 +1401,7 @@ Installation &amp;amp; Setup  Run the following commands to build the app.  $ cd
       <pubDate>Sat, 24 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>/2015/10/24/hack-to-help-hampton-roads/</guid>
-      <description>Name Hack to Help Hampton Roads
+      <description> Name Hack to Help Hampton Roads
 Organizer Dominion Enterprises
 Location Dominion Enterprises - Norfolk, Virginia
 Date October 23rd to 24th, 2015
@@ -1418,7 +1409,7 @@ Role Participant from Hampton University
 About One of the most fun hackathons I attended. Teamed up with some really fun people, mostly from ODU.
 Project Hack the VoteChange the world, know your candidate.
  rcodonnell/code4hr-votingContribute to code4hr-voting development by creating an account on GitHub.
- {% include gallery %}</description>
+ </description>
     </item>
     
     <item>
@@ -1482,8 +1473,7 @@ Two Words on Design  Blog Article
 Organizer Goldman Sachs
 Location Salt Lake City Office - Salt Lake City, Utah
 Date September 24th to 25th, 2015
-About The Discover GS Camps are one day programs for students interested in exploring the numerous career paths in the financial services industry and familiarizing themselves with the firm’s business, history and culture.
-{% include gallery %}</description>
+About The Discover GS Camps are one day programs for students interested in exploring the numerous career paths in the financial services industry and familiarizing themselves with the firm’s business, history and culture.</description>
     </item>
     
     <item>
@@ -1597,8 +1587,7 @@ Location ThoughtWorks - New York City, New York
 Date July 25th, 2015
 Role Scholarship Recipient
 About While I was at Fullstack Academy, I was offered to attend the Sally Conference, free of cost.
-It was definitely an interesting session and I heard a lot of great speakers.
-{% include gallery %}</description>
+It was definitely an interesting session and I heard a lot of great speakers.</description>
     </item>
     
     <item>
@@ -1824,7 +1813,7 @@ Date April 17th, 2015
 Role STEM Bridge Scholarship Recipient
 About As part of the STEM Bridge program, scholarship recipients are required to attend an annual research conference at the Langley Research Center in Hampton, VA.
 Unfortunately, the only picture they took of me was one of my back.
-{% include gallery %}</description>
+I wrote a blog post on the ACM@HU website about this conference.</description>
     </item>
     
     <item>
@@ -2416,13 +2405,13 @@ Courses  CSC 152 - Computer Programming II  </description>
       <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>/2014/08/15/old-dominion-university---summer-2014/</guid>
-      <description>Institution Old Dominion University
+      <description> Institution Old Dominion University
 Location Norfolk, VA
 Date July 2014 to August 2014
 Program Summer Term
 About Old Dominion University, also known as ODU, is a public, co-educational research university located in Norfolk, Virginia, United States, with two satellite campuses in the Hampton Roads area.
 I took one course during the summer of 2014 term at Old Dominion University through their dual enrollment program.
-Courses  MATH 212 - Calculus II  {% include gallery %}</description>
+Courses  MATH 212 - Calculus II  </description>
     </item>
     
     <item>
@@ -2966,13 +2955,13 @@ So here&amp;rsquo;s the moral of the story &amp;ndash; write shorter essays to a
       <pubDate>Fri, 12 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>/2011/08/12/hampton-university---summer-2011/</guid>
-      <description>Institution Hampton University (TCC)
+      <description> Institution Hampton University (TCC)
 Location Hampton, VA
 Date May 2011 to August 12th, 2011
 Program Dual Enrollment
 About Hampton University is a private historically black university located in Hampton, Virginia, United States.
 I took two courses over the summer of 2011 through Hampton University&amp;rsquo;s dual enrollment program.
-Courses  BIO 220 - General Zoology MAT 130 - Calculus (AUDIT)  {% include gallery %}</description>
+Courses  BIO 220 - General Zoology MAT 130 - Calculus (AUDIT)  </description>
     </item>
     
     <item>
@@ -2985,8 +2974,7 @@ Courses  BIO 220 - General Zoology MAT 130 - Calculus (AUDIT)  {% include galler
 Organizer Operation Smile
 Location Marriott Beijing City Wall - Beijing, China
 Date August 1st to 7th, 2011
-About This was an international conference Operation Smile hosted for all the student volunteers involved. This was my first serious conference at 16 and I learned so much.
-{% include gallery %}</description>
+About This was an international conference Operation Smile hosted for all the student volunteers involved. This was my first serious conference at 16 and I learned so much.</description>
     </item>
     
     <item>

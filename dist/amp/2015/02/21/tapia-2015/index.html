@@ -100,7 +100,7 @@
 
 <meta itemprop="datePublished" content="2015-02-21T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2015-02-21T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="134">
+<meta itemprop="wordCount" content="130">
 
 
 
@@ -156,6 +156,8 @@
   
   
   
+  
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -290,7 +292,7 @@
     
       
     <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 134 words
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 130 words
     </p>
       
     
@@ -365,8 +367,6 @@
 <li>Obtain advice from and make contacts with computing leaders in academia and industry;</li>
 <li>Be inspired by great presentations and conversations with leaders with common backgrounds.</li>
 </ul>
-
-<p>{% include gallery %}</p>
  
     
     
@@ -1161,6 +1161,19 @@
   
   
   <script src="/assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>

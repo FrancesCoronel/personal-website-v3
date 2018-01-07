@@ -100,7 +100,7 @@
 
 <meta itemprop="datePublished" content="2016-08-12T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2016-08-12T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="193">
+<meta itemprop="wordCount" content="189">
 
 
 
@@ -156,6 +156,8 @@
   
   
   
+  
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -290,7 +292,7 @@
     
       
     <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 193 words
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 189 words
     </p>
       
     
@@ -369,8 +371,6 @@
 <blockquote class="embedly-card"><h4><a href="//speakerdeck.com/fvcproductions/wearables-team">Wearables Team</a></h4><p>An overview of the Wearables Team at Accenture's Liquid Studio.</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="//speakerdeck.com/fvcproductions/ar-vs-vr-accenture">AR vs VR | Accenture</a></h4><p>An overview of the difference between AR and VR. Accenture Liquid Studio Wearables Team Summer 2016 Intern</p></blockquote>
-
-<p>{% include gallery %}</p>
  
     
     
@@ -1165,6 +1165,19 @@
   
   
   <script src="/assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>

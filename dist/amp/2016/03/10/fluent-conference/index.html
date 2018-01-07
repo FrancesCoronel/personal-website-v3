@@ -100,7 +100,7 @@
 
 <meta itemprop="datePublished" content="2016-03-10T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2016-03-10T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="102">
+<meta itemprop="wordCount" content="98">
 
 
 
@@ -156,6 +156,8 @@
   
   
   
+  
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -290,7 +292,7 @@
     
       
     <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 102 words
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 98 words
     </p>
       
     
@@ -358,8 +360,6 @@
 <p>I was selected as a &ldquo;Diversity Scholarship Recipient&rdquo; by O&rsquo;Reilly to attend the Fluent Confernece, which covers all things related to web development.</p>
 
 <p>Fluent brings together talented people from diverse backgrounds who are building great projects for the web and are eager to share experiences and expertise. They explore topics related to core web platform technologies, tools to help build the modern web, and strategies for building performant and resilient apps and sites:</p>
-
-<p>{% include gallery %}</p>
  
     
     
@@ -1154,6 +1154,19 @@
   
   
   <script src="/assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>

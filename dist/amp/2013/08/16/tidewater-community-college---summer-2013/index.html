@@ -100,7 +100,7 @@
 
 <meta itemprop="datePublished" content="2013-08-16T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2013-08-16T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="132">
+<meta itemprop="wordCount" content="128">
 
 
 
@@ -156,6 +156,8 @@
   
   
   
+  
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -290,7 +292,7 @@
     
       
     <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 132 words
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>1 minute read ∙ 128 words
     </p>
       
     
@@ -367,8 +369,6 @@
 <h3 id="transcript">Transcript</h3>
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/353207049/Tidewater-Community-College-Transcript">Tidewater Community College Transcript</a></h4><p>This is my transcript from my two summers at Tidewater Community College where I enrolled in courses while still in high school.</p></blockquote>
-
-<p>{% include gallery %}</p>
  
     
     
@@ -1163,6 +1163,19 @@
   
   
   <script src="/assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>

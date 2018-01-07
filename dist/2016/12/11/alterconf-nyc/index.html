@@ -100,7 +100,7 @@
 
 <meta itemprop="datePublished" content="2016-12-11T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2016-12-11T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="246">
+<meta itemprop="wordCount" content="242">
 
 
 
@@ -156,6 +156,8 @@
   
   
   
+  
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -290,7 +292,7 @@
     
       
     <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>2 minute read ∙ 246 words
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>2 minute read ∙ 242 words
     </p>
       
     
@@ -366,8 +368,6 @@
 <p>Indeed, AlterConf was hands down the MOST diverse conference I have ever attended and I find this aspect to be more important than ever, especially considering what the year 2016 has brought us.</p>
 
 <p>Given that I was hired as a freelance blogger for this conference, I&rsquo;ve published <a href="//www.linkedin.com/pulse/alterconf-nyc-2016-frances-coronel?published=t">onto LinkedIn</a>, and <a href="//fvcproductions.com/2017/01/03/alterconf-nyc-2016/">my personal blog</a> already about my experience at AlterConf and what it entailed.</p>
-
-<p>{% include gallery %}</p>
 
 <blockquote class="embedly-card"><h4><a href="//www.linkedin.com/pulse/alterconf-nyc-2016-frances-coronel?published=t">AlterConf NYC 2016 🗽</a></h4><p>AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming</p></blockquote>
 
@@ -1168,6 +1168,19 @@
   
   
   <script src="/assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>

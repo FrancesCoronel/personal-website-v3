@@ -100,7 +100,7 @@
 
 <meta itemprop="datePublished" content="2016-10-01T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2016-10-01T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="391">
+<meta itemprop="wordCount" content="387">
 
 
 
@@ -156,6 +156,8 @@
   
   
   
+  
+  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 </head>
 
 <body>
@@ -290,7 +292,7 @@
     
       
     <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>2 minute read ∙ 391 words
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>2 minute read ∙ 387 words
     </p>
       
     
@@ -380,8 +382,6 @@
 <blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/the-meggs-case">The MEGGS Case</a></h4><p>MEGGS creates tech focused cases that offer beautiful and well designed protective solutions for your iPhone 7. We believe getting women interested and involved in STEM is vital to the industries and creates a well balanced and educated society.</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="https://scribd.com/document/326087214/Business-Plan-The-MEGGS-Case">Business Plan - The MEGGS Case</a></h4><p>MEGGS creates tech-focused cases that offer beautiful and well designed protective solutions for your iPhone 7. We believe getting women interested and involved in STEM is vital to the industries and creates a well balanced and educated society. Through our cases, we want to give young women and girls a tangible way to showcase their passion in interests through fashion accessories.</p></blockquote>
-
-<p>{% include gallery %}</p>
  
     
     
@@ -1176,6 +1176,19 @@
   
   
   <script src="/assets/js/app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("/OneSignalSDKWorker.js", {
+        scope: "/"
+      }).then(function (registration) {
+        console.log("Service Worker Registered");
+      });
+      navigator.serviceWorker.ready.then(function (registration) {
+        console.log("Service Worker Ready ");
+      });
+    }
+
+  </script>
 </body>
 
 </html>
