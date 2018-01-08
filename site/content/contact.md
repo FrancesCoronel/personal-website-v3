@@ -7,8 +7,6 @@ noComments: true
 noTimeEstimate: true
 ---
 
-## Contact Form 💾
-
 > Go old school and use this nifty contact form!
 
 <section class="contact-form">

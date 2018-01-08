@@ -1,7 +1,6 @@
 #wrapper {
   .inner {
     width: 100%;
-    margin: 0 auto;
     $gutter: _size(gutter) * 0.8;
     padding: 0 $gutter;
     @include breakpoint(small) {

@@ -27,13 +27,8 @@ input[type="button"],
 button,
 .button {
   border: solid 2px _palette(fg) !important;
-
   &:hover {
     border-color: _palette(accent1) !important;
-  }
-
-  &.special {
-    border: none !important;
   }
 }
 

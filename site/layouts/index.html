@@ -12,7 +12,7 @@
   {{ range $pages.ByTitle }}
   <article>
     <!-- Image -->
-    <span class="image home-article" style="background-image:url({{ .Params.banner }});"></span>
+    <span class="image background-image" style="background-image:url({{ .Params.banner }});"></span>
     <!-- External Link -->
     {{ if .Params.link }}
     <a href="{{ .Params.link }}" target="_blank"> ↗️

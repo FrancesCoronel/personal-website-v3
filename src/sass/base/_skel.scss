@@ -1,73 +1,18 @@
 // skel.scss v3.0.1 | (c) skel.io | MIT licensed */
-
 // Vars.
-
 /// Breakpoints.
 /// @var {list}
 $breakpoints: () !global;
-
 /// Vendor prefixes.
 /// @var {list}
-$vendor-prefixes: (
-  "-moz-",
-  "-webkit-",
-  "-ms-",
-  ""
-);
-
+$vendor-prefixes: ( "-moz-", "-webkit-", "-ms-", "");
 /// Properties that should be vendorized.
 /// @var {list}
-$vendor-properties: (
-  "align-content",
-  "align-items",
-  "align-self",
-  "animation",
-  "animation-delay",
-  "animation-direction",
-  "animation-duration",
-  "animation-fill-mode",
-  "animation-iteration-count",
-  "animation-name",
-  "animation-play-state",
-  "animation-timing-function",
-  "appearance",
-  "backface-visibility",
-  "box-sizing",
-  "filter",
-  "flex",
-  "flex-basis",
-  "flex-direction",
-  "flex-flow",
-  "flex-grow",
-  "flex-shrink",
-  "flex-wrap",
-  "justify-content",
-  "order",
-  "perspective",
-  "pointer-events",
-  "transform",
-  "transform-origin",
-  "transform-style",
-  "transition",
-  "transition-delay",
-  "transition-duration",
-  "transition-property",
-  "transition-timing-function",
-  "user-select"
-);
-
+$vendor-properties: ( "align-content", "align-items", "align-self", "animation", "animation-delay", "animation-direction", "animation-duration", "animation-fill-mode", "animation-iteration-count", "animation-name", "animation-play-state", "animation-timing-function", "appearance", "backface-visibility", "box-sizing", "filter", "flex", "flex-basis", "flex-direction", "flex-flow", "flex-grow", "flex-shrink", "flex-wrap", "justify-content", "order", "perspective", "pointer-events", "transform", "transform-origin", "transform-style", "transition", "transition-delay", "transition-duration", "transition-property", "transition-timing-function", "user-select");
 /// Values that should be vendorized.
 /// @var {list}
-$vendor-values: (
-  "filter",
-  "flex",
-  "linear-gradient",
-  "radial-gradient",
-  "transform"
-);
-
+$vendor-values: ( "filter", "flex", "linear-gradient", "radial-gradient", "transform");
 // Functions.
-
 /// Removes a specific item from a list.
 /// @author Hugo Giraudel
 /// @param {list} $list List.
@@ -75,24 +20,24 @@ $vendor-values: (
 /// @return {list} Updated list.
 @function remove-nth($list, $index) {
   $result: null;
-
-  @if type-of($index) != number {
+  @if type-of($index) !=number {
     @warn "$index: #{quote($index)} is not a number for `remove-nth`.";
-  } @else if $index == 0 {
+  }
+  @else if $index==0 {
     @warn "List index 0 must be a non-zero integer for `remove-nth`.";
-  } @else if abs($index) > length($list) {
+  }
+  @else if abs($index)>length($list) {
     @warn "List index is #{$index} but list is only #{length($list)} item long for `remove-nth`.";
-  } @else {
+  }
+  @else {
     $result: ();
     $index: if($index < 0, length($list) + $index + 1, $index);
-
     @for $i from 1 through length($list) {
-      @if $i != $index {
+      @if $i !=$index {
         $result: append($result, nth($list, $i));
       }
     }
   }
-
   @return $result;
 }
 
@@ -104,11 +49,9 @@ $vendor-values: (
 /// @return {string} Updated string.
 @function str-replace($string, $search, $replace: "") {
   $index: str-index($string, $search);
-
   @if $index {
-    @return str-slice($string, 1, $index - 1) + $replace + str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
+    @return str-slice($string, 1, $index - 1)+$replace+str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
   }
-
   @return $string;
 }
 
@@ -119,13 +62,8 @@ $vendor-values: (
 /// @return {list} Updated list of strings.
 @function str-replace-all($strings, $search, $replace: "") {
   @each $string in $strings {
-    $strings: set-nth(
-      $strings,
-      index($strings, $string),
-      str-replace($string, $search, $replace)
-    );
+    $strings: set-nth( $strings, index($strings, $string), str-replace($string, $search, $replace));
   }
-
   @return $strings;
 }
 
@@ -135,24 +73,20 @@ $vendor-values: (
 /// @param {string} $keys Key(s).
 /// @return {string} Value.
 @function val($map, $keys...) {
-  @if nth($keys, 1) == null {
+  @if nth($keys, 1)==null {
     $keys: remove-nth($keys, 1);
   }
-
   @each $key in $keys {
     $map: map-get($map, $key);
   }
-
   @return $map;
 }
 
 // Mixins.
-
 /// Sets the global box model.
 /// @param {string} $model Model (default is content).
 @mixin boxModel($model: "content") {
   $x: $model + "-box";
-
   *,
   *:before,
   *:after {
@@ -166,20 +100,16 @@ $vendor-values: (
 /// @param {string} $breakpoint Breakpoint.
 /// @param {map} $queries Additional queries.
 @mixin breakpoint($breakpoint: null, $queries: null) {
-  $query: "screen";
-
-  // Breakpoint.
+  $query: "screen"; // Breakpoint.
   @if $breakpoint and map-has-key($breakpoints, $breakpoint) {
     $query: $query + " and " + map-get($breakpoints, $breakpoint);
-  }
-
-  // Queries.
+  } // Queries.
   @if $queries {
-    @each $k, $v in $queries {
+    @each $k,
+    $v in $queries {
       $query: $query + " and (" + $k + ":" + $v + ")";
     }
   }
-
   @media #{$query} {
     @content;
   }
@@ -198,13 +128,10 @@ $vendor-values: (
 @mixin containers($width) {
   // Locked?
   $lock: false;
-
-  @if length($width) == 2 {
+  @if length($width)==2 {
     $width: nth($width, 1);
     $lock: true;
-  }
-
-  // Modifiers.
+  } // Modifiers.
   .container.\31 25\25 {
     width: 100%;
     max-width: $width * 1.25;
@@ -218,13 +145,12 @@ $vendor-values: (
   }
   .container.\32 5\25 {
     width: $width * 0.25;
-  }
-
-  // Main class.
+  } // Main class.
   .container {
     @if $lock {
       width: $width !important;
-    } @else {
+    }
+    @else {
       width: $width;
     }
   }
@@ -239,15 +165,11 @@ $vendor-values: (
   @include grid-gutters($gutters, \32 00\25, 2);
   @include grid-gutters($gutters, \31 50\25, 1.5);
   @include grid-gutters($gutters, \35 0\25, 0.5);
-  @include grid-gutters($gutters, \32 5\25, 0.25);
-
-  // Cells.
+  @include grid-gutters($gutters, \32 5\25, 0.25); // Cells.
   $x: "";
-
   @if $breakpointName {
     $x: "\\28" + $breakpointName + "\\29";
   }
-
   .\31 2u#{$x},
   .\31 2u\24#{$x} {
     width: 100%;
@@ -320,22 +242,20 @@ $vendor-values: (
     clear: none;
     margin-left: 0;
   }
-
-  .\31 2u\24#{$x} + *,
-  .\31 1u\24#{$x} + *,
-  .\31 0u\24#{$x} + *,
-  .\39 u\24#{$x} + *,
-  .\38 u\24#{$x} + *,
-  .\37 u\24#{$x} + *,
-  .\36 u\24#{$x} + *,
-  .\35 u\24#{$x} + *,
-  .\34 u\24#{$x} + *,
-  .\33 u\24#{$x} + *,
-  .\32 u\24#{$x} + *,
-  .\31 u\24#{$x} + * {
+  .\31 2u\24#{$x}+*,
+  .\31 1u\24#{$x}+*,
+  .\31 0u\24#{$x}+*,
+  .\39 u\24#{$x}+*,
+  .\38 u\24#{$x}+*,
+  .\37 u\24#{$x}+*,
+  .\36 u\24#{$x}+*,
+  .\35 u\24#{$x}+*,
+  .\34 u\24#{$x}+*,
+  .\33 u\24#{$x}+*,
+  .\32 u\24#{$x}+*,
+  .\31 u\24#{$x}+* {
     clear: left;
   }
-
   .\-11u#{$x} {
     margin-left: 91.6666666667%;
   }
@@ -377,34 +297,22 @@ $vendor-values: (
 /// @param {integer} $multiplier Multiplier (default is 1).
 @mixin grid-gutters($gutters, $class: null, $multiplier: 1) {
   // Expand gutters if it's not a list.
-  @if length($gutters) == 1 {
-    $gutters: (
-      $gutters,
-      0
-    );
-  }
-
-  // Get column and row gutter values.
+  @if length($gutters)==1 {
+    $gutters: ( $gutters, 0);
+  } // Get column and row gutter values.
   $c: nth($gutters, 1);
-  $r: nth($gutters, 2);
-
-  // Get class (if provided).
+  $r: nth($gutters, 2); // Get class (if provided).
   $x: "";
-
   @if $class {
     $x: "." + $class;
-  }
-
-  // Default.
-  .row#{$x} > * {
+  } // Default.
+  .row#{$x}>* {
     padding: ($r * $multiplier) 0 0 ($c * $multiplier);
   }
   .row#{$x} {
     margin: ($r * $multiplier * -1) 0 -1px ($c * $multiplier * -1);
-  }
-
-  // Uniform.
-  .row.uniform#{$x} > * {
+  } // Uniform.
+  .row.uniform#{$x}>* {
     padding: ($c * $multiplier) 0 0 ($c * $multiplier);
   }
   .row.uniform#{$x} {
@@ -444,106 +352,69 @@ $vendor-values: (
 @mixin skel-layout($config: ()) {
   // Config.
   $configPerBreakpoint: ();
-
   $z: map-get($config, "breakpoints");
-
   @if $z {
     $configPerBreakpoint: $z;
-  }
-
-  // Reset.
+  } // Reset.
   $x: map-get($config, "reset");
-
   @if $x {
     /* Reset */
-
     @include reset($x);
-  }
-
-  // Box model.
+  } // Box model.
   $x: map-get($config, "boxModel");
-
   @if $x {
     /* Box Model */
-
     @include boxModel($x);
-  }
-
-  // Containers.
+  } // Containers.
   $containers: map-get($config, "containers");
-
   @if $containers {
     /* Containers */
-
     .container {
       margin-left: auto;
       margin-right: auto;
-    }
-
-    // Use default is $containers is just "true".
-    @if $containers == true {
+    } // Use default is $containers is just "true".
+    @if $containers==true {
       $containers: 960px;
-    }
-
-    // Apply base.
-    @include containers($containers);
-
-    // Apply per-breakpoint.
+    } // Apply base.
+    @include containers($containers); // Apply per-breakpoint.
     @each $name in map-keys($breakpoints) {
       // Get/use breakpoint setting if it exists.
-      $x: map-get($configPerBreakpoint, $name);
-
-      // Per-breakpoint config exists?
+      $x: map-get($configPerBreakpoint, $name); // Per-breakpoint config exists?
       @if $x {
-        $y: map-get($x, "containers");
-
-        // Setting exists? Use it.
+        $y: map-get($x, "containers"); // Setting exists? Use it.
         @if $y {
           $containers: $y;
         }
-      }
-
-      // Create @media block.
+      } // Create @media block.
       @media screen and #{map-get($breakpoints, $name)} {
         @include containers($containers);
       }
     }
-  }
-
-  // Grid.
+  } // Grid.
   $grid: map-get($config, "grid");
-
   @if $grid {
     /* Grid */
-
     // Use defaults if $grid is just "true".
-    @if $grid == true {
+    @if $grid==true {
       $grid: ();
-    }
-
-    // Sub-setting: Gutters.
+    } // Sub-setting: Gutters.
     $grid-gutters: 40px;
     $x: map-get($grid, "gutters");
-
     @if $x {
       $grid-gutters: $x;
-    }
-
-    // Rows.
+    } // Rows.
     .row {
       border-bottom: solid 1px transparent;
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
     }
-
-    .row > * {
+    .row>* {
       float: left;
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
     }
-
     .row:after,
     .row:before {
       content: "";
@@ -551,42 +422,27 @@ $vendor-values: (
       clear: both;
       height: 0;
     }
-
-    .row.uniform > * > :first-child {
+    .row.uniform>*> :first-child {
       margin-top: 0;
     }
-
-    .row.uniform > * > :last-child {
+    .row.uniform>*> :last-child {
       margin-bottom: 0;
-    }
-
-    // Gutters (0%).
-    @include grid-gutters($grid-gutters, \30 \25, 0);
-
-    // Apply base.
-    @include grid($grid-gutters);
-
-    // Apply per-breakpoint.
+    } // Gutters (0%).
+    @include grid-gutters($grid-gutters, \30 \25, 0); // Apply base.
+    @include grid($grid-gutters); // Apply per-breakpoint.
     @each $name in map-keys($breakpoints) {
       // Get/use breakpoint setting if it exists.
-      $x: map-get($configPerBreakpoint, $name);
-
-      // Per-breakpoint config exists?
+      $x: map-get($configPerBreakpoint, $name); // Per-breakpoint config exists?
       @if $x {
-        $y: map-get($x, "grid");
-
-        // Setting exists?
+        $y: map-get($x, "grid"); // Setting exists?
         @if $y {
           // Sub-setting: Gutters.
           $x: map-get($y, "gutters");
-
           @if $x {
             $grid-gutters: $x;
           }
         }
-      }
-
-      // Create @media block.
+      } // Create @media block.
       @media screen and #{map-get($breakpoints, $name)} {
         @include grid($grid-gutters, $name);
       }
@@ -597,7 +453,7 @@ $vendor-values: (
 /// Resets browser styles.
 /// @param {string} $mode Mode (default is 'normalize').
 @mixin reset($mode: "normalize") {
-  @if $mode == "normalize" {
+  @if $mode=="normalize" {
     // normalize.css v3.0.2 | MIT License | git.io/normalize
     html {
       font-family: sans-serif;
@@ -767,6 +623,7 @@ $vendor-values: (
     }
     textarea {
       overflow: auto;
+      font-weight: 300;
     }
     optgroup {
       font-weight: 700;
@@ -779,7 +636,8 @@ $vendor-values: (
     th {
       padding: 0;
     }
-  } @else if $mode == "full" {
+  }
+  @else if $mode=="full" {
     // meyerweb.com/eric/tools/css/reset v2.0 | 20110126 | License: none (public domain)
     html,
     body,
@@ -915,35 +773,26 @@ $vendor-values: (
 /// @param {mixed} $value String/list of value(s).
 @mixin vendor($property, $value) {
   // Determine if property should expand.
-  $expandProperty: index($vendor-properties, $property);
-
-  // Determine if value should expand (and if so, add '-prefix-' placeholder).
+  $expandProperty: index($vendor-properties, $property); // Determine if value should expand (and if so, add '-prefix-' placeholder).
   $expandValue: false;
-
   @each $x in $value {
     @each $y in $vendor-values {
-      @if $y == str-slice($x, 1, str-length($y)) {
+      @if $y==str-slice($x, 1, str-length($y)) {
         $value: set-nth($value, index($value, $x), "-prefix-" + $x);
         $expandValue: true;
       }
     }
-  }
-
-  // Expand property?
+  } // Expand property?
   @if $expandProperty {
     @each $vendor in $vendor-prefixes {
       #{$vendor}#{$property}: #{str-replace-all($value, "-prefix-", $vendor)};
     }
-  }
-
-  // Expand just the value?
+  } // Expand just the value?
   @elseif $expandValue {
     @each $vendor in $vendor-prefixes {
       #{$property}: #{str-replace-all($value, "-prefix-", $vendor)};
     }
-  }
-
-  // Neither? Treat them as a normal declaration.
+  } // Neither? Treat them as a normal declaration.
   @else {
     #{$property}: #{$value};
   }

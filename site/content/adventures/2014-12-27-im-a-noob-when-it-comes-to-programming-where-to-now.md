@@ -34,6 +34,7 @@ tags:
     - web development
 categories:
     - blog
+    - coding
 ---
 
 # Here, I've compiled a list of 15 great resources I've come to learn about over the years of trying to learn how to properly program.

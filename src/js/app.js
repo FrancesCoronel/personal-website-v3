@@ -26,6 +26,7 @@ require("./components/externalLinks");
 require("./components/randomTitle");
 
 // Isotope
+require("./components/isotope.fitRowsCentered");
 require("./components/isotope");
 
 // OneSignal

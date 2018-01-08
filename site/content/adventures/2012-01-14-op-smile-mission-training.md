@@ -8,7 +8,6 @@ categories:
     - volunteering
     - program
     - imovie101
-    - certainty
 tags:
     - imovie101
 ---

@@ -6,7 +6,6 @@ banner: https://fvcproductions.files.wordpress.com/2015/11/461956_47684620232809
 categories:
     - program
     - education
-    - certainty
 ---
 
 ## Name

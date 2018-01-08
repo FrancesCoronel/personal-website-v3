@@ -5,7 +5,6 @@ date: 2009-09-22
 banner: https://www.npsk12.com/cms/lib/VA02208074/Centricity/ModuleInstance/14118/ghent.JPG
 categories:
     - education
-    - certainty
 ---
 
 ## Institution

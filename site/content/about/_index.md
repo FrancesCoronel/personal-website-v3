@@ -20,6 +20,8 @@ Might have something to do with human nature in general, though, so interpret it
 
 [![Logo](https://i.imgur.com/20odQOI.png)](https://www.behance.net/gallery/55919431/New-Logo-FVCproductions)
 
+<p class="image-caption">Logo</p>
+
 <p class="notice"><b>Fun Fact</b> My logo is a chocolate dipped strawberry. No particular
 reason why, I just think they're yummy. 🍓🍫</p>
 
@@ -34,6 +36,8 @@ reason why, I just think they're yummy. 🍓🍫</p>
 * Lover of chocolate dipped strawberries (my logo) 🍓️🍫️ and the base 12 system (bae likes it so yeah, sure) 📐😍
 
 ![Holidays 2017](https://i.imgur.com/6Tt4j4l.jpg)
+
+<p class="image-caption"><a href="//noltron000.github.io/my-website/">Nolan</a> and me on Xmas in 2017 ☃️❤️</p>
 
 ### What's Happening Nowadays 📅
 

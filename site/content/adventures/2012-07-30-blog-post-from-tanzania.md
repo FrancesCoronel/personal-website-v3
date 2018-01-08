@@ -5,7 +5,7 @@ description: All the blog posts from my time in Tanzania studying wildlife resea
 banner: //fvcproductions.files.wordpress.com/2013/07/serengeti-292.jpg
 categories:
     - blog
-    - certainty
+    - certainties
 tags:
     - tanzania
 ---

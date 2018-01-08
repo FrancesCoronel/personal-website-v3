@@ -18,7 +18,7 @@ tags:
     - Wii
 categories:
     - blog
-    - certainty
+    - certainties
 ---
 
 ## Context

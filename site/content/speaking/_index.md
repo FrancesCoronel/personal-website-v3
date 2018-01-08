@@ -12,7 +12,7 @@ noTimeEstimate: true
 
 ## I've given talks on a variety of topics.
 
-If you'd like me to speak at an event, don't hesitate to [reach out](/about/contact)!
+If you'd like me to speak at an event, don't hesitate to [reach out](/contact)!
 
 ### Presentations
 

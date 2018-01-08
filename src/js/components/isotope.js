@@ -41,7 +41,7 @@ function onHashchange() {
     $loadingMessage.hide();
     $grid.isotope({
       itemSelector: ".isotope-item",
-      layoutMode: "fitRows",
+      layoutMode: "fitRowsCentered",
       // use filterFns
       filter: hashFilter
     });

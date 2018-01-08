@@ -3,6 +3,9 @@ title: "Interview with Bitmaker Labs"
 date: 2014-03-12
 description: "My favorite 20 laws of power."
 banner: //fvcproductions.files.wordpress.com/2014/03/bitmaker-banner.png?w=1024&h=435&crop=1
+categories:
+    - blog
+    - certainties
 tags:
     - bit
     - BitMaker
@@ -20,8 +23,6 @@ tags:
     - UI design
     - web design
     - web dev
-categories:
-    - blog
 ---
 
 So this past winter, I applied to [**Bitmaker Labs**](//bitmakerlabs.com "BitmakerLabs") for their summer 2014 full-time web development immersive course and was luckily accepted.

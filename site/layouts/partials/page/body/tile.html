@@ -1,15 +1,16 @@
 <article class="{{ if .Parent.Params.isotope }}isotope-item{{ end }} {{ with .Params.categories }}{{ delimit . " " }}{{ end }}">
-  <span class="image home-article" style="background-image:url({{ .Params.banner }});"></span>
+  <span class="image background-image" style="background-image:url({{ .Params.banner }});"></span>
   {{ if .Params.link }}
-  <a href="{{ .Params.link }}" target="_blank">
+  <a href="{{ .Params.link }}" target="_blank" rel="noopener">
     {{ else }}
     <a href="{{ .Permalink }}">
       {{ end }}
       <!-- Title -->
       {{ if not .PublishDate.IsZero }}
-      <p>{{ .Date.Format "January 2006" }}</p>
+      <p class="small">{{ .Date.Format "January 2006" }}</p>
       {{ end }}
-      <h2>{{ .Title }} {{ if .Params.link }}↗️{{ end }}
+      <h2>
+        {{ .Title }} {{ if .Params.link }}↗️{{ end }}
       </h2>
       <!-- Description -->
       {{ if .Description }}

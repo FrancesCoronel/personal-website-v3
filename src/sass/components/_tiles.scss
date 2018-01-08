@@ -13,7 +13,10 @@
     position: relative;
     width: calc(#{(100% / 3)} - #{$gutter * 1});
     margin: $gutter 0 0 $gutter;
-    > .image {
+    &.plain-tile {
+      width: 95%;
+    }
+    >.image {
       @include vendor("transition", "transform #{$duration} #{$ease}");
       position: relative;
       display: block;
@@ -48,9 +51,7 @@
         left: 0;
         width: 100%;
         height: 100%;
-        background-image: svg-url(
-          '<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" preserveAspectRatio="none"><style>line { stroke-width: 0.25px; stroke: #ffffff; }</style><line x1="0" y1="0" x2="100" y2="100" /><line x1="100" y1="0" x2="0" y2="100" /></svg>'
-        );
+        background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" preserveAspectRatio="none"><style>line { stroke-width: 0.25px; stroke: #ffffff; }</style><line x1="0" y1="0" x2="100" y2="100" /><line x1="100" y1="0" x2="0" y2="100" /></svg>');
         background-position: center;
         background-repeat: no-repeat;
         background-size: 100% 100%;
@@ -58,7 +59,7 @@
         z-index: 2;
       }
     }
-    > a {
+    >a {
       @include vendor("display",
       "flex");
       @include vendor("flex-direction",
@@ -95,7 +96,7 @@
       }
       .content {
         @include vendor("transition",
-        ( "max-height #{$duration} #{$ease}", "opacity #{$duration} #{$ease}"));
+        ( "opacity #{$duration} #{$ease}"));
         width: 100%;
         max-height: 0;
         line-height: 1.5;
@@ -108,7 +109,7 @@
     }
     body:not(.is-touch) & {
       &:hover {
-        > .image {
+        >.image {
           @include vendor("transform",
           "scale(1.1)");
           &:before {
@@ -125,22 +126,12 @@
         }
       }
     }
-  } // * + & {
-  //   margin-top: _size(element-margin);
-  // }
+  }
   body.is-loading & {
     article {
       @include vendor("transform",
       "scale(0.9)");
       opacity: 0.95;
-    }
-  }
-  body.is-touch & {
-    article {
-      .content {
-        max-height: 15em;
-        opacity: 1;
-      }
     }
   }
   @include breakpoint(large) {
@@ -163,10 +154,10 @@
     $gutter: _size(gutter) * 0.5;
     margin: ($gutter * -1) 0 0 ($gutter * -1);
     article {
-      width: calc(#{(100% / 2)} - #{$gutter * 1});
+      width: calc(#{(100% / 1)} - #{$gutter * 1});
       margin: $gutter 0 0 $gutter;
       &:hover {
-        > .image {
+        >.image {
           @include vendor("transform",
           "scale(1.0)");
         }

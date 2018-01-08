@@ -103,7 +103,7 @@ blockquote {
   margin-bottom: 2em;
 }
 
-.home-article {
+.background-image {
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
@@ -132,22 +132,16 @@ a:hover {
   }
 }
 
-section,
-article {
-  &.special {
-    text-align: center;
-  }
-}
-
 header {
   p {
     margin-top: 0;
+    margin-bottom: .5em;
     font-size: 2em;
   }
   @include breakpoint(small) {
     p {
       margin-top: 0;
-      margin-bottom: 0;
+      margin-bottom: 1em;
     }
   }
 }
@@ -235,6 +229,10 @@ li label {
   width: 100%;
 }
 
+.isotope-header {
+  text-align: center;
+}
+
 input {
   color: #585858;
   font-size: 16pt;
@@ -258,7 +256,7 @@ input[type="radio"] {
 }
 
 .page-footer {
-  margin: 2em 0;
+  margin: 1em 0 3em;
   border-style: solid;
   border-color: _palette(fg);
   border-top-width: 0.3em;
@@ -273,10 +271,6 @@ input[type="radio"] {
 
 .archive-date {
   margin-right: 1em;
-}
-
-.subscribe-form {
-  margin: 2em 0 4em 0;
 }
 
 .highlight {
@@ -336,15 +330,17 @@ table th {
 
 .subscribe-form {
   padding: 0;
-  form {
-    margin: 0;
-    padding: 0;
-  }
-  img.mailchimp-logo {
-    width: 2em;
-    vertical-align: -0.5em;
-    margin-right: 0.5em;
-  }
+}
+
+form {
+  margin: 0;
+  padding: 0;
+}
+
+img.mailchimp-logo {
+  width: 2em;
+  vertical-align: -0.5em;
+  margin-right: 0.5em;
 }
 
 .notice {
@@ -393,17 +389,6 @@ table tbody tr:nth-child(odd) {
   background-color: #f0f3f3;
 }
 
-.plain-tile-image {
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 50%;
-  background-attachment: scroll;
-  min-height: 15em;
-  display: block;
-  width: 100%;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-}
-
 blockquote {
   margin: 1em;
 }
@@ -415,6 +400,7 @@ blockquote {
 }
 
 .filter-button-group {
+  text-align: center;
   button {
     margin: 0.5em 0.5em 0.5em 0;
     @include breakpoint(small) {
@@ -423,20 +409,78 @@ blockquote {
   }
 }
 
-.section.tiles {
+section.section.tiles.isotope-grid {
   margin: 0;
+}
+
+.gutter-size {
+  width: 10%;
+}
+
+.section.tiles {
   article {
     margin: 0;
-    padding: 1em;
+    padding: .5em;
   }
   h2 {
     font-size: 1.5em;
   }
+  &.plain {
+    article {
+      margin: 0.5em;
+      padding: 1.5em;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+      a {
+        font-size: 1.75em;
+        color: _palette(fg);
+         :hover {
+          color: #607d8b;
+        }
+      }
+      .tile-image {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50%;
+        background-attachment: scroll;
+        min-height: 15em;
+        display: block;
+        width: 100%;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+      }
+    }
+  }
+}
+
+.small {
+  font-size: smaller;
 }
 
 archive-date {
   margin-right: 1em;
 }
+
+@mixin image-caption-shared {
+  position: relative;
+  font-style: italic;
+  margin-top: 1em;
+  background: none;
+  z-index: 0;
+  opacity: 0.75;
+  color: black;
+  text-align: center;
+  padding: 0;
+  font-weight: 200;
+}
+
+.image-caption {
+  @include image-caption-shared;
+  margin-bottom: 3em;
+}
+
+section.section.tiles {
+  margin: 1em 0;
+}
+
 
 .banner-caption {
   position: absolute;
@@ -451,40 +495,22 @@ archive-date {
   z-index: 5;
   opacity: 0.5;
   @include breakpoint(small) {
-    position: relative;
-    font-style: italic;
-    margin-top: 1em;
-    background: none;
-    z-index: 0;
-    opacity: 0.75;
-    color: black;
-    text-align: center;
-    padding: 0;
+    @include image-caption-shared;
     float: right;
   }
 }
 
 .page {
   margin: 0 auto;
-  width: 90%;
+  width: 75%;
   @include breakpoint(small) {
     width: 100%;
   }
   @include breakpoint(medium) {
     width: 95%;
   }
-}
-
-.section.tiles.plain article,
-.section.tiles.isotope.blog.plain article {
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-  margin: 0.5em;
-  padding: 2em;
-  a {
-    color: _palette(fg);
-     :hover {
-      color: #607d8b;
-    }
+  @include breakpoint(large) {
+    width: 85%;
   }
 }
 
@@ -498,23 +524,6 @@ archive-date {
   }
 }
 
-// .section.tiles.plain {
-//   margin: 1em;
-//   article {
-//     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-//     margin: 0;
-//     padding: 0;
-//     a {
-//       color: _palette(fg);
-//       :hover {
-//         color: #607d8b;
-//       }
-//     }
-//     .content {
-//       padding: 1em;
-//     }
-//   }
-// }
 span.image.main img {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
 }

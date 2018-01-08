@@ -5,10 +5,6 @@ date: 2010-08-13
 banner: https://fvcproductions.files.wordpress.com/2017/01/tcc-banner1.png
 categories:
     - education
-    - certainty
-gallery:
-    - alt: "TCC Banner"
-      url: https://fvcproductions.files.wordpress.com/2017/01/tcc-banner1.png
 ---
 
 ## Institution
@@ -43,4 +39,4 @@ Through TCC's dual enrollment program, I enrolled in 2 different courses in the 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/353207049/Tidewater-Community-College-Transcript">Tidewater Community College Transcript</a></h4><p>This is my transcript from my two summers at Tidewater Community College where I enrolled in courses while still in high school.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-{{< gallery >}}
+![TCC Banner](https://fvcproductions.files.wordpress.com/2017/01/tcc-banner1.png)

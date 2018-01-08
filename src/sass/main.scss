@@ -7,6 +7,13 @@
 @import "base/typography";
 // Vendor
 @import "vendor/font-awesome";
+// Layout
+@import "layout/menu";
+@import "layout/header";
+@import "layout/wrapper";
+@import "layout/main";
+@import "layout/footer";
+@import "layout/print";
 // Components
 @import "components/icon";
 @import "components/list";
@@ -16,10 +23,4 @@
 @import "components/table";
 @import "components/button";
 @import "components/tiles";
-// Layout
-@import "layout/menu";
-@import "layout/header";
-@import "layout/wrapper";
-@import "layout/main";
-@import "layout/footer";
-@import "layout/print";
+@import "components/search";

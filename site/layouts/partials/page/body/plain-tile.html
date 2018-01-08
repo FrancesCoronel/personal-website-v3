@@ -1,11 +1,10 @@
 <article class="plain-tile {{ if .Parent.Params.isotope }}isotope-item{{ end }} {{ with .Params.categories }}{{ delimit . " " }}{{ end }}">
-  {{ if .Params.banner }}
-  <span class="plain-tile-image" style="background-image:url({{ .Params.banner }});"></span>
-  {{ end }}
   <div class="content">
     <!-- Date -->
     {{ if not .PublishDate.IsZero }}
-    <p>{{ .Date.Format "January 2006" }}</p>
+    <p class="small">
+      {{ .Date.Format "January 1, 2006" }}
+    </p>
     {{ end }}
     <!-- Title -->
     {{ if .Params.link }}

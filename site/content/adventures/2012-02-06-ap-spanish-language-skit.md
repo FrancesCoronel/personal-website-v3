@@ -5,7 +5,7 @@ description: This was a fun little skit I did with a few kids from my AP Spanish
 banner: //fvcproductions.files.wordpress.com/2013/07/three-pigs.jpg
 categories:
     - blog
-    - certainty
+    - certainties
 tags:
     - spanish
 ---

@@ -33,7 +33,7 @@
       <div class="12u">
         <p>
           <i title="External Link" class="fas fa-external-link-square-alt fa-lg"></i>
-          <a href="https:{{ . }}" target="_blank" rel="nofollow">https:{{ . }}</a>
+          <a href="https:{{ . }}" target="_blank" rel="noopener">https:{{ . }}</a>
         </p>
       </div>
     </div>
@@ -57,7 +57,7 @@
       {{ if .Params.banner }}
       <!-- With Banner Link -->
       {{ if .Params.banner_link }}
-      <a href="{{ .Params.banner_link }}" target="_blank" rel="nofollow">
+      <a href="{{ .Params.banner_link }}" target="_blank" rel="noopener">
         <span class="image main">
           <!-- Image -->
           <img src="{{ .Params.banner }}" alt="{{ .Params.caption }}">

@@ -59,20 +59,6 @@ button,
     font-size: 1em;
   }
 
-  &.special {
-    box-shadow: none;
-    background-color: _palette(fg);
-    color: _palette(bg) !important;
-
-    &:hover {
-      background-color: _palette(accent1);
-    }
-
-    &:active {
-      background-color: darken(_palette(accent1), 8);
-    }
-  }
-
   &.disabled,
   &:disabled {
     @include vendor("pointer-events", "none");

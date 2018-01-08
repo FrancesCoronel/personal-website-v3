@@ -7,7 +7,6 @@ categories:
     - volunteering
     - speaking
     - burnprevention
-    - certainty
 ---
 
 ![Operation Smile - Conference Logo](https://fvcproductions.files.wordpress.com/2015/11/conferencelogos-002-copy.png)

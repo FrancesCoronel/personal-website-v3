@@ -2,6 +2,10 @@
 title: "Python Bits - Getting Started"
 date: 2014-03-12
 description: "The first bit in a mini-series for beginners of Python."
+banner: //fvcproductions.files.wordpress.com/2014/06/python.jpg?w=1024&h=435&crop=1
+categories:
+    - blog
+    - coding
 tags:
     - area of a rectangle python
     - digital hieroglyphics
@@ -16,9 +20,6 @@ tags:
     - circle
     - python bits
     - strings python
-categories:
-    - blog
-banner: //fvcproductions.files.wordpress.com/2014/06/python.jpg?w=1024&h=435&crop=1
 ---
 
 ### Hello, hello, hello!
