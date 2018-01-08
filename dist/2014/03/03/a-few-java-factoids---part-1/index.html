@@ -157,7 +157,16 @@
   
   
   
-  <script src="//cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+  <script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(function () {
+      OneSignal.init({
+        appId: "7bc782bf-6ee1-4373-8d1d-1346aba3b9ff",
+      });
+    });
+
+  </script>
 </head>
 
 <body>
@@ -930,7 +939,7 @@ Hope" /></p>
     
     
     <li>
-      <a href="/index.xml" class="icon font-awesome fa-rss" target="_blank" rel="nofollow">
+      <a href="/feed.xml" class="icon font-awesome fa-rss" target="_blank" rel="nofollow">
         <i title="RSS" class="fas fa-rss fa-lg"></i>
         <span class="label">RSS</span>
       </a>
@@ -1209,7 +1218,7 @@ Hope" /></p>
     
     
     <li>
-      <a href="/index.xml" class="icon font-awesome" target="_blank" rel="nofollow">
+      <a href="/feed.xml" class="icon font-awesome" target="_blank" rel="nofollow">
         <i title="RSS" class="fas fa-rss"></i>
         <span class="label">RSS</span>
       </a>

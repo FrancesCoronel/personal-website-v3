@@ -3,6 +3,7 @@
   "description": "I like to dabble with things that ought to be dabbled with.",
   "display": "standalone",
   "gcm_sender_id": "482941778795",
+  "gcm_sender_id_comment": "Do not change the GCM Sender ID",
   "gcm_user_visible_only": true,
   "name": "FVCproductions",
   "orientation": "portrait",

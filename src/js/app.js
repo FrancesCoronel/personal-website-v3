@@ -29,7 +29,7 @@ require("./components/randomTitle");
 require("./components/isotope");
 
 // OneSignal
-require("./components/oneSignal");
+//require("./components/oneSignal");
 
 // Service Worker
 //require("./components/serviceWorker");
