@@ -38,10 +38,17 @@ export default {
       $: "jquery",
       jQuery: "jquery"
     }),
-    new HtmlWebpackPlugin({}),
+    new HtmlWebpackPlugin({
+      minify: {
+        removeComments: true,
+        collapseWhitespace: true,
+        minifyCSS: true,
+        minifyJS: true
+      }
+    }),
     new WorkboxPlugin({
       globDirectory: "dist",
-      globPatterns: ["**/*.{html,js, css}"],
+      globPatterns: ["**/*.{html,js,css}"],
       swDest: path.join("dist", "sw.js"),
       clientsClaim: true,
       skipWaiting: true

@@ -9,7 +9,7 @@
   "orientation": "portrait",
   "scope": "/",
   "short_name": "FVC",
-  "start_url": "/?homescreen=1",
+  "start_url": ".",
   "theme_color": "#ffffff",
   "icons": [
     {
