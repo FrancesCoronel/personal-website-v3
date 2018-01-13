@@ -13,39 +13,21 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 0.5em 0 0.5em;
+  margin: .5em 0 0.5em;
   font-family: "Roboto", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-  font-weight: 300;
 }
 
-h1 {
-  font-size: 4em;
-  font-weight: 500;
+h3, h4, h5, h6 {
+  margin-top: 1em;
 }
 
-h2 {
-  font-size: 3em;
+.home {
+  h1 {
+    font-weight: 500;
+  }
+  h2 {
   font-weight: 400;
-}
-
-h3 {
-  font-size: 2em;
-}
-
-h4 {
-  font-size: 1.75em;
-}
-
-h5 {
-  font-size: 1.5em;
-}
-
-h6 {
-  font-size: 1.25em;
-}
-
-p {
-  margin-bottom: 1.3em;
+  }
 }
 
 u,
@@ -135,13 +117,11 @@ a:hover {
 header {
   p {
     margin-top: 0;
-    margin-bottom: .5em;
     font-size: 2em;
   }
   @include breakpoint(small) {
     p {
-      margin-top: 0;
-      margin-bottom: 1em;
+      margin-bottom: 0;
     }
   }
 }
@@ -164,13 +144,6 @@ blockquote {
 
 .contact-form {
   padding-top: 2em;
-  padding-bottom: 0em;
-  form {
-    margin: 0;
-    .actions {
-      margin: 0;
-    }
-  }
 }
 
 .contact-section,
@@ -235,7 +208,6 @@ li label {
 
 input {
   color: #585858;
-  font-size: 16pt;
   font-weight: 300;
   line-height: 1.75;
 }

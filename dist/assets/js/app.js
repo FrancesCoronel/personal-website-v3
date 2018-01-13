@@ -9434,9 +9434,6 @@ __webpack_require__(173);
 // Isotope
 __webpack_require__(174);
 __webpack_require__(176);
-
-// OneSignal
-__webpack_require__(185);
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(3), __webpack_require__(3)))
 
 /***/ }),
@@ -23151,20 +23148,6 @@ return jQueryBridget;
 
 }));
 
-
-/***/ }),
-/* 185 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-var OneSignal = window.OneSignal || [];
-OneSignal.push(function () {
-  OneSignal.init({
-    appId: "7bc782bf-6ee1-4373-8d1d-1346aba3b9ff"
-  });
-});
 
 /***/ })
 /******/ ]);

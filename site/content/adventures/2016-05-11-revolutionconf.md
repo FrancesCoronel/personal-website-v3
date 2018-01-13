@@ -66,5 +66,3 @@ And I believe [RevolutionConf](//revolutionconf.com) is taking us one step close
 <blockquote class="embedly-card"><h4><a href="//revolutionconf.com">RevolutionConf 2017</a></h4><p>RevolutionConf is a two-day, platform and language agnostic, software development conference being held on June 1-2, 2017 in Virginia Beach, VA. We are a 501c3 non-profit that formed specifically for running this and other great events for software developers in the area.</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="//twitter.com/revconf">RevolutionConf (@revconf) | Twitter</a></h4><p>The latest Tweets from RevolutionConf (@revconf). May 17-18, 2018 in Virginia Beach, VA. Organized by @1kevgriff, @lynnaloo, @erikpmp. Virginia Beach, VA</p></blockquote>
-
-<blockquote class="embedly-card"><h4><a href="//lanyrd.com/2016/revconf/">RevolutionConf 2016, 13th May 2016</a></h4><p>Join the Revolution: Uniting software professionals.</p></blockquote>

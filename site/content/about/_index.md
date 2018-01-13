@@ -23,7 +23,7 @@ Might have something to do with human nature in general, though, so interpret it
 <p class="image-caption">Logo</p>
 
 <p class="notice"><b>Fun Fact</b> My logo is a chocolate dipped strawberry. No particular
-reason why, I just think they're yummy. 🍓🍫</p>
+reason why, I just think they're yummy. 🍫🍓</p>
 
 ### Blurb 📇
 
@@ -35,9 +35,9 @@ reason why, I just think they're yummy. 🍓🍫</p>
 * Code pusher, design publisher & online blogger 🌐️
 * Lover of chocolate dipped strawberries (my logo) 🍓️🍫️ and the base 12 system (bae likes it so yeah, sure) 📐😍
 
-![Holidays 2017](https://i.imgur.com/6Tt4j4l.jpg)
+<!-- ![Holidays 2017](https://i.imgur.com/6Tt4j4l.jpg)
 
-<p class="image-caption"><a href="//noltron000.github.io/my-website/">Nolan</a> and me on Xmas in 2017 ☃️❤️</p>
+<p class="image-caption"><a href="//noltron000.github.io/my-website/">Nolan</a> and me on Xmas in 2017 ☃️❤️</p> -->
 
 ### What's Happening Nowadays 📅
 
@@ -45,8 +45,8 @@ reason why, I just think they're yummy. 🍓🍫</p>
 
 * Decided Medium wasn't for me...
 
-### [WakaTime Tracker](//wakatime.com/share/@fvcproductions)
+### [WakaTime Tracker](//wakatime.com/share/@fvcproductions/0a592682-4fbc-4ae3-87ab-e4f202c7df96.svg)
 
 > I code too much - help!
 
-<embed src="https://wakatime.com/share/@fvcproductions/96c7ec55-befc-4727-9b6b-d14b997dbcad.svg">
+<figure><embed src="https://wakatime.com/share/@fvcproductions/0a592682-4fbc-4ae3-87ab-e4f202c7df96.svg"></embed></figure>

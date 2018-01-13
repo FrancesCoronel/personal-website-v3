@@ -1,10 +1,11 @@
 <div class="page-footer">
+  <!-- Contact -->
+  {{ if .Params.contact }} {{ partial "page/footer/contact/index.html" . }} {{ end }}
   <!-- Sharing -->
   {{ partial "page/footer/sharing/index.html" . }}
   <!-- Subscribe -->
-  {{ partial "page/footer/subscribe.html" . }}
-  <!-- Contact -->
-  {{ partial "page/footer/contact/index.html" . }}
+  <!-- TODO: Set up MailChimp campaign -->
+  <!-- {{ partial "page/footer/subscribe.html" . }} -->
   <!-- Donate -->
   {{ partial "page/footer/donate.html" . }}
   <!-- Disqus Comments -->

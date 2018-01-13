@@ -2,12 +2,14 @@
 title: My Time in Tanzania 🌍
 date: 2012-07-30
 description: All the blog posts from my time in Tanzania studying wildlife research techniques.
+aliases:
+  - /blog/2012/07/30/blog-post-from-tanzania/
 banner: //fvcproductions.files.wordpress.com/2013/07/serengeti-292.jpg
 categories:
-    - blog
-    - certainties
+  - blog
+  - certainties
 tags:
-    - tanzania
+  - tanzania
 ---
 
 > I created a very brief diary while in Tanzania and thought I would go ahead and share my experience.

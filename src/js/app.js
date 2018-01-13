@@ -28,6 +28,3 @@ require("./components/randomTitle");
 // Isotope
 require("./components/isotope.fitRowsCentered");
 require("./components/isotope");
-
-// OneSignal
-require("./components/oneSignal");

@@ -10,7 +10,7 @@ $size: (
   border-radius: 0,
   border-width: 1px,
   element-height: 3em,
-  element-margin: 2em,
+  element-margin: 1em,
   gutter: 2.5em,
   field-gutter: 2em,
   inner: 54em,
@@ -40,10 +40,12 @@ $font: (
       "Courier New",
       monospace
     ),
-  weight: 400,
-  weight-bold: 900,
-  weight-bold-alt: 700,
-  letter-spacing: 0.35em,
+  weight: 300,
+  weight-bold: 400,
+  weight-bold-x: 500,
+  weight-bold-xx: 600,
+  weight-bold-xxx: 800,
+  letter-spacing: 0.1em,
   letter-spacing-alt: -0.035em
 );
 // Palette
