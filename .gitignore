@@ -63,3 +63,6 @@ typings/
 
 # Output
 config/env.js
+dist
+/dist/
+/dist
