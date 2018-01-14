@@ -3,22 +3,22 @@ title: To become a social media guru or not? 🎒
 date: 2011-12-14
 description: Talks about social networking in the classroom basically.
 banner: https://fvcproductions.files.wordpress.com/2013/08/old-technology-never-forget.jpg?w=1366
-tags:
-    - awkward silences
-    - essay talks
-    - Facebook
-    - fvcproductions
-    - Kinect
-    - levels of communication
-    - Mobile phone
-    - phone conversations
-    - Technology
-    - Text messaging
-    - VA Governor Schools
-    - Wii
 categories:
     - blog
     - certainties
+tags:
+    - awkward silences
+    - essay talks
+    - facebook
+    - fvcproductions
+    - kinect
+    - levels of communication
+    - mobile phone
+    - phone conversations
+    - technology
+    - text messaging
+    - va governor schools
+    - wii
 ---
 
 ## Context

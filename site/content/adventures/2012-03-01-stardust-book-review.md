@@ -8,17 +8,17 @@ categories:
     - creativity
 tags:
     - adult perspective
-    - Fairy
-    - Fantasy
+    - fairy
+    - fantasy
     - fantasy novels
-    - Neil Gaiman
-    - Stardust
-    - Tristan
+    - neil gaiman
+    - stardust
+    - tristan
     - unforeseen destiny
-    - Victoria
+    - victoria
     - videogames
-    - Witchcraft
-    - Yvaine
+    - witchcraft
+    - yvaine
 ---
 
 ## Neil Gaiman's _Stardust_

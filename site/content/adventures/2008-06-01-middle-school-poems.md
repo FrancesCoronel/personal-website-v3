@@ -9,7 +9,6 @@ categories:
 tags:
     - trampoline
     - middle school poems
-    - '2008'
     - random poems
     - the test
     - shakespeare

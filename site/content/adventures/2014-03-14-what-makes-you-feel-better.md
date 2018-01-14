@@ -8,7 +8,6 @@ tags:
     - digital hieroglyphics
     - initializing
     - installation
-    - integers
     - numerical expressions
     - printing
     - python

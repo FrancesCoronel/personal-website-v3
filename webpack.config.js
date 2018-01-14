@@ -1,7 +1,6 @@
 const webpack = require("webpack");
 const path = require("path");
 
-const HtmlWebpackPlugin = require("html-webpack-plugin");
 const WorkboxPlugin = require("workbox-webpack-plugin");
 
 export default {
@@ -38,20 +37,35 @@ export default {
       $: "jquery",
       jQuery: "jquery"
     }),
-    new HtmlWebpackPlugin({
-      minify: {
-        removeComments: true,
-        collapseWhitespace: true,
-        minifyCSS: true,
-        minifyJS: true
-      }
-    }),
     new WorkboxPlugin({
+      cacheId: "fvcproductions",
+      filename: "service-worker.js",
       globDirectory: "dist",
-      globPatterns: ["**/*.{html,js,css}"],
-      swDest: path.join("dist", "sw.js"),
+      globPatterns: ["**/*.{html,js,css,svg,png}"],
+      swDest: path.join("dist", "service-worker.js"),
       clientsClaim: true,
-      skipWaiting: true
+      skipWaiting: true,
+      navigateFallback: "/",
+      runtimeCaching: [
+        {
+          urlPattern: /\.(?:png|gif|jpg)$/,
+          handler: "cacheFirst",
+          options: {
+            cacheName: "fvcproductions-image-cache",
+            cacheExpiration: {
+              maxEntries: 20
+            }
+          }
+        },
+        {
+          urlPattern: new RegExp("https://cdn.embedly.com/widgets/platform.js"),
+          handler: "staleWhileRevalidate"
+        },
+        {
+          urlPattern: new RegExp("https://cdn.onesignal.com/sdks/OneSignalSDK.js"),
+          handler: "staleWhileRevalidate"
+        }
+      ]
     })
   ],
   resolve: {

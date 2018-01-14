@@ -7,14 +7,14 @@ categories:
     - blog
     - creativity
 tags:
-    - Asperger
-    - Asperger syndrome
-    - Aspie
-    - Autism spectrum
-    - Curious Incident of the Dog in the Night Time
-    - Matthew Fontaine Maury High School
-    - Maury High School
-    - Quizlet
+    - asperger
+    - asperger syndrome
+    - aspie
+    - autism spectrum
+    - curious incident of the dog in the night time
+    - matthew fontaine maury high school
+    - maury high school
+    - quizlet
 ---
 
 ## Context

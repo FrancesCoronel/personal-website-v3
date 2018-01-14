@@ -3,13 +3,13 @@ title: "Another spreadsheet app? 🤔️️"
 date: 2017-01-29
 description: "Are there other options out there?"
 banner: //fvcproductions.files.wordpress.com/2017/01/airtable.png
-tags:
-    - Airtable
-    - Airtable app
-    - KPCB Fellow application
-    - spreadsheet app
 categories:
     - blog
+tags:
+    - airtable
+    - airtable app
+    - kpcb fellow application
+    - spreadsheet app
 ---
 
 ## Google Sheets. Excel.

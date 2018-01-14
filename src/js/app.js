@@ -2,6 +2,11 @@
 jQuery = require("jquery");
 $ = require("jquery");
 
+// Passive Listener
+// document.addEventListener("touchstart", onTouchStart, {
+//   passive: true
+// });
+
 // Phantom - HTML5 UP
 require("./components/phantom");
 

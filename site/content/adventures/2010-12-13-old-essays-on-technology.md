@@ -9,16 +9,16 @@ categories:
 tags:
     - awkward silences
     - essay talks
-    - Facebook
+    - facebook
     - fvcproductions
-    - Kinect
+    - kinect
     - levels of communication
-    - Mobile phone
+    - mobile phone
     - phone conversations
-    - Technology
-    - Text messaging
-    - VA Governor Schools
-    - Wii
+    - technology
+    - text messaging
+    - va governor schools
+    - wii
 ---
 
 > This first essay talks about the mainly negative impact of texting on relationships. This essay was finished December 13, 2010. I wrote this for an application to the VA Governor's School for MST (Math, Science, and Technology) for the following summer but alas I was not accepted.

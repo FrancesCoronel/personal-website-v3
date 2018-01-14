@@ -16,6 +16,6 @@ If you'd like me to speak at an event, don't hesitate to [reach out](/contact)!
 
 ### Presentations
 
-All my presentations can be found on my <a href="//slideshare.net/fvcproductions" target="_blank" rel="nofollow">SlideShare <i class="fab fa-slideshare"></i></a>.
+All my presentations can be found on my <a href="//slideshare.net/fvcproductions" target="_blank" rel="noopener">SlideShare <i class="fab fa-slideshare"></i></a>.
 
-I used <a href="//speakerdeck.com/fvcproductions" target="_blank" rel="nofollow">Speaker Deck</a> in the past but that account is no longer maintained as I believe SlideShare has more useful features.
+I used <a href="//speakerdeck.com/fvcproductions" target="_blank" rel="noopener">Speaker Deck</a> in the past but that account is no longer maintained as I believe SlideShare has more useful features.

@@ -11,15 +11,15 @@
 <meta name="msapplication-tooltip" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} {{ end }}">
 <meta name="title" content="{{ .Title }}">
 <meta name="description" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} {{ end }}">
-<meta name="image" content="assets/img/teaser.png">
+<meta name="image" content="{{ .Site.BaseURL }}assets/img/teaser.png">
 <meta name="robots" content="index, follow">
 <meta itemprop="name" content="{{ .Title }}">
 <meta itemprop="description" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} {{ end }}">
-<meta itemprop="image" content="assets/img/teaser.png">
+<meta itemprop="image" content="{{ .Site.BaseURL }}assets/img/teaser.png">
 <!-- Open Graph -->
 <meta property="og:title" content="FVCproductions">
 <meta property="og:description" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} {{ end }}">
-<meta property="og:image" content="assets/img/teaser.png">
+<meta property="og:image" content="{{ .Site.BaseURL }}assets/img/teaser.png">
 <meta property="og:image:width" content="1050">
 <meta property="og:image:height" content="600">
 <meta property="og:url" content="{{ .Site.BaseURL }}">
@@ -33,8 +33,8 @@
 <meta name="twitter:description" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} {{ end }}">
 <meta name="twitter:url" content="{{ .Site.BaseURL }}">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="assets/img/teaser.png">
-<meta name="twitter:image:src" content="assets/img/teaser.png">
+<meta name="twitter:image" content="{{ .Site.BaseURL }}assets/img/teaser.png">
+<meta name="twitter:image:src" content="{{ .Site.BaseURL }}assets/img/teaser.png">
 <meta name="twitter:creator" content="@fvcproductions">
 <!-- Preconnect API. For browser compatibility, check http://caniuse.com/#feat=link-rel-preconnect -->
 <link rel="preconnect" href="{{ .Site.BaseURL }}">

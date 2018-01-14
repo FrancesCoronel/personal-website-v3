@@ -97,7 +97,3 @@ I also have shared my **interview experience** with bootcamps such as
 * [Dev League](//fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
 * [Fullstack Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
 * [Hack Reactor](//fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
-
-Tips or tricks?
-
-> Contact me [@fvcproductions](//twitter.com/fvcproductions "Twitter - FVCproductions")

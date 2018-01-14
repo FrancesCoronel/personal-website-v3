@@ -29,7 +29,7 @@ categories:
 >
 > Posted by [Dev League](//www.facebook.com/Dev-League-419352214850086/) on [Friday, January 16, 2015](//www.facebook.com/permalink.php?story_fbid=702971763154795&id=419352214850086)
 
-_oembed_time_c34a1a7c05f0f71be4c25c8ffb32d2ea: '1447941722' author: login: fvcproductions email: fvcproductions@gmail.com display_name: description: I applied to DevLeague, a new coding bootcamp in Hawaii! ---
+\_oembed_time_c34a1a7c05f0f71be4c25c8ffb32d2ea: '1447941722' author: login: fvcproductions email: fvcproductions@gmail.com display_name: description: I applied to DevLeague, a new coding bootcamp in Hawaii! ---
 
 ![DevLeague](//fvcproductions.files.wordpress.com/2015/01/devleague2.jpg) Mahalo, indeed.
 
@@ -110,7 +110,3 @@ I also have shared my **interview experience** with bootcamps such as
 * [Fullstack Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
 * [Hack Reactor](//fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
 * [Maker Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
-
-> Tips or tricks?
->
-> > Contact me [@fvcproductions](//twitter.com/fvcproductions "Twitter - FVCproductions")!

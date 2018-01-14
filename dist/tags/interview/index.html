@@ -26,15 +26,15 @@
 <meta name="msapplication-tooltip" content=" I like to dabble with things that ought to be dabbled with. 🍫️🍓️️ ">
 <meta name="title" content="Interview">
 <meta name="description" content=" I like to dabble with things that ought to be dabbled with. 🍫️🍓️️ ">
-<meta name="image" content="assets/img/teaser.png">
+<meta name="image" content="/assets/img/teaser.png">
 <meta name="robots" content="index, follow">
 <meta itemprop="name" content="Interview">
 <meta itemprop="description" content=" I like to dabble with things that ought to be dabbled with. 🍫️🍓️️ ">
-<meta itemprop="image" content="assets/img/teaser.png">
+<meta itemprop="image" content="/assets/img/teaser.png">
 
 <meta property="og:title" content="FVCproductions">
 <meta property="og:description" content=" I like to dabble with things that ought to be dabbled with. 🍫️🍓️️ ">
-<meta property="og:image" content="assets/img/teaser.png">
+<meta property="og:image" content="/assets/img/teaser.png">
 <meta property="og:image:width" content="1050">
 <meta property="og:image:height" content="600">
 <meta property="og:url" content="/">
@@ -48,8 +48,8 @@
 <meta name="twitter:description" content=" I like to dabble with things that ought to be dabbled with. 🍫️🍓️️ ">
 <meta name="twitter:url" content="/">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="assets/img/teaser.png">
-<meta name="twitter:image:src" content="assets/img/teaser.png">
+<meta name="twitter:image" content="/assets/img/teaser.png">
+<meta name="twitter:image:src" content="/assets/img/teaser.png">
 <meta name="twitter:creator" content="@fvcproductions">
 
 <link rel="preconnect" href="/">
@@ -142,7 +142,16 @@
   
   
   <link rel="manifest" href="/manifest.json" />
-  
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+  <script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(function () {
+      OneSignal.init({
+        appId: "7bc782bf-6ee1-4373-8d1d-1346aba3b9ff",
+      });
+    });
+
+  </script>
 </head>
 
 <body>
@@ -371,7 +380,7 @@
     
     
     <li>
-      <a href="//behance.net/fvcproductions" class="icon font-awesome" target="_blank" rel="nofollow">
+      <a href="//behance.net/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
         <i title="Behance" class="fab fa-behance"></i>
         <span class="label">Behance</span>
       </a>
@@ -380,7 +389,7 @@
     
     
     <li>
-      <a href="//github.com/fvcproductions" class="icon font-awesome" target="_blank" rel="nofollow">
+      <a href="//github.com/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
         <i title="GitHub" class="fab fa-github-alt"></i>
         <span class="label">GitHub</span>
       </a>
@@ -389,7 +398,7 @@
     
     
     <li>
-      <a href="//linkedin.com/fvcproductions" class="icon font-awesome" target="_blank" rel="nofollow">
+      <a href="//linkedin.com/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
         <i title="LinkedIn" class="fab fa-linkedin-in"></i>
         <span class="label">LinkedIn</span>
       </a>
@@ -398,7 +407,7 @@
     
     
     <li>
-      <a href="//slideshare.net/fvcproductions" class="icon font-awesome" target="_blank" rel="nofollow">
+      <a href="//slideshare.net/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
         <i title="SlideShare" class="fab fa-slideshare"></i>
         <span class="label">SlideShare</span>
       </a>
@@ -406,7 +415,7 @@
     
     
     <li>
-      <a href="/feed.xml" class="icon font-awesome" target="_blank" rel="nofollow">
+      <a href="/feed.xml" class="icon font-awesome" target="_blank" rel="noopener">
         <i title="RSS" class="fas fa-rss"></i>
         <span class="label">RSS</span>
       </a>
@@ -414,7 +423,7 @@
     
     
     <li>
-      <a href="//twitter.com/fvcproductions" class="icon font-awesome" target="_blank" rel="nofollow">
+      <a href="//twitter.com/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
         <i title="Twitter" class="fab fa-twitter"></i>
         <span class="label">Twitter</span>
       </a>
@@ -449,19 +458,22 @@
   
   
   
-  
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-63190978-3', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
   
   <script src="/assets/js/app.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/sw.js').then(registration => {
-          console.log('SW registered: ', registration);
+        navigator.serviceWorker.register('/OneSignalSDKWorker.js').then(registration => {
+          console.log('Service Worker Registered: ', registration);
         }).catch(registrationError => {
-          console.log('SW registration failed: ', registrationError);
-        });
-        navigator.serviceWorker.ready.then(function (registration) {
-          console.log("Service Worker Ready ");
+          console.log('Service Worker Registration Failed: ', registrationError);
         });
       });
     }

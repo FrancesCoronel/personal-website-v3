@@ -1,6 +1,6 @@
 const newPageAttributes = {
   target: "_blank",
-  rel: "nofollow"
+  rel: "noopener"
 };
 
 $("a[href^='//']").attr(newPageAttributes);

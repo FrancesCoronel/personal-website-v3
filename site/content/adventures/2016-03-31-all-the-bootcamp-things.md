@@ -4,7 +4,6 @@ date: 2016-03-31
 description: I've decided to compile all the coding bootcamp things and organize them by category. ALSO THIS IS MY 100th POST!
 banner: //fvcproductions.files.wordpress.com/2016/03/100thpost-001.jpeg
 tags:
-    - '100'
     - 100th
     - Bitmaker Labs
     - bootcamp.me
@@ -22,7 +21,6 @@ tags:
     - finding
     - fullstack academy
     - fullstack academy of code
-    - fvcproductions
     - hack reactor
     - interview
     - interviews

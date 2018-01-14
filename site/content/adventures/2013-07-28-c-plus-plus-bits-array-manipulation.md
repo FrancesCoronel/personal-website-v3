@@ -3,10 +3,10 @@ title: "C++ Bits - Array Manipulation ✂️"
 date: 2013-07-30
 description: "Manipulating arrays in C++."
 banner: //fvcproductions.files.wordpress.com/2013/07/banners-002.jpg?w=1024&h=436&crop=1
-tags:
-    - c++
 categories:
     - blog
+tags:
+    - c++
 ---
 
 ## Purpose
@@ -132,7 +132,7 @@ void GreaterThan(const int list[], int num_items)
 
 ## Output
 
-Just look at this here friggin output text I provided your a\**.
+Just look at this here friggin output text I provided your a\*\*.
 
 ```txt
 Please enter the number of array values

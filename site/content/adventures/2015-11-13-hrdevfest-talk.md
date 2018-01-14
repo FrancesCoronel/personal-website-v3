@@ -3,6 +3,8 @@ title: "HR DevFest - Web Design Talk 🎨️"
 date: 2015-11-13
 description: My presentation on Web Design for HR DevFest in Norfolk, VA on November 14th, 2015.
 banner: //fvcproductions.files.wordpress.com/2015/11/techtalk-001.jpeg?w=1024&h=435&crop=1
+categories:
+    - blog
 tags:
     - featured
     - hampton roads
@@ -15,8 +17,6 @@ tags:
     - tech conference
     - web design
     - web design talk
-categories:
-    - blog
 ---
 
 So I live in Norfolk, Virginia which is this beautiful small town by the sea. Norfolk is part of the Hampton Roads area which is often referred to as the `757` since that's our catchy area code.

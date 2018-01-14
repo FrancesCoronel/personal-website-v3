@@ -9427,6 +9427,11 @@ module.exports = __webpack_require__(75);
 jQuery = __webpack_require__(3);
 $ = __webpack_require__(3);
 
+// Passive Listener
+// document.addEventListener("touchstart", onTouchStart, {
+//   passive: true
+// });
+
 // Phantom - HTML5 UP
 __webpack_require__(115);
 
@@ -20732,7 +20737,7 @@ $("#return-to-top").click(function () {
 
 var newPageAttributes = {
   target: "_blank",
-  rel: "nofollow"
+  rel: "noopener"
 };
 
 $("a[href^='//']").attr(newPageAttributes);

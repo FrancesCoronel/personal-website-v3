@@ -23,7 +23,7 @@
   <!--[if lte IE 8]><link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/ie8.css"><![endif]-->
   <!-- OneSignal -->
   <link rel="manifest" href="/manifest.json" />
-  <!-- <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
   <script>
     var OneSignal = window.OneSignal || [];
     OneSignal.push(function () {
@@ -32,7 +32,7 @@
       });
     });
 
-  </script> -->
+  </script>
 </head>
 
 <body>
@@ -53,20 +53,16 @@
   <!-- IE -->
   <!--[if lte IE 8]><script src="{{.Site.BaseURL}}assets/js/ie.js"></script><![endif]-->
   <!-- Google Analytics -->
-  <!-- {{ template "_internal/google_analytics_async.html" . }} -->
-  <!--use just the brands and solid styles-->
+  {{ template "_internal/google_analytics_async.html" . }}
   <!-- Custom JS -->
   <script src="{{.Site.BaseURL}}assets/js/app.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/sw.js').then(registration => {
-          console.log('SW registered: ', registration);
+        navigator.serviceWorker.register('/OneSignalSDKWorker.js').then(registration => {
+          console.log('Service Worker Registered: ', registration);
         }).catch(registrationError => {
-          console.log('SW registration failed: ', registrationError);
-        });
-        navigator.serviceWorker.ready.then(function (registration) {
-          console.log("Service Worker Ready ");
+          console.log('Service Worker Registration Failed: ', registrationError);
         });
       });
     }

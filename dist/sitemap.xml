@@ -1243,12 +1243,6 @@
   </url>
   
   <url>
-    <loc>/tags/100/</loc>
-    <lastmod>2016-03-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/100th/</loc>
     <lastmod>2016-03-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1257,12 +1251,6 @@
   <url>
     <loc>/tags/128x128/</loc>
     <lastmod>2015-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/2008/</loc>
-    <lastmod>2008-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4003,7 +3991,7 @@
   
   <url>
     <loc>/tags/fvcproductions/</loc>
-    <lastmod>2016-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2015-08-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4818,18 +4806,6 @@
   </url>
   
   <url>
-    <loc>/tags/int-node/</loc>
-    <lastmod>2014-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/int%5C_node/</loc>
-    <lastmod>2014-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/integer/</loc>
     <lastmod>2013-09-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4837,7 +4813,7 @@
   
   <url>
     <loc>/tags/integers/</loc>
-    <lastmod>2014-03-14T00:00:00+00:00</lastmod>
+    <lastmod>2014-03-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6122,12 +6098,6 @@
   <url>
     <loc>/tags/novel/</loc>
     <lastmod>2013-07-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/null/</loc>
-    <lastmod>2014-11-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
