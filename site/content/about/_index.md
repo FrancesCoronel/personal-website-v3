@@ -1,10 +1,8 @@
 ---
 title: About 👀️
 description: Yep, that's me!
-# banner: https://i.imgur.com/gbb1Ewe.jpg
-# banner: https://i.imgur.com/6Tt4j4l.jpg
-banner: https://i.imgur.com/b4fb57D.jpg
-caption: Chrome Dev Summit - October 2017
+banner: https://i.imgur.com/xBdIk7o.jpg
+caption: On the ground...
 alphabetical: true
 noComments: true
 noTimeEstimate: true
@@ -29,21 +27,20 @@ reason why, I just think they're yummy. 🍫🍓</p>
 
 * SWE with a focus on UI development at Accenture's Liquid Studio in Redwood City, CA 💼
 * Self-driven MS in CS grad with a panache for design 🎓️ 🔨️
-* Latina (Peruvian-American) <img class="emoji" src="//abs.twimg.com/emoji/v2/72x72/1f1f5-1f1ea.png" draggable="false" alt="🇵🇪" title="Flag of Peru" aria-label="Emoji: Flag of Peru"> who gets a lot of personal satisfaction out of inspiring underserved groups within the tech industry 😊
+* Latina (Peruvian-American) 🇵🇪️ who gets a lot of personal satisfaction out of inspiring underserved groups within the tech industry 😊
 * Mentor, freelancer & speaker 💬️
 * Avid conference & hackathon goer 🚗
 * Code pusher, design publisher & online blogger 🌐️
 * Lover of chocolate dipped strawberries (my logo) 🍓️🍫️ and the base 12 system (bae likes it so yeah, sure) 📐😍
 
-<!-- ![Holidays 2017](https://i.imgur.com/6Tt4j4l.jpg)
-
-<p class="image-caption"><a href="//noltron000.github.io/my-website/">Nolan</a> and me on Xmas in 2017 ☃️❤️</p> -->
-
 ### What's Happening Nowadays 📅
 
 > This a [now section](https://nownownow.com/about) and if you have your own site, you should make one, too!
+>
+> Last updated January 2018
 
 * Decided Medium wasn't for me...
+* Awarded [Grow with Google](//www.udacity.com/grow-with-google) scholarship
 
 ### [WakaTime Tracker](//wakatime.com/share/@fvcproductions/0a592682-4fbc-4ae3-87ab-e4f202c7df96.svg)
 

@@ -45,4 +45,3 @@ I think with a little more improvements to the content/slides, Product School's 
 ### Certification
 
 <blockquote class="embedly-card"><h4><a href="https://certificate.productschool.com/y9ql6ifd">Product Management Certificate from Product School : Accredible : Certificates, Badges and Blockchain Credentials.</a></h4><p>Part-time courses in product, coding, and data analytics for managers</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

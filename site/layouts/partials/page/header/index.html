@@ -33,13 +33,13 @@
       <div class="12u">
         <p>
           <i title="External Link" class="fas fa-external-link-square-alt fa-lg"></i>
-          <a href="https:{{ . }}" target="_blank" rel="noopener">https:{{ . }}</a>
+          <a href="{{ . }}" target="_blank" rel="noopener">{{ . }}</a>
         </p>
       </div>
     </div>
     {{ end }}
     <!-- Comment Count -->
-    {{ if not .Params.noComments }}
+    <!-- {{ if not .Params.noComments }}
     <div class="row">
       <div class="12u">
         <p>
@@ -48,7 +48,7 @@
         </p>
       </div>
     </div>
-    {{ end }}
+    {{ end }} -->
   </div>
   <!-- Header Image -->
   <div class="row">

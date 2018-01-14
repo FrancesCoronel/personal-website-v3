@@ -3,13 +3,14 @@ title: Tidewater Community College - Summer 2010
 description: Through TCC's dual enrollment program, I enrolled in 2 different courses in the summer of 2010.
 date: 2010-08-13
 banner: https://fvcproductions.files.wordpress.com/2017/01/tcc-banner1.png
+embedly: true
 categories:
     - education
 ---
 
 ## Institution
 
-<a title="Tidewater Community College" href="https://tcc.edu" target="_blank" rel="noopener">Tidewater Community College (TCC)</a>
+[Tidewater Community College (TCC)](https://tcc.edu)
 
 ## Location
 
@@ -37,6 +38,5 @@ Through TCC's dual enrollment program, I enrolled in 2 different courses in the 
 ### Transcript
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/353207049/Tidewater-Community-College-Transcript">Tidewater Community College Transcript</a></h4><p>This is my transcript from my two summers at Tidewater Community College where I enrolled in courses while still in high school.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ![TCC Banner](https://fvcproductions.files.wordpress.com/2017/01/tcc-banner1.png)

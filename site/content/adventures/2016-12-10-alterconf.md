@@ -1,30 +1,91 @@
 ---
 title: "AlterConf NYC 🗽"
+description: "AlterConf is a traveling conference
+series that provides safe opportunities for marginalized people and
+those who support them in the tech and gaming industries."
 date: 2016-12-10
-description: "I was honored to have the opportunity to freelance blog for AlterConf NYC."
-banner: //fvcproductions.files.wordpress.com/2017/01/banner.png
-tags:
-    - alterconf
-    - alterconf new york city
-    - alterconf nyc
-    - alterconf nyc 2016
-    - diversity in tech
-    - featured
-    - new york city
-    - tech conference
-    - tech diversity
+banner: https://fvcproductions.files.wordpress.com/2017/01/banner.png
+embedly: true
 categories:
-    - blog
-    - conference
+  - blog
+  - conference
+tags:
+  - alterconf
+  - alterconf new york city
+  - alterconf nyc
+  - alterconf nyc 2016
+  - diversity in tech
+  - featured
+  - new york city
+  - tech conference
+  - tech diversity
+---
+
+## Name
+
+[AlterConf NYC](//alterconf.com)
+
+## Organizer
+
+AlterConf
+
+## Location
+
+Microsoft Headquarters - Times Square
+
+## Date
+
+December 11th, 2016
+
+## Role
+
+Freelance Blogger, Participant
+
+## About
+
+![Intro](//fvcproductions.files.wordpress.com/2017/01/alterconf.gif)
+
+[AlterConf](//alterconf.com/) is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
+
+About a month ago, I was honored to have the opportunity to freelance blog for [AlterConf NYC](//www.alterconf.com/conferences/nyc-2016) in December 2016. The conference left me inspired and less alone, as technologists from all walks of life surrounded me throughout the conference.
+
+Indeed, AlterConf was hands down the MOST diverse conference I have ever attended and I find this aspect to be more important than ever, especially considering what the year 2016 has brought us.
+
+Given that I was hired as a freelance blogger for this conference, I've published [onto LinkedIn](//www.linkedin.com/pulse/alterconf-nyc-2016-frances-coronel?published=t), and [my personal blog](//fvcproductions.com/2017/01/03/alterconf-nyc-2016/) already about my experience at AlterConf and what it entailed.
+
+<blockquote class="embedly-card"><h4><a href="https://www.linkedin.com/pulse/alterconf-nyc-2016-frances-coronel?published=t">AlterConf NYC 2016 🗽</a></h4><p>AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming</p></blockquote>
+
+<blockquote class="embedly-card"><h4><a href="https://fvcproductions.com/2017/01/03/alterconf-nyc-2016/">AlterConf | NYC 2016 🗽</a></h4><p>This conference was held at Microsoft's headquarters in New York City at 11 Times Square on December 10th, 2016 from 10 am to 5 pm. About a month ago, I was honored to have the opportunity to freelance blog for AlterConf NYC.</p></blockquote>
+
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/c_gonzalez/status/817881461390983169">Christina González on Twitter</a></h4><p>Found this great wrap up of December's AlterConf, &amp; I miss everyone again. "AlterConf | NYC 2016" by @fvcproductions //t.co/wHLy1ZydMQ</p></blockquote>
+
+![AlterConf](https://i1.wp.com/fvcproductions.files.wordpress.com/2017/01/img_0320.jpg?w=437&h=328&crop&ssl=1&zoom=2)
+
+![AlterConf](https://i2.wp.com/fvcproductions.files.wordpress.com/2017/01/banner.png?w=305&h=155&crop&ssl=1&zoom=2)
+
+![AlterConf](https://i0.wp.com/fvcproductions.files.wordpress.com/2017/01/volunteers.png?w=305&h=169&crop&ssl=1&zoom=2)
+
+![AlterConf](https://i2.wp.com/fvcproductions.files.wordpress.com/2017/01/img_0162.jpg?w=746&h=560&crop&ssl=1&zoom=2)
+
+---
+
+---
+
+---
+
+## I was honored to have the opportunity to freelance blog for AlterConf NYC.
+
+Below is the freelance blogging I provided to them.
+
 ---
 
 > AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries. By highlighting the powerful voices and positive initiatives of local community members, we build hope and strengthen the community's resolve to create safer spaces for everyone. This conference was held at Microsoft's headquarters in New York City at 11 Times Square on December 10th, 2016 from 10 am to 5 pm.
 
-<blockquote class="embedly-card"><h4><a href="//www.instagram.com/p/BN1yrxFARXT/">About to give my talk on hacking harassment - the internet is for everyone at #MicrosoftNYC for #AlterConf</a></h4><p>12 Likes, 2 Comments - Alexandra Bowen (Brower) (@alexshmoopie) on Instagram: "About to give my talk on hacking harassment - the internet is for everyone at #MicrosoftNYC for..."</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://www.instagram.com/p/BN1yrxFARXT/">About to give my talk on hacking harassment - the internet is for everyone at #MicrosoftNYC for #AlterConf</a></h4><p>12 Likes, 2 Comments - Alexandra Bowen (Brower) (@alexshmoopie) on Instagram: "About to give my talk on hacking harassment - the internet is for everyone at #MicrosoftNYC for..."</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/SarahEJudd/status/807670051314745344">Sarah Judd on Twitter</a></h4><p>Love that the announcer at #alterconf is actively making sure to pronounce people's names correctly. So important &amp; so frequently overlooked</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/SarahEJudd/status/807670051314745344">Sarah Judd on Twitter</a></h4><p>Love that the announcer at #alterconf is actively making sure to pronounce people's names correctly. So important &amp; so frequently overlooked</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/ashedryden/status/807614971978940421">ashe dryden on Twitter</a></h4><p>We've got a lot of talks with subjects that haven't been broached at #alterconf before. So excited 😍</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/ashedryden/status/807614971978940421">ashe dryden on Twitter</a></h4><p>We've got a lot of talks with subjects that haven't been broached at #alterconf before. So excited 😍</p></blockquote>
 
 About a month ago, I was honored to have the opportunity to freelance blog for AlterConf NYC. The conference left me inspired and less alone, as technologists from all walks of life surrounded me throughout the conference. Indeed, AlterConf was hands down the **MOST** diverse conference I have ever attended and I find this aspect to be more important than ever, especially considering what the year 2016 has brought us.
 
@@ -46,7 +107,7 @@ Some rules were established by Ashe, the chief organizer of AlterConf, about the
 
 Danielle, a marketing specialist at MongoDB and an avid shipper of diversity initiatives, then introduced the first speaker.
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/ohhoe/status/807609184367902720/photo/1">✨rachel✨@ anime next on Twitter</a></h4><p>Yay! @FeyTechnologist opening it up at @AlterConf NYC!</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/ohhoe/status/807609184367902720/photo/1">✨rachel✨@ anime next on Twitter</a></h4><p>Yay! @FeyTechnologist opening it up at @AlterConf NYC!</p></blockquote>
 
 ---
 
@@ -60,7 +121,7 @@ While changes are coming, there is still widespread inconsistency in how user-fr
 
 Christina addresses this from a personal perspective (Do you really need that accent on your name?) to a wider one, points out some of these inconsistencies, and talks about possible solutions.
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/SeanMHanson/status/807613477871349760">babashookt trolley on Twitter</a></h4><p>50% of the top ten languages of Internet users are non-Latin and require non-Latin characters #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/SeanMHanson/status/807613477871349760">babashookt trolley on Twitter</a></h4><p>50% of the top ten languages of Internet users are non-Latin and require non-Latin characters #alterconf</p></blockquote>
 
 ---
 
@@ -76,7 +137,7 @@ So do you want a "death star" or "rock star" community member? Alexandra expands
 
 ❗ **Trigger Warnings:** As a woman in tech, Alexandra has experienced some very negative trolling and abuse, as many people have. Some examples and themes may trigger.
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/jameybash/status/807619127913443329">Jamey Hampton 🌱🌿 on Twitter</a></h4><p>If mcdonalds drive thru can have a code of conduct, so can your event/site/community #Alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/jameybash/status/807619127913443329">Jamey Hampton 🌱🌿 on Twitter</a></h4><p>If mcdonalds drive thru can have a code of conduct, so can your event/site/community #Alterconf</p></blockquote>
 
 ---
 
@@ -88,9 +149,9 @@ When you think of Latin America & software, the first thought that comes to mind
 
 This talk goes over the decisions made, the lessons learned and the unexpected impacts they saw when they offered talented near shoring consultants with low pay and gave them a high trust environment to flourish and a membership in a highly motivated team.
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/ashedryden/status/807627024215011332">ashe dryden on Twitter</a></h4><p>Hiring privileged people is less work, but there is a huge competitive advantage to hiring marginalized people. @buritica #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/ashedryden/status/807627024215011332">ashe dryden on Twitter</a></h4><p>Hiring privileged people is less work, but there is a huge competitive advantage to hiring marginalized people. @buritica #alterconf</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/cassie_moy/status/807625121284362241">Cassie Moy on Twitter</a></h4><p>on tech hiring: put the work in to build the community you want to hire from - @buritica #Alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/cassie_moy/status/807625121284362241">Cassie Moy on Twitter</a></h4><p>on tech hiring: put the work in to build the community you want to hire from - @buritica #Alterconf</p></blockquote>
 
 ---
 
@@ -98,11 +159,11 @@ This talk goes over the decisions made, the lessons learned and the unexpected i
 
 It was great to see the sponsors involved from some great companies. The official job fair sponsors were [Intel](//medium.com/@intel), Automattic, and [Meetup](//medium.com/@meetup) — all marvelous companies.
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/automattic/status/807613015113797632/photo/1">Automattic on Twitter</a></h4><p>Excited to be sponsoring @AlterConf NYC today - be sure to stop by and meet us at the job fair! #AlterConf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/automattic/status/807613015113797632/photo/1">Automattic on Twitter</a></h4><p>Excited to be sponsoring @AlterConf NYC today - be sure to stop by and meet us at the job fair! #AlterConf</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/MakingMeetup/status/807626336114278400/photo/1">Making Meetup on Twitter</a></h4><p>Team @meetup is at @AlterConf - the morning sessions have been inspiring! Thank You to this community! #meetup #tech #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/MakingMeetup/status/807626336114278400/photo/1">Making Meetup on Twitter</a></h4><p>Team @meetup is at @AlterConf - the morning sessions have been inspiring! Thank You to this community! #meetup #tech #alterconf</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/johnjoseph/status/807688153121353728/photo/1">John Bachir on Twitter</a></h4><p>this progress screen does not lie. the hot chocolate at #alterconf is amazing.</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/johnjoseph/status/807688153121353728/photo/1">John Bachir on Twitter</a></h4><p>this progress screen does not lie. the hot chocolate at #alterconf is amazing.</p></blockquote>
 
 ---
 
@@ -120,11 +181,11 @@ Aditya looks at an example of a localized programming language: করো (_koro
 
 He also talks about the steps to making open-source projects fully multilingual so that developers who only speak English can collaborate seamlessly with developers who don't speak English at all.
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/SarahEJudd/status/807642859444715521">Sarah Judd on Twitter</a></h4><p>The only thing worse than a cryptic error message, is one in a foreign language you don't understand." @chimeracoder #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/SarahEJudd/status/807642859444715521">Sarah Judd on Twitter</a></h4><p>The only thing worse than a cryptic error message, is one in a foreign language you don't understand." @chimeracoder #alterconf</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/TeamNeem/status/807641456290701313/photo/1">Neem Serra on Twitter</a></h4><p>So excited to see Bengali at @chimeracoder talk on crossing the language divide!! #AlterConf #BengaliPride</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/TeamNeem/status/807641456290701313/photo/1">Neem Serra on Twitter</a></h4><p>So excited to see Bengali at @chimeracoder talk on crossing the language divide!! #AlterConf #BengaliPride</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/lauradobrzynski/status/807644545404071940/photo/1">Laura Dobrzynski on Twitter</a></h4><p>Techies solving social problems should mobilize existing technologies, not invent new ones. @chimeracoder #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/lauradobrzynski/status/807644545404071940/photo/1">Laura Dobrzynski on Twitter</a></h4><p>Techies solving social problems should mobilize existing technologies, not invent new ones. @chimeracoder #alterconf</p></blockquote>
 
 ---
 
@@ -136,9 +197,9 @@ The most effective leaders are those who can rely on others to execute confident
 
 Natalie uses applied behavioral science strategies to understand why people do things and how we can prevent common issues when communicating, negotiating, motivating, and leading while working collaboratively on teams.
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/ashedryden/status/807646762907430912">ashe dryden on Twitter</a></h4><p>Listen to understand, not to respond. @NataliJewel #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/ashedryden/status/807646762907430912">ashe dryden on Twitter</a></h4><p>Listen to understand, not to respond. @NataliJewel #alterconf</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/Michelle_Heng/status/807645100742471680">Chelle on Twitter</a></h4><p>Diversity is a START inclusion is the GOAL" @NataliJewel 👏 #AlterConf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/Michelle_Heng/status/807645100742471680">Chelle on Twitter</a></h4><p>Diversity is a START inclusion is the GOAL" @NataliJewel 👏 #AlterConf</p></blockquote>
 
 ---
 
@@ -152,11 +213,11 @@ In this talk, Candace identifies examples of this issue and leads a brainstormin
 
 ❗ **Trigger Warnings:** Images of appropriative marketing materials may be shown during this talk. Examples might relate to race, ethnicity, national origin, gender identity, sexuality, and other aspects of identity.
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/ashedryden/status/807650623034454016">ashe dryden on Twitter</a></h4><p>Instead of referring to people as marginalized, consider using "under siege", as it's active and centering.@teacherc #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/ashedryden/status/807650623034454016">ashe dryden on Twitter</a></h4><p>Instead of referring to people as marginalized, consider using "under siege", as it's active and centering.@teacherc #alterconf</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/SeanMHanson/status/807650122154786817">babashookt trolley on Twitter</a></h4><p>Why is Twitter using African American Vernacular English when only 2% of its workforce is black?" @TeacherC #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/SeanMHanson/status/807650122154786817">babashookt trolley on Twitter</a></h4><p>Why is Twitter using African American Vernacular English when only 2% of its workforce is black?" @TeacherC #alterconf</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/alexqin/status/807649212968173568/photo/1">Alex Qin on Twitter</a></h4><p>Appropriation = profit without consent, attribution and compensation @TeacherC 100% #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/alexqin/status/807649212968173568/photo/1">Alex Qin on Twitter</a></h4><p>Appropriation = profit without consent, attribution and compensation @TeacherC 100% #alterconf</p></blockquote>
 
 ---
 
@@ -170,7 +231,7 @@ This talk will make visible the microaggressions too regularly lobbed at non-bin
 
 ❗ **Trigger Warnings:** Transphobia.
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/SarahEJudd/status/807655285888159744">Sarah Judd on Twitter</a></h4><p>If I try to be on a website, and it only has 2 genders, I decide, well I don't have to be on this website" @jameybash #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/SarahEJudd/status/807655285888159744">Sarah Judd on Twitter</a></h4><p>If I try to be on a website, and it only has 2 genders, I decide, well I don't have to be on this website" @jameybash #alterconf</p></blockquote>
 
 ---
 
@@ -182,9 +243,9 @@ Unconscious biases affect our perceptions, decisions, and interactions every day
 
 In this talk, Neem talks about how to recognize and counter the biases that play a part in interviewing, creating a product, and day-to-day interactions. She goes in depth on biases beyond sexism and racism and hopes to help the world become a more magical place!
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/ashedryden/status/807667777930661889/photo/1">ashe dryden on Twitter</a></h4><p>Bias can be unintentional, but have same effect as if it were. Apple/YT failed to flip videos made by left handed ppl @teamneem #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/ashedryden/status/807667777930661889/photo/1">ashe dryden on Twitter</a></h4><p>Bias can be unintentional, but have same effect as if it were. Apple/YT failed to flip videos made by left handed ppl @teamneem #alterconf</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/yviedev/status/807669241105158144/photo/1">yvonne on Twitter</a></h4><p>More biases to consider during the hiring process. #AlterConf by @TeamNeem</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/yviedev/status/807669241105158144/photo/1">yvonne on Twitter</a></h4><p>More biases to consider during the hiring process. #AlterConf by @TeamNeem</p></blockquote>
 
 ---
 
@@ -200,7 +261,7 @@ She'll also be discussing Ghostbot for Burner, a chatbot she designed that aims 
 
 ❗ **Trigger Warnings:** Lauren will be discussing online sexual harassment in this talk, but she does not cite any specific examples. She will also be calling out sources where users can seek out examples of harassment that are vulgar and sometimes violent, but will only reference the source and give me warnings as to what can be found there. She will also be discussing how harassment affects women and other marginalized groups online and will cite some statistics around that concept.
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/ashedryden/status/807671603354075136">ashe dryden on Twitter</a></h4><p>Chatbots for could be used for hard to navigate things: scholarships, working w/ insurance cos, applying for food stamps #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/ashedryden/status/807671603354075136">ashe dryden on Twitter</a></h4><p>Chatbots for could be used for hard to navigate things: scholarships, working w/ insurance cos, applying for food stamps #alterconf</p></blockquote>
 
 ---
 
@@ -216,11 +277,11 @@ This talk explores the culture of strength through the lens of my 15 year journe
 
 _The YouTube video was made private._
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/AlterConf/status/807680308388753410/photo/1">#AlterConf on Twitter</a></h4><p>I was praised for being strong but I was told I needed to be strong. @EmilyGorcenski #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/AlterConf/status/807680308388753410/photo/1">#AlterConf on Twitter</a></h4><p>I was praised for being strong but I was told I needed to be strong. @EmilyGorcenski #alterconf</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/SimpleBuilds/status/807688462836985856">Tech @ Simple on Twitter</a></h4><p>We are so lucky to work with you @EmilyGorcenski! Thank you for using your voice to make tech a better (and safer) place ❤️ #AlterConf //t.co/Fd6OiYg34Q</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/SimpleBuilds/status/807688462836985856">Tech @ Simple on Twitter</a></h4><p>We are so lucky to work with you @EmilyGorcenski! Thank you for using your voice to make tech a better (and safer) place ❤️ #AlterConf //t.co/Fd6OiYg34Q</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/TeacherC/status/807681538649423874">Candace Williams on Twitter</a></h4><p>@EmilyGorcenski's talk is the best I've seen in my whole life. #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/TeacherC/status/807681538649423874">Candace Williams on Twitter</a></h4><p>@EmilyGorcenski's talk is the best I've seen in my whole life. #alterconf</p></blockquote>
 
 ---
 
@@ -236,9 +297,9 @@ Kareem goes on to encourage non-colored guests that the most prevalent and exhau
 
 _❗ Trigger Warnings: Race, racism, microaggressions._
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/lizthegrey/status/807692147419820032">Liz Fong-Jones on Twitter</a></h4><p>The history of word 'articulate' in the history of racism is terrifying. Meant conforming to white stereotypes for white comfort #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/lizthegrey/status/807692147419820032">Liz Fong-Jones on Twitter</a></h4><p>The history of word 'articulate' in the history of racism is terrifying. Meant conforming to white stereotypes for white comfort #alterconf</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/AlterConf/status/807691021127745537">#AlterConf on Twitter</a></h4><p>When you start a conversation about race and racism [as a PoC], you're beginning from a place of fatigue. - Kareem Francis #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/AlterConf/status/807691021127745537">#AlterConf on Twitter</a></h4><p>When you start a conversation about race and racism [as a PoC], you're beginning from a place of fatigue. - Kareem Francis #alterconf</p></blockquote>
 
 ---
 
@@ -258,7 +319,7 @@ Incredible Witness seeks to encourage this disintegration, and find ways of lear
 
 In the Incredible Witness laboratory, they invite people into unusual perceptual worlds to bring home viscerally how different each person's experience of the world can be, using games and game-based environments. The talk will review the results of their participatory experiments and point to future activities.
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/SignyTheSage/status/807697153225355265">❄ Signý ❄ on Twitter</a></h4><p>Presentation on using games to show how different ways of seeing/being in the world are. Love this idea! #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/SignyTheSage/status/807697153225355265">❄ Signý ❄ on Twitter</a></h4><p>Presentation on using games to show how different ways of seeing/being in the world are. Love this idea! #alterconf</p></blockquote>
 
 ---
 
@@ -272,21 +333,21 @@ After attending and speaking at tech Meetups and conferences on both American co
 
 So what's the difference between the two? Lizzie uses Hamilton lyrics to go over similarities, differences, and the importance of both.
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/SeanMHanson/status/807701752430661632">babashookt trolley on Twitter</a></h4><p>Eat, Sleep, Code" is an unhealthy and unreasonable attitude for CS students and engineers alike @lizziepika #Alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/SeanMHanson/status/807701752430661632">babashookt trolley on Twitter</a></h4><p>Eat, Sleep, Code" is an unhealthy and unreasonable attitude for CS students and engineers alike @lizziepika #Alterconf</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/mdcclv/status/807701104893001729/photo/1">Orion Montoya on Twitter</a></h4><p>Hire for slope, not y-intercept @lizziepika #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/mdcclv/status/807701104893001729/photo/1">Orion Montoya on Twitter</a></h4><p>Hire for slope, not y-intercept @lizziepika #alterconf</p></blockquote>
 
 ### **Aftermath**
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/lizthegrey/status/808348292509790209">Liz Fong-Jones on Twitter</a></h4><p>Being back at work after #alterconf makes me feel sad about the demographics of the wider organizations I work with :(</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/lizthegrey/status/808348292509790209">Liz Fong-Jones on Twitter</a></h4><p>Being back at work after #alterconf makes me feel sad about the demographics of the wider organizations I work with :(</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/novapatch/status/807747357475540992">Nova Patch on Twitter</a></h4><p>Successful day avoiding #SantaCon while attending #AlterConf 🚫🎅🏻</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/novapatch/status/807747357475540992">Nova Patch on Twitter</a></h4><p>Successful day avoiding #SantaCon while attending #AlterConf 🚫🎅🏻</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/jameybash/status/807693771173429248">Jamey Hampton 🌱🌿 on Twitter</a></h4><p>I'm learning so much today at #AlterConf. I felt myself starting to feel guilty that I hadn't thought about some of these things before! ...</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/jameybash/status/807693771173429248">Jamey Hampton 🌱🌿 on Twitter</a></h4><p>I'm learning so much today at #AlterConf. I felt myself starting to feel guilty that I hadn't thought about some of these things before! ...</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/alexqin/status/807702354715877377">Alex Qin on Twitter</a></h4><p>Thank you @AlterConf and @ashedryden for another incredible day of rad talks and speakers ❤️️ #alterconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/alexqin/status/807702354715877377">Alex Qin on Twitter</a></h4><p>Thank you @AlterConf and @ashedryden for another incredible day of rad talks and speakers ❤️️ #alterconf</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/kronda/status/807754684047863808">Kronda on Twitter</a></h4><p>The #alterconf tweets are amazing as usual.</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/kronda/status/807754684047863808">Kronda on Twitter</a></h4><p>The #alterconf tweets are amazing as usual.</p></blockquote>
 
 ---
 
@@ -297,5 +358,3 @@ So what's the difference between the two? Lizzie uses Hamilton lyrics to go over
 * Website [alterconf.com](//alterconf.com/), [NYC 2016](//www.alterconf.com/conferences/nyc-2016)
 * Video Recordings [are on YouTube](//www.youtube.com/playlist?list=PLgWwTXVZ2pcNJtnKh_DO2hJPHP4ECqyOa)
 * Closed Captions [bit.ly/nyc-captions](//bit.ly/nyc-captions), the founder of the technology behind this awesome transcription tool, [Mirabai](//stenoknight.com/), was actually present at AlterConf!
-
-> If you enjoyed this post or have any questions, comments, or concerns, feel free > to reach out to me [@fvcproductions](//twitter.com/fvcproductions) for more freelance blogging opportunities!

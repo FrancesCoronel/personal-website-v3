@@ -43,6 +43,7 @@ export default {
       globDirectory: "dist",
       globPatterns: ["**/*.{html,js,css,svg,png}"],
       swDest: path.join("dist", "service-worker.js"),
+      maximumFileSizeToCacheInBytes: 10 * 1024 * 1024,
       clientsClaim: true,
       skipWaiting: true,
       navigateFallback: "/",
@@ -78,8 +79,6 @@ export default {
   },
   context: path.join(__dirname, "src"),
   entry: {
-    // OneSignalSDKUpdaterWorker: ["./js/service-worker/OneSignalSDKUpdaterWorker"],
-    // OneSignalSDKWorker: ["./js/service-worker/OneSignalSDKWorker"],
     ie: ["./js/components/ie"],
     app: ["./js/app"]
   },

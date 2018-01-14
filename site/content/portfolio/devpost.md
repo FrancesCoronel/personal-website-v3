@@ -1,6 +1,6 @@
 ---
 title: Devpost
-description: I enjoy contributing to open-source projects and am currently a maintainer for freeCodeCamp.
-link: //devpost.com/fvcproductions
+description: Where some of my hackathon projects end up showcased.
 banner: https://i.imgur.com/EtJQ4vT.png
+link: https://devpost.com/fvcproductions
 ---

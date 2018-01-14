@@ -3,6 +3,7 @@ title: Strange Loop 2017
 description: Strange Loop is a multi-disciplinary conference that brings together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.
 date: 2017-09-27
 banner: https://i.imgur.com/uBaeAmo.jpg?1
+embedly: true
 categories:
     - conference
     - speaking
@@ -150,5 +151,3 @@ My boyfriend actually ended up getting a little jelly because I mentioned that A
 Waking up super early to catch a flight home. 😴️
 
 > <a name="footnote1"><b>1.</b></a> Ian is one of the [Project Alloy](//www.projectalloy.org/) co-founders.
-
-<script defer src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

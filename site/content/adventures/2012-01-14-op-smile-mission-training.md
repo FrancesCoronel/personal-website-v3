@@ -3,6 +3,7 @@ title: Operation Smile Mission Training Workshop
 date: 2012-01-14
 description: My first big time speaking event.
 banner: https://fvcproductions.files.wordpress.com/2015/11/335160_10151174118370037_887620036_22617982_1518303044_o.jpg
+embedly: true
 categories:
     - speaking
     - volunteering
@@ -40,6 +41,6 @@ I don’t have any pictures of me while speaking, but these were taken at the mi
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/128758878/iMovie-101-Operation-Smile-Mission-Training-Workshop">iMovie 101 Operation Smile Mission Training Workshop</a></h4><p>FVCproductions Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright 2014</p></blockquote>
 
-TODO: Add more pictures to gallery
+<!-- TODO: Add more pictures to gallery -->
 
 ![Operation Smile Mission Training Workshop](https://fvcproductions.files.wordpress.com/2015/11/335160_10151174118370037_887620036_22617982_1518303044_o.jpg)

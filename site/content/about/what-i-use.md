@@ -3,6 +3,7 @@ title: What I Use 📱️
 description: The tools I use on a day to day basis.
 banner: https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge_wm_brw/public/article_images/2017/10/google-pixel-2-pixel-2-xl-hands-on-2.jpg?itok=VpfmIhOM
 noComments: true
+embedly: true
 ---
 
 ## Software
@@ -28,5 +29,3 @@ I won a pair of [Bose headphones](//bose.com/en_us/products/headphones.html) at 
 I decided to switch from an iPhone 6 to a [Google Pixel 2](//store.google.com/product/pixel_2) recently. So far, I'm very very satisfied with the transition.
 
 [![Google Pixel 2](https://media.wired.com/photos/59d4290d60c1a86fbf83ea5e/master/w_2400,c_limit/Taim_2GRP_BF_oreo-TA.jpg)](https://store.google.com/product/pixel_2)
-
-<script defer src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
