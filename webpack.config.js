@@ -38,7 +38,6 @@ export default {
       jQuery: "jquery"
     }),
     new WorkboxPlugin({
-      cacheId: "fvcproductions",
       filename: "service-worker.js",
       globDirectory: "dist",
       globPatterns: ["**/*.{html,js,css,svg,png}"],
