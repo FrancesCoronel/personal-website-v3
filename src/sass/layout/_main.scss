@@ -394,16 +394,12 @@ section.section.tiles.isotope-grid {
     margin: 0;
     padding: .5em;
   }
-  h2 {
-    font-size: 1.5em;
-  }
   &.plain {
     article {
       margin: 0.5em;
       padding: 1.5em;
       box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
       a {
-        font-size: 1.75em;
         color: _palette(fg);
          :hover {
           color: #607d8b;
@@ -474,15 +470,9 @@ section.section.tiles {
 
 .page {
   margin: 0 auto;
-  width: 75%;
-  @include breakpoint(small) {
-    width: 100%;
-  }
-  @include breakpoint(medium) {
-    width: 95%;
-  }
-  @include breakpoint(large) {
-    width: 85%;
+  width: 100%;
+  @include breakpoint(laptop) {
+    width: 65%;
   }
 }
 

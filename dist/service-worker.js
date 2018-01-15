@@ -2199,8 +2199,136 @@ const fileManifest = [
     "revision": "bd9b0e88894822cfcea5414ac8428406"
   },
   {
+    "url": "assets/img/favicons/android-chrome-384x384.png",
+    "revision": "6f98225aa938f875c3d85821e8dd1bfe"
+  },
+  {
     "url": "assets/img/favicons/android-chrome-48x48.png",
     "revision": "36ed76931c5c3f2c42b3185db3f900da"
+  },
+  {
+    "url": "assets/img/favicons/android-chrome-512x512.png",
+    "revision": "cbae39db9f912fc885c3bd1fb3540da8"
+  },
+  {
+    "url": "assets/img/favicons/android-chrome-72x72.png",
+    "revision": "5facce7dffb2708f4792a9c8d6bd3d10"
+  },
+  {
+    "url": "assets/img/favicons/android-chrome-96x96.png",
+    "revision": "23dfcea25da8f6f90a46df8b83796e23"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-114x114-precomposed.png",
+    "revision": "f45e24665d031499e5e249ab4562ae21"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-114x114.png",
+    "revision": "44ce9461ad915fd424b1290c441ef58b"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-120x120-precomposed.png",
+    "revision": "0375edbcec76b64142589d94d7aaa85d"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-120x120.png",
+    "revision": "bd8e5ab2632ef2ec27567261c7229e84"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-144x144-precomposed.png",
+    "revision": "2911953d0ce1edec4da4a552fe99451f"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-144x144.png",
+    "revision": "06e3053ea7d00d8a7c676a98581686d2"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-152x152-precomposed.png",
+    "revision": "b127700630e58cedcec33dcb66612f74"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-152x152.png",
+    "revision": "dcefaf25f460f23faad23b21792f411b"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-180x180-precomposed.png",
+    "revision": "7c88ce9ba21cb26b505b20f4be5a4700"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-180x180.png",
+    "revision": "4ea2587e204835afe5443aea2d90cd1d"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-57x57-precomposed.png",
+    "revision": "2b478a75bba005cdffbfdf923e45c1d1"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-57x57.png",
+    "revision": "2bc9ece8e94874f3c4d75fc9330060b2"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-60x60-precomposed.png",
+    "revision": "e0e9f8ba67357e3607d1275832c78178"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-60x60.png",
+    "revision": "2bce44c4b16a1fb67f9295928d9e56ff"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-72x72-precomposed.png",
+    "revision": "5420691c2e76f16ae38af74244a8b1ca"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-72x72.png",
+    "revision": "712f279bb6e5ffd07f5d5ca9f1dc764e"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-76x76-precomposed.png",
+    "revision": "4b3419958a6beecfa835dc9da9815a8d"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-76x76.png",
+    "revision": "1ee54d45a19179a4d818e392be8222dd"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon-precomposed.png",
+    "revision": "7c88ce9ba21cb26b505b20f4be5a4700"
+  },
+  {
+    "url": "assets/img/favicons/apple-touch-icon.png",
+    "revision": "4ea2587e204835afe5443aea2d90cd1d"
+  },
+  {
+    "url": "assets/img/favicons/favicon-16x16.png",
+    "revision": "079a14c63cbffeab756c8445a66afea7"
+  },
+  {
+    "url": "assets/img/favicons/favicon-32x32.png",
+    "revision": "84beebb51fa5377b465454f3ec614351"
+  },
+  {
+    "url": "assets/img/favicons/mstile-144x144.png",
+    "revision": "0df92eb56911bc129f5c90b9779cb795"
+  },
+  {
+    "url": "assets/img/favicons/mstile-150x150.png",
+    "revision": "6ee65a2624acf3e42db55f26a6a4a79e"
+  },
+  {
+    "url": "assets/img/favicons/mstile-310x150.png",
+    "revision": "57264efe0acb1422e81295d04715c161"
+  },
+  {
+    "url": "assets/img/favicons/mstile-310x310.png",
+    "revision": "95ffdb62188e4c36df2b336c750b9e11"
+  },
+  {
+    "url": "assets/img/favicons/mstile-70x70.png",
+    "revision": "b2350f04d916de0eec1498628c87ac50"
+  },
+  {
+    "url": "assets/img/favicons/safari-pinned-tab.svg",
+    "revision": "ffc87eb0d5903679319c1f1795572e70"
   },
   {
     "url": "assets/img/logo.png",
@@ -2209,6 +2337,10 @@ const fileManifest = [
   {
     "url": "assets/img/logo.svg",
     "revision": "925b1882c987fe406d8ce9c0d7f63929"
+  },
+  {
+    "url": "assets/img/teaser.png",
+    "revision": "1b9bb13123436e402f5c356cf35d0c7e"
   },
   {
     "url": "awards/index.html",
