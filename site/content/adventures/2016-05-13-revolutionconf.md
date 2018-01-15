@@ -1,5 +1,5 @@
 ---
-title: RevolutionConf AKA yes, there's a HUGE tech scene in the 757 ⚓️
+title: RevolutionConf
 date: 2016-05-13
 description: RevolutionConf is a one-day, platform and language agnostic, software development conference being held on May 13, 2016 in Virginia Beach, VA.
 banner: https://fvcproductions.files.wordpress.com/2016/05/revolutionconf-2016.png
@@ -92,9 +92,11 @@ This blog post on the conference got featured in The Daily Press.
 
 ---
 
+## RevolutionConf AKA yes, there's a HUGE tech scene in the 757 ⚓️
+
 ![RevolutionConf - Logo](//fvcproductions.files.wordpress.com/2015/11/revolutionconf.png?w=300)
 
-## AKA yes, there's a HUGE tech scene in the 757
+### AKA yes, there's a HUGE tech scene in the 757
 
 Back in November of last year, as we were driving to an [Hour of Code](//code.org/professional-development-workshops) professional development workshop all the way down in North Carolina, I was telling a buddy of mine - [Chris](//www.linkedin.com/in/thecbliss) - that even though I love **Norfolk** (where I was born and raised my whole life), I'm probably going to leave soon in order to explore places where supposedly the most innovative technologies are currently brewing (cough cough like [Silicon Valley](//www.siliconvalley.com/) specifically).
 
