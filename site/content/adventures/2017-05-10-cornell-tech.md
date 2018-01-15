@@ -5,6 +5,7 @@ date: 2017-05-26
 banner: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/11/2016-11-29-photo-00000102.jpg?w=255&h=191&crop&ssl=1&zoom=2
 categories:
     - education
+    - award
 ---
 
 ## Institution
@@ -35,9 +36,13 @@ Cornell Tech is the technology-focused campus of Cornell University located in N
 
 ### Awards
 
+<!-- TODO: Separate scholarship into separate page -->
+
 * Best Presentation in Grizzly Room for Sprint 3 of Product Studio
 * "Good job" from David Tisch for final sprint of Startup Studio
 * Selected to speak as a current student for a prospective student event
+* August 2016 - [James H. and Marilyn H. Simons Graduate Fellowship](//news.cornell.edu/stories/2013/02/new-graduate-fellowship-supports-cornell-tech)
+  * merit-based scholarship of $10K
 
 ### Courses
 

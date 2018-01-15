@@ -32,3 +32,25 @@ Student of inaugural class of Summer of Code
 Summer of Code is an 11-week coding immersive for college students in NYC and Chicago
 
 [I blogged about my experience.](https://fvcproductions.com/blog/2015/08/30/fullstack-academy-reflections/)
+
+award: Featured Fullstack Academy Alumnus
+issuer: Course Report
+month: 'March'
+year: 2016
+link: //coursereport.com/schools/fullstack-academy#/news/alumni-spotlight-frances-coronel-of-fullstack-summer-of-code
+notes: >-
+I was featured as an alumnus of Fullstack Academy on Course Report, the
+premier site for finding a coding bootcamp.
+
+---
+
+<!-- ON OWN -->
+
+award: Featured Blog on Course Report - "6 Must-Read Blogs"
+issuer: Course Report
+month: 'May'
+year: 2015
+link: '//coursereport.com/blog/6-must-read-bootcamp-blogs'
+notes: >
+My blog was featured as one of the 6 Must-Read Bootcamp Blogs on Course
+Report, the premier site for finding a coding bootcamp.

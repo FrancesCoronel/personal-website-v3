@@ -1028,7 +1028,7 @@ const fileManifest = [
   },
   {
     "url": "adventures/index.html",
-    "revision": "6c8127860ff986e4f4626ce6d237e0e7"
+    "revision": "7722dc6797448bb5f4ee090d00f039c1"
   },
   {
     "url": "amp/2008/06/01/middle-school-poems-️/index.html",
@@ -2036,7 +2036,7 @@ const fileManifest = [
   },
   {
     "url": "amp/awards/index.html",
-    "revision": "fd917a309906cb12aa8d40d0971e65c9"
+    "revision": "2fe38fdd619663511720871bd24660a7"
   },
   {
     "url": "amp/blog/1/01/01/ibooks/index.html",
@@ -2148,7 +2148,7 @@ const fileManifest = [
   },
   {
     "url": "assets/css/main.css",
-    "revision": "a8bf681bf18a65aebb6c2557da303460"
+    "revision": "894af376b8364c06763073d3a8c6de91"
   },
   {
     "url": "assets/img/404.png",
@@ -2344,7 +2344,7 @@ const fileManifest = [
   },
   {
     "url": "awards/index.html",
-    "revision": "fd917a309906cb12aa8d40d0971e65c9"
+    "revision": "2fe38fdd619663511720871bd24660a7"
   },
   {
     "url": "blog/1/01/01/ibooks/index.html",
@@ -2396,7 +2396,7 @@ const fileManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "f314af2e2f8f2e462f9bafd10ee70c9f"
+    "revision": "084a72b8face78f089c89f74f2bc7d4e"
   },
   {
     "url": "categories/2015/index.html",
@@ -2556,7 +2556,7 @@ const fileManifest = [
   },
   {
     "url": "portfolio/index.html",
-    "revision": "23429a9c12c18ad6cc645b2c71e4ef73"
+    "revision": "3d28d40ef1bc762011393e55e28f2944"
   },
   {
     "url": "services/freelancing/index.html",
@@ -2564,7 +2564,7 @@ const fileManifest = [
   },
   {
     "url": "services/index.html",
-    "revision": "db438b49d1f1b3bcae7e85962e0567c6"
+    "revision": "cb2e2811bce9242825d7c95f75c1d0e5"
   },
   {
     "url": "services/mentoring/index.html",
@@ -2588,7 +2588,7 @@ const fileManifest = [
   },
   {
     "url": "speaking/index.html",
-    "revision": "02423735d5d7bcc7d6f60987d33997ba"
+    "revision": "55d605863e70c9600260ca509e56ba1d"
   },
   {
     "url": "speaking/so-you-want-to-be-a-wizard/index.html",

@@ -1,22 +1,17 @@
 ---
-title: "Kent Hack Enough"
-description: "Volunteered and teamed up with my boyfriend to work on a Leap Motion hack that won an award"
-categories:
-    - hackathon
+title: Kent Hack Enough
+description: Volunteered and teamed up with my boyfriend to work on a Leap Motion hack that won an award
 date: 2016-10-09
 banner: https://fvcproductions.files.wordpress.com/2016/10/img_0849.jpg
-gallery:
-    - alt: "KHE 2016"
-      url: https://fvcproductions.files.wordpress.com/2016/10/img_0849.jpg
-    - alt: "KHE 2016"
-      url: https://fvcproductions.files.wordpress.com/2016/10/img_0846.jpg
-    - alt: "KHE 2016"
-      url: https://fvcproductions.files.wordpress.com/2016/10/img_0843.jpg
+embedly: true
+categories:
+  - hackathon
+  - award
 ---
 
 ## Name
 
-<a title="Kent Hack Enough" href="https://2016.khe.io" target="_blank" rel="noopener">Kent Hack Enough</a>
+[Kent Hack Enough 2016](https://2016.khe.io")
 
 ## Organizer
 
@@ -45,3 +40,9 @@ Volunteered for the hardware booth and Foobar (smoothies) and then teamed up wit
 ### Awards
 
 Won award of <strong>[Best Security Privacy Hack](https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v)</strong> sponsored by Ubisoft with the prize being two copies of <code>Watch Dog 2</code>
+
+![KHE 2016](https://fvcproductions.files.wordpress.com/2016/10/img_0849.jpg)
+
+![KHE 2016](https://fvcproductions.files.wordpress.com/2016/10/img_0846.jpg)
+
+![KHE 2016](https://fvcproductions.files.wordpress.com/2016/10/img_0843.jpg)

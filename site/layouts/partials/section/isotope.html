@@ -15,6 +15,12 @@
         {{ $isopages := .Pages | union (.Sections) }} {{ range $isopages.ByDate.Reverse }} {{ partial "page/body/plain-tile.html" . }} {{ end }}
       </section>
       {{ end }}
+      <!-- Awards -->
+      <!-- {{ if .Params.awards }}
+      <section class="section tiles isotope-grid plain">
+        {{ $isopages := ($.Site.Taxonomies.categories.award).Pages }} {{ range $isopages.ByDate.Reverse }} {{ partial "page/body/plain-tile.html" . }} {{ end }}
+      </section>
+      {{ end }} -->
       <!-- Blogging -->
       {{ if .Params.blog }}
       <section class="section tiles isotope-grid plain">{{ $isopages := ($.Site.Taxonomies.categories.blog).Pages }} {{ range $isopages.ByDate.Reverse }} {{ partial "page/body/plain-tile.html" . }} {{ end }}</section> {{ end }}

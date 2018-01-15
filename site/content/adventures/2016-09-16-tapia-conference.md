@@ -4,6 +4,7 @@ description: "ACM Richard Tapia Celebration of Diversity in Computing"
 date: 2016-09-16
 categories:
     - conference
+    - award
 banner: //fvcproductions.files.wordpress.com/2016/09/photo1.jpg
 gallery:
     - alt: "TAPIA 2016"
@@ -87,3 +88,12 @@ Needless to say, this year was friggin' amazing.
 > I'm the one in pink!
 
 <blockquote class="embedly-card"><h4><a href="//twitter.com/SonjaOttley/status/776506790724841472">Sonja Gittens Ottley on Twitter</a></h4><p>Meeting so many great students @Tapia_con, like these from our Startup breakfast co-hosted with @a16z! #Tapia2016</p></blockquote>
+
+* award: TAPIA Conference Scholarship Recipient
+* issuer: TAPIA Conference
+* month: 'August'
+* year: 2016
+* link: '//tapiaconference.org/'
+* notes: >-
+* Scholarship includes conference registration, shared hotel with another
+  scholarship recipient and $500 travel award.

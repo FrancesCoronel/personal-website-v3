@@ -60,6 +60,16 @@ This blog post on the conference got featured in The Daily Press.
 
 <blockquote class="embedly-card"><h4><a href="//www.dailypress.com/business/tidewater/dp-may-13-revolutionconf-showcases-software-community-in-hampton-roads-20160513-story.html">What you missed at RevolutionConf in Virginia Beach</a></h4><p>The software industry, including speakers from Microsoft, Detroit Labs and Yahoo, is converging at the Virginia Beach Oceanfront today.</p></blockquote>
 
+award: Featured Blog Post
+issuer: Daily Press
+month: 'May'
+year: 2016
+link: //dailypress.com/business/tidewater/dp-may-13-revolutionconf-showcases-software-community-in-hampton-roads-20160513-story.html
+notes: >-
+I wrote a blog post talking about the growing tech scene within the 757
+area which is where I’m from. The Daily Press got hold of it and it was featured within an article
+talking about RevolutionConf.
+
 ![RevConf](https://fvcproductions.files.wordpress.com/2016/06/revconf-13.jpg)
 
 ![RevConf](https://i1.wp.com/fvcproductions.files.wordpress.com/2016/05/revolutionconf-2016.png)

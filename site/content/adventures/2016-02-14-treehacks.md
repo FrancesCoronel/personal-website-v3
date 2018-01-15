@@ -102,3 +102,37 @@ View the project at [`github.com/fvcproductions/ammalia`](https://github.com/fvc
 Created a README badge to be used for project READMEs hacked out at the TreeHacks hackathon at Stanford. February 16th, 2016
 
 [![Hacked at TreeHacks](https://fvcproductions.files.wordpress.com/2016/02/treehacks.png)](https://fvcproductions.files.wordpress.com/2016/02/treehacks.png) Hacked at TreeHacks
+
+award: Best Use of Dropbox API & Best Social Impact Prize
+issuer: TreeHacks
+month: 'February'
+year: 2016
+link: '//devpost.com/software/ammalia'
+notes: >-
+Ammalia, which means surgery in Arabic, is a Leap Motion assisted app that
+allows a surgeon to analyze pictures of their patient’s problem (i.e.
+brain tumors) using the Dropbox API.
+
+      Our team, Big Hero 4, won the following prizes at TreeHacks 2016
+
+      Best Social Impact Prize - Sponsored by GoodHacks
+
+      Lunch with Stanford President Hennessey + $400 to a charity of your choice
+
+      Coaching with Shannon Farley & Tour of Fast Forward + $400 to a charity of
+      your choice
+
+      Best Use of Dropbox API - Sponsored by Dropbox
+
+      100GB of free Dropbox storage for each member
+
+---
+
+award: Out of State Applicant Scholarship
+issuer: TreeHacks
+month: 'December'
+year: 2015
+link: //medium.com/@hackwithtrees/treehacks-admissions-our-goals-and-process-b204a198d4a6
+notes: >-
+1 of 150 hackers from out of state from over two thousand applicants, so
+basically a ~7.5% acceptance rate

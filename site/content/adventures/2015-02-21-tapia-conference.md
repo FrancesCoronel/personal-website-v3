@@ -51,3 +51,14 @@ The goal of the Tapia Conferences is to bring together undergraduate and graduat
 * Connect with others with common backgrounds, ethnicities, disabilities, and gender so as to create communities that extend beyond the conference;
 * Obtain advice from and make contacts with computing leaders in academia and industry;
 * Be inspired by great presentations and conversations with leaders with common backgrounds.
+
+---
+
+award: Google Scholarship Recipient
+issuer: TAPIA Conference
+month: 'August'
+year: 2015
+link: '//tapiaconference.org/'
+notes: >-
+Scholarship includes conference registration, shared hotel with another
+scholarship recipient and $500 travel award.

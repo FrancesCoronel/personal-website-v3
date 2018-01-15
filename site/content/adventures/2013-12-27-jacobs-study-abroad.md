@@ -81,3 +81,20 @@ I received a generous merit scholarship to attend and study computer science. Wh
 #### Academic & Professional Skills
 
 * Business Etiquette Seminar
+
+---
+
+* award: Featured Poem on Pulse of the World
+  issuer: Jacobs University Bremen
+  month: 'October'
+  year: 2013
+  link: '//scribd.com/document/174387876/POTW-Issue-30'
+  notes: >-
+  My poem was featured on Jacob University’s student-run newspaper “POTW”
+  (Issue 11) while I was a student there.
+* award: Merit-Based Scholarship
+  issuer: Jacobs University Bremen
+  month: 'August'
+  year: 2013
+  link: //jacobs-university.de/study/undergraduate/fees-finances/scholarships
+  notes: merit-based annual scholarship of $10K

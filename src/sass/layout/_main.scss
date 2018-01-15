@@ -17,7 +17,10 @@ h6 {
   font-family: "Roboto", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 }
 
-h3, h4, h5, h6 {
+h3,
+h4,
+h5,
+h6 {
   margin-top: 1em;
 }
 
@@ -26,7 +29,7 @@ h3, h4, h5, h6 {
     font-weight: 500;
   }
   h2 {
-  font-weight: 400;
+    font-weight: 400;
   }
 }
 
@@ -440,15 +443,18 @@ archive-date {
   font-weight: 200;
 }
 
+.mt-0 {
+  margin-top: 0;
+}
+
 .image-caption {
   @include image-caption-shared;
   margin-bottom: 3em;
 }
 
 section.section.tiles {
-  margin: 1em 0;
+  margin: 0;
 }
-
 
 .banner-caption {
   position: absolute;
