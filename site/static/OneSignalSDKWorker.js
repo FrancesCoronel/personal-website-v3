@@ -1,2 +1,2 @@
-importScripts("https://fvcproductions.com/service-worker.js");
+importScripts("/service-worker.js");
 importScripts("https://cdn.onesignal.com/sdks/OneSignalSDK.js");

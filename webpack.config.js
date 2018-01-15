@@ -38,9 +38,9 @@ export default {
       jQuery: "jquery"
     }),
     new WorkboxPlugin({
-      filename: "service-worker.js",
+      cacheName: "fvcproductions",
       globDirectory: "dist",
-      globPatterns: ["**/*.{html,js,css,svg,png}"],
+      globPatterns: ["**/*.{html,jss,css,svg,png,jpg}"],
       swDest: path.join("dist", "service-worker.js"),
       maximumFileSizeToCacheInBytes: 10 * 1024 * 1024,
       clientsClaim: true,
