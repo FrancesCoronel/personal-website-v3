@@ -532,7 +532,7 @@ const fileManifest = [
   },
   {
     "url": "2015/08/20/readme-template-for-github-/index.html",
-    "revision": "302d47dfbfe44a3702ad99a7c3a4a458"
+    "revision": "c0689a8818e15c6a229df41e8ccfb367"
   },
   {
     "url": "2015/08/26/hiredot-/index.html",
@@ -724,15 +724,15 @@ const fileManifest = [
   },
   {
     "url": "2016/05/04/hampton-university/index.html",
-    "revision": "19405e30cd0a0750e35a8c8af9da4166"
+    "revision": "b08a4a132b9567bfe8420a200290a918"
   },
   {
-    "url": "2016/05/13/revolutionconf-aka-yes-theres-a-huge-tech-scene-in-the-757-️/index.html",
-    "revision": "8fdea3c41eafd343802c31a24133f18e"
+    "url": "2016/05/13/revolutionconf/index.html",
+    "revision": "d8d8a52dc36195f243ad5633af97484b"
   },
   {
     "url": "2016/05/24/pak-chu/index.html",
-    "revision": "e1470aeda82d36fffde34cb8b86015f0"
+    "revision": "fd4841a286dbe9b74d93bbef05be55de"
   },
   {
     "url": "2016/05/25/free-code-camp/index.html",
@@ -1028,7 +1028,7 @@ const fileManifest = [
   },
   {
     "url": "adventures/index.html",
-    "revision": "6581cddc966c040eb0e862c340710713"
+    "revision": "6c8127860ff986e4f4626ce6d237e0e7"
   },
   {
     "url": "amp/2008/06/01/middle-school-poems-️/index.html",
@@ -1736,15 +1736,15 @@ const fileManifest = [
   },
   {
     "url": "amp/2016/05/04/hampton-university/index.html",
-    "revision": "19405e30cd0a0750e35a8c8af9da4166"
+    "revision": "b08a4a132b9567bfe8420a200290a918"
   },
   {
-    "url": "amp/2016/05/13/revolutionconf-aka-yes-theres-a-huge-tech-scene-in-the-757-️/index.html",
-    "revision": "8fdea3c41eafd343802c31a24133f18e"
+    "url": "amp/2016/05/13/revolutionconf/index.html",
+    "revision": "d8d8a52dc36195f243ad5633af97484b"
   },
   {
     "url": "amp/2016/05/24/pak-chu/index.html",
-    "revision": "e1470aeda82d36fffde34cb8b86015f0"
+    "revision": "fd4841a286dbe9b74d93bbef05be55de"
   },
   {
     "url": "amp/2016/05/25/free-code-camp/index.html",
@@ -2032,7 +2032,7 @@ const fileManifest = [
   },
   {
     "url": "amp/archive/index.html",
-    "revision": "e3ecaee41f60ab8c8d501e975b5a04c6"
+    "revision": "d9972f3448dec2fee8a873afdadc878e"
   },
   {
     "url": "amp/awards/index.html",
@@ -2144,15 +2144,7 @@ const fileManifest = [
   },
   {
     "url": "archive/index.html",
-    "revision": "e3ecaee41f60ab8c8d501e975b5a04c6"
-  },
-  {
-    "url": "assets/css/ie8.css",
-    "revision": "e1eb1602dd08d5f52cffe80caa47767a"
-  },
-  {
-    "url": "assets/css/ie9.css",
-    "revision": "4b2fb992caf6d1c05f261cea871d656c"
+    "revision": "d9972f3448dec2fee8a873afdadc878e"
   },
   {
     "url": "assets/css/main.css",
@@ -2207,136 +2199,8 @@ const fileManifest = [
     "revision": "bd9b0e88894822cfcea5414ac8428406"
   },
   {
-    "url": "assets/img/favicons/android-chrome-384x384.png",
-    "revision": "6f98225aa938f875c3d85821e8dd1bfe"
-  },
-  {
     "url": "assets/img/favicons/android-chrome-48x48.png",
     "revision": "36ed76931c5c3f2c42b3185db3f900da"
-  },
-  {
-    "url": "assets/img/favicons/android-chrome-512x512.png",
-    "revision": "cbae39db9f912fc885c3bd1fb3540da8"
-  },
-  {
-    "url": "assets/img/favicons/android-chrome-72x72.png",
-    "revision": "5facce7dffb2708f4792a9c8d6bd3d10"
-  },
-  {
-    "url": "assets/img/favicons/android-chrome-96x96.png",
-    "revision": "23dfcea25da8f6f90a46df8b83796e23"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-114x114-precomposed.png",
-    "revision": "f45e24665d031499e5e249ab4562ae21"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-114x114.png",
-    "revision": "44ce9461ad915fd424b1290c441ef58b"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-120x120-precomposed.png",
-    "revision": "0375edbcec76b64142589d94d7aaa85d"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-120x120.png",
-    "revision": "bd8e5ab2632ef2ec27567261c7229e84"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-144x144-precomposed.png",
-    "revision": "2911953d0ce1edec4da4a552fe99451f"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-144x144.png",
-    "revision": "06e3053ea7d00d8a7c676a98581686d2"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-152x152-precomposed.png",
-    "revision": "b127700630e58cedcec33dcb66612f74"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-152x152.png",
-    "revision": "dcefaf25f460f23faad23b21792f411b"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-180x180-precomposed.png",
-    "revision": "7c88ce9ba21cb26b505b20f4be5a4700"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-180x180.png",
-    "revision": "4ea2587e204835afe5443aea2d90cd1d"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-57x57-precomposed.png",
-    "revision": "2b478a75bba005cdffbfdf923e45c1d1"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-57x57.png",
-    "revision": "2bc9ece8e94874f3c4d75fc9330060b2"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-60x60-precomposed.png",
-    "revision": "e0e9f8ba67357e3607d1275832c78178"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-60x60.png",
-    "revision": "2bce44c4b16a1fb67f9295928d9e56ff"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-72x72-precomposed.png",
-    "revision": "5420691c2e76f16ae38af74244a8b1ca"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-72x72.png",
-    "revision": "712f279bb6e5ffd07f5d5ca9f1dc764e"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-76x76-precomposed.png",
-    "revision": "4b3419958a6beecfa835dc9da9815a8d"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-76x76.png",
-    "revision": "1ee54d45a19179a4d818e392be8222dd"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-precomposed.png",
-    "revision": "7c88ce9ba21cb26b505b20f4be5a4700"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon.png",
-    "revision": "4ea2587e204835afe5443aea2d90cd1d"
-  },
-  {
-    "url": "assets/img/favicons/favicon-16x16.png",
-    "revision": "079a14c63cbffeab756c8445a66afea7"
-  },
-  {
-    "url": "assets/img/favicons/favicon-32x32.png",
-    "revision": "84beebb51fa5377b465454f3ec614351"
-  },
-  {
-    "url": "assets/img/favicons/mstile-144x144.png",
-    "revision": "0df92eb56911bc129f5c90b9779cb795"
-  },
-  {
-    "url": "assets/img/favicons/mstile-150x150.png",
-    "revision": "6ee65a2624acf3e42db55f26a6a4a79e"
-  },
-  {
-    "url": "assets/img/favicons/mstile-310x150.png",
-    "revision": "57264efe0acb1422e81295d04715c161"
-  },
-  {
-    "url": "assets/img/favicons/mstile-310x310.png",
-    "revision": "95ffdb62188e4c36df2b336c750b9e11"
-  },
-  {
-    "url": "assets/img/favicons/mstile-70x70.png",
-    "revision": "b2350f04d916de0eec1498628c87ac50"
-  },
-  {
-    "url": "assets/img/favicons/safari-pinned-tab.svg",
-    "revision": "ffc87eb0d5903679319c1f1795572e70"
   },
   {
     "url": "assets/img/logo.png",
@@ -2345,10 +2209,6 @@ const fileManifest = [
   {
     "url": "assets/img/logo.svg",
     "revision": "925b1882c987fe406d8ce9c0d7f63929"
-  },
-  {
-    "url": "assets/img/teaser.png",
-    "revision": "1b9bb13123436e402f5c356cf35d0c7e"
   },
   {
     "url": "awards/index.html",
@@ -2404,7 +2264,7 @@ const fileManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "d05a1fda4b8e8b06b77a60c05d945fc6"
+    "revision": "f314af2e2f8f2e462f9bafd10ee70c9f"
   },
   {
     "url": "categories/2015/index.html",
@@ -2424,7 +2284,7 @@ const fileManifest = [
   },
   {
     "url": "categories/blog/index.html",
-    "revision": "430bdcaaa81332c487f8dff87f525cec"
+    "revision": "40dd88c433ccb6dbb09b820c7d9e3ca2"
   },
   {
     "url": "categories/book/index.html",
@@ -2448,7 +2308,7 @@ const fileManifest = [
   },
   {
     "url": "categories/conference/index.html",
-    "revision": "5b8d3eb530b63998a49521bcfbb9e76b"
+    "revision": "90cb2a0d00afda0c619358989a609f18"
   },
   {
     "url": "categories/creativity/index.html",
@@ -2516,7 +2376,7 @@ const fileManifest = [
   },
   {
     "url": "categories/volunteering/index.html",
-    "revision": "1d5d2c38e0a465d3fd3ca11d80fff6bb"
+    "revision": "400f9af1bca9069383f5d1bb52e1e90f"
   },
   {
     "url": "categories/web/index.html",
@@ -2640,7 +2500,7 @@ const fileManifest = [
   },
   {
     "url": "tags/757-developers/index.html",
-    "revision": "5c38f41219f3ce972fa8c4571232526e"
+    "revision": "27a1ab22af00056dda17878892bb1b04"
   },
   {
     "url": "tags/757/index.html",
@@ -2648,7 +2508,7 @@ const fileManifest = [
   },
   {
     "url": "tags/757dev/index.html",
-    "revision": "d75df763d4146e531193e47d5614dfe7"
+    "revision": "46719ae81b406e9cac2487a3de9616e1"
   },
   {
     "url": "tags/8020/index.html",
@@ -3612,7 +3472,7 @@ const fileManifest = [
   },
   {
     "url": "tags/conference/index.html",
-    "revision": "522b088fcc9f9464576d5c399b74f850"
+    "revision": "8dc4624b8893fdf4f606603923d1329c"
   },
   {
     "url": "tags/conferences/index.html",
@@ -4148,7 +4008,7 @@ const fileManifest = [
   },
   {
     "url": "tags/featured/index.html",
-    "revision": "776c81ff4ffbc8da4a6854403fbcc264"
+    "revision": "9f417d74af43e7e95b376f2907d177a7"
   },
   {
     "url": "tags/february-2015/index.html",
@@ -4252,7 +4112,7 @@ const fileManifest = [
   },
   {
     "url": "tags/free-code-camp/index.html",
-    "revision": "fc0fa2f50610dce1da083030ec2cd3c1"
+    "revision": "958e4fed749f31285fa2b7dabeb9072c"
   },
   {
     "url": "tags/freeman/index.html",
@@ -5488,7 +5348,7 @@ const fileManifest = [
   },
   {
     "url": "tags/meetups/index.html",
-    "revision": "db8f8448cf5c4fe2c03427d97ce47acd"
+    "revision": "e744f3f0c76ee0987ae1710523e4a680"
   },
   {
     "url": "tags/melodrama/index.html",
@@ -5684,7 +5544,7 @@ const fileManifest = [
   },
   {
     "url": "tags/norfolk/index.html",
-    "revision": "44bbd342b1ee5779c86ba82265503aef"
+    "revision": "8cbb9767e7b4a804ea8a7e28a8873a41"
   },
   {
     "url": "tags/norfolkjs-journey/index.html",
@@ -5920,7 +5780,7 @@ const fileManifest = [
   },
   {
     "url": "tags/pixelfest/index.html",
-    "revision": "82c33c2083226d612db60414ca30809b"
+    "revision": "58abad48b668f26cb3494e7c91d91c38"
   },
   {
     "url": "tags/plan-ahead/index.html",
@@ -6316,7 +6176,7 @@ const fileManifest = [
   },
   {
     "url": "tags/revconf/index.html",
-    "revision": "f82a2de7e8584170e842a8a74b80cfa8"
+    "revision": "44ee1b2fbc0fb2bdcf304c6c88881f18"
   },
   {
     "url": "tags/review-week/index.html",
@@ -6332,19 +6192,19 @@ const fileManifest = [
   },
   {
     "url": "tags/revolution-conference/index.html",
-    "revision": "eee60b6c3a4640cae69e1d7f0b2c6ee7"
+    "revision": "0106c507e7b08722d345b52de18f5af9"
   },
   {
     "url": "tags/revolution/index.html",
-    "revision": "099083febca9460bb4c5c248769f9da7"
+    "revision": "284b39f629ab169ad38457f1bb8aa10d"
   },
   {
     "url": "tags/revolutionconf-virginia/index.html",
-    "revision": "68c2804b9719c8be8600be6dec5647dc"
+    "revision": "0837effe3bd11e0bfca673a9e6cbbc76"
   },
   {
     "url": "tags/revolutionconf/index.html",
-    "revision": "0076b274ef18d6ccd386f804a73341f6"
+    "revision": "fd6e3949a432dcc4bba2a4f5545d19d9"
   },
   {
     "url": "tags/richard-tapia/index.html",
@@ -7296,11 +7156,11 @@ const fileManifest = [
   },
   {
     "url": "tags/virginia-beach/index.html",
-    "revision": "49fb17095765eb6f5fa99c4ed35cedac"
+    "revision": "4d3ca39b49342a70d697570333fd5005"
   },
   {
     "url": "tags/virginia/index.html",
-    "revision": "2c81a81454f5b4dff2fcf8e238ed4fef"
+    "revision": "7e7860879bb20ee01c6b745d4c031399"
   },
   {
     "url": "tags/visual-hierarchy/index.html",
