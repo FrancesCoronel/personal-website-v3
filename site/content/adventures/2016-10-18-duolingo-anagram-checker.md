@@ -3,9 +3,6 @@ title: Duolingo Anagram Checker ✅
 date: 2016-10-18
 description: I created this simple website as part of the Duolingo PM intern interview process.
 banner: https://i.imgur.com/8cFXnVj.jpg
-gallery:
-    - alt: "Placeholder"
-      url: https://i.imgur.com/8cFXnVj.jpg
 categories:
     - portfolio
 ---

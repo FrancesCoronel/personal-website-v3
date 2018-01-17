@@ -24,7 +24,7 @@ const fileManifest = [
   },
   {
     "url": "2009/09/22/ghent-school/index.html",
-    "revision": "9bfe8b0a97a79eca3ec173773f9f386b"
+    "revision": "29f34577293430c1b66d0e2e5c442cad"
   },
   {
     "url": "2009/12/10/in-christophers-footsteps-️/index.html",
@@ -88,11 +88,11 @@ const fileManifest = [
   },
   {
     "url": "2013/06/06/pursuit-of-knowledge/index.html",
-    "revision": "c3a8cb05029680e25a45cd1e46c9429f"
+    "revision": "1c453986cf47193f674bb19c03688ea9"
   },
   {
     "url": "2013/06/13/maury-high-school/index.html",
-    "revision": "9c0b66bee461d01586976649a10975a8"
+    "revision": "e7a1a6e3af2de4ca7f9dc30cea92be20"
   },
   {
     "url": "2013/07/28/c---bits---clothing-sizes-/index.html",
@@ -120,11 +120,11 @@ const fileManifest = [
   },
   {
     "url": "2013/08/02/islc-2013/index.html",
-    "revision": "e362dd0f0f54976bf6a9a40e6fb91621"
+    "revision": "1c9950d376131af9a6effc2a75e01a08"
   },
   {
     "url": "2013/08/02/operation-smile---maury-high-school/index.html",
-    "revision": "06c35f49a25d93ada2c8dbc894f55439"
+    "revision": "52036de771198c13e952ce17e35044a8"
   },
   {
     "url": "2013/08/03/potc---chest-riddle-/index.html",
@@ -136,7 +136,7 @@ const fileManifest = [
   },
   {
     "url": "2013/08/16/tidewater-community-college---summer-2013/index.html",
-    "revision": "ef7cc4beb1ef9ff4e6003f29ce7901cf"
+    "revision": "df50c7adb2fb82193ace186b4332c99d"
   },
   {
     "url": "2013/09/14/my-cups-of-tea---2013-/index.html",
@@ -152,7 +152,7 @@ const fileManifest = [
   },
   {
     "url": "2013/12/27/jacobs-university-bremen---fall-2013/index.html",
-    "revision": "f8d7c33ca6e8a6d230bfc07ae50ba85e"
+    "revision": "e35e0be99b9348c1c456e6a43558ab51"
   },
   {
     "url": "2014/01/05/preparing-for-coding-bootcamps/index.html",
@@ -400,7 +400,7 @@ const fileManifest = [
   },
   {
     "url": "2015/02/21/tapia-2015/index.html",
-    "revision": "3c2ad8575650c82ea7910fabab849f16"
+    "revision": "182c3370b95375cc53b2cae8dc27a85b"
   },
   {
     "url": "2015/03/01/jeopardy-template-/index.html",
@@ -544,7 +544,7 @@ const fileManifest = [
   },
   {
     "url": "2015/09/25/discover-goldman-sachs/index.html",
-    "revision": "bdc0eb8475ede037dcb91540a2c4abc5"
+    "revision": "3ff83132a633f9946f6a8ddc4457471d"
   },
   {
     "url": "2015/10/09/designlab-submissions-/index.html",
@@ -676,7 +676,7 @@ const fileManifest = [
   },
   {
     "url": "2016/02/14/treehacks/index.html",
-    "revision": "c311e5ce41bc9478bb7f66218946e741"
+    "revision": "878d54c9730b0232c8cb7f601a96d0da"
   },
   {
     "url": "2016/02/17/developerweek/index.html",
@@ -684,7 +684,7 @@ const fileManifest = [
   },
   {
     "url": "2016/02/23/react.js-conf/index.html",
-    "revision": "b8d24c68ff7f5cbe99d530de10da708b"
+    "revision": "7e560dba107f68d3f330542e2fbe3666"
   },
   {
     "url": "2016/02/27/binding-of-isaac---review-/index.html",
@@ -696,7 +696,7 @@ const fileManifest = [
   },
   {
     "url": "2016/03/10/fluent-conference/index.html",
-    "revision": "0443543577485e5e8c35e1c6ea18fe6b"
+    "revision": "ae89a01a42781ae9005048ed8b857ad8"
   },
   {
     "url": "2016/03/31/all-the-bootcamp-things-/index.html",
@@ -716,7 +716,7 @@ const fileManifest = [
   },
   {
     "url": "2016/04/11/vsgc-student-research-conference/index.html",
-    "revision": "7ef4e22852615004f0da81ac232148d3"
+    "revision": "fa73be568cc9b1c732f020299e3953ac"
   },
   {
     "url": "2016/04/30/schools-out-️/index.html",
@@ -724,11 +724,11 @@ const fileManifest = [
   },
   {
     "url": "2016/05/04/hampton-university/index.html",
-    "revision": "b08a4a132b9567bfe8420a200290a918"
+    "revision": "90ebefebf939317c0a3eecb9a76ba4b1"
   },
   {
     "url": "2016/05/13/revolutionconf/index.html",
-    "revision": "d8d8a52dc36195f243ad5633af97484b"
+    "revision": "fc29d56ff2a7f8e0847b1b957c8f3bab"
   },
   {
     "url": "2016/05/24/pak-chu/index.html",
@@ -752,7 +752,7 @@ const fileManifest = [
   },
   {
     "url": "2016/07/30/npmcamp/index.html",
-    "revision": "b6d88e57d919b99c8b3ea41b169cb8cc"
+    "revision": "97dfe1960392c273a438e264136aef17"
   },
   {
     "url": "2016/08/01/lavie-ruan/index.html",
@@ -764,7 +764,7 @@ const fileManifest = [
   },
   {
     "url": "2016/08/26/fullstack-academy/index.html",
-    "revision": "4fb154842b89d8e99dbe592d5689b24f"
+    "revision": "8829f2cdb189580a3b0ab43f39634d4e"
   },
   {
     "url": "2016/08/26/fvcproductions---updated-logo-/index.html",
@@ -772,7 +772,7 @@ const fileManifest = [
   },
   {
     "url": "2016/09/16/tapia-2016/index.html",
-    "revision": "7fdb39c9f9bcfa07aa701a6186628cd4"
+    "revision": "fd9b40d7e4061ebec7ccc4acfee639fd"
   },
   {
     "url": "2016/09/27/github-repos---mashup-/index.html",
@@ -796,7 +796,7 @@ const fileManifest = [
   },
   {
     "url": "2016/10/09/kent-hack-enough/index.html",
-    "revision": "64fc3293cd1510a22331c74bf6083025"
+    "revision": "9b467280a399987c06133c14eefbe99d"
   },
   {
     "url": "2016/10/12/mamabear-launch-plan-/index.html",
@@ -812,11 +812,15 @@ const fileManifest = [
   },
   {
     "url": "2016/11/18/product-studio-/index.html",
-    "revision": "6d9bc34c878ee148836294d880fd913a"
+    "revision": "0b31643df04274d7e7ab1fe4626d9548"
+  },
+  {
+    "url": "2016/11/22/cornell-tech---artful-artifacts/index.html",
+    "revision": "fe4f9018cd72dba52c5377b04c4b7be6"
   },
   {
     "url": "2016/11/30/witny/index.html",
-    "revision": "20ff1959f12ed4c2bfac0b365e08aa05"
+    "revision": "328ad00b50cbc47745693ce90462e1b1"
   },
   {
     "url": "2016/12/01/duolingo-delights-/index.html",
@@ -960,7 +964,7 @@ const fileManifest = [
   },
   {
     "url": "2017/05/26/cornell-tech/index.html",
-    "revision": "741a35eb8de6e6b7cd24a5d2dbf6eded"
+    "revision": "0fa761cccb4a20338e29c660c0b3cbd8"
   },
   {
     "url": "2017/06/07/accenture-liquid-studio/index.html",
@@ -1028,7 +1032,7 @@ const fileManifest = [
   },
   {
     "url": "adventures/index.html",
-    "revision": "7722dc6797448bb5f4ee090d00f039c1"
+    "revision": "f6b9168e3602c518d2d1643518778d6d"
   },
   {
     "url": "amp/2008/06/01/middle-school-poems-️/index.html",
@@ -1036,7 +1040,7 @@ const fileManifest = [
   },
   {
     "url": "amp/2009/09/22/ghent-school/index.html",
-    "revision": "9bfe8b0a97a79eca3ec173773f9f386b"
+    "revision": "29f34577293430c1b66d0e2e5c442cad"
   },
   {
     "url": "amp/2009/12/10/in-christophers-footsteps-️/index.html",
@@ -1100,11 +1104,11 @@ const fileManifest = [
   },
   {
     "url": "amp/2013/06/06/pursuit-of-knowledge/index.html",
-    "revision": "c3a8cb05029680e25a45cd1e46c9429f"
+    "revision": "1c453986cf47193f674bb19c03688ea9"
   },
   {
     "url": "amp/2013/06/13/maury-high-school/index.html",
-    "revision": "9c0b66bee461d01586976649a10975a8"
+    "revision": "e7a1a6e3af2de4ca7f9dc30cea92be20"
   },
   {
     "url": "amp/2013/07/28/c---bits---clothing-sizes-/index.html",
@@ -1132,11 +1136,11 @@ const fileManifest = [
   },
   {
     "url": "amp/2013/08/02/islc-2013/index.html",
-    "revision": "e362dd0f0f54976bf6a9a40e6fb91621"
+    "revision": "1c9950d376131af9a6effc2a75e01a08"
   },
   {
     "url": "amp/2013/08/02/operation-smile---maury-high-school/index.html",
-    "revision": "06c35f49a25d93ada2c8dbc894f55439"
+    "revision": "52036de771198c13e952ce17e35044a8"
   },
   {
     "url": "amp/2013/08/03/potc---chest-riddle-/index.html",
@@ -1148,7 +1152,7 @@ const fileManifest = [
   },
   {
     "url": "amp/2013/08/16/tidewater-community-college---summer-2013/index.html",
-    "revision": "ef7cc4beb1ef9ff4e6003f29ce7901cf"
+    "revision": "df50c7adb2fb82193ace186b4332c99d"
   },
   {
     "url": "amp/2013/09/14/my-cups-of-tea---2013-/index.html",
@@ -1164,7 +1168,7 @@ const fileManifest = [
   },
   {
     "url": "amp/2013/12/27/jacobs-university-bremen---fall-2013/index.html",
-    "revision": "f8d7c33ca6e8a6d230bfc07ae50ba85e"
+    "revision": "e35e0be99b9348c1c456e6a43558ab51"
   },
   {
     "url": "amp/2014/01/05/preparing-for-coding-bootcamps/index.html",
@@ -1412,7 +1416,7 @@ const fileManifest = [
   },
   {
     "url": "amp/2015/02/21/tapia-2015/index.html",
-    "revision": "3c2ad8575650c82ea7910fabab849f16"
+    "revision": "182c3370b95375cc53b2cae8dc27a85b"
   },
   {
     "url": "amp/2015/03/01/jeopardy-template-/index.html",
@@ -1544,7 +1548,7 @@ const fileManifest = [
   },
   {
     "url": "amp/2015/08/20/readme-template-for-github-/index.html",
-    "revision": "c0689a8818e15c6a229df41e8ccfb367"
+    "revision": "302d47dfbfe44a3702ad99a7c3a4a458"
   },
   {
     "url": "amp/2015/08/26/hiredot-/index.html",
@@ -1556,7 +1560,7 @@ const fileManifest = [
   },
   {
     "url": "amp/2015/09/25/discover-goldman-sachs/index.html",
-    "revision": "bdc0eb8475ede037dcb91540a2c4abc5"
+    "revision": "3ff83132a633f9946f6a8ddc4457471d"
   },
   {
     "url": "amp/2015/10/09/designlab-submissions-/index.html",
@@ -1688,7 +1692,7 @@ const fileManifest = [
   },
   {
     "url": "amp/2016/02/14/treehacks/index.html",
-    "revision": "c311e5ce41bc9478bb7f66218946e741"
+    "revision": "878d54c9730b0232c8cb7f601a96d0da"
   },
   {
     "url": "amp/2016/02/17/developerweek/index.html",
@@ -1696,7 +1700,7 @@ const fileManifest = [
   },
   {
     "url": "amp/2016/02/23/react.js-conf/index.html",
-    "revision": "b8d24c68ff7f5cbe99d530de10da708b"
+    "revision": "7e560dba107f68d3f330542e2fbe3666"
   },
   {
     "url": "amp/2016/02/27/binding-of-isaac---review-/index.html",
@@ -1708,7 +1712,7 @@ const fileManifest = [
   },
   {
     "url": "amp/2016/03/10/fluent-conference/index.html",
-    "revision": "0443543577485e5e8c35e1c6ea18fe6b"
+    "revision": "ae89a01a42781ae9005048ed8b857ad8"
   },
   {
     "url": "amp/2016/03/31/all-the-bootcamp-things-/index.html",
@@ -1728,7 +1732,7 @@ const fileManifest = [
   },
   {
     "url": "amp/2016/04/11/vsgc-student-research-conference/index.html",
-    "revision": "7ef4e22852615004f0da81ac232148d3"
+    "revision": "fa73be568cc9b1c732f020299e3953ac"
   },
   {
     "url": "amp/2016/04/30/schools-out-️/index.html",
@@ -1736,11 +1740,11 @@ const fileManifest = [
   },
   {
     "url": "amp/2016/05/04/hampton-university/index.html",
-    "revision": "b08a4a132b9567bfe8420a200290a918"
+    "revision": "90ebefebf939317c0a3eecb9a76ba4b1"
   },
   {
     "url": "amp/2016/05/13/revolutionconf/index.html",
-    "revision": "d8d8a52dc36195f243ad5633af97484b"
+    "revision": "fc29d56ff2a7f8e0847b1b957c8f3bab"
   },
   {
     "url": "amp/2016/05/24/pak-chu/index.html",
@@ -1764,7 +1768,7 @@ const fileManifest = [
   },
   {
     "url": "amp/2016/07/30/npmcamp/index.html",
-    "revision": "b6d88e57d919b99c8b3ea41b169cb8cc"
+    "revision": "97dfe1960392c273a438e264136aef17"
   },
   {
     "url": "amp/2016/08/01/lavie-ruan/index.html",
@@ -1776,7 +1780,7 @@ const fileManifest = [
   },
   {
     "url": "amp/2016/08/26/fullstack-academy/index.html",
-    "revision": "4fb154842b89d8e99dbe592d5689b24f"
+    "revision": "8829f2cdb189580a3b0ab43f39634d4e"
   },
   {
     "url": "amp/2016/08/26/fvcproductions---updated-logo-/index.html",
@@ -1784,7 +1788,7 @@ const fileManifest = [
   },
   {
     "url": "amp/2016/09/16/tapia-2016/index.html",
-    "revision": "7fdb39c9f9bcfa07aa701a6186628cd4"
+    "revision": "fd9b40d7e4061ebec7ccc4acfee639fd"
   },
   {
     "url": "amp/2016/09/27/github-repos---mashup-/index.html",
@@ -1808,7 +1812,7 @@ const fileManifest = [
   },
   {
     "url": "amp/2016/10/09/kent-hack-enough/index.html",
-    "revision": "64fc3293cd1510a22331c74bf6083025"
+    "revision": "9b467280a399987c06133c14eefbe99d"
   },
   {
     "url": "amp/2016/10/12/mamabear-launch-plan-/index.html",
@@ -1824,11 +1828,15 @@ const fileManifest = [
   },
   {
     "url": "amp/2016/11/18/product-studio-/index.html",
-    "revision": "6d9bc34c878ee148836294d880fd913a"
+    "revision": "0b31643df04274d7e7ab1fe4626d9548"
+  },
+  {
+    "url": "amp/2016/11/22/cornell-tech---artful-artifacts/index.html",
+    "revision": "fe4f9018cd72dba52c5377b04c4b7be6"
   },
   {
     "url": "amp/2016/11/30/witny/index.html",
-    "revision": "20ff1959f12ed4c2bfac0b365e08aa05"
+    "revision": "328ad00b50cbc47745693ce90462e1b1"
   },
   {
     "url": "amp/2016/12/01/duolingo-delights-/index.html",
@@ -1972,7 +1980,7 @@ const fileManifest = [
   },
   {
     "url": "amp/2017/05/26/cornell-tech/index.html",
-    "revision": "741a35eb8de6e6b7cd24a5d2dbf6eded"
+    "revision": "0fa761cccb4a20338e29c660c0b3cbd8"
   },
   {
     "url": "amp/2017/06/07/accenture-liquid-studio/index.html",
@@ -2032,11 +2040,11 @@ const fileManifest = [
   },
   {
     "url": "amp/archive/index.html",
-    "revision": "d9972f3448dec2fee8a873afdadc878e"
+    "revision": "a9768c0e037797cb6f6f5029987cedec"
   },
   {
     "url": "amp/awards/index.html",
-    "revision": "2fe38fdd619663511720871bd24660a7"
+    "revision": "04f24836bc955d24279be49bba457079"
   },
   {
     "url": "amp/blog/1/01/01/ibooks/index.html",
@@ -2052,7 +2060,7 @@ const fileManifest = [
   },
   {
     "url": "amp/blog/1/01/01/quora-answers/index.html",
-    "revision": "7afc77d89972af10b7d71f87351aa3e5"
+    "revision": "ad55e4bc4c1a86189cbf20a83009a9d1"
   },
   {
     "url": "amp/blog/1/01/01/scribd/index.html",
@@ -2072,7 +2080,7 @@ const fileManifest = [
   },
   {
     "url": "amp/contact/index.html",
-    "revision": "0c5ea56ff870a0c989fce36a338ac155"
+    "revision": "59c7284545f9a3179339d2453da7dc61"
   },
   {
     "url": "amp/index.html",
@@ -2088,15 +2096,15 @@ const fileManifest = [
   },
   {
     "url": "amp/portfolio/1/01/01/devpost/index.html",
-    "revision": "21ac0b56ed79304b3be210a09f3c7bdc"
+    "revision": "29375111beee432a40d15dceae9f23de"
   },
   {
-    "url": "amp/portfolio/1/01/01/github-️/index.html",
-    "revision": "0bd1bc196fd938920eafbeb79f90d178"
+    "url": "amp/portfolio/1/01/01/github/index.html",
+    "revision": "2446f76d2d7264fe73b99905427ce316"
   },
   {
     "url": "amp/portfolio/1/01/01/slideshare/index.html",
-    "revision": "c81501a76621b7bdaf7b20995f58a778"
+    "revision": "84284d1fd61a09d4cb6faa30e58be0d7"
   },
   {
     "url": "amp/portfolio/1/01/01/youtube/index.html",
@@ -2144,7 +2152,7 @@ const fileManifest = [
   },
   {
     "url": "archive/index.html",
-    "revision": "d9972f3448dec2fee8a873afdadc878e"
+    "revision": "a9768c0e037797cb6f6f5029987cedec"
   },
   {
     "url": "assets/css/main.css",
@@ -2199,136 +2207,8 @@ const fileManifest = [
     "revision": "bd9b0e88894822cfcea5414ac8428406"
   },
   {
-    "url": "assets/img/favicons/android-chrome-384x384.png",
-    "revision": "6f98225aa938f875c3d85821e8dd1bfe"
-  },
-  {
     "url": "assets/img/favicons/android-chrome-48x48.png",
     "revision": "36ed76931c5c3f2c42b3185db3f900da"
-  },
-  {
-    "url": "assets/img/favicons/android-chrome-512x512.png",
-    "revision": "cbae39db9f912fc885c3bd1fb3540da8"
-  },
-  {
-    "url": "assets/img/favicons/android-chrome-72x72.png",
-    "revision": "5facce7dffb2708f4792a9c8d6bd3d10"
-  },
-  {
-    "url": "assets/img/favicons/android-chrome-96x96.png",
-    "revision": "23dfcea25da8f6f90a46df8b83796e23"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-114x114-precomposed.png",
-    "revision": "f45e24665d031499e5e249ab4562ae21"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-114x114.png",
-    "revision": "44ce9461ad915fd424b1290c441ef58b"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-120x120-precomposed.png",
-    "revision": "0375edbcec76b64142589d94d7aaa85d"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-120x120.png",
-    "revision": "bd8e5ab2632ef2ec27567261c7229e84"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-144x144-precomposed.png",
-    "revision": "2911953d0ce1edec4da4a552fe99451f"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-144x144.png",
-    "revision": "06e3053ea7d00d8a7c676a98581686d2"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-152x152-precomposed.png",
-    "revision": "b127700630e58cedcec33dcb66612f74"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-152x152.png",
-    "revision": "dcefaf25f460f23faad23b21792f411b"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-180x180-precomposed.png",
-    "revision": "7c88ce9ba21cb26b505b20f4be5a4700"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-180x180.png",
-    "revision": "4ea2587e204835afe5443aea2d90cd1d"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-57x57-precomposed.png",
-    "revision": "2b478a75bba005cdffbfdf923e45c1d1"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-57x57.png",
-    "revision": "2bc9ece8e94874f3c4d75fc9330060b2"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-60x60-precomposed.png",
-    "revision": "e0e9f8ba67357e3607d1275832c78178"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-60x60.png",
-    "revision": "2bce44c4b16a1fb67f9295928d9e56ff"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-72x72-precomposed.png",
-    "revision": "5420691c2e76f16ae38af74244a8b1ca"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-72x72.png",
-    "revision": "712f279bb6e5ffd07f5d5ca9f1dc764e"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-76x76-precomposed.png",
-    "revision": "4b3419958a6beecfa835dc9da9815a8d"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-76x76.png",
-    "revision": "1ee54d45a19179a4d818e392be8222dd"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon-precomposed.png",
-    "revision": "7c88ce9ba21cb26b505b20f4be5a4700"
-  },
-  {
-    "url": "assets/img/favicons/apple-touch-icon.png",
-    "revision": "4ea2587e204835afe5443aea2d90cd1d"
-  },
-  {
-    "url": "assets/img/favicons/favicon-16x16.png",
-    "revision": "079a14c63cbffeab756c8445a66afea7"
-  },
-  {
-    "url": "assets/img/favicons/favicon-32x32.png",
-    "revision": "84beebb51fa5377b465454f3ec614351"
-  },
-  {
-    "url": "assets/img/favicons/mstile-144x144.png",
-    "revision": "0df92eb56911bc129f5c90b9779cb795"
-  },
-  {
-    "url": "assets/img/favicons/mstile-150x150.png",
-    "revision": "6ee65a2624acf3e42db55f26a6a4a79e"
-  },
-  {
-    "url": "assets/img/favicons/mstile-310x150.png",
-    "revision": "57264efe0acb1422e81295d04715c161"
-  },
-  {
-    "url": "assets/img/favicons/mstile-310x310.png",
-    "revision": "95ffdb62188e4c36df2b336c750b9e11"
-  },
-  {
-    "url": "assets/img/favicons/mstile-70x70.png",
-    "revision": "b2350f04d916de0eec1498628c87ac50"
-  },
-  {
-    "url": "assets/img/favicons/safari-pinned-tab.svg",
-    "revision": "ffc87eb0d5903679319c1f1795572e70"
   },
   {
     "url": "assets/img/logo.png",
@@ -2339,12 +2219,8 @@ const fileManifest = [
     "revision": "925b1882c987fe406d8ce9c0d7f63929"
   },
   {
-    "url": "assets/img/teaser.png",
-    "revision": "1b9bb13123436e402f5c356cf35d0c7e"
-  },
-  {
     "url": "awards/index.html",
-    "revision": "2fe38fdd619663511720871bd24660a7"
+    "revision": "04f24836bc955d24279be49bba457079"
   },
   {
     "url": "blog/1/01/01/ibooks/index.html",
@@ -2360,7 +2236,7 @@ const fileManifest = [
   },
   {
     "url": "blog/1/01/01/quora-answers/index.html",
-    "revision": "7afc77d89972af10b7d71f87351aa3e5"
+    "revision": "ad55e4bc4c1a86189cbf20a83009a9d1"
   },
   {
     "url": "blog/1/01/01/scribd/index.html",
@@ -2412,7 +2288,7 @@ const fileManifest = [
   },
   {
     "url": "categories/award/index.html",
-    "revision": "458973c0edec5fa270e1c17947f19378"
+    "revision": "037d1b4b9faf8277b0f81ed42cda92c1"
   },
   {
     "url": "categories/blog/index.html",
@@ -2472,7 +2348,7 @@ const fileManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "df4d1e2d038ee024e3853b68ed18817f"
+    "revision": "19e3a1bc4da0c44ad744d6100d259c88"
   },
   {
     "url": "categories/portfolio/index.html",
@@ -2524,7 +2400,7 @@ const fileManifest = [
   },
   {
     "url": "contact/index.html",
-    "revision": "0c5ea56ff870a0c989fce36a338ac155"
+    "revision": "59c7284545f9a3179339d2453da7dc61"
   },
   {
     "url": "index.html",
@@ -2540,15 +2416,15 @@ const fileManifest = [
   },
   {
     "url": "portfolio/1/01/01/devpost/index.html",
-    "revision": "21ac0b56ed79304b3be210a09f3c7bdc"
+    "revision": "29375111beee432a40d15dceae9f23de"
   },
   {
-    "url": "portfolio/1/01/01/github-️/index.html",
-    "revision": "0bd1bc196fd938920eafbeb79f90d178"
+    "url": "portfolio/1/01/01/github/index.html",
+    "revision": "2446f76d2d7264fe73b99905427ce316"
   },
   {
     "url": "portfolio/1/01/01/slideshare/index.html",
-    "revision": "c81501a76621b7bdaf7b20995f58a778"
+    "revision": "84284d1fd61a09d4cb6faa30e58be0d7"
   },
   {
     "url": "portfolio/1/01/01/youtube/index.html",
@@ -2556,7 +2432,7 @@ const fileManifest = [
   },
   {
     "url": "portfolio/index.html",
-    "revision": "3d28d40ef1bc762011393e55e28f2944"
+    "revision": "af8e87652907627aea5dd95fab9662f1"
   },
   {
     "url": "services/freelancing/index.html",

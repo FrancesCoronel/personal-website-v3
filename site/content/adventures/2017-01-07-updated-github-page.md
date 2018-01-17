@@ -3,9 +3,6 @@ title: "Updated GitHub Page 🍓"
 date: 2017-01-07
 description: Updated my GitHub page in order to better showcase my current state of mind. If you click on 'black' or 'white', the interface changes colors. Woot!
 banner: https://i.imgur.com/8cFXnVj.jpg
-gallery:
-    - alt: "Placeholder"
-      url: https://i.imgur.com/8cFXnVj.jpg
 categories:
     - portfolio
 ---

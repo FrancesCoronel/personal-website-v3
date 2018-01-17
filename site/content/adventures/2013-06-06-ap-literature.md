@@ -6,9 +6,10 @@ categories:
     - book
 date: 2013-06-06
 banner: https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-18.png?w=246&h=179&zoom=2
+embedly: true
 ---
 
-{% include figure url="https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png" alt="The Pursuit of Knowledge" %}
+![The Pursuit of Knowledge](https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png)
 
 <blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/17475593/Pursuit-of-Knowledge">Pursuit of Knowledge</a></h4><p>End of Year English ProjectPursuit of KnowledgeFVCproductionsCreated 2013Dedicated to Mrs.Cook</p></blockquote>
 

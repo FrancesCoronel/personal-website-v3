@@ -1,20 +1,17 @@
 ---
 title: "Hour of Code"
 description: Volunteering for the Hour of Code program offered by Code.org for a second time in a row!
+date: 2016-12-08
+banner: https://fvcproductions.files.wordpress.com/2017/01/dsc08495.jpg
 categories:
     - volunteering
     - speaking
     - hourofcode
-date: 2016-12-08
-banner: https://fvcproductions.files.wordpress.com/2017/01/dsc08495.jpg
-gallery:
-  - url: https://fvcproductions.files.wordpress.com/2017/01/dsc08495.jpg
-    alt: Hour of Code 2016
 ---
 
 ## Name
 
-<a title="Hour of Code" href="https://hourofcode.com/" target="_blank" rel="noopener">Hour of Code</a>
+[Hour of Code](https://hourofcode.com/)
 
 ## Organizer
 
@@ -40,4 +37,6 @@ Helped out middle school students in their [CodeCombat](https://codecombat.com) 
 
 I even received some swag from ELiTE Education in exchange! 😊
 
-TODO: upload presentation
+<!-- TODO: upload presentation -->
+
+![Hour of Code 2016](https://fvcproductions.files.wordpress.com/2017/01/dsc08495.jpg)

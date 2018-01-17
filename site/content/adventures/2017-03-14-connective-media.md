@@ -1,8 +1,9 @@
 ---
-title: "Connective Media"
+title: Connective Media
 date: 2017-03-14
-description: "Material I developed while taking the 'Connective Media class at Cornell Tech."
-banner: https://i.imgur.com/8cFXnVj.jpg
+description: Material I developed while taking the 'Connective Media class at Cornell Tech.
+banner: https://github.com/fvcproductions/cmtech-assignment-1/raw/master/assets/img/screenshot.png
+embedly: true
 categories:
     - portfolio
 ---
@@ -13,11 +14,15 @@ speaker deck
 
 ## Assignment 2 - GitGuardian
 
-github
+> GitHub + Guardian News = GitGuardian
 
-website
+![GitGuardian](https://github.com/fvcproductions/cmtech-assignment-1/raw/master/assets/img/screenshot.png)
 
-behance
+<blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/cmtech-assignment-1/">GitGuardian</a></h4><p>null</p></blockquote>
+
+<blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/cmtech-assignment-1">fvcproductions/cmtech-assignment-1</a></h4><p>cmtech-assignment-1 - GitHub + Guardian News = GitGuardian</p></blockquote>
+
+<blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/50180493/GitGuardian">GitGuardian</a></h4><p>Showcase and discover the latest work from top online portfolios by creative professionals across industries.</p></blockquote>
 
 ## Assignment 3 - Stori
 
@@ -29,13 +34,4 @@ github
 
 ## Assignment 4 - Reddit's Star Dish Research`
 
-speaker deck--- title: "GitGuardian" description: "GitHub + Guardian News = GitGuardian" category: "Web" date: 2017-03-1.
-banner: https://github.com/fvcproductions/cmtech-assignment-1/raw/master/assets/img/screenshot.png
-
----
-
-<blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/cmtech-assignment-1/">GitGuardian</a></h4><p>null</p></blockquote>
-
-<blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/cmtech-assignment-1">fvcproductions/cmtech-assignment-1</a></h4><p>cmtech-assignment-1 - GitHub + Guardian News = GitGuardian</p></blockquote>
-
-<blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/50180493/GitGuardian">GitGuardian</a></h4><p>Showcase and discover the latest work from top online portfolios by creative professionals across industries.</p></blockquote>
+speaker deck

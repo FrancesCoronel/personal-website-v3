@@ -1,15 +1,8 @@
 ---
-title: "80|20 Software Consulting"
-description: "Frontend Developer"
+title: 80|20 Software Consulting
+description: Frontend Developer
 date: 2016-02-05
-banner: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/64e84044-e263-4dd1-94ac-ff1bf9a6d179.jpg
-gallery:
-    - alt: "80|20 Software Consulting"
-      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/4dfb4620-587f-486d-96fb-518bf9736736.jpg
-    - alt: "80|20 Software Consulting"
-      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/64e84044-e263-4dd1-94ac-ff1bf9a6d179.jpg
-    - alt: "80|20 Software Consulting"
-      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/norfolkjs-jan-2016-0032.jpg
+banner: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/64e84044-e263-4dd1-94ac-ff1bf9a6d179.jpg
 categories:
     - experience
 ---
@@ -52,3 +45,10 @@ November 2015 to February 5th, 2016
 <blockquote class="embedly-card"><h4><a href="//twitter.com/NorfolkJS/status/685708460743389184">Norfolk.js on Twitter</a></h4><p>This month we have @fvcproductions speaking about her experience with JS Bootcamps. But first, lightning talks!! //t.co/MxiZ2mAea3</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="//twitter.com/fvcproductions/status/730577559054778368">Frances Coronel on Twitter</a></h4><p>RevolutionConf AKA yes, there's a HUGE tech scene in the 757 ⚓️⭑⚓️ //t.co/6HALtzosFs</p></blockquote>
+
+    - alt: "80|20 Software Consulting"
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/4dfb4620-587f-486d-96fb-518bf9736736.jpg
+    - alt: "80|20 Software Consulting"
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/64e84044-e263-4dd1-94ac-ff1bf9a6d179.jpg
+    - alt: "80|20 Software Consulting"
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/norfolkjs-jan-2016-0032.jpg

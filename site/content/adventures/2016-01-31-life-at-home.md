@@ -3,9 +3,6 @@ title: "Life at Home 🏠"
 date: 2016-01-31
 description: 'A mobile user interface for an Android application that allows users to send push notifications containing common household alerts and phrases to the Android devices of their family members.'
 banner: https://i.imgur.com/8cFXnVj.jpg
-gallery:
-    - alt: "Placeholder"
-      url: https://i.imgur.com/8cFXnVj.jpg
 categories:
     - portfolio
 ---

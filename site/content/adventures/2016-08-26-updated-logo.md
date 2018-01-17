@@ -5,9 +5,6 @@ description: 'Decided to update my logo to
 reflect a more minimal and clean design that could work with any
 background.'
 banner: https://i.imgur.com/8cFXnVj.jpg
-gallery:
-    - alt: "Placeholder"
-      url: https://i.imgur.com/8cFXnVj.jpg
 categories:
     - portfolio
 ---

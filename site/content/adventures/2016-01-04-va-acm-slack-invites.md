@@ -3,9 +3,6 @@ title: "VA ACM Slack Invites 👥"
 date: 2016-01-04
 description: Meet with other ACM student members and be updated on the latest announcements to get more involved in the local tech community.
 banner: https://i.imgur.com/8cFXnVj.jpg
-gallery:
-    - alt: "Placeholder"
-      url: https://i.imgur.com/8cFXnVj.jpg
 categories:
     - portfolio
     - 2016

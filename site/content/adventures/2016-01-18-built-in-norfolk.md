@@ -3,9 +3,6 @@ title: Built in Norfolk
 date: 2016-01-18
 description: Badges for when you're hacking out in Norfolk.
 banner: https://i.imgur.com/8cFXnVj.jpg
-gallery:
-    - alt: "Placeholder"
-      url: https://i.imgur.com/8cFXnVj.jpg
 categories:
     - portfolio
 ---
@@ -74,27 +71,3 @@ Powered by 80|20
   * [`built-in-norfolk`](https://github.com/fvcproductions/built-in-norfolk)
 * **Behance Project**
   * [Built in Norfolk](https://www.behance.net/gallery/33000931/Built-in-Norfolk)
-
-## Contributing
-
-> To get started…
-
-* 🍴 Fork this repo [here](https://github.com/fvcproductions/built-in-norfolk#fork-destination-box)
-* 🔨 Hack away
-* 😊 Add yourself as a contributor
-* 🔧 Make a pull request [here](https://github.com/fvcproductions/built-in-norfolk/compare)
-
-> Or just create an issue - any little bit of help counts! 😊
-
-* 😯 Create an issue [here](https://github.com/fvcproductions/built-in-norfolk/issues)!
-
-## License
-
-2016 © [FVCproductions](https://fvcproductions.com)
-
-## Donations
-
-> Feed me… 🍕
-
-[![Donate via
-PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](https://paypal.me/fvcproductions)

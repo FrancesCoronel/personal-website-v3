@@ -1,29 +1,10 @@
 ---
-title: "Fluent Conference"
-description: "Sponsored by OReilly."
+title: Fluent Conference
+description: Sponsored by OReilly.
 date: 2016-03-10
+banner: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0526.jpg
 categories:
     - conference
-banner: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0526.jpg
-gallery:
-    - alt: "Fluent Conf"
-      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0510.jpg
-    - alt: "Fluent Conf"
-      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0491.jpg
-    - alt: "Fluent Conf"
-      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0484.jpg
-    - alt: "Fluent Conf"
-      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0520.jpg
-    - alt: "Fluent Conf"
-      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0556.jpg
-    - alt: "Fluent Conf"
-      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0527.jpg
-    - alt: "Fluent Conf"
-      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0526.jpg
-    - alt: "Fluent Conf"
-      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0502.jpg
-    - alt: "Fluent Conf"
-      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0527.jpg
 ---
 
 ## Name
@@ -65,3 +46,22 @@ in the scholarship
       $599 (USD) prepaid gift card to help offset the costs related to attending
       the conference such as travel, lodging, food, and child care; gift card
       will be awarded to recipient onsite at the conference
+
+    - alt: "Fluent Conf"
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0510.jpg
+    - alt: "Fluent Conf"
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0491.jpg
+    - alt: "Fluent Conf"
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0484.jpg
+    - alt: "Fluent Conf"
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0520.jpg
+    - alt: "Fluent Conf"
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0556.jpg
+    - alt: "Fluent Conf"
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0527.jpg
+    - alt: "Fluent Conf"
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0526.jpg
+    - alt: "Fluent Conf"
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0502.jpg
+    - alt: "Fluent Conf"
+      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0527.jpg

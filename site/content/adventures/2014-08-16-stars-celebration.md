@@ -1,21 +1,15 @@
 ---
-title: "STARS Celebration"
-description: "Conference by the STARS Computing Corps"
-category: "Conference"
+title: STARS Celebration
+description: Conference by the STARS Computing Corps
 date: 2014-08-16
-banner: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg
-gallery:
-    - alt: "STARS 2014"
-      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-84.jpg
-    - alt: "STARS 2014"
-      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg
+banner: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg
 categories:
     - conference
 ---
 
 ## Name
 
-<a title="STARS" href="//www.starscelebration.org/2014/" target="_blank" rel="noopener">STARS Celebration 2014</a>
+[STARS Celebration 2014](https://www.starscelebration.org/2014/)
 
 ## Organizer
 
@@ -42,3 +36,7 @@ The STARS celebration showcases current STARS participants and STARS alumni, as 
 Celebration provides opportunities for learning, collaborating, and networking with academic and industry partners.
 
 I attended with other students from Hampton University.
+
+![STARS 2014](https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-84.jpg)
+
+![STARS 2014](https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg)

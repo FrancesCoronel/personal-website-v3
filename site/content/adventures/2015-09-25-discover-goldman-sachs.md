@@ -1,14 +1,8 @@
 ---
 title: "Discover Goldman Sachs"
 description: "I was invited to explore careers with Goldman Sachs."
-category: "Conference"
 date: 2015-09-25
 banner: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0052.jpg
-gallery:
-  - alt: "Goldman Sachs"
-    url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0052.jpg
-  - alt: "Goldman Sachs"
-    url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0054.jpg
 categories:
     - conference
 ---
@@ -50,3 +44,8 @@ challenges
 
       awarded a first-round interview with Goldman Sachs, a spot in a
       Cornerstone event, and a $5,000 scholarship
+
+* alt: "Goldman Sachs"
+  url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0052.jpg
+* alt: "Goldman Sachs"
+  url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0054.jpg

@@ -3,9 +3,6 @@ title: "HR DevFest"
 date: 2015-11-14
 description: "My first speaking event at a tech conference!"
 banner: https://fvcproductions.files.wordpress.com/2015/11/issuetrak-conference-00831.jpg
-gallery:
-  - url: https://fvcproductions.files.wordpress.com/2015/11/issuetrak-conference-00831.jpg
-    alt: HR DevFest 2015
 categories:
     - conference
     - speaking
@@ -53,3 +50,6 @@ TODO: https://speakerdeck.com/fvcproductions/hrdevfest-web-design
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/erikpmp/status/665554118182703105">Erik Olson on Twitter</a></h4><p>Thanks @fvcproductions for letting me know about the upcoming documentary DESIGN DISRUPTORS! https://t.co/a3QvMSqkWy #hrdevfest</p></blockquote>
 
 TODO: Add more pictures to gallery
+
+* url: https://fvcproductions.files.wordpress.com/2015/11/issuetrak-conference-00831.jpg
+  alt: HR DevFest 2015

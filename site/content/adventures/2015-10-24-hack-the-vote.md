@@ -2,9 +2,6 @@
 title: "Hack the Vote 🇺🇸"
 date: 2015-10-24
 banner: https://i.imgur.com/8cFXnVj.jpg
-gallery:
-    - alt: "Placeholder"
-      url: https://i.imgur.com/8cFXnVj.jpg
 categories:
     - portfolio
 ---

@@ -1,17 +1,18 @@
-import gulp from "gulp";
-import {spawn} from "child_process";
-import hugoBin from "hugo-bin";
-import gutil from "gulp-util";
-import postcss from "gulp-postcss";
-import sass from "gulp-sass";
-import autoprefixer from "autoprefixer";
-import cssnano from "cssnano";
-import BrowserSync from "browser-sync";
-import watch from "gulp-watch";
-import webpack from "webpack";
-import webpackConfig from "./webpack.config";
-import imagemin from "gulp-imagemin";
-import del from "del";
+import autoprefixer from 'autoprefixer';
+import BrowserSync from 'browser-sync';
+import { spawn } from 'child_process';
+import cssnano from 'cssnano';
+import del from 'del';
+import gulp from 'gulp';
+import imagemin from 'gulp-imagemin';
+import postcss from 'gulp-postcss';
+import sass from 'gulp-sass';
+import gutil from 'gulp-util';
+import watch from 'gulp-watch';
+import hugoBin from 'hugo-bin';
+import webpack from 'webpack';
+
+import webpackConfig from './webpack.config';
 
 const browserSync = BrowserSync.create();
 

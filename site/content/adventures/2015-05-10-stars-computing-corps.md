@@ -3,11 +3,6 @@ title: "STARS Computing Corps"
 date: 2015-11-15
 description: "STARS Computing Corps is a community of practice for student-led regional engagement as a means to broaden participation in computing."
 banner: https://fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg
-gallery:
-    - alt: "STARS - T-Shirts"
-      url: https://fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg?w=371&h=248&zoom=2
-    - alt: "STARS - Fancy"
-      url: https://fvcproductions.files.wordpress.com/2015/11/celebration2014-84.jpg?w=371&h=248&zoom=2
 categories:
     - program
 ---
@@ -35,3 +30,7 @@ STARS Computing Corps is a community of practice for student-led regional engage
 ### Awards
 
 I was awarded a full scholarship to attend the annual [STARS Celebration conference in August 2014](https://www.starscelebration.org/2014).
+
+![STARS](https://fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg?w=371&h=248&zoom=2)
+
+![STARS](https://fvcproductions.files.wordpress.com/2015/11/celebration2014-84.jpg?w=371&h=248&zoom=2)

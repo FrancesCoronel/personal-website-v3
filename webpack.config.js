@@ -70,9 +70,7 @@ export default {
   resolve: {
     alias: {
       jquery: "jquery/src/jquery",
-      masonry: "masonry-layout",
-      isotope: "isotope-layout",
-      lightgallery: "lightgallery"
+      isotope: "isotope-layout"
     }
   },
   context: path.join(__dirname, "src"),

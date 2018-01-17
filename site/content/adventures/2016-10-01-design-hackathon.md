@@ -1,20 +1,15 @@
 ---
-title: "DesignHackathon"
-description: "The My Social Canvas DesignHackathon will bring together students who are pursuing degrees in fashion, graphic design, technology, and business in an effort to increase awareness, participation, and funding for girls in STEM programs across the country."
+title: DesignHackathon
+description: The My Social Canvas DesignHackathon will bring together students who are pursuing degrees in fashion, graphic design, technology, and business in an effort to increase awareness, participation, and funding for girls in STEM programs across the country.
 date: 2016-10-01
-categories:
-    - hackathon
 banner: https://fvcproductions.files.wordpress.com/2016/10/fullsizeoutput_29f.jpeg
-gallery:
-  - url: https://fvcproductions.files.wordpress.com/2016/10/img_2234.jpg
-    alt: Group Photo
-  - url: https://fvcproductions.files.wordpress.com/2016/10/fullsizeoutput_29f.jpeg
-    alt: Yours Truly
+categories:
+  - hackathon
 ---
 
 ## Name
 
-<a title="DesignHackathon" href="https://mysocialcanvas.com/designhackathon" target="_blank" rel="noopener">DesignHackathon</a>
+[DesignHackathon](//mysocialcanvas.com/designhackathon)
 
 ## Organizer
 
@@ -59,3 +54,7 @@ Our team submitted everything on time but in the end, they went with another tea
 <blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/the-meggs-case">The MEGGS Case</a></h4><p>MEGGS creates tech focused cases that offer beautiful and well designed protective solutions for your iPhone 7. We believe getting women interested and involved in STEM is vital to the industries and creates a well balanced and educated society.</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="https://scribd.com/document/326087214/Business-Plan-The-MEGGS-Case">Business Plan - The MEGGS Case</a></h4><p>MEGGS creates tech-focused cases that offer beautiful and well designed protective solutions for your iPhone 7. We believe getting women interested and involved in STEM is vital to the industries and creates a well balanced and educated society. Through our cases, we want to give young women and girls a tangible way to showcase their passion in interests through fashion accessories.</p></blockquote>
+
+![Group Photo](https://fvcproductions.files.wordpress.com/2016/10/img_2234.jpg)
+
+![Yours Truly](https://fvcproductions.files.wordpress.com/2016/10/fullsizeoutput_29f.jpeg)

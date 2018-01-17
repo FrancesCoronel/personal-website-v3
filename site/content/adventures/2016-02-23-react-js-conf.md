@@ -1,19 +1,10 @@
 ---
-title: "React.js Conf"
-description: "Sponsored by Facebook."
+title: React.js Conf
+description: Sponsored by Facebook.
+banner: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0413.jpg
 date: 2016-02-23
 categories:
     - conference
-banner: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0413.jpg
-gallery:
-    - alt: "React.js Conf"
-      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0419.jpg
-    - alt: "React.js Conf"
-      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0411.jpg
-    - alt: "React.js Conf"
-      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0413.jpg
-    - alt: "React.js Conf"
-      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/react-js-swag.jpg
 ---
 
 ## Name
@@ -54,3 +45,12 @@ One of 40 applicants selected.
 
       Paid registration fee for the React.js Conf Feburary 22 & 23 in downtown
       San Francisco, CAPaid lodging expenses for February 21, 22, 23
+
+    - alt: "React.js Conf"
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0419.jpg
+    - alt: "React.js Conf"
+      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0411.jpg
+    - alt: "React.js Conf"
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0413.jpg
+    - alt: "React.js Conf"
+      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/react-js-swag.jpg

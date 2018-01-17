@@ -3,17 +3,14 @@ title: Operation Smile - Maury High School
 description: Volunteered for Operation Smile all throughout high school.
 date: 2013-08-02
 banner: https://fvcproductions.files.wordpress.com/2015/11/img_0848.jpg
-gallery:
-  - url: https://fvcproductions.files.wordpress.com/2015/11/img_0848.jpg
-    alt: Operation Smile at Maury High
-tags:
-    - high school
-    - high school volunteering
-    - Maury High School
-    - op smile
-    - operation smile
 categories:
-    - volunteering
+  - volunteering
+tags:
+  - high school
+  - high school volunteering
+  - Maury High School
+  - op smile
+  - operation smile
 ---
 
 ![Operation Smile - Conference Logo](https://fvcproductions.files.wordpress.com/2015/11/conferencelogos-002-copy.png)
@@ -69,3 +66,5 @@ Member, Vice President, Co-President
 <blockquote class="embedly-card"><h4><a href="https://www.operationsmile.org/act-now/student-youth">Students & Youth</a></h4><p>Not only do our student volunteers learn the power of community and compassion, they learn they can indeed change the world for the better. Through Operation Smile, students have opportunities to serve others, to be leaders, to learn different cultures and to trust their capabilities.</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="https://biogirl757.weebly.com/operation-smile-club.html">Operation Smile Club</a></h4><p>01 October 2014: Our next meeting will be Thursday, October 9th at 2:15 in room 317.</p></blockquote>
+
+![Operation Smile at Maury High](https://fvcproductions.files.wordpress.com/2015/11/img_0848.jpg)

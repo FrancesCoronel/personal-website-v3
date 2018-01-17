@@ -2842,8 +2842,7 @@ Program  Advanced Diploma - High School Medical Health &amp;amp; Specialty Progr
       <pubDate>Thu, 06 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>/2013/06/06/pursuit-of-knowledge/</guid>
-      <description>{% include figure url=&amp;ldquo;https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png&amp;quot; alt=&amp;ldquo;The Pursuit of Knowledge&amp;rdquo; %}
-Pursuit of KnowledgeEnd of Year English ProjectPursuit of KnowledgeFVCproductionsCreated 2013Dedicated to Mrs.Cook
+      <description>Pursuit of KnowledgeEnd of Year English ProjectPursuit of KnowledgeFVCproductionsCreated 2013Dedicated to Mrs.Cook
  Pursuit of Knowledge by Frances Coronel on iBooksRead a free sample or buy Pursuit of Knowledge by Frances Coronel. You can read this book with iBooks on your iPhone, iPad, iPod touch, or Mac.
  About Essentially, Pursuit of Knowledge explores various mediums where the plot and theme relation are similar in that they each explore how humans are consistently aiming to create a creature more powerful than themselves and the consequences that can be faced from that decision.</description>
     </item>
@@ -3122,7 +3121,8 @@ Credits  CMS  Hugo  Hosting  Netlify  Dependencies  HTML5 UP Skel Embedly  Twemo
       
       <guid>/contact/</guid>
       <description> Go old school and use this nifty contact form!
-           EngtChat.init({&#34;bot_key&#34;: &#34;48eb665693764723&#34;, &#34;e&#34;:&#34;p&#34;, &#34;bot_name&#34;:&#34;FVCproductions&#34;,&#34;welcome_msg&#34;:true}); -- </description>
+          If you&amp;rsquo;d like to set up a meeting, use my [Calendly][https://calendly.com/fvcproductions].
+ EngtChat.init({&#34;bot_key&#34;: &#34;48eb665693764723&#34;, &#34;e&#34;:&#34;p&#34;, &#34;bot_name&#34;:&#34;FVCproductions&#34;,&#34;welcome_msg&#34;:true}); -- </description>
     </item>
     
     <item>
@@ -3146,20 +3146,20 @@ To get a better idea of what I have to offer, feel free to look through a few sa
     </item>
     
     <item>
+      <title>GitHub</title>
+      <link>/portfolio/1/01/01/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/1/01/01/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GitHub Repo 🔧️</title>
       <link>/about/github-repo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/github-repo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GitHub 🔧️</title>
-      <link>/portfolio/1/01/01/github-%EF%B8%8F/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/1/01/01/github-%EF%B8%8F/</guid>
       <description></description>
     </item>
     

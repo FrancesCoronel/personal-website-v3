@@ -1,24 +1,10 @@
 ---
 title: "TAPIA 2015"
 description: "ACM Richard Tapia Celebration of Diversity in Computing Conference"
-category: "Conference"
 date: 2015-02-21
-banner: //fvcproductions.files.wordpress.com/2015/02/11193236_10205024245979886_9129577345082938607_n.jpg
-gallery:
-  - alt: "TAPIA"
-    url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/02/scholarship-reception.jpg
-  - alt: "TAPIA"
-    url: //fvcproductions.files.wordpress.com/2015/02/11193236_10205024245979886_9129577345082938607_n.jp
-  - alt: "TAPIA"
-    url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/02/hic-people.jpg
-  - alt: "TAPIA"
-    url: //i0.wp.com/fvcproductions.files.wordpress.com/2015/02/hic-pres.jpg
-  - alt: "TAPIA"
-    url: //i0.wp.com/fvcproductions.files.wordpress.com/2015/03/tapia-2015-001.jpg
-  - alt: "TAPIA"
-    url: //i1.wp.com/fvcproductions.files.wordpress.com/2015/02/my-lanyard1.jpg
+banner: https://fvcproductions.files.wordpress.com/2015/02/11193236_10205024245979886_9129577345082938607_n.jpg
 categories:
-    - conference
+  - conference
 ---
 
 ## Name
@@ -62,3 +48,10 @@ link: '//tapiaconference.org/'
 notes: >-
 Scholarship includes conference registration, shared hotel with another
 scholarship recipient and $500 travel award.
+
+![TAPIA 2015](https://i2.wp.com/fvcproductions.files.wordpress.com/2015/02/scholarship-reception.jpg)
+![TAPIA 2015](https://fvcproductions.files.wordpress.com/2015/02/11193236_10205024245979886_9129577345082938607_n.jp)
+![TAPIA 2015](https://i1.wp.com/fvcproductions.files.wordpress.com/2015/02/hic-people.jpg)
+![TAPIA 2015](https://i0.wp.com/fvcproductions.files.wordpress.com/2015/02/hic-pres.jpg)
+![TAPIA 2015](https://i0.wp.com/fvcproductions.files.wordpress.com/2015/03/tapia-2015-001.jpg)
+![TAPIA 2015](https://i1.wp.com/fvcproductions.files.wordpress.com/2015/02/my-lanyard1.jpg)

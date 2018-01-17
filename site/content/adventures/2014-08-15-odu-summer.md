@@ -3,9 +3,6 @@ title: "Old Dominion University - Summer 2014"
 description: "Took one course during the summer of 2014 term at Old Dominion University tthrough their dual enrollment program."
 date: 2014-08-15
 banner: https://fvcproductions.files.wordpress.com/2017/01/odu.jpeg
-gallery:
-    - alt: "Old Dominion University - Summer 2014"
-      url: https://fvcproductions.files.wordpress.com/2017/01/odu.jpeg
 categories:
     - education
 ---
@@ -35,3 +32,5 @@ I took one course during the summer of 2014 term at Old Dominion University thro
 ### Courses
 
 * MATH 212 - Calculus II
+
+![Old Dominion University - Summer 2014](https://fvcproductions.files.wordpress.com/2017/01/odu.jpeg)

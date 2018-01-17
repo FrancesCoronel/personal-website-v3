@@ -2111,14 +2111,14 @@
   </url>
   
   <url>
-    <loc>/categories/blog/</loc>
-    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
+    <loc>/tags/blog/</loc>
+    <lastmod>2013-09-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/blog/</loc>
-    <lastmod>2013-09-20T00:00:00+00:00</lastmod>
+    <loc>/categories/blog/</loc>
+    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2199,14 +2199,14 @@
   </url>
   
   <url>
-    <loc>/categories/bootcamps/</loc>
-    <lastmod>2016-02-05T00:00:00+00:00</lastmod>
+    <loc>/tags/bootcamps/</loc>
+    <lastmod>2015-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/bootcamps/</loc>
-    <lastmod>2015-02-15T00:00:00+00:00</lastmod>
+    <loc>/categories/bootcamps/</loc>
+    <lastmod>2016-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2633,14 +2633,14 @@
   </url>
   
   <url>
-    <loc>/categories/coding/</loc>
-    <lastmod>2014-12-27T00:00:00+00:00</lastmod>
+    <loc>/tags/coding/</loc>
+    <lastmod>2015-12-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/coding/</loc>
-    <lastmod>2015-12-07T00:00:00+00:00</lastmod>
+    <loc>/categories/coding/</loc>
+    <lastmod>2014-12-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2833,14 +2833,14 @@
   </url>
   
   <url>
-    <loc>/categories/conference/</loc>
-    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
+    <loc>/tags/conference/</loc>
+    <lastmod>2016-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/conference/</loc>
-    <lastmod>2016-05-13T00:00:00+00:00</lastmod>
+    <loc>/categories/conference/</loc>
+    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2933,14 +2933,14 @@
   </url>
   
   <url>
-    <loc>/categories/creativity/</loc>
-    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+    <loc>/tags/creativity/</loc>
+    <lastmod>2015-03-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/creativity/</loc>
-    <lastmod>2015-03-12T00:00:00+00:00</lastmod>
+    <loc>/categories/creativity/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3167,14 +3167,14 @@
   </url>
   
   <url>
-    <loc>/categories/design/</loc>
-    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+    <loc>/tags/design/</loc>
+    <lastmod>2015-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/design/</loc>
-    <lastmod>2015-10-21T00:00:00+00:00</lastmod>
+    <loc>/categories/design/</loc>
+    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3573,14 +3573,14 @@
   </url>
   
   <url>
-    <loc>/categories/experience/</loc>
-    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+    <loc>/tags/experience/</loc>
+    <lastmod>2015-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/experience/</loc>
-    <lastmod>2015-08-30T00:00:00+00:00</lastmod>
+    <loc>/categories/experience/</loc>
+    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4093,11 +4093,11 @@
   </url>
   
   <url>
-    <loc>/about/github-repo/</loc>
+    <loc>/portfolio/1/01/01/github/</loc>
   </url>
   
   <url>
-    <loc>/portfolio/1/01/01/github-%EF%B8%8F/</loc>
+    <loc>/about/github-repo/</loc>
   </url>
   
   <url>
@@ -4525,14 +4525,14 @@
   </url>
   
   <url>
-    <loc>/categories/hourofcode/</loc>
-    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
+    <loc>/tags/hourofcode/</loc>
+    <lastmod>2015-12-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/hourofcode/</loc>
-    <lastmod>2015-12-07T00:00:00+00:00</lastmod>
+    <loc>/categories/hourofcode/</loc>
+    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4669,13 +4669,13 @@
   </url>
   
   <url>
-    <loc>/categories/imovie101/</loc>
+    <loc>/tags/imovie101/</loc>
     <lastmod>2012-01-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/imovie101/</loc>
+    <loc>/categories/imovie101/</loc>
     <lastmod>2012-01-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -6647,14 +6647,14 @@
   </url>
   
   <url>
-    <loc>/categories/program/</loc>
-    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
+    <loc>/tags/program/</loc>
+    <lastmod>2014-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/program/</loc>
-    <lastmod>2014-03-03T00:00:00+00:00</lastmod>
+    <loc>/categories/program/</loc>
+    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6945,14 +6945,14 @@
   </url>
   
   <url>
-    <loc>/categories/research/</loc>
-    <lastmod>2014-09-14T00:00:00+00:00</lastmod>
+    <loc>/tags/research/</loc>
+    <lastmod>2015-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/research/</loc>
-    <lastmod>2015-01-30T00:00:00+00:00</lastmod>
+    <loc>/categories/research/</loc>
+    <lastmod>2014-09-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7021,14 +7021,14 @@
   </url>
   
   <url>
-    <loc>/categories/review/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+    <loc>/tags/review/</loc>
+    <lastmod>2016-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/review/</loc>
-    <lastmod>2016-02-27T00:00:00+00:00</lastmod>
+    <loc>/categories/review/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

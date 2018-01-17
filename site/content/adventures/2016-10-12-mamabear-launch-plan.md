@@ -3,9 +3,6 @@ title: "MamaBear Launch Plan 🐻"
 date: 2016-10-12
 description: Worked with 4 other team members to create launch plan and presentation for a product. Presented to professors for Business for Non-Business class at Cornell Tech (NBAY 5500)
 banner: https://i.imgur.com/8cFXnVj.jpg
-gallery:
-    - alt: "Placeholder"
-      url: https://i.imgur.com/8cFXnVj.jpg
 categories:
     - portfolio
 ---

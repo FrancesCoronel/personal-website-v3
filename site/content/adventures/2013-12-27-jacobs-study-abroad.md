@@ -3,31 +3,6 @@ title: "Jacobs University Bremen - Fall 2013"
 description: "Jacobs University is a private international research university with a residential campus in Bremen, Germany."
 date: 2013-12-27
 banner: https://i1.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-5.jpg?w=247&h=330&crop&ssl=1&zoom=2
-gallery:
-    - alt: "Jacobs University Bremen"
-      url: https://i0.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-10.jpg?w=515&h=344&crop&ssl=1&zoom=2
-    - alt: "Jacobs University Bremen"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-6.jpg?w=227&h=170&crop&ssl=1&zoom=2
-    - alt: "Jacobs University Bremen"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-9.jpg?w=227&h=170&crop&ssl=1&zoom=2
-    - alt: "Jacobs University Bremen"
-      url: https://i0.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-8.jpg?w=495&h=330&crop&ssl=1&zoom=2
-    - alt: "Jacobs University Bremen"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-5.jpg?w=247&h=330&crop&ssl=1&zoom=2
-    - alt: "Jacobs University Bremen"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-4.jpg?w=246&h=164&crop&ssl=1&zoom=2
-    - alt: "Jacobs University Bremen"
-      url: https://i0.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-2.jpg?w=246&h=164&crop&ssl=1&zoom=2s
-    - alt: "Jacobs University Bremen"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-13.jpg?w=246&h=164&crop&ssl=1&zoom=2
-    - alt: "Jacobs University Bremen"
-      url: https://i2.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-16.jpg?w=193&h=144&crop&ssl=1&zoom=2
-    - alt: "Jacobs University Bremen"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-14.jpg?w=217&h=144&crop&ssl=1&zoom=2
-    - alt: "Jacobs University Bremen"
-      url: https://i1.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-7.jpg?w=108&h=144&crop&ssl=1&zoom=2
-    - alt: "Jacobs University Bremen"
-      url: https://i0.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-12.jpg?w=216&h=144&crop&ssl=1&zoom=2
 categories:
     - education
 ---
@@ -81,6 +56,30 @@ I received a generous merit scholarship to attend and study computer science. Wh
 #### Academic & Professional Skills
 
 * Business Etiquette Seminar
+
+![Jacobs University Bremen](https://i0.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-10.jpg?w=515&h=344&crop&ssl=1&zoom=2)
+
+![Jacobs University Bremen](https://i2.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-6.jpg?w=227&h=170&crop&ssl=1&zoom=2)
+
+![Jacobs University Bremen](https://i2.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-9.jpg?w=227&h=170&crop&ssl=1&zoom=2)
+
+![Jacobs University Bremen](https://i0.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-8.jpg?w=495&h=330&crop&ssl=1&zoom=2)
+
+![Jacobs University Bremen](https://i1.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-5.jpg?w=247&h=330&crop&ssl=1&zoom=2)
+
+![Jacobs University Bremen](https://i1.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-4.jpg?w=246&h=164&crop&ssl=1&zoom=2)
+
+![Jacobs University Bremen](https://i0.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-2.jpg?w=246&h=164&crop&ssl=1&zoom=2s)
+
+![Jacobs University Bremen](https://i1.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-13.jpg?w=246&h=164&crop&ssl=1&zoom=2)
+
+![Jacobs University Bremen](https://i2.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-16.jpg?w=193&h=144&crop&ssl=1&zoom=2)
+
+![Jacobs University Bremen](https://i1.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-14.jpg?w=217&h=144&crop&ssl=1&zoom=2)
+
+![Jacobs University Bremen](https://i1.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-7.jpg?w=108&h=144&crop&ssl=1&zoom=2)
+
+![Jacobs University Bremen](https://i0.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-12.jpg?w=216&h=144&crop&ssl=1&zoom=2)
 
 ---
 
