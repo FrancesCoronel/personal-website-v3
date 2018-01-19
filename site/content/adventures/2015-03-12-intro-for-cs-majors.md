@@ -1,5 +1,5 @@
 ---
-title: "An Intro for CS Majors 📘"
+title: An Intro for CS Majors 📘
 date: 2015-03-12
 banner: https://i.imgur.com/8cFXnVj.jpg
 categories:

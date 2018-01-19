@@ -2,10 +2,11 @@
 title: "TreeHacks"
 description: "At TreeHacks, everything's chill but the weather."
 date: 2016-02-14
-categories:
-    - hackathon
-    - portfolio
 banner: https://fvcproductions.files.wordpress.com/2016/02/12771707_1076383859078958_1519560316826557331_o.jpg
+embedly: true
+categories:
+  - hackathon
+  - portfolio
 ---
 
 ## Name

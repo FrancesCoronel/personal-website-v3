@@ -1,12 +1,12 @@
 ---
 title: Pursuit of Knowledge
 description: I created this iBook for my AP English Literature class.
-categories:
-    - portfolio
-    - book
 date: 2013-06-06
 banner: https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-18.png?w=246&h=179&zoom=2
 embedly: true
+categories:
+  - portfolio
+  - book
 ---
 
 ![The Pursuit of Knowledge](https://fvcproductions.files.wordpress.com/2016/01/the-pursuit-of-knowledge-14.png)

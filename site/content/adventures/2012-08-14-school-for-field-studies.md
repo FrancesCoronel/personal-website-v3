@@ -3,9 +3,10 @@ title: School for Field Studies
 date: 2012-08-14
 description: Studied Wildlife Research Techniques in Tanzania during the summer of 2012.
 banner: https://fvcproductions.files.wordpress.com/2015/11/461956_476846202328099_271376704_o.jpg
+embedly: true
 categories:
-    - program
-    - education
+  - program
+  - education
 ---
 
 ## Name

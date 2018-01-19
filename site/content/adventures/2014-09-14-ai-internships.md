@@ -1,10 +1,10 @@
 ---
-title: "Undergrad A.I. Internships"
+title: Undergrad A.I. Internships
 date: 2014-09-14
 banner: https://i.imgur.com/8cFXnVj.jpg
 categories:
-    - portfolio
-    - research
+  - portfolio
+  - research
 ---
 
 [![Briefcase Icon](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png)](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png)

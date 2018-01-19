@@ -1,5 +1,5 @@
 ---
-title: "Cornell Tech Logos 🎓"
+title: Cornell Tech Logos 🎓
 date: 2016-10-04
 description: All the Cornell Tech logos in one place.
 banner: https://i.imgur.com/8cFXnVj.jpg

@@ -3,6 +3,7 @@ title: Accenture Liquid Studio - Summer 2016
 description: Wearables Developer
 date: 2016-08-12
 banner: https://fvcproductions.files.wordpress.com/2016/07/accentureslc-1.jpeg
+embedly: true
 categories:
   - experience
 ---

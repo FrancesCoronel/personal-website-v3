@@ -1,10 +1,10 @@
 ---
-title: "Product Studio 🔥"
+title: Product Studio 🔥
 date: 2016-11-18
 description: How might we create a safe place for people of all backgrounds to discuss important local, national, and global issues?
 banner: https://github.com/fvcproductions/nyt-comm/raw/master/img/banner/ct+nytimes-white.png
 categories:
-    - portfolio
+  - portfolio
 ---
 
 ![](https://github.com/fvcproductions/nyt-comm/raw/master/img/banner/ct+nytimes-white.png)

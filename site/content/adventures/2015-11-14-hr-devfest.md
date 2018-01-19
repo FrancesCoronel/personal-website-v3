@@ -3,10 +3,11 @@ title: "HR DevFest"
 date: 2015-11-14
 description: "My first speaking event at a tech conference!"
 banner: https://fvcproductions.files.wordpress.com/2015/11/issuetrak-conference-00831.jpg
+embedly: true
 categories:
-    - conference
-    - speaking
-    - webdesign
+  - conference
+  - speaking
+  - webdesign
 ---
 
 ## Name

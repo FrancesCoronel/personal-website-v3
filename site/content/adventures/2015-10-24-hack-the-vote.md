@@ -1,13 +1,12 @@
 ---
-title: "Hack the Vote 🇺🇸"
+title: Hack the Vote 🇺🇸
 date: 2015-10-24
 banner: https://i.imgur.com/8cFXnVj.jpg
 categories:
-    - portfolio
+  - portfolio
 ---
 
-[![Hack to
-Vote](https://rcodonnell.github.io/code4hr-voting/src/img/favicons/favicon-114.png)](https://rcodonnell.github.io/code4hr-voting/ "Hack to Vote")
+[![Hack to Vote](https://rcodonnell.github.io/code4hr-voting/src/img/favicons/favicon-114.png)](https://rcodonnell.github.io/code4hr-voting/ "Hack to Vote")
 
 ## Check out the app at [`rcodonnell.github.io/code4hr-voting`](https://rcodonnell.github.io/code4hr-voting/)
 

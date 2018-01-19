@@ -1,12 +1,10 @@
 ---
-title: "FVCproductions - Updated Logo 🍓"
+title: FVCproductions - Updated Logo 🍓
 date: 2016-08-26
-description: 'Decided to update my logo to
-reflect a more minimal and clean design that could work with any
-background.'
+description: Decided to update my logo to reflect a more minimal and clean design that could work with any background.
 banner: https://i.imgur.com/8cFXnVj.jpg
 categories:
-    - portfolio
+  - portfolio
 ---
 
 ## Decided to update my logo to reflect a more minimal and clean design that could work with any background. I also made sure there were different versions with certain amounts of text (none, bottom, side).

@@ -5,7 +5,7 @@ description: Material I developed while taking the 'Connective Media class at Co
 banner: https://github.com/fvcproductions/cmtech-assignment-1/raw/master/assets/img/screenshot.png
 embedly: true
 categories:
-    - portfolio
+  - portfolio
 ---
 
 ## Assignment 1 - Building Successful Online Communities

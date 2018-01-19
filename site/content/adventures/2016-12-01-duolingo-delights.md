@@ -1,10 +1,11 @@
 ---
-title: "Duolingo Delights 🎁"
+title: Duolingo Delights 🎁
 date: 2016-12-01
 description: Surprise yourself with Delights. Learn the language, explore the culture.
 banner: https://fvcproductions.files.wordpress.com/2016/12/duolingo-revised-product-school-001.jpeg
+embedly: true
 categories:
-    - portfolio
+  - portfolio
 ---
 
 As part of the interview process for [Duolingo](https://duolingo.com), I created this slide deck for a product task that Duolingo could achieve by 1–4 engineers in 3–6 months.

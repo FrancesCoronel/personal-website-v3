@@ -4,7 +4,7 @@ date: 2017-01-13
 description: Created a simple to-do app in Laravel 5.3 using Homestead.
 banner: https://i.imgur.com/8cFXnVj.jpg
 categories:
-    - portfolio
+  - portfolio
 ---
 
 Created a simple to-do app in Laravel 5.3 using Homestead.

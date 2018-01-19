@@ -3,8 +3,9 @@ title: "Hoya Hacks"
 description: "Hoya Hacks is Georgetown University's first-ever intercollegiate hackathon."
 date: 2016-01-31
 banner: https://fvcproductions.files.wordpress.com/2016/01/banner.png
+embedly: true
 categories:
-    - hackathon
+  - hackathon
 ---
 
 # Name

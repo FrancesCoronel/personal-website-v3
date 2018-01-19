@@ -1,10 +1,10 @@
 ---
-title: "MamaBear Launch Plan 🐻"
+title: MamaBear Launch Plan 🐻
 date: 2016-10-12
 description: Worked with 4 other team members to create launch plan and presentation for a product. Presented to professors for Business for Non-Business class at Cornell Tech (NBAY 5500)
 banner: https://i.imgur.com/8cFXnVj.jpg
 categories:
-    - portfolio
+  - portfolio
 ---
 
 Worked with 4 other team members to create launch plan and presentation for a product. Presented to professors for Business for Non-Business class at Cornell Tech (NBAY 5500).
@@ -25,7 +25,7 @@ This will allow Splash to acquire more users by providing them an all-inclusive 
 
 ### Plan
 
-\[scribd id=328088038 key=key-YUCHhqjhWvGhuXMtl0Ts mode=scroll\]
+[scribd id=328088038 key=key-YUCHhqjhWvGhuXMtl0Ts mode=scroll\]
 
 ### Presentation
 

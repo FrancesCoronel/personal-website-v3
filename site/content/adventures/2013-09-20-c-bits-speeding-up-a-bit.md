@@ -1,23 +1,24 @@
 ---
-title: "C Bits - Speeding Up A Bit 🚤"
+title: C Bits - Speeding Up A Bit 🚤
 date: 2013-09-20
 description: The 2nd part in a mini-series for beginners in C.
-banner: //fvcproductions.files.wordpress.com/2013/09/banners-001.jpg?w=1024&h=436&crop=1
-tags:
-    - c++
-    - celsius to fahrenheit
-    - computer
-    - digital hieroglyphics
-    - Fahrenheit
-    - gaming
-    - Hexadecimal
-    - hexadecimal numbers
-    - integer
-    - Keyboard instrument
-    - Memory address
-    - Pointer
+banner: https://fvcproductions.files.wordpress.com/2013/09/banners-001.jpg?w=1024&h=436&crop=1
+embedly: true
 categories:
-    - blog
+  - blog
+tags:
+  - c++
+  - celsius to fahrenheit
+  - computer
+  - digital hieroglyphics
+  - Fahrenheit
+  - gaming
+  - Hexadecimal
+  - hexadecimal numbers
+  - integer
+  - Keyboard instrument
+  - Memory address
+  - Pointer
 ---
 
 ## Hello. Hello. Hello

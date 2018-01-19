@@ -1,10 +1,11 @@
 ---
-title: "Designlab"
+title: Designlab
 date: 2015-10-09
-description: "AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines."
+description: AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines.
 banner: https://fvcproductions.files.wordpress.com/2015/10/newbanners.jpg
+embedly: true
 categories:
-    - program
+  - program
 ---
 
 ## Name

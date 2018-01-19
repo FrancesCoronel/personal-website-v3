@@ -1,10 +1,10 @@
 ---
-title: "Cute Things We Do ❤"
+title: Cute Things We Do ❤
 date: 2017-01-30
 description: Cute Things We Do is a collaboration between Frances Coronel and Nolan Kovacik.
 banner: https://i.imgur.com/8cFXnVj.jpg
 categories:
-    - portfolio
+  - portfolio
 ---
 
 My boyfriend and I hope to take on clients in the future as part of our new freelancing initiative - **Cute Things We Do**.

@@ -3,6 +3,7 @@ title: Operation Smile - Maury High School
 description: Volunteered for Operation Smile all throughout high school.
 date: 2013-08-02
 banner: https://fvcproductions.files.wordpress.com/2015/11/img_0848.jpg
+embedly: true
 categories:
   - volunteering
 tags:

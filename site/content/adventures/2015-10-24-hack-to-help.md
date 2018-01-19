@@ -1,10 +1,11 @@
 ---
-title: "Hack to Help Hampton Roads"
-description: "Our team created Hack the Vote at Hack to Help HR at Dominion Enterprises."
+title: Hack to Help Hampton Roads
+description: Our team created Hack the Vote at Hack to Help HR at Dominion Enterprises.
 date: 2015-10-24
 banner: https://fvcproductions.files.wordpress.com/2015/11/csaxal9uyaypho3.jpg
+embedly: true
 categories:
-    - hackathon
+  - hackathon
 ---
 
 ## Name

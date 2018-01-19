@@ -3,6 +3,7 @@ title: DesignHackathon
 description: The My Social Canvas DesignHackathon will bring together students who are pursuing degrees in fashion, graphic design, technology, and business in an effort to increase awareness, participation, and funding for girls in STEM programs across the country.
 date: 2016-10-01
 banner: https://fvcproductions.files.wordpress.com/2016/10/fullsizeoutput_29f.jpeg
+embedly: true
 categories:
   - hackathon
 ---

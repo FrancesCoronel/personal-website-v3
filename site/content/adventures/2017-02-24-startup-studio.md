@@ -1,10 +1,11 @@
 ---
-title: "Startup Studio"
+title: Startup Studio
 date: 2017-02-24
-description: "Projects from Startup Studio."
+description: Projects from Startup Studio.
 banner: https://media.githubusercontent.com/media/fvcproductions/venus-co/assets/images/logos/mora/type.png
+embedly: true
 categories:
-    - portfolio
+  - portfolio
 ---
 
 ## Overview

@@ -1,10 +1,10 @@
 ---
-title: "Jeopardy Template 📁"
+title: Jeopardy Template 📁
 date: 2015-03-01
 description: A free Jeopardy template you can use with Google Slides or Keynote.
 banner: https://i.imgur.com/8cFXnVj.jpg
 categories:
-    - portfolio
+  - portfolio
 ---
 
 > These two templates can be used by anybody to create their own Jeopardy game.

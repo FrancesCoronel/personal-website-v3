@@ -1,9 +1,9 @@
 ---
-title: "Robopocalypse 🤖"
+title: Robopocalypse 🤖
 date: 2015-08-05
 banner: https://i.imgur.com/8cFXnVj.jpg
 categories:
-    - portfolio
+  - portfolio
 ---
 
 [![About Page -

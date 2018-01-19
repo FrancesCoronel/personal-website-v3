@@ -1,9 +1,9 @@
 ---
-title: "Bootcamp.me - Google Map 📍"
+title: Bootcamp.me - Google Map 📍
 date: 2014-12-28
 banner: https://i.imgur.com/8cFXnVj.jpg
 categories:
-    - portfolio
+  - portfolio
 ---
 
 TODO: [gallery type="rectangular" ids="2737,2768,2771,2770"\]
