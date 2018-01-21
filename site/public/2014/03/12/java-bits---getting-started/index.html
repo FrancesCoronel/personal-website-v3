@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+
+<head>
+  <title>Java Bits - Getting Started</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="DC.title" content="Java Bits - Getting Started">
+  <meta name="DC.description" content="The first bit in a mini-series for beginners in Java.">
+  <meta name="DC.creator" content="Frances Coronel">
+  <meta name="DC.language" content="en">
+  <meta name="DC.publisher" content="Frances Coronel">
+  <meta name="DC.subject" content="bits,digital,hieroglyphics,equations,fvcproductions,initializing,java,java,intro,java program,java programming,math functions,math java,pow,result,results,">
+  
+  <meta charset="utf-8">
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="HandheldFriendly" content="True">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0">
+<meta name="application-name" content="Java Bits - Getting Started">
+<meta name="msapplication-window" content="width=device-width;height=device-height">
+<meta name="msapplication-tooltip" content=" The first bit in a mini-series for beginners in Java. ">
+<meta name="title" content="Java Bits - Getting Started">
+<meta name="description" content=" The first bit in a mini-series for beginners in Java. ">
+<meta name="image" content="https://fvcproductions.com/assets/img/teaser.png">
+<meta name="robots" content="index, follow">
+<meta itemprop="name" content="Java Bits - Getting Started">
+<meta itemprop="description" content=" The first bit in a mini-series for beginners in Java. ">
+<meta itemprop="image" content="https://fvcproductions.com/assets/img/teaser.png">
+
+<meta property="og:title" content="FVCproductions">
+<meta property="og:description" content=" The first bit in a mini-series for beginners in Java. ">
+<meta property="og:image" content="https://fvcproductions.com/assets/img/teaser.png">
+<meta property="og:image:width" content="1050">
+<meta property="og:image:height" content="600">
+<meta property="og:url" content="https://fvcproductions.com/">
+<meta property="og:site_name" content="Java Bits - Getting Started">
+<meta property="og:locale" content="en">
+<meta property="og:type" content="website">
+<meta property="og:description" content=" The first bit in a mini-series for beginners in Java. ">
+
+<meta name="twitter:site" content="@fvcproductions">
+<meta name="twitter:title" content="FVCproductions">
+<meta name="twitter:description" content=" The first bit in a mini-series for beginners in Java. ">
+<meta name="twitter:url" content="https://fvcproductions.com/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://fvcproductions.com/assets/img/teaser.png">
+<meta name="twitter:image:src" content="https://fvcproductions.com/assets/img/teaser.png">
+<meta name="twitter:creator" content="@fvcproductions">
+
+<link rel="preconnect" href="https://fvcproductions.com/">
+
+<link rel="canonical" href="/2014/03/12/java-bits---getting-started/">
+
+
+
+ 
+<link rel="prefetch" href="/2014/03/12/interview-with-bitmaker-labs/">
+<link rel="prerender" href="/2014/03/12/interview-with-bitmaker-labs/">  
+<link rel="prefetch" href="/2014/03/12/python-bits---getting-started/">
+<link rel="prerender" href="/2014/03/12/python-bits---getting-started/">  
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Java Bits - Getting Started"/>
+<meta name="twitter:description" content="The first bit in a mini-series for beginners in Java."/>
+<meta name="twitter:site" content="@fvcproductions"/>
+
+
+<meta property="og:title" content="Java Bits - Getting Started" />
+<meta property="og:description" content="The first bit in a mini-series for beginners in Java." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2014/03/12/java-bits---getting-started/" />
+
+
+
+<meta property="article:published_time" content="2014-03-12T00:00:00&#43;00:00"/>
+
+<meta property="article:modified_time" content="2014-03-12T00:00:00&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="Java Bits - Getting Started">
+<meta itemprop="description" content="The first bit in a mini-series for beginners in Java.">
+
+
+<meta itemprop="datePublished" content="2014-03-12T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2014-03-12T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="1500">
+
+
+
+<meta itemprop="keywords" content="bits,digital,hieroglyphics,equations,fvcproductions,initializing,java,java,intro,java program,java programming,math functions,math java,pow,result,results," />
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+
+  
+  <link rel="apple-touch-icon-precomposed" href="/assets/img/favicons/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/favicons/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/img/favicons/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/favicons/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/img/favicons/apple-touch-icon-152x152-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/img/favicons/apple-touch-icon-180x180-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/img/favicons/apple-touch-icon-57x57-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/assets/img/favicons/apple-touch-icon-60x60-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/favicons/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/img/favicons/apple-touch-icon-76x76-precomposed.png">
+<link rel="apple-touch-icon" href="/assets/img/favicons/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/img/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/img/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/img/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/img/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicons/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/img/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/img/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/img/favicons/apple-touch-icon-76x76.png">
+<link rel="icon" sizes="144x144" type="image/png" href="/assets/img/favicons/android-chrome-144x144.png">
+<link rel="icon" sizes="16x16 32x32" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" sizes="16x16" type="image/png" href="/assets/img/favicons/favicon-16x16.png">
+<link rel="icon" sizes="192x192" type="image/png" href="/assets/img/favicons/android-chrome-192x192.png">
+<link rel="icon" sizes="256x256" type="image/png" href="/assets/img/favicons/android-chrome-256x256.png">
+<link rel="icon" sizes="32x32" type="image/png" href="/assets/img/favicons/favicon-32x32.png">
+<link rel="icon" sizes="36x36" type="image/png" href="/assets/img/favicons/android-chrome-36x36.png">
+<link rel="icon" sizes="384x384" type="image/png" href="/assets/img/favicons/android-chrome-384x384.png">
+<link rel="icon" sizes="48x48" type="image/png" href="/assets/img/favicons/android-chrome-48x48.png">
+<link rel="icon" sizes="512x512" type="image/png" href="/assets/img/favicons/android-chrome-512x512.png">
+<link rel="icon" sizes="72x72" type="image/png" href="/assets/img/favicons/android-chrome-72x72.png">
+<link rel="icon" sizes="96x96" type="image/png" href="/assets/img/favicons/android-chrome-96x96.png">
+<link rel="mask-icon" color="#253137" href="/assets/img/favicons/safari-pinned-tab.svg">
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="Java Bits - Getting Started">
+<meta name="application-name" content="Java Bits - Getting Started">
+<meta name="msapplication-TileColor" content="#253137">
+<meta name="msapplication-TileImage" content="/assets/img/favicons/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+  
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+  
+  
+  
+  <link rel="manifest" href="/manifest.json" />
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+  <script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(function () {
+      OneSignal.init({
+        appId: "7bc782bf-6ee1-4373-8d1d-1346aba3b9ff",
+      });
+    });
+
+  </script>
+</head>
+
+<body>
+  
+  <div id="wrapper">
+    
+    
+<header id="header">
+  <div class="inner">
+    
+    <a href="/" class="logo">
+      <span class="symbol">
+        <img src="/assets/img/logo.svg" alt="FVCproductions - Logo">
+      </span>
+      <span class="title">FVCproductions</span>
+    </a>
+    
+    <nav>
+      <ul>
+        <li>
+          <a href="#menu">Menu</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+    
+    
+<nav id="menu">
+  <h2>Menu</h2>
+  <ul>
+    
+    <li>
+      <p>
+        <b>
+          <a href="https://cse.google.com/cse/publicurl?cx=008213476470887739041:ade_gb9mv7g" target="_blank" rel="noopener">Search... 🔍️</a>
+        </b>
+      </p>
+    </li>
+    
+    <li>
+      <a href="/" rel="noopener">
+        Home 🏠
+      </a>
+    </li>
+    
+    <li>
+      <a href="/about" rel="noopener">
+        About 👀
+      </a>
+    </li>
+    
+    <li>
+      <a href="/adventures" rel="noopener">
+        Adventures ✈️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/archive" rel="noopener">
+        Archive 🕒️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/awards" rel="noopener">
+        Awards 🏆️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/blog" rel="noopener">
+        Blog 📝️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/contact" rel="noopener">
+        Contact 📨
+      </a>
+    </li>
+    
+    <li>
+      <a href="/portfolio" rel="noopener">
+        Portfolio 💼
+      </a>
+    </li>
+    
+    <li>
+      <a href="/services" rel="noopener">
+        Services 🛠️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/speaking" rel="noopener">
+        Speaking 💬️
+      </a>
+    </li>
+    
+  </ul>
+</nav>
+
+    
+    <div class="inner">
+      
+
+
+<a href="javascript:" id="return-to-top" aria-label="Return to Top" aria-labelledby="Return to Top" aria-hidden="true">
+  <i class="fas fa-arrow-up"></i>
+</a>
+<div class="page">
+  
+  <div class="page-header">
+  <h1>Java Bits - Getting Started</h1>
+  <div class="page-info">
+    
+    
+    <div class="row">
+      <div class="12u">
+        <p>
+          <i title="Description" class="fas fa-info-circle fa-lg"></i>The first bit in a mini-series for beginners in Java.
+        </p>
+      </div>
+    </div>
+    
+    
+    
+    <div class="row">
+      <div class="12u">
+        <p>
+          <i title="Calendly" class="fas fa-calendar-check fa-lg"></i>Wednesday - March 12, 2014
+        </p>
+      </div>
+    </div>
+    
+    
+      
+    <p>
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>8 minute read ∙ 1500 words
+    </p>
+      
+    
+    
+    
+    
+  </div>
+  
+  <div class="row">
+    <div class="12u$">
+      
+      
+      
+      
+      <span class="image main">
+        
+        <img src="//fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&amp;h=436&amp;crop=1" alt="">
+        
+        
+      </span>
+      
+      
+      
+    </div>
+  </div>
+</div>
+<script id="dsq-count-scr" src="//fvcproductions.disqus.com/count.js" async></script>
+
+  
+  
+<div class="page-body">
+  <div class="12u$">
+    <p>Welcome, welcome! Moving from Python, we&rsquo;ll be looking at Java - AWW YEA!</p>
+
+<p>Now Java is by far one of the most important languages a CS major or really anyone involved in the software industry is sort of expected to understand (at least a bit!).</p>
+
+<p>Python and Ruby, while they are quite exquisite in their own right, with their easy to understand English-like syntax, nothing really beats the big &ldquo;Daddies&rdquo; CS majors recognize as C and Java.</p>
+
+<p>Personally though, I feel Python rules over all. More on this in another post.</p>
+
+<p>Anywhoozies, as a final note, it&rsquo;s a general rule of thumb that once you really get the gist of one programming language, it&rsquo;s not as difficult to become involved with others.</p>
+
+<p>It&rsquo;s kind of like when a man, let&rsquo;s call him Brad, really understands how one woman works. After Brad gets tired of the first woman because he&rsquo;s completely figured her out and wants to move on to bigger and better, it&rsquo;s easier for him to grasp the inside workings of other women (unless that woman is an alien, than tough luck Brad, you&rsquo;re gonna have to try much harder).</p>
+
+<p>Sure, there might be other features that define the other women differently to make them unique, but given that he was able to make the first woman work correctly for him (or compile - what have you), he&rsquo;s pretty much done with the rocky waters, and on to Fiji. Unless of course, his first woman was easy, than it&rsquo;s gonna be harder for him.</p>
+
+<p>An example of an easy women in terms of programming languages would be Python, a harder to approach woman would be C, and an alien in that same context would be Lisp. Take from all this what you will.</p>
+
+<p>Okay, THAT was kind of a silly example but I think it has some merit, so boo hoo.</p>
+
+<p>We&rsquo;ll be performing the following operations using the appropriate Java program structure and syntax:</p>
+
+<ol>
+<li>Saving the file appropriately 2. Commenting nicely 3. Creating variables 4. Reading said variables from keyboard 5. Calculating results with variables 6. Printing said results</li>
+</ol>
+
+<p>EASY!</p>
+
+<p>I&rsquo;m going to provide the complete program that compiles correctly on Github, so that if you get stuck or anything, you can look at that. Cheers!</p>
+
+<p>Let&rsquo;s discuss each section of this program then… starting with…</p>
+
+<p><strong>1. Saving the file appropriately</strong></p>
+
+<p>With Java, when we save the file, we want to name it the same name the class has.</p>
+
+<p>You see, the basic structure of a Java program looks like this:</p>
+
+<p><code>public class First\_Program {\ public static void main(String\[\] args) {\ }\ }\</code></p>
+
+<p>If you decide to rebel and not save the file with the class name (let&rsquo;s say you saved this file instead as Second_Program), then it&rsquo;s going to give you an error. DUN DUN DUN! Save yourself the trauma and just save it CORRECTLY.</p>
+
+<p>For this program, we will be naming the file and class name after something fun like our favorite TV show.</p>
+
+<p>So my file name would be Hawaii_5_0. This also means I would name my class file Hawaii_5_0.</p>
+
+<p>That&rsquo;s right, you stupid time lord alien humanoid lovers!!!</p>
+
+<p>I LAUGH AT YOUR MULTIPLE FACES DOCTOR WHO.</p>
+
+<p><strong>2. Commenting nicely</strong></p>
+
+<p>With any well written program, there are comments scattered in areas where the user might want to explain more complex method he used. There&rsquo;s also a good amount of spacing between multi-line statements so that the program is easier to read and a poor little programmer won&rsquo;t be pulling her/his hairs out just to figure out what the heck you were doing. Or if the programmer is bald/doesn&rsquo;t have a lot of hairs, he&rsquo;ll just be SHH (shaking his/her head). Either way, we wouldn&rsquo;t want THAT to happen, so make your program presentable. IT&rsquo;S ART PEOPLE!</p>
+
+<p>There are also comments usually at the top stating who the program is for, the program&rsquo;s purpose, maybe the date of the creation, the creator&rsquo;s name, small things like that.</p>
+
+<p>There are 3 formats for a comment:</p>
+
+<p><code>// Single line comments\ /\* Multi-line comments \*/\ /\*\* Documentation comments \*/\ \^doc comments aren't really used too often for beginner courses,\ they're just the de facto industry standard to document Java classes\</code></p>
+
+<p>For this program, we will insert a comment that contains your name, program number and name, date, and location where it was created (in a stupid time machine, in Dr. Farnsworth&rsquo;s house, your smelly dorm room, you get the idea).</p>
+
+<p><strong>3. Creating and printing variables</strong></p>
+
+<p>Now there are primitive data types in Java and then for beginners, there&rsquo;s that one reference variable - strings.</p>
+
+<p>Strings are just strings of text basically and are declared using the keyword String, like</p>
+
+<p><code>String movie = &quot;AVATAR&quot;;\</code></p>
+
+<p>To print this String statement out we would use the System.out.println() function.</p>
+
+<p><code>System.out.println(movie);\</code></p>
+
+<p>We can use this function to print out quotation marks too and multiple segments of code, using the + operator like this:</p>
+
+<p><code>System.out.println(&quot;I'd have to say that my favorite movie is &quot; + movie + &quot;.&quot;);\</code></p>
+
+<p>That statement would output:</p>
+
+<p>I&rsquo;d have to say that my favorite movie is AVATAR.</p>
+
+<p>A fancy way of saying what I just did through combining variables and quotations is concatenation. Big whoop.</p>
+
+<p>Any how, a special trick I learned with the System.out function is that you can use this statement at the beginning of your program</p>
+
+<p><code>import static java.lang.System.out;\</code></p>
+
+<p>And now you can just say</p>
+
+<p><code>out.println(&quot;Haha, no more System.&quot;);\</code></p>
+
+<p>instead of</p>
+
+<p><code>System.out.println(&quot;Aww, System.&quot;);\</code></p>
+
+<p>because the System part has already been imported with that statement. Just a small trick.</p>
+
+<p>Also in Java, there are semi-colons after each statement, if you didn&rsquo;t catch that already. -_-</p>
+
+<p>So back to the other kinds of variables, there&rsquo;s this nifty mnemonic device to remember the 6 primitive data types.</p>
+
+<p>BUY - byte STUFF - short IF - int LOOKING - long FOR - float DRUGS - double</p>
+
+<p>There&rsquo;s also this chart I got from my coursework in Java LearnStreet course…</p>
+
+<p><a href="//fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-01-25-at-2-59-12-pm.png"><img src="//fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-01-25-at-2-59-12-pm.png" alt="Screen Shot 2014-01-25 at 2.59.12 PM" /></a></p>
+
+<p>The course was nice by the way (great for beginners), it&rsquo;s basically like Codecademy for Java except it costs \$40, but I think I got my money&rsquo;s worth, so there.</p>
+
+<p>For this program, we&rsquo;ll be declaring 3 int variables and call them a, b, and r.</p>
+
+<p>We won&rsquo;t print these out yet, that&rsquo;ll be discussed later on in the lesson.</p>
+
+<p><strong>4. Reading said variables from keyboard</strong></p>
+
+<p>But instead of declaring them or hardcoding them to certain values, we&rsquo;ll ask what the user wants to assign them by using the Scanner class.</p>
+
+<p>A Scanner class in Java can be created by an import statement in the beginning of the program.</p>
+
+<p><code>import java.util.Scanner;\</code></p>
+
+<p>Then we create a Scanner object.</p>
+
+<p><code>Scanner keyboard = new Scanner(System.in);\</code></p>
+
+<p>This object that I call keyboard although you can call it whatever you want lets us get input from the user throughout the program.</p>
+
+<p>Then we can use this Scanner key word to get our input.</p>
+
+<p><code>String tv\_show = keyboard.nextLine();\</code></p>
+
+<p>Now whatever the person types in, Java will get the input and store it into the String variable tv_show.</p>
+
+<p>nextLine() is used for Strings nextInt() is used for int nextDouble() is used for doubles and so forth&hellip;</p>
+
+<p>So the object doesn&rsquo;t have to be keyboard, I could have called the Scanner &ldquo;user&rdquo;, and it still would have worked out the same way, like this:</p>
+
+<p><code>String tv\_show = user.nextLine();\</code></p>
+
+<p>For this program, instead of defining the int variables a, b, and r with certain values, we&rsquo;ll ask the user to give us numbers. So import the Scanner class, create a Scanner object, and get values from the user using the object.</p>
+
+<p><strong>5. Calculating results with variables</strong></p>
+
+<p>Okay here&rsquo; s the more tricky stuff. Making equations that the compiler can understand and compute. Then again, if you&rsquo;ve ever taken a math class and had to use the calculator a lot, this might come off as easy for you. Basic rules with these equations are to use parenthesis and exponents in the right places.</p>
+
+<p>Java has the built-in function pow. It&rsquo;s formatted as pow(x, y) where x is raised to the y.</p>
+
+<p>So let&rsquo;s say we wanted to compute 3\^2 or 3 to the power of 2, which is 9 for the ape in all of us.</p>
+
+<p>So in this case we could write that pow(3,2) and that too would give us 9. Huzzah!</p>
+
+<p>For this program, we will declare result1, result2, result3, and result4 and initialize them to the following four equations shown here:</p>
+
+<p><a href="//fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-04-at-6-07-52-pm.png"><img src="//fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-04-at-6-07-52-pm.png" alt="Screen Shot 2014-03-04 at 6.07.52 PM" /></a></p>
+
+<p>For the equation of result4, I realize it is 4r5. Yes, it could be written as 20r, but just write it as it is. Deal bro. Come on now.</p>
+
+<p><strong>6. Printing said results</strong></p>
+
+<p>Now for easy stuff. Using the System.out.println() function and the + operator we learned already, we&rsquo;ll print all this shiz out.</p>
+
+<p>For this program, print out the values of a, b, and r, with a little message like this:</p>
+
+<p>&ldquo;a is equal to: &ldquo;</p>
+
+<p>Also print out the values of result1 through result4 using an appropriate message like this:</p>
+
+<p>&ldquo;Result 1 is equal to: &ldquo;</p>
+
+    
+    
+
+<br>
+<div class="page-section taxonomy-section">
+  <div class="row">
+    
+    
+    <div class="6u 12u$(small) 12u$(xsmall)">
+      <h3>
+        📂 Categories
+      </h3>
+      <ul>
+        
+        <li>
+          <a href="/categories/blog/" title="blog">blog</a>
+        </li>
+        
+      </ul>
+    </div>
+    
+    
+    
+    <div class="6u 12u$(small) 12u$(xsmall)">
+      <h3>
+        📌 Tags
+      </h3>
+
+      <ul>
+        
+        <li>
+          <a href="/tags/bits/" title="bits">bits</a>
+        </li>
+        
+        <li>
+          <a href="/tags/digital/" title="digital">digital</a>
+        </li>
+        
+        <li>
+          <a href="/tags/hieroglyphics/" title="hieroglyphics">hieroglyphics</a>
+        </li>
+        
+        <li>
+          <a href="/tags/equations/" title="equations">equations</a>
+        </li>
+        
+        <li>
+          <a href="/tags/fvcproductions/" title="fvcproductions">fvcproductions</a>
+        </li>
+        
+        <li>
+          <a href="/tags/initializing/" title="initializing">initializing</a>
+        </li>
+        
+        <li>
+          <a href="/tags/java/" title="java">java</a>
+        </li>
+        
+        <li>
+          <a href="/tags/java/" title="java">java</a>
+        </li>
+        
+        <li>
+          <a href="/tags/intro/" title="intro">intro</a>
+        </li>
+        
+        <li>
+          <a href="/tags/java-program/" title="java program">java program</a>
+        </li>
+        
+        <li>
+          <a href="/tags/java-programming/" title="java programming">java programming</a>
+        </li>
+        
+        <li>
+          <a href="/tags/math-functions/" title="math functions">math functions</a>
+        </li>
+        
+        <li>
+          <a href="/tags/math-java/" title="math java">math java</a>
+        </li>
+        
+        <li>
+          <a href="/tags/pow/" title="pow">pow</a>
+        </li>
+        
+        <li>
+          <a href="/tags/result/" title="result">result</a>
+        </li>
+        
+        <li>
+          <a href="/tags/results/" title="results">results</a>
+        </li>
+        
+      </ul>
+
+    </div>
+    
+  </div>
+</div>
+
+
+  </div>
+</div>
+
+
+
+
+
+
+
+
+  
+  <div class="page-footer">
+  
+  
+  
+  <div class="page-section sharing-section">
+  <div class="12u$">
+    <h3>
+      💗️ Share this page
+    </h3>
+    <ul class="icons">
+  
+  <li>
+    <a href="//www.facebook.com/sharer.php?u=%2f2014%2f03%2f12%2fjava-bits---getting-started%2f" target="_blank" rel="noopener" class="icon font-awesome fa-facebook">
+      <i title="Facebook" class="fab fa-facebook fa-lg"></i>
+      <span class="label">Facebook</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//twitter.com/intent/tweet?url=%2f2014%2f03%2f12%2fjava-bits---getting-started%2f&via=fvcproductions&text=Java%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-twitter">
+      <i title="Twitter" class="fab fa-twitter fa-lg"></i>
+      <span class="label">Twitter</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//plus.google.com/share?url=/2014/03/12/java-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome fa-google-plus-g">
+      <i title="Google Plus" class="fab fa-google-plus-g fa-lg"></i>
+      <span class="label">Google+</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//pinterest.com/pin/create/bookmarklet/?media=%2f%2ffvcproductions.files.wordpress.com%2f2014%2f10%2fbanners-005.jpg%3fw%3d1024%26h%3d436%26crop%3d1&url=/2014/03/12/java-bits---getting-started/&description=Java%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-pinterest">
+      <i title="Pinterest" class="fab fa-pinterest fa-lg"></i>
+      <span class="label">Pinterest</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.linkedin.com/shareArticle?mini=true&url=/2014/03/12/java-bits---getting-started/&title=Java%20Bits%20-%20Getting%20Started&summary=Welcome%2c%20welcome%21%20Moving%20from%20Python%2c%20we%26rsquo%3bll%20be%20looking%20at%20Java%20-%20AWW%20YEA%21%0aNow%20Java%20is%20by%20far%20one%20of%20the%20most%20important%20languages%20a%20CS%20major%20or%20really%20anyone%20involved%20in%20the%20software%20industry%20is%20sort%20of%20expected%20to%20understand%20%28at%20least%20a%20bit%21%29.%0aPython%20and%20Ruby%2c%20while%20they%20are%20quite%20exquisite%20in%20their%20own%20right%2c%20with%20their%20easy%20to%20understand%20English-like%20syntax%2c%20nothing%20really%20beats%20the%20big%20%26ldquo%3bDaddies%26rdquo%3b%20CS%20majors%20recognize%20as%20C%20and%20Java.&source=FVCproductions" target="_blank" rel="noopener" class="icon font-awesome fa-linkedin-in">
+      <i title="LinkedIn" class="fab fa-linkedin-in fa-lg"></i>
+      <span class="label">LinkedIn</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.tumblr.com/widgets/share/tool?canonicalUrl=/2014/03/12/java-bits---getting-started/&title=Java%20Bits%20-%20Getting%20Started&caption=Welcome%2c%20welcome%21%20Moving%20from%20Python%2c%20we%26rsquo%3bll%20be%20looking%20at%20Java%20-%20AWW%20YEA%21%0aNow%20Java%20is%20by%20far%20one%20of%20the%20most%20important%20languages%20a%20CS%20major%20or%20really%20anyone%20involved%20in%20the%20software%20industry%20is%20sort%20of%20expected%20to%20understand%20%28at%20least%20a%20bit%21%29.%0aPython%20and%20Ruby%2c%20while%20they%20are%20quite%20exquisite%20in%20their%20own%20right%2c%20with%20their%20easy%20to%20understand%20English-like%20syntax%2c%20nothing%20really%20beats%20the%20big%20%26ldquo%3bDaddies%26rdquo%3b%20CS%20majors%20recognize%20as%20C%20and%20Java." target="_blank" rel="noopener" class="icon font-awesome fa-digg">
+      <i title="Digg" class="fab fa-digg fa-lg"></i>
+      <span class="label">Digg</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.tumblr.com/widgets/share/tool?canonicalUrl=/2014/03/12/java-bits---getting-started/&title=Java%20Bits%20-%20Getting%20Started&caption=Welcome%2c%20welcome%21%20Moving%20from%20Python%2c%20we%26rsquo%3bll%20be%20looking%20at%20Java%20-%20AWW%20YEA%21%0aNow%20Java%20is%20by%20far%20one%20of%20the%20most%20important%20languages%20a%20CS%20major%20or%20really%20anyone%20involved%20in%20the%20software%20industry%20is%20sort%20of%20expected%20to%20understand%20%28at%20least%20a%20bit%21%29.%0aPython%20and%20Ruby%2c%20while%20they%20are%20quite%20exquisite%20in%20their%20own%20right%2c%20with%20their%20easy%20to%20understand%20English-like%20syntax%2c%20nothing%20really%20beats%20the%20big%20%26ldquo%3bDaddies%26rdquo%3b%20CS%20majors%20recognize%20as%20C%20and%20Java." target="_blank" rel="noopener" class="icon font-awesome fa-tumblr">
+      <i title="Tumblr" class="fab fa-tumblr fa-lg"></i>
+      <span class="label">Tumblr</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//reddit.com/submit?url=/2014/03/12/java-bits---getting-started/&title=Java%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-reddit">
+      <i title="Reddit" class="fab fa-reddit fa-lg"></i>
+      <span class="label">Reddit</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//news.ycombinator.com/submitlink?u=/2014/03/12/java-bits---getting-started/&t=Java%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-hacker-news">
+      <i title="Hacker News" class="fab fa-hacker-news fa-lg"></i>
+      <span class="label">Hacker News</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.stumbleupon.com/submit?url=/2014/03/12/java-bits---getting-started/&title=Java%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-stumbleupon">
+      <i title="StumbleUpon" class="fab fa-stumbleupon fa-lg"></i>
+      <span class="label">StumbleUpon</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//delicious.com/save?v=5&provider=FVCproductions&noui&jump=close&url=/2014/03/12/java-bits---getting-started/&title=Java%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-delicious">
+      <i title="Delicious" class="fab fa-delicious fa-lg"></i>
+      <span class="label">Delicious</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.tumblr.com/widgets/share/tool?canonicalUrl=/2014/03/12/java-bits---getting-started/&title=Java%20Bits%20-%20Getting%20Started&caption=Welcome%2c%20welcome%21%20Moving%20from%20Python%2c%20we%26rsquo%3bll%20be%20looking%20at%20Java%20-%20AWW%20YEA%21%0aNow%20Java%20is%20by%20far%20one%20of%20the%20most%20important%20languages%20a%20CS%20major%20or%20really%20anyone%20involved%20in%20the%20software%20industry%20is%20sort%20of%20expected%20to%20understand%20%28at%20least%20a%20bit%21%29.%0aPython%20and%20Ruby%2c%20while%20they%20are%20quite%20exquisite%20in%20their%20own%20right%2c%20with%20their%20easy%20to%20understand%20English-like%20syntax%2c%20nothing%20really%20beats%20the%20big%20%26ldquo%3bDaddies%26rdquo%3b%20CS%20majors%20recognize%20as%20C%20and%20Java." target="_blank" rel="noopener" class="icon font-awesome fa-blogger-b">
+      <i title="Blogger" class="fab fa-blogger-b fa-lg"></i>
+      <span class="label">Blogger</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//getpocket.com/save?url=/2014/03/12/java-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome fa-get-pocket">
+      <i title="Pocket" class="fab fa-get-pocket fa-lg"></i>
+      <span class="label">Pocket</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="viber://forward?text=/2014/03/12/java-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome fa-viber">
+      <i title="Viber" class="fab fa-viber fa-lg"></i>
+      <span class="label">Viber</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//lineit.line.me/share/ui?url=/2014/03/12/java-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome fa-line">
+      <i title="Line.me" class="fab fa-line fa-lg"></i>
+      <span class="label">Line.me</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//web.skype.com/share?url=/2014/03/12/java-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome fa-skype">
+      <i title="Skype" class="fab fa-skype fa-lg"></i>
+      <span class="label">Skype</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="whatsapp://send?text=/2014/03/12/java-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome fa-whatsapp">
+      <i title="WhatsApp" class="fab fa-whatsapp fa-lg"></i>
+      <span class="label">WhatsApp</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//telegram.me/share/url?url=/2014/03/12/java-bits---getting-started/&text=Java%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-telegram">
+      <i title="Telegram" class="fab fa-telegram fa-lg"></i>
+      <span class="label">Telegram.me</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//vk.com/share.php?url=/2014/03/12/java-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome fa-vk">
+      <i title="VK" class="fab fa-vk fa-lg"></i>
+      <span class="label">VK</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.xing.com/app/user?op=share&url=/2014/03/12/java-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome fa-xing">
+      <i title="Xing" class="fab fa-xing fa-lg"></i>
+      <span class="label">Xing</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//widget.renren.com/dialog/share?resourceurl=/2014/03/12/java-bits---getting-started/&srcurl=/2014/03/12/java-bits---getting-started/&title=Java%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-renren">
+      <i title="Ren Ren" class="fab fa-renren fa-lg"></i>
+      <span class="label">RenRen</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//service.weibo.com/share/share.php?url=/2014/03/12/java-bits---getting-started/&title=Java%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-weibo">
+      <i title="Weibo" class="fab fa-weibo fa-lg"></i>
+      <span class="label">Weibo</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="mailto:?subject=Check out this work by FVCproductions&body=/2014/03/12/java-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome">
+      <i title="Email" class="fas fa-envelope fa-lg"></i>
+      <span class="label">Email</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="javascript:window.print()" target="_blank" rel="noopener" class="icon font-awesome">
+      <i title="Print" class="fas fa-print fa-lg"></i>
+      <span class="label">Print</span>
+    </a>
+  </li>
+</ul>
+
+  </div>
+</div>
+
+  
+  
+  
+  
+  <div class="page-section donate-section">
+  <div class="12u$">
+    <h3>
+      💸️ Donate
+    </h3>
+    <p>If you have found any of my contributions valuable, kindly consider supporting me through a small donation or by becoming an ongoing patron. </p>
+    
+    <a href="//patreon.com/fvcproductions" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/patreon.svg" height="50" alt="Patreon">
+    </a>
+    
+    &nbsp;
+    <a href="//paypal.me/fvcproductions/5" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/paypal.svg" height="50" alt="PayPal.Me">
+    </a>
+    
+    &nbsp;
+    <a href="//venmo.com/fvcproductions" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/venmo.svg" height="50" alt="Venmo">
+    </a>
+    
+    &nbsp;
+    <a href="//smile.amazon.com/gp/registry/wishlist/183BMRKTBNR0A" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/amazon.svg" height="50" alt="Amazon Smile">
+    </a>
+    
+    &nbsp;
+    <a href="//cash.me/$fvcprdxs/5" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/cash.svg" height="50" alt="Square Cash">
+    </a>
+    <br>
+  </div>
+</div>
+
+  
+  
+<div class="page-section comments-section">
+  <div class="12u$">
+    <section>
+      <h3>
+        🙈️🙉️🙊️ Leave a comment
+      </h3>
+      <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "fvcproductions" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </section>
+  </div>
+</div>
+
+
+
+  
+  
+<div class="page-section pagination-section">
+  <div class="12u$">
+    
+    
+    <a class="button big" href="/2014/03/12/python-bits---getting-started/">
+      <i class="fas fa-long-arrow-alt-left" title="Previous Section"></i>
+      Python Bits - Getting Started
+    </a>
+    
+    
+     &nbsp;
+    <a class="button big" href="/2014/03/12/interview-with-bitmaker-labs/">
+      Interview with Bitmaker Labs
+      <i class="fas fa-long-arrow-alt-right" title="Next Section"></i>
+    </a>
+    
+  </div>
+</div>
+
+
+</div>
+
+</div>
+
+
+    </div>
+    
+    
+<footer id="footer">
+  <div class="inner">
+    <section class="social-icons">
+  <ul class="icons">
+    
+    
+    <li>
+      <a href="//behance.net/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="Behance" class="fab fa-behance"></i>
+        <span class="label">Behance</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//github.com/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="GitHub" class="fab fa-github-alt"></i>
+        <span class="label">GitHub</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//linkedin.com/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="LinkedIn" class="fab fa-linkedin-in"></i>
+        <span class="label">LinkedIn</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//slideshare.net/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="SlideShare" class="fab fa-slideshare"></i>
+        <span class="label">SlideShare</span>
+      </a>
+    </li>
+    
+    
+    <li>
+      <a href="/feed.xml" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="RSS" class="fas fa-rss"></i>
+        <span class="label">RSS</span>
+      </a>
+    </li>
+    
+    
+    <li>
+      <a href="//twitter.com/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="Twitter" class="fab fa-twitter"></i>
+        <span class="label">Twitter</span>
+      </a>
+    </li>
+    
+  </ul>
+</section>
+
+    <div class="copyright">
+      <div class="row">
+        <div class="12u$">
+          
+          
+          <i title="Copyright FVCproductions" class="fas fa-copyright"></i>
+          <a href="/">FVCproductions</a>
+          
+          
+           2013  to 2018
+          <br>
+          <br>
+          <i title="Colophon" class="fas fa-cog"></i>
+          <a href="/about/colophon/">Colophon</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  </div>
+  
+  
+  
+  
+  
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-63190978-3', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
+  
+  <script src="/assets/js/app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/OneSignalSDKWorker.js').then(registration => {
+          console.log('The service worker was registered! 🎉', registration);
+        }).catch(registrationError => {
+          console.log('The service worker registration failed. 😭️', registrationError);
+        });
+      });
+    }
+
+  </script>
+</body>
+
+</html>

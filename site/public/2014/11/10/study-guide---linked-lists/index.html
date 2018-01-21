@@ -1,0 +1,1081 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+
+<head>
+  <title>Study Guide - Linked Lists</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="DC.title" content="Study Guide - Linked Lists">
+  <meta name="DC.description" content="A study guide for simple linked lists in Java.">
+  <meta name="DC.creator" content="Frances Coronel">
+  <meta name="DC.language" content="en">
+  <meta name="DC.publisher" content="Frances Coronel">
+  <meta name="DC.subject" content="algorithms,arrays,data,data structures,digital hieroglyphics,Hampton,hampton university,head,insert,java,link,linked lists,nodes,Pointer,properties,pseudocode,remove,traversal,">
+  
+  <meta charset="utf-8">
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="HandheldFriendly" content="True">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0">
+<meta name="application-name" content="Study Guide - Linked Lists">
+<meta name="msapplication-window" content="width=device-width;height=device-height">
+<meta name="msapplication-tooltip" content=" A study guide for simple linked lists in Java. ">
+<meta name="title" content="Study Guide - Linked Lists">
+<meta name="description" content=" A study guide for simple linked lists in Java. ">
+<meta name="image" content="https://fvcproductions.com/assets/img/teaser.png">
+<meta name="robots" content="index, follow">
+<meta itemprop="name" content="Study Guide - Linked Lists">
+<meta itemprop="description" content=" A study guide for simple linked lists in Java. ">
+<meta itemprop="image" content="https://fvcproductions.com/assets/img/teaser.png">
+
+<meta property="og:title" content="FVCproductions">
+<meta property="og:description" content=" A study guide for simple linked lists in Java. ">
+<meta property="og:image" content="https://fvcproductions.com/assets/img/teaser.png">
+<meta property="og:image:width" content="1050">
+<meta property="og:image:height" content="600">
+<meta property="og:url" content="https://fvcproductions.com/">
+<meta property="og:site_name" content="Study Guide - Linked Lists">
+<meta property="og:locale" content="en">
+<meta property="og:type" content="website">
+<meta property="og:description" content=" A study guide for simple linked lists in Java. ">
+
+<meta name="twitter:site" content="@fvcproductions">
+<meta name="twitter:title" content="FVCproductions">
+<meta name="twitter:description" content=" A study guide for simple linked lists in Java. ">
+<meta name="twitter:url" content="https://fvcproductions.com/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://fvcproductions.com/assets/img/teaser.png">
+<meta name="twitter:image:src" content="https://fvcproductions.com/assets/img/teaser.png">
+<meta name="twitter:creator" content="@fvcproductions">
+
+<link rel="preconnect" href="https://fvcproductions.com/">
+
+<link rel="canonical" href="/2014/11/10/study-guide---linked-lists/">
+
+
+
+ 
+<link rel="prefetch" href="/2014/11/10/magnifying-the-bootcamp-research-experience/">
+<link rel="prerender" href="/2014/11/10/magnifying-the-bootcamp-research-experience/">  
+<link rel="prefetch" href="/2014/10/26/dc-hack/">
+<link rel="prerender" href="/2014/10/26/dc-hack/">  
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Study Guide - Linked Lists"/>
+<meta name="twitter:description" content="A study guide for simple linked lists in Java."/>
+<meta name="twitter:site" content="@fvcproductions"/>
+
+
+<meta property="og:title" content="Study Guide - Linked Lists" />
+<meta property="og:description" content="A study guide for simple linked lists in Java." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2014/11/10/study-guide---linked-lists/" />
+
+
+
+<meta property="article:published_time" content="2014-11-10T00:00:00&#43;00:00"/>
+
+<meta property="article:modified_time" content="2014-11-10T00:00:00&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="Study Guide - Linked Lists">
+<meta itemprop="description" content="A study guide for simple linked lists in Java.">
+
+
+<meta itemprop="datePublished" content="2014-11-10T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2014-11-10T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="722">
+
+
+
+<meta itemprop="keywords" content="algorithms,arrays,data,data structures,digital hieroglyphics,Hampton,hampton university,head,insert,java,link,linked lists,nodes,Pointer,properties,pseudocode,remove,traversal," />
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+
+  
+  <link rel="apple-touch-icon-precomposed" href="/assets/img/favicons/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/favicons/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/img/favicons/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/favicons/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/img/favicons/apple-touch-icon-152x152-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/img/favicons/apple-touch-icon-180x180-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/img/favicons/apple-touch-icon-57x57-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/assets/img/favicons/apple-touch-icon-60x60-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/favicons/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/img/favicons/apple-touch-icon-76x76-precomposed.png">
+<link rel="apple-touch-icon" href="/assets/img/favicons/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/img/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/img/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/img/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/img/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicons/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/img/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/img/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/img/favicons/apple-touch-icon-76x76.png">
+<link rel="icon" sizes="144x144" type="image/png" href="/assets/img/favicons/android-chrome-144x144.png">
+<link rel="icon" sizes="16x16 32x32" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" sizes="16x16" type="image/png" href="/assets/img/favicons/favicon-16x16.png">
+<link rel="icon" sizes="192x192" type="image/png" href="/assets/img/favicons/android-chrome-192x192.png">
+<link rel="icon" sizes="256x256" type="image/png" href="/assets/img/favicons/android-chrome-256x256.png">
+<link rel="icon" sizes="32x32" type="image/png" href="/assets/img/favicons/favicon-32x32.png">
+<link rel="icon" sizes="36x36" type="image/png" href="/assets/img/favicons/android-chrome-36x36.png">
+<link rel="icon" sizes="384x384" type="image/png" href="/assets/img/favicons/android-chrome-384x384.png">
+<link rel="icon" sizes="48x48" type="image/png" href="/assets/img/favicons/android-chrome-48x48.png">
+<link rel="icon" sizes="512x512" type="image/png" href="/assets/img/favicons/android-chrome-512x512.png">
+<link rel="icon" sizes="72x72" type="image/png" href="/assets/img/favicons/android-chrome-72x72.png">
+<link rel="icon" sizes="96x96" type="image/png" href="/assets/img/favicons/android-chrome-96x96.png">
+<link rel="mask-icon" color="#253137" href="/assets/img/favicons/safari-pinned-tab.svg">
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="Study Guide - Linked Lists">
+<meta name="application-name" content="Study Guide - Linked Lists">
+<meta name="msapplication-TileColor" content="#253137">
+<meta name="msapplication-TileImage" content="/assets/img/favicons/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+  
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+  
+  
+  
+  <link rel="manifest" href="/manifest.json" />
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+  <script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(function () {
+      OneSignal.init({
+        appId: "7bc782bf-6ee1-4373-8d1d-1346aba3b9ff",
+      });
+    });
+
+  </script>
+</head>
+
+<body>
+  
+  <div id="wrapper">
+    
+    
+<header id="header">
+  <div class="inner">
+    
+    <a href="/" class="logo">
+      <span class="symbol">
+        <img src="/assets/img/logo.svg" alt="FVCproductions - Logo">
+      </span>
+      <span class="title">FVCproductions</span>
+    </a>
+    
+    <nav>
+      <ul>
+        <li>
+          <a href="#menu">Menu</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+    
+    
+<nav id="menu">
+  <h2>Menu</h2>
+  <ul>
+    
+    <li>
+      <p>
+        <b>
+          <a href="https://cse.google.com/cse/publicurl?cx=008213476470887739041:ade_gb9mv7g" target="_blank" rel="noopener">Search... 🔍️</a>
+        </b>
+      </p>
+    </li>
+    
+    <li>
+      <a href="/" rel="noopener">
+        Home 🏠
+      </a>
+    </li>
+    
+    <li>
+      <a href="/about" rel="noopener">
+        About 👀
+      </a>
+    </li>
+    
+    <li>
+      <a href="/adventures" rel="noopener">
+        Adventures ✈️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/archive" rel="noopener">
+        Archive 🕒️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/awards" rel="noopener">
+        Awards 🏆️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/blog" rel="noopener">
+        Blog 📝️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/contact" rel="noopener">
+        Contact 📨
+      </a>
+    </li>
+    
+    <li>
+      <a href="/portfolio" rel="noopener">
+        Portfolio 💼
+      </a>
+    </li>
+    
+    <li>
+      <a href="/services" rel="noopener">
+        Services 🛠️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/speaking" rel="noopener">
+        Speaking 💬️
+      </a>
+    </li>
+    
+  </ul>
+</nav>
+
+    
+    <div class="inner">
+      
+
+
+<a href="javascript:" id="return-to-top" aria-label="Return to Top" aria-labelledby="Return to Top" aria-hidden="true">
+  <i class="fas fa-arrow-up"></i>
+</a>
+<div class="page">
+  
+  <div class="page-header">
+  <h1>Study Guide - Linked Lists</h1>
+  <div class="page-info">
+    
+    
+    <div class="row">
+      <div class="12u">
+        <p>
+          <i title="Description" class="fas fa-info-circle fa-lg"></i>A study guide for simple linked lists in Java.
+        </p>
+      </div>
+    </div>
+    
+    
+    
+    <div class="row">
+      <div class="12u">
+        <p>
+          <i title="Calendly" class="fas fa-calendar-check fa-lg"></i>Monday - November 10, 2014
+        </p>
+      </div>
+    </div>
+    
+    
+      
+    <p>
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>4 minute read ∙ 722 words
+    </p>
+      
+    
+    
+    
+    
+  </div>
+  
+  <div class="row">
+    <div class="12u$">
+      
+      
+      
+      
+      <span class="image main">
+        
+        <img src="//fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&amp;h=436&amp;crop=1" alt="">
+        
+        
+      </span>
+      
+      
+      
+    </div>
+  </div>
+</div>
+<script id="dsq-count-scr" src="//fvcproductions.disqus.com/count.js" async></script>
+
+  
+  
+<div class="page-body">
+  <div class="12u$">
+    
+
+<h1 id="csc251-study-guide">CSC251 Study Guide</h1>
+
+<h3 id="linked-lists-exam">Linked Lists Exam</h3>
+
+<h2 id="index">Index</h2>
+
+<ul>
+<li><a href="#section-versus">Linked Lists vs Arrays</a></li>
+<li><a href="#section-linked">Linked Lists Properties</a></li>
+<li><a href="#section-algo">Linked Lists Algorithms/Code</a></li>
+</ul>
+
+<h3 id="linked-lists-vs-arrays">Linked Lists vs Arrays</h3>
+
+<ul>
+<li><em>Arrays</em>
+
+<ul>
+<li>can access any element directly via indexing</li>
+<li>all elements grouped together</li>
+<li>sitting in 1 block of memory</li>
+<li>size is fixed</li>
+</ul></li>
+<li><em>Linked Lists</em>
+
+<ul>
+<li>each element sits in own block of memory (called node)</li>
+<li>nodes can only be accessed in sequential order</li>
+<li>appears limited</li>
+<li>size varies - nodes allocated on need basis</li>
+<li>list elements can be easily inserted/removed without reallocation and at any point in the list</li>
+<li>no random access to data</li>
+<li>no efficient form of indexing</li>
+</ul></li>
+<li><em>Key Differences</em>
+
+<ul>
+<li>underlying layout of data in memory</li>
+<li>how individual elements are accessed</li>
+</ul></li>
+</ul>
+
+<h3 id="linked-lists-properties">Linked Lists Properties</h3>
+
+<ul>
+<li><em>overview</em>
+
+<ul>
+<li>a sequence of elements arranged 1 after another with each element connected to next by a link</li>
+<li>one of the simplest and most common data structures</li>
+<li>can be used to implement other abstract data types</li>
+</ul></li>
+<li><em>defintion</em>
+
+<ul>
+<li>data structure of group of nodes that represent a sequence</li>
+</ul></li>
+<li><em>diagram</em></li>
+</ul>
+
+<p><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Singly-linked-list.svg/408px-Singly-linked-list.svg.png" alt="" /></p>
+
+<blockquote>
+<p>above is a linked list with nodes that contain 2 fields - an integer value and a link to next to the next node; last node linked to terminator symbol to signify end of list/null link</p>
+</blockquote>
+
+<ul>
+<li><em>conceptual implementation</em>
+
+<ul>
+<li>each node has data and reference (link) to next node in sequence</li>
+<li>allows for insertion of removal of elements from any position in sequence</li>
+</ul></li>
+<li><em>operations for singly linked list</em>
+
+<ul>
+<li><code>insertion</code></li>
+<li><code>deletion</code></li>
+<li><code>traversal</code> - going through entire sequence until reaching last node</li>
+</ul></li>
+<li><em>advantages</em>
+
+<ul>
+<li>dynamic data structure that allocates needed memory</li>
+<li>easy implementation for insertion and deletion operations</li>
+<li>other data structures can be easily executed with linked lists</li>
+<li>reduce access time and can expand without more memory being used</li>
+</ul></li>
+<li><em>disadvantages</em>
+
+<ul>
+<li>usually wastes memory with pointers which requires extra storage space</li>
+<li>nodes must be read sequentially</li>
+<li>nodes stored in an in-contiguous manner, so more difficult to access individual nodes</li>
+<li>very difficult to reverse traverse</li>
+</ul></li>
+</ul>
+
+<h3 id="linked-lists-algorithms">Linked Lists Algorithms</h3>
+
+<ul>
+<li><em>constructor for an integer node in a linked list</em><br />
+<code>public Int_Node (int initialData, Int_node
+initialLink) {\
+data = initialData; //integer value\
+link = initialLink; //reference to next node in list\
+}\
+</code></li>
+<li><em>define empty linked list</em><br /></li>
+</ul>
+
+<p>```Int_Node head = null;</p>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4">  * pseudocode
+
+    1. representing empty list by storing null in head reference\
+
+       &gt; keeping track of front node by using an Int_Node reference variable called `head`
+
+* _add new node to empty list_\
+
+  ```head = new Int_Node(data, null);\</pre></div>
+<ul>
+<li><p>pseudocode</p>
+
+<ol>
+<li>create new node for head</li>
+<li>place data in new node&rsquo;s data field</li>
+<li>make head refer to null which is initial head value</li>
+<li>connect new node to head</li>
+</ol></li>
+
+<li><p><em>add node to front of list</em></p></li>
+</ul>
+
+<p>```head = new Int_Node(newData, head);</p>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4">  * pseudocode
+    1. create new node
+    2. place data (`newData`) in new node&#39;s data field
+    3. connect new node to front of list
+    4. make original `head` refer to **new** `head` of linked list
+
+![](//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/CPT-LinkedLists-addingnode.svg/474px-CPT-LinkedLists-addingnode.svg.png)
+
+&gt; Diagram showing how a node is inserted after an existing node\
+&gt; Inserting node before existing node cannot be done directly - instead you have to keep track of the previous node and insert a node after that
+
+* _adding anywhere but front_\
+
+  ```previous.link = new Int_Node(newData,
+  previous.link);
+
+  while (prev.link != null) {\
+  prev = head;\
+  prev = prev.link;\
+  }\</pre></div>
+<ul>
+<li><p>pseudocode</p>
+
+<ol>
+<li>set a reference named <code>prev</code> (for previous) to refer to node which is just before new node&rsquo;s position</li>
+</ol></li>
+
+<li><p><em>removing node at head</em></p></li>
+</ul>
+
+<p>```head = head.link;</p>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4">  * pseudocode
+    1. directing `head` to node right next to it (`head.link`) so that original `head` is removed
+
+* _removing node anywhere_
+
+![](//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/CPT-LinkedLists-deletingnode.svg/380px-CPT-LinkedLists-deletingnode.svg.png)
+
+&gt; Removing node after given node - to find and remove a particular node, you still have to keep track of the previous element
+
+* _traverse through list_\
+
+  ```Int_Node pointer = head;
+  while (pointer != null) {\
+  pointer = pointer.link;\
+  }\</pre></div>
+<ul>
+<li><p>pseudocode</p>
+
+<ol>
+<li>initializing <code>pointer</code> to reference <code>head</code></li>
+<li>while loop that keeps going through entire list until <code>pointer</code> (or <code>head</code>) is <code>null</code><br /></li>
+</ol>
+
+<blockquote>
+<p><code>null</code> implying that it&rsquo;s reached the last node because the last node will always have a <code>null</code> link since there&rsquo;s nothing next to the last node so no link so <code>null</code> link</p>
+</blockquote>
+
+<ol>
+<li><code>pointer</code> referenced to next node or <code>pointer.link</code></li>
+</ol></li>
+
+<li><p><em>print list through traversal</em></p></li>
+</ul>
+
+<p><code>Int_Node pointer = head;
+  while (pointer != null) {\
+  System.out.print(pointer.data + &quot; &quot;);\
+  pointer = pointer.link;\
+  }\
+</code></p>
+
+<ul>
+<li><p>pseudocode</p>
+
+<blockquote>
+<p>same as traversal algorithm but just printing out data of pointer as you go along the node sequence with <code>pointer.data</code></p>
+</blockquote></li>
+</ul>
+
+<blockquote>
+<p>Tips or Tricks?</p>
+
+<blockquote>
+<p>Contact me <a href="//twitter.com/fvcproductions">@fvcproductions</a></p>
+</blockquote>
+</blockquote>
+
+    
+    
+
+<br>
+<div class="page-section taxonomy-section">
+  <div class="row">
+    
+    
+    <div class="6u 12u$(small) 12u$(xsmall)">
+      <h3>
+        📂 Categories
+      </h3>
+      <ul>
+        
+        <li>
+          <a href="/categories/blog/" title="blog">blog</a>
+        </li>
+        
+      </ul>
+    </div>
+    
+    
+    
+    <div class="6u 12u$(small) 12u$(xsmall)">
+      <h3>
+        📌 Tags
+      </h3>
+
+      <ul>
+        
+        <li>
+          <a href="/tags/algorithms/" title="algorithms">algorithms</a>
+        </li>
+        
+        <li>
+          <a href="/tags/arrays/" title="arrays">arrays</a>
+        </li>
+        
+        <li>
+          <a href="/tags/data/" title="data">data</a>
+        </li>
+        
+        <li>
+          <a href="/tags/data-structures/" title="data structures">data structures</a>
+        </li>
+        
+        <li>
+          <a href="/tags/digital-hieroglyphics/" title="digital hieroglyphics">digital hieroglyphics</a>
+        </li>
+        
+        <li>
+          <a href="/tags/hampton/" title="Hampton">Hampton</a>
+        </li>
+        
+        <li>
+          <a href="/tags/hampton-university/" title="hampton university">hampton university</a>
+        </li>
+        
+        <li>
+          <a href="/tags/head/" title="head">head</a>
+        </li>
+        
+        <li>
+          <a href="/tags/insert/" title="insert">insert</a>
+        </li>
+        
+        <li>
+          <a href="/tags/java/" title="java">java</a>
+        </li>
+        
+        <li>
+          <a href="/tags/link/" title="link">link</a>
+        </li>
+        
+        <li>
+          <a href="/tags/linked-lists/" title="linked lists">linked lists</a>
+        </li>
+        
+        <li>
+          <a href="/tags/nodes/" title="nodes">nodes</a>
+        </li>
+        
+        <li>
+          <a href="/tags/pointer/" title="Pointer">Pointer</a>
+        </li>
+        
+        <li>
+          <a href="/tags/properties/" title="properties">properties</a>
+        </li>
+        
+        <li>
+          <a href="/tags/pseudocode/" title="pseudocode">pseudocode</a>
+        </li>
+        
+        <li>
+          <a href="/tags/remove/" title="remove">remove</a>
+        </li>
+        
+        <li>
+          <a href="/tags/traversal/" title="traversal">traversal</a>
+        </li>
+        
+      </ul>
+
+    </div>
+    
+  </div>
+</div>
+
+
+  </div>
+</div>
+
+
+
+
+
+
+
+
+  
+  <div class="page-footer">
+  
+  
+  
+  <div class="page-section sharing-section">
+  <div class="12u$">
+    <h3>
+      💗️ Share this page
+    </h3>
+    <ul class="icons">
+  
+  <li>
+    <a href="//www.facebook.com/sharer.php?u=%2f2014%2f11%2f10%2fstudy-guide---linked-lists%2f" target="_blank" rel="noopener" class="icon font-awesome fa-facebook">
+      <i title="Facebook" class="fab fa-facebook fa-lg"></i>
+      <span class="label">Facebook</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//twitter.com/intent/tweet?url=%2f2014%2f11%2f10%2fstudy-guide---linked-lists%2f&via=fvcproductions&text=Study%20Guide%20-%20Linked%20Lists" target="_blank" rel="noopener" class="icon font-awesome fa-twitter">
+      <i title="Twitter" class="fab fa-twitter fa-lg"></i>
+      <span class="label">Twitter</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//plus.google.com/share?url=/2014/11/10/study-guide---linked-lists/" target="_blank" rel="noopener" class="icon font-awesome fa-google-plus-g">
+      <i title="Google Plus" class="fab fa-google-plus-g fa-lg"></i>
+      <span class="label">Google+</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//pinterest.com/pin/create/bookmarklet/?media=%2f%2ffvcproductions.files.wordpress.com%2f2014%2f10%2fbanners-005.jpg%3fw%3d1024%26h%3d436%26crop%3d1&url=/2014/11/10/study-guide---linked-lists/&description=Study%20Guide%20-%20Linked%20Lists" target="_blank" rel="noopener" class="icon font-awesome fa-pinterest">
+      <i title="Pinterest" class="fab fa-pinterest fa-lg"></i>
+      <span class="label">Pinterest</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.linkedin.com/shareArticle?mini=true&url=/2014/11/10/study-guide---linked-lists/&title=Study%20Guide%20-%20Linked%20Lists&summary=CSC251%20Study%20Guide%20Linked%20Lists%20Exam%20Index%20%20Linked%20Lists%20vs%20Arrays%20Linked%20Lists%20Properties%20Linked%20Lists%20Algorithms%2fCode%20%20Linked%20Lists%20vs%20Arrays%20%20Arrays%20%20can%20access%20any%20element%20directly%20via%20indexing%20all%20elements%20grouped%20together%20sitting%20in%201%20block%20of%20memory%20size%20is%20fixed%20%20Linked%20Lists%20%20each%20element%20sits%20in%20own%20block%20of%20memory%20%28called%20node%29%20nodes%20can%20only%20be%20accessed%20in%20sequential%20order%20appears%20limited%20size%20varies%20-%20nodes%20allocated%20on%20need%20basis%20list%20elements%20can%20be%20easily%20inserted%2fremoved%20without%20reallocation%20and%20at%20any%20point%20in%20the%20list%20no%20random%20access%20to%20data%20no%20efficient%20form%20of%20indexing%20%20Key%20Differences%20%20underlying%20layout%20of%20data%20in%20memory%20how%20individual%20elements%20are%20accessed%20%20%20Linked%20Lists%20Properties%20%20overview%20%20a%20sequence%20of%20elements%20arranged%201%20after%20another%20with%20each%20element%20connected%20to%20next%20by%20a%20link%20one%20of%20the%20simplest%20and%20most%20common%20data%20structures%20can%20be%20used%20to%20implement%20other%20abstract%20data%20types%20%20defintion%20%20data%20structure%20of%20group%20of%20nodes%20that%20represent%20a%20sequence%20%20diagram%20%20%20above%20is%20a%20linked%20list%20with%20nodes%20that%20contain%202%20fields%20-%20an%20integer%20value%20and%20a%20link%20to%20next%20to%20the%20next%20node%3b%20last%20node%20linked%20to%20terminator%20symbol%20to%20signify%20end%20of%20list%2fnull%20link&source=FVCproductions" target="_blank" rel="noopener" class="icon font-awesome fa-linkedin-in">
+      <i title="LinkedIn" class="fab fa-linkedin-in fa-lg"></i>
+      <span class="label">LinkedIn</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.tumblr.com/widgets/share/tool?canonicalUrl=/2014/11/10/study-guide---linked-lists/&title=Study%20Guide%20-%20Linked%20Lists&caption=CSC251%20Study%20Guide%20Linked%20Lists%20Exam%20Index%20%20Linked%20Lists%20vs%20Arrays%20Linked%20Lists%20Properties%20Linked%20Lists%20Algorithms%2fCode%20%20Linked%20Lists%20vs%20Arrays%20%20Arrays%20%20can%20access%20any%20element%20directly%20via%20indexing%20all%20elements%20grouped%20together%20sitting%20in%201%20block%20of%20memory%20size%20is%20fixed%20%20Linked%20Lists%20%20each%20element%20sits%20in%20own%20block%20of%20memory%20%28called%20node%29%20nodes%20can%20only%20be%20accessed%20in%20sequential%20order%20appears%20limited%20size%20varies%20-%20nodes%20allocated%20on%20need%20basis%20list%20elements%20can%20be%20easily%20inserted%2fremoved%20without%20reallocation%20and%20at%20any%20point%20in%20the%20list%20no%20random%20access%20to%20data%20no%20efficient%20form%20of%20indexing%20%20Key%20Differences%20%20underlying%20layout%20of%20data%20in%20memory%20how%20individual%20elements%20are%20accessed%20%20%20Linked%20Lists%20Properties%20%20overview%20%20a%20sequence%20of%20elements%20arranged%201%20after%20another%20with%20each%20element%20connected%20to%20next%20by%20a%20link%20one%20of%20the%20simplest%20and%20most%20common%20data%20structures%20can%20be%20used%20to%20implement%20other%20abstract%20data%20types%20%20defintion%20%20data%20structure%20of%20group%20of%20nodes%20that%20represent%20a%20sequence%20%20diagram%20%20%20above%20is%20a%20linked%20list%20with%20nodes%20that%20contain%202%20fields%20-%20an%20integer%20value%20and%20a%20link%20to%20next%20to%20the%20next%20node%3b%20last%20node%20linked%20to%20terminator%20symbol%20to%20signify%20end%20of%20list%2fnull%20link" target="_blank" rel="noopener" class="icon font-awesome fa-digg">
+      <i title="Digg" class="fab fa-digg fa-lg"></i>
+      <span class="label">Digg</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.tumblr.com/widgets/share/tool?canonicalUrl=/2014/11/10/study-guide---linked-lists/&title=Study%20Guide%20-%20Linked%20Lists&caption=CSC251%20Study%20Guide%20Linked%20Lists%20Exam%20Index%20%20Linked%20Lists%20vs%20Arrays%20Linked%20Lists%20Properties%20Linked%20Lists%20Algorithms%2fCode%20%20Linked%20Lists%20vs%20Arrays%20%20Arrays%20%20can%20access%20any%20element%20directly%20via%20indexing%20all%20elements%20grouped%20together%20sitting%20in%201%20block%20of%20memory%20size%20is%20fixed%20%20Linked%20Lists%20%20each%20element%20sits%20in%20own%20block%20of%20memory%20%28called%20node%29%20nodes%20can%20only%20be%20accessed%20in%20sequential%20order%20appears%20limited%20size%20varies%20-%20nodes%20allocated%20on%20need%20basis%20list%20elements%20can%20be%20easily%20inserted%2fremoved%20without%20reallocation%20and%20at%20any%20point%20in%20the%20list%20no%20random%20access%20to%20data%20no%20efficient%20form%20of%20indexing%20%20Key%20Differences%20%20underlying%20layout%20of%20data%20in%20memory%20how%20individual%20elements%20are%20accessed%20%20%20Linked%20Lists%20Properties%20%20overview%20%20a%20sequence%20of%20elements%20arranged%201%20after%20another%20with%20each%20element%20connected%20to%20next%20by%20a%20link%20one%20of%20the%20simplest%20and%20most%20common%20data%20structures%20can%20be%20used%20to%20implement%20other%20abstract%20data%20types%20%20defintion%20%20data%20structure%20of%20group%20of%20nodes%20that%20represent%20a%20sequence%20%20diagram%20%20%20above%20is%20a%20linked%20list%20with%20nodes%20that%20contain%202%20fields%20-%20an%20integer%20value%20and%20a%20link%20to%20next%20to%20the%20next%20node%3b%20last%20node%20linked%20to%20terminator%20symbol%20to%20signify%20end%20of%20list%2fnull%20link" target="_blank" rel="noopener" class="icon font-awesome fa-tumblr">
+      <i title="Tumblr" class="fab fa-tumblr fa-lg"></i>
+      <span class="label">Tumblr</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//reddit.com/submit?url=/2014/11/10/study-guide---linked-lists/&title=Study%20Guide%20-%20Linked%20Lists" target="_blank" rel="noopener" class="icon font-awesome fa-reddit">
+      <i title="Reddit" class="fab fa-reddit fa-lg"></i>
+      <span class="label">Reddit</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//news.ycombinator.com/submitlink?u=/2014/11/10/study-guide---linked-lists/&t=Study%20Guide%20-%20Linked%20Lists" target="_blank" rel="noopener" class="icon font-awesome fa-hacker-news">
+      <i title="Hacker News" class="fab fa-hacker-news fa-lg"></i>
+      <span class="label">Hacker News</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.stumbleupon.com/submit?url=/2014/11/10/study-guide---linked-lists/&title=Study%20Guide%20-%20Linked%20Lists" target="_blank" rel="noopener" class="icon font-awesome fa-stumbleupon">
+      <i title="StumbleUpon" class="fab fa-stumbleupon fa-lg"></i>
+      <span class="label">StumbleUpon</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//delicious.com/save?v=5&provider=FVCproductions&noui&jump=close&url=/2014/11/10/study-guide---linked-lists/&title=Study%20Guide%20-%20Linked%20Lists" target="_blank" rel="noopener" class="icon font-awesome fa-delicious">
+      <i title="Delicious" class="fab fa-delicious fa-lg"></i>
+      <span class="label">Delicious</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.tumblr.com/widgets/share/tool?canonicalUrl=/2014/11/10/study-guide---linked-lists/&title=Study%20Guide%20-%20Linked%20Lists&caption=CSC251%20Study%20Guide%20Linked%20Lists%20Exam%20Index%20%20Linked%20Lists%20vs%20Arrays%20Linked%20Lists%20Properties%20Linked%20Lists%20Algorithms%2fCode%20%20Linked%20Lists%20vs%20Arrays%20%20Arrays%20%20can%20access%20any%20element%20directly%20via%20indexing%20all%20elements%20grouped%20together%20sitting%20in%201%20block%20of%20memory%20size%20is%20fixed%20%20Linked%20Lists%20%20each%20element%20sits%20in%20own%20block%20of%20memory%20%28called%20node%29%20nodes%20can%20only%20be%20accessed%20in%20sequential%20order%20appears%20limited%20size%20varies%20-%20nodes%20allocated%20on%20need%20basis%20list%20elements%20can%20be%20easily%20inserted%2fremoved%20without%20reallocation%20and%20at%20any%20point%20in%20the%20list%20no%20random%20access%20to%20data%20no%20efficient%20form%20of%20indexing%20%20Key%20Differences%20%20underlying%20layout%20of%20data%20in%20memory%20how%20individual%20elements%20are%20accessed%20%20%20Linked%20Lists%20Properties%20%20overview%20%20a%20sequence%20of%20elements%20arranged%201%20after%20another%20with%20each%20element%20connected%20to%20next%20by%20a%20link%20one%20of%20the%20simplest%20and%20most%20common%20data%20structures%20can%20be%20used%20to%20implement%20other%20abstract%20data%20types%20%20defintion%20%20data%20structure%20of%20group%20of%20nodes%20that%20represent%20a%20sequence%20%20diagram%20%20%20above%20is%20a%20linked%20list%20with%20nodes%20that%20contain%202%20fields%20-%20an%20integer%20value%20and%20a%20link%20to%20next%20to%20the%20next%20node%3b%20last%20node%20linked%20to%20terminator%20symbol%20to%20signify%20end%20of%20list%2fnull%20link" target="_blank" rel="noopener" class="icon font-awesome fa-blogger-b">
+      <i title="Blogger" class="fab fa-blogger-b fa-lg"></i>
+      <span class="label">Blogger</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//getpocket.com/save?url=/2014/11/10/study-guide---linked-lists/" target="_blank" rel="noopener" class="icon font-awesome fa-get-pocket">
+      <i title="Pocket" class="fab fa-get-pocket fa-lg"></i>
+      <span class="label">Pocket</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="viber://forward?text=/2014/11/10/study-guide---linked-lists/" target="_blank" rel="noopener" class="icon font-awesome fa-viber">
+      <i title="Viber" class="fab fa-viber fa-lg"></i>
+      <span class="label">Viber</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//lineit.line.me/share/ui?url=/2014/11/10/study-guide---linked-lists/" target="_blank" rel="noopener" class="icon font-awesome fa-line">
+      <i title="Line.me" class="fab fa-line fa-lg"></i>
+      <span class="label">Line.me</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//web.skype.com/share?url=/2014/11/10/study-guide---linked-lists/" target="_blank" rel="noopener" class="icon font-awesome fa-skype">
+      <i title="Skype" class="fab fa-skype fa-lg"></i>
+      <span class="label">Skype</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="whatsapp://send?text=/2014/11/10/study-guide---linked-lists/" target="_blank" rel="noopener" class="icon font-awesome fa-whatsapp">
+      <i title="WhatsApp" class="fab fa-whatsapp fa-lg"></i>
+      <span class="label">WhatsApp</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//telegram.me/share/url?url=/2014/11/10/study-guide---linked-lists/&text=Study%20Guide%20-%20Linked%20Lists" target="_blank" rel="noopener" class="icon font-awesome fa-telegram">
+      <i title="Telegram" class="fab fa-telegram fa-lg"></i>
+      <span class="label">Telegram.me</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//vk.com/share.php?url=/2014/11/10/study-guide---linked-lists/" target="_blank" rel="noopener" class="icon font-awesome fa-vk">
+      <i title="VK" class="fab fa-vk fa-lg"></i>
+      <span class="label">VK</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.xing.com/app/user?op=share&url=/2014/11/10/study-guide---linked-lists/" target="_blank" rel="noopener" class="icon font-awesome fa-xing">
+      <i title="Xing" class="fab fa-xing fa-lg"></i>
+      <span class="label">Xing</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//widget.renren.com/dialog/share?resourceurl=/2014/11/10/study-guide---linked-lists/&srcurl=/2014/11/10/study-guide---linked-lists/&title=Study%20Guide%20-%20Linked%20Lists" target="_blank" rel="noopener" class="icon font-awesome fa-renren">
+      <i title="Ren Ren" class="fab fa-renren fa-lg"></i>
+      <span class="label">RenRen</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//service.weibo.com/share/share.php?url=/2014/11/10/study-guide---linked-lists/&title=Study%20Guide%20-%20Linked%20Lists" target="_blank" rel="noopener" class="icon font-awesome fa-weibo">
+      <i title="Weibo" class="fab fa-weibo fa-lg"></i>
+      <span class="label">Weibo</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="mailto:?subject=Check out this work by FVCproductions&body=/2014/11/10/study-guide---linked-lists/" target="_blank" rel="noopener" class="icon font-awesome">
+      <i title="Email" class="fas fa-envelope fa-lg"></i>
+      <span class="label">Email</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="javascript:window.print()" target="_blank" rel="noopener" class="icon font-awesome">
+      <i title="Print" class="fas fa-print fa-lg"></i>
+      <span class="label">Print</span>
+    </a>
+  </li>
+</ul>
+
+  </div>
+</div>
+
+  
+  
+  
+  
+  <div class="page-section donate-section">
+  <div class="12u$">
+    <h3>
+      💸️ Donate
+    </h3>
+    <p>If you have found any of my contributions valuable, kindly consider supporting me through a small donation or by becoming an ongoing patron. </p>
+    
+    <a href="//patreon.com/fvcproductions" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/patreon.svg" height="50" alt="Patreon">
+    </a>
+    
+    &nbsp;
+    <a href="//paypal.me/fvcproductions/5" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/paypal.svg" height="50" alt="PayPal.Me">
+    </a>
+    
+    &nbsp;
+    <a href="//venmo.com/fvcproductions" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/venmo.svg" height="50" alt="Venmo">
+    </a>
+    
+    &nbsp;
+    <a href="//smile.amazon.com/gp/registry/wishlist/183BMRKTBNR0A" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/amazon.svg" height="50" alt="Amazon Smile">
+    </a>
+    
+    &nbsp;
+    <a href="//cash.me/$fvcprdxs/5" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/cash.svg" height="50" alt="Square Cash">
+    </a>
+    <br>
+  </div>
+</div>
+
+  
+  
+<div class="page-section comments-section">
+  <div class="12u$">
+    <section>
+      <h3>
+        🙈️🙉️🙊️ Leave a comment
+      </h3>
+      <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "fvcproductions" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </section>
+  </div>
+</div>
+
+
+
+  
+  
+<div class="page-section pagination-section">
+  <div class="12u$">
+    
+    
+    <a class="button big" href="/2014/10/26/dc-hack/">
+      <i class="fas fa-long-arrow-alt-left" title="Previous Section"></i>
+      DC Hack
+    </a>
+    
+    
+     &nbsp;
+    <a class="button big" href="/2014/11/10/magnifying-the-bootcamp-research-experience/">
+      Magnifying the Bootcamp Research Experience
+      <i class="fas fa-long-arrow-alt-right" title="Next Section"></i>
+    </a>
+    
+  </div>
+</div>
+
+
+</div>
+
+</div>
+
+
+    </div>
+    
+    
+<footer id="footer">
+  <div class="inner">
+    <section class="social-icons">
+  <ul class="icons">
+    
+    
+    <li>
+      <a href="//behance.net/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="Behance" class="fab fa-behance"></i>
+        <span class="label">Behance</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//github.com/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="GitHub" class="fab fa-github-alt"></i>
+        <span class="label">GitHub</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//linkedin.com/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="LinkedIn" class="fab fa-linkedin-in"></i>
+        <span class="label">LinkedIn</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//slideshare.net/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="SlideShare" class="fab fa-slideshare"></i>
+        <span class="label">SlideShare</span>
+      </a>
+    </li>
+    
+    
+    <li>
+      <a href="/feed.xml" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="RSS" class="fas fa-rss"></i>
+        <span class="label">RSS</span>
+      </a>
+    </li>
+    
+    
+    <li>
+      <a href="//twitter.com/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="Twitter" class="fab fa-twitter"></i>
+        <span class="label">Twitter</span>
+      </a>
+    </li>
+    
+  </ul>
+</section>
+
+    <div class="copyright">
+      <div class="row">
+        <div class="12u$">
+          
+          
+          <i title="Copyright FVCproductions" class="fas fa-copyright"></i>
+          <a href="/">FVCproductions</a>
+          
+          
+           2013  to 2018
+          <br>
+          <br>
+          <i title="Colophon" class="fas fa-cog"></i>
+          <a href="/about/colophon/">Colophon</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  </div>
+  
+  
+  
+  
+  
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-63190978-3', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
+  
+  <script src="/assets/js/app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/OneSignalSDKWorker.js').then(registration => {
+          console.log('The service worker was registered! 🎉', registration);
+        }).catch(registrationError => {
+          console.log('The service worker registration failed. 😭️', registrationError);
+        });
+      });
+    }
+
+  </script>
+</body>
+
+</html>
