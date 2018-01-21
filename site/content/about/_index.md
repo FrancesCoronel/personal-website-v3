@@ -20,8 +20,12 @@ Might have something to do with human nature in general, though, so interpret it
 
 <p class="image-caption">Logo</p>
 
-<p class="notice"><b>Fun Fact</b> My logo is a chocolate dipped strawberry. No particular
-reason why, I just think they're yummy. 🍫🍓</p>
+<p class="notice">
+  <b>Fun Fact</b>
+  <br>
+  My logo is a chocolate dipped strawberry. No particular
+  reason why, I just think they're yummy. 🍫🍓
+</p>
 
 ### Blurb 📇
 

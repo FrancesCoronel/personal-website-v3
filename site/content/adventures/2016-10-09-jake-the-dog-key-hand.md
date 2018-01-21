@@ -1,9 +1,7 @@
 ---
 title: Jake the Dog Key Hand 🐶
 date: 2016-10-09
-description: Volunteered for the hardware booth and Foobar (smoothies) and then
-teamed up with my boyfriend to work on a Leap Motion hack that ended up
-winning an award 🏆
+description: Volunteered for the hardware booth and Foobar (smoothies) and then teamed up with my boyfriend to work on a Leap Motion hack that ended up winning an award 🏆
 banner: https://i.imgur.com/8cFXnVj.jpg
 categories:
   - portfolio
