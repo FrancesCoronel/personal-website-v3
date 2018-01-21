@@ -1,15 +1,17 @@
 ---
-title: "Colophon 🍓️"
-description: "Unveiling the inner workings of this website."
+title: "Colophon \U0001F353️"
+description: Unveiling the inner workings of this website.
 banner: https://i.imgur.com/D4dPpG2.jpg
 noComments: true
----
 
+---
 ## Copyright ∞ FVCproductions
 
 Originally published 2013.
 
 Website design, development, and copy writing by Frances Coronel.
+
+---
 
 ## Credits
 
@@ -21,7 +23,6 @@ Website design, development, and copy writing by Frances Coronel.
   * [HTML5 UP](//html5up.net)
   * [Skel](//github.com/ajlkn/skel)
   * [Embedly](//embed.ly/)
-    <!-- * [Light Gallery](//sachinchoolur.github.io/lightGallery/) -->
   * [Twemoji](//github.com/twitter/twemoji)
   * [Disqus](//disqus.com/)
   * [Isotope](//isotope.metafizzy.co/)
@@ -63,14 +64,14 @@ The important part to note is that I've set the ↗ up to work only with links t
 3. List item three
 4. List item four
 
-|      Name       |       Occupation       | Age |
-| :-------------: | :--------------------: | :-: |
-|  Huey Freeman   | Intellectual Terrorist | 12  |
-|     Tintin      |        Reporter        | 15  |
-| Steven Universe |        Guardian        | 14  |
-|  Tina Belcher   |        Student         | 13  |
-| Phillip J. Fry  |      Delivery Boy      | 25  |
-|  Finn Mertens   |       Adventurer       | 16  |
+| Name | Occupation | Age |
+| :---: | :---: | :---: |
+| Huey Freeman | Intellectual Terrorist | 12 |
+| Tintin | Reporter | 15 |
+| Steven Universe | Guardian | 14 |
+| Tina Belcher | Student | 13 |
+| Phillip J. Fry | Delivery Boy | 25 |
+| Finn Mertens | Adventurer | 16 |
 
 ```md
 > I like to dabble with things that ought to be dabbled with.
@@ -111,10 +112,10 @@ The important part to note is that I've set the ↗ up to work only with links t
 ### HTML
 
 <p class="notice">
-  <b>Fun Fact</b>
-  <br>
-  My logo is a chocolate dipped strawberry. No particular
-  reason why, I just think they're yummy. 🍫🍓
+<b>Fun Fact</b>
+<br>
+My logo is a chocolate dipped strawberry. No particular
+reason why, I just think they're yummy. 🍫🍓
 </p>
 
 There are <sup>superscripts</sup> like in E = MC<sup>2</sup> and <sub>subscripts</sub> like with H<sub>2</sub>O.
