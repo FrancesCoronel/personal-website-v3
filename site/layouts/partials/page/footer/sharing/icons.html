@@ -1,14 +1,14 @@
 <ul class="icons">
   <!-- Facebook -->
   <li>
-    <a href="//www.facebook.com/sharer.php?u={{ .Site.BaseURL }}{{ .Permalink | safeURL }}" target="_blank" rel="noopener" class="icon font-awesome fa-facebook">
+    <a href="//www.facebook.com/sharer.php?u={{ .Permalink }}" target="_blank" rel="noopener" class="icon font-awesome fa-facebook">
       <i title="Facebook" class="fab fa-facebook fa-lg"></i>
       <span class="label">Facebook</span>
     </a>
   </li>
   <!-- Twitter -->
   <li>
-    <a href="//twitter.com/intent/tweet?url={{ .Site.BaseURL }}{{ .Permalink | safeURL }}&via={{ .Site.Social.twitter }}&text={{ .Title }}" target="_blank" rel="noopener" class="icon font-awesome fa-twitter">
+    <a href="//twitter.com/intent/tweet?url={{ .Permalink }}&via={{ .Site.Social.twitter }}&text={{ .Title }}" target="_blank" rel="noopener" class="icon font-awesome fa-twitter">
       <i title="Twitter" class="fab fa-twitter fa-lg"></i>
       <span class="label">Twitter</span>
     </a>

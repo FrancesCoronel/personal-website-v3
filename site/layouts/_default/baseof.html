@@ -3,7 +3,6 @@
 
 <head>
   <title>{{ .Title }}</title>
-  <!-- <base href="{{ .Site.BaseURL }}"> -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="DC.title" content="{{ .Title }}">
@@ -17,10 +16,10 @@
   <!-- Favicons -->
   {{ partial "base/header/favicons.html" . }}
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/main.css">
   <!-- IE Styling -->
-  <!--[if lte IE 9]><link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/ie9.css"><![endif]-->
-  <!--[if lte IE 8]><link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/ie8.css"><![endif]-->
+  <!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css"><![endif]-->
+  <!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css"><![endif]-->
   <!-- OneSignal -->
   <link rel="manifest" href="/manifest.json" />
   <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
@@ -51,18 +50,18 @@
   </div>
   <!-- Scripts -->
   <!-- IE -->
-  <!--[if lte IE 8]><script src="{{.Site.BaseURL}}assets/js/ie.js"></script><![endif]-->
+  <!--[if lte IE 8]><script src="/assets/js/ie.js"></script><![endif]-->
   <!-- Google Analytics -->
   {{ template "_internal/google_analytics_async.html" . }}
   <!-- Custom JS -->
-  <script src="{{.Site.BaseURL}}assets/js/app.js"></script>
+  <script src="/assets/js/app.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
         navigator.serviceWorker.register('/OneSignalSDKWorker.js').then(registration => {
-          console.log('Service Worker Registered: ', registration);
+          console.log('The service worker was registered! 🎉', registration);
         }).catch(registrationError => {
-          console.log('Service Worker Registration Failed: ', registrationError);
+          console.log('The service worker registration failed. 😭️', registrationError);
         });
       });
     }
