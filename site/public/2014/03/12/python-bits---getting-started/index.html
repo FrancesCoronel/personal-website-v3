@@ -1,0 +1,1020 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+
+<head>
+  <title>Python Bits - Getting Started</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="DC.title" content="Python Bits - Getting Started">
+  <meta name="DC.description" content="The first bit in a mini-series for beginners of Python.">
+  <meta name="DC.creator" content="Frances Coronel">
+  <meta name="DC.language" content="en">
+  <meta name="DC.publisher" content="Frances Coronel">
+  <meta name="DC.subject" content="area of a rectangle python,digital hieroglyphics,initializing,installation,integers,numerical expressions,printing,python,python 3,python area of a,circle,python bits,strings python,">
+  
+  <meta charset="utf-8">
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="HandheldFriendly" content="True">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0">
+<meta name="application-name" content="Python Bits - Getting Started">
+<meta name="msapplication-window" content="width=device-width;height=device-height">
+<meta name="msapplication-tooltip" content=" The first bit in a mini-series for beginners of Python. ">
+<meta name="title" content="Python Bits - Getting Started">
+<meta name="description" content=" The first bit in a mini-series for beginners of Python. ">
+<meta name="image" content="https://fvcproductions.com/assets/img/teaser.png">
+<meta name="robots" content="index, follow">
+<meta itemprop="name" content="Python Bits - Getting Started">
+<meta itemprop="description" content=" The first bit in a mini-series for beginners of Python. ">
+<meta itemprop="image" content="https://fvcproductions.com/assets/img/teaser.png">
+
+<meta property="og:title" content="FVCproductions">
+<meta property="og:description" content=" The first bit in a mini-series for beginners of Python. ">
+<meta property="og:image" content="https://fvcproductions.com/assets/img/teaser.png">
+<meta property="og:image:width" content="1050">
+<meta property="og:image:height" content="600">
+<meta property="og:url" content="https://fvcproductions.com/">
+<meta property="og:site_name" content="Python Bits - Getting Started">
+<meta property="og:locale" content="en">
+<meta property="og:type" content="website">
+<meta property="og:description" content=" The first bit in a mini-series for beginners of Python. ">
+
+<meta name="twitter:site" content="@fvcproductions">
+<meta name="twitter:title" content="FVCproductions">
+<meta name="twitter:description" content=" The first bit in a mini-series for beginners of Python. ">
+<meta name="twitter:url" content="https://fvcproductions.com/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://fvcproductions.com/assets/img/teaser.png">
+<meta name="twitter:image:src" content="https://fvcproductions.com/assets/img/teaser.png">
+<meta name="twitter:creator" content="@fvcproductions">
+
+<link rel="preconnect" href="https://fvcproductions.com/">
+
+<link rel="canonical" href="/2014/03/12/python-bits---getting-started/">
+
+
+
+ 
+<link rel="prefetch" href="/2014/03/12/java-bits---getting-started/">
+<link rel="prerender" href="/2014/03/12/java-bits---getting-started/">  
+<link rel="prefetch" href="/2014/03/04/the-best-50-insults/">
+<link rel="prerender" href="/2014/03/04/the-best-50-insults/">  
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Python Bits - Getting Started"/>
+<meta name="twitter:description" content="The first bit in a mini-series for beginners of Python."/>
+<meta name="twitter:site" content="@fvcproductions"/>
+
+
+<meta property="og:title" content="Python Bits - Getting Started" />
+<meta property="og:description" content="The first bit in a mini-series for beginners of Python." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2014/03/12/python-bits---getting-started/" />
+
+
+
+<meta property="article:published_time" content="2014-03-12T00:00:00&#43;00:00"/>
+
+<meta property="article:modified_time" content="2014-03-12T00:00:00&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="Python Bits - Getting Started">
+<meta itemprop="description" content="The first bit in a mini-series for beginners of Python.">
+
+
+<meta itemprop="datePublished" content="2014-03-12T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2014-03-12T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="1336">
+
+
+
+<meta itemprop="keywords" content="area of a rectangle python,digital hieroglyphics,initializing,installation,integers,numerical expressions,printing,python,python 3,python area of a,circle,python bits,strings python," />
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+
+  
+  <link rel="apple-touch-icon-precomposed" href="/assets/img/favicons/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/favicons/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/img/favicons/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/favicons/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/img/favicons/apple-touch-icon-152x152-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/img/favicons/apple-touch-icon-180x180-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/img/favicons/apple-touch-icon-57x57-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/assets/img/favicons/apple-touch-icon-60x60-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/favicons/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/img/favicons/apple-touch-icon-76x76-precomposed.png">
+<link rel="apple-touch-icon" href="/assets/img/favicons/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/img/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/img/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/img/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/img/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicons/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/img/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/img/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/img/favicons/apple-touch-icon-76x76.png">
+<link rel="icon" sizes="144x144" type="image/png" href="/assets/img/favicons/android-chrome-144x144.png">
+<link rel="icon" sizes="16x16 32x32" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" sizes="16x16" type="image/png" href="/assets/img/favicons/favicon-16x16.png">
+<link rel="icon" sizes="192x192" type="image/png" href="/assets/img/favicons/android-chrome-192x192.png">
+<link rel="icon" sizes="256x256" type="image/png" href="/assets/img/favicons/android-chrome-256x256.png">
+<link rel="icon" sizes="32x32" type="image/png" href="/assets/img/favicons/favicon-32x32.png">
+<link rel="icon" sizes="36x36" type="image/png" href="/assets/img/favicons/android-chrome-36x36.png">
+<link rel="icon" sizes="384x384" type="image/png" href="/assets/img/favicons/android-chrome-384x384.png">
+<link rel="icon" sizes="48x48" type="image/png" href="/assets/img/favicons/android-chrome-48x48.png">
+<link rel="icon" sizes="512x512" type="image/png" href="/assets/img/favicons/android-chrome-512x512.png">
+<link rel="icon" sizes="72x72" type="image/png" href="/assets/img/favicons/android-chrome-72x72.png">
+<link rel="icon" sizes="96x96" type="image/png" href="/assets/img/favicons/android-chrome-96x96.png">
+<link rel="mask-icon" color="#253137" href="/assets/img/favicons/safari-pinned-tab.svg">
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="Python Bits - Getting Started">
+<meta name="application-name" content="Python Bits - Getting Started">
+<meta name="msapplication-TileColor" content="#253137">
+<meta name="msapplication-TileImage" content="/assets/img/favicons/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+  
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+  
+  
+  
+  <link rel="manifest" href="/manifest.json" />
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+  <script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(function () {
+      OneSignal.init({
+        appId: "7bc782bf-6ee1-4373-8d1d-1346aba3b9ff",
+      });
+    });
+
+  </script>
+</head>
+
+<body>
+  
+  <div id="wrapper">
+    
+    
+<header id="header">
+  <div class="inner">
+    
+    <a href="/" class="logo">
+      <span class="symbol">
+        <img src="/assets/img/logo.svg" alt="FVCproductions - Logo">
+      </span>
+      <span class="title">FVCproductions</span>
+    </a>
+    
+    <nav>
+      <ul>
+        <li>
+          <a href="#menu">Menu</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+    
+    
+<nav id="menu">
+  <h2>Menu</h2>
+  <ul>
+    
+    <li>
+      <p>
+        <b>
+          <a href="https://cse.google.com/cse/publicurl?cx=008213476470887739041:ade_gb9mv7g" target="_blank" rel="noopener">Search... 🔍️</a>
+        </b>
+      </p>
+    </li>
+    
+    <li>
+      <a href="/" rel="noopener">
+        Home 🏠
+      </a>
+    </li>
+    
+    <li>
+      <a href="/about" rel="noopener">
+        About 👀
+      </a>
+    </li>
+    
+    <li>
+      <a href="/adventures" rel="noopener">
+        Adventures ✈️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/archive" rel="noopener">
+        Archive 🕒️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/awards" rel="noopener">
+        Awards 🏆️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/blog" rel="noopener">
+        Blog 📝️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/contact" rel="noopener">
+        Contact 📨
+      </a>
+    </li>
+    
+    <li>
+      <a href="/portfolio" rel="noopener">
+        Portfolio 💼
+      </a>
+    </li>
+    
+    <li>
+      <a href="/services" rel="noopener">
+        Services 🛠️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/speaking" rel="noopener">
+        Speaking 💬️
+      </a>
+    </li>
+    
+  </ul>
+</nav>
+
+    
+    <div class="inner">
+      
+
+
+<a href="javascript:" id="return-to-top" aria-label="Return to Top" aria-labelledby="Return to Top" aria-hidden="true">
+  <i class="fas fa-arrow-up"></i>
+</a>
+<div class="page">
+  
+  <div class="page-header">
+  <h1>Python Bits - Getting Started</h1>
+  <div class="page-info">
+    
+    
+    <div class="row">
+      <div class="12u">
+        <p>
+          <i title="Description" class="fas fa-info-circle fa-lg"></i>The first bit in a mini-series for beginners of Python.
+        </p>
+      </div>
+    </div>
+    
+    
+    
+    <div class="row">
+      <div class="12u">
+        <p>
+          <i title="Calendly" class="fas fa-calendar-check fa-lg"></i>Wednesday - March 12, 2014
+        </p>
+      </div>
+    </div>
+    
+    
+      
+    <p>
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>7 minute read ∙ 1336 words
+    </p>
+      
+    
+    
+    
+    
+  </div>
+  
+  <div class="row">
+    <div class="12u$">
+      
+      
+      
+      
+      <span class="image main">
+        
+        <img src="//fvcproductions.files.wordpress.com/2014/06/python.jpg?w=1024&amp;h=435&amp;crop=1" alt="">
+        
+        
+      </span>
+      
+      
+      
+    </div>
+  </div>
+</div>
+<script id="dsq-count-scr" src="//fvcproductions.disqus.com/count.js" async></script>
+
+  
+  
+<div class="page-body">
+  <div class="12u$">
+    
+
+<h3 id="hello-hello-hello">Hello, hello, hello!</h3>
+
+<p>Welcome to Python Bits, where you&rsquo;re introduced to increasingly difficult program problems that you can solve… or not.</p>
+
+<p>It&rsquo;s up to you, I&rsquo;m not the pushy type.</p>
+
+<p>So long time, no see, and naturally it&rsquo;s time for another programming session, BUT this time, we&rsquo;re going to be working with Python!</p>
+
+<p>For this exercise, I assume you own a device with an OSX system. Sorry Windows users.</p>
+
+<p>Just a heads up, you are going to be witnessing a very easy Python problem session, due to the fact that these problems are meant for absolute beginners to programming, and Python happens to be one of the easier languages to understand in terms of syntax, thankfully.</p>
+
+<p>We&rsquo;ll be using Python 3.3.2 version, which does have different syntax from the more widely used Python 2, so do note that when looking at these programs.</p>
+
+<p>Now let&rsquo;s do this, homie!</p>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4">To Note...
+Compiler - CodeRunner 1.3.1
+Python Version - 3.3.4</pre></div>
+<p>Now we&rsquo;ll be covering 7 &ldquo;problems&rdquo; today…</p>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4">1. Installation
+2. Numerical Expressions
+3. Printing
+4.  Initializing
+5.  Strings and Integers
+6.  Area of a rectangle
+7.  Area of a circle</pre></div>
+<p>The full program that can be compiled correctly without any errors can be found at Github <a href="//github.com/fvcproductions/BITS/tree/master/Python-Bits">here</a>, so that if you ever get stuck and don&rsquo;t feel like stressing, you can check that out!</p>
+
+<p>Umm.. except for Problem 1 and 2, that is.</p>
+
+<p>Problem 1 is just involving Installation and with Problem 2, the answers are given so it&rsquo;s all good.</p>
+
+<p><strong>Problem 1 - Installation</strong></p>
+
+<p>Install Python first fool (in case you haven&rsquo;t already)!</p>
+
+<p>The latest version as of March 4, 2014 is Python 3.3.4, and I&rsquo;ll just be referring to it as Python 3.0.</p>
+
+<p>As an Apple fanatic, I personally use <a href="//krillapps.com/coderunner/">CodeRunner</a> to compile and run my little programs. Although it does cost \$9.99 on Apple&rsquo;s App Store… so you know - that&rsquo;s your go.</p>
+
+<p>However, it is recommended by most web-developers that you learn how to use <a href="//www.sublimetext.com">SublimeText</a> if you intend to do more programming in the future. SublimeText is recognized way more by top web-developers and can be run on Linux, Windows, and OSX (so that&rsquo;s a plus!). The downside is that SublimeText requires a purchase license for continued use, but at the same time there&rsquo;s no time limit for your &ldquo;evaluation&rdquo; of the product… so it&rsquo;s kinda free?</p>
+
+<p>ANYHOW, SublimeText costs \$70, but there are PLENTY of free options out there, so do NOT give up if you&rsquo;re on a tight budget.</p>
+
+<p>The popular free ones are <a href="//www.barebones.com/products/textwrangler/">TextWrangler</a>, <a href="//developer.apple.com/xcode/">Xcode</a> (if you have OSX), <a href="//www.eclipse.org">Eclipse</a> and some popular expensive ones are <a href="//panic.com/coda/">Coda</a>, <a href="//www.barebones.com/products/bbedit/">BBEdit</a>, <a href="//www.jetbrains.com/pycharm/">PyCharm</a>, and SublimeText 2…which I mentioned already.</p>
+
+<p>Yarharhar. Okay, moving on.</p>
+
+<p>If you want to run Python 3.0 on CodeRunner, you will have to</p>
+
+<ol>
+<li>First download the latest version of Python from Python&rsquo;s website (which they <strong>finally</strong> updated because Lordy it was looking mighty messy when I first laid my eyes on it back in the day)</li>
+<li>Unless of course you want to use Python 2.0, since Python 2.0 is only version automatically supplied with CodeRunner</li>
+<li>Careful to pick the right version depending on whether your Mac is 64 or 32-bit</li>
+<li>After you open up the install dmg file from the website, install it using the .mpkg file</li>
+<li>Then go ahead and use your Terminal, the app you can find in <em>Applications/Utilities</em> on your Mac and type in &ldquo;python3&rdquo;</li>
+<li>I have it installed already so this image shows up:<br />
+<img src="//fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-04-at-5-19-30-pm.png" alt="Already
+Installed" /></li>
+<li>If that doesn&rsquo;t show up, you probably screwed up, or I suck at giving instructions…check Google.</li>
+<li>If it does work, we can work with CodeRunner now! :D</li>
+<li>So now open up CodeRunner and go to <em>CodeRunner -&gt; Preferences -&gt; Languages</em></li>
+<li>Then go ahead and create a new language with the + button</li>
+<li>It should look something like this:<br />
+ <img src="//fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-04-at-11-47-49-am.png" alt="Adding Python
+3.0" /></li>
+<li>Once you&rsquo;ve done that, you can choose Python 3 from your scroll bar of languages…and FINALLY — you can freaking use Python 3.0.</li>
+</ol>
+
+<p><strong>Problem 2 - Numerical Expressions</strong></p>
+
+<p>So with Python, you have the ability to to use the language as a calculator. I mean, it&rsquo;s an awesome programming language so you can pretty much use the language to do <strong>whatever the hell you want</strong>.</p>
+
+<p>So go ahead and open up a tab and check out what happens when you work with different numerical expressions…</p>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4">a) 7 * 3
+
+will output 21. The symbol * implies multiplication.
+
+b) 7 ** 3
+
+will output 343. The symbol ** implies to the power. So similarly, 5**2 will output 25.
+
+c) 7/11
+
+will output 0.6363636363636364
+simply because the fraction 7/11 is .636 in decimal form
+
+d) 7 // 11
+
+will output 0.
+
+e) 7 / 0
+
+ERROR
+If you try to compile that expression,
+there will be an immediate error due to the fact you simply can&#39;t divide by zero.
+Hopefully, you&#39;ve learn that little fact by now...
+you know with algebra and what not.</pre></div>
+<p>Just to note, it&rsquo;s not necessary to add spaces between the numbers and symbols, but I put them in for reading purposes.</p>
+
+<p><strong>Problem 3 - Printing</strong></p>
+
+<p>Print your name out using the print function.</p>
+
+<p>The print function is called through print().</p>
+
+<p>You will also need quotation marks around your name.</p>
+
+<p>So input for me would look like</p>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4">print(&#34;FVC productions&#34;)</pre></div>
+<p>This would simply output FVC productions onto the console.</p>
+
+<p>The parenthesis isn&rsquo;t used with Python 2, but for Python 3, you will get a syntax error message if you don&rsquo;t use it.</p>
+
+<p><strong>Problem 4 - Initializing</strong></p>
+
+<p>Initialize the two variables a and b with the values 14 and 5.</p>
+
+<p>When I say initialize, I basically mean you need to make sure that a is recognized as 14 by declaring it as a = 14 and the same with b so b = 5.</p>
+
+<p>Now go ahead and print the corresponding messages as shown here:</p>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4">a) a
+b) b
+c) a + b
+d) a - b
+e) a * b
+f) a ** b
+g) a / b
+h) a // b
+i) a % b</pre></div>
+<p><strong>Problem 5 - Strings and Integers</strong></p>
+
+<p>Some basic pointers for beforehand, text in programming is also known as a &ldquo;string&rdquo;, and numbers are often referred to as their formats, so there are &ldquo;integer&rdquo; numbers and &ldquo;float&rdquo; numbers.</p>
+
+<p>The main difference is that float numbers have decimals.</p>
+
+<p>So an integer number would be 5, but a float number would just be 5.0, with the decimal.</p>
+
+<p>Write a program that reads your name (as text/string) and your age (as number/integer value) as input from the keyboard.</p>
+
+<p>This information should then be printed on the screen as a full sentence.</p>
+
+<p><strong>Problem 6 - Area of a Rectangle</strong></p>
+
+<p>Write a program that reads from the keyboard the width and length of a rectangle as integer values.</p>
+
+<p>Compute the area of the corresponding rectangle and print the result as a meaningful sentence to the screen, like &ldquo;The area of the rectangle is 10.&rdquo;</p>
+
+<p>Area of a rectangle is known as length * width</p>
+
+<p><strong>Problem 7 - Area of a Circle</strong></p>
+
+<p>Please read the radius as input from the keyboard in the form of a floating point number and compute the area of the corresponding circle.</p>
+
+<p>You may assume that π (pi) = 3.14.</p>
+
+<p>Print the area of the circle in the screen.</p>
+
+<p>Area of a circle is known</p>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4">3*π*radius²</pre></div>
+<p><strong><em>But here&rsquo;s a little trick for pi…</em></strong></p>
+
+<p>Instead of declaring pi as 3.14 and so on, you can use a built-in math constant known as math.pi which will give you the entire value of pi, to the precise number!</p>
+
+<p>In Python we can raise r to 2 by using * twice, so that the area of a circle can be written as</p>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4">3*math.pi*radius**2</pre></div>
+<p>Python also has the built-in function pow.</p>
+
+<p>It&rsquo;s formatted as pow(x, y) where x is raised to the y.</p>
+
+<p>So in this case we would have</p>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4">3*math.pi*pow(radius,2)</pre></div>
+<p>And booyah baby! <strong>We&rsquo;re done!</strong></p>
+
+<p>You just got introduced to your first two built-in mathematical function!!</p>
+
+<p>Python has a BUNCH of these and if you&rsquo;re curious, a list of them can be found <a href="//docs.python.org/2/library/math.html">here</a>.</p>
+
+    
+    
+
+<br>
+<div class="page-section taxonomy-section">
+  <div class="row">
+    
+    
+    <div class="6u 12u$(small) 12u$(xsmall)">
+      <h3>
+        📂 Categories
+      </h3>
+      <ul>
+        
+        <li>
+          <a href="/categories/blog/" title="blog">blog</a>
+        </li>
+        
+        <li>
+          <a href="/categories/coding/" title="coding">coding</a>
+        </li>
+        
+      </ul>
+    </div>
+    
+    
+    
+    <div class="6u 12u$(small) 12u$(xsmall)">
+      <h3>
+        📌 Tags
+      </h3>
+
+      <ul>
+        
+        <li>
+          <a href="/tags/area-of-a-rectangle-python/" title="area of a rectangle python">area of a rectangle python</a>
+        </li>
+        
+        <li>
+          <a href="/tags/digital-hieroglyphics/" title="digital hieroglyphics">digital hieroglyphics</a>
+        </li>
+        
+        <li>
+          <a href="/tags/initializing/" title="initializing">initializing</a>
+        </li>
+        
+        <li>
+          <a href="/tags/installation/" title="installation">installation</a>
+        </li>
+        
+        <li>
+          <a href="/tags/integers/" title="integers">integers</a>
+        </li>
+        
+        <li>
+          <a href="/tags/numerical-expressions/" title="numerical expressions">numerical expressions</a>
+        </li>
+        
+        <li>
+          <a href="/tags/printing/" title="printing">printing</a>
+        </li>
+        
+        <li>
+          <a href="/tags/python/" title="python">python</a>
+        </li>
+        
+        <li>
+          <a href="/tags/python-3/" title="python 3">python 3</a>
+        </li>
+        
+        <li>
+          <a href="/tags/python-area-of-a/" title="python area of a">python area of a</a>
+        </li>
+        
+        <li>
+          <a href="/tags/circle/" title="circle">circle</a>
+        </li>
+        
+        <li>
+          <a href="/tags/python-bits/" title="python bits">python bits</a>
+        </li>
+        
+        <li>
+          <a href="/tags/strings-python/" title="strings python">strings python</a>
+        </li>
+        
+      </ul>
+
+    </div>
+    
+  </div>
+</div>
+
+
+  </div>
+</div>
+
+
+
+
+
+
+
+
+  
+  <div class="page-footer">
+  
+  
+  
+  <div class="page-section sharing-section">
+  <div class="12u$">
+    <h3>
+      💗️ Share this page
+    </h3>
+    <ul class="icons">
+  
+  <li>
+    <a href="//www.facebook.com/sharer.php?u=%2f2014%2f03%2f12%2fpython-bits---getting-started%2f" target="_blank" rel="noopener" class="icon font-awesome fa-facebook">
+      <i title="Facebook" class="fab fa-facebook fa-lg"></i>
+      <span class="label">Facebook</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//twitter.com/intent/tweet?url=%2f2014%2f03%2f12%2fpython-bits---getting-started%2f&via=fvcproductions&text=Python%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-twitter">
+      <i title="Twitter" class="fab fa-twitter fa-lg"></i>
+      <span class="label">Twitter</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//plus.google.com/share?url=/2014/03/12/python-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome fa-google-plus-g">
+      <i title="Google Plus" class="fab fa-google-plus-g fa-lg"></i>
+      <span class="label">Google+</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//pinterest.com/pin/create/bookmarklet/?media=%2f%2ffvcproductions.files.wordpress.com%2f2014%2f06%2fpython.jpg%3fw%3d1024%26h%3d435%26crop%3d1&url=/2014/03/12/python-bits---getting-started/&description=Python%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-pinterest">
+      <i title="Pinterest" class="fab fa-pinterest fa-lg"></i>
+      <span class="label">Pinterest</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.linkedin.com/shareArticle?mini=true&url=/2014/03/12/python-bits---getting-started/&title=Python%20Bits%20-%20Getting%20Started&summary=Hello%2c%20hello%2c%20hello%21%20Welcome%20to%20Python%20Bits%2c%20where%20you%26rsquo%3bre%20introduced%20to%20increasingly%20difficult%20program%20problems%20that%20you%20can%20solve%e2%80%a6%20or%20not.%0aIt%26rsquo%3bs%20up%20to%20you%2c%20I%26rsquo%3bm%20not%20the%20pushy%20type.%0aSo%20long%20time%2c%20no%20see%2c%20and%20naturally%20it%26rsquo%3bs%20time%20for%20another%20programming%20session%2c%20BUT%20this%20time%2c%20we%26rsquo%3bre%20going%20to%20be%20working%20with%20Python%21%0aFor%20this%20exercise%2c%20I%20assume%20you%20own%20a%20device%20with%20an%20OSX%20system.%20Sorry%20Windows%20users.&source=FVCproductions" target="_blank" rel="noopener" class="icon font-awesome fa-linkedin-in">
+      <i title="LinkedIn" class="fab fa-linkedin-in fa-lg"></i>
+      <span class="label">LinkedIn</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.tumblr.com/widgets/share/tool?canonicalUrl=/2014/03/12/python-bits---getting-started/&title=Python%20Bits%20-%20Getting%20Started&caption=Hello%2c%20hello%2c%20hello%21%20Welcome%20to%20Python%20Bits%2c%20where%20you%26rsquo%3bre%20introduced%20to%20increasingly%20difficult%20program%20problems%20that%20you%20can%20solve%e2%80%a6%20or%20not.%0aIt%26rsquo%3bs%20up%20to%20you%2c%20I%26rsquo%3bm%20not%20the%20pushy%20type.%0aSo%20long%20time%2c%20no%20see%2c%20and%20naturally%20it%26rsquo%3bs%20time%20for%20another%20programming%20session%2c%20BUT%20this%20time%2c%20we%26rsquo%3bre%20going%20to%20be%20working%20with%20Python%21%0aFor%20this%20exercise%2c%20I%20assume%20you%20own%20a%20device%20with%20an%20OSX%20system.%20Sorry%20Windows%20users." target="_blank" rel="noopener" class="icon font-awesome fa-digg">
+      <i title="Digg" class="fab fa-digg fa-lg"></i>
+      <span class="label">Digg</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.tumblr.com/widgets/share/tool?canonicalUrl=/2014/03/12/python-bits---getting-started/&title=Python%20Bits%20-%20Getting%20Started&caption=Hello%2c%20hello%2c%20hello%21%20Welcome%20to%20Python%20Bits%2c%20where%20you%26rsquo%3bre%20introduced%20to%20increasingly%20difficult%20program%20problems%20that%20you%20can%20solve%e2%80%a6%20or%20not.%0aIt%26rsquo%3bs%20up%20to%20you%2c%20I%26rsquo%3bm%20not%20the%20pushy%20type.%0aSo%20long%20time%2c%20no%20see%2c%20and%20naturally%20it%26rsquo%3bs%20time%20for%20another%20programming%20session%2c%20BUT%20this%20time%2c%20we%26rsquo%3bre%20going%20to%20be%20working%20with%20Python%21%0aFor%20this%20exercise%2c%20I%20assume%20you%20own%20a%20device%20with%20an%20OSX%20system.%20Sorry%20Windows%20users." target="_blank" rel="noopener" class="icon font-awesome fa-tumblr">
+      <i title="Tumblr" class="fab fa-tumblr fa-lg"></i>
+      <span class="label">Tumblr</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//reddit.com/submit?url=/2014/03/12/python-bits---getting-started/&title=Python%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-reddit">
+      <i title="Reddit" class="fab fa-reddit fa-lg"></i>
+      <span class="label">Reddit</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//news.ycombinator.com/submitlink?u=/2014/03/12/python-bits---getting-started/&t=Python%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-hacker-news">
+      <i title="Hacker News" class="fab fa-hacker-news fa-lg"></i>
+      <span class="label">Hacker News</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.stumbleupon.com/submit?url=/2014/03/12/python-bits---getting-started/&title=Python%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-stumbleupon">
+      <i title="StumbleUpon" class="fab fa-stumbleupon fa-lg"></i>
+      <span class="label">StumbleUpon</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//delicious.com/save?v=5&provider=FVCproductions&noui&jump=close&url=/2014/03/12/python-bits---getting-started/&title=Python%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-delicious">
+      <i title="Delicious" class="fab fa-delicious fa-lg"></i>
+      <span class="label">Delicious</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.tumblr.com/widgets/share/tool?canonicalUrl=/2014/03/12/python-bits---getting-started/&title=Python%20Bits%20-%20Getting%20Started&caption=Hello%2c%20hello%2c%20hello%21%20Welcome%20to%20Python%20Bits%2c%20where%20you%26rsquo%3bre%20introduced%20to%20increasingly%20difficult%20program%20problems%20that%20you%20can%20solve%e2%80%a6%20or%20not.%0aIt%26rsquo%3bs%20up%20to%20you%2c%20I%26rsquo%3bm%20not%20the%20pushy%20type.%0aSo%20long%20time%2c%20no%20see%2c%20and%20naturally%20it%26rsquo%3bs%20time%20for%20another%20programming%20session%2c%20BUT%20this%20time%2c%20we%26rsquo%3bre%20going%20to%20be%20working%20with%20Python%21%0aFor%20this%20exercise%2c%20I%20assume%20you%20own%20a%20device%20with%20an%20OSX%20system.%20Sorry%20Windows%20users." target="_blank" rel="noopener" class="icon font-awesome fa-blogger-b">
+      <i title="Blogger" class="fab fa-blogger-b fa-lg"></i>
+      <span class="label">Blogger</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//getpocket.com/save?url=/2014/03/12/python-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome fa-get-pocket">
+      <i title="Pocket" class="fab fa-get-pocket fa-lg"></i>
+      <span class="label">Pocket</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="viber://forward?text=/2014/03/12/python-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome fa-viber">
+      <i title="Viber" class="fab fa-viber fa-lg"></i>
+      <span class="label">Viber</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//lineit.line.me/share/ui?url=/2014/03/12/python-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome fa-line">
+      <i title="Line.me" class="fab fa-line fa-lg"></i>
+      <span class="label">Line.me</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//web.skype.com/share?url=/2014/03/12/python-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome fa-skype">
+      <i title="Skype" class="fab fa-skype fa-lg"></i>
+      <span class="label">Skype</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="whatsapp://send?text=/2014/03/12/python-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome fa-whatsapp">
+      <i title="WhatsApp" class="fab fa-whatsapp fa-lg"></i>
+      <span class="label">WhatsApp</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//telegram.me/share/url?url=/2014/03/12/python-bits---getting-started/&text=Python%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-telegram">
+      <i title="Telegram" class="fab fa-telegram fa-lg"></i>
+      <span class="label">Telegram.me</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//vk.com/share.php?url=/2014/03/12/python-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome fa-vk">
+      <i title="VK" class="fab fa-vk fa-lg"></i>
+      <span class="label">VK</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.xing.com/app/user?op=share&url=/2014/03/12/python-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome fa-xing">
+      <i title="Xing" class="fab fa-xing fa-lg"></i>
+      <span class="label">Xing</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//widget.renren.com/dialog/share?resourceurl=/2014/03/12/python-bits---getting-started/&srcurl=/2014/03/12/python-bits---getting-started/&title=Python%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-renren">
+      <i title="Ren Ren" class="fab fa-renren fa-lg"></i>
+      <span class="label">RenRen</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//service.weibo.com/share/share.php?url=/2014/03/12/python-bits---getting-started/&title=Python%20Bits%20-%20Getting%20Started" target="_blank" rel="noopener" class="icon font-awesome fa-weibo">
+      <i title="Weibo" class="fab fa-weibo fa-lg"></i>
+      <span class="label">Weibo</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="mailto:?subject=Check out this work by FVCproductions&body=/2014/03/12/python-bits---getting-started/" target="_blank" rel="noopener" class="icon font-awesome">
+      <i title="Email" class="fas fa-envelope fa-lg"></i>
+      <span class="label">Email</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="javascript:window.print()" target="_blank" rel="noopener" class="icon font-awesome">
+      <i title="Print" class="fas fa-print fa-lg"></i>
+      <span class="label">Print</span>
+    </a>
+  </li>
+</ul>
+
+  </div>
+</div>
+
+  
+  
+  
+  
+  <div class="page-section donate-section">
+  <div class="12u$">
+    <h3>
+      💸️ Donate
+    </h3>
+    <p>If you have found any of my contributions valuable, kindly consider supporting me through a small donation or by becoming an ongoing patron. </p>
+    
+    <a href="//patreon.com/fvcproductions" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/patreon.svg" height="50" alt="Patreon">
+    </a>
+    
+    &nbsp;
+    <a href="//paypal.me/fvcproductions/5" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/paypal.svg" height="50" alt="PayPal.Me">
+    </a>
+    
+    &nbsp;
+    <a href="//venmo.com/fvcproductions" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/venmo.svg" height="50" alt="Venmo">
+    </a>
+    
+    &nbsp;
+    <a href="//smile.amazon.com/gp/registry/wishlist/183BMRKTBNR0A" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/amazon.svg" height="50" alt="Amazon Smile">
+    </a>
+    
+    &nbsp;
+    <a href="//cash.me/$fvcprdxs/5" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/cash.svg" height="50" alt="Square Cash">
+    </a>
+    <br>
+  </div>
+</div>
+
+  
+  
+<div class="page-section comments-section">
+  <div class="12u$">
+    <section>
+      <h3>
+        🙈️🙉️🙊️ Leave a comment
+      </h3>
+      <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "fvcproductions" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </section>
+  </div>
+</div>
+
+
+
+  
+  
+<div class="page-section pagination-section">
+  <div class="12u$">
+    
+    
+    <a class="button big" href="/2014/03/04/the-best-50-insults/">
+      <i class="fas fa-long-arrow-alt-left" title="Previous Section"></i>
+      The Best 50 Insults
+    </a>
+    
+    
+     &nbsp;
+    <a class="button big" href="/2014/03/12/java-bits---getting-started/">
+      Java Bits - Getting Started
+      <i class="fas fa-long-arrow-alt-right" title="Next Section"></i>
+    </a>
+    
+  </div>
+</div>
+
+
+</div>
+
+</div>
+
+
+    </div>
+    
+    
+<footer id="footer">
+  <div class="inner">
+    <section class="social-icons">
+  <ul class="icons">
+    
+    
+    <li>
+      <a href="//behance.net/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="Behance" class="fab fa-behance"></i>
+        <span class="label">Behance</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//github.com/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="GitHub" class="fab fa-github-alt"></i>
+        <span class="label">GitHub</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//linkedin.com/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="LinkedIn" class="fab fa-linkedin-in"></i>
+        <span class="label">LinkedIn</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//slideshare.net/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="SlideShare" class="fab fa-slideshare"></i>
+        <span class="label">SlideShare</span>
+      </a>
+    </li>
+    
+    
+    <li>
+      <a href="/feed.xml" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="RSS" class="fas fa-rss"></i>
+        <span class="label">RSS</span>
+      </a>
+    </li>
+    
+    
+    <li>
+      <a href="//twitter.com/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="Twitter" class="fab fa-twitter"></i>
+        <span class="label">Twitter</span>
+      </a>
+    </li>
+    
+  </ul>
+</section>
+
+    <div class="copyright">
+      <div class="row">
+        <div class="12u$">
+          
+          
+          <i title="Copyright FVCproductions" class="fas fa-copyright"></i>
+          <a href="/">FVCproductions</a>
+          
+          
+           2013  to 2018
+          <br>
+          <br>
+          <i title="Colophon" class="fas fa-cog"></i>
+          <a href="/about/colophon/">Colophon</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  </div>
+  
+  
+  
+  
+  
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-63190978-3', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
+  
+  <script src="/assets/js/app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/OneSignalSDKWorker.js').then(registration => {
+          console.log('The service worker was registered! 🎉', registration);
+        }).catch(registrationError => {
+          console.log('The service worker registration failed. 😭️', registrationError);
+        });
+      });
+    }
+
+  </script>
+</body>
+
+</html>

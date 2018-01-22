@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+
+<head>
+  <title>A Few Java Factoids - Part 1</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="DC.title" content="A Few Java Factoids - Part 1">
+  <meta name="DC.description" content="A few basic facts about Java.">
+  <meta name="DC.creator" content="Frances Coronel">
+  <meta name="DC.language" content="en">
+  <meta name="DC.publisher" content="Frances Coronel">
+  <meta name="DC.subject" content="basic structure,beginner,beginning programming,classes,comments,digital hieroglyphics,error,java,java programming,main method,program,semicolons,string,system,">
+  
+  <meta charset="utf-8">
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="HandheldFriendly" content="True">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0">
+<meta name="application-name" content="A Few Java Factoids - Part 1">
+<meta name="msapplication-window" content="width=device-width;height=device-height">
+<meta name="msapplication-tooltip" content=" A few basic facts about Java. ">
+<meta name="title" content="A Few Java Factoids - Part 1">
+<meta name="description" content=" A few basic facts about Java. ">
+<meta name="image" content="https://fvcproductions.com/assets/img/teaser.png">
+<meta name="robots" content="index, follow">
+<meta itemprop="name" content="A Few Java Factoids - Part 1">
+<meta itemprop="description" content=" A few basic facts about Java. ">
+<meta itemprop="image" content="https://fvcproductions.com/assets/img/teaser.png">
+
+<meta property="og:title" content="FVCproductions">
+<meta property="og:description" content=" A few basic facts about Java. ">
+<meta property="og:image" content="https://fvcproductions.com/assets/img/teaser.png">
+<meta property="og:image:width" content="1050">
+<meta property="og:image:height" content="600">
+<meta property="og:url" content="https://fvcproductions.com/">
+<meta property="og:site_name" content="A Few Java Factoids - Part 1">
+<meta property="og:locale" content="en">
+<meta property="og:type" content="website">
+<meta property="og:description" content=" A few basic facts about Java. ">
+
+<meta name="twitter:site" content="@fvcproductions">
+<meta name="twitter:title" content="FVCproductions">
+<meta name="twitter:description" content=" A few basic facts about Java. ">
+<meta name="twitter:url" content="https://fvcproductions.com/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://fvcproductions.com/assets/img/teaser.png">
+<meta name="twitter:image:src" content="https://fvcproductions.com/assets/img/teaser.png">
+<meta name="twitter:creator" content="@fvcproductions">
+
+<link rel="preconnect" href="https://fvcproductions.com/">
+
+<link rel="canonical" href="/2014/03/03/a-few-java-factoids---part-1/">
+
+
+
+ 
+<link rel="prefetch" href="/2014/03/04/the-best-50-insults/">
+<link rel="prerender" href="/2014/03/04/the-best-50-insults/">  
+<link rel="prefetch" href="/2014/03/03/ah-life./">
+<link rel="prerender" href="/2014/03/03/ah-life./">  
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="A Few Java Factoids - Part 1"/>
+<meta name="twitter:description" content="A few basic facts about Java."/>
+<meta name="twitter:site" content="@fvcproductions"/>
+
+
+<meta property="og:title" content="A Few Java Factoids - Part 1" />
+<meta property="og:description" content="A few basic facts about Java." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2014/03/03/a-few-java-factoids---part-1/" />
+
+
+
+<meta property="article:published_time" content="2014-03-03T00:00:00&#43;00:00"/>
+
+<meta property="article:modified_time" content="2014-03-03T00:00:00&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="A Few Java Factoids - Part 1">
+<meta itemprop="description" content="A few basic facts about Java.">
+
+
+<meta itemprop="datePublished" content="2014-03-03T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2014-03-03T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="403">
+
+
+
+<meta itemprop="keywords" content="basic structure,beginner,beginning programming,classes,comments,digital hieroglyphics,error,java,java programming,main method,program,semicolons,string,system," />
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+
+  
+  <link rel="apple-touch-icon-precomposed" href="/assets/img/favicons/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/favicons/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/img/favicons/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/favicons/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/img/favicons/apple-touch-icon-152x152-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/img/favicons/apple-touch-icon-180x180-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/img/favicons/apple-touch-icon-57x57-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/assets/img/favicons/apple-touch-icon-60x60-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/favicons/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/img/favicons/apple-touch-icon-76x76-precomposed.png">
+<link rel="apple-touch-icon" href="/assets/img/favicons/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/img/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/img/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/img/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/img/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicons/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/img/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/img/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/img/favicons/apple-touch-icon-76x76.png">
+<link rel="icon" sizes="144x144" type="image/png" href="/assets/img/favicons/android-chrome-144x144.png">
+<link rel="icon" sizes="16x16 32x32" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" sizes="16x16" type="image/png" href="/assets/img/favicons/favicon-16x16.png">
+<link rel="icon" sizes="192x192" type="image/png" href="/assets/img/favicons/android-chrome-192x192.png">
+<link rel="icon" sizes="256x256" type="image/png" href="/assets/img/favicons/android-chrome-256x256.png">
+<link rel="icon" sizes="32x32" type="image/png" href="/assets/img/favicons/favicon-32x32.png">
+<link rel="icon" sizes="36x36" type="image/png" href="/assets/img/favicons/android-chrome-36x36.png">
+<link rel="icon" sizes="384x384" type="image/png" href="/assets/img/favicons/android-chrome-384x384.png">
+<link rel="icon" sizes="48x48" type="image/png" href="/assets/img/favicons/android-chrome-48x48.png">
+<link rel="icon" sizes="512x512" type="image/png" href="/assets/img/favicons/android-chrome-512x512.png">
+<link rel="icon" sizes="72x72" type="image/png" href="/assets/img/favicons/android-chrome-72x72.png">
+<link rel="icon" sizes="96x96" type="image/png" href="/assets/img/favicons/android-chrome-96x96.png">
+<link rel="mask-icon" color="#253137" href="/assets/img/favicons/safari-pinned-tab.svg">
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="A Few Java Factoids - Part 1">
+<meta name="application-name" content="A Few Java Factoids - Part 1">
+<meta name="msapplication-TileColor" content="#253137">
+<meta name="msapplication-TileImage" content="/assets/img/favicons/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+  
+  <link rel="stylesheet" href="/assets/css/main.css">
+  
+  
+  
+  
+  <link rel="manifest" href="/manifest.json" />
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+  <script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(function () {
+      OneSignal.init({
+        appId: "7bc782bf-6ee1-4373-8d1d-1346aba3b9ff",
+      });
+    });
+
+  </script>
+</head>
+
+<body>
+  
+  <div id="wrapper">
+    
+    
+<header id="header">
+  <div class="inner">
+    
+    <a href="/" class="logo">
+      <span class="symbol">
+        <img src="/assets/img/logo.svg" alt="FVCproductions - Logo">
+      </span>
+      <span class="title">FVCproductions</span>
+    </a>
+    
+    <nav>
+      <ul>
+        <li>
+          <a href="#menu">Menu</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+    
+    
+<nav id="menu">
+  <h2>Menu</h2>
+  <ul>
+    
+    <li>
+      <p>
+        <b>
+          <a href="https://cse.google.com/cse/publicurl?cx=008213476470887739041:ade_gb9mv7g" target="_blank" rel="noopener">Search... 🔍️</a>
+        </b>
+      </p>
+    </li>
+    
+    <li>
+      <a href="/" rel="noopener">
+        Home 🏠
+      </a>
+    </li>
+    
+    <li>
+      <a href="/about" rel="noopener">
+        About 👀
+      </a>
+    </li>
+    
+    <li>
+      <a href="/adventures" rel="noopener">
+        Adventures ✈️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/archive" rel="noopener">
+        Archive 🕒️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/awards" rel="noopener">
+        Awards 🏆️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/blog" rel="noopener">
+        Blog 📝️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/contact" rel="noopener">
+        Contact 📨
+      </a>
+    </li>
+    
+    <li>
+      <a href="/portfolio" rel="noopener">
+        Portfolio 💼
+      </a>
+    </li>
+    
+    <li>
+      <a href="/services" rel="noopener">
+        Services 🛠️
+      </a>
+    </li>
+    
+    <li>
+      <a href="/speaking" rel="noopener">
+        Speaking 💬️
+      </a>
+    </li>
+    
+  </ul>
+</nav>
+
+    
+    <div class="inner">
+      
+
+
+<a href="javascript:" id="return-to-top" aria-label="Return to Top" aria-labelledby="Return to Top" aria-hidden="true">
+  <i class="fas fa-arrow-up"></i>
+</a>
+<div class="page">
+  
+  <div class="page-header">
+  <h1>A Few Java Factoids - Part 1</h1>
+  <div class="page-info">
+    
+    
+    <div class="row">
+      <div class="12u">
+        <p>
+          <i title="Description" class="fas fa-info-circle fa-lg"></i>A few basic facts about Java.
+        </p>
+      </div>
+    </div>
+    
+    
+    
+    <div class="row">
+      <div class="12u">
+        <p>
+          <i title="Calendly" class="fas fa-calendar-check fa-lg"></i>Monday - March 3, 2014
+        </p>
+      </div>
+    </div>
+    
+    
+      
+    <p>
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>2 minute read ∙ 403 words
+    </p>
+      
+    
+    
+    
+    
+  </div>
+  
+  <div class="row">
+    <div class="12u$">
+      
+      
+      
+      
+      <span class="image main">
+        
+        <img src="//fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&amp;h=436&amp;crop=1" alt="">
+        
+        
+      </span>
+      
+      
+      
+    </div>
+  </div>
+</div>
+<script id="dsq-count-scr" src="//fvcproductions.disqus.com/count.js" async></script>
+
+  
+  
+<div class="page-body">
+  <div class="12u$">
+    
+
+<p>I&rsquo;m taking a Java class right now and sometimes just looking at code is really great to get the learning started.</p>
+
+<p>Meant for beginners, I&rsquo;ve come up with a few basic code samples to showcase as a convenient way of getting to know Java. You and me are going to explore the bare surface of the digital hieroglyphics of Java and its all wonderful ciphers! :D</p>
+
+<h2 id="let-s-look-at-comments-first">Let&rsquo;s look at comments first.</h2>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4">class CommentOutCode {
+    public static void main(String args[]) {
+        System.out.println(&#34;Haha!&#34;);
+        System.out.println(&#34;That was awesome!&#34;); // No doubt!
+        // System.out.println(&#34;Harharhar&#34;);
+        /*
+        System.out.println(&#34;I had tears rolling down my eyes..for real tho&#34;);
+        System.out.println(&#34;Zoo-wee-MAMA!&#34;);
+        */
+}</pre></div>
+<h3 id="single-line-comments">single line comments</h3>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4">// stuff</pre></div>
+<h3 id="multi-line-comments">multi-line comments</h3>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4">/*
+more
+stuff
+*/</pre></div>
+<h6 id="okay-so-that-was-super-easy">Okay, so that was <strong>super easy</strong>…</h6>
+
+<h3 id="go-ahead-press-the-button-d-virtually">Go ahead, press the button! :D Virtually…</h3>
+
+<p><img src="//citycleanersoftx.com/wp-content/uploads/2014/01/Easy-Button.jpg" alt="Computer
+Hope" /></p>
+
+<h2 id="so-moving-on-to-the-main-method">So moving on…to the main method!</h2>
+<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4">class MainMethodShizz {
+    public static void main (String[] args) {
+        System.out.println(&#34;Gotta use it!&#34;);
+    }
+}</pre></div>
+<p>This is the main method that you&rsquo;re going to use every time you run a Java program, unless you&rsquo;re making just a class file, in which case you will not need the whole <code>public static void main (String[] args)</code>, but you will still need [<code>class</code>] with the class name next to it.</p>
+
+<p>Brackets or the curly braces (what have you) that look like this <code>{ }</code> are required at the beginning and end of each method you&rsquo;ve used to indicate when you&rsquo;ve finished the programming statements for that particular method.</p>
+
+<p>Finally, for each <code>System.out.println(&quot;Text&quot;);</code> that you have there always needs to be a <code>;</code> at the end. Always! So get used to it!</p>
+
+<h4 id="if-you-decide-not-to-put-the-stupid-at-the-end-of-your-output-statements-you-will-get-an-error">If you decide <strong>NOT</strong> to put the stupid <code>;</code> at the end of your output statements, you WILL get an <strong>ERROR</strong>.</h4>
+
+<p>Also, in case you were wondering, with most IDEs or Integrated Development Environments, there is syntax highlighting which makes it easier to understand what&rsquo;s going on by adding color to the types of different texts.</p>
+
+<p>For example, with the Strings involved in the program, they are the color [red]. With the comments involved in the program, they are the color [gray]. Different methods are highlighted in [blue].</p>
+
+<p>So that&rsquo;s pretty much it for the super duper basics of any Java program.</p>
+
+<p>Remember, you gotta have your:</p>
+
+<ol>
+<li>main method <code>public static void main (String[] args)</code><br /></li>
+<li>curly braces <code>{}</code><br /></li>
+<li>semi-colons <code>;</code><br /></li>
+<li>comments to explain what the heck you&rsquo;re doing in the program such as [<code>//single-line stuff</code>] or [<code>/*multi-line stuff*/</code>]</li>
+</ol>
+
+<h4 id="get-it-got-it-good">Get it? Got it? Good.</h4>
+
+    
+    
+
+<br>
+<div class="page-section taxonomy-section">
+  <div class="row">
+    
+    
+    <div class="6u 12u$(small) 12u$(xsmall)">
+      <h3>
+        📂 Categories
+      </h3>
+      <ul>
+        
+        <li>
+          <a href="/categories/blog/" title="blog">blog</a>
+        </li>
+        
+      </ul>
+    </div>
+    
+    
+    
+    <div class="6u 12u$(small) 12u$(xsmall)">
+      <h3>
+        📌 Tags
+      </h3>
+
+      <ul>
+        
+        <li>
+          <a href="/tags/basic-structure/" title="basic structure">basic structure</a>
+        </li>
+        
+        <li>
+          <a href="/tags/beginner/" title="beginner">beginner</a>
+        </li>
+        
+        <li>
+          <a href="/tags/beginning-programming/" title="beginning programming">beginning programming</a>
+        </li>
+        
+        <li>
+          <a href="/tags/classes/" title="classes">classes</a>
+        </li>
+        
+        <li>
+          <a href="/tags/comments/" title="comments">comments</a>
+        </li>
+        
+        <li>
+          <a href="/tags/digital-hieroglyphics/" title="digital hieroglyphics">digital hieroglyphics</a>
+        </li>
+        
+        <li>
+          <a href="/tags/error/" title="error">error</a>
+        </li>
+        
+        <li>
+          <a href="/tags/java/" title="java">java</a>
+        </li>
+        
+        <li>
+          <a href="/tags/java-programming/" title="java programming">java programming</a>
+        </li>
+        
+        <li>
+          <a href="/tags/main-method/" title="main method">main method</a>
+        </li>
+        
+        <li>
+          <a href="/tags/program/" title="program">program</a>
+        </li>
+        
+        <li>
+          <a href="/tags/semicolons/" title="semicolons">semicolons</a>
+        </li>
+        
+        <li>
+          <a href="/tags/string/" title="string">string</a>
+        </li>
+        
+        <li>
+          <a href="/tags/system/" title="system">system</a>
+        </li>
+        
+      </ul>
+
+    </div>
+    
+  </div>
+</div>
+
+
+  </div>
+</div>
+
+
+
+
+
+
+
+
+  
+  <div class="page-footer">
+  
+  
+  
+  <div class="page-section sharing-section">
+  <div class="12u$">
+    <h3>
+      💗️ Share this page
+    </h3>
+    <ul class="icons">
+  
+  <li>
+    <a href="//www.facebook.com/sharer.php?u=%2f2014%2f03%2f03%2fa-few-java-factoids---part-1%2f" target="_blank" rel="noopener" class="icon font-awesome fa-facebook">
+      <i title="Facebook" class="fab fa-facebook fa-lg"></i>
+      <span class="label">Facebook</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//twitter.com/intent/tweet?url=%2f2014%2f03%2f03%2fa-few-java-factoids---part-1%2f&via=fvcproductions&text=A%20Few%20Java%20Factoids%20-%20Part%201" target="_blank" rel="noopener" class="icon font-awesome fa-twitter">
+      <i title="Twitter" class="fab fa-twitter fa-lg"></i>
+      <span class="label">Twitter</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//plus.google.com/share?url=/2014/03/03/a-few-java-factoids---part-1/" target="_blank" rel="noopener" class="icon font-awesome fa-google-plus-g">
+      <i title="Google Plus" class="fab fa-google-plus-g fa-lg"></i>
+      <span class="label">Google+</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//pinterest.com/pin/create/bookmarklet/?media=%2f%2ffvcproductions.files.wordpress.com%2f2014%2f10%2fbanners-005.jpg%3fw%3d1024%26h%3d436%26crop%3d1&url=/2014/03/03/a-few-java-factoids---part-1/&description=A%20Few%20Java%20Factoids%20-%20Part%201" target="_blank" rel="noopener" class="icon font-awesome fa-pinterest">
+      <i title="Pinterest" class="fab fa-pinterest fa-lg"></i>
+      <span class="label">Pinterest</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.linkedin.com/shareArticle?mini=true&url=/2014/03/03/a-few-java-factoids---part-1/&title=A%20Few%20Java%20Factoids%20-%20Part%201&summary=I%26rsquo%3bm%20taking%20a%20Java%20class%20right%20now%20and%20sometimes%20just%20looking%20at%20code%20is%20really%20great%20to%20get%20the%20learning%20started.%0aMeant%20for%20beginners%2c%20I%26rsquo%3bve%20come%20up%20with%20a%20few%20basic%20code%20samples%20to%20showcase%20as%20a%20convenient%20way%20of%20getting%20to%20know%20Java.%20You%20and%20me%20are%20going%20to%20explore%20the%20bare%20surface%20of%20the%20digital%20hieroglyphics%20of%20Java%20and%20its%20all%20wonderful%20ciphers%21%20%3aD%0aLet%26rsquo%3bs%20look%20at%20comments%20first.&source=FVCproductions" target="_blank" rel="noopener" class="icon font-awesome fa-linkedin-in">
+      <i title="LinkedIn" class="fab fa-linkedin-in fa-lg"></i>
+      <span class="label">LinkedIn</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.tumblr.com/widgets/share/tool?canonicalUrl=/2014/03/03/a-few-java-factoids---part-1/&title=A%20Few%20Java%20Factoids%20-%20Part%201&caption=I%26rsquo%3bm%20taking%20a%20Java%20class%20right%20now%20and%20sometimes%20just%20looking%20at%20code%20is%20really%20great%20to%20get%20the%20learning%20started.%0aMeant%20for%20beginners%2c%20I%26rsquo%3bve%20come%20up%20with%20a%20few%20basic%20code%20samples%20to%20showcase%20as%20a%20convenient%20way%20of%20getting%20to%20know%20Java.%20You%20and%20me%20are%20going%20to%20explore%20the%20bare%20surface%20of%20the%20digital%20hieroglyphics%20of%20Java%20and%20its%20all%20wonderful%20ciphers%21%20%3aD%0aLet%26rsquo%3bs%20look%20at%20comments%20first." target="_blank" rel="noopener" class="icon font-awesome fa-digg">
+      <i title="Digg" class="fab fa-digg fa-lg"></i>
+      <span class="label">Digg</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.tumblr.com/widgets/share/tool?canonicalUrl=/2014/03/03/a-few-java-factoids---part-1/&title=A%20Few%20Java%20Factoids%20-%20Part%201&caption=I%26rsquo%3bm%20taking%20a%20Java%20class%20right%20now%20and%20sometimes%20just%20looking%20at%20code%20is%20really%20great%20to%20get%20the%20learning%20started.%0aMeant%20for%20beginners%2c%20I%26rsquo%3bve%20come%20up%20with%20a%20few%20basic%20code%20samples%20to%20showcase%20as%20a%20convenient%20way%20of%20getting%20to%20know%20Java.%20You%20and%20me%20are%20going%20to%20explore%20the%20bare%20surface%20of%20the%20digital%20hieroglyphics%20of%20Java%20and%20its%20all%20wonderful%20ciphers%21%20%3aD%0aLet%26rsquo%3bs%20look%20at%20comments%20first." target="_blank" rel="noopener" class="icon font-awesome fa-tumblr">
+      <i title="Tumblr" class="fab fa-tumblr fa-lg"></i>
+      <span class="label">Tumblr</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//reddit.com/submit?url=/2014/03/03/a-few-java-factoids---part-1/&title=A%20Few%20Java%20Factoids%20-%20Part%201" target="_blank" rel="noopener" class="icon font-awesome fa-reddit">
+      <i title="Reddit" class="fab fa-reddit fa-lg"></i>
+      <span class="label">Reddit</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//news.ycombinator.com/submitlink?u=/2014/03/03/a-few-java-factoids---part-1/&t=A%20Few%20Java%20Factoids%20-%20Part%201" target="_blank" rel="noopener" class="icon font-awesome fa-hacker-news">
+      <i title="Hacker News" class="fab fa-hacker-news fa-lg"></i>
+      <span class="label">Hacker News</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.stumbleupon.com/submit?url=/2014/03/03/a-few-java-factoids---part-1/&title=A%20Few%20Java%20Factoids%20-%20Part%201" target="_blank" rel="noopener" class="icon font-awesome fa-stumbleupon">
+      <i title="StumbleUpon" class="fab fa-stumbleupon fa-lg"></i>
+      <span class="label">StumbleUpon</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//delicious.com/save?v=5&provider=FVCproductions&noui&jump=close&url=/2014/03/03/a-few-java-factoids---part-1/&title=A%20Few%20Java%20Factoids%20-%20Part%201" target="_blank" rel="noopener" class="icon font-awesome fa-delicious">
+      <i title="Delicious" class="fab fa-delicious fa-lg"></i>
+      <span class="label">Delicious</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.tumblr.com/widgets/share/tool?canonicalUrl=/2014/03/03/a-few-java-factoids---part-1/&title=A%20Few%20Java%20Factoids%20-%20Part%201&caption=I%26rsquo%3bm%20taking%20a%20Java%20class%20right%20now%20and%20sometimes%20just%20looking%20at%20code%20is%20really%20great%20to%20get%20the%20learning%20started.%0aMeant%20for%20beginners%2c%20I%26rsquo%3bve%20come%20up%20with%20a%20few%20basic%20code%20samples%20to%20showcase%20as%20a%20convenient%20way%20of%20getting%20to%20know%20Java.%20You%20and%20me%20are%20going%20to%20explore%20the%20bare%20surface%20of%20the%20digital%20hieroglyphics%20of%20Java%20and%20its%20all%20wonderful%20ciphers%21%20%3aD%0aLet%26rsquo%3bs%20look%20at%20comments%20first." target="_blank" rel="noopener" class="icon font-awesome fa-blogger-b">
+      <i title="Blogger" class="fab fa-blogger-b fa-lg"></i>
+      <span class="label">Blogger</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//getpocket.com/save?url=/2014/03/03/a-few-java-factoids---part-1/" target="_blank" rel="noopener" class="icon font-awesome fa-get-pocket">
+      <i title="Pocket" class="fab fa-get-pocket fa-lg"></i>
+      <span class="label">Pocket</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="viber://forward?text=/2014/03/03/a-few-java-factoids---part-1/" target="_blank" rel="noopener" class="icon font-awesome fa-viber">
+      <i title="Viber" class="fab fa-viber fa-lg"></i>
+      <span class="label">Viber</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//lineit.line.me/share/ui?url=/2014/03/03/a-few-java-factoids---part-1/" target="_blank" rel="noopener" class="icon font-awesome fa-line">
+      <i title="Line.me" class="fab fa-line fa-lg"></i>
+      <span class="label">Line.me</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//web.skype.com/share?url=/2014/03/03/a-few-java-factoids---part-1/" target="_blank" rel="noopener" class="icon font-awesome fa-skype">
+      <i title="Skype" class="fab fa-skype fa-lg"></i>
+      <span class="label">Skype</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="whatsapp://send?text=/2014/03/03/a-few-java-factoids---part-1/" target="_blank" rel="noopener" class="icon font-awesome fa-whatsapp">
+      <i title="WhatsApp" class="fab fa-whatsapp fa-lg"></i>
+      <span class="label">WhatsApp</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//telegram.me/share/url?url=/2014/03/03/a-few-java-factoids---part-1/&text=A%20Few%20Java%20Factoids%20-%20Part%201" target="_blank" rel="noopener" class="icon font-awesome fa-telegram">
+      <i title="Telegram" class="fab fa-telegram fa-lg"></i>
+      <span class="label">Telegram.me</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//vk.com/share.php?url=/2014/03/03/a-few-java-factoids---part-1/" target="_blank" rel="noopener" class="icon font-awesome fa-vk">
+      <i title="VK" class="fab fa-vk fa-lg"></i>
+      <span class="label">VK</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//www.xing.com/app/user?op=share&url=/2014/03/03/a-few-java-factoids---part-1/" target="_blank" rel="noopener" class="icon font-awesome fa-xing">
+      <i title="Xing" class="fab fa-xing fa-lg"></i>
+      <span class="label">Xing</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//widget.renren.com/dialog/share?resourceurl=/2014/03/03/a-few-java-factoids---part-1/&srcurl=/2014/03/03/a-few-java-factoids---part-1/&title=A%20Few%20Java%20Factoids%20-%20Part%201" target="_blank" rel="noopener" class="icon font-awesome fa-renren">
+      <i title="Ren Ren" class="fab fa-renren fa-lg"></i>
+      <span class="label">RenRen</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="//service.weibo.com/share/share.php?url=/2014/03/03/a-few-java-factoids---part-1/&title=A%20Few%20Java%20Factoids%20-%20Part%201" target="_blank" rel="noopener" class="icon font-awesome fa-weibo">
+      <i title="Weibo" class="fab fa-weibo fa-lg"></i>
+      <span class="label">Weibo</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="mailto:?subject=Check out this work by FVCproductions&body=/2014/03/03/a-few-java-factoids---part-1/" target="_blank" rel="noopener" class="icon font-awesome">
+      <i title="Email" class="fas fa-envelope fa-lg"></i>
+      <span class="label">Email</span>
+    </a>
+  </li>
+  
+  <li>
+    <a href="javascript:window.print()" target="_blank" rel="noopener" class="icon font-awesome">
+      <i title="Print" class="fas fa-print fa-lg"></i>
+      <span class="label">Print</span>
+    </a>
+  </li>
+</ul>
+
+  </div>
+</div>
+
+  
+  
+  
+  
+  <div class="page-section donate-section">
+  <div class="12u$">
+    <h3>
+      💸️ Donate
+    </h3>
+    <p>If you have found any of my contributions valuable, kindly consider supporting me through a small donation or by becoming an ongoing patron. </p>
+    
+    <a href="//patreon.com/fvcproductions" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/patreon.svg" height="50" alt="Patreon">
+    </a>
+    
+    &nbsp;
+    <a href="//paypal.me/fvcproductions/5" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/paypal.svg" height="50" alt="PayPal.Me">
+    </a>
+    
+    &nbsp;
+    <a href="//venmo.com/fvcproductions" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/venmo.svg" height="50" alt="Venmo">
+    </a>
+    
+    &nbsp;
+    <a href="//smile.amazon.com/gp/registry/wishlist/183BMRKTBNR0A" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/amazon.svg" height="50" alt="Amazon Smile">
+    </a>
+    
+    &nbsp;
+    <a href="//cash.me/$fvcprdxs/5" target="_blank" rel="noopener">
+      <img src="/assets/img/donate/cash.svg" height="50" alt="Square Cash">
+    </a>
+    <br>
+  </div>
+</div>
+
+  
+  
+<div class="page-section comments-section">
+  <div class="12u$">
+    <section>
+      <h3>
+        🙈️🙉️🙊️ Leave a comment
+      </h3>
+      <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "fvcproductions" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </section>
+  </div>
+</div>
+
+
+
+  
+  
+<div class="page-section pagination-section">
+  <div class="12u$">
+    
+    
+    <a class="button big" href="/2014/03/03/ah-life./">
+      <i class="fas fa-long-arrow-alt-left" title="Previous Section"></i>
+      Ah, Life.
+    </a>
+    
+    
+     &nbsp;
+    <a class="button big" href="/2014/03/04/the-best-50-insults/">
+      The Best 50 Insults
+      <i class="fas fa-long-arrow-alt-right" title="Next Section"></i>
+    </a>
+    
+  </div>
+</div>
+
+
+</div>
+
+</div>
+
+
+    </div>
+    
+    
+<footer id="footer">
+  <div class="inner">
+    <section class="social-icons">
+  <ul class="icons">
+    
+    
+    <li>
+      <a href="//behance.net/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="Behance" class="fab fa-behance"></i>
+        <span class="label">Behance</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//github.com/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="GitHub" class="fab fa-github-alt"></i>
+        <span class="label">GitHub</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//linkedin.com/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="LinkedIn" class="fab fa-linkedin-in"></i>
+        <span class="label">LinkedIn</span>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="//slideshare.net/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="SlideShare" class="fab fa-slideshare"></i>
+        <span class="label">SlideShare</span>
+      </a>
+    </li>
+    
+    
+    <li>
+      <a href="/feed.xml" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="RSS" class="fas fa-rss"></i>
+        <span class="label">RSS</span>
+      </a>
+    </li>
+    
+    
+    <li>
+      <a href="//twitter.com/fvcproductions" class="icon font-awesome" target="_blank" rel="noopener">
+        <i title="Twitter" class="fab fa-twitter"></i>
+        <span class="label">Twitter</span>
+      </a>
+    </li>
+    
+  </ul>
+</section>
+
+    <div class="copyright">
+      <div class="row">
+        <div class="12u$">
+          
+          
+          <i title="Copyright FVCproductions" class="fas fa-copyright"></i>
+          <a href="/">FVCproductions</a>
+          
+          
+           2013  to 2018
+          <br>
+          <br>
+          <i title="Colophon" class="fas fa-cog"></i>
+          <a href="/about/colophon/">Colophon</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  </div>
+  
+  
+  
+  
+  
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-63190978-3', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
+  
+  <script src="/assets/js/app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/OneSignalSDKWorker.js').then(registration => {
+          console.log('The service worker was registered! 🎉', registration);
+        }).catch(registrationError => {
+          console.log('The service worker registration failed. 😭️', registrationError);
+        });
+      });
+    }
+
+  </script>
+</body>
+
+</html>
