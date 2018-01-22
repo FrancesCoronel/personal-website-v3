@@ -2,36 +2,18 @@
 <html lang="en" prefix="og: http://ogp.me/ns#">
 
 <head>
-  <title>{{ .Title }}</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="DC.title" content="{{ .Title }}">
-  <meta name="DC.description" content="{{ .Description }}">
-  <meta name="DC.creator" content="Frances Coronel">
-  <meta name="DC.language" content="en">
-  <meta name="DC.publisher" content="Frances Coronel">
-  <meta name="DC.subject" content="{{ range .Params.tags }}{{ . }},{{ end }}">
+  <title>
+    {{ .Title }}
+  </title>
   <!-- SEO -->
   {{ partial "base/header/seo.html" . }}
   <!-- Favicons -->
   {{ partial "base/header/favicons.html" . }}
-  <!-- Custom CSS -->
-  <link rel="stylesheet" href="/assets/css/main.css">
   <!-- IE Styling -->
   <!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css"><![endif]-->
   <!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css"><![endif]-->
-  <!-- OneSignal -->
-  <link rel="manifest" href="/manifest.json" />
-  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
-  <script>
-    var OneSignal = window.OneSignal || [];
-    OneSignal.push(function () {
-      OneSignal.init({
-        appId: "7bc782bf-6ee1-4373-8d1d-1346aba3b9ff",
-      });
-    });
-
-  </script>
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 
 <body>
@@ -51,11 +33,19 @@
   <!-- Scripts -->
   <!-- IE -->
   <!--[if lte IE 8]><script src="/assets/js/ie.js"></script><![endif]-->
-  <!-- Google Analytics -->
-  {{ template "_internal/google_analytics_async.html" . }}
   <!-- Custom JS -->
   <script src="/assets/js/app.js"></script>
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
   <script>
+    // One Signal Integration
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(function () {
+      OneSignal.init({
+        appId: "7bc782bf-6ee1-4373-8d1d-1346aba3b9ff",
+      });
+    });
+
+    // Service Worker Registration
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
         navigator.serviceWorker.register('/OneSignalSDKWorker.js').then(registration => {
