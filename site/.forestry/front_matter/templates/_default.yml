@@ -5,12 +5,12 @@ fields:
   label: Title
   type: text
   hidden: false
-  default: 
+  default:
 - name: date
   label: Date
   type: text
   hidden: false
-  default: 
+  default:
 - name: description
   label: Description
   type: text

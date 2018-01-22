@@ -64,3 +64,4 @@ typings/
 # Output
 config/env.js
 dist
+site/public
