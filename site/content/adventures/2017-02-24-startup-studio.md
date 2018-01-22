@@ -4,6 +4,8 @@ date: 2017-02-24
 description: Projects from Startup Studio.
 banner: https://media.githubusercontent.com/media/fvcproductions/venus-co/assets/images/logos/mora/type.png
 embedly: true
+aliases:
+  - /portfolio/2017/02/24/startup-studio/
 categories:
   - portfolio
 ---

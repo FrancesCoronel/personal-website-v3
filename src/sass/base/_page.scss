@@ -1,5 +1,5 @@
 // Skel Breakpoints
-@include skel-breakpoints( ( xxxxlarge: "(min-width: 4000px)", xxxlarge: "(min-width: 3000px)", xxlarge: "(min-width: 2000px)", xlarge: "(min-width: 1680px)", laptop: "(min-width: 1024px)", large: "(max-width: 1280px)", medium: "(max-width: 980px)", small: "(max-width: 736px)", xsmall: "(max-width: 480px)", xxsmall: "(max-width: 360px)"));
+@include skel-breakpoints( ( mobile: "(min-width: 320px)", tablet: "(min-width: 768px)", laptop: "(min-width: 1024px)", xlaptop: "(min-width: 1440px)", fourk: "(min-width: 2560px)", large: "(max-width: 1280px)", medium: "(max-width: 980px)", small: "(max-width: 736px)", xsmall: "(max-width: 480px)", xxsmall: "(max-width: 360px)"));
 // Skel Layout
 @include skel-layout( ( reset: "full", boxModel: "border", grid: ( gutters: 2em), breakpoints: ( medium: ( grid: ( gutters: 1.5em)), small: ( grid: ( gutters: 1em)))));
 // MSIE: Required for IEMobile.

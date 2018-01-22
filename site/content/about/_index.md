@@ -1,8 +1,8 @@
 ---
 title: About 👀️
 description: Yep, that's me!
-banner: https://i.imgur.com/xBdIk7o.jpg
-caption: On the ground...
+banner: https://i.imgur.com/N6otIx9.jpg
+caption: The quintessential portrait
 alphabetical: true
 noComments: true
 noTimeEstimate: true

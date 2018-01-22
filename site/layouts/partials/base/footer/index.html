@@ -4,16 +4,15 @@
     {{ partial "base/footer/icons.html" . }}
     <div class="copyright">
       <div class="row">
-        <div class="12u$">
+        <div class="6u 12u(small)">
           <!-- Copyright -->
           {{ with .Site.Params.copyright }}
           <i title="Copyright FVCproductions" class="fas fa-copyright"></i>
           <a href="/">{{ . }}</a>
           {{ end }}
           <!-- Year -->
-          {{ with .Site.Params.year }} {{ . }} {{ end }} to {{ now.Year }}
-          <br>
-          <br>
+          {{ with .Site.Params.year }} {{ . }} {{ end }} to {{ now.Year }}</div>
+        <div class="colophon 6u 12u(small)">
           <i title="Colophon" class="fas fa-cog"></i>
           <a href="/about/colophon/">Colophon</a>
         </div>

@@ -2,15 +2,12 @@
   .inner {
     width: 100%;
     $gutter: _size(gutter) * 0.4;
-    padding: 0 $gutter;
-    @include breakpoint(xxlarge) {
+    padding: 0 1em;
+    @include breakpoint(xlaptop) {
+      padding: 0 2em;
+    }
+    @include breakpoint(fourk) {
       padding: 0 20em;
-    }
-    @include breakpoint(xxxlarge) {
-      padding: 0 40em;
-    }
-    @include breakpoint(xxxxlarge) {
-      padding: 0 60em;
     }
   }
 }

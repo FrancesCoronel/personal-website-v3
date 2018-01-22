@@ -91,9 +91,6 @@
         color: _palette(fg-accent) !important;
         border-bottom: none;
       }
-      h2 {
-        margin: 0;
-      }
       .content {
         @include vendor("transition",
         ( "opacity #{$duration} #{$ease}"));

@@ -28,7 +28,6 @@
       }
     }
     .social-icons {
-      margin-top: 2em;
       a {
         color: white !important;
         &:hover {
@@ -41,6 +40,7 @@
       display: none;
     }
     .copyright {
+      margin-top: 1em;
       width: 100%;
       padding: 2em;
       list-style: none;
@@ -58,7 +58,6 @@
     $gutter: _size(gutter);
   }
   @include breakpoint(small) {
-    @include padding(3em, 0);
     >.inner {
       @include vendor("flex-direction", "column");
       section:nth-child(1) {

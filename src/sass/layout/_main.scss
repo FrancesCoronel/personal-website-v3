@@ -159,6 +159,15 @@ blockquote {
   }
 }
 
+footer {
+  ul.icons {
+    margin: 0;
+    li {
+      padding: 1em;
+    }
+  }
+}
+
 textarea#message {
   min-height: 10em;
 }
@@ -478,7 +487,7 @@ section.section.tiles {
   margin: 0 auto;
   width: 100%;
   @include breakpoint(laptop) {
-    width: 65%;
+    width: 75%;
   }
 }
 

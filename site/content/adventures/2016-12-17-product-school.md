@@ -1,8 +1,10 @@
 ---
-title: "Product School"
+title: Product School
 date: 2016-12-17
-description: "Spoke for the official Norfolk Free Code Camp Facebook group!"
+description: Product School is an education startup that offers Product Management courses in San Francisco, Silicon Valley, New York and Los Angeles.
 banner: https://fvcproductions.files.wordpress.com/2016/10/img_2266.jpg
+aliases:
+  - /programs/2016/12/17/product-school/
 categories:
     - program
 ---
@@ -41,6 +43,14 @@ To be honest, though, I initially thought the content was too mediocre and was c
 Soon enough, Chris started to open up more and acted more transparent about what content would be most relevant. I felt I came with a better idea of what being a product manager is actually like and how to better leverage my existing skills for that position. The students in my class were also all very bright and fun to be around.
 
 I think with a little more improvements to the content/slides, Product School's PM class can be made even greater.
+
+### Projects
+
+#### Tinder Meetup
+
+#### Working with Design
+
+#### Final Deliverable
 
 ### Certification
 
