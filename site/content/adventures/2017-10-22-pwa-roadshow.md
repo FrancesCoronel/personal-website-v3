@@ -120,3 +120,13 @@ Progressive Web Apps are experiences that combine the best of the web and the be
 * [Debugging Service Workers](//goo.gl/QY5FFL)
 * [Adding Push Notifications](//goo.gl/Mt2n5k)
 * [Frictionless Payments with the Payment Request API](//goo.gl/SV4tgJ)
+
+### Photos
+
+> And I'm pumped!
+
+![The Bar](https://i.imgur.com/VMhsM6T.jpg)
+
+> Where I was sitting
+
+![Where I was sitting](https://i.imgur.com/tmjYbEF.jpg)

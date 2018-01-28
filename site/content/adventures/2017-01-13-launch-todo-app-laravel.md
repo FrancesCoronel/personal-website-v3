@@ -2,16 +2,31 @@
 title: Launch a Todo App Using Laravel Homestead ✅️
 date: 2017-01-13
 description: Our goal? To launch a simple to-do app using Laravel Homestead on macOS.
-banner: //fvcproductions.files.wordpress.com/2017/01/home.png
+banner: https://i.imgur.com/NuRqalg.png
 categories:
-    - blog
+  - blog
+  - portfolio
 tags:
-    - laravel
-    - laravel 5
-    - laravel 5.3
-    - todo
-    - todo app
-    - todo app laravel
+  - laravel
+  - laravel 5
+  - laravel 5.3
+  - todo
+  - todo app
+  - todo app laravel
+---
+
+I created a simple to-do app in Laravel 5.3 using Homestead as part of an engineering internship screening for [DoSomething.org](https://DoSomething.org). In the end, nothing really came of it. 💀️
+
+![Laravel App](https://i.imgur.com/3kBqPBc.png)
+
+![Laravel App](https://i.imgur.com/NuRqalg.png)
+
+![Laravel App](https://i.imgur.com/iHEci66.png)
+
+The source code can be found at <https://github.com/fvcproductions/ds-todos>.
+
+The full process for setting up Laravel 5.3 is pretty tedious so I created my own tutorial which you can find below.
+
 ---
 
 ## Our goal? To launch a simple to-do app using Laravel Homestead on macOS.

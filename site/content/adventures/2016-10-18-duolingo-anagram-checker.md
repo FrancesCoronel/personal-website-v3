@@ -2,16 +2,13 @@
 title: Duolingo Anagram Checker ✅
 date: 2016-10-18
 description: I created this simple website as part of the Duolingo PM intern interview process.
-banner: https://i.imgur.com/8cFXnVj.jpg
+banner: https://i.imgur.com/ozMNdqh.png
 categories:
-    - portfolio
+  - portfolio
+  - web
 ---
 
-Check this out at duolingo themed anagram checker at [`fvcproductions.github.io/anagram`](https://fvcproductions.github.io/anagram)! I created this simple website as part of the Duolingo PM intern interview process.
-
-### Screenshots
-
-TODO: [gallery type="rectangular" size="full" ids="5106,5105,5104" ]
+I created this simple website as part of the Duolingo PM intern interview process.
 
 ### Features
 
@@ -26,18 +23,16 @@ Web page that lets a user input two strings and then tells the user whether the 
 * [CodeKit](https://incident57.com/codekit/)
 * [Sketch](https://www.sketchapp.com/)
 
-## Links
+### GitHub Repo
 
-* **GitHub Repo** [`github.com/fvcproductions/anagram`](https://github.com/fvcproductions/anagram)
-* **Website** [`fvcproductions.github.io/anagram`](https://fvcproductions.github.io/anagram)
+<blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/anagram">fvcproductions/anagram</a></h4><p>Check if two strings are anagrams of each other 🔍</p></blockquote>
 
-## License
+### Website
 
-2016 © [FVCproductions](https://fvcproductions.com)
+<blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/anagram">Duolingo | Anagram</a></h4><p>An anagram checker for Duolingo.</p></blockquote>
 
-## Donations
+![Duolingo Anagram Checker](https://i.imgur.com/ozMNdqh.png)
 
-> Feed me… 🍕
+![Duolingo Anagram Checker](https://i.imgur.com/SHpvzVg.png)
 
-[![Donate via
-PayPal](https://raw.github.com/xioTechnologies/PayPal-Button/master/PayPal%20Button.png)](https://paypal.me/fvcproductions)
+![Duolingo Anagram Checker](https://i.imgur.com/7zVt1UO.png)

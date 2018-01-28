@@ -13,7 +13,7 @@ categories:
 
 ## Name
 
-<a href="https://productschool.com" target="_blank" rel="noopener">Product School</a>
+[Product School](https://productschool.com)
 
 ## Location
 
@@ -44,13 +44,13 @@ Soon enough, Chris started to open up more and acted more transparent about what
 
 I think with a little more improvements to the content/slides, Product School's PM class can be made even greater.
 
-### Projects
+<!-- ### Projects
 
 #### Tinder Meetup
 
 #### Working with Design
 
-#### Final Deliverable
+#### Final Deliverable -->
 
 ### Certification
 

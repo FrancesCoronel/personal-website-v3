@@ -110,7 +110,7 @@ blockquote {
 
 a:hover {
   img {
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
     &.emoji {
       box-shadow: none;
     }
@@ -192,6 +192,7 @@ textarea#message {
     display: inline-block;
     position: relative;
     width: 100%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
   }
   img.emoji {
     border-radius: 0;
@@ -413,7 +414,7 @@ section.section.tiles.isotope-grid {
       box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
       a {
         color: _palette(fg);
-         :hover {
+        :hover {
           color: #607d8b;
         }
       }
@@ -502,7 +503,7 @@ section.section.tiles {
 }
 
 span.image.main img {
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 
 #return-to-top {

@@ -2,24 +2,10 @@
 title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
 description: A brief description goes here.
-# optional
 banner: Link to image on Imgur.
-# optional
+caption: Caption for banner image.
 bannerLink: Link image points to.
-# optional
 link: Link article redirects to.
-# choose multiple of following categories
-categories:
-  - blog
-  - conference
-  - education
-  - experience
-  - hackathon
-  - program
-  - speaking
-  - volunteering
-tags:
-  - insert tags for article
 # not ready for publishing
 draft: true
 # page layout options
@@ -36,4 +22,17 @@ speaking: true
 # script options
 embedly: true
 isotope: true
+# taxonomy
+categories:
+  - award
+  - blog
+  - conference
+  - education
+  - experience
+  - hackathon
+  - program
+  - speaking
+  - volunteering
+tags:
+  - insert tags for article
 ---

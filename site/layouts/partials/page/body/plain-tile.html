@@ -3,7 +3,7 @@
     <!-- Date -->
     {{ if not .PublishDate.IsZero }}
     <p class="small">
-      {{ .Date.Format "January 1, 2006" }}
+      {{ dateFormat "Monday - January 2, 2006" .Date }}
     </p>
     {{ end }}
     <!-- Title -->

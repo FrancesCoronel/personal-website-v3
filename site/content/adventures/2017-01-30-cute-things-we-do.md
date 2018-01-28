@@ -1,18 +1,29 @@
 ---
 title: Cute Things We Do ❤
 date: 2017-01-30
-description: Cute Things We Do is a collaboration between Frances Coronel and Nolan Kovacik.
-banner: https://i.imgur.com/8cFXnVj.jpg
+description: Cute Things We Do = FC.js + NK.js
+banner: https://i.imgur.com/jMOtDPI.jpg
+aliases:
+  - /portfolio/2017/01/30/cute-things-we-do/
+embedly: true
 categories:
   - portfolio
+  - web
+  - design
+tags:
+  - nolan
+  - valentine's day
+  - relationships
 ---
 
-My boyfriend and I hope to take on clients in the future as part of our new freelancing initiative - **Cute Things We Do**.
+I felt like doing something non-traditional for Valentine's day so I made my boyfriend this website showcasing a few pictures from dates we've had together.
 
-We came up with the idea last year and decided to go forward starting in 2017.
+The logo is a really cute picture of my dog because yeah why not.
 
-**Cute Things We Do** is a collaboration between Frances Coronel (myself) and Nolan Kovacik (my boyfriend).
+> Update - January 27th, 2018
 
-Feel free to check out our starting website at https://cutethingswedo.com
+Even though I originally had the domain [cutethingswedo.com](//cutethingswedo.com) for this, I only paid for a year so yeah **RIP** - it's a GitHub page now!
 
-TODO: [gallery ids="5901,5891" type="rectangular" ]
+<blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/cutethingswedo/">Cute Things We Do</a></h4><p>Cute Things We Do</p></blockquote>
+
+![Cute Things We Do](https://i.imgur.com/N5nekk7.jpg)

@@ -11,6 +11,10 @@
       <!-- Tiles -->
       <!-- Adventures -->
       {{ if .Params.adventures }}
+      <!-- Return to Top -->
+      <a href="javascript:" id="return-to-top" aria-label="Return to Top" aria-labelledby="Return to Top" aria-hidden="true">
+        <i class="fas fa-arrow-up"></i>
+      </a>
       <section class="section tiles isotope-grid plain">
         {{ $isopages := .Pages | union (.Sections) }} {{ range $isopages.ByDate.Reverse }} {{ partial "page/body/plain-tile.html" . }} {{ end }}
       </section>

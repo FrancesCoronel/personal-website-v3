@@ -5,6 +5,8 @@ description: Volunteered for the hardware booth and Foobar (smoothies) and then 
 banner: https://i.imgur.com/8cFXnVj.jpg
 categories:
   - portfolio
+  - award
+  - web
 ---
 
 # Kent Hack Enough
@@ -20,8 +22,6 @@ categories:
 Won award of **Best Security Privacy Hack** sponsored by Ubisoft with the prize being two copies of `Watch Dog 2`
 
 > Check out the hack at [fvcproductions.github.io/leap-auth-home](https://fvcproductions.tech/leap-auth-home)
-
-TODO: [gallery type="rectangular" size="large" ids="5026,4958,4959"\]
 
 ### Inspiration
 
@@ -56,9 +56,15 @@ Optimizing the UI, extending password combination capabilities (multiple numbers
 * Use `CodeKit` to minify `CSS` and `JS` files
 * Make sure to have LeapMotion installed on your computer
 
-**Links**
-
 * Devpost Hack [`devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v`](https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v)
 * GitHub Repo [`github.com/fvcproductions/leap-auth-home`](https://fvcproductions/leap-auth-home)
 * Twitter [`@kenthackenough`](https://twitter.com/kenthackenough)
 * Website [`2016.khe.io`](https://2016.khe.io/)
+
+https://i.imgur.com/wJmBw84.png
+
+https://i.imgur.com/WN4uxwn.png
+
+https://i.imgur.com/fmSUI58.png
+
+https://i.imgur.com/Sgttnsk.png

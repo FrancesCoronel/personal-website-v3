@@ -1,13 +1,11 @@
 form {
   margin: (_size(element-margin) * -0.5) 0 _size(element-margin) 0;
-
   &:after {
     content: "";
     display: block;
     clear: both;
     height: 1px;
   }
-
   .field {
     position: relative;
     float: left;
@@ -15,42 +13,34 @@ form {
     vertical-align: top;
     width: 100%;
   }
-
   .half {
     width: calc(50% + #{_size(field-gutter) * 0.5}) !important;
     padding-left: _size(field-gutter);
   }
-
   .half.first {
     width: calc(50% - #{_size(field-gutter) * 0.5}) !important;
     padding-left: 0;
   }
-
   :last-child {
     margin-bottom: 0;
   }
-
   .half:nth-last-child(2) {
     margin-bottom: 0;
   }
-
   .actions {
     position: relative;
     clear: both;
     padding-top: (_size(element-margin) * 0.5);
   }
-
   @include breakpoint(xsmall) {
     .half {
       width: 100% !important;
       padding-left: 0;
     }
-
     .half.first {
       width: 100% !important;
       padding-left: 0;
     }
-
     .half:nth-last-child(2) {
       margin: 0 0 (_size(element-margin) * 0.65) 0;
     }
@@ -85,7 +75,6 @@ textarea {
   &:invalid {
     box-shadow: none;
   }
-
   &:focus {
     border-bottom-color: _palette(accent1);
     box-shadow: inset 0 -1px 0 0 _palette(accent1);
@@ -96,7 +85,6 @@ textarea {
   @include icon;
   display: block;
   position: relative;
-
   &:before {
     color: _palette(border);
     content: "\f078";
@@ -110,7 +98,6 @@ textarea {
     top: 0;
     width: _size(element-height);
   }
-
   select::-ms-expand {
     display: none;
   }
@@ -133,8 +120,7 @@ input[type="radio"] {
   display: block;
   width: 1em;
   z-index: -1;
-
-  & + label {
+  &+label {
     @include icon;
     color: _palette(fg);
     cursor: pointer;
@@ -144,7 +130,6 @@ input[type="radio"] {
     padding-left: (_size(element-height) * 0.6) + 0.75em;
     padding-right: 0.75em;
     position: relative;
-
     &:before {
       border-radius: _size(border-radius);
       border: solid _size(border-width) _palette(border);
@@ -159,8 +144,7 @@ input[type="radio"] {
       width: (_size(element-height) * 0.6);
     }
   }
-
-  &:checked + label {
+  &:checked+label {
     &:before {
       background: _palette(fg);
       border-color: _palette(fg);
@@ -168,8 +152,7 @@ input[type="radio"] {
       content: "\f00c";
     }
   }
-
-  &:focus + label {
+  &:focus+label {
     &:before {
       border-color: _palette(accent1);
       box-shadow: 0 0 0 _size(border-width) _palette(accent1);
@@ -178,7 +161,7 @@ input[type="radio"] {
 }
 
 input[type="checkbox"] {
-  & + label {
+  &+label {
     &:before {
       border-radius: _size(border-radius);
     }
@@ -186,7 +169,7 @@ input[type="checkbox"] {
 }
 
 input[type="radio"] {
-  & + label {
+  &+label {
     &:before {
       border-radius: 100%;
     }
@@ -201,6 +184,6 @@ ul.task-list {
 .image .main {
   width: 100%;
   &img {
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
   }
 }

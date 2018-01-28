@@ -1,6 +1,5 @@
 {{ if or (or (.Params.tags) (.Params.categories)) }}
 <!-- Taxonomy -->
-<br>
 <div class="page-section taxonomy-section">
   <div class="row">
     <!-- Categories -->
@@ -24,15 +23,13 @@
       <h3>
         📌 {{ .Site.Data.i18n.en.tags }}
       </h3>
-
       <ul>
         {{ range $tag := .Params.tags }}
         <li>
-          <a href="/tags/{{ $tag | urlize }}/" title="{{ $tag }}">{{ $tag }}</a>
+          <a href="/tags/{{ $tag | urlize }}/" title="{{ $tag }}">#{{ $tag }}</a>
         </li>
         {{ end }}
       </ul>
-
     </div>
     {{ end }}
   </div>

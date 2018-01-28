@@ -15,7 +15,7 @@
 <ul class="archive-list">
   {{ range .Pages }}
   <li>
-    <span class="archive-date">{{ .Date.Format "02" }}</span>
+    <span class="archive-date">{{ dateFormat "02" .Date }}</span>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </li>
   {{ end }}
