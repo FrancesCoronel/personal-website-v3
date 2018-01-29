@@ -29,13 +29,24 @@ Might have something to do with human nature in general, though, so interpret it
 
 ### Blurb 📇
 
-* SWE with a focus on UI development at Accenture's Liquid Studio in Redwood City, CA 💼
-* Self-driven MS in CS grad with a panache for design 🎓️ 🔨️
+<span class="large-emojii">👩🏽‍💻️</span>
+
+* Software Engineer with a focus on UI design & development 🖌️🔧️
+* Currently working at Accenture's Liquid Studio in Redwood City, CA 💼
 * Latina (Peruvian-American) 🇵🇪️ who gets a lot of personal satisfaction out of inspiring underserved groups within the tech industry 😊
 * Mentor, freelancer & speaker 💬️
 * Avid conference & hackathon goer 🚗
 * Code pusher, design publisher & online blogger 🌐️
-* Lover of chocolate dipped strawberries (my logo) 🍓️🍫️ and the base 12 system (bae likes it so yeah, sure) 📐😍
+
+<p class="notice">
+  <b>Another Fun Fact</b>
+  <br>
+  My boyfriend Nolan got accepted to the <a href="//holbertonschool.com">Holberton School</a> in San Francisco and will be starting with the September 2018 cohort - I'm very happy for him! ❤️
+</p>
+
+![Nolty](https://i.imgur.com/ukAFqim.jpg)
+
+<p class="image-caption">🚀 This is Nolan helping me build <a href="//shop.lego.com/en-US/LEGO-NASA-Apollo-Saturn-V-21309">Apollo Saturn V</a></p>
 
 ### What's Happening Nowadays 📅
 

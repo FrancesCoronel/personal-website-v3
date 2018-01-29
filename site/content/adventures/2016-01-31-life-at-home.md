@@ -1,27 +1,45 @@
 ---
-title: "Life at Home 🏠"
+title: Hoya Hacks - Life at Home 🏠
 date: 2016-01-31
-description: 'A mobile user interface for an Android application that allows users to send push notifications containing common household alerts and phrases to the Android devices of their family members.'
-banner: https://i.imgur.com/8cFXnVj.jpg
+description: A mobile user interface for an Android application that allows users to send push notifications containing common household alerts and phrases to the Android devices of their family members.
+banner: https://fvcproductions.files.wordpress.com/2016/01/banner.png
+embedly: true
 categories:
-    - portfolio
+  - portfolio
+  - hackathon
+  - mobile
+  - design
 ---
 
-# Overview
+# Name
 
-[![Life
-at Home -
-Banner](https://fvcproductions.files.wordpress.com/2016/01/banner.png)](https://fvcproductions.files.wordpress.com/2016/01/banner.png) Life at Home - Banner
+[Hoya Hacks](//hoyahacks.com)
 
-## Check out the mobile UI I created at [`invis.io/7G5THL7KA`](https://invis.io/7G5THL7KA).
+## Organizer
 
-For [Hoya Hacks](https://hoyahacks.com) 2016, I was unable to physically travel to the hackathon location at Georgetown University. My team was okay with me working remote though, so I just collaborated with them (mostly just Jamison though) virtually through the hackathon's Slack channel. In the end, my team had a very hard time implementing our "Life at Home" idea due to the slow Internet and the high learning curve that comes with building an Android app. Regardless, I just wanted to share the interface I built out for the proposed idea that didn't really come into fruition
+Georgetown University
+
+## Location
+
+Virtual
+
+## Date
+
+January 29th to 31st, 2016
+
+## Role
+
+Virtual Participant
+
+## About
+
+The first virtual hackathon I attended.
+
+## Project
+
+For Hoya Hacks 2016, I was unable to physically travel to the hackathon location at Georgetown University. My team was okay with me working remote though, so I just collaborated with them (mostly just Jamison though) virtually through the hackathon's Slack channel. In the end, my team had a very hard time implementing our "Life at Home" idea due to the slow Internet and the high learning curve that comes with building an Android app. Regardless, I just wanted to share the interface I built out for the proposed idea that didn't really come into fruition
 
 > In the end, this mobile UI was made for personal practice/fun, and not for the Hoya Hacks 2016 hackathon since my team sort of disintegrated.
-
-### Screenshots
-
-TODO: [gallery type="rectangular" size="full" ids="3827,3828,3829,3830,3831,3832,3833,3834" ]
 
 ### Features
 
@@ -60,3 +78,19 @@ The project will be made up of two parts: the Android app itself, and a web serv
 * Moses Namara (Android dev)
 * me (designer)
 * Organizer Lukas (advisor)
+
+<blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/35746593/Life-at-Home">Life at Home</a></h4><p>Life at Home - Mobile UI - Hoya Hacks - January 2016</p></blockquote>
+
+![Android Icon](https://i.imgur.com/Yx7HAhK.png)
+
+![Banner](https://i.imgur.com/uMCszCs.png)
+
+![Enter](https://i.imgur.com/QA5KUEL.png)
+
+![Login](https://i.imgur.com/wgCf8R6.png)
+
+![Sign Up](https://i.imgur.com/KaIGwIQ.png)
+
+![Errands](https://i.imgur.com/kc0BQZa.png)
+
+![Messages](https://i.imgur.com/xTEiECM.png)

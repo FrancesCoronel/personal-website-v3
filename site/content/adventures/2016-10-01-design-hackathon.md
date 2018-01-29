@@ -1,11 +1,14 @@
 ---
-title: DesignHackathon
+title: DesignHackathon - The MEGGS Case
 description: The My Social Canvas DesignHackathon will bring together students who are pursuing degrees in fashion, graphic design, technology, and business in an effort to increase awareness, participation, and funding for girls in STEM programs across the country.
 date: 2016-10-01
-banner: https://fvcproductions.files.wordpress.com/2016/10/fullsizeoutput_29f.jpeg
+banner: https://i.imgur.com/ydDCcBg.jpg
 embedly: true
 categories:
   - hackathon
+  - portfolio
+  - design
+  - web
 ---
 
 ## Name
@@ -36,13 +39,17 @@ I acted as the tech student in my team of 3 which had to compromise of a busines
 
 The My Social Canvas DesignHackathon will bring together students who are pursuing degrees in fashion, graphic design, technology, and business in an effort to increase awareness, participation and funding for girls in STEM programs across the country. The final deliverable from each team will be an iPhone case design an e-commerce site to sell their product, and a marketing plan to launch the product. Proceeds from the sales of the winning team's cases will go back to supporting Girls In STEM.
 
+I acted as the tech student in my team of 3 which had to compromise of a business, tech, and design student.
+
 Together we created **The MEGGS Case**.
 
-MEGGS creates tech focused cases that offer beautiful and well designed protective solutions for your iPhone 7. We believe getting women interested and involved in STEM is vital to the industries and creates a well balanced and educated society. Through our cases we want to give young women and girls a tangible way to showcase their passion in interests through fashion accessories.
+MEGGS creates tech-focused cases that offer beautiful and well designed protective solutions for your iPhone 7. We believe getting women interested and involved in STEM is vital to the industries and creates a well balanced and educated society. Through our cases, we want to give young women and girls a tangible way to showcase their passion in interests through fashion accessories.
 
 Our team submitted everything on time but in the end, they went with another team!
 
 ## Project
+
+MEGGS creates tech-focused cases that offer beautiful and well designed protective solutions for your iPhone 7.
 
 <blockquote class="embedly-card"><h4><a href="https://devpost.com/software/meggs">MEGGS</a></h4><p>MEGGS - MEGGS creates tech focused cases that offer beautiful and well designed protective solutions for your iPhone 7.</p></blockquote>
 
@@ -56,6 +63,8 @@ Our team submitted everything on time but in the end, they went with another tea
 
 <blockquote class="embedly-card"><h4><a href="https://scribd.com/document/326087214/Business-Plan-The-MEGGS-Case">Business Plan - The MEGGS Case</a></h4><p>MEGGS creates tech-focused cases that offer beautiful and well designed protective solutions for your iPhone 7. We believe getting women interested and involved in STEM is vital to the industries and creates a well balanced and educated society. Through our cases, we want to give young women and girls a tangible way to showcase their passion in interests through fashion accessories.</p></blockquote>
 
-![Group Photo](https://fvcproductions.files.wordpress.com/2016/10/img_2234.jpg)
+<blockquote class="embedly-card"><h4><a href="https://www.instagram.com/p/BLBaF2oDd47/">We 💖 Judy Spitz #verizon #cornelltech #witny #stem #designhackathon #designforherSTEM</a></h4><p>9 Likes, 1 Comments - Grind (@grindspaces) on Instagram: "We 💖 Judy Spitz #verizon #cornelltech #witny #stem #designhackathon #designforherSTEM"</p></blockquote>
 
-![Yours Truly](https://fvcproductions.files.wordpress.com/2016/10/fullsizeoutput_29f.jpeg)
+![Group Photo](https://i.imgur.com/nPtfYTm.jpg)
+
+![Yours Truly](https://i.imgur.com/ydDCcBg.jpg)

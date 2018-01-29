@@ -2,9 +2,10 @@
 title: Open Studio Poster - Cornell Tech 📰
 date: 2016-12-15
 description: At the end of the semester, each team was also tasked to create a poster for their community challenge teams in order to display them at Open Studio.
-banner: https://i.imgur.com/8cFXnVj.jpg
+banner: https://i.imgur.com/TdKktfp.png
 categories:
-    - portfolio
+  - portfolio
+  - design
 ---
 
 Every fall, leading startups, companies, and organizations in NYC pose business challenges to Cornell Tech.
@@ -17,14 +18,9 @@ To address this problem, we created Q&A, a platform that solicits the opinion of
 
 At the end of the semester, each team was also tasked to create a poster for their community challenge teams in order to display them at Open Studio.
 
-## This is the end result.
-
-![poster](https://fvcproductions.files.wordpress.com/2016/12/poster.png)
-
-TODO: [gallery ids="5238,5239,5240,5237" type="rectangular" ]
+<blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/46477237/The-NYT-Community-Challenge-Open-Studio">The NYT Community Challenge | Open Studio</a></h4><p>Every fall, leading startups, companies, and organizations in NYC pose business challenges to Cornell Tech. In Product Studio, teams develop and present new products, services, and strategies that respond to those challenges. Our team responded to The...</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Tools Used
 
 * Sketch 3
-
-> View the poster on [Behance](https://www.behance.net/gallery/46477237/The-NYT-Community-Challenge-Open-Studio) View the final NYT project [here](https://fvcproductions.com/portfolio/product-studio-final-sprint/)

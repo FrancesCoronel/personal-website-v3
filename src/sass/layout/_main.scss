@@ -353,12 +353,6 @@ img.mailchimp-logo {
     margin-top: 0;
     padding-top: 0;
   }
-  a {
-    color: lightgray;
-    &:hover {
-      color: mix(black, lightgray, 40%);
-    }
-  }
   code {
     background-color: mix(white, lightgray, 95%);
   }
@@ -392,6 +386,10 @@ blockquote {
       width: 100%;
     }
   }
+}
+
+.large-emojii {
+  font-size: 3em;
 }
 
 section.section.tiles.isotope-grid {
