@@ -1,7 +1,7 @@
 ---
 title: Hack the Vote 🇺🇸
 date: 2015-10-24
-banner: https://i.imgur.com/8cFXnVj.jpg
+banner: https://i.imgur.com/EYbbFGx.jpg
 categories:
   - portfolio
 ---

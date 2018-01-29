@@ -1,13 +1,17 @@
 ---
 title: An Intro for CS Majors 📘
 date: 2015-03-12
-banner: https://i.imgur.com/8cFXnVj.jpg
+banner: https://i.imgur.com/YpP5kSK.jpg
 categories:
-    - portfolio
+  - portfolio
+  - book
 ---
 
-[![HU Book
-Icon](https://huacm.files.wordpress.com/2015/03/hubookicon.jpg?w=788)](https://bit.ly/hu-book)\
+[![HU Book Icon](https://huacm.files.wordpress.com/2015/03/hubookicon.jpg?w=788)](https://bit.ly/hu-book)\
+
+![](https://i.imgur.com/kENWuAq.jpg)
+
+![](https://i.imgur.com/YpP5kSK.jpg)
 
 > **Originally started February 2015.**
 >
@@ -53,7 +57,3 @@ GitBook](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-04-1
 ## Why this project?
 
 * This book would have been so helpful when I was starting out, so I wanted others who were in my place to at least have a smoother process when it comes to integrating to their new college environment.
-
-**Tips or Tricks?**
-
-> Tweet me [@fvcproductions](https://twitter.com/fvcproductions "FVCproductions on Twitter").

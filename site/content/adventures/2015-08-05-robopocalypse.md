@@ -1,7 +1,7 @@
 ---
 title: Robopocalypse 🤖
 date: 2015-08-05
-banner: https://i.imgur.com/8cFXnVj.jpg
+banner: https://i.imgur.com/V26V6tz.png
 categories:
   - portfolio
 ---

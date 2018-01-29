@@ -2,7 +2,7 @@
 title: Designlab Submissions 🎨
 date: 2015-10-09
 description: These are some of my favorite submissions from Design 101 course on Designlab.
-banner: https://i.imgur.com/8cFXnVj.jpg
+banner: https://i.imgur.com/XvuQKSk.jpg
 categories:
   - portfolio
 ---

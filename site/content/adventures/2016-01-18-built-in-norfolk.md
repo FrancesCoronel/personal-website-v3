@@ -2,9 +2,11 @@
 title: Built in Norfolk
 date: 2016-01-18
 description: Badges for when you're hacking out in Norfolk.
-banner: https://i.imgur.com/8cFXnVj.jpg
+banner: https://i.imgur.com/DVLKru7.png
 categories:
-    - portfolio
+  - portfolio
+  - oss
+  - design
 ---
 
 Check out the badges at [`built-in-norfolk`](https://github.com/fvcproductions/built-in-norfolk)!

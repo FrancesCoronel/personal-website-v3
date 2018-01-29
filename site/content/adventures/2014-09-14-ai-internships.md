@@ -1,7 +1,7 @@
 ---
 title: Undergrad A.I. Internships
 date: 2014-09-14
-banner: https://i.imgur.com/8cFXnVj.jpg
+banner: https://i.imgur.com/6kexSrT.jpg
 categories:
   - portfolio
   - research

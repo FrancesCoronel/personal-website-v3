@@ -2,7 +2,7 @@
 title: "My Designlab Experience 🎨"
 date: 2015-10-21
 description: My personal experience with Designlab, an online platform for learning web and mobile design skills.
-banner: //fvcproductions.files.wordpress.com/2015/10/newbanners.jpg
+banner: https://i.imgur.com/XvuQKSk.jpg
 tags:
     - behance
     - chad trutt

@@ -1,7 +1,7 @@
 ---
 title: Bootcamp.me - Google Map 📍
 date: 2014-12-28
-banner: https://i.imgur.com/8cFXnVj.jpg
+banner: https://i.imgur.com/HEcSJIK.png
 categories:
   - portfolio
 ---

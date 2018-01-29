@@ -1,8 +1,8 @@
 ---
 title: Designlab
 date: 2015-10-09
-description: AAAI advances the understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines.
-banner: https://fvcproductions.files.wordpress.com/2015/10/newbanners.jpg
+description: Designlab is the best way to learn UI/UX design skills online — through project-based courses and 1-on-1 mentorship from expert designers.
+banner: https://i.imgur.com/XvuQKSk.jpg
 embedly: true
 categories:
   - program

@@ -2,7 +2,7 @@
 title: "MapMe - Coding Bootcamps 📍"
 date: 2016-01-12
 description: A crowd-sourced map for coding bootcamps.
-banner: https://i.imgur.com/8cFXnVj.jpg
+banner: https://i.imgur.com/SR7yuSg.png
 categories:
     - portfolio
 ---
