@@ -186,7 +186,3 @@ rainbow.](//media1.giphy.com/media/SKGo6OYe24EBG/200w.gif)
 * [Fullstack Academy - Week 2 👬](//fvcproductions.com/blog/2015/06/20/fullstack-academy-week-2/)
 * [Fullstack Academy - Week 3 🔦🔦🔦](//fvcproductions.com/blog/2015/06/26/fullstack-academy-week-3/)
 * [Fullstack Academy - Week 4 💲🔮🔮💲](//fvcproductions.com/blog/2015/07/03/fullstack-academy-week-4/)
-
-> _Tips or tricks?_ :idea:
->
-> > tweet me at [`@fvcproductions`](//twitter.com/fvcproductions).

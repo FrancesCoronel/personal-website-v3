@@ -253,7 +253,3 @@ return false;\
 > **TO NOTE**
 >
 > > Although stack and queues have been implemented using an array - these ADTs are not accessed as an array. No actual code for a queue on this test; but you should be able to write an algorithm to demonstrate the concept of a queue.
-
-> Tips or Tricks?
->
-> > Contact me [@fvcproductions](//twitter.com/fvcproductions)

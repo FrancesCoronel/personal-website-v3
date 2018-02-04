@@ -1,6 +1,6 @@
 ---
 title: Cornell Tech
-description: Master of Engineering in Computer Science at Cornell Tech in New York City.
+description: Master of Engineering in Computer Science
 date: 2017-05-26
 banner: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/11/2016-11-29-photo-00000102.jpg?w=255&h=191&crop&ssl=1&zoom=2
 embedly: true

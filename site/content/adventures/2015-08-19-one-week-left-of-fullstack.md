@@ -368,7 +368,3 @@ TODO: [gallery type="slideshow" link="file" size="full" ids="2630,2631,2632,2633
 * [Fullstack Academy - Week 5 💕💓💕](//fvcproductions.com/blog/2015/07/11/fullstack-academy-week-5/)
 * [Fullstack Academy - Week 6 and Review Week 🃏🃏🃏🃏🃏🃏](//fvcproductions.com/blog/2015/07/25/fullstack-academy-week-6-review-week/)
 * [Web Dev & Design Slides | Fullstack Academy 🎨](//fvcproductions.com/blog/2015/08/05/web-dev-and-web-design-slides-fullstack-academy/)
-
-> _Tips or tricks?_ :idea:
->
-> > tweet me at [`@fvcproductions`](//twitter.com/fvcproductions).

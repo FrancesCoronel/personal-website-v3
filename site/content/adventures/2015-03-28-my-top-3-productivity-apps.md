@@ -37,11 +37,11 @@ There are other awesome power apps of course, like
 * [Flux](//justgetflux.com "Flux")
 * [Sorty](//wiles.dk/ "Sorty")
 * [Ubersicht](//tracesof.net/uebersicht/ "Ubersicht")
-* [Yoink](//eternalstorms.at/yoink/Yoink*-_Draggings_a_drag_no_more/Yoink*-_Draggings_a_drag_no_more%21.html ""Yoink"")
+* [Yoink](//eternalstorms.at/yoink/Yoink*-\_Draggings_a_drag_no_more/Yoink*-\_Draggings_a_drag_no_more%21.html ""Yoink"")
 
 among others - but these 3 are by far my favorite.
 
-1. # [Automator](//en.wikipedia.org/wiki/Automator_%28software%29 ""Automator"")
+1. # [Automator](//en.wikipedia.org/wiki/Automator\_%28software%29 ""Automator"")
 
 ![Automator](//www.redundantrobot.com/wp-content/uploads/2013/10/automator.png)
 
@@ -111,7 +111,3 @@ I was so slow moving windows around before this app, so once I transitioned to f
 Only good things can be said about this app, seriously.
 
 And that's it! Check out my post, [What I Use](//fvcproductions.com/what-i-use/ "What I Use 📱") for more awesome apps!
-
-> Tips or tricks?
->
-> > tweet me [@fvcproductions](//twitter.com/fvcproductions ""FVCproductions"")

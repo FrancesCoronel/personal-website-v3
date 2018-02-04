@@ -194,7 +194,3 @@ categories:
   return gcd(y, x % y);\
   }\
   ```
-
-> Tips or Tricks? 🔎
->
-> > Contact me [@fvcproductions](//twitter.com/fvcproductions)

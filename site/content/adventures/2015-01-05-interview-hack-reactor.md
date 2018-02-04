@@ -153,7 +153,3 @@ I also have shared my **interview experience** with bootcamps such as
 * [Dev League](//fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
 * [Fullstack Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
 * [Maker Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
-
-**Tips or tricks?** 💡
-
-> Contact me [@fvcproductions](//twitter.com/fvcproductions "Twitter - FVCproductions")

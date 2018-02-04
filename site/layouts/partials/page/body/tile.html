@@ -3,7 +3,7 @@
   {{ if .Params.link }}
   <a href="{{ .Params.link }}" target="_blank" rel="noopener">
     {{ else }}
-    <a href="{{ .Permalink }}">
+    <a href="{{ .RelPermalink }}">
       {{ end }}
       <!-- Title -->
       {{ if not .PublishDate.IsZero }}

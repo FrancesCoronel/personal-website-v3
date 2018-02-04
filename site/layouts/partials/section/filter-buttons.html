@@ -7,37 +7,37 @@
         All Adventures
       </button>
       <button class="button big" data-filter=".award">
-        Awards ️️🏆
+        Awards ️️🏆 ({{ len (($.Site.Taxonomies.categories.award).Pages) }})
       </button>
       <button class="button big" data-filter=".blog">
-        Blog ️📝️
+        Blog ️📝️ ({{ len (($.Site.Taxonomies.categories.blog).Pages) }})
       </button>
       <button class="button big" data-filter=".conference">
-        Conferences 👥
+        Conferences 👥 ({{ len (($.Site.Taxonomies.categories.conference).Pages) }})
       </button>
       <button class="button big" data-filter=".education">
-        Education 🎓
+        Education 🎓 ({{ len (($.Site.Taxonomies.categories.education).Pages) }})
       </button>
       <button class="button big" data-filter=".experience">
-        Experiences 👓️
+        Experiences 👓️ ({{ len (($.Site.Taxonomies.categories.experience).Pages) }})
       </button>
       <button class="button big" data-filter=".hackathon">
-        Hackathons 🛠️
+        Hackathons 🛠️ ({{ len (($.Site.Taxonomies.categories.hackathon).Pages) }})
       </button>
       <button class="button big" data-filter=".program">
-        Programs 🎒️
+        Programs 🎒️ ({{ len (($.Site.Taxonomies.categories.program).Pages) }})
       </button>
       <button class="button big" data-filter=".portfolio">
-        Projects 💼️
+        Projects 💼️ ({{ len (($.Site.Taxonomies.categories.portfolio).Pages) }})
       </button>
       <button class="button big" data-filter=".review">
-        Reviews ️✅
+        Reviews ️✅ ({{ len (($.Site.Taxonomies.categories.review).Pages) }})
       </button>
       <button class="button big" data-filter=".speaking">
-        Speaking 💬️
+        Speaking 💬️ ({{ len (($.Site.Taxonomies.categories.speaking).Pages) }})
       </button>
       <button class="button big" data-filter=".volunteering">
-        Volunteering 💛️
+        Volunteering 💛️ ({{ len (($.Site.Taxonomies.categories.volunteering).Pages) }})
       </button>
       <!-- Blogging -->
       {{ else if .Params.blog }}

@@ -144,10 +144,6 @@ If that's not an immersive experience, I don't know what is.
 * [ONE WEEK OF FULLSTACK LEFT 😲](//fvcproductions.com/blog/2015/08/19/one-week-left-of-fullstack/)
 * [Fullstack Academy | Reflections](//fvcproductions.com/blog/2015/08/30/fullstack-academy-reflections/) 🕝
 
-> _Tips or tricks?_ :idea:
->
-> > tweet me at [`@fvcproductions`](//twitter.com/fvcproductions).
-
 _Part of my review for Fullstack Academy on Quora was featured on their website!_
 
 [![Testimonial

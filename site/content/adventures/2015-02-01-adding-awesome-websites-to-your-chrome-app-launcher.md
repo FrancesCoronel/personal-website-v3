@@ -199,7 +199,3 @@ Tutorial time.
 > > ![](//fvcproductions.files.wordpress.com/2015/02/complete-e1422839649943.png)
 >
 > That's it. Congratulations! 😊
-
-> Tips or tricks?
->
-> > contact me [@fvcproductions](//twitter.com/fvcproductions)

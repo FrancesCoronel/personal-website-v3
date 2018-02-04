@@ -97,7 +97,3 @@ _Some Logistics_
 * You get set up with an account on [Lynda.com](//lynda.com "Lynda") once you pay the first deposit.
 * The total cost of the program is \$6K.
 * You have to officially confirm your acceptance no later than 1 week from today (I made sure to explain to Will I would need more time to make my decision, and he understood, so again, kudos to Will and his quick feedback!).
-
-> Tips or tricks?
->
-> > Contact me [@fvcproductions](//twitter.com/fvcproductions "Twitter - FVCproductions")

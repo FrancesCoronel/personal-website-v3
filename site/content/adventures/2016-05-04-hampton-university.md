@@ -1,6 +1,6 @@
 ---
 title: Hampton University
-description: BS in Computer Science
+description: Bachelor of Science in Computer Science
 date: 2016-05-04
 banner: https://fvcproductions.files.wordpress.com/2016/02/screenshot-2016-05-12-15-18-19.png
 embedly: true

@@ -159,7 +159,7 @@ I was able to type 45 WPM with a 92% accuracy according to this SpongeBob game c
   issuer: Ghent School
   month: 'March'
   year: 2003
-  notes: 25 Points Earned
+  notes: 25 Points Earn
 * award: Accelerated Reading
   issuer: Ghent School
   month: 'March'

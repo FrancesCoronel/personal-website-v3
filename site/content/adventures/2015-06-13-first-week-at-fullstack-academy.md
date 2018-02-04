@@ -92,7 +92,3 @@ Just sayin'. :roll:
 * [Fullstack Foundations - Week 1](//fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
 * [Fullstack Foundations - Weeks 2 - 4](//fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
 * [Fullstack Academy - Week 1](//fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/)
-
-> _Tips or tricks?_ :idea:
->
-> > Tweet me at [`@fvcproductions`](//twitter.com/fvcproductions).

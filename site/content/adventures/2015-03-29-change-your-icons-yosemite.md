@@ -182,7 +182,3 @@ App -
 Dropbox](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-09-37.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-09-37.png)
 
 ### Have fun with your new icons! 😍
-
-> Tips or tricks?
->
-> > contact me [@fvcproductions](//twitter.com/fvcproductions "FVCproductions")

@@ -100,7 +100,3 @@ There we go! Just like that, I now know for sure that the ordering of the Greek 
 * Zeta - Heap Sort
 
 ### Good luck with your HW! :wink:
-
-> Tips or tricks?
->
-> > contact me [`@fvcproductions`](//twitter.com/fvcproductions "Twitter - FVCproductions")

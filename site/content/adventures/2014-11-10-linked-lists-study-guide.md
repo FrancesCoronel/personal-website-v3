@@ -195,7 +195,3 @@ categories:
   * pseudocode\
 
     > same as traversal algorithm but just printing out data of pointer as you go along the node sequence with `pointer.data`
-
-> Tips or Tricks?
->
-> > Contact me [@fvcproductions](//twitter.com/fvcproductions)

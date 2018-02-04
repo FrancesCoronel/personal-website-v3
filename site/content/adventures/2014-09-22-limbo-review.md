@@ -83,7 +83,3 @@ Anyhow, hoped you enjoyed this review! Be sure to check out the sweet fan artwor
 **_OMGGGGG_**
 
 Until then, cheers!
-
-> Tips or Tricks?
->
-> Tweet me at [@fvcproductions](//twitter.com/fvcproductions)

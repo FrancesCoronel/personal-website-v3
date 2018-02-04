@@ -69,7 +69,3 @@ So I decided to compile a bunch of fun interview topics of interest and question
 * What is the ratio of software developers to program managers or what is the student to mentor ratio?
   * What is the interaction between them like?
 * Were you ever an intern yourself?
-
-> _Tips or tricks?_
->
-> > Tweet me at [@fvcproductions](//twitter.com/fvcproductions)!

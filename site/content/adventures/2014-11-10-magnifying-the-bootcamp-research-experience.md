@@ -1,50 +1,50 @@
 ---
-title: "Magnifying the Bootcamp Research Experience"
+title: Magnifying the Bootcamp Research Experience
 date: 2014-11-10
 description: "The coding bootcamp ultimatum."
-banner: //fvcproductions.files.wordpress.com/2014/11/hack-reactor-interior.jpg?w=1024&h=435&crop=1
-tags:
-    - app academy
-    - bootcamper.io
-    - bootcamps
-    - bootcamps.in
-    - cb
-    - cbs
-    - code combat
-    - code combt
-    - code school
-    - code2040
-    - codecademy
-    - codewars
-    - coding bootcamps
-    - course report
-    - firehose project
-    - flatiron
-    - fullstack
-    - fvcproductions
-    - general assembly
-    - google+
-    - hack app
-    - hack reactor
-    - hackreactor
-    - launch academy
-    - makersquare
-    - quora
-    - resources
-    - switch
-    - switchup
-    - techendo
-    - topcoder
-    - treehouse
-    - tweet
-    - typing.io
-    - ui
-    - UI/UX
-    - ux
-    - web crawler
-    - yelp
+banner: https://fvcproductions.files.wordpress.com/2014/11/hack-reactor-interior.jpg?w=1024&h=435&crop=1
 categories:
-    - blog
+  - blog
+tags:
+  - app academy
+  - bootcamper.io
+  - bootcamps
+  - bootcamps.in
+  - cb
+  - cbs
+  - code combat
+  - code combt
+  - code school
+  - code2040
+  - codecademy
+  - codewars
+  - coding bootcamps
+  - course report
+  - firehose project
+  - flatiron
+  - fullstack
+  - fvcproductions
+  - general assembly
+  - google+
+  - hack app
+  - hack reactor
+  - hackreactor
+  - launch academy
+  - makersquare
+  - quora
+  - resources
+  - switch
+  - switchup
+  - techendo
+  - topcoder
+  - treehouse
+  - tweet
+  - typing.io
+  - ui
+  - UI/UX
+  - ux
+  - web crawler
+  - yelp
 ---
 
 The Coding Bootcamp Ultimatum
@@ -329,10 +329,8 @@ App](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-45
 >
 > > I think a great idea when it comes to student reviews for each bootcamp is being able to produce some sort of web crawler that scans Yelp, Quora, Google+, among other popular rating sites and putting it all into one place for everyone to look at. As long as the UI/UX end up meshing well together, that would prove to be really beneficial. For the time being though, we have to stick with reviews (some replicas) being scattered through the web for each individual bootcamp.
 
-> 🔧**Tips or Tricks?**
->
-> > Tweet me at [@fvcproductions](//twitter.com/fvcproductions "FVCproductions on Twitter") 🐦
+---
 
-**Cheers!** 😃
+## Feedback
 
-//twitter.com/MarcoMorawec/status/537036957851721728\]
+<blockquote class="embedly-card"><h4><a href="http://twitter.com/MarcoMorawec/status/537036957851721728">Marco Morawec on Twitter</a></h4><p>Thanks @fvcproductions for including our Guide to Choosing a Coding Bootcamp in our awesome post http://t.co/XADls2F1RW - @FirehoseProject</p></blockquote>

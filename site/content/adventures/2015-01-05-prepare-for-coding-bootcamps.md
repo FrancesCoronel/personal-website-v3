@@ -146,7 +146,3 @@ I also have shared my **interview experience** with bootcamps such as
 * [Fullstack Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
 * [Hack Reactor](//fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
 * [Maker Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
-
-> Tips or tricks?
->
-> > contact me [@fvcproductions](//twitter.com/fvcproductions "Twitter - FVCproductions")

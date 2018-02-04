@@ -245,7 +245,3 @@ categories:
 > Even though [Treehouse](//teamtreehouse.com/) wasn't listed since I guess technically it's not really a bootcamp, I'd definitely recommend it for beginners and then [Code School](//www.codeschool.com/) for slightly more advanced users. The breadth of what Treehouse offers is pretty neat.
 >
 > I'm in the process of trying out the virtual services [Bento](//www.bento.io/), [Egghead.io](//egghead.io/), and [Nodeschool](//nodeschool.io/) more thoroughly.
-
-> Tips or tricks?
->
-> > contact me [@fvcproductions](//twitter.com/fvcproductions)

@@ -117,9 +117,6 @@ textarea {
 
 input[type="checkbox"],
 input[type="radio"] {
-  display: block;
-  width: 1em;
-  z-index: -1;
   &+label {
     @include icon;
     color: _palette(fg);

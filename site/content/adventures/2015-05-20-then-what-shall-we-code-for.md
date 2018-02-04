@@ -1,13 +1,14 @@
 ---
-title: "Then what shall we code for? 🌊"
+title: Then what shall we code for? 🌊
 date: 2015-05-20
-description: "Then what shall we code for?\\r\\n\\r\\nInspiration from POTC."
-banner: //fvcproductions.files.wordpress.com/2015/05/potc.jpg
+description: Then what shall we code for? Inspiration from POTC.
+banner: https://fvcproductions.files.wordpress.com/2015/05/potc.jpg
+embedly: true
 categories:
-    - blog
+  - blog
 ---
 
-//youtu.be/sKGoHPGM7v8?t=1m50s
+<blockquote class="embedly-card"><h4><a href="https://youtu.be/sKGoHPGM7v8?t=1m50s">Hoist The Colours -The Full Scene (HIGH QUALITY)</a></h4><p>The song and scene from the beginning of Pirates of the Caribbean 3: At World's End.</p></blockquote>
 
 > **Then what shall we code for?**
 >

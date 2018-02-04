@@ -29,9 +29,4 @@ noTimeEstimate: true
   </form>
 </section>
 
-If you'd like to set up a meeting, use my [Calendly][https://calendly.com/fvcproductions].
-
-<!-- Chat Bot -->
-
-<!-- <script src="https://app.engati.com/static/js/chat_widget.js"></script>
-<script>EngtChat.init({"bot_key": "48eb665693764723", "e":"p", "bot_name":"FVCproductions","welcome_msg":true});</script> -->
+📅 If you'd like to set up a meeting, you can use my [Calendly](//calendly.com/fvcproductions).

@@ -206,7 +206,3 @@ Even if you're not into the horror genre of games, I'd give _Isaac_ a shot becau
 ![Died](//i1.wp.com/www.owengrieve.com/caps/2011-10-02_1128.png?resize=600%2C338)
 
 # Happy re-birthing.
-
-> Tips or Tricks?
->
-> > Tweet me [@fvcproductions](//twitter.com/fvcproductions).

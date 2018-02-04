@@ -41,7 +41,3 @@ Now I'm not **completely** switching over to this map quite yet. Mapme is still 
 **For the time being**, I'll be adding on to the crowdsourced map **gradually** (I have a lot going on with [Fullstack Academy](//fullstackacademy.com "Fullstack Academy") right now), but the Google Map will still act as the main reference, even if it does lack a bunch of features.
 
 My future goals still involve making this into a full-fledged web app or having it as a resource for a _coding bootcamp investigator_, as I like to call them (think [Course Report](//www.coursereport.com/ "Course Report") and [SwitchUp](//switchup.org "SwitchUp")). What would they be formally called anyways?
-
-> Tips or tricks?
->
-> > Tweet me at [@fvcproductions](//twitter.com/fvcproductions "Twitter | FVCproductions").

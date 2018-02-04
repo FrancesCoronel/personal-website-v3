@@ -1,7 +1,7 @@
 ---
 title: About 👀️
 description: Yep, that's me!
-banner: https://i.imgur.com/N6otIx9.jpg
+banner: https://i.imgur.com/EemV6QS.jpg
 caption: The quintessential portrait
 alphabetical: true
 noComments: true
@@ -39,25 +39,38 @@ Might have something to do with human nature in general, though, so interpret it
 * Code pusher, design publisher & online blogger 🌐️
 
 <p class="notice">
-  <b>Another Fun Fact</b>
+  <b>Fun Fact #2</b>
   <br>
   My boyfriend Nolan got accepted to the <a href="//holbertonschool.com">Holberton School</a> in San Francisco and will be starting with the September 2018 cohort - I'm very happy for him! ❤️
 </p>
 
 ![Nolty](https://i.imgur.com/ukAFqim.jpg)
 
-<p class="image-caption">🚀 This is Nolan helping me build <a href="//shop.lego.com/en-US/LEGO-NASA-Apollo-Saturn-V-21309">Apollo Saturn V</a></p>
+<p class="image-caption">🚀 This is Nolan helping me build the <a href="https://shop.lego.com/en-US/LEGO-NASA-Apollo-Saturn-V-21309">Apollo Saturn V</a></p>
+
+<p class="notice">
+  <b>Fun Fact #3</b>
+  <br>
+  I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the Egyptian queen) a crap ton.
+</p>
+
+![Nefy](https://i.imgur.com/cwXno9D.jpg)
+
+<p class="image-caption">This is Nefer being a little cutie.</p>
 
 ### What's Happening Nowadays 📅
 
 > This a [now section](https://nownownow.com/about) and if you have your own site, you should make one, too!
 >
-> Last updated January 2018
+> Last updated February 3, 2018
 
-* Decided Medium wasn't for me...
-* Awarded [Grow with Google](//www.udacity.com/grow-with-google) scholarship
+* Participating in the [Grow with Google](https://www.udacity.com/grow-with-google) Udacity course
+  * I created a [LinkedIn group](https://www.linkedin.com/groups/13575136) for us!
+* Attending [Startup Grind](https://www.startupgrind.com) from February 13th to 14th
+* Attending [Index Conf](https://developer.ibm.com/indexconf) from February 20th to 22nd
+* Attending [Iterate Conf](https://www.iterateconf.io) on February 27th
 
-### [WakaTime Tracker](//wakatime.com/share/@fvcproductions/0a592682-4fbc-4ae3-87ab-e4f202c7df96.svg)
+### [WakaTime Tracker](//wakatime.com/share/@fvcproductions/0a592682-4fbc-4ae3-87ab-e4f202c7df96.svg) 💻
 
 > I code too much - help!
 

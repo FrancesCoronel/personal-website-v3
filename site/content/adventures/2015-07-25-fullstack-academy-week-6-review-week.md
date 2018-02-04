@@ -45,7 +45,7 @@ Angular](//s3.amazonaws.com/accredible_courses/images/11072/original/shaping-up-
 
 ## Day Three - Wednesday
 
-* Today, my partner Yves and I were the only team that showcased a flashcard design. So by default, we both won and lost the mini-competition for the best flashcard design. We each get a Fullstack t-shirt (I still haven't gotten this yet -_\_-).
+* Today, my partner Yves and I were the only team that showcased a flashcard design. So by default, we both won and lost the mini-competition for the best flashcard design. We each get a Fullstack t-shirt (I still haven't gotten this yet -\_\_-).
 * Here's how the home page for our design ended up looking like, more or less: ![HomePage](//i.imgur.com/8Lh7IJw.png)
 * We used [FlatUI](//designmodo.github.io/Flat-UI/), naturally.
 
@@ -117,7 +117,3 @@ Conference](//fvcproductions.files.wordpress.com/2015/07/106e4-1432076952614.png
 * [Fullstack Academy - Week 3 🔦🔦🔦](//fvcproductions.com/blog/2015/06/26/fullstack-academy-week-3/)
 * [Fullstack Academy - Week 4 💲🔮🔮💲](//fvcproductions.com/blog/2015/07/03/fullstack-academy-week-4/)
 * [Fullstack Academy - Week 5 💕💓💕](//fvcproductions.com/blog/2015/07/11/fullstack-academy-week-5/)
-
-> _Tips or tricks?_ :idea:
->
-> > tweet me at [`@fvcproductions`](//twitter.com/fvcproductions).

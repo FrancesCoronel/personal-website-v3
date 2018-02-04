@@ -1,29 +1,29 @@
 ---
-title: "Fullstack Academy - Week 3 🔦"
+title: Fullstack Academy - Week 3 🔦
 date: 2015-06-26
-description: "June 22nd to 26th.\\r\\n\\r\\nThere are 57 days in Fullstack. These are the third 5."
-banner: //fvcproductions.files.wordpress.com/2015/06/banners-0011.jpg
-tags:
-    - aline lerner
-    - alumni panel
-    - american museum of natural history
-    - avalon
-    - board game
-    - coding bootcamps
-    - dinos
-    - DropBox
-    - duck bill
-    - equality
-    - fullstack
-    - fullstack academy
-    - gay marriage legal now
-    - museum
-    - Robert Langdon
-    - same sex marriage
-    - week 3
-    - wikistack
+description: June 22nd to 26th. There are 57 days in Fullstack. These are the third 5.
+banner: https://fvcproductions.files.wordpress.com/2015/06/banners-0011.jpg
 categories:
-    - blog
+  - blog
+tags:
+  - aline lerner
+  - alumni panel
+  - american museum of natural history
+  - avalon
+  - board game
+  - coding bootcamps
+  - dinos
+  - DropBox
+  - duck bill
+  - equality
+  - fullstack
+  - fullstack academy
+  - gay marriage legal now
+  - museum
+  - Robert Langdon
+  - same sex marriage
+  - week 3
+  - wikistack
 ---
 
 > June 22nd to 26th.
@@ -97,7 +97,7 @@ Octocat](//fvcproductions.files.wordpress.com/2015/06/pride-octocat.png)](//fvcp
 
 > :arrow: **Overall Conclusion?**
 >
-> > A lot of great things have happened this week. \^_\^
+> > A lot of great things have happened this week. \^\_\^
 
 ### Journey Into the Cave of Digital Hieroglyphics
 
@@ -117,10 +117,4 @@ Octocat](//fvcproductions.files.wordpress.com/2015/06/pride-octocat.png)](//fvcp
 
 This theme for creating a post today on Wordpress is very snazzy! Kudos to the sensational WP team.
 
-[![Same
-Sex Marriage -
-YAY!!](//fvcproductions.files.wordpress.com/2015/06/screenshot-2015-06-26-22-58-42.png?w=660)](//fvcproductions.files.wordpress.com/2015/06/screenshot-2015-06-26-22-58-42.png) Same Sex Marriage - YAY!!
-
-> _Tips or tricks?_ :idea:
->
-> > tweet me at [`@fvcproductions`](//twitter.com/fvcproductions "Twitter - FVCproductions").
+![Same Sex Marriage - YAY!!](//fvcproductions.files.wordpress.com/2015/06/screenshot-2015-06-26-22-58-42.png?w=660)

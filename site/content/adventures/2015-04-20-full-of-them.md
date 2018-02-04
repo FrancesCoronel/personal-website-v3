@@ -1,8 +1,8 @@
 ---
-title: "When You Realize the Internet is Full of Trolls"
+title: When You Realize the Internet is Full of Trolls
 date: 2015-04-20
-description: "I mean, come on people!\\r\\n\\r\\nNOTHING."
-banner: //fvcproductions.files.wordpress.com/2015/04/maurice-moss-the-it-crowd-24808-1920x1080.jpg?w=1024&h=436&crop=1
+description: I mean, come on people! NOTHING.
+banner: https://fvcproductions.files.wordpress.com/2015/04/maurice-moss-the-it-crowd-24808-1920x1080.jpg?w=1024&h=436&crop=1
 tags:
     - chrome
     - chrome extensions

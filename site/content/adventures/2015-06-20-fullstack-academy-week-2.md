@@ -1,22 +1,22 @@
 ---
 title: Fullstack Academy - Week 2 👬
 date: 2015-06-20
-description: "June 15th to 19th.\\r\\n\\r\\nThere are 58 57 days in Fullstack. These are the second 5."
-banner: //fvcproductions.files.wordpress.com/2015/06/banners-001.jpg
-tags:
-    - academy
-    - code school
-    - coding bootcamp experience
-    - coding bootcamp fullstack
-    - coding bootcamps
-    - fullstack
-    - fullstack academy
-    - fullstack foundations
-    - fullstack week
-    - UNO
-    - week 2
+description: June 15th to 19th. There are 57 days in Fullstack. These are the second 5.
+banner: https://fvcproductions.files.wordpress.com/2015/06/banners-001.jpg
 categories:
-    - blog
+  - blog
+tags:
+  - academy
+  - code school
+  - coding bootcamp experience
+  - coding bootcamp fullstack
+  - coding bootcamps
+  - fullstack
+  - fullstack academy
+  - fullstack foundations
+  - fullstack week
+  - UNO
+  - week 2
 ---
 
 > June 15th to 19th.
@@ -29,8 +29,8 @@ categories:
 
 ## Day Two - Tuesday
 
-* I've decided I'm just not a big fan of [`Codewars`](//codewars.com "Codewars").
-* I just prefer [`Code School`](//codeschool.com "Code School")'s cleaner design & fun videos. Oh, well!
+* I've decided I'm just not a big fan of [Codewars](//codewars.com "Codewars").
+* I just prefer [Code School](//codeschool.com "Code School")'s cleaner design & fun videos. Oh, well!
 
 ## Day Three - Wednesday
 
@@ -69,7 +69,3 @@ categories:
 * [Fullstack Foundations - Week 1](//fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
 * [Fullstack Foundations - Weeks 2 - 4](//fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
 * [Fullstack Academy - Week 1](//fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/ "Fullstack Academy - Week 1")
-
-> _Tips or tricks?_ :idea:
->
-> > Tweet me at [`@fvcproductions`](//twitter.com/fvcproductions).

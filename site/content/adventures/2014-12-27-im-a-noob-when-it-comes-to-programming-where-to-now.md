@@ -134,7 +134,3 @@ Banner](//fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-54
     > Programming books can often look rather intimidating and uninspiring, but they do not need to be. We wanted to redesign the tech book and make it more accessible, relevant, and attractive to a whole new group of readers. The result is a book that feels more like a magazine and is enjoyable to flick through, and looks like it belongs in the graphic design section rather than the programming section of a bookstore.
     >
     > ![](//cdn.tripwiremagazine.com/wp-content/uploads/2012/05/html-css-design-build-websites.jpg)
-
-> Tips or tricks?
->
-> > contact me [@fvcproductions](//twitter.com/fvcproductions)

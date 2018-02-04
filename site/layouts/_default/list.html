@@ -7,7 +7,7 @@
 {{ range .Pages }}
 <hr />
 <h2>
-  <a href="{{ .Permalink }}">{{ .Title }}</a>
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
 </h2>
 <p>
   {{ dateFormat "Monday - January 2, 2006" .Date }}
@@ -18,7 +18,7 @@
 <div>
   {{ .Summary }}
   <p class="align-right">
-    <a href="{{ .Permalink }}">
+    <a href="{{ .RelPermalink }}">
       <nobr>{{ .Site.Data.i18n.en.morelink }} →</nobr>
     </a>
   </p>

@@ -82,7 +82,3 @@ Well, Course Report's latest data reveals the following in terms of [future pote
 And in terms of [outcomes](//www.coursereport.com/resources/course-report-bootcamp-graduate-demographics-outcomes-study) …
 
 ![](//course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/274/original/course-20report-20survey.jpg)
-
-> Tips or tricks?
->
-> > contact me [@fvcproductions](//twitter.com/fvcproductions)
