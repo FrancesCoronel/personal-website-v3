@@ -4,6 +4,10 @@ metaDataFormat                = "yaml"
 enableEmoji                   = true
 footnoteReturnLinkContents    = "↩"
 
+[author]
+  name                        = "Frances Coronel"
+  copyright                   = "©️ FVCproductions"
+
 # Language
 languageCode                  = "en-us"
 defaultContentLanguage        = "en"
