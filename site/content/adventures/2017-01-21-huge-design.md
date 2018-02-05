@@ -7,6 +7,8 @@ embedly: true
 categories:
   - portfolio
   - design
+  - video
+  - web
 ---
 
 There were 2 parts to the interview process - the video and the design challenge.

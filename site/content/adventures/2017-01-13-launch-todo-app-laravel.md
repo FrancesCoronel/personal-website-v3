@@ -6,6 +6,8 @@ banner: https://i.imgur.com/NuRqalg.png
 categories:
   - blog
   - portfolio
+  - tutorial
+  - web
 tags:
   - laravel
   - laravel 5

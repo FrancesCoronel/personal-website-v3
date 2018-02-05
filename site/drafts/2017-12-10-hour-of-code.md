@@ -1,7 +1,7 @@
 ---
-title: "Hour of Code"
+title: Hour of Code
 date: 2017-12-10
-description: "Material I developed for volunteering with the Hour of Code program."
+description: Material I developed for volunteering with the Hour of Code program.
 draft: true
 ---
 

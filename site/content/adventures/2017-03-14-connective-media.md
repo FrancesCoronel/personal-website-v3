@@ -16,7 +16,7 @@ speaker deck
 
 > GitHub + Guardian News = GitGuardian
 
-![GitGuardian](https://github.com/fvcproductions/cmtech-assignment-1/raw/master/assets/img/screenshot.png)
+![GitGuardian](https://i.imgur.com/8fk73nj.png)
 
 <blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/cmtech-assignment-1/">GitGuardian</a></h4><p>null</p></blockquote>
 
