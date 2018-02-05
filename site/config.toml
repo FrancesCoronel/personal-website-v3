@@ -4,17 +4,12 @@ metaDataFormat                = "yaml"
 enableEmoji                   = true
 footnoteReturnLinkContents    = "↩"
 
-[author]
-  name                        = "Frances Coronel"
-  copyright                   = "©️ FVCproductions"
-
 # Language
 languageCode                  = "en-us"
 defaultContentLanguage        = "en"
 
 # Categories
 preserveTaxonomyNames         = false
-paginate                      = 5
 
 # Code
 pygmentsCodefences            = true
@@ -143,3 +138,7 @@ disqusShortname               = "fvcproductions"
     wordpress                 = "fvcproductions"
     yelp                      = "E6StflkoWAutmRZ31zNTug"
     youtube                   = "fvcproductions2013"
+
+[author]
+    name                      = "Frances Coronel"
+    copyright                 = "©️ FVCproductions"

@@ -18,8 +18,7 @@
   cursor: default;
   visibility: hidden;
   z-index: _misc(z-index-base) + 2;
-
-  > .inner {
+  >.inner {
     @include vendor("transition", "opacity #{_duration(menu)} ease");
     -webkit-overflow-scrolling: touch;
     position: absolute;
@@ -30,17 +29,15 @@
     padding: 2em;
     opacity: 0;
     overflow-y: auto;
-
-    > ul {
+    >ul {
       list-style: none;
       margin: 0 0 (_size(element-margin) * 0.5) 0;
       padding: 0;
-
-      > li {
+      >li {
         padding: 0;
         border-top: solid 1px transparentize(_palette(bg), 0.85);
-
-        a, p {
+        a,
+        p {
           display: block;
           padding: .5em 0;
           line-height: 1.5;
@@ -51,11 +48,9 @@
             color: lightgray;
           }
         }
-
         p {
           margin: 0;
         }
-
         &:first-child {
           border-top: 0;
           margin-top: 1em;
@@ -63,12 +58,8 @@
       }
     }
   }
-
-  > .close {
-    @include vendor("transition", (
-				"opacity #{_duration(menu)} ease",
-				"transform #{_duration(menu)} ease"
-			));
+  >.close {
+    @include vendor("transition", ( "opacity #{_duration(menu)} ease", "transform #{_duration(menu)} ease"));
     @include vendor("transform", "scale(0.25) rotate(180deg)");
     -webkit-tap-highlight-color: transparent;
     display: block;
@@ -84,7 +75,6 @@
     overflow: hidden;
     padding: 0;
     white-space: nowrap;
-
     &:before,
     &:after {
       @include vendor("transition", "opacity #{_duration(transition)} ease");
@@ -99,46 +89,35 @@
       background-repeat: no-repeat;
       background-size: 2em 2em;
     }
-
     &:before {
-      background-image: svg-url(
-        '<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" preserveAspectRatio="none"><style>line { stroke-width: 8px; stroke: #{_palette(accent1)}; }</style><line x1="15" y1="15" x2="85" y2="85" /><line x1="85" y1="15" x2="15" y2="85" /></svg>'
-      );
+      background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" preserveAspectRatio="none"><style>line { stroke-width: 8px; stroke: #{_palette(accent1)}; }</style><line x1="15" y1="15" x2="85" y2="85" /><line x1="85" y1="15" x2="15" y2="85" /></svg>');
       opacity: 0;
     }
-
     &:after {
-      background-image: svg-url(
-        '<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" preserveAspectRatio="none"><style>line { stroke-width: 8px; stroke: #{_palette(fg)}; }</style><line x1="15" y1="15" x2="85" y2="85" /><line x1="85" y1="15" x2="15" y2="85" /></svg>'
-      );
+      background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" preserveAspectRatio="none"><style>line { stroke-width: 8px; stroke: #{_palette(fg)}; }</style><line x1="15" y1="15" x2="85" y2="85" /><line x1="85" y1="15" x2="15" y2="85" /></svg>');
       opacity: 1;
     }
-
     &:hover {
       &:before {
         opacity: 1;
       }
-
       &:after {
         opacity: 0;
       }
     }
   }
-
   @include breakpoint(small) {
-    @include vendor("transform", "translateX(#{_size(menu) * 0.75})");
+    @include vendor("transform",
+    "translateX(#{_size(menu) * 0.75})");
     width: (_size(menu) * 0.75);
-
-    > .inner {
+    >.inner {
       padding: 2.75em 1.5em;
     }
-
-    > .close {
+    >.close {
       top: 0.5em;
       left: -4.25em;
       width: 4.25em;
       text-indent: 4.25em;
-
       &:before,
       &:after {
         background-size: 1.5em 1.5em;
@@ -149,21 +128,21 @@
 
 body.is-menu-visible {
   #wrapper {
-    @include vendor("pointer-events", "none");
+    @include vendor("pointer-events",
+    "none");
     cursor: default;
     opacity: 0.25;
   }
-
   #menu {
-    @include vendor("transform", "translateX(0)");
+    @include vendor("transform",
+    "translateX(0)");
     visibility: visible;
-
-    > * {
+    >* {
       opacity: 1;
     }
-
     .close {
-      @include vendor("transform", "scale(1.0) rotate(0deg)");
+      @include vendor("transform",
+      "scale(1.0) rotate(0deg)");
       opacity: 1;
     }
   }

@@ -1,10 +1,10 @@
 ---
-title: "Colophon \U0001F353️"
+title: Colophon ⚙️
 description: Unveiling the inner workings of this website.
 banner: https://i.imgur.com/D4dPpG2.jpg
 noComments: true
-
 ---
+
 ## Copyright ∞ FVCproductions
 
 Originally published 2013.
@@ -64,14 +64,14 @@ The important part to note is that I've set the ↗ up to work only with links t
 3. List item three
 4. List item four
 
-| Name | Occupation | Age |
-| :---: | :---: | :---: |
-| Huey Freeman | Intellectual Terrorist | 12 |
-| Tintin | Reporter | 15 |
-| Steven Universe | Guardian | 14 |
-| Tina Belcher | Student | 13 |
-| Phillip J. Fry | Delivery Boy | 25 |
-| Finn Mertens | Adventurer | 16 |
+|      Name       |       Occupation       | Age |
+| :-------------: | :--------------------: | :-: |
+|  Huey Freeman   | Intellectual Terrorist | 12  |
+|     Tintin      |        Reporter        | 15  |
+| Steven Universe |        Guardian        | 14  |
+|  Tina Belcher   |        Student         | 13  |
+| Phillip J. Fry  |      Delivery Boy      | 25  |
+|  Finn Mertens   |       Adventurer       | 16  |
 
 ```md
 > I like to dabble with things that ought to be dabbled with.

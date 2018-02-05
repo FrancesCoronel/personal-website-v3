@@ -29,7 +29,6 @@
   }
 }
 
-
 /* Brands */
 
 $amazon: #ff9900;
@@ -87,11 +86,9 @@ $wordpress: #0087be;
 $xing: #006567;
 $yelp: #af0606;
 $youtube: #bb0000;
-
 /* Function for Social Branding */
 
-$fa-social:
-(amazon, $amazon),
+$fa-social: (amazon, $amazon),
 (angellist, $angellist),
 (behance, $behance),
 (blogger-b, $blogger),
@@ -147,8 +144,16 @@ $fa-social:
 (youtube, $youtube);
 @each $social-network,
 $fa-color in $fa-social {
-    a.icon.font-awesome.fa-#{$social-network}:hover{
+  a.icon.font-awesome.fa-#{$social-network}:hover {
     color: $fa-color !important;
     border-color: $fa-color !important;
   }
+}
+
+.contact-section.social-icons {
+  font-size: 1.25em;
+}
+
+.large-emoji {
+  font-size: 3em;
 }

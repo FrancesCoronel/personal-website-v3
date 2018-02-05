@@ -178,9 +178,31 @@ ul.task-list {
   margin-left: -2em;
 }
 
-.image .main {
-  width: 100%;
-  &img {
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-  }
+input {
+  color: #585858;
+  font-weight: 300;
+  line-height: 1.75;
+}
+
+label {
+  font-size: 0.9em;
+  font-weight: 900;
+  margin: 0 0 1em 0;
+}
+
+.subscribe-form {
+  padding: 0;
+}
+
+form {
+  margin: 0;
+  padding: 0;
+}
+
+textarea#message {
+  min-height: 10em;
+}
+
+.contact-form {
+  padding-top: 2em;
 }

@@ -3,7 +3,7 @@
   <h1>{{ .Site.Params.headline }}</h1>
   <p>{{ .Site.Params.description }}</p>
 </header>
-<section class="home tiles">
+<section class="tiles">
   <!-- Pages -->
   {{ $pages := where .Site.RegularPages "Type" "page" }}
   <!-- Section Pages -->
@@ -13,6 +13,9 @@
   <article>
     <!-- Image -->
     <span class="image background-image" style="background-image:url({{ .Params.banner }});"></span>
+    <!-- <span class="image">
+      <img src="{{ .Params.banner }}">
+    </span> -->
     <!-- External Link -->
     {{ if .Params.link }}
     <a href="{{ .Params.link }}" target="_blank"> ↗️

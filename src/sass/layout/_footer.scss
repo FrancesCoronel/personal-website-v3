@@ -27,6 +27,12 @@
         border-bottom: 1px dotted lighten(_palette(fg), 50%);
       }
     }
+    ul.icons {
+      margin: 0;
+      li {
+        padding: 1em;
+      }
+    }
     .social-icons {
       a {
         color: white !important;
@@ -34,6 +40,9 @@
           color: lighten(_palette(fg), 50%) !important;
           border: 1px dotted lighten(_palette(fg), 50%);
         }
+      }
+      &.icon {
+        font-size: 2em;
       }
     }
     img.emoji {

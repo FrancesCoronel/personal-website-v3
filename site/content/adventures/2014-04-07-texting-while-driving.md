@@ -24,7 +24,9 @@ We wrote a 27-page paper on the effects of texting while driving.
 
 I created a texting while driving flyer to raise awareness as a requirement for the health project.
 
-![Flyer](https://i.imgur.com/CRLoX3F.jpg)
+<p class="centered">
+  <img src="https://i.imgur.com/CRLoX3F.jpg" style="width:600px;height:776px">
+</p>
 
 <blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/15275741/Texting-While-Driving-Flyer">Texting While Driving Flyer</a></h4><p>Texting while driving flyer for health class.</p></blockquote>
 

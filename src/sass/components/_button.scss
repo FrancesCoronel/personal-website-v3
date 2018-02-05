@@ -23,6 +23,9 @@ button,
   text-overflow: ellipsis;
   text-transform: uppercase;
   white-space: nowrap;
+  letter-spacing: 0;
+  text-transform: none;
+  padding: 0 1.5em;
   .svg-inline--fa {
     margin-left: 0.5em;
   }
@@ -55,5 +58,15 @@ button,
   &:disabled {
     @include vendor("pointer-events", "none");
     opacity: 0.25;
+  }
+}
+
+.filter-button-group {
+  text-align: center;
+  button {
+    margin: 0.5em 0.5em 0.5em 0;
+    @include breakpoint(small) {
+      width: 100%;
+    }
   }
 }

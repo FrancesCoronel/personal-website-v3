@@ -16,7 +16,7 @@ My "life motto", if you will.
 
 Might have something to do with human nature in general, though, so interpret it as you will.
 
-[![Logo](https://i.imgur.com/20odQOI.png)](https://www.behance.net/gallery/55919431/New-Logo-FVCproductions)
+[![Logo](https://i.imgur.com/20odQOI.png)](/2017/08/19/fvcproductions---logo-redesign-/)
 
 <p class="image-caption">Logo</p>
 
@@ -29,7 +29,7 @@ Might have something to do with human nature in general, though, so interpret it
 
 ### Blurb 📇
 
-<span class="large-emojii">👩🏽‍💻️</span>
+<span class="large-emoji">👩🏽‍💻️</span>
 
 * Software Engineer with a focus on UI design & development 🖌️🔧️
 * Currently working at Accenture's Liquid Studio in Redwood City, CA 💼
