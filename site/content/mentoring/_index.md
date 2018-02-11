@@ -1,5 +1,5 @@
 ---
-title: Mentoring 💛️
+title: Mentoring 📚
 description: I enjoy mentoring folks 1-on-1 on tech-related topics.
 banner: https://fvcproductions.files.wordpress.com/2016/02/img_4602.jpg
 mentoring: true
