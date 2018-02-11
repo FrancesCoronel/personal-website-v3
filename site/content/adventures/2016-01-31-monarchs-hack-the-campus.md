@@ -3,7 +3,6 @@ title: Monarchs Hack the Campus 🦁
 date: 2016-01-31
 description: I designed the website for the ODU Hackathon and also helped with the branding/registration.
 banner: https://i.imgur.com/28uEW41.png
-embedly: true
 categories:
   - portfolio
   - hackathon
@@ -31,6 +30,7 @@ For an upcoming hackathon at [ODU](//odu.edu) dubbed [`Monarchs Hack the Campus`
 * [Typeform](https://typeform.com)
 
 <blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/35755853/Monarchs-Hack-the-Campus">Monarchs Hack the Campus</a></h4><p>Monarchs Hack the CampusOld Dominion UniversityFebruary 2016Credits go to Michelle Graham for ODU Cat Graphic</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 > I was a volunteer
 

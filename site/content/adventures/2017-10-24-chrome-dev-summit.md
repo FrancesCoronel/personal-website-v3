@@ -3,7 +3,6 @@ title: Chrome Dev Summit 2017
 date: 2017-10-24
 description: Awarded a scholarship to attend this annual exploration of the latest and greatest in web.
 banner: https://i.imgur.com/NlboOhH.jpg
-embedly: true
 categories:
   - conference
   - award
@@ -37,6 +36,7 @@ Women Techmakers - Scholarship Recipient
 A two-day exploration of building beautiful and performant experiences on the web, with content on how to ship fast and modern Progressive Web Apps, as well as new and exciting features coming to the web platform.
 
 <blockquote class="embedly-card"><h4><a href="https://developer.chrome.com/devsummit/">Chrome Dev Summit 2017</a></h4><p>Connect with Chrome engineers and other leading developers for a two-day exploration of building beautiful and performant experiences.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 I attended the
 

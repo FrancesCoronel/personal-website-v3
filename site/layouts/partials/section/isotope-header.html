@@ -1,32 +1,17 @@
 <div class="isotope-header">
-  <!-- Adventures -->
-  {{ if .Params.adventures }}
-  <p>
-    <i>You can filter adventures by their category type.</i>
-  </p>
-  <!-- Blogging -->
-  {{ else if .Params.blog }}
-  <hr>
-  <h2>Posts</h2>
-  <p>
-    <i>You can filter the posts by their category type.</i>
-  </p>
   <!-- Portfolio -->
-  {{ else if .Params.portfolio }}
-  <hr>
-  <h2>Projects</h2>
+  {{ if .Params.portfolio }}
+  <h2>{{ len (($.Site.Taxonomies.categories.portfolio).Pages) }} Total Projects</h2>
   <p>
     <i>You can filter the projects by their category type.</i>
   </p>
-  <!-- Services -->
-  {{ else if .Params.services }}
-  <hr>
-  <h2>✅ Reviews</h2>
-  <p>All the nice things folks have had to say.</p>
+  <!-- Awards -->
+  {{ else if .Params.awards }}
+  <h2>{{ len (($.Site.Taxonomies.categories.award).Pages) }} Total Awards</h2>
   <!-- Speaking -->
   {{ else if .Params.speaking }}
   <hr>
-  <h2>Events</h2>
+  <h2>{{ len (($.Site.Taxonomies.categories.speaking).Pages) }} Total Events</h2>
   <p>
     <i>You can filter the events by the talk I gave.</i>
   </p>

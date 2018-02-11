@@ -1,7 +1,10 @@
 ---
 title: Freelancing 💎️
-description: Developing with a design background.
+description: What you can hire me for.
 banner: https://i.imgur.com/8o2Nhyo.jpg
+aliases:
+  - /services/freelancing/
+  - /freelancing/
 ---
 
 ## I work with clients of all backgrounds on both product design & development.
@@ -43,3 +46,11 @@ I charged my last writing client $200 for 2000+ words.
 I do charge to mentor others unless I feel it's appropriate to be generous.
 
 Through my Fullstack Academy ambassador position, I received $500 to mentor an incoming Grace Hopper student for 6 hours.
+
+---
+
+## As a developer with a design background, I take pride in having work that is both aesthetically pleasing and technically challenging.
+
+You can find [the feedback I've received](/reviews/) thus far on my website!
+
+![Designer/Developer](https://i.imgur.com/hD3rQiK.jpg)

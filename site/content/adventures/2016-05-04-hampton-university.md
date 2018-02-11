@@ -3,7 +3,6 @@ title: Hampton University
 description: Bachelor of Science in Computer Science
 date: 2016-05-04
 banner: https://fvcproductions.files.wordpress.com/2016/02/screenshot-2016-05-12-15-18-19.png
-embedly: true
 aliases:
   - /education/2016/05/04/hu/
 categories:
@@ -71,6 +70,7 @@ University
 * Received credit by examination for General Biology (BIO 103)
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/315207507/Hampton-University-Transcript">Hampton University Transcript</a></h4><p>FVCproductions Check me out at fvcproductions.com Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright FVCproduction... by fvcproductions in Types > School Work, books, and article</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---
 

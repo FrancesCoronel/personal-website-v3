@@ -334,3 +334,4 @@ App](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-45
 ## Feedback
 
 <blockquote class="embedly-card"><h4><a href="http://twitter.com/MarcoMorawec/status/537036957851721728">Marco Morawec on Twitter</a></h4><p>Thanks @fvcproductions for including our Guide to Choosing a Coding Bootcamp in our awesome post http://t.co/XADls2F1RW - @FirehoseProject</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

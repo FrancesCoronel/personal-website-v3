@@ -3,7 +3,6 @@ title: Fullstack Academy Ambassador
 date: 2016-12-01
 description: Material I developed as an ambassador for Fullstack Academy.
 banner: https://speakerd.s3.amazonaws.com/presentations/3fac0dca90614af996fe56a69bc5e578/slide_0.jpg
-embedly: true
 categories:
   - portfolio
 ---
@@ -13,6 +12,7 @@ categories:
 > Presented February 19th, 2017
 
 <blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/the-state-of-coding-bootcamps-2017">The State of Coding Bootcamps 2017</a></h4><p>FVCproductions https://fvcproductions.com</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## My Summer of Code Experience
 

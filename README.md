@@ -62,7 +62,7 @@ I am always looking for ways to make my website more modular, lean, and clean.
 
 > Project management is handled by ZenHub - check out [the project board](https://github.com/fvcproductions/fvcproductions.github.io#boards?repos=25947059)!
 
-So if you have any suggestions, please feel free to contribute!
+So if you have any suggestions, feel free to contribute!
 
 > To get started...
 

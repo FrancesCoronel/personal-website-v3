@@ -18,11 +18,11 @@
       <!-- Description -->
       {{ if .Description }}
       <div class="content">
-        <p>{{ .Description | truncate 100 | safeHTML }}</p>
+        <p>{{ .Description | truncate 25 | safeHTML }}</p>
       </div>
       {{ else }}
       <div class="content">
-        <p>{{ .Summary | truncate 100 | safeHTML }}</p>
+        <p>{{ .Summary | truncate 25 | safeHTML }}</p>
       </div>
       {{ end }}
     </a>

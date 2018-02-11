@@ -41,7 +41,7 @@
       display: inline-block;
       position: relative;
       width: 100%;
-      box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
       &.emoji {
         border-radius: 0;
         width: 1em;
@@ -51,7 +51,7 @@
     }
   }
   .page-footer {
-    margin: 1em 0 3em;
+    margin: 2em 0 3em;
     border-style: solid;
     border-color: _palette(fg);
     border-top-width: 0.3em;

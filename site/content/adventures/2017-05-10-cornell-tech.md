@@ -3,7 +3,6 @@ title: Cornell Tech
 description: Master of Engineering in Computer Science
 date: 2017-05-26
 banner: https://i.imgur.com/2Z3jGeg.jpg
-embedly: true
 categories:
   - education
   - award
@@ -74,6 +73,7 @@ Cornell Tech is the technology-focused campus of Cornell University located in N
 ### Transcript
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/349468859/Cornell-Tech-Official-Transcript">Cornell Tech - Official Transcript</a></h4><p>Cornell Tech - Official Transcript - Free download as PDF File (.pdf), Text File (.txt) or view presentation slides online. This is my official transcript for Cornell Tech where I earned a MEng in CS in May 2017.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ![Cornell Tech](https://i2.wp.com/fvcproductions.files.wordpress.com/2016/11/buildboard-1.jpg?w=487&h=365&crop&ssl=1&zoom=2)
 

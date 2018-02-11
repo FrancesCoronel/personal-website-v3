@@ -3,7 +3,6 @@ title: MamaBear Launch Plan 🐻
 date: 2016-10-12
 description: Worked with 4 other team members to create launch plan and presentation for a product. Presented to professors for Business for Non-Business class at Cornell Tech (NBAY 5500)
 banner: https://i.imgur.com/k5XZNbL.png
-embedly: true
 categories:
   - portfolio
   - design
@@ -35,6 +34,7 @@ This will allow Splash to acquire more users by providing them an all-inclusive 
 ### Presentation
 
 <blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/mamabear-launchplan">MamaBear | LaunchPlan</a></h4><p>Business for Non-Business NBAY 5500 Fall 2016</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Tools
 

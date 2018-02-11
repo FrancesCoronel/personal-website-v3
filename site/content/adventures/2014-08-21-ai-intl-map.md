@@ -3,7 +3,6 @@ title: A.I. International
 date: 2014-08-21
 description: A Google Map of schools that specialize in AI.
 banner: https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-16-12-55-34.png?w=1440
-embedly: true
 categories:
   - portfolio
   - research
@@ -18,6 +17,7 @@ categories:
 > This map was last updated in November 2014.
 
 <blockquote class="embedly-card"><h4><a href="https://www.google.com/maps/d/embed?mid=zIblKEWM9BnY.kacxPZLKVHyE&w=640&h=480">AI International</a></h4><p>This map provides links to educational institutions that offer advanced degrees/concentration/depth/breadth area in artificial intelligence (AI) or operate well established AI laboratories/research groups. - This map is separated into categories by graduate, undergraduate, and research groups/labs/institutions. - This map also focuses on research efforts related to automated reasoning, knowledge representation, agent systems, cognitive/computational neuroscience, machine learning, computational biology, AI-related topics, etc.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## About
 

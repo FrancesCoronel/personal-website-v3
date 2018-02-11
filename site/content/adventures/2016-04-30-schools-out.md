@@ -3,7 +3,6 @@ title: School's out? 🎓️
 date: 2016-04-30
 description: Catching up on happenings for the month. SO MANY HAPPENINGS.
 banner: https://fvcproductions.files.wordpress.com/2016/04/schoolsout.jpeg
-embedly: true
 categories:
   - blog
 tags:
@@ -43,7 +42,7 @@ Regardless, it's a whole lot. So I'm going to break this news up into three smal
 
 ## 1. Graduating from Undergrad
 
-![](//ih0.redbubble.net/image.120345349.1637/sticker,375x360.png)
+![Undergrad](//ih0.redbubble.net/image.120345349.1637/sticker,375x360.png)
 
 ### I'm finished with school homies! Yeah - TINY RICK!
 
@@ -92,6 +91,7 @@ Either way, I felt like sharing my experience in regards to being an alumnus of 
 #### The curriculum overview I've created for these mentoring sessions is all given through Google Slides for easy reference so here's a snapshot of how that looks like below.
 
 <blockquote class="embedly-card"><h4><a href="//docs.google.com/presentation/d/1vkAfmABPzVCNLZ_DC4I7n7ZihoGkMLwoVvo1buevaoA/edit?usp=sharing">Bootcamp.me | Welcome!</a></h4><p>BootcampMe FVCproductions Preparing You Before They Do.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## 3. Future Plans
 

@@ -13,12 +13,12 @@
     @include vendor("flex-direction", "row");
     text-align: center;
     justify-content: center;
-    >*> :last-child {
+    > * > :last-child {
       margin-bottom: 0;
     }
     .fa-copyright,
     .fa-cog {
-      margin-right: .5em;
+      margin-right: 0.5em;
     }
     a {
       color: white !important;
@@ -32,6 +32,7 @@
       li {
         padding: 1em;
       }
+      font-size: 1.5em;
     }
     .social-icons {
       a {
@@ -67,7 +68,7 @@
     $gutter: _size(gutter);
   }
   @include breakpoint(small) {
-    >.inner {
+    > .inner {
       @include vendor("flex-direction", "column");
       section:nth-child(1) {
         width: 100%;
@@ -80,7 +81,7 @@
     }
   }
   @include breakpoint(xsmall) {
-    >.inner {
+    > .inner {
       .copyright {
         li {
           border-left: 0;

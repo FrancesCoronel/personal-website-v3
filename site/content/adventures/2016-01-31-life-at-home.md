@@ -3,7 +3,6 @@ title: Hoya Hacks - Life at Home 🏠
 date: 2016-01-31
 description: A mobile user interface for an Android application that allows users to send push notifications containing common household alerts and phrases to the Android devices of their family members.
 banner: https://fvcproductions.files.wordpress.com/2016/01/banner.png
-embedly: true
 categories:
   - portfolio
   - hackathon
@@ -80,6 +79,7 @@ The project will be made up of two parts: the Android app itself, and a web serv
 * Organizer Lukas (advisor)
 
 <blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/35746593/Life-at-Home">Life at Home</a></h4><p>Life at Home - Mobile UI - Hoya Hacks - January 2016</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ![Android Icon](https://i.imgur.com/Yx7HAhK.png)
 

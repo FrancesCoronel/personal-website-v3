@@ -11,6 +11,10 @@ tags:
   - blogging
 ---
 
+> Update: February 11, 2018
+>
+> I ultimately decided it would be best to stick to my website. lol.
+
 So I first decided that blogging would be a fun thing to do in my spare time back in the summer of 2013.
 
 I had just graduated high school and I was terribly excited to get away from the very familiar scene that was my hometown of Norfolk, VA. While my peers would flaunt their out of state colleges that they’d be attending, I was on my way out of the country. Germany was my next step as I finalized my decision to pursue computer science at Jacobs University. _Later on, after just one semester, I would transfer and go back to VA a tad more humble but that’s a different story._

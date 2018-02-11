@@ -3,7 +3,6 @@ title: Connective Media
 date: 2017-03-14
 description: Material I developed while taking the 'Connective Media class at Cornell Tech.
 banner: https://github.com/fvcproductions/cmtech-assignment-1/raw/master/assets/img/screenshot.png
-embedly: true
 categories:
   - portfolio
 ---
@@ -19,6 +18,7 @@ speaker deck
 ![GitGuardian](https://i.imgur.com/8fk73nj.png)
 
 <blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/cmtech-assignment-1/">GitGuardian</a></h4><p>null</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/cmtech-assignment-1">fvcproductions/cmtech-assignment-1</a></h4><p>cmtech-assignment-1 - GitHub + Guardian News = GitGuardian</p></blockquote>
 

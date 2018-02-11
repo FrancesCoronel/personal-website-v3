@@ -5,7 +5,6 @@ series that provides safe opportunities for marginalized people and
 those who support them in the tech and gaming industries."
 date: 2016-12-10
 banner: https://fvcproductions.files.wordpress.com/2017/01/banner.png
-embedly: true
 categories:
   - blog
   - conference
@@ -54,6 +53,7 @@ Indeed, AlterConf was hands down the MOST diverse conference I have ever attende
 Given that I was hired as a freelance blogger for this conference, I've published [onto LinkedIn](//www.linkedin.com/pulse/alterconf-nyc-2016-frances-coronel?published=t), and [my personal blog](//fvcproductions.com/2017/01/03/alterconf-nyc-2016/) already about my experience at AlterConf and what it entailed.
 
 <blockquote class="embedly-card"><h4><a href="https://www.linkedin.com/pulse/alterconf-nyc-2016-frances-coronel?published=t">AlterConf NYC 2016 🗽</a></h4><p>AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="https://fvcproductions.com/2017/01/03/alterconf-nyc-2016/">AlterConf | NYC 2016 🗽</a></h4><p>This conference was held at Microsoft's headquarters in New York City at 11 Times Square on December 10th, 2016 from 10 am to 5 pm. About a month ago, I was honored to have the opportunity to freelance blog for AlterConf NYC.</p></blockquote>
 

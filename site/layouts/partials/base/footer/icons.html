@@ -1,14 +1,5 @@
 <section class="social-icons">
   <ul class="icons">
-    <!-- Behance -->
-    {{ with .Site.Social.behance }}
-    <li>
-      <a href="//behance.net/{{ . }}" class="icon font-awesome" target="_blank" rel="noopener">
-        <i title="Behance" class="fab fa-behance"></i>
-        <span class="label">Behance</span>
-      </a>
-    </li>
-    {{ end }}
     <!-- GitHub -->
     {{ with .Site.Social.github }}
     <li>
@@ -49,6 +40,15 @@
       <a href="//twitter.com/{{ . }}" class="icon font-awesome" target="_blank" rel="noopener">
         <i title="Twitter" class="fab fa-twitter"></i>
         <span class="label">Twitter</span>
+      </a>
+    </li>
+    {{ end }}
+    <!-- YouTube -->
+    {{ with .Site.Social.youtube }}
+    <li>
+      <a href="//youtube.com/{{ . }}" class="icon font-awesome fa-youtube" target="_blank" rel="noopener">
+        <i title="YouTube" class="fab fa-youtube fa-lg"></i>
+        <span class="label">YouTube</span>
       </a>
     </li>
     {{ end }}

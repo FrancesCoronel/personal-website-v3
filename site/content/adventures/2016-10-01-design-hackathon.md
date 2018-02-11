@@ -3,7 +3,6 @@ title: DesignHackathon - The MEGGS Case
 description: The My Social Canvas DesignHackathon will bring together students who are pursuing degrees in fashion, graphic design, technology, and business in an effort to increase awareness, participation, and funding for girls in STEM programs across the country.
 date: 2016-10-01
 banner: https://i.imgur.com/ydDCcBg.jpg
-embedly: true
 categories:
   - hackathon
   - portfolio
@@ -52,6 +51,7 @@ Our team submitted everything on time but in the end, they went with another tea
 MEGGS creates tech-focused cases that offer beautiful and well designed protective solutions for your iPhone 7.
 
 <blockquote class="embedly-card"><h4><a href="https://devpost.com/software/meggs">MEGGS</a></h4><p>MEGGS - MEGGS creates tech focused cases that offer beautiful and well designed protective solutions for your iPhone 7.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/mysocialcanvas">The MEGGS Case</a></h4><p>The MEGGS Case is a fully customizable case that brings back the beloved audio jack.</p></blockquote>
 

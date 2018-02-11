@@ -13,7 +13,7 @@ categories:
 
 ## Name
 
-[Product School](https://productschool.com)
+[Product School](//productschool.com)
 
 ## Location
 
@@ -44,14 +44,24 @@ Soon enough, Chris started to open up more and acted more transparent about what
 
 I think with a little more improvements to the content/slides, Product School's PM class can be made even greater.
 
-<!-- ### Projects
+### Projects
 
 #### Tinder Meetup
 
+<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/product-school-tinder-meetup">Product School - Tinder Meetup</a></h4><p>Published December 3rd, 2016, in Technology. Presentation for an in-class assignment during a class at Product School in NY. Product School Times Square New Yo...</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 #### Working with Design
 
-#### Final Deliverable -->
+<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/product-school-working-with-design">Product School - Working with Design</a></h4><p>Published December 3rd, 2016, in Design. Presentation for an in-class assignment during a class at Product School in NY. Product School Times Square New York, ...</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+#### Final Deliverable
+
+<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/duolingo-delights-revised">Duolingo Delights - Revised</a></h4><p>Created November 17th, 2016, in Technology. Presentation of the final project at Product School in NY. Check it it out at https://fvcproductions.com/duolingo-d...</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Certification
 
 <blockquote class="embedly-card"><h4><a href="https://certificate.productschool.com/y9ql6ifd">Product Management Certificate from Product School : Accredible : Certificates, Badges and Blockchain Credentials.</a></h4><p>Part-time courses in product, coding, and data analytics for managers</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

@@ -3,7 +3,6 @@ title: CS@HU
 date: 2014-10-01
 description: As the Website Committee Chair for my ACM club at Hampton, I created the website at huacm.wordpress.com to build a stronger community around the CS department.
 banner: https://fvcproductions.files.wordpress.com/2014/10/cshu-banner.jpg
-embedly: true
 categories:
   - portfolio
   - web
@@ -45,6 +44,7 @@ In addition to being in charge of the website, I’m also in charge of maintaini
 * over 150 followers
 
 <blockquote class="embedly-card"><h4><a href="https://huacm.wordpress.com">ACM@HU</a></h4><p>Building a Stronger Community for Hampton's Computing Family</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="https://bit.ly/hu-book">An Intro for CS Majors at HU · GitBook</a></h4><p>cs-and-english: If you are a freshman majoring in Computer Science at Hampton University, then this is the book for you.</p></blockquote>
 

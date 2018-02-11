@@ -3,7 +3,6 @@ title: RevolutionConf
 date: 2016-05-13
 description: RevolutionConf is a one-day, platform and language agnostic, software development conference being held on May 13, 2016 in Virginia Beach, VA.
 banner: https://fvcproductions.files.wordpress.com/2016/05/revolutionconf-2016.png
-embedly: true
 categories:
     - blog
     - conference
@@ -59,6 +58,7 @@ RevolutionConf is a two-day, platform and language agnostic, software developmen
 This blog post on the conference got featured in The Daily Press.
 
 <blockquote class="embedly-card"><h4><a href="//www.dailypress.com/business/tidewater/dp-may-13-revolutionconf-showcases-software-community-in-hampton-roads-20160513-story.html">What you missed at RevolutionConf in Virginia Beach</a></h4><p>The software industry, including speakers from Microsoft, Detroit Labs and Yahoo, is converging at the Virginia Beach Oceanfront today.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 award: Featured Blog Post
 issuer: Daily Press

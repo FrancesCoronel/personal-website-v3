@@ -63,6 +63,7 @@ button,
 
 .filter-button-group {
   text-align: center;
+  margin: 1em 0;
   button {
     margin: 0.5em 0.5em 0.5em 0;
     @include breakpoint(small) {

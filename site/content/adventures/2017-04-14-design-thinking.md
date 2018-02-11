@@ -3,7 +3,6 @@ title: PathFinder
 date: 2017-04-14
 description: Visualize your future.
 banner: https://i.ytimg.com/vi/WAGKzph41Rg/hqdefault.jpg
-embedly: true
 categories:
   - portfolio
 ---
@@ -23,9 +22,14 @@ _it would be game changing if we..._ could provide a way for students to look in
 ### Speaker Deck
 
 <blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/pathfinder">PathFinder</a></h4><p>Design Thinking - Final Project Cornell Tech Team Ohana FVCproductions 2017</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<blockquote class="embedly-card"><h4><a href="https://docs.google.com/presentation/d/1iXwT_7DLmWthb0U6hnaXw-9znLwW2533pzenyCPp0Pw/embed?start=false&loop=false&delayms=3000&slide=id.g35f391192_00">Final Design Thinking Presentation</a></h4><p>PathFinder Visualize your future.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<iframe src="https://docs.google.com/presentation/d/1iXwT_7DLmWthb0U6hnaXw-9znLwW2533pzenyCPp0Pw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### YouTube Video
 
-https://www.youtube.com/watch?v=WAGKzph41Rg
-
-<iframe src="https://docs.google.com/presentation/d/1iXwT_7DLmWthb0U6hnaXw-9znLwW2533pzenyCPp0Pw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=WAGKzph41Rg">Pathfinders Design Thinking Video</a></h4><p>Design Thinking</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

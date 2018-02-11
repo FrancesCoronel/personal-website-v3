@@ -39,6 +39,19 @@
       <button class="button big" data-filter=".volunteering">
         Volunteering 💛️ ({{ len (($.Site.Taxonomies.categories.volunteering).Pages) }})
       </button>
+      <!-- Awards -->
+      <!-- <button class="button big is-checked" data-filter="*">
+        All Awards
+      </button>
+      <button class="button big" data-filter=".conference">
+        Conference Scholarship
+      </button>
+      <button class="button big" data-filter=".hackathon">
+        Hackathon Prize
+      </button>
+      <button class="button big" data-filter=".education">
+        School
+      </button> -->
       <!-- Blogging -->
       {{ else if .Params.blog }}
       <button class="button is-checked" data-filter="*">
@@ -85,8 +98,8 @@
       <button class="button" data-filter=".web">
         Web
       </button>
-      <!-- Services -->
-      {{ else if .Params.services }}
+      <!-- Reviews -->
+      {{ else if .Params.reviews }}
       <button class="button is-checked" data-filter="*">
         All Reviews
       </button>
@@ -102,10 +115,7 @@
       <!-- Speaking -->
       {{ else if .Params.speaking }}
       <button class="button is-checked" data-filter="*">
-        All Talks
-      </button>
-      <button class="button" data-filter=".burnprevention">
-        Burn Prevention
+        All Topics
       </button>
       <button class="button" data-filter=".bootcamps">
         Coding Bootcamps
@@ -113,17 +123,11 @@
       <button class="button" data-filter=".hourofcode">
         Hour of Code
       </button>
-      <button class="button" data-filter=".imovie101">
-        iMovie 101
-      </button>
       <button class="button" data-filter=".wizard">
         So You Want To Be A Wizard
       </button>
       <button class="button" data-filter=".typescript101">
         TypeScript 101
-      </button>
-      <button class="button" data-filter=".vaacm">
-        VA ACM
       </button>
       <button class="button" data-filter=".webdesign">
         Web Design

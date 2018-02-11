@@ -1,7 +1,13 @@
 ---
-title: Mentoring 📚️
-description: I enjoy mentoring folks on tech-related topics.
+title: Mentoring 💛️
+description: I enjoy mentoring folks 1-on-1 on tech-related topics.
 banner: https://fvcproductions.files.wordpress.com/2016/02/img_4602.jpg
+mentoring: true
+isotope: true
+aliases:
+  - /services/
+  - /services/mentoring/
+  - /mentoring/
 ---
 
 ## Generally speaking, I enjoy mentoring on how to prepare for coding bootcamps but I have teachable experience in web development, web design, and all sorts of nifty dev, design, or productivity tools.
@@ -10,17 +16,21 @@ So far, I’ve helped out folks who have successfully gone on to coding bootcamp
 
 I’ve also tutored kids at the elementary, middle, and high school level on how to get started in the tech field.
 
-> As of **May 2017**, I’ve dedicated **over 55 hours** of my free time mentoring awesome people.
+As of **January 2018**, I’ve dedicated **over 30 hours** of my free time mentoring awesome people 1-on-1.
 
-Feedback from my mentoring sessions can be found on my [Services](/services/) page.
+You can find [the feedback I've received](/reviews/) thus far on my website!
 
-### If you’re interested in being mentored, please feel free to [contact me](/contact/) through my website. 📨
+### If you’re interested in being mentored, feel free to [contact me](/contact/) through my website. 📨
 
-A list of **all** of my mentoring sessions can be found below.
+> Total # of Sessions: 47
+>
+> Total Hours: 30.65
 
 | Why                                              | Who                      | Method     | Hours | Date              |
 | ------------------------------------------------ | ------------------------ | ---------- | ----- | ----------------- |
 | Getting most out of Fullstack Academy experience | Adil Minocherhomjee      | Phone Chat | .50   | January 24, 2018  |
+| Fullstack Academy Ambassador                     | Kelaiya Parikah          | Video Chat | 2.00  | May 31, 2017      |
+| Fullstack Academy Ambassador                     | Kelaiya Parikah          | Video Chat | 0.50  | May 23, 2017      |
 | Fullstack Academy Ambassador                     | Theerut Foongkiatcharoen | Email      | 1.00  | March 21, 2017    |
 | Fullstack Academy Ambassador                     | Rosa                     | LinkedIn   | 0.50  | March 17, 2017    |
 | Fullstack Academy Ambassador                     | Elva Cabrera             | Email      | 0.50  | March 8, 2017     |
@@ -65,5 +75,3 @@ A list of **all** of my mentoring sessions can be found below.
 | Preparing for Hack Reactor                       | Mike Jonas               | Email      | 0.08  | November 5, 2015  |
 | Fullstack Academy                                | Ronnie Brown             | LinkedIn   | 0.50  | March 11, 2015    |
 | Fullstack Academy                                | Thomas Tram              | Email      | 0.25  | January 2, 2015   |
-| Fullstack Academy Ambassador                     | Kelaiya Parikah          | Video Chat | 2.00  | May 31, 2017      |
-| Fullstack Academy Ambassador                     | Kelaiya Parikah          | Video Chat | 0.50  | May 23, 2017      |

@@ -3,7 +3,6 @@ title: My Designlab Experience 🎨
 date: 2015-10-21
 description: My personal experience with Designlab, an online platform for learning web and mobile design skills.
 banner: https://i.imgur.com/XvuQKSk.jpg
-embedly: true
 tags:
   - behance
   - chad trutt
@@ -149,6 +148,7 @@ The certificate itself is actually nothing more than a showcasing of all the des
 ![Designlab - Behance Preview](https://fvcproductions.files.wordpress.com/2015/10/behancepreview-001.jpeg)
 
 <blockquote class="embedly-card"><h4><a href="https://trydesignlab.com/profile/fvcproductions/">fvcproductions's Profile | Designlab</a></h4><p>fvcproductions's profile on Designlab. Designlab is the best way to learn UI & UX design skills online.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/29117121/My-Designlab-Experience">My Designlab Experience</a></h4><p>These are some of my favorite submissions I made for the online course "Design 101" through Designlab.</p></blockquote>
 

@@ -3,7 +3,6 @@ title: Accenture Liquid Studio - Summer 2016
 description: Wearables Developer
 date: 2016-08-12
 banner: https://fvcproductions.files.wordpress.com/2016/07/accentureslc-1.jpeg
-embedly: true
 categories:
   - experience
 ---
@@ -36,6 +35,7 @@ The Accenture Liquid Studios are designed for rapid application development. The
 * gained a familiarity with a wide range of wearable devices targeted for enterprise clients
 
 <blockquote class="embedly-card"><h4><a href="//speakerdeck.com/fvcproductions/my-accenture-internship">My Accenture Internship</a></h4><p>An overview of my internship with Accenture. Accenture Liquid Studio Redwood City, CA Wearables Team Summer 2016</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="//speakerdeck.com/fvcproductions/studio-session-number-11-accenture-liquid-studio">Studio Session #11 | Accenture Liquid Studio</a></h4><p>A slightly edited version of the Wearables slide deck. Presented to entire Liquid Studio Team as part of the weekly studio sessions. Accenture | Liquid Studio Wearables Team Summer 2016 Intern</p></blockquote>
 

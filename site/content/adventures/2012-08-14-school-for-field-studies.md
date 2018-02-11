@@ -3,7 +3,6 @@ title: School for Field Studies
 date: 2012-08-14
 description: Studied Wildlife Research Techniques in Tanzania during the summer of 2012.
 banner: https://fvcproductions.files.wordpress.com/2015/11/461956_476846202328099_271376704_o.jpg
-embedly: true
 categories:
   - program
   - education
@@ -43,6 +42,7 @@ I received college credit from Boston University for completing this course.
 ### Transcript
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/doc/313099732/Boston-University-Transcript">Boston University Transcript</a></h4><p>FVCproductions Check me out at fvcproductions.com Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright FVCproductions 2016 Don't forget to like and/or comment! :)</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ![School For Field Studies 1](https://fvcproductions.files.wordpress.com/2015/11/323071_476875508991835_1185245848_o.jpg?w=517&h=342&zoom=2)
 

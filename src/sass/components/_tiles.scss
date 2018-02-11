@@ -9,7 +9,7 @@
   margin: ($gutter * -1) 0 0 ($gutter * -1);
   overflow: hidden;
   article {
-    @include vendor('transition', ('opacity #{$duration} #{$ease}'));
+    @include vendor("transition", ("opacity #{$duration} #{$ease}"));
     position: relative;
     width: calc(#{(100% / 3)} - #{$gutter * 1});
     margin: $gutter 0 0 $gutter;
@@ -36,7 +36,7 @@
         }
       }
     }
-    >.image {
+    > .image {
       // @include vendor("transition", "transform #{$duration} #{$ease}");
       position: relative;
       display: block;
@@ -58,7 +58,7 @@
         width: 100%;
         height: 100%;
         z-index: 1;
-        opacity: .6;
+        opacity: 0.6;
         background-color: #333;
       }
       &:after {
@@ -78,7 +78,7 @@
         z-index: 2;
       }
     }
-    >a {
+    > a {
       @include vendor("display", "flex");
       @include vendor("flex-direction", "column");
       @include vendor("align-items", "center");
@@ -109,7 +109,7 @@
         margin: 0;
       }
       .content {
-        @include vendor('transition', ( 'max-height #{$duration} #{$ease}', 'opacity #{$duration} #{$ease}'));
+        @include vendor("transition", ( "max-height #{$duration} #{$ease}", "opacity #{$duration} #{$ease}"));
         width: 100%;
         max-height: 0;
         line-height: 1.5;
@@ -121,13 +121,13 @@
       }
     }
     &.style1 {
-      >.image:before {
+      > .image:before {
         background-color: #333;
       }
     }
     body:not(.is-touch) & {
       &:hover {
-        >.image {
+        > .image {
           //@include vendor("transform", "scale(1.1)");
           &:before {
             background-color: _palette(bg-accent);
@@ -173,7 +173,7 @@
       width: calc(#{(100% / 1)} - #{$gutter * 1});
       margin: $gutter 0 0 $gutter;
       &:hover {
-        >.image {
+        > .image {
           @include vendor("transform", "scale(1.0)");
         }
       }
@@ -189,10 +189,7 @@
   }
 }
 
-section.section.tiles {
-  margin: 0;
-}
-
 section.section.tiles.isotope-grid {
+  width: 100%;
   margin: 0;
 }

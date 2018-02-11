@@ -2,9 +2,8 @@
 title: Fullstack Academy - Ambassador
 date: 2017-05-10
 description: Marketing and mentoring done for Fullstack Academy as an ambassador for their programs.
-banner: https://i.imgur.com/ZdSLPUa.jpg
 categories:
-    - experience
+  - experience
 ---
 
 ## Employer

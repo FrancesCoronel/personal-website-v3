@@ -26,6 +26,7 @@ Web page that lets a user input two strings and then tells the user whether the 
 ### GitHub Repo
 
 <blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/anagram">fvcproductions/anagram</a></h4><p>Check if two strings are anagrams of each other 🔍</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Website
 

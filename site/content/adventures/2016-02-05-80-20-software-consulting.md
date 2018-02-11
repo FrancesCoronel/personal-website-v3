@@ -3,7 +3,6 @@ title: 80|20 Software Consulting
 description: Frontend Developer
 date: 2016-02-05
 banner: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/64e84044-e263-4dd1-94ac-ff1bf9a6d179.jpg
-embedly: true
 categories:
   - experience
 ---
@@ -34,6 +33,7 @@ November 2015 to February 5th, 2016
 * gained skills in fullstack web development by working with large scale web projects
 
 <blockquote class="embedly-card"><h4><a href="//twitter.com/madeby8020/status/669603319330021377">80|20 on Twitter</a></h4><p>We're excited to have @fvcproductions joining the team as a front-end developer!</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="//twitter.com/fvcproductions/status/700371760663891968">Frances Coronel on Twitter</a></h4><p>Company lunch @8020co! 🍳☕️🍞</p></blockquote>
 

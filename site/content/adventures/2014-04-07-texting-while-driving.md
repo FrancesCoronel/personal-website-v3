@@ -3,7 +3,6 @@ title: Texting While Driving
 date: 2014-04-07
 description: As part of a health project, my team and I tackled the effects of texting while driving.
 banner: https://i.imgur.com/Nx23XBu.jpg
-embedly: true
 categories:
   - portfolio
   - design
@@ -19,6 +18,7 @@ As part of a health project, my team and I tackled the effects of texting while 
 We wrote a 27-page paper on the effects of texting while driving.
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/227095609/Texting-While-Driving-Full-Paper">Texting While Driving Full Paper</a></h4><p>Texting While Driving Full Academic Paper FVCproductions Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright 2014 Don't forget to like and/or comment! :)</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Flyer
 

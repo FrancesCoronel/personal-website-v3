@@ -11,6 +11,8 @@ Originally published 2013.
 
 Website design, development, and copy writing by Frances Coronel.
 
+Source code [can be found on GitHub](//github.com/fvcproductions/fvcproductions.github.io).
+
 ---
 
 ## Credits

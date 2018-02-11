@@ -5,13 +5,61 @@
 $breakpoints: () !global;
 /// Vendor prefixes.
 /// @var {list}
-$vendor-prefixes: ( "-moz-", "-webkit-", "-ms-", "");
+$vendor-prefixes: (
+  "-moz-",
+  "-webkit-",
+  "-ms-",
+  ""
+);
 /// Properties that should be vendorized.
 /// @var {list}
-$vendor-properties: ( "align-content", "align-items", "align-self", "animation", "animation-delay", "animation-direction", "animation-duration", "animation-fill-mode", "animation-iteration-count", "animation-name", "animation-play-state", "animation-timing-function", "appearance", "backface-visibility", "box-sizing", "filter", "flex", "flex-basis", "flex-direction", "flex-flow", "flex-grow", "flex-shrink", "flex-wrap", "justify-content", "order", "perspective", "pointer-events", "transform", "transform-origin", "transform-style", "transition", "transition-delay", "transition-duration", "transition-property", "transition-timing-function", "user-select");
+$vendor-properties: (
+  "align-content",
+  "align-items",
+  "align-self",
+  "animation",
+  "animation-delay",
+  "animation-direction",
+  "animation-duration",
+  "animation-fill-mode",
+  "animation-iteration-count",
+  "animation-name",
+  "animation-play-state",
+  "animation-timing-function",
+  "appearance",
+  "backface-visibility",
+  "box-sizing",
+  "filter",
+  "flex",
+  "flex-basis",
+  "flex-direction",
+  "flex-flow",
+  "flex-grow",
+  "flex-shrink",
+  "flex-wrap",
+  "justify-content",
+  "order",
+  "perspective",
+  "pointer-events",
+  "transform",
+  "transform-origin",
+  "transform-style",
+  "transition",
+  "transition-delay",
+  "transition-duration",
+  "transition-property",
+  "transition-timing-function",
+  "user-select"
+);
 /// Values that should be vendorized.
 /// @var {list}
-$vendor-values: ( "filter", "flex", "linear-gradient", "radial-gradient", "transform");
+$vendor-values: (
+  "filter",
+  "flex",
+  "linear-gradient",
+  "radial-gradient",
+  "transform"
+);
 // Functions.
 /// Removes a specific item from a list.
 /// @author Hugo Giraudel
@@ -22,14 +70,11 @@ $vendor-values: ( "filter", "flex", "linear-gradient", "radial-gradient", "trans
   $result: null;
   @if type-of($index) !=number {
     @warn "$index: #{quote($index)} is not a number for `remove-nth`.";
-  }
-  @else if $index==0 {
+  } @else if $index==0 {
     @warn "List index 0 must be a non-zero integer for `remove-nth`.";
-  }
-  @else if abs($index)>length($list) {
+  } @else if abs($index) >length($list) {
     @warn "List index is #{$index} but list is only #{length($list)} item long for `remove-nth`.";
-  }
-  @else {
+  } @else {
     $result: ();
     $index: if($index < 0, length($list) + $index + 1, $index);
     @for $i from 1 through length($list) {
@@ -50,7 +95,7 @@ $vendor-values: ( "filter", "flex", "linear-gradient", "radial-gradient", "trans
 @function str-replace($string, $search, $replace: "") {
   $index: str-index($string, $search);
   @if $index {
-    @return str-slice($string, 1, $index - 1)+$replace+str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
+    @return str-slice($string, 1, $index - 1) +$replace+str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
   }
   @return $string;
 }
@@ -62,7 +107,11 @@ $vendor-values: ( "filter", "flex", "linear-gradient", "radial-gradient", "trans
 /// @return {list} Updated list of strings.
 @function str-replace-all($strings, $search, $replace: "") {
   @each $string in $strings {
-    $strings: set-nth( $strings, index($strings, $string), str-replace($string, $search, $replace));
+    $strings: set-nth(
+      $strings,
+      index($strings, $string),
+      str-replace($string, $search, $replace)
+    );
   }
   @return $strings;
 }
@@ -73,7 +122,7 @@ $vendor-values: ( "filter", "flex", "linear-gradient", "radial-gradient", "trans
 /// @param {string} $keys Key(s).
 /// @return {string} Value.
 @function val($map, $keys...) {
-  @if nth($keys, 1)==null {
+  @if nth($keys, 1) ==null {
     $keys: remove-nth($keys, 1);
   }
   @each $key in $keys {
@@ -105,8 +154,7 @@ $vendor-values: ( "filter", "flex", "linear-gradient", "radial-gradient", "trans
     $query: $query + " and " + map-get($breakpoints, $breakpoint);
   } // Queries.
   @if $queries {
-    @each $k,
-    $v in $queries {
+    @each $k, $v in $queries {
       $query: $query + " and (" + $k + ":" + $v + ")";
     }
   }
@@ -128,7 +176,7 @@ $vendor-values: ( "filter", "flex", "linear-gradient", "radial-gradient", "trans
 @mixin containers($width) {
   // Locked?
   $lock: false;
-  @if length($width)==2 {
+  @if length($width) ==2 {
     $width: nth($width, 1);
     $lock: true;
   } // Modifiers.
@@ -149,8 +197,7 @@ $vendor-values: ( "filter", "flex", "linear-gradient", "radial-gradient", "trans
   .container {
     @if $lock {
       width: $width !important;
-    }
-    @else {
+    } @else {
       width: $width;
     }
   }
@@ -242,18 +289,18 @@ $vendor-values: ( "filter", "flex", "linear-gradient", "radial-gradient", "trans
     clear: none;
     margin-left: 0;
   }
-  .\31 2u\24#{$x}+*,
-  .\31 1u\24#{$x}+*,
-  .\31 0u\24#{$x}+*,
-  .\39 u\24#{$x}+*,
-  .\38 u\24#{$x}+*,
-  .\37 u\24#{$x}+*,
-  .\36 u\24#{$x}+*,
-  .\35 u\24#{$x}+*,
-  .\34 u\24#{$x}+*,
-  .\33 u\24#{$x}+*,
-  .\32 u\24#{$x}+*,
-  .\31 u\24#{$x}+* {
+  .\31 2u\24#{$x} + *,
+  .\31 1u\24#{$x} + *,
+  .\31 0u\24#{$x} + *,
+  .\39 u\24#{$x} + *,
+  .\38 u\24#{$x} + *,
+  .\37 u\24#{$x} + *,
+  .\36 u\24#{$x} + *,
+  .\35 u\24#{$x} + *,
+  .\34 u\24#{$x} + *,
+  .\33 u\24#{$x} + *,
+  .\32 u\24#{$x} + *,
+  .\31 u\24#{$x} + * {
     clear: left;
   }
   .\-11u#{$x} {
@@ -297,8 +344,11 @@ $vendor-values: ( "filter", "flex", "linear-gradient", "radial-gradient", "trans
 /// @param {integer} $multiplier Multiplier (default is 1).
 @mixin grid-gutters($gutters, $class: null, $multiplier: 1) {
   // Expand gutters if it's not a list.
-  @if length($gutters)==1 {
-    $gutters: ( $gutters, 0);
+  @if length($gutters) ==1 {
+    $gutters: (
+      $gutters,
+      0
+    );
   } // Get column and row gutter values.
   $c: nth($gutters, 1);
   $r: nth($gutters, 2); // Get class (if provided).
@@ -306,13 +356,13 @@ $vendor-values: ( "filter", "flex", "linear-gradient", "radial-gradient", "trans
   @if $class {
     $x: "." + $class;
   } // Default.
-  .row#{$x}>* {
+  .row#{$x} > * {
     padding: ($r * $multiplier) 0 0 ($c * $multiplier);
   }
   .row#{$x} {
     margin: ($r * $multiplier * -1) 0 -1px ($c * $multiplier * -1);
   } // Uniform.
-  .row.uniform#{$x}>* {
+  .row.uniform#{$x} > * {
     padding: ($c * $multiplier) 0 0 ($c * $multiplier);
   }
   .row.uniform#{$x} {
@@ -409,7 +459,7 @@ $vendor-values: ( "filter", "flex", "linear-gradient", "radial-gradient", "trans
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
     }
-    .row>* {
+    .row > * {
       float: left;
       -moz-box-sizing: border-box;
       -webkit-box-sizing: border-box;
@@ -422,10 +472,10 @@ $vendor-values: ( "filter", "flex", "linear-gradient", "radial-gradient", "trans
       clear: both;
       height: 0;
     }
-    .row.uniform>*> :first-child {
+    .row.uniform > * > :first-child {
       margin-top: 0;
     }
-    .row.uniform>*> :last-child {
+    .row.uniform > * > :last-child {
       margin-bottom: 0;
     } // Gutters (0%).
     @include grid-gutters($grid-gutters, \30 \25, 0); // Apply base.
@@ -636,8 +686,7 @@ $vendor-values: ( "filter", "flex", "linear-gradient", "radial-gradient", "trans
     th {
       padding: 0;
     }
-  }
-  @else if $mode=="full" {
+  } @else if $mode=="full" {
     // meyerweb.com/eric/tools/css/reset v2.0 | 20110126 | License: none (public domain)
     html,
     body,
@@ -773,7 +822,10 @@ $vendor-values: ( "filter", "flex", "linear-gradient", "radial-gradient", "trans
 /// @param {mixed} $value String/list of value(s).
 @mixin vendor($property, $value) {
   // Determine if property should expand.
-  $expandProperty: index($vendor-properties, $property); // Determine if value should expand (and if so, add '-prefix-' placeholder).
+  $expandProperty: index(
+    $vendor-properties,
+    $property
+  ); // Determine if value should expand (and if so, add '-prefix-' placeholder).
   $expandValue: false;
   @each $x in $value {
     @each $y in $vendor-values {

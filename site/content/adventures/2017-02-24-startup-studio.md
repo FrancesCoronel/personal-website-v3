@@ -3,7 +3,6 @@ title: Startup Studio
 date: 2017-02-24
 description: Projects from Startup Studio.
 banner: https://media.githubusercontent.com/media/fvcproductions/venus-co/assets/images/logos/mora/type.png
-embedly: true
 aliases:
   - /portfolio/2017/02/24/startup-studio/
 categories:
@@ -23,6 +22,7 @@ Mora
 ### GitHub
 
 <blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/venus-co">fvcproductions/venus-co</a></h4><p>venus-co - Assets for Venus Co. | Startup Studio 💕</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---
 

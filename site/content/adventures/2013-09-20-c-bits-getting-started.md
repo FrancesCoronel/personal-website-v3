@@ -3,7 +3,6 @@ title: "C Bits - Getting Started"
 date: 2013-09-20
 description: The 1st part in a mini-series for beginners in C.
 banner: https://fvcproductions.files.wordpress.com/2013/09/banners-001.jpg?w=1024&h=436&crop=1
-embedly: true
 aliases:
   - /blog/2013/09/20/c-bits-speeding-up-a-bit/
 categories:
@@ -36,6 +35,7 @@ Any who, here I will provide the questions and then you can go to the necessary 
 The solutions that also include the question as a comment on top and can be found on my GitHub.
 
 <blockquote class="embedly-card"><h4><a href="//github.com/fvcproductions/coder-bits">fvcproductions/coder-bits</a></h4><p>coder-bits - HTML, Java, Python, C, PHP, C++, JS 💩</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Problem 1.1 - Compute division
 

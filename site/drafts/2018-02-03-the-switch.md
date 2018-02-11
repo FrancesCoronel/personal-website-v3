@@ -4,7 +4,6 @@ date: 2018-02-03
 description: Switching from an iPhone to Pixel or iOS to Android.
 banner: https://i.imgur.com/9OO01Qd.png
 draft: true
-embedly: true
 categories:
   - blog
 tags:

@@ -3,7 +3,6 @@ title: Kent Hack Enough
 description: Volunteered and teamed up with my boyfriend to work on a Leap Motion hack that won an award
 date: 2016-10-09
 banner: https://i.imgur.com/fmSUI58.png
-embedly: true
 categories:
   - portfolio
   - award
@@ -48,6 +47,7 @@ Won award of <strong>[Best Security Privacy Hack](https://devpost.com/software/j
 #### Devpost
 
 <blockquote class="embedly-card"><h4><a href="https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v">Jake the Dog Key Hand</a></h4><p>Jake the Dog Key Hand - Secure your home using Leap Motion.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 #### GitHub Repo
 

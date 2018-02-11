@@ -3,7 +3,6 @@ title: Strange Loop 2017
 description: Strange Loop is a multi-disciplinary conference that brings together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.
 date: 2017-09-27
 banner: https://i.imgur.com/uBaeAmo.jpg?1
-embedly: true
 categories:
     - conference
     - speaking
@@ -12,7 +11,7 @@ categories:
 
 ## Name
 
-<a title="Strange Loop" href="//thestrangeloop.com/" target="_blank" rel="noopener">Strange Loop</a>
+[Strange Loop](//thestrangeloop.com/)
 
 ## Organizer
 
@@ -37,6 +36,7 @@ Strange Loop is a multi-disciplinary conference that brings together the develop
 ---
 
 <blockquote class="embedly-card"><h4><a href="//imgur.com/a/4OYm2">Strange Loop 2017</a></h4><p>My adventures at Strange Loop in St Louis, MO from September 27th to 29th, 2017.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---
 

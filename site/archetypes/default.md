@@ -19,8 +19,7 @@ blog: true
 contact: true
 portfolio: true
 speaking: true
-# script options
-embedly: true
+# isotope
 isotope: true
 # taxonomy
 categories:
@@ -36,3 +35,26 @@ categories:
 tags:
   - insert tags for article
 ---
+
+## Name
+
+[Progressive Web App Roadshow San Francisco 2017](//events.withgoogle.com/progressive-web-app-roadshow-san-francisco-201
+7/)
+
+## Location
+
+Google Launchpad Space - 301 Howard Street San Francisco, CA - 4th Floor
+
+## Date
+
+Sunday, October 22nd - 9:00 AM to 5:00 PM
+
+## Role
+
+Participant
+
+* I participated this event as part of the [Chrome Dev Summit](//developer.chrome.com/devsummit/). Registration was super limited so I'm glad I was able to attend.
+
+## About
+
+It was amazing!
