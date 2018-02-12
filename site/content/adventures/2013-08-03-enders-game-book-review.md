@@ -2,7 +2,7 @@
 title: Ender's Game - Book Review 👾
 date: 2010-08-03
 description: The Martian Chronicles, Star Wars, Lord of the Rings, Stranger in a Strange Land...an average geek's favorite reading list can be literally incalculable.
-banner: //fvcproductions.files.wordpress.com/2013/08/enders-game.jpg
+banner: https://fvcproductions.files.wordpress.com/2013/08/enders-game.jpg
 categories:
     - blog
 tags:

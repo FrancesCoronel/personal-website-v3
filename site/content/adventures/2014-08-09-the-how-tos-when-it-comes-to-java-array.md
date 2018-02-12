@@ -2,7 +2,7 @@
 title: "The How To's When It Comes To Java Arrays"
 date: 2014-08-09
 description: "How to define, assign, and print an array using Java."
-banner: //fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
+banner: https://fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
 tags:
     - arrays
     - assigning

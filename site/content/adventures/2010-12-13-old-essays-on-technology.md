@@ -2,7 +2,7 @@
 title: How Texting Has An Impact on Relationships 📵️
 date: 2010-12-13
 description: Talks about the mainly negative impact of texting on relationships.
-banner: //fvcproductions.files.wordpress.com/2013/08/old-technology-never-forget.jpg?w=1024&h=436&crop=1
+banner: https://fvcproductions.files.wordpress.com/2013/08/old-technology-never-forget.jpg?w=1024&h=436&crop=1
 categories:
     - blog
     - certainties

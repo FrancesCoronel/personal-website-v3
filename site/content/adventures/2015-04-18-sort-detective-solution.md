@@ -2,7 +2,7 @@
 title: "Sort Detective - Solution ☕"
 date: 2015-04-18
 description: "Stuck on that homework assignment involving SortDetective.jar? No need to worry!"
-banner: //fvcproductions.files.wordpress.com/2015/04/banners-001.jpg?w=1024&h=436&crop=1
+banner: https://fvcproductions.files.wordpress.com/2015/04/banners-001.jpg?w=1024&h=436&crop=1
 tags:
     - alpha
     - beta

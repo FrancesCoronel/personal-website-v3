@@ -2,7 +2,7 @@
 title: "Study Guide - Linked Lists"
 date: 2014-11-10
 description: "A study guide for simple linked lists in Java."
-banner: //fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
+banner: https://fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
 tags:
     - algorithms
     - arrays

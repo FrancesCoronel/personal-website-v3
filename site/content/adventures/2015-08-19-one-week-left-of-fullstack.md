@@ -2,7 +2,7 @@
 title: "ONE WEEK OF FULLSTACK LEFT 🙊"
 date: 2015-08-19
 description: 'There''s only one week of Fullstack Academy left. Overarching feeling: HOLY CRAP.'
-banner: //fvcproductions.files.wordpress.com/2015/08/banners-001.jpg
+banner: https://fvcproductions.files.wordpress.com/2015/08/banners-001.jpg
 tags:
   - apple
   - at home advisor

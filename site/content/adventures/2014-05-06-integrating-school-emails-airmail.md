@@ -2,7 +2,7 @@
 title: "Integrating Your School Emails with Airmail"
 date: 2014-05-06
 description: "So in case you haven't heard of it yet, Don't Starve is this awesome Indie game."
-banner: //fvcproductions.files.wordpress.com/2014/05/airmail-1-1-mac.png?w=1024&h=436&crop=1
+banner: https://fvcproductions.files.wordpress.com/2014/05/airmail-1-1-mac.png?w=1024&h=436&crop=1
 tags:
     - airmail
     - airmail integration

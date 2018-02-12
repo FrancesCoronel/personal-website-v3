@@ -5,7 +5,7 @@ description: "After applying and interviewing for
 a bunch of internships and coding bootcamps and receiving a bunch of
 rejections and acceptances, I've decided to head to Fullstack Academy
 this summer."
-banner: //fvcproductions.files.wordpress.com/2015/04/fullstack-academy-banner.jpg?w=1024&h=435&crop=1
+banner: https://fvcproductions.files.wordpress.com/2015/04/fullstack-academy-banner.jpg?w=1024&h=435&crop=1
 tags:
     - internships
     - fullstack academy

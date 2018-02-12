@@ -2,7 +2,7 @@
 title: The DaVinci Code - Book Review 🖼️
 date: 2013-07-29
 description: A book review on 'The DaVinci Code' by Dan Brown.
-banner: //fvcproductions.files.wordpress.com/2013/07/dlqjb0cly1xaymibqdqxsbsy6vj.jpg
+banner: https://fvcproductions.files.wordpress.com/2013/07/dlqjb0cly1xaymibqdqxsbsy6vj.jpg
 categories:
     - blog
 tags:

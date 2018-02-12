@@ -2,7 +2,7 @@
 title: "Interview with MakerSquare"
 date: 2015-01-14
 description: "My interview with MakerSquare."
-banner: //fvcproductions.files.wordpress.com/2015/01/mksc6.jpg
+banner: https://fvcproductions.files.wordpress.com/2015/01/mksc6.jpg
 tags:
     - acceptance
     - admissions

@@ -2,7 +2,7 @@
 title: "Binary Trees & Recursion"
 date: 2014-12-03
 description: "CSC 251 Study Guide"
-banner: //fvcproductions.files.wordpress.com/2014/12/binary_fractal_tree_03_30_60_065_075.png?w=800&h=340&crop=1
+banner: https://fvcproductions.files.wordpress.com/2014/12/binary_fractal_tree_03_30_60_065_075.png?w=800&h=340&crop=1
 tags:
     - ancestor
     - balanced

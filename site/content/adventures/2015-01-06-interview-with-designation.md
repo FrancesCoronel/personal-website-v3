@@ -2,7 +2,7 @@
 title: "Interview with Designation"
 date: 2015-01-06
 description: "My interview with Designation."
-banner: //fvcproductions.files.wordpress.com/2015/01/open_graph.jpg?w=1024&h=435&crop=1
+banner: https://fvcproductions.files.wordpress.com/2015/01/open_graph.jpg?w=1024&h=435&crop=1
 tags:
     - accepted
     - aftermath

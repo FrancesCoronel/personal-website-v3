@@ -2,7 +2,7 @@
 title: "The Day After Calculus Ended"
 date: 2014-08-08
 description: "Exploring blogging applications."
-banner: //fvcproductions.files.wordpress.com/2014/08/byword_mac_03.jpg
+banner: https://fvcproductions.files.wordpress.com/2014/08/byword_mac_03.jpg
 tags:
     - byword
     - calculus

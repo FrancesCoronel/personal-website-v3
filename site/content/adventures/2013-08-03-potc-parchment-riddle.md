@@ -2,7 +2,7 @@
 title: POTC - Parchment Riddle 📜
 date: 2013-08-03
 description: A riddle inspired by Pirates of the Caribbean.
-banner: //fvcproductions.files.wordpress.com/2013/08/father_and_son.jpg?w=800&h=340&crop=1
+banner: https://fvcproductions.files.wordpress.com/2013/08/father_and_son.jpg?w=800&h=340&crop=1
 tags:
     - BARBOSSA
     - Black Beard

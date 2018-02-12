@@ -2,7 +2,7 @@
 title: "Interview with Fullstack Academy of Code"
 date: 2014-12-28
 description: "This is where I'll go through how my admissions process was with Fullstack Academy of Code based in NYC."
-banner: //fvcproductions.files.wordpress.com/2014/12/img_9625-2.jpg
+banner: https://fvcproductions.files.wordpress.com/2014/12/img_9625-2.jpg
 tags:
     - admissions
     - application

@@ -2,7 +2,7 @@
 title: "HR DevFest - Web Design Talk 🎨️"
 date: 2015-11-13
 description: My presentation on Web Design for HR DevFest in Norfolk, VA on November 14th, 2015.
-banner: //fvcproductions.files.wordpress.com/2015/11/techtalk-001.jpeg?w=1024&h=435&crop=1
+banner: https://fvcproductions.files.wordpress.com/2015/11/techtalk-001.jpeg?w=1024&h=435&crop=1
 categories:
     - blog
 tags:

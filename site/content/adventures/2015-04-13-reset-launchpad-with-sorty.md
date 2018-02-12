@@ -2,7 +2,7 @@
 title: "Reset Your Launchpad with Sorty 🔄"
 date: 2015-04-13
 description: You can reset your launchpad on Yosemite using Sorty.
-banner: //fvcproductions.files.wordpress.com/2015/04/sorty-for-os-x.png?w=1024&h=435&crop=1
+banner: https://fvcproductions.files.wordpress.com/2015/04/sorty-for-os-x.png?w=1024&h=435&crop=1
 tags:
     - launchpad
     - launchpad items reset

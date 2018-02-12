@@ -2,7 +2,7 @@
 title: "Fullstack Foundations & Goldman Sachs 🚀"
 date: 2015-06-04
 description: An overview of what's been going on in Fullstack Foundations Week 2-4 and the big presentation with Goldman Sachs.
-banner: //fvcproductions.files.wordpress.com/2015/06/jetpack-octocat-airlock-b1d6ad7f41f88e5207896fe1f63ca30b.jpg
+banner: https://fvcproductions.files.wordpress.com/2015/06/jetpack-octocat-airlock-b1d6ad7f41f88e5207896fe1f63ca30b.jpg
 tags:
     - ameot
     - bee

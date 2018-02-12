@@ -2,7 +2,7 @@
 title: Robopocalypse - Book Review 🤖️
 date: 2013-07-29
 description: A book review on 'Robopocalypse' by Daniel Wilson.
-banner: //fvcproductions.files.wordpress.com/2013/07/what_if_____ws_by_casperium6.jpg?w=1024&h=435&crop=1
+banner: https://fvcproductions.files.wordpress.com/2013/07/what_if_____ws_by_casperium6.jpg?w=1024&h=435&crop=1
 tags:
     - AI
     - archos

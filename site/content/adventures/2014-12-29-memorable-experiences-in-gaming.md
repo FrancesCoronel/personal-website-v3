@@ -2,7 +2,7 @@
 title: "My Most Memorable Experiences in Gaming"
 date: 2014-12-29
 description: "One month left till the AAAI 2015 Conference."
-banner: //fvcproductions.files.wordpress.com/2014/12/gaming-backgrounds.jpg?w=675&h=340&crop=1
+banner: https://fvcproductions.files.wordpress.com/2014/12/gaming-backgrounds.jpg?w=675&h=340&crop=1
 categories:
     - blog
 tags:

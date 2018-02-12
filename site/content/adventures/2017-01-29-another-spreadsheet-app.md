@@ -2,7 +2,7 @@
 title: "Another spreadsheet app? 🤔️️"
 date: 2017-01-29
 description: "Are there other options out there?"
-banner: //fvcproductions.files.wordpress.com/2017/01/airtable.png
+banner: https://fvcproductions.files.wordpress.com/2017/01/airtable.png
 categories:
     - blog
 tags:

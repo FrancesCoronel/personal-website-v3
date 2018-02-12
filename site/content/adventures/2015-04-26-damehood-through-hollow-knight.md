@@ -12,7 +12,7 @@ tags:
 categories:
     - blog
 description: Back in December of last year, I was browsing through Kickstarter - eager to spend my limited college student cash on something awesome. I found Hollow Knight.
-banner: //fvcproductions.files.wordpress.com/2015/04/hollow-knight.jpg?w=1024&h=436&crop=1
+banner: https://fvcproductions.files.wordpress.com/2015/04/hollow-knight.jpg?w=1024&h=436&crop=1
 ---
 
 ## Back in December of last year, I was browsing through Kickstarter - eager to spend my limited college student cash on something awesome. I found [Hollow Knight](//www.kickstarter.com/projects/11662585/hollow-knight "Hollow Knight").

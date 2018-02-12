@@ -2,7 +2,7 @@
 title: "Fullstack Academy - Week 5"
 date: 2015-07-11
 description: "July 6th to July 10th. There are 57 days of Fullstack Academy. These are days 22 through 26. Week 5."
-banner: //fvcproductions.files.wordpress.com/2015/07/banners-0012.jpg
+banner: https://fvcproductions.files.wordpress.com/2015/07/banners-0012.jpg
 tags:
     - ailey extension
     - ajax

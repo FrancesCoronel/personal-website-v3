@@ -2,19 +2,19 @@
 title: In Christopher's Footsteps 👣️
 date: 2009-12-10
 description: I was assigned to write a sort of creative essay from the POV of Christopher (the protagonist who is a 15 year old boy in the novel with an autistic spectrum condition -- I'm guessing Aspergers?) for my English class.
-banner: //fvcproductions.files.wordpress.com/2013/07/dog-in-the-night-time.png
+banner: https://fvcproductions.files.wordpress.com/2013/07/dog-in-the-night-time.png
 categories:
-    - blog
-    - creativity
+  - blog
+  - creativity
 tags:
-    - asperger
-    - asperger syndrome
-    - aspie
-    - autism spectrum
-    - curious incident of the dog in the night time
-    - matthew fontaine maury high school
-    - maury high school
-    - quizlet
+  - asperger
+  - asperger syndrome
+  - aspie
+  - autism spectrum
+  - curious incident of the dog in the night time
+  - matthew fontaine maury high school
+  - maury high school
+  - quizlet
 ---
 
 ## Context

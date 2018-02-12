@@ -2,7 +2,7 @@
 title: "Adding Awesome Websites To Your Chrome App Launcher"
 date: 2015-02-01
 description: "Add all your favorite websites to Chrome's App Launcher."
-banner: //fvcproductions.files.wordpress.com/2015/02/c10fchrome_mac_app_launcher_0.jpg?w=1024&h=435&crop=1
+banner: https://fvcproductions.files.wordpress.com/2015/02/c10fchrome_mac_app_launcher_0.jpg?w=1024&h=435&crop=1
 tags:
     - 128x128
     - alchemize

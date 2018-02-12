@@ -2,7 +2,7 @@
 title: "Giving Back"
 date: 2014-09-10
 description: "Expressing my gratitude."
-banner: //fvcproductions.files.wordpress.com/2014/09/piratebay.jpg
+banner: https://fvcproductions.files.wordpress.com/2014/09/piratebay.jpg
 tags:
     - air heads
     - edgar allen poe

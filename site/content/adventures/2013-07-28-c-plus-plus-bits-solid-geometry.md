@@ -2,7 +2,7 @@
 title: "C++ Bits - Solid Geometry 📐"
 date: 2013-07-28
 description: "Messing with Geometry in C++."
-banner: //fvcproductions.files.wordpress.com/2013/07/banners-002.jpg?w=1024&h=436&crop=1
+banner: https://fvcproductions.files.wordpress.com/2013/07/banners-002.jpg?w=1024&h=436&crop=1
 tags:
     - c++
 categories:

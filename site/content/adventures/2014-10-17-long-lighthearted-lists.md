@@ -3,7 +3,7 @@ title: "Long Lighthearted Lists"
 date: 2014-10-17
 description: "Long lighthearted lists covering languages, old science fair project, coding
 bootcamps, cool places, TV shows, and conferences."
-banner: //fvcproductions.files.wordpress.com/2014/10/long-lists.jpg
+banner: https://fvcproductions.files.wordpress.com/2014/10/long-lists.jpg
 tags:
     - bootcamp
     - Coding

@@ -2,7 +2,7 @@
 title: "Preparing for Coding Bootcamps"
 date: 2014-01-05
 description: "Before my interviews with all the coding bootcamps I applied to, I did some digging and really went out of my way to try and find out what would make me a better candidate in the entire process."
-banner: //fvcproductions.files.wordpress.com/2015/04/fullstack-academy-banner.jpg?w=1024&h=435&crop=1
+banner: https://fvcproductions.files.wordpress.com/2015/04/fullstack-academy-banner.jpg?w=1024&h=435&crop=1
 categories:
     - blog
 tags:

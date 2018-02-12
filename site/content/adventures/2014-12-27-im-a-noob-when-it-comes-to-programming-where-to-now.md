@@ -3,7 +3,7 @@ title: "I'm a Noob When It Comes To Programming - Where To Now?"
 date: 2014-12-27
 description: "I've compiled a list of 15 great resources I've come to learn about over
 the years of trying to learn how to properly program."
-banner: //fvcproductions.files.wordpress.com/2014/09/html-css-book-cover.jpg
+banner: https://fvcproductions.files.wordpress.com/2014/09/html-css-book-cover.jpg
 tags:
     - code school
     - codecademy

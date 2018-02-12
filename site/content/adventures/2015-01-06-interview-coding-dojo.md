@@ -2,7 +2,7 @@
 title: "Interview with Coding Dojo"
 date: 2015-01-06
 description: "My interview with Coding Dojo."
-banner: //fvcproductions.files.wordpress.com/2015/01/mg_3322.jpg
+banner: https://fvcproductions.files.wordpress.com/2015/01/mg_3322.jpg
 tags:
     - coding
     - coding bootcamps

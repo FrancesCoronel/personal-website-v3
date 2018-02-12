@@ -2,7 +2,7 @@
 title: "C++ Bits - Array Manipulation ✂️"
 date: 2013-07-30
 description: "Manipulating arrays in C++."
-banner: //fvcproductions.files.wordpress.com/2013/07/banners-002.jpg?w=1024&h=436&crop=1
+banner: https://fvcproductions.files.wordpress.com/2013/07/banners-002.jpg?w=1024&h=436&crop=1
 categories:
     - blog
 tags:

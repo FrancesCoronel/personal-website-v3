@@ -2,7 +2,7 @@
 title: "Interview with Hack Reactor"
 date: 2014-12-29
 description: "Where I rant and share questions my experience from my interview with Hack Reactor (sort of)."
-banner: //fvcproductions.files.wordpress.com/2015/01/screenshot-2015-01-05-20-16-31.png?w=1024&h=435&crop=1
+banner: https://fvcproductions.files.wordpress.com/2015/01/screenshot-2015-01-05-20-16-31.png?w=1024&h=435&crop=1
 categories:
     - blog
 tags:

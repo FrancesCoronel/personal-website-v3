@@ -2,7 +2,7 @@
 title: "My Top 3 Productivity Apps 🎩"
 date: 2015-03-28
 description: "RIP"
-banner: //fvcproductions.files.wordpress.com/2015/03/topproductivityapps-001.jpg?w=1024&h=436&crop=1
+banner: https://fvcproductions.files.wordpress.com/2015/03/topproductivityapps-001.jpg?w=1024&h=436&crop=1
 tags:
     - alfred
     - amphetamine

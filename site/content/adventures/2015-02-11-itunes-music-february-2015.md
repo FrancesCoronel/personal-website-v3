@@ -2,7 +2,7 @@
 title: "Cataloging my iTunes Music"
 date: 2015-02-11
 description: "Compiling all the music from my iTunes library due to sheer boredom."
-banner: //fvcproductions.files.wordpress.com/2015/02/itunesbanner.jpg
+banner: https://fvcproductions.files.wordpress.com/2015/02/itunesbanner.jpg
 tags:
     - music
     - fvcproductions

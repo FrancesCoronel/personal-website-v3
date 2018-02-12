@@ -2,7 +2,7 @@
 title: The Start of a Wondrous Migration 🦋
 date: 2017-03-05
 description: I'm starting the process of migrating this blog from Wordpress to Jekyll.
-banner: //fvcproductions.files.wordpress.com/2017/03/monarch-butterfly-wallpaper-2.jpg
+banner: https://fvcproductions.files.wordpress.com/2017/03/monarch-butterfly-wallpaper-2.jpg
 categories:
     - blog
 tags:

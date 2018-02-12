@@ -2,7 +2,7 @@
 title: POTC - Chest Riddle 👑
 date: 2013-08-03
 description: Here's a little riddle that is based on a very recognized riddle, except it uses POTC references.
-banner: //fvcproductions.files.wordpress.com/2013/08/dmc.jpg?w=1024&h=435&crop=1
+banner: https://fvcproductions.files.wordpress.com/2013/08/dmc.jpg?w=1024&h=435&crop=1
 tags:
     - aviation
     - Benito de Soto

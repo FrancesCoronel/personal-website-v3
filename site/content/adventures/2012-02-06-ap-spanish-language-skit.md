@@ -2,7 +2,7 @@
 title: AP Spanish Language Skit 🐷️
 date: 2012-02-06
 description: This was a fun little skit I did with a few kids from my AP Spanish Language class.
-banner: //fvcproductions.files.wordpress.com/2013/07/three-pigs.jpg
+banner: https://fvcproductions.files.wordpress.com/2013/07/three-pigs.jpg
 categories:
     - blog
     - certainties

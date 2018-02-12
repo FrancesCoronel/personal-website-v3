@@ -4,7 +4,7 @@ date: 2012-07-30
 description: All the blog posts from my time in Tanzania studying wildlife research techniques.
 aliases:
   - /blog/2012/07/30/blog-post-from-tanzania/
-banner: //fvcproductions.files.wordpress.com/2013/07/serengeti-292.jpg
+banner: https://fvcproductions.files.wordpress.com/2013/07/serengeti-292.jpg
 categories:
   - blog
   - certainties

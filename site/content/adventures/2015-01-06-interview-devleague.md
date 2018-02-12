@@ -2,7 +2,7 @@
 title: "Interview with DevLeague"
 date: 2015-01-06
 description: "My interview with DevLeague."
-banner: //fvcproductions.files.wordpress.com/2015/01/devleague-join-the-movement-learn-to-code-in-hawaii.png?w=1024&h=435&crop=1
+banner: https://fvcproductions.files.wordpress.com/2015/01/devleague-join-the-movement-learn-to-code-in-hawaii.png?w=1024&h=435&crop=1
 tags:
     - acceptance
     - bootcamp

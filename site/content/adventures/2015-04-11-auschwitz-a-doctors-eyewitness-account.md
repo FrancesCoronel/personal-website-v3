@@ -2,7 +2,7 @@
 title: "Auschwitz: A Doctor's Eyewitness Account 📖"
 date: 2015-04-11
 description: 'Book review of "Auschwitz: A Doctor''s Eyewitness Account".'
-banner: //fvcproductions.files.wordpress.com/2014/06/toaletter_pc3a5_auschwitz_2.jpg
+banner: https://fvcproductions.files.wordpress.com/2014/06/toaletter_pc3a5_auschwitz_2.jpg
 tags:
     - Arcade Publishing
     - auschwitz

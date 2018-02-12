@@ -2,7 +2,7 @@
 title: "Interview with Bitmaker Labs"
 date: 2014-03-12
 description: "My favorite 20 laws of power."
-banner: //fvcproductions.files.wordpress.com/2014/03/bitmaker-banner.png?w=1024&h=435&crop=1
+banner: https://fvcproductions.files.wordpress.com/2014/03/bitmaker-banner.png?w=1024&h=435&crop=1
 categories:
     - blog
     - certainties

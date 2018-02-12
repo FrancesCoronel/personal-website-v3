@@ -2,7 +2,7 @@
 title: "First Meetup, First Impressions"
 date: 2014-12-23
 description: "Meeting new people always prove to be an interesting experience."
-banner: //fvcproductions.files.wordpress.com/2014/12/meetup-icon.png?w=1024&h=435&crop=1
+banner: https://fvcproductions.files.wordpress.com/2014/12/meetup-icon.png?w=1024&h=435&crop=1
 tags:
     - adrenaline junkies
     - atheists

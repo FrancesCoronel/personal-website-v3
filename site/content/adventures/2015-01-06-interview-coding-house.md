@@ -2,7 +2,7 @@
 title: "Interview with Coding House"
 date: 2015-01-06
 description: "My interview with Coding House."
-banner: //fvcproductions.files.wordpress.com/2015/01/photo-2.jpg
+banner: https://fvcproductions.files.wordpress.com/2015/01/photo-2.jpg
 tags:
     - application
     - bootcamp
