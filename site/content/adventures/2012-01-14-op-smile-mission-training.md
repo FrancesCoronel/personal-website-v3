@@ -4,45 +4,48 @@ date: 2012-01-14
 description: My first big time speaking event.
 banner: https://fvcproductions.files.wordpress.com/2015/11/335160_10151174118370037_887620036_22617982_1518303044_o.jpg
 categories:
-    - speaking
-    - volunteering
-    - program
-    - imovie101
+  - speaking
+  - volunteering
+  - program
+  - imovie101
 tags:
-    - imovie101
+  - imovie101
+  - operation smile
+  - medical mission
+  - training
 ---
 
-## Who
+## Name
+
+[Operation Smile Mission Training Workshop](//studentprograms.operationsmile.org/events/mission-training-workshop/)
+
+## Organizer
 
 Operation Smile
 
-## What
-
-<a title="Operation Smile Mission Training Workshop" href="https://studentprograms.operationsmile.org/events/mission-training-workshop/" target="_blank" rel="noopener">Operation Smile Mission Training Workshop</a>
-
-## Where
+## Location
 
 Holiday Inn Airport - Norfolk, VA
 
-## When
+## Date
 
 January 14th, 2012
 
-## Why
-
-### Role
+## Role
 
 Speaker - iMovie 101
 
-### About
+## About
 
-I don’t have any pictures of me while speaking, but these were taken at the mission training event.
+Unfortunately I don’t have any pictures of me while speaking, but given that it was the first time I spoke in front of a large group of people and I was terribly nervous in the beginning, it's probably for the best.
 
-![Operation Smile Mission Training Workshop](https://fvcproductions.files.wordpress.com/2015/11/335160_10151174118370037_887620036_22617982_1518303044_o.jpg)
+I will say though that I think I did pretty well with the hiccups. I worked really hard in making a compelling video that I could use as an example. I also had to make sure I was able to get an adapater at the last minute since I had wrongly assumed there would be one. I learned right there that I should always be prepared when presenting.
+
+Apparently my example video even made someone from the OP Smile student team tear up which definitely led me to have mixed feelings because on one hand - wow, what a response and on the other, oh no - don't cry!
 
 ### iMovie 101
 
-![iMovie 101](ttps://i.imgur.com/Qg75zJB.png)
+![iMovie 101](https://i.imgur.com/Qg75zJB.png)
 
 I presented the basics of video editing using iMovie to Operation Smile mission trainees.
 

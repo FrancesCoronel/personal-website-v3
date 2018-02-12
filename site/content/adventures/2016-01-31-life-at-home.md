@@ -2,7 +2,7 @@
 title: Hoya Hacks - Life at Home 🏠
 date: 2016-01-31
 description: A mobile user interface for an Android application that allows users to send push notifications containing common household alerts and phrases to the Android devices of their family members.
-banner: https://fvcproductions.files.wordpress.com/2016/01/banner.png
+banner: https://i.imgur.com/uMCszCs.png
 categories:
   - portfolio
   - hackathon
@@ -36,7 +36,9 @@ The first virtual hackathon I attended.
 
 ## Project
 
-For Hoya Hacks 2016, I was unable to physically travel to the hackathon location at Georgetown University. My team was okay with me working remote though, so I just collaborated with them (mostly just Jamison though) virtually through the hackathon's Slack channel. In the end, my team had a very hard time implementing our "Life at Home" idea due to the slow Internet and the high learning curve that comes with building an Android app. Regardless, I just wanted to share the interface I built out for the proposed idea that didn't really come into fruition
+For Hoya Hacks 2016, I was unable to physically travel to the hackathon location at Georgetown University. My team was okay with me working remote though, so I just collaborated with them (mostly just Jamison though) virtually through the hackathon's Slack channel.
+
+My team had a very hard time implementing our "Life at Home" idea due to the slow Internet and the high learning curve that comes with building an Android app. Regardless, I just wanted to share the interface I built out for the proposed idea that didn't really come into fruition
 
 > In the end, this mobile UI was made for personal practice/fun, and not for the Hoya Hacks 2016 hackathon since my team sort of disintegrated.
 
@@ -78,12 +80,13 @@ The project will be made up of two parts: the Android app itself, and a web serv
 * me (designer)
 * Organizer Lukas (advisor)
 
-<blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/35746593/Life-at-Home">Life at Home</a></h4><p>Life at Home - Mobile UI - Hoya Hacks - January 2016</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+![Transparent](https://i.imgur.com/2B2FXtp.png)
 
 ![Android Icon](https://i.imgur.com/Yx7HAhK.png)
 
 ![Banner](https://i.imgur.com/uMCszCs.png)
+
+![Splash Screen](https://imgur.com/HVd6LNi.png)
 
 ![Enter](https://i.imgur.com/QA5KUEL.png)
 

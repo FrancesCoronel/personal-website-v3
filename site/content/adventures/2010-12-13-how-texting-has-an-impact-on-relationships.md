@@ -21,9 +21,15 @@ tags:
     - wii
 ---
 
-> This first essay talks about the mainly negative impact of texting on relationships. This essay was finished December 13, 2010. I wrote this for an application to the VA Governor's School for MST (Math, Science, and Technology) for the following summer but alas I was not accepted.
+## This first essay talks about the mainly negative impact of texting on relationships.
 
-## How Texting Has An Impact On Relationships
+This essay was finished December 13, 2010.
+
+I wrote this for an application to the VA Governor's School for MST (Math, Science, and Technology) for the following summer but alas I was not accepted.
+
+---
+
+### How Texting Has An Impact On Relationships
 
 First came long letters, then phone calls, then emails, and now it has come to texting...what's now considered haven for many unreserved individuals today as they dwell in company of fingers into the evermore transfiguring sphere of growing technological society. Perhaps not. Limiting themselves with texting potential, they suffer progression into deeper levels of communication. Positively speaking, however, in whichever situation, texting or email can provide portals of connection for many busy, young, shy, or even hesitant people, placing them in effortless and comfortable zones where rejection becomes bearable. In darker light, texting can generate sleep deprivation among other unhealthy side effects, exchange numerous conflicting messages, and decrease sincereness in significant relationships.
 

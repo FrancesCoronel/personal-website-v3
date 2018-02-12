@@ -6,6 +6,7 @@ banner: https://fvcproductions.files.wordpress.com/2013/08/stardust-upcoming-mov
 categories:
     - blog
     - creativity
+    - award
 tags:
     - adult perspective
     - fairy
@@ -30,3 +31,14 @@ A young man living in the town of Wall, Tristan Thorn plays the only naive norma
 Gaiman provides a story with words that lift themselves off the page and are consequentially able to flow easily into the mind, putting readers right into the magic of the story. The book almost reads itself, and before one can realize it, the book is nearly finished. Images of darkness, true and false love, inner and external battles all present themselves beautifully without the aid of a single illustration. Beware, however, as the tale can trick one into believing it is like most faerie tales for it is actually nothing close, similar, alike, or even comparable in greatness.
 
 Finally, with _Stardust_, older folk can lose themselves for a few hours and read about kingdoms, witchcraft and talking trees without being ashamed. And should a younger individual decide to, they too will not be disappointed. Through forming his own unique formula for fantasy, Gaiman presents old archetypes of witches and royalty and mixes his own original convictions through fallen stars, flying pirates, and even unicorns to present a fairy tale where preconceived notions of a typical fairy tale are destroyed. No feelings will be unresolved with _Stardust_, unless one feels a strong attachment towards unicorns, of which then they should still read the book so as to leave with a new found respect for the precious creatures.
+
+---
+
+## 3rd Place - Grade 11 - NPL Book Review Contest
+
+In May of 2012, this book review of Stardust won third place for the Grade 11 category of the 2012 Friends of the Norfolk Public Library (NPL) Book Review Contest.
+
+The book review contest is sponsored each year by the FNPL to encourage reading and critical thinking, and is open to Norfolk public, private, and home-schooled students in grades 4-12. The winning reviews were selected from more than 2,100 entries. Winners received gift certifi-cates to Prince Books, and every student who entered the contest received a certificate of participation.
+
+<blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/306947201/2012-Friends-of-the-Norfolk-Public-Library">2012 Friends of the Norfolk Public Library</a></h4><p>null</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

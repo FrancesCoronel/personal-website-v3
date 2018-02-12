@@ -31,18 +31,16 @@ October 22nd to 24th, 2017
 
 Women Techmakers - Scholarship Recipient
 
+* PWA Roadshow - October 22, 9 am to 5 pm
+* Women Techmakers Reception - October 22, 6:30 pm to 10 pm
+* Chrome Dev Summit - October 23 to 24
+
 ## About
 
 A two-day exploration of building beautiful and performant experiences on the web, with content on how to ship fast and modern Progressive Web Apps, as well as new and exciting features coming to the web platform.
 
 <blockquote class="embedly-card"><h4><a href="https://developer.chrome.com/devsummit/">Chrome Dev Summit 2017</a></h4><p>Connect with Chrome engineers and other leading developers for a two-day exploration of building beautiful and performant experiences.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-I attended the
-
-* PWA Roadshow - October 22, 9 am to 5 pm
-* Women Techmakers Reception - October 22, 6:30 pm to 10 pm
-* Chrome Dev Summit - October 23 to 24
 
 I actually blogged separately about my experience with the PWA Roadshow - check it out!
 
@@ -113,3 +111,7 @@ Radio is still the most dynamic, reactive and engaging medium there is, adapting
 > I did a codelab with pointilism - mine is the Kirby!
 
 ![Codelab](https://i.imgur.com/NlboOhH.jpg)
+
+> Me trying to ask an elaborate question
+
+![Slido](https://imgur.com/bkMo8NS.png)
