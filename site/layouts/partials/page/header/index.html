@@ -16,16 +16,20 @@
     <div class="row">
       <div class="12u">
         <p>
-          <i title="Calendly" class="fas fa-calendar-check fa-lg"></i> {{ dateFormat "Monday - January 2, 2006" .Date }}
+          <i title="Publish Date" class="fas fa-calendar-check fa-lg"></i> {{ dateFormat "Monday - January 2, 2006" .Date }}
         </p>
       </div>
     </div>
     {{ end }}
     <!-- Minute Read & Word Count -->
     {{ if not .Params.noTimeEstimate }} {{ if .ReadingTime }} {{ if .WordCount }}
-    <p>
-      <i title="Reading Time" class="fas fa-clock fa-lg"></i>{{ .ReadingTime }} minute read ∙ {{ .WordCount }} words
-    </p>
+    <div class="row">
+      <div class="12u">
+        <p>
+          <i title="Reading Time" class="fas fa-clock fa-lg"></i>{{ .ReadingTime }} minute read ∙ {{ .WordCount }} words
+        </p>
+      </div>
+    </div>
     {{ end }} {{ end }} {{ end }}
     <!-- External Link -->
     {{ with .Params.link }}

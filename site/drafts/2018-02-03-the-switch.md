@@ -15,4 +15,4 @@ tags:
   - iphone
 ---
 
-https://i.imgur.com/y8W5UL5.png
+![Google Pixel Order](https://i.imgur.com/y8W5UL5.png)

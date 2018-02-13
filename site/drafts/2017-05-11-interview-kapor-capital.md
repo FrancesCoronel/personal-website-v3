@@ -7,13 +7,17 @@ draft: true
 
 ## Or how an MS in CS student with no prior VC experience got an interview with one of the most well-recognized VC firms in Silicon Valley
 
-First, I would like to say how grateful I am for having been given the
+I'll admit right away that this title is somewhat misleading because ultimately I didn't get the position BUT hot damn, at least I tried.
+
+...
+
+So first, I would like to start out by saying how grateful I am for having been given the
 opportunity to interview with Kapor Capital as a summer associate. While I did
 not end up getting an offer, I learned a lot along the time and wanted to share
 tidbits from my experience.
 
 To provide some context, there were approximately 650 applicants this year which
-is over a 200% increase from last year when there were only about 200. Of the
+is over a **200% increase** from last year when there were only about 200. Of the
 applicants for this year, there were only four summer associate openings.
 
 In other words, the competition was **tough** but I was one of the lucky few to
@@ -65,6 +69,12 @@ able to read people well and having domain expertise in the area that you are
 investing in all parts of having good investment judgement as well.
 
 ---
+
+### The Position
+
+Since I can't go back in time and see the job posting from last year, here's the one for this year.
+
+![Job Posting](https://i.imgur.com/CRp4x8r.png)
 
 Questions to Ask
 
@@ -500,8 +510,7 @@ an on-site product management course in NYC.
 
 The average college grad completes 48 courses and the average master's student
 completes 15 courses (average of 63 courses in total). By the time I graduate
-from Cornell Tech, I will have taken 81 college-level courses starting from
-2010.
+from Cornell Tech, I will have taken 81 college-level courses starting from 2010.
 
 It should be noted now that both of my parents are professors (high school and
 grad school) and believe heavily in the power of the Ph.D.

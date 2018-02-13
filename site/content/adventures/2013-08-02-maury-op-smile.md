@@ -13,11 +13,9 @@ tags:
   - operation smile
 ---
 
-![Operation Smile - Conference Logo](https://fvcproductions.files.wordpress.com/2015/11/conferencelogos-002-copy.png)
-
 ## Name
 
-<a title="" href="https://operationsmilevietnam2012.blogspot.com/" target="_blank" rel="noopener">Operation Smile Club</a>
+Operation Smile Club
 
 ## Organizer
 
@@ -64,8 +62,21 @@ Member, Vice President, Co-President
   * Helped fund-raise $240
 
 <blockquote class="embedly-card"><h4><a href="https://www.operationsmile.org/act-now/student-youth">Students & Youth</a></h4><p>Not only do our student volunteers learn the power of community and compassion, they learn they can indeed change the world for the better. Through Operation Smile, students have opportunities to serve others, to be leaders, to learn different cultures and to trust their capabilities.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="https://biogirl757.weebly.com/operation-smile-club.html">Operation Smile Club</a></h4><p>01 October 2014: Our next meeting will be Thursday, October 9th at 2:15 in room 317.</p></blockquote>
 
 ![Operation Smile at Maury High](https://fvcproductions.files.wordpress.com/2015/11/img_0848.jpg)
+
+#### T-Shirt Design
+
+![T-Shirt Design 4](https://i.imgur.com/coRiWRv.jpg)
+![T-Shirt Design 2](https://i.imgur.com/0mctYEj.jpg)
+![T-Shirt Design 3](https://i.imgur.com/Fjd1gQw.jpg)
+![T-Shirt Design 5](https://i.imgur.com/ZBWr5WY.jpg)
+![T-Shirt Design 1](https://i.imgur.com/2BzL3vL.jpg)
+
+#### The Smile Bag
+
+![The Smile Bag](https://i.imgur.com/uSCSEN0.jpg)
+
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
