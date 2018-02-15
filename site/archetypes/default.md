@@ -32,18 +32,42 @@ categories:
   - program
   - speaking
   - volunteering
+  - portfolio
+# blog options
+  - certainties
+  - coding
+  - creativity
+# portfolio options
+  - book
+  - design
+  - mobile
+  - oss
+  - presentation
+  - research
+  - tutorial
+  - video
+  - web
+# review options
+  - 2017
+  - 2016
+  - 2015
+# speaking options
+  - bootcamps
+  - hourofcode
+  - wizard
+  - typescript101
+  - webdesign
 tags:
   - insert tags for article
 ---
 
 ## Name
 
-[Progressive Web App Roadshow San Francisco 2017](//events.withgoogle.com/progressive-web-app-roadshow-san-francisco-201
-7/)
+[Event](//google.com)
 
 ## Location
 
-Google Launchpad Space - 301 Howard Street San Francisco, CA - 4th Floor
+Address - City, State
 
 ## Date
 
@@ -51,9 +75,7 @@ Sunday, October 22nd - 9:00 AM to 5:00 PM
 
 ## Role
 
-Participant
-
-* I participated this event as part of the [Chrome Dev Summit](//developer.chrome.com/devsummit/). Registration was super limited so I'm glad I was able to attend.
+Participant, Volunteer, Speaker, Scholarship Recipient, Mentor
 
 ## About
 

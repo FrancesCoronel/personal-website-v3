@@ -5,7 +5,9 @@ description: Becoming the first sponsor for an open-source project.
 banner: https://i.imgur.com/xJjmBy6.png
 categories:
   - blog
-  - certainty
+  - certainties
+  - portfolio
+  - oss
 tags:
   - open collective
   - docsify

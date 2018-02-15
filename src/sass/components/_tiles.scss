@@ -6,13 +6,18 @@
   justify-content: center;
   @include vendor("flex-wrap", "wrap");
   position: relative;
-  margin: ($gutter * -1) 0 0 ($gutter * -1);
+  margin: ($gutter * -0.5) 0 0 ($gutter * -0.5);
   overflow: hidden;
   article {
     @include vendor("transition", ("opacity #{$duration} #{$ease}"));
     position: relative;
-    width: calc(#{(100% / 3)} - #{$gutter * 1});
-    margin: $gutter 0 0 $gutter;
+    width: calc(#{(100% / 3)} - #{$gutter * 0.5});
+    margin: ($gutter*0.5) 0 0 ($gutter*0.5);
+    &.isotope-item {
+      h2 {
+        font-size: larger;
+      }
+    }
     &.plain-tile {
       width: 95%;
       margin: 0.5em;

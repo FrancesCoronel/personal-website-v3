@@ -103,3 +103,21 @@ img.mailchimp-logo {
   vertical-align: -0.5em;
   margin-right: 0.5em;
 }
+
+#feed {
+  img {
+    width: 30px;
+    box-shadow: none;
+  }
+  .gha-header,
+  .gha-footer,
+  .gha-push,
+  .gha-push-small {
+    height: 0;
+    display: none;
+  }
+  .gha-activity,
+  .gha-feed {
+    border: none;
+  }
+}
