@@ -32,6 +32,34 @@ tags:
   </form>
 </section>
 
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous"></script>
+
+<script>
+  // initially hide warning message
+  $(".warning-message").hide();
+  // open in new tab
+  function openInNewTab(url) {
+    var win = window.open(url, '_blank');
+    win.focus();
+  }
+  // DocuSign
+  function docuSign() {
+    if (!$("#applicantEmail").val() || !$("#applicantName").val()) {
+      // if no values, show warning message
+      $(".warning-message").show();
+    } else {
+      // set PowerForm url
+      var url = "https://demo.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=18bd5af0-3a6f-4d59-9400-82d7be18cc2e";
+      // set email
+      url += "&Applicant_Email=" + encodeURIComponent($("#applicantEmail").val());
+      // set name
+      url += "&Applicant_UserName=" + encodeURIComponent($("#applicantName").val());
+      // set updated URL
+      openInNewTab(url);
+    }
+  }
+</script>
+
 ### Creating Your Own PowerForm
 
 Check out the DocuSign documentation for [how to create your first PowerForm](//support.docusign.com/guides/ndse-user-guide-using-powerforms).
@@ -63,9 +91,16 @@ The code is really simple and looks like the following for this site:
 
 #### JavaScript
 
+> Note that I am using jQuery as a dependency.
+
 ```javascript
 // initially hide warning message
 $(".warning-message").hide();
+// open in new tab
+function openInNewTab(url) {
+  var win = window.open(url, "_blank");
+  win.focus();
+}
 // DocuSign
 function docuSign() {
   if (!$("#applicantEmail").val() || !$("#applicantName").val()) {
@@ -81,7 +116,7 @@ function docuSign() {
     url +=
       "&Applicant_UserName=" + encodeURIComponent($("#applicantName").val());
     // set updated URL
-    window.location.href = url;
+    openInNewTab(url);
   }
 }
 ```
@@ -94,28 +129,3 @@ There's also this useful YouTube video that gives a technical overview of how Po
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 The short link for this post is [bit.ly/frances-docusign](https://bit.ly/frances-docusign).
-
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous"></script>
-
-<script>
-  // initially hide warning message
-  $(".warning-message").hide();
-  // DocuSign
-  function docuSign() {
-    if (!$("#applicantEmail").val() || !$("#applicantName").val()) {
-      // if no values, show warning message
-      $(".warning-message").show();
-    } else {
-      // set PowerForm url
-      var url =
-        "https://demo.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=18bd5af0-3a6f-4d59-9400-82d7be18cc2e";
-      // set email
-      url += "&Applicant_Email=" + encodeURIComponent($("#applicantEmail").val());
-      // set name
-      url +=
-        "&Applicant_UserName=" + encodeURIComponent($("#applicantName").val());
-      // set updated URL
-      window.location.href = url;
-    }
-  }
-</script>
