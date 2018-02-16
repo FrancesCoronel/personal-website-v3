@@ -39,7 +39,7 @@ tags:
 <blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=YlHORJFj5C4&t=67s">DocuSign Developer: PowerForm Integration Demo</a></h4><p>DocuSign Developer Center - http://bit.ly/2BUp72B Aaron Liao talks with Dewey Wald, DocuSign's Principal Software Architect. In this second demo discussion with Dewey, you get to see a PowerForm integration scenario. We will create a template, convert it to a PowerForm, and then show the integration of a button to launch the form from your website.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<script src="http://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous"></script>
 
 <script>
   // initially hide warning message
