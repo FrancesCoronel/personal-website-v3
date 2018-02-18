@@ -1,34 +1,31 @@
+import {spawn} from "child_process";
 import autoprefixer from "autoprefixer";
 import BrowserSync from "browser-sync";
-import {spawn} from "child_process";
 import cssnano from "cssnano";
 import del from "del";
 import gulp from "gulp";
+import gutil from "gulp-util";
+import hugoBin from "hugo-bin";
 import imagemin from "gulp-imagemin";
 import postcss from "gulp-postcss";
 import sass from "gulp-sass";
-import gutil from "gulp-util";
 import watch from "gulp-watch";
-import hugoBin from "hugo-bin";
 import webpack from "webpack";
-
 import webpackConfig from "./webpack.config";
 
+// Browser Sync
 const browserSync = BrowserSync.create();
 
 // Hugo arguments
 const hugoArgsDefault = ["-d", "../dist", "-s", "site", "-v"];
-const hugoArgsPreview = ["--buildDrafts", "--buildFuture"];
 
 // Development tasks
 gulp.task("hugo", (cb) => buildSite(cb));
-gulp.task("hugo-preview", (cb) => buildSite(cb, hugoArgsPreview));
 
 // Build/production tasks
 gulp.task("build", ["clean", "sass", "js", "img", "static"], (cb) => buildSite(cb, [], "production"));
 
-gulp.task("build-preview", ["clean", "sass", "js", "img", "static"], (cb) => buildSite(cb, hugoArgsPreview, "production"));
-
+// Compress SASS
 gulp.task("sass", () =>
   gulp
     .src("./src/sass/main.scss")
@@ -42,6 +39,7 @@ gulp.task("sass", () =>
     .pipe(browserSync.stream())
 );
 
+// Compress images
 gulp.task("img", () =>
   gulp
     .src("./src/img/**/*")
@@ -49,6 +47,7 @@ gulp.task("img", () =>
     .pipe(gulp.dest("./dist/assets/img"))
 );
 
+// Copy static files
 gulp.task("static", () =>
   gulp
     .src("./src/static/**/*")
@@ -56,6 +55,7 @@ gulp.task("static", () =>
     .pipe(browserSync.stream())
 );
 
+// Clean up dist
 gulp.task("clean", () => {
   return del.sync("dist");
 });
@@ -63,7 +63,6 @@ gulp.task("clean", () => {
 // Compile Javascript
 gulp.task("js", () => {
   const myConfig = Object.assign({}, webpackConfig);
-
   webpack(myConfig, (err, stats) => {
     if (err) throw new gutil.PluginError("webpack", err);
     gutil.log(
@@ -101,14 +100,10 @@ gulp.task("server", ["hugo", "sass", "js", "img", "static"], () => {
   });
 });
 
-/**
- * Run hugo and build the site
- */
+// Run Hugo and build site
 function buildSite(cb, options, environment = "development") {
   const args = options ? hugoArgsDefault.concat(options) : hugoArgsDefault;
-
   process.env.NODE_ENV = environment;
-
   return spawn(hugoBin, args, {
     stdio: "inherit"
   }).on("close", (code) => {

@@ -1,13 +1,8 @@
 <!-- Year -->
 {{ range .Site.RegularPages.GroupByDate "2006" }}
-<!-- Separate Years -->
-<hr>
 <!-- Check for No Date -->
-{{ if eq .Key "0001" }}
-<h2>No Date</h2>
-{{ else }}
+{{ if not (eq .Key "0001") }}
 <h2>{{ .Key }}</h2>
-{{ end }}
 <!-- Month -->
 {{ range .Pages.GroupByDate "January" }}
 <h3>{{ .Key }}</h3>
@@ -20,4 +15,6 @@
   </li>
   {{ end }}
 </ul>
-{{ end }} {{ end }}
+{{ end }}
+<!-- Separate Years -->
+<br> {{ end }} {{ end }}

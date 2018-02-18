@@ -1,12 +1,89 @@
 ---
 title: Search
-description: Search across my websites!
+description: Search across my website!
 banner: https://upload.wikimedia.org/wikipedia/commons/9/96/Google_web_search.png
 noComments: true
-draft: true
+aliases:
+  - /search/
 ---
 
-## I'm using [Google Custom Search](//cse.google.com) because the other options were way too tedious.
+## Enter your search term below and press enter.
+
+<style>
+.gcsc-branding,
+table.gsc-resultsHeader,
+td.gsc-search-button,
+td.gsib_b {
+  display: none;
+}
+
+table,
+table.gsc-search-box,
+.gsib_a,
+.gsc-above-wrapper-area,
+.cse .gsc-control-cse,
+.gsc-control-cse,
+table tbody tr,
+.gsc-input-box,
+table tbody td,
+.gsst_a,
+input[type=text]:focus,
+td.gsc-input {
+  padding: 0;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+}
+
+table tbody tr:nth-child(odd) {
+  background-color: white;
+}
+
+.gsc-result .gs-title,
+.gsc-input-box {
+  height: inherit;
+  text-decoration: none;
+}
+
+div#gsc-iw-id1 {
+  border: 1px solid black;
+}
+
+.gsc-selected-option-container {
+  max-width: 100%;
+}
+
+td#gs_tti50 {
+  padding: 1em;
+}
+
+.cse .gsc-search-button input.gsc-search-button-v2,
+input.gsc-search-button-v2 {
+  height: auto;
+  width: auto;
+}
+
+.gsc-results-wrapper-nooverlay.gsc-results-wrapper-visible {
+  margin-top: 2em;
+}
+
+a.gsst_a {
+  border-bottom: none !important;
+}
+
+.gsc-search-box-tools .gsc-search-box .gsc-input {
+  padding-right: 0;
+}
+
+.gsc-control-cse div {
+  width: 100%;
+}
+
+table.gsc-search-box {
+    display: inline-table;
+}
+
+</style>
 
 <script>
   (function() {

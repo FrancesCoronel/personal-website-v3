@@ -70,8 +70,8 @@ Might have something to do with human nature in general, though, so interpret it
 * Attending [Index Conf](https://developer.ibm.com/indexconf) from February 20th to 22nd
 * Attending [Iterate Conf](https://www.iterateconf.io) on February 27th
 
-### [WakaTime Tracker](//wakatime.com/share/@fvcproductions/0a592682-4fbc-4ae3-87ab-e4f202c7df96.svg) 💻
+<!-- ### [WakaTime Tracker](//wakatime.com/share/@fvcproductions/0a592682-4fbc-4ae3-87ab-e4f202c7df96.svg) 💻
 
 > I code too much - help!
 
-<figure><embed src="https://wakatime.com/share/@fvcproductions/0a592682-4fbc-4ae3-87ab-e4f202c7df96.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@fvcproductions/0a592682-4fbc-4ae3-87ab-e4f202c7df96.svg"></embed></figure> -->
