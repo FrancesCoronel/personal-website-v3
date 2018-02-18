@@ -1,15 +1,17 @@
 ---
-title: "Jacobs University Bremen - Fall 2013"
-description: "Jacobs University is a private international research university with a residential campus in Bremen, Germany."
+title: Jacobs University Bremen - Fall 2013
+description: Jacobs University is a private international research university with a residential campus in Bremen, Germany.
 date: 2013-12-27
 banner: https://i1.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-5.jpg?w=247&h=330&crop&ssl=1&zoom=2
 categories:
-    - education
+  - education
+  - portfolio
+  - award
 ---
 
 ## Institution
 
-<a title="Jacobs University Bremen" href="https://www.jacobs-university.de" target="_blank" rel="noopener">Jacobs University Bremen</a>
+[Jacobs University Bremen](//www.jacobs-university.de)
 
 ## Location
 
@@ -32,6 +34,8 @@ I received a generous merit scholarship to attend and study computer science. Wh
 ### Activities
 
 * Computer Science Club
+* Marketing for social events
+* "The Chinese Wall" play
 
 ### Courses
 
@@ -81,19 +85,28 @@ I received a generous merit scholarship to attend and study computer science. Wh
 
 ![Jacobs University Bremen](https://i0.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-12.jpg?w=216&h=144&crop&ssl=1&zoom=2)
 
----
+### Awards
 
-* award: Featured Poem on Pulse of the World
-  issuer: Jacobs University Bremen
-  month: 'October'
-  year: 2013
-  link: '//scribd.com/document/174387876/POTW-Issue-30'
-  notes: >-
-  My poem was featured on Jacob University’s student-run newspaper “POTW”
-  (Issue 11) while I was a student there.
+| Award                                                                                | Month   | Year | Notes                                                                   |
+| ------------------------------------------------------------------------------------ | ------- | ---- | ----------------------------------------------------------------------- |
+| [Featured Poem on Pulse of the World](//scribd.com/document/174387876/POTW-Issue-30) | October | 2013 | My poem was featured on Jacob University’s student-run newspaper “POTW” |
+
+(Issue 11) while I was a student there.
+A2 | B2 | C2
+
 * award: Merit-Based Scholarship
   issuer: Jacobs University Bremen
   month: 'August'
   year: 2013
   link: //jacobs-university.de/study/undergraduate/fees-finances/scholarships
   notes: merit-based annual scholarship of $10K
+
+---
+
+### Projects
+
+#### Heaven or Hell Party Ad
+
+I don't remember how I got involved but I ended up creating an ad for a "Heaven or Hell" party. It was a pretty great party.
+
+![Heaven or Hell Party](https://i.imgur.com/2T1QEUQ.png)

@@ -33,8 +33,6 @@ October 2009 to August 2013
 
 Member, Vice President, Co-President
 
-## About
-
 ### 2012 to 2013
 
 * Attended the annual **International Student Leadership Conference** in Norfolk, VA in August 2013
@@ -61,22 +59,39 @@ Member, Vice President, Co-President
 * High school club member
   * Helped fund-raise $240
 
+## About
+
+There are more than 900 Operation Smile Student Clubs and associations in 38 countries all over the world and across all age groups that build awareness, raise funds, and empower students to create positive change through our four pillars of philanthropy: Leadership, Education, Service, and Awareness.
+
+School clubs and associations hold a variety of events, meetings, and campaigns throughout the year to raise awareness and funds for Operation Smile. They participate in service projects, donation supply drives, and signature events held throughout the year.
+
 <blockquote class="embedly-card"><h4><a href="https://www.operationsmile.org/act-now/student-youth">Students & Youth</a></h4><p>Not only do our student volunteers learn the power of community and compassion, they learn they can indeed change the world for the better. Through Operation Smile, students have opportunities to serve others, to be leaders, to learn different cultures and to trust their capabilities.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="https://biogirl757.weebly.com/operation-smile-club.html">Operation Smile Club</a></h4><p>01 October 2014: Our next meeting will be Thursday, October 9th at 2:15 in room 317.</p></blockquote>
 
-![Operation Smile at Maury High](https://fvcproductions.files.wordpress.com/2015/11/img_0848.jpg)
+### Projects
 
 #### T-Shirt Design
 
+> I used Apple Keynote to design this potential T-shirt design. In the end, we decided our money was better spent on something else.
+
 ![T-Shirt Design 4](https://i.imgur.com/coRiWRv.jpg)
-![T-Shirt Design 2](https://i.imgur.com/0mctYEj.jpg)
-![T-Shirt Design 3](https://i.imgur.com/Fjd1gQw.jpg)
-![T-Shirt Design 5](https://i.imgur.com/ZBWr5WY.jpg)
-![T-Shirt Design 1](https://i.imgur.com/2BzL3vL.jpg)
 
 #### The Smile Bag
 
+> I used Apple Keynote to design this infographic to show what we needed to find to create smile bags.
+
 ![The Smile Bag](https://i.imgur.com/uSCSEN0.jpg)
 
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+#### The Skinny Dip Fundraiser
+
+> I used Apple Keynote to design these posters that we hung around the school for a fundraiser at a local frozen yogurt place.
+
+![The Skinny Dip Fundraiser 1](https://i.imgur.com/6lPkXQl.jpg)
+
+![The Skinny Dip Fundraiser 2](https://i.imgur.com/Uxieh9Z.jpg)
+
+![The Skinny Dip Fundraiser 3](https://i.imgur.com/JIqufJS.jpg)
+
+![The Skinny Dip Fundraiser 4](https://i.imgur.com/V4TWUeD.jpg)

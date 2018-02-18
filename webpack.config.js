@@ -11,7 +11,7 @@ export default {
         loader: "url-loader"
       },
       {
-        test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
+        test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-c9])?$/,
         loader: "url-loader"
       },
       {
@@ -40,8 +40,9 @@ export default {
     new WorkboxPlugin({
       cacheName: "fvcproductions",
       globDirectory: "dist",
+      globStrict: false,
       globPatterns: ["**/*.{html,jss,css,svg,png,jpg}"],
-      swDest: path.join("dist", "service-worker.js"),
+      swDest: path.join("dist", "sw.js"),
       maximumFileSizeToCacheInBytes: 10 * 1024 * 1024,
       clientsClaim: true,
       skipWaiting: true,
@@ -50,10 +51,7 @@ export default {
           urlPattern: /\.(?:png|gif|jpg)$/,
           handler: "cacheFirst",
           options: {
-            cacheName: "fvcproductions-image-cache",
-            cacheExpiration: {
-              maxEntries: 20
-            }
+            cacheName: "fvcproductions-image-cache"
           }
         },
         {
@@ -75,7 +73,6 @@ export default {
   },
   context: path.join(__dirname, "src"),
   entry: {
-    ie: ["./js/components/ie"],
     app: ["./js/app"]
   },
   output: {

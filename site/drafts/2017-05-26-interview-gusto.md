@@ -1,6 +1,8 @@
 ---
-title: "Interview with Gusto"
-draft: true
+title: Interview with Gusto
+description: I ended up as a finalist in the interview process for a Product Manager intern position for Gusto.
+date: 2017-05-26
+banner:
 ---
 
 summarize intercom pm book - post
@@ -16,8 +18,6 @@ Gusto - Feedback
 * no for gusto
 * over 150 applicants for 1 spot
 * initially had 2 spots
-
----
 
 Gusto - Overview of Interview
 
@@ -106,7 +106,7 @@ How do you earn the respect of the engineering team?
 
 read code & talk down to me get questioned a lot more than others dont have an
 MBA background poking holes in projects in differnet ways - simlar to engineers
-flesh that out - risk adverse\**
+flesh that out - risk adverse\*\*
 
 wireframes in Balsamiq - do things in Sketch - make rules that dont exist in
 your product - understanding platform on engineering and business sides
@@ -150,8 +150,6 @@ so many projects going on at one time - hard for people to keep up
   * paper jockeying and coordinating between people
   * engineers should be responsible for their team
 
----
-
 PM Workflows
 
 car company CEO Americans are drinking more and more coffee Head of Product
@@ -166,8 +164,6 @@ Design coffee maker for a car
         - execution
             - shipping features
             - making products go quickly
-
----
 
 PM Prioritization
 
@@ -221,8 +217,6 @@ Rolling Out New Features
    1. Message schedule for feature
    2. continuous built-in notifications as you use app
 
-￼ ￼
-
 * The reality is that typical feature usage is usually limited to a few key ones
   and the rest are barely used
 * For any feature with limited adoption, you can kill it, try to increase
@@ -252,8 +246,6 @@ Why I'm Better
 Having a solid engineering background gives a PM two critical tools: the ability
 to relate to engineers and a grasp of the technical details driving the product
 
----
-
 Gusto Values with Jarell
 
 Questions to Ask
@@ -280,8 +272,6 @@ Questions to Ask
   * coordination
 * love most: longitudinal - deeper on long-term projects - customer search,
   segmentation,
-
-...
 
 Based off what Eric told me was going to be covered in the interview with
 Jarell, we were supposed to review the 6 values o Jarell

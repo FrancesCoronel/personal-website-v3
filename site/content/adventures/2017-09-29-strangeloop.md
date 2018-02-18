@@ -36,7 +36,6 @@ Strange Loop is a multi-disciplinary conference that brings together the develop
 ---
 
 <blockquote class="embedly-card"><h4><a href="//imgur.com/a/4OYm2">Strange Loop 2017</a></h4><p>My adventures at Strange Loop in St Louis, MO from September 27th to 29th, 2017.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---
 
@@ -151,3 +150,5 @@ My boyfriend actually ended up getting a little jelly because I mentioned that A
 Waking up super early to catch a flight home. 😴️
 
 > <a name="footnote1"><b>1.</b></a> Ian is one of the [Project Alloy](//www.projectalloy.org/) co-founders.
+
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
