@@ -25,7 +25,7 @@ gulp.task("hugo", (cb) => buildSite(cb));
 gulp.task("hugo-preview", (cb) => buildSite(cb, hugoArgsPreview));
 
 // Build/production tasks
-gulp.task("build", ["clean", "sass", "js", "img", "static"], (cb) => buildSite(cb, [], "production"));
+gulp.task("build", ["clean", "hugo", "sass", "js", "img", "static"], (cb) => buildSite(cb, [], "production"));
 
 gulp.task("build-preview", ["clean", "sass", "js", "img", "static"], (cb) => buildSite(cb, hugoArgsPreview, "production"));
 

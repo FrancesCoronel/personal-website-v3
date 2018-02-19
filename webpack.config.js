@@ -1,7 +1,6 @@
 const webpack = require("webpack");
 const path = require("path");
 const WorkboxPlugin = require("workbox-webpack-plugin");
-// const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 export default {
   module: {
@@ -60,7 +59,6 @@ export default {
       },
       exclude: [/\.min\.js$/gi] // skip pre-minified libs
     }),
-    // new HtmlWebpackPlugin(),
     new WorkboxPlugin({
       cacheName: "fvcproductions",
       globDirectory: "dist",
