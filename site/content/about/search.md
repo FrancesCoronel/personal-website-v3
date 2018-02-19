@@ -49,10 +49,6 @@ div#gsc-iw-id1 {
   border: 1px solid black;
 }
 
-.gsc-selected-option-container {
-  max-width: 100%;
-}
-
 td#gs_tti50 {
   padding: 1em;
 }
@@ -75,12 +71,12 @@ a.gsst_a {
   padding-right: 0;
 }
 
-.gsc-control-cse div {
-  width: 100%;
-}
-
 table.gsc-search-box {
     display: inline-table;
+}
+
+.gsc-selected-option-container {
+  max-width: 100%;
 }
 
 </style>

@@ -2,7 +2,7 @@
   $gutter: _size(gutter);
   padding: 1em;
   margin-top: 2em;
-  background-color: #253137;
+  background-color: _palette(fg);
   color: white;
   .inner {
     max-width: 100%;

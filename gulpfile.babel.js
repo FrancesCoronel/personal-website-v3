@@ -18,16 +18,12 @@ const browserSync = BrowserSync.create();
 
 // Hugo arguments
 const hugoArgsDefault = ["-d", "../dist", "-s", "site", "-v"];
-const hugoArgsPreview = ["--buildDrafts", "--buildFuture"];
 
 // Development tasks
 gulp.task("hugo", (cb) => buildSite(cb));
-gulp.task("hugo-preview", (cb) => buildSite(cb, hugoArgsPreview));
 
 // Build/production tasks
 gulp.task("build", ["clean", "hugo", "sass", "js", "img", "static"], (cb) => buildSite(cb, [], "production"));
-
-gulp.task("build-preview", ["clean", "sass", "js", "img", "static"], (cb) => buildSite(cb, hugoArgsPreview, "production"));
 
 // Compress SASS
 gulp.task("sass", () =>
