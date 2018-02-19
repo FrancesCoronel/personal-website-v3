@@ -1,7 +1,7 @@
 const webpack = require("webpack");
 const path = require("path");
 const WorkboxPlugin = require("workbox-webpack-plugin");
-const HtmlWebpackPlugin = require("html-webpack-plugin");
+// const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 export default {
   module: {
@@ -60,17 +60,16 @@ export default {
       },
       exclude: [/\.min\.js$/gi] // skip pre-minified libs
     }),
-    new HtmlWebpackPlugin(),
+    // new HtmlWebpackPlugin(),
     new WorkboxPlugin({
       cacheName: "fvcproductions",
-      globDirectory: "./dist",
+      globDirectory: "dist",
       globPatterns: ["**/*.{html,css,png,gif,jpg,svg,xml,js,ico,json}"],
       globStrict: false,
-      swDest: "./dist/sw.js",
+      swDest: path.join("dist", "sw.js"),
       maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
       clientsClaim: true,
       skipWaiting: true,
-      navigateFallback: "/",
       runtimeCaching: [
         {
           urlPattern: /\.(?:png|gif|jpg)$/,
