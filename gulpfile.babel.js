@@ -74,19 +74,6 @@ gulp.task("sass", () =>
     )
     .pipe(postcss([autoprefixer(), cssnano(), csso()]))
     .pipe(sourcemaps.write("."))
-    .pipe(
-      brotli.compress({
-        skipLarger: true,
-        mode: 0,
-        quality: 11,
-        lgblock: 0
-      })
-    )
-    .pipe(
-      gzip({
-        skipGrowingFiles: true
-      })
-    )
     .pipe(gulp.dest("./dist/assets/css"))
     .pipe(browserSync.stream())
 );
