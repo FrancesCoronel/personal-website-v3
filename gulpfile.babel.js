@@ -6,15 +6,15 @@ import cssnano from "cssnano";
 import csso from "postcss-csso";
 import del from "del";
 import gulp from "gulp";
-import gutil from "gulp-util";
 import gzip from "gulp-gzip";
 import htmlmin from "gulp-htmlmin";
 import hugoBin from "hugo-bin";
 import imagemin from "gulp-imagemin";
+import log from "fancy-log";
+import PluginError from "plugin-error";
 import postcss from "gulp-postcss";
 import runSequence from "run-sequence";
 import sass from "gulp-sass";
-import shell from "gulp-shell";
 import sourcemaps from "gulp-sourcemaps";
 import watch from "gulp-watch";
 import webpack from "webpack";
@@ -30,53 +30,9 @@ const hugoArgsDefault = ["-d", "../dist", "-s", "site", "-v"];
 gulp.task("hugo", (cb) => buildSite(cb));
 
 // Build/production tasks
-gulp.task("build", ["clean", "hugo", "sass", "js", "img", "static"], (callback) => {
+gulp.task("build", ["clean", "hugo", "sass", "css", "js", "img", "static"], (callback) => {
   runSequence("minify", callback);
 });
-
-// Development server with browser sync
-gulp.task(
-  "server",
-  ["hugo", "js", "sass", "img", "static"],
-  () =>
-    browserSync.init({
-      server: {
-        baseDir: "./dist"
-      }
-    }),
-  watch("./src/sass/**/*.scss", () => {
-    gulp.start(["sass"]);
-  }),
-  watch("./src/js/**/*.js", () => {
-    gulp.start(["js"]);
-  }),
-  watch("./src/img/**/*", () => {
-    gulp.start(["img"]);
-  }),
-  watch("./src/assets/**/*", () => {
-    gulp.start(["static"]);
-  }),
-  watch("./site/**/*", () => {
-    gulp.start(["hugo"]);
-  })
-);
-
-// Run Hugo and build site
-const buildSite = (cb, options, environment = "development") => {
-  const args = options ? hugoArgsDefault.concat(options) : hugoArgsDefault;
-  process.env.NODE_ENV = environment;
-  return spawn(hugoBin, args, {
-    stdio: "inherit"
-  }).on("close", (code) => {
-    if (code === 0) {
-      browserSync.reload();
-      cb();
-    } else {
-      browserSync.notify("Hugo build failed :(");
-      cb("Hugo build failed");
-    }
-  });
-};
 
 // Minify HTML
 gulp.task("minify", () =>
@@ -118,6 +74,19 @@ gulp.task("sass", () =>
     )
     .pipe(postcss([autoprefixer(), cssnano(), csso()]))
     .pipe(sourcemaps.write("."))
+    .pipe(
+      brotli.compress({
+        skipLarger: true,
+        mode: 0,
+        quality: 11,
+        lgblock: 0
+      })
+    )
+    .pipe(
+      gzip({
+        skipGrowingFiles: true
+      })
+    )
     .pipe(gulp.dest("./dist/assets/css"))
     .pipe(browserSync.stream())
 );
@@ -139,14 +108,16 @@ gulp.task("static", () =>
 );
 
 // Clean up dist
-gulp.task("clean", () => del.sync("dist"));
+gulp.task("clean", () => {
+  return del.sync("dist");
+});
 
 // Compile Javascript
 gulp.task("js", () => {
   const myConfig = Object.assign({}, webpackConfig);
   webpack(myConfig, (err, stats) => {
-    if (err) throw new gutil.PluginError("webpack", err);
-    gutil.log(
+    if (err) throw new PluginError("webpack", err);
+    log(
       "[webpack]",
       stats.toString({
         colors: true,
@@ -156,3 +127,44 @@ gulp.task("js", () => {
     browserSync.reload();
   });
 });
+
+// Development server with browser sync
+gulp.task("server", ["hugo", "sass", "js", "img", "static"], () => {
+  browserSync.init({
+    server: {
+      baseDir: "./dist"
+    }
+  });
+  watch("./src/sass/**/*.scss", () => {
+    gulp.start(["sass"]);
+  });
+  watch("./src/js/**/*.js", () => {
+    gulp.start(["js"]);
+  });
+  watch("./src/img/**/*", () => {
+    gulp.start(["img"]);
+  });
+  watch("./src/assets/**/*", () => {
+    gulp.start(["static"]);
+  });
+  watch("./site/**/*", () => {
+    gulp.start(["hugo"]);
+  });
+});
+
+// Run Hugo and build site
+function buildSite(cb, options, environment = "development") {
+  const args = options ? hugoArgsDefault.concat(options) : hugoArgsDefault;
+  process.env.NODE_ENV = environment;
+  return spawn(hugoBin, args, {
+    stdio: "inherit"
+  }).on("close", (code) => {
+    if (code === 0) {
+      browserSync.reload();
+      cb();
+    } else {
+      browserSync.notify("Hugo build failed :(");
+      cb("Hugo build failed");
+    }
+  });
+}
