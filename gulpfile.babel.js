@@ -6,7 +6,6 @@ import cssnano from "cssnano";
 import csso from "postcss-csso";
 import del from "del";
 import gulp from "gulp";
-import gzip from "gulp-gzip";
 import htmlmin from "gulp-htmlmin";
 import hugoBin from "hugo-bin";
 import imagemin from "gulp-imagemin";
@@ -55,11 +54,6 @@ gulp.task("minify", () =>
         lgblock: 0
       })
     )
-    .pipe(
-      gzip({
-        skipGrowingFiles: true
-      })
-    )
     .pipe(gulp.dest("./dist"))
 );
 
@@ -80,11 +74,6 @@ gulp.task("sass", () =>
         mode: 0,
         quality: 11,
         lgblock: 0
-      })
-    )
-    .pipe(
-      gzip({
-        skipGrowingFiles: true
       })
     )
     .pipe(gulp.dest("./dist/assets/css"))
