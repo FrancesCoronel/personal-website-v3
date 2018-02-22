@@ -1,6 +1,6 @@
 ---
 title: Speaking 💬️
-description: What I've spoken about at conferences, Meetups, hackathons, etc.
+description: What I've spoken about at conferences, hackathons, Meetups and other events.
 banner: https://i.imgur.com/3nARfu6.jpg
 caption: "HR DevFest - November 2015"
 noComments: true

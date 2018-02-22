@@ -18,6 +18,6 @@ tags:
 
 Here, I used GeekTool, Flavours, Bartender, Bowtie, iStat Menus, Living Earth Desktop and icons from DeviantArt to customize my Mac desktop.
 
-<p class="centered">
-  <img src="https://i.imgur.com/PUpgz9q.png" style="width:600px;height:375px">
+<p class="centered small-image">
+  <img src="https://i.imgur.com/PUpgz9q.png">
 </p>

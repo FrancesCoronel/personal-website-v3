@@ -1,6 +1,12 @@
 const webpack = require("webpack");
 const path = require("path");
+
+// Workbox
 const WorkboxPlugin = require("workbox-webpack-plugin");
+// Brotli
+const BrotliPlugin = require("brotli-webpack-plugin");
+// GZip
+const CompressionPlugin = require("compression-webpack-plugin");
 
 export default {
   module: {
@@ -46,28 +52,36 @@ export default {
       jQuery: "jquery"
     }),
     new webpack.optimize.UglifyJsPlugin({
-      mangle: true,
       compress: {
-        warnings: false, // Suppress uglification warnings
-        pure_getters: true,
-        unsafe: true,
-        unsafe_comps: true,
-        screw_ie8: true
+        warnings: false,
+        screw_ie8: true,
+        conditionals: true,
+        unused: true,
+        comparisons: true,
+        sequences: true,
+        dead_code: true,
+        evaluate: true,
+        if_return: true,
+        join_vars: true
       },
       output: {
         comments: false
-      },
-      exclude: [/\.min\.js$/gi] // skip pre-minified libs
+      }
     }),
+    new webpack.optimize.AggressiveMergingPlugin(),
+    new BrotliPlugin({}),
+    new CompressionPlugin({}),
     new WorkboxPlugin({
+      cacheId: "fvcproductions",
       cacheName: "fvcproductions",
       globDirectory: "dist",
-      globPatterns: ["**/*.{html,css,png,gif,jpg,svg,xml,js,ico,json}"],
+      globPatterns: ["index.html", "404.html", "**/*.{css,png,gif,jpg,svg,xml,js,ico,json}"],
       globStrict: false,
       swDest: path.join("dist", "sw.js"),
       maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
       clientsClaim: true,
       skipWaiting: true,
+      navigateFallback: "/offline.html",
       runtimeCaching: [
         {
           urlPattern: /\.(?:png|gif|jpg)$/,
@@ -81,6 +95,10 @@ export default {
           handler: "staleWhileRevalidate"
         },
         {
+          urlPattern: new RegExp("https://fvcproductions.disqus.com"),
+          handler: "staleWhileRevalidate"
+        },
+        {
           urlPattern: new RegExp("https://cdn.onesignal.com"),
           handler: "staleWhileRevalidate"
         },
@@ -89,7 +107,7 @@ export default {
           handler: "staleWhileRevalidate"
         },
         {
-          urlPattern: new RegExp("https://www.google-analytics.com"),
+          urlPattern: new RegExp("https://google-analytics.com"),
           handler: "staleWhileRevalidate"
         },
         {

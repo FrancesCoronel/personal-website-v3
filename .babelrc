@@ -1,4 +1,4 @@
 {
-  "presets": ["env"],
+  "presets": ["env", "minify"],
   "plugins": ["syntax-object-rest-spread", "transform-object-rest-spread"]
 }

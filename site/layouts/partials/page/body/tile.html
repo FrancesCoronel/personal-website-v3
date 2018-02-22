@@ -10,7 +10,9 @@
       {{ end }}
       <!-- Title -->
       {{ if not .PublishDate.IsZero }}
-      <p>{{ dateFormat "January 2006" .Date }}</p>
+      <p>
+        {{ dateFormat "January 2006" .Date }}
+      </p>
       {{ end }}
       <h2>
         {{ .Title }} {{ if .Params.link }}↗️{{ end }}
@@ -18,11 +20,15 @@
       <!-- Description -->
       {{ if .Description }}
       <div class="content">
-        <p>{{ .Description | truncate 25 | safeHTML }}</p>
+        <p>
+          {{ .Description | truncate 50 | safeHTML }}
+        </p>
       </div>
       {{ else }}
       <div class="content">
-        <p>{{ .Summary | truncate 25 | safeHTML }}</p>
+        <p>
+          {{ .Summary | truncate 50 | safeHTML }}
+        </p>
       </div>
       {{ end }}
     </a>

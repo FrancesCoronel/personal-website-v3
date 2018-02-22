@@ -80,20 +80,36 @@ The project will be made up of two parts: the Android app itself, and a web serv
 * me (designer)
 * Organizer Lukas (advisor)
 
-![Transparent](https://i.imgur.com/2B2FXtp.png)
+<p class="centered small-image">
+  <img src="https://i.imgur.com/2B2FXtp.png" alt="Transparent Logo">
+</p>
 
-![Android Icon](https://i.imgur.com/Yx7HAhK.png)
+<p class="centered small-image">
+  <img src="https://i.imgur.com/Yx7HAhK.png" alt="Android Icon">
+</p>
 
 ![Banner](https://i.imgur.com/uMCszCs.png)
 
-![Splash Screen](https://imgur.com/HVd6LNi.png)
+<p class="centered small-image">
+  <img src="https://imgur.com/HVd6LNi.png" alt="Splash Screen">
+</p>
 
-![Enter](https://i.imgur.com/QA5KUEL.png)
+<p class="centered small-image">
+  <img alt="Enter" src="https://i.imgur.com/QA5KUEL.png">
+</p>
 
-![Login](https://i.imgur.com/wgCf8R6.png)
+<p class="centered small-image">
+  <img alt="Login" src="https://i.imgur.com/wgCf8R6.png">
+</p>
 
-![Sign Up](https://i.imgur.com/KaIGwIQ.png)
+<p class="centered small-image">
+  <img alt="Sign Up" src="https://i.imgur.com/KaIGwIQ.png">
+</p>
 
-![Errands](https://i.imgur.com/kc0BQZa.png)
+<p class="centered small-image">
+  <img alt="Errands" src="https://i.imgur.com/kc0BQZa.png">
+</p>
 
-![Messages](https://i.imgur.com/xTEiECM.png)
+<p class="centered small-image">
+  <img alt="Messages" src="https://i.imgur.com/xTEiECM.png">
+</p>

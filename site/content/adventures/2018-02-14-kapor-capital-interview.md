@@ -26,7 +26,7 @@ In other words, the competition was **tough** but I was one of the lucky few to 
 
 While I won't share every feeling I had from my interview day, I do want to give some insight into the process and how I prepared as someone who had very little experience in VC.
 
-<!-- TOC depthFrom:3 -->
+<!-- TOC depthFrom:3 depthTo:6 -->
 
 * [Position](#position)
 * [Process](#process)
@@ -89,7 +89,8 @@ You can do this by crafting excellent responses to the questions they ask and sh
 2. call with [Ulili](//www.kaporcapital.com/who-we-are/uriridiakoghene-onovakpuri/) (who was recently promoted to partner at Kapor)
 3. onsite interview was scheduled for May 11, 2017
 4. fly to Oakland
-5. onsite interviews in Oakland 6. final decision emailed to me
+5. onsite interviews in Oakland
+6. final decision emailed to me
 
 ### Onsite Interview Schedule
 
@@ -328,7 +329,7 @@ If you look at the array of skills, networks, and experiences required to be an 
 
 Focusing on key job responsibilities and measurable skills needed — not proxies. As a head of People Ops at a tech company put it, "A degree from Stanford and a previous job at Google are not skills."
 
-Empasizing actions, not words. We prioritize candidates who have experience building and managing diverse teams, or who have experience being an "only" in a professional or volunteer position. It’s amazing how quickly the "most qualified" candidates go to the bottom of the rankings if demonstrated experience with diverse teams is a requirement in the job description.
+Emphasizing actions, not words. We prioritize candidates who have experience building and managing diverse teams, or who have experience being an "only" in a professional or volunteer position. It’s amazing how quickly the "most qualified" candidates go to the bottom of the rankings if demonstrated experience with diverse teams is a requirement in the job description.
 
 Developing a diverse talent pool. We know openings for partners, principals, associates, and analysts occur infrequently in small firms like ours, so we decided to grow our own talent pool. Kapor Capital has worked with Management Leaders for Tomorrow for several years to recruit pre-MBA and MBA students from underrepresented backgrounds as Summer Associates. Several have gone on to full-time positions as investors in the industry. Our very own Brian Dixon was a Kapor Capital Summer Associate, prior to entering business school four years ago. Thereafter, he became a full-time Associate, then a Principal, and just a few months ago was named Partner.
 

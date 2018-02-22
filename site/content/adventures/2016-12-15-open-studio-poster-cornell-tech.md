@@ -18,8 +18,7 @@ To address this problem, we created Q&A, a platform that solicits the opinion of
 
 At the end of the semester, each team was also tasked to create a poster for their community challenge teams in order to display them at Open Studio.
 
-<blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/46477237/The-NYT-Community-Challenge-Open-Studio">The NYT Community Challenge | Open Studio</a></h4><p>Every fall, leading startups, companies, and organizations in NYC pose business challenges to Cornell Tech. In Product Studio, teams develop and present new products, services, and strategies that respond to those challenges. Our team responded to The...</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+![Open Studio Poster](https://i.imgur.com/Yhi3jUm.jpg)
 
 ## Tools Used
 

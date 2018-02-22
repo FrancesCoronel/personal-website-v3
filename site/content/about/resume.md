@@ -11,7 +11,9 @@ noComments: true
 
 <blockquote class="embedly-card"><h4><a href="https://www.linkedin.com/in/fvcproductions">Frances Coronel | LinkedIn</a></h4><p>View Frances Coronel's profile on LinkedIn, the world's largest professional community. Frances has 7 jobs listed on their profile. See the complete profile on LinkedIn and discover Frances' connections and jobs at similar companies.</p></blockquote>
 
-### But here's the hard copy of my resume for reference. `¯\_( ツ )_/¯`
+### But here's the hard copy of my resume for reference.
+
+`¯\_( ツ )_/¯`
 
 > Last updated October 2017
 

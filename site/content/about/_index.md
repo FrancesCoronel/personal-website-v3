@@ -1,6 +1,6 @@
 ---
 title: About 👀️
-description: Yep, that's me!
+description: A brief intro to my world.
 banner: https://i.imgur.com/EemV6QS.jpg
 caption: The quintessential portrait
 alphabetical: true

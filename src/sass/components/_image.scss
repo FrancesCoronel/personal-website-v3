@@ -41,6 +41,13 @@
   }
 }
 
+span.image.main {
+  width: 100%;
+  img {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  }
+}
+
 img.emoji {
   width: 1em;
   border: none;
@@ -68,13 +75,6 @@ img.emoji {
   width: 100%;
 }
 
-span.image.main {
-  width: 100%;
-  img {
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-  }
-}
-
 .image-caption {
   @include image-caption-shared;
   margin-bottom: 3em;
@@ -98,26 +98,10 @@ span.image.main {
   }
 }
 
-img.mailchimp-logo {
-  width: 2em;
-  vertical-align: -0.5em;
-  margin-right: 0.5em;
+.small-image > img {
+  width: 50% !important;
 }
 
-#feed {
-  img {
-    width: 30px;
-    box-shadow: none;
-  }
-  .gha-header,
-  .gha-footer,
-  .gha-push,
-  .gha-push-small {
-    height: 0;
-    display: none;
-  }
-  .gha-activity,
-  .gha-feed {
-    border: none;
-  }
+.extra-small-image > img {
+  width: 25% !important;
 }

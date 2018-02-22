@@ -12,7 +12,8 @@
     <!-- Title -->
     {{ if .Params.link }}
     <a href="{{ .Params.link }}">
-      <h2>{{ .Title }} {{ if .Params.link }}↗️{{ end }}
+      <h2>
+        {{ .Title }} {{ if .Params.link }}↗️{{ end }}
       </h2>
     </a>
     {{ else }}
@@ -22,9 +23,13 @@
     {{ end }}
     <!-- Description -->
     {{ if .Description }}
-    <p>{{ .Description | truncate 100 | safeHTML }}</p>
+    <p>
+      {{ .Description | truncate 100 | safeHTML }}
+    </p>
     {{ else }}
-    <p>{{ .Summary | truncate 100 | safeHTML }}</p>
+    <p>
+      {{ .Summary | truncate 100 | safeHTML }}
+    </p>
     {{ end }}
   </div>
 </article>

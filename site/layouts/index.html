@@ -9,28 +9,6 @@
   <!-- Section Pages -->
   {{ $pages := $pages | union (.Site.Sections) }}
   <!-- Looping -->
-  {{ range $pages.ByTitle }}
-  <article>
-    <!-- Image -->
-    <span class="image background-image" style="background-image:url({{ .Params.banner }});"></span>
-    <!-- <span class="image">
-      <img src="{{ .Params.banner }}">
-    </span> -->
-    <!-- External Link -->
-    {{ if .Params.link }}
-    <a href="{{ .Params.link }}" target="_blank"> ↗️
-      <!-- No External Link -->
-      {{ else }}
-      <a href="{{ .RelPermalink }}">
-        {{ end }}
-        <!-- Title -->
-        <h2>{{ .Title }} </h2>
-        <!-- Description -->
-        <div class="content">
-          <p>{{ .Description }}</p>
-        </div>
-      </a>
-  </article>
-  {{ end }}
+  {{ range $pages.ByTitle }} {{ partial "page/body/home-tile.html" . }} {{ end }}
 </section>
 {{ end }}

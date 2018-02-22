@@ -9,6 +9,10 @@
   {{ partial "base/header/seo.html" . }}
   <!-- Favicons -->
   {{ partial "base/header/favicons.html" . }}
+  <!-- Prefetch Third Party Resources -->
+  <link rel="dns-prefetch" href="https://twemoji.maxcdn.com">
+  <link rel="dns-prefetch" href="https://hovastate.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://google-analytics.com">
   <!-- Custom CSS -->
   <link rel="stylesheet" href="/assets/css/main.css">
 </head>
@@ -51,6 +55,8 @@
         });
       });
     }
+    // Image Alt
+    $(".popover-body-icon img").attr("alt", "FVCproductions - Logo");
 
   </script>
   <style>
