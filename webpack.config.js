@@ -69,12 +69,8 @@ export default {
       }
     }),
     new webpack.optimize.AggressiveMergingPlugin(),
-    new BrotliPlugin({
-      test: /\.(js|css|html|svg)$/
-    }),
-    new CompressionPlugin({
-      test: /\.(js|css|html|svg)$/
-    }),
+    new BrotliPlugin(),
+    new CompressionPlugin(),
     new WorkboxPlugin({
       cacheId: "fvcproductions",
       globDirectory: "dist",
