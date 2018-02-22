@@ -68,12 +68,10 @@ export default {
         comments: false
       }
     }),
-    new webpack.optimize.AggressiveMergingPlugin(),
     new BrotliPlugin({}),
     new CompressionPlugin({}),
     new WorkboxPlugin({
       cacheId: "fvcproductions",
-      cacheName: "fvcproductions",
       globDirectory: "dist",
       globPatterns: ["index.html", "404.html", "**/*.{css,png,gif,jpg,svg,xml,js,ico,json}"],
       globStrict: false,
@@ -81,7 +79,7 @@ export default {
       maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
       clientsClaim: true,
       skipWaiting: true,
-      navigateFallback: "/offline.html",
+      navigateFallback: "/404.html",
       runtimeCaching: [
         {
           urlPattern: /\.(?:png|gif|jpg)$/,

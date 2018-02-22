@@ -8,8 +8,7 @@
     "hugo": "gulp hugo",
     "build": "gulp build",
     "start": "gulp server",
-    "lint": "eslint src",
-    "build-html": "gulp build-html"
+    "lint": "eslint src"
   },
   "author": "Frances Coronel",
   "license": "MIT",

@@ -24,19 +24,13 @@ import webpackConfig from "./webpack.config";
 const browserSync = BrowserSync.create();
 
 // Hugo arguments
-const hugoArgsDefault = ["-d", "../dist", "-s", "site"];
-
-// Verbose Hugo arguments
-// const hugoArgsDefault = ["-d", "../dist", "-s", "site", "-v"];
+const hugoArgsDefault = ["-d", "../dist", "-s", "site", "-v"];
 
 // Development tasks
 gulp.task("hugo", (cb) => buildSite(cb));
-gulp.task("hugo-build", shell.task(["hugo"]));
 
 // Build/production tasks
-gulp.task("build", ["clean", "hugo", "sass", "js", "img", "static"], (cb) => buildSite(cb, [], "production"));
-
-gulp.task("build-html", ["clean", "hugo", "sass", "js", "img", "static"], (callback) => {
+gulp.task("build", ["clean", "hugo", "sass", "js", "img", "static"], (callback) => {
   runSequence("minify", callback);
 });
 
