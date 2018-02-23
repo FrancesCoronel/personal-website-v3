@@ -1,0 +1,28 @@
+<article class="home-tile">
+  <div class="content">
+    <!-- Title -->
+    {{ if .Params.link }}
+    <a href="{{ .Params.link }}">
+      <h2>
+        {{ .Title }} {{ if .Params.link }}↗️{{ end }}
+      </h2>
+    </a>
+    {{ else }}
+    <a href="{{ .RelPermalink }}">
+      <h2>
+        {{ .Title }}
+      </h2>
+    </a>
+    {{ end }}
+    <!-- Description -->
+    {{ if .Description }}
+    <p>
+      {{ .Description | truncate 100 | safeHTML }}
+    </p>
+    {{ else }}
+    <p>
+      {{ .Summary | truncate 100 | safeHTML }}
+    </p>
+    {{ end }}
+  </div>
+</article>

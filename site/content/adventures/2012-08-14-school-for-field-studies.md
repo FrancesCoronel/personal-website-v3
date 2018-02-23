@@ -55,7 +55,7 @@ I was able to gain 4 college credits from Boston University too for studying abr
 
 ![School For Field Studies 3](https://i.imgur.com/5Hl6t4Q.jpg)
 
-![School For Field Studies 4](https://i.imgur.com/MxNAyaa.jpg)
+![School For Field Studies 4](https://i.imgur.com/3k5oRoh.jpg)
 
 ![School For Field Studies 5](https://i.imgur.com/qgmWFVx.jpg)
 

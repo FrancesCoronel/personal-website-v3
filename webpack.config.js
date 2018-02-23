@@ -80,7 +80,6 @@ export default {
       maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
       clientsClaim: true,
       skipWaiting: true,
-      navigateFallback: "/404.html",
       runtimeCaching: [
         {
           urlPattern: /\.(?:png|gif|jpg)$/,
