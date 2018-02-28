@@ -6,6 +6,7 @@ caption: The quintessential portrait
 alphabetical: true
 noComments: true
 noTimeEstimate: true
+about: true
 ---
 
 <h2>I like to dabble with things that <del>shouldn’t</del> ought to be dabbled with.</h2>
@@ -62,16 +63,13 @@ Might have something to do with human nature in general, though, so interpret it
 
 > This a [now section](https://nownownow.com/about) and if you have your own site, you should make one, too!
 >
-> Last updated February 3, 2018
+> Last updated February 28, 2018
 
 * Participating in the [Grow with Google](https://www.udacity.com/grow-with-google) Udacity course
-  * I created a [LinkedIn group](https://www.linkedin.com/groups/13575136) for us!
-* Attending [Startup Grind](https://www.startupgrind.com) from February 13th to 14th
-* Attending [Index Conf](https://developer.ibm.com/indexconf) from February 20th to 22nd
-* Attending [Iterate Conf](https://www.iterateconf.io) on February 27th
+* My talk was accepted to the [WE RISE Tech Conference](//werise.tech/) in Atlanta - very excited! 🎉
 
-<!-- ### [WakaTime Tracker](//wakatime.com/share/@fvcproductions/0a592682-4fbc-4ae3-87ab-e4f202c7df96.svg) 💻
+### WakaTime Tracker 💻
 
-> I code too much - help!
+I code too much - help!
 
-<figure><embed src="https://wakatime.com/share/@fvcproductions/0a592682-4fbc-4ae3-87ab-e4f202c7df96.svg"></embed></figure> -->
+<figure><embed src="https://wakatime.com/share/@fvcproductions/d7db855b-b7f6-4786-aa3a-fe71d1d4ec71.svg"></embed></figure>

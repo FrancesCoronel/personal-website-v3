@@ -5,6 +5,7 @@ description: Studied Wildlife Research Techniques in Tanzania during the summer 
 banner: https://fvcproductions.files.wordpress.com/2015/11/461956_476846202328099_271376704_o.jpg
 aliases:
   - /blog/2012/07/30/blog-post-from-tanzania/
+  - /programs/2012/08/14/school-for-field-studies/
 categories:
   - program
   - education

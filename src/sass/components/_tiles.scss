@@ -19,25 +19,8 @@
       }
     }
     &.home-tile {
-      margin: 0.5em;
-      padding: 0;
-      box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
       a {
-        color: _palette(fg);
-        :hover {
-          color: #607d8b;
-        }
-      }
-      .content {
-        padding: 2em;
-      }
-      body:not(.is-touch) & {
-        &:hover {
-          .content {
-            max-height: initial;
-            opacity: 1;
-          }
-        }
+        text-shadow: none !important;
       }
     }
     &.plain-tile {

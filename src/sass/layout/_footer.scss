@@ -4,6 +4,10 @@
   margin-top: 2em;
   background-color: _palette(fg);
   color: white;
+  #wrapper .inner {
+    padding: 0;
+  }
+
   .inner {
     max-width: 100%;
     padding: 0;
@@ -50,15 +54,9 @@
       display: none;
     }
     .copyright {
-      margin-top: 1em;
       width: 100%;
       padding: 1em;
       list-style: none;
-      @include breakpoint(small) {
-        .colophon {
-          margin-top: 1em;
-        }
-      }
     }
   }
   @include breakpoint(large) {
@@ -72,7 +70,6 @@
       @include vendor("flex-direction", "column");
       section:nth-child(1) {
         width: 100%;
-        margin: 2em 0 0 0;
       }
       section:nth-child(2) {
         @include vendor("order", "-1");

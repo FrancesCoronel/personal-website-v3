@@ -30,10 +30,14 @@ Source code [can be found on GitHub](//github.com/fvcproductions/fvcproductions.
   * [Isotope](//isotope.metafizzy.co/)
   * [Google Analytics](//analytics.google.com)
   * [MailChimp](//eepurl.com/ddx07z)
+  * [Hero Patterns](//www.heropatterns.com/)
 * **Fonts**
   * [Roboto](//fonts.google.com/specimen/Roboto)
   * [Roboto Mono](//fonts.google.com/specimen/Roboto+Mono)
   * [Font Awesome 5](//fontawesome.com)
+* **Colors**
+  * <svg width="1em" height="1em"><rect width="1em" height="1em" style="fill:#253137;" /></svg> My lovely brand color of Oxford Blue with the HEX value of `#253137`
+  * [Material Colors](//material.io/guidelines/style/color.html#color-color-palette)
 
 ---
 
