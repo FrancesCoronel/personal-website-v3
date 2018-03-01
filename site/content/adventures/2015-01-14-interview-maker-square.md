@@ -36,7 +36,7 @@ categories:
     - blog
 ---
 
-![](//m1.behance.net/rendition/modules/124031971/disp/fa0c76d4bd39b9bc82c8cf32b90cd846.png)
+![MakerSquare](//m1.behance.net/rendition/modules/124031971/disp/fa0c76d4bd39b9bc82c8cf32b90cd846.png)
 
 > This is where I'll go through how my admissions process was with MakerSquare.
 >

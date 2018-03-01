@@ -6,12 +6,16 @@ banner: https://fvcproductions.files.wordpress.com/2014/08/flavoursthemes.jpg?w=
 categories:
   - portfolio
   - design
+tags:
+  - flavours
 ---
 
 ## These are all the Flavours themes I’ve created for the Mac customizing application, [Flavours](https://www.flavours.interacto.net/).
 
-> View all my themes at my author profile located at [`store.interacto.net/flavours/toprated?author=2156`](https://store.interacto.net/flavours/toprated?author=2156).
+Flavours themes are generally used to customize the desktop layout with a new skin.
 
+> View all my themes at my author profile located at [`store.interacto.net/flavours/toprated?author=2156`](https://store.interacto.net/flavours/toprated?author=2156).
+>
 > Unfortunately, Flavours will be not be continuing with Apple’s new El Capitan OSX update, but it was fun while it lasted.
 
 ### [Baby Pink](https://store.interacto.net/flavours/uuid/9D0FD386-8DD1-4934-B566-1C095BB919CC)

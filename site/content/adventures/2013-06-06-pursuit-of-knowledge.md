@@ -29,8 +29,6 @@ Thank you, Mrs.Cook.
 <blockquote class="embedly-card"><h4><a href="https://itunes.apple.com/us/book/pursuit-of-knowledge/id1073378182?ls=1&mt=11">Pursuit of Knowledge by Frances Coronel on iBooks</a></h4><p>Read a free sample or buy Pursuit of Knowledge by Frances Coronel. You can read this book with iBooks on your iPhone, iPad, iPod touch, or Mac.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/17475593/Pursuit-of-Knowledge">Pursuit of Knowledge</a></h4><p>End of Year English ProjectPursuit of KnowledgeFVCproductionsCreated 2013Dedicated to Mrs.Cook</p></blockquote>
-
 ![Pursuit of Knowledge 1](https://i.imgur.com/g5wX71r.jpg)
 
 ![Pursuit of Knowledge 2](https://i.imgur.com/3AqyE3d.jpg)
