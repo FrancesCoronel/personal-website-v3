@@ -28,7 +28,7 @@ If you'd like to set up a phone or video chat, you can use my [Calendly](//calen
 
 ### Mentoring 💛️
 
-Because of high demand, as of February 2018, I will be charging $30 per hour for mentoring since I am already working part-time as a [Thinkful mentor](//www.thinkful.com/mentors/) and also have a full-time job.
+Because of high demand, as of March 2018, I will be charging $30 per hour for mentoring since I am already working part-time as a [Thinkful mentor](//www.thinkful.com/mentors/) and also have a full-time job.
 
 So before booking a mentoring session through Calendly, please make sure to [Cash](//cash.me/$fvcprdxs) or [Venmo](//venmo.com/fvcproductions) me the appropriate amount.
 
