@@ -18,9 +18,13 @@ I’ve also tutored kids at the elementary, middle, and high school level on how
 
 As of **January 2018**, I’ve dedicated **over 30 hours** of my free time mentoring awesome people 1-on-1.
 
-You can find [the feedback I've received](/reviews/) thus far on my website!
+You can find [the feedback I've received](/feedback/) thus far on my website!
 
-### If you’re interested in being mentored, feel free to [contact me](/contact/) through my website. 📨
+---
+
+## If you’re interested in being mentored, feel free to [contact me](/contact/) through my website.
+
+---
 
 > Total # of Sessions: 47
 >

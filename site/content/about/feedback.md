@@ -10,3 +10,7 @@ aliases:
   - /services/reviews/
   - /feedback/
 ---
+
+## If you’re interested in being mentored, feel free to [contact me](/contact/) through my website.
+
+---
