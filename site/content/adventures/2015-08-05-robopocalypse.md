@@ -4,6 +4,8 @@ date: 2015-08-05
 banner: https://i.imgur.com/V26V6tz.png
 categories:
   - portfolio
+  - web
+  - oss
 ---
 
 [![About Page -

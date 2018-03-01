@@ -1,14 +1,54 @@
 ---
-title: Write/Speak/Code - SF
+title: Write/Speak/Code - Own Your Expertise
 date: 2018-02-24
-description: The most inspirational conference around the globe for entrepreneurs.
-banner: https://res.cloudinary.com/fvcproductions/image/upload/v1518997346/MVIMG_20180213_150922.jpg
+description: An all day workshop for women and non-binary coders, customized to empower you as a leader in tech.
+banner: https://i.imgur.com/fsWiZQ2.jpg
 categories:
   - program
 tags:
   - san francisco
   - write/speak/code
 ---
+
+## Name
+
+[Own Your Expertise - SF - Speak Your Truth](//www.meetup.com/WriteSpeakCode-SFBay/events/247074554/)
+
+## Organizer
+
+[Write/Speak/Code](//www.writespeakcode.com/)
+
+## Location
+
+Slack HQ - San Francisco, CA
+
+## Date
+
+February 24th, 2018 - 9 am to 6 pm
+
+## Role
+
+Participant - I attended with my co-worker [Angela](//www.linkedin.com/in/angelahaowenzhou)
+
+## About
+
+Write/Speak/Code is on a mission to increase the visibility and leadership of women and non-binary coders through thought leadership, conference speaking, open source contributions, career development, personal growth and self-care.
+
+### Workshop Content
+
+Learn to own your expertise and present yourself and your accomplishments with confidence. This workshop will help you think more expansively about your knowledge and experience, laying the foundation for you to convert your expertise into thought leadership and become a conference speaker and open source contributor.
+
+In this workshop, you'll go through a few exercises around our theme, "Speak Your Truth", generate a list of topics you can write or speak about, present yourself as an expert, and get introduced to writing, speaking, and coding for open source. The workshop will also have new exercises for those who have previously attended.
+
+---
+
+![OWE 2](https://i.imgur.com/G9gKlzv.jpg)
+![OWE 3](https://i.imgur.com/cpbpxsx.jpg)
+![OWE 4](https://i.imgur.com/u4Qn0ze.jpg)
+
+---
+
+> Below are the notes I took from the session. I loved how engaging it all was!
 
 ## Inspire/Describe/Want
 
@@ -39,10 +79,8 @@ tags:
 ## Story You Love
 
 * The IT Crowd
-
   * All the people are working in IT and are super nerdy and awkward sometimes but very funny
   * They were seen as non-relevant and not as important since the show was made in the early 2000s but now we have a very small group of people actually end up with a lot of power
-
 * The 5 Languages of Love
   * It's about understanding how different people communicate and express warmth towards each other
   * Applies to a lot of different people

@@ -4,6 +4,8 @@ date: 2015-10-24
 banner: https://i.imgur.com/EYbbFGx.jpg
 categories:
   - portfolio
+  - web
+  - oss
 ---
 
 [![Hack to Vote](https://rcodonnell.github.io/code4hr-voting/src/img/favicons/favicon-114.png)](https://rcodonnell.github.io/code4hr-voting/ "Hack to Vote")

@@ -15,7 +15,7 @@ tags:
 
 I did not get the job and have since removed the PowerForm that I created.
 
-More details on my interview process [can be found on Glassdoor](https://www.glassdoor.com/Interview/DocuSign-Interview-RVW19450031.htm).
+More details on my interview process [can be found on Glassdoor](//www.glassdoor.com/Interview/DocuSign-Interview-RVW19450031.htm).
 
 <blockquote class="embedly-card"><h4><a href="https://www.glassdoor.com/Interview/DocuSign-Developer-Evangelist-Interview-Questions-EI_IE307604.0,8_KO9,29.htm#InterviewReview_19450031">DocuSign Developer Evangelist Interview Questions</a></h4><p>Application I applied online. The process took 4+ weeks. I interviewed at DocuSign (San Francisco, CA) in February 2018. Interview Sat, Jan 27 - Applied online Tue, Jan 30 - Recruiter reaches out and an initial phone call is set up Thurs, Feb 1 - Initial call with recruiter - get positive impression of team/company Wed, Feb 7 - Call with the director of dev rel team.</p></blockquote>
 

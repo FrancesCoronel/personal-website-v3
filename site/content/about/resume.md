@@ -13,8 +13,6 @@ noComments: true
 
 ### But here's the hard copy of my resume for reference.
 
-`¯\_( ツ )_/¯`
-
 > Last updated October 2017
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/324348340/Resume-FVCproductions">Resume | FVCproductions</a></h4><p>Resume | FVCproductions - Free download as PDF File (.pdf), Text File (.txt) or read online for free. For a live version of my resume, please refer to my LinkedIn at linkedin.com/in/fvcproductions.</p></blockquote>

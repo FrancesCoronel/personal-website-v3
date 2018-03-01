@@ -2,8 +2,8 @@
 title: "Monarchs Hack the Campus"
 description: "Join us as we build apps, hardware, and community in Silicon Harbor. Yeah, we’ll be hacking for 36 hours straight, but we’ll take a chill pill or two. And whether you’re a seasoned veteran or just getting started, we’ve got your back​ every step of the way."
 categories:
-    - hackathon
-    - volunteering
+  - hackathon
+  - volunteering
 date: 2016-02-28
 banner: https://fvcproductions.files.wordpress.com/2016/02/mhtc-table.jpg
 ---
