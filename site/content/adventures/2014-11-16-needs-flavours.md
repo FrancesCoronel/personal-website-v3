@@ -20,7 +20,6 @@ tags:
 - flux
 - dropbox
 - blotter
-draft: true
 
 ---
 Dock Icons - [ccard3dev](http://ccard3dev.deviantart.com/art/Dynamic-Icons-for-Yosemite-Apple-Apps-460428519)
