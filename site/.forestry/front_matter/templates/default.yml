@@ -1,4 +1,6 @@
 ---
+pages:
+- adventures/my-new-website-design.md
 hide_body: false
 fields:
 - name: title
