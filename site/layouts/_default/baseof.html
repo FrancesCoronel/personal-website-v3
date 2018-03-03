@@ -13,11 +13,10 @@
   <link rel="dns-prefetch" href="https://twemoji.maxcdn.com">
   <link rel="dns-prefetch" href="https://hovastate.s3.amazonaws.com">
   <link rel="dns-prefetch" href="https://google-analytics.com">
+  <link rel="preload" href="/assets/js/app.js">
   <!-- Custom CSS -->
   <link rel="preload" href="/assets/css/main.css">
-  <noscript>
-    <link rel="stylesheet" href="/assets/css/main.css">
-  </noscript>
+  <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 
 <body>
@@ -36,10 +35,10 @@
   </div>
   <!-- Scripts -->
   <!-- Custom JS -->
-  <script async src="/assets/js/app.js"></script>
+  <script src="/assets/js/app.js"></script>
   <!-- One Signal -->
   <script async src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
-  <script defer>
+  <script>
     // One Signal Integration
     var OneSignal = window.OneSignal || [];
     OneSignal.push(function () {
