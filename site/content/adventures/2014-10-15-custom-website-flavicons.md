@@ -1,67 +1,25 @@
 ---
 title: Custom Website Flavicons
-date: 2018-03-02 20:34:49 +0000
-description: A brief description goes here.
-banner: Featured image hosted on Imgur.
-caption: "(Optional) Caption for banner image."
-bannerLink: "(Optional) Link the featured image points to."
-link: "(Optional) Link this post redirects user to."
+date: 2018-03-02 00:00:00 +0000
+description: I created some custom flavicons for my Wordpress website.
+banner: https://i.imgur.com/lQlzotN.png
+caption: ''
+bannerLink: ''
+link: ''
 noComments: false
 categories:
-- award
-- blog
-- conference
-- education
-- experience
-- hackathon
-- program
-- speaking
-- volunteering
 - portfolio
-- certainties
-- coding
-- creativity
-- book
 - design
-- mobile
-- oss
-- presentation
-- research
-- tutorial
-- video
-- web
-- 2018
-- 2017
-- 2016
-- 2015
-- bootcamps
-- hourofcode
-- wizard
-- typescript101
-- webdesign
 tags:
-- fvcproductions
-- frances coronel
+- wordpress
+- flavicons
 draft: true
 
 ---
+## Circular
 
-## Name
+![Circular Flavicon](https://i.imgur.com/OMfDueE.jpg)
 
-[Event](//google.com)
+## Square
 
-## Location
-
-Address - City, State
-
-## Date
-
-Sunday, October 22nd - 9:00 AM to 5:00 PM
-
-## Role
-
-Participant, Volunteer, Speaker, Scholarship Recipient, Mentor
-
-## About
-
-It was amazing!
+![Square Flavicon](https://i.imgur.com/5udxp4n.jpg)
