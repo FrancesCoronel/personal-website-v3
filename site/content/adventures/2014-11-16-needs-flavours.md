@@ -1,36 +1,40 @@
 ---
 title: Needs Flavours...
-date: 2018-03-02 20:56:56 +0000
-description: A brief description goes here.
-banner: Featured image hosted on Imgur.
-caption: "(Optional) Caption for banner image."
-bannerLink: "(Optional) Link the featured image points to."
-link: "(Optional) Link this post redirects user to."
+date: 2014-11-16 00:00:00 +0000
+description: Customizing my desktop layout.
+banner: https://i.imgur.com/V32FfNX.png
+caption: ''
+bannerLink: ''
+link: ''
 noComments: false
-categories: []
+categories:
+- portfolio
+- design
 tags:
-- fvcproductions
-- frances coronel
+- flavours
+- cdock
+- ccard3dev
+- caffeine
+- sip
+- 1password
+- flux
+- dropbox
+- blotter
 draft: true
 
 ---
+Dock Icons - [ccard3dev](http://ccard3dev.deviantart.com/art/Dynamic-Icons-for-Yosemite-Apple-Apps-460428519)
 
-## Name
+Transparent Dock - [cDock](http://sourceforge.net/projects/cdock/)
 
-[Event](//google.com)
+Desktop Calendar - [Blotter](http://wireload.net/products/blotter/)
 
-## Location
+3rd-Party Menubar Icons - [Dropbox](http://dropbox.com/), [1Password](https://agilebits.com/onepassword), [f.lux](https://justgetflux.com/), [Caffeine](http://lightheadsw.com/caffeine/), [Sip](http://theolabrothers.com/sip/)
 
-Address - City, State
+... needless to say, I cannot WAIT till [Flavours 2](https://interacto.zendesk.com/entries/53605899-Yosemite-and-the-future-Flavours-2) comes out.
 
-## Date
+![Needs Flavours - 2](https://i.imgur.com/qBeWrnP.png)
 
-Sunday, October 22nd - 9:00 AM to 5:00 PM
+![Needs Flavours - 1](https://i.imgur.com/8BSqCXL.png)
 
-## Role
-
-Participant, Volunteer, Speaker, Scholarship Recipient, Mentor
-
-## About
-
-It was amazing!
+![Needs Flavours - 3](https://i.imgur.com/hRiEr8l.png)
