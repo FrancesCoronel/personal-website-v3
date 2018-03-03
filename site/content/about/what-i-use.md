@@ -2,7 +2,6 @@
 title: What I Use 📱️
 description: The tools I use on a day to day basis.
 banner: https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge_wm_brw/public/article_images/2017/10/google-pixel-2-pixel-2-xl-hands-on-2.jpg?itok=VpfmIhOM
-noComments: true
 ---
 
 ## Software
@@ -18,7 +17,7 @@ noComments: true
 
 ## Hardware
 
-### Peripherals
+### Headphones
 
 I won a pair of [Bose headphones](//bose.com/en_us/products/headphones.html) at the TAPIA conference from a Dropbox raffle so I use those basically all the time.
 
@@ -26,6 +25,24 @@ I won a pair of [Bose headphones](//bose.com/en_us/products/headphones.html) at 
 
 ### Phone
 
-I decided to switch from an iPhone 6 to a [Google Pixel 2](//store.google.com/product/pixel_2) recently. So far, I'm very very satisfied with the transition.
+I decided to switch from an iPhone 6 to a [Google Pixel 2](//store.google.com/product/pixel_2) recently.
+
+So far, I'm **extremely** satisfied with the transition.
 
 [![Google Pixel 2](https://media.wired.com/photos/59d4290d60c1a86fbf83ea5e/master/w_2400,c_limit/Taim_2GRP_BF_oreo-TA.jpg)](https://store.google.com/product/pixel_2)
+
+### Computer
+
+I have the same laptop for both work and not (?) work.
+
+![macOS](https://i.imgur.com/4Xv2LhE.png)
+
+But tbh, once some company comes out with a cheaper high performing laptop that has a better user experience than macOS, I'm gonna switch again.
+
+And macOS only apps like [Sketch](//www.sketchapp.com/) are just gonna need to broaden their friggin' horizons or I'll switch to something else too - lol (but I don't really wanna).
+
+### Monitor
+
+Got this baby off Craigslist for $180 - [29" UltraWide IPS LED Gaming Monitor](//www.lg.com/us/monitors/lg-29UM57-P-ultrawide-led-monitor).
+
+![LED Monitor](http://www.lg.com/us/images/monitors/29um57-p/gallery/large01.jpg)

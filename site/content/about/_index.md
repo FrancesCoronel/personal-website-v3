@@ -65,11 +65,5 @@ Might have something to do with human nature in general, though, so interpret it
 >
 > Last updated February 28, 2018
 
-* Participating in the [Grow with Google](https://www.udacity.com/grow-with-google) Udacity course
+* Participating in the [Grow with Google](//www.udacity.com/grow-with-google) Udacity course
 * My talk was accepted to the [WE RISE Tech Conference](//werise.tech/) in Atlanta - very excited! 🎉
-
-### WakaTime Tracker 💻
-
-I code too much - help!
-
-<figure><embed src="https://wakatime.com/share/@fvcproductions/d7db855b-b7f6-4786-aa3a-fe71d1d4ec71.svg"></embed></figure>
