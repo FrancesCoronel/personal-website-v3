@@ -1,36 +1,30 @@
 ---
 title: New Wordpress Theme - tdEditor
-date: 2018-03-02 20:45:48 +0000
-description: A brief description goes here.
-banner: Featured image hosted on Imgur.
-caption: "(Optional) Caption for banner image."
-bannerLink: "(Optional) Link the featured image points to."
-link: "(Optional) Link this post redirects user to."
+date: 2014-11-11 00:00:00 +0000
+description: Updated my website with the tdEditor theme.
+banner: ''
+caption: ''
+bannerLink: ''
+link: ''
 noComments: false
-categories: []
+categories:
+- portfolio
+- web
+- design
 tags:
-- fvcproductions
-- frances coronel
+- tdeditor
+- wordpress
+- wordpress theming
+type: default
 draft: true
 
 ---
-
-## Name
-
-[Event](//google.com)
-
-## Location
-
-Address - City, State
-
-## Date
-
-Sunday, October 22nd - 9:00 AM to 5:00 PM
-
-## Role
-
-Participant, Volunteer, Speaker, Scholarship Recipient, Mentor
-
-## About
-
-It was amazing!
+![tdEditor Theme 8](https://i.imgur.com/sgxJ8Mx.png)
+![tdEditor Theme 2](https://i.imgur.com/p6TGbtB.png)
+![tdEditor Theme 4](https://i.imgur.com/lpkvJi3.png)
+![tdEditor Theme 6](https://i.imgur.com/DISOPVp.png)
+![tdEditor Theme 10](https://i.imgur.com/stRy9xm.png)
+![tdEditor Theme 7](https://i.imgur.com/pyS1qRn.png)
+![tdEditor Theme 3](https://i.imgur.com/OuNYeg7.png)
+![tdEditor Theme 1](https://i.imgur.com/Yun0pbJ.png)
+![tdEditor Theme 9](https://i.imgur.com/jEz5rb1.png)
