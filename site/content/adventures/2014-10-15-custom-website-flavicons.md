@@ -13,7 +13,6 @@ categories:
 tags:
 - wordpress
 - flavicons
-draft: true
 
 ---
 ## Circular
