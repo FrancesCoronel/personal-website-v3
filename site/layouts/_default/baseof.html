@@ -13,9 +13,10 @@
   <link rel="dns-prefetch" href="https://twemoji.maxcdn.com">
   <link rel="dns-prefetch" href="https://hovastate.s3.amazonaws.com">
   <link rel="dns-prefetch" href="https://google-analytics.com">
-  <link rel="preload" href="/assets/js/app.js">
+  <!-- Preload -->
+  <link rel="preload" href="/assets/css/main.css" as "style">
+  <link rel="preload" href="/assets/js/app.js" as "script">
   <!-- Custom CSS -->
-  <link rel="preload" href="/assets/css/main.css">
   <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 
@@ -46,7 +47,6 @@
         appId: "7bc782bf-6ee1-4373-8d1d-1346aba3b9ff",
       });
     });
-
     // Service Worker Registration
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
@@ -58,7 +58,9 @@
       });
     }
     // Image Alt
-    $(".popover-body-icon img").attr("alt", "FVCproductions - Logo");
+    $(window).load(function () {
+      $(".popover-body-icon img").attr("alt", "FVCproductions - Logo");
+    });
 
   </script>
   <style>
