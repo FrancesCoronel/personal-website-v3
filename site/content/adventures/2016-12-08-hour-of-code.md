@@ -1,14 +1,15 @@
 ---
-title: "Hour of Code"
-description: Volunteering for the Hour of Code program offered by Code.org for a second time in a row!
-date: 2016-12-08
+title: Hour of Code
+description: Volunteering for the Hour of Code program offered by Code.org for a second
+  time in a row!
+date: 2016-12-08 00:00:00 +0000
 banner: https://fvcproductions.files.wordpress.com/2017/01/dsc08495.jpg
 categories:
-    - volunteering
-    - speaking
-    - hourofcode
----
+- volunteering
+- speaking
+- hourofcode
 
+---
 ## Name
 
 [Hour of Code](https://hourofcode.com/)

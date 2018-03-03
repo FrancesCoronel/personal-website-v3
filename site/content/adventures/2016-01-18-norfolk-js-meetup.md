@@ -1,22 +1,22 @@
 ---
 title: Norfolk.js Meetup
-date: 2016-01-18
+date: 2016-01-18 00:00:00 +0000
 description: My first speaking event for a Meetup group!
 banner: https://fvcproductions.files.wordpress.com/2015/11/norfolkjs-jan-2016-0041.jpg
 tags:
-  - 757
-  - 757dev
-  - javascript
-  - js coding bootcamps
-  - norfolk
-  - norfolk javascript
-  - norfolkjs
-  - norfolkjs journey
+- 757
+- 757dev
+- javascript
+- js coding bootcamps
+- norfolk
+- norfolk javascript
+- norfolkjs
+- norfolkjs journey
 categories:
-  - speaking
-  - bootcamps
----
+- speaking
+- bootcamps
 
+---
 ## Name
 
 <a title="Norfolk.js" href="https://norfolkjs.org" target="_blank" rel="noopener">Norfolk.js - Norfolk JavaScript Meetup Group</a>

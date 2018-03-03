@@ -1,15 +1,18 @@
 ---
 title: DesignHackathon - The MEGGS Case
-description: The My Social Canvas DesignHackathon will bring together students who are pursuing degrees in fashion, graphic design, technology, and business in an effort to increase awareness, participation, and funding for girls in STEM programs across the country.
-date: 2016-10-01
+description: The My Social Canvas DesignHackathon will bring together students who
+  are pursuing degrees in fashion, graphic design, technology, and business in an
+  effort to increase awareness, participation, and funding for girls in STEM programs
+  across the country.
+date: 2016-10-01 00:00:00 +0000
 banner: https://i.imgur.com/ydDCcBg.jpg
 categories:
-  - hackathon
-  - portfolio
-  - design
-  - web
----
+- hackathon
+- portfolio
+- design
+- web
 
+---
 ## Name
 
 [DesignHackathon](//mysocialcanvas.com/designhackathon)

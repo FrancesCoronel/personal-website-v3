@@ -1,13 +1,13 @@
 ---
-title: "TreeHacks"
-description: "At TreeHacks, everything's chill but the weather."
-date: 2016-02-14
+title: TreeHacks
+description: At TreeHacks, everything's chill but the weather.
+date: 2016-02-14 00:00:00 +0000
 banner: https://fvcproductions.files.wordpress.com/2016/02/12771707_1076383859078958_1519560316826557331_o.jpg
 categories:
-  - hackathon
-  - portfolio
----
+- hackathon
+- portfolio
 
+---
 ## Name
 
 <a title="TreeHacks" href="https://treehacks.com/" target="_blank" rel="noopener">TreeHacks</a>

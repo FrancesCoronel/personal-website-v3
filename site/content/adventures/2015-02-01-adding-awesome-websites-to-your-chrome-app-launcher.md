@@ -1,59 +1,59 @@
 ---
-title: "Adding Awesome Websites To Your Chrome App Launcher"
-date: 2015-02-01
-description: "Add all your favorite websites to Chrome's App Launcher."
+title: Adding Awesome Websites To Your Chrome App Launcher
+date: 2015-02-01 00:00:00 +0000
+description: Add all your favorite websites to Chrome's App Launcher.
 banner: https://fvcproductions.files.wordpress.com/2015/02/c10fchrome_mac_app_launcher_0.jpg?w=1024&h=435&crop=1
 tags:
-    - 128x128
-    - alchemize
-    - awwwards
-    - bento
-    - briefbox
-    - chrome
-    - chrome app launcher
-    - chrome extensions
-    - chrome web store
-    - codepen
-    - codrops
-    - codyhouse
-    - coment.me
-    - DropBox
-    - egghead.io
-    - extension
-    - extensions
-    - famo.us university
-    - gettemplate
-    - google+
-    - googl
-    - u
-    - hackathon starter
-    - html5up
-    - icon
-    - info:onepagelove.com
-    - launcher
-    - load unpacked extension
-    - manifest.json
-    - one page love
-    - online image editor
-    - pattern library
-    - pixel icon generator
-    - png
-    - png files
-    - search query
-    - shrthnd
-    - sitedrop
-    - Sublime Text 3
-    - template
-    - the stocks
-    - toolbar
-    - typeform
-    - very nice sites
-    - web store
-    - Websites
+- 128x128
+- alchemize
+- awwwards
+- bento
+- briefbox
+- chrome
+- chrome app launcher
+- chrome extensions
+- chrome web store
+- codepen
+- codrops
+- codyhouse
+- coment.me
+- DropBox
+- egghead.io
+- extension
+- extensions
+- famo.us university
+- gettemplate
+- google+
+- googl
+- u
+- hackathon starter
+- html5up
+- icon
+- info:onepagelove.com
+- launcher
+- load unpacked extension
+- manifest.json
+- one page love
+- online image editor
+- pattern library
+- pixel icon generator
+- png
+- png files
+- search query
+- shrthnd
+- sitedrop
+- Sublime Text 3
+- template
+- the stocks
+- toolbar
+- typeform
+- very nice sites
+- web store
+- Websites
 categories:
-    - blog
----
+- blog
 
+---
 # So in your [launcher](//chrome.google.com/webstore/launcher), you have all these lovely links to useful Google Apps and any apps you can find in the Chrome Web Store.
 
 ![](//core0.staticworld.net/images/article/2013/02/applaunchersplash-100026310-orig.png)

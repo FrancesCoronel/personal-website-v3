@@ -1,26 +1,26 @@
 ---
-title: "Speech - Robotics In The Workforce"
-date: 2014-05-12
-description: "The idea of robots taking over the economy."
+title: Speech - Robotics In The Workforce
+date: 2014-05-12 00:00:00 +0000
+description: The idea of robots taking over the economy.
 banner: https://fvcproductions.files.wordpress.com/2014/06/baxter-robot-e1429416178284.jpg?w=1024&h=436&crop=1
 tags:
-    - automated
-    - automated jobs
-    - automation
-    - economy
-    - jobs going to robots
-    - northwestern university
-    - oral comm
-    - oxford university
-    - robotics
-    - robots
-    - speech
-    - technological dependence
-    - workforce
+- automated
+- automated jobs
+- automation
+- economy
+- jobs going to robots
+- northwestern university
+- oral comm
+- oxford university
+- robotics
+- robots
+- speech
+- technological dependence
+- workforce
 categories:
-    - blog
----
+- blog
 
+---
 > #### This was a speech I made for my Oral Communications class regarding the idea of technology (robots) taking over the economy.
 
 Today I'll be discussing past and current examples of technological dependence in the economy. To get a better sense of this age old fear of technology replacing humans, we also have to go back in time. So in essence I will be looking at past and current examples of robotics shifting the workforce and how they will influence future circumstances.

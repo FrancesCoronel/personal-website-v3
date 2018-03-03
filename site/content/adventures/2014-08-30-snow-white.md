@@ -1,25 +1,25 @@
 ---
 title: Snow White
-date: 2014-08-30
+date: 2014-08-30 00:00:00 +0000
 description: Customizing my desktop layout.
 banner: https://i.imgur.com/GKKYghG.png
 categories:
-  - portfolio
-  - design
+- portfolio
+- design
 tags:
-  - 1password
-  - bartender
-  - blotter
-  - caffeine
-  - ccard3dev
-  - cdock
-  - flavours
-  - geektool
-  - istat menu
-  - snow white
-  - yosemite
----
+- 1password
+- bartender
+- blotter
+- caffeine
+- ccard3dev
+- cdock
+- flavours
+- geektool
+- istat menu
+- snow white
+- yosemite
 
+---
 * Desktop Calendar - Blotter
 * Dock - ccard3dev
 * Menubar - Caffeine, 1Password, Bartender, iStat Menus

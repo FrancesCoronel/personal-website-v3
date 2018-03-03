@@ -1,24 +1,24 @@
 ---
-title: "Brief Thoughts on SwitchUp's Best Bootcamps List"
-date: 2015-02-15
-description: "Bootcamps are a risky business, make sure you make the right decision."
+title: Brief Thoughts on SwitchUp's Best Bootcamps List
+date: 2015-02-15 00:00:00 +0000
+description: Bootcamps are a risky business, make sure you make the right decision.
 banner: https://fvcproductions.files.wordpress.com/2015/02/switchup.jpg?w=1024&h=435&crop=1
 tags:
-    - best bootcamps
-    - bootcamp
-    - bootcamps
-    - brief thoughts
-    - Coding
-    - coding bootcamps
-    - inklings
-    - programming bootcamps
-    - switch up
-    - switchup
-    - tech cocktail
+- best bootcamps
+- bootcamp
+- bootcamps
+- brief thoughts
+- Coding
+- coding bootcamps
+- inklings
+- programming bootcamps
+- switch up
+- switchup
+- tech cocktail
 categories:
-    - blog
----
+- blog
 
+---
 > Full report can be found [here](//www.switchup.org/research/best-coding-bootcamps).
 >
 > > Tech Cocktail also went over it and [ranked it by \# of highest/most reviews](//tech.co/top-33-coding-bootcamps-2015-02). The Tech Cocktail list has 33 schools listed even though Switchup has 32 listed. I went with 32. [Fullstack Academy](//www.fullstackacademy.com/) got 3rd place! 😊

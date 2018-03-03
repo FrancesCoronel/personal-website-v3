@@ -1,31 +1,31 @@
 ---
-title: "Interview with Coding House"
-date: 2015-01-06
-description: "My interview with Coding House."
+title: Interview with Coding House
+date: 2015-01-06 00:00:00 +0000
+description: My interview with Coding House.
 banner: https://fvcproductions.files.wordpress.com/2015/01/photo-2.jpg
 tags:
-    - application
-    - bootcamp
-    - bootcamp agreement
-    - bootcamps
-    - coding
-    - coding bootcamps
-    - coding house
-    - congratulations
-    - decision
-    - email
-    - fvcproductions
-    - house
-    - interview
-    - nick james
-    - Programming
-    - samer buna
-    - tips
-    - tricks
+- application
+- bootcamp
+- bootcamp agreement
+- bootcamps
+- coding
+- coding bootcamps
+- coding house
+- congratulations
+- decision
+- email
+- fvcproductions
+- house
+- interview
+- nick james
+- Programming
+- samer buna
+- tips
+- tricks
 categories:
-    - blog
----
+- blog
 
+---
 [![](//course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/74/s300/coding-house-logo.png)](//www.codinghouse.com)
 
 # Interview with [Coding House](//www.codinghouse.com "Coding House")

@@ -1,17 +1,18 @@
 ---
-title: Interview with Kapor Capital - Summer Associate 2017 💸
-date: 2018-02-14
-description: How an MS in CS student with no prior VC experience got an interview with one of the most well-recognized VC firms in Silicon Valley.
+title: "Interview with Kapor Capital - Summer Associate 2017 \U0001F4B8"
+date: 2018-02-14 00:00:00 +0000
+description: How an MS in CS student with no prior VC experience got an interview
+  with one of the most well-recognized VC firms in Silicon Valley.
 banner: https://i.imgur.com/MXLhBqa.png
 categories:
-  - blog
-  - certainties
+- blog
+- certainties
 tags:
-  - kapor capital
-  - venture capital
-  - interview
----
+- kapor capital
+- venture capital
+- interview
 
+---
 ## Or how an MS in CS student with no prior VC experience got an interview with one of the most well-recognized VC firms in Silicon Valley.
 
 > I'll admit right away that this title is somewhat misleading because ultimately I didn't get the position BUT hot damn, at least I tried. 💪🏽

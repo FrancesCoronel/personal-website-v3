@@ -1,10 +1,10 @@
 ---
-title: Travels 🌎️
+title: "Travels \U0001F30E️"
 description: Oh, the places you'll go. - Dr. Seuss
 banner: https://images.pexels.com/photos/59519/pexels-photo-59519.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb
 noComments: true
----
 
+---
 <blockquote class="embedly-card"><h4><a href="https://www.google.com/maps/d/u/0/embed?mid=11xSbsfkr_6UXjic4znLDZSObW_M">Travels</a></h4><p>Where I've been. https://fvcproductions.com/about/travels © FVCproductions</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 

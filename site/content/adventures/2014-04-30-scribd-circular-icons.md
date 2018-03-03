@@ -1,15 +1,15 @@
 ---
 title: Scribd Circular Icons
-date: 2014-04-30
+date: 2014-04-30 00:00:00 +0000
 description: Created for my Strikingly website.
 categories:
-  - portfolio
-  - design
+- portfolio
+- design
 tags:
-  - icons
-  - scribd
----
+- icons
+- scribd
 
+---
 <p class="centered extra-small-image">
   <img src="https://i.imgur.com/eSFOD07.png">
 </p>

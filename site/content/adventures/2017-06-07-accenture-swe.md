@@ -1,12 +1,12 @@
 ---
 title: Accenture Liquid Studio
-date: 2017-06-07
+date: 2017-06-07 00:00:00 +0000
 description: Software Engineer
 banner: https://i.imgur.com/2VW391R.jpg
 categories:
-    - experience
----
+- experience
 
+---
 ## Employer
 
 ![Accenture Liquid Studio - Silicon Valley](https://i.imgur.com/xgLGmTV.jpg)

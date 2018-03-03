@@ -1,12 +1,12 @@
 ---
 title: Accenture SLC
 description: Student Leadership Conference.
-date: 2016-06-29
+date: 2016-06-29 00:00:00 +0000
 banner: https://fvcproductions.files.wordpress.com/2016/07/accentureslc-23.jpg
 categories:
-  - conference
----
+- conference
 
+---
 ## Name
 
 <a title="Accenture Student Leadership Conference" href="//www.accenture.com/us-en/careers/student-leadership-conference" target="_blank" rel="noopener">Student Leadership Conference</a>

@@ -1,22 +1,23 @@
 ---
 title: Demystifying Meltdown & Spectre
-description: Attempting to break down the two biggest security flaws the world has ever seen.
-date: 2018-02-16
+description: Attempting to break down the two biggest security flaws the world has
+  ever seen.
+date: 2018-02-16 00:00:00 +0000
 banner: https://i.imgur.com/aWN2RkM.jpg
 categories:
-  - portfolio
-  - research
-  - presentation
+- portfolio
+- research
+- presentation
 tags:
-  - docusign
-  - developer evangelist
-  - slideshare
-  - meltdown
-  - spectre
-  - cpu
-  - security
----
+- docusign
+- developer evangelist
+- slideshare
+- meltdown
+- spectre
+- cpu
+- security
 
+---
 ## Problem
 
 > I created this presentation as part of a DocuSign developer evangelist interview.

@@ -1,12 +1,13 @@
 ---
-title: "Old Dominion University - Summer 2014"
-description: "Took one course during the summer of 2014 term at Old Dominion University tthrough their dual enrollment program."
-date: 2014-08-15
+title: Old Dominion University - Summer 2014
+description: Took one course during the summer of 2014 term at Old Dominion University
+  tthrough their dual enrollment program.
+date: 2014-08-15 00:00:00 +0000
 banner: https://fvcproductions.files.wordpress.com/2017/01/odu.jpeg
 categories:
-    - education
----
+- education
 
+---
 ## Institution
 
 <a title="Old Dominion University" href="https://odu.edu" target="_blank" rel="noopener">Old Dominion University</a>

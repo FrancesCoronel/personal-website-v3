@@ -1,13 +1,13 @@
 ---
 title: Pursuit of Knowledge
-date: 2013-06-06
+date: 2013-06-06 00:00:00 +0000
 description: I created this iBook for my AP English Literature class.
 banner: https://i.imgur.com/hOrELPf.png
 categories:
-  - portfolio
-  - book
----
+- portfolio
+- book
 
+---
 ## About
 
 Essentially, the [Pursuit of Knowledge](//itunes.apple.com/us/book/pursuit-of-knowledge/id1073378182?ls=1&mt=11) explores various mediums where the plot and theme relation are similar in that they each explore how humans are consistently aiming to create a creature more powerful than themselves and the consequences that can be faced from that decision.

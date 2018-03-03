@@ -1,25 +1,24 @@
 ---
-title: "AlterConf NYC 🗽"
-description: "AlterConf is a traveling conference
-series that provides safe opportunities for marginalized people and
-those who support them in the tech and gaming industries."
-date: 2016-12-10
+title: "AlterConf NYC \U0001F5FD"
+description: AlterConf is a traveling conference series that provides safe opportunities
+  for marginalized people and those who support them in the tech and gaming industries.
+date: 2016-12-10 00:00:00 +0000
 banner: https://fvcproductions.files.wordpress.com/2017/01/banner.png
 categories:
-  - blog
-  - conference
+- blog
+- conference
 tags:
-  - alterconf
-  - alterconf new york city
-  - alterconf nyc
-  - alterconf nyc 2016
-  - diversity in tech
-  - featured
-  - new york city
-  - tech conference
-  - tech diversity
----
+- alterconf
+- alterconf new york city
+- alterconf nyc
+- alterconf nyc 2016
+- diversity in tech
+- featured
+- new york city
+- tech conference
+- tech diversity
 
+---
 ## Name
 
 [AlterConf NYC](//alterconf.com)

@@ -1,24 +1,25 @@
 ---
-title: Fullstack Academy - Week 2 👬
-date: 2015-06-20
-description: June 15th to 19th. There are 57 days in Fullstack. These are the second 5.
+title: "Fullstack Academy - Week 2 \U0001F46C"
+date: 2015-06-20 00:00:00 +0000
+description: June 15th to 19th. There are 57 days in Fullstack. These are the second
+  5.
 banner: https://fvcproductions.files.wordpress.com/2015/06/banners-001.jpg
 categories:
-  - blog
+- blog
 tags:
-  - academy
-  - code school
-  - coding bootcamp experience
-  - coding bootcamp fullstack
-  - coding bootcamps
-  - fullstack
-  - fullstack academy
-  - fullstack foundations
-  - fullstack week
-  - UNO
-  - week 2
----
+- academy
+- code school
+- coding bootcamp experience
+- coding bootcamp fullstack
+- coding bootcamps
+- fullstack
+- fullstack academy
+- fullstack foundations
+- fullstack week
+- UNO
+- week 2
 
+---
 > June 15th to 19th.
 >
 > There are ~~58~~ 57 days in Fullstack. These are the second 5.

@@ -1,12 +1,12 @@
 ---
-title: "Dear Holberton 📮"
-date: 2015-12-02
-description: "Why I want to attend Holberton."
+title: "Dear Holberton \U0001F4EE"
+date: 2015-12-02 00:00:00 +0000
+description: Why I want to attend Holberton.
 banner: https://www.yellopixel.com/wp-content/uploads/2017/02/holberton-school.jpg
 categories:
-    - blog
----
+- blog
 
+---
 ## Dear Holberton,
 
 > This challenge is my personal essay, where I tell you why I want to become a software engineer and why I want to attend Holberton School.

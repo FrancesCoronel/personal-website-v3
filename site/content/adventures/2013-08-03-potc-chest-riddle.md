@@ -1,29 +1,30 @@
 ---
-title: POTC - Chest Riddle 👑
-date: 2013-08-03
-description: Here's a little riddle that is based on a very recognized riddle, except it uses POTC references.
+title: "POTC - Chest Riddle \U0001F451"
+date: 2013-08-03 00:00:00 +0000
+description: Here's a little riddle that is based on a very recognized riddle, except
+  it uses POTC references.
 banner: https://fvcproductions.files.wordpress.com/2013/08/dmc.jpg?w=1024&h=435&crop=1
 tags:
-    - aviation
-    - Benito de Soto
-    - Black Pearl
-    - Captain Jack Sparrow
-    - Doubloon
-    - gaming
-    - Gold
-    - gold doubloons
-    - Jack Sparrow
-    - Johnny Depp
-    - poem
-    - riddle
-    - star trek monopoly
-    - Tortuga
-    - transportation
-    - video games
+- aviation
+- Benito de Soto
+- Black Pearl
+- Captain Jack Sparrow
+- Doubloon
+- gaming
+- Gold
+- gold doubloons
+- Jack Sparrow
+- Johnny Depp
+- poem
+- riddle
+- star trek monopoly
+- Tortuga
+- transportation
+- video games
 categories:
-    - blog
----
+- blog
 
+---
 ## Here's a little riddle that is based on a very recognized riddle, except it uses POTC references.
 
 So basically it's like [Star Trek Monopoly](//www.amazon.com/USAopoly-MN066-201-Monopoly-Star-Continuum/dp/B001SN8G8G "Star Trek Monopoly"), a spoof of the original.

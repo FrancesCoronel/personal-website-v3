@@ -1,11 +1,11 @@
 ---
-title: Bootcamp.me - Google Map 📍
-date: 2014-12-28
+title: "Bootcamp.me - Google Map \U0001F4CD"
+date: 2014-12-28 00:00:00 +0000
 banner: https://i.imgur.com/HEcSJIK.png
 categories:
-  - portfolio
----
+- portfolio
 
+---
 TODO: [gallery type="rectangular" ids="2737,2768,2771,2770"\]
 
 The world is teeming with coding bootcamps, but I just couldn’t find a more geographically/visually oriented website that showed all the physical coding bootcamps that are available out there.

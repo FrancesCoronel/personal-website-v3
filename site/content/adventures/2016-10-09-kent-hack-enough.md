@@ -1,19 +1,20 @@
 ---
 title: Kent Hack Enough
-description: Volunteered and teamed up with my boyfriend to work on a Leap Motion hack that won an award
-date: 2016-10-09
+description: Volunteered and teamed up with my boyfriend to work on a Leap Motion
+  hack that won an award
+date: 2016-10-09 00:00:00 +0000
 banner: https://i.imgur.com/fmSUI58.png
 categories:
-  - portfolio
-  - award
-  - hackathon
-  - web
+- portfolio
+- award
+- hackathon
+- web
 tags:
- - jake
- - leap motion
- - kent hack enough
----
+- jake
+- leap motion
+- kent hack enough
 
+---
 ## Name
 
 [Kent Hack Enough 2016](//2016.khe.io)

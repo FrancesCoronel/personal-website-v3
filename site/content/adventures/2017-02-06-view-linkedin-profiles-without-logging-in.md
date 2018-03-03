@@ -1,19 +1,20 @@
 ---
-title: View LinkedIn Profiles Without Logging In 👀
-date: 2017-02-06
-description: You want to view someone on LinkedIn but you don't have a profile and have no desire to create an account.
+title: "View LinkedIn Profiles Without Logging In \U0001F440"
+date: 2017-02-06 00:00:00 +0000
+description: You want to view someone on LinkedIn but you don't have a profile and
+  have no desire to create an account.
 banner: https://i.imgur.com/10PHLUS.png
 aliases:
-  - /portfolio/2017/02/06/view-linkedin-profiles-without-logging-in/
+- "/portfolio/2017/02/06/view-linkedin-profiles-without-logging-in/"
 categories:
-  - portfolio
-  - tutorial
+- portfolio
+- tutorial
 tags:
-  - linkedin
-  - profiles
-  - chrome extensions
----
+- linkedin
+- profiles
+- chrome extensions
 
+---
 ## The Problem
 
 You want to view someone on [LinkedIn](https://linkedin.com/in/fvcproductions) but you don't have a profile and have no desire to create an account.

@@ -1,23 +1,24 @@
 ---
-title: Convert a Spotify Playlist to MP3 Files 🎵
-description: Want to convert all your favorite tunes from your Spotify playlist to mp3 files that can be imported to iTunes? Look no further.
-date: 2017-01-23
+title: "Convert a Spotify Playlist to MP3 Files \U0001F3B5"
+description: Want to convert all your favorite tunes from your Spotify playlist to
+  mp3 files that can be imported to iTunes? Look no further.
+date: 2017-01-23 00:00:00 +0000
 banner: https://www.scdn.co/i/_global/open-graph-default.png
 categories:
-  - blog
-  - tutorial
-  - portfolio
+- blog
+- tutorial
+- portfolio
 tags:
-  - spotify
-  - playlists
-  - mp3
-  - playlistbuddy
-  - youtube-dl
-  - download mp3
-  - spotify download
-  - spotify download mp3
----
+- spotify
+- playlists
+- mp3
+- playlistbuddy
+- youtube-dl
+- download mp3
+- spotify download
+- spotify download mp3
 
+---
 > Disclaimers: I am subscribed to Spotify Premium.
 
 Want to convert all your favorite tunes from your Spotify playlist to mp3 files that can be imported to iTunes? Look no further than this short and sweet tutorial.

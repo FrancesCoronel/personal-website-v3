@@ -1,14 +1,15 @@
 ---
 title: Jacobs University Bremen - Fall 2013
-description: Jacobs University is a private international research university with a residential campus in Bremen, Germany.
-date: 2013-12-27
+description: Jacobs University is a private international research university with
+  a residential campus in Bremen, Germany.
+date: 2013-12-27 00:00:00 +0000
 banner: https://i1.wp.com/fvcproductions.files.wordpress.com/2017/01/jacobs-university-5.jpg?w=247&h=330&crop&ssl=1&zoom=2
 categories:
-  - education
-  - portfolio
-  - award
----
+- education
+- portfolio
+- award
 
+---
 ## Institution
 
 [Jacobs University Bremen](//www.jacobs-university.de)

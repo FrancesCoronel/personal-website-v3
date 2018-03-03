@@ -1,13 +1,13 @@
 ---
 title: Techweek NYC
 description: A conference for developers
-date: 2016-10-13
+date: 2016-10-13 00:00:00 +0000
 banner: https://fvcproductions.files.wordpress.com/2016/10/img_0886.jpg
 categories:
-    - conference
-    - volunteering
----
+- conference
+- volunteering
 
+---
 ## Name
 
 [Techweek NYC](//techweek.com)

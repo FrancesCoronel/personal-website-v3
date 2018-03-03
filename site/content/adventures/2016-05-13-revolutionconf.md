@@ -1,30 +1,31 @@
 ---
 title: RevolutionConf
-date: 2016-05-13
-description: RevolutionConf is a one-day, platform and language agnostic, software development conference being held on May 13, 2016 in Virginia Beach, VA.
+date: 2016-05-13 00:00:00 +0000
+description: RevolutionConf is a one-day, platform and language agnostic, software
+  development conference being held on May 13, 2016 in Virginia Beach, VA.
 banner: https://fvcproductions.files.wordpress.com/2016/05/revolutionconf-2016.png
 categories:
-    - blog
-    - conference
-    - volunteering
+- blog
+- conference
+- volunteering
 tags:
-    - 757 developers
-    - 757dev
-    - conference
-    - featured
-    - free code camp
-    - meetups
-    - norfolk
-    - pixelfest
-    - revconf
-    - revolution
-    - revolution conference
-    - revolutionconf
-    - revolutionconf virginia
-    - virginia
-    - virginia beach
----
+- 757 developers
+- 757dev
+- conference
+- featured
+- free code camp
+- meetups
+- norfolk
+- pixelfest
+- revconf
+- revolution
+- revolution conference
+- revolutionconf
+- revolutionconf virginia
+- virginia
+- virginia beach
 
+---
 ## Name
 
 <a title="RevolutionConf" href="//revolutionconf.com" target="_blank" rel="noopener">RevolutionConf</a>

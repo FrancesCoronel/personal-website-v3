@@ -1,42 +1,43 @@
 ---
-title: "Interview with Hack Reactor"
-date: 2014-12-29
-description: "Where I rant and share questions my experience from my interview with Hack Reactor (sort of)."
+title: Interview with Hack Reactor
+date: 2014-12-29 00:00:00 +0000
+description: Where I rant and share questions my experience from my interview with
+  Hack Reactor (sort of).
 banner: https://fvcproductions.files.wordpress.com/2015/01/screenshot-2015-01-05-20-16-31.png?w=1024&h=435&crop=1
 categories:
-    - blog
+- blog
 tags:
-    - bow
-    - bummer
-    - callbacks
-    - christopher t
-    - closures
-    - cohort
-    - cs background
-    - curiosity
-    - endevr
-    - fvcproductions
-    - hack reactor
-    - hacker in residence
-    - initial interview
-    - interview
-    - katherine gilhooley
-    - key
-    - logistics
-    - mvp
-    - numbers
-    - personal cohort experience
-    - pertaining to hack reactor
-    - Programming
-    - questions
-    - rejection
-    - silicon valley
-    - student experience
-    - surfing
-    - switch
-    - waves of tech
----
+- bow
+- bummer
+- callbacks
+- christopher t
+- closures
+- cohort
+- cs background
+- curiosity
+- endevr
+- fvcproductions
+- hack reactor
+- hacker in residence
+- initial interview
+- interview
+- katherine gilhooley
+- key
+- logistics
+- mvp
+- numbers
+- personal cohort experience
+- pertaining to hack reactor
+- Programming
+- questions
+- rejection
+- silicon valley
+- student experience
+- surfing
+- switch
+- waves of tech
 
+---
 > Where I rant and share questions my experience from my interview with [Hack Reactor](//hackreactor.com "Hack Reactor") (sort of).
 
 I keep looking for the key out of my novice programming level, but nothing seems to be clicking in the right place. It's an icky situation.

@@ -1,14 +1,14 @@
 ---
 title: Fullstack Academy Ambassador
-date: 2016-12-01
+date: 2016-12-01 00:00:00 +0000
 description: Material I developed as an ambassador for Fullstack Academy.
 banner: https://speakerd.s3.amazonaws.com/presentations/3fac0dca90614af996fe56a69bc5e578/slide_0.jpg
 categories:
-  - portfolio
-  - oss
-  - research
----
+- portfolio
+- oss
+- research
 
+---
 ## The State of Coding Bootcamps 2017
 
 > Presented February 19th, 2017

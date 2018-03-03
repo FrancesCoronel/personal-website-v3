@@ -2,11 +2,11 @@
 title: React.js Conf
 description: Sponsored by Facebook.
 banner: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0413.jpg
-date: 2016-02-23
+date: 2016-02-23 00:00:00 +0000
 categories:
-    - conference
----
+- conference
 
+---
 ## Name
 
 <a title="React.js Conf" href="//conf.reactjs.com/" target="_blank" rel="noopener">React.js Conf</a>

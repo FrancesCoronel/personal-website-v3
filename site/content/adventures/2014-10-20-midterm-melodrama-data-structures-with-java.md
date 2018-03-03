@@ -1,26 +1,26 @@
 ---
-title: "Midterm Melodrama - Data Structures with Java"
-date: 2014-10-17
-description: "A study guide for the Data Structures midterm."
+title: Midterm Melodrama - Data Structures with Java
+date: 2014-10-17 00:00:00 +0000
+description: A study guide for the Data Structures midterm.
 banner: https://fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
 tags:
-    - array implementation
-    - computer science
-    - data structures
-    - data structures
-    - java
-    - digital hieroglyphics
-    - java
-    - java arrays
-    - java queues
-    - melodrama
-    - midterm
-    - queue implementation
-    - study guide
+- array implementation
+- computer science
+- data structures
+- data structures
+- java
+- digital hieroglyphics
+- java
+- java arrays
+- java queues
+- melodrama
+- midterm
+- queue implementation
+- study guide
 categories:
-    - blog
----
+- blog
 
+---
 # CSC251 Study Guide
 
 ### Midterm Melodrama
