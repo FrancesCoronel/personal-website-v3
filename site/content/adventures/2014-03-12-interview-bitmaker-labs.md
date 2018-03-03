@@ -1,30 +1,30 @@
 ---
-title: Interview with Bitmaker Labs
-date: 2014-03-12 00:00:00 +0000
-description: My favorite 20 laws of power.
+title: "Interview with Bitmaker Labs"
+date: 2014-03-12
+description: "My favorite 20 laws of power."
 banner: https://fvcproductions.files.wordpress.com/2014/03/bitmaker-banner.png?w=1024&h=435&crop=1
 categories:
-- blog
-- certainties
+    - blog
+    - certainties
 tags:
-- bit
-- BitMaker
-- Bitmaker Labs
-- boot camp
-- bootcamp
-- canada
-- Coding
-- curriculum
-- development
-- Labs
-- maker
-- Programming
-- Toronto
-- UI design
-- web design
-- web dev
-
+    - bit
+    - BitMaker
+    - Bitmaker Labs
+    - boot camp
+    - bootcamp
+    - canada
+    - Coding
+    - curriculum
+    - development
+    - Labs
+    - maker
+    - Programming
+    - Toronto
+    - UI design
+    - web design
+    - web dev
 ---
+
 So this past winter, I applied to [**Bitmaker Labs**](//bitmakerlabs.com "BitmakerLabs") for their summer 2014 full-time web development immersive course and was luckily accepted.
 
 Bitmaker Labs is a coding boot camp located in Toronto, Canada that focuses on making curious people great web developers within 9 weeks.

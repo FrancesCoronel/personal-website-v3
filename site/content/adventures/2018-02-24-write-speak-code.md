@@ -1,16 +1,15 @@
 ---
 title: Write/Speak/Code - Own Your Expertise
-date: 2018-02-24 00:00:00 +0000
-description: An all day workshop for women and non-binary coders, customized to empower
-  you as a leader in tech.
+date: 2018-02-24
+description: An all day workshop for women and non-binary coders, customized to empower you as a leader in tech.
 banner: https://i.imgur.com/fsWiZQ2.jpg
 categories:
-- program
+  - program
 tags:
-- san francisco
-- write/speak/code
-
+  - san francisco
+  - write/speak/code
 ---
+
 ## Name
 
 [Own Your Expertise - SF - Speak Your Truth](//www.meetup.com/WriteSpeakCode-SFBay/events/247074554/)

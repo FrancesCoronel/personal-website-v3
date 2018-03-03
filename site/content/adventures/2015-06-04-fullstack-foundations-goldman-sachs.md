@@ -1,25 +1,24 @@
 ---
-title: "Fullstack Foundations & Goldman Sachs \U0001F680"
-date: 2015-06-04 00:00:00 +0000
-description: An overview of what's been going on in Fullstack Foundations Week 2-4
-  and the big presentation with Goldman Sachs.
+title: "Fullstack Foundations & Goldman Sachs 🚀"
+date: 2015-06-04
+description: An overview of what's been going on in Fullstack Foundations Week 2-4 and the big presentation with Goldman Sachs.
 banner: https://fvcproductions.files.wordpress.com/2015/06/jetpack-octocat-airlock-b1d6ad7f41f88e5207896fe1f63ca30b.jpg
 tags:
-- ameot
-- bee
-- big presentation
-- foundations
-- fullstack academy
-- fullstack foundations
-- goldman sachs
-- gre
-- journey so far
-- numbers
-- rant
+    - ameot
+    - bee
+    - big presentation
+    - foundations
+    - fullstack academy
+    - fullstack foundations
+    - goldman sachs
+    - gre
+    - journey so far
+    - numbers
+    - rant
 categories:
-- blog
-
+    - blog
 ---
+
 > Fullstack Foundations is the prework course for [Fullstack Academy](//fullstackacademy.com "Fullstack Academy").
 
 I have been _quite_ the busy bee.

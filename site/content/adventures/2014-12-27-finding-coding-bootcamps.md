@@ -1,50 +1,50 @@
 ---
-title: Finding Coding Bootcamps
-date: 2014-12-23 00:00:00 +0000
-description: All the resources for finding a coding bootcamp.
+title: "Finding Coding Bootcamps"
+date: 2014-12-23
+description: "All the resources for finding a coding bootcamp."
 banner: https://fvcproductions.files.wordpress.com/2014/12/computercoding-xx3888-2187-0-203.jpg
 tags:
-- app academy
-- bootcamp
-- bootcamper.io
-- bootcamps
-- bootcamps.in
-- code fellows
-- Coding
-- coding bootcamps
-- compare
-- contrast
-- course report
-- Data set
-- definitive list
-- fast growing industry
-- firehose project
-- flatiron
-- fullstack
-- general assembly
-- growth
-- hack app
-- hackreactor
-- lauch academy
-- makersquare
-- market size
-- program length
-- programming bootcamps
-- rating
-- real data
-- results
-- reviewing
-- short operation
-- switch
-- switch up
-- techendo
-- thinkful
-- tips and tricks
-- tuition price
+    - app academy
+    - bootcamp
+    - bootcamper.io
+    - bootcamps
+    - bootcamps.in
+    - code fellows
+    - Coding
+    - coding bootcamps
+    - compare
+    - contrast
+    - course report
+    - Data set
+    - definitive list
+    - fast growing industry
+    - firehose project
+    - flatiron
+    - fullstack
+    - general assembly
+    - growth
+    - hack app
+    - hackreactor
+    - lauch academy
+    - makersquare
+    - market size
+    - program length
+    - programming bootcamps
+    - rating
+    - real data
+    - results
+    - reviewing
+    - short operation
+    - switch
+    - switch up
+    - techendo
+    - thinkful
+    - tips and tricks
+    - tuition price
 categories:
-- blog
-
+    - blog
 ---
+
 ### Want a [more comprehensive look at the best sites](//fvcproductions.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/ "Magnifying the Bootcamp Research Experience")?
 
 ### Rating, Researching, Reviewing

@@ -1,12 +1,11 @@
 ---
 title: GitHub Repo | mashup
-date: 2016-09-27 00:00:00 +0000
+date: 2016-09-27
 description: Showcasing my GitHub projects with the GitHub API.
 banner: https://i.imgur.com/ehf21vT.png
 link: https://fvcproductions.github.io/mashup
 categories:
-- portfolio
-- oss
-- web
-
+  - portfolio
+  - oss
+  - web
 ---

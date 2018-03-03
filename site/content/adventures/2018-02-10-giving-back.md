@@ -1,18 +1,18 @@
 ---
-title: "Giving Back \U0001F49B"
-date: 2018-02-10 00:00:00 +0000
+title: Giving Back 💛
+date: 2018-02-10
 description: Becoming the first sponsor for an open-source project.
 banner: https://i.imgur.com/xJjmBy6.png
 categories:
-- blog
-- certainties
-- portfolio
-- oss
+  - blog
+  - certainties
+  - portfolio
+  - oss
 tags:
-- open collective
-- docsify
-
+  - open collective
+  - docsify
 ---
+
 ## I love open-source. 🌐
 
 And given that open source is so ubiquitous now within the tech industry and basically lays the foundation for all the applications we know and love, you probably should too! 😊

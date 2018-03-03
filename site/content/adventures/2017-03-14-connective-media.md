@@ -1,13 +1,12 @@
 ---
 title: Connective Media
-date: 2017-03-14 00:00:00 +0000
-description: Material I developed while taking the 'Connective Media class at Cornell
-  Tech.
+date: 2017-03-14
+description: Material I developed while taking the 'Connective Media class at Cornell Tech.
 banner: https://github.com/fvcproductions/cmtech-assignment-1/raw/master/assets/img/screenshot.png
 categories:
-- portfolio
-
+  - portfolio
 ---
+
 ## Assignment 1 - Building Successful Online Communities
 
 speaker deck

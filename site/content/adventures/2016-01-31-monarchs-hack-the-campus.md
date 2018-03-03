@@ -1,16 +1,15 @@
 ---
-title: "Monarchs Hack the Campus \U0001F981"
-date: 2016-01-31 00:00:00 +0000
-description: I designed the website for the ODU Hackathon and also helped with the
-  branding/registration.
+title: Monarchs Hack the Campus 🦁
+date: 2016-01-31
+description: I designed the website for the ODU Hackathon and also helped with the branding/registration.
 banner: https://i.imgur.com/28uEW41.png
 categories:
-- portfolio
-- hackathon
-- design
-- web
-
+  - portfolio
+  - hackathon
+  - design
+  - web
 ---
+
 For an upcoming hackathon at [ODU](//odu.edu) dubbed [`Monarchs Hack the Campus`](//www.cs.odu.edu/~acm/hackathon/), I'm acting as a volunteer and am already helping out with some pretty big tasks.
 
 ## Tasks

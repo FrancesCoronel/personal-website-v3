@@ -1,23 +1,23 @@
 ---
-title: "POTC - Parchment Riddle \U0001F4DC"
-date: 2013-08-03 00:00:00 +0000
+title: POTC - Parchment Riddle 📜
+date: 2013-08-03
 description: A riddle inspired by Pirates of the Caribbean.
 banner: https://fvcproductions.files.wordpress.com/2013/08/father_and_son.jpg?w=800&h=340&crop=1
 tags:
-- BARBOSSA
-- Black Beard
-- Blackbeard
-- Captain Jack Sparrow
-- Hector Barbossa
-- Jack Sparrow
-- Johnny Depp
-- Parchment
-- poem
-- riddle
+    - BARBOSSA
+    - Black Beard
+    - Blackbeard
+    - Captain Jack Sparrow
+    - Hector Barbossa
+    - Jack Sparrow
+    - Johnny Depp
+    - Parchment
+    - poem
+    - riddle
 categories:
-- blog
-
+    - blog
 ---
+
 You (Captain Jack Sparrow) have been sentenced to DEATH by the infamous BLACK BEARD so that he may be forever young through the FOUNTAIN OF YOUTH.
 
 Before the sentence is carried out, two pieces of PARCHMENTS -- one with "LIFE" written on it and one with "DEATH" written on it -- are folded up and placed in Black Beard's HAT.

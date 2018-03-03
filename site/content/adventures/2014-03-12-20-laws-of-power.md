@@ -1,28 +1,28 @@
 ---
-title: 20 Laws of Power
-date: 2014-03-12 00:00:00 +0000
-description: My favorite 20 laws of power.
+title: "20 Laws of Power"
+date: 2014-03-12
+description: "My favorite 20 laws of power."
 banner: https://fvcproductions.files.wordpress.com/2014/03/book.jpg
 tags:
-- adapt and survive
-- be wary
-- conceal
-- emotions
-- do not offend
-- hands clean
-- laws of power
-- never outshine
-- plan ahead
-- play along
-- respect tradition
-- robert greene
-- selective honesty
-- wary of friends
-- weaknesses
+    - adapt and survive
+    - be wary
+    - conceal
+    - emotions
+    - do not offend
+    - hands clean
+    - laws of power
+    - never outshine
+    - plan ahead
+    - play along
+    - respect tradition
+    - robert greene
+    - selective honesty
+    - wary of friends
+    - weaknesses
 categories:
-- blog
-
+    - blog
 ---
+
 So if you're not already familiar with Robert Green's popular book "[The 48 Laws of Power](//en.wikipedia.org/wiki/The_48_Laws_of_Power "48 Laws of Power - Wiki")" that was published in 1998, I'm going to suggest you read it… right now.
 
 Like any popular book, it has its positive and negative criticisms, but I found it immensely interesting for a self-help book.

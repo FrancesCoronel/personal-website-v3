@@ -1,26 +1,26 @@
 ---
-title: "How Texting Has An Impact on Relationships \U0001F4F5️"
-date: 2010-12-13 00:00:00 +0000
+title: How Texting Has An Impact on Relationships 📵️
+date: 2010-12-13
 description: Talks about the mainly negative impact of texting on relationships.
 banner: https://fvcproductions.files.wordpress.com/2013/08/old-technology-never-forget.jpg?w=1024&h=436&crop=1
 categories:
-- blog
-- certainties
+    - blog
+    - certainties
 tags:
-- awkward silences
-- essay talks
-- facebook
-- fvcproductions
-- kinect
-- levels of communication
-- mobile phone
-- phone conversations
-- technology
-- text messaging
-- va governor schools
-- wii
-
+    - awkward silences
+    - essay talks
+    - facebook
+    - fvcproductions
+    - kinect
+    - levels of communication
+    - mobile phone
+    - phone conversations
+    - technology
+    - text messaging
+    - va governor schools
+    - wii
 ---
+
 ## This first essay talks about the mainly negative impact of texting on relationships.
 
 This essay was finished December 13, 2010.

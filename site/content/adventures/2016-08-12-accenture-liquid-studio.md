@@ -1,12 +1,12 @@
 ---
 title: Accenture Liquid Studio - Summer 2016
 description: Wearables Developer
-date: 2016-08-12 00:00:00 +0000
+date: 2016-08-12
 banner: https://fvcproductions.files.wordpress.com/2016/07/accentureslc-1.jpeg
 categories:
-- experience
-
+  - experience
 ---
+
 ## Employer
 
 [Accenture Liquid Studio](//accenture.com/us-en/capability-rapid-application-development-studio)

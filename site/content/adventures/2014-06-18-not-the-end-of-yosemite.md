@@ -1,22 +1,22 @@
 ---
 title: Not The End Of Yosemite
-date: 2014-06-18 00:00:00 +0000
+date: 2014-06-18
 description: Customizing my desktop layout.
 banner: https://i.imgur.com/baezBus.png
 categories:
-- portfolio
-- design
+  - portfolio
+  - design
 tags:
-- cdock
-- iconfactory
-- blotter
-- bowtie
-- bartender
-- flavours
-- deviantart
-- geektool
-
+  - cdock
+  - iconfactory
+  - blotter
+  - bowtie
+  - bartender
+  - flavours
+  - deviantart
+  - geektool
 ---
+
 I used Bartender, Bowtie, Flavours, GeekTool, cDock, Blotter and custom icons from DeviantArt to bring this to life.
 
 ## With Yosemite Icons

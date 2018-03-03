@@ -1,17 +1,16 @@
 ---
-title: "Announcing My New Medium Blog \U0001F389"
-date: 2017-12-02 00:00:00 +0000
-description: And looking back on my personal journey of writing stuff and publishing
-  it online.
+title: Announcing My New Medium Blog 🎉
+date: 2017-12-02
+description: And looking back on my personal journey of writing stuff and publishing it online.
 banner: https://cdn-images-1.medium.com/max/2000/1*SC4JbLADfaGRrOZBdKngTA.png
 caption: One of my many official looking banners!
 categories:
-- blog
+  - blog
 tags:
-- medium
-- blogging
-
+  - medium
+  - blogging
 ---
+
 > Update: February 11, 2018
 >
 > I ultimately decided it would be best to stick to my website. lol.

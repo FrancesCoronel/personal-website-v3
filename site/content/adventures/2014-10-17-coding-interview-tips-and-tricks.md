@@ -1,24 +1,24 @@
 ---
-title: Job Interview - Tips and Tricks
-date: 2014-10-17 00:00:00 +0000
-description: Expressing my gratitude.
+title: "Job Interview - Tips and Tricks"
+date: 2014-10-17
+description: "Expressing my gratitude."
 banner: https://fvcproductions.files.wordpress.com/2014/10/screenshot-2014-10-17-21-22-13.png
 tags:
-- coding
-- coding interview
-- cracking the coding interview
-- internship interview
-- personal questions
-- questions coding
-- software development
-- tech companies
-- technical interview
-- technical questions
-- tips and tricks
+    - coding
+    - coding interview
+    - cracking the coding interview
+    - internship interview
+    - personal questions
+    - questions coding
+    - software development
+    - tech companies
+    - technical interview
+    - technical questions
+    - tips and tricks
 categories:
-- blog
-
+    - blog
 ---
+
 [![tumblr_nd30ogjKdp1qcrg73o1_500](//fvcproductions.files.wordpress.com/2014/10/tumblr_nd30ogjkdp1qcrg73o1_500.jpg)](//fvcproductions.files.wordpress.com/2014/10/tumblr_nd30ogjkdp1qcrg73o1_500.jpg)
 
 So I decided to compile a bunch of fun interview topics of interest and questions. This article is limited to what I know from my job interviews.

@@ -1,13 +1,13 @@
 ---
 title: Strikingly Website
 description: A personal website I made using Strikingly.
-date: 2014-08-19 00:00:00 +0000
-banner: ''
+date: 2014-08-19
+banner:
 categories:
-- web
-- portfolio
-
+  - web
+  - portfolio
 ---
+
 ## Website
 
 ![Strikingly 2](https://i.imgur.com/kAQ5FdQ.jpg)

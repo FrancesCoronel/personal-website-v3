@@ -1,20 +1,20 @@
 ---
 title: The Black Apple
-date: 2014-08-15 00:00:00 +0000
+date: 2014-08-15
 description: Customizing my desktop layout.
 banner: https://i.imgur.com/Yv22Bpe.png
 categories:
-- portfolio
-- design
+  - portfolio
+  - design
 tags:
-- geektool
-- cdock
-- flavours
-- yosemite
-- blotter
-- black apple
-
+  - geektool
+  - cdock
+  - flavours
+  - yosemite
+  - blotter
+  - black apple
 ---
+
 * Flavours Theme
   * The Black Apple
 * Icons

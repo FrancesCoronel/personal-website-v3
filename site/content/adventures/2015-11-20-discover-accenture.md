@@ -1,12 +1,12 @@
 ---
-title: Discover Accenture
-description: Invited to explore Accenture as a potential full-time candidate.
-date: 2015-11-20 00:00:00 +0000
+title: "Discover Accenture"
+description: "Invited to explore Accenture as a potential full-time candidate."
+date: 2015-11-20
 banner: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0108.jpg
 categories:
-- conference
-
+    - conference
 ---
+
 ## Name
 
 <a title="Accenture" href="//www.accenture.com/us-en" target="_blank" rel="noopener">Discover Accenture</a>

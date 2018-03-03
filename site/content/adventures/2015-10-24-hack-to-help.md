@@ -1,12 +1,12 @@
 ---
 title: Hack to Help Hampton Roads
 description: Our team created Hack the Vote at Hack to Help HR at Dominion Enterprises.
-date: 2015-10-24 00:00:00 +0000
+date: 2015-10-24
 banner: https://fvcproductions.files.wordpress.com/2015/11/csaxal9uyaypho3.jpg
 categories:
-- hackathon
-
+  - hackathon
 ---
+
 ## Name
 
 <a title="DE" href="https://hackathon.dominionenterprises.com/" target="_blank" rel="noopener"><strong>Hack to Help Hampton Roads</strong></a>

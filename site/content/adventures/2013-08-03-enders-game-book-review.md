@@ -1,23 +1,22 @@
 ---
-title: "Ender's Game - Book Review \U0001F47E"
-date: 2010-08-03 00:00:00 +0000
-description: The Martian Chronicles, Star Wars, Lord of the Rings, Stranger in a Strange
-  Land...an average geek's favorite reading list can be literally incalculable.
+title: Ender's Game - Book Review 👾
+date: 2010-08-03
+description: The Martian Chronicles, Star Wars, Lord of the Rings, Stranger in a Strange Land...an average geek's favorite reading list can be literally incalculable.
 banner: https://fvcproductions.files.wordpress.com/2013/08/enders-game.jpg
 categories:
-- blog
+    - blog
 tags:
-- battle school
-- book review
-- ender
-- ender wiggin
-- enders game
-- formic
-- international fleet personnel
-- orson
-- scott card
-
+    - battle school
+    - book review
+    - ender
+    - ender wiggin
+    - enders game
+    - formic
+    - international fleet personnel
+    - orson
+    - scott card
 ---
+
 ## Geek Paradise
 
 The Martian Chronicles, Star Wars, Lord of the Rings, Stranger in a Strange Land...an average geek's favorite reading list can be literally incalculable. Orson Scott Card proves he can make the list with Ender's Game, which encompasses a scheme of ruthlessness, constant battles, manipulation, and in the end, compassion. Its the year 2070, and Ender Wiggin at age six has been chosen to attend Battle School, a military academy explicitly for the brightest children where they are intensely trained in order to become military commanders. There, Ender is immediately resented and maltreated through the manipulation of adults who force Ender to be exposed to violence in order to achieve necessary character.

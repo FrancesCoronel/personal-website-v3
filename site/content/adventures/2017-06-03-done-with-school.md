@@ -1,13 +1,12 @@
 ---
 title: I AM DONE WITH SCHOOL
-date: 2017-06-03 00:00:00 +0000
-description: A record of all the college courses and tests I've taken from 2007 to
-  2017.
+date: 2017-06-03
+description: A record of all the college courses and tests I've taken from 2007 to 2017.
 banner: https://i.imgur.com/WhsKEHB.jpg
 categories:
-- education
-
+  - education
 ---
+
 Since having graduated with an MS in CS from Cornell Tech, I've taken a total of 89 college-level courses starting from 2010.
 
 To provide context, that's about 30% more than the average master's student will take, including undergrad courses.

@@ -1,19 +1,19 @@
 ---
 title: Startup Grind
-date: 2018-02-14 00:00:00 +0000
+date: 2018-02-14
 description: The most inspirational conference around the globe for entrepreneurs.
 banner: https://i.imgur.com/JHY94Lk.jpg
 categories:
-- conference
-- award
-- blog
-- certainty
+  - conference
+  - award
+  - blog
+  - certainty
 tags:
-- women who code
-- startup grind
-- redwood city
-
+  - women who code
+  - startup grind
+  - redwood city
 ---
+
 ## Name
 
 [Startup Grind](//www.startupgrind.com/conference/)

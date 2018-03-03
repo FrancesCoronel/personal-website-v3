@@ -1,14 +1,14 @@
 ---
 title: Dear Bootcamp
-date: 2014-12-31 00:00:00 +0000
+date: 2014-12-31
 description: My case for why I should get accepted into a coding bootcamp.
 categories:
-- portfolio
-- presentation
+  - portfolio
+  - presentation
 tags:
-- coding bootcamp
-
+  - coding bootcamp
 ---
+
 ![Dear Bootcamp 1](https://i.imgur.com/rnCLyau.jpg)
 ![Dear Bootcamp 2](https://i.imgur.com/A24VAfv.jpg)
 ![Dear Bootcamp 3](https://i.imgur.com/s8wBxew.jpg)

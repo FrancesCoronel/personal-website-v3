@@ -1,13 +1,13 @@
 ---
-title: "Robopocalypse \U0001F916"
-date: 2015-08-05 00:00:00 +0000
+title: Robopocalypse 🤖
+date: 2015-08-05
 banner: https://i.imgur.com/V26V6tz.png
 categories:
-- portfolio
-- web
-- oss
-
+  - portfolio
+  - web
+  - oss
 ---
+
 [![About Page -
 1](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse4.png)](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse4.png)
 

@@ -1,14 +1,14 @@
 ---
-title: "Cornell Tech Logos \U0001F393"
-date: 2016-10-04 00:00:00 +0000
+title: Cornell Tech Logos 🎓
+date: 2016-10-04
 description: All the Cornell Tech logos in one place.
 banner: https://i.imgur.com/CYUp9Tl.jpg
 categories:
-- portfolio
-- design
-- web
-
+  - portfolio
+  - design
+  - web
 ---
+
 All the Cornell Tech logos in one place.
 
 All logos are available in PNG and SVG and have transparent backgrounds.

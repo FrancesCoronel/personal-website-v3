@@ -1,37 +1,37 @@
 ---
-title: First Meetup, First Impressions
-date: 2014-12-23 00:00:00 +0000
-description: Meeting new people always prove to be an interesting experience.
+title: "First Meetup, First Impressions"
+date: 2014-12-23
+description: "Meeting new people always prove to be an interesting experience."
 banner: https://fvcproductions.files.wordpress.com/2014/12/meetup-icon.png?w=1024&h=435&crop=1
 tags:
-- adrenaline junkies
-- atheists
-- engineers
-- first meetup
-- fvcproductions
-- gdg hampton roads
-- hampton roads
-- hemingway
-- hr fen
-- intro
-- javascript
-- macaroni
-- mad cowboy
-- meetup
-- meetups
-- mixer
-- new meetup
-- new network
-- planetarium show
-- reasons
-- science
-- travis ci
-- vegan
-- vegetarian
+    - adrenaline junkies
+    - atheists
+    - engineers
+    - first meetup
+    - fvcproductions
+    - gdg hampton roads
+    - hampton roads
+    - hemingway
+    - hr fen
+    - intro
+    - javascript
+    - macaroni
+    - mad cowboy
+    - meetup
+    - meetups
+    - mixer
+    - new meetup
+    - new network
+    - planetarium show
+    - reasons
+    - science
+    - travis ci
+    - vegan
+    - vegetarian
 categories:
-- blog
-
+    - blog
 ---
+
 # So I just went to my first [Meetup](//meetup.com) ever on December 15 with [NorfolkJS](//www.meetup.com/NorfolkJS/) and it was basically an ["Introduction to Travis-CI"](//www.meetup.com/NorfolkJS/events/213364882/).
 
 ![NorfolkJS - Circular

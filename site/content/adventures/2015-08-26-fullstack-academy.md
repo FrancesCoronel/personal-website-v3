@@ -1,14 +1,14 @@
 ---
 title: Fullstack Academy
-date: 2016-08-26 00:00:00 +0000
+date: 2016-08-26
 description: Summer of Code
 banner: https://fvcproductions.files.wordpress.com/2015/11/11821194_439697182900579_299304949_n-1-e1457320708289.jpg
 categories:
-- program
-- speaking
-- webdesign
-
+    - program
+    - speaking
+    - webdesign
 ---
+
 ## Name
 
 <a title="Fullstack Academy" href="https://www.fullstackacademy.com/summer-of-code" target="_blank" rel="noopener">Fullstack Academy - Summer of Code</a>

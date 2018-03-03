@@ -1,20 +1,20 @@
 ---
 title: Operation Smile Mission Training Workshop
-date: 2012-01-14 00:00:00 +0000
+date: 2012-01-14
 description: My first big time speaking event.
 banner: https://fvcproductions.files.wordpress.com/2015/11/335160_10151174118370037_887620036_22617982_1518303044_o.jpg
 categories:
-- speaking
-- volunteering
-- program
-- imovie101
+  - speaking
+  - volunteering
+  - program
+  - imovie101
 tags:
-- imovie101
-- operation smile
-- medical mission
-- training
-
+  - imovie101
+  - operation smile
+  - medical mission
+  - training
 ---
+
 ## Name
 
 [Operation Smile Mission Training Workshop](//studentprograms.operationsmile.org/events/mission-training-workshop/)

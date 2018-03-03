@@ -1,13 +1,13 @@
 ---
 title: Ghent School
 description: What I did before and during middle school.
-date: 2009-09-22 00:00:00 +0000
+date: 2009-09-22
 banner: https://www.npsk12.com/cms/lib/VA02208074/Centricity/ModuleInstance/14118/ghent.JPG
 categories:
-- education
-- award
-
+  - education
+  - award
 ---
+
 ## Institution
 
 [Ghent School](//npsk12.com/gs)

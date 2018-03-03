@@ -1,37 +1,36 @@
 ---
-title: "Fullstack Academy - Week 4 \U0001F4B5"
-date: 2015-07-03 00:00:00 +0000
-description: June 29th to July 2nd. There are 57 days of Fullstack Academy. These
-  are days 16 through 19 Week 4.
+title: Fullstack Academy - Week 4 💵
+date: 2015-07-03
+description: June 29th to July 2nd. There are 57 days of Fullstack Academy. These are days 16 through 19 Week 4.
 banner: https://fvcproductions.files.wordpress.com/2015/07/banners-001.jpg
 aliases:
-- "/blog/2015/07/03/fullstack-academy-week-4/"
+  - /blog/2015/07/03/fullstack-academy-week-4/
 categories:
-- blog
+  - blog
 tags:
-- alternote
-- avalon
-- bubbles
-- coding bootcamp
-- coney island
-- featured
-- frameworks
-- fullstack academy
-- fullstack academy week 4
-- google maps API
-- inside out
-- jquery
-- js library
-- learning team lunch
-- lunch
-- promises
-- static ui
-- trip planner
-- ui
-- venmo
-- week 4
-
+  - alternote
+  - avalon
+  - bubbles
+  - coding bootcamp
+  - coney island
+  - featured
+  - frameworks
+  - fullstack academy
+  - fullstack academy week 4
+  - google maps API
+  - inside out
+  - jquery
+  - js library
+  - learning team lunch
+  - lunch
+  - promises
+  - static ui
+  - trip planner
+  - ui
+  - venmo
+  - week 4
 ---
+
 > June 29th to July 2nd
 >
 > There are 57 days of [**Fullstack Academy**](//www.fullstackacademy.com "Fullstack Academy"). These are days 16 through 19 (Week 4). ❤️

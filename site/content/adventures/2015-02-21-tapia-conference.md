@@ -1,12 +1,12 @@
 ---
-title: TAPIA 2015
-description: ACM Richard Tapia Celebration of Diversity in Computing Conference
-date: 2015-02-21 00:00:00 +0000
+title: "TAPIA 2015"
+description: "ACM Richard Tapia Celebration of Diversity in Computing Conference"
+date: 2015-02-21
 banner: https://fvcproductions.files.wordpress.com/2015/02/11193236_10205024245979886_9129577345082938607_n.jpg
 categories:
-- conference
-
+  - conference
 ---
+
 ## Name
 
 <a title="TAPIA" href="//tapiaconference.org/" target="_blank" rel="noopener">ACM Richard Tapia Celebration of Diversity in Computing Conference</a>

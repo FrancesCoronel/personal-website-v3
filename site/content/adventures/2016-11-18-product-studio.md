@@ -1,15 +1,14 @@
 ---
-title: "Product Studio \U0001F525"
-date: 2016-11-18 00:00:00 +0000
-description: How might we create a safe place for people of all backgrounds to discuss
-  important local, national, and global issues?
+title: Product Studio 🔥
+date: 2016-11-18
+description: How might we create a safe place for people of all backgrounds to discuss important local, national, and global issues?
 banner: https://github.com/fvcproductions/nyt-comm/raw/master/img/banner/ct+nytimes-white.png
 aliases:
-- "/portfolio/2016/11/18/product-studio/"
+  - /portfolio/2016/11/18/product-studio/
 categories:
-- portfolio
-
+  - portfolio
 ---
+
 ![](https://github.com/fvcproductions/nyt-comm/raw/master/img/banner/ct+nytimes-white.png)
 
 ![The New York Times - White Banner](https://fvcproductions.files.wordpress.com/2016/09/white-banner1.png)

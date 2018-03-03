@@ -1,18 +1,17 @@
 ---
 title: Tidewater Community College - Summer 2010
-description: Through TCC's dual enrollment program, I enrolled in 2 different courses
-  in the summer of 2010.
-date: 2010-08-13 00:00:00 +0000
+description: Through TCC's dual enrollment program, I enrolled in 2 different courses in the summer of 2010.
+date: 2010-08-13
 banner: https://fvcproductions.files.wordpress.com/2017/01/tcc-banner1.png
 categories:
-- education
+  - education
 tags:
-- dual enrollment
-- tcc
-- college algebra
-- accounting
-
+  - dual enrollment
+  - tcc
+  - college algebra
+  - accounting
 ---
+
 ## Institution
 
 [Tidewater Community College (TCC)](//tcc.edu)

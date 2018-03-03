@@ -1,18 +1,13 @@
 ---
-title: "Freelancing \U0001F48E️"
+title: Freelancing 💎️
 description: What you can hire me for.
 banner: https://i.imgur.com/8o2Nhyo.jpg
 freelancing: true
 aliases:
-- "/services/freelancing/"
-- "/freelancing/"
-type: page
-menu:
-  main:
-    name: "Freelancing \U0001F48E"
-    weight: 7
-
+  - /services/freelancing/
+  - /freelancing/
 ---
+
 ## I work with clients of all backgrounds on both product design & development.
 
 > I also freelance write every now and then.

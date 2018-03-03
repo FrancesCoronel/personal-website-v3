@@ -1,38 +1,37 @@
 ---
-title: "Hour of Code 2015 \U0001F4BB️"
-description: So this past week, I signed up as a technical volunteer for the Hour
-  of Code. Here's how my experience went.
-date: 2015-12-13 00:00:00 +0000
+title: Hour of Code 2015 💻️
+description: So this past week, I signed up as a technical volunteer for the Hour of Code. Here's how my experience went.
+date: 2015-12-13
 banner: https://fvcproductions.files.wordpress.com/2015/12/img_2021.jpg
 categories:
-- volunteering
-- speaking
-- blog
-- hourofcode
+  - volunteering
+  - speaking
+  - blog
+  - hourofcode
 tags:
-- bethel high school
-- code.org
-- hour of code
-- john b dey
-- sedgefield
-- tallwood
-- HourOfCode
-- bethel high school
-- code
-- code.org
-- Coding
-- computer science
-- computer science education
-- cs
-- featured
-- hour
-- hour of code
-- hour of code code.org
-- john b dey elementary
-- Programming
-- sedgefield elementary
-
+  - bethel high school
+  - code.org
+  - hour of code
+  - john b dey
+  - sedgefield
+  - tallwood
+  - HourOfCode
+  - bethel high school
+  - code
+  - code.org
+  - Coding
+  - computer science
+  - computer science education
+  - cs
+  - featured
+  - hour
+  - hour of code
+  - hour of code code.org
+  - john b dey elementary
+  - Programming
+  - sedgefield elementary
 ---
+
 ![Code.org - Hour of Code](https://fvcproductions.files.wordpress.com/2015/11/codeorg.png)
 
 ## Name

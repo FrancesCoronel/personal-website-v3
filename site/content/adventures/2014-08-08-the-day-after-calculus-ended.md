@@ -1,23 +1,23 @@
 ---
-title: The Day After Calculus Ended
-date: 2014-08-08 00:00:00 +0000
-description: Exploring blogging applications.
+title: "The Day After Calculus Ended"
+date: 2014-08-08
+description: "Exploring blogging applications."
 banner: https://fvcproductions.files.wordpress.com/2014/08/byword_mac_03.jpg
 tags:
-- byword
-- calculus
-- cleft lip
-- cleft palette
-- mac
-- merger
-- non profit
-- operation smile
-- smile train
-- ulyssess
+    - byword
+    - calculus
+    - cleft lip
+    - cleft palette
+    - mac
+    - merger
+    - non profit
+    - operation smile
+    - smile train
+    - ulyssess
 categories:
-- blog
-
+    - blog
 ---
+
 Honestly, the best blogging utility would be a combination of [Byword](//bywordapp.com "Byword")'s simple UI, publishing, and exporting utilities and [Ulysses III](//ulyssesapp.com "Ulysses")'s database management and the numerous extra features (statistics, navigation, helpful .md hints, visual syntax, etc.).
 
 It's a real shame when I find this kind of thing out, just how much greater an app would be if they joined forces with another. I find this kind of ideal applies to all sorts of great products. It's not a new concept, but today I've seemed to realize it's implications.

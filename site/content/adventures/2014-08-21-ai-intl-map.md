@@ -1,13 +1,13 @@
 ---
 title: A.I. International
-date: 2014-08-21 00:00:00 +0000
+date: 2014-08-21
 description: A Google Map of schools that specialize in AI.
 banner: https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-16-12-55-34.png?w=1440
 categories:
-- portfolio
-- research
-
+  - portfolio
+  - research
 ---
+
 ![Robot Waze](https://fvcproductions.files.wordpress.com/2014/09/robot-waze.png)
 
 ## A.I. International | Google Map

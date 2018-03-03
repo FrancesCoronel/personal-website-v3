@@ -1,20 +1,20 @@
 ---
 title: Middle School Poems ✒️
-date: 2008-06-01 00:00:00 +0000
+date: 2008-06-01
 description: Random poems from 2008.
 banner: https://fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg?w=800&h=340&crop=1
 categories:
-- blog
-- creativity
+  - blog
+  - creativity
 tags:
-- trampoline
-- middle school poems
-- random poems
-- the test
-- shakespeare
-- gratitude
-
+  - trampoline
+  - middle school poems
+  - random poems
+  - the test
+  - shakespeare
+  - gratitude
 ---
+
 ## Trampoline
 
 ```text

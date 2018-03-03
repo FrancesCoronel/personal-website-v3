@@ -1,15 +1,13 @@
 ---
 title: PWA Roadshow
-date: 2017-10-22 00:00:00 +0000
-description: The Progressive Web App Roadshow is a series of events that explains
-  the what, why and how of PWAs and allows participants to work through some code
-  labs that provides hands-on experience.
+date: 2017-10-22
+description: The Progressive Web App Roadshow is a series of events that explains the what, why and how of PWAs and allows participants to work through some code labs that provides hands-on experience.
 banner: https://gdg-korea-webtech.firebaseapp.com/pwa-roadshow17/roadshow.jpg
 categories:
-- conference
-- program
-
+  - conference
+  - program
 ---
+
 ## Name
 
 [Progressive Web App Roadshow San Francisco 2017](//events.withgoogle.com/progressive-web-app-roadshow-san-francisco-2017/)

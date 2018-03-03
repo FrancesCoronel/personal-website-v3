@@ -1,47 +1,46 @@
 ---
-title: "ONE WEEK OF FULLSTACK LEFT \U0001F64A"
-date: 2015-08-19 00:00:00 +0000
-description: 'There''s only one week of Fullstack Academy left. Overarching feeling:
-  HOLY CRAP.'
+title: "ONE WEEK OF FULLSTACK LEFT 🙊"
+date: 2015-08-19
+description: 'There''s only one week of Fullstack Academy left. Overarching feeling: HOLY CRAP.'
 banner: https://fvcproductions.files.wordpress.com/2015/08/banners-001.jpg
 tags:
-- apple
-- at home advisor
-- captone
-- cheerio
-- dance
-- david yang
-- featured
-- fullstack academy
-- fvcproductions
-- gif
-- gifs
-- hiredot
-- hiredot2
-- interfeud
-- jimmy
-- joanna
-- ladies of fullstack
-- linkedin
-- minions
-- one week
-- peter weyland
-- projects
-- resume
-- senior phase
-- seven days
-- speech
-- stackathon
-- stackstore
-- tech talk
-- timber
-- time travel
-- web design
-- web development
+  - apple
+  - at home advisor
+  - captone
+  - cheerio
+  - dance
+  - david yang
+  - featured
+  - fullstack academy
+  - fvcproductions
+  - gif
+  - gifs
+  - hiredot
+  - hiredot2
+  - interfeud
+  - jimmy
+  - joanna
+  - ladies of fullstack
+  - linkedin
+  - minions
+  - one week
+  - peter weyland
+  - projects
+  - resume
+  - senior phase
+  - seven days
+  - speech
+  - stackathon
+  - stackstore
+  - tech talk
+  - timber
+  - time travel
+  - web design
+  - web development
 categories:
-- blog
-
+    - blog
 ---
+
 Because of how busy I've been, I haven't really been able to get into the proper mood to be able to blog about such and such.
 
 As a result, there are now only **7** days of [**Fullstack**](//www.fullstackacademy.com) left.

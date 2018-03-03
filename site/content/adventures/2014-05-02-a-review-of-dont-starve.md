@@ -1,28 +1,27 @@
 ---
 title: A Review of Don't Starve
-date: 2014-05-02 00:00:00 +0000
-description: So in case you haven't heard of it yet, Don't Starve is this awesome
-  Indie game that came out late April of last year.
+date: 2014-05-02
+description: So in case you haven't heard of it yet, Don't Starve is this awesome Indie game that came out late April of last year.
 banner: https://fvcproductions.files.wordpress.com/2014/05/latest.jpeg
 categories:
-- blog
+  - blog
 tags:
-- dont starve
-- dont starve game
-- dont starve review
-- frankenweenie
-- game review
-- horror
-- indie
-- klei entertainment
-- macabre
-- review
-- sandbox
-- scary
-- tim burton
-- video games
-
+  - dont starve
+  - dont starve game
+  - dont starve review
+  - frankenweenie
+  - game review
+  - horror
+  - indie
+  - klei entertainment
+  - macabre
+  - review
+  - sandbox
+  - scary
+  - tim burton
+  - video games
 ---
+
 So in case you haven't heard of it yet, "[Don't Starve](https://www.dontstarvegame.com)" is this awesome Indie game that came out late April of last year.
 
 A year into its inception, I gotta say that I'm really glad how amazing it's turned out - high aggregate and review scores - and they've recently added their first paid downloadable content expansion called "Don't Starve: Reign of Giants", which basically added a bunch of new monsters (giants, perhaps?) and territory to discover and be terrorized by.

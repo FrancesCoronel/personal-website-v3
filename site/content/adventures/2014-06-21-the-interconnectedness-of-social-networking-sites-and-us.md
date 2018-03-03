@@ -1,37 +1,37 @@
 ---
-title: The Interconnectedness of Social Networking Sites
-date: 2014-06-21 00:00:00 +0000
-description: So, I've made a somewhat interesting discovery.
+title: "The Interconnectedness of Social Networking Sites"
+date: 2014-06-21
+description: "So, I've made a somewhat interesting discovery."
 banner: https://fvcproductions.files.wordpress.com/2014/06/version-1.jpg?w=1024&h=435&crop=1
 tags:
-- behance
-- Facebook
-- Facebook page
-- fvcproductions
-- google+
-- hoot suite
-- iftt
-- interconnectedness
-- linked in
-- plurality
-- Quizlet
-- quora
-- scribe
-- social
-- social networking
-- social networking connectedness
-- social networking sites
-- sound cloud
-- the grid
-- tumblr
-- twitter
-- vimeo
-- wordpress
-- youtube
+    - behance
+    - Facebook
+    - Facebook page
+    - fvcproductions
+    - google+
+    - hoot suite
+    - iftt
+    - interconnectedness
+    - linked in
+    - plurality
+    - Quizlet
+    - quora
+    - scribe
+    - social
+    - social networking
+    - social networking connectedness
+    - social networking sites
+    - sound cloud
+    - the grid
+    - tumblr
+    - twitter
+    - vimeo
+    - wordpress
+    - youtube
 categories:
-- blog
-
+    - blog
 ---
+
 So, I've made a somewhat interesting discovery.
 
 ## Discovery_8Pm:

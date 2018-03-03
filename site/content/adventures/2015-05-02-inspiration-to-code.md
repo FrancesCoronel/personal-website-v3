@@ -1,21 +1,20 @@
 ---
-title: "What influenced and inspired you to learn how to code? \U0001F52D"
-date: 2015-04-26 00:00:00 +0000
+title: "What influenced and inspired you to learn how to code? 🔭"
+date: 2015-04-26
 tags:
-- 2d game
-- damehood
-- hollow knight
-- imcompetech
-- kickstarter
-- knighthood
-- plans in motion
+    - 2d game
+    - damehood
+    - hollow knight
+    - imcompetech
+    - kickstarter
+    - knighthood
+    - plans in motion
 categories:
-- blog
-description: Back in December of last year, I was browsing through Kickstarter - eager
-  to spend my limited college student cash on something awesome. I found Hollow Knight.
+    - blog
+description: Back in December of last year, I was browsing through Kickstarter - eager to spend my limited college student cash on something awesome. I found Hollow Knight.
 banner: https://i.stack.imgur.com/7cBUc.jpg
-
 ---
+
 ## What influenced and inspired you to learn how to code?
 
 ### Take the time to think through this question and become comfortable and confident answering it. Was there a problem you were looking to solve or change? Do you enjoy problem solving?

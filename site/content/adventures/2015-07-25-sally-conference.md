@@ -1,12 +1,12 @@
 ---
-title: Sally Conference
-description: Sponsored by Bloom & Women Who Code
-date: 2015-07-25 00:00:00 +0000
+title: "Sally Conference"
+description: "Sponsored by Bloom & Women Who Code"
+date: 2015-07-25
 banner: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/ckydracwgaeajgp.jpg
 categories:
-- conference
-
+    - conference
 ---
+
 ## Name
 
 <a title="Sally Conference" href="//www.thesallyconference.com/" target="_blank" rel="noopener">Sally Conference</a>

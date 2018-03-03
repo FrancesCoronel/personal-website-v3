@@ -1,63 +1,64 @@
 ---
-title: That TAPIA Conference
-date: 2015-02-15 00:00:00 +0000
-description: A conference that promotes diversity in computing.
+title: "That TAPIA Conference"
+date: 2015-02-15
+description: "A conference that
+promotes diversity in computing."
 banner: https://fvcproductions.files.wordpress.com/2015/03/tapia-2015-001.jpg
 tags:
-- afro movers and shakers
-- banquet
-- bloomberg
-- boston
-- chromecasts
-- computing
-- conference
-- conferences
-- copley
-- dancing
-- david yang
-- disabilities
-- diversity
-- diversity conference
-- diversity tales
-- emails
-- ethnicities
-- Facebook
-- february
-- february 2015
-- freeman
-- fullstack
-- fvcproductions
-- gender
-- harvey mudd
-- hispanics in computing
-- industry
-- juan gilbert
-- latinos
-- lenovo
-- manuel
-- manuel perez
-- massachusetts
-- philadelphia
-- president harvey mudd
-- richard tapia
-- sbarro
-- scholarships
-- slack
-- snow
-- stem
-- tapia
-- tristan walker
-- twitter
-- undergraduate conference
-- wayne
-- weather
-- westin copley
-- winter storm
-- yeti
+    - afro movers and shakers
+    - banquet
+    - bloomberg
+    - boston
+    - chromecasts
+    - computing
+    - conference
+    - conferences
+    - copley
+    - dancing
+    - david yang
+    - disabilities
+    - diversity
+    - diversity conference
+    - diversity tales
+    - emails
+    - ethnicities
+    - Facebook
+    - february
+    - february 2015
+    - freeman
+    - fullstack
+    - fvcproductions
+    - gender
+    - harvey mudd
+    - hispanics in computing
+    - industry
+    - juan gilbert
+    - latinos
+    - lenovo
+    - manuel
+    - manuel perez
+    - massachusetts
+    - philadelphia
+    - president harvey mudd
+    - richard tapia
+    - sbarro
+    - scholarships
+    - slack
+    - snow
+    - stem
+    - tapia
+    - tristan walker
+    - twitter
+    - undergraduate conference
+    - wayne
+    - weather
+    - westin copley
+    - winter storm
+    - yeti
 categories:
-- blog
-
+    - blog
 ---
+
 > To note… > > > This is more of a telling of a personal journey than a technical > > description or overview of what the conference entails. In other > > words, it's meant to be informal so do not take it too seriously > > (kind of like everything else in blogging).
 
 What is that [TAPIA Conference](//tapiaconference.org/ "Tapia Confernece")?

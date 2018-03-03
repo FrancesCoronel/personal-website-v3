@@ -1,29 +1,29 @@
 ---
-title: "Jeopardy Template - Keynote and Google Slides \U0001F4C1"
-date: 2015-03-01 00:00:00 +0000
+title: Jeopardy Template - Keynote and Google Slides 📁
+date: 2015-03-01
 description: A free Jeopardy template you can use with Google Slides or Keynote.
 banner: https://i.imgur.com/UW55LNg.jpg
 categories:
-- portfolio
+  - portfolio
 tags:
-- behance
-- creations
-- creativity
-- designer
-- designing
-- designs
-- fvcproductions
-- google slides
-- jeopardy
-- jeopardy template
-- Jeopardy Template
-- Keynote
-- pretty
-- slides carnival
-- slidescarnival
-- unsplash
-
+  - behance
+  - creations
+  - creativity
+  - designer
+  - designing
+  - designs
+  - fvcproductions
+  - google slides
+  - jeopardy
+  - jeopardy template
+  - Jeopardy Template
+  - Keynote
+  - pretty
+  - slides carnival
+  - slidescarnival
+  - unsplash
 ---
+
 > These two templates can be used by anybody to create their own Jeopardy game.
 >
 > This project was started in March of 2015.

@@ -1,18 +1,18 @@
 ---
-title: "C++ Bits - Time Measurements \U0001F551"
-date: 2013-07-28 00:00:00 +0000
+title: C++ Bits - Time Measurements 🕑
+date: 2013-07-28
 description: Measuring time in C++.
 banner: https://fvcproductions.files.wordpress.com/2013/07/banners-002.jpg?w=1024&h=436&crop=1
 tags:
-- c++
-- time
-- time measurements
-- quotient remainder
-- arithmetic
+    - c++
+    - time
+    - time measurements
+    - quotient remainder
+    - arithmetic
 categories:
-- blog
-
+    - blog
 ---
+
 ## Purpose
 
 To write a simple C++ program. To use quotient-remainder arithmetic. To use format. To properly comment/document throughout a program.

@@ -1,23 +1,22 @@
 ---
-title: "Bootcamp.me - Attempting to Crowd Source \U0001F4CD"
-date: 2015-05-20 00:00:00 +0000
-description: I decided to begin a crowdsourced version of the Bootcamp.me Google Map
-  using Mapme.
+title: "Bootcamp.me - Attempting to Crowd Source 📍"
+date: 2015-05-20
+description: I decided to begin a crowdsourced version of the Bootcamp.me Google Map using Mapme.
 banner: https://i.imgur.com/SR7yuSg.png
 tags:
-- bootcamp.me
-- coding bootcamp map
-- coding bootcamps
-- crowdsourced map
-- crowdsourcing
-- google map
-- map me
-- map of coding bootcamps
-- mapme
+    - bootcamp.me
+    - coding bootcamp map
+    - coding bootcamps
+    - crowdsourced map
+    - crowdsourcing
+    - google map
+    - map me
+    - map of coding bootcamps
+    - mapme
 categories:
-- blog
-
+    - blog
 ---
+
 So after realizing a lot of people liked the idea of a more geographically oriented way to find a bootcamp, I started creating [Bootcamp.me](//bit.ly/bootcampme "Bootcamp.me") using Google Maps back in November of last year.\[googlemaps //www.google.com/maps/d/embed?mid=zIblKEWM9BnY.kF6pHtgPUlIo&w=640&h=480\]
 
 ## Again, you can find the Google Map at [bit.ly/bootcampme](//bit.ly/bootcampme "Bootcamp.me").

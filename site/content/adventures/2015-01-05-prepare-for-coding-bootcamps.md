@@ -1,41 +1,39 @@
 ---
-title: Preparing for Coding Bootcamps
-date: 2014-01-05 00:00:00 +0000
-description: Before my interviews with all the coding bootcamps I applied to, I did
-  some digging and really went out of my way to try and find out what would make me
-  a better candidate in the entire process.
+title: "Preparing for Coding Bootcamps"
+date: 2014-01-05
+description: "Before my interviews with all the coding bootcamps I applied to, I did some digging and really went out of my way to try and find out what would make me a better candidate in the entire process."
 banner: https://fvcproductions.files.wordpress.com/2015/04/fullstack-academy-banner.jpg?w=1024&h=435&crop=1
 categories:
-- blog
+    - blog
 tags:
-- anonymous functions
-- array
-- bootcamp
-- bootcamps
-- callbacks
-- closures
-- coding bootcamps
-- fullstack
-- fullstack academy
-- fundamentals
-- gist
-- glimpse
-- hack reactor
-- interview
-- javascript
-- js
-- main ideas
-- makersquare
-- nitty gritty
-- potential
-- prep
-- preparation
-- prepartion
-- quora
-- selection
-- underscore
-
+    - anonymous functions
+    - array
+    - bootcamp
+    - bootcamps
+    - callbacks
+    - closures
+    - coding bootcamps
+    - fullstack
+    - fullstack academy
+    - fundamentals
+    - gist
+    - glimpse
+    - hack reactor
+    - interview
+    - javascript
+    - js
+    - main ideas
+    - makersquare
+    - nitty gritty
+    - potential
+    - prep
+    - preparation
+    - prepartion
+    - quora
+    - selection
+    - underscore
 ---
+
 ## **How are students selected?**
 
 ### There are 2 main ideas behind selection.

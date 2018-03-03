@@ -1,21 +1,21 @@
 ---
-title: "Auschwitz: A Doctor's Eyewitness Account \U0001F4D6"
-date: 2015-04-11 00:00:00 +0000
+title: "Auschwitz: A Doctor's Eyewitness Account 📖"
+date: 2015-04-11
 description: 'Book review of "Auschwitz: A Doctor''s Eyewitness Account".'
 banner: https://fvcproductions.files.wordpress.com/2014/06/toaletter_pc3a5_auschwitz_2.jpg
 tags:
-- Arcade Publishing
-- auschwitz
-- 'Auschwitz: A Doctor''s Eyewitness Account'
-- holocaust
-- jewish holocaust
-- Miklos Nyiszli
-- prisoners
-- sonderkommando
+    - Arcade Publishing
+    - auschwitz
+    - 'Auschwitz: A Doctor''s Eyewitness Account'
+    - holocaust
+    - jewish holocaust
+    - Miklos Nyiszli
+    - prisoners
+    - sonderkommando
 categories:
-- blog
-
+    - blog
 ---
+
 To say this book was a pleasant read would be a blatant lie. For _Auschwitz_ served not just as a "terribly" pleasant read, but also as a brilliant commentary on the affairs of the notorious Auschwitz concentration camp through the eyes of a survivor. The eyes of one who lived through eight months as a Sonderkommando, who were those "privileged" prisoners selected as prominent work units for the Nazi death camps and were guaranteed at least four months of life before being dispensed of and replaced, given that all Sonderkommandos had access to the deepest, darkest secrets of the concentration camps. The account prospers as a reliable and vital piece of particulars given that Dr. Nyiszli served as the right hand man of Dr. Mengele for eight months, having had to save himself from execution multiple times through hasty decisions and mere luck.
 
 I say _Auschwitz_ was a "terribly" pleasant read because I didn't "enjoy" reading the book exactly — the abundant descriptions of the various types of human experiments that took place on Jews among others in the extermination camps made sure of that; I merely paid close attention. While reading, I started to wonder whether it was just my personality or human nature in general that compelled me to keep reading. In terms of objectivism, I've read a few popularly known Holocaust memoirs in the past, and this was by far the most unemotional. The doctor's tone doesn't degrade the informative quality though, it simply permits the understanding that when one is surrounded by such atrocities on a daily basis with no control, no way out, life hanging on a whim of another who would not hesitate to murder them, one becomes integrated into another space outside that world where immediate horror and emotion no longer exist - a simple surviving mechanism. Even when the doctor is liberated and he is able to reunite with his wife and daughter, he admits that it would take a prolonged amount of time to recover. As expected, to return to a normal life shortly after such events, if ever, would represent a ludicrous proposition.

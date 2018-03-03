@@ -1,20 +1,18 @@
 ---
-title: "MamaBear Launch Plan \U0001F43B"
-date: 2016-10-12 00:00:00 +0000
-description: Worked with 4 other team members to create launch plan and presentation
-  for a product. Presented to professors for Business for Non-Business class at Cornell
-  Tech (NBAY 5500)
+title: MamaBear Launch Plan 🐻
+date: 2016-10-12
+description: Worked with 4 other team members to create launch plan and presentation for a product. Presented to professors for Business for Non-Business class at Cornell Tech (NBAY 5500)
 banner: https://i.imgur.com/k5XZNbL.png
 categories:
-- portfolio
-- design
-- research
-- presentation
+  - portfolio
+  - design
+  - research
+  - presentation
 tags:
-- mamabear
-- cornell tech
-
+  - mamabear
+  - cornell tech
 ---
+
 Worked with 4 other team members to create launch plan and presentation for a product. Presented to professors for Business for Non-Business class at Cornell Tech (NBAY 5500).
 
 Splash is an all-in-one Event Marketing Platform built for achieving goals and tracking impact.

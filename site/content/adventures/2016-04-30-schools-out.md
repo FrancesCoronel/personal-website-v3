@@ -1,35 +1,35 @@
 ---
-title: "School's out? \U0001F393️"
-date: 2016-04-30 00:00:00 +0000
+title: School's out? 🎓️
+date: 2016-04-30
 description: Catching up on happenings for the month. SO MANY HAPPENINGS.
 banner: https://fvcproductions.files.wordpress.com/2016/04/schoolsout.jpeg
 categories:
-- blog
+  - blog
 tags:
-- accenture
-- bay area
-- campus
-- change
-- cornell tech
-- featured
-- fullstack academy
-- future plans
-- grace hopper
-- graduate school
-- graduating
-- hack reactor
-- make school
-- mentoring
-- new york city
-- news
-- product academy
-- school
-- screenhero
-- silicon valley
-- skype
-- undergrad
-
+  - accenture
+  - bay area
+  - campus
+  - change
+  - cornell tech
+  - featured
+  - fullstack academy
+  - future plans
+  - grace hopper
+  - graduate school
+  - graduating
+  - hack reactor
+  - make school
+  - mentoring
+  - new york city
+  - news
+  - product academy
+  - school
+  - screenhero
+  - silicon valley
+  - skype
+  - undergrad
 ---
+
 SO MUCH GOING ON. =================
 
 It's pretty crazy. But a **good** crazy.

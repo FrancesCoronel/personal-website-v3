@@ -1,17 +1,16 @@
 ---
-title: "Updated GitHub Page \U0001F353"
-date: 2017-01-07 00:00:00 +0000
-description: Updated my GitHub page in order to better showcase my current state of
-  mind. If you click on 'black' or 'white', the interface changes colors. Woot!
+title: Updated GitHub Page 🍓
+date: 2017-01-07
+description: Updated my GitHub page in order to better showcase my current state of mind. If you click on 'black' or 'white', the interface changes colors. Woot!
 banner: https://i.imgur.com/FErPWnP.png
 categories:
-- portfolio
-- web
-- design
+  - portfolio
+  - web
+  - design
 tags:
-- github page
-
+  - github page
 ---
+
 Updated my GitHub page - [fvcproductions.github.io](//fvcprodutions.github.io) in order to better showcase my current state of mind.
 
 If you click on 'black' or 'white', the interface changes colors. Woot!

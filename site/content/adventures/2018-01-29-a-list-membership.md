@@ -1,18 +1,17 @@
 ---
 title: A-List Membership
-date: 2018-01-29 00:00:00 +0000
-description: Admitted to A-List which is for the top candidates on AngelList - under
-  1% of candidates qualify.
+date: 2018-01-29
+description: Admitted to A-List which is for the top candidates on AngelList - under 1% of candidates qualify.
 banner: https://cdn-images-1.medium.com/max/1150/1*my9FmR5dT0Na1XbHlfTfog.png
 categories:
-- award
+  - award
 tags:
-- AngelList
-- hiring
-- platform
-- candidates
-
+  - AngelList
+  - hiring
+  - platform
+  - candidates
 ---
+
 ## A-List is a platform that helps top startups quickly interview the top-ranked tech talent on AngelList.
 
 A-List is sourced from over 3 million profiles, identified by algorithms and curated by humans. Under 1% of candidates qualify.

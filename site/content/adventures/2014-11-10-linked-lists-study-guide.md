@@ -1,31 +1,31 @@
 ---
-title: Study Guide - Linked Lists
-date: 2014-11-10 00:00:00 +0000
-description: A study guide for simple linked lists in Java.
+title: "Study Guide - Linked Lists"
+date: 2014-11-10
+description: "A study guide for simple linked lists in Java."
 banner: https://fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
 tags:
-- algorithms
-- arrays
-- data
-- data structures
-- digital hieroglyphics
-- Hampton
-- hampton university
-- head
-- insert
-- java
-- link
-- linked lists
-- nodes
-- Pointer
-- properties
-- pseudocode
-- remove
-- traversal
+    - algorithms
+    - arrays
+    - data
+    - data structures
+    - digital hieroglyphics
+    - Hampton
+    - hampton university
+    - head
+    - insert
+    - java
+    - link
+    - linked lists
+    - nodes
+    - Pointer
+    - properties
+    - pseudocode
+    - remove
+    - traversal
 categories:
-- blog
-
+    - blog
 ---
+
 # CSC251 Study Guide
 
 ### Linked Lists Exam

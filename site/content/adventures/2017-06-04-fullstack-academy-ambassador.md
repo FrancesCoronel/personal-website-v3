@@ -1,12 +1,11 @@
 ---
 title: Fullstack Academy - Ambassador
-date: 2017-05-10 00:00:00 +0000
-description: Marketing and mentoring done for Fullstack Academy as an ambassador for
-  their programs.
+date: 2017-05-10
+description: Marketing and mentoring done for Fullstack Academy as an ambassador for their programs.
 categories:
-- experience
-
+  - experience
 ---
+
 ## Employer
 
 <a title="Fullstack Academy" href="//fullstackacademy.com" target="_blank" rel="noopener">Fullstack Academy</a>

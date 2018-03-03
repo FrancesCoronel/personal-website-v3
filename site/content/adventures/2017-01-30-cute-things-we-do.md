@@ -1,20 +1,20 @@
 ---
 title: Cute Things We Do ❤
-date: 2017-01-30 00:00:00 +0000
+date: 2017-01-30
 description: Cute Things We Do = FC.js + NK.js
 banner: https://i.imgur.com/jMOtDPI.jpg
 aliases:
-- "/portfolio/2017/01/30/cute-things-we-do/"
+  - /portfolio/2017/01/30/cute-things-we-do/
 categories:
-- portfolio
-- web
-- design
+  - portfolio
+  - web
+  - design
 tags:
-- nolan
-- valentine's day
-- relationships
-
+  - nolan
+  - valentine's day
+  - relationships
 ---
+
 I felt like doing something non-traditional for Valentine's day so I made my boyfriend this website showcasing a few pictures from dates we've had together.
 
 The logo is a really cute picture of my dog because yeah why not.

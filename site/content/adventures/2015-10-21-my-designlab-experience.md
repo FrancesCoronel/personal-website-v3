@@ -1,35 +1,34 @@
 ---
-title: "My Designlab Experience \U0001F3A8"
-date: 2015-10-21 00:00:00 +0000
-description: My personal experience with Designlab, an online platform for learning
-  web and mobile design skills.
+title: My Designlab Experience 🎨
+date: 2015-10-21
+description: My personal experience with Designlab, an online platform for learning web and mobile design skills.
 banner: https://i.imgur.com/XvuQKSk.jpg
 tags:
-- behance
-- chad trutt
-- color theory
-- design
-- design 101
-- design online course
-- design101
-- designlab
-- designlab course
-- designlab design 101
-- featured
-- final project
-- layout
-- online course
-- online design course
-- process
-- typography
-- visual hierarchy
-- web design
+  - behance
+  - chad trutt
+  - color theory
+  - design
+  - design 101
+  - design online course
+  - design101
+  - designlab
+  - designlab course
+  - designlab design 101
+  - featured
+  - final project
+  - layout
+  - online course
+  - online design course
+  - process
+  - typography
+  - visual hierarchy
+  - web design
 categories:
-- blog
-- program
-- portfolio
-
+  - blog
+  - program
+  - portfolio
 ---
+
 ## Name
 
 [Designlab - Design 101](//trydesignlab.com)

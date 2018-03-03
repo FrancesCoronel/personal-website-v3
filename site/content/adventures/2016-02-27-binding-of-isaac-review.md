@@ -1,60 +1,60 @@
 ---
-title: "Binding of Isaac - Review \U0001F480"
-date: 2016-02-27 00:00:00 +0000
+title: "Binding of Isaac - Review 💀"
+date: 2016-02-27
 description: My review of the 'Binding of Isaac' desktop game.
 banner: https://fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg
 categories:
-- blog
+    - blog
 tags:
-- apocalypse
-- background
-- binding
-- binding of isaac
-- binding of isaac review
-- bloody game
-- conquest
-- damage
-- death
-- envy
-- famine
-- featured
-- game
-- game review
-- games
-- gaming
-- gluttony
-- greed
-- hearty
-- indie game
-- isaac
-- lust
-- max's head
-- meat boy
-- mini
-- oss
-- minions
-- mom
-- monsters
-- morbid
-- mother
-- pestilence
-- pride
-- randomly generated
-- re-birth
-- religion
-- religious
-- review
-- screenshots
-- seven deadly sins
-- sins
-- sloth
-- spoiler
-- spoilers
-- traumatized
-- war
-- wrath
-
+    - apocalypse
+    - background
+    - binding
+    - binding of isaac
+    - binding of isaac review
+    - bloody game
+    - conquest
+    - damage
+    - death
+    - envy
+    - famine
+    - featured
+    - game
+    - game review
+    - games
+    - gaming
+    - gluttony
+    - greed
+    - hearty
+    - indie game
+    - isaac
+    - lust
+    - max's head
+    - meat boy
+    - mini
+    - oss
+    - minions
+    - mom
+    - monsters
+    - morbid
+    - mother
+    - pestilence
+    - pride
+    - randomly generated
+    - re-birth
+    - religion
+    - religious
+    - review
+    - screenshots
+    - seven deadly sins
+    - sins
+    - sloth
+    - spoiler
+    - spoilers
+    - traumatized
+    - war
+    - wrath
 ---
+
 [![Binding of
 Isaac](//fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg)](//fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg)
 

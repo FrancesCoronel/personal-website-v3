@@ -1,12 +1,12 @@
 ---
 title: Fluent Conference
 description: Sponsored by OReilly.
-date: 2016-03-10 00:00:00 +0000
+date: 2016-03-10
 banner: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0526.jpg
 categories:
-- conference
-
+    - conference
 ---
+
 ## Name
 
 <a title="Fluent Conference" href="//conferences.oreilly.com/fluent/javascript-html-us/" target="_blank" rel="noopener">Fluent Conference</a>

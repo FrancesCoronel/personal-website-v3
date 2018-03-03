@@ -1,19 +1,15 @@
 ---
-title: "Mentoring \U0001F4DA"
+title: Mentoring 📚
 description: I enjoy mentoring folks 1-on-1 on tech-related topics.
 banner: https://i.imgur.com/BqiFTqF.jpg
 mentoring: true
 isotope: true
 aliases:
-- "/services/"
-- "/services/mentoring/"
-- "/mentoring/"
-type: page
-menu:
-  main:
-    weight: 9
-
+  - /services/
+  - /services/mentoring/
+  - /mentoring/
 ---
+
 ## Generally speaking, I enjoy mentoring on how to prepare for coding bootcamps but I have teachable experience in web development, web design, and all sorts of nifty dev, design, or productivity tools.
 
 So far, I’ve helped out folks who have successfully gone on to coding bootcamps like [Fullstack Academy](//fullstackacademy.com), [Hack Reactor](//hackreactor.com), and [MakerSquare](//makersquare.com).

@@ -1,53 +1,52 @@
 ---
-title: Fullstack Academy - Week 5
-date: 2015-07-11 00:00:00 +0000
-description: July 6th to July 10th. There are 57 days of Fullstack Academy. These
-  are days 22 through 26. Week 5.
+title: "Fullstack Academy - Week 5"
+date: 2015-07-11
+description: "July 6th to July 10th. There are 57 days of Fullstack Academy. These are days 22 through 26. Week 5."
 banner: https://fvcproductions.files.wordpress.com/2015/07/banners-0012.jpg
 tags:
-- ailey extension
-- ajax
-- angular
-- angularjs
-- avalon
-- beta
-- beta day
-- binary trees
-- bootstrap
-- cDock
-- code school
-- command line
-- css3
-- el capitan
-- emoji
-- featured
-- flashcards
-- flavours
-- fullstack academy week 5
-- fullstack beta
-- fullstack fellows
-- gavin young
-- hip hop
-- hot seat
-- html5
-- LiteIcon
-- meetups
-- michael
-- osx
-- osx el capitan
-- rihanna
-- seema
-- slack
-- socket.io
-- trip planner
-- tron legacy
-- ubersicht
-- whiteboard
-- women who code
+    - ailey extension
+    - ajax
+    - angular
+    - angularjs
+    - avalon
+    - beta
+    - beta day
+    - binary trees
+    - bootstrap
+    - cDock
+    - code school
+    - command line
+    - css3
+    - el capitan
+    - emoji
+    - featured
+    - flashcards
+    - flavours
+    - fullstack academy week 5
+    - fullstack beta
+    - fullstack fellows
+    - gavin young
+    - hip hop
+    - hot seat
+    - html5
+    - LiteIcon
+    - meetups
+    - michael
+    - osx
+    - osx el capitan
+    - rihanna
+    - seema
+    - slack
+    - socket.io
+    - trip planner
+    - tron legacy
+    - ubersicht
+    - whiteboard
+    - women who code
 categories:
-- blog
-
+    - blog
 ---
+
 > July 6th to July 10th
 >
 > There are 57 days of [**Fullstack Academy**](//www.fullstackacademy.com).

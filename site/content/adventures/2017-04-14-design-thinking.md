@@ -1,12 +1,12 @@
 ---
 title: PathFinder
-date: 2017-04-14 00:00:00 +0000
+date: 2017-04-14
 description: Visualize your future.
 banner: https://i.ytimg.com/vi/WAGKzph41Rg/hqdefault.jpg
 categories:
-- portfolio
-
+  - portfolio
 ---
+
 ## I took a design thinking course at Cornell Tech
 
 For my Design Thinking class at Cornell Tech, my team - **Ohana** - came up with the final project of **PathFinder**.

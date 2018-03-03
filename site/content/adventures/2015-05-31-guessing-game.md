@@ -1,13 +1,13 @@
 ---
 title: The Guessing Game ⁉️
-date: 2015-05-31 00:00:00 +0000
+date: 2015-05-31
 banner: https://fvcproductions.files.wordpress.com/2015/06/unknown.png
 categories:
-- portfolio
-- web
-- oss
-
+  - portfolio
+  - web
+  - oss
 ---
+
 # Overview
 
 I created a guessing game for the Foundations stage of [Fullstack Academy](https://fullstackacademy.com).

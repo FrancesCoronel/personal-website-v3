@@ -1,19 +1,17 @@
 ---
 title: The Chinese Wall
-date: 2013-12-08 00:00:00 +0000
-description: I was part of the backstage crew for 'The Chinese Wall' play at Jacobs
-  University Bremen and was put in charge of marketing material and coordinating the
-  special sound effects.
+date: 2013-12-08
+description: I was part of the backstage crew for 'The Chinese Wall' play at Jacobs University Bremen and was put in charge of marketing material and coordinating the special sound effects.
 banner: https://i.imgur.com/3srpjrf.png
 categories:
-- portfolio
-- design
+  - portfolio
+  - design
 tags:
-- flyers
-- banners
-- marketing
-
+  - flyers
+  - banners
+  - marketing
 ---
+
 I was part of the backstage crew for "The Chinese Wall" play at Jacobs University Bremen.
 
 In addition to being in charge of everything marketing related, I was also in charge of all the special sound effects.

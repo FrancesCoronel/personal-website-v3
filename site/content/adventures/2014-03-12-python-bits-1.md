@@ -1,27 +1,27 @@
 ---
-title: Python Bits - Getting Started
-date: 2014-03-12 00:00:00 +0000
-description: The first bit in a mini-series for beginners of Python.
+title: "Python Bits - Getting Started"
+date: 2014-03-12
+description: "The first bit in a mini-series for beginners of Python."
 banner: https://fvcproductions.files.wordpress.com/2014/06/python.jpg?w=1024&h=435&crop=1
 categories:
-- blog
-- coding
+    - blog
+    - coding
 tags:
-- area of a rectangle python
-- digital hieroglyphics
-- initializing
-- installation
-- integers
-- numerical expressions
-- printing
-- python
-- python 3
-- python area of a
-- circle
-- python bits
-- strings python
-
+    - area of a rectangle python
+    - digital hieroglyphics
+    - initializing
+    - installation
+    - integers
+    - numerical expressions
+    - printing
+    - python
+    - python 3
+    - python area of a
+    - circle
+    - python bits
+    - strings python
 ---
+
 ### Hello, hello, hello!
 
 Welcome to Python Bits, where you're introduced to increasingly difficult program problems that you can solve… or not.

@@ -1,15 +1,15 @@
 ---
 title: InNOVAtion Hackathon
 description: My first speaking event at an MLH hackathon!
-date: 2016-04-09 00:00:00 +0000
+date: 2016-04-09
 banner: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0975.jpg
 categories:
-- hackathon
-- speaking
-- webdesign
-- wizard
-
+  - hackathon
+  - speaking
+  - webdesign
+  - wizard
 ---
+
 ## Name
 
 [InNOVAtion Hackathon](//novahackathon.org)

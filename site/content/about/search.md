@@ -1,12 +1,12 @@
 ---
-title: "Search \U0001F50D️"
+title: Search 🔍️
 description: Search across my website!
 banner: https://upload.wikimedia.org/wikipedia/commons/9/96/Google_web_search.png
 noComments: true
 aliases:
-- "/search/"
-
+  - /search/
 ---
+
 ## Enter your search term below and press enter.
 
 <style>

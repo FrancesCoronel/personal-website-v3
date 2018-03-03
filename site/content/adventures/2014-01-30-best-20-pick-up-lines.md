@@ -1,45 +1,45 @@
 ---
-title: The Best 20 Pick Up Lines
-date: 2014-01-30 00:00:00 +0000
-description: Pick up lines I thought of.
+title: "The Best 20 Pick Up Lines"
+date: 2014-01-30
+description: "Pick up lines I thought of."
 banner: https://fvcproductions.files.wordpress.com/2014/03/banners-0011.jpg?w=1024&h=436&crop=1
 tags:
-- alien
-- beauty
-- Bieber
-- blanket
-- Burger King
-- cheese
-- cheesy
-- cold
-- crush
-- Dairy Queen
-- dictionary
-- dinosaurs
-- falling
-- funny
-- good looks
-- hands
-- heart
-- Justin
-- kiss
-- lips
-- lonely
-- love
-- pick up lines
-- pictures
-- romance
-- silly
-- socks
-- surgeon
-- transplant
-- walk
-- whales
-- word
+    - alien
+    - beauty
+    - Bieber
+    - blanket
+    - Burger King
+    - cheese
+    - cheesy
+    - cold
+    - crush
+    - Dairy Queen
+    - dictionary
+    - dinosaurs
+    - falling
+    - funny
+    - good looks
+    - hands
+    - heart
+    - Justin
+    - kiss
+    - lips
+    - lonely
+    - love
+    - pick up lines
+    - pictures
+    - romance
+    - silly
+    - socks
+    - surgeon
+    - transplant
+    - walk
+    - whales
+    - word
 categories:
-- blog
-
+    - blog
 ---
+
 I originally made this list January 30, 2014.
 
 I figured I would switch things up a bit since I published a [long list of insults](/blog/2014/03/04/the-best-50-insults-i-found-online/) and so I'm going to go ahead and post some of my favorite pick up lines.

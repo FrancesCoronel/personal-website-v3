@@ -1,13 +1,13 @@
 ---
 title: Cornell Tech
 description: Master of Engineering in Computer Science
-date: 2017-05-26 00:00:00 +0000
+date: 2017-05-26
 banner: https://i.imgur.com/2Z3jGeg.jpg
 categories:
-- education
-- award
-
+  - education
+  - award
 ---
+
 ## Institution
 
 [Cornell Tech](//tech.cornell.edu)

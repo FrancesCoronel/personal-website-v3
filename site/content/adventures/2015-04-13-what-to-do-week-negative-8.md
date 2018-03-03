@@ -1,18 +1,19 @@
 ---
-title: What To Do, What To Do, Week -8
-date: 2015-04-13 00:00:00 +0000
-description: After applying and interviewing for a bunch of internships and coding
-  bootcamps and receiving a bunch of rejections and acceptances, I've decided to head
-  to Fullstack Academy this summer.
+title: "What To Do, What To Do, Week -8"
+date: 2015-04-13
+description: "After applying and interviewing for
+a bunch of internships and coding bootcamps and receiving a bunch of
+rejections and acceptances, I've decided to head to Fullstack Academy
+this summer."
 banner: https://fvcproductions.files.wordpress.com/2015/04/fullstack-academy-banner.jpg?w=1024&h=435&crop=1
 tags:
-- internships
-- fullstack academy
-- coding bootcamps
+    - internships
+    - fullstack academy
+    - coding bootcamps
 categories:
-- blog
-
+    - blog
 ---
+
 # These are interesting times.
 
 After applying and interviewing for a bunch of internships and coding bootcamps and receiving a bunch of rejections and acceptances, I've decided to head to [Fullstack Academy](//fullstackacademy.com "Fullstack Academy") this summer which is located in New York City to be part of their inaugural class for their [Summer of Code](//www.fullstackacademy.com/summer-of-code "Fullstack Academy | Summer of Code") program. Ok, wow, that was a mouthful![![Summer of Code | Fullstack

@@ -1,75 +1,144 @@
-baseURL = "https://fvcproductions.com"
-defaultContentLanguage = "en"
-disqusShortname = "fvcproductions"
-enableEmoji = true
-footnoteReturnLinkContents = "↩"
-googleAnalytics = "UA-63190978-3"
-languageCode = "en-us"
-metaDataFormat = "yaml"
-preserveTaxonomyNames = false
-pygmentsCodefences = true
+baseURL                       = "https://fvcproductions.com"
+title                         = "FVCproductions"
+metaDataFormat                = "yaml"
+enableEmoji                   = true
+footnoteReturnLinkContents    = "↩"
+
+# Language
+languageCode                  = "en-us"
+defaultContentLanguage        = "en"
+
+# Categories
+preserveTaxonomyNames         = false
+
+# Code
+pygmentsCodefences            = true
 pygmentsCodefencesGuessSyntax = true
-pygmentsStyle = "manni"
-title = "FVCproductions"
-[author]
-copyright = "©️ FVCproductions"
-name = "Frances Coronel"
-[[menu.main]]
-name = "Home 🏠"
-url = "/"
-weight = 1
-[outputFormats.RSS]
-baseName = "feed"
-mediatype = "application/rss"
+pygmentsStyle                 = "manni"
+# pygmentsOptions             = "linenos=table"
+
+# Internal Templates
+googleAnalytics               = "UA-63190978-3"
+disqusShortname               = "fvcproductions"
+
+# RSS
 [outputs]
-home = ["HTML", "AMP", "RSS"]
-page = ["HTML", "AMP"]
+    home                      = ["HTML", "AMP", "RSS"]
+    page                      = ["HTML", "AMP"]
+
+[outputFormats]
+    [outputFormats.RSS]
+        mediatype             = "application/rss"
+        baseName              = "feed"
+
+# Homepage
 [params]
-copyright = "FVCproductions"
-description = "I like to dabble with things that ought to be dabbled with. 🍫️🍓️️"
-headline = "Hey there, I'm Frances! 👋\u{1F3FD}️"
-year = 2013
+    headline                  = "Hey there, I'm Frances! 👋🏽️"
+    description               = "I like to dabble with things that ought to be dabbled with. 🍫️🍓️️"
+    copyright                 = "FVCproductions"
+    year                      = 2013
+
+# Permalinks
 [permalinks]
-adventures = "/:year/:month/:day/:title/"
-blog = "/blog/:year/:month/:day/:title/"
-portfolio = "/portfolio/:year/:month/:day/:title/"
+  adventures                  = "/:year/:month/:day/:title/"
+  blog                        = "/blog/:year/:month/:day/:title/"
+  portfolio                   = "/portfolio/:year/:month/:day/:title/"
+
+# Navigation Menu
+[[menu.main]]
+    name                      = "Home 🏠"
+    url                       = "/"
+    weight                    = 1
+
+[[menu.main]]
+    name                      = "About 👀"
+    url                       = "/about"
+    weight                    = 2
+
+[[menu.main]]
+    name                      = "Adventures ✈️"
+    url                       = "/adventures"
+    weight                    = 3
+
+[[menu.main]]
+    name                      = "Archive 🕒️"
+    url                       = "/archive"
+    weight                    = 4
+
+[[menu.main]]
+    name                      = "Awards 🏆️"
+    url                       = "/awards"
+    weight                    = 5
+
+[[menu.main]]
+   name                       = "Blog 📝️"
+   url                        = "/blog"
+   weight                     = 6
+
+[[menu.main]]
+    name                      = "Freelancing 💎"
+    url                       = "/freelancing"
+    weight                    = 7
+
+[[menu.main]]
+    name                      = "Mentoring 📚"
+    url                       = "/mentoring"
+    weight                    = 9
+
+[[menu.main]]
+    name                      = "Portfolio 💼"
+    url                       = "/portfolio"
+    weight                    = 9
+
+[[menu.main]]
+    name                      = "Speaking 💬️"
+    url                       = "/speaking"
+    weight                    = 10
+
+# Social Links
 [social]
-amazon = "AGCK4BOZOTAMEA4HTNM2DF7AL4RA"
-angellist = "fvcproductions"
-behance = "fvcproductions"
-calendly = "fvcproductions"
-codepen = "fvcproductions"
-deviantart = "fvcproductions"
-dribbble = "fvcproductions"
-email = "hello@fvcproductions.com"
-etsy = "fvcproductions"
-freecodecamp = "fvcproductions"
-github = "fvcproductions"
-gitlab = "fvcproductions"
-goodreads = "fvcproductions"
-googleplus = "fvcproductions2013"
-hackernews = "fvcproductions"
-houzz = "fvcproductions"
-imgur = "fvcproductions"
-linkedin = "fvcproductions"
-medium = "@fvcproductions"
-meetup = "182920007"
-paypal = "fvcproductions"
-producthunt = "fvcproductions"
-quora = "fvcproductions"
-reddit = "fvcproductions"
-rottentomatoes = "966430171"
-scribd = "194063411/FVCproductions"
-slideshare = "fvcproductions"
-soundcloud = "fvcproductions"
-spotify = "fvcproductions"
-stackexchange = "3595658/fvcproductions"
-stackoverflow = "3000467/fvcproductions"
-steam = "fvcproductions"
-trello = "fvcproductions"
-tumblr = "fvcproductions2013"
-twitter = "fvcproductions"
-vimeo = "fvcproductions"
-wordpress = "fvcproductions"
-yelp = "E6StflkoWAutmRZ31zNTug"
-youtube = "fvcproductions2013"
+    amazon                    = "AGCK4BOZOTAMEA4HTNM2DF7AL4RA"
+    angellist                 = "fvcproductions"
+    behance                   = "fvcproductions"
+    calendly                  = "fvcproductions"
+    codepen                   = "fvcproductions"
+    deviantart                = "fvcproductions"
+    dribbble                  = "fvcproductions"
+    email                     = "hello@fvcproductions.com"
+    etsy                      = "fvcproductions"
+    # facebook                = "fvcproductions"
+    freecodecamp              = "fvcproductions"
+    github                    = "fvcproductions"
+    gitlab                    = "fvcproductions"
+    goodreads                 = "fvcproductions"
+    googleplus                = "fvcproductions2013"
+    hackernews                = "fvcproductions"
+    houzz                     = "fvcproductions"
+    # instagram               = "fvcproductions"
+    imgur                     = "fvcproductions"
+    linkedin                  = "fvcproductions"
+    medium                    = "@fvcproductions"
+    meetup                    = "182920007"
+    paypal                    = "fvcproductions"
+    producthunt               = "fvcproductions"
+    quora                     = "fvcproductions"
+    reddit                    = "fvcproductions"
+    rottentomatoes            = "966430171"
+    scribd                    = "194063411/FVCproductions"
+    slideshare                = "fvcproductions"
+    soundcloud                = "fvcproductions"
+    spotify                   = "fvcproductions"
+    stackexchange             = "3595658/fvcproductions"
+    stackoverflow             = "3000467/fvcproductions"
+    steam                     = "fvcproductions"
+    trello                    = "fvcproductions"
+    tumblr                    = "fvcproductions2013"
+    twitter                   = "fvcproductions"
+    vimeo                     = "fvcproductions"
+    wordpress                 = "fvcproductions"
+    yelp                      = "E6StflkoWAutmRZ31zNTug"
+    youtube                   = "fvcproductions2013"
+
+[author]
+    name                      = "Frances Coronel"
+    copyright                 = "©️ FVCproductions"

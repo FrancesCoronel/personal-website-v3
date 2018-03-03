@@ -1,14 +1,13 @@
 ---
 title: Duolingo Anagram Checker ✅
-date: 2016-10-18 00:00:00 +0000
-description: I created this simple website as part of the Duolingo PM intern interview
-  process.
+date: 2016-10-18
+description: I created this simple website as part of the Duolingo PM intern interview process.
 banner: https://i.imgur.com/ozMNdqh.png
 categories:
-- portfolio
-- web
-
+  - portfolio
+  - web
 ---
+
 I created this simple website as part of the Duolingo PM intern interview process.
 
 ### Features

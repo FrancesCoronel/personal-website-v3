@@ -1,13 +1,13 @@
 ---
-title: "An Intro for CS Majors \U0001F4D8"
-date: 2015-03-12 00:00:00 +0000
+title: An Intro for CS Majors 📘
+date: 2015-03-12
 banner: https://i.imgur.com/YpP5kSK.jpg
 categories:
-- portfolio
-- book
-- web
-
+  - portfolio
+  - book
+  - web
 ---
+
 > Originally started February 2015.
 >
 > Last updated April 2015.
