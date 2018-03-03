@@ -25,7 +25,6 @@ contact: false
 portfolio: false
 speaking: false
 isotope: false
-draft: true
 '': ''
 
 ---
