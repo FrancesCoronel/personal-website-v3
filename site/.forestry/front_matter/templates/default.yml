@@ -5,92 +5,58 @@ fields:
   label: Title
   type: text
   hidden: false
-  default: 
+  default: ''
+  config:
+    required: true
+  description: A short and sweet eye catcher.
 - name: date
   label: Date
   type: text
   hidden: false
-  default: 
+  default: ''
+  description: When this post was finalized.
 - name: description
   label: Description
   type: text
   hidden: false
-  default: A brief description goes here.
+  default: ''
+  config:
+    required: true
+  description: A brief description of the post.
 - name: banner
   label: Banner
   type: text
   hidden: false
-  default: Link to image on Imgur.
+  default: ''
+  description: A link to the featured image that is hosted on Imgur.
 - name: caption
   label: Caption
   type: text
   hidden: false
-  default: Caption for banner image.
+  default: ''
+  description: Caption for banner image.
 - name: bannerLink
   label: Bannerlink
   type: text
   hidden: false
-  default: Link image points to.
+  default: ''
+  description: Link the featured image points to.
 - name: link
   label: Link
   type: text
   hidden: false
-  default: Link article redirects to.
+  default: ''
+  description: Link this post redirects to (assumes there will be no content).
 - name: draft
   label: Draft
-  type: boolean
-  hidden: false
-  default: true
-- name: alphabetical
-  label: Alphabetical
   type: boolean
   hidden: false
   default: true
 - name: noComments
   label: Nocomments
   type: boolean
-  hidden: false
-  default: true
-- name: adventures
-  label: Adventures
-  type: boolean
-  hidden: false
-  default: true
-- name: archive
-  label: Archive
-  type: boolean
-  hidden: false
-  default: true
-- name: awards
-  label: Awards
-  type: boolean
-  hidden: false
-  default: true
-- name: blog
-  label: Blog
-  type: boolean
-  hidden: false
-  default: true
-- name: contact
-  label: Contact
-  type: boolean
-  hidden: false
-  default: true
-- name: portfolio
-  label: Portfolio
-  type: boolean
-  hidden: false
-  default: true
-- name: speaking
-  label: Speaking
-  type: boolean
-  hidden: false
-  default: true
-- name: isotope
-  label: Isotope
-  type: boolean
-  hidden: false
-  default: true
+  hidden: true
+  default: false
 - name: categories
   label: Categories
   type: tag_list
@@ -118,6 +84,7 @@ fields:
   - tutorial
   - video
   - web
+  - 2018
   - 2017
   - 2016
   - 2015
@@ -126,9 +93,10 @@ fields:
   - wizard
   - typescript101
   - webdesign
+  description: Categories help differentiate what kind of post this is.
 - name: tags
   label: Tags
   type: tag_list
   hidden: false
-  default:
-  - insert tags for article
+  default: ''
+  description: Tags are useful for SEO.
