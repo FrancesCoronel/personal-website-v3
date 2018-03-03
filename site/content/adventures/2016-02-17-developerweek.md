@@ -1,13 +1,13 @@
 ---
-title: "DeveloperWeek"
-description: "Conference for developers in SF"
-date: 2016-02-17
+title: DeveloperWeek
+description: Conference for developers in SF
+date: 2016-02-17 00:00:00 +0000
 banner: https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0270.jpg
 categories:
-    - conference
-    - volunteering
----
+- conference
+- volunteering
 
+---
 ## Name
 
 <a title="DeveloperWeek" href="//developerweek.com" target="_blank" rel="noopener">DeveloperWeek</a>

@@ -1,16 +1,17 @@
 ---
 title: Texting While Driving
-date: 2014-04-07
-description: As part of a health project, my team and I tackled the effects of texting while driving.
+date: 2014-04-07 00:00:00 +0000
+description: As part of a health project, my team and I tackled the effects of texting
+  while driving.
 banner: https://i.imgur.com/Nx23XBu.jpg
 categories:
-  - portfolio
-  - design
-  - research
-  - presentation
-  - video
----
+- portfolio
+- design
+- research
+- presentation
+- video
 
+---
 As part of a health project, my team and I tackled the effects of texting while driving.
 
 ## Paper

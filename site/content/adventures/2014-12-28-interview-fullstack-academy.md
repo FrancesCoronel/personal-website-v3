@@ -1,26 +1,27 @@
 ---
-title: "Interview with Fullstack Academy of Code"
-date: 2014-12-28
-description: "This is where I'll go through how my admissions process was with Fullstack Academy of Code based in NYC."
+title: Interview with Fullstack Academy of Code
+date: 2014-12-28 00:00:00 +0000
+description: This is where I'll go through how my admissions process was with Fullstack
+  Academy of Code based in NYC.
 banner: https://fvcproductions.files.wordpress.com/2014/12/img_9625-2.jpg
 tags:
-    - admissions
-    - application
-    - Coding
-    - coding bootcamps
-    - coding challenge
-    - decision
-    - dev bootcamps
-    - full stack academy of code
-    - fullstack
-    - fullstack academy
-    - fvcproductions
-    - huntly
-    - interview
+- admissions
+- application
+- Coding
+- coding bootcamps
+- coding challenge
+- decision
+- dev bootcamps
+- full stack academy of code
+- fullstack
+- fullstack academy
+- fvcproductions
+- huntly
+- interview
 categories:
-    - blog
----
+- blog
 
+---
 # [![](//static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png)](//static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png)
 
 # Interview With [Fullstack Academy of Code](//www.fullstackacademy.com "Fullstack Academy of Code")

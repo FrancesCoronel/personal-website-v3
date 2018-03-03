@@ -1,14 +1,14 @@
 ---
 title: Dragon Fly
-date: 2013-09-18
+date: 2013-09-18 00:00:00 +0000
 description: Customizing my desktop layout.
 banner: https://i.imgur.com/pK0rC1z.png
 categories:
-  - portfolio
-  - design
+- portfolio
+- design
 tags:
-  - geektool
-  - deviantart icons
----
+- geektool
+- deviantart icons
 
+---
 Here, I used Geektool and DeviantArt icons to bring this to life.

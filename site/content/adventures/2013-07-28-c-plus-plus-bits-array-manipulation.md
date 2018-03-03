@@ -1,14 +1,14 @@
 ---
-title: "C++ Bits - Array Manipulation ✂️"
-date: 2013-07-30
-description: "Manipulating arrays in C++."
+title: C++ Bits - Array Manipulation ✂️
+date: 2013-07-30 00:00:00 +0000
+description: Manipulating arrays in C++.
 banner: https://fvcproductions.files.wordpress.com/2013/07/banners-002.jpg?w=1024&h=436&crop=1
 categories:
-    - blog
+- blog
 tags:
-    - c++
----
+- c++
 
+---
 ## Purpose
 
 To do real simpleton array manipulation. To use functions with awkward arrays.

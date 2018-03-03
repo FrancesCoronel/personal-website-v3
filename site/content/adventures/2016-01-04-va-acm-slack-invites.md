@@ -1,12 +1,13 @@
 ---
-title: "VA ACM Slack Invites 👥"
-date: 2016-01-04
-description: Meet with other ACM student members and be updated on the latest announcements to get more involved in the local tech community.
+title: "VA ACM Slack Invites \U0001F465"
+date: 2016-01-04 00:00:00 +0000
+description: Meet with other ACM student members and be updated on the latest announcements
+  to get more involved in the local tech community.
 banner: https://i.imgur.com/hFejl3G.png
 categories:
-  - portfolio
----
+- portfolio
 
+---
 Check out the web app at [`va-acm.stamplayapp.com`](https://va-acm.stamplayapp.com/)
 
 This project was built on January 4th, 2016 using the [Stamplay](https://stamplay.com) platform to show you how to automate sign-ups to your [Slack](https://slack.com) community in just 30 minutes.

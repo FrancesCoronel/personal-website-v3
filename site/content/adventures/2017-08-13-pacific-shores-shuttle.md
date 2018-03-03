@@ -1,18 +1,19 @@
 ---
 title: Pacific Shores Shuttle App
-date: 2017-08-13
-description: If you work at Pacific Shores, you can figure out when the next shuttle is coming!
+date: 2017-08-13 00:00:00 +0000
+description: If you work at Pacific Shores, you can figure out when the next shuttle
+  is coming!
 banner: https://i.imgur.com/IBedZom.png
 categories:
-  - portfolio
-  - oss
-  - web
+- portfolio
+- oss
+- web
 tags:
-  - pwa
-  - angular cli
-  - angular
----
+- pwa
+- angular cli
+- angular
 
+---
 As part of preparation for an upcoming client project that used the new Angular CLI, I created this very small app that showcases the Pacific Shores Shuttle schedule.
 
 <blockquote class="embedly-card"><h4><a href="https://pacificshoresshuttle.com/">Pacific Shores Shuttle</a></h4><p>If you work at Pacific Shores, you can figure out when the next shuttle is coming! 🚌</p></blockquote>

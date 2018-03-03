@@ -3,8 +3,8 @@ title: Colophon ⚙️
 description: Unveiling the inner workings of this website.
 banner: https://i.imgur.com/D4dPpG2.jpg
 noComments: true
----
 
+---
 ## Copyright ∞ FVCproductions
 
 Originally published 2013.

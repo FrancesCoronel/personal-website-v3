@@ -1,14 +1,14 @@
 ---
 title: Hampton University
 description: Bachelor of Science in Computer Science
-date: 2016-05-04
+date: 2016-05-04 00:00:00 +0000
 banner: https://fvcproductions.files.wordpress.com/2016/02/screenshot-2016-05-12-15-18-19.png
 aliases:
-  - /education/2016/05/04/hu/
+- "/education/2016/05/04/hu/"
 categories:
-  - education
----
+- education
 
+---
 ## Institution
 
 <a title="Hampton University" href="https://hamptonu.edu" target="_blank" rel="noopener">Hampton University</a>

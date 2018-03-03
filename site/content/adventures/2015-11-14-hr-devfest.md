@@ -1,14 +1,14 @@
 ---
 title: HR DevFest
-date: 2015-11-14
+date: 2015-11-14 00:00:00 +0000
 description: My first speaking event at a tech conference!
 banner: https://fvcproductions.files.wordpress.com/2015/11/issuetrak-conference-00831.jpg
 categories:
-  - conference
-  - speaking
-  - webdesign
----
+- conference
+- speaking
+- webdesign
 
+---
 ## Name
 
 [HR (Hampton Roads) DevFest](//hrdevfest.org)

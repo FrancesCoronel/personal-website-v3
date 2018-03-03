@@ -1,28 +1,28 @@
 ---
-title: "My Top 3 Productivity Apps 🎩"
-date: 2015-03-28
-description: "RIP"
+title: "My Top 3 Productivity Apps \U0001F3A9"
+date: 2015-03-28 00:00:00 +0000
+description: RIP
 banner: https://fvcproductions.files.wordpress.com/2015/03/topproductivityapps-001.jpg?w=1024&h=436&crop=1
 tags:
-    - alfred
-    - amphetamine
-    - automator
-    - Bartender
-    - BetterSnapTool
-    - dash
-    - Flux
-    - import multiple fonts
-    - pdf to images
-    - productivity
-    - rename multiple photos
-    - sorty
-    - ubersicht
-    - what I use
-    - yoink
+- alfred
+- amphetamine
+- automator
+- Bartender
+- BetterSnapTool
+- dash
+- Flux
+- import multiple fonts
+- pdf to images
+- productivity
+- rename multiple photos
+- sorty
+- ubersicht
+- what I use
+- yoink
 categories:
-    - blog
----
+- blog
 
+---
 > Every week I find a new reason to love my MacBook Air.
 >
 > And by MacBook Air, I really just mean the OS X system but the hardware is okay too.

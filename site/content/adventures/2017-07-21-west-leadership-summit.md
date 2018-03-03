@@ -1,12 +1,13 @@
 ---
 title: West AAERG/HAERG Leadership Summit
-date: 2017-07-21
-description: Accenture's annual leadership summit for African American and Hispanic American employees.
+date: 2017-07-21 00:00:00 +0000
+description: Accenture's annual leadership summit for African American and Hispanic
+  American employees.
 banner: https://fvcproductions.files.wordpress.com/2017/07/westleadershipsummit-5.jpeg
 categories:
-    - conference
----
+- conference
 
+---
 ## Name
 
 <a title="West AAERG/HAERG Leadership Summit" href="//www.accenture.com/us-en/company-diversity" target="_blank" rel="noopener">West AAERG/HAERG Leadership Summit</a>

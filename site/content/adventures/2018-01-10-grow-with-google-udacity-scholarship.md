@@ -1,16 +1,16 @@
 ---
 title: Grow with Google Udacity Scholarship
-date: 2018-01-10
+date: 2018-01-10 00:00:00 +0000
 description: Awarded access to the Intermediate Level - Mobile Web Specialist Track.
 banner: https://i.imgur.com/TDXjQcA.png
 categories:
-  - award
-  - program
+- award
+- program
 tags:
-  - GoogleUdacityScholars
-  - GrowWithGoogle
----
+- GoogleUdacityScholars
+- GrowWithGoogle
 
+---
 I was awarded the Grow with Google scholarship for the Intermediate Mobile Web Specialist Track.
 
 10K students accepted to this specific track out of over 100K applicants across the US. They offered 25K spots for the Web track and another 25K spots for the Android track so about half of applicants got accepted overall.

@@ -1,12 +1,14 @@
 ---
-title: "Change Your Icons on Yosemite with Scripting 🔧"
-date: 2015-03-29
-description: I got tired of Yosemite's icons and decided to take some initiative without the usual dependency on an app. It took about 2 days for me to perfect this strategy and now it's time to make your process a lot easier than mine.
+title: "Change Your Icons on Yosemite with Scripting \U0001F527"
+date: 2015-03-29 00:00:00 +0000
+description: I got tired of Yosemite's icons and decided to take some initiative without
+  the usual dependency on an app. It took about 2 days for me to perfect this strategy
+  and now it's time to make your process a lot easier than mine.
 banner: https://fvcproductions.files.wordpress.com/2015/03/banner-new-icons.png?w=1024&h=435&crop=1
 categories:
-    - blog
----
+- blog
 
+---
 > for all you machines out there
 
 **Index**

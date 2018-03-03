@@ -1,31 +1,32 @@
 ---
-title: Fullstack Academy - Week 3 🔦
-date: 2015-06-26
-description: June 22nd to 26th. There are 57 days in Fullstack. These are the third 5.
+title: "Fullstack Academy - Week 3 \U0001F526"
+date: 2015-06-26 00:00:00 +0000
+description: June 22nd to 26th. There are 57 days in Fullstack. These are the third
+  5.
 banner: https://fvcproductions.files.wordpress.com/2015/06/banners-0011.jpg
 categories:
-  - blog
+- blog
 tags:
-  - aline lerner
-  - alumni panel
-  - american museum of natural history
-  - avalon
-  - board game
-  - coding bootcamps
-  - dinos
-  - DropBox
-  - duck bill
-  - equality
-  - fullstack
-  - fullstack academy
-  - gay marriage legal now
-  - museum
-  - Robert Langdon
-  - same sex marriage
-  - week 3
-  - wikistack
----
+- aline lerner
+- alumni panel
+- american museum of natural history
+- avalon
+- board game
+- coding bootcamps
+- dinos
+- DropBox
+- duck bill
+- equality
+- fullstack
+- fullstack academy
+- gay marriage legal now
+- museum
+- Robert Langdon
+- same sex marriage
+- week 3
+- wikistack
 
+---
 > June 22nd to 26th.
 >
 > There are 57 days in Fullstack. These are the third 5.

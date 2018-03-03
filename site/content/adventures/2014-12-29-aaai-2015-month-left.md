@@ -1,29 +1,29 @@
 ---
-title: "AAAI 2015 Winter Conference - A Month Left"
-date: 2014-12-29
-description: "One month left till the AAAI 2015 Conference."
+title: AAAI 2015 Winter Conference - A Month Left
+date: 2014-12-29 00:00:00 +0000
+description: One month left till the AAAI 2015 Conference.
 banner: https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg
 tags:
-    - aaai
-    - aaai 2015
-    - AI
-    - ai conference
-    - artificial intelligence
-    - austin
-    - conference
-    - conference hotel
-    - costs
-    - fvcproductions
-    - machine learning
-    - month left
-    - pricey
-    - robotics
-    - texas
-    - winter conference
+- aaai
+- aaai 2015
+- AI
+- ai conference
+- artificial intelligence
+- austin
+- conference
+- conference hotel
+- costs
+- fvcproductions
+- machine learning
+- month left
+- pricey
+- robotics
+- texas
+- winter conference
 categories:
-    - blog
----
+- blog
 
+---
 # Holy crap, I just got my plane ticket for this.
 
 It's happening.

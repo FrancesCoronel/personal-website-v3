@@ -1,14 +1,15 @@
 ---
 title: Product School
-date: 2016-12-17
-description: Product School is an education startup that offers Product Management courses in San Francisco, Silicon Valley, New York and Los Angeles.
+date: 2016-12-17 00:00:00 +0000
+description: Product School is an education startup that offers Product Management
+  courses in San Francisco, Silicon Valley, New York and Los Angeles.
 banner: https://fvcproductions.files.wordpress.com/2016/10/img_2266.jpg
 aliases:
-  - /programs/2016/12/17/product-school/
+- "/programs/2016/12/17/product-school/"
 categories:
-    - program
----
+- program
 
+---
 ![Product School](https://cdn.evbuc.com/eventlogos/110662633/pslogoeventimage.png)
 
 ## Name

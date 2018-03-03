@@ -1,17 +1,17 @@
 ---
 title: A Vegas Tale
-date: 2018-02-11
+date: 2018-02-11 00:00:00 +0000
 description: How healthiness and hope won over greed and conformity.
 banner: https://i.imgur.com/UtTdh6q.jpg
 categories:
-  - portfolio
-  - book
+- portfolio
+- book
 tags:
-  - vegetarian
-  - vegan
-  - alpaca
----
+- vegetarian
+- vegan
+- alpaca
 
+---
 Way back in the day (not even sure how long ago), I decided to apply for a scholarship competition.
 
 The goal of the competition was to find creative ways to convince people veganism was a good idea.

@@ -1,41 +1,42 @@
 ---
-title: "All The (Bootcamp) Things 🎉"
-date: 2016-03-31
-description: I've decided to compile all the coding bootcamp things and organize them by category. ALSO THIS IS MY 100th POST!
+title: "All The (Bootcamp) Things \U0001F389"
+date: 2016-03-31 00:00:00 +0000
+description: I've decided to compile all the coding bootcamp things and organize them
+  by category. ALSO THIS IS MY 100th POST!
 banner: https://fvcproductions.files.wordpress.com/2016/03/100thpost-001.jpeg
 tags:
-    - 100th
-    - Bitmaker Labs
-    - bootcamp.me
-    - capwic
-    - coding bootcamp
-    - coding bootcamps
-    - coding dojo
-    - coding house
-    - dabble
-    - dear bootcamp
-    - designation
-    - designlab
-    - devleague
-    - featured
-    - finding
-    - fullstack academy
-    - fullstack academy of code
-    - hack reactor
-    - interview
-    - interviews
-    - js coding bootcamps
-    - makersquare
-    - map
-    - mapme
-    - preparing
-    - rankme
-    - searching
-    - speakerdeck
+- 100th
+- Bitmaker Labs
+- bootcamp.me
+- capwic
+- coding bootcamp
+- coding bootcamps
+- coding dojo
+- coding house
+- dabble
+- dear bootcamp
+- designation
+- designlab
+- devleague
+- featured
+- finding
+- fullstack academy
+- fullstack academy of code
+- hack reactor
+- interview
+- interviews
+- js coding bootcamps
+- makersquare
+- map
+- mapme
+- preparing
+- rankme
+- searching
+- speakerdeck
 categories:
-    - blog
----
+- blog
 
+---
 So I've been getting a lot of feedback from readers of my blog (and by looking at my Wordpress stats) that my bootcamp posts are really helpful when they're going through the admissions process.
 
 So I've decided to compile all the coding bootcamp things and organize them by category.

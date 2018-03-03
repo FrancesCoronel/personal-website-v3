@@ -1,14 +1,14 @@
 ---
-title: "C++ Bits - Solid Geometry 📐"
-date: 2013-07-28
-description: "Messing with Geometry in C++."
+title: "C++ Bits - Solid Geometry \U0001F4D0"
+date: 2013-07-28 00:00:00 +0000
+description: Messing with Geometry in C++.
 banner: https://fvcproductions.files.wordpress.com/2013/07/banners-002.jpg?w=1024&h=436&crop=1
 tags:
-    - c++
+- c++
 categories:
-    - blog
----
+- blog
 
+---
 ## Purpose
 
 To use symbolic constants, nested decisions, and sentinel loops.

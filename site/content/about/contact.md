@@ -1,17 +1,17 @@
 ---
-title: Contact 📨️
+title: "Contact \U0001F4E8️"
 description: Getting in touch.
 banner: https://i.imgur.com/0n5zqiA.jpg
 contact: true
 noComments: true
 noTimeEstimate: true
 aliases:
-  - /contact/
-  - /getting-in-touch/
-  - /get-in-touch/
-  - /about/contact/
----
+- "/contact/"
+- "/getting-in-touch/"
+- "/get-in-touch/"
+- "/about/contact/"
 
+---
 ## Ask Me Anything 🤔️
 
 Just have a general question? Maybe you found a typo?

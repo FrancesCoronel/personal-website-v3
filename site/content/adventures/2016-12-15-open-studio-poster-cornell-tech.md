@@ -1,13 +1,14 @@
 ---
-title: Open Studio Poster - Cornell Tech 📰
-date: 2016-12-15
-description: At the end of the semester, each team was also tasked to create a poster for their community challenge teams in order to display them at Open Studio.
+title: "Open Studio Poster - Cornell Tech \U0001F4F0"
+date: 2016-12-15 00:00:00 +0000
+description: At the end of the semester, each team was also tasked to create a poster
+  for their community challenge teams in order to display them at Open Studio.
 banner: https://i.imgur.com/TdKktfp.png
 categories:
-  - portfolio
-  - design
----
+- portfolio
+- design
 
+---
 Every fall, leading startups, companies, and organizations in NYC pose business challenges to Cornell Tech.
 
 In Product Studio, teams develop and present new products, services, and strategies that respond to those challenges.
