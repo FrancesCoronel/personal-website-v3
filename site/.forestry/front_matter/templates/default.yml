@@ -26,7 +26,7 @@ fields:
   default: ''
   config:
     required: true
-  description: A brief description of the post.
+  description: A brief description of this post.
 - name: banner
   label: Banner
   type: text
