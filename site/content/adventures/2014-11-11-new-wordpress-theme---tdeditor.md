@@ -16,7 +16,6 @@ tags:
 - wordpress
 - wordpress theming
 type: default
-draft: true
 
 ---
 ![tdEditor Theme 8](https://i.imgur.com/sgxJ8Mx.png)
