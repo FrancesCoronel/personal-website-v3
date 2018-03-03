@@ -1,12 +1,12 @@
 ---
 title: My New Website Design
-date: 2018-03-02 19:33:51 +0000
-description: A brief description goes here.
+date: 2014-09-15 00:00:00 +0000
+description: My updated Wordpress blog design.
 banner: Link to image on Imgur.
 caption: Caption for banner image.
 bannerLink: Link image points to.
 link: Link article redirects to.
-noComments: true
+noComments: false
 categories:
 - award
 - blog
@@ -40,15 +40,15 @@ categories:
 - webdesign
 tags:
 - insert tags for article
-alphabetical: true
-adventures: true
-archive: true
-awards: true
-blog: true
-contact: true
-portfolio: true
-speaking: true
-isotope: true
+alphabetical: false
+adventures: false
+archive: false
+awards: false
+blog: false
+contact: false
+portfolio: false
+speaking: false
+isotope: false
 draft: true
 
 ---
