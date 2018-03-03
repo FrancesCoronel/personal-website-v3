@@ -1,21 +1,22 @@
 ---
-title: School for Field Studies - Wildlife Research Techniques - Tanzania 🌍
-date: 2012-08-14
-description: Studied Wildlife Research Techniques in Tanzania during the summer of 2012.
+title: "School for Field Studies - Wildlife Research Techniques - Tanzania \U0001F30D"
+date: 2012-08-14 00:00:00 +0000
+description: Studied Wildlife Research Techniques in Tanzania during the summer of
+  2012.
 banner: https://fvcproductions.files.wordpress.com/2015/11/461956_476846202328099_271376704_o.jpg
 aliases:
-  - /blog/2012/07/30/blog-post-from-tanzania/
-  - /programs/2012/08/14/school-for-field-studies/
+- "/blog/2012/07/30/blog-post-from-tanzania/"
+- "/programs/2012/08/14/school-for-field-studies/"
 categories:
-  - program
-  - education
-  - blog
+- program
+- education
+- blog
 tags:
-  - tanzania
-  - sfs
-  - wildlife research techniques
----
+- tanzania
+- sfs
+- wildlife research techniques
 
+---
 ## Name
 
 [School for Field Studies (SFS) - Wildlife Management Studies: Techniques for Wildlife Field Research](//www.fieldstudies.org/eastafrica)

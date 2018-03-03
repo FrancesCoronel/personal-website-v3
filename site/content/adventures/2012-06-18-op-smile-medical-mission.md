@@ -1,17 +1,18 @@
 ---
 title: Operation Smile - Medical Mission
-description: Volunteered as a high schooler for a medical mission in Vietnam through Operation Smile.
-date: 2012-06-18
+description: Volunteered as a high schooler for a medical mission in Vietnam through
+  Operation Smile.
+date: 2012-06-18 00:00:00 +0000
 banner: https://fvcproductions.files.wordpress.com/2015/11/581163_207413282713894_160438369_n.jpg
 categories:
-  - volunteering
-  - speaking
-  - burnprevention
+- volunteering
+- speaking
+- burnprevention
 tags:
-  - vietnam
-  - medical mission
----
+- vietnam
+- medical mission
 
+---
 ## Name
 
 [2012 Vietnam Medical Mission](//operationsmilevietnam2012.blogspot.com/)

@@ -1,10 +1,11 @@
 ---
-title: Resume 📄️
-description: One page that tries its best to summarize me both academically and professionally. Hah.
+title: "Resume \U0001F4C4️"
+description: One page that tries its best to summarize me both academically and professionally.
+  Hah.
 banner: https://i.imgur.com/vEg8KOi.jpg
 noComments: true
----
 
+---
 ## For a live version of my resume, please refer to [my LinkedIn profile](//linkedin.com/in/fvcproductions).
 
 > And feel free to connect with me on there as well! 👥️

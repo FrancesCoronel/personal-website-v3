@@ -1,17 +1,17 @@
 ---
 title: FVCproductions - Logo Design
-date: 2014-06-04
+date: 2014-06-04 00:00:00 +0000
 description: Creating a brand for myself.
 banner: https://i.imgur.com/yibzV1C.jpg
 categories:
-  - design
-  - portfolio
+- design
+- portfolio
 tags:
-  - logo
-  - strawberry
-  - chocolate
----
+- logo
+- strawberry
+- chocolate
 
+---
 I used Pages and Keynote to make this initial version of my logo.
 
 ## First Iteration

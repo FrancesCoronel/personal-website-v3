@@ -1,22 +1,22 @@
 ---
-title: "Nothing to Envy - Book Review"
-date: 2014-02-21
-description: "A research-oriented piece for my history class."
+title: Nothing to Envy - Book Review
+date: 2014-02-21 00:00:00 +0000
+description: A research-oriented piece for my history class.
 banner: https://fvcproductions.files.wordpress.com/2014/03/51454715.jpg?w=600&h=340&crop=1
 tags:
-    - barbara demick
-    - book review
-    - dictatorships
-    - fvcproductions
-    - journalism
-    - korea
-    - north
-    - north korea
-    - nothing to envy
+- barbara demick
+- book review
+- dictatorships
+- fvcproductions
+- journalism
+- korea
+- north
+- north korea
+- nothing to envy
 categories:
-    - blog
----
+- blog
 
+---
 This was a more research-oriented piece for my history class, but I hope you enjoy it - it was honestly a really eye-opening book and I'm just grateful to have read it.
 
 [Written February 21, 2014]

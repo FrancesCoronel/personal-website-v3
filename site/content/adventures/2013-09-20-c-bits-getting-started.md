@@ -1,27 +1,27 @@
 ---
-title: "C Bits - Getting Started"
-date: 2013-09-20
+title: C Bits - Getting Started
+date: 2013-09-20 00:00:00 +0000
 description: The 1st part in a mini-series for beginners in C.
 banner: https://fvcproductions.files.wordpress.com/2013/09/banners-001.jpg?w=1024&h=436&crop=1
 aliases:
-  - /blog/2013/09/20/c-bits-speeding-up-a-bit/
+- "/blog/2013/09/20/c-bits-speeding-up-a-bit/"
 categories:
-  - blog
+- blog
 tags:
-  - C programming
-  - comment
-  - Compiler
-  - digital hieroglyphics
-  - Floating point
-  - GitHub
-  - integer
-  - Main function
-  - Printf
-  - Source code
-  - Variables
-  - blog
----
+- C programming
+- comment
+- Compiler
+- digital hieroglyphics
+- Floating point
+- GitHub
+- integer
+- Main function
+- Printf
+- Source code
+- Variables
+- blog
 
+---
 ## Hello. Hello. Hello.
 
 It's been a while, but no worries. Once again, I'm here to make programming a little easier by providing the literal solutions…

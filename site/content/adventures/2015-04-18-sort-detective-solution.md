@@ -1,39 +1,40 @@
 ---
-title: "Sort Detective - Solution ☕"
-date: 2015-04-18
-description: "Stuck on that homework assignment involving SortDetective.jar? No need to worry!"
+title: Sort Detective - Solution ☕
+date: 2015-04-18 00:00:00 +0000
+description: Stuck on that homework assignment involving SortDetective.jar? No need
+  to worry!
 banner: https://fvcproductions.files.wordpress.com/2015/04/banners-001.jpg?w=1024&h=436&crop=1
 tags:
-    - alpha
-    - beta
-    - bubble sort
-    - delta
-    - epsilon
-    - experimentOrders
-    - formula
-    - gamma
-    - greek letters
-    - heap sort
-    - homework assignment
-    - insertion sorts
-    - java
-    - java decompiler
-    - jd
-    - ui
-    - jd.benow.ca
-    - merge sort
-    - quick sort
-    - selection sort
-    - sort detective
-    - sortdetective.jar
-    - sorting methods
-    - SortingExperiment
-    - student ID
-    - zeta
+- alpha
+- beta
+- bubble sort
+- delta
+- epsilon
+- experimentOrders
+- formula
+- gamma
+- greek letters
+- heap sort
+- homework assignment
+- insertion sorts
+- java
+- java decompiler
+- jd
+- ui
+- jd.benow.ca
+- merge sort
+- quick sort
+- selection sort
+- sort detective
+- sortdetective.jar
+- sorting methods
+- SortingExperiment
+- student ID
+- zeta
 categories:
-    - blog
----
+- blog
 
+---
 > This tutorial is "certifiably" Mac Friendly. Whoop. 
 
 ## Files Provided To You

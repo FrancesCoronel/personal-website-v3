@@ -1,19 +1,19 @@
 ---
-title: FVCproductions - Logo Redesign 🍫🍓
-date: 2017-08-19
+title: "FVCproductions - Logo Redesign \U0001F36B\U0001F353"
+date: 2017-08-19 00:00:00 +0000
 description: A new sleek look for my brand.
 banner: https://i.imgur.com/aIbX4z0.png
 categories:
-  - design
-  - portfolio
+- design
+- portfolio
 tags:
-  - logo
-  - redesign
-  - revamp
-  - strawberry
-  - chocolate
----
+- logo
+- redesign
+- revamp
+- strawberry
+- chocolate
 
+---
 So with my past logo, a lot of folks would mistake it for a heart.
 
 That was officially a big issue for me so I decided it was time for a brand new logo.

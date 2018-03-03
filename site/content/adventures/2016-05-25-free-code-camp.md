@@ -1,13 +1,13 @@
 ---
 title: Free Code Camp
-date: 2016-05-25
+date: 2016-05-25 00:00:00 +0000
 description: Spoke for the official Norfolk Free Code Camp Facebook group!
 banner: https://fvcproductions.files.wordpress.com/2016/06/freecodecamp.jpg
 categories:
-  - speaking
-  - wizard
----
+- speaking
+- wizard
 
+---
 ![FreeCodeCamp](https://fvcproductions.files.wordpress.com/2016/06/freecodecamp.png)
 
 # [Free Code Camp Norfolk](https://www.facebook.com/groups/free.code.camp.norfolk/)

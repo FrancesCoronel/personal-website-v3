@@ -1,14 +1,14 @@
 ---
-title: Migrating Behance Projects 👣
-date: 2018-02-04
+title: "Migrating Behance Projects \U0001F463"
+date: 2018-02-04 00:00:00 +0000
 description: Centralizing my work even further.
 banner: https://i.imgur.com/3EdwlW5.png
 categories:
-  - blog
+- blog
 tags:
-  - behance
----
+- behance
 
+---
 ## I've been using Behance since March 11, 2014.
 
 And it's been 4 great years but it's time to say goodbye.

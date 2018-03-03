@@ -1,41 +1,41 @@
 ---
-title: "Interview with MakerSquare"
-date: 2015-01-14
-description: "My interview with MakerSquare."
+title: Interview with MakerSquare
+date: 2015-01-14 00:00:00 +0000
+description: My interview with MakerSquare.
 banner: https://fvcproductions.files.wordpress.com/2015/01/mksc6.jpg
 tags:
-    - acceptance
-    - admissions
-    - admissions challenge
-    - applications
-    - austin
-    - bootcamp
-    - career
-    - challenge
-    - chicago
-    - class
-    - coding bootcamp
-    - cohort
-    - daniel
-    - daniel
-    - founders
-    - interview
-    - javascript
-    - jobs
-    - makersquare
-    - Programming
-    - projects
-    - recruiting
-    - san francisco
-    - screenhero
-    - shaan
-    - starter league
-    - technical challenge
-    - typeform
+- acceptance
+- admissions
+- admissions challenge
+- applications
+- austin
+- bootcamp
+- career
+- challenge
+- chicago
+- class
+- coding bootcamp
+- cohort
+- daniel
+- daniel
+- founders
+- interview
+- javascript
+- jobs
+- makersquare
+- Programming
+- projects
+- recruiting
+- san francisco
+- screenhero
+- shaan
+- starter league
+- technical challenge
+- typeform
 categories:
-    - blog
----
+- blog
 
+---
 ![MakerSquare](//m1.behance.net/rendition/modules/124031971/disp/fa0c76d4bd39b9bc82c8cf32b90cd846.png)
 
 > This is where I'll go through how my admissions process was with MakerSquare.

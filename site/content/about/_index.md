@@ -1,5 +1,5 @@
 ---
-title: About 👀️
+title: "About \U0001F440️"
 description: A brief intro to my world.
 banner: https://i.imgur.com/EemV6QS.jpg
 caption: The quintessential portrait
@@ -7,8 +7,12 @@ alphabetical: true
 noComments: true
 noTimeEstimate: true
 about: true
----
+menu:
+  main:
+    name: "About \U0001F440"
+    weight: 2
 
+---
 <h2>I like to dabble with things that <del>shouldn’t</del> ought to be dabbled with.</h2>
 
 Well, at least... that's my slogan.

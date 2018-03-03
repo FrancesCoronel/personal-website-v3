@@ -1,27 +1,27 @@
 ---
 title: Stardust - Book Review ⭐
-date: 2012-03-01
+date: 2012-03-01 00:00:00 +0000
 description: People can go through great lengths for 'true love'.
 banner: https://fvcproductions.files.wordpress.com/2013/08/stardust-upcoming-movies-122591_1280_1024.jpg?w=1024&h=435&crop=1
 categories:
-    - blog
-    - creativity
-    - award
+- blog
+- creativity
+- award
 tags:
-    - adult perspective
-    - fairy
-    - fantasy
-    - fantasy novels
-    - neil gaiman
-    - stardust
-    - tristan
-    - unforeseen destiny
-    - victoria
-    - videogames
-    - witchcraft
-    - yvaine
----
+- adult perspective
+- fairy
+- fantasy
+- fantasy novels
+- neil gaiman
+- stardust
+- tristan
+- unforeseen destiny
+- victoria
+- videogames
+- witchcraft
+- yvaine
 
+---
 ## Neil Gaiman's _Stardust_
 
 People can go through great lengths for "**true love**". What may be breath of air, or rather _Stardust_, as he weaves this enchanting fantasy about a young man named Tristan who decides to retrieve a fallen star for his beloved. Prematurely it seems everything will go smoothly, but this false proclamation of love bestows an unexpected journey for Tristan as he goes through self-discovery. And of course, as with any unique fantasy novels, not only does Tristan encounter dead princes, curses, flying pirates but also unicorns, lions, and witches - oh my!

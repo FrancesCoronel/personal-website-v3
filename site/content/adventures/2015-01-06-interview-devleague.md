@@ -1,30 +1,30 @@
 ---
-title: "Interview with DevLeague"
-date: 2015-01-06
-description: "My interview with DevLeague."
+title: Interview with DevLeague
+date: 2015-01-06 00:00:00 +0000
+description: My interview with DevLeague.
 banner: https://fvcproductions.files.wordpress.com/2015/01/devleague-join-the-movement-learn-to-code-in-hawaii.png?w=1024&h=435&crop=1
 tags:
-    - acceptance
-    - bootcamp
-    - bootcamp hawaii
-    - Coding
-    - coding bootcamps
-    - decision
-    - development
-    - devleague
-    - fvcproductions
-    - hawaii
-    - interview
-    - jason sewell
-    - learning
-    - Programming
-    - russell cheng
-    - web development
-    - web development hawaii
+- acceptance
+- bootcamp
+- bootcamp hawaii
+- Coding
+- coding bootcamps
+- decision
+- development
+- devleague
+- fvcproductions
+- hawaii
+- interview
+- jason sewell
+- learning
+- Programming
+- russell cheng
+- web development
+- web development hawaii
 categories:
-    - blog
----
+- blog
 
+---
 > Ever wonder what our interview process is like? We have recently started getting many applications from the mainland and...
 >
 > Posted by [Dev League](//www.facebook.com/Dev-League-419352214850086/) on [Friday, January 16, 2015](//www.facebook.com/permalink.php?story_fbid=702971763154795&id=419352214850086)

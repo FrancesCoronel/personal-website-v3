@@ -1,20 +1,23 @@
 ---
 title: Fullstack Foundations - Week 1
-date: 2015-05-17
-description: Fullstack Academy‘s first ever Summer of Code program, which is described as a program that "gives college students the opportunity to study fullstack web development while on summer break" is starting this June. Specifically, Monday, June 8th 2015.
+date: 2015-05-17 00:00:00 +0000
+description: Fullstack Academy‘s first ever Summer of Code program, which is described
+  as a program that "gives college students the opportunity to study fullstack web
+  development while on summer break" is starting this June. Specifically, Monday,
+  June 8th 2015.
 banner: https://fvcproductions.files.wordpress.com/2015/05/github.jpg
 categories:
-  - blog
+- blog
 tags:
-  - bootcamp
-  - coding bootcamp prework
-  - fullstack academy
-  - fullstack foundations
-  - intensive
-  - intro course
-  - prework
----
+- bootcamp
+- coding bootcamp prework
+- fullstack academy
+- fullstack foundations
+- intensive
+- intro course
+- prework
 
+---
 > Fullstack Foundations is the prework course for [Fullstack Academy](//fullstackacademy.com "Fullstack Academy").
 
 So.

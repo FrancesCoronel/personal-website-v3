@@ -1,12 +1,12 @@
 ---
-title: "MapMe - Coding Bootcamps 📍"
-date: 2016-01-12
+title: "MapMe - Coding Bootcamps \U0001F4CD"
+date: 2016-01-12 00:00:00 +0000
 description: A crowd-sourced map for coding bootcamps.
 banner: https://i.imgur.com/SR7yuSg.png
 categories:
-    - portfolio
----
+- portfolio
 
+---
 Check out the **crowd-sourced** map at\
 [`mapme.com/coding-bootcamps`](https://mapme.com/coding-bootcamps) =================================================================
 

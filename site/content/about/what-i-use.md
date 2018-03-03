@@ -1,9 +1,9 @@
 ---
-title: What I Use 📱️
+title: "What I Use \U0001F4F1️"
 description: The tools I use on a day to day basis.
 banner: https://www.androidcentral.com/sites/androidcentral.com/files/styles/xlarge_wm_brw/public/article_images/2017/10/google-pixel-2-pixel-2-xl-hands-on-2.jpg?itok=VpfmIhOM
----
 
+---
 ## Software
 
 ### Dotfiles

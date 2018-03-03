@@ -1,25 +1,25 @@
 ---
-title: "Interview with Coding Dojo"
-date: 2015-01-06
-description: "My interview with Coding Dojo."
+title: Interview with Coding Dojo
+date: 2015-01-06 00:00:00 +0000
+description: My interview with Coding Dojo.
 banner: https://fvcproductions.files.wordpress.com/2015/01/mg_3322.jpg
 tags:
-    - coding
-    - coding bootcamps
-    - coding dojo
-    - dev bootcamps
-    - dojo
-    - fvcproductions
-    - interview
-    - mountain view
-    - Speros Misirlakis
-    - summer bootcamp
-    - web development
-    - web development bootcamp
+- coding
+- coding bootcamps
+- coding dojo
+- dev bootcamps
+- dojo
+- fvcproductions
+- interview
+- mountain view
+- Speros Misirlakis
+- summer bootcamp
+- web development
+- web development bootcamp
 categories:
-    - blog
----
+- blog
 
+---
 [![](//jlau-bucket-1.s3.amazonaws.com/uploads/topic/image/5/coding_dojo.png) Fancy.
 
 # Interview with [Coding Dojo](//www.codingdojo.com)

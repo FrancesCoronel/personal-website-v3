@@ -1,42 +1,42 @@
 ---
-title: "I'm a Noob When It Comes To Programming - Where To Now?"
-date: 2014-12-27
-description: "I've compiled a list of 15 great resources I've come to learn about over
-the years of trying to learn how to properly program."
+title: I'm a Noob When It Comes To Programming - Where To Now?
+date: 2014-12-27 00:00:00 +0000
+description: I've compiled a list of 15 great resources I've come to learn about over
+  the years of trying to learn how to properly program.
 banner: https://fvcproductions.files.wordpress.com/2014/09/html-css-book-cover.jpg
 tags:
-    - code school
-    - codecademy
-    - codecombat
-    - coderbyte
-    - codewars
-    - cracking the coding interview
-    - css
-    - eloquent javascript
-    - fvcproductions
-    - html
-    - html/css
-    - javascript
-    - jquery
-    - jumpstart
-    - noob
-    - noobie
-    - odin project
-    - online python tutor
-    - programmer
-    - Programming
-    - properly program
-    - python
-    - superhero js
-    - treehouse
-    - tutorial
-    - typing.io
-    - web development
+- code school
+- codecademy
+- codecombat
+- coderbyte
+- codewars
+- cracking the coding interview
+- css
+- eloquent javascript
+- fvcproductions
+- html
+- html/css
+- javascript
+- jquery
+- jumpstart
+- noob
+- noobie
+- odin project
+- online python tutor
+- programmer
+- Programming
+- properly program
+- python
+- superhero js
+- treehouse
+- tutorial
+- typing.io
+- web development
 categories:
-    - blog
-    - coding
----
+- blog
+- coding
 
+---
 # Here, I've compiled a list of 15 great resources I've come to learn about over the years of trying to learn how to properly program.
 
 ### I still consider myself a _noob_ now (I mean, it's only been 3 years!), but I grow more and more comfortable with the idea that I've never going to know everything and that aspiring to be a great programmer is the same as aspiring to improve yourself constantly everyday in the art. It's what I love about the field and so I hope this list helps you out in your journey into the realm of digital hieroglyphics (as I like to call it) too.

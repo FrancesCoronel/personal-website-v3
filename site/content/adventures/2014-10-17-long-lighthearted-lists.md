@@ -1,26 +1,26 @@
 ---
-title: "Long Lighthearted Lists"
-date: 2014-10-17
-description: "Long lighthearted lists covering languages, old science fair project, coding
-bootcamps, cool places, TV shows, and conferences."
+title: Long Lighthearted Lists
+date: 2014-10-17 00:00:00 +0000
+description: Long lighthearted lists covering languages, old science fair project,
+  coding bootcamps, cool places, TV shows, and conferences.
 banner: https://fvcproductions.files.wordpress.com/2014/10/long-lists.jpg
 tags:
-    - bootcamp
-    - Coding
-    - conferences
-    - Languages
-    - lighthearted
-    - long lists
-    - materialism
-    - old science
-    - projects
-    - science fair
-    - TV shows
-    - wish list
+- bootcamp
+- Coding
+- conferences
+- Languages
+- lighthearted
+- long lists
+- materialism
+- old science
+- projects
+- science fair
+- TV shows
+- wish list
 categories:
-    - blog
----
+- blog
 
+---
 Long Lighthearted Lists
 
 ## Index

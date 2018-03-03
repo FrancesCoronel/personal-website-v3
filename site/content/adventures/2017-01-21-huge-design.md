@@ -1,15 +1,15 @@
 ---
 title: Huge School Application 2017
 description: Video application for Huge Experience Design School 2017.
-date: 2017-01-21
+date: 2017-01-21 00:00:00 +0000
 banner: https://i.ytimg.com/vi/Lo8WQR-B89I/0.jpg
 categories:
-  - portfolio
-  - design
-  - video
-  - web
----
+- portfolio
+- design
+- video
+- web
 
+---
 There were 2 parts to the interview process - the video and the design challenge.
 
 ## Application Video

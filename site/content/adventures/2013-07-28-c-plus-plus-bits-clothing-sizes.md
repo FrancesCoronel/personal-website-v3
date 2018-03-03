@@ -1,14 +1,14 @@
 ---
-title: "C++ Bits - Clothing Sizes 🚺"
-date: 2013-07-28
-description: "Testing out clothes in C++."
+title: "C++ Bits - Clothing Sizes \U0001F6BA"
+date: 2013-07-28 00:00:00 +0000
+description: Testing out clothes in C++.
 banner: https://fvcproductions.files.wordpress.com/2013/07/banners-002.jpg?w=1024&h=436&crop=1
 tags:
-    - c++
+- c++
 categories:
-    - blog
----
+- blog
 
+---
 ## Purpose
 
 To declare weight, height, hat size, jacket size, and waist size.

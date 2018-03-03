@@ -1,17 +1,17 @@
 ---
-title: Desiring the Casual 🐛
-date: 2010-05-12
+title: "Desiring the Casual \U0001F41B"
+date: 2010-05-12 00:00:00 +0000
 description: A little poetry never hurt anyone.
 banner: https://fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg?w=800&h=340&crop=1
 categories:
-  - blog
-  - creativity
-  - award
+- blog
+- creativity
+- award
 tags:
-  - casual
-  - poetry
----
+- casual
+- poetry
 
+---
 ## This is a poem wrote back in the day.
 
 ```text

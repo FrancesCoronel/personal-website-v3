@@ -1,12 +1,13 @@
 ---
-title: "Meetup Dice 🎲"
-date: 2016-01-11
-description: A simple Node.js application for picking a random RSVP’d member from a Meetup.
+title: "Meetup Dice \U0001F3B2"
+date: 2016-01-11 00:00:00 +0000
+description: A simple Node.js application for picking a random RSVP’d member from
+  a Meetup.
 banner: https://i.imgur.com/fvvVFr9.png
 categories:
-    - portfolio
----
+- portfolio
 
+---
 # Overview
 
 [![Meetup Dice -
