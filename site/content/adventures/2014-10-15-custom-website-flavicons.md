@@ -1,6 +1,6 @@
 ---
 title: Custom Website Flavicons
-date: 2018-03-02 00:00:00 +0000
+date: 2014-10-15 00:00:00 +0000
 description: I created some custom flavicons for my Wordpress website.
 banner: https://i.imgur.com/lQlzotN.png
 caption: ''
