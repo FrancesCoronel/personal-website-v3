@@ -1,11 +1,15 @@
 ---
 title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
-description: A brief description goes here.
-banner: Featured image hosted on Imgur.
-caption: (Optional) Caption for banner image.
-bannerLink: (Optional) Link the featured image points to.
-link: (Optional) Link this post redirects user to.
+description: ''
+# Featured image hosted on Imgur.
+banner: ''
+# (Optional) Caption for banner image.
+caption: ''
+# (Optional) Link the featured image points to.
+bannerLink: ''
+# (Optional) Link this post redirects user to.
+link: ''
 # not ready for publishing
 draft: true
 # page layout options
@@ -59,8 +63,7 @@ categories:
   - webdesign
   - wizard
 tags:
-  - fvcproductions
-  - frances coronel
+  - tag
 ---
 
 ## Name
