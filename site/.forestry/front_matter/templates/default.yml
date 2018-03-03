@@ -38,13 +38,13 @@ fields:
   default: ''
   description: Caption for banner image.
 - name: bannerLink
-  label: Bannerlink
+  label: Banner Link
   type: text
   hidden: false
   default: ''
   description: Link the featured image points to.
 - name: link
-  label: Link
+  label: Redirect Link
   type: text
   hidden: false
   default: ''
@@ -54,47 +54,18 @@ fields:
   type: boolean
   hidden: false
   default: true
+  description: Keep as draft until fully finalized.
 - name: noComments
-  label: Nocomments
+  label: No Comments
   type: boolean
   hidden: true
   default: false
+  description: Comments are enabled by default.
 - name: categories
   label: Categories
   type: tag_list
   hidden: false
-  default:
-  - award
-  - blog
-  - conference
-  - education
-  - experience
-  - hackathon
-  - program
-  - speaking
-  - volunteering
-  - portfolio
-  - certainties
-  - coding
-  - creativity
-  - book
-  - design
-  - mobile
-  - oss
-  - presentation
-  - research
-  - tutorial
-  - video
-  - web
-  - 2018
-  - 2017
-  - 2016
-  - 2015
-  - bootcamps
-  - hourofcode
-  - wizard
-  - typescript101
-  - webdesign
+  default: []
   description: Categories help differentiate what kind of post this is.
 - name: tags
   label: Tags
