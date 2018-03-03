@@ -29,10 +29,10 @@ categories:
   - education
   - experience
   - hackathon
-  - portfolio
   - program
   - speaking
   - volunteering
+  - portfolio
 # blog options
   - certainties
   - coding
@@ -48,16 +48,15 @@ categories:
   - video
   - web
 # review options
-  - 2018
   - 2017
   - 2016
   - 2015
 # speaking options
   - bootcamps
   - hourofcode
+  - wizard
   - typescript101
   - webdesign
-  - wizard
 tags:
   - fvcproductions
   - frances coronel
