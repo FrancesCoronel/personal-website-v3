@@ -1,8 +1,7 @@
 ---
 title: 'WTM: International Women''s Day Celebration (IWD)'
 date: 2018-03-03 00:00:00 +0000
-description: The Women Techmakers Global Event Series Celebrating International Women's
-  Day
+description: The Women Techmakers Global Event Series Celebrating International Women's Day
 banner: https://i.imgur.com/rUAA2Jy.jpg
 caption: ''
 bannerLink: ''
@@ -15,8 +14,8 @@ tags:
 - iwd
 - google
 - mountain view
-
 ---
+
 ## Location
 
 Google - Sunnyvale, CA
