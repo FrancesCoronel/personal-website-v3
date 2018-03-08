@@ -15,7 +15,6 @@ tags:
 - iwd
 - google
 - mountain view
-draft: true
 
 ---
 ## Location
