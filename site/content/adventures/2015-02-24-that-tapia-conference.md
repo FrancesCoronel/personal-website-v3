@@ -2,7 +2,7 @@
 title: That TAPIA Conference
 date: 2015-02-21 12:30:00 -0800
 description: A conference that promotes diversity in computing.
-banner: https://fvcproductions.files.wordpress.com/2015/03/tapia-2015-001.jpg
+banner: https://i.imgur.com/CFJ8IES.jpg
 tags:
 - afro movers and shakers
 - banquet
