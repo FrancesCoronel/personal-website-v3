@@ -14,7 +14,6 @@ tags:
 - branding
 - respect conference
 - diversity
-draft: true
 
 ---
 RESPECT 2015 was the first international meeting of the [IEEE](//www.computer.org/) [Special Technical Community on Broadening Participation](//stcbp.org/) with technical co-sponsorship by the [IEEE Computer Society](//www.computer.org/). STC BP and RESPECT are dedicated to research and action to engage everyone in computing.
