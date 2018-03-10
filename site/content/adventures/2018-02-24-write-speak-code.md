@@ -54,27 +54,27 @@ In this workshop, you'll go through a few exercises around our theme, "Speak You
 
 ### 5 things that inspire you
 
-1. Nolan
-2. Becoming a leader in tech as a Latina
-3. How accessible the web is
-4. Making software engineering more accessible
-5. Mentoring others new to the field
+1.  Nolan
+2.  Becoming a leader in tech as a Latina
+3.  How accessible the web is
+4.  Making software engineering more accessible
+5.  Mentoring others new to the field
 
 ### 5 words that describe you
 
-1. ambitious
-2. futurist
-3. non-trusting
-4. resourceful
-5. idealistic
+1.  ambitious
+2.  futurist
+3.  non-trusting
+4.  resourceful
+5.  idealistic
 
 ### 5 things that you want
 
-1. more impactful job
-2. more opportunities to speak at conferences
-3. being recognized as a top person in the web industry
-4. helping Nolan and my family succeed
-5. a more sustainable democracy
+1.  more impactful job
+2.  more opportunities to speak at conferences
+3.  being recognized as a top person in the web industry
+4.  helping Nolan and my family succeed
+5.  a more sustainable democracy
 
 ## Story You Love
 
@@ -111,27 +111,27 @@ In this workshop, you'll go through a few exercises around our theme, "Speak You
 
 ## I am...
 
-1. always thinking about the long-term goal
-2. completely in love with my partner
-3. feeling good about the relationship with my family
-4. Latina
-5. engineer
-6. a unicorn
-7. writer
-8. speaker
-9. resourceful as fuck
+1.  always thinking about the long-term goal
+2.  completely in love with my partner
+3.  feeling good about the relationship with my family
+4.  Latina
+5.  engineer
+6.  a unicorn
+7.  writer
+8.  speaker
+9.  resourceful as fuck
 10. movie addict
 
 ## I was...
 
-1. insecure
-2. too assimilated into American culture
-3. not satisfied with my love life
-4. preppy
-5. a tennis player
-6. a swimmer
-7. a teacher's pet
-8. RPG game addict
+1.  insecure
+2.  too assimilated into American culture
+3.  not satisfied with my love life
+4.  preppy
+5.  a tennis player
+6.  a swimmer
+7.  a teacher's pet
+8.  RPG game addict
 
 ## What Brought You Here Today
 
@@ -243,36 +243,36 @@ https://fvcproductions.com/portfolio/
 
 ### Write
 
-1. Being a Latina in the tech industry
-2. My first talk - story about how I got my first job
-3. long-term coding bootcamp programs that exist
-4. becoming a mentor - mentor programs out there
-5. my first experience as a maintainer for a very active GitHub repo
-6. why Elon Musk should not be idolized
+1.  Being a Latina in the tech industry
+2.  My first talk - story about how I got my first job
+3.  long-term coding bootcamp programs that exist
+4.  becoming a mentor - mentor programs out there
+5.  my first experience as a maintainer for a very active GitHub repo
+6.  why Elon Musk should not be idolized
 
 ### SPEAK
 
-1. experience applying for jobs and failing miserably
-2. first experience as maintainer for large open source project
-3. our perception of highly successful people and how it shapes our industry
-4. PWAs 101
-5. macOS tips and tricks
-6. giving back to open source
+1.  experience applying for jobs and failing miserably
+2.  first experience as maintainer for large open source project
+3.  our perception of highly successful people and how it shapes our industry
+4.  PWAs 101
+5.  macOS tips and tricks
+6.  giving back to open source
 
 ### CODE
 
-1. pre-bootcamp
-2. tech conferences with diversity grants
-3. prominent women of color in conferences
-4. freeCodeCamp/guides
-5. Thinkful repos
-6. Out of Office repos
-7. Write/Speak/Code repos
-8. Techqueria repos
+1.  pre-bootcamp
+2.  tech conferences with diversity grants
+3.  prominent women of color in conferences
+4.  freeCodeCamp/guides
+5.  Thinkful repos
+6.  Out of Office repos
+7.  Write/Speak/Code repos
+8.  Techqueria repos
 
 ## Breakout Session - CFPs
 
-1. Who is your audience?
-2. What do they think/know now?
-3. What do you want them to know? What will they take away from your presentation?
-4. Why are you a great person to tell this story?
+1.  Who is your audience?
+2.  What do they think/know now?
+3.  What do you want them to know? What will they take away from your presentation?
+4.  Why are you a great person to tell this story?

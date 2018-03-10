@@ -1,18 +1,18 @@
 ---
 title: 'WTM: International Women''s Day Celebration (IWD)'
 date: 2018-03-03 00:00:00 +0000
-description: The Women Techmakers Global Event Series Celebrating International Women's
-  Day
+description: The Women Techmakers Global Event Series Celebrating International Women's Day
 banner: https://i.imgur.com/rUAA2Jy.jpg
 categories:
-- conference
+  - conference
+  - blog
 tags:
-- women techmakers
-- iwd
-- google
-- mountain view
-
+  - women techmakers
+  - iwd
+  - google
+  - mountain view
 ---
+
 ## Location
 
 Google - Sunnyvale, CA
@@ -33,7 +33,7 @@ I had an AMAZING time!!
 
 I tried something new this time and decided to live tweet what I was experiencing.
 
-In terms of my personal agenda, besides the main talks, I also attended the "Women of " breakfast in the morning and then I chose to attend the "Communicate with Confidence" workshop later on in the day. It worked out really well because I was able to pick up a hardware kit from the Android workshops for free. 😊
+In terms of my personal agenda, besides the main talks, I also attended the "Women in Color" breakfast in the morning and then I chose to attend the "Communicate with Confidence" workshop later on in the day. It worked out really well because I was able to pick up a hardware kit from the Android workshops for free. 😊
 
 The branding for this event was exquisite by the way - so clean and calm! See what I mean below.
 

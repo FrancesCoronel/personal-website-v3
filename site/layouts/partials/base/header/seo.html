@@ -29,17 +29,26 @@
 {{ template "_internal/google_analytics_async.html" . }}
 <!-- Internal Template - Google News -->
 {{ template "_internal/google_news.html" . }}
+<!-- Updated Time -->
+<meta itemprop="datePublished" content="{{ dateFormat "2006-01-02" .Date }}">
+<meta itemprop="dateModified" content="{{ dateFormat "2006-01-02" .Date }}">
+<meta property="article:published_time" content="{{ dateFormat "2006-01-02" .Date }}">
+<meta property="article:modified_time" content="{{ dateFormat "2006-01-02" .Date }}">
 <!-- Keywords -->
 <meta itemprop="keywords" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}">
 <!-- Twitter Labels -->
 <!-- Categories -->
-{{ if .Params.categories }}
-<meta name="twitter:label1" value="📂️ Categories">
-<meta name="twitter:data1" value="{{ delimit .Params.categories ", " }}"> {{ end }}
-<!-- Tags -->
-{{ if .Params.tags }}
-<meta name="twitter:label2" value="📌️ Tags">
-<meta name="twitter:data2" value="{{ delimit .Params.tags ", " }}"> {{ end }}
+{{ if and (.Params.Categories) (.Params.tags) }}
+  {{ if .Params.categories }}
+    <meta name="twitter:label1" value="Categories 📂️">
+    <meta name="twitter:data1" value="{{ delimit .Params.categories ", " }}">
+  {{ end }}
+  <!-- Tags -->
+  {{ if .Params.tags }}
+    <meta name="twitter:label2" value="Tags 📌️">
+    <meta name="twitter:data2" value="{{ delimit .Params.tags ", " }}">
+  {{ end }}
+{{ end }}
 <!-- Images -->
 <!-- Open Graph -->
 <meta property="og:image:width" content="1050">
