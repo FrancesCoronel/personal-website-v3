@@ -5,6 +5,8 @@ banner: https://i.imgur.com/6kexSrT.jpg
 categories:
   - portfolio
   - research
+aliases:
+  - /portfolio/2014/09/14/ai-internships/
 ---
 
 [![Briefcase Icon](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png)](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png)

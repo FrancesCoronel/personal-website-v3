@@ -1,10 +1,8 @@
 ---
-title: "Alternative Paths To A Computer Science Degree"
-description: "These are all programs that are at least 2 years long and act as alternatives to a typical CS degree."
+title: Alternative Paths To A Computer Science Degree
+description: These are all programs that are at least 2 years long and act as alternatives to a typical CS degree.
 date: 2017-04-10
-draft: true
-header:
-    image: https://images.pexels.com/photos/277593/pexels-photo-277593.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb
+banner: https://images.pexels.com/photos/277593/pexels-photo-277593.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb
 ---
 
 After interviewing with a few of the new and upcoming alternative long-term

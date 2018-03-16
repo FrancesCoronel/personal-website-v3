@@ -8,11 +8,14 @@ draft: true
 I've always been somewhat obsessed with keeping up with the latest and greatest
 productivity tools, so naturally I've looked into some email clients.
 
-Here's a quick blurb into why I haven't been satisfied.
+The solution I ended up going with is **Inbox** and intentionally abandoning my iCloud email.
 
-My current solution is **Mail (default macOS client) + MailButler**.
+The only downside to Inbox is that it's Google accounts only so I can't utilize its power with any other email providers like Outlook or iCloud.
 
----
+## Mail + MailButler
+
+* extended features don't extend to mobile offering
+* also, I have an Android now
 
 ## Polymail
 

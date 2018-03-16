@@ -54,7 +54,7 @@ npm run deploy
 
 ## Tools & Typography
 
-* See [Colophon](https://fvcproductions.com/about/colophon).
+* See [Colophon](https://fvcproductions.com/colophon).
 
 ## Contributing
 
