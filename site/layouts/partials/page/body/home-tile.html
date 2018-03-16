@@ -1,6 +1,9 @@
 <article class="home-tile">
   <!-- Image -->
-  <span class="image background-image {{ if .Params.about }}about-tile{{ else if .Params.adventures }}adventures-tile{{ else if .Params.archive }}archive-tile{{ else if .Params.awards }}award-tile{{ else if .Params.blog }}blog-tile{{ else if .Params.freelancing }}freelancing-tile{{ else if .Params.mentoring }}mentoring-tile{{ else if .Params.portfolio }}portfolio-tile{{ else if .Params.speaking }}speaking-tile{{ end }}"></span>
+  <!-- <span class="image background-image {{ if .Params.about }}about-tile{{ else if .Params.adventures }}adventures-tile{{ else if .Params.archive }}archive-tile{{ else if .Params.awards }}award-tile{{ else if .Params.blog }}blog-tile{{ else if .Params.freelancing }}freelancing-tile{{ else if .Params.mentoring }}mentoring-tile{{ else if .Params.portfolio }}portfolio-tile{{ else if .Params.speaking }}speaking-tile{{ end }}"></span> -->
+  {{ if .Params.banner }}
+    <span class="image background-image" style="background-image:url({{ .Params.banner }});"></span>
+  {{ end }}
   <!-- External Link -->
   {{ if .Params.link }}
   <a href="{{ .Params.link }}" target="_blank"> ↗️
