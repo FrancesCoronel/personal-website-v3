@@ -83,7 +83,7 @@ disqusShortname               = "fvcproductions"
 [[menu.main]]
     name                      = "Mentoring 📚"
     url                       = "/mentoring"
-    weight                    = 9
+    weight                    = 8
 
 [[menu.main]]
     name                      = "Portfolio 💼"
@@ -91,9 +91,14 @@ disqusShortname               = "fvcproductions"
     weight                    = 9
 
 [[menu.main]]
+    name                      = "Search 🔍️"
+    url                       = "https://cse.google.com/cse/publicurl?cx=008213476470887739041:ade_gb9mv7g"
+    weight                    = 10
+
+[[menu.main]]
     name                      = "Speaking 💬️"
     url                       = "/speaking"
-    weight                    = 10
+    weight                    = 11
 
 # Social Links
 [social]

@@ -1,7 +1,4 @@
-<article class="plain-tile full-width {{ if .Parent.Params.isotope }}isotope-item{{ end }} {{ with .Params.categories }}{{ delimit . " " }}{{ end }}">
-  {{ if .Params.banner }}
-  <span class="background-image" style="background-image:url({{ .Params.banner }});"></span>
-  {{ end }}
+<article class="home-tile plain-tile">
   <div class="content">
     <!-- Date -->
     {{ if not .PublishDate.IsZero }}
@@ -18,7 +15,9 @@
     </a>
     {{ else }}
     <a href="{{ .RelPermalink }}">
-      <h2>{{ .Title }}</h2>
+      <h2>
+        {{ .Title }}
+      </h2>
     </a>
     {{ end }}
     <!-- Description -->

@@ -66,12 +66,6 @@
   @include breakpoint(laptop) {
     width: 65%;
   }
-  @include breakpoint(xlaptop) {
-    width: 70%;
-  }
-  @include breakpoint(fourk) {
-    width: 75%;
-  }
 }
 
 .archive-date {

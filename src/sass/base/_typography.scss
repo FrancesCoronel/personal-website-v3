@@ -22,7 +22,13 @@ textarea {
 }
 
 a {
-  @include vendor("transition", ( "border-bottom-color #{_duration(transition)} ease", "color #{_duration(transition)} ease"));
+  @include vendor(
+    "transition",
+    (
+      "border-bottom-color #{_duration(transition)} ease",
+      "color #{_duration(transition)} ease"
+    )
+  );
   text-decoration: none;
   color: _palette(fg);
   &:hover {
@@ -42,6 +48,13 @@ a {
   }
   &.no-underline {
     border-bottom: none !important;
+  }
+  &.plain-link {
+    border-bottom: dotted 1px transparentize(_palette(fg), 0.5);
+    &:hover {
+      border-style: solid;
+      font-weight: 400;
+    }
   }
 }
 
