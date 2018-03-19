@@ -127,7 +127,8 @@ export default {
   },
   context: path.join(__dirname, "src"),
   entry: {
-    app: ["./js/app"]
+    app: ["./js/app"],
+    isotope: ["./js/components/isotope/isotope.fitRowsCentered.js", "./js/components/isotope/isotope.js"]
   },
   output: {
     path: path.join(__dirname, "dist/assets/js"),

@@ -1,45 +1,57 @@
 {{ define "main" }}
+<!-- Header Intro -->
 <header>
-  <h1>{{ .Site.Params.headline }}</h1>
-  <p>{{ .Site.Params.description }}</p>
+  <h1>
+    {{ .Site.Params.headline }}
+  </h1>
+  <p>
+    {{ .Site.Params.description }}
+  </p>
 </header>
 <hr>
+<!-- Recent Activity -->
 <div class="row latest-activity">
   <div class="12u centered">
-    <h2 class="m0">🕒️ Recent Activity</h2>
+    <h2 class="m0">
+      🕒️ Recent Activity
+    </h2>
   </div>
+  <!-- Writing -->
   <div class="4u 12u(small)">
     <h3>
       📝️ Writing
     </h3>
     <ul>
-      {{ $posts := ($.Site.Taxonomies.categories.blog).Pages }}{{ range first 5 $posts.ByDate.Reverse }} {{ partial "page/body/plain-link.html" . }} {{ end }}
+      {{ $writing := ($.Site.Taxonomies.categories.blog).Pages }} {{ range first 5 $writing.ByDate.Reverse }} {{ partial "tiles/tile-link.html" . }} {{ end }}
     </ul>
   </div>
+  <!-- Creating -->
   <div class="4u 12u(small)">
     <h3>
       🔨 Creating
     </h3>
     <ul>
-      {{ $projects := ($.Site.Taxonomies.categories.portfolio).Pages }}{{ range first 5 $projects.ByDate.Reverse }} {{ partial "page/body/plain-link.html" . }} {{ end }}
+      {{ $creating := ($.Site.Taxonomies.categories.portfolio).Pages }} {{ range first 5 $creating.ByDate.Reverse }} {{ partial "tiles/tile-link.html" . }} {{ end }}
     </ul>
   </div>
+  <!-- Speaking -->
   <div class="4u 12u(small)">
     <h3>
       💬 Speaking
     </h3>
     <ul>
-      {{ $talks := ($.Site.Taxonomies.categories.speaking).Pages }} {{ range first 5 $talks.ByDate.Reverse }} {{ partial "page/body/plain-link.html" . }} {{ end }}
+      {{ $speaking := ($.Site.Taxonomies.categories.speaking).Pages }} {{ range first 5 $speaking.ByDate.Reverse }} {{ partial "tiles/tile-link.html" . }} {{ end }}
     </ul>
   </div>
 </div>
 <hr>
+<!-- Home Tiles -->
 <section class="tiles">
   <!-- Pages -->
   {{ $pages := where .Site.RegularPages "Type" "page" }}
   <!-- Section Pages -->
   {{ $pages := $pages | union (.Site.Sections) }}
   <!-- Looping -->
-  {{ range $pages.ByTitle }} {{ partial "page/body/home-tile-plain.html" . }} {{ end }}
+  {{ range $pages.ByTitle }} {{ partial "tiles/tile-home-plain.html" . }} {{ end }}
 </section>
 {{ end }}

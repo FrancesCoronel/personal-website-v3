@@ -21,11 +21,11 @@
       <!-- Alphabetical Order -->
       {{ if .Params.alphabetical }}
       <!-- By Title -->
-      {{ range $pages.ByTitle }} {{ partial "page/body/tile.html" . }} {{ end }}
+      {{ range $pages.ByTitle }} {{ partial "tiles/tile.html" . }} {{ end }}
       <!-- Date Order -->
       {{ else }}
       <!-- Reverse Order -->
-      {{ range $pages.ByDate.Reverse }} {{ partial "page/body/tile.html" . }} {{ end }} {{ end }}
+      {{ range $pages.ByDate.Reverse }} {{ partial "tiles/tile.html" . }} {{ end }} {{ end }}
     </section>
   </div>
   <!-- End Tiles -->
@@ -34,7 +34,7 @@
   {{ end }}
   <!-- End - Not Primary Adventures Page -->
   <!-- Isotope -->
-  {{ partial "section/isotope.html" . }}
+  {{ partial "isotope/index.html" . }}
   <!-- Page Footer -->
   {{ partial "page/footer/index.html" . }}
 </div>

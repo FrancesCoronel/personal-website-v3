@@ -4,7 +4,7 @@
 <meta name="HandheldFriendly" content="True">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="MobileOptimized" content="320">
-<meta name="msapplication-tooltip" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}">
+<meta name="msapplication-tooltip" content="{{ .Description }}">
 <meta name="msapplication-window" content="width=device-width;height=device-height">
 <meta name="robots" content="index, follow">
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0">
@@ -12,12 +12,14 @@
 <meta name="application-name" content="{{ .Title }}">
 <!-- Schema -->
 <meta name="title" content="{{ .Title }}">
-<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}">
-<meta name="DC.creator" content="Frances Coronel">
+<meta name="description" content="{{ .Description }}">
+<meta name="DC.creator" content="{{ .Site.Author.name }}">
 <meta name="DC.description" content="{{ .Description }}">
 <meta name="DC.language" content="en">
-<meta name="DC.publisher" content="Frances Coronel">
-<meta name="DC.subject" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}">
+<meta name="DC.publisher" content="{{ .Site.Author.name }}">
+<!-- Subject -->
+{{ if .Params.tags }}
+<meta name="DC.subject" content="{{ delimit .Params.tags ", " }}"> {{ end }}
 <meta name="DC.title" content="{{ .Title }}">
 <!-- Internal Template - Schema -->
 {{ template "_internal/schema.html" . }}
@@ -35,19 +37,20 @@
 <meta property="article:published_time" content="{{ dateFormat "2006-01-02" .Date }}">
 <meta property="article:modified_time" content="{{ dateFormat "2006-01-02" .Date }}">
 <!-- Keywords -->
-<meta itemprop="keywords" content="{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}">
+{{ if .Params.tags }}
+<meta itemprop="keywords" content="{{ delimit .Params.tags ", " }}">
+{{ end }}
 <!-- Twitter Labels -->
-<!-- Categories -->
 {{ if and (.Params.Categories) (.Params.tags) }}
-  {{ if .Params.categories }}
-    <meta name="twitter:label1" value="Categories 📂️">
-    <meta name="twitter:data1" value="{{ delimit .Params.categories ", " }}">
-  {{ end }}
-  <!-- Tags -->
-  {{ if .Params.tags }}
-    <meta name="twitter:label2" value="Tags 📌️">
-    <meta name="twitter:data2" value="{{ delimit .Params.tags ", " }}">
-  {{ end }}
+<!-- Categories -->
+{{ if .Params.categories }}
+<meta name="twitter:label1" value="Categories 📂️">
+<meta name="twitter:data1" value="{{ delimit .Params.categories ", " }}"> {{ end }}
+<!-- Tags -->
+{{ if .Params.tags }}
+<meta name="twitter:label2" value="Tags 📌️">
+<meta name="twitter:data2" value="{{ delimit .Params.tags ", " }}"> {{ end }}
+<!-- End Twitter Labels -->
 {{ end }}
 <!-- Images -->
 <!-- Open Graph -->
@@ -68,10 +71,21 @@
 <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
 <!-- RSS -->
 {{ if .RSSLink }}
-<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}" /> {{ end }}
+<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}">{{ end }}
+<!-- if page -->
 <!-- Add prefetch and prerender on section pages. Works especially well for articles or blog posts in a series -->
-{{ if .IsPage }} {{if .NextInSection }}
-<link rel="prefetch" href="{{.NextInSection.Permalink}}">
-<link rel="prerender" href="{{.NextInSection.Permalink}}"> {{ end }} {{if .PrevInSection }}
-<link rel="prefetch" href="{{.PrevInSection.Permalink}}">
-<link rel="prerender" href="{{.PrevInSection.Permalink}}"> {{ end }} {{ end }}
+{{ if .IsPage }}
+<!-- Next Section -->
+{{ if .NextInSection }}
+<link rel="prefetch" href="{{ .NextInSection.Permalink }}">
+<link rel="prerender" href="{{ .NextInSection.Permalink }}">{{ end }}
+<!-- Previous Section -->
+{{ if .PrevInSection }}
+<link rel="prefetch" href="{{ .PrevInSection.Permalink }}">
+<link rel="prerender" href="{{ .PrevInSection.Permalink }}">{{ end }}
+<!-- end page -->
+{{ end }}
+<!-- Prefetch Third Party Resources -->
+<link rel="dns-prefetch" href="https://twemoji.maxcdn.com">
+<link rel="dns-prefetch" href="https://hovastate.s3.amazonaws.com">
+<link rel="dns-prefetch" href="https://google-analytics.com">

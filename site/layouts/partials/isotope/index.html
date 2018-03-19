@@ -1,47 +1,48 @@
 {{ if .Params.isotope }}
+<script async src="/assets/js/isotope.js"></script>
 <div class="page-section">
   <div class="12u$">
     <div class="isotope-results">
       <!-- Description -->
-      {{ partial "section/isotope-header.html" . }}
+      {{ partial "isotope/header/index.html" . }}
       <!-- Filters -->
-      {{ partial "section/filter-buttons.html" .}}
+      {{ partial "isotope/filter/index.html" . }}
       <!-- No Isotope Results -->
       <h2 id="loading">It's loading - give it a sec! ⏳</h2>
       <!-- Adventures -->
       {{ if .Params.adventures }}
       <section class="section tiles isotope-grid plain">
-        {{ $adventures := .Pages | union (.Sections) }} {{ range $adventures.ByDate.Reverse }} {{ partial "page/body/plain-tile.html" . }} {{ end }}
+        {{ $adventures := .Pages | union (.Sections) }} {{ range $adventures.ByDate.Reverse }} {{ partial "tiles/tile-plain.html" . }} {{ end }}
       </section>
       {{ end }}
       <!-- Awards -->
       {{ if .Params.awards }}
       <section class="section tiles isotope-grid plain">
-        {{ $awards := ($.Site.Taxonomies.categories.award).Pages }} {{ range $awards.ByDate.Reverse }} {{ partial "page/body/plain-tile.html" . }} {{ end }}
+        {{ $awards := ($.Site.Taxonomies.categories.award).Pages }} {{ range $awards.ByDate.Reverse }} {{ partial "tiles/tile-plain.html" . }} {{ end }}
       </section>
       {{ end }}
       <!-- Blogging -->
       {{ if .Params.blog }}
       <section class="section tiles isotope-grid plain">
-        {{ $posts := ($.Site.Taxonomies.categories.blog).Pages }} {{ range $posts.ByDate.Reverse }} {{ partial "page/body/plain-tile.html" . }} {{ end }}
+        {{ $posts := ($.Site.Taxonomies.categories.blog).Pages }} {{ range $posts.ByDate.Reverse }} {{ partial "tiles/tile-plain.html" . }} {{ end }}
       </section>
       {{ end }}
       <!-- Reviews -->
       {{ if .Params.reviews }}
       <section class="section tiles isotope-grid">
-        {{ $reviews := ($.Site.Taxonomies.categories.review).Pages }} {{ range $reviews.ByDate.Reverse }} {{ partial "page/body/tile.html" . }} {{ end }}
+        {{ $reviews := ($.Site.Taxonomies.categories.review).Pages }} {{ range $reviews.ByDate.Reverse }} {{ partial "tiles/tile.html" . }} {{ end }}
       </section>
       {{ end }}
       <!-- Portfolio -->
       {{ if .Params.portfolio }}
       <section class="section tiles isotope-grid">
-        {{ $projects := ($.Site.Taxonomies.categories.portfolio).Pages }} {{ range $projects.ByDate.Reverse }} {{ partial "page/body/plain-tile.html" . }} {{ end }}
+        {{ $projects := ($.Site.Taxonomies.categories.portfolio).Pages }} {{ range $projects.ByDate.Reverse }} {{ partial "tiles/tile-plain.html" . }} {{ end }}
       </section>
       {{ end }}
       <!-- Speaking -->
       {{ if .Params.speaking }}
       <section class="section tiles isotope-grid">
-        {{ $talks := ($.Site.Taxonomies.categories.speaking).Pages }} {{ range $talks.ByDate.Reverse }} {{ partial "page/body/plain-tile.html" . }} {{ end }}
+        {{ $talks := ($.Site.Taxonomies.categories.speaking).Pages }} {{ range $talks.ByDate.Reverse }} {{ partial "tiles/tile-plain.html" . }} {{ end }}
       </section>
       {{ end }}
     </div>

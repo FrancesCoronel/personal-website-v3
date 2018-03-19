@@ -7,7 +7,7 @@ aliases:
   - /search/
 ---
 
-## Enter your search term below and press enter.
+## Enter your search term below.
 
 <style>
 .gcsc-branding,

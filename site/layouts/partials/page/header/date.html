@@ -1,0 +1,9 @@
+ {{ if not .PublishDate.IsZero }}
+<div class="row">
+  <div class="12u">
+    <p>
+      <i title="Publish Date" class="fas fa-calendar-check fa-lg"></i> {{ dateFormat "Monday - January 2, 2006" .Date }}
+    </p>
+  </div>
+</div>
+{{ end }}

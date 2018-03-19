@@ -66,6 +66,7 @@
     "less": "^2.7.3",
     "minimatch": "^3.0.4",
     "node-sass": "^4.7.2",
+    "npm": "^5.7.1",
     "plugin-error": "^1.0.1",
     "popper.js": "^1.13.0",
     "postcss-csso": "^3.0.0",

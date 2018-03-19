@@ -1,0 +1,11 @@
+{{ if not .Params.noTimeEstimate }} {{ if .ReadingTime }} {{ if .WordCount }}
+
+<div class="row">
+  <div class="12u">
+    <p>
+      <i title="Reading Time" class="fas fa-clock fa-lg"></i>
+      {{ .ReadingTime }} minute read ∙ {{ .WordCount }} words
+    </p>
+  </div>
+</div>
+{{ end }} {{ end }} {{ end }}

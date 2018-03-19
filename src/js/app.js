@@ -20,6 +20,7 @@ require("./components/twemoji");
 require("@fortawesome/fontawesome");
 require("@fortawesome/fontawesome-free-solid");
 require("@fortawesome/fontawesome-free-brands");
+
 // Return to Top
 require("./components/returnToTop");
 
@@ -30,5 +31,5 @@ require("./components/externalLinks");
 require("./components/randomTitle");
 
 // Isotope
-require("./components/isotope.fitRowsCentered");
-require("./components/isotope");
+// require("./components/isotope/isotope.fitRowsCentered");
+// require("./components/isotope/isotope");

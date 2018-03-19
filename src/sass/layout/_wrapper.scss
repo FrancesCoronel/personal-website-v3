@@ -3,8 +3,11 @@
     width: 100%;
     $gutter: _size(gutter) * 0.4;
     padding: 0 1em;
-    @include breakpoint(xlaptop) {
+    @include breakpoint(laptop) {
       padding: 0 2em;
+    }
+    @include breakpoint(xlaptop) {
+      padding: 0 5em;
     }
     @include breakpoint(fourk) {
       padding: 0 20em;

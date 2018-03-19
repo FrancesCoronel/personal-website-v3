@@ -1,6 +1,6 @@
 ---
 title: Awards 🏆️
-description: "\"Your mind is your weapon. Load your weapon.\" - Immortal Technique"
+description: Recognitions I've received.
 banner: https://i.imgur.com/ZdSLPUa.jpg
 awards: true
 isotope: true

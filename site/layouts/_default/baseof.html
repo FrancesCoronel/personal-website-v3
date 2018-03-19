@@ -5,14 +5,7 @@
   <title>
     {{ .Title }}
   </title>
-  <!-- SEO -->
-  {{ partial "base/header/seo.html" . }}
-  <!-- Favicons -->
-  {{ partial "base/header/favicons.html" . }}
-  <!-- Prefetch Third Party Resources -->
-  <link rel="dns-prefetch" href="https://twemoji.maxcdn.com">
-  <link rel="dns-prefetch" href="https://hovastate.s3.amazonaws.com">
-  <link rel="dns-prefetch" href="https://google-analytics.com">
+  {{ partial "head/index.html" . }}
   <!-- Preload -->
   <link rel="preload" href="/assets/css/main.css" as="style">
   <link rel="preload" href="/assets/js/app.js" as="script">
@@ -21,21 +14,30 @@
 </head>
 
 <body>
-
   <!-- Wrapper -->
   <div id="wrapper">
     <!-- Logo -->
-    {{ partial "base/header/logo.html" . }}
-    <!-- Menu Bar -->
-    <!-- {{ partial "base/header/navbar.html" . }} -->
+    <header id="header">
+      <div class="inner">
+        <a href="/" class="logo">
+          <span class="symbol">
+            <img src="/assets/img/logo.svg" alt="FVCproductions - Logo">
+          </span>
+          <span class="title">
+            {{ .Site.Title }}
+          </span>
+        </a>
+      </div>
+    </header>
+    <!-- Inner Content -->
     <div class="inner">
+      <!-- Navbar-->
       <nav class="main-navigation menu-navigation" role="navigation" aria-label="Primary Navigation">
         <ul id="primary-menu" class="menu">
-          {{ range .Site.Menus.main }}
+          {{ $parentPages := where .Site.RegularPages "Type" "page" }} {{ $homePages := $parentPages | union (.Site.Sections) }} {{ range $homePages.ByTitle }}
           <li class="menu-item">
-            <a href="{{ .URL }}" rel="noopener" title="{{ .Name }}">
-              {{ with .Identifier }}
-              <i class="{{ . }}">&nbsp;</i>{{ end }}{{ .Name }}
+            <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}">
+              {{ .Title }}
             </a>
           </li>
           {{ end }}
@@ -45,7 +47,7 @@
       {{ block "main" . }} {{ end }}
     </div>
     <!-- Footer -->
-    {{ partial "base/footer/index.html" . }}
+    {{ partial "footer/index.html" . }}
   </div>
   <!-- Scripts -->
   <!-- Custom JS -->

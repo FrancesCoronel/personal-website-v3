@@ -7,11 +7,11 @@
   <!-- Alphabetical Order -->
   {{ if .Params.alphabetical }}
   <!-- By Title -->
-  {{ range $pages.ByTitle }} {{ partial "page/body/tile.html" . }} {{ end }}
+  {{ range $pages.ByTitle }} {{ partial "tiles/tile.html" . }} {{ end }}
   <!-- Date Order -->
   {{ else }}
   <!-- Reverse Order -->
-  {{ range $pages.ByDate.Reverse }} {{ partial "page/body/tile.html" . }} {{ end }} {{ end }}
+  {{ range $pages.ByDate.Reverse }} {{ partial "tiles/tile.html" . }} {{ end }} {{ end }}
 </section>
 <!-- End Tiles -->
 {{ end }}

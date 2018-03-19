@@ -1,6 +1,6 @@
 ---
 title: Travels 🌎️
-description: Oh, the places you'll go. - Dr. Seuss
+description: The places I've been.
 banner: https://images.pexels.com/photos/59519/pexels-photo-59519.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb
 noComments: true
 ---
@@ -20,7 +20,7 @@ noComments: true
 * I studied in NYC at Fullstack Academy during the summer of 2015.
 * I interned in Redwood City, CA for Accenture during the summer of 2016.
 * I graduated from an HBCU (Hampton University) in May of 2016.
-* I graduated from Cornell Tech (an Ivy League school) in NYC in May of 2017.
+* I graduated from an Ivy League school (Cornell University) in May of 2017.
 * As of 2017, I have visited Canada and 25+ US states<sup>[1](#footnote1)</sup>.
 
 ### Central & South America

@@ -1,0 +1,10 @@
+<div class="isotope-header">
+  <!-- Awards -->
+  {{ if .Params.awards }} {{ partial "isotope/header/awards.html" . }}
+  <!-- Portfolio -->
+  {{ else if .Params.portfolio }} {{ partial "isotope/header/portfolio.html" . }}
+  <!-- Speaking -->
+  {{ else if .Params.speaking }} {{ partial "isotope/header/speaking.html" . }}
+  <!-- End -->
+  {{ end }}
+</div>

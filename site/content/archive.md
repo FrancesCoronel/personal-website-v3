@@ -1,6 +1,6 @@
 ---
 title: Archive 🕒️
-description: Everything in one place!
+description: The past has been revealed.
 banner: https://i.imgur.com/r940Dkr.jpg
 archive: true
 noComments: true

@@ -63,6 +63,9 @@
       margin-right: 0.25em;
     }
   }
+  @include breakpoint(tablet) {
+    width: 75%;
+  }
   @include breakpoint(laptop) {
     width: 65%;
   }

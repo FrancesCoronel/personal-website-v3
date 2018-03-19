@@ -1,3 +1,3 @@
 <section class="section tiles plain mt-0">
-  {{ $awards := ($.Site.Taxonomies.categories.award).Pages }} {{ range $awards.ByDate.Reverse }} {{ partial "page/body/plain-tile.html" . }} {{ end }}
+  {{ $awards := ($.Site.Taxonomies.categories.award).Pages }} {{ range $awards.ByDate.Reverse }} {{ partial "tiles/tile-plain.html" . }} {{ end }}
 </section>

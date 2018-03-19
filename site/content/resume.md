@@ -1,6 +1,6 @@
 ---
 title: Resume 📄️
-description: One page that tries its best to summarize me both academically and professionally. Hah.
+description: A 1-page summary of my professional journey.
 banner: https://i.imgur.com/vEg8KOi.jpg
 noComments: true
 ---

@@ -3,6 +3,9 @@ title: Colophon ⚙️
 description: Unveiling the inner workings of this website.
 banner: https://i.imgur.com/D4dPpG2.jpg
 noComments: true
+aliases:
+  - /about/colophon/
+  - /colophon/
 ---
 
 ## Copyright ∞ FVCproductions
@@ -11,7 +14,9 @@ Originally published 2013.
 
 Website design, development, and copy writing by Frances Coronel.
 
-Source code [can be found on GitHub](//github.com/fvcproductions/fvcproductions.github.io).
+The software and hardware I use on a day to day basis can be found on my [What I Use](/2018/03/18/what-i-use---spring-2018/) page - last updated Spring 2018.
+
+The source code [can be found on GitHub](//github.com/fvcproductions/fvcproductions.github.io).
 
 ---
 
@@ -57,18 +62,18 @@ External links also automatically have `target='_blank'` and `rel='nofollow'` ad
 
 The important part to note is that I've set the ↗ up to work only with links that start with `//` so [https://google.com](https://google.com) and [http://google.com](http://google.com) will just have the `target='_blank'` and `rel='nofollow'` added.
 
-1. List item one
-   1. List item one
-      * List item one
-      * List item two
-      * List item three
-      * List item four
-   2. List item two
-   3. List item three
-   4. List item four
-2. List item two
-3. List item three
-4. List item four
+1.  List item one
+    1.  List item one
+        * List item one
+        * List item two
+        * List item three
+        * List item four
+    2.  List item two
+    3.  List item three
+    4.  List item four
+2.  List item two
+3.  List item three
+4.  List item four
 
 |      Name       |       Occupation       | Age |
 | :-------------: | :--------------------: | :-: |
@@ -92,18 +97,18 @@ External links also automatically have `target='_blank'` and `rel='nofollow'` ad
 
 The important part to note is that I've set the ↗ up to work only with links that start with `//` so [https://google.com](https://google.com) and [http://google.com](http://google.com) will just have the `target='_blank'` and `rel='nofollow'` added.
 
-1. List item one
-   1. List item one
-      * List item one
-      * List item two
-      * List item three
-      * List item four
-   2. List item two
-   3. List item three
-   4. List item four
-2. List item two
-3. List item three
-4. List item four
+1.  List item one
+    1.  List item one
+        * List item one
+        * List item two
+        * List item three
+        * List item four
+    2.  List item two
+    3.  List item three
+    4.  List item four
+2.  List item two
+3.  List item three
+4.  List item four
 
 |      Name       |       Occupation       | Age |
 | :-------------: | :--------------------: | :-: |
