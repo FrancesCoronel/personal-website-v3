@@ -2,11 +2,7 @@
 title: New Wordpress Theme - tdEditor
 date: 2014-11-11 00:00:00 +0000
 description: Updated my website with the tdEditor theme.
-banner: ''
-caption: ''
-bannerLink: ''
-link: ''
-noComments: false
+banner: https://i.imgur.com/sgxJ8Mx.png
 categories:
 - portfolio
 - web
@@ -15,9 +11,10 @@ tags:
 - tdeditor
 - wordpress
 - wordpress theming
-type: default
-
 ---
+
+The tdEditor theme was created by Tasko.
+
 ![tdEditor Theme 8](https://i.imgur.com/sgxJ8Mx.png)
 ![tdEditor Theme 2](https://i.imgur.com/p6TGbtB.png)
 ![tdEditor Theme 4](https://i.imgur.com/lpkvJi3.png)

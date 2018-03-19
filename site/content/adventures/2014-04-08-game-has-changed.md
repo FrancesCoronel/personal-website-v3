@@ -13,7 +13,7 @@ tags:
   - Bowtie
   - iStat Menus
   - Living Earth
-  - DeviantArt icons
+  - deviantart
 ---
 
 Here, I used GeekTool, Flavours, Bartender, Bowtie, iStat Menus, Living Earth Desktop and icons from DeviantArt to customize my Mac desktop.

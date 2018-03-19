@@ -8,7 +8,7 @@ categories:
   - design
 tags:
   - geektool
-  - deviantart icons
+  - deviantart
 ---
 
 Here, I used Geektool and DeviantArt icons to bring this to life.

@@ -10,7 +10,7 @@ tags:
   - geektool
   - bowtie
   - nyx menu bar
-  - deviantart icons
+  - deviantart
 ---
 
 Here, I used Geektool, Bowtie, Nyx Menu Bar by Levantin Lynx and DeviantArt icons to bring this to life.
