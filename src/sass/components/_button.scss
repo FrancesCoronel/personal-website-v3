@@ -40,7 +40,7 @@ button,
     width: 100%;
   }
   &:hover,
-  &.is-checked {
+  &.mixitup-control-active {
     color: white;
     background-color: _palette(fg);
     box-shadow: inset 0 0 0 (_size(border-width) * 2) _palette(accent1);

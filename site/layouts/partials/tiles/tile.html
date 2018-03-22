@@ -1,4 +1,4 @@
-<article class="{{ if .Parent.Params.isotope }}isotope-item{{ end }} {{ with .Params.categories }}{{ delimit . " " }}{{ end }}">
+<article class="{{ if .Parent.Params.filtering }}mix{{ end }} {{ with .Params.categories }}{{ delimit . " " }}{{ end }}">
   <span class="image background-image" style="background-image:url({{ .Params.banner }});"></span>
   <!-- <span class="image">
     <img src="{{ .Params.banner }}">

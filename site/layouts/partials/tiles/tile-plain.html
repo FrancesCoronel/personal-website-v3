@@ -1,4 +1,4 @@
-<article class="plain-tile full-width {{ if .Parent.Params.isotope }}isotope-item{{ end }} {{ with .Params.categories }}{{ delimit . " " }}{{ end }}">
+<article class="plain-tile full-width {{ if .Parent.Params.filtering }}mix{{ end }} {{ with .Params.categories }}{{ delimit . " " }}{{ end }}">
   <div class="content">
     <!-- Date -->
     {{ if not .PublishDate.IsZero }}

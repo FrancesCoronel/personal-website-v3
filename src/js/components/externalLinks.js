@@ -1,8 +1,6 @@
-const newPageAttributes = {
-  target: "_blank",
-  rel: "noopener"
-};
+var anchors = document.querySelectorAll("a[href^='//']", "a[href^='http://']", "a[(href ^= 'https://')]");
 
-$("a[href^='//']").attr(newPageAttributes);
-$("a[href^='http://']").attr(newPageAttributes);
-$("a[href^='https://']").attr(newPageAttributes);
+for (var i = 0; i < anchors.length; i++) {
+  anchors[i].target = "_blank";
+  anchors[i].rel = "noopener";
+}

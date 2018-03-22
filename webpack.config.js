@@ -47,10 +47,6 @@ export default {
     new webpack.ProvidePlugin({
       fetch: "imports-loader?this=>global!exports?global.fetch!whatwg-fetch"
     }),
-    new webpack.ProvidePlugin({
-      $: "jquery",
-      jQuery: "jquery"
-    }),
     new webpack.optimize.UglifyJsPlugin({
       compress: {
         warnings: false,
@@ -119,16 +115,10 @@ export default {
       ]
     })
   ],
-  resolve: {
-    alias: {
-      jquery: "jquery/src/jquery",
-      isotope: "isotope-layout"
-    }
-  },
   context: path.join(__dirname, "src"),
   entry: {
     app: ["./js/app"],
-    isotope: ["./js/components/isotope/isotope.fitRowsCentered.js", "./js/components/isotope/isotope.js"]
+    filter: ["./js/components/filter.js"]
   },
   output: {
     path: path.join(__dirname, "dist/assets/js"),

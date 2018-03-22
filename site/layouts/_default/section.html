@@ -2,9 +2,9 @@
 <!-- Begin Main -->
 <div class="page">
   <!-- Return to Top -->
-  <a href="javascript:" id="return-to-top" aria-label="Return to Top" aria-labelledby="Return to Top" aria-hidden="true">
+  <!-- <a href="javascript:" id="return-to-top" aria-label="Return to Top" aria-labelledby="Return to Top" aria-hidden="true">
     <i class="fas fa-arrow-up"></i>
-  </a>
+  </a> -->
   <!-- Header -->
   {{ partial "page/header/index.html" . }}
   <!-- Body -->
@@ -33,8 +33,8 @@
   <!-- End - Check for child pages and child section pages -->
   {{ end }}
   <!-- End - Not Primary Adventures Page -->
-  <!-- Isotope -->
-  {{ partial "isotope/index.html" . }}
+  <!-- Filtering -->
+  {{ partial "filter/index.html" . }}
   <!-- Page Footer -->
   {{ partial "page/footer/index.html" . }}
 </div>

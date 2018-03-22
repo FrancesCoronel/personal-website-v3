@@ -19,10 +19,10 @@ var altTitles = [
 
 var altTitle = altTitles[Math.floor(Math.random() * altTitles.length)];
 
-$(window).blur(() => {
+window.onblur = () => {
   document.title = altTitle;
-});
+};
 
-$(window).focus(() => {
+window.onfocus = () => {
   document.title = title;
-});
+};

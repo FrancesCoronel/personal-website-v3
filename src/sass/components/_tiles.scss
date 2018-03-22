@@ -13,7 +13,7 @@
     position: relative;
     width: calc(#{(100% / 3)} - #{$gutter * 0.5});
     margin: ($gutter * 0.5) 0 0 ($gutter * 0.5);
-    &.isotope-item {
+    &.mix {
       h2 {
         font-size: larger;
       }
@@ -216,7 +216,7 @@
   }
 }
 
-section.section.tiles.isotope-grid {
+section.section.tiles.filtered-grid {
   width: 100%;
   margin: 0;
 }

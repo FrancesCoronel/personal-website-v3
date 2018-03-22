@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en" prefix="og: http://ogp.me/ns#">
+<html lang="en-US">
 
-<head>
+<head prefix="og: http://ogp.me/ns#">
+  {{ partial "head/index.html" . }}
   <title>
     {{ .Title }}
   </title>
-  {{ partial "head/index.html" . }}
   <!-- Preload -->
   <link rel="preload" href="/assets/css/main.css" as="style">
   <link rel="preload" href="/assets/js/app.js" as="script">
@@ -66,16 +66,16 @@
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
         navigator.serviceWorker.register('/OneSignalSDKWorker.js').then(registration => {
-          console.log('The service worker was registered! 🎉', registration);
+          console.info('The service worker was registered! 🎉', registration);
         }).catch(registrationError => {
-          console.log('The service worker registration failed. 😭️', registrationError);
+          console.error('The service worker registration failed. 😭️', registrationError);
         });
       });
     }
     // Image Alt
-    $(window).load(function () {
-      $(".popover-body-icon img").attr("alt", "FVCproductions - Logo");
-    });
+    // window.onload = function () {
+    //   document.querySelector(".popover-body-icon img").setAttribute("alt", "FVCproductions - Logo");
+    // };
 
   </script>
   <style>

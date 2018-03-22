@@ -37,8 +37,7 @@
   -o-transition: all 0.3s ease;
   -webkit-transition: all 0.3s linear;
   bottom: 1em;
-  color: _palette(fg);
-  display: none;
+  color: _palette(fg); // display: none;
   font-size: 1.5em;
   position: fixed;
   right: 1em;

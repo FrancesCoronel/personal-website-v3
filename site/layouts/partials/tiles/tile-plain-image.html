@@ -1,4 +1,4 @@
-<article class="plain-tile full-width {{ if .Parent.Params.isotope }}isotope-item{{ end }} {{ with .Params.categories }}{{ delimit . " " }}{{ end }}">
+<article class="plain-tile full-width {{ if .Parent.Params.filtering }}mix{{ end }} {{ with .Params.categories }}{{ delimit . " " }}{{ end }}">
   {{ if .Params.banner }}
   <span class="background-image" style="background-image:url({{ .Params.banner }});"></span>
   {{ end }}

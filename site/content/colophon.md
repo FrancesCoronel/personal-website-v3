@@ -27,15 +27,15 @@ The source code [can be found on GitHub](//github.com/fvcproductions/fvcproducti
 * **Hosting**
   * [Netlify](//www.netlify.com)
 * **Dependencies**
-  * [HTML5 UP](//html5up.net)
-  * [Skel](//github.com/ajlkn/skel)
-  * [Embedly](//embed.ly/)
-  * [Twemoji](//github.com/twitter/twemoji)
   * [Disqus](//disqus.com/)
-  * [Isotope](//isotope.metafizzy.co/)
+  * [Embedly](//embed.ly/)
   * [Google Analytics](//analytics.google.com)
-  * [MailChimp](//eepurl.com/ddx07z)
   * [Hero Patterns](//www.heropatterns.com/)
+  * [HTML5 UP](//html5up.net)
+  * [MailChimp](//eepurl.com/ddx07z)
+  * [MixItUp](//www.kunkalabs.com/mixitup/)
+  * [Skel](//github.com/ajlkn/skel)
+  * [Twemoji](//github.com/twitter/twemoji)
 * **Fonts**
   * [Roboto](//fonts.google.com/specimen/Roboto)
   * [Roboto Mono](//fonts.google.com/specimen/Roboto+Mono)

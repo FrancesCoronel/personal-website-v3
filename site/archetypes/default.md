@@ -12,19 +12,6 @@ bannerLink: ''
 link: ''
 # not ready for publishing
 draft: true
-# page layout options
-# alphabetical: true
-noComments: false
-# page type options
-# adventures: true
-# archive: true
-# awards: true
-# blog: true
-# contact: true
-# portfolio: true
-# speaking: true
-# isotope
-# isotope: true
 # taxonomy
 categories:
   - award
