@@ -7,7 +7,7 @@ categories:
   - conference
   - award
   - blog
-  - certainty
+  - certainties
 tags:
   - women who code
   - startup grind

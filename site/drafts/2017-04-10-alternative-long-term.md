@@ -1,15 +1,17 @@
 ---
 title: Alternative Paths To A Computer Science Degree
 description: These are all programs that are at least 2 years long and act as alternatives to a typical CS degree.
-date: 2017-04-10
+date: 2018-03-25
 banner: https://images.pexels.com/photos/277593/pexels-photo-277593.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb
 ---
 
-After interviewing with a few of the new and upcoming alternative long-term
-programs for CS education, I think I'm qualified enough to talk about what the
-key differences are.
+> Originally planned for release in April 10th, 2017 but stuff happens.
+
+After interviewing with a few of the new and upcoming alternative long-term programs for CS education, I wanted to provide others a brief overview of how they operate differently.
 
 Most coding bootcamps are 2 to 4 months (8 to 12 weeks) long.
+
+These programs instead act as alternative options to a CS degree which is usually 4 years long.
 
 |                     |    42     |  Galvanize  | Holberton School | Make School |                  Turing School                  |
 | :-----------------: | :-------: | :---------: | :--------------: | :---------: | :---------------------------------------------: |
@@ -47,7 +49,7 @@ San Francisco, CA
 
 ## [Holberton School](https://www.holbertonschool.com/)
 
-San Francisco, CA
+> Location: San Francisco, CA
 
 You can find the syllabus for the 1st year of their program
 [here](https://holbertonschool.s3-us-west-1.amazonaws.com/syllabus/holberton_school_syllabus_03082017010101.pdf).

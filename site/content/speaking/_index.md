@@ -33,4 +33,4 @@ If you'd like me to speak at an event, don't hesitate to [reach out](/contact)!
 
 #### [We RISE TEch Conference](//twitter.com/WeRiseConf/status/971815420142419968)
 
-* TypeScript 101 (Talk) - June 21st to 22nd
+* [TypeScript 101 (Talk)](//twitter.com/WeRiseConf/status/961650712361996288) - June 21st to 22nd

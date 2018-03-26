@@ -2,7 +2,8 @@
 <html lang="en-US">
 
 <head prefix="og: http://ogp.me/ns#">
-  {{ partial "head/index.html" . }}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0">
   <title>
     {{ .Title }}
   </title>
@@ -10,7 +11,7 @@
   <link rel="preload" href="/assets/css/main.css" as="style">
   <link rel="preload" href="/assets/js/app.js" as="script">
   <!-- Custom CSS -->
-  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/main.css"> {{ partial "head/index.html" . }}
 </head>
 
 <body>

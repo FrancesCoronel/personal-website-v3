@@ -2,7 +2,10 @@
 title: Email Clients
 description: A quick blurb on the state of email clients I've tried out.
 date: 2017-04-16
-draft: true
+categories:
+  - blog
+tags:
+  - email
 ---
 
 I've always been somewhat obsessed with keeping up with the latest and greatest
@@ -46,3 +49,7 @@ The only downside to Inbox is that it's Google accounts only so I can't utilize 
 
 * difficult to setup
 * seeing flagged emails is not as easy to do
+
+## Boxy
+
+* web is better and the future

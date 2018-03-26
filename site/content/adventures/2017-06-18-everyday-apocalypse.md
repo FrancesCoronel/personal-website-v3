@@ -1,17 +1,25 @@
 ---
 title: Your Everyday Apocalypse 💀
-description: A short story I never finished.
+description: A short story about a zombie apocalypse I never finished.
 date: 2017-06-18
-draft: true
 banner: https://i.imgur.com/8Qykhfo.jpg
 caption: "Source: https://imgur.com/gallery/uVfs5#"
+categories:
+  - blog
+  - creativity
+tags:
+  - zombie
+  - apocalypse
+  - siegius
+  - romance
+  - short story
 ---
 
 ## Your Everyday Apocalypse
 
 > This was a short story I wrote that I never ended up finishing. I promise it was written way before **"The Walking Dead"** became mainstream. 😜
 
-On June 18, 2017, a boy named George was born.
+On June 18, 2017, a boy named George was born..
 
 Unfortunately, on that very same day, a virus named **Siegius** was also born in Japan.
 
@@ -71,6 +79,6 @@ But I digress.
 
 > Footnotes
 
-1. P.A.L.H stands for Personal Artificial Learning Hologram
-2. SPLICE stands for Security, Politics, Laboratory, Industry, Computing, and Education
-3. Virtual Interactive Kinesthetic Interface
+1.  P.A.L.H stands for Personal Artificial Learning Hologram
+2.  SPLICE stands for Security, Politics, Laboratory, Industry, Computing, and Education
+3.  Virtual Interactive Kinesthetic Interface
