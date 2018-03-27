@@ -79,6 +79,14 @@ table.gsc-search-box {
   max-width: 100%;
 }
 
+.gsc-refinementsArea {
+  display: none;
+}
+
+.gsc-tabsArea > div {
+  overflow: hidden;
+}
+
 </style>
 
 <script>
