@@ -30,31 +30,31 @@ pre {
   code {
     display: block;
     line-height: 1.75;
-    padding: 1em 1.5em;
     overflow-x: auto;
+    padding: 1em 1.5em;
   }
 }
 
 pre,
 code {
-  word-wrap: break-word;
-  white-space: pre-wrap;
   white-space: -moz-pre-wrap;
-  white-space: -pre-wrap;
   white-space: -o-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: pre-wrap;
+  word-wrap: break-word;
   word-wrap: break-word;
 }
 
 kbd {
-  display: inline-block;
-  padding: 0.5em;
-  font-size: 1em;
-  line-height: 0.5em;
-  color: #444d56;
-  vertical-align: middle;
   background-color: #fafbfc;
-  border: solid 1px #c6cbd1;
   border-bottom-color: #959da5;
   border-radius: 5px;
+  border: solid 1px #c6cbd1;
   box-shadow: inset 0 -1px 0 #959da5;
+  color: #444d56;
+  display: inline-block;
+  font-size: 1em;
+  line-height: 0.5em;
+  padding: 0.5em;
+  vertical-align: middle;
 }

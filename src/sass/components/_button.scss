@@ -4,7 +4,14 @@ input[type="button"],
 button,
 .button {
   @include vendor("appearance", "none");
-  @include vendor("transition", ( "background-color #{_duration(transition)} ease-in-out", "color #{_duration(transition)} ease-in-out", "box-shadow #{_duration(transition)} ease-in-out"));
+  @include vendor(
+    "transition",
+    (
+      "background-color #{_duration(transition)} ease-in-out",
+      "color #{_duration(transition)} ease-in-out",
+      "box-shadow #{_duration(transition)} ease-in-out"
+    )
+  );
   background-color: transparent;
   border-radius: _size(border-radius);
   border: solid (_size(border-width) * 2) _palette(fg);
@@ -14,18 +21,15 @@ button,
   font-size: 0.8em;
   font-weight: _font(weight-bold-xxx);
   height: 3.5em;
-  letter-spacing: _font(letter-spacing);
+  letter-spacing: 0;
   line-height: 3.45em;
   overflow: hidden;
-  padding: 0 1.25em 0 #{1.25em + _font(letter-spacing)};
+  padding: 0 1.5em;
   text-align: center;
   text-decoration: none;
   text-overflow: ellipsis;
-  text-transform: uppercase;
-  white-space: nowrap;
-  letter-spacing: 0;
   text-transform: none;
-  padding: 0 1.5em;
+  white-space: nowrap;
   .svg-inline--fa {
     margin-left: 0.5em;
   }
@@ -41,9 +45,9 @@ button,
   }
   &:hover,
   &.mixitup-control-active {
-    color: white;
     background-color: _palette(fg);
     box-shadow: inset 0 0 0 (_size(border-width) * 2) _palette(accent1);
+    color: white;
   }
   &:active {
     background-color: transparentize(_palette(accent1), 0.9);
@@ -62,8 +66,8 @@ button,
 }
 
 .filter-button-group {
-  text-align: center;
   margin: 1em 0;
+  text-align: center;
   button {
     margin: 0.5em 0.5em 0.5em 0;
     @include breakpoint(small) {

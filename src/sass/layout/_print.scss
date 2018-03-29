@@ -1,8 +1,8 @@
 @media print {
   body,
   html,
-   :link,
-   :visited,
+  :link,
+  :visited,
   h1,
   h2,
   h3,
@@ -19,11 +19,11 @@
   h6 code {
     color: #000;
     padding-left: 0;
-    padding-right: 0
+    padding-right: 0;
   }
-   :link,
-   :visited {
-    text-decoration: underline
+  :link,
+  :visited {
+    text-decoration: underline;
   }
   body {
     padding: 0;
@@ -34,13 +34,13 @@
   footer,
   nav,
   .section.tiles {
-    display: none
+    display: none;
   }
   .page-body a[href]::after {
     content: "\0000a0(" attr(href) ")";
     display: inline-block;
     font: 14px/20px Roboto, sans-serif;
     max-width: 100%;
-    word-wrap: break-word
+    word-wrap: break-word;
   }
 }

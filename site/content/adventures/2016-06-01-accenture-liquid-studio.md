@@ -1,7 +1,7 @@
 ---
 title: Accenture Liquid Studio - Summer 2016
 description: Wearables Developer
-date: 2016-08-12
+date: 2016-06-01
 banner: https://fvcproductions.files.wordpress.com/2016/07/accentureslc-1.jpeg
 categories:
   - experience
@@ -19,7 +19,7 @@ Formally based out of San Francisco, CA
 
 ## Date
 
-June 2016 to August 12, 2016
+June 1st, 2016 to August 12th, 2016
 
 ## About
 

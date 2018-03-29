@@ -1,7 +1,7 @@
 ---
 title: About 🍫️🍓️
 description: A brief intro to my world.
-banner: https://i.imgur.com/EemV6QS.jpg
+banner: https://i.imgur.com/Ap1R1zy.jpg
 caption: The quintessential portrait
 alphabetical: true
 noComments: true
@@ -28,40 +28,28 @@ Might have something to do with human nature in general, though, so interpret it
 * Avid conference & hackathon goer 🚗
 * Code pusher, design publisher & online blogger 🌐️
 
-### Fun Facts
+### Fun Facts 🦄
+
+#### Fun Fact #1
+
+My logo is a chocolate dipped strawberry. No particular
+reason why, I just think they're yummy. 🍫🍓
 
 [![Logo](https://imgur.com/aIbX4z0.png)](/2017/08/19/fvcproductions---logo-redesign-/)
 
-<p class="image-caption">Logo</p>
+#### Fun Fact #2
 
-<p class="notice">
-  <b>Fun Fact</b>
-  <br>
-  My logo is a chocolate dipped strawberry. No particular
-  reason why, I just think they're yummy. 🍫🍓
-</p>
-
-<p class="notice">
-  <b>Fun Fact #2</b>
-  <br>
-  My boyfriend Nolan got accepted to the <a href="//holbertonschool.com">Holberton School</a> in San Francisco and will be starting with the September 2018 cohort - I'm very happy for him! ❤️
-</p>
+My boyfriend Nolan got accepted to the [Holberton School](//holbertonschool.com) in San Francisco and will be starting with the September 2018 cohort - I'm very happy for him! ❤️
 
 ![Nolty](https://i.imgur.com/ukAFqim.jpg)
 
-<p class="image-caption">🚀 This is Nolan helping me build the <a href="https://shop.lego.com/en-US/LEGO-NASA-Apollo-Saturn-V-21309">Apollo Saturn V</a></p>
+#### Fun Fact #3
 
-<p class="notice">
-  <b>Fun Fact #3</b>
-  <br>
-  I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the Egyptian queen) a crap ton.
-</p>
+I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the Egyptian queen) a crap ton.
 
 ![Nefy](https://i.imgur.com/cwXno9D.jpg)
 
-<p class="image-caption">This is Nefer being a little cutie.</p>
-
-### Timeline
+### Over Simplified Timeline 🕔
 
 > 2018
 
@@ -128,4 +116,4 @@ Might have something to do with human nature in general, though, so interpret it
   * It ends mid-April so hopefully I advance to the next stage!
 * My talk was accepted to the [WE RISE Tech Conference](//werise.tech/) in Atlanta - very excited! 🎉
   * My talk/workshop proposals have also been accepted at a [few other events](/speaking)!
-* Recorded my first podcast
+* Recorded my first podcast (TBA!)

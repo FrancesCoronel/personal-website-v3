@@ -13,7 +13,7 @@
   {{ dateFormat "Monday - January 2, 2006" .Date }}
 </p>
 <div>
-  {{ .Description }}
+  {{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}
 </div>
 <div>
   {{ .Summary }}

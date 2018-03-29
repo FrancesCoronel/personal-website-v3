@@ -47,7 +47,7 @@ And after I had the opportunity to get my headshot taken, I was so happy with th
 
 > New Profile Picture
 
-![New Profile Picture](https://i.imgur.com/KBPjkn8.jpg)
+![New Profile Picture](https://i.imgur.com/Ap1R1zy.jpg)
 
 > Updated Twitter Profile
 

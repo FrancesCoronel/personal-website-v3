@@ -30,9 +30,8 @@ The source code [can be found on GitHub](//github.com/fvcproductions/fvcproducti
   * [Disqus](//disqus.com/)
   * [Embedly](//embed.ly/)
   * [Google Analytics](//analytics.google.com)
-  * [Hero Patterns](//www.heropatterns.com/)
   * [HTML5 UP](//html5up.net)
-  * [MailChimp](//eepurl.com/ddx07z)
+  * [MailChimp](//mailchi.mp/022336cef0b2/fvcproductions)
   * [MixItUp](//www.kunkalabs.com/mixitup/)
   * [Skel](//github.com/ajlkn/skel)
   * [Twemoji](//github.com/twitter/twemoji)
@@ -122,13 +121,6 @@ The important part to note is that I've set the ↗ up to work only with links t
 
 ### HTML
 
-<p class="notice">
-<b>Fun Fact</b>
-<br>
-My logo is a chocolate dipped strawberry. No particular
-reason why, I just think they're yummy. 🍫🍓
-</p>
-
 There are <sup>superscripts</sup> like in E = MC<sup>2</sup> and <sub>subscripts</sub> like with H<sub>2</sub>O.
 
 This tag should denote <ins>inserted</ins> text.
@@ -146,13 +138,6 @@ Let's not forget about our precious <kbd>Delete</kbd> key.
 <button class="button fit">Fit Button</button>
 
 ```html
-<p class="notice">
-  <b>Fun Fact</b>
-  <br>
-  My logo is a chocolate dipped strawberry. No particular
-  reason why, I just think they're yummy. 🍫🍓
-</p>
-
 There are <sup>superscripts</sup> like in E = MC<sup>2</sup> and <sub>subscripts</sub> like with H<sub>2</sub>O.
 
 This tag should denote <ins>inserted</ins> text.
