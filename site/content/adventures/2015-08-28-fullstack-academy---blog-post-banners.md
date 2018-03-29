@@ -1,34 +1,40 @@
 ---
 title: Fullstack Academy - Blog Post Banners
-date: 2018-03-28 20:27:54 +0000
-description: ''
-banner: ''
+date: 2015-08-28 00:00:00 +0000
+description: Banners made for blog posts related to my experience in Fullstack Academy's
+  Summer of Code 2015 program.
+banner: https://i.imgur.com/4IAtyVW.jpg
 caption: ''
 bannerLink: ''
 link: ''
-categories: []
+categories:
+- portfolio
+- design
 tags:
-- tag
+- fullstack academy
+- nyc
+- banners
+- blog posts
 draft: true
+noComments: false
 
 ---
+Going into [**Fullstack Academy**](//fullstackacademy.com/), a coding bootcamp in NYC, I knew I would be blogging extensively about my experience.
 
-## Name
+What I wasn't expecting, however, is how much fun it would be to create the banners for my blog posts.
 
-[Event](//google.com)
+![Week 1](https://i.imgur.com/YDbevsh.jpg)
 
-## Location
+![Week 2](https://i.imgur.com/xFgj3uc.jpg)
 
-Address - City, State
+![Week 3](https://i.imgur.com/JwcnKoB.jpg)
 
-## Date
+![Week 4](https://i.imgur.com/Goa7DQK.jpg)
 
-Sunday, October 22nd - 9:00 AM to 5:00 PM
+![Week 5](https://i.imgur.com/V4nsi09.jpg)
 
-## Role
+![Week 6](https://i.imgur.com/US0f0hC.jpg)
 
-Participant, Volunteer, Speaker, Scholarship Recipient, Mentor
+![One Week Left](https://i.imgur.com/HlmeE48.jpg)
 
-## About
-
-It was amazing!
+![Reflections](https://i.imgur.com/4IAtyVW.jpg)
