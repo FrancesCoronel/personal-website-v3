@@ -9,7 +9,6 @@ link: ''
 categories: []
 tags:
 - tag
-draft: true
 noComments: false
 
 ---
