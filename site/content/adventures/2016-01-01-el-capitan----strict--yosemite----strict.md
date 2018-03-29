@@ -1,7 +1,7 @@
 ---
 title: El Capitan == Strict; Yosemite != Strict
-date: 2018-03-28 20:36:55 +0000
-description: ''
+date: 2016-01-01 00:00:00 +0000
+description: Customizing my desktop layout.
 banner: ''
 caption: ''
 bannerLink: ''
@@ -10,6 +10,7 @@ categories: []
 tags:
 - tag
 draft: true
+noComments: false
 
 ---
 
