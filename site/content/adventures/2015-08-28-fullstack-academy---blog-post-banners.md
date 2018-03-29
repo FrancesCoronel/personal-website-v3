@@ -15,7 +15,6 @@ tags:
 - nyc
 - banners
 - blog posts
-draft: true
 noComments: false
 
 ---
