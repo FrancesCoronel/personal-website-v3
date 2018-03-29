@@ -1,12 +1,12 @@
 ---
-title: Thinful
-date: 2018-02-20
+title: Thinkful
+date: 2018-02-20 00:00:00 +0000
 description: Technical Mentor - Flexible Web Development Bootcamp
 banner: https://tf-assets-prod.s3.amazonaws.com/splash/social/thinkful_logo.png
 categories:
-  - experience
----
+- experience
 
+---
 ## Employer
 
 [Thinkful](//thinkful.com)
