@@ -1,35 +1,20 @@
 ---
-title: El Capitan == Strict; Yosemite != Strict
-date: 2016-01-01 00:00:00 +0000
-description: Customizing my desktop layout.
-banner: ''
-caption: ''
-bannerLink: ''
-link: ''
-categories: []
+title: "El Capitan == Strict; Yosemite != Strict"
+date: 2016-01-01
+description: "Just a quick view on how Yosemite was much less strict than El Capitan when it comes to customization."
+categories:
+  - portfolio
+  - design
 tags:
-- tag
-draft: true
-noComments: false
-
+  - yosemite
+  - el capitan
+  - macos
 ---
 
-## Name
+![El Capitan is Strict](https://i.imgur.com/1wnCTxd.png)
 
-[Event](//google.com)
+![El Capitan is Strict](https://i.imgur.com/SFGjZ38.png)
 
-## Location
+![El Capitan is Strict](https://i.imgur.com/Ysw1YMh.png)
 
-Address - City, State
-
-## Date
-
-Sunday, October 22nd - 9:00 AM to 5:00 PM
-
-## Role
-
-Participant, Volunteer, Speaker, Scholarship Recipient, Mentor
-
-## About
-
-It was amazing!
+![El Capitan is Strict](https://i.imgur.com/irrWHTx.png)

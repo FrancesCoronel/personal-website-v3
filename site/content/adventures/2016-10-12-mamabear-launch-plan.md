@@ -29,7 +29,8 @@ This will allow Splash to acquire more users by providing them an all-inclusive 
 
 ### Plan
 
-<p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View MamaBear Launch Plan on Scribd" href="https://www.scribd.com/document/328088038/MamaBear-Launch-Plan#from_embed"  style="text-decoration: underline;" >MamaBear Launch Plan</a> by <a title="View FVCproductions's profile on Scribd" href="https://www.scribd.com/user/194063411/FVCproductions#from_embed"  style="text-decoration: underline;" >FVCproductions</a> on Scribd</p><iframe class="scribd_iframe_embed" title="MamaBear Launch Plan" src="https://www.scribd.com/embeds/328088038/content?start_page=1&view_mode=scroll&access_key=key-YUCHhqjhWvGhuXMtl0Ts&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7729220222793488" scrolling="no" id="doc_54218" width="100%" height="600" frameborder="0"></iframe>
+<blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/375586183/Mama-Bear-Launch-Plan">Mama Bear Launch Plan</a></h4><p>Splash is an all-in-one Event Marketing Platform built for achieving goals and tracking impact. Splash's current wedge is a beautiful user interface and seamless user experience for all their event customers. Their main competitors such as Eventbrite, Meetup, and Facebook all serve mainly as high-end bulletin boards to showcase events and register.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Presentation
 
@@ -40,3 +41,15 @@ This will allow Splash to acquire more users by providing them an all-inclusive 
 
 * Quip
 * Google Slides
+
+### Graphics
+
+As part of the MamaBear Launch Plan, I created a Twitter-esque UI to help illustrate what kind of problems the MamaBear platform would be responding to in order to help users while at conferences.
+
+The initial Sketch file was created by [Rafael Conde](//rafaelconde.net/).
+
+![Mama Bear 2](https://i.imgur.com/HxuAa43.png)
+
+I also created this process diagram showcasing how the inner workings of the product came together.
+
+![Mama Bear 1](https://i.imgur.com/afEC79j.jpg)

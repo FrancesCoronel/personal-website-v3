@@ -72,6 +72,20 @@ Needless to say, this year was friggin' amazing.
 * Scholarship includes conference registration, shared hotel with another
   scholarship recipient and $500 travel award.
 
+### Banners
+
+The Tapia Conference has always been a premier venue to acknowledge, to promote and to celebrate diversity in computing.
+
+Having attended Tapia twice before in 2015 and 2016, I recognize how truly lucky I was to attend such an amazing conference that is working towards increasing diversity in the computing field.
+
+I decided to create these banners in recognition of the conference.
+
+The font used is Nimbus Sans Extended.
+
+Feel free to download the Sketch file from GitHub and modify it however you like.https://github.com/fvcproductions/sketch/blob/master/tapia-conference.sketch
+
+### Pictures
+
 ![TAPIA 2016](//i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0717.jpg?w=233&h=1154&crop&ssl=1&zoom=2!)
 
 ![TAPIA 2016](//i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0706.jpg?w=509&h=382&crop&ssl=1&zoom=2!)

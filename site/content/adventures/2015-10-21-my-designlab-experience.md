@@ -3,6 +3,11 @@ title: My Designlab Experience 🎨
 date: 2015-10-21
 description: My personal experience with Designlab, an online platform for learning web and mobile design skills.
 banner: https://i.imgur.com/XvuQKSk.jpg
+categories:
+  - blog
+  - program
+  - portfolio
+  - design
 tags:
   - behance
   - chad trutt
@@ -23,10 +28,6 @@ tags:
   - typography
   - visual hierarchy
   - web design
-categories:
-  - blog
-  - program
-  - portfolio
 ---
 
 ## Name
@@ -115,7 +116,12 @@ Regardless, becoming the marvelous mentor he is, Chad always made sure to give m
 
 These are already on their website, but I will share again here.
 
-1. Getting to Know Design 2. Visual Hierarchy 3. Layout 4. Typography 5. Color Theory 6. Process
+1.  Getting to Know Design
+2.  Visual Hierarchy
+3.  Layout
+4.  Typography
+5.  Color Theory
+6.  Process
 
 Each unit had designated projects and with each project, there were several articles that were optional to read. Most of the articles were pretty helpful and were all available for free online.
 

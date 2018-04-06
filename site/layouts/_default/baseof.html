@@ -7,11 +7,19 @@
   <title>
     {{ .Title }}
   </title>
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <!-- Prefetch Third Party Resources -->
+  <link rel="dns-prefetch" href="https://twemoji.maxcdn.com">
+  <link rel="dns-prefetch" href="https://www.google-analytics.com">
+  <link rel="dns-prefetch" href="https://cdn.onesignal.com">
   <!-- Preload -->
   <link rel="preload" href="/assets/css/main.css" as="style">
   <link rel="preload" href="/assets/js/app.js" as="script">
-  <!-- Custom CSS -->
-  <link rel="stylesheet" href="/assets/css/main.css"> {{ partial "head/index.html" . }}
+  <link rel="preload" href="https://cdn.onesignal.com/sdks/OneSignalSDK.js" as="script">
+  <link rel="preload" href="https://cdn.embedly.com/widgets/platform.js" as="script">
+  <!-- SEO -->
+  {{ partial "head/index.html" . }}
 </head>
 
 <body>

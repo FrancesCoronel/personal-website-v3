@@ -33,12 +33,6 @@ a {
   color: _palette(fg);
   &:hover {
     color: _palette(accent1);
-    cursor: -webkit-image-set(
-          url(https://hovastate.s3.amazonaws.com/hova.png) 1x,
-          url(https://hovastate.s3.amazonaws.com/hova.2x.png) 2x
-        )
-        24 1,
-      default;
     img {
       box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
       &.emoji {

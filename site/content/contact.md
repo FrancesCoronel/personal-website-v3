@@ -51,7 +51,7 @@ Please note that depending on the contact reason, it may take longer for me to g
       <input autocomplete="on" type="email" name="email" placeholder="Your email">
     </div>
     <div class="field">
-      <textarea spellcheck="true" rows="20" name="message" id="message" placeholder="Your message"></textarea>
+      <textarea spellcheck="true" rows="5" name="message" id="message" placeholder="Your message"></textarea>
     </div>
     <ul class="actions">
       <li>

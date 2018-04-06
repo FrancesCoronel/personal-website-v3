@@ -8,6 +8,15 @@ categories:
   - design
   - video
   - web
+  - award
+tags:
+  - tsp
+  - government
+  - website
+  - huge design
+  - huge agency
+  - thrift savings plan
+  - redesign
 ---
 
 There were 2 parts to the interview process - the video and the design challenge.
@@ -25,14 +34,18 @@ I was tasked with re-designing the website for TSP....
 
 ### Redesigned Logos
 
-<blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/50030319/Redesigned-Logos-for-TSP">Redesigned Logos for TSP</a></h4><p>Showcase and discover the latest work from top online portfolios by creative professionals across industries.</p></blockquote>
+As part of a redesign assignment for the Huge Experience School program, I redesigned two logos for the TSP website - one horizontal and the other vertical.
 
 ### Redesigned Website
 
-[embed website]
-
-[embed github repo]
-
-<blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/50029793/Redesign-of-Thrift-Savings-Plan-Website">Redesign of Thrift Savings Plan Website</a></h4><p>Showcase and discover the latest work from top online portfolios by creative professionals across industries.</p></blockquote>
-
 <blockquote class="embedly-card"><h4><a href="http://fvcproductions.github.io/tsp-gov/">Thrift Savings Plan | Home</a></h4><p>This site is also protected by an SSL (Secure Sockets Layer) certificate that's been signed by the U.S. government. The https:// means all transmitted data is encrypted - in other words, any information or browsing history that you provide is transmitted securely.</p></blockquote>
+
+## Video Interview
+
+After those two steps, the next step was a video interview with two employees from HUGE. This is the only part that didn't go well apparently. Lol.
+
+## Lessons Learned
+
+On March 23rd, HUGE rejected me but let me know I was a super strong candidate and yadda yadda.
+
+I think HUGE required a lot of time and effort from their applicants. Also, I felt that because I asked a somewhat controversial question during the interview (is it true that HUGE employees can be very cliquish?), I was flagged as not compatible for their culture.

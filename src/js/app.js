@@ -1,8 +1,8 @@
-// Fonts
-require("./components/fonts");
-
 // Twemoji
 require("./components/twemoji");
+
+// Fonts
+require("./components/fonts");
 
 // Font Awesome
 require("@fortawesome/fontawesome");

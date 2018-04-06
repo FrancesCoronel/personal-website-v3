@@ -7,17 +7,42 @@ aliases:
   - /portfolio/2017/02/24/startup-studio/
 categories:
   - portfolio
+  - web
+  - design
+  - presentation
+  - video
+tags:
+  - electron
+  - startup studio
+  - cornell tech
+  - mora
+  - foster care
+  - venus
+  - case management
+  - desktop app
 ---
 
 ## Overview
 
-Mora
-
 ### Branding
 
-[behance - mora branding]
+#### Team Venus
 
-[behance - team venus branding]
+For Startup Studio at Cornell Tech, I teamed up with 3 other women to create a streamlined document management solution targeted at social workers so they can place children into foster care faster.
+
+Our company is called Venus and these are the default logos I created early on for the team.
+
+#### Mora
+
+For [Startup Studio](//tech.cornell.edu/studio) at [Cornell Tech](//tech.cornell.edu), I teamed up with three other women to create a streamlined document management solution targeted at social workers so they can place children into foster care faster.
+
+Our company is called [Venus](//www.behance.net/gallery/48574131/Team-Venus-Startup-Studio) and we created a product called Mora.
+
+This is the branding I created for Mora.
+
+![Mora Wordmark](https://i.imgur.com/DldlAl6.png)
+
+![Mora Logo](https://i.imgur.com/zXbz547.png)
 
 ### GitHub
 
@@ -29,6 +54,8 @@ Mora
 ## Sprint 1
 
 > Presented on February 24th, 2017.
+
+As part of Startup Studio Sprint 1 at Cornell Tech, I designed and developed a desktop app called Mora that acts as a streamlined document management solution for social workers in the foster care field.
 
 ### Behance
 
@@ -58,4 +85,14 @@ Mora
 
 ## Open Studio Poster
 
-[behance]
+In Startup Studio at Cornell Tech, teams experiment with creating a startup from the bottom up.
+
+Team Venus, my team, recognized the problem social workers have with placing kids in homes faster in part because of the lack of tech innovation within the foster care industry.
+
+We addressed this problem by creating Mora, a cross-platform streamlined case management and analytics solution for foster care agencies.
+
+At the end of the semester, each team was also tasked to create a poster for their teams in order to display them at Open Studio.
+
+This is the end result.
+
+Feel free to download the PDF [here](//github.com/fvcproductions/venus-co/blob/master/resources/pdf/poster.pdf).

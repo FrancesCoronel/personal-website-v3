@@ -105,10 +105,6 @@ export default {
           handler: "staleWhileRevalidate"
         },
         {
-          urlPattern: new RegExp("https://hovastate.s3.amazonaws.com"),
-          handler: "staleWhileRevalidate"
-        },
-        {
           urlPattern: new RegExp("https://twemoji.maxcdn.com"),
           handler: "staleWhileRevalidate"
         }
