@@ -1,5 +1,5 @@
 ---
-title: Mentoring Programs
+title: Paid Tech Mentoring Programs
 date: 2018-03-25
 description: Mentor developers and get paid.
 categories:

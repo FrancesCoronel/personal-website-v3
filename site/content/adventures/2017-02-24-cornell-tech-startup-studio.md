@@ -36,7 +36,7 @@ Our company is called Venus and these are the default logos I created early on f
 
 For [Startup Studio](//tech.cornell.edu/studio) at [Cornell Tech](//tech.cornell.edu), I teamed up with three other women to create a streamlined document management solution targeted at social workers so they can place children into foster care faster.
 
-Our company is called [Venus](//www.behance.net/gallery/48574131/Team-Venus-Startup-Studio) and we created a product called Mora.
+Our company is called **Venus** and we created a product called Mora.
 
 This is the branding I created for Mora.
 
@@ -56,10 +56,6 @@ This is the branding I created for Mora.
 > Presented on February 24th, 2017.
 
 As part of Startup Studio Sprint 1 at Cornell Tech, I designed and developed a desktop app called Mora that acts as a streamlined document management solution for social workers in the foster care field.
-
-### Behance
-
-<blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/49477703/Mora-Sprint-1">Mora | Sprint 1</a></h4><p>Showcase and discover the latest work from top online portfolios by creative professionals across industries.</p></blockquote>
 
 ### YouTube Video
 
@@ -96,3 +92,5 @@ At the end of the semester, each team was also tasked to create a poster for the
 This is the end result.
 
 Feel free to download the PDF [here](//github.com/fvcproductions/venus-co/blob/master/resources/pdf/poster.pdf).
+
+> See examples of work submitted to Startup Studio [here](//docs.google.com/spreadsheets/d/1cBiZH8efq6DdHRY-ErI38FRjVvPraRCeE4WyrrGg99M/edit#gid=0).

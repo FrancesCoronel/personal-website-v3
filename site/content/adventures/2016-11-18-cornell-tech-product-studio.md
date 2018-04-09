@@ -1,5 +1,5 @@
 ---
-title: Product Studio 🔥
+title: Cornell Tech - Product Studio 🔥
 date: 2016-11-18
 description: How might we create a safe place for people of all backgrounds to discuss important local, national, and global issues?
 banner: https://github.com/fvcproductions/nyt-comm/raw/master/img/banner/ct+nytimes-white.png
@@ -285,3 +285,30 @@ At the end of the semester, each team was also tasked to create a poster for the
 ## Tools Used
 
 * Sketch 3
+
+---
+
+---
+
+title: Best Final Sprint Presentation - Product Studio - Cornell Tech
+date: 2016-12-09
+description: Recognized as having one of the best team presentations during the final
+sprint in the Product Studio class within the Grizzly room at Cornell Tech.
+link: https://tech.cornell.edu/studio/curriculum/product-studio
+categories:
+
+* award
+
+---
+
+---
+
+title: Cornell Tech - Artful Artifacts
+date: 2016-11-22
+description: "We've pulled these for the class to see great examples of teams or individuals that have produced meaningful artifacts that not only showcase an interesting way of representing their solution, but also act as useful milestones that can be referenced to in the future of the product development process."
+link: https://tech.cornell.edu/studio/curriculum/product-studio
+categories:
+
+* award
+
+---

@@ -11,6 +11,6 @@ aliases:
   - /feedback/
 ---
 
-## If you’re interested in being mentored, feel free to [contact me](/contact/) through my website.
+## If you’re interested in being mentored, feel free to [contact me](/contact/) through my website. 📩️
 
 ---

@@ -2,7 +2,7 @@
 title: Speaking 💬️
 description: Talks I've given at events.
 banner: https://i.imgur.com/3nARfu6.jpg
-caption: "HR DevFest - November 2015"
+caption: "HR DevFest - First Technical Talk - November 2015"
 noComments: true
 speaking: true
 alphabetical: true

@@ -34,13 +34,9 @@ Feel free to check out this small class project [on GitHub](http://github.com/fv
 
 <blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/cmtech-assignment-1">fvcproductions/cmtech-assignment-1</a></h4><p>cmtech-assignment-1 - GitHub + Guardian News = GitGuardian</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/50180493/GitGuardian">GitGuardian</a></h4><p>Showcase and discover the latest work from top online portfolios by creative professionals across industries.</p></blockquote>
-
 ## Assignment 3 - Stori
 
 speaker deck
-
-sketch --> behance
 
 github
 

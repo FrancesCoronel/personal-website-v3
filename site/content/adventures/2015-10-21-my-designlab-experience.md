@@ -104,7 +104,7 @@ I received a few items in the mail August 31st - ooh la la. The book "Steal Like
 
 My mentor, [Chad](//chadtrutt.com/ "Chad Trutt") was pretty cool. I checked out his website and he has some killer work, like this pepper:
 
-![Low-Poly Chilli Pepper](https://m2.behance.net/rendition/pm/17019797/disp/d7e391ee6a819bdc0bdb3cf9eb6bed0c.jpg)
+![Low-Poly Chilli Pepper](https://cdn.dribbble.com/users/136678/screenshots/1560457/chilipepper_behance_1x.jpg)
 
 But to be honest, we only ended up Skyping each other once because I was always busy or had something going on that was of higher priority. This was on me.
 
@@ -129,7 +129,7 @@ Each unit had designated projects and with each project, there were several arti
 
 I'm still pretty new to the world of design. Even though I already knew the difference between UX/UI, how a wireframe is different from a prototype, and how important design is in general, **Designlab** was still made me realize how much more complex design can really be even when your only goal is simplicity.
 
-I explored each project more in depth [on this page](//fvcproductions.com/portfolio/designlab-submissions/), but you're also free to look at it on [my Behance portfolio](//www.behance.net/gallery/29117121/My-Designlab-Experience) as well.
+I explored each project more in depth [on this page](//fvcproductions.com/portfolio/designlab-submissions/).
 
 ![Designlab - Profile](https://fvcproductions.files.wordpress.com/2015/10/designlab-profile.png)
 
@@ -155,8 +155,6 @@ The certificate itself is actually nothing more than a showcasing of all the des
 
 <blockquote class="embedly-card"><h4><a href="https://trydesignlab.com/profile/fvcproductions/">fvcproductions's Profile | Designlab</a></h4><p>fvcproductions's profile on Designlab. Designlab is the best way to learn UI & UX design skills online.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-<blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/29117121/My-Designlab-Experience">My Designlab Experience</a></h4><p>These are some of my favorite submissions I made for the online course "Design 101" through Designlab.</p></blockquote>
 
 ### SuperGood
 

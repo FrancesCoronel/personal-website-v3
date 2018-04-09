@@ -13,9 +13,13 @@ noComments: true
 
 ### But here's the hard copy of my resume for reference.
 
-> Last updated October 2017
+> Last updated March 2018
 
-I know what you're thinking - wow, Frances - how did you get your resume to look so neat? Well, I used a ltitle something I like to call [Creddle.io](//resume.creddle.io/review/870o0jjlt23) - you should check it out. It's pretty nifty and I'm never going back to manually formatting my resume again.
+I know what you're thinking - wow, Frances - how did you get your resume to look so neat?
+
+Well, I used a little something I like to call [Creddle.io](//resume.creddle.io/review/870o0jjlt23).
+
+It's pretty nifty and I'm never going back to manually formatting my resume again.
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/324348340/Resume-FVCproductions">Resume | FVCproductions</a></h4><p>Resume | FVCproductions - Free download as PDF File (.pdf), Text File (.txt) or read online for free. For a live version of my resume, please refer to my LinkedIn at linkedin.com/in/fvcproductions.</p></blockquote>
 

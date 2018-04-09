@@ -68,5 +68,3 @@ Check out the badges at [`built-in-norfolk`](https://github.com/fvcproductions/b
 
 * **GitHub Repo**
   * [`built-in-norfolk`](//github.com/fvcproductions/built-in-norfolk)
-* **Behance Project**
-  * [Built in Norfolk](//www.behance.net/gallery/33000931/Built-in-Norfolk)

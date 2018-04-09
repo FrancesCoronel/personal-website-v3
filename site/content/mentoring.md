@@ -16,13 +16,15 @@ So far, I’ve helped out folks who have successfully gone on to coding bootcamp
 
 I’ve also tutored kids at the elementary, middle, and high school level on how to get started in the tech field.
 
-As of **January 2018**, I’ve dedicated **over 30 hours** of my free time mentoring awesome people 1-on-1.
+As of **January 2018**, I’ve dedicated **over 30 hours** of my free time mentoring awesome people 1-on-1. ⏰
+
+And as of **February 2018**, I've [started mentoring part-time](/2018/02/20/thinkful/) for Thinkful's web development bootcamp and getting paid to do so. 😊
 
 You can find [the feedback I've received](/feedback/) thus far on my website!
 
 ---
 
-## If you’re interested in being mentored, feel free to [contact me](/contact/) through my website.
+## If you’re interested in being mentored, feel free to [contact me](/contact/) through my website. 📩️
 
 ---
 

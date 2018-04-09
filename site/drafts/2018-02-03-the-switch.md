@@ -47,6 +47,8 @@ So just switch, geez.
 
 The main thing though that folks want to know when making the switch is which apps will replace those built-in ones they love so much from iOS.
 
+All these Google based apps are smarter than the Apple based ones since they directly feed off all the information you provide Google through search.
+
 So let's go through these one-by-one...
 
 <!-- TOC depthFrom:3 -->
@@ -65,8 +67,11 @@ So let's go through these one-by-one...
 * [Photos](#photos)
 * [Reminders](#reminders)
 * [SMS](#sms)
+* [Video](#video)
 
 <!-- /TOC -->
+
+> Pro Tip: Use [Homebrew-Cask](https://caskroom.github.io/) to easily install the desktop apps.
 
 ### Books
 
@@ -78,13 +83,29 @@ So let's go through these one-by-one...
 
 > Safari 👉🏽️ Chrome
 
+Ok so the only reason I ever use Safari is for PIP or Picture-in-Picture.
+
+Unfortunately, the current solutions for Chrome [are quite dismal](https://apple.stackexchange.com/questions/254701/how-to-use-picture-in-picture-in-chrome).
+
+My sister uses Safari because she thinks the UI is cleaner which doesn't make sense to me but it's okay Rosi - you do you. 😂
+
 ### Calendar
 
 > Apple Calendar 👉🏽️ Google Calendar
 
+Google Calendar is great of course and completely cross-platform with integrations in Google Inbox & Google Keep but it doesn't work with other email providers like Outlook.
+
+Unfortunately, I use Outlook for work so for the time being, I use Fantastical whenever I'm on my Mac.
+
+Whenever I'm on the go, I ignore work related stuff and just use Google Calendar which has everything else I need (lol).
+
+![Integration - Example 1](https://3.bp.blogspot.com/-l7OvX1ci4H4/VmURUPETz6I/AAAAAAAAB1A/gXFApvl13C4/s1600/calendar3.png)
+
 ### Email
 
 > Mail 👉🏽️ Google Inbox
+
+![Integration - Example 2](https://cdn.dribbble.com/users/4874/screenshots/1832700/big.gif)
 
 ### File Transfer
 
@@ -106,24 +127,74 @@ So let's go through these one-by-one...
 
 > Apple Maps 👉🏽️ Google Maps
 
-Okay - IMO - if you were actually ever using Apple Maps, I have nothing to say to you except wow, that makes no sense at all.
+Okay - IMO - if you were actually ever using Apple Maps, I have nothing to say to you except wow, that makes no sense at all. My sister uses Apple Maps still for some arbitrary reason and I mock her for it all the time. Rosi, if you're reading this, I don't feel a shred of empathy. 😂
 
 ### News
 
 > Apple News 👉🏽️ Google Play Newsstand
 
+Initially, I was actually pretty fine with using Google Play Newsstand which is completely cross platform unlike Apple News.
+
+Apple News is solely supported on iOS.
+
+<blockquote class="embedly-card"><h4><a href="https://www.apple.com/news/">News</a></h4><p>News helps you stay on top of all the top stories. And the For You section makes sure you're seeing the stories you care about most.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Google Play Newsstand is supported by [iOS](https://itunes.apple.com/us/app/google-play-newsstand/id459182288?mt=8), [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines) & [Web](https://newsstand.google.com/).
+
+<blockquote class="embedly-card"><h4><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.magazines">Google Play Newsstand - Apps on Google Play</a></h4><p>Google Play Newsstand is a personalized news reader that provides a single destination for browsing the topics, news sources, and magazines you care about.Enjoy access to thousands of free and premium news sources, leading magazines, and specialized publications.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Regardless, when are more companies going to realize that the web is the future of mobile & OS anyways?
+
 ### Notes
 
 > Notes 👉🏽️ Google Keep
+
+As I mentioned before, Google Keep [integrates really well](https://www.wired.com/2016/07/turn-google-best-app-ever/) with Google Inbox & Google Calendar.
+
+HOWEVER. For me, personally, it just doesn't have a UI right now that supports long form notes which is what I mostly used Notes for.
+
+Quick jots for me were always created as reminders or soon turned into longer notes.
+
+There are a lot of note taking options honestly with notable ones being Evernote, Quip & Notion.
+
+I used to love using Quip but I've since switched to just using Notion for any note-taking since it integrates well with Slack and has a better UX.
+
+For now, Notion is just supported on web and iOS but I expect that to change soon.
 
 ### Photos
 
 > Apple Photos 👉🏽️ Google Photos
 
+Unlimited storage and a 10x better UI than Apple Photos? I was already using Google to store photos **way before** the switch.
+
 ### Reminders
 
 > Reminders 👉🏽️ Google Keep
 
+Hmmm. This is where things got a little hairy. The reason I liked using Reminders so much is because it was very simplistic and integrated with my favorite calendar - Fantastical.
+
 ### SMS
 
-> Messages 👉🏽️ Google Allo
+> iMessage 👉🏽️ Google Allo (?)
+
+Things are kinda fishy here. Google has way too many apps for messaging (Google Hangouts, Allo & Android Messages) and it rightfully confuses consumers who interact with them.
+
+Granted, you won't get Animoji but Allo is more cross-platform than Apple Messages by working on both Android & iOS **as well** as the web.
+
+Unfortunately, it's been hard to convince everyone I text to use Allo with me so I've had to stick with Google Messages.
+
+### Video
+
+> FaceTime 👉🏽️ Google Duo
+
+As I said before, Google's communication offerings can definitely confuse consumers and they really need to still work on centralizing everything into one platform.
+
+For professional stuff, I prefer to use [Daily.co](https://daily.co) but of course for personal calls, you can't go wrong with Google Duo which is supported by both Android & iOS.
+
+[![Google Duo](https://techcrunch.com/wp-content/uploads/2016/08/google-duo1.png?w=730&crop=1)](https://duo.google.com/)
+
+In [January of this year](https://www.androidauthority.com/google-web-support-group-calls-better-audio-quality-829305/), the Duo team teased that Duo would be coming to the web soon but who the hell really knows?
+
+But yes, ideally, Duo becomes even more cross-platform because then it could compete with FaceTime even better.

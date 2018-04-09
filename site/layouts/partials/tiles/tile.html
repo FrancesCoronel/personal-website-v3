@@ -1,8 +1,11 @@
 <article class="{{ if .Parent.Params.filtering }}mix{{ end }} {{ with .Params.categories }}{{ delimit . " " }}{{ end }}">
+  <!-- Banner -->
+  {{ if .Params.banner }}
   <span class="image background-image" style="background-image:url({{ .Params.banner }});"></span>
-  <!-- <span class="image">
-    <img src="{{ .Params.banner }}">
-  </span> -->
+  {{ else }}
+  <span class="image background-image" style="background-image:url(https://fvcproductions.com/assets/img/teaser.png);"></span>
+  {{ end }}
+  <!-- Link -->
   {{ if .Params.link }}
   <a href="{{ .Params.link }}" target="_blank" rel="noopener">
     {{ else }}

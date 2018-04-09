@@ -37,7 +37,6 @@ tags:
 https://speakerdeck.com/fvcproductions/jeopardy-template-keynote
 
 * **Download Keynote File at [github.com/fvcproductions/keynote-jeopardy](https://github.com/fvcproductions/keynote-jeopardy "Jeopardy Template").**
-* **[Project on Behance](https://www.behance.net/gallery/24112247/Jeopardy-Template-Keynote "Jeopardy Template | Behance")**
 * **[View on Speaker Deck](https://speakerdeck.com/fvcproductions/jeopardy-template-keynote "Speaker Deck | Jeopardy Template")**
 * **External Fonts Used**
   * [Gyparody](https://www.1001fonts.com/gyparody-font.html) (for Jeopardy Title Slide)
@@ -79,7 +78,6 @@ TODO: [gallery type="rectangular" size="full" ids="5093,5094,5095,5096" ]
 //speakerdeck.com/fvcproductions/jeopardy-template-keynote
 
 * **Download Keynote File at [bit.ly/jeopardy-fvc](//bit.ly/jeopardy-fvc "Jeopardy Template").**
-* **[Project on Behance](//www.behance.net/gallery/24112247/Jeopardy-Template-Keynote "Jeopardy Template | Behance")**
 * **[View on Speaker Deck](//speakerdeck.com/fvcproductions/jeopardy-template-keynote "Speaker Deck | Jeopardy Template")**
 * **External Fonts Used (download links)**
   * [Gyparody](//www.1001fonts.com/gyparody-font.html) (for Jeopardy Title Slide)
@@ -109,3 +107,17 @@ TODO: [gallery type="rectangular" size="full" ids="5093,5094,5095,5096" ]
 * = 15,800+ total views across the web
 
 TODO: [gallery type="rectangular" size="full" ids="5093,5094,5095,5096" ]
+
+---
+
+Jeopardy Template
+Made using Keynote
+FVCproductions 2015
+Download this Keynote file at https://github.com/fvcproductions/keynote-jeopardy.
+
+Jeopardy template created using Keynote that can be used by anybody to create their own Jeopardy game. Comes with animation, transitions, audio, and daily double features that can all be edited. Download Keynote: http://bit.ly/jeopardy-template
+
+External Fonts Used
+Gyparody (title)
+Exposition (last slide)
+Square 721 (prize money numbers)

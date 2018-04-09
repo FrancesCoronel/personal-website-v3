@@ -23,6 +23,6 @@ I want engagement and I want feedback for my work but not once on Behance has so
 
 So Behance, you're an amazing platform but it's not working out and I wish you the best.
 
-Here's a token of my appreciation for all the precious time we've spent together.
+### Here's a token of my appreciation for all the precious time we've spent together.
 
 ![Behance](https://i.imgur.com/tfzoMFu.png)

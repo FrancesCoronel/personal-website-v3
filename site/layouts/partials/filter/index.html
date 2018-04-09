@@ -35,13 +35,13 @@
     <!-- Portfolio -->
     {{ if .Params.portfolio }}
     <section class="section tiles filtered-grid">
-      {{ $projects := ($.Site.Taxonomies.categories.portfolio).Pages }} {{ range $projects.ByDate.Reverse }} {{ partial "tiles/tile-plain.html" . }} {{ end }}
+      {{ $projects := ($.Site.Taxonomies.categories.portfolio).Pages }} {{ range $projects.ByDate.Reverse }} {{ partial "tiles/tile-plain-image.html" . }} {{ end }}
     </section>
     {{ end }}
     <!-- Speaking -->
     {{ if .Params.speaking }}
     <section class="section tiles filtered-grid">
-      {{ $talks := ($.Site.Taxonomies.categories.speaking).Pages }} {{ range $talks.ByDate.Reverse }} {{ partial "tiles/tile-plain.html" . }} {{ end }}
+      {{ $talks := ($.Site.Taxonomies.categories.speaking).Pages }} {{ range $talks.ByDate.Reverse }} {{ partial "tiles/tile-plain-image.html" . }} {{ end }}
     </section>
     {{ end }}
   </div>

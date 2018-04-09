@@ -162,4 +162,4 @@ Sedgefield Elementary School [\#HourOfCode](//twitter.com/hashtag/hourofcode?lan
 
 TODO: [gallery type="rectangular" size="full" ids="4255,4256,4257,4258" ]
 
-If you'd like access to the `Keynote` files to show to your class, please [contact me](//fvcproductions.com/contact/) and I will happily send them to you.
+> If you'd like access to the `Keynote` files to show to your class, please [contact me](/contact/) and I will happily send them to you. 📩️

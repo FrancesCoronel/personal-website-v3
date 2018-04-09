@@ -1,5 +1,5 @@
 ---
-title: WiTNY
+title: Cornell Tech - WiTNY
 description: Participated in WiTNY’s Java Talk program.
 date: 2016-11-30
 banner: https://fvcproductions.files.wordpress.com/2016/12/img_0068.jpg

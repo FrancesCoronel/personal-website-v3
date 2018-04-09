@@ -68,9 +68,6 @@ For an upcoming hackathon at [ODU](//odu.edu) dubbed [`Monarchs Hack the Campus`
 * registration
   * redesigned and made some minor changes to the configuration for the Typeform used as registration for those interested in attending the hackathon
 
-<blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/35755853/Monarchs-Hack-the-Campus">Monarchs Hack the Campus</a></h4><p>Monarchs Hack the CampusOld Dominion UniversityFebruary 2016Credits go to Michelle Graham for ODU Cat Graphic</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
 > I was a volunteer
 
 ![Monarchs Hack the Campus 2](https://i.imgur.com/8jb1rPx.jpg)
