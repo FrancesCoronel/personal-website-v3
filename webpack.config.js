@@ -79,7 +79,7 @@ export default {
       runtimeCaching: [
         {
           urlPattern: /\.(?:png|gif|jpg)$/,
-          handler: "cacheFirst",
+          handler: "networkFirst",
           options: {
             cacheName: "fvcproductions-image-cache"
           }

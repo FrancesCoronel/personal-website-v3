@@ -3,25 +3,26 @@ title: C++ Bits - Time Measurements 🕑
 date: 2013-07-28
 description: Measuring time in C++.
 banner: https://fvcproductions.files.wordpress.com/2013/07/banners-002.jpg?w=1024&h=436&crop=1
-tags:
-    - c++
-    - time
-    - time measurements
-    - quotient remainder
-    - arithmetic
 categories:
-    - blog
+  - blog
+  - coding
+tags:
+  - c++
+  - time
+  - time measurements
+  - quotient remainder
+  - arithmetic
 ---
 
 ## Purpose
 
 To write a simple C++ program. To use quotient-remainder arithmetic. To use format. To properly comment/document throughout a program.
 
-1. Write a simple C++ program to read time measurements from the keyboard in hours and minutes. There will be two data sets. The first will be the hours and minutes. There will be two data sets. The first will be the hours and minutes for the first time, the second the hours and minutes for the second time.
-2. Add the two data sets and calculate the result in hours and minutes. Use quotient remainder arithmetic. The minutes in the final answer should be less than 60. Also calculate the answer as a real number representing the number of hours.
-3. The program should use format to control the output. The format should include showpoint, fixed, setprecision, and setw. It should also be documented.
-4. Documentation typically includes the following: the name of your C++ file, your name, some kind of date (due date or date finished), type of input, type of output, and finally a brief description of the algorithm.
-5. Use the input data given below, and write out each answer with appropriate messages for your output. Use prompting messages for your input. The program should work for any positive whole number input data, not just the numbers provided.
+1.  Write a simple C++ program to read time measurements from the keyboard in hours and minutes. There will be two data sets. The first will be the hours and minutes. There will be two data sets. The first will be the hours and minutes for the first time, the second the hours and minutes for the second time.
+2.  Add the two data sets and calculate the result in hours and minutes. Use quotient remainder arithmetic. The minutes in the final answer should be less than 60. Also calculate the answer as a real number representing the number of hours.
+3.  The program should use format to control the output. The format should include showpoint, fixed, setprecision, and setw. It should also be documented.
+4.  Documentation typically includes the following: the name of your C++ file, your name, some kind of date (due date or date finished), type of input, type of output, and finally a brief description of the algorithm.
+5.  Use the input data given below, and write out each answer with appropriate messages for your output. Use prompting messages for your input. The program should work for any positive whole number input data, not just the numbers provided.
 
 ## Libraries
 

@@ -6,6 +6,7 @@ banner: https://i.imgur.com/9OO01Qd.png
 draft: true
 categories:
   - blog
+  - certainties
 tags:
   - ios
   - apple
@@ -14,6 +15,8 @@ tags:
   - android
   - iphone
 ---
+
+It's spring! 🌷🌸🌻☀️💐🌼🌺🌾🌞🐝
 
 ## Why
 
@@ -40,8 +43,6 @@ However, a lot of great dev apps that I depend on have also not adopted this cro
 So anywho, with that little rant as context, I decided in November of last year to make that first switch and go from iOS to Android.
 
 AND let me tell you - the results have been GREAT.
-
-So just switch, geez.
 
 ## How
 
@@ -77,15 +78,27 @@ So let's go through these one-by-one...
 
 > iBooks 👉🏽️ Google Play Books
 
+![Google Play Books](https://i.imgur.com/JsGt0vN.png)
+
+Unlike iBooks, [Google Play Books](https://play.google.com/books) can serve you as an offline-first web app that is also completely cross-platform with Android & iOS options.
+
 ℹ️ **FYI** If you need help finding out where your ePub/PDF files are from iBooks, this Stack Overflow answer for [Where are my iBooks stored in macOS Sierra?](https://apple.stackexchange.com/questions/259836/where-are-my-ibooks-stored-in-macos-sierra) will become quite handy.
 
 ### Browser
 
 > Safari 👉🏽️ Chrome
 
-Ok so the only reason I ever use Safari is for PIP or Picture-in-Picture.
+![Chrome](https://i.imgur.com/fZJjELa.png)
+
+If you're a developer, most folks recommend using [Chrome](https://www.google.com/chrome/) and frankly I've used Chrome for the longest time now so I can't even offer any arguments for why other browsers might be better.
+
+Chrome & their [DevTools](https://developer.chrome.com/devtools) have always just worked great for me.
+
+But I still use Safari for the one thing Chrome has yet to offer which is [PiP or Picture-in-Picture](https://www.wikiwand.com/en/Picture-in-picture).
 
 Unfortunately, the current solutions for Chrome [are quite dismal](https://apple.stackexchange.com/questions/254701/how-to-use-picture-in-picture-in-chrome).
+
+I've tried [Helium](http://heliumfloats.com/) but that's basically just a separate browser so it doesn't seem that useful to me.
 
 My sister uses Safari because she thinks the UI is cleaner which doesn't make sense to me but it's okay Rosi - you do you. 😂
 
@@ -93,13 +106,13 @@ My sister uses Safari because she thinks the UI is cleaner which doesn't make se
 
 > Apple Calendar 👉🏽️ Google Calendar
 
+![Integration - Example 1](https://3.bp.blogspot.com/-l7OvX1ci4H4/VmURUPETz6I/AAAAAAAAB1A/gXFApvl13C4/s1600/calendar3.png)
+
 Google Calendar is great of course and completely cross-platform with integrations in Google Inbox & Google Keep but it doesn't work with other email providers like Outlook.
 
 Unfortunately, I use Outlook for work so for the time being, I use Fantastical whenever I'm on my Mac.
 
 Whenever I'm on the go, I ignore work related stuff and just use Google Calendar which has everything else I need (lol).
-
-![Integration - Example 1](https://3.bp.blogspot.com/-l7OvX1ci4H4/VmURUPETz6I/AAAAAAAAB1A/gXFApvl13C4/s1600/calendar3.png)
 
 ### Email
 
@@ -109,11 +122,27 @@ Whenever I'm on the go, I ignore work related stuff and just use Google Calendar
 
 ### File Transfer
 
-> File Transfer 👉🏽 Portal by Pushbullet
+> Airdrop 👉🏽 Portal by Pushbullet
+
+![Portal by Pushbullet](https://i2.wp.com/technowing.net/wp-content/uploads/2017/08/Portal-by-Pushbullet.png?fit=1412%2C694)
+
+Not gonna lie to you, Airdrop is great. I still use it sometimes to transfer files from my Mac to other people's Macs.
+
+However, a bummer about Airdrop is that it only works with Apple's ecosystem of devices.
+
+The downside to Portal is that it has a dependency - it needs WiFi. With Airdrop, you just needed Bluetooth.
 
 ### Fitness
 
 > Health 👉🏽️ Export Health Data 👉🏽️ Google Fit
+
+![Google Fit](https://i.imgur.com/iiBR3B9.png)
+
+I think you're probably starting to see the same pattern but yes basically, Google Fit is great in that it also [offers a web version](https://fit.google.com/u/0/) of all the fitness data they collect.
+
+![Google Fit Web](https://i.imgur.com/5rgmDqI.png)
+
+Try not to judge my lack of activity - my phone doesn't track everything. 😛️
 
 ### Money
 
@@ -135,15 +164,9 @@ Okay - IMO - if you were actually ever using Apple Maps, I have nothing to say t
 
 Initially, I was actually pretty fine with using Google Play Newsstand which is completely cross platform unlike Apple News.
 
-Apple News is solely supported on iOS.
+Apple News is literally just supported on iOS while Google Play Newsstand is supported by [iOS](https://itunes.apple.com/us/app/google-play-newsstand/id459182288?mt=8), [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines) & [Web](https://newsstand.google.com/).
 
-<blockquote class="embedly-card"><h4><a href="https://www.apple.com/news/">News</a></h4><p>News helps you stay on top of all the top stories. And the For You section makes sure you're seeing the stories you care about most.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-Google Play Newsstand is supported by [iOS](https://itunes.apple.com/us/app/google-play-newsstand/id459182288?mt=8), [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines) & [Web](https://newsstand.google.com/).
-
-<blockquote class="embedly-card"><h4><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.magazines">Google Play Newsstand - Apps on Google Play</a></h4><p>Google Play Newsstand is a personalized news reader that provides a single destination for browsing the topics, news sources, and magazines you care about.Enjoy access to thousands of free and premium news sources, leading magazines, and specialized publications.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+However, I realized after some time that I like the quality of news I get from [The New York Times](https://www.nytimes.com/) so I subscribed. 📰️
 
 Regardless, when are more companies going to realize that the web is the future of mobile & OS anyways?
 
@@ -151,13 +174,21 @@ Regardless, when are more companies going to realize that the web is the future 
 
 > Notes 👉🏽️ Google Keep
 
+![Google Keep](https://i.imgur.com/nZ2aQEE.png)
+
 As I mentioned before, Google Keep [integrates really well](https://www.wired.com/2016/07/turn-google-best-app-ever/) with Google Inbox & Google Calendar.
+
+![Google Keep Integration](https://images.techhive.com/images/article/2016/01/google-keep-inbox-100639825-large.idge.jpg)
 
 HOWEVER. For me, personally, it just doesn't have a UI right now that supports long form notes which is what I mostly used Notes for.
 
+![Google Keep Everywhere](https://i.imgur.com/ZKokxxB.png)
+
 Quick jots for me were always created as reminders or soon turned into longer notes.
 
-There are a lot of note taking options honestly with notable ones being Evernote, Quip & Notion.
+There are a lot of note taking options honestly with notable ones being [Evernote](https://evernote.com/), [Quip](https://quip.com/) & [Notion](https://notion.so).
+
+![Notion](https://i.imgur.com/kcl6Itk.png)
 
 I used to love using Quip but I've since switched to just using Notion for any note-taking since it integrates well with Slack and has a better UX.
 
@@ -165,7 +196,9 @@ For now, Notion is just supported on web and iOS but I expect that to change soo
 
 ### Photos
 
-> Apple Photos 👉🏽️ Google Photos
+> iCloud Photos 👉🏽️ Google Photos
+
+![Google Photos](https://i.imgur.com/VGTFZy4.png)
 
 Unlimited storage and a 10x better UI than Apple Photos? I was already using Google to store photos **way before** the switch.
 
@@ -173,7 +206,13 @@ Unlimited storage and a 10x better UI than Apple Photos? I was already using Goo
 
 > Reminders 👉🏽️ Google Keep
 
-Hmmm. This is where things got a little hairy. The reason I liked using Reminders so much is because it was very simplistic and integrated with my favorite calendar - Fantastical.
+Hmmm. This is where things got a little hairy. The reason I liked using [Reminders](https://www.icloud.com/reminders) so much is because it was very simplistic and integrated with my favorite calendar desktop app - [Fantastical](https://flexibits.com/fantastical).
+
+However, the reality is there are some great reminder options out there now like [Todoist](https://todoist.com) and [Microsoft's To-Do](https://todo.microsoft.com/en-us) (they acquired [Wunderlist](https://www.wunderlist.com/)) so this isn't really a big deal.
+
+![Todoist](https://d3ptyyxy2at9ui.cloudfront.net/968d99236e2536919d6d14ca13d25930.jpg)
+
+I use Todoist and all my reminders integrate right into my Google Calendar which in turn integrates with every major calendar desktop app worth a damn like Fantastical or [BusyCal](https://www.busymac.com/busycal/).
 
 ### SMS
 

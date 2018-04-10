@@ -4,22 +4,22 @@ date: 2012-03-01
 description: People can go through great lengths for 'true love'.
 banner: https://fvcproductions.files.wordpress.com/2013/08/stardust-upcoming-movies-122591_1280_1024.jpg?w=1024&h=435&crop=1
 categories:
-    - blog
-    - creativity
-    - award
+  - blog
+  - creativity
+  - award
 tags:
-    - adult perspective
-    - fairy
-    - fantasy
-    - fantasy novels
-    - neil gaiman
-    - stardust
-    - tristan
-    - unforeseen destiny
-    - victoria
-    - videogames
-    - witchcraft
-    - yvaine
+  - adult perspective
+  - fairy
+  - fantasy
+  - fantasy novels
+  - neil gaiman
+  - stardust
+  - tristan
+  - unforeseen destiny
+  - victoria
+  - videogames
+  - witchcraft
+  - yvaine
 ---
 
 ## Neil Gaiman's _Stardust_

@@ -8,6 +8,7 @@ banner: https://fvcproductions.files.wordpress.com/2017/01/banner.png
 categories:
   - blog
   - conference
+  - certainties
 tags:
   - alterconf
   - alterconf new york city

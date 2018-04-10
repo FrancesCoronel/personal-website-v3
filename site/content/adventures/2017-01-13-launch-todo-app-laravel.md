@@ -8,6 +8,7 @@ categories:
   - portfolio
   - tutorial
   - web
+  - coding
 tags:
   - laravel
   - laravel 5
@@ -44,19 +45,19 @@ This is how the completed app looks like.
 
 ## Installation Process
 
-1. Download [**Vagrant**](//www.vagrantup.com/)
-2. Download [**VirtualBox**](//www.virtualbox.org/wiki/Downloads)
-3. Clone or download [my sample to-do app](//github.com/fvcproductions/ds-todos)
-   * **Option 1.** Use a GitHub client like [Tower](//git-tower.com)
-   * **Option 2.** `git clone //github.com/fvcproductions/ds-todos.git`
-   * Make note of the file path for this repo by using `pwd`, i.e. `~/Dropbox/github/ds-todos`
-4. `cd ~ && vagrant box laravel/homestead`
-5. They will ask for the provider so we are going to enter in `1` since we are using **VirtualBox**
-6. `cd ~ && mkdir Code`
-   * We will need this folder later
-7. Clone down **Laravel Homestead** and install it in a folder called `Homestead` using`cd ~ && git clone //github.com/laravel/homestead.git Homestead`
-8. Initialize Homestead using `cd Homestead && bash init.sh`
-9. While still in `~/Homestead` folder, `sudo nano /private/etc/hosts` to edit the hosts file and add on [these two lines (refer below)](#hosts)
+1.  Download [**Vagrant**](//www.vagrantup.com/)
+2.  Download [**VirtualBox**](//www.virtualbox.org/wiki/Downloads)
+3.  Clone or download [my sample to-do app](//github.com/fvcproductions/ds-todos)
+    * **Option 1.** Use a GitHub client like [Tower](//git-tower.com)
+    * **Option 2.** `git clone //github.com/fvcproductions/ds-todos.git`
+    * Make note of the file path for this repo by using `pwd`, i.e. `~/Dropbox/github/ds-todos`
+4.  `cd ~ && vagrant box laravel/homestead`
+5.  They will ask for the provider so we are going to enter in `1` since we are using **VirtualBox**
+6.  `cd ~ && mkdir Code`
+    * We will need this folder later
+7.  Clone down **Laravel Homestead** and install it in a folder called `Homestead` using`cd ~ && git clone //github.com/laravel/homestead.git Homestead`
+8.  Initialize Homestead using `cd Homestead && bash init.sh`
+9.  While still in `~/Homestead` folder, `sudo nano /private/etc/hosts` to edit the hosts file and add on [these two lines (refer below)](#hosts)
 10. Create a key to authorize ssh using `cd ~/Homestead && ssh-keygen -t rsa -b 4096`
 11. Hit **Enter** twice (you don't have to enter a password)
 12. Time to start up **Vagrant** using `cd ~/Homestead && vagrant up` and enter password when asked

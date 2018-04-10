@@ -1,24 +1,25 @@
 ---
-title: "C++ Bits - Array Manipulation ✂️"
+title: C++ Bits - Array Manipulation ✂️
 date: 2013-07-30
-description: "Manipulating arrays in C++."
+description: Manipulating arrays in C++.
 banner: https://fvcproductions.files.wordpress.com/2013/07/banners-002.jpg?w=1024&h=436&crop=1
 categories:
-    - blog
+  - blog
+  - coding
 tags:
-    - c++
+  - c++
 ---
 
 ## Purpose
 
 To do real simpleton array manipulation. To use functions with awkward arrays.
 
-1. Write a C++ program to read numbers (using count technique or a sentinel loop) into an array of integers, and then manipulate the array. Declare the array of size 25 (0 to 24). Use a function to read the array, like I can read your bored out of hell face now. Then do the following shiz..
-2. Print the array, writing the indexes and components.
-3. Write the array and indexes in REVERSE ORDER, so the zero component will be written last. Reverse, reverse. Reverse, reverse. Cha cha now y'all, cha cha again. Cha cha now y'all, cha cha again.
-4. Write the indexes and components as if the array values were divisible by two (so EVEN NUMBERS you blockhead). Test the array components, not the indexes.
-5. Write the indexes and components where the component is GREATER THAN the value in the next position. Note, Minecraft Look-Alike, that there will be no defined value after the last to compare.
-6. Finally, each of the above algorithms should be coded with a nice procedure with a nice little message before the output. And yeah parameters need to be in the correct form and shizz...
+1.  Write a C++ program to read numbers (using count technique or a sentinel loop) into an array of integers, and then manipulate the array. Declare the array of size 25 (0 to 24). Use a function to read the array, like I can read your bored out of hell face now. Then do the following shiz..
+2.  Print the array, writing the indexes and components.
+3.  Write the array and indexes in REVERSE ORDER, so the zero component will be written last. Reverse, reverse. Reverse, reverse. Cha cha now y'all, cha cha again. Cha cha now y'all, cha cha again.
+4.  Write the indexes and components as if the array values were divisible by two (so EVEN NUMBERS you blockhead). Test the array components, not the indexes.
+5.  Write the indexes and components where the component is GREATER THAN the value in the next position. Note, Minecraft Look-Alike, that there will be no defined value after the last to compare.
+6.  Finally, each of the above algorithms should be coded with a nice procedure with a nice little message before the output. And yeah parameters need to be in the correct form and shizz...
 
 ## Sample Input/Data For Array Program (AKA MY NUMBERS HARPY)
 

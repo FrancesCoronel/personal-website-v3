@@ -4,21 +4,21 @@ date: 2011-12-14
 description: Talks about social networking in the classroom.
 banner: https://fvcproductions.files.wordpress.com/2013/08/old-technology-never-forget.jpg?w=1366
 categories:
-    - blog
-    - certainties
+  - blog
+  - certainties
 tags:
-    - awkward silences
-    - essay talks
-    - facebook
-    - fvcproductions
-    - kinect
-    - levels of communication
-    - mobile phone
-    - phone conversations
-    - technology
-    - text messaging
-    - va governor schools
-    - wii
+  - awkward silences
+  - essay talks
+  - facebook
+  - fvcproductions
+  - kinect
+  - levels of communication
+  - mobile phone
+  - phone conversations
+  - technology
+  - text messaging
+  - va governor schools
+  - wii
 ---
 
 ## I was accepted to the VA Governor School for Math, Science, and Technology when I decided to apply a second time using this essay.

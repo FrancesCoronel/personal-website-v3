@@ -1,33 +1,34 @@
 ---
-title: "Fullstack Academy - Reflections 💭"
+title: Fullstack Academy - Reflections 💭
 date: 2015-08-30
 description: At the end of the day, I'm really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye opening pair programming sessions, and the awesome people.
 banner: https://fvcproductions.files.wordpress.com/2015/08/banners-0011.jpg
 categories:
-    - blog
+  - blog
+  - certainties
 tags:
-    - apple
-    - capstone project
-    - coding bootcamps
-    - costs
-    - demo day
-    - designlab
-    - experience
-    - featured
-    - friends and family
-    - fullstack
-    - fullstack academy
-    - hiredot
-    - interview
-    - journey
-    - jubilant
-    - last days
-    - learning team
-    - mint
-    - no regrets
-    - projects
-    - reflections
-    - time
+  - apple
+  - capstone project
+  - coding bootcamps
+  - costs
+  - demo day
+  - designlab
+  - experience
+  - featured
+  - friends and family
+  - fullstack
+  - fullstack academy
+  - hiredot
+  - interview
+  - journey
+  - jubilant
+  - last days
+  - learning team
+  - mint
+  - no regrets
+  - projects
+  - reflections
+  - time
 ---
 
 # So during my last few days of Fullstack, I was feeling a little something like this…

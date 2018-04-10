@@ -5,6 +5,7 @@ description: Catching up on happenings for the month. SO MANY HAPPENINGS.
 banner: https://fvcproductions.files.wordpress.com/2016/04/schoolsout.jpeg
 categories:
   - blog
+  - certainties
 tags:
   - accenture
   - bay area
@@ -36,9 +37,9 @@ It's pretty crazy. But a **good** crazy.
 
 Regardless, it's a whole lot. So I'm going to break this news up into three smaller pieces.
 
-1. [Graduating from Undergrad](#section-graduating)
-2. [A Mentoring Venture](#section-mentoring)
-3. [Future Plans](#section-future)
+1.  [Graduating from Undergrad](#section-graduating)
+2.  [A Mentoring Venture](#section-mentoring)
+3.  [Future Plans](#section-future)
 
 ## 1. Graduating from Undergrad
 
@@ -140,9 +141,9 @@ I basically see it as a longer version of [Fullstack Academy](//fullstackacademy
 
 There are three main reasons behind my reasoning for wanting to defer enrolling in grad school for the time being. These reasons, of course, are still ones that both of my parents are slowly warming up to given that they're both hard-core academics and they simply want the best for me, like any other considerate parents.
 
-1. Cornell Tech's new campus doesn't open until the summer of 2017. By then, I would have already graduated. Of course, having the new campus doesn't mean the curriculum will change or anything but it'd still be nicer to experience the new campus.
-2. The average age for a graduate student for most of these programs is around 25, if not older. I'm 20 right now. Product Academy, however, caters to those still in college or those who just graduated high school (18–25). In other words, it would make more sense to finish Make School in 2 years because by then I'll be 22, which is a slightly more normal age for someone to get a Master's.
-3. I've wanted the chance to explore the Bay Area for a long-term period and Make School provides that opportunity perfectly. I also feel like I could get more "bang for my buck", per se, from Product Academy.
+1.  Cornell Tech's new campus doesn't open until the summer of 2017. By then, I would have already graduated. Of course, having the new campus doesn't mean the curriculum will change or anything but it'd still be nicer to experience the new campus.
+2.  The average age for a graduate student for most of these programs is around 25, if not older. I'm 20 right now. Product Academy, however, caters to those still in college or those who just graduated high school (18–25). In other words, it would make more sense to finish Make School in 2 years because by then I'll be 22, which is a slightly more normal age for someone to get a Master's.
+3.  I've wanted the chance to explore the Bay Area for a long-term period and Make School provides that opportunity perfectly. I also feel like I could get more "bang for my buck", per se, from Product Academy.
 
 Only time will tell what I'll end up doing but either way, it's going to be a whole lot of fun.
 

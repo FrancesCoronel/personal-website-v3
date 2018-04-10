@@ -7,6 +7,7 @@ categories:
   - blog
   - tutorial
   - portfolio
+  - certainties
 tags:
   - spotify
   - playlists
@@ -80,5 +81,5 @@ And that's it! Now all those songs I wanted are in my **Downloads** folder, read
 
 ## Troubleshooting
 
-1. If you have any videos that were deleted from the YouTube Playlist due to copyright infringement, then there will be an error so you should remove those from the playlist before trying the command again.
-2. If you already have a file in your `Downloads` folder called `Song.mp3` and there is a video called `Song` in the YouTube Playlist, then that file in your `Downloads` folder will be **overwritten**.
+1.  If you have any videos that were deleted from the YouTube Playlist due to copyright infringement, then there will be an error so you should remove those from the playlist before trying the command again.
+2.  If you already have a file in your `Downloads` folder called `Song.mp3` and there is a video called `Song` in the YouTube Playlist, then that file in your `Downloads` folder will be **overwritten**.
