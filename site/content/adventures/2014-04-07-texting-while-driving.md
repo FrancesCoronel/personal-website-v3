@@ -23,9 +23,7 @@ We wrote a 27-page paper on the effects of texting while driving.
 
 I created a texting while driving flyer to raise awareness as a requirement for the health project.
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/CRLoX3F.jpg">
-</p>
+![Texting While Driving 1](https://i.imgur.com/CRLoX3F.jpg)
 
 ## Presentation
 
@@ -33,85 +31,45 @@ I created a slide deck to showcase the effects of texting while driving which th
 
 The introduction video was made using Reflector, an application which recorded the screen of my iPad.
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/iIw4C2K.png">
-</p>
+![Texting While Driving 2](https://i.imgur.com/iIw4C2K.png)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/Ag47b4X.png">
-</p>
+![Texting While Driving 3](https://i.imgur.com/Ag47b4X.png)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/JtW0kjQ.png">
-</p>
+![Texting While Driving 4](https://i.imgur.com/JtW0kjQ.png)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/CvreGhU.jpg">
-</p>
+![Texting While Driving 5](https://i.imgur.com/CvreGhU.jpg)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/Nx23XBu.jpg">
-</p>
+![Texting While Driving 6](https://i.imgur.com/Nx23XBu.jpg)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/eRFMl8V.jpg">
-</p>
+![Texting While Driving 7](https://i.imgur.com/eRFMl8V.jpg)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/RucevJM.jpg">
-</p>
+![Texting While Driving 8](https://i.imgur.com/RucevJM.jpg)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/X1IyRE1.jpg">
-</p>
+![Texting While Driving 9](https://i.imgur.com/X1IyRE1.jpg)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/vyHzHp7.jpg">
-</p>
+![Texting While Driving 10](https://i.imgur.com/vyHzHp7.jpg)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/K4VA83f.jpg">
-</p>
+![Texting While Driving 11](https://i.imgur.com/K4VA83f.jpg)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/dHAbRjn.jpg">
-</p>
+![Texting While Driving 12](https://i.imgur.com/dHAbRjn.jpg)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/phRCZyS.jpg">
-</p>
+![Texting While Driving 13](https://i.imgur.com/phRCZyS.jpg)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/NDNycGe.jpg">
-</p>
+![Texting While Driving 14](https://i.imgur.com/NDNycGe.jpg)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/iVP6gH2.jpg">
-</p>
+![Texting While Driving 15](https://i.imgur.com/iVP6gH2.jpg)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/ImKB48J.jpg">
-</p>
+![Texting While Driving 16](https://i.imgur.com/ImKB48J.jpg)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/Y4X8VgR.jpg">
-</p>
+![Texting While Driving 17](https://i.imgur.com/Y4X8VgR.jpg)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/8fKFbVI.jpg">
-</p>
+![Texting While Driving 18](https://i.imgur.com/8fKFbVI.jpg)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/Od5BUP1.jpg">
-</p>
+![Texting While Driving 19](https://i.imgur.com/Od5BUP1.jpg)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/PljC03C.jpg">
-</p>
+![Texting While Driving 20](https://i.imgur.com/PljC03C.jpg)
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/0LmZw6n.jpg">
-</p>
+![Texting While Driving 21](https://i.imgur.com/0LmZw6n.jpg)
 
 ### SlideShare
 

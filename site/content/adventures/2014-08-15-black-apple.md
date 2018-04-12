@@ -33,7 +33,4 @@ tags:
 ![The Black Apple 5](https://i.imgur.com/WgsPw03.png)
 ![The Black Apple 6](https://i.imgur.com/JsJmNvQ.png)
 ![The Black Apple 7](https://i.imgur.com/uNK0j4V.png)
-
-<p class="centered extra-small-image">
-  <img src="https://i.imgur.com/Zqfhhdm.png">
-</p>
+![The Black Apple 8](https://i.imgur.com/Zqfhhdm.png)

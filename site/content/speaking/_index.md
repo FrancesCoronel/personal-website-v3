@@ -18,11 +18,7 @@ If you'd like me to speak at an event, don't hesitate to [reach out](/contact)!
 
 ### ⌚️ Upcoming Talks
 
-#### [Tales from the Script](//www.tftscript.com/episodes) Podcast
-
-* Coding Bootcamps: The Less Scary Alternative (Episode 9) - recorded March 16th - publishing soon
-
-#### [CONNECT 2018](https://connect2018.womenwhocode.com/)
+#### [CONNECT 2018](//connect2018.womenwhocode.com/)
 
 * TypeScript 101 (Lightning Talk) - April 28th
 
