@@ -15,7 +15,7 @@ These are programs that allow you to mentor others as they learn how to code and
 
 IMHO, they're quite useful if you're looking to gain experience on the side while earning some money.
 
-The hours are flexible and it's common knowledge that when you teach, you solidify your own skills.
+The hours are flexible, and it's common knowledge that when you teach, you solidify your skills.
 
 <!-- TOC -->
 
@@ -60,7 +60,7 @@ It's pretty self-evident that [Code Mentor](//www.codementor.io/) depends on hav
 
 ### Designlab
 
-[Designlab](//trydesignlab.com/) is actually an online bootcamp focused on UI/UX but also depend on mentors for their curriculum. They also have a dedicated page to [apply to become a mentor](//trydesignlab.com/become-a-mentor/).
+[Designlab](//trydesignlab.com/) is an online bootcamp focused on UI/UX but also depend on mentors for their curriculum. They also have a dedicated page to [apply to become a mentor](//trydesignlab.com/become-a-mentor/).
 
 <blockquote class="embedly-card"><h4><a href="https://trydesignlab.com/become-a-mentor/">Calling all designers! Become a Designlab mentor and help build the future of creative education.</a></h4><p>Become a Desiglab mentor to help us change the way people learn design online. Earn money & network with awesome designers who share the same mission.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -81,7 +81,7 @@ It's pretty self-evident that [Code Mentor](//www.codementor.io/) depends on hav
 
 ### Thinkful
 
-[Thinkful](//www.thinkful.com) is a career accelerator that get graduates careers in tech that depends on [mentors](//www.thinkful.com/apply/) heavily for their curriculum.
+[Thinkful](//www.thinkful.com) is a career accelerator that gets graduates careers in tech that depends on [mentors](//www.thinkful.com/apply/) heavily for their curriculum.
 
 <blockquote class="embedly-card"><h4><a href="https://www.thinkful.com/apply/">Become a mentor · Thinkful</a></h4><p>A desire to keep your skills sharp by teaching others A passion for sharing best practices Excellent communication skills Empathy for beginners Infectious enthusiasm for development and for sharing your craft with others The ability to reflect upon and develop their teaching strategies for each learner Previous corporate training or</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
