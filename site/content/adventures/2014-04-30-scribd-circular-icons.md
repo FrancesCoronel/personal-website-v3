@@ -10,12 +10,8 @@ tags:
   - scribd
 ---
 
-<p class="centered extra-small-image">
-  <img src="https://i.imgur.com/eSFOD07.png">
-</p>
+![Scribd Circular Icons 1](https://i.imgur.com/eSFOD07.png)
 
 > Based on the Dribble project "Rings" by Tanya. Sized 128px by 128px.
 
-<p class="centered extra-small-image">
-  <img src="https://i.imgur.com/TRkjK9O.png">
-</p>
+![Scribd Circular Icons 2](https://i.imgur.com/TRkjK9O.png)

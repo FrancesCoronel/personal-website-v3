@@ -7,7 +7,7 @@
     <a href="{{ .Params.banner_link }}" target="_blank" rel="noopener">
       <span class="image main">
         <!-- Image -->
-        <img src="{{ .Params.banner }}" alt="{{ .Params.caption }}">
+        <img src="{{ .Params.banner }}" alt="{{ if .Params.caption }}{{ .Params.caption }}{{ else }}{{ .Title }}{{ end }}">
         <!-- Caption -->
         {{ with .Params.caption }}
         <span class="banner-caption">{{ . }}</span>
@@ -18,7 +18,7 @@
     {{ else }}
     <span class="image main">
       <!-- Image -->
-      <img src="{{ .Params.banner }}" alt="{{ .Params.caption }}">
+      <img src="{{ .Params.banner }}" alt="{{ if .Params.caption }}{{ .Params.caption }}{{ else }}{{ .Title }}{{ end }}">
       <!-- Caption -->
       {{ with .Params.caption }}
       <span class="banner-caption">{{ . }}</span>

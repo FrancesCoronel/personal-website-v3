@@ -35,7 +35,7 @@
     <!-- Portfolio -->
     {{ if .Params.portfolio }}
     <section class="section tiles filtered-grid">
-      {{ $projects := ($.Site.Taxonomies.categories.portfolio).Pages }} {{ range $projects.ByDate.Reverse }} {{ partial "tiles/tile-plain-image.html" . }} {{ end }}
+      {{ $projects := ($.Site.Taxonomies.categories.portfolio).Pages }} {{ range $projects.ByDate.Reverse }} {{ partial "tiles/tile-plain.html" . }} {{ end }}
     </section>
     {{ end }}
     <!-- Speaking -->

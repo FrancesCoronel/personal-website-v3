@@ -26,9 +26,7 @@ categories:
 
 ## The Daily Splash - New Logo
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/5ILvZnt.png">
-</p>
+![The Daily Splash 1](https://i.imgur.com/5ILvZnt.png)
 
 ## Landing Page - Notification - Onboarding
 
@@ -36,21 +34,15 @@ categories:
 
 > Push Notification
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/YcfPKlP.png">
-</p>
+![The Daily Splash 2](https://i.imgur.com/YcfPKlP.png)
 
 > Splash Page
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/3JFzzsM.png">
-</p>
+![The Daily Splash 3](https://i.imgur.com/3JFzzsM.png)
 
 > Onboarding
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/uJISQO4.png">
-</p>
+![The Daily Splash 4](https://i.imgur.com/uJISQO4.png)
 
 ## Sections - Home Page - Search
 
@@ -58,21 +50,15 @@ categories:
 
 > Sections
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/PGpzZVd.png">
-</p>
+![The Daily Splash 5](https://i.imgur.com/PGpzZVd.png)
 
 > Landing Page
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/mbpN3zP.png">
-</p>
+![The Daily Splash 6](https://i.imgur.com/mbpN3zP.png)
 
 > Search
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/8dTGe3J.png">
-</p>
+![The Daily Splash 7](https://i.imgur.com/8dTGe3J.png)
 
 ## Article View - Video Ad - Articles For Later
 
@@ -80,18 +66,12 @@ categories:
 
 > Article View
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/fJykmHF.png">
-</p>
+![The Daily Splash 8](https://i.imgur.com/fJykmHF.png)
 
 > Article View - Video Ad
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/jKUP6KP.png">
-</p>
+![The Daily Splash 9](https://i.imgur.com/jKUP6KP.png)
 
 > Articles for Later
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/iCnBBml.png">
-</p>
+![The Daily Splash 10](https://i.imgur.com/iCnBBml.png)

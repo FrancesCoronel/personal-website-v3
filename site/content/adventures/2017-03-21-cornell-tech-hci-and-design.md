@@ -110,9 +110,7 @@ The (2) similar stations and (1) the header for travel alternatives take up 5/12
 
 ### Initial Poster For Reference
 
-<p class="centered small-image">
-  <img src="https://i.imgur.com/8ZdEi7S.png" alt="MTA Redesign 3">
-</p>
+![MTA Redesign 3](https://i.imgur.com/8ZdEi7S.png)
 
 ---
 
