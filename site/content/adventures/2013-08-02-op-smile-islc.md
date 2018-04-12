@@ -9,7 +9,7 @@ categories:
 
 ## Name
 
-<a title="ISLC" href="//studentprograms.operationsmile.org/events/islc/" target="_blank" rel="noopener">International Student Leadership Conference</a>
+[International Student Leadership Conference](//studentprograms.operationsmile.org/events/islc/)
 
 ## Organizer
 

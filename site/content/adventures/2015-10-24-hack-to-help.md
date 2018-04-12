@@ -9,7 +9,7 @@ categories:
 
 ## Name
 
-<a title="DE" href="https://hackathon.dominionenterprises.com/" target="_blank" rel="noopener"><strong>Hack to Help Hampton Roads</strong></a>
+[**Hack to Help Hampton Roads**](https://hackathon.dominionenterprises.com/ "DE")
 
 ## Organizer
 

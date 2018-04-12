@@ -9,7 +9,7 @@ categories:
 
 ## Name
 
-<a title="React.js Conf" href="//conf.reactjs.com/" target="_blank" rel="noopener">React.js Conf</a>
+[React.js Conf](//conf.reactjs.com/ "React.js Conf")
 
 ## Organizer
 

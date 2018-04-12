@@ -11,7 +11,7 @@ categories:
 
 ![Accenture Liquid Studio - Silicon Valley](https://i.imgur.com/xgLGmTV.jpg)
 
-<a title="Accenture Liquid Studio" href="//accenture.com/us-en/capability-rapid-application-development-studio" target="_blank" rel="noopener">Accenture Liquid Studio</a>
+[Accenture Liquid Studio](//accenture.com/us-en/capability-rapid-application-development-studio "Accenture Liquid Studio")
 
 ## Location
 

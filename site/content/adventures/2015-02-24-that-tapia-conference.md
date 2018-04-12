@@ -58,11 +58,11 @@ categories:
 - blog
 - conference
 - award
-
 ---
+
 ## Name
 
-<a title="TAPIA" href="//tapiaconference.org/" target="_blank" rel="noopener">ACM Richard Tapia Celebration of Diversity in Computing Conference</a>
+[ACM Richard Tapia Celebration of Diversity in Computing Conference](//tapiaconference.org/ "TAPIA")
 
 ## Organizer
 
@@ -80,8 +80,8 @@ February 18th to 21st, 2015
 
 Google Scholarship Recipient
 
-- Awarded August 2015
-- Scholarship includes conference registration, shared hotel room with another scholarship recipient and a $500 travel award
+* Awarded August 2015
+* Scholarship includes conference registration, shared hotel room with another scholarship recipient and a $500 travel award
 
 ## About
 
@@ -96,9 +96,9 @@ The goal of the Tapia Conferences is to bring together undergraduate and graduat
 
 ---
 
-> To note… 
+> To note…
 >
-> This is more of a telling of a personal journey than a technical description or overview of what the conference entails. 
+> This is more of a telling of a personal journey than a technical description or overview of what the conference entails.
 >
 > In other words, it's meant to be informal so do not take it too seriously (kind of like everything else in blogging).
 
@@ -110,9 +110,9 @@ Taking their goals from their website…
 
 _The goal of the Tapia Conferences is to bring together undergraduate and graduate students, faculty, researchers, and professionals in computing from all backgrounds and ethnicities to:_
 
-* _Celebrate the diversity that exists in computing_ 
-* _Connect with others with common backgrounds, ethnicities, disabilities, and gender so as to create communities that extend beyond the conference;_ 
-* _Obtain advice from and make contacts with computing leaders in academia and industry;_ 
+* _Celebrate the diversity that exists in computing_
+* _Connect with others with common backgrounds, ethnicities, disabilities, and gender so as to create communities that extend beyond the conference;_
+* _Obtain advice from and make contacts with computing leaders in academia and industry;_
 * _Be inspired by great presentations and conversations with leaders with common backgrounds._
 
 > For pictures of this conference, check out their [Facebook Group](//www.facebook.com/groups/tapiacon/)!
@@ -157,7 +157,7 @@ Anisha tells me the next day a semi-interesting story about meeting this short H
 
 ### Day 2 - Thursday, February 19
 
-* **Diversity Tales and Advice from the Trenches: Experiences of Underrepresented Minorities in Computing** There was a talk following the meal break that was HILARIOUS. The speakers were so down to earth and **real** about what specifically they faced in their experiences as a minority in tech. Two of the speakers, [Juan Gilbert](//www.juangilbert.com/ "Juan G"), and [Manuel Perez-Quiñones](//perez.cs.vt.edu/ "Manuel PQ") were just ridiculously funny, I found myself laughing a lot throughout their spheels. There was actually this one part where they talk about ‘statistics' and that if there was anybody that talked about the negative statistics associated with minorities, then you ought to go ahead and give out some ‘statistics' out too. For example, which race most represents serial killers? Which race most represents teachers that engage in sexual affairs with their students? Apparently, the answers are white males and white females, respectively. Right back at ya. 
+* **Diversity Tales and Advice from the Trenches: Experiences of Underrepresented Minorities in Computing** There was a talk following the meal break that was HILARIOUS. The speakers were so down to earth and **real** about what specifically they faced in their experiences as a minority in tech. Two of the speakers, [Juan Gilbert](//www.juangilbert.com/ "Juan G"), and [Manuel Perez-Quiñones](//perez.cs.vt.edu/ "Manuel PQ") were just ridiculously funny, I found myself laughing a lot throughout their spheels. There was actually this one part where they talk about ‘statistics' and that if there was anybody that talked about the negative statistics associated with minorities, then you ought to go ahead and give out some ‘statistics' out too. For example, which race most represents serial killers? Which race most represents teachers that engage in sexual affairs with their students? Apparently, the answers are white males and white females, respectively. Right back at ya.
 * **Career Fair - Resumes** There was a printer back in the lobby that students went to print their resumes out. 20 pages flowed out of the printer at some point for only one person. These people really take the initiative. I print out 6 and then proceed to get rid of all of them (however I can). I pass my resume out to Facebook, Intel, Bloomberg, Texas A&M, Twitter, and Microsoft. I tell one of the people at the IBM booth that he looks kinda like [Tristan Walker](//twitter.com/tristanwalker "Tristan Walker") and he responds pretty apathetically which makes the idea of working at IBM just slightly less appealing. It's a pretty shallow reaction on my part.
 
 ![](//rack.1.mshcdn.com/media/ZgkyMDEzLzEwLzIyL2ZjL3RyaXN0YW53YWxrLmRiNDAwLmpwZwpwCXRodW1iCTEyMDB4OTYwMD4/3bcc0bd5/7e4/tristan-walker-iphone.jpg) Tristan is the coolest.

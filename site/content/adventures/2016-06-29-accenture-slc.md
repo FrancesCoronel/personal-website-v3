@@ -9,7 +9,7 @@ categories:
 
 ## Name
 
-<a title="Accenture Student Leadership Conference" href="//www.accenture.com/us-en/careers/student-leadership-conference" target="_blank" rel="noopener">Student Leadership Conference</a>
+[Student Leadership Conference](//www.accenture.com/us-en/careers/student-leadership-conference "Accenture Student Leadership Conference")
 
 ## Organizer
 

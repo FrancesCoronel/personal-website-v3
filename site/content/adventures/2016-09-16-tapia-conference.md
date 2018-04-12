@@ -10,7 +10,7 @@ categories:
 
 ## Name
 
-<a title="ACM Richard Tapia Celebration of Diversity in Computing" href="//tapiaconference.org" target="_blank" rel="noopener">ACM Richard Tapia Celebration of Diversity in Computing</a>
+[ACM Richard Tapia Celebration of Diversity in Computing](//tapiaconference.org "ACM Richard Tapia Celebration of Diversity in Computing")
 
 ## Organizer
 

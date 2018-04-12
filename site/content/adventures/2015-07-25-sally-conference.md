@@ -9,7 +9,7 @@ categories:
 
 ## Name
 
-<a title="Sally Conference" href="//www.thesallyconference.com/" target="_blank" rel="noopener">Sally Conference</a>
+[Sally Conference](//www.thesallyconference.com/ "Sally Conference")
 
 ## Organizer
 

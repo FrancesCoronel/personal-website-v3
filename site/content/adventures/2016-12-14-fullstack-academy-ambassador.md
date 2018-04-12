@@ -11,7 +11,7 @@ tags:
 
 ## Employer
 
-<a title="Fullstack Academy" href="//fullstackacademy.com" target="_blank" rel="noopener">Fullstack Academy</a>
+[Fullstack Academy](//fullstackacademy.com "Fullstack Academy")
 
 ## Location
 

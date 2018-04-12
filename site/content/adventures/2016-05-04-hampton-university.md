@@ -11,7 +11,7 @@ categories:
 
 ## Institution
 
-<a title="Hampton University" href="https://hamptonu.edu" target="_blank" rel="noopener">Hampton University</a>
+[Hampton University](https://hamptonu.edu "Hampton University")
 
 ## Location
 

@@ -9,7 +9,7 @@ categories:
 
 ## Institution
 
-<a title="Old Dominion University" href="https://odu.edu" target="_blank" rel="noopener">Old Dominion University</a>
+[Old Dominion University](https://odu.edu "Old Dominion University")
 
 ## Location
 

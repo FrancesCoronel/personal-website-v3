@@ -9,7 +9,7 @@ categories:
 
 ## Employer
 
-<a title="80|20 Software Consulting" href="//madeby8020.com" target="_blank" rel="noopener">80|20 Software Consulting</a>
+[80|20 Software Consulting](//madeby8020.com "80|20 Software Consulting")
 
 ## Location
 

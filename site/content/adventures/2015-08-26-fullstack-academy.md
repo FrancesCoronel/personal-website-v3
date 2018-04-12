@@ -11,7 +11,7 @@ categories:
 
 ## Name
 
-<a title="Fullstack Academy" href="https://www.fullstackacademy.com/summer-of-code" target="_blank" rel="noopener">Fullstack Academy - Summer of Code</a>
+[Fullstack Academy - Summer of Code](https://www.fullstackacademy.com/summer-of-code "Fullstack Academy")
 
 ## Location
 

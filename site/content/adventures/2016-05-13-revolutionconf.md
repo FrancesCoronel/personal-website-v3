@@ -28,7 +28,7 @@ tags:
 
 ## Name
 
-<a title="RevolutionConf" href="//revolutionconf.com" target="_blank" rel="noopener">RevolutionConf</a>
+[RevolutionConf](//revolutionconf.com "RevolutionConf")
 
 ## Organizer
 

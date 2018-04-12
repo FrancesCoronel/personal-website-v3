@@ -31,6 +31,7 @@ The hours are flexible and it's common knowledge that when you teach, you solidi
 * [Volunteering Options](#volunteering-options)
   * [hack.pledge()](#hackpledge)
   * [Out of Office Hours](#out-of-office-hours)
+  * [#YesWeCode](#yeswecode)
 
 <!-- /TOC -->
 
@@ -110,4 +111,11 @@ In case you wanted to be generous with your time.
 [Out of Office Hours](//www.outofofficehours.com/) aims to create a dialog between newcomers and people working in the tech industry.
 
 <blockquote class="embedly-card"><h4><a href="https://www.outofofficehours.com/">Out of Office Hours</a></h4><p>Creating dialog between newcomers and people working in the tech industry.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+### #YesWeCode
+
+[#YesWeCode](//www.yeswecode.org/tutor) is looking for dedicated in-person or virtual tutors with experience in front-end and back-end coding languages to support their scholars in reaching their full potential.
+
+<blockquote class="embedly-card"><h4><a href="https://www.yeswecode.org/tutor">Become a Tutor</a></h4><p>YesWeCode is a national initiative to help teach 100K low-opportunity youth to code</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

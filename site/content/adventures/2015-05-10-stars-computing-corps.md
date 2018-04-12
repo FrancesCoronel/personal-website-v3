@@ -9,7 +9,7 @@ categories:
 
 ## Name
 
-<a title="STARS Computing Corps" href="https://starscomputingcorps.org/" target="_blank" rel="noopener">STARS (Student & Technology in Academia, Research, & Service) Computing Corps</a>
+[STARS (Student & Technology in Academia, Research, & Service) Computing Corps](https://starscomputingcorps.org/ "STARS Computing Corps")
 
 ## Location
 

@@ -9,7 +9,7 @@ categories:
 
 ## Name
 
-<a title="Accenture" href="//www.accenture.com/us-en" target="_blank" rel="noopener">Discover Accenture</a>
+[Discover Accenture](//www.accenture.com/us-en "Accenture")
 
 ## Organizer
 

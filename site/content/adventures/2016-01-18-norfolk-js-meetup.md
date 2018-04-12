@@ -19,7 +19,7 @@ categories:
 
 ## Name
 
-<a title="Norfolk.js" href="https://norfolkjs.org" target="_blank" rel="noopener">Norfolk.js - Norfolk JavaScript Meetup Group</a>
+[Norfolk.js - Norfolk JavaScript Meetup Group](https://norfolkjs.org "Norfolk.js")
 
 ## Organizer
 

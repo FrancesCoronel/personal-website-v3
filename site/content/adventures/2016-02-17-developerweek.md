@@ -10,7 +10,7 @@ categories:
 
 ## Name
 
-<a title="DeveloperWeek" href="//developerweek.com" target="_blank" rel="noopener">DeveloperWeek</a>
+[DeveloperWeek](//developerweek.com "DeveloperWeek")
 
 ## Organizer
 

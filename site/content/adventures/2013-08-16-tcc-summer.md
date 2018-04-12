@@ -9,7 +9,7 @@ categories:
 
 ## Institution
 
-<a title="Tidewater Community College" href="https://tcc.edu" target="_blank" rel="noopener">Tidewater Community College</a>
+[Tidewater Community College](//tcc.edu)
 
 ## Location
 

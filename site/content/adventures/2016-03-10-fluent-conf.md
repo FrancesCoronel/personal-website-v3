@@ -9,7 +9,7 @@ categories:
 
 ## Name
 
-<a title="Fluent Conference" href="//conferences.oreilly.com/fluent/javascript-html-us/" target="_blank" rel="noopener">Fluent Conference</a>
+[Fluent Conference](//conferences.oreilly.com/fluent/javascript-html-us/ "Fluent Conference")
 
 ## Organizer
 
