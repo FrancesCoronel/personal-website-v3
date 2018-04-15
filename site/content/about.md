@@ -110,10 +110,8 @@ I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the E
 
 > This a [now section](https://nownownow.com/about) and if you have your own site, you should make one, too!
 >
-> Last updated March 2018
+> Last updated April 2018
 
-* Participating in the [Grow with Google](//www.udacity.com/grow-with-google) Udacity course
-  * It ends mid-April so hopefully I advance to the next stage!
-* My talk was accepted to the [WE RISE Tech Conference](//werise.tech/) in Atlanta - very excited! 🎉
-  * My talk/workshop proposals have also been accepted at a [few other events](/speaking)!
-* Recorded my first podcast (TBA!)
+* [Grow with Google Udacity course](//www.udacity.com/grow-with-google) ended April 11th so hopefully I advance to the next stage.
+* My talk/workshop proposals have been accepted at [quite a few events](/speaking)!
+* Recorded my [first podcast episode](/2018/04/10/tales-from-the-script-podcast/) on Tales From The Script with Chris DeMars.

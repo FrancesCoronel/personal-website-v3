@@ -18,7 +18,7 @@ If you'd like me to speak at an event, don't hesitate to [reach out](/contact)!
 
 ### ⌚️ Upcoming Talks
 
-#### [CONNECT 2018](//connect2018.womenwhocode.com/)
+#### [Women Who Code CONNECT 2018](//connect2018.womenwhocode.com/)
 
 * TypeScript 101 (Lightning Talk) - April 28th
 
@@ -31,7 +31,7 @@ If you'd like me to speak at an event, don't hesitate to [reach out](/contact)!
 * Progressive Web Apps 101 (Full-Day Workshop) - June 6th - 8:30 AM to 4:30 PM
 * TypeScript 101 (Breakout Session) - June 7th - 3:30 PM to 4:30 PM
 
-#### [We RISE TEch Conference](//twitter.com/WeRiseConf/status/971815420142419968)
+#### [We RISE Tech Conference](//twitter.com/WeRiseConf/status/971815420142419968)
 
 * [TypeScript 101 (Talk)](//twitter.com/WeRiseConf/status/961650712361996288) - June 21st to 22nd
 

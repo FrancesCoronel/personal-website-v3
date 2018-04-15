@@ -17,10 +17,8 @@ var altTitles = [
   "You've been such a peach! 🍑"
 ];
 
-var altTitle = altTitles[Math.floor(Math.random() * altTitles.length)];
-
 window.onblur = () => {
-  document.title = altTitle;
+  document.title = altTitles[Math.floor(Math.random() * altTitles.length)];
 };
 
 window.onfocus = () => {
