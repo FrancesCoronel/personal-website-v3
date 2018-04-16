@@ -9,9 +9,7 @@ aliases:
   - /portfolio/2014/09/14/ai-internships/
 ---
 
-[![Briefcase Icon](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png)](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png)
-
-## Undergraduate Internships/Fellowships Dealing With A.I.
+![Briefcase Icon](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png)
 
 This list provides **undergrad-level** internships/fellowships located in the US that deal with _machine learning, multi-agent systems, computational biology, natural language processing, big data, robotics, cognitive computing, logic programming, computational linguistics, deep learning, artificial intelligence, etc., or a mix of those topics_.
 

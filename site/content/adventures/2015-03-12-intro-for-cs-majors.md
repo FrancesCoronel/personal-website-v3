@@ -1,6 +1,7 @@
 ---
 title: An Intro for CS Majors 📘
 date: 2015-03-12
+description: I wrote an introductory book geared towards Computer Science majors at Hampton University.
 banner: https://i.imgur.com/YpP5kSK.jpg
 categories:
   - portfolio
@@ -12,18 +13,18 @@ categories:
 >
 > Last updated April 2015.
 
-## I wrote an introductory book geared towards Computer Science majors at Hampton University which currently has over 5K pageviews using the GitBook platform.
+I wrote an introductory book geared towards Computer Science majors at Hampton University which currently has over 5K page views using the GitBook platform.
 
-### **Table of Contents**
+## Table of Contents
 
 ![TOC - CS GitBook](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-04-18-10-54-50.png)
 
-### Tools
+## Tools
 
 * This book is published using the platform [GitBook](//bit.ly/hu-book).
 * A one-page website for the book is located at [hubook.strikingly.com](//hubook.strikingly.com/).
 
-### Why this project?
+## Why this project?
 
 * This book would have been so helpful when I was starting out, so I wanted others who were in my place to at least have a smoother process when it comes to integrating to their new college environment.
 

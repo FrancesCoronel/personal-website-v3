@@ -1,5 +1,5 @@
 ---
-title: GitHub Repo | mashup
+title: GitHub Mashup
 date: 2016-09-27
 description: Showcasing my GitHub projects with the GitHub API.
 banner: https://i.imgur.com/ehf21vT.png
@@ -8,4 +8,6 @@ categories:
   - portfolio
   - oss
   - web
+tags:
+  - github
 ---

@@ -1,19 +1,15 @@
 ---
 title: RESPECT - Logo Competition
-date: 2015-03-12 00:00:00 +0000
+date: 2015-03-12
 description: I designed these as part of a logo competition for the RESPECT conference.
 banner: https://i.imgur.com/Jsh2KrJ.jpg
-caption: ''
-bannerLink: ''
-link: ''
-noComments: false
 categories:
-- portfolio
-- design
+  - portfolio
+  - design
 tags:
-- branding
-- respect conference
-- diversity
+  - branding
+  - respect conference
+  - diversity
 ---
 
 RESPECT 2015 was the first international meeting of the [IEEE](//www.computer.org/) [Special Technical Community on Broadening Participation](//stcbp.org/) with technical co-sponsorship by the [IEEE Computer Society](//www.computer.org/). STC BP and RESPECT are dedicated to research and action to engage everyone in computing.

@@ -9,9 +9,9 @@ categories:
   - portfolio
 ---
 
-![](https://github.com/fvcproductions/nyt-comm/raw/master/img/banner/ct+nytimes-white.png)
+TODO: FIX FORMATTING
 
-![The New York Times - White Banner](https://fvcproductions.files.wordpress.com/2016/09/white-banner1.png)
+![Product Studio Banner](https://github.com/fvcproductions/nyt-comm/raw/master/img/banner/ct+nytimes-white.png)
 
 Every fall, leading startups, companies, and organizations in NYC pose business challenges to Cornell Tech. In Product Studio, teams develop and present new products, services, and strategies that respond to those challenges.
 
@@ -53,7 +53,10 @@ TODO: [gallery type="rectangular" size="full" ids="5046,5047,5048,5049,5050,5051
 
 ### Team
 
-Israel Burns Delia Casa Frances Coronel Chumeng Xu - ![Member 1](https://pbs.twimg.com/profile_images/609842935106899970/9Av-PBUt.jpg) ![Member 2](https://pbs.twimg.com/profile_images/725295668114427904/WH6iILKF.jpg) ![Member 3](https://avatars0.githubusercontent.com/u/4284691?v=3&s=466) ![Member 4](https://2014.igem.org/wiki/images/e/e8/Tsinghua-A_xuchumeng.jpg)
+Israel Burns
+Delia Casa
+Frances Coronel
+Chumeng Xu
 
 ### Links
 

@@ -32,8 +32,6 @@ It uses Material Colors and was designed in Sketch.
 
 ![Long Banner](https://i.imgur.com/W4t10dg.png)
 
----
-
 For wallpapers or covers on my sites, I can now also use this redesigned wallpaper from Prometheus that is also inspired by Google's Material Design principles.
 
 ![Wallpaper](https://i.imgur.com/1iiIU2G.png)

@@ -9,6 +9,8 @@ categories:
   - research
 ---
 
+TODO: Fix formatting
+
 ## The State of Coding Bootcamps 2017
 
 > Presented February 19th, 2017

@@ -79,16 +79,3 @@ There are 58 days in Fullstack. These are the first 5. Let's begin. &lt;3
 \
 //www.youtube.com/watch?v=t-yCg-0-baE\
 Just sayin'. :roll:
-
-### Journey Into the Cave of Digital Hieroglyphics
-
-> So Far
-
-* [The Search](//fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
-* [The Application](//fvcproductions.com/blog/2014/12/23/week-20/ "The Application")
-* [The Preparation](//fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
-* [The Interview](//fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/ "The Interview")
-* [The Decision](//fvcproductions.com/blog/2015/04/13/what-to-do-week-negative-8/ "The Decision")
-* [Fullstack Foundations - Week 1](//fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
-* [Fullstack Foundations - Weeks 2 - 4](//fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")
-* [Fullstack Academy - Week 1](//fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/)

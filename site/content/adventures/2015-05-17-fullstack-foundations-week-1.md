@@ -50,21 +50,3 @@ Well, regardless, I was able to manage. I'm actually quite content with it all. 
 I'm on the border between feeling productive and antsy, because on one hand I know I'm getting crap done, but on the other, I'm worried about how much harder it's all going to get. There's also that _teeny tiny little_ fact I'm already aware of about how everybody gets an assessment their official first week of Fullstack Academy to see if they will still be continuing on.
 
 Hmmm… tensions rising.
-
-## The **Jubilant** Journey I Took Into the Cave of Digital Hieroglyphics
-
-* [The Search 🔍](//fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
-* [The Application 📝](//fvcproductions.com/blog/2014/12/23/week-20/)
-* [The Preparation 📚](//fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/)
-* [The Interview 💻](//fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/)
-* [The Decision ⏳](//fvcproductions.com/blog/2015/04/13/what-to-do-week-negative-8/)
-* [Fullstack Foundations - Week 1 ⚡️](//fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/)
-* [Fullstack Foundations - Weeks 2 to 4 🚀](//fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/)
-* [Fullstack Academy - Week 1 💫](//fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/)
-* [Fullstack Academy - Week 2 👬](//fvcproductions.com/blog/2015/06/20/fullstack-academy-week-2/)
-* [Fullstack Academy - Week 3 🔦🔦🔦](//fvcproductions.com/blog/2015/06/26/fullstack-academy-week-3/)
-* [Fullstack Academy - Week 4 💲🔮🔮💲](//fvcproductions.com/blog/2015/07/03/fullstack-academy-week-4/)
-* [Fullstack Academy - Week 5 💕💓💕](//fvcproductions.com/blog/2015/07/11/fullstack-academy-week-5/)
-* [Fullstack Academy - Week 6 and Review Week 🃏🃏🃏🃏🃏🃏](//fvcproductions.com/blog/2015/07/25/fullstack-academy-week-6-review-week/)
-* [ONE WEEK OF FULLSTACK LEFT 😲](//fvcproductions.com/blog/2015/08/19/one-week-left-of-fullstack/)
-* [Fullstack Academy | Reflections](//fvcproductions.com/blog/2015/08/30/fullstack-academy-reflections/) 🕝

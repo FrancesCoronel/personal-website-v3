@@ -116,7 +116,6 @@ Created a README badge using Sketch to be used for project READMEs hacked out at
 
 ![TreeHacks - 1](https://i.imgur.com/40piFZT.jpg)
 ![TreeHacks - 2](https://i.imgur.com/5JCAoBs.jpg)
-
 ![Ammalia 4](https://i.imgur.com/hiQHKNS.png)
 ![Ammalia 1](https://i.imgur.com/y5lcGMl.png)
 ![Ammalia 2](https://i.imgur.com/oDEUOnO.png)

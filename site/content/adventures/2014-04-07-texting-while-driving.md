@@ -31,6 +31,17 @@ I created a slide deck to showcase the effects of texting while driving which th
 
 The introduction video was made using Reflector, an application which recorded the screen of my iPad.
 
+### SlideShare
+
+<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/texting-while-driving-82133379">Texting While Driving</a></h4><p>Published April 8th, 2014 Presentation for the capstone project for HEA 200 class at Hampton University. HEA 200 Health Hampton University Spring 2014 --- FVCp...</p></blockquote>
+
+### YouTube
+
+<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=CcT0GtqPZuw">Texting While Driving</a></h4><p>Texting While Driving Health Project Spring 2014 FVCproductions No copyright intended.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+### Pictures
+
 ![Texting While Driving 2](https://i.imgur.com/iIw4C2K.png)
 
 ![Texting While Driving 3](https://i.imgur.com/Ag47b4X.png)
@@ -70,13 +81,3 @@ The introduction video was made using Reflector, an application which recorded t
 ![Texting While Driving 20](https://i.imgur.com/PljC03C.jpg)
 
 ![Texting While Driving 21](https://i.imgur.com/0LmZw6n.jpg)
-
-### SlideShare
-
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/texting-while-driving-82133379">Texting While Driving</a></h4><p>Published April 8th, 2014 Presentation for the capstone project for HEA 200 class at Hampton University. HEA 200 Health Hampton University Spring 2014 --- FVCp...</p></blockquote>
-
-### YouTube
-
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=CcT0GtqPZuw">Texting While Driving</a></h4><p>Texting While Driving Health Project Spring 2014 FVCproductions No copyright intended.</p></blockquote>
-
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

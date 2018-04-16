@@ -50,21 +50,29 @@ Online student
 
 Designlab is the best way to learn UI/UX design skills online — through project-based courses and 1-on-1 mentorship from expert designers.
 
----
+* [Overview](#overview)
+  * [What is Designlab?](#what-is-designlab)
+  * [Date & Times](#date--times)
+  * [Swag](#swag)
+  * [My Mentor](#my-mentor)
+  * [The Lessons](#the-lessons)
+  * [The Projects](#the-projects)
+  * [The Difference](#the-difference)
+  * [The Aftermath](#the-aftermath)
+* [Projects](#projects)
+  * [SuperGood](#supergood)
+  * [Flitter](#flitter)
+  * [Two Words on Design](#two-words-on-design)
+  * [readingit](#readingit)
+  * [RankMe](#rankme)
+  * [Web Layout](#web-layout)
+  * [Style Guide](#style-guide)
+  * [Final Project](#final-project)
+  * [Certificate of Completion](#certificate-of-completion)
 
-> Overview
+## Overview
 
-* [What is Designlab?](#section-what)
-* [Date & Times](#section-date)
-* [Swag](#section-swag)
-* [My Mentor](#section-mentor)
-* [The Lessons](#section-lessons)
-* [The Projects](#section-projects)
-* [The Difference](#section-difference)
-* [The Aftermath](#section-aftermath)
-* [Concluding Opinion](#section-conclusion)
-
-## What is Designlab?
+### What is Designlab?
 
 ![Designlab - Logo](https://fvcproductions.files.wordpress.com/2015/10/designlab-logo.png)
 
@@ -80,7 +88,7 @@ I decided to take the **[Design 101](//trydesignlab.com/web-design-course/)** co
 
 You can view the syllabus [here](//storage.trydesignlab.com/syllabus/design-101.pdf).
 
-## Date & Times
+### Date & Times
 
 **Start Date** = Friday - August 28, 2015
 
@@ -92,13 +100,13 @@ Even though it ended October 9, it took me another 9 days to finish everything u
 
 So, finally, on Sunday, October 18th, I managed to finish all the required coursework - woot, woot!
 
-## Swag
+### Swag
 
 ![Designlab - Swag](https//fvcproductions.files.wordpress.com/2015/10/designlab-swag.jpg)
 
 I received a few items in the mail August 31st - ooh la la. The book "Steal Like An Artist" was included as part of the package and even though I had read it already, it was nice having a physical copy. Even my mom ended up reading it and will quote from the book now and then.
 
-## My Mentor
+### My Mentor
 
 ![Designlab - Mentor](https://fvcproductions.files.wordpress.com/2015/10/designlab-mentor.png)
 
@@ -110,7 +118,7 @@ But to be honest, we only ended up Skyping each other once because I was always 
 
 Regardless, becoming the marvelous mentor he is, Chad always made sure to give me helpful feedback, even after the course was technically over for me! :)
 
-## The Lessons
+### The Lessons
 
 ![Designlab - Week 1](https://fvcproductions.files.wordpress.com/2015/10/designlab-week1.png)
 
@@ -125,7 +133,7 @@ These are already on their website, but I will share again here.
 
 Each unit had designated projects and with each project, there were several articles that were optional to read. Most of the articles were pretty helpful and were all available for free online.
 
-## The Projects
+### The Projects
 
 I'm still pretty new to the world of design. Even though I already knew the difference between UX/UI, how a wireframe is different from a prototype, and how important design is in general, **Designlab** was still made me realize how much more complex design can really be even when your only goal is simplicity.
 
@@ -133,13 +141,13 @@ I explored each project more in depth [on this page](//fvcproductions.com/portfo
 
 ![Designlab - Profile](https://fvcproductions.files.wordpress.com/2015/10/designlab-profile.png)
 
-## The Difference
+### The Difference
 
 The difference, I believe, between something like [DailyUI](//chadtrutt.com/ "Chad Trutt") challenges and [Designlab](//trydesignlab.com "Designlab") is the amount of feedback you're going to get. I feel the main thing you're paying for is the community and feedback. The articles they provide as mini-lessons before each project are all actually free online somewhere, but, nonetheless, they were **very** well selected.
 
 ![Designlab - Discussion](https://fvcproductions.files.wordpress.com/2015/10/designlab-discussion.png)
 
-## The Aftermath
+### The Aftermath
 
 ![Designlab - Course Completion](https://fvcproductions.files.wordpress.com/2015/10/designlab-course-summary.png)
 
@@ -204,6 +212,6 @@ The certificate itself is actually nothing more than a showcasing of all the des
 
 ![Designlab - Final Project](https://fvcproductions.files.wordpress.com/2015/10/designlab-final.png)
 
-# Certificate of Completion
+### Certificate of Completion
 
 ![Designlab - Certificate of Completion](https://fvcproductions.files.wordpress.com/2015/10/designlab-certificate-of-completion.png)

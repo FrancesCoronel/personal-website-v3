@@ -20,7 +20,7 @@ You want to view someone on [LinkedIn](https://linkedin.com/in/fvcproductions) b
 
 _Or_ you want to view a profile but without the person knowing and you're definitely not willing to spend all that cash on the premium upgrade which would allow you to do that (it's 25+ bucks/month!!!). 💸 💸 💸
 
-## Either way, LinkedIn wants you to sign in and will have an annoying popup that looks like this
+Either way, LinkedIn wants you to sign in and will have an annoying popup that looks like the following:
 
 ![LinkedIn Popup](https://i.imgur.com/38oabN0.png)
 

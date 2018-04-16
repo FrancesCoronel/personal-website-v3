@@ -95,25 +95,6 @@ Style](//sd.keepcalm-o-matic.co.uk/i/keep-calm-because-finally-i-m-senior-8.png)
 
 * This Saturday, I'll be attending the [Sally Conference](//www.meetup.com/WomenWhoCodeNYC/events/223064683/). The tickets are **300 DOLLARS**, but Shanna G., who is part of the hiring team here at Fullstack, had some free tickets to give out - so to you, Shanna, I say…
 
-![Thank
-you.](//media.giphy.com/media/3oEduJnper1UdNqreg/giphy.gif)
+![Thank you.](//media.giphy.com/media/3oEduJnper1UdNqreg/giphy.gif)
 
-![Sally
-Conference](//fvcproductions.files.wordpress.com/2015/07/106e4-1432076952614.png)
-
-### Journey Into the Cave of Digital Hieroglyphics
-
-> So Far
-
-* [The Search 🔍](//fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
-* [The Application 📝](//fvcproductions.com/blog/2014/12/23/week-20/)
-* [The Preparation 📚](//fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/)
-* [The Interview 💻](//fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/)
-* [The Decision ⏳](//fvcproductions.com/blog/2015/04/13/what-to-do-week-negative-8/)
-* [Fullstack Foundations - Week 1 ⚡️](//fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/)
-* [Fullstack Foundations - Weeks 2 to 4 🚀](//fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/)
-* [Fullstack Academy - Week 1 💫](//fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/)
-* [Fullstack Academy - Week 2 👬](//fvcproductions.com/blog/2015/06/20/fullstack-academy-week-2/)
-* [Fullstack Academy - Week 3 🔦🔦🔦](//fvcproductions.com/blog/2015/06/26/fullstack-academy-week-3/)
-* [Fullstack Academy - Week 4 💲🔮🔮💲](//fvcproductions.com/blog/2015/07/03/fullstack-academy-week-4/)
-* [Fullstack Academy - Week 5 💕💓💕](//fvcproductions.com/blog/2015/07/11/fullstack-academy-week-5/)
+![Sally Conference](//fvcproductions.files.wordpress.com/2015/07/106e4-1432076952614.png)

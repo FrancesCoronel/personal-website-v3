@@ -168,21 +168,4 @@ School](//ambassador-api.s3.amazonaws.com/uploads/portal/655/2014_09_16_20_43_07
 >
 > > EYYYYYY - it's been **awesome**! My week in a gif:
 > >
-> > ![Taste the rainbow. Feel the
-rainbow.](//media1.giphy.com/media/SKGo6OYe24EBG/200w.gif)
-
-### Journey Into the Cave of Digital Hieroglyphics
-
-> So Far
-
-* [The Search 🔍](//fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/)
-* [The Application 📝](//fvcproductions.com/blog/2014/12/23/week-20/)
-* [The Preparation 📚](//fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/)
-* [The Interview 💻](//fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/)
-* [The Decision ⏳](//fvcproductions.com/blog/2015/04/13/what-to-do-week-negative-8/)
-* [Fullstack Foundations - Week 1 ⚡️](//fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/)
-* [Fullstack Foundations - Weeks 2 to 4 🚀](//fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/)
-* [Fullstack Academy - Week 1 💫](//fvcproductions.com/blog/2015/06/13/first-week-at-fullstack-academy/)
-* [Fullstack Academy - Week 2 👬](//fvcproductions.com/blog/2015/06/20/fullstack-academy-week-2/)
-* [Fullstack Academy - Week 3 🔦🔦🔦](//fvcproductions.com/blog/2015/06/26/fullstack-academy-week-3/)
-* [Fullstack Academy - Week 4 💲🔮🔮💲](//fvcproductions.com/blog/2015/07/03/fullstack-academy-week-4/)
+> > ![Taste the rainbow. Feel the rainbow.](https://media1.giphy.com/media/SKGo6OYe24EBG/200w.gif)

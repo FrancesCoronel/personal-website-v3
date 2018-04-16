@@ -7,6 +7,8 @@ categories:
   - portfolio
 ---
 
+TODO: Fix formatting
+
 ## Assignment 1 - Building Successful Online Communities
 
 speaker deck

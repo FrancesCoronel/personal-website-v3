@@ -1,23 +1,18 @@
 ---
 title: Fullstack Academy - Blog Post Banners
-date: 2015-08-28 00:00:00 +0000
-description: Banners made for blog posts related to my experience in Fullstack Academy's
-  Summer of Code 2015 program.
+date: 2015-08-28
+description: Banners made for blog posts related to my experience in Fullstack Academy's Summer of Code 2015 program.
 banner: https://i.imgur.com/4IAtyVW.jpg
-caption: ''
-bannerLink: ''
-link: ''
 categories:
-- portfolio
-- design
+  - portfolio
+  - design
 tags:
-- fullstack academy
-- nyc
-- banners
-- blog posts
-noComments: false
-
+  - fullstack academy
+  - nyc
+  - banners
+  - blog posts
 ---
+
 Going into [**Fullstack Academy**](//fullstackacademy.com/), a coding bootcamp in NYC, I knew I would be blogging extensively about my experience.
 
 What I wasn't expecting, however, is how much fun it would be to create the banners for my blog posts.

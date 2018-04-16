@@ -82,7 +82,7 @@ abbr[title],
 abbr[data-original-title] {
   text-decoration: none;
   cursor: help;
-  border-bottom: 1px dotted _palette(fg);
+  border-bottom: dotted 1px transparentize(_palette(fg), 0.5);
 }
 
 p,

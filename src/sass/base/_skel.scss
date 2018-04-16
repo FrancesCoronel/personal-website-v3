@@ -95,7 +95,12 @@ $vendor-values: (
 @function str-replace($string, $search, $replace: "") {
   $index: str-index($string, $search);
   @if $index {
-    @return str-slice($string, 1, $index - 1) +$replace+str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
+    @return str-slice($string, 1, $index - 1) + $replace +
+      str-replace(
+        str-slice($string, $index + str-length($search)),
+        $search,
+        $replace
+      );
   }
   @return $string;
 }
@@ -155,7 +160,7 @@ $vendor-values: (
   } // Queries.
   @if $queries {
     @each $k, $v in $queries {
-      $query: $query + " and (" + $k + ":" + $v + ")";
+      $query: $query + " and (" + $k +":"+ $v + ")";
     }
   }
   @media #{$query} {
@@ -503,7 +508,7 @@ $vendor-values: (
 /// Resets browser styles.
 /// @param {string} $mode Mode (default is 'normalize').
 @mixin reset($mode: "normalize") {
-  @if $mode=="normalize" {
+  @if $mode== "normalize" {
     // normalize.css v3.0.2 | MIT License | git.io/normalize
     html {
       font-family: sans-serif;
@@ -551,7 +556,7 @@ $vendor-values: (
       outline: 0;
     }
     abbr[title] {
-      border-bottom: 1px dotted;
+      border-bottom: dotted 1px transparentize(_palette(fg), 0.5);
     }
     b,
     strong {
@@ -686,7 +691,7 @@ $vendor-values: (
     th {
       padding: 0;
     }
-  } @else if $mode=="full" {
+  } @else if $mode== "full" {
     // meyerweb.com/eric/tools/css/reset v2.0 | 20110126 | License: none (public domain)
     html,
     body,

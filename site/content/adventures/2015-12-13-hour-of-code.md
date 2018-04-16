@@ -32,71 +32,41 @@ tags:
   - sedgefield elementary
 ---
 
-![Code.org - Hour of Code](https://fvcproductions.files.wordpress.com/2015/11/codeorg.png)
-
-## Name
-
-[Hour of Code](https://hourofcode.com)
-
-## Organizer
-
-[Code.org](https://code.org)
-
-## Location
-
-Bethel High, Sedgefield Elementary, John B. Dey Elementary, Tallwood Elementary - Hampton Roads, VA
-
-## Date
-
-December 7th to 13th, 2015
-
-## Role
-
-High School Student Volunteer
-
-## About
-
-This was my first time volunteering for the Hour of Code. A lot of teachers requested I come in to give a talk and I just couldn't say no!
-
-* url: https://fvcproductions.files.wordpress.com/2015/12/img_2021.jpg
-  alt: Hour of Code 2015
-  \
-  [![Code.org](//fvcproductions.files.wordpress.com/2015/12/codeorg.png?w=300)](//code.org)
-
-# So this week, I signed up as a `technical volunteer` for the [**Hour of Code**](//hourofcode.com/us).
-
-[Code.org](//code.org) is sponsoring a whole week (December 7th to 13th) of CS education through their Hour of Code event.[\
-](//i.ytimg.com/vi/D2dgYHwrlt4/maxresdefault.jpg)
+# So this week, I signed up as a `technical volunteer` for the [**Hour of Code**](https://hourofcode.com/us).
 
 ---
 
-[![Hour of Code 2015 -
-Banner](//fvcproductions.files.wordpress.com/2015/12/hour-of-code.jpg)](//speakerdeck.com/fvcproductions/hour-of-code-high-school-1)
+[Code.org](http://code.org) is sponsoring a whole week (December 7th to 13th) of CS education through their Hour of Code event.
 
-Quite a few schools reached out to me, but, of course, I couldn't volunteer with some of them due to constraints in my class schedule or because they were just too far away.
+![Hour of Code](https://i.ytimg.com/vi/D2dgYHwrlt4/maxresdefault.jpg)
 
-I, along with [an ODU student](//thecbliss.com/), decided to go ahead and even attend a [**Professional Development Workshop**](//code.org/professional-development-workshops) for the Hour of Code so we could be better prepared to assist the kids. The session was held at [CAML Academy](//camlacademy.com/) in North Carolina and was roughly **3.5 hours away**.Thankfully, it was a Saturday.
+---
 
-[![Professional
-Development
-Workshop](//fvcproductions.files.wordpress.com/2015/12/img_0128.jpg)](//fvcproductions.files.wordpress.com/2015/12/img_0128.jpg) Professional Development Workshop
+![Hour of Code 2015 - Banner](https://fvcproductions.files.wordpress.com/2015/12/hour-of-code.jpg)
+
+Quite a few schools reached out to me, but, of course, I couldn’t volunteer with some of them due to constraints in my class schedule or because they were just too far away.
+
+I, along with [an ODU student](http://thecbliss.com/), decided to go ahead and even attend a [**Professional Development Workshop**](https://code.org/professional-development-workshops) for the Hour of Code so we could be better prepared to assist the kids. The session was held at [CAML Academy](http://camlacademy.com/) in North Carolina and was roughly **3.5 hours away**.Thankfully, it was a Saturday.
+
+![Professional Development Workshop](https://fvcproductions.files.wordpress.com/2015/12/img_0128.jpg)
+
+Professional Development Workshop
 
 > I got a certificate for attending!
 
-![Certificate of Completion -
-Code.org](//fvcproductions.files.wordpress.com/2015/12/certificate.jpg)
+![Certificate of Completion - Code.org](https://fvcproductions.files.wordpress.com/2015/12/certificate.jpg)
 
 > And free swag!
 
-[![Code.org
-Swag](//fvcproductions.files.wordpress.com/2015/12/img_0130.jpg)](//fvcproductions.files.wordpress.com/2015/12/img_0130.jpg) Code.org Swag
+---
 
-### So in the end, I decided to volunteer throughout the week for 4 different schools: [Bethel High School](//bhs.hampton.k12.va.us/), [Sedgefield Elementary School](//sedgefield.nn.k12.va.us/), [John B. Dey Elementary School](//www.deyes.vbschools.com/), and [Tallwood Elementary School](//www.tallwoodes.vbschools.com/).
+## So in the end, I decided to volunteer throughout the week for 4 different schools: [Bethel High School](//bhs.hampton.k12.va.us/), [Sedgefield Elementary School](//sedgefield.nn.k12.va.us/), [John B. Dey Elementary School](//www.deyes.vbschools.com/), and [Tallwood Elementary School](//www.tallwoodes.vbschools.com/).
 
-[![Hour of Code -
-Banner](//fvcproductions.files.wordpress.com/2015/12/hourofcode1-e1449524689973.jpg?w=750)](//fvcproductions.files.wordpress.com/2015/12/hourofcode1-e1449524689973.jpg)
+![Hour of Code - Banner](https://fvcproductions.files.wordpress.com/2015/12/hourofcode1-e1449524689973.jpg)
 
 I created two different presentations, one for _high schoolers_ and one for _elementary schoolers_.
+
+---
 
 ## Hour of Code Presentations
 
@@ -110,56 +80,122 @@ At [`Bethel High School`](//bhs.hampton.k12.va.us/), I presented and helped out 
 
 ##### Longer Version
 
-//speakerdeck.com/fvcproductions/hour-of-code-high-school-1
-
 ##### Shorter Version
-
-//speakerdeck.com/fvcproductions/hour-of-code-high-school-short
 
 #### YouTube Video
 
 > Converted from `Keynote` to `m4v`
 
-//www.youtube.com/watch?v=jL3Qo3d_Onc
+---
 
 ### Elementary School Version
 
-At [`Sedgefield Elementary School`](//bhs.hampton.k12.va.us/), I gave a presentation to a class of 3rd graders on why it's important to learn how to code. The teachers in charge were so nice and supportive of the kids. I found it funny how much more the 3rd graders participated than the high schoolers, but hey.
+At [`Sedgefield Elementary School`](//bhs.hampton.k12.va.us/), I gave a presentation to a class of 3rd graders on why it’s important to learn how to code. The teachers in charge were so nice and supportive of the kids. I found it funny how much more the 3rd graders participated than the high schoolers, but hey.
 
 #### Sedgefield Elementary School
 
 > Converted from `Keynote` to `PDF`
 
-//speakerdeck.com/fvcproductions/hour-of-code-elementary-school
-
 #### YouTube Video
 
 > Converted from `Keynote` to `m4v`
-
-//www.youtube.com/watch?v=uzJuv3ognY0
 
 #### John B. Dey Elementary School
 
 > Converted from `Keynote` to `PDF`
 
-//speakerdeck.com/fvcproductions/hour-of-code-elementary-group-version
+---
 
-## Bethel High School [\#HourOfCode](//twitter.com/hashtag/hourofcode?lang=en)
+## Bethel High School [#HourOfCode](https://twitter.com/hashtag/hourofcode?lang=en)
 
-TODO: [gallery type="rectangular" link="file" size="full" ids="3521,3523,3528,3529,3530" ]
+Here I’m helping a high schooler out.
 
-## John B. Dey Elementary School [\#HourOfCode](//twitter.com/hashtag/hourofcode?lang=en)
+![Helping Out](https://fvcproductions.files.wordpress.com/2015/12/img_2671.jpg)
 
-TODO: [gallery type="rectangular" link="file" ids="3566,3567,3568,3569,3570,3571,3572" ]
+Codecademy
 
-> She uploaded these pictures to [her class website](//www.getspotted.org/projects-and-pictures.html) as well!
+![Codecademy](https://fvcproductions.files.wordpress.com/2015/12/file_007.jpeg)
 
-## Tallwood Elementary School [\#HourOfCode](//twitter.com/hashtag/hourofcode?lang=en)
+Touch Develop
 
-TODO: [gallery type="rectangular" size="full" ids="3620,3626,3621,3622,3623,3624,3619,3625" ]
+![Touch Develop](https://fvcproductions.files.wordpress.com/2015/12/file_008.jpeg)
 
-Sedgefield Elementary School [\#HourOfCode](//twitter.com/hashtag/hourofcode?lang=en)
+Agar.io Mock
 
-TODO: [gallery type="rectangular" size="full" ids="4255,4256,4257,4258" ]
+![Agar.io Mock](https://fvcproductions.files.wordpress.com/2015/12/file_009.jpeg)
 
-> If you'd like access to the `Keynote` files to show to your class, please [contact me](/contact/) and I will happily send them to you. 📩️
+## John B. Dey Elementary School [#HourOfCode](https://twitter.com/hashtag/hourofcode?lang=en)
+
+Drag & Drop Blocks on Code.org
+
+![John B. Dey Elementary - Hour of Code](https://fvcproductions.files.wordpress.com/2015/12/img_0977.jpg)
+
+Joshua helping crack Frozen puzzles
+
+![John B. Dey Elementary - Hour of Code](https://fvcproductions.files.wordpress.com/2015/12/img_0973.jpg)
+
+John & I helping students who are stuck
+
+![John B. Dey Elementary - Hour of Code](https://fvcproductions.files.wordpress.com/2015/12/img_0972.jpg)
+
+Mentor (Chris) & Mentee
+
+![John B. Dey Elementary - Hour of Code](https://fvcproductions.files.wordpress.com/2015/12/img_0971.jpg)
+
+> She uploaded these pictures to [her class website](http://www.getspotted.org/projects-and-pictures.html) as well!
+
+## Tallwood Elementary School [#HourOfCode](https://twitter.com/hashtag/hourofcode?lang=en)
+
+Shy but resilient!
+
+![Tallwood Elementary - Hour of Code](https://fvcproductions.files.wordpress.com/2015/12/img_3631.jpg)
+
+Flappy Bird
+
+![Tallwood Elementary - Hour of Code](https://fvcproductions.files.wordpress.com/2015/12/img_3632.jpg)
+
+Figuring it out
+
+![Tallwood Elementary - Hour of Code](https://fvcproductions.files.wordpress.com/2015/12/img_3636.jpg)
+
+Group Photo
+
+![Tallwood Elementary - Hour of Code](https://fvcproductions.files.wordpress.com/2015/12/img_3639.jpg)
+
+Proud lad
+
+![Tallwood Elementary - Hour of Code](https://fvcproductions.files.wordpress.com/2015/12/img_3634.jpg)
+
+Most excited fellow
+
+![Tallwood Elementary - Hour of Code](https://fvcproductions.files.wordpress.com/2015/12/img_3635.jpg)
+
+Joshua with school principal!
+
+![Tallwood Elementary - Hour of Code](https://fvcproductions.files.wordpress.com/2015/12/img_3637.jpg)
+
+She raced through!
+
+![Tallwood Elementary - Hour of Code](https://fvcproductions.files.wordpress.com/2015/12/img_3630.jpg)
+
+## Sedgefield Elementary School [#HourOfCode](https://twitter.com/hashtag/hourofcode?lang=en)
+
+Hour of Code – Sedgefield
+
+![Hour of Code - Sedgefield](https://fvcproductions.files.wordpress.com/2015/12/img_2021-e1500183465332.jpg)
+
+Hour of Code – Sedgefield
+
+![Hour of Code - Sedgefield](https://fvcproductions.files.wordpress.com/2015/12/img_2024.jpg)
+
+Hour of Code – Sedgefield
+
+![Hour of Code - Sedgefield](https://fvcproductions.files.wordpress.com/2015/12/img_2023.jpg)
+
+Hour of Code – Sedgefield
+
+![Hour of Code - Sedgefield](https://fvcproductions.files.wordpress.com/2015/12/img_2032.jpg)
+
+---
+
+If you’d like access to the `Keynote` files to show to your class, please [contact me](http://fvcproductions.com/contact/) and I will happily send them to you.

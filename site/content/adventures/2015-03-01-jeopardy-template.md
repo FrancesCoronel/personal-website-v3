@@ -32,66 +32,38 @@ tags:
 >
 > Enjoy! :smile:
 
-=============================
+## Google Slides
 
-https://speakerdeck.com/fvcproductions/jeopardy-template-keynote
+<blockquote class="embedly-card"><h4><a href="http://bit.ly/jeopardy-google-slides">Jeopardy</a></h4><p>JEOPARDY</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-* **Download Keynote File at [github.com/fvcproductions/keynote-jeopardy](https://github.com/fvcproductions/keynote-jeopardy "Jeopardy Template").**
-* **[View on Speaker Deck](https://speakerdeck.com/fvcproductions/jeopardy-template-keynote "Speaker Deck | Jeopardy Template")**
-* **External Fonts Used**
-  * [Gyparody](https://www.1001fonts.com/gyparody-font.html) (for Jeopardy Title Slide)
-  * [Exposition](https://www.ffonts.net/Exposition.font) (for Last Slide)
-  * [Square 721](https://www.fontyukle.net/en/1,Square721) (for Prize Money Numbers)
+<blockquote class="embedly-card"><h4><a href="http://speakerdeck.com/fvcproductions/jeopardy-template-google-slides">Jeopardy Template | Google Slides</a></h4><p>Download at http://bit.ly/jeopardy-google-slides</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-https://speakerdeck.com/fvcproductions/jeopardy-template-google-slides
+### Make a Copy (GIF)
 
-* **Make your own copy at [bit.ly/jeopardy-google-slides](https://bit.ly/jeopardy-google-slides "Jeopardy Template | Google Slides").**
-* **[View on Speaker Deck](https://speakerdeck.com/fvcproductions/jeopardy-template-google-slides "Speaker Deck | Jeopardy Template").**
+![MakeCopy](//fvcproductions.files.wordpress.com/2015/05/makecopy.gif)
 
-[![MakeCopy](https://fvcproductions.files.wordpress.com/2015/05/makecopy.gif)](https://fvcproductions.files.wordpress.com/2015/05/makecopy.gif) MakeCopy
+## Keynote
 
-### Stats
+Jeopardy template created using Keynote that can be used by anybody to create their own Jeopardy game. Comes with animation, transitions, audio, and daily double features that can all be edited.
 
-> As of September 2015
+<blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/keynote-jeopardy">fvcproductions/keynote-jeopardy</a></h4><p>keynote-jeopardy - A Jeopardy template created in Keynote. 📂</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-* 1,300+ views for _bitly link_ and _Speaker Deck slides_ of Jeopardy Keynote Template
-* 1,700+ views for _bitly link_ and _Speaker Deck slides_ of Jeopardy Google Slides Template
+<blockquote class="embedly-card"><h4><a href="http://bit.ly/jeopardy-template">Keynote</a></h4><p>Keynote makes it easy to create beautiful presentations. Work together in real time on a Mac, iPad, or iPhone-or use Keynote on iCloud.com.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-> As of November 2016
+<blockquote class="embedly-card"><h4><a href="http://speakerdeck.com/fvcproductions/jeopardy-template-keynote">Jeopardy Template | Keynote</a></h4><p>Download this: https://github.com/fvcproductions/keynote-jeopardy © FVCproductions 2015</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-* 2,300+ views for just Keynote and Google Slides links
-* 6,200+ views for Speaker deck of Keynote
-* 5,400+ views for Speaker deck of Google Slides
-* 1,900+ views for Behance of Google Slides
-* = 15,800+ total views across the web
+## External Fonts
 
-TODO: [gallery type="rectangular" size="full" ids="5093,5094,5095,5096" ]
+* [Gyparody](//www.1001fonts.com/gyparody-font.html) (for Jeopardy Title Slide)
+* [Exposition](//www.ffonts.net/Exposition.font) (for Last Slide)
+* [Square 721](//www.fontyukle.net/en/1,Square721) (for Prize Money Numbers)
 
-> These two templates can be used by anybody to create their own Jeopardy game.
->
-> This project was started in March of 2015.
->
-> Last updated August 2015.
->
-> Enjoy! :smile:
-
-//speakerdeck.com/fvcproductions/jeopardy-template-keynote
-
-* **Download Keynote File at [bit.ly/jeopardy-fvc](//bit.ly/jeopardy-fvc "Jeopardy Template").**
-* **[View on Speaker Deck](//speakerdeck.com/fvcproductions/jeopardy-template-keynote "Speaker Deck | Jeopardy Template")**
-* **External Fonts Used (download links)**
-  * [Gyparody](//www.1001fonts.com/gyparody-font.html) (for Jeopardy Title Slide)
-  * [Exposition](//www.ffonts.net/Exposition.font) (for Last Slide)
-  * [Square 721](//www.fontyukle.net/en/1,Square721) (for Prize Money Numbers)
-
-//speakerdeck.com/fvcproductions/jeopardy-template-google-slides
-
-* **Make your own copy at [bit.ly/jeopardy-google-slides](//bit.ly/jeopardy-google-slides "Jeopardy Template | Google Slides").**
-* **[View on Speaker Deck](//speakerdeck.com/fvcproductions/jeopardy-template-google-slides "Speaker Deck | Jeopardy Template").**
-
-[![MakeCopy](//fvcproductions.files.wordpress.com/2015/05/makecopy.gif)](//fvcproductions.files.wordpress.com/2015/05/makecopy.gif) MakeCopy
-
-### Stats
+## Stats
 
 > As of September 2015
 
@@ -104,20 +76,5 @@ TODO: [gallery type="rectangular" size="full" ids="5093,5094,5095,5096" ]
 * 6,200+ views for Speaker deck of Keynote
 * 5,400+ views for Speaker deck of Google Slides
 * 1,900+ views for Behance of Google Slides
-* = 15,800+ total views across the web
 
-TODO: [gallery type="rectangular" size="full" ids="5093,5094,5095,5096" ]
-
----
-
-Jeopardy Template
-Made using Keynote
-FVCproductions 2015
-Download this Keynote file at https://github.com/fvcproductions/keynote-jeopardy.
-
-Jeopardy template created using Keynote that can be used by anybody to create their own Jeopardy game. Comes with animation, transitions, audio, and daily double features that can all be edited. Download Keynote: http://bit.ly/jeopardy-template
-
-External Fonts Used
-Gyparody (title)
-Exposition (last slide)
-Square 721 (prize money numbers)
+= 15,800+ total views across the web

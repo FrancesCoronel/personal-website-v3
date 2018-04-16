@@ -2,20 +2,20 @@
 title: Robopocalypse 🤖
 date: 2015-08-05
 banner: https://i.imgur.com/V26V6tz.png
+aliases:
+  - /2015/08/05/robopocalypse/
 categories:
   - portfolio
   - web
   - oss
+tags:
+  - robopocalypse
+  - fullstack academy
 ---
 
-[![About Page -
-1](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse4.png)](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse4.png)
+I collaborated in a four-person team to create an e-commerce store that specializes in selling robots with features such as multi-tenancy, admin/merchant dashboards, and social login using [the MEAN stack](//mean.io "MEAN stack"), [the Mandrill API](//mandrillapp.com/api/docs/ "Mandrill API"), and [OAuth](//oauth.net/ "OAuth").
 
-# Overview
-
-I collaborated in a four-person team to create an e-commerce store that specializes in selling robots with features such as multi-tenancy, admin/merchant dashboards, and social login using [the MEAN stack](https://mean.io "MEAN stack"), [the Mandrill API](https://mandrillapp.com/api/docs/ "Mandrill API"), and [OAuth](https://oauth.net/ "OAuth").
-
-> This project was completed on `August 5th, 2015` for the Stackstore phase of Fullstack Academy.
+This project was completed on `August 5th, 2015` for the Stackstore phase of Fullstack Academy.
 
 ## Features
 
@@ -27,14 +27,102 @@ I collaborated in a four-person team to create an e-commerce store that speciali
 * shopping cart persists across various states of web app
 * guest users can check out but only logged in users can leave reviews
 
-## Screenshots
-
-TODO: [gallery type="rectangular" size="full" ids="2650,2649,2648,2647,2646,2645,2639,2640,2641,2642,2644,2638,2643,2637,2636,2635,2634,2633,2630,2631,2632" ]
-
 ## Stats
 
 * `515` commits
 
+## Website
+
+<blockquote class="embedly-card"><h4><a href="http://robopocalypse.herokuapp.com/">Robopocalypse</a></h4><p>Our stackstore project.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 ## GitHub Repo
 
-View the project at [`github.com/JoviaNierenberg/robopocalypse`](https://github.com/JoviaNierenberg/robopocalypse "Robopocalypse").
+<blockquote class="embedly-card"><h4><a href="https://github.com/JoviaNierenberg/robopocalypse">JoviaNierenberg/robopocalypse</a></h4><p>Contribute to robopocalypse development by creating an account on GitHub.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+## Screenshots
+
+Admin Dashboard
+
+![Robopocalypse17](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse17.png)
+
+Merchants Dashboard
+
+![Robopocalypse13](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse13.png)
+
+About Page – 1
+
+![About Page - 1](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse4.png)
+
+Home Page
+
+![Home Page](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse1.png)
+
+Profile Page
+
+![Robopocalypse21](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse21.png)
+
+Merchants Dashboard
+
+![Robopocalypse14](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse14.png)
+
+Merchants Dashboard
+
+![Robopocalypse12](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse12.png)
+
+Categories
+
+![Categories](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse3.png)
+
+About Page – 2
+
+![About Page - 2](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse5.png)
+
+Check Out
+
+![Robopocalypse23](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse23.png)
+
+Admin Dashboard
+
+![Robopocalypse15](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse15.png)
+
+Admin Dashboard
+
+![Robopocalypse11](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse11.png)
+
+Admin Dashboard
+
+![Robopocalypse20](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse20.png)
+
+Admin Dashboard
+
+![Robopocalypse16](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse16.png)
+
+About Page – 3
+
+![About Page - 3](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse6.png)
+
+Merchants Dashboard
+
+![Robopocalypse10](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse10.png)
+
+Stores of Merchants
+
+![Stores of Merchants](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse7.png)
+
+Login
+
+![Login](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse8.png)
+
+Sign Up
+
+![Robopocalypse10](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse9.png)
+
+Item in Cart
+
+![Robopocalypse22](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse22.png)
+
+Admin Dashboard
+
+![Robopocalypse19](https://fvcproductions.files.wordpress.com/2015/08/robopocalypse19.png)

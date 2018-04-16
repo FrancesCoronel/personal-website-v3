@@ -8,9 +8,13 @@ categories:
   - oss
 ---
 
-# Overview
+I created a guessing game for the Foundations stage of [Fullstack Academy](//fullstackacademy.com).
 
-I created a guessing game for the Foundations stage of [Fullstack Academy](https://fullstackacademy.com).
+<blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/guessing-game">The Guessing Game</a></h4><p>Fullstack Foundations - Part 1</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<blockquote class="embedly-card"><h4><a href="http://github.com/fvcproductions/guessing-game">fvcproductions/guessing-game</a></h4><p>guessing-game - Fullstack Foundations - Guessing Game 🎱</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Features
 
@@ -27,12 +31,3 @@ I created a guessing game for the Foundations stage of [Fullstack Academy](https
 * [GitHub Pages](//pages.github.com/)
 * [Bootstrap](//getbootstrap.com/)
 * [Flat UI](//designmodo.github.io/Flat-UI/)
-
-## Link
-
-<blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/guessing-game">The Guessing Game</a></h4><p>Fullstack Foundations - Part 1</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-## GitHub Repo
-
-<blockquote class="embedly-card"><h4><a href="http://github.com/fvcproductions/guessing-game">fvcproductions/guessing-game</a></h4><p>guessing-game - Fullstack Foundations - Guessing Game 🎱</p></blockquote>

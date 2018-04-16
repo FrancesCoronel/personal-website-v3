@@ -12,5 +12,5 @@ tags:
 
 I used Geektool widgets and custom icons from different websites to bring this to life.
 
-![](https://i.imgur.com/BAxBUol.png)
-![](https://i.imgur.com/vcpcAoY.png)
+![Kafto Kaokairi 1](https://i.imgur.com/BAxBUol.png)
+![Kafto Kaokairi 2](https://i.imgur.com/vcpcAoY.png)

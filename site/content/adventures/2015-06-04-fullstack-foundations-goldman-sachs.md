@@ -34,11 +34,11 @@ So I'm taking a break and writing about how I've become the annoyed bee depicted
 
 Since this is going to be a ridiculously long post (playing catch up here), I've broken it into sections:
 
-1. [The Rant](#section-rant)
-2. [The Big Presentation](#section-presentation)
-3. [The Foundations](#section-foundations)
-4. [The Numbers](#section-numbers)
-5. [The Journey So Far](#section-journey)
+1.  [The Rant](#section-rant)
+2.  [The Big Presentation](#section-presentation)
+3.  [The Foundations](#section-foundations)
+4.  [The Numbers](#section-numbers)
+5.  [The Journey So Far](#section-journey)
 
 ## Rant
 
@@ -46,10 +46,10 @@ For Weeks 2 and 3, I had to fervently split my time between working on **Fullsta
 
 But that's not all. Otherwise, I'd still be the first bee. As of now, I also have to handle the following:
 
-1. Finalizing the website and designing a logo for my first ever official client, [Ameot](//www.ameot.com/ "Ameot")
-2. Studying for that silly standardized exam (sadly, no - I'm actually talking about the [GRE](//www.ets.org/gre "GRE")).
-3. Taking an online summer course that is a total waste of time but I need the course to graduate as a CS major (the course is CSC 120 which is basically required for all students and learn the ins and out of useful things like Microsoft Office, PowerPoint, & Excel, among other things). A real joy since I have not seriously used any Microsoft products (besides Skype) since the 9th grade.
-4. Staying caught up with [Silicon Valley](<//www.wikiwand.com/en/Silicon_Valley_(TV_series)> "SIlicon Valley").
+1.  Finalizing the website and designing a logo for my first ever official client, [Ameot](//www.ameot.com/ "Ameot")
+2.  Studying for that silly standardized exam (sadly, no - I'm actually talking about the [GRE](//www.ets.org/gre "GRE")).
+3.  Taking an online summer course that is a total waste of time but I need the course to graduate as a CS major (the course is CSC 120 which is basically required for all students and learn the ins and out of useful things like Microsoft Office, PowerPoint, & Excel, among other things). A real joy since I have not seriously used any Microsoft products (besides Skype) since the 9th grade.
+4.  Staying caught up with [Silicon Valley](<//www.wikiwand.com/en/Silicon_Valley_(TV_series)> "SIlicon Valley").
 
 Thankfully, once summer hits, my only focus will be Fullstack (assuming I pass the assessment - I suck at those), the GRE, and that summer course. Not bad.
 
@@ -97,7 +97,7 @@ Game](//fvcproductions.files.wordpress.com/2015/06/unknown.png)](//fvcproduction
 But now this week is all about **Part 4**, the last part, the finale, the end game. I still have a lot of crap to do but I have been able to reach some conclusions.
 
 * I don't really enjoy Chalkers as a teacher on Treehouse. I'm sorry, it may be the British accent, it may not be.
-* As I've stated before, Fullstack doesn't f\**\** around with their pre-work. Well, now that statement is a conclusion.
+* As I've stated before, Fullstack doesn't f\*\*\*\* around with their pre-work. Well, now that statement is a conclusion.
 
 # The Numbers
 
@@ -167,15 +167,3 @@ Yeah, that looks about right. I got a good deal! :grin:
 So, in total, the program is going to cost me around `$14K`, give or take.
 
 Now when this all over, I'll abe able to see if I'm any good at estimating.
-
-### The Journey to the Cave of Digital Hieroglyphics
-
-> So Far
-
-* [The Search](//fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "The Search")
-* [The Application](//fvcproductions.com/blog/2014/12/23/week-20/ "The Application")
-* [The Preparation](//fvcproductions.com/blog/2015/01/05/prepare-for-coding-bootcamps/ "The Preparation")
-* [The Interview](//fvcproductions.com/blog/2014/12/28/interview-fullstack-academy/ "The Interview")
-* [The Decision](//fvcproductions.com/blog/2015/04/13/what-to-do-week-negative-8/ "The Decision")
-* [Fullstack Foundations - Week 1](//fvcproductions.com/blog/2015/05/17/fullstack-foundations-week-1/ "Fullstack Foundations - Week 1")
-* [Fullstack Foundations - Weeks 2 - 4](//fvcproductions.com/blog/2015/06/04/fullstack-foundations-goldman-sachs/ "Fullstack Foundations - Weeks 2 to 4")

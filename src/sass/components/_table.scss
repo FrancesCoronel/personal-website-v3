@@ -27,6 +27,12 @@ table {
     }
     td {
       padding: 0.5em;
+      a {
+        border-bottom: dotted 1px transparentize(_palette(fg), 0.5);
+        &:hover {
+          border-style: solid;
+        }
+      }
     }
   }
   tfoot {

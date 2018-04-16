@@ -9,13 +9,16 @@ categories:
   - presentation
   - web
   - mobile
+tags:
+  - duolingo
+  - duolingo delights
+  - product manager intern
+  - pm interview
 ---
 
 As part of the interview process for [Duolingo](//duolingo.com), I created this slide deck for a product task that Duolingo could achieve by 1–4 engineers in 3–6 months.
 
 I decided to create **Duolingo Delights**. With this feature, Duolingo users can learn more about the culture around the language they’re trying to learn and not just the grammar. This objective will be achieved by inserting mini culture-related tasks throughout the user’s learning process. These culture-related tasks will be called delights.
-
----
 
 After all the hours I spent working on all this, it was a huge bummer when Duolingo let me know I would not be moving forward with the on-site. This was after a programming task, this huge ass presentation and a document I wrote up elaborating on the idea. I got really salty afterward and just jumped to the conclusion that they favored folks from CMU which made me feel a little better.
 
