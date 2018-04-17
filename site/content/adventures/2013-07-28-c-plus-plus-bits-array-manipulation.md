@@ -133,9 +133,9 @@ void GreaterThan(const int list[], int num_items)
 
 ## Output
 
-Just look at this here friggin output text I provided your a\*\*.
+Just look at this here friggin' output text I provided your a\*\*.
 
-```txt
+```text
 Please enter the number of array values
 17
 Enter the next array value

@@ -11,7 +11,7 @@ tags:
   - spanish
 ---
 
-## So this was a fun little skit I did with a few kids from my AP Spanish Language class.
+So this was a fun little skit I did with a few kids from my AP Spanish Language class.
 
 It was really memorable for me so I figured I'd post it up here along with the rest of my little tidbits.
 
@@ -21,19 +21,15 @@ It's a parody of the "Three Little Pigs", but in Spanish... obviously.
 
 I would translate it all, but it's only for AP Spanish rug rats anyways.
 
----
+For this parody, you will need
 
-### For this parody, you will need
+1.  1 Wolf mask (or a hairy dude)
+2.  3 Pig masks (or 3 fat people... I kid, I kid!)
+3.  Guns/Knives (better if fake so no one accidentally gets shanked)
+4.  Fake monopoly money
+5.  Light-saber (optional... helps create image of psychopath)
 
-1. 1 Wolf mask (or a hairy dude)
-2. 3 Pig masks (or 3 fat people... I kid, I kid!)
-3. Guns/Knives (better if fake so no one accidentally gets shanked)
-4. Fake monopoly money
-5. Light-saber (optional... helps create image of psychopath)
-
----
-
-### Characters
+## Characters
 
 * Piggie 1 - Druggie - D - Lizzy
   * D - needs a plastic bag with "leaves" (it's supposed to be marijuana durrrr) in it.
@@ -42,8 +38,6 @@ I would translate it all, but it's only for AP Spanish rug rats anyways.
 * Piggie 3 - Psychopath - Patricia
   * P - needs a lot of courage to act like a psychopath. And maybe a light-saber.
 * Wolf - F\*\*\*\*\* Up Wolf - Frances
-
----
 
 ## SCRIPT BEGINS
 
@@ -109,16 +103,12 @@ I would translate it all, but it's only for AP Spanish rug rats anyways.
 
 ---
 
-## Conclusion?
+### Conclusion?
 
 Everyone died like a b\*\*\*\*\*!
 
----
-
-## Lesson Learned?
+### Lesson Learned?
 
 Don't be no hairy or fat mo-fo and life will work out for you.
-
----
 
 Toodles people!

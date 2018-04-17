@@ -21,7 +21,7 @@ To declare weight, height, hat size, jacket size, and waist size.
 
 ## Sample Input (AKA MY NUMBERS HARPY)
 
-```txt
+```text
 3 (for the count)
 
 180 6 1 // 180 pounds, 6 feet 1 inches, so 73 inches -- thank you calculator
@@ -88,7 +88,7 @@ double waist(double w, double h)
 
 ## Output
 
-```txt
+```text
 Please enter your height (in inches):
 73
 Please enter your weight (in pounds):

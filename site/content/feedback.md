@@ -2,6 +2,7 @@
 title: Feedback ✅
 description: All the sweet things folks have had to say.
 banner: https://i.imgur.com/eDqiqGu.jpg
+noTimeEstimate: true
 reviews: true
 filtering: true
 aliases:

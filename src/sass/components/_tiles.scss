@@ -6,13 +6,13 @@
   justify-content: center;
   @include vendor("flex-wrap", "wrap");
   position: relative;
-  margin: ($gutter * -0.5) 0 0 ($gutter * -0.5);
+  margin: -0.5em 0 0 -0.5em;
   overflow: hidden;
   article {
     @include vendor("transition", ("opacity #{$duration} #{$ease}"));
     position: relative;
     width: calc(#{(100% / 3)} - #{$gutter * 0.5});
-    margin: ($gutter * 0.5) 0 0 ($gutter * 0.5);
+    margin: 0.5em 0 0 0.5em;
     &.mix {
       h2 {
         font-size: larger;
@@ -187,7 +187,7 @@
     // margin: ($gutter * -1) 0 0 ($gutter * -1);
     article {
       width: calc(#{(100% / 3)} - #{$gutter * 1});
-      margin: $gutter 0 0 $gutter;
+      // margin: $gutter 0 0 $gutter;
     }
   }
   @include breakpoint(medium) {
@@ -195,7 +195,7 @@
     // margin: ($gutter * -1) 0 0 ($gutter * -1);
     article {
       width: calc(#{(100% / 2)} - #{$gutter * 1});
-      margin: $gutter 0 0 $gutter;
+      // margin: 1em;
     }
   }
   @include breakpoint(small) {
@@ -203,7 +203,7 @@
     // margin: ($gutter * -1) 0 0 ($gutter * -1);
     article {
       width: calc(#{(100% / 1)} - #{$gutter * 1});
-      margin: $gutter 0 0 $gutter;
+      // margin: 1em;
       &:hover {
         > .image {
           @include vendor("transform", "scale(1.0)");
@@ -216,12 +216,7 @@
     // margin: 0;
     article {
       width: 100%;
-      margin: $gutter 0 0 $gutter;
+      // margin: 1em;
     }
   }
-}
-
-section.section.tiles.filtered-grid {
-  width: 100%;
-  margin: 0;
 }

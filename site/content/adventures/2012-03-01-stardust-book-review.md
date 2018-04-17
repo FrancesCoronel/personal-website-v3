@@ -32,9 +32,9 @@ Gaiman provides a story with words that lift themselves off the page and are con
 
 Finally, with _Stardust_, older folk can lose themselves for a few hours and read about kingdoms, witchcraft and talking trees without being ashamed. And should a younger individual decide to, they too will not be disappointed. Through forming his own unique formula for fantasy, Gaiman presents old archetypes of witches and royalty and mixes his own original convictions through fallen stars, flying pirates, and even unicorns to present a fairy tale where preconceived notions of a typical fairy tale are destroyed. No feelings will be unresolved with _Stardust_, unless one feels a strong attachment towards unicorns, of which then they should still read the book so as to leave with a new found respect for the precious creatures.
 
----
+## Awards
 
-## 3rd Place - Grade 11 - NPL Book Review Contest
+### 3rd Place - Grade 11 - NPL Book Review Contest
 
 In May of 2012, this book review of Stardust won third place for the Grade 11 category of the 2012 Friends of the Norfolk Public Library (NPL) Book Review Contest.
 

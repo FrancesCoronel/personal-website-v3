@@ -1,12 +1,12 @@
 ---
 title: Strange Loop
-description: Strange Loop is a multi-disciplinary conference that brings together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.
 date: 2017-09-27
+description: Strange Loop is a multi-disciplinary conference that brings together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.
 banner: https://i.imgur.com/uBaeAmo.jpg?1
 categories:
-    - conference
-    - speaking
-    - typescript101
+  - conference
+  - speaking
+  - typescript101
 ---
 
 ## Name
@@ -33,13 +33,7 @@ Speaker
 
 Strange Loop is a multi-disciplinary conference that brings together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.
 
----
-
-<blockquote class="embedly-card"><h4><a href="//imgur.com/a/4OYm2">Strange Loop 2017</a></h4><p>My adventures at Strange Loop in St Louis, MO from September 27th to 29th, 2017.</p></blockquote>
-
----
-
-## Wednesday, September 27th
+### Wednesday, September 27th
 
 My plane departed from San Francisco to St Louis around 10:30 am and arrived around 4:30 pm (there's a two hour time difference).
 
@@ -49,7 +43,7 @@ Upon arriving, I got a Lyft to my Airbnb which was ideally located very close to
 
 I never ended up meeting my Airbnb host but her dog, Rizzo, who is a black lab mix, was there the whole time and so I played around with her for a bit before resting and getting ready to attend my first Strange Loop event.
 
-### Unofficial Strange Loop Event: Mozilla Developer Roadshow
+#### Unofficial Strange Loop Event: Mozilla Developer Roadshow
 
 So Strange Loop itself is a major conference that has grown to the point that there are even [unofficial events](//www.thestrangeloop.com/unofficial-events.html) that happen beforehand.
 
@@ -65,9 +59,7 @@ I really enjoyed this event not just for the speakers but because it felt very p
 * Learned a lot more about Mozilla's efforts to create a better and open web and became super impressed
 * Inspired to learn WebGL because the last speaker created very cool graphics
 
----
-
-## Thursday, September 28th
+### Thursday, September 28th
 
 Today was all about pre-conference activities.
 
@@ -87,21 +79,19 @@ This was fun and even though this my first ever interaction with live video/Peri
 
 The rest of the night was spent watching talks at the hotel and preparing for my Lightning Talk tomorrow.
 
----
-
-## Friday, September 29th
+### Friday, September 29th
 
 The first official day of the conference!!
 
 I spent the bulk of today listening to talks and prepping for my own talk again.
 
-### Project Alloy Sponsor Chat
+#### Project Alloy Sponsor Chat
 
 Around lunch, Project Alloy, the organization that helped fund my ticket, had a Meetup dedicated to grantees and sponsors.
 
 This was quite fun as I got to meet fellow Project Alloy grantees.
 
-### Project Alloy Meetup && #INCLUDE
+#### Project Alloy Meetup && #INCLUDE
 
 <ALL>: An Unofficial Strange Loop Event
 
@@ -119,7 +109,7 @@ I ended up taking a photo with two other grantees that I met at Strange Loop and
 
 ![#INCLUDE <ALL>](https://media.giphy.com/media/3ohhwgrG71d6wmkIiQ/giphy.gif)
 
-### Lightning Talks
+#### Lightning Talks
 
 Out of the 26 talks submitted to be a Strange Loop Lightning Talk, 12 were selected through popular vote.
 
@@ -137,7 +127,7 @@ I got a lot of great feedback on it too!
 
 <blockquote class="embedly-card"><h4><a href="//twitter.com/ddlavinder/status/914006590558269440">DeeDee Lavinder on Twitter</a></h4><p>@fvcproductions's lightning talk on 'Typescript 101' rocked! Javascript is Typescript but Typescript is not Javascript. #strangeloop</p></blockquote>
 
-## Saturday, September 30th
+### Saturday, September 30th
 
 More talks!
 
@@ -145,10 +135,13 @@ My favorite talks were on art and inequality, both at the Peabody.
 
 My boyfriend actually ended up getting a little jelly because I mentioned that Adam Savage was going to be the closing Keynote speaker. It was a pretty great talk...
 
-## Sunday, October 1st
+### Sunday, October 1st
 
 Waking up super early to catch a flight home. 😴️
 
 > <a name="footnote1"><b>1.</b></a> Ian is one of the [Project Alloy](//www.projectalloy.org/) co-founders.
 
+---
+
+<blockquote class="embedly-card"><h4><a href="//imgur.com/a/4OYm2">Strange Loop 2017</a></h4><p>My adventures at Strange Loop in St Louis, MO from September 27th to 29th, 2017.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

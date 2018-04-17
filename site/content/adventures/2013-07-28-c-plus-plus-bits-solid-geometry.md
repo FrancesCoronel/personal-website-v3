@@ -68,7 +68,7 @@ int main()
 
 ## Sample Input (AKA MY NUMBERS HARPY)
 
-```txt
+```text
 A 15.9
 
 X 12.8
@@ -84,7 +84,7 @@ Q (The sentinel)
 
 Just look at the friggin file right up in here that I provided your a\*\*.
 
-```txt
+```text
 Please enter
 V for volume,
 A for surface area,X for cross-sectional area,
