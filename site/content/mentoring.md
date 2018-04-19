@@ -31,10 +31,11 @@ You can find [the feedback I've received](/feedback/) thus far on my website!
 
 > Total # of Sessions: 47
 >
-> Total Hours: 30.65
+> Total Hours: 31.65
 
 | Why                                              | Who                      | Method     | Hours | Date              |
 | ------------------------------------------------ | ------------------------ | ---------- | ----- | ----------------- |
+| Out of Office Hours                              | Angela Jackson           | Phone Chat | 1.00  | March 9, 2018     |
 | Getting most out of Fullstack Academy experience | Adil Minocherhomjee      | Phone Chat | .50   | January 24, 2018  |
 | Fullstack Academy Ambassador                     | Kelaiya Parikah          | Video Chat | 2.00  | May 31, 2017      |
 | Fullstack Academy Ambassador                     | Kelaiya Parikah          | Video Chat | 0.50  | May 23, 2017      |
