@@ -30,10 +30,16 @@
 <!-- Internal Template - Google News -->
 {{ template "_internal/google_news.html" . }}
 <!-- Updated Time -->
+{{ if .IsPage }}
+<!-- Check for valid date -->
+{{ if not .PublishDate.IsZero }}
 <meta itemprop="datePublished" content="{{ dateFormat "2006-01-02" .Date }}">
 <meta itemprop="dateModified" content="{{ dateFormat "2006-01-02" .Date }}">
 <meta property="article:published_time" content="{{ dateFormat "2006-01-02" .Date }}">
 <meta property="article:modified_time" content="{{ dateFormat "2006-01-02" .Date }}">
+<meta property="og:updated_time" content="{{ dateFormat "2006-01-02" .Date }}">
+{{ end }}
+{{ end }}
 <!-- Keywords -->
 {{ if .Params.tags }}
   <meta itemprop="keywords" content="{{ delimit .Params.tags ", " }}">
@@ -56,17 +62,17 @@
 <!-- Open Graph -->
 <meta property="og:image:width" content="1050">
 <meta property="og:image:height" content="600">
-<meta property="og:image" content="{{ if .Params.banner }}{{ .Params.banner }}{{ else }}https://fvcproductions.com/assets/img/teaser.png{{ end }}">
+<meta property="og:image" content="{{ if .Params.banner }}{{ .Params.banner }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image:src" content="{{ if .Params.banner }}{{ .Params.banner }}{{ else }}https://fvcproductions.com/assets/img/teaser.png{{ end }}">
-<meta name="image" content="{{ if .Params.banner }}{{ .Params.banner }}{{ else }}https://fvcproductions.com/assets/img/teaser.png{{ end }}">
+<meta name="twitter:image:src" content="{{ if .Params.banner }}{{ .Params.banner }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
+<meta name="image" content="{{ if .Params.banner }}{{ .Params.banner }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
 <!-- Schema -->
-<meta itemprop="image" content="{{ if .Params.banner }}{{ .Params.banner }}{{ else }}https://fvcproductions.com/assets/img/teaser.png{{ end }}">
+<meta itemprop="image" content="{{ if .Params.banner }}{{ .Params.banner }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
 <!-- Links -->
 <link rel="canonical" href="{{ .Permalink }}">
 <link rel="manifest" href="/manifest.json" />
-<link rel="preconnect" href="https://fvcproductions.com/">
+<link rel="preconnect" href="https://fvcproductions.com">
 <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
 <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
 <!-- RSS -->

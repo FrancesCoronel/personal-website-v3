@@ -37,6 +37,7 @@ disqusShortname               = "fvcproductions"
     description               = "I like to dabble with things that ought to be dabbled with. 🍫️🍓️️"
     copyright                 = "FVCproductions"
     year                      = 2013
+    og_image                  = "https://fvcproductions.com/assets/img/teaser.png"
 
 # Permalinks
 [permalinks]

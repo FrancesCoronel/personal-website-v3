@@ -1,23 +1,24 @@
-import {spawn} from "child_process";
 import autoprefixer from "autoprefixer";
-import brotli from "gulp-brotli";
 import BrowserSync from "browser-sync";
+import {spawn} from "child_process";
 import cssnano from "cssnano";
-import csso from "postcss-csso";
 import del from "del";
+import log from "fancy-log";
 import gulp from "gulp";
+import brotli from "gulp-brotli";
 import gzip from "gulp-gzip";
 import htmlmin from "gulp-htmlmin";
-import hugoBin from "hugo-bin";
 import imagemin from "gulp-imagemin";
-import log from "fancy-log";
-import PluginError from "plugin-error";
 import postcss from "gulp-postcss";
-import runSequence from "run-sequence";
 import sass from "gulp-sass";
 import sourcemaps from "gulp-sourcemaps";
 import watch from "gulp-watch";
+import hugoBin from "hugo-bin";
+import PluginError from "plugin-error";
+import csso from "postcss-csso";
+import runSequence from "run-sequence";
 import webpack from "webpack";
+
 import webpackConfig from "./webpack.config";
 
 // Browser Sync

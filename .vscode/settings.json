@@ -1,13 +1,5 @@
 // Place your settings in this file to overwrite default and user settings.
 {
-  "editor.tabSize": 2,
-  "editor.fontSize": 18,
-  "files.trimTrailingWhitespace": true,
-  "editor.formatOnSave": true,
-  "editor.wordWrap": "on",
-  "prettier.eslintIntegration": true,
-  "workbench.editor.enablePreview": false,
-  "markdown.extension.preview.autoShowPreviewToSide": false,
   "cSpell.words": [
     "Codelabs",
     "Cproductions",
@@ -23,5 +15,13 @@
     "scrollbar",
     "twemoji"
   ],
-  "eslint.enable": true
+  "editor.fontSize": 18,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "eslint.enable": true,
+  "files.trimTrailingWhitespace": true,
+  "markdown.extension.preview.autoShowPreviewToSide": false,
+  "prettier.eslintIntegration": true,
+  "workbench.editor.enablePreview": false
 }
