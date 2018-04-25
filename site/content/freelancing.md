@@ -7,6 +7,8 @@ freelancing: true
 aliases:
   - /services/freelancing/
   - /freelancing/
+  - /home/services/
+  - /home/services/freelancing/
 ---
 
 ## I work with clients of all backgrounds on both product design & development.

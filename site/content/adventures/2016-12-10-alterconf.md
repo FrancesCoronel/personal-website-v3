@@ -5,6 +5,8 @@ series that provides safe opportunities for marginalized people and
 those who support them in the tech and gaming industries."
 date: 2016-12-10
 banner: https://fvcproductions.files.wordpress.com/2017/01/banner.png
+aliases:
+  - /home/adventures/conferences/alterconf-dec-2016/
 categories:
   - blog
   - conference

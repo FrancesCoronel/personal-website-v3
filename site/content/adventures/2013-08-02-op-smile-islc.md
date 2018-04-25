@@ -1,10 +1,15 @@
 ---
-title: "ISLC 2013"
-description: "International Student Leadership Conference"
+title: ISLC 2013
+description: International Student Leadership Conference
 date: 2013-08-02
 banner: https://i0.wp.com/fvcproductions.files.wordpress.com/2015/11/screen-shot-2016-01-22-at-9-53-08-pm.jpg
+aliases:
+  - /home/adventures/conferences/international-student-leadership-conference-august-2013/
 categories:
   - conference
+tags:
+  - islc
+  - operation smile
 ---
 
 ## Name

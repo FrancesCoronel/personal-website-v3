@@ -3,8 +3,10 @@ title: "Sally Conference"
 description: "Sponsored by Bloom & Women Who Code"
 date: 2015-07-25
 banner: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/ckydracwgaeajgp.jpg
+aliases:
+  - /home/adventures/conferences/sally-conference/
 categories:
-    - conference
+  - conference
 ---
 
 ## Name

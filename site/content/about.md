@@ -7,6 +7,8 @@ alphabetical: true
 noComments: true
 noTimeEstimate: true
 about: true
+aliases:
+  - /home/about/
 ---
 
 <h2>I like to dabble with things that <del>shouldn’t</del> ought to be dabbled with.</h2>
@@ -48,63 +50,6 @@ My boyfriend Nolan got accepted to the [Holberton School](//holbertonschool.com)
 I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the Egyptian queen) a crap ton.
 
 ![Nefy](https://i.imgur.com/cwXno9D.jpg)
-
-### Over Simplified Timeline 🕔
-
-> 2018
-
-* Goal this year is to blog and speak more
-* First full-day workshop proposal accepted for a conference
-* First tech podcast session recorded
-* Accepted a part-time position as a technical mentor for Thinkful's online coding bootcamp
-
-> 2017
-
-* Started full-time role as SWE for Accenture's Liquid Studio in Silicon Valley
-* Graduated with an MS in CS from Cornell Tech
-
-> 2016
-
-* Interned at Accenture's Liquid Studio over the summer
-* Graduated with a BS in CS from Hampton University
-* Mentored someone for the first time over video chat on a technical topic
-
-> 2015
-
-* Started my first job (part-time) as a developer
-* Gave my first technical talk at a conference
-* Attended Fullstack Academy during the summer in NYC
-
-> 2014
-
-* Focused on my classes in college
-* Grew my design skills a lot
-* Enrolled at Hampton University for CS
-
-> 2013
-
-* Studied CS abroad in Germany for a semester
-* Took my first coding course in C++ at TCC over the summer along with courses in philosophy, sociology and astronomy
-* Graduated from high school
-
-> 2012
-
-* Started getting interested in coding my junior year of high school
-* Studied wildlife research techniques in Tanzania through Boston University & the School for Field Studies
-* Volunteered for an Operation Smile medical mission in Vietnam
-
-> 2011
-
-* Took zoology and calculus classes at Hampton University over the summer
-* Participated in Operation Smile's International Student Cultural Exchange conference in China
-
-> 2010
-
-* Took my first college course at TCC, a local community college
-
-> 2009
-
-* Graduated from middle school and entered the big scary world of high school at the age of 13
 
 ### What's Happening Nowadays 📅
 

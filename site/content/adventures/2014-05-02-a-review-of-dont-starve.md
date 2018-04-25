@@ -26,7 +26,7 @@ So in case you haven’t heard of it yet, “[Don’t Starve](http://www.dontsta
 
 A year into its inception, I gotta say that I’m really glad how amazing it’s turned out – high aggregate and review scores – and they’ve recently added their first paid downloadable content expansion called “Don’t Starve: Reign of Giants”, which basically added a bunch of new monsters (giants, perhaps?) and territory to discover and be terrorized by.
 
-[![Screenshot from gameplay](https://fvcproductions.files.wordpress.com/2014/05/screen-shot-2014-05-02-at-6-53-20-pm.png?w=750)](https://fvcproductions.files.wordpress.com/2014/05/screen-shot-2014-05-02-at-6-53-20-pm.png)
+![Screenshot from gameplay](https://fvcproductions.files.wordpress.com/2014/05/screen-shot-2014-05-02-at-6-53-20-pm.png?w=750)
 
 Screenshot from gameplay
 
@@ -92,4 +92,4 @@ There’s many ways to play this game and so there are many ways to fall in love
 
 Indeed, I’ll be starving today once again. Cheers.
 
-[![post-7347-13764590855412](https://fvcproductions.files.wordpress.com/2014/05/post-7347-13764590855412.gif?w=750)](https://fvcproductions.files.wordpress.com/2014/05/post-7347-13764590855412.gif)
+![post-7347-13764590855412](https://fvcproductions.files.wordpress.com/2014/05/post-7347-13764590855412.gif)

@@ -3,6 +3,8 @@ title: RevolutionConf
 date: 2016-05-13
 description: RevolutionConf is a one-day, platform and language agnostic, software development conference being held on May 13, 2016 in Virginia Beach, VA.
 banner: https://fvcproductions.files.wordpress.com/2016/05/revolutionconf-2016.png
+aliases:
+  - /home/adventures/conferences/revolutionconf/
 categories:
   - blog
   - conference

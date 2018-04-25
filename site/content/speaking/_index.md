@@ -8,6 +8,9 @@ speaking: true
 alphabetical: true
 filtering: true
 noTimeEstimate: true
+aliases:
+  - /speaking/
+  - /home/services/speaking/
 ---
 
 ## I've given talks on a variety of topics.

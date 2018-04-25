@@ -3,8 +3,10 @@ title: Fluent Conference
 description: Sponsored by OReilly.
 date: 2016-03-10
 banner: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0526.jpg
+aliases:
+  - /home/adventures/conferences/fluent-conf-march-2016/
 categories:
-    - conference
+  - conference
 ---
 
 ## Name

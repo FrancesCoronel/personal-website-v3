@@ -55,8 +55,7 @@ tags:
     - wrath
 ---
 
-[![Binding of
-Isaac](//fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg)](//fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg)
+![Binding of Isaac](//fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg)
 
 > **WARNING** SPOILERS AHEAD.
 
@@ -90,13 +89,11 @@ _Isaac_ at this point is already in a pretty desolate state physically and menta
 
 ## His own mother tries to murder him.
 
-![Mother
-Murdering](//fvcproductions.files.wordpress.com/2016/02/cfafc-tboi-24.png)
+![Mother Murdering](//fvcproductions.files.wordpress.com/2016/02/cfafc-tboi-24.png)
 
 And of course, at this point, it's up to you to decide whether she succeeds or fails. When he is stuck in his room, all naked and pitiful, _Isaac_ looks through the knob door and sees his own mother with a butcher knife in her hand. In a state of panic, he attempts to flee by going through the trap door in his room (how bloody convenient) that leads to the basement (which is _btw_, **HUMONGOUS**).
 
-![Final
-Boss](//i.ytimg.com/vi/CQf_IGtA8_k/maxresdefault.jpg)
+![Final Boss](//i.ytimg.com/vi/CQf_IGtA8_k/maxresdefault.jpg)
 
 _The final boss in the basement is Isaac's mother, btw._
 
@@ -116,15 +113,13 @@ I tend to wear my heart on my sleeve (unfortunately), so I couldn't help but fee
 
 I still distinctly remember one instance where I actually shed some tears for the character when he picked up a special item and it turned out it was **Max's Head**, which was a severed dog's head. I assumed it was _Isaac_'s own dog and the game lets you know that he is instantly _traumatized and gains a very wide-eyed stare_.
 
-![Maxs
-Head](//vignette1.wikia.nocookie.net/bindingofisaac/images/a/ab/Maxs_Head_Icon.png/revision/latest?cb=20120707135906)
+![Maxs Head](//vignette1.wikia.nocookie.net/bindingofisaac/images/a/ab/Maxs_Head_Icon.png/revision/latest?cb=20120707135906)
 
 At this point, I become deeply saddened because I put myself directly in the shoes of _Isaac_. If I had the severed head of my dog, I would have been entirely heartbroken and yes, severely traumatized.
 
 It's no wonder that the item multiplies the damage stats of _Isaac_ by so much.
 
-![In-Game
-Appearance](//vignette3.wikia.nocookie.net/bindingofisaac/images/4/40/Maxs_Head_Isaac.png/revision/latest?cb=20130128122345)
+![In-Game Appearance](//vignette3.wikia.nocookie.net/bindingofisaac/images/4/40/Maxs_Head_Isaac.png/revision/latest?cb=20130128122345)
 
 > What doesn't kill you makes you stronger, I suppose.
 
@@ -140,39 +135,27 @@ Another feature of the game I found entertaining (instead of just convenient) wa
 
 A more interesting aspect of the monsters at the mini-boss level is how they represent the seven deadly sins:
 
-1. Envy
-2. Pride
-3. Gluttony
-4. Sloth
-5. Greed
-6. Wrath
-7. Lust
+1.  Envy 2. Pride 3. Gluttony 4. Sloth 5. Greed 6. Wrath 7. Lust
 
-[![7 Deadly
-Sins](//fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-37-42.png)](//fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-37-42.png)
+[![7 Deadly Sins](//fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-37-42.png)](//fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-37-42.png)
 
 I feel like these monsters, in particular, were designed so carefully so as to accurately represent the given sin. It's quite amazing.
 
 Another aspect of the monsters especially that I found fascinating were the four Horsemen of the Apocalypse. They only are able to pop up once you've completed the game all the way through once (i.e. _Isaac_ successfully killed Mom).
 
-[![Headless
-Horseman](//fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-44-03.png)](//fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-44-03.png)
+[![Headless Horseman](//fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-44-03.png)](//fvcproductions.files.wordpress.com/2016/02/screenshot-2016-02-27-01-44-03.png)
 
 Once I realized that every horseman can drop a cube of meat, I looked forward to battling them every time I entered a boss room at the end of each floor.
 
 \*You see, a cube of meat means being able to create your own friend, **Meat Boy\***.
 
-![First
-Stage](//vignette2.wikia.nocookie.net/bindingofisaac/images/4/41/Meat1boy.png/revision/latest?cb=20130125213417) First Stage
+![First Stage](//vignette2.wikia.nocookie.net/bindingofisaac/images/4/41/Meat1boy.png/revision/latest?cb=20130125213417) First Stage
 
-![Second
-Stage](//vignette1.wikia.nocookie.net/bindingofisaac/images/c/cb/Meat2boy.png/revision/latest?cb=20130125213448) Second Stage
+![Second Stage](//vignette1.wikia.nocookie.net/bindingofisaac/images/c/cb/Meat2boy.png/revision/latest?cb=20130125213448) Second Stage
 
-![Third
-Stage](//vignette2.wikia.nocookie.net/bindingofisaac/images/a/aa/M3atboy.png/revision/latest?cb=20130125213846) Third Stage
+![Third Stage](//vignette2.wikia.nocookie.net/bindingofisaac/images/a/aa/M3atboy.png/revision/latest?cb=20130125213846) Third Stage
 
-![Fourth
-Stage](//vignette3.wikia.nocookie.net/bindingofisaac/images/f/fd/Meat4boy.png/revision/latest?cb=20130125213925&format=webp) Fourth Stage
+![Fourth Stage](//vignette3.wikia.nocookie.net/bindingofisaac/images/f/fd/Meat4boy.png/revision/latest?cb=20130125213925&format=webp) Fourth Stage
 
 There are four cubes required for a fully formed **Meat Boy** which are only dropped by the headless horsemen (naturally, right?). And you really do want to have **Meat Boy** as your friend because **Meat Boy** is strong and helpful. He'll damage your enemies on touch and act as your personal bodyguard of sorts. It's _awesome_!
 
@@ -192,8 +175,7 @@ Or in other words, if you've ever watched _Minions_, it's basically like when on
 
 ### BUDDIES!!!
 
-![Buddies -
-Minions](//www.minionmovie.com.au/images/shareimage.jpg)
+![Buddies - Minions](//www.minionmovie.com.au/images/shareimage.jpg)
 
 ## In-Game Screenshots
 

@@ -9,6 +9,7 @@ aliases:
   - /services/
   - /services/mentoring/
   - /mentoring/
+  - /home/services/mentoring/
 ---
 
 ## Generally speaking, I enjoy mentoring on how to prepare for coding bootcamps but I have teachable experience in web development, web design, and all sorts of nifty dev, design, or productivity tools.

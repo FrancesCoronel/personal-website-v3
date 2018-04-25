@@ -9,8 +9,6 @@ Sublime
 Sexy
 Let’s start by installing Package Control!
 
-
-
 To note..
 
 ST3 > WebStorm > Vim
@@ -22,11 +20,8 @@ The de facto Sublime Text package manager with over 2,500 packages available for
 Installing Package Control
 Go here: https://packagecontrol.io/installation
 
-
-
 Installing Packages
 ⌘ ⇧ P (Command - Shift - P)
-
 
 Installing a Certain Package
 Enter To Install The Highlighted Package & You’re Done!
@@ -36,7 +31,6 @@ To make your dev environment purty.
 
 Installing Themes
 This article basically covers everything.
-
 
 Installing Themes
 So…
@@ -50,8 +44,8 @@ Sublime Text > Preferences > Settings - User
 For example, if you installed the Theme ITG Flat, then this is how you would modify your User Settings file to have the dark version of the theme and color scheme.
 These instructions will be in the Theme’s documentation on their GitHub repo.
 {
-	"color-scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
-	"theme": "itg.flat.dark.sublime-theme"
+"color-scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
+"theme": "itg.flat.dark.sublime-theme"
 }
 
 Magical Packages
@@ -75,7 +69,6 @@ For JavaScript (JSHint), go here.
 
 For more JS stuff, go here.
 
-
 HTML-CSS-JS Prettify
 
 Prettify your code.
@@ -85,7 +78,6 @@ Powerful editing features for all you Markdown lovers.
 AutoFileName
 
 Autocomplete file naming for lazy people.
-
 
 Sublime
 CodeIntel
@@ -97,7 +89,6 @@ Makes your sidebar more powerful.
 Codeiviate
 
 Insight, motivation, and benchmarking for programmers.
-
 
 Want more?
 
@@ -128,7 +119,7 @@ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/loca
 Source
 Doesn’t work with ST2.
 
-“Bada**ify” your terminal & shell with oh-my-zsh
+“Bada\*\*ify” your terminal & shell with oh-my-zsh
 
 Wes Bos also has a Command Line Power User YouTube Playlist
 The Bos is also the author of the Sublime Text Power User book!
@@ -170,7 +161,6 @@ A more powerful version of Spotlight.
 Image2icon
 
 Convert any image to various number of formats.
-
 
 More Free Ones
 QuickCast
@@ -258,7 +248,7 @@ A Mac App for Cool People.
 Helps you build websites faster & better. $32
 Coda
 
-A premier text editor targeted for  front-end web developers. $99
+A premier text editor targeted for front-end web developers. $99
 
 Even More Paid Ones
 WebStorm
@@ -357,7 +347,7 @@ Work on side projects
 
 “The work you do while you procrastinate is probably the work you should be doing for the rest of your life.”
 
-- J. Hische
+* J. Hische
 
 Other
 Resources
@@ -387,4 +377,3 @@ Content by FVCproductions
 Presentation template by SlidesCarnival
 Photographs by Unsplash
 Contributions by Fullstackers
-

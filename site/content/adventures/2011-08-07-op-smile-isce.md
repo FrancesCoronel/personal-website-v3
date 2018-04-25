@@ -3,6 +3,8 @@ title: ISCE 2011
 description: My first conference through OP Smile!
 date: 2011-08-07
 banner: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
+aliases:
+  - /home/adventures/conferences/international-student-cultural-exchange/
 categories:
   - conference
 tags:

@@ -4,6 +4,10 @@ description: The places I've been.
 banner: https://images.pexels.com/photos/59519/pexels-photo-59519.jpeg?w=1260&h=750&dpr=2&auto=compress&cs=tinysrgb
 noComments: true
 noTimeEstimate: true
+aliases:
+  - /home/about/travels/
+  - /about/travels/
+  - /travels/
 ---
 
 <blockquote class="embedly-card"><h4><a href="https://www.google.com/maps/d/u/0/embed?mid=11xSbsfkr_6UXjic4znLDZSObW_M">Travels</a></h4><p>Where I've been. https://fvcproductions.com/about/travels © FVCproductions</p></blockquote>

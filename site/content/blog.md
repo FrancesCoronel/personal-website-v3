@@ -7,4 +7,7 @@ blog: true
 filtering: true
 noComments: true
 noTimeEstimate: true
+aliases:
+  - /blog/
+  - /blog/archive/
 ---

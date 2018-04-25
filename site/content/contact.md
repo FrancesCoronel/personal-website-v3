@@ -10,6 +10,8 @@ aliases:
   - /getting-in-touch/
   - /get-in-touch/
   - /about/contact/
+  - /contact/donate/
+  - /donate/
 ---
 
 ## Ask Me Anything 🤔️

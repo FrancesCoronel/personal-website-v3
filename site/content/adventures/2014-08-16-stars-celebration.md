@@ -3,8 +3,10 @@ title: STARS Celebration
 description: Conference by the STARS Computing Corps
 date: 2014-08-16
 banner: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg
+aliases:
+  - /home/adventures/conferences/stars-celebration/
 categories:
-    - conference
+  - conference
 ---
 
 ## Name
