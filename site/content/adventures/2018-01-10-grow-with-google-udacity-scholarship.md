@@ -1,7 +1,7 @@
 ---
 title: Grow with Google Udacity Scholarship
-date: 2018-01-10
-description: Awarded access to the Intermediate Level - Mobile Web Specialist Track.
+date: 2018-04-17
+description: Awarded scholarship to complete Udacity's Mobile Web Nanodegree and potentially earn certification from Google.
 banner: https://i.imgur.com/TDXjQcA.png
 categories:
   - award
@@ -10,6 +10,12 @@ tags:
   - GoogleUdacityScholars
   - GrowWithGoogle
 ---
+
+## April 17th, 2018
+
+![Nanodegree Scholarship Email](https://i.imgur.com/Fj1FvmS.png)
+
+## January 10th, 2018
 
 I was awarded the Grow with Google scholarship for the Intermediate Mobile Web Specialist Track.
 
@@ -23,3 +29,11 @@ Excited since I've been really into PWAs since first hearing about them a year a
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="https://www.udacity.com/grow-with-google">Earn a Developer Scholarship from Google</a></h4><p>Udacity and Google are offering a limited number of full scholarships to help you become an Android or Web developer. Apply now.</p></blockquote>
+
+> Tracks
+
+![Grow with Google Udacity Tracks](https://i.imgur.com/MUd42Im.png)
+
+> Discussion Forum
+
+![ Discussion Forum](https://i.imgur.com/yr5F9Cy.png)

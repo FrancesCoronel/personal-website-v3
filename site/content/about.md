@@ -41,22 +41,23 @@ reason why, I just think they're yummy. 🍫🍓
 
 #### Fun Fact #2
 
-My boyfriend Nolan got accepted to the [Holberton School](//holbertonschool.com) in San Francisco and will be starting with the September 2018 cohort - I'm very happy for him! ❤️
+My boyfriend Nolan will be attending a coding bootcamp in San Francisco starting in September - I'm very happy for him! ❤️
 
-![Nolty](https://i.imgur.com/ukAFqim.jpg)
+[![Nolty](https://i.imgur.com/ukAFqim.jpg)](https://noltron000.github.io/my-website)
 
 #### Fun Fact #3
 
 I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the Egyptian queen) a crap ton.
 
-![Nefy](https://i.imgur.com/cwXno9D.jpg)
+[![Nefy](https://i.imgur.com/cwXno9D.jpg)](https://i.imgur.com/cwXno9D.jpg)
 
 ### What's Happening Nowadays 📅
 
 > This a [now section](https://nownownow.com/about) and if you have your own site, you should make one, too!
 >
-> Last updated April 2018
+> Last updated April 24th, 2018
 
-* [Grow with Google Udacity course](//www.udacity.com/grow-with-google) ended April 11th so hopefully I advance to the next stage.
-* My talk/workshop proposals have been accepted at [quite a few events](/speaking)!
-* Recorded my [first podcast episode](/2018/04/10/tales-from-the-script-podcast/) on Tales From The Script with Chris DeMars.
+* I received a scholarship to finish the Mobile Web Nanodegree through the [Grow with Google Udacity scholarship program](//www.udacity.com/grow-with-google)
+* My talk/workshop proposals have been accepted at [quite a few events](/speaking)
+* Recorded my [first podcast episode](/2018/04/10/tales-from-the-script-podcast/) on Tales From The Script with Chris DeMars
+* Volunteered as a model for TechHire Oakland and am featured on [their new website](https://www.techhireoakland.org/)
