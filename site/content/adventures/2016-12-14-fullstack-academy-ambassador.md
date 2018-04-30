@@ -2,6 +2,8 @@
 title: Fullstack Academy - Ambassador
 date: 2017-12-14
 description: Marketing and mentoring done for Fullstack Academy as an ambassador for their programs.
+aliases:
+  - /home/adventures/experience/fullstack-academy-ambassador/
 categories:
   - experience
 tags:
