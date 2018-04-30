@@ -2,6 +2,7 @@
 title: Contact 📨️
 description: Getting in touch.
 banner: https://i.imgur.com/0n5zqiA.jpg
+hideBanner: true
 contact: true
 noComments: true
 noTimeEstimate: true

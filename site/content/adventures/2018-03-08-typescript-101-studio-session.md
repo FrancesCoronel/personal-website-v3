@@ -1,5 +1,5 @@
 ---
-title: Studio Session - TypeScript 101
+title: Accenture - Liquid Studio Session
 date: 2018-03-08
 description: The Liquid Studio strives to make time to share knowledge by hosting Studio Sessions.
 banner: https://i.imgur.com/L7pFNaY.jpg

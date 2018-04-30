@@ -1,8 +1,8 @@
 ---
 title: Speaking 💬️
 description: Talks I've given at events.
-banner: https://i.imgur.com/3nARfu6.jpg
-caption: "HR DevFest - First Technical Talk - November 2015"
+banner: https://i.imgur.com/vv51StT.jpg?1
+caption: "TypeScript 101 at CONNECT 2018 by Women Who Code"
 noComments: true
 speaking: true
 alphabetical: true
@@ -19,25 +19,27 @@ All presentation slides that I've used can be found on <a href="//slideshare.net
 
 If you'd like me to speak at an event, don't hesitate to [reach out](/contact)!
 
-### ⌚️ Upcoming Talks
+---
 
-#### [Women Who Code CONNECT 2018](//connect2018.womenwhocode.com/)
+## ⌚️ Upcoming Events
 
-* TypeScript 101 (Lightning Talk) - April 28th
+### [NationJS](//nationjs.com/main/index) - May 18th
 
-#### [NationJS](//nationjs.com/main/index)
+* Progressive Web Apps 101 (Talk)
 
-* Progressive Web Apps 101 (Talk) - May 18th - 25 minutes
+### [We RISE Tech Conference](//twitter.com/WeRiseConf/status/971815420142419968) - June 21st
 
-#### [Nebraska.Code()](//nebraskacode.amegala.com/Speakers/400)
+* [TypeScript 101 (Talk)](//twitter.com/WeRiseConf/status/961650712361996288)
 
-* Progressive Web Apps 101 (Full-Day Workshop) - June 6th - 8:30 AM to 4:30 PM
-* TypeScript 101 (Breakout Session) - June 7th - 3:30 PM to 4:30 PM
-
-#### [We RISE Tech Conference](//twitter.com/WeRiseConf/status/971815420142419968)
-
-* [TypeScript 101 (Talk)](//twitter.com/WeRiseConf/status/961650712361996288) - June 21st to 22nd
-
-#### [Beer City Code](//beercitycode.com/)
+### [Beer City Code](//beercitycode.com/) - June 23rd
 
 * TypeScript 101 (Talk) - June 23rd
+
+### [Scenic City Summit](//www.sceniccitysummit.com/) - August 17th
+
+* TypeScript 101 (Talk)
+* Progressive Web Apps 101 (Talk)
+
+---
+
+## 🗨️ Presentations

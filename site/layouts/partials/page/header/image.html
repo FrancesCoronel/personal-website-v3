@@ -1,7 +1,7 @@
 <div class="row">
   <div class="12u$">
     <!-- Banner -->
-    {{ if .Params.banner }}
+    {{ if and (.Params.banner) (not .Params.hideBanner) }}
     <!-- With Banner Link -->
     {{ if .Params.banner_link }}
     <a href="{{ .Params.banner_link }}" target="_blank" rel="noopener">

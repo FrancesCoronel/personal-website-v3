@@ -2,6 +2,7 @@
 title: Freelancing 💎️
 description: What you can hire me for.
 banner: https://i.imgur.com/8o2Nhyo.jpg
+hideBanner: true
 noTimeEstimate: true
 freelancing: true
 aliases:

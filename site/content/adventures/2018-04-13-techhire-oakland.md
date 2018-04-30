@@ -1,7 +1,8 @@
 ---
 title: TechHire Oakland Volunteer Model
-description: I volunteered to be a part of a photo shoot for TechHire's new website and am now featured there!
 date: 2018-04-13
+description: I volunteered to be a part of a photo shoot for TechHire's new website and am now featured there!
+banner: https://i.imgur.com/WTcbmKX.png
 categories:
   - award
 tags:

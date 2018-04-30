@@ -2,6 +2,7 @@
 title: Mentoring 📚
 description: I enjoy mentoring folks 1-on-1 on tech-related topics.
 banner: https://i.imgur.com/BqiFTqF.jpg
+hideBanner: true
 noTimeEstimate: true
 mentoring: true
 filtering: true
