@@ -3,6 +3,14 @@ title: "BootcampMe Program"
 draft: true
 ---
 
+https://github.com/fvcproductions/bootcamp-me
+
+https://www.slideshare.net/FVCproductions/bootcampme-session-1
+
+https://www.slideshare.net/FVCproductions/bootcampme-welcome
+
+https://www.slideshare.net/FVCproductions/bootcampme-session-1
+
 include links to Bootcamp.me slides
 
 fullstack academy ambassador gig Sublime Text 3 Packages
@@ -281,5 +289,3 @@ THANKS!
 Any questions?
 
 Reach out to me via email!
-
-https://www.slideshare.net/FVCproductions/bootcampme-session-1

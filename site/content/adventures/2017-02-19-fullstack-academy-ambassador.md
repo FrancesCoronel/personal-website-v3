@@ -9,7 +9,9 @@ categories:
   - research
 ---
 
-TODO: Fix formatting
+## Mentoring
+
+Mentored [Kelaiya Parikh](//www.linkedin.com/in/kelaiya-parikh) for ~6 hours.
 
 ## The State of Coding Bootcamps 2017
 
@@ -20,53 +22,31 @@ TODO: Fix formatting
 
 ## My Summer of Code Experience
 
-[speaker deck]
+<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/my-fullstack-academy-experience-80794813">My Fullstack Academy Experience</a></h4><p>Created December 30th, 2016 To present to prospective Fullstack Academy Summer of Code students Fullstack Academy Ambassador Program FVCproductions https://fv...</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-## GitHub Repo - Helpful Tips
+## GitHub Repo
 
-[github repo]
+Overview of programs and how to prepare
 
-Fullstack Academy
+<blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/fullstack-me">fvcproductions/fullstack-me</a></h4><p>fullstack-me - Resources for getting into Fullstack Academy. 📚</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-I'm supposed to mentor Kelaiya for 6 hours.
+## Notion Page
 
-kelaiyarao1@gmail.com
+<blockquote class="embedly-card"><h4><a href="https://www.notion.so/fvcproductions/Fullstack-Academy-d4dee12480f84b51900a086b7e272b87">Notion - The all-in-one workspace for your notes, tasks, wikis, and databases.</a></h4><p>A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-https://github.com/kelaiya
+## hire-me
 
-https://www.linkedin.com/in/kelaiya-parikh
+This was a helpful resource I created that has a lot of job interview resources. Shanna shared this resource with the Career Success team to give to Fullstack job seekers.
 
-https://coderbyte.com/profile/kelaiyarao1
+<blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/hire-me">fvcproductions/hire-me</a></h4><p>hire-me - A path to getting an awesome tech gig 💼</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-Questions to Ask
+## Alumni Panel
 
-* When is your last day of Foundations?
-* How much time can you dedicate this week to this program?
-* What is being covered?
-* When are you going to start your on-campus portion?
-  * June 5th
-* How is housing?
-  * Verify GitHub
+> March 15th, 2017
 
-Bootcamp.me
-
-* Welcome: https://docs.google.com/presentation/d/1vkAfmABPzVCNLZ_DC4I7n7ZihoGkMLwoVvo1buevaoA/edit?usp=drive_web&usp=slides_home&ths=true
-* Session 1: https://docs.google.com/presentation/d/1Zf8DJvcf-asyAb-GDB2UDfxMOGopAsEFOOOBbX4MdUM/edit#slide=id.g1234c9dcca_0_0
-
-Fullstack Tips & Tricks - https://docs.google.com/presentation/d/1ZUYwxJzXCNsvC7x_tiwVRCIGVljh5EFzanV1U9WJl18/edit?usp=sharing
-
-Fullstack Me - https://github.com/fvcproductions/fullstack-me
-
-* fullstack-me GitHub repo
-  * https://github.com/fvcproductions/fullstack-me
-  * Overview of programs and how to prepare
-* Notion Page
-  * https://www.notion.so/fvcproductions/Fullstack-Academy-d4dee12480f84b51900a086b7e272b87
-  * More private information - only available to those who have link
-* hire-me GitHub repo
-  * https://github.com/fvcproductions/hire-me
-  * This was a helpful resource I created that has a lot of job interview resources. Shanna shared this resource with the Career Success team to give to Fullstack job seekers.
-* alumni panel on March 15th
-  * https://www.youtube.com/watch?v=nzOfNIL9GWE
-* slide deck on my Fullstack Academy Summer of Code experience
-  * https://speakerdeck.com/fvcproductions/my-fullstack-academy-summer-of-code-experience
+<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=nzOfNIL9GWE">FSA - Alumni Panel</a></h4><p>Uploaded by Fullstack Academy on 2017-03-16.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

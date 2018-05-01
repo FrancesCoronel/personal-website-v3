@@ -59,7 +59,7 @@ Matthew Fontaine Maury High School also known as Maury High School, one of five 
 * US History
   * battle deck
     * speaker deck
-* AP Biology T-Shirt Design (TODO: Turn into separate post)
+* AP Biology T-Shirt Design
   * I used Apple Keynote to design this design for AP Biology hoodies. It went pretty well and a lot of kids ended up getting the hoodies!
 
 ![T-Shirt Design 2](https://i.imgur.com/0mctYEj.jpg)
