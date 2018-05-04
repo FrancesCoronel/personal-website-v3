@@ -14,7 +14,7 @@ aliases:
 
 # An overview of my awards & press recognitions.
 
-## 2016
+<!-- ## 2016
 
 * [CRA-Women Grad Cohort Workshop | Scholarship Recipient](http://cra.org/cra-w/grad-cohort-workshop/)
 * [Cornell Tech | Best Final Sprint Presentation in Grizzly Room](https://fvcproductions.com/portfolio/product-studio-final-sprint/)
@@ -50,4 +50,4 @@ aliases:
 * [DevLeague | Featured Blog Post](https://www.facebook.com/permalink.php?story_fbid=702971763154795&id=419352214850086)
 * [AAAI | Student Scholar Program Awardee](http://www.aaai.org/Conferences/AAAI/2016/aaai16scholarship.php)
 
-> For a full list, please refer to [this Airtable](https://airtable.com/shruictj477Lh4im6/tbluK6KxCo5rHhAY9).
+> For a full list, please refer to [this Airtable](https://airtable.com/shruictj477Lh4im6/tbluK6KxCo5rHhAY9). -->
