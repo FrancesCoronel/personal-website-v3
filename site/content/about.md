@@ -48,8 +48,8 @@ I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the E
 >
 > Last updated May 3rd
 
-* Taking a break before starting my new job at Slack! 🎉
-* Volunteered as a model for TechHire Oakland and am featured on [their new website](https://www.techhireoakland.org/) 📸
+* Taking a break before starting my new job at [Slack](//slack.com)! 🎉
+* Volunteered as a model for TechHire Oakland and am featured on [their new website](//www.techhireoakland.org/) 📸
 * I received a scholarship to finish the Mobile Web Nanodegree through the [Grow with Google Udacity scholarship program](//www.udacity.com/grow-with-google) 🎓
 * My talk/workshop proposals have been accepted at [almost every event I applied to speak at](/speaking) 🗨️
 * Recorded my [first podcast episode](/2018/04/10/tales-from-the-script-podcast/) on Tales From The Script with Chris DeMars 🎙️
