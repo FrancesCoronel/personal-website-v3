@@ -5,8 +5,6 @@ description: My presentation on Web Design for HR DevFest in Norfolk, VA on Nove
 banner: https://fvcproductions.files.wordpress.com/2015/11/techtalk-001.jpeg?w=1024&h=435&crop=1
 categories:
   - blog
-  - coding
-  - creativity
 tags:
   - featured
   - hampton roads

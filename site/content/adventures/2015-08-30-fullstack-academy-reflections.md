@@ -5,7 +5,6 @@ description: At the end of the day, I'm really grateful I was able to enjoy ever
 banner: https://fvcproductions.files.wordpress.com/2015/08/banners-0011.jpg
 categories:
   - blog
-  - certainties
 tags:
   - apple
   - capstone project

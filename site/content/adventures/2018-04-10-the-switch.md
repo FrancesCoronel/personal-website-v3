@@ -5,7 +5,6 @@ description: Switching from an iPhone to Pixel or iOS to Android.
 banner: https://i.imgur.com/kKAICgz.png
 categories:
   - blog
-  - certainties
 tags:
   - ios
   - apple

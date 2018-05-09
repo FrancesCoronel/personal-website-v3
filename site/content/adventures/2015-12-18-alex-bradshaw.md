@@ -5,7 +5,6 @@ banner: https://fvcproductions.files.wordpress.com/2015/12/bradshaw-alex-e145046
 banner_link: https://www.linkedin.com/in/alex-bradshaw-a3293775
 categories:
   - review
-  - 2015
 ---
 
 I signed my Sedgefield Elementary School classes up for "[The Hour of Code](//hourofcode.com/us)" this past December 2015. Ms. Coronel was one of the volunteers I could choose to invite to do a presentation to my 3rd-grade students. She eagerly accepted my invite and planned with me what Newport News Public Schools wants our students to learn, our Citizen, College, and Career ready ideals and connected them to [her unique presentation](//fvcproductions.com/2015/12/07/hour-of-code-2015/) presented from the aspect of a female Latina. She piqued the interest for all of our students but especially showed our girls that technology and math are not just for the boys.

@@ -5,7 +5,6 @@ banner: https://fvcproductions.files.wordpress.com/2016/08/lavie.jpg
 banner_link: https://linkedin.com/in/laviemaru
 categories:
   - review
-  - 2016
 ---
 
 Frances has been a great help in the process of my web development journey. She showed me what a good web development environment is.

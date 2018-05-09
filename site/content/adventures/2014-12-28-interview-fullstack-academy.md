@@ -1,24 +1,24 @@
 ---
-title: "Interview with Fullstack Academy of Code"
+title: Interview with Fullstack Academy of Code
 date: 2014-12-28
-description: "This is where I'll go through how my admissions process was with Fullstack Academy of Code based in NYC."
+description: This is where I'll go through how my admissions process was with Fullstack Academy of Code based in NYC.
 banner: https://fvcproductions.files.wordpress.com/2014/12/img_9625-2.jpg
-tags:
-    - admissions
-    - application
-    - Coding
-    - coding bootcamps
-    - coding challenge
-    - decision
-    - dev bootcamps
-    - full stack academy of code
-    - fullstack
-    - fullstack academy
-    - fvcproductions
-    - huntly
-    - interview
 categories:
-    - blog
+  - blog
+tags:
+  - admissions
+  - application
+  - coding
+  - coding bootcamps
+  - coding challenge
+  - decision
+  - dev bootcamps
+  - full stack academy of code
+  - fullstack
+  - fullstack academy
+  - fvcproductions
+  - huntly
+  - interview
 ---
 
 # [![](//static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png)](//static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png)
@@ -49,38 +49,38 @@ When I did end up asking Huntly some questions, here what's he had to say:
 >
 > personal comments are highlighted `like this`
 
-1. **Yield rate - out of the applicants you accept, what percentage end up attending?**\
+1.  **Yield rate - out of the applicants you accept, what percentage end up attending?**\
 
-   > 80%\
-   > `Nice!`
+    > 80%\
+    > `Nice!`
 
-2. **How many drop out after simply experiencing the pre-work?**\
+2.  **How many drop out after simply experiencing the pre-work?**\
 
-   > Since we do base our main coursework off the pre-work so we try to select people that we feel can handle the pre-work, which is typically 15–20 hours a week. I don't think anyone has dropped out yet in that process.
+    > Since we do base our main coursework off the pre-work so we try to select people that we feel can handle the pre-work, which is typically 15–20 hours a week. I don't think anyone has dropped out yet in that process.
 
-3. **How many college students have you had in the past?**\
+3.  **How many college students have you had in the past?**\
 
-   > We've had a couple in the last summer cohort. For the upcoming summer cohort, we're planning on having a separate group compromised of just college students.\*\*
+    > We've had a couple in the last summer cohort. For the upcoming summer cohort, we're planning on having a separate group compromised of just college students.\*\*
 
-4. **Why the ‘no asshole' rule? Details?**\
+4.  **Why the ‘no asshole' rule? Details?**\
 
-   > It's actually a reference to this book called ["The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't"](//www.amazon.com/The-Asshole-Rule-Civilized-Workplace/dp/0446698202 "The Asshole Rule") and we believe the mentality described in the book forms an ideal culture here at Fullstack. `#1 best seller on Amazon in the Business Etiquette category!`
+    > It's actually a reference to this book called ["The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't"](//www.amazon.com/The-Asshole-Rule-Civilized-Workplace/dp/0446698202 "The Asshole Rule") and we believe the mentality described in the book forms an ideal culture here at Fullstack. `#1 best seller on Amazon in the Business Etiquette category!`
 
-5. **What kind of process do your instructors go through?**\
+5.  **What kind of process do your instructors go through?**\
 
-   > We screen for good developers who have open source contributions. We want to see clear examples that they know how to code and that they have significant teaching experience. We'll ask them to teach them something on the spot by writing it out (something random). They'll interview with the founders, Nimit and David and also give trial lessons to a bootcamp cohort. We'll then get feedback from the students directly to see if they liked the trial lesson. We won't even specifically tell the students if it's a person interviewing to be an instructor, we just let them know they're a ‘guest lecturer'.
+    > We screen for good developers who have open source contributions. We want to see clear examples that they know how to code and that they have significant teaching experience. We'll ask them to teach them something on the spot by writing it out (something random). They'll interview with the founders, Nimit and David and also give trial lessons to a bootcamp cohort. We'll then get feedback from the students directly to see if they liked the trial lesson. We won't even specifically tell the students if it's a person interviewing to be an instructor, we just let them know they're a ‘guest lecturer'.
 
-6. **How much of the day will a student at Fullstack be spending coding?**\
+6.  **How much of the day will a student at Fullstack be spending coding?**\
 
-   > I'd say in the first half of the program, students will usually spend about 2/3 of their time coding and 1/3 on lectures and review. In the later half of the program though, they'll be in their project phase and that's where they're probably going to be spending 80% of their time coding.
+    > I'd say in the first half of the program, students will usually spend about 2/3 of their time coding and 1/3 on lectures and review. In the later half of the program though, they'll be in their project phase and that's where they're probably going to be spending 80% of their time coding.
 
-7. **Talk to me more about the CTO program that you build in with every cohort.**\
+7.  **Talk to me more about the CTO program that you build in with every cohort.**\
 
-   > The CTO program is there to make sure that students know how to approach coding from any aspect that is given to them, and that coding is not just about programming per se, but about helping the community and contributing in many different frameworks/aspects. So with the CTO program, we are emphasizing to students that they're just not trying to become great programmers, but great contributors to the community they end up joining and understanding the code is just one part of the larger process when it comes to startups and leading in the tech scene in general.
+    > The CTO program is there to make sure that students know how to approach coding from any aspect that is given to them, and that coding is not just about programming per se, but about helping the community and contributing in many different frameworks/aspects. So with the CTO program, we are emphasizing to students that they're just not trying to become great programmers, but great contributors to the community they end up joining and understanding the code is just one part of the larger process when it comes to startups and leading in the tech scene in general.
 
-8. **What do you guys recommend students do outside of the course?**\
+8.  **What do you guys recommend students do outside of the course?**\
 
-   > We have our own [Meetup group based at Fullstack](//www.meetup.com/fullstack-javascript/ "Fullstack Meetup") and we encourage our students to attend local Meetups that relate to JavaScript or programming in general. Students will even lecture or present projects at these Meetups midway through the program. We also encourage participating in Hackathons and have gotten a [lot of success with our students participating in local ones](//blog.fullstackacademy.com/post/78441810309/hacks-through-history "Hackathons @Fullstack") as well.
+    > We have our own [Meetup group based at Fullstack](//www.meetup.com/fullstack-javascript/ "Fullstack Meetup") and we encourage our students to attend local Meetups that relate to JavaScript or programming in general. Students will even lecture or present projects at these Meetups midway through the program. We also encourage participating in Hackathons and have gotten a [lot of success with our students participating in local ones](//blog.fullstackacademy.com/post/78441810309/hacks-through-history "Hackathons @Fullstack") as well.
 
 ## Part 3: The Decision 💡
 

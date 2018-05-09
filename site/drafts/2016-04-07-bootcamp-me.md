@@ -1,6 +1,14 @@
 ---
-title: "BootcampMe Program"
-draft: true
+title: BootcampMe Program
+date: 2016-04-07
+description:
+categories:
+  - research
+  - presentation
+  - tutorial
+  - portfolio
+tags:
+  -
 ---
 
 https://github.com/fvcproductions/bootcamp-me

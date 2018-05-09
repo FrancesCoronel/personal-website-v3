@@ -19,7 +19,7 @@ tags:
   - bethel high school
   - code
   - code.org
-  - Coding
+  - coding
   - computer science
   - computer science education
   - cs

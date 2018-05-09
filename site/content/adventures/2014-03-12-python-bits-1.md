@@ -1,25 +1,24 @@
 ---
-title: "Python Bits - Getting Started"
+title: Python Bits - Getting Started
 date: 2014-03-12
-description: "The first bit in a mini-series for beginners of Python."
+description: The first bit in a mini-series for beginners of Python.
 banner: https://fvcproductions.files.wordpress.com/2014/06/python.jpg?w=1024&h=435&crop=1
 categories:
-    - blog
-    - coding
+  - blog
 tags:
-    - area of a rectangle python
-    - digital hieroglyphics
-    - initializing
-    - installation
-    - integers
-    - numerical expressions
-    - printing
-    - python
-    - python 3
-    - python area of a
-    - circle
-    - python bits
-    - strings python
+  - area of a rectangle python
+  - digital hieroglyphics
+  - initializing
+  - installation
+  - integers
+  - numerical expressions
+  - printing
+  - python
+  - python 3
+  - python area of a
+  - circle
+  - python bits
+  - strings python
 ---
 
 ### Hello, hello, hello!
@@ -76,17 +75,17 @@ Yarharhar. Okay, moving on.
 
 If you want to run Python 3.0 on CodeRunner, you will have to
 
-1. First download the latest version of Python from Python's website (which they **finally** updated because Lordy it was looking mighty messy when I first laid my eyes on it back in the day)
-2. Unless of course you want to use Python 2.0, since Python 2.0 is only version automatically supplied with CodeRunner
-3. Careful to pick the right version depending on whether your Mac is 64 or 32-bit
-4. After you open up the install dmg file from the website, install it using the .mpkg file
-5. Then go ahead and use your Terminal, the app you can find in _Applications/Utilities_ on your Mac and type in "python3"
-6. I have it installed already so this image shows up:\
-    ![Already
+1.  First download the latest version of Python from Python's website (which they **finally** updated because Lordy it was looking mighty messy when I first laid my eyes on it back in the day)
+2.  Unless of course you want to use Python 2.0, since Python 2.0 is only version automatically supplied with CodeRunner
+3.  Careful to pick the right version depending on whether your Mac is 64 or 32-bit
+4.  After you open up the install dmg file from the website, install it using the .mpkg file
+5.  Then go ahead and use your Terminal, the app you can find in _Applications/Utilities_ on your Mac and type in "python3"
+6.  I have it installed already so this image shows up:\
+     ![Already
 Installed](//fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-04-at-5-19-30-pm.png)
-7. If that doesn't show up, you probably screwed up, or I suck at giving instructions…check Google.
-8. If it does work, we can work with CodeRunner now! :D
-9. So now open up CodeRunner and go to _CodeRunner -&gt; Preferences -&gt; Languages_
+7.  If that doesn't show up, you probably screwed up, or I suck at giving instructions…check Google.
+8.  If it does work, we can work with CodeRunner now! :D
+9.  So now open up CodeRunner and go to _CodeRunner -&gt; Preferences -&gt; Languages_
 10. Then go ahead and create a new language with the + button
 11. It should look something like this:\
      ![Adding Python

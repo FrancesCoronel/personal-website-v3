@@ -5,7 +5,6 @@ description: A little poetry never hurt anyone.
 banner: https://fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg?w=800&h=340&crop=1
 categories:
   - blog
-  - creativity
   - award
 tags:
   - casual

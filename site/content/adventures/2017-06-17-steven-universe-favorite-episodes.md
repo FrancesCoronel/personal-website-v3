@@ -6,7 +6,6 @@ banner: https://i.imgur.com/dNsORE7.png
 caption: Image taken from Steven Universe Wikia.
 categories:
   - blog
-  - creativity
 tags:
   - steven
   - connie

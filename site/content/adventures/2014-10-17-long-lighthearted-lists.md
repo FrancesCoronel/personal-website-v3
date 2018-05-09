@@ -1,24 +1,23 @@
 ---
-title: "Long Lighthearted Lists"
+title: Long Lighthearted Lists
 date: 2014-10-17
-description: "Long lighthearted lists covering languages, old science fair project, coding
-bootcamps, cool places, TV shows, and conferences."
+description: Long lighthearted lists covering languages, old science fair project, coding bootcamps, cool places, TV shows, and conferences.
 banner: https://fvcproductions.files.wordpress.com/2014/10/long-lists.jpg
-tags:
-    - bootcamp
-    - Coding
-    - conferences
-    - Languages
-    - lighthearted
-    - long lists
-    - materialism
-    - old science
-    - projects
-    - science fair
-    - TV shows
-    - wish list
 categories:
-    - blog
+  - blog
+tags:
+  - bootcamp
+  - coding
+  - conferences
+  - Languages
+  - lighthearted
+  - long lists
+  - materialism
+  - old science
+  - projects
+  - science fair
+  - TV shows
+  - wish list
 ---
 
 Long Lighthearted Lists
@@ -39,20 +38,20 @@ Long Lighthearted Lists
 
 > These are listed in chronological order.
 
-1. Spanish
-   * Soy Peruana.
-2. English
-   * Born and raised in the US, so there's that.
-3. French
-   * I lived in France for about a year in 3rd grade.
-4. Japanese
-   * Was enrolled in the Newport News Japanese school that ran every Saturday all throughout middle school.
-5. Swahili
-   * While I was in Tanzania taking a summer course for a month, I took Swahili language classes. Plus, everyone in Tanzania speaks Swahili so there's that.
-6. Arabic
-   * Took a 1-year intro class my senior year of high school.
-7. German
-   * Studied abroad in Germany for about 4 months for my first semester of college.
+1.  Spanish
+    * Soy Peruana.
+2.  English
+    * Born and raised in the US, so there's that.
+3.  French
+    * I lived in France for about a year in 3rd grade.
+4.  Japanese
+    * Was enrolled in the Newport News Japanese school that ran every Saturday all throughout middle school.
+5.  Swahili
+    * While I was in Tanzania taking a summer course for a month, I took Swahili language classes. Plus, everyone in Tanzania speaks Swahili so there's that.
+6.  Arabic
+    * Took a 1-year intro class my senior year of high school.
+7.  German
+    * Studied abroad in Germany for about 4 months for my first semester of college.
 
 ### Old Science Fair Projects
 

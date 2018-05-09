@@ -15,7 +15,7 @@ tags:
   - indie
   - klei entertainment
   - macabre
-  - review
+  - game review
   - sandbox
   - scary
   - tim burton

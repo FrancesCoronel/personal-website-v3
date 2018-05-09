@@ -5,7 +5,6 @@ description: Measuring time in C++.
 banner: https://fvcproductions.files.wordpress.com/2013/07/banners-002.jpg?w=1024&h=436&crop=1
 categories:
   - blog
-  - coding
 tags:
   - c++
   - time

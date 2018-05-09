@@ -4,7 +4,6 @@ date: 2018-03-25
 description: Mentor developers and get paid.
 categories:
   - blog
-  - certainties
 tags:
   - mentoring
   - programs

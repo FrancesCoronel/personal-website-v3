@@ -1,23 +1,23 @@
 ---
-title: "Interview with Coding Dojo"
+title: Interview with Coding Dojo
 date: 2015-01-06
-description: "My interview with Coding Dojo."
+description: My interview with Coding Dojo.
 banner: https://fvcproductions.files.wordpress.com/2015/01/mg_3322.jpg
-tags:
-    - coding
-    - coding bootcamps
-    - coding dojo
-    - dev bootcamps
-    - dojo
-    - fvcproductions
-    - interview
-    - mountain view
-    - Speros Misirlakis
-    - summer bootcamp
-    - web development
-    - web development bootcamp
 categories:
-    - blog
+  - blog
+tags:
+  - coding
+  - coding bootcamps
+  - coding dojo
+  - dev bootcamps
+  - dojo
+  - fvcproductions
+  - interview
+  - mountain view
+  - Speros Misirlakis
+  - summer bootcamp
+  - web development
+  - web development bootcamp
 ---
 
 [![](//jlau-bucket-1.s3.amazonaws.com/uploads/topic/image/5/coding_dojo.png) Fancy.
@@ -29,14 +29,14 @@ categories:
 > answers were paraphrased or just referenced verbatim\
 > personal comments are highlighted `like this`
 
-1. **How many drop out after simply experiencing the pre-work? How much time should I dedicate to the pre-work?**You have pre-work. Realistically, dedicating 50–100 total hours is ideal for pre-work. Nobody has dropped out after experiencing pre-work. There have been family emergencies, unfortunate situations, but nothing directly correlated to Coding Dojo.
-2. **How many college students have you had in the past?**Quite a few, more recently so. We have coordinated our schedule to do that. The average age is 25–30.
-3. **What would you say are the key differences between the two campuses?**The campus in Mountain View is the sort of super center and class sizes can go up to 30. Here in Seattle they go up to 25. Besides that, there's not much difference.
-4. **What kind of process do your instructors go through?**Most instructors will have quite a few years in development experience.
-5. **What is your background? How were introduced into the tech/web development scene?**I'm a graduate of Coding Dojo with a background in Management. I always wanted to get into computers, but my father wanted me to get into finance and wanted me to get an MBA. I ended up taking 6 months off and found myself coding. One thing led into another and I started looking into coding bootcamps. I loved it. It was a great experience. The synergy between students is amazing. People really are motivated to move forward and try and understand things. There is lots of desire and passion with good attitude present.
-6. **What do you guys recommend students do outside of the course?**We discourage students getting into Meetups because we want them to stick with the program and do as expected - every single hour is vital. Once you graduate, you can immerse yourselves in Meetups and Hackathons and such because then it will make more sense. Before and after - the difference in skill is massive. Hacakathons are always great, but the schedule is just so busy and structured so there won't be enough time. The more you code, the better.
-7. **What's the idea behind founding this program? What made you think it was a good idea?**The founder's idea was that he wanted to transform people's lives and offer the ability to make it better. Development is just one vision in that. Anyone can be a developer and develop something. From 0 to 100, as long as that person is motivated, driven, you can move forward. Even with 0 knowledge, we can transform people's lives and teach people that they can go back and get into computers. The graduates have experienced that.
-8. **Anything else? **There is 20 minute rule - it's the idea that if you're there coding, and that you're stuck, you need to spend 20 minutes to figure out that problem (60–70% of students solve it at that point). If after 20 minutes, you can't figure it out, there are 2people that you can ask for help. A lot of problems that were goingto be asked don't get asked and helps the student strengthen that knowledge. It's the most efficient way so that peopleare forced to learn things.We teach the LAMP stack, which is basic. From that we move to Node.js. Then we move to Ruby on Rails last. There is a desire and need for Ruby on Rails and it's unique because it's a high level language. There are shortcuts and a little amount of code required. For example in PHP 15–20 lines equates to 1 line of code in Ruby. Same with SQL (15–20 lines) and then that converts to 5–6 lines on Active Record. When students write code, they know whats going on and how they can go about fixing it.
+1.  **How many drop out after simply experiencing the pre-work? How much time should I dedicate to the pre-work?**You have pre-work. Realistically, dedicating 50–100 total hours is ideal for pre-work. Nobody has dropped out after experiencing pre-work. There have been family emergencies, unfortunate situations, but nothing directly correlated to Coding Dojo.
+2.  **How many college students have you had in the past?**Quite a few, more recently so. We have coordinated our schedule to do that. The average age is 25–30.
+3.  **What would you say are the key differences between the two campuses?**The campus in Mountain View is the sort of super center and class sizes can go up to 30. Here in Seattle they go up to 25. Besides that, there's not much difference.
+4.  **What kind of process do your instructors go through?**Most instructors will have quite a few years in development experience.
+5.  **What is your background? How were introduced into the tech/web development scene?**I'm a graduate of Coding Dojo with a background in Management. I always wanted to get into computers, but my father wanted me to get into finance and wanted me to get an MBA. I ended up taking 6 months off and found myself coding. One thing led into another and I started looking into coding bootcamps. I loved it. It was a great experience. The synergy between students is amazing. People really are motivated to move forward and try and understand things. There is lots of desire and passion with good attitude present.
+6.  **What do you guys recommend students do outside of the course?**We discourage students getting into Meetups because we want them to stick with the program and do as expected - every single hour is vital. Once you graduate, you can immerse yourselves in Meetups and Hackathons and such because then it will make more sense. Before and after - the difference in skill is massive. Hacakathons are always great, but the schedule is just so busy and structured so there won't be enough time. The more you code, the better.
+7.  **What's the idea behind founding this program? What made you think it was a good idea?**The founder's idea was that he wanted to transform people's lives and offer the ability to make it better. Development is just one vision in that. Anyone can be a developer and develop something. From 0 to 100, as long as that person is motivated, driven, you can move forward. Even with 0 knowledge, we can transform people's lives and teach people that they can go back and get into computers. The graduates have experienced that.
+8.  **Anything else? **There is 20 minute rule - it's the idea that if you're there coding, and that you're stuck, you need to spend 20 minutes to figure out that problem (60–70% of students solve it at that point). If after 20 minutes, you can't figure it out, there are 2people that you can ask for help. A lot of problems that were goingto be asked don't get asked and helps the student strengthen that knowledge. It's the most efficient way so that peopleare forced to learn things.We teach the LAMP stack, which is basic. From that we move to Node.js. Then we move to Ruby on Rails last. There is a desire and need for Ruby on Rails and it's unique because it's a high level language. There are shortcuts and a little amount of code required. For example in PHP 15–20 lines equates to 1 line of code in Ruby. Same with SQL (15–20 lines) and then that converts to 5–6 lines on Active Record. When students write code, they know whats going on and how they can go about fixing it.
 
 ## Aftermath
 

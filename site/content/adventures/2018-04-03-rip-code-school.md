@@ -7,7 +7,6 @@ aliases:
   - /2018/04/03/rip-code-school/
 categories:
   - blog
-  - certainties
 tags:
   - code school
   - pluralsight

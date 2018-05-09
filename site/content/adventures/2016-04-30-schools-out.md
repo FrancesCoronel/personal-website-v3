@@ -5,7 +5,6 @@ description: Catching up on happenings for the month. SO MANY HAPPENINGS.
 banner: https://fvcproductions.files.wordpress.com/2016/04/schoolsout.jpeg
 categories:
   - blog
-  - certainties
 tags:
   - accenture
   - bay area

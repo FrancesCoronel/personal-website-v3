@@ -7,11 +7,3 @@
   </div>
 </div>
 {{ end }}
-<!-- Archive Page -->
-{{ if .Params.archive }}
-<div class="page-body">
-  <div class="12u$">
-    {{ if .Content }} {{ .Content }} {{ end }} {{ partial "page/body/archive.html" . }}
-  </div>
-</div>
-{{ end }}

@@ -11,8 +11,7 @@
   "short_name": "FVC",
   "start_url": "/?utm_source=homescreen",
   "theme_color": "#ffffff",
-  "icons": [
-    {
+  "icons": [{
       "src": "/assets/img/favicons/android-chrome-36x36.png",
       "sizes": "36x36",
       "type": "image/png"

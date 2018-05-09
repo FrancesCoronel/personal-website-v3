@@ -1,40 +1,40 @@
 ---
-title: "Interview with Designation"
+title: Interview with Designation
 date: 2015-01-06
-description: "My interview with Designation."
+description: My interview with Designation.
 banner: https://fvcproductions.files.wordpress.com/2015/01/open_graph.jpg?w=1024&h=435&crop=1
-tags:
-    - accepted
-    - aftermath
-    - background
-    - backgrounds
-    - bitcoin
-    - bootcamps
-    - college students
-    - course
-    - creativity
-    - design
-    - design bootcamp
-    - designation
-    - designation labs
-    - designation.io
-    - drop out
-    - graphic design
-    - graphic design bootcamp
-    - instructors
-    - interview
-    - interviewer
-    - logistics
-    - lynda.com
-    - paypal
-    - prework
-    - process
-    - ui
-    - ux
-    - web development
-    - yield rate
 categories:
-    - blog
+  - blog
+tags:
+  - accepted
+  - aftermath
+  - background
+  - backgrounds
+  - bitcoin
+  - bootcamps
+  - college students
+  - course
+  - creativity
+  - design
+  - design bootcamp
+  - designation
+  - designation labs
+  - designation.io
+  - drop out
+  - graphic design
+  - graphic design bootcamp
+  - instructors
+  - interview
+  - interviewer
+  - logistics
+  - lynda.com
+  - paypal
+  - prework
+  - process
+  - ui
+  - ux
+  - web development
+  - yield rate
 ---
 
 [![](//designation.io/downloads/designation_logo_black/designation_vertical_black.png)](//designation.io)

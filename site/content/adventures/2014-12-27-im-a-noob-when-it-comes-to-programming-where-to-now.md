@@ -4,98 +4,99 @@ date: 2014-12-27
 description: "I've compiled a list of 15 great resources I've come to learn about over
 the years of trying to learn how to properly program."
 banner: https://fvcproductions.files.wordpress.com/2014/09/html-css-book-cover.jpg
-tags:
-    - code school
-    - codecademy
-    - codecombat
-    - coderbyte
-    - codewars
-    - cracking the coding interview
-    - css
-    - eloquent javascript
-    - fvcproductions
-    - html
-    - html/css
-    - javascript
-    - jquery
-    - jumpstart
-    - noob
-    - noobie
-    - odin project
-    - online python tutor
-    - programmer
-    - Programming
-    - properly program
-    - python
-    - superhero js
-    - treehouse
-    - tutorial
-    - typing.io
-    - web development
 categories:
-    - blog
-    - coding
+  - blog
+tags:
+  - code school
+  - codecademy
+  - codecombat
+  - coderbyte
+  - codewars
+  - cracking the coding interview
+  - css
+  - eloquent javascript
+  - fvcproductions
+  - html
+  - html/css
+  - javascript
+  - jquery
+  - jumpstart
+  - noob
+  - noobie
+  - odin project
+  - online python tutor
+  - programmer
+  - Programming
+  - properly program
+  - python
+  - superhero js
+  - treehouse
+  - tutorial
+  - typing.io
+  - web development
 ---
 
 # Here, I've compiled a list of 15 great resources I've come to learn about over the years of trying to learn how to properly program.
 
-### I still consider myself a _noob_ now (I mean, it's only been 3 years!), but I grow more and more comfortable with the idea that I've never going to know everything and that aspiring to be a great programmer is the same as aspiring to improve yourself constantly everyday in the art. It's what I love about the field and so I hope this list helps you out in your journey into the realm of digital hieroglyphics (as I like to call it) too.
+I still consider myself a _noob_ now (I mean, it's only been 3 years!), but I grow more and more comfortable with the idea that I've never going to know everything and that aspiring to be a great programmer is the same as aspiring to improve yourself constantly everyday in the art. It's what I love about the field and so I hope this list helps you out in your journey into the realm of digital hieroglyphics (as I like to call it) too.
 
-1. [Codecademy](//codecademy.com/)\
+1.  [Codecademy](//codecademy.com/)\
 
-   > Codecademy is an online interactive platform that offers free coding classes in six different programming languages like Python, PHP, jQuery, JavaScript, and Ruby, as well as markup languages including HTML and CSS.
-   >
-   > ![](//s3.amazonaws.com/codecademy-blog/assets/03-2013-new-experience.png)
+    > Codecademy is an online interactive platform that offers free coding classes in six different programming languages like Python, PHP, jQuery, JavaScript, and Ruby, as well as markup languages including HTML and CSS.
+    >
+    > ![](//s3.amazonaws.com/codecademy-blog/assets/03-2013-new-experience.png)
 
-2. [Code School](//codeschool.com/)\
+2.  [Code School](//codeschool.com/)\
 
-   > Code School is an online learning platform that teaches a variety of programming and web design skills. Courses range from beginner to advanced levels and you get to earn rewards and badges as you learn.
-   >
-   > ![](//orm-chimera-prod.s3.amazonaws.com/1234000001682/images/codeschool_jquery.png)
+    > Code School is an online learning platform that teaches a variety of programming and web design skills. Courses range from beginner to advanced levels and you get to earn rewards and badges as you learn.
+    >
+    > ![](//orm-chimera-prod.s3.amazonaws.com/1234000001682/images/codeschool_jquery.png)
 
-3. [Treehouse](//teamtreehouse.com/)\
+3.  [Treehouse](//teamtreehouse.com/)\
 
-   > Treehouse is the fastest, easiest way to learn to code, make apps, and start a business. Tutorials in CSS, HTML, Ruby, JavaScript, iOS, and more.
-   >
-   > [![Treehouse
-Banner](//fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-06-25.png?w=660)](//fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-06-25.png)
+        > Treehouse is the fastest, easiest way to learn to code, make apps, and start a business. Tutorials in CSS, HTML, Ruby, JavaScript, iOS, and more.
+        >
+        > [![Treehouse
 
-4. [Typing.io](//typing.io/)\
+    Banner](//fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-06-25.png?w=660)](//fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-06-25.png)
 
-   > Typing.io is a typing tutor/trainer for programmers. Typing.io's lessons are based on open source code, allow you to practice typing the key sequences that appear in real code.
-   >
-   > ![](//www.bram.us/wordpress/wp-content/uploads/2013/12/typingio.png)
+4.  [Typing.io](//typing.io/)\
 
-5. [CodeCombat](//codecombat.com/)\
+    > Typing.io is a typing tutor/trainer for programmers. Typing.io's lessons are based on open source code, allow you to practice typing the key sequences that appear in real code.
+    >
+    > ![](//www.bram.us/wordpress/wp-content/uploads/2013/12/typingio.png)
 
-   > Learn programming with a multiplayer live coding strategy game for beginners. Learn Python or JavaScript as you defeat ogres, solve mazes, and level up.
-   >
-   > ![](//d212dsb2sdisoj.cloudfront.net/wp-content/uploads/2013/10/logo64.jpg)
+5.  [CodeCombat](//codecombat.com/)\
 
-6. [codewars](//codewars.com/)\
+    > Learn programming with a multiplayer live coding strategy game for beginners. Learn Python or JavaScript as you defeat ogres, solve mazes, and level up.
+    >
+    > ![](//d212dsb2sdisoj.cloudfront.net/wp-content/uploads/2013/10/logo64.jpg)
 
-   > Codewars is a collective effort by its users. They are creators - authoring kata to teach various techniques, solving kata with solutions that enlighten others, and commenting with constructive feedback. The leaders among them moderate the content and community.
-   >
-   > ![](//ciblogassets.s3.amazonaws.com/crowdblog/asset/214/codewars3.png)
+6.  [codewars](//codewars.com/)\
 
-7. [Online Python Tutor](//pythontutor.com/)\
+    > Codewars is a collective effort by its users. They are creators - authoring kata to teach various techniques, solving kata with solutions that enlighten others, and commenting with constructive feedback. The leaders among them moderate the content and community.
+    >
+    > ![](//ciblogassets.s3.amazonaws.com/crowdblog/asset/214/codewars3.png)
 
-   > Online Python Tutor is a free educational tool created by Philip Guo that helps students overcome a fundamental barrier to learning programming: understanding what happens as the computer executes each line of a program's source code. Using this tool, a teacher or student can write a Python program in the Web browser and visualize what the computer is doing step-by-step as it executes the program.
-   >
-   > [![Online Python Tutor
-Banner](//fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-54-57.png?w=660)](//fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-54-57.png)
+7.  [Online Python Tutor](//pythontutor.com/)\
 
-8. [coderbyte](//coderbyte.com)\
+        > Online Python Tutor is a free educational tool created by Philip Guo that helps students overcome a fundamental barrier to learning programming: understanding what happens as the computer executes each line of a program's source code. Using this tool, a teacher or student can write a Python program in the Web browser and visualize what the computer is doing step-by-step as it executes the program.
+        >
+        > [![Online Python Tutor
 
-   > Coderbyte is a web application built to help people practice their programming skills with our collection of programming challenges.
-   >
-   > ![](//s3.amazonaws.com/ksr/assets/000/379/626/6fd69aceb1070555dacf846ed296d84f_large.png?1360397775)
+    Banner](//fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-54-57.png?w=660)](//fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-27-21-54-57.png)
 
-9. [Learn Python The Hard Way](//learnpythonthehardway.org)\
+8.  [coderbyte](//coderbyte.com)\
 
-   > Read by 1.5 million people a year to learn the basics of programming, Learn Python The Hard Way is the most successful beginner programming book on the market.
-   >
-   > ![](//www.kno.com/images/book-jackets/9780133124330.jpg)
+    > Coderbyte is a web application built to help people practice their programming skills with our collection of programming challenges.
+    >
+    > ![](//s3.amazonaws.com/ksr/assets/000/379/626/6fd69aceb1070555dacf846ed296d84f_large.png?1360397775)
+
+9.  [Learn Python The Hard Way](//learnpythonthehardway.org)\
+
+    > Read by 1.5 million people a year to learn the basics of programming, Learn Python The Hard Way is the most successful beginner programming book on the market.
+    >
+    > ![](//www.kno.com/images/book-jackets/9780133124330.jpg)
 
 10. [Eloquent JavaScript](//eloquentjavascript.net)\
 

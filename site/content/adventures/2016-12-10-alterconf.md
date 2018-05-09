@@ -10,7 +10,6 @@ aliases:
 categories:
   - blog
   - conference
-  - certainties
 tags:
   - alterconf
   - alterconf new york city

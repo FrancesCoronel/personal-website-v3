@@ -1,22 +1,22 @@
 ---
-title: "Brief Thoughts on SwitchUp's Best Bootcamps List"
+title: Brief Thoughts on SwitchUp's Best Bootcamps List
 date: 2015-02-15
-description: "Bootcamps are a risky business, make sure you make the right decision."
+description: Bootcamps are a risky business, make sure you make the right decision.
 banner: https://fvcproductions.files.wordpress.com/2015/02/switchup.jpg?w=1024&h=435&crop=1
-tags:
-    - best bootcamps
-    - bootcamp
-    - bootcamps
-    - brief thoughts
-    - Coding
-    - coding bootcamps
-    - inklings
-    - programming bootcamps
-    - switch up
-    - switchup
-    - tech cocktail
 categories:
-    - blog
+  - blog
+tags:
+  - best bootcamps
+  - bootcamp
+  - bootcamps
+  - brief thoughts
+  - coding
+  - coding bootcamps
+  - inklings
+  - programming bootcamps
+  - switch up
+  - switchup
+  - tech cocktail
 ---
 
 > Full report can be found [here](//www.switchup.org/research/best-coding-bootcamps).
@@ -33,64 +33,64 @@ categories:
 
 ## Best Physical Bootcamps from SwitchUp
 
-1. [Anyone Can Learn to Code](//anyonecanlearntocode.com/ "Anyone Can Learn to Code") (Chicago)
-   * Course Report ([6 Reviews](//www.coursereport.com/schools/anyone-can-learn-to-code#/reviews))
-   * Quora ([2 Reviews](//www.quora.com/Reviews-of-Anyone-Can-Learn-To-Code-programming-bootcamp)) ⭐️⭐️⭐️⭐️⭐️ 5/5
-   * SwitchUp ([8 Reviews](//www.switchup.org/bootcamps/93)) ⭐️⭐️⭐️⭐️⭐️ 5/5
-   * Techendo (N/A)
-   * Yelp (N/A)
-2. [App Academy](//www.appacademy.io/#p-home) (New York City, San Francisco)
-   * Course Report ([4 Reviews](//www.coursereport.com/schools/app-academy#/about))
-   * Quora ([2 Reviews](//www.quora.com/Reviews-of-App-Academy)) ⭐️⭐️⭐️⭐️⭐️ 5/5
-   * SwitchUp ([19 Reviews](//www.switchup.org/bootcamps/app-academy)) ⭐️⭐️⭐️⭐️ 4/5
-   * Techendo ([8 Positive, 2 Negative](//schools.techendo.com/schools/app-academy))
-   * Yelp ([22 Reviews](//www.yelp.com/biz/app-academy-san-francisco)) ⭐️⭐️⭐️⭐️⭐️ 5/5
-3. [Bitmaker Labs](//bitmakerlabs.com/) (Toronto)
-   * I can attest to these guys positively at least for their admissions process because I applied to their program back in 2013 and they were really amiable. I didn't feel uncomfortable at all throughout the interview process.
-   * Course Report ([4 Reviews](//www.coursereport.com/schools/bitmaker-labs#/about))
-   * Quora ([4 Reviews](//www.quora.com/Reviews-of-Bitmaker-Labs)) ⭐️⭐️⭐️⭐️ 4/5
-   * SwitchUp ([6 Reviews](//www.switchup.org/bootcamps/bitmaker-labs)) ⭐️⭐️⭐️⭐️ 4/5
-   * Techendo (N/A)
-   * Yelp (N/A)
-4. [Code Fellows](//www.codefellows.org/) (Portland, Seattle)
-   * I applied to these guys back in 2013 but didn't end up going through with the interview because there was a change of plans. They were cool about it.
-   * I can attest to these guys positively at least for their admissions process because I applied to their program back in 2013 and they were really amiable. I didn't feel uncomfortable at all throughout the interview process.
-   * Course Report ([5 Reviews](//www.coursereport.com/schools/code-fellows#/about))
-   * Quora (N/A)
-   * SwitchUp ([8 Reviews](//www.switchup.org/bootcamps/code-fellows)) ⭐️⭐️⭐️⭐️ 4/5
-   * Techendo (N/A)
-   * Yelp ([1 Review](//www.yelp.com/biz/code-fellows-seattle)) ⭐️⭐️⭐️⭐️⭐️ 5/5
-5. [Coder Camps](//www.codercamps.com/) (Houston)
-   * Course Report ([5 Reviews](//www.coursereport.com/schools/coder-camps#/reviews))
-   * Quora ([22 Reviews](//www.quora.com/Reviews-of-Coder-Camps))
-   * SwitchUp ([23 Reviews](//www.switchup.org/bootcamps/coder-camps)) ⭐️⭐️⭐️⭐️⭐️ 5/5
-   * Techendo ([2 Positive, 1 Negative](//schools.techendo.com/schools/coder-camps))
-   * Yelp (N/A)
-6. [Coder Foundry](//www.coderfoundry.com/) (Greensboro)
-   * Course Report ([13 Reviews](//www.coursereport.com/schools/coder-foundry#/about))
-   * Quora (N/A)
-   * SwitchUp ([5 Reviews](//www.switchup.org/bootcamps/coder-foundry)) ⭐️⭐️⭐️⭐️⭐️ 5/5
-   * Techendo (N/A)
-   * Yelp (N/A)
-7. [Codeup](//codeup.com/) (San Antonio)
-   * Course Report ([2 Reviews](//www.coursereport.com/schools/codeup#/about))
-   * Quora ([4 Reviews](//www.quora.com/Reviews-of-Codeup) ⭐️⭐️⭐️⭐️⭐️ 5/5
-   * SwitchUp ([6 Reviews](//www.switchup.org/bootcamps/codeup) ⭐️⭐️⭐️⭐️⭐️ 5/5
-   * Techendo ([3 Positive, 0 Negative](//schools.techendo.com/schools/codeup))
-   * Yelp (N/A)
-8. [Coding Campus](//codingcamp.us/) (Provo, Akron)
-   * Course Report ([4 Reviews](//www.coursereport.com/schools/coding-campus#/about))
-   * Quora (N/A)
-   * SwitchUp ([4 Reviews](//www.switchup.org/bootcamps/coding-campus) ⭐️⭐️⭐️⭐️⭐️ 5/5
-   * Techendo (N/A)
-   * Yelp (N/A)
-9. [Coding Dojo](//www.codingdojo.com/) (San Jose, Seattle, LA, Silicon Valley, San Francisco)
-   * I applied to the Dojo this year and think they have a solid program for true beginners. I'm not sure if they're challenging enough for people with a bit of background in programming though.
-   * Course Report ([10 Reviews](//www.coursereport.com/schools/coding-dojo))
-   * Quora ([1 Review](//www.quora.com/Reviews-of-Coding-Dojo)) ⭐️⭐️⭐️⭐️⭐️ 5/5
-   * SwitchUp ([31 Reviews](//www.switchup.org/bootcamps/coding-dojo) ⭐️⭐️⭐️⭐️⭐️ 5/5
-   * Techendo ([2 Positive, 0 Negative](//schools.techendo.com/schools/coding-dojo))
-   * Yelp ([3 Reviews](//www.yelp.com/biz/coding-dojo-mountain-view)) ⭐️⭐️⭐️⭐️⭐️ 5/5
+1.  [Anyone Can Learn to Code](//anyonecanlearntocode.com/ "Anyone Can Learn to Code") (Chicago)
+    * Course Report ([6 Reviews](//www.coursereport.com/schools/anyone-can-learn-to-code#/reviews))
+    * Quora ([2 Reviews](//www.quora.com/Reviews-of-Anyone-Can-Learn-To-Code-programming-bootcamp)) ⭐️⭐️⭐️⭐️⭐️ 5/5
+    * SwitchUp ([8 Reviews](//www.switchup.org/bootcamps/93)) ⭐️⭐️⭐️⭐️⭐️ 5/5
+    * Techendo (N/A)
+    * Yelp (N/A)
+2.  [App Academy](//www.appacademy.io/#p-home) (New York City, San Francisco)
+    * Course Report ([4 Reviews](//www.coursereport.com/schools/app-academy#/about))
+    * Quora ([2 Reviews](//www.quora.com/Reviews-of-App-Academy)) ⭐️⭐️⭐️⭐️⭐️ 5/5
+    * SwitchUp ([19 Reviews](//www.switchup.org/bootcamps/app-academy)) ⭐️⭐️⭐️⭐️ 4/5
+    * Techendo ([8 Positive, 2 Negative](//schools.techendo.com/schools/app-academy))
+    * Yelp ([22 Reviews](//www.yelp.com/biz/app-academy-san-francisco)) ⭐️⭐️⭐️⭐️⭐️ 5/5
+3.  [Bitmaker Labs](//bitmakerlabs.com/) (Toronto)
+    * I can attest to these guys positively at least for their admissions process because I applied to their program back in 2013 and they were really amiable. I didn't feel uncomfortable at all throughout the interview process.
+    * Course Report ([4 Reviews](//www.coursereport.com/schools/bitmaker-labs#/about))
+    * Quora ([4 Reviews](//www.quora.com/Reviews-of-Bitmaker-Labs)) ⭐️⭐️⭐️⭐️ 4/5
+    * SwitchUp ([6 Reviews](//www.switchup.org/bootcamps/bitmaker-labs)) ⭐️⭐️⭐️⭐️ 4/5
+    * Techendo (N/A)
+    * Yelp (N/A)
+4.  [Code Fellows](//www.codefellows.org/) (Portland, Seattle)
+    * I applied to these guys back in 2013 but didn't end up going through with the interview because there was a change of plans. They were cool about it.
+    * I can attest to these guys positively at least for their admissions process because I applied to their program back in 2013 and they were really amiable. I didn't feel uncomfortable at all throughout the interview process.
+    * Course Report ([5 Reviews](//www.coursereport.com/schools/code-fellows#/about))
+    * Quora (N/A)
+    * SwitchUp ([8 Reviews](//www.switchup.org/bootcamps/code-fellows)) ⭐️⭐️⭐️⭐️ 4/5
+    * Techendo (N/A)
+    * Yelp ([1 Review](//www.yelp.com/biz/code-fellows-seattle)) ⭐️⭐️⭐️⭐️⭐️ 5/5
+5.  [Coder Camps](//www.codercamps.com/) (Houston)
+    * Course Report ([5 Reviews](//www.coursereport.com/schools/coder-camps#/reviews))
+    * Quora ([22 Reviews](//www.quora.com/Reviews-of-Coder-Camps))
+    * SwitchUp ([23 Reviews](//www.switchup.org/bootcamps/coder-camps)) ⭐️⭐️⭐️⭐️⭐️ 5/5
+    * Techendo ([2 Positive, 1 Negative](//schools.techendo.com/schools/coder-camps))
+    * Yelp (N/A)
+6.  [Coder Foundry](//www.coderfoundry.com/) (Greensboro)
+    * Course Report ([13 Reviews](//www.coursereport.com/schools/coder-foundry#/about))
+    * Quora (N/A)
+    * SwitchUp ([5 Reviews](//www.switchup.org/bootcamps/coder-foundry)) ⭐️⭐️⭐️⭐️⭐️ 5/5
+    * Techendo (N/A)
+    * Yelp (N/A)
+7.  [Codeup](//codeup.com/) (San Antonio)
+    * Course Report ([2 Reviews](//www.coursereport.com/schools/codeup#/about))
+    * Quora ([4 Reviews](//www.quora.com/Reviews-of-Codeup) ⭐️⭐️⭐️⭐️⭐️ 5/5
+    * SwitchUp ([6 Reviews](//www.switchup.org/bootcamps/codeup) ⭐️⭐️⭐️⭐️⭐️ 5/5
+    * Techendo ([3 Positive, 0 Negative](//schools.techendo.com/schools/codeup))
+    * Yelp (N/A)
+8.  [Coding Campus](//codingcamp.us/) (Provo, Akron)
+    * Course Report ([4 Reviews](//www.coursereport.com/schools/coding-campus#/about))
+    * Quora (N/A)
+    * SwitchUp ([4 Reviews](//www.switchup.org/bootcamps/coding-campus) ⭐️⭐️⭐️⭐️⭐️ 5/5
+    * Techendo (N/A)
+    * Yelp (N/A)
+9.  [Coding Dojo](//www.codingdojo.com/) (San Jose, Seattle, LA, Silicon Valley, San Francisco)
+    * I applied to the Dojo this year and think they have a solid program for true beginners. I'm not sure if they're challenging enough for people with a bit of background in programming though.
+    * Course Report ([10 Reviews](//www.coursereport.com/schools/coding-dojo))
+    * Quora ([1 Review](//www.quora.com/Reviews-of-Coding-Dojo)) ⭐️⭐️⭐️⭐️⭐️ 5/5
+    * SwitchUp ([31 Reviews](//www.switchup.org/bootcamps/coding-dojo) ⭐️⭐️⭐️⭐️⭐️ 5/5
+    * Techendo ([2 Positive, 0 Negative](//schools.techendo.com/schools/coding-dojo))
+    * Yelp ([3 Reviews](//www.yelp.com/biz/coding-dojo-mountain-view)) ⭐️⭐️⭐️⭐️⭐️ 5/5
 10. [Designation](//designation.io/) (Chicago)
     * The admissions officer for this program, Will, is really cool. He's just so full of zest. I'd definitely recommend this program to people interested in graphic design because at the least, they can meet Will. Haha.
     * Course Report (N/A)
@@ -231,16 +231,16 @@ categories:
 
 ## Best Virtual Bootcamps from Switch Up
 
-1. [Bloc](//www.bloc.io/)
-   * Course Report ([17 Reviews](//www.coursereport.com/schools/bloc)
-   * Quora ([4 Reviews](//www.quora.com/Reviews-of-Bloc-io))
-   * SwitchUp ([9 Reviews](//www.switchup.org/bootcamps/bloc)) ⭐️⭐️⭐️⭐️ 4/5
-   * Techendo ([1 Positive, 0 Negative](//schools.techendo.com/schools/bloc))
-2. [Thinkful](//www.thinkful.com/)
-   * Course Report ([10 Reviews](//www.coursereport.com/schools/thinkful)
-   * Quora ([3 Reviews](//www.quora.com/Reviews-of-Thinkful)) ⭐️⭐️⭐️⭐️ 4.1/5
-   * SwitchUp ([8 Reviews](//www.switchup.org/bootcamps/thinkful)) ⭐️⭐️⭐️⭐️⭐️ 5/5
-   * Techendo (N/A)
+1.  [Bloc](//www.bloc.io/)
+    * Course Report ([17 Reviews](//www.coursereport.com/schools/bloc)
+    * Quora ([4 Reviews](//www.quora.com/Reviews-of-Bloc-io))
+    * SwitchUp ([9 Reviews](//www.switchup.org/bootcamps/bloc)) ⭐️⭐️⭐️⭐️ 4/5
+    * Techendo ([1 Positive, 0 Negative](//schools.techendo.com/schools/bloc))
+2.  [Thinkful](//www.thinkful.com/)
+    * Course Report ([10 Reviews](//www.coursereport.com/schools/thinkful)
+    * Quora ([3 Reviews](//www.quora.com/Reviews-of-Thinkful)) ⭐️⭐️⭐️⭐️ 4.1/5
+    * SwitchUp ([8 Reviews](//www.switchup.org/bootcamps/thinkful)) ⭐️⭐️⭐️⭐️⭐️ 5/5
+    * Techendo (N/A)
 
 > Even though [Treehouse](//teamtreehouse.com/) wasn't listed since I guess technically it's not really a bootcamp, I'd definitely recommend it for beginners and then [Code School](//www.codeschool.com/) for slightly more advanced users. The breadth of what Treehouse offers is pretty neat.
 >

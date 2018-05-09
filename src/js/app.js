@@ -10,7 +10,7 @@ require("@fortawesome/fontawesome-free-solid");
 require("@fortawesome/fontawesome-free-brands");
 
 // Return to Top
-// require("./components/returnToTop");
+require("./components/returnToTop");
 
 // External Links
 require("./components/externalLinks");

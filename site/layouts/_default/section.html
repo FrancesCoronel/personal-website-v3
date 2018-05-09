@@ -2,9 +2,7 @@
 <!-- Begin Main -->
 <div class="page">
   <!-- Return to Top -->
-  <!-- <a href="javascript:" id="return-to-top" aria-label="Return to Top" aria-labelledby="Return to Top" aria-hidden="true">
-    <i class="fas fa-arrow-up"></i>
-  </a> -->
+  {{ partial "page/body/return-to-top.html" . }}
   <!-- Header -->
   {{ partial "page/header/index.html" . }}
   <!-- Body -->
@@ -21,11 +19,11 @@
       <!-- Alphabetical Order -->
       {{ if .Params.alphabetical }}
       <!-- By Title -->
-      {{ range $pages.ByTitle }} {{ partial "tiles/tile.html" . }} {{ end }}
+      {{ range $pages.ByTitle }} {{ partial "page/body/tiles/tile.html" . }} {{ end }}
       <!-- Date Order -->
       {{ else }}
       <!-- Reverse Order -->
-      {{ range $pages.ByDate.Reverse }} {{ partial "tiles/tile.html" . }} {{ end }} {{ end }}
+      {{ range $pages.ByDate.Reverse }} {{ partial "page/body/tiles/tile.html" . }} {{ end }} {{ end }}
     </section>
   </div>
   <!-- End Tiles -->

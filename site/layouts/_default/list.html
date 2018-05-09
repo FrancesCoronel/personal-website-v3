@@ -1,31 +1,11 @@
-<!-- Start - Main -->
 {{ define "main" }}
-<!-- Start - By Year -->
-{{ range .Data.Pages.GroupByDate "2006" }}
-<h1>{{ .Key }}</h1>
-<!-- Start - Pages for Each Year -->
-{{ range .Pages }}
-<hr />
-<h2>
-  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-</h2>
-<p>
-  {{ dateFormat "Monday - January 2, 2006" .Date }}
-</p>
-<div>
-  {{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}
-</div>
-<div>
-  {{ .Summary }}
-  <p class="align-right">
-    <a href="{{ .RelPermalink }}">
-      <nobr>{{ .Site.Data.i18n.en.morelink }} →</nobr>
-    </a>
-  </p>
+<!-- Page -->
+<div class="page">
+  <!-- Title -->
+  <h1>{{ .Title }}</h1>
+  <!-- Range -->
+  {{ range .Data.Pages.GroupByDate "2006" }} {{ partial "page/body/lists/list-item.html" . }} {{ end }}
+  <!-- End Message -->
+  {{ partial "page/body/lists/end-message.html" . }}
 </div>
 {{ end }}
-<!-- End - Pages for Each Year -->
-{{ end }}
-<!-- End - By Year -->
-{{ end }}
-<!-- End - Main -->

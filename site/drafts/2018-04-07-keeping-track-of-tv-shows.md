@@ -1,87 +1,95 @@
 ---
 title: TV Shows
 date: 2018-04-07
+# lastmodified: 2018-05-08
+description: A list of TV shows I enjoy, have enjoyed or thought were terrible.
+categories:
+  - blog
+tags:
+  - tv shows
 ---
 
-The 100
-Silicon Valley
-How to Get Away with Murder
-Mr Robot
+## Enjoying
 
-|                                   |                          |
-| --------------------------------- | ------------------------ |
-| Name                              | Current State            |
-| Adventure Time                    | Watching & Loving        |
-| Bob's Burgers                     | Watching & Loving        |
-| How to Get Away with Murder       | Watching & Loving        |
-| Mr. Robot                         | Watching & Loving        |
-| Person of Interest                | Watching & Loving        |
-| Rick and Morty                    | Watching & Loving        |
-| Sense8                            | Watching & Loving        |
-| Silicon Valley                    | Watching & Loving        |
-| Steven Universe                   | Watching & Loving        |
-| 60 Minutes                        | Series Ended & I Enjoyed |
-| American Dad!                     | Series Ended & I Enjoyed |
-| American Horror Story: Freak Show | Series Ended & I Enjoyed |
-| American Idol                     | Series Ended & I Enjoyed |
-| Arthur                            | Series Ended & I Enjoyed |
-| betas                             | Series Ended & I Enjoyed |
-| Caillou                           | Series Ended & I Enjoyed |
-| Community                         | Series Ended & I Enjoyed |
-| Courage the Cowardly Dog          | Series Ended & I Enjoyed |
-| Criminal Minds                    | Series Ended & I Enjoyed |
-| CSI                               | Series Ended & I Enjoyed |
-| Cyberchase                        | Series Ended & I Enjoyed |
-| Dating Naked                      | Series Ended & I Enjoyed |
-| Fresh Off the Boat                | Series Ended & I Enjoyed |
-| Futurama                          | Series Ended & I Enjoyed |
-| Goosebumps                        | Series Ended & I Enjoyed |
-| Growing Up Creepie                | Series Ended & I Enjoyed |
-| Hawaii Five-0                     | Series Ended & I Enjoyed |
-| iZombie                           | Series Ended & I Enjoyed |
-| Jimmy Neutron                     | Series Ended & I Enjoyed |
-| Last Week Tonight                 | Series Ended & I Enjoyed |
-| Law and Order SVU                 | Series Ended & I Enjoyed |
-| Modern Family                     | Series Ended & I Enjoyed |
-| NCIS                              | Series Ended & I Enjoyed |
-| Parks and Recreation              | Series Ended & I Enjoyed |
-| Pinky and Brain                   | Series Ended & I Enjoyed |
-| Pucca                             | Series Ended & I Enjoyed |
-| Robot Chicken                     | Series Ended & I Enjoyed |
-| The Amazing Race                  | Series Ended & I Enjoyed |
-| The Amazing World of Gumball      | Series Ended & I Enjoyed |
-| The Big Bang Theory               | Series Ended & I Enjoyed |
-| The Blacklist                     | Series Ended & I Enjoyed |
-| The Boondocks                     | Series Ended & I Enjoyed |
-| The Daily Show                    | Series Ended & I Enjoyed |
-| The IT Crowd                      | Series Ended & I Enjoyed |
-| The Looney Tunes                  | Series Ended & I Enjoyed |
-| The Office                        | Series Ended & I Enjoyed |
-| The Simpsons                      | Series Ended & I Enjoyed |
-| Tom and Jerry                     | Series Ended & I Enjoyed |
-| Tutenstein                        | Series Ended & I Enjoyed |
-| Ugly Betty                        | Series Ended & I Enjoyed |
-| W.I.T.C.H                         | Series Ended & I Enjoyed |
-| 2 Broke Girls                     | Did Not Enjoy            |
-| American Horror Story: Hotel      | Did Not Enjoy            |
-| Clifford the Big Red Dog          | Did Not Enjoy            |
-| Dragon Tales                      | Did Not Enjoy            |
-| Extant                            | Did Not Enjoy            |
-| Family Guy                        | Did Not Enjoy            |
-| Friends                           | Did Not Enjoy            |
-| Game of Thrones                   | Did Not Enjoy            |
-| Glee                              | Did Not Enjoy            |
-| Hannibal                          | Did Not Enjoy            |
-| How I Met Your Mother             | Did Not Enjoy            |
-| Jane the Virgin                   | Did Not Enjoy            |
-| Scandal                           | Did Not Enjoy            |
-| Sherlock                          | Did Not Enjoy            |
-| South Park                        | Did Not Enjoy            |
-| Supernatural                      | Did Not Enjoy            |
-| Teen Mom                          | Did Not Enjoy            |
-| Teen Wolf                         | Did Not Enjoy            |
-| Teletubbies                       | Did Not Enjoy            |
-| The Mentalist                     | Did Not Enjoy            |
-| The Walking Dead                  | Did Not Enjoy            |
-| Two and a Half Men                | Did Not Enjoy            |
-| WordGirl                          | Did Not Enjoy            |
+1.  Adventure Time
+2.  Dear White People
+3.  How to Get Away with Murder
+4.  Mr. Robot
+5.  One Day at a Time
+6.  Rick and Morty
+7.  Sense8
+8.  Silicon Valley
+9.  The 100
+
+## Enjoyed
+
+1.  60 Minutes
+2.  American Horror Story: Freak Show
+3.  American Idol
+4.  Arthur
+5.  betas
+6.  Bob's Burgers
+7.  Caillou
+8.  Community
+9.  Courage the Cowardly Dog
+10. Criminal Minds
+11. CSI
+12. Cyberchase
+13. Dating Naked
+14. Fresh Off the Boat
+15. Futurama
+16. Goosebumps
+17. Growing Up Creepie
+18. Hawaii Five-0
+19. iZombie
+20. Jimmy Neutron
+21. Last Week Tonight
+22. Law and Order: SVU
+23. Modern Family
+24. NCIS
+25. Parks and Recreation
+26. Pinky and Brain
+27. Person of Interest
+28. Pucca
+29. Robot Chicken
+30. The Amazing Race
+31. The Amazing World of Gumball
+32. The Big Bang Theory
+33. The Blacklist
+34. The Boondocks
+35. The Daily Show
+36. The IT Crowd
+37. The Looney Tunes
+38. The Office
+39. The Simpsons
+40. Tom and Jerry
+41. Tutenstein
+42. Ugly Betty
+43. W.I.T.C.H
+
+## Did Not Enjoy
+
+1.  2 Broke Girls
+2.  American Dad!
+3.  American Horror Story: Hotel
+4.  Clifford the Big Red Dog
+5.  Dragon Tales
+6.  Extant
+7.  Family Guy
+8.  Friends
+9.  Game of Thrones
+10. Glee
+11. Hannibal
+12. How I Met Your Mother
+13. Jane the Virgin
+14. Scandal
+15. Sherlock
+16. South Park
+17. Supernatural
+18. Teen Mom
+19. Teen Wolf
+20. Teletubbies
+21. The Mentalist
+22. The Walking Dead
+23. Two and a Half Men
+24. WordGirl

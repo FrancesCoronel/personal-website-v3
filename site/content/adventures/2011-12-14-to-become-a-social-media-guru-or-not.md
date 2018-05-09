@@ -5,7 +5,6 @@ description: Talks about social networking in the classroom.
 banner: https://fvcproductions.files.wordpress.com/2013/08/old-technology-never-forget.jpg?w=1366
 categories:
   - blog
-  - certainties
 tags:
   - awkward silences
   - essay talks

@@ -1,5 +1,5 @@
 ---
-title: Women Who Code - CONNECT 2018
+title: Women Who Code CONNECT
 date: 2018-04-28
 banner: https://i.imgur.com/vv51StT.jpg?1
 description: Lightning Talk Speaker - TypeScript 101

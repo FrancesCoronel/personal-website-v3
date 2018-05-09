@@ -1,28 +1,28 @@
 ---
-title: "Interview with DevLeague"
+title: Interview with DevLeague
 date: 2015-01-06
-description: "My interview with DevLeague."
+description: My interview with DevLeague.
 banner: https://fvcproductions.files.wordpress.com/2015/01/devleague-join-the-movement-learn-to-code-in-hawaii.png?w=1024&h=435&crop=1
-tags:
-    - acceptance
-    - bootcamp
-    - bootcamp hawaii
-    - Coding
-    - coding bootcamps
-    - decision
-    - development
-    - devleague
-    - fvcproductions
-    - hawaii
-    - interview
-    - jason sewell
-    - learning
-    - Programming
-    - russell cheng
-    - web development
-    - web development hawaii
 categories:
-    - blog
+  - blog
+tags:
+  - acceptance
+  - bootcamp
+  - bootcamp hawaii
+  - coding
+  - coding bootcamps
+  - decision
+  - development
+  - devleague
+  - fvcproductions
+  - hawaii
+  - interview
+  - jason sewell
+  - learning
+  - Programming
+  - russell cheng
+  - web development
+  - web development hawaii
 ---
 
 > Ever wonder what our interview process is like? We have recently started getting many applications from the mainland and...
@@ -62,31 +62,31 @@ I decided to apply to DevLeague since they were the first of their kind in Hawai
 >
 > personal comments are highlighted `like this`
 
-1. **Yield rate - out of the applicants you accept, what percentage end up attending?**\
+1.  **Yield rate - out of the applicants you accept, what percentage end up attending?**\
 
-   > It's around 30% and part of that is because we're a very new bootcamp. For 35 students, we had over 115 applications.
+    > It's around 30% and part of that is because we're a very new bootcamp. For 35 students, we had over 115 applications.
 
-2. **How many drop out after simply experiencing the pre-work?**\
+2.  **How many drop out after simply experiencing the pre-work?**\
 
-   > Well, the coding challenge depending on your knowledge takes 2–4 weeks possibly. Pre-work takes roughly 40–80 hours of self-study.\
-   > Yeah, people do drop out and it happens very regularly that people don't finish the coding challenge. Fortunately, I don't usually have to make those kind of tough decisions because generally people who don't finish the challenge are the ones that reject themselves. If they're putting time in, then that means they're dedicated to it. I made an exception once because a student felt he had too much work going on and it didn't work out at all.\
-   > We try as much as we can to see these things coming - if they need more help, we'll try and help them out. What we have no control is the amount of effort they put in. If it's not a situation that's working out, we do ask them to leave. They have 4 weeks to make a decision for staying in program.
+    > Well, the coding challenge depending on your knowledge takes 2–4 weeks possibly. Pre-work takes roughly 40–80 hours of self-study.\
+    > Yeah, people do drop out and it happens very regularly that people don't finish the coding challenge. Fortunately, I don't usually have to make those kind of tough decisions because generally people who don't finish the challenge are the ones that reject themselves. If they're putting time in, then that means they're dedicated to it. I made an exception once because a student felt he had too much work going on and it didn't work out at all.\
+    > We try as much as we can to see these things coming - if they need more help, we'll try and help them out. What we have no control is the amount of effort they put in. If it's not a situation that's working out, we do ask them to leave. They have 4 weeks to make a decision for staying in program.
 
-3. **How many college students have you had in the past?**\
+3.  **How many college students have you had in the past?**\
 
-   > We get a lot of college graduates actually. We've had a few colleges students. At least a couple. In terms of other students, the backgrounds are all over the place, but they all have the motivation - these are people wanting to make a change professionally.
+    > We get a lot of college graduates actually. We've had a few colleges students. At least a couple. In terms of other students, the backgrounds are all over the place, but they all have the motivation - these are people wanting to make a change professionally.
 
-4. **What kind of process do your instructors go through?**\
+4.  **What kind of process do your instructors go through?**\
 
-   > They know a little bit of programming, are knowledgable in industry, have multiple projects/multiple systems over many years, and have 10 years or more of professional web development.
+    > They know a little bit of programming, are knowledgable in industry, have multiple projects/multiple systems over many years, and have 10 years or more of professional web development.
 
-5. **What do you guys recommend students do outside of the course?**\
+5.  **What do you guys recommend students do outside of the course?**\
 
-   > We make our students go to Meetups. Our current cohort is also `highly encouraged` to attend Startup Weekend and 2 of the 3 winning teams had members of DevLeague on them. Being proactive is something we encourage. Through collaborating and networking, you never know what kind of experiences you might get out of it - so we kind of put the pressure on our students sometimes. In the end, they're all going to have a website, a couple of projects on GitHub, and an updated LinkedIn profile. `This is a great strategy.`
+    > We make our students go to Meetups. Our current cohort is also `highly encouraged` to attend Startup Weekend and 2 of the 3 winning teams had members of DevLeague on them. Being proactive is something we encourage. Through collaborating and networking, you never know what kind of experiences you might get out of it - so we kind of put the pressure on our students sometimes. In the end, they're all going to have a website, a couple of projects on GitHub, and an updated LinkedIn profile. `This is a great strategy.`
 
-6. **If you were my age again (I'm 19), would you still attend a bootcamp like DevLeague? Why?**\
+6.  **If you were my age again (I'm 19), would you still attend a bootcamp like DevLeague? Why?**\
 
-   > I think I would, honestly. Getting a degree got me an interview, but most of the success I had was from free-lancing, teaching myself. It's crazy how long it took us to learn all this stuff vs how long it takes people these days - it's just crazy. I wish I had the opportunity to learn that quickly when I was younger. `Truth.`
+    > I think I would, honestly. Getting a degree got me an interview, but most of the success I had was from free-lancing, teaching myself. It's crazy how long it took us to learn all this stuff vs how long it takes people these days - it's just crazy. I wish I had the opportunity to learn that quickly when I was younger. `Truth.`
 
 ## Part 3: The Decision 💡
 

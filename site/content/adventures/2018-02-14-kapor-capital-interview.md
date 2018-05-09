@@ -5,7 +5,6 @@ description: How an MS in CS student with no prior VC experience got an intervie
 banner: https://i.imgur.com/MXLhBqa.png
 categories:
   - blog
-  - certainties
 tags:
   - kapor capital
   - venture capital
@@ -28,31 +27,31 @@ While I won't share every feeling I had from my interview day, I do want to give
 
 <!-- TOC depthFrom:3 depthTo:6 -->
 
-* [Position](#position)
-* [Process](#process)
-* [Onsite Interview Schedule](#onsite-interview-schedule)
-* [Asking Questions](#asking-questions)
-* [Answering Questions](#answering-questions)
-  * [What makes a good VC?](#what-makes-a-good-vc)
-  * [Do you feel the intense pressure to succeed?](#do-you-feel-the-intense-pressure-to-succeed)
-  * [Why you?](#why-you)
-  * [Break down the investment stages.](#break-down-the-investment-stages)
-  * [How do you keep up with the latest news? Is there a blog in particular?](#how-do-you-keep-up-with-the-latest-news-is-there-a-blog-in-particular)
-  * [Why ed-tech?](#why-ed-tech)
-  * [What do you believe this role involves?](#what-do-you-believe-this-role-involves)
-  * [What do you believe makes a good investment?](#what-do-you-believe-makes-a-good-investment)
-  * [Which of our portfolio companies do you like/dislike?](#which-of-our-portfolio-companies-do-you-likedislike)
-* [Essay Responses](#essay-responses)
-  * [Why do you want to intern at a social impact venture capital firm such as Kapor Capital?](#why-do-you-want-to-intern-at-a-social-impact-venture-capital-firm-such-as-kapor-capital)
-  * [What experience do you have volunteering, interning, or working to close gaps of access, opportunity or outcomes for low-income African American, Latinx, Pacific Islander, or Native American communities in the United States?](#what-experience-do-you-have-volunteering-interning-or-working-to-close-gaps-of-access-opportunity-or-outcomes-for-low-income-african-american-latinx-pacific-islander-or-native-american-communities-in-the-united-states)
-  * [Which of our investment sectors are you most interested in working and why? (Sectors: Edtech, FinTech, Digital Health/Med Device, People Operations Tech, or Justice). Please only choose 1 or 2 of the above sectors.](#which-of-our-investment-sectors-are-you-most-interested-in-working-and-why-sectors-edtech-fintech-digital-healthmed-device-people-operations-tech-or-justice-please-only-choose-1-or-2-of-the-above-sectors)
-  * [Are you currently enrolled in a MBA, MS, JD, PhD or have received a letter of acceptance from to start graduate studies in Fall 2017? (You do not have to be enrolled in a graduate program to apply).](#are-you-currently-enrolled-in-a-mba-ms-jd-phd-or-have-received-a-letter-of-acceptance-from-to-start-graduate-studies-in-fall-2017-you-do-not-have-to-be-enrolled-in-a-graduate-program-to-apply)
-  * [Why do you want a job in Venture Capital?](#why-do-you-want-a-job-in-venture-capital)
-* [Notes](#notes)
-  * [Relating to Interviewers](#relating-to-interviewers)
-    * [Brian/Carolina](#briancarolina)
-    * [Mr. Kapor](#mr-kapor)
-    * [Ellen Pao, Mrs. Kapor](#ellen-pao-mrs-kapor)
+- [Position](#position)
+- [Process](#process)
+- [Onsite Interview Schedule](#onsite-interview-schedule)
+- [Asking Questions](#asking-questions)
+- [Answering Questions](#answering-questions)
+  - [What makes a good VC?](#what-makes-a-good-vc)
+  - [Do you feel the intense pressure to succeed?](#do-you-feel-the-intense-pressure-to-succeed)
+  - [Why you?](#why-you)
+  - [Break down the investment stages.](#break-down-the-investment-stages)
+  - [How do you keep up with the latest news? Is there a blog in particular?](#how-do-you-keep-up-with-the-latest-news-is-there-a-blog-in-particular)
+  - [Why ed-tech?](#why-ed-tech)
+  - [What do you believe this role involves?](#what-do-you-believe-this-role-involves)
+  - [What do you believe makes a good investment?](#what-do-you-believe-makes-a-good-investment)
+  - [Which of our portfolio companies do you like/dislike?](#which-of-our-portfolio-companies-do-you-likedislike)
+- [Essay Responses](#essay-responses)
+  - [Why do you want to intern at a social impact venture capital firm such as Kapor Capital?](#why-do-you-want-to-intern-at-a-social-impact-venture-capital-firm-such-as-kapor-capital)
+  - [What experience do you have volunteering, interning, or working to close gaps of access, opportunity or outcomes for low-income African American, Latinx, Pacific Islander, or Native American communities in the United States?](#what-experience-do-you-have-volunteering-interning-or-working-to-close-gaps-of-access-opportunity-or-outcomes-for-low-income-african-american-latinx-pacific-islander-or-native-american-communities-in-the-united-states)
+  - [Which of our investment sectors are you most interested in working and why? (Sectors: Edtech, FinTech, Digital Health/Med Device, People Operations Tech, or Justice). Please only choose 1 or 2 of the above sectors.](#which-of-our-investment-sectors-are-you-most-interested-in-working-and-why-sectors-edtech-fintech-digital-healthmed-device-people-operations-tech-or-justice-please-only-choose-1-or-2-of-the-above-sectors)
+  - [Are you currently enrolled in a MBA, MS, JD, PhD or have received a letter of acceptance from to start graduate studies in Fall 2017? (You do not have to be enrolled in a graduate program to apply).](#are-you-currently-enrolled-in-a-mba-ms-jd-phd-or-have-received-a-letter-of-acceptance-from-to-start-graduate-studies-in-fall-2017-you-do-not-have-to-be-enrolled-in-a-graduate-program-to-apply)
+  - [Why do you want a job in Venture Capital?](#why-do-you-want-a-job-in-venture-capital)
+- [Notes](#notes)
+  - [Relating to Interviewers](#relating-to-interviewers)
+    - [Brian/Carolina](#briancarolina)
+    - [Mr. Kapor](#mr-kapor)
+    - [Ellen Pao, Mrs. Kapor](#ellen-pao-mrs-kapor)
 
 <!-- /TOC -->
 
@@ -85,12 +84,12 @@ The process actually wasn't too drawn out before the onsite but in order to diff
 
 You can do this by crafting excellent responses to the questions they ask and showcasing your best self through your previous experience/resume.
 
-1. applied online through posting
-2. call with [Ulili](//www.kaporcapital.com/who-we-are/uriridiakoghene-onovakpuri/) (who was recently promoted to partner at Kapor)
-3. onsite interview was scheduled for May 11, 2017
-4. fly to Oakland
-5. onsite interviews in Oakland
-6. final decision emailed to me
+1.  applied online through posting
+2.  call with [Ulili](//www.kaporcapital.com/who-we-are/uriridiakoghene-onovakpuri/) (who was recently promoted to partner at Kapor)
+3.  onsite interview was scheduled for May 11, 2017
+4.  fly to Oakland
+5.  onsite interviews in Oakland
+6.  final decision emailed to me
 
 ### Onsite Interview Schedule
 

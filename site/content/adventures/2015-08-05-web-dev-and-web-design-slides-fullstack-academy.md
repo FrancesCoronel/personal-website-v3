@@ -5,7 +5,6 @@ description: On June 18th, the 2nd Thursday  Fullstack Academy, I realized lot o
 banner: https://fvcproductions.files.wordpress.com/2015/08/githubwallpaper.jpg
 categories:
   - blog
-  - creativity
 tags:
   - featured
   - fullstack academy

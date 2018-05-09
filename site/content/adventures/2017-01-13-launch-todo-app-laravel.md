@@ -8,7 +8,6 @@ categories:
   - portfolio
   - tutorial
   - web
-  - coding
 tags:
   - laravel
   - laravel 5

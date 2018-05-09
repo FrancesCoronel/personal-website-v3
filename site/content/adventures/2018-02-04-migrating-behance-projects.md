@@ -5,7 +5,6 @@ description: Centralizing my work even further.
 banner: https://i.imgur.com/3EdwlW5.png
 categories:
   - blog
-  - certainties
 tags:
   - behance
 ---

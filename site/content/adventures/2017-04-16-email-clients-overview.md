@@ -4,7 +4,6 @@ description: A quick blurb on the state of email clients I've tried out.
 date: 2017-04-16
 categories:
   - blog
-  - certainties
 tags:
   - email
 ---

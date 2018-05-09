@@ -7,7 +7,6 @@ categories:
   - blog
   - tutorial
   - portfolio
-  - certainties
 tags:
   - spotify
   - playlists

@@ -5,7 +5,6 @@ description: "There's only one week of Fullstack Academy left. Overarching feeli
 banner: https://fvcproductions.files.wordpress.com/2015/08/banners-001.jpg
 categories:
   - blog
-  - certainties
 tags:
   - apple
   - at home advisor

@@ -21,34 +21,24 @@ categories:
   - experience
   - hackathon
   - portfolio
+    - book
+    - design
+    - mobile
+    - oss
+    - presentation
+    - research
+    - tutorial
+    - video
+    - web
   - program
+  - review
   - speaking
+    - bootcamps
+    - hourofcode
+    - typescript101
+    - webdesign
+    - wizard
   - volunteering
-# blog options
-  - certainties
-  - coding
-  - creativity
-# portfolio options
-  - book
-  - design
-  - mobile
-  - oss
-  - presentation
-  - research
-  - tutorial
-  - video
-  - web
-# review options
-  - 2018
-  - 2017
-  - 2016
-  - 2015
-# speaking options
-  - bootcamps
-  - hourofcode
-  - typescript101
-  - webdesign
-  - wizard
 tags:
   - tag
 ---

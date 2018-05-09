@@ -1,7 +1,16 @@
-Karaoke
+---
+title: Fun Karaoke Choices
+date: 2017-10-24
+description: Tailored for yours truly. Refer to this in times of need.
+categories:
+  - blog
+tags:
+  - karaoke
+---
 
-Wake Me Up
+## Wake Me Up
 
+```text
 Wake me up before you go go,
 Don't leave me hanging on like a yo-yo.
 Wake me up before you go go,
@@ -11,9 +20,11 @@ Wake me up before you go go,
 Wake me up before you go go,
 Take me dancing tonight.
 I want to hit that high
+```
 
-Hey Jude
+## Hey Jude
 
+```text
 Hey Jude, don't make it bad
 Take a sad song and make it better
 Remember to let her into your heart
@@ -29,9 +40,11 @@ Don't carry the world upon your shoulders
 For well you know that it's a fool who plays it cool
 By making his world a little colder
 Nah nah nah nah nah nah nah nah nah
+```
 
-Twist and Shout
+## Twist and Shout
 
+```text
 Well, shake it up, baby, now (Shake it up, baby)
 Twist and shout (Twist and shout)
 C'mon C'mon, C'mon, C'mon, baby, now (Come on baby)
@@ -44,15 +57,19 @@ Well, shake it up, baby, now (Shake it up, baby)
 Twist and shout (Twist and shout)
 C'mon C'mon, C'mon, C'mon, baby, now (Come on baby)
 Come on and work it on out (Work it on out)
+```
 
-The Lazy Song
+## The Lazy Song
 
+```text
 Today I don't feel like doing anything I just wanna lay in my bed Don't feel like picking up my phone So leave a message at the tone 'Cause today I swear I'm not doing anything
 Uh I'm gonna kick my feet up and stare at the fan Turn the t.v. on Throw my hand in my pants Nobody's gon' tell me I cant, no
 I'll be loungin' on the couch just chillin' in my snuggie Flip to MTV so they can teach me how to Dougie 'Cause in my castle I'm the freakin' man
+```
 
-Viva la Vida
+## Viva la Vida
 
+```text
 I used to rule the world
 Seas would rise when I gave the word
 Now in the morning I sleep alone
@@ -66,9 +83,11 @@ One minute I held the key
 Next the walls were closed on me
 And I discovered that my castles stand
 Upon pillars of salt and pillars of sand
+```
 
-Wonderwall
+## Wonderwall
 
+```text
 Today is gonna be the day
 That they're gonna throw it back to you
 By now you should've somehow
@@ -81,9 +100,11 @@ I'm sure you've heard it all before
 But you never really had a doubt
 I don't believe that anybody
 Feels the way I do about you now
+```
 
-Hey There Delilah
+## Hey There Delilah
 
+```text
 Hey there Delilah
 What's it like in New York City?
 I'm a thousand miles away
@@ -98,9 +119,11 @@ Give this song another listen
 Close your eyes
 Listen to my voice, it's my disguise
 I'm by your side
+```
 
-Mr Brightside
+## Mr Brightside
 
+```text
 Coming out of my cage
 And I've been doing just fine
 Gotta gotta be down
@@ -118,9 +141,11 @@ And it's all in my head
 But she's touching his chest
 Now, he takes off her dress
 Now, let me go
+```
 
-All Star
+## All Star
 
+```text
 Somebody once told me the world is gonna roll me
 I ain't the sharpest tool in the shed
 She was looking kind of dumb with her finger and her thumb
@@ -133,17 +158,21 @@ So much to do, so much to see
 So what's wrong with taking the back streets?
 You'll never know if you don't go
 You'll never shine if you don't glow
+```
 
-Home
+## Home
 
+```text
 Alabama, Arkansas I do love my ma and pa Not that way that I do love you
 Holy moley, me oh my You're the apple of my eye Girl, I've never loved one like you
 Man, oh man, you're my best friend I scream it to the nothingness There ain't nothing that I need
 Well, hot and heavy, pumpkin pie Chocolate candy, Jesus Christ Ain't nothing please me more than you
 Ah, home, let me go home Home is wherever I'm with you Ah, home, let me go home Home is wherever I'm with you
+```
 
-Total Eclipse of the Heart
+## Total Eclipse of the Heart
 
+```text
 Turnaround, every now and then I get a little bit lonely
 And you're never coming round
 Turnaround, every now and then I get a little bit tired
@@ -167,9 +196,11 @@ We're living in a powder keg and giving off sparks
 I really need you tonight
 Forever's gonna start tonight
 Forever's gonna start tonight
+```
 
-My Way
+## My Way
 
+```text
 And now, the end is near
 And so I face the final curtain
 My friend, I'll say it clear
@@ -178,5 +209,4 @@ I've lived a life that's full
 I've traveled each and every highway
 But more, much more than this
 I did it my way
-
-
+```

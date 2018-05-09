@@ -9,7 +9,6 @@ categories:
   - blog
   - conference
   - volunteering
-  - certainties
 tags:
   - 757 developers
   - 757dev
