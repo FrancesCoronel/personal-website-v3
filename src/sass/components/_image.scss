@@ -92,17 +92,17 @@ img.emoji {
   background: #000;
   text-align: right;
   z-index: 5;
-  opacity: 0.5;
+  opacity: 1;
   @include breakpoint(small) {
     @include image-caption-shared;
     float: right;
   }
 }
 
-.small-image > img {
+.small-image>img {
   width: 50% !important;
 }
 
-.extra-small-image > img {
+.extra-small-image>img {
   width: 25% !important;
 }

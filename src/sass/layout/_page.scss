@@ -1,6 +1,18 @@
 .page {
   margin: 0 auto;
   width: 100%;
+  @include breakpoint(tablet) {
+    width: 75%;
+  }
+  @include breakpoint(laptop) {
+    width: 65%;
+  }
+  @include breakpoint(xlaptop) {
+    width: 55%
+  }
+  @include breakpoint(fourk) {
+    width: 50%
+  }
   h1,
   h2,
   h3,
@@ -61,22 +73,6 @@
     }
     img.emoji {
       margin-right: 0.25em;
-    }
-  }
-  @include breakpoint(tablet) {
-    width: 75%;
-  }
-  @include breakpoint(laptop) {
-    width: 65%;
-  }
-}
-
-.contact-section,
-.sharing-section {
-  ul.icons {
-    margin: 0;
-    li {
-      padding-left: 0;
     }
   }
 }

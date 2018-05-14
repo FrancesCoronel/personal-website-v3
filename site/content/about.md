@@ -6,7 +6,6 @@ caption: The quintessential portrait
 alphabetical: true
 noComments: true
 noTimeEstimate: true
-about: true
 aliases:
   - /home/about/
   - /about-me/

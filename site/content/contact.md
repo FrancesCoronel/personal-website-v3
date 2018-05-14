@@ -35,7 +35,7 @@ Because of high demand, as of March 2018, I will be charging $30 per hour for me
 
 So before booking a mentoring session through Calendly, please make sure to [Cash](//cash.me/$fvcprdxs) or [Venmo](//venmo.com/fvcproductions) me the appropriate amount.
 
-> If you are a Black or Latina female and you are currently a software engineer or aspire to be one, you can book a session with me for free.
+> If you are a Black or Latinx female and you are currently a software engineer or aspire to be one, you can book a session with me for free.
 >
 > If you are a part of the [Out of Office Hours](//www.outofofficehours.com/) program, you can also book a session for free.
 

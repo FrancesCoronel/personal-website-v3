@@ -70,7 +70,11 @@ export default {
     new WorkboxPlugin({
       cacheId: "fvcproductions",
       globDirectory: "dist",
-      globPatterns: ["index.html", "404.html", "**/*.{css,png,gif,jpg,svg,xml,js,ico,json}"],
+      globPatterns: [
+        "index.html",
+        "404.html",
+        "**/*.{css,png,gif,jpg,svg,xml,js,ico,json}"
+      ],
       globStrict: false,
       swDest: path.join("dist", "sw.js"),
       maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
@@ -105,7 +109,7 @@ export default {
           handler: "staleWhileRevalidate"
         },
         {
-          urlPattern: new RegExp("https://twemoji.maxcdn.com"),
+          urlPattern: new RegExp("https://twitter.github.io"),
           handler: "staleWhileRevalidate"
         }
       ]

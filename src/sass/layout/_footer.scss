@@ -1,13 +1,12 @@
 .footer {
   $gutter: _size(gutter);
-  padding: 1em;
+  padding: 2em 0;
   margin-top: 2em;
   background-color: _palette(fg);
   color: white;
   #wrapper .inner {
     padding: 0;
   }
-
   .inner {
     max-width: 100%;
     padding: 0;
@@ -17,7 +16,7 @@
     @include vendor("flex-direction", "row");
     text-align: center;
     justify-content: center;
-    > * > :last-child {
+    >*> :last-child {
       margin-bottom: 0;
     }
     .fa-copyright,
@@ -34,7 +33,7 @@
     ul.icons {
       margin: 0;
       li {
-        padding: 1em;
+        padding: .5em;
       }
       font-size: 1.5em;
     }
@@ -55,7 +54,7 @@
     }
     .copyright {
       width: 100%;
-      padding: 1em;
+      padding: 2em 0 0 1em;
       list-style: none;
     }
   }
@@ -66,7 +65,7 @@
     $gutter: _size(gutter);
   }
   @include breakpoint(small) {
-    > .inner {
+    >.inner {
       @include vendor("flex-direction", "column");
       section:nth-child(1) {
         width: 100%;
@@ -78,7 +77,7 @@
     }
   }
   @include breakpoint(xsmall) {
-    > .inner {
+    >.inner {
       .copyright {
         li {
           border-left: 0;

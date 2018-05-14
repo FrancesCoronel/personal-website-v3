@@ -150,8 +150,15 @@ $fa-color in $fa-social {
   }
 }
 
-.contact-section.social-icons {
-  font-size: 1.25em;
+.contact-section,
+.sharing-section {
+  ul.icons {
+    margin: 0;
+    width: 100%;
+    li {
+      padding: .1em .1em .1em 0;
+    }
+  }
 }
 
 .large-emoji {

@@ -17,11 +17,8 @@
   ],
   "editor.fontSize": 18,
   "editor.formatOnSave": true,
-  "editor.tabSize": 2,
   "editor.wordWrap": "on",
-  "eslint.enable": true,
   "files.trimTrailingWhitespace": true,
   "markdown.extension.preview.autoShowPreviewToSide": false,
-  "prettier.eslintIntegration": true,
   "workbench.editor.enablePreview": false
 }

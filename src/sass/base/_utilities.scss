@@ -32,10 +32,10 @@
 }
 
 .return-to-top {
-  -moz-transition: all 2s ease-in;
-  -ms-transition: all 2s ease-in;
-  -o-transition: all 2s ease-in;
-  -webkit-transition: all 2s ease-in;
+  -moz-transition: all .5s ease;
+  -ms-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  -webkit-transition: all .5s ease;
   bottom: 1em;
   color: _palette(fg);
   display: none;
@@ -43,18 +43,13 @@
   position: fixed;
   right: 1em;
   text-decoration: none;
-  transition: all 2s ease-in;
+  transition: all .5s ease;
   z-index: 5000;
   &:hover {
-    color: #607d8b;
+    color: $strawberry-dark;
   }
 }
 
 .return-to-top-show {
   display: block;
-  transition: all 2s ease-out;
-  -moz-transition: all 2s ease-out;
-  -ms-transition: all 2s ease-out;
-  -o-transition: all 2s ease-out;
-  -webkit-transition: all 2s ease-out;
 }
