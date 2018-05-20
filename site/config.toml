@@ -1,8 +1,9 @@
-baseURL                       = "https://fvcproductions.com"
+baseURL                       = "https://www.fvcproductions.com"
 title                         = "FVCproductions"
 metaDataFormat                = "yaml"
 enableEmoji                   = true
 footnoteReturnLinkContents    = "↩"
+copyright                     = "This work is licensed under MIT."
 
 # Language
 languageCode                  = "en-us"
@@ -20,6 +21,12 @@ pygmentsStyle                 = "manni"
 # Internal Templates
 googleAnalytics               = "UA-63190978-3"
 disqusShortname               = "fvcproductions"
+
+# Author
+[author]
+    name                      = "Frances Coronel"
+    copyright                 = "©️ FVCproductions"
+    email                     = "hello@fvcproductions.com"
 
 # RSS
 [outputs]
@@ -87,7 +94,3 @@ disqusShortname               = "fvcproductions"
     # wordpress               = "fvcproductions"
     # yelp                    = "E6StflkoWAutmRZ31zNTug"
     youtube                   = "fvcproductions2013"
-
-[author]
-    name                      = "Frances Coronel"
-    copyright                 = "©️ FVCproductions"
