@@ -24,7 +24,7 @@ tags:
   - web dev
 ---
 
-So this past winter, I applied to [**Bitmaker Labs**](//bitmakerlabs.com "BitmakerLabs") for their summer 2014 full-time web development immersive course and was accepted.
+So this past winter, I applied to [**Bitmaker Labs**](//bitmakerlabs.com 'BitmakerLabs') for their summer 2014 full-time web development immersive course and was accepted.
 
 Bitmaker Labs is a coding boot camp located in Toronto, Canada that focuses on making curious people great web developers within 9 weeks.
 
@@ -36,14 +36,8 @@ Not only do they have a web-development immersive session, they also specialize 
 
 The people who interviewed me were extremely amiable and I never felt too antsy all throughout the process.
 
-You can learn more about Bitmaker Labs courses at their wonderfully designed website located [here](//bitmakerlabs.com/courses/ "Bitmaker Lab Courses").
+You can learn more about Bitmaker Labs courses at their wonderfully designed website located [here](//bitmakerlabs.com/courses/ 'Bitmaker Lab Courses').
 
 Bitmaker Labs definitely sounds like a worthy investment, so don't hesitate!
 
 Oh, and then actually make sure your schedule works around it. It'll save you some trouble.
-
-I've also included the curriculum they sent me while I was involved in the application process.
-
-Here it is:
-
-\[scribd id=212098992 key=key-hh0dv63n5f06s1eiopj mode=scroll\]

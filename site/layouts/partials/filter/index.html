@@ -9,37 +9,38 @@
     <!-- Adventures -->
     {{ if .Params.adventures }}
     <section class="section tiles filtered-grid plain">
-      {{ $adventures := .Pages | union (.Sections) }} {{ range $adventures.ByDate.Reverse }} {{ partial "page/body/tiles/tile-plain.html" . }} {{ end }}
+      {{ $adventures := .Pages | union (.Sections) }}{{ range $adventures.ByDate.Reverse }}{{ partial "page/body/tiles/tile-plain.html" . }}{{ end }}
     </section>
     {{ end }}
     <!-- Awards -->
     {{ if .Params.awards }}
     <section class="section tiles filtered-grid plain">
-      {{ $awards := ($.Site.Taxonomies.categories.award).Pages }} {{ range $awards.ByDate.Reverse }} {{ partial "page/body/tiles/tile-plain.html" . }} {{ end }}
+      {{ $awards := ($.Site.Taxonomies.categories.award).Pages }}{{ range $awards.ByDate.Reverse }}{{ partial "page/body/tiles/tile-plain.html" . }}{{ end }}
     </section>
     {{ end }}
     <!-- Blogging -->
     {{ if .Params.blog }}
     <section class="section tiles filtered-grid plain">
-      {{ $posts := ($.Site.Taxonomies.categories.blog).Pages }} {{ range $posts.ByDate.Reverse }} {{ partial "page/body/tiles/tile-plain.html" . }} {{ end }}
+      {{ $posts := ($.Site.Taxonomies.categories.blog).Pages }}{{ range $posts.ByDate.Reverse }} {{ partial "page/body/tiles/tile-plain.html" . }}{{ end }}
     </section>
     {{ end }}
     <!-- Reviews -->
     {{ if .Params.reviews }}
     <section class="section tiles filtered-grid">
-      {{ $reviews := ($.Site.Taxonomies.categories.review).Pages }} {{ range $reviews.ByDate.Reverse }} {{ partial "page/body/tiles/tile.html" . }} {{ end }}
+      {{ $reviews := ($.Site.Taxonomies.categories.review).Pages }}{{ range $reviews.ByDate.Reverse }}{{ partial "page/body/tiles/tile.html" . }}{{ end }}
     </section>
     {{ end }}
     <!-- Portfolio -->
     {{ if .Params.portfolio }}
     <section class="section tiles filtered-grid">
-      {{ $projects := ($.Site.Taxonomies.categories.portfolio).Pages }} {{ range $projects.ByDate.Reverse }} {{ partial "page/body/tiles/tile-plain.html" . }} {{ end }}
+      {{ $projects := ($.Site.Taxonomies.categories.portfolio).Pages }}{{ range $projects.ByDate.Reverse }}{{ partial "page/body/tiles/tile-plain.html" . }}{{ end }}
     </section>
     {{ end }}
     <!-- Speaking -->
     {{ if .Params.speaking }}
+    <!-- Talks -->
     <section class="section tiles filtered-grid">
-      {{ $talks := ($.Site.Taxonomies.categories.speaking).Pages }} {{ range $talks.ByDate.Reverse }} {{ partial "page/body/tiles/tile-plain-image.html" . }} {{ end }}
+      {{ $speaking := ($.Site.Taxonomies.categories.speaking).Pages }}{{ range $speaking.ByDate.Reverse }}{{ partial "page/body/tiles/tile-plain-image.html" . }}{{ end }}
     </section>
     {{ end }}
   </div>

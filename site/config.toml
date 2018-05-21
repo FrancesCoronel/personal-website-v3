@@ -5,6 +5,9 @@ enableEmoji                   = true
 footnoteReturnLinkContents    = "↩"
 copyright                     = "This work is licensed under MIT."
 
+[taxonomies]
+    category                  = "categories"
+
 # Language
 languageCode                  = "en-us"
 defaultContentLanguage        = "en"
@@ -31,7 +34,7 @@ disqusShortname               = "fvcproductions"
 # RSS
 [outputs]
     home                      = ["HTML", "AMP", "RSS"]
-    page                      = ["HTML", "AMP"]
+    page                      = ["HTML"]
 
 [outputFormats]
     [outputFormats.RSS]

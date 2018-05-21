@@ -21,11 +21,7 @@ If you'd like me to speak at an event, don't hesitate to [reach out](/contact)!
 
 ---
 
-## ⌚️ Upcoming Events
-
-### [NationJS](//nationjs.com/main/index) - May 18th
-
-* Progressive Web Apps 101 (Talk)
+## ⌚️ Upcoming Speaking Events
 
 ### [We RISE Tech Conference](//twitter.com/WeRiseConf/status/971815420142419968) - June 21st
 
@@ -39,7 +35,3 @@ If you'd like me to speak at an event, don't hesitate to [reach out](/contact)!
 
 * TypeScript 101 (Talk)
 * Progressive Web Apps 101 (Talk)
-
----
-
-## 🗨️ Presentations

@@ -21,18 +21,18 @@
         {{ .Title }} {{ if .Params.link }}↗️{{ end }}
       </h2>
       <!-- Description -->
-      {{ if .Description }}
+      <!-- {{ if .Description }}
       <div class="content">
         <p>
-          {{ .Description | truncate 50 | safeHTML }}
+          {{ .Description | truncate 25 | safeHTML }}
         </p>
       </div>
       {{ else }}
       <div class="content">
         <p>
-          {{ .Summary | truncate 50 | safeHTML }}
+          {{ .Summary | truncate 25 | safeHTML }}
         </p>
       </div>
-      {{ end }}
+      {{ end }} -->
     </a>
 </article>

@@ -1,6 +1,6 @@
 <div class="page-footer">
   <!-- Contact -->
-  {{ if .Params.contact }} {{ partial "page/footer/contact/index.html" . }} {{ end }}
+  {{ if .Params.contact }}{{ partial "page/footer/contact/index.html" . }}{{ end }}
   <!-- Sharing -->
   {{ partial "page/footer/sharing/index.html" . }}
   <!-- Donate -->
@@ -9,6 +9,8 @@
   {{ partial "page/footer/subscribe.html" . }}
   <!-- Disqus Comments -->
   {{ partial "page/footer/comments.html" . }}
+  <!-- Related -->
+  {{ partial "page/footer/related.html" . }}
   <!-- Pagination -->
   {{ partial "page/footer/pagination.html" . }}
 </div>

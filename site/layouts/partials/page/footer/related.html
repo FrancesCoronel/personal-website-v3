@@ -1,0 +1,46 @@
+{{ if .Params.categories }}
+<div class="page-section related-section">
+  <div class="12u$">
+    <h3>
+      💭 {{ .Site.Data.i18n.en.related }}
+    </h3>
+    {{ $page_link := .Permalink }}{{ $categories := .Params.categories }}
+    <section class="section tiles">{{ range $page := .Site.Pages }}{{ $has_common_categories := intersect $categories .Params.categories | len | lt 0 }}{{ if and $has_common_categories (ne $page_link $page.Permalink) (lt ($.Scratch.Get "$c") 3)}}{{ $.Scratch.Add "$c" 1 }}
+      <article class="plain-tile full-width related-tile">
+        <div class="content">
+          <!-- Date -->
+          {{ if not $page.PublishDate.IsZero }}
+          <p class="small">
+            {{ dateFormat "Monday - January 2, 2006" $page.Date }}
+          </p>
+          {{ end }}
+          <!-- Title -->
+          {{ if $page.Params.link }}
+          <a href="{{ .Params.link }}" target="_blank" rel="noopener">
+            <h4>
+              {{ $page.Title }} ↗️
+            </h4>
+          </a>
+          {{ else }}
+          <a href="{{ $page.RelPermalink }}">
+            <h4>
+              {{ $page.Title }}
+            </h4>
+          </a>
+          {{ end }}
+          <!-- Description -->
+          {{ if $page.Description }}
+          <p>
+            {{ $page.Description | truncate 100 | safeHTML }}
+          </p>
+          {{ else }}
+          <p>
+            {{ $page.Summary | truncate 100 | safeHTML }}
+          </p>
+          {{ end }}
+        </div>
+      </article>
+      {{ end }}{{ end }}</section>
+  </div>
+</div>
+{{ end }}

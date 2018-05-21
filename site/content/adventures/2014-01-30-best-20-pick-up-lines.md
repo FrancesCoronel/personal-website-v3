@@ -3,6 +3,8 @@ title: "The Best 20 Pick Up Lines"
 date: 2014-01-30
 description: "Pick up lines I thought of."
 banner: https://fvcproductions.files.wordpress.com/2014/03/banners-0011.jpg?w=1024&h=436&crop=1
+categories:
+    - blog
 tags:
     - alien
     - beauty
@@ -36,8 +38,6 @@ tags:
     - walk
     - whales
     - word
-categories:
-    - blog
 ---
 
 I originally made this list January 30, 2014.
@@ -50,16 +50,16 @@ And while it may be hard to insult someone, it's much harder to make 'em swoon.
 
 Most of these are cheesy, but hey maybe I'm just cheesy for you (_see what I did there?_).
 
-1. (holds out hand) Would you hold this for me while I go for a walk?
-2. You look cold. Want to use me as a blanket?
-3. I wanna live in your socks so I can be with you every step of the way.
-4. There isn't a word in the dictionary for how good you look.
-5. Gee, it looks like there is something wrong with my cell phone, it doesn't have your number in it.
-6. Kiss me if I'm wrong, but dinosaurs still exist, right? (One can also substitute the dinosaurs with something else obviously false, for example: "but Justin Bieber produces good music, right?". Of course, if the girl decides that yes, Justin Bieber does do that, then you're probably dating too young and are in risk of pedophilia-related charges. Shame on you!)
-7. Your lips look so lonely... would they like to meet mine?
-8. Excuse me, I just noticed you noticing me and I just wanted to give you notice that I noticed you too.
-9. If I were a transplant surgeon, I'd give you my heart.
-10. I'm sorry, were you talking to me? \[No\] Well then, please start.
+1.  (holds out hand) Would you hold this for me while I go for a walk?
+2.  You look cold. Want to use me as a blanket?
+3.  I wanna live in your socks so I can be with you every step of the way.
+4.  There isn't a word in the dictionary for how good you look.
+5.  Gee, it looks like there is something wrong with my cell phone, it doesn't have your number in it.
+6.  Kiss me if I'm wrong, but dinosaurs still exist, right? (One can also substitute the dinosaurs with something else obviously false, for example: "but Justin Bieber produces good music, right?". Of course, if the girl decides that yes, Justin Bieber does do that, then you're probably dating too young and are in risk of pedophilia-related charges. Shame on you!)
+7.  Your lips look so lonely... would they like to meet mine?
+8.  Excuse me, I just noticed you noticing me and I just wanted to give you notice that I noticed you too.
+9.  If I were a transplant surgeon, I'd give you my heart.
+10. I'm sorry, were you talking to me? No? Well then, please start.
 11. Was you father an alien? Because there's nothing else like you on Earth!
 12. You be the Dairy Queen and I'll be your Burger King: You treat me right, and I'll do it your way.
 13. You must be Jamaican, because Jamaican me crazy. (The cheese king of all cheesy pick up lines)

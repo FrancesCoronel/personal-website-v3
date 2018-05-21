@@ -12,8 +12,6 @@ aliases:
   - /home/awards/
 ---
 
-# An overview of my awards & press recognitions.
-
 <!-- ## 2016
 
 * [CRA-Women Grad Cohort Workshop | Scholarship Recipient](http://cra.org/cra-w/grad-cohort-workshop/)

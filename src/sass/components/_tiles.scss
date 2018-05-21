@@ -6,13 +6,13 @@
   justify-content: center;
   @include vendor("flex-wrap", "wrap");
   position: relative;
-  margin: -0.5em 0 0 -0.5em;
+  margin: 0;
   overflow: hidden;
   article {
     @include vendor("transition", ("opacity #{$duration} #{$ease}"));
     position: relative;
     width: calc(#{(100% / 3)} - #{$gutter * 0.5});
-    margin: 0.5em 0 0 0.5em;
+    margin: .5em;
     &.mix {
       h2 {
         font-size: larger;
@@ -50,10 +50,10 @@
         }
       }
       &.full-width {
-        width: 95%;
+        width: 100%;
       }
     }
-    > .image {
+    >.image {
       // @include vendor("transition", "transform #{$duration} #{$ease}");
       position: relative;
       display: block;
@@ -66,13 +66,7 @@
       }
       &:before {
         @include vendor("pointer-events", "none");
-        @include vendor(
-          "transition",
-          (
-            "background-color #{$duration} #{$ease}",
-            "opacity #{$duration} #{$ease}"
-          )
-        );
+        @include vendor( "transition", ( "background-color #{$duration} #{$ease}", "opacity #{$duration} #{$ease}"));
         content: "";
         display: block;
         position: absolute;
@@ -101,18 +95,12 @@
         z-index: 2;
       }
     }
-    > a {
+    >a {
       @include vendor("display", "flex");
       @include vendor("flex-direction", "column");
       @include vendor("align-items", "center");
       @include vendor("justify-content", "center");
-      @include vendor(
-        "transition",
-        (
-          "background-color #{$duration} #{$ease}",
-          "transform #{$duration} #{$ease}"
-        )
-      );
+      @include vendor( "transition", ( "background-color #{$duration} #{$ease}", "transform #{$duration} #{$ease}"));
       position: absolute;
       top: 0;
       left: 0;
@@ -138,10 +126,7 @@
         margin: 0;
       }
       .content {
-        @include vendor(
-          "transition",
-          ("max-height #{$duration} #{$ease}", "opacity #{$duration} #{$ease}")
-        );
+        @include vendor( "transition", ("max-height #{$duration} #{$ease}", "opacity #{$duration} #{$ease}"));
         width: 100%;
         max-height: 0;
         line-height: 1.5;
@@ -153,13 +138,13 @@
       }
     }
     &.style1 {
-      > .image:before {
+      >.image:before {
         background-color: #333;
       }
     }
     body:not(.is-touch) & {
       &:hover {
-        > .image {
+        >.image {
           //@include vendor("transform", "scale(1.1)");
           &:before {
             background-color: _palette(bg-accent);
@@ -183,40 +168,32 @@
     }
   }
   @include breakpoint(large) {
-    $gutter: _size(gutter) * 0.5;
-    // margin: ($gutter * -1) 0 0 ($gutter * -1);
+    $gutter: _size(gutter) * 0.5; // margin: ($gutter * -1) 0 0 ($gutter * -1);
     article {
-      width: calc(#{(100% / 3)} - #{$gutter * 1});
-      // margin: $gutter 0 0 $gutter;
+      width: calc(#{(100% / 3)} - #{$gutter * 1}); // margin: $gutter 0 0 $gutter;
     }
   }
   @include breakpoint(medium) {
-    $gutter: _size(gutter);
-    // margin: ($gutter * -1) 0 0 ($gutter * -1);
+    $gutter: _size(gutter); // margin: ($gutter * -1) 0 0 ($gutter * -1);
     article {
-      width: calc(#{(100% / 2)} - #{$gutter * 1});
-      // margin: 1em;
+      width: calc(#{(100% / 2)} - #{$gutter * 1}); // margin: 1em;
     }
   }
   @include breakpoint(small) {
-    $gutter: _size(gutter) * 0.5;
-    // margin: ($gutter * -1) 0 0 ($gutter * -1);
+    $gutter: _size(gutter) * 0.5; // margin: ($gutter * -1) 0 0 ($gutter * -1);
     article {
-      width: calc(#{(100% / 1)} - #{$gutter * 1});
-      // margin: 1em;
+      width: calc(#{(100% / 1)} - #{$gutter * 1}); // margin: 1em;
       &:hover {
-        > .image {
+        >.image {
           @include vendor("transform", "scale(1.0)");
         }
       }
     }
   }
   @include breakpoint(xsmall) {
-    $gutter: _size(gutter) * 0.4;
-    // margin: 0;
+    $gutter: _size(gutter) * 0.4; // margin: 0;
     article {
-      width: 100%;
-      // margin: 1em;
+      width: 100%; // margin: 1em;
     }
   }
 }

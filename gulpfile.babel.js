@@ -38,61 +38,61 @@ gulp.task("build", ["clean", "hugo", "sass", "js", "img", "static"], (callback) 
 // Minify HTML
 gulp.task("minify", () =>
   gulp
-    .src("./dist/**/*.html")
-    .pipe(
-      htmlmin({
-        collapseWhitespace: true,
-        minifyCSS: true,
-        minifyJS: true,
-        removeComments: true,
-        useShortDoctype: true
-      })
-    )
-    .pipe(
-      brotli.compress({
-        skipLarger: true,
-        mode: 0,
-        quality: 11,
-        lgblock: 0
-      })
-    )
-    .pipe(
-      gzip({
-        skipGrowingFiles: true
-      })
-    )
-    .pipe(gulp.dest("./dist"))
+  .src("./dist/**/*.html")
+  .pipe(
+    htmlmin({
+      collapseWhitespace: true,
+      minifyCSS: true,
+      minifyJS: true,
+      removeComments: true,
+      useShortDoctype: true
+    })
+  )
+  .pipe(
+    brotli.compress({
+      skipLarger: true,
+      mode: 0,
+      quality: 11,
+      lgblock: 0
+    })
+  )
+  .pipe(
+    gzip({
+      skipGrowingFiles: true
+    })
+  )
+  .pipe(gulp.dest("./dist"))
 );
 
 // Compress SASS
 gulp.task("sass", () =>
   gulp
-    .src("./src/sass/main.scss")
-    .pipe(
-      sass({
-        outputStyle: "compressed"
-      }).on("error", sass.logError)
-    )
-    .pipe(postcss([autoprefixer(), cssnano(), csso()]))
-    .pipe(sourcemaps.write("."))
-    .pipe(gulp.dest("./dist/assets/css"))
-    .pipe(browserSync.stream())
+  .src("./src/sass/main.scss")
+  .pipe(
+    sass({
+      outputStyle: "compressed"
+    }).on("error", sass.logError)
+  )
+  .pipe(postcss([autoprefixer(), cssnano(), csso()]))
+  .pipe(sourcemaps.write("."))
+  .pipe(gulp.dest("./dist/assets/css"))
+  .pipe(browserSync.stream())
 );
 
 // Compress images
 gulp.task("img", () =>
   gulp
-    .src("./src/img/**/*")
-    .pipe(imagemin())
-    .pipe(gulp.dest("./dist/assets/img"))
+  .src("./src/img/**/*")
+  .pipe(imagemin())
+  .pipe(gulp.dest("./dist/assets/img"))
 );
 
 // Copy static files
 gulp.task("static", () =>
   gulp
-    .src("./src/static/**/*")
-    .pipe(gulp.dest("./dist/assets"))
-    .pipe(browserSync.stream())
+  .src("./src/static/**/*")
+  .pipe(gulp.dest("./dist/assets"))
+  .pipe(browserSync.stream())
 );
 
 // Clean up dist
