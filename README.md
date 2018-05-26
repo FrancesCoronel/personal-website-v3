@@ -12,7 +12,7 @@
 
 My blog and portfolio all in one.
 
-View my website at [`fvcproductions.com`](https://fvcproductions.com).
+View my website at [`https://www.fvcproductions.com`](https://www.fvcproductions.com).
 
 This website is a migration from my old Wordpress website at [`fvcproductions.wordpress.com`](https://fvcproductions.wordpress.com).
 
@@ -54,7 +54,7 @@ npm run deploy
 
 ## Tools & Typography
 
-* See [Colophon](https://fvcproductions.com/colophon).
+* See [Colophon](https://www.fvcproductions.com/colophon).
 
 ## Contributing
 
@@ -66,11 +66,11 @@ So if you have any suggestions, feel free to contribute!
 
 > To get started...
 
-1. 🍴 [Fork this repo](https://github.com/fvcproductions/fvcproductions.github.io#fork-destination-box)
-2. 🔨 View the contributing guidelines at [CONTRIBUTING.md](.github/CONTRIBUTING.md)
-3. 👥 Add yourself as a contributor under the Credits section
-4. 🔧 [Open a new pull request](https://github.com/fvcproductions/fvcproductions.github.io/compare)
-5. 🎉 Get your pull request approved - success!
+1.  🍴 [Fork this repo](https://github.com/fvcproductions/fvcproductions.github.io#fork-destination-box)
+2.  🔨 View the contributing guidelines at [CONTRIBUTING.md](.github/CONTRIBUTING.md)
+3.  👥 Add yourself as a contributor under the Credits section
+4.  🔧 [Open a new pull request](https://github.com/fvcproductions/fvcproductions.github.io/compare)
+5.  🎉 Get your pull request approved - success!
 
 Or just [create an issue](https://github.com/fvcproductions/fvcproductions.github.io/issues) - any little bit of help counts! 😊
 

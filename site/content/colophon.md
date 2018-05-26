@@ -12,6 +12,12 @@ aliases:
 
 ## Copyright ∞ FVCproductions
 
+The URL for this website is https://www.fvcproductions.com and there are 3 different URLs that redirect to it:
+
+* fvcproductions.com
+* latinasoftwareengineer.com
+* latinaswe.com
+
 Originally published 2013.
 
 Website design, development, and copy writing by Frances Coronel.
