@@ -5,9 +5,6 @@ enableEmoji                   = true
 footnoteReturnLinkContents    = "↩"
 copyright                     = "This work is licensed under MIT."
 
-[taxonomies]
-    category                  = "categories"
-
 # Language
 languageCode                  = "en-us"
 defaultContentLanguage        = "en"
@@ -97,3 +94,6 @@ disqusShortname               = "fvcproductions"
     # wordpress               = "fvcproductions"
     # yelp                    = "E6StflkoWAutmRZ31zNTug"
     youtube                   = "fvcproductions2013"
+
+[taxonomies]
+    category                  = "categories"

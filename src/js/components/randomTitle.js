@@ -14,7 +14,7 @@ var altTitles = [
   "My precious. 💍",
   "Do you read me, HAL? 🔴",
   "Expecto patronum! ⚡",
-  "You've been such a peach! 🍑"
+  "You've been just peachy! 🍑",
 ];
 
 window.onblur = () => {
