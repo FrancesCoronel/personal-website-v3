@@ -3,6 +3,9 @@ title: My Designlab Experience 🎨
 date: 2015-10-21
 description: My personal experience with Designlab, an online platform for learning web and mobile design skills.
 banner: https://i.imgur.com/XvuQKSk.jpg
+aliases:
+  - /2015/10/21/my-designlab-experience/
+  - /portfolio/designlab-submissions/
 categories:
   - blog
   - program
@@ -110,7 +113,7 @@ I received a few items in the mail August 31st - ooh la la. The book "Steal Like
 
 ![Designlab - Mentor](https://fvcproductions.files.wordpress.com/2015/10/designlab-mentor.png)
 
-My mentor, [Chad](//chadtrutt.com/ "Chad Trutt") was pretty cool. I checked out his website and he has some killer work, like this pepper:
+My mentor, [Chad](//chadtrutt.com/ 'Chad Trutt') was pretty cool. I checked out his website and he has some killer work, like this pepper:
 
 ![Low-Poly Chilli Pepper](https://cdn.dribbble.com/users/136678/screenshots/1560457/chilipepper_behance_1x.jpg)
 
@@ -143,7 +146,7 @@ I explored each project more in depth [on this page](//fvcproductions.com/portfo
 
 ### The Difference
 
-The difference, I believe, between something like [DailyUI](//chadtrutt.com/ "Chad Trutt") challenges and [Designlab](//trydesignlab.com "Designlab") is the amount of feedback you're going to get. I feel the main thing you're paying for is the community and feedback. The articles they provide as mini-lessons before each project are all actually free online somewhere, but, nonetheless, they were **very** well selected.
+The difference, I believe, between something like [DailyUI](//chadtrutt.com/ 'Chad Trutt') challenges and [Designlab](//trydesignlab.com 'Designlab') is the amount of feedback you're going to get. I feel the main thing you're paying for is the community and feedback. The articles they provide as mini-lessons before each project are all actually free online somewhere, but, nonetheless, they were **very** well selected.
 
 ![Designlab - Discussion](https://fvcproductions.files.wordpress.com/2015/10/designlab-discussion.png)
 

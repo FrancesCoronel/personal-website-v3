@@ -3,6 +3,8 @@ title: "Binary Trees & Recursion"
 date: 2014-12-03
 description: "CSC 251 Study Guide"
 banner: https://fvcproductions.files.wordpress.com/2014/12/binary_fractal_tree_03_30_60_065_075.png?w=800&h=340&crop=1
+aliases:
+  - /2014/12/03/binary-trees-recursion/
 tags:
     - ancestor
     - balanced
@@ -88,14 +90,14 @@ categories:
 
 * **How to Delete A Binary Search Tree** ␡
   * no successor
-    1. if node is leaf, simply removed
-    2. but if root is leaf, pointer to tree assigned null value
+    1.  if node is leaf, simply removed
+    2.  but if root is leaf, pointer to tree assigned null value
   * one successor
-    1. parent node connected to sucessor node
-    2. deleted node disposed of
+    1.  parent node connected to sucessor node
+    2.  deleted node disposed of
   * two successors
-    1. find logical predecessor (node in left subtree with largest value)
-    2. logical predecessor replaces deleted node
+    1.  find logical predecessor (node in left subtree with largest value)
+    2.  logical predecessor replaces deleted node
 
 ### Recursion 🚥
 

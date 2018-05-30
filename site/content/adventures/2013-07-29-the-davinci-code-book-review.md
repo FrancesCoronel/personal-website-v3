@@ -3,21 +3,23 @@ title: The DaVinci Code - Book Review 🖼️
 date: 2013-07-29
 description: A book review on 'The DaVinci Code' by Dan Brown.
 banner: https://fvcproductions.files.wordpress.com/2013/07/dlqjb0cly1xaymibqdqxsbsy6vj.jpg
+aliases:
+  - /2013/07/28/the-davinci-code-book-review/
 categories:
-    - blog
+  - blog
 tags:
-    - Dan Brown
-    - DaVinci Code
-    - fvcproductions
-    - grand gallery
-    - Holy Grail
-    - Jesus
-    - Langdon
-    - louvre
-    - Priory of Sion
-    - Robert Langdon
-    - sophie neveu
-    - Tom Hanks
+  - Dan Brown
+  - DaVinci Code
+  - fvcproductions
+  - grand gallery
+  - Holy Grail
+  - Jesus
+  - Langdon
+  - louvre
+  - Priory of Sion
+  - Robert Langdon
+  - sophie neveu
+  - Tom Hanks
 ---
 
 > So I like conspiracy a little bit. Honestly, sometimes I just feel I can't keep up with even 1% of all supposed theories out in the world, so I just want to give up on all of it, but then I read something interesting again and I decide "Hey, you know what, this is bloody interesting. So, from here forth, I care not for truth or tale, but for the sake of entertaining and confusing myself. On forward!".

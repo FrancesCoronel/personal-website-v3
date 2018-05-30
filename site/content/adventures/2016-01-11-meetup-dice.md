@@ -3,6 +3,8 @@ title: Meetup Dice 🎲
 date: 2016-01-11
 description: A simple Node.js application for picking a random RSVP’d member from a Meetup.
 banner: https://i.imgur.com/fvvVFr9.png
+aliases:
+  - /portfolio/meetup-dice/
 categories:
   - portfolio
   - web

@@ -3,6 +3,8 @@ title: "Fullstack Academy - Week 6 & Review Week 🃏"
 date: 2015-07-25
 description: "July 13th to July 17th. There are 52 days of Fullstack Academy. These are days 29 through 33 (Week 6). There's also review week, which is from July 20th to July 24. Review week doesn't count as Fullstack Academy. ❤️"
 banner: https://fvcproductions.files.wordpress.com/2015/07/banners-0013.jpg
+aliases:
+  - /2015/07/25/fullstack-academy-week-6-review-week/
 tags:
     - angular js
     - authentication

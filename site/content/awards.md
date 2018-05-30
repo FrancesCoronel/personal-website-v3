@@ -5,8 +5,8 @@ banner: https://i.imgur.com/ZdSLPUa.jpg
 hideBanner: true
 awards: true
 filtering: true
-noTimeEstimate: true
 noComments: true
+noTimeEstimate: true
 aliases:
   - /awards/
   - /home/awards/

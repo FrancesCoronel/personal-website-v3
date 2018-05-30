@@ -3,6 +3,8 @@ title: Hour of Code 2015 💻️
 description: So this past week, I signed up as a technical volunteer for the Hour of Code. Here's how my experience went.
 date: 2015-12-13
 banner: https://fvcproductions.files.wordpress.com/2015/12/img_2021.jpg
+aliases:
+  - /2015/12/07/hour-of-code-2015/
 categories:
   - volunteering
   - speaking

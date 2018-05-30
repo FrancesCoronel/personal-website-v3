@@ -3,6 +3,8 @@ title: A Review of Don't Starve
 date: 2014-05-02
 description: So in case you haven't heard of it yet, Don't Starve is this awesome Indie game that came out late April of last year.
 banner: https://fvcproductions.files.wordpress.com/2014/05/latest.jpeg
+aliases:
+  - /2014/05/02/a-review-of-dont-starve/
 categories:
   - blog
 tags:

@@ -61,6 +61,6 @@ Please note that depending on the contact reason, it may take longer for me to g
         <input type="submit" value="Send message" class="button big">
       </li>
     </ul>
-    <input type="hidden" name="_subject" value="FVCproductions - New Contact Message 📥" />
+    <input type="hidden" name="_subject" value="FVCproductions - New Contact Message" />
   </form>
 </section>

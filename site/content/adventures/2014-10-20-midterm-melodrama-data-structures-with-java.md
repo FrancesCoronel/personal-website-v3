@@ -3,6 +3,8 @@ title: "Midterm Melodrama - Data Structures with Java"
 date: 2014-10-17
 description: "A study guide for the Data Structures midterm."
 banner: https://fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
+aliases:
+  - /2014/10/20/midterm-melodrama-data-structures-with-java/
 tags:
     - array implementation
     - computer science
@@ -146,9 +148,9 @@ stack\[++top\] = element;\
 }\
 ```
 
-1. check if stack is not full
-2. set top position of array to element being added to stack
-3. increment values of top and count (if partially filled array)
+1.  check if stack is not full
+2.  set top position of array to element being added to stack
+3.  increment values of top and count (if partially filled array)
 
 > _delete from stack_
 
@@ -160,9 +162,9 @@ return stack\[top--\];\
 }\
 ```
 
-1. check if stack is not empty
-2. decrement top
-3. set return value to top position of array
+1.  check if stack is not empty
+2.  decrement top
+3.  set return value to top position of array
 
 > _print in order_
 
@@ -218,13 +220,13 @@ return false;\
 
 * _shift queues_
   * enqueue operation
-    1. save value at first index to item you want to enqueue
-    2. increment size
-    3. if array fills up, all n elements have to be copied to a new, larger array
+    1.  save value at first index to item you want to enqueue
+    2.  increment size
+    3.  if array fills up, all n elements have to be copied to a new, larger array
   * dequeue operation
-    1. save value at first index
-    2. shift all elements left
-    3. decrement size
+    1.  save value at first index
+    2.  shift all elements left
+    3.  decrement size
 * _circular queues_
   * advance queue indexes front (to delete an item) and back (to insert an item) by moving them both clockwise around array
 

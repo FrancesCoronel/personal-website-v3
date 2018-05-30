@@ -3,6 +3,8 @@ title: Interview with Designation
 date: 2015-01-06
 description: My interview with Designation.
 banner: https://fvcproductions.files.wordpress.com/2015/01/open_graph.jpg?w=1024&h=435&crop=1
+aliases:
+  - /2015/01/06/interview-with-designation/
 categories:
   - blog
 tags:
@@ -39,9 +41,9 @@ tags:
 
 [![](//designation.io/downloads/designation_logo_black/designation_vertical_black.png)](//designation.io)
 
-# Interview with [Designation.io](//designation.io "Designation")
+# Interview with [Designation.io](//designation.io 'Designation')
 
-### with [Will Shandling](//www.linkedin.com/in/wshandling "Will Shandling")
+### with [Will Shandling](//www.linkedin.com/in/wshandling 'Will Shandling')
 
 > answers are paraphrased or just referenced verbatim
 >
@@ -94,6 +96,6 @@ _Some Logistics_
 * They accept Paypal and Bitcoin…
 * Once you confirm your participation, they'll shoot an invoice for your deposit
 * Remaining tuition is due 2 weeks before class starts
-* You get set up with an account on [Lynda.com](//lynda.com "Lynda") once you pay the first deposit.
+* You get set up with an account on [Lynda.com](//lynda.com 'Lynda') once you pay the first deposit.
 * The total cost of the program is \$6K.
 * You have to officially confirm your acceptance no later than 1 week from today (I made sure to explain to Will I would need more time to make my decision, and he understood, so again, kudos to Will and his quick feedback!).

@@ -3,6 +3,8 @@ title: To become a social media guru or not? 🎒
 date: 2011-12-14
 description: Talks about social networking in the classroom.
 banner: https://fvcproductions.files.wordpress.com/2013/08/old-technology-never-forget.jpg?w=1366
+aliases:
+  - /2013/08/03/old-essays-on-technology/
 categories:
   - blog
 tags:

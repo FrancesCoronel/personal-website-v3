@@ -3,6 +3,8 @@ title: "My Top 3 Productivity Apps 🎩"
 date: 2015-03-28
 description: "RIP"
 banner: https://fvcproductions.files.wordpress.com/2015/03/topproductivityapps-001.jpg?w=1024&h=436&crop=1
+aliases:
+  - /2015/03/28/my-top-3-productivity-apps/
 tags:
     - alfred
     - amphetamine
@@ -31,17 +33,17 @@ So here are 3 of my favorite power tools that changed how I worked and my averag
 
 There are other awesome power apps of course, like
 
-* [Amphetamine](//itunes.apple.com/us/app/amphetamine/id937984704?mt=12 "Amphetamine")
-* [Bartender](//www.macbartender.com "Bartender")
-* [Dash](//kapeli.com/dash "Dash")
-* [Flux](//justgetflux.com "Flux")
-* [Sorty](//wiles.dk/ "Sorty")
-* [Ubersicht](//tracesof.net/uebersicht/ "Ubersicht")
+* [Amphetamine](//itunes.apple.com/us/app/amphetamine/id937984704?mt=12 'Amphetamine')
+* [Bartender](//www.macbartender.com 'Bartender')
+* [Dash](//kapeli.com/dash 'Dash')
+* [Flux](//justgetflux.com 'Flux')
+* [Sorty](//wiles.dk/ 'Sorty')
+* [Ubersicht](//tracesof.net/uebersicht/ 'Ubersicht')
 * [Yoink](//eternalstorms.at/yoink/Yoink*-\_Draggings_a_drag_no_more/Yoink*-\_Draggings_a_drag_no_more%21.html ""Yoink"")
 
 among others - but these 3 are by far my favorite.
 
-1. # [Automator](//en.wikipedia.org/wiki/Automator\_%28software%29 ""Automator"")
+1.  # [Automator](//en.wikipedia.org/wiki/Automator\_%28software%29 ""Automator"")
 
 ![Automator](//www.redundantrobot.com/wp-content/uploads/2013/10/automator.png)
 
@@ -49,7 +51,7 @@ Seriously, I've done things with this guy in seconds that would take others hour
 
 Here are 3 examples of Automator workflows that have helped me out significantly.
 
-1. Import Multiple Fonts
+1.  Import Multiple Fonts
 
 ---
 
@@ -62,7 +64,7 @@ And then you even start to click on them one by one to import them to your Font 
 [![Import
 Fonts](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-46.png?w=660)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-46.png)
 
-2. PDF To Images
+2.  PDF To Images
 
 ---
 
@@ -75,7 +77,7 @@ So now you have this 20 page PDF file and you start to export each page to a `pn
 [![PDF To
 Images](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-16.png?w=660)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-16.png)
 
-3. Rename Multiple Photos
+3.  Rename Multiple Photos
 
 ---
 
@@ -90,7 +92,7 @@ So now you have 30+ wallpaper images in your `Downloads` folder and because you'
 [![Rename Multiple
 Photos](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11-06.png?w=660)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11-06.png)
 
-2. # [Alfred](//www.alfredapp.com/ ""Alfred"")
+2.  # [Alfred](//www.alfredapp.com/ ""Alfred"")
 
 ![Alfred](//a2.mzstatic.com/us/r30/Purple/v4/22/16/13/221613ff-de88-908e-684d-262576f7dbd0/icon128-2x.png)
 
@@ -102,7 +104,7 @@ Photos](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11
 
 Definitely not a haiku there, but man - just goes to show how much I depend on the damn bowler hat.
 
-3. # [BetterSnapTool](//itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12 ""BetterSnapTool"")
+3.  # [BetterSnapTool](//itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12 ""BetterSnapTool"")
 
 ![BetterSnapTool](//a3.mzstatic.com/us/r30/Purple3/v4/b0/e1/f1/b0e1f178-69dc-f01a-3d4e-0faa4379ca8f/icon128-2x.png)
 
@@ -110,4 +112,4 @@ I was so slow moving windows around before this app, so once I transitioned to f
 
 Only good things can be said about this app, seriously.
 
-And that's it! Check out my post, [What I Use](//fvcproductions.com/what-i-use/ "What I Use 📱") for more awesome apps!
+And that's it! Check out my post, [What I Use](//fvcproductions.com/what-i-use/ 'What I Use 📱') for more awesome apps!

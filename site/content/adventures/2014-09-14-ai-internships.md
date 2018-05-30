@@ -2,11 +2,12 @@
 title: Undergrad A.I. Internships
 date: 2014-09-14
 banner: https://i.imgur.com/6kexSrT.jpg
+aliases:
+  - /portfolio/2014/09/14/ai-internships/
+  - /portfolio/ai-internships/
 categories:
   - portfolio
   - research
-aliases:
-  - /portfolio/2014/09/14/ai-internships/
 ---
 
 ![Briefcase Icon](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png)
@@ -112,7 +113,7 @@ Vicarious is building a unified algorithmic architecture to achieve human-level 
   _"I believe that every graduate student should try to do at least two internships in the industry. It is a great experience. Below you can find a list I compiled by aggregating information from some of the companies I am in touch with as a part of our GraphLab project. This list is a academic resource - I am not involved in any of the companies below. I also got some angry comments about some company or another missing - this is a personal list. I will be happy to add more companies providing the are doing some interesting research."_
 
 * [What companies have Data Science Internships? - Quora](https://www.quora.com/What-companies-have-data-science-internships)
-* **There are so many companies out there now!** You just have to look for them. **Or not.** Check out this awesome infographic that [Shivon Zilis](https://twitter.com/shivon "Shivon Z.") made to showcase the ‘_Machine Intelligence Landscape_’. Brilliant!
+* **There are so many companies out there now!** You just have to look for them. **Or not.** Check out this awesome infographic that [Shivon Zilis](https://twitter.com/shivon 'Shivon Z.') made to showcase the ‘_Machine Intelligence Landscape_’. Brilliant!
 
 ![Machine Intelligence Landscape](https://fvcproductions.files.wordpress.com/2015/05/machine_intelligence_landscape_12-10-2014.png)
 

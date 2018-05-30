@@ -3,6 +3,8 @@ title: Fullstack Academy
 date: 2016-08-26
 description: Summer of Code
 banner: https://fvcproductions.files.wordpress.com/2015/11/11821194_439697182900579_299304949_n-1-e1457320708289.jpg
+aliases:
+  - /home/adventures/programs/fullstack-academy-may-2015-to-august-2015/
 categories:
     - program
     - speaking
@@ -11,7 +13,7 @@ categories:
 
 ## Name
 
-[Fullstack Academy - Summer of Code](https://www.fullstackacademy.com/summer-of-code "Fullstack Academy")
+[Fullstack Academy - Summer of Code](https://www.fullstackacademy.com/summer-of-code 'Fullstack Academy')
 
 ## Location
 

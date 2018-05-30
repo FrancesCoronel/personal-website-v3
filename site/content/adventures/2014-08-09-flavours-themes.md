@@ -3,6 +3,8 @@ title: Flavours Themes
 date: 2014-08-09
 description: These are all the Flavours themes I’ve created for the Mac customizing application, Flavours.
 banner: https://fvcproductions.files.wordpress.com/2014/08/flavoursthemes.jpg?w=1440
+aliases:
+  - /portfolio/flavours-themes/
 categories:
   - portfolio
   - design

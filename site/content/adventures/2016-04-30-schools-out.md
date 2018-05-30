@@ -3,6 +3,8 @@ title: School's out? 🎓️
 date: 2016-04-30
 description: Catching up on happenings for the month. SO MANY HAPPENINGS.
 banner: https://fvcproductions.files.wordpress.com/2016/04/schoolsout.jpeg
+aliases:
+  - /2016/04/30/schools-out/
 categories:
   - blog
 tags:

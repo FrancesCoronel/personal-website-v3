@@ -3,18 +3,20 @@ title: Ender's Game - Book Review 👾
 date: 2010-08-03
 description: The Martian Chronicles, Star Wars, Lord of the Rings, Stranger in a Strange Land...an average geek's favorite reading list can be literally incalculable.
 banner: https://fvcproductions.files.wordpress.com/2013/08/enders-game.jpg
+aliases:
+  - /2013/08/03/enders-game-book-review/
 categories:
-    - blog
+  - blog
 tags:
-    - battle school
-    - book review
-    - ender
-    - ender wiggin
-    - enders game
-    - formic
-    - international fleet personnel
-    - orson
-    - scott card
+  - battle school
+  - book review
+  - ender
+  - ender wiggin
+  - enders game
+  - formic
+  - international fleet personnel
+  - orson
+  - scott card
 ---
 
 ## Geek Paradise

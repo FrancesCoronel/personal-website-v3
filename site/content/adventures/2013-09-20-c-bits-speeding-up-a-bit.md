@@ -3,6 +3,9 @@ title: C Bits - Speeding Up A Bit 🚤
 date: 2013-09-20
 description: The 2nd part in a mini-series for beginners in C.
 banner: https://fvcproductions.files.wordpress.com/2013/09/banners-001.jpg?w=1024&h=436&crop=1
+aliases:
+  - /2013/09/20/c-bits-speeding-up-a-bit/
+  - /blog/2013/09/20/c-bits-speeding-up-a-bit/
 categories:
   - blog
 tags:
@@ -35,20 +38,20 @@ The solutions that also include the question as a comment on top and can be foun
 
 Write a program which does the following:
 
-1. reads two floats from the keyboard
-2. prints the sum of the two floats
-3. prints the difference of the two floats
-4. prints the square of the first float
-5. reads two integers from the keyboard
-6. computes the sum and product of the two integers
-7. prints the sum and product of the integers
+1.  reads two floats from the keyboard
+2.  prints the sum of the two floats
+3.  prints the difference of the two floats
+4.  prints the square of the first float
+5.  reads two integers from the keyboard
+6.  computes the sum and product of the two integers
+7.  prints the sum and product of the integers
 
 ### Problem 2.2 - Decimal, octal and hexadecimal numbers
 
 Write a program which does the following:
 
-1. reads an integer from the keyboard
-2. and prints the integer in decimal, octal and hexadecimal notation
+1.  reads an integer from the keyboard
+2.  and prints the integer in decimal, octal and hexadecimal notation
 
 ### Problem 2.3 - Time Calculation
 

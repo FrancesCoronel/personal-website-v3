@@ -3,6 +3,8 @@ title: Pursuit of Knowledge
 date: 2013-06-06
 description: I created this iBook for my AP English Literature class.
 banner: https://i.imgur.com/hOrELPf.png
+aliases:
+  - /portfolio/pursuit-of-knowledge/
 categories:
   - portfolio
   - book

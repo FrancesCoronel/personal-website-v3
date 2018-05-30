@@ -3,6 +3,8 @@ title: Interview with Fullstack Academy of Code
 date: 2014-12-28
 description: This is where I'll go through how my admissions process was with Fullstack Academy of Code based in NYC.
 banner: https://fvcproductions.files.wordpress.com/2014/12/img_9625-2.jpg
+aliases:
+  - /2014/12/28/interview-fullstack-academy/
 categories:
   - blog
 tags:
@@ -23,7 +25,7 @@ tags:
 
 # [![](//static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png)](//static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png)
 
-# Interview With [Fullstack Academy of Code](//www.fullstackacademy.com "Fullstack Academy of Code")
+# Interview With [Fullstack Academy of Code](//www.fullstackacademy.com 'Fullstack Academy of Code')
 
 > This is where I'll go through how my admissions process was with Fullstack.
 >
@@ -35,8 +37,8 @@ tags:
 
 ## Part 1: The Application 📝
 
-* You fill out the virtual application for Fullstack [here](//www.fullstackacademy.com/apply "Apply to Fullstack Academy"). It involves filling out basic background info such as education, social links, coding abilities, employment status, post-Fullstack plans, and a small essay question as to why you'd be a great fit for Fullstack.
-* Once you fill this out, they'll send you an email shortly afterwards where you will schedule a virtual interview through Skype with the admissions officer, [Huntly](//www.linkedin.com/pub/huntly-mayo-malasky/24/852/b5a "Huntly - Admissions @Fullstack").
+* You fill out the virtual application for Fullstack [here](//www.fullstackacademy.com/apply 'Apply to Fullstack Academy'). It involves filling out basic background info such as education, social links, coding abilities, employment status, post-Fullstack plans, and a small essay question as to why you'd be a great fit for Fullstack.
+* Once you fill this out, they'll send you an email shortly afterwards where you will schedule a virtual interview through Skype with the admissions officer, [Huntly](//www.linkedin.com/pub/huntly-mayo-malasky/24/852/b5a 'Huntly - Admissions @Fullstack').
 * The process overall was clean, efficient, and very organized. No problems here.
 
 ## Part 2: The Interview 📞
@@ -64,7 +66,7 @@ When I did end up asking Huntly some questions, here what's he had to say:
 
 4.  **Why the ‘no asshole' rule? Details?**\
 
-    > It's actually a reference to this book called ["The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't"](//www.amazon.com/The-Asshole-Rule-Civilized-Workplace/dp/0446698202 "The Asshole Rule") and we believe the mentality described in the book forms an ideal culture here at Fullstack. `#1 best seller on Amazon in the Business Etiquette category!`
+    > It's actually a reference to this book called ["The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't"](//www.amazon.com/The-Asshole-Rule-Civilized-Workplace/dp/0446698202 'The Asshole Rule') and we believe the mentality described in the book forms an ideal culture here at Fullstack. `#1 best seller on Amazon in the Business Etiquette category!`
 
 5.  **What kind of process do your instructors go through?**\
 
@@ -80,7 +82,7 @@ When I did end up asking Huntly some questions, here what's he had to say:
 
 8.  **What do you guys recommend students do outside of the course?**\
 
-    > We have our own [Meetup group based at Fullstack](//www.meetup.com/fullstack-javascript/ "Fullstack Meetup") and we encourage our students to attend local Meetups that relate to JavaScript or programming in general. Students will even lecture or present projects at these Meetups midway through the program. We also encourage participating in Hackathons and have gotten a [lot of success with our students participating in local ones](//blog.fullstackacademy.com/post/78441810309/hacks-through-history "Hackathons @Fullstack") as well.
+    > We have our own [Meetup group based at Fullstack](//www.meetup.com/fullstack-javascript/ 'Fullstack Meetup') and we encourage our students to attend local Meetups that relate to JavaScript or programming in general. Students will even lecture or present projects at these Meetups midway through the program. We also encourage participating in Hackathons and have gotten a [lot of success with our students participating in local ones](//blog.fullstackacademy.com/post/78441810309/hacks-through-history 'Hackathons @Fullstack') as well.
 
 ## Part 3: The Decision 💡
 
@@ -90,4 +92,4 @@ Now here are some logistics for reference:
 
 * Once you're accepted and offered a spot in whatever cohort you applied to, you're formally given a week or so after to register and secure a deposit once they've given you enrollment instructions. If you don't answer by then, they'll release your spot and will also require you to re-apply after a month or so after.
 * Securing a deposit of \$2K assures you have access to their ‘Fullstack Foundations', which is a 120 hour virtual course that acts as the pre-work to the Fullstack main curriculum onsite and also secures your spot in the class.
-* Thankfully, I applied early and once I was accepted, I was required to meet with one the founders, [Nimit](//twitter.com/nimit "Nimit - Founder @Fullstack"). He understood my situation that I wasn't quite decided as to what I was doing yet, so I'll be talking with him in late January again to see what my plans are from there.
+* Thankfully, I applied early and once I was accepted, I was required to meet with one the founders, [Nimit](//twitter.com/nimit 'Nimit - Founder @Fullstack'). He understood my situation that I wasn't quite decided as to what I was doing yet, so I'll be talking with him in late January again to see what my plans are from there.

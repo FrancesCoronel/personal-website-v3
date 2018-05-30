@@ -3,6 +3,8 @@ title: "Preparing for Coding Bootcamps"
 date: 2014-01-05
 description: "Before my interviews with all the coding bootcamps I applied to, I did some digging and really went out of my way to try and find out what would make me a better candidate in the entire process."
 banner: https://fvcproductions.files.wordpress.com/2015/04/fullstack-academy-banner.jpg?w=1024&h=435&crop=1
+aliases:
+  - /2015/01/05/prepare-for-coding-bootcamps/
 categories:
     - blog
 tags:
@@ -74,15 +76,15 @@ _The Gist Of It_
 
 **Helpful Resources**
 
-* [coderbyte](//coderbyte.com/CodingArea/Challenges/ "Coderbyte Easy") - the easy challenges
-* [Codecademy](//www.codecademy.com/en/tracks/javascript "Codecademy") - the JavaScript track
-* [Code School](//www.codeschool.com/paths/javascript "Code School") - the `Road to JavaScript`
-* [Eloquent JavaScript: 2nd Edition](//eloquentjavascript.net "Eloquent JavaScript") - basically reading the whole book would be helpful, but if you can't do that, then the 1st 5 chapters are pretty key
+* [coderbyte](//coderbyte.com/CodingArea/Challenges/ 'Coderbyte Easy') - the easy challenges
+* [Codecademy](//www.codecademy.com/en/tracks/javascript 'Codecademy') - the JavaScript track
+* [Code School](//www.codeschool.com/paths/javascript 'Code School') - the `Road to JavaScript`
+* [Eloquent JavaScript: 2nd Edition](//eloquentjavascript.net 'Eloquent JavaScript') - basically reading the whole book would be helpful, but if you can't do that, then the 1st 5 chapters are pretty key
 
 **Going All Out**
 
-* [JavaScript: The Good Parts](//www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742 "JavaScript: The Good Parts") - the first few chapters
-* [Functional JavaScript](//shop.oreilly.com/product/0636920028857.do "Functional JavaScript") - again, the first few chapters
+* [JavaScript: The Good Parts](//www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742 'JavaScript: The Good Parts') - the first few chapters
+* [Functional JavaScript](//shop.oreilly.com/product/0636920028857.do 'Functional JavaScript') - again, the first few chapters
 
 **Topics that are generally NOT covered in the interview**
 
@@ -105,15 +107,15 @@ _The Gist Of It_
 
 **Prep Resources Offered by Bootcamps**
 
-1. [App Academy Prep Work](//github.com/appacademy/prep-work)
-2. [Code Fellows - GitBook on Full Stack JavaScript Engineering](//fsje.codefellows.org/index.html)
-3. [Flatiron Prework](//prework.flatironschool.com/)
-4. [Fullstack Academy Interview Preparation Guide](//www.fullstackacademy.com/interview_prep)
-5. [General Assembly Dash](//dash.generalassemb.ly/)
-6. [Hackreactor How to Prepare for the Admissions Challenge](//www.hackreactor.com/prepare-for-admissions-challenge/)
-7. [Launch Academy Codecabulary](//www.launchacademy.com/codecabulary)
-8. [MakerSquare | Learn](//learn.makersquare.com/courses)
-9. [Viking Code School Prep](//www.vikingcodeschool.com/prep)
+1.  [App Academy Prep Work](//github.com/appacademy/prep-work)
+2.  [Code Fellows - GitBook on Full Stack JavaScript Engineering](//fsje.codefellows.org/index.html)
+3.  [Flatiron Prework](//prework.flatironschool.com/)
+4.  [Fullstack Academy Interview Preparation Guide](//www.fullstackacademy.com/interview_prep)
+5.  [General Assembly Dash](//dash.generalassemb.ly/)
+6.  [Hackreactor How to Prepare for the Admissions Challenge](//www.hackreactor.com/prepare-for-admissions-challenge/)
+7.  [Launch Academy Codecabulary](//www.launchacademy.com/codecabulary)
+8.  [MakerSquare | Learn](//learn.makersquare.com/courses)
+9.  [Viking Code School Prep](//www.vikingcodeschool.com/prep)
 
 ![](//medexec.org/wp-content/uploads/2013/04/The-Nitty-Gritty.jpg)
 
@@ -134,15 +136,15 @@ _The Gist Of It_
 
 Recently, SwitchUp released their 2014 list of the [top coding bootcamps](//fvcproductions.com/blog/2015/02/20/brief-thoughts-best-bootcamps-switchup/ "Brief Thoughts on SwitchUp's Review for 31 Best Bootcamps 2014 💭"). I'd check that out too.
 
-For finding them, refer to this post [where I look over the best websites for that purpose](//fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "A Short Operation: Tips & Tricks 4 Finding Coding Bootcamps 🔎") and also the post where I [elaborate on each](//fvcproductions.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/ "Magnifying the Bootcamp Research Experience 🔎").
+For finding them, refer to this post [where I look over the best websites for that purpose](//fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ 'A Short Operation: Tips & Tricks 4 Finding Coding Bootcamps 🔎') and also the post where I [elaborate on each](//fvcproductions.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/ 'Magnifying the Bootcamp Research Experience 🔎').
 
 I also have shared my **interview experience** with bootcamps such as
 
 * [Bitmaker Labs](/blog/2014/03/12/interview-bitmaker-labs/)
 * [Coding Dojo](/blog/2015/01/06/interview-coding-dojo/)
-* [Coding House](//fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
-* [Designation](//fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
-* [Dev League](//fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
-* [Fullstack Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
-* [Hack Reactor](//fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
-* [Maker Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
+* [Coding House](//fvcproductions.com/blog/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
+* [Designation](//fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
+* [Dev League](//fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'My Experience With DevLeague 💻')
+* [Fullstack Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
+* [Hack Reactor](//fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ 'Questioning Hack Reactor 🔑')
+* [Maker Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')

@@ -3,6 +3,11 @@ title: POTC - Chest Riddle 👑
 date: 2013-08-03
 description: Here's a little riddle that is based on a very recognized riddle, except it uses POTC references.
 banner: https://fvcproductions.files.wordpress.com/2013/08/dmc.jpg?w=1024&h=435&crop=1
+aliases:
+  - /2013/08/03/testing-logic-potc/
+  - /2014/07/20/answer-to-potc-logic-riddle/
+categories:
+  - blog
 tags:
     - aviation
     - Benito de Soto
@@ -20,13 +25,11 @@ tags:
     - Tortuga
     - transportation
     - video games
-categories:
-    - blog
 ---
 
 ## Here's a little riddle that is based on a very recognized riddle, except it uses POTC references.
 
-So basically it's like [Star Trek Monopoly](//www.amazon.com/USAopoly-MN066-201-Monopoly-Star-Continuum/dp/B001SN8G8G "Star Trek Monopoly"), a spoof of the original.
+So basically it's like [Star Trek Monopoly](//www.amazon.com/USAopoly-MN066-201-Monopoly-Star-Continuum/dp/B001SN8G8G 'Star Trek Monopoly'), a spoof of the original.
 
 Made it up on by own and really love it so hope you do too.
 

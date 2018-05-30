@@ -3,6 +3,8 @@ title: Binding of Isaac - Review 💀
 date: 2016-02-27
 description: My review of the Binding of Isaac desktop game.
 banner: https://fvcproductions.files.wordpress.com/2016/02/bindingofisaac.jpeg
+aliases:
+  - /2016/02/27/binding-of-isaac-review/
 categories:
   - blog
 tags:

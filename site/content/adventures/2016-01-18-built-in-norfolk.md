@@ -3,6 +3,8 @@ title: Built in Norfolk
 date: 2016-01-18
 description: Badges for when you're hacking out in Norfolk.
 banner: https://i.imgur.com/55UEAQL.png
+aliases:
+  - /portfolio/built-in-norfolk/
 categories:
   - portfolio
   - oss

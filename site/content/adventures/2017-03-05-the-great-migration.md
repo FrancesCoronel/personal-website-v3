@@ -3,13 +3,15 @@ title: The Start of a Wondrous Migration 🦋
 date: 2017-03-05
 description: I'm starting the process of migrating this blog from Wordpress to Jekyll.
 banner: https://fvcproductions.files.wordpress.com/2017/03/monarch-butterfly-wallpaper-2.jpg
+aliases:
+  - /2017/03/05/the-start-of-a-wondrous-migration/
 categories:
-    - blog
+  - blog
 tags:
-    - migration
-    - wordpress
-    - jekyll
-    - personal website
+  - migration
+  - wordpress
+  - jekyll
+  - personal website
 ---
 
 ## After 4 lovely years using Wordpress, I am officially starting the process of moving from Wordpress to Jekyll. 🦋

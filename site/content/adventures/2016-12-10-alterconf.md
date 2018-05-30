@@ -7,6 +7,7 @@ date: 2016-12-10
 banner: https://fvcproductions.files.wordpress.com/2017/01/banner.png
 aliases:
   - /home/adventures/conferences/alterconf-dec-2016/
+  - /2017/01/03/alterconf-nyc-2016/
 categories:
   - blog
   - conference

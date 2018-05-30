@@ -3,6 +3,8 @@ title: Then what shall we code for? 🌊
 date: 2015-05-20
 description: Then what shall we code for? Inspiration from POTC.
 banner: https://fvcproductions.files.wordpress.com/2015/05/potc.jpg
+aliases:
+  - /2015/05/20/then-what-shall-we-code-for/
 categories:
   - blog
 ---

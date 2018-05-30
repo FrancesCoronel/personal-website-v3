@@ -6,6 +6,8 @@ banner: https://fvcproductions.files.wordpress.com/2015/11/461956_47684620232809
 aliases:
   - /blog/2012/07/30/blog-post-from-tanzania/
   - /programs/2012/08/14/school-for-field-studies/
+  - /2013/07/28/blog-post-from-tanzania/
+  - /home/adventures/programs/school-for-field-studies-july-2012-to-august-2012/
 categories:
   - program
   - education

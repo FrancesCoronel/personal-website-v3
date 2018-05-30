@@ -3,6 +3,8 @@ title: "A Few Java Factoids - Part 1"
 date: 2014-03-03
 description: "A few basic facts about Java."
 banner: https://fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
+aliases:
+  - /2014/04/08/a-few-java-factoids-part-1/
 tags:
     - basic structure
     - beginner
@@ -81,9 +83,9 @@ So that's pretty much it for the super duper basics of any Java program.
 
 Remember, you gotta have your:\
 
-1. main method `public static void main (String[] args)`\
-2. curly braces `{}`\
-3. semi-colons `;`\
-4. comments to explain what the heck you're doing in the program such as [`//single-line stuff`] or [`/*multi-line stuff*/`]
+1.  main method `public static void main (String[] args)`\
+2.  curly braces `{}`\
+3.  semi-colons `;`\
+4.  comments to explain what the heck you're doing in the program such as [`//single-line stuff`] or [`/*multi-line stuff*/`]
 
 #### Get it? Got it? Good.

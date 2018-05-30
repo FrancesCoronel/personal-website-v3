@@ -3,6 +3,8 @@ title: "Fullstack Academy - Week 5"
 date: 2015-07-11
 description: "July 6th to July 10th. There are 57 days of Fullstack Academy. These are days 22 through 26. Week 5."
 banner: https://fvcproductions.files.wordpress.com/2015/07/banners-0012.jpg
+aliases:
+  - /2015/07/11/fullstack-academy-week-5/
 tags:
     - ailey extension
     - ajax
@@ -98,7 +100,7 @@ Win!](//storage.vexxhost.net/v1/d7594b0298b54bcc9e4e0f252e1da2e4/blog/mean-socke
 
 * Okay, so I feel a little bad saying this, but I'm pretty sure the best lecture I've had so far here at Fullstack was just delivered - today - by Joe.
 * Joe is going to be teaching us more for the senior phase, but I guess since we're all going to be seniors in about a week and a half or so, he's trying to get used to us or something.
-* Anywhoozies, the lecture on [`Socket.io`](//socket.io/ "Socket.io") was just awesome. Seriously. So much mental stimulation. Sockets for the win!
+* Anywhoozies, the lecture on [`Socket.io`](//socket.io/ 'Socket.io') was just awesome. Seriously. So much mental stimulation. Sockets for the win!
 * It helped that I had a good partner for this workshop too.
 * Another factor to consider was how much trolling one could incorporate into the workshop which was all about creating a white-board (to draw on) anyone could connect to and making sure the drawings of everybody else also persisted upon refreshing the browser. My partner and I breezed through this workshop so yeah, we were feeling pretty confident. 😎😎😎
 
@@ -128,7 +130,7 @@ VP.](//media3.giphy.com/media/G1Zu26ae7mZr2/200.gif)
 
 ![Emojiii Reactions](//i.imgur.com/lJxcOh0.png)
 
-#### 5. The workshop was interesting. It was basically all about making a primitive version of [Quizlet](//quizlet.com/ "Quizlet"), or maybe what was probably a lot like the very 1st version of Quizlet.
+#### 5. The workshop was interesting. It was basically all about making a primitive version of [Quizlet](//quizlet.com/ 'Quizlet'), or maybe what was probably a lot like the very 1st version of Quizlet.
 
 > This reminds me - I actually made some [flashcards for Fullstack Foundations regarding the command line](//quizlet.com/80424838/fullstack-foundations-intro-to-the-command-line-flash-cards/) using Quizlet.
 

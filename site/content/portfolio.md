@@ -16,4 +16,5 @@ aliases:
   - /project-type/research/
   - /project-type/slide-decks/
   - /project-type/web/
+  - /portfolio/no-more-projects/
 ---

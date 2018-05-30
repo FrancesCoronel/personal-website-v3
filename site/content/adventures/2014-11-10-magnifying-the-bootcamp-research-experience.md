@@ -3,6 +3,8 @@ title: Magnifying the Bootcamp Research Experience
 date: 2014-11-10
 description: "The coding bootcamp ultimatum."
 banner: https://fvcproductions.files.wordpress.com/2014/11/hack-reactor-interior.jpg?w=1024&h=435&crop=1
+aliases:
+  - /2014/11/10/magnifying-the-bootcamp-research-experience/
 categories:
   - blog
 tags:
@@ -57,9 +59,9 @@ For each of these sites, I'll be annotating the design interface directly with m
 
 The 3 criteria I'm judging these sites are as follows:
 
-1. **UI (User Interface)**
-2. **UX (User Experience)**
-3. **High-quality content and reviews**
+1.  **UI (User Interface)**
+2.  **UX (User Experience)**
+3.  **High-quality content and reviews**
 
 I think these key 3 criteria are the minimal requirements each great CB website ought to aspire for. Mind you, this is just for the overall web site, this isn't for the CBs themselves, where different criteria would obviously apply like _teacher quality_, _ROI_, _brand_, _peers_, and so forth.
 
@@ -69,17 +71,17 @@ I mean, it's a pretty big decision, y'all! ;)
 
 > Made with love on [**Byword 2**](//bywordapp.com).
 >
-> > Source file [here](//github.com/fvcproductions/blogging/blob/master/to%20publish/Comparisons/Comparing%20Bootcamp%20Sites%20with%20Hack%20Reactor.txt "Byword Source File").
+> > Source file [here](//github.com/fvcproductions/blogging/blob/master/to%20publish/Comparisons/Comparing%20Bootcamp%20Sites%20with%20Hack%20Reactor.txt 'Byword Source File').
 
 ## **Recap - The Big 5**
 
 > in alphabetical order
 
-1. [Bootcamper](#section-bootcamper)
-2. [Bootcamps.in](#section-bootcampsin)
-3. [Coursereport](#section-coursereport)
-4. [Switchup](#section-switchup)
-5. [Thinkful](#section-thinkful)
+1.  [Bootcamper](#section-bootcamper)
+2.  [Bootcamps.in](#section-bootcampsin)
+3.  [Coursereport](#section-coursereport)
+4.  [Switchup](#section-switchup)
+5.  [Thinkful](#section-thinkful)
 
 > and a big woo-hoo 🎉 for [other resources](#section-resources)!
 
@@ -100,7 +102,7 @@ This is the page for [HackReactor on _Bootcamper_](//bootcamper.io/schools/hack-
 * purty
   * minimal design makes for more fun
 * plenty of reviews in the comment section
-  * using the [Disqus](//disqus.com "Disqus") platform was a great idea!
+  * using the [Disqus](//disqus.com 'Disqus') platform was a great idea!
 * makes use of other features
   * twitter timeline
 
@@ -296,7 +298,7 @@ App](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-45
 [![](//cdn.evbuc.com/eventlogos/1546045/code2040transparency.png)](//cdn.evbuc.com/eventlogos/1546045/code2040transparency.png)
 
 * [Code2040 - Playbook](//playbook.code2040.org)
-  * This is great not just for minorities interested in tech, but just for anyone who wants a really great layout of what's recommend before applying and interviewing for a software development internship. This sort of logic applies for competitive coding bootcamps as well, so get out there! :) The founder of the organization, [Tristan Walker](//www.fastcompany.com/3037933/the-visible-man "Tristan Walker - Fast Company"), is also friggin' awesome.
+  * This is great not just for minorities interested in tech, but just for anyone who wants a really great layout of what's recommend before applying and interviewing for a software development internship. This sort of logic applies for competitive coding bootcamps as well, so get out there! :) The founder of the organization, [Tristan Walker](//www.fastcompany.com/3037933/the-visible-man 'Tristan Walker - Fast Company'), is also friggin' awesome.
 
 [\
 ](//fvcproductions.files.wordpress.com/2014/11/hack-reactor-interior.jpg) [![MakerSquare](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-20-46-39.png?w=676)](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-10-20-46-39.png)

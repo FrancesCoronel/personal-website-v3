@@ -2,6 +2,8 @@
 title: The Guessing Game ⁉️
 date: 2015-05-31
 banner: https://fvcproductions.files.wordpress.com/2015/06/unknown.png
+aliases:
+  - /portfolio/guessing-game/
 categories:
   - portfolio
   - web

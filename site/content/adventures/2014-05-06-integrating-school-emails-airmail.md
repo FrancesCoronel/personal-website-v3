@@ -3,6 +3,8 @@ title: "Integrating Your School Emails with Airmail"
 date: 2014-05-06
 description: "So in case you haven't heard of it yet, Don't Starve is this awesome Indie game."
 banner: https://fvcproductions.files.wordpress.com/2014/05/airmail-1-1-mac.png?w=1024&h=436&crop=1
+aliases:
+  - /2014/05/06/integrating-school-emails-airmail/
 tags:
     - airmail
     - airmail integration
@@ -22,7 +24,7 @@ categories:
 
 So I have 4 different email accounts, my personal one, and then 3 other ones for the different universities I'll be attending this summer for classes (YEAHHHH, it's a drag).
 
-1. Personal email _@gmail.com_ 2. Hampton University Email _@hamptonu.edu_ 3. Old Dominion University Email _@odu.edu_ 4. VCCS Email _@email.vccs.edu_
+1.  Personal email _@gmail.com_ 2. Hampton University Email _@hamptonu.edu_ 3. Old Dominion University Email _@odu.edu_ 4. VCCS Email _@email.vccs.edu_
 
 So anyhow, I figured I'd make it easier for myself and go ahead and use [Airmail](//airmailapp.com) to integrate everything into one place.
 

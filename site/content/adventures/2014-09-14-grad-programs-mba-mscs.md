@@ -2,6 +2,8 @@
 title: MBA & MSCS Grad Programs
 date: 2014-09-14
 banner: https://fvcproductions.files.wordpress.com/2014/09/graduation-hats.jpg
+aliases:
+  - /portfolio/grad-programs-mba-mscs/
 categories:
   - portfolio
   - research

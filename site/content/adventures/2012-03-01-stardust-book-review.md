@@ -3,6 +3,8 @@ title: Stardust - Book Review ⭐
 date: 2012-03-01
 description: People can go through great lengths for 'true love'.
 banner: https://fvcproductions.files.wordpress.com/2013/08/stardust-upcoming-movies-122591_1280_1024.jpg?w=1024&h=435&crop=1
+aliases:
+  - /2013/08/03/stardust-book-review/
 categories:
   - blog
   - award

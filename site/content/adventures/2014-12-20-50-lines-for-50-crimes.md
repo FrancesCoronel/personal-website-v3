@@ -3,19 +3,21 @@ title: "50 Lines For 50 Crimes"
 date: 2014-12-20
 description: "A poem I wrote for a good friend."
 banner: https://fvcproductions.files.wordpress.com/2014/06/52c833ace4b0df7dc79c740a.png?w=800&h=340&crop=1
-tags:
-    - 50 crimes
-    - 50 lines
-    - 50 lines for 50 crimes
-    - a poem for a friend
-    - friendship
-    - poem
-    - poetry
-    - puppy love
-    - riddle
-    - romance
+aliases:
+  - /2014/12/20/50-lines-for-50-crimes/
 categories:
-    - blog
+  - blog
+tags:
+  - 50 crimes
+  - 50 lines
+  - 50 lines for 50 crimes
+  - a poem for a friend
+  - friendship
+  - poem
+  - poetry
+  - puppy love
+  - riddle
+  - romance
 ---
 
 > This is a poem I wrote for a friend of mine as a sort of reminiscent(?) act for her.
@@ -24,15 +26,15 @@ categories:
 >
 > Cheers.
 
-1. I know, I know, this is your natural reaction.
-2. Maybe to help calm your nerves, we can go fishing.
-3. And then you can go hiking in the forest.
-4. While I dance to the tune of life's bittersweet symphony.
-5. So you wonder to yourself: should I go chasing or kiting?
-6. You decide to avoid either, and instead decide to try out surfing.
-7. Where would one be after all, without the wonderful sea?
-8. Personally, I'd prefer exploring the galaxies.
-9. Deciding to outdo me, you take to parties.
+1.  I know, I know, this is your natural reaction.
+2.  Maybe to help calm your nerves, we can go fishing.
+3.  And then you can go hiking in the forest.
+4.  While I dance to the tune of life's bittersweet symphony.
+5.  So you wonder to yourself: should I go chasing or kiting?
+6.  You decide to avoid either, and instead decide to try out surfing.
+7.  Where would one be after all, without the wonderful sea?
+8.  Personally, I'd prefer exploring the galaxies.
+9.  Deciding to outdo me, you take to parties.
 10. How lively you seem to be, _buddy_, at these formal parties.
 11. These lovely, silly parties.
 12. But it seems you've become the waitress.

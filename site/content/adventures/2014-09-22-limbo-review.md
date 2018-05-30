@@ -3,6 +3,8 @@ title: "Review - Limbo"
 date: 2014-09-22
 description: "Expressing my gratitude."
 banner: https://fvcproductions.files.wordpress.com/2014/09/limbo-featurebanner.jpg?w=1024&h=435&crop=1
+aliases:
+  - /2014/09/22/limbo-review/
 tags:
     - app store
     - boys

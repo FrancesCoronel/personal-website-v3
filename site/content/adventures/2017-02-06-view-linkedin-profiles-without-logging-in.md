@@ -5,6 +5,7 @@ description: You want to view someone on LinkedIn but you don't have a profile a
 banner: https://i.imgur.com/10PHLUS.png
 aliases:
   - /portfolio/2017/02/06/view-linkedin-profiles-without-logging-in/
+  - /portfolio/view-linkedin-profiles-without-logging-in/
 categories:
   - portfolio
   - tutorial

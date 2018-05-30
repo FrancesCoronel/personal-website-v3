@@ -5,6 +5,8 @@ description: "After applying and interviewing for
 a bunch of internships and coding bootcamps and receiving a bunch of
 rejections and acceptances, I've decided to head to Fullstack Academy
 this summer."
+aliases:
+  - /2015/04/13/what-to-do-week-negative-8/
 banner: https://fvcproductions.files.wordpress.com/2015/04/fullstack-academy-banner.jpg?w=1024&h=435&crop=1
 tags:
     - internships
@@ -16,7 +18,7 @@ categories:
 
 # These are interesting times.
 
-After applying and interviewing for a bunch of internships and coding bootcamps and receiving a bunch of rejections and acceptances, I've decided to head to [Fullstack Academy](//fullstackacademy.com "Fullstack Academy") this summer which is located in New York City to be part of their inaugural class for their [Summer of Code](//www.fullstackacademy.com/summer-of-code "Fullstack Academy | Summer of Code") program. Ok, wow, that was a mouthful![![Summer of Code | Fullstack
+After applying and interviewing for a bunch of internships and coding bootcamps and receiving a bunch of rejections and acceptances, I've decided to head to [Fullstack Academy](//fullstackacademy.com 'Fullstack Academy') this summer which is located in New York City to be part of their inaugural class for their [Summer of Code](//www.fullstackacademy.com/summer-of-code 'Fullstack Academy | Summer of Code') program. Ok, wow, that was a mouthful![![Summer of Code | Fullstack
 Academy](//fvcproductions.files.wordpress.com/2015/04/summer-of-code-fullstack-academy.png)](//fvcproductions.files.wordpress.com/2015/04/summer-of-code-fullstack-academy.png)
 
 It's only for college kiddies and surprisingly there's not many programs designated specifically for us, so it's pretty cool that Fullstack decided to implement this.
@@ -33,7 +35,7 @@ I'm hoping to finally gain those "practical skills" in web development so I can 
 
 If everything goes as planned, senior year is going to fly by! :wink:
 
-But [anywhoozies](//twitter.com/swooz1e "Swoozie"), yay me!!!
+But [anywhoozies](//twitter.com/swooz1e 'Swoozie'), yay me!!!
 
 \[**Insert 5 Hours Of A Random Celebratory Song**\]
 

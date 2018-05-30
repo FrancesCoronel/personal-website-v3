@@ -3,13 +3,15 @@ title: "STARS Computing Corps"
 date: 2015-11-15
 description: "STARS Computing Corps is a community of practice for student-led regional engagement as a means to broaden participation in computing."
 banner: https://fvcproductions.files.wordpress.com/2015/11/celebration2014-85.jpg
+aliases:
+  - /home/adventures/programs/stars-computing-corps/
 categories:
-    - program
+  - program
 ---
 
 ## Name
 
-[STARS (Student & Technology in Academia, Research, & Service) Computing Corps](https://starscomputingcorps.org/ "STARS Computing Corps")
+[STARS (Student & Technology in Academia, Research, & Service) Computing Corps](https://starscomputingcorps.org/ 'STARS Computing Corps')
 
 ## Location
 

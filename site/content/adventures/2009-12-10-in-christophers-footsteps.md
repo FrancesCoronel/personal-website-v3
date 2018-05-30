@@ -3,6 +3,8 @@ title: In Christopher's Footsteps 👣️
 date: 2009-12-10
 description: I was assigned to write a sort of creative essay from the POV of Christopher (the protagonist who is a 15 year old boy in the novel with an autistic spectrum condition -- I'm guessing Aspergers?) for my English class.
 banner: https://fvcproductions.files.wordpress.com/2013/07/dog-in-the-night-time.png
+aliases:
+  - /2013/07/28/in-christophers-footsteps/
 categories:
   - blog
 tags:

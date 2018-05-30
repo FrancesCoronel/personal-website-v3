@@ -3,6 +3,9 @@ title: Job Interview - Tips and Tricks
 date: 2014-10-17
 description: Expressing my gratitude.
 banner: https://fvcproductions.files.wordpress.com/2014/10/screenshot-2014-10-17-21-22-13.png
+aliases:
+  - /2014/10/17/ti-89-tricks-for-calculus/
+  - /blog/2014/10/17/ti-89-tricks-for-calculus/
 categories:
   - blog
 tags:

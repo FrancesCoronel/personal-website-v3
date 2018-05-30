@@ -5,6 +5,10 @@ description: How might we create a safe place for people of all backgrounds to d
 banner: https://github.com/fvcproductions/nyt-comm/raw/master/img/banner/ct+nytimes-white.png
 aliases:
   - /portfolio/2016/11/18/product-studio/
+  - /portfolio/product-studio-sprint-1/
+  - /portfolio/product-studio-sprint-2/
+  - /portfolio/product-studio-final-sprint/
+  - /portfolio/open-studio-poster-cornell-tech/
 categories:
   - portfolio
   - award

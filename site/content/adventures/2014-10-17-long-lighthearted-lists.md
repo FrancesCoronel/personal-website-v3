@@ -3,12 +3,13 @@ title: Long Lighthearted Lists
 date: 2014-10-17
 description: Long lighthearted lists covering languages, old science fair project, coding bootcamps, cool places, TV shows, and conferences.
 banner: https://fvcproductions.files.wordpress.com/2014/10/long-lists.jpg
+aliases:
+  - /2014/10/17/long-lighthearted-lists/
 categories:
   - blog
 tags:
   - bootcamp
   - coding
-  - conferences
   - Languages
   - lighthearted
   - long lists
@@ -89,18 +90,18 @@ Austin](//fvcproductions.files.wordpress.com/2015/01/img_0074.jpg?w=294)](//fvcp
 * November 2013 - I decide I'm going to apply to bootcamps and attend one over the summer because I feel more prepared for interviewing. I then decide I want to attend a bootcamp that focuses on JavaScript and/or Python.
 * December 2013 - I apply to the following bootcamps for their full time web development sessions for the summer, but was unable to (unfortunately) attend any of them because I ended up taking summer college classes instead. Here are the bootcamps:
   * [RefactorU](//www.refactoru.com) - Boulder, Colorado
-    * Applied, interviewed, accepted. Had an interesting conversation about an array of topics related to AI and the technological singularity with [Sean](//twitter.com/seandaken "Sean Daken - Twitter").
+    * Applied, interviewed, accepted. Had an interesting conversation about an array of topics related to AI and the technological singularity with [Sean](//twitter.com/seandaken 'Sean Daken - Twitter').
   * [Bitmaker Labs](//bitmakerlabs.com) - Toronto, Canada
     * Applied, interviewed, accepted. The people there are SO nice - it's ridiculous. I did not feel nervous at all during the whole process. You can see more about my Bitmaker experience [here](/blog/2014/03/12/interview-bitmaker-labs/).
-  * [Code Fellows](//www.codefellows.org/ "Code Fellows") - Seattle, Washington
+  * [Code Fellows](//www.codefellows.org/ 'Code Fellows') - Seattle, Washington
     * I applied for the Front-End Design & Development class in Seattle but did not go through with the interview. They understood and were pretty nice about it.
-  * [Dev Bootcamp](//devbootcamp.com/ "Dev Bootcamp") - Chicago
+  * [Dev Bootcamp](//devbootcamp.com/ 'Dev Bootcamp') - Chicago
     * I applied for their main program at their Chicago site. Again, I submitted the application but did not go through with the rest.
   * [HackerYou](//hackeryou.com) - Toronto, Canada
-    * Applied, chatted with founder [Heather](//twitter.com/heatherpayne "Heather Payne - Twitter"), never ended up completing the rest of admissions process, but it was still a great chat.
+    * Applied, chatted with founder [Heather](//twitter.com/heatherpayne 'Heather Payne - Twitter'), never ended up completing the rest of admissions process, but it was still a great chat.
   * [Hackbright Academy](//www.hackbrightacademy.com) - San Francisco, CA
-    * Applied, chatted with co-founder [Christian](//twitter.com/chriszf "Christian - Twitter") and one of the instructors, never ended up completing the rest of admissions process.
-  * [RocketU](//rocket-space.com/rocketu/ "RocketU") - San Francisco, CA
+    * Applied, chatted with co-founder [Christian](//twitter.com/chriszf 'Christian - Twitter') and one of the instructors, never ended up completing the rest of admissions process.
+  * [RocketU](//rocket-space.com/rocketu/ 'RocketU') - San Francisco, CA
     * Applied, chatted with one of the admission officers but told them early on I would not be completing the process. They were very understanding.
 
 ### Fun Tech-Related TV Shows
@@ -117,4 +118,4 @@ Austin](//fvcproductions.files.wordpress.com/2015/01/img_0074.jpg?w=294)](//fvcp
 
 * [National Convention for American Atheists](//atheists.org/convention2015)
 * [Conference of the North American Vegetarian Society](//www.vegetariansummerfest.org/index.htm)
-* [Conference of the Association for the Advancement of Artificial Intelligence (AAAI)](//www.aaai.org/Conferences/AAAI/aaai15.php) - I ended up doing just that! You can find more about that experience [here](//fvcproductions.com/blog/2015/01/30/adventures-with-aaai-2015/ "Adventures with AAAI").
+* [Conference of the Association for the Advancement of Artificial Intelligence (AAAI)](//www.aaai.org/Conferences/AAAI/aaai15.php) - I ended up doing just that! You can find more about that experience [here](//fvcproductions.com/blog/2015/01/30/adventures-with-aaai-2015/ 'Adventures with AAAI').

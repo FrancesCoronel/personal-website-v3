@@ -3,6 +3,8 @@ title: "AAAI 2015 Winter Conference - A Month Left"
 date: 2014-12-29
 description: "One month left till the AAAI 2015 Conference."
 banner: https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg
+aliases:
+  - /2014/12/29/aaai-2015-month-left/
 tags:
     - aaai
     - aaai 2015
@@ -10,8 +12,6 @@ tags:
     - ai conference
     - artificial intelligence
     - austin
-    - conference
-    - conference hotel
     - costs
     - fvcproductions
     - machine learning
@@ -30,7 +30,7 @@ It's happening.
 
 [![](//fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif)](//fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif) do the Bender dance…
 
-I'll be acting as a volunteer for [the conference](//www.aaai.org/Conferences/AAAI/aaai15.php "AAAI 2015 Winter Conference") (it's the first winter conference, too, apparently) and was therefore lucky enough to get a \$200 scholarship and a complimentary registration (\$450, in my case) to attend.
+I'll be acting as a volunteer for [the conference](//www.aaai.org/Conferences/AAAI/aaai15.php 'AAAI 2015 Winter Conference') (it's the first winter conference, too, apparently) and was therefore lucky enough to get a \$200 scholarship and a complimentary registration (\$450, in my case) to attend.
 
 \$200 is very little to cover travel and hotel costs, but seeing as I have no serious research experience in the field yet, I'd say I'm still fine with it. Especially considering these registration costs for a student AAAI member like myself…
 
@@ -49,7 +49,7 @@ Hotel costs, even with the special conference rate, will be \~\$1087 out of my p
 [![Delta Flight
 Details](//fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-30-20-31-34.png)](//fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-30-20-31-34.png) I'll take the very back window seat please, thanks.
 
-Thankfully, with a scholarship I got from the [VSGC](//vsgc.odu.edu "VSGC @ ODU"), I'll be able to pay off the majority of these conference fees. **Whew.** In the end, I'll be shelling out only \$300 for it all, which isn't terrible. Glad I'm selling so much crap on eBay, I'll tell you that.
+Thankfully, with a scholarship I got from the [VSGC](//vsgc.odu.edu 'VSGC @ ODU'), I'll be able to pay off the majority of these conference fees. **Whew.** In the end, I'll be shelling out only \$300 for it all, which isn't terrible. Glad I'm selling so much crap on eBay, I'll tell you that.
 
 I will say though that I don't feel I really have a lot of information yet in terms of scheduling.
 
@@ -93,7 +93,7 @@ I mean, I just know the basics as of right now…
 Any-whoozies, should be fun overall. I'll be rooming alone, unfortunately, since my roommate request didn't end successfully but hopefully I'll meet some friendly fellow volunteers!
 
 Cheers,\
-[fvcproductions](//twitter.com/fvcproductions "Twitter - FVCproductions")
+[fvcproductions](//twitter.com/fvcproductions 'Twitter - FVCproductions')
 
 [![AAAI-2015
 Banner](//fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg)](//fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg)

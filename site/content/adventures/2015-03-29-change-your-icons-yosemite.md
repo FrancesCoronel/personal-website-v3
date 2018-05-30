@@ -2,6 +2,8 @@
 title: "Change Your Icons on Yosemite with Scripting 🔧"
 date: 2015-03-29
 description: I got tired of Yosemite's icons and decided to take some initiative without the usual dependency on an app. It took about 2 days for me to perfect this strategy and now it's time to make your process a lot easier than mine.
+aliases:
+  - /2015/03/29/change-your-icons-yosemite/
 banner: https://fvcproductions.files.wordpress.com/2015/03/banner-new-icons.png?w=1024&h=435&crop=1
 categories:
     - blog
@@ -11,17 +13,17 @@ categories:
 
 **Index**
 
-1. [Intro](#section-intro)
-2. [Tools](#section-tools)
-3. [Step 1 - Get Your Icons](#section-step1)
-4. [Step 2 - Get The Command](#section-step2)
-5. [Step 3 - Execute Command](#section-step3)
+1.  [Intro](#section-intro)
+2.  [Tools](#section-tools)
+3.  [Step 1 - Get Your Icons](#section-step1)
+4.  [Step 2 - Get The Command](#section-step2)
+5.  [Step 3 - Execute Command](#section-step3)
 
 ## Intro
 
 So maybe you got tired of Yosemite's icons. That's cool.
 
-Even without apps like the once legendary [`CandyBar`](//www.panic.com/blog/candybar-mountain-lion-and-beyond/ "CandyBar") or [`LiteIcon`](//www.freemacsoft.net/liteicon/ "LiteIcon"), you can still change all your icons. No more dependencies!
+Even without apps like the once legendary [`CandyBar`](//www.panic.com/blog/candybar-mountain-lion-and-beyond/ 'CandyBar') or [`LiteIcon`](//www.freemacsoft.net/liteicon/ 'LiteIcon'), you can still change all your icons. No more dependencies!
 
 I got tired of Yosemite's icons and decided to take some initiative without the usual dependency on an app. It took about 2 days for me to perfect this strategy and now it's time to make your process a lot easier than mine.
 
@@ -33,7 +35,7 @@ I got tired of Yosemite's icons and decided to take some initiative without the 
 
 # Step 1 - Get Your Icons
 
-[DeviantArt](//www.deviantart.com "DeviantArt") is my go-to place for icons sets, but you can also try [IconArchive](//www.iconarchive.com/ "IconArchive") for a broader range of options.
+[DeviantArt](//www.deviantart.com 'DeviantArt') is my go-to place for icons sets, but you can also try [IconArchive](//www.iconarchive.com/ 'IconArchive') for a broader range of options.
 
 If you like the app icons I show in these pictures, then you're welcome to download them from my Dropbox.
 
@@ -42,16 +44,16 @@ Apps](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-32-4
 Icons -
 Utility](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-47-53.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-47-53.png)
 
-### [Here is a `ZIP` file of the icons and commands used in this tutorial.](//github.com/fvcproductions/customize-icons "Icons")
+### [Here is a `ZIP` file of the icons and commands used in this tutorial.](//github.com/fvcproductions/customize-icons 'Icons')
 
 _A special thanks to these guys for the amazing circular icons that I use in this how-to._
 
-* [Sebastian de With](//dewith.com/ "deWith")
-* [All the contributors to `Yoios` on GitHub](//github.com/mmarfil/yoios "Yoios")
+* [Sebastian de With](//dewith.com/ 'deWith')
+* [All the contributors to `Yoios` on GitHub](//github.com/mmarfil/yoios 'Yoios')
 
 # Step 2 - Get The Command
 
-I include this command file in the [`ZIP` file](//github.com/fvcproductions/customize-icons "Icons") mentioned in **Step 1**, but for reference, here is the code for the `ChangeIcons.command`.
+I include this command file in the [`ZIP` file](//github.com/fvcproductions/customize-icons 'Icons') mentioned in **Step 1**, but for reference, here is the code for the `ChangeIcons.command`.
 
 ````
 \#!/usr/bin/env ruby
@@ -132,9 +134,9 @@ After that, type in `killall Finder` into Terminal for the command to restart th
 [![Show Hidden Files Command in
 Terminal](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-21-37.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-21-37.png)
 
-Now that you have your Finder revealing all the hidden files - in the folder where you have all your icons properly named, copy and paste the folder `set_icons` from the [`ZIP` file](//github.com/fvcproductions/customize-icons "Icons") mentioned in **Step 1**, and rename it to `.set_icons`. Adding a period in front of the folder name makes it hidden and you will therefore not be able to see it anymore.
+Now that you have your Finder revealing all the hidden files - in the folder where you have all your icons properly named, copy and paste the folder `set_icons` from the [`ZIP` file](//github.com/fvcproductions/customize-icons 'Icons') mentioned in **Step 1**, and rename it to `.set_icons`. Adding a period in front of the folder name makes it hidden and you will therefore not be able to see it anymore.
 
-It looks exactly like the `.set_icons` folder already included within the folder called `Utilities` that can be found in the [`ZIP` file](//github.com/fvcproductions/customize-icons "Icons").
+It looks exactly like the `.set_icons` folder already included within the folder called `Utilities` that can be found in the [`ZIP` file](//github.com/fvcproductions/customize-icons 'Icons').
 
 [![Utility
 Sub-Folder](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-42.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-42.png)
@@ -143,7 +145,7 @@ So if you want to change your Utility icons as well, the `.set_icons` folder loc
 
 > The only difference between the `ChangeIcons.command` within the `All The Icons` folder and the `ChangeUtilityIcons.command located within the`Utilities folder`is that on Line 36, the app path is listed as`app_path = "/Applications/Utilities/\#{key}"\`.
 
-_A special thanks to [James Moore](//twitter.com/foozmeat "James Moore"), who created the `ChangeIcons.command` to replace all the icons and Damien Bobillot who created the `setfileicon` UNIX Executable File._
+_A special thanks to [James Moore](//twitter.com/foozmeat 'James Moore'), who created the `ChangeIcons.command` to replace all the icons and Damien Bobillot who created the `setfileicon` UNIX Executable File._
 
 # Step 3 - Execute Command
 
@@ -153,7 +155,7 @@ Now you probably have something like the following:
 
 * a folder called `All The Icons` with
   * all the icons you want to replace your old ones (in `icns` format)
-  * the `ChangeIcons.command` that was included in this [`ZIP` file](//github.com/fvcproductions/customize-icons "Icons")
+  * the `ChangeIcons.command` that was included in this [`ZIP` file](//github.com/fvcproductions/customize-icons 'Icons')
   * a _hidden_ sub-folder called `.set_icons` with
     * a modified `icon-data.json` file to include your own personal apps
     * the `setfileicon` UNIX executable file

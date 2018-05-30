@@ -5,6 +5,7 @@ description: RevolutionConf is a one-day, platform and language agnostic, softwa
 banner: https://fvcproductions.files.wordpress.com/2016/05/revolutionconf-2016.png
 aliases:
   - /home/adventures/conferences/revolutionconf/
+  - /2016/05/11/revolutionconf/
 categories:
   - blog
   - conference
@@ -29,7 +30,7 @@ tags:
 
 ## Name
 
-[RevolutionConf](//revolutionconf.com "RevolutionConf")
+[RevolutionConf](//revolutionconf.com 'RevolutionConf')
 
 ## Organizer
 

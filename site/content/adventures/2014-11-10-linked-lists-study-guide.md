@@ -3,6 +3,8 @@ title: "Study Guide - Linked Lists"
 date: 2014-11-10
 description: "A study guide for simple linked lists in Java."
 banner: https://fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
+aliases:
+  - /2014/11/10/linked-lists-study-guide/
 tags:
     - algorithms
     - arrays
@@ -104,9 +106,9 @@ categories:
 
   * pseudocode
 
-    1. representing empty list by storing null in head reference\
+    1.  representing empty list by storing null in head reference\
 
-       > keeping track of front node by using an Int_Node reference variable called `head`
+        > keeping track of front node by using an Int_Node reference variable called `head`
 
 * _add new node to empty list_\
 
@@ -115,10 +117,10 @@ categories:
   ```
 
   * pseudocode
-    1. create new node for head
-    2. place data in new node's data field
-    3. make head refer to null which is initial head value
-    4. connect new node to head
+    1.  create new node for head
+    2.  place data in new node's data field
+    3.  make head refer to null which is initial head value
+    4.  connect new node to head
 
 * _add node to front of list_\
 
@@ -127,10 +129,10 @@ categories:
   ```
 
   * pseudocode
-    1. create new node
-    2. place data (`newData`) in new node's data field
-    3. connect new node to front of list
-    4. make original `head` refer to **new** `head` of linked list
+    1.  create new node
+    2.  place data (`newData`) in new node's data field
+    3.  connect new node to front of list
+    4.  make original `head` refer to **new** `head` of linked list
 
 ![](//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/CPT-LinkedLists-addingnode.svg/474px-CPT-LinkedLists-addingnode.svg.png)
 
@@ -149,7 +151,7 @@ categories:
   ```
 
   * pseudocode
-    1. set a reference named `prev` (for previous) to refer to node which is just before new node's position
+    1.  set a reference named `prev` (for previous) to refer to node which is just before new node's position
 
 * _removing node at head_\
 
@@ -158,7 +160,7 @@ categories:
   ```
 
   * pseudocode
-    1. directing `head` to node right next to it (`head.link`) so that original `head` is removed
+    1.  directing `head` to node right next to it (`head.link`) so that original `head` is removed
 
 * _removing node anywhere_
 
@@ -176,12 +178,12 @@ categories:
 
   * pseudocode
 
-    1. initializing `pointer` to reference `head`
-    2. while loop that keeps going through entire list until `pointer` (or `head`) is `null`\
+    1.  initializing `pointer` to reference `head`
+    2.  while loop that keeps going through entire list until `pointer` (or `head`) is `null`\
 
-       > `null` implying that it's reached the last node because the last node will always have a `null` link since there's nothing next to the last node so no link so `null` link
+        > `null` implying that it's reached the last node because the last node will always have a `null` link since there's nothing next to the last node so no link so `null` link
 
-    3. `pointer` referenced to next node or `pointer.link`
+    3.  `pointer` referenced to next node or `pointer.link`
 
 * _print list through traversal_\
 

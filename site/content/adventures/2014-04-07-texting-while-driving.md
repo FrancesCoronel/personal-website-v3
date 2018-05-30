@@ -3,6 +3,8 @@ title: Texting While Driving
 date: 2014-04-07
 description: As part of a health project, my team and I tackled the effects of texting while driving.
 banner: https://i.imgur.com/Nx23XBu.jpg
+aliases:
+  - /portfolio/texting-while-driving-project/
 categories:
   - portfolio
   - design

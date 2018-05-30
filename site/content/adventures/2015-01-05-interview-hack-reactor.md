@@ -3,6 +3,8 @@ title: "Interview with Hack Reactor"
 date: 2014-12-29
 description: "Where I rant and share questions my experience from my interview with Hack Reactor (sort of)."
 banner: https://fvcproductions.files.wordpress.com/2015/01/screenshot-2015-01-05-20-16-31.png?w=1024&h=435&crop=1
+aliases:
+  - /2015/01/05/interview-hack-reactor/
 categories:
     - blog
 tags:
@@ -37,7 +39,7 @@ tags:
     - waves of tech
 ---
 
-> Where I rant and share questions my experience from my interview with [Hack Reactor](//hackreactor.com "Hack Reactor") (sort of).
+> Where I rant and share questions my experience from my interview with [Hack Reactor](//hackreactor.com 'Hack Reactor') (sort of).
 
 I keep looking for the key out of my novice programming level, but nothing seems to be clicking in the right place. It's an icky situation.
 
@@ -79,54 +81,54 @@ I've decided to categorize the questions I asked into 4 sections: questions spec
 
 > Pertaining to Hack Reactor
 
-1. **Why do you think those specific bootcamps were chosen to meet with the Department of Veteran Affairs at the White House?** I'm not allowed to comment on that.
-2. **How do you guys keep a database of all the graduate outcomes?** The HR community is very strong. The hiring and admissions team always make sure the outcome is very positive. For as long the school is in existence, HR intends to stay involved in the students and their aftermath. Outcomes are generally tracked from the beginning of the application.
-3. **I heard somewhere that you guys use Code School for part of your pre-work?** When a student is accepted, a large amount of pre-work gets assigned for them to accomplish. There is a number of mandatory exercises, and then about 2/3 of that is recommended work. Of that recommended work, Code School classes are recommended. It's still a very tiny portion.
-4. **During the actual course, do you guys use online learning software like that?** No, the curriculum is mostly focused around projects that are based in GitHub repos.
+1.  **Why do you think those specific bootcamps were chosen to meet with the Department of Veteran Affairs at the White House?** I'm not allowed to comment on that.
+2.  **How do you guys keep a database of all the graduate outcomes?** The HR community is very strong. The hiring and admissions team always make sure the outcome is very positive. For as long the school is in existence, HR intends to stay involved in the students and their aftermath. Outcomes are generally tracked from the beginning of the application.
+3.  **I heard somewhere that you guys use Code School for part of your pre-work?** When a student is accepted, a large amount of pre-work gets assigned for them to accomplish. There is a number of mandatory exercises, and then about 2/3 of that is recommended work. Of that recommended work, Code School classes are recommended. It's still a very tiny portion.
+4.  **During the actual course, do you guys use online learning software like that?** No, the curriculum is mostly focused around projects that are based in GitHub repos.
 
 > Overall Student Experience
 
-1. **If a student was not doing well midway through the program, how does Hack Reactor handle that?** What we're told to do as students is to make sure to raise those red flags as soon as possible. Having said that, there are many safety mechanisms in place. There are people in place to act as ‘sheperds' - those that are highly involved in each of the incoming classes. The abilities of each student will end up tailoring the after hour activities or lectures. No one is going to get left behind.
-2. **What events do students attend outside the bootcamp (e.g. Hackathons, Meetups)?** We host Hackathons here at Hack Reactor and we have our own Meetup group. We don't recommend outside Hackathons during the program because there wouldn't be any time.
-3. **In the 2nd part of the bootcamp where they have to make projects, do teams struggle to come up with solid ideas or do you encourage them to think about them beforehand or how does that work?** For the individual project, I had something I wanted to work on. For the team thesis project, we had a number of ideas but we worked collaboratively to decide which one to ultimately pursue. If the teams want, client projects can be provided as well. So to answer your question, both are available.
-4. **Would you say students also learn enough to design the app? Do you do this primarily using HTML/CSS and jQuery for interactivity?** It's personal choice. We generally just need an HTML framework in terms of design. We focus more on functionality over design.
+1.  **If a student was not doing well midway through the program, how does Hack Reactor handle that?** What we're told to do as students is to make sure to raise those red flags as soon as possible. Having said that, there are many safety mechanisms in place. There are people in place to act as ‘sheperds' - those that are highly involved in each of the incoming classes. The abilities of each student will end up tailoring the after hour activities or lectures. No one is going to get left behind.
+2.  **What events do students attend outside the bootcamp (e.g. Hackathons, Meetups)?** We host Hackathons here at Hack Reactor and we have our own Meetup group. We don't recommend outside Hackathons during the program because there wouldn't be any time.
+3.  **In the 2nd part of the bootcamp where they have to make projects, do teams struggle to come up with solid ideas or do you encourage them to think about them beforehand or how does that work?** For the individual project, I had something I wanted to work on. For the team thesis project, we had a number of ideas but we worked collaboratively to decide which one to ultimately pursue. If the teams want, client projects can be provided as well. So to answer your question, both are available.
+4.  **Would you say students also learn enough to design the app? Do you do this primarily using HTML/CSS and jQuery for interactivity?** It's personal choice. We generally just need an HTML framework in terms of design. We focus more on functionality over design.
 
 > Logistics/Numbers
 
-1. **Did a large percentage of your cohort have a CS background?** No.
-2. **Does anybody drop out after experiencing the pre-work?** I have no info on that.
-3. **Out of the applicants you accept, what % of that end up attending?** I have no info on that.
-4. **How do refunds work? At what point do you stop offering full refunds?** (UPDATE - March 31, 2016 - Got some info on this from a current HR student) During the first week, everyone has the opportunity to take a mulligan and get a full refund minus the \$2,000 deposit. One person did that in my cohort. Two people in my cohort felt overwhelmed midcourse and hack reactor allowed them to drop out and defer their tuition to a later cohort after doing more self-learning.
-5. **Is everyone recommended to do their development on a Mac?** That's the school standard. There has been people in the past who have tried using Windows initially, but they ended up switching over.
+1.  **Did a large percentage of your cohort have a CS background?** No.
+2.  **Does anybody drop out after experiencing the pre-work?** I have no info on that.
+3.  **Out of the applicants you accept, what % of that end up attending?** I have no info on that.
+4.  **How do refunds work? At what point do you stop offering full refunds?** (UPDATE - March 31, 2016 - Got some info on this from a current HR student) During the first week, everyone has the opportunity to take a mulligan and get a full refund minus the \$2,000 deposit. One person did that in my cohort. Two people in my cohort felt overwhelmed midcourse and hack reactor allowed them to drop out and defer their tuition to a later cohort after doing more self-learning.
+5.  **Is everyone recommended to do their development on a Mac?** That's the school standard. There has been people in the past who have tried using Windows initially, but they ended up switching over.
 
 > Personal Cohort Experience
 
-1. **Did you ever go through imposter syndrome?** Yeah, absolutely. It gets talked about a lot here, because the amount of information is tremendous that it is impossible to know everything. No one knows everything. It's definitely something that's talked about and so are strategies to overcome it.
-2. **What was your project about?** My solo project was an astronomy app that would tell you the positioning of all the planets and my thesis project involved my team and I creating an iPhone app ([Endevr](//www.youtube.com/watch?v=XTizYogXstU "Endevr")).
-3. **How often did you stay up late in your experience at Hack Reactor?** I was pretty aggressive about getting 6–7 hours of sleep. And yes I did stay up late but it was't frequent.
-4. **If you made a switch, why do you think you chose your initial field first?** Well, my jump wasn't that large compared to others. I came in with experience of being a product manager.
-5. **Do you help construct the curriculum?** Yes, a little bit by providing toy problems. I also lecture a bit about toy problems and help out with interviews, the help desk, cross sort and debugging.
-6. **What was your favorite event/memory from Hack Reactor?** The first 6 weeks were the most fun I've ever had, it was really great meeting the other students. There are a lot of interesting people getting along and figuring out this strange ecosystem. I just really had a ball.
-7. **When did you notice the students in your cohort starting to get friendly with each other and form those bonds?** We had a really great group where you could see from the 1st day, the relationships were starting to get made. There were a lot of musicians and chess players, so we had these really crazy chess matches. People had a really good time. I'd say you could notice it immediately.
+1.  **Did you ever go through imposter syndrome?** Yeah, absolutely. It gets talked about a lot here, because the amount of information is tremendous that it is impossible to know everything. No one knows everything. It's definitely something that's talked about and so are strategies to overcome it.
+2.  **What was your project about?** My solo project was an astronomy app that would tell you the positioning of all the planets and my thesis project involved my team and I creating an iPhone app ([Endevr](//www.youtube.com/watch?v=XTizYogXstU 'Endevr')).
+3.  **How often did you stay up late in your experience at Hack Reactor?** I was pretty aggressive about getting 6–7 hours of sleep. And yes I did stay up late but it was't frequent.
+4.  **If you made a switch, why do you think you chose your initial field first?** Well, my jump wasn't that large compared to others. I came in with experience of being a product manager.
+5.  **Do you help construct the curriculum?** Yes, a little bit by providing toy problems. I also lecture a bit about toy problems and help out with interviews, the help desk, cross sort and debugging.
+6.  **What was your favorite event/memory from Hack Reactor?** The first 6 weeks were the most fun I've ever had, it was really great meeting the other students. There are a lot of interesting people getting along and figuring out this strange ecosystem. I just really had a ball.
+7.  **When did you notice the students in your cohort starting to get friendly with each other and form those bonds?** We had a really great group where you could see from the 1st day, the relationships were starting to get made. There were a lot of musicians and chess players, so we had these really crazy chess matches. People had a really good time. I'd say you could notice it immediately.
 
-#### If you are interested in more information regarding Hack Reactor, [I compiled a short list of resources to best prepare for the interview and also gave my thoughts on how competitive bootcamps select for students](//fvcproductions.com/blog/2015/01/05/tiny-glimpse-hack-reactor-selection-preparation/ "A Tiny Glimpse Into Hack Reactor: Selection & Preparation").
+#### If you are interested in more information regarding Hack Reactor, [I compiled a short list of resources to best prepare for the interview and also gave my thoughts on how competitive bootcamps select for students](//fvcproductions.com/blog/2015/01/05/tiny-glimpse-hack-reactor-selection-preparation/ 'A Tiny Glimpse Into Hack Reactor: Selection & Preparation').
 
 ## **Questions I Forgot To Ask**
 
-1. Are people encouraged to learn Ruby at all during the program? Why or why not?
-2. Define software engineer in HR terms.
-3. Could you say without a doubt that 100% of grads can be considered software engineers?
-4. Can I offer suggestions to the website?
+1.  Are people encouraged to learn Ruby at all during the program? Why or why not?
+2.  Define software engineer in HR terms.
+3.  Could you say without a doubt that 100% of grads can be considered software engineers?
+4.  Can I offer suggestions to the website?
 
 ## **Technical Interview**
 
 [I completed my technical interview last Friday with Christopher T. and Katherine G. acting as a shadow. The whole session was supposed to last exactly an hour.]{.s1}
 
-We jumped right into the technical interview and after Christopher thought I was tested enough (mainly on callbacks and objects) using [CodeShare](//codeshare.io "CodeShare"), he gave me exactly 10 minutes to ask him about his experience about Hack Reactor.
+We jumped right into the technical interview and after Christopher thought I was tested enough (mainly on callbacks and objects) using [CodeShare](//codeshare.io 'CodeShare'), he gave me exactly 10 minutes to ask him about his experience about Hack Reactor.
 
 The first question I asked was about his background before he came to Hack Reactor. He told me he wasn't comfortable answering that since he didn't really know me. I was a little taken aback and no longer knew what could be defined as an appropriate question at that point so I didn't really ask any more questions. To be fair, he did mention how amazing his experience at Hack Reactor was. It was also made clear I had a limited amount of time, so after that he told me that admissions would be getting back to me within a week and that was that.
 
-Well, "curiosity killed the cat" and I decided to look up my interviewers on LinkedIn ([weird, right?](//help.linkedin.com/app/answers/detail/a_id/3544/~/finding-people-on-linkedin "Weird.")). Turns out not a lot is really private anymore, but I'm okay with pretending it is.
+Well, "curiosity killed the cat" and I decided to look up my interviewers on LinkedIn ([weird, right?](//help.linkedin.com/app/answers/detail/a_id/3544/~/finding-people-on-linkedin 'Weird.')). Turns out not a lot is really private anymore, but I'm okay with pretending it is.
 
 I felt _pretty bad_ about how my interview went and decided to send them supplemental material such as links to my LinkedIn, GitHub, etc.
 
@@ -138,7 +140,7 @@ Today, they finally got back to me and this is part of the email they sent me:
 
 All in all, it was definitely an eye-opening experience and I'm glad I was able to be a part of it.
 
-I knew already beforehand that no matter what, I'm going to keep bettering myself and [riding the waves of technology](//www.urbandictionary.com/define.php?term=Surfing+the+Web "Surfing The Web") and you know, just being me.
+I knew already beforehand that no matter what, I'm going to keep bettering myself and [riding the waves of technology](//www.urbandictionary.com/define.php?term=Surfing+the+Web 'Surfing The Web') and you know, just being me.
 
 **Surf's Up! 🏄**
 
@@ -148,8 +150,8 @@ I also have shared my **interview experience** with bootcamps such as
 
 * [Bitmaker Labs](/blog/2014/03/12/interview-bitmaker-labs/)
 * [Coding Dojo](/blog/2015/01/06/interview-coding-dojo/)
-* [Coding House](//fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
-* [Designation](//fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
-* [Dev League](//fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
-* [Fullstack Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
-* [Maker Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
+* [Coding House](//fvcproductions.com/blog/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
+* [Designation](//fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
+* [Dev League](//fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'My Experience With DevLeague 💻')
+* [Fullstack Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
+* [Maker Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')

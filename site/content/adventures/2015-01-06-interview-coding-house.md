@@ -3,6 +3,8 @@ title: "Interview with Coding House"
 date: 2015-01-06
 description: "My interview with Coding House."
 banner: https://fvcproductions.files.wordpress.com/2015/01/photo-2.jpg
+aliases:
+  - /2015/01/06/interview-coding-house/
 categories:
   - blog
 tags:
@@ -28,7 +30,7 @@ tags:
 
 [![](//course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/74/s300/coding-house-logo.png)](//www.codinghouse.com)
 
-# Interview with [Coding House](//www.codinghouse.com "Coding House")
+# Interview with [Coding House](//www.codinghouse.com 'Coding House')
 
 ### with [Nick James](//www.linkedin.com/in/hellonick) and [Samer Buna](//www.linkedin.com/in/samerbuna)
 
@@ -73,8 +75,8 @@ I also have shared my **interview experience** with bootcamps such as
 
 * [Bitmaker Labs](/blog/2014/03/12/interview-bitmaker-labs/)
 * [Coding Dojo](/blog/2015/01/06/interview-coding-dojo/)
-* [Designation](//fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
-* [Dev League](//fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "Interview With DevLeague 💻")
-* [Fullstack Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
-* [Hack Reactor](//fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
-* [Maker Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
+* [Designation](//fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
+* [Dev League](//fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'Interview With DevLeague 💻')
+* [Fullstack Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
+* [Hack Reactor](//fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ 'Questioning Hack Reactor 🔑')
+* [Maker Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')

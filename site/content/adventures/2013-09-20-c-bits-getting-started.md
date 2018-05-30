@@ -4,7 +4,8 @@ date: 2013-09-20
 description: The 1st part in a mini-series for beginners in C.
 banner: https://fvcproductions.files.wordpress.com/2013/09/banners-001.jpg?w=1024&h=436&crop=1
 aliases:
-  - /blog/2013/09/20/c-bits-speeding-up-a-bit/
+  - /blog/2013/09/20/c-bits-getting-started/
+  - /2013/09/20/c-bits-getting-started/
 categories:
   - blog
 tags:
@@ -91,22 +92,22 @@ int main() {
 
 Write a program that:
 
-1. assigns 13 to a and 9 to b
-2. computes the sum of a and b and prints the result
-3. computes the product of a and b and prints the result 4. computes the difference of a and b and prints the result 5. computes the division of a and b and prints the result (the result should be a float) 6. computes the remainder of the division of a and b and prints the result 7. prints the values of a and b
+1.  assigns 13 to a and 9 to b
+2.  computes the sum of a and b and prints the result
+3.  computes the product of a and b and prints the result 4. computes the difference of a and b and prints the result 5. computes the division of a and b and prints the result (the result should be a float) 6. computes the remainder of the division of a and b and prints the result 7. prints the values of a and b
 
 ### Problem 1.5 - Using printf for multiple data types and conversions
 
 Write a program that:
 
-1. declares and initializes an integer variable a with 123, and prints the value of a over 7 places
-2. declares and initializes an float variable b with −89.6548754, and prints the value of b over 10 places and with a floating point precision of
-3. declares and initializes a char variable c with 'b', and prints the character on the screen 4. declares and initializes a double variable d with 19.987243, and prints the value of d with a floating point precision of 2
+1.  declares and initializes an integer variable a with 123, and prints the value of a over 7 places
+2.  declares and initializes an float variable b with −89.6548754, and prints the value of b over 10 places and with a floating point precision of
+3.  declares and initializes a char variable c with 'b', and prints the character on the screen 4. declares and initializes a double variable d with 19.987243, and prints the value of d with a floating point precision of 2
 
 ### Problem 1.6 - Printing a char as character and as decimal value
 
 Write a program that:
 
-1. declares and initializes a char variable letter with 'a' and prints it on the screen as a character and as corresponding ASCII code
-2. declares and initializes an integer variable a with 123, and prints the value of a over 7 place
-3. declares and initializes a char variable letter with 'a' and prints it on the screen as a character and as corresponding ASCII code
+1.  declares and initializes a char variable letter with 'a' and prints it on the screen as a character and as corresponding ASCII code
+2.  declares and initializes an integer variable a with 123, and prints the value of a over 7 place
+3.  declares and initializes a char variable letter with 'a' and prints it on the screen as a character and as corresponding ASCII code

@@ -3,6 +3,8 @@ title: "First Meetup, First Impressions"
 date: 2014-12-23
 description: "Meeting new people always prove to be an interesting experience."
 banner: https://fvcproductions.files.wordpress.com/2014/12/meetup-icon.png?w=1024&h=435&crop=1
+aliases:
+  - /2014/12/23/first-meetup-first-impressions/
 tags:
     - adrenaline junkies
     - atheists
@@ -41,7 +43,7 @@ I didn't really know anything about [Travis CI](//travis-ci.org) going in (other
 
 I also got a free book, ["If Hemingway wrote JavaScript"](//www.nostarch.com/hemingwayjs) (which is pretty amusing so far!), a [new network](//757dev.org) of local coding peeps, and tons of potential future fun.
 
-Besides NorfolkJS, I also joined [/\\drenaline_ junkies](//www.meetup.com/Adrenaline_Junky/), [GDG Hampton Roads](//www.meetup.com/GDG-Hampton-Roads/), [HR FEN (Hampton Roads Friends, Events and Networking)](//www.meetup.com/HR-FEN/), [Southeastern Virginia Skeptics](//www.meetup.com/sevaskeptics/), [Tidewater Atheists Group (TAG)](//www.meetup.com/Tidewater-Atheists-Group/ "TAG"), [Tidewater Science and Reason](//www.meetup.com/Tidewater-Science-and-Reason/), and the [Vegan Dinner Social and Pleasure Club](//www.meetup.com/Vegan-Dinner-Social-and-Pleasure-Club/).
+Besides NorfolkJS, I also joined [/\\drenaline\_ junkies](//www.meetup.com/Adrenaline_Junky/), [GDG Hampton Roads](//www.meetup.com/GDG-Hampton-Roads/), [HR FEN (Hampton Roads Friends, Events and Networking)](//www.meetup.com/HR-FEN/), [Southeastern Virginia Skeptics](//www.meetup.com/sevaskeptics/), [Tidewater Atheists Group (TAG)](//www.meetup.com/Tidewater-Atheists-Group/ 'TAG'), [Tidewater Science and Reason](//www.meetup.com/Tidewater-Science-and-Reason/), and the [Vegan Dinner Social and Pleasure Club](//www.meetup.com/Vegan-Dinner-Social-and-Pleasure-Club/).
 
 I went to a [planetarium show](//sci.odu.edu/physics/planetarium/home.html) and was recommended a [really great book](//www.amazon.com/MAD-COWBOY-Plain-Cattle-Rancher/dp/0684854465) (Mad Cowboy) in other Meetups so far.
 
@@ -50,7 +52,7 @@ TL;DR - Looking forward to the next Meetups for sure!!!
 ![Meetup - HR
 Fen](//fvcproductions.files.wordpress.com/2015/06/1433270063_featured.png) Meetup - HR Fen
 
-I also ended up going to my first non-tech related meetup soon afterwards with [Hampton Roads Friends, Events, and Networking](//www.meetup.com/HR-FEN "Meetup - HR FEN").
+I also ended up going to my first non-tech related meetup soon afterwards with [Hampton Roads Friends, Events, and Networking](//www.meetup.com/HR-FEN 'Meetup - HR FEN').
 
 The official title of [this Meetup](//www.meetup.com/HR-FEN/events/219360131/) was _Macaroni Grill Restaurant, Town Center - New Member Mixer Dinner._
 

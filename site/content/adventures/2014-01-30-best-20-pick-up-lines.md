@@ -3,8 +3,11 @@ title: "The Best 20 Pick Up Lines"
 date: 2014-01-30
 description: "Pick up lines I thought of."
 banner: https://fvcproductions.files.wordpress.com/2014/03/banners-0011.jpg?w=1024&h=436&crop=1
+aliases:
+  - /2014/03/04/best-20-pick-up-lines/
+  - /blog/2014/03/04/best-20-pick-up-lines/
 categories:
-    - blog
+  - blog
 tags:
     - alien
     - beauty

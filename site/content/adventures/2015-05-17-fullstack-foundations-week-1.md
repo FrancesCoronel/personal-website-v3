@@ -3,6 +3,8 @@ title: Fullstack Foundations - Week 1
 date: 2015-05-17
 description: Fullstack Academy‘s first ever Summer of Code program, which is described as a program that "gives college students the opportunity to study fullstack web development while on summer break" is starting this June. Specifically, Monday, June 8th 2015.
 banner: https://fvcproductions.files.wordpress.com/2015/05/github.jpg
+aliases:
+  - /2015/05/17/fullstack-foundations-week-1/
 categories:
   - blog
 tags:
@@ -15,17 +17,17 @@ tags:
   - prework
 ---
 
-> Fullstack Foundations is the prework course for [Fullstack Academy](//fullstackacademy.com "Fullstack Academy").
+> Fullstack Foundations is the prework course for [Fullstack Academy](//fullstackacademy.com 'Fullstack Academy').
 
 So.
 
-[Fullstack Academy](//fullstackacademy.com "Fullstack Academy")‘s first ever **[Summer of Code](//www.fullstackacademy.com/summer-of-code "Summer of Code")** program, which is described as a program that "_gives college students the opportunity to study full stack web development while on summer break_" is starting this June.
+[Fullstack Academy](//fullstackacademy.com 'Fullstack Academy')‘s first ever **[Summer of Code](//www.fullstackacademy.com/summer-of-code 'Summer of Code')** program, which is described as a program that "_gives college students the opportunity to study full stack web development while on summer break_" is starting this June.
 
 Specifically, Monday, June 8th 2015.
 
 Ergo, I'm actually going to be part of an inaugural class of **something**. That's never happened before, so I'm pretty darn excited.
 
-As excited as _I_ can get anyway, which to some people would not really be perceived as very excited at all. Think **[Maurice Moss](//theitcrowd.wikia.com/wiki/Maurice_Moss "Maurice Moss")**.
+As excited as _I_ can get anyway, which to some people would not really be perceived as very excited at all. Think **[Maurice Moss](//theitcrowd.wikia.com/wiki/Maurice_Moss 'Maurice Moss')**.
 
 ![Moss](//media.tumblr.com/tumblr_lib9372zdW1qglrwm.png)
 

@@ -5,6 +5,7 @@ description: Cute Things We Do = FC.js + NK.js
 banner: https://i.imgur.com/jMOtDPI.jpg
 aliases:
   - /portfolio/2017/01/30/cute-things-we-do/
+  - /portfolio/cute-things-we-do/
 categories:
   - portfolio
   - web

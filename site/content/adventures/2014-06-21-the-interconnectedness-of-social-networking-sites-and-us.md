@@ -3,6 +3,8 @@ title: The Interconnectedness of Social Networking Sites
 date: 2014-06-21
 description: So, I've made a somewhat interesting discovery.
 banner: https://fvcproductions.files.wordpress.com/2014/06/version-1.jpg?w=1024&h=435&crop=1
+aliases:
+  - /2014/06/21/the-interconnectedness-of-social-networking-sites-and-us/
 categories:
   - blog
 tags:
@@ -51,7 +53,7 @@ When one has an account with all these different social networking sites (I have
 11. [Twitter](//www.twitter.com) (tweet, tweet) 12.
 12. [Quizlet](//www.quizlet.com) (quizzes all abound) 13.
 13. [a Facebook Account](//www.facebook.com) (casual stalking) 14.
-14. [a Facebook Page](//www.facebook.com/help/174987089221178 "What is a Facebook Page?") (organization stalking)
+14. [a Facebook Page](//www.facebook.com/help/174987089221178 'What is a Facebook Page?') (organization stalking)
 
 there's a lot one can't not do. Which is exciting.
 
@@ -89,7 +91,7 @@ At the core of its own recipe, IFTT has a simple if-statement one could find in 
 
 Any whoozies, all this time, I've really just been contemplating how much closer everyone really is to each other virtually and trying to prove that to myself through these visually off-putting diagrams I decided to type up last month.
 
-And all the while, I'll be waiting eagerly/cautiously of the moment where some sort of revolutionary virtual/biological "Grid" is created and everyone is truly connected one way or another. Could end up bad, though. [Really bad.](//www.youtube.com/watch?v=IzryBRPwsog "Plurality.") Well...
+And all the while, I'll be waiting eagerly/cautiously of the moment where some sort of revolutionary virtual/biological "Grid" is created and everyone is truly connected one way or another. Could end up bad, though. [Really bad.](//www.youtube.com/watch?v=IzryBRPwsog 'Plurality.') Well...
 
 :twisted:
 

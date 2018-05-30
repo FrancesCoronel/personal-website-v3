@@ -3,35 +3,37 @@ title: "Sort Detective - Solution ☕"
 date: 2015-04-18
 description: "Stuck on that homework assignment involving SortDetective.jar? No need to worry!"
 banner: https://fvcproductions.files.wordpress.com/2015/04/banners-001.jpg?w=1024&h=436&crop=1
-tags:
-    - alpha
-    - beta
-    - bubble sort
-    - delta
-    - epsilon
-    - experimentOrders
-    - formula
-    - gamma
-    - greek letters
-    - heap sort
-    - homework assignment
-    - insertion sorts
-    - java
-    - java decompiler
-    - jd
-    - ui
-    - jd.benow.ca
-    - merge sort
-    - quick sort
-    - selection sort
-    - sort detective
-    - sortdetective.jar
-    - sorting methods
-    - SortingExperiment
-    - student ID
-    - zeta
+aliases:
+  - /2015/04/18/sort-detective-solution/
 categories:
-    - blog
+  - blog
+tags:
+  - alpha
+  - beta
+  - bubble sort
+  - delta
+  - epsilon
+  - experimentOrders
+  - formula
+  - gamma
+  - greek letters
+  - heap sort
+  - homework assignment
+  - insertion sorts
+  - java
+  - java decompiler
+  - jd
+  - ui
+  - jd.benow.ca
+  - merge sort
+  - quick sort
+  - selection sort
+  - sort detective
+  - sortdetective.jar
+  - sorting methods
+  - SortingExperiment
+  - student ID
+  - zeta
 ---
 
 > This tutorial is "certifiably" Mac Friendly. Whoop. 
@@ -46,7 +48,7 @@ categories:
 
 ## Step 1 - Download JD-GUI
 
-Head over to the Java Decompiler [page located at `jd.benow.ca`](//jd.benow.ca/ "Java Decompiler")) and download the `ZIP` file for the `JD-GUI`.
+Head over to the Java Decompiler [page located at `jd.benow.ca`](//jd.benow.ca/ 'Java Decompiler')) and download the `ZIP` file for the `JD-GUI`.
 
 ![](//fvcproductions.files.wordpress.com/2015/04/jd-gui.png)
 

@@ -4,6 +4,8 @@ date: 2014-12-27
 description: "I've compiled a list of 15 great resources I've come to learn about over
 the years of trying to learn how to properly program."
 banner: https://fvcproductions.files.wordpress.com/2014/09/html-css-book-cover.jpg
+aliases:
+  - /2014/12/27/im-a-noob-when-it-comes-to-programming-where-to-now/
 categories:
   - blog
 tags:

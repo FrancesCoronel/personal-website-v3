@@ -10,36 +10,35 @@ const CompressionPlugin = require("compression-webpack-plugin");
 
 export default {
   module: {
-    rules: [
-      {
-        test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/,
-        loader: "url-loader",
-      },
-      {
-        test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-c9])?$/,
-        loader: "url-loader",
-      },
-      {
-        test: /\.js?$/,
-        loader: "babel-loader",
-        exclude: /node_modules/,
-        query: {
+    rules: [{
+      test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/,
+      loader: "url-loader",
+    },
+    {
+      test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-c9])?$/,
+      loader: "url-loader",
+    },
+    {
+      test: /\.js?$/,
+      loader: "babel-loader",
+      exclude: /node_modules/,
+      query: {
           cacheDirectory: true,
         },
-      },
-      {
-        test: /\.css$/,
-        use: ["style-loader", "css-loader"],
-      },
-      {
-        test: /\.(gif|png|jpe?g|svg)$/i,
-        use: [
+    },
+    {
+      test: /\.css$/,
+      use: ["style-loader", "css-loader"],
+    },
+    {
+      test: /\.(gif|png|jpe?g|svg)$/i,
+      use: [
           "file-loader",
           {
             loader: "image-webpack-loader",
           },
         ],
-      },
+    },
     ],
   },
   plugins: [
@@ -76,35 +75,34 @@ export default {
       maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
       clientsClaim: true,
       skipWaiting: true,
-      runtimeCaching: [
-        {
-          urlPattern: /\.(?:html|css|png|gif|jpg|svg|xml|js|ico|jso)$/,
-          handler: "staleWhileRevalidate",
-        },
-        {
-          urlPattern: new RegExp("https://cdn.embedly.com"),
-          handler: "staleWhileRevalidate",
-        },
-        {
-          urlPattern: new RegExp("https://fvcproductions.disqus.com"),
-          handler: "staleWhileRevalidate",
-        },
-        {
-          urlPattern: new RegExp("https://cdn.onesignal.com"),
-          handler: "staleWhileRevalidate",
-        },
-        {
-          urlPattern: new RegExp("https://imgur.com"),
-          handler: "staleWhileRevalidate",
-        },
-        {
-          urlPattern: new RegExp("https://google-analytics.com"),
-          handler: "staleWhileRevalidate",
-        },
-        {
-          urlPattern: new RegExp("https://twitter.github.io"),
-          handler: "staleWhileRevalidate",
-        },
+      runtimeCaching: [{
+        urlPattern: /\.(?:html|css|png|gif|jpg|svg|xml|js|ico|jso)$/,
+        handler: "staleWhileRevalidate",
+      },
+      {
+        urlPattern: new RegExp("https://cdn.embedly.com"),
+        handler: "staleWhileRevalidate",
+      },
+      {
+        urlPattern: new RegExp("https://fvcproductions.disqus.com"),
+        handler: "staleWhileRevalidate",
+      },
+      {
+        urlPattern: new RegExp("https://cdn.onesignal.com"),
+        handler: "staleWhileRevalidate",
+      },
+      {
+        urlPattern: new RegExp("https://imgur.com"),
+        handler: "staleWhileRevalidate",
+      },
+      {
+        urlPattern: new RegExp("https://google-analytics.com"),
+        handler: "staleWhileRevalidate",
+      },
+      {
+        urlPattern: new RegExp("https://twitter.github.io"),
+        handler: "networkFirst",
+      },
       ],
     }),
   ],

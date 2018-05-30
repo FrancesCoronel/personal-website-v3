@@ -3,6 +3,8 @@ title: Interview with Bitmaker Labs
 date: 2014-03-12
 description: So this past winter, I applied to Bitmaker Labs for their summer 2014 full-time web development immersive course and was accepted.
 banner: https://fvcproductions.files.wordpress.com/2014/03/bitmaker-banner.png?w=1024&h=435&crop=1
+aliases:
+  - /2014/03/12/interview-bitmaker-labs/
 categories:
   - blog
 tags:

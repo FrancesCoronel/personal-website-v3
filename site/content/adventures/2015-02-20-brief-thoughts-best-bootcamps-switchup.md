@@ -3,6 +3,8 @@ title: Brief Thoughts on SwitchUp's Best Bootcamps List
 date: 2015-02-15
 description: Bootcamps are a risky business, make sure you make the right decision.
 banner: https://fvcproductions.files.wordpress.com/2015/02/switchup.jpg?w=1024&h=435&crop=1
+aliases:
+  - /2015/02/20/brief-thoughts-best-bootcamps-switchup/
 categories:
   - blog
 tags:
@@ -33,7 +35,7 @@ tags:
 
 ## Best Physical Bootcamps from SwitchUp
 
-1.  [Anyone Can Learn to Code](//anyonecanlearntocode.com/ "Anyone Can Learn to Code") (Chicago)
+1.  [Anyone Can Learn to Code](//anyonecanlearntocode.com/ 'Anyone Can Learn to Code') (Chicago)
     * Course Report ([6 Reviews](//www.coursereport.com/schools/anyone-can-learn-to-code#/reviews))
     * Quora ([2 Reviews](//www.quora.com/Reviews-of-Anyone-Can-Learn-To-Code-programming-bootcamp)) ⭐️⭐️⭐️⭐️⭐️ 5/5
     * SwitchUp ([8 Reviews](//www.switchup.org/bootcamps/93)) ⭐️⭐️⭐️⭐️⭐️ 5/5
@@ -184,14 +186,14 @@ tags:
     * SwitchUp ([4 Reviews](//www.switchup.org/bootcamps/makers-academy)) ⭐️⭐️⭐️⭐️⭐️ 5/5
     * Techendo ([2 Positive, 0 Negative](//schools.techendo.com/schools/makers-academy))
     * Yelp (N/A)
-24. [Rocket U](//rocket-space.com "Rocket Space") (San Francisco)
+24. [Rocket U](//rocket-space.com 'Rocket Space') (San Francisco)
     * I applied to this program as well, but as with others, I did not go through with the interview process.
     * Course Report ([6 Reviews](//www.coursereport.com/schools/rocketu))
     * Quora (N/A)
     * SwitchUp ([11 Reviews](//www.switchup.org/bootcamps/rocket-u)) ⭐️⭐️⭐️⭐️ 4/5
     * Techendo ([1 Positive, 0 Negative](//schools.techendo.com/schools/rocketu))
     * Yelp (N/A)
-25. [Software Craftsmanship Guild](//www.swcguild.com/ "SWC Guild") (Akron)
+25. [Software Craftsmanship Guild](//www.swcguild.com/ 'SWC Guild') (Akron)
     * Course Report ([4 Reviews](//www.coursereport.com/schools/software-craftsmanship-guild))
     * Quora ([11 Reviews](//www.quora.com/Reviews-of-Software-Craftsmanship-Guild)) ⭐️⭐️⭐️⭐️⭐️ 4.9/5
     * SwitchUp ([16 Reviews](//www.switchup.org/bootcamps/software-craftsmanship-guild)) ⭐️⭐️⭐️⭐️⭐️ 5/5

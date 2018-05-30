@@ -3,17 +3,19 @@ title: "Auschwitz: A Doctor's Eyewitness Account 📖"
 date: 2015-04-11
 description: 'Book review of "Auschwitz: A Doctor''s Eyewitness Account".'
 banner: https://fvcproductions.files.wordpress.com/2014/06/toaletter_pc3a5_auschwitz_2.jpg
-tags:
-    - Arcade Publishing
-    - auschwitz
-    - 'Auschwitz: A Doctor''s Eyewitness Account'
-    - holocaust
-    - jewish holocaust
-    - Miklos Nyiszli
-    - prisoners
-    - sonderkommando
+aliases:
+  - /2015/04/11/auschwitz-a-doctors-eyewitness-account/
 categories:
-    - blog
+  - blog
+tags:
+  - Arcade Publishing
+  - auschwitz
+  - 'Auschwitz: A Doctor''s Eyewitness Account'
+  - holocaust
+  - jewish holocaust
+  - Miklos Nyiszli
+  - prisoners
+  - sonderkommando
 ---
 
 To say this book was a pleasant read would be a blatant lie. For _Auschwitz_ served not just as a "terribly" pleasant read, but also as a brilliant commentary on the affairs of the notorious Auschwitz concentration camp through the eyes of a survivor. The eyes of one who lived through eight months as a Sonderkommando, who were those "privileged" prisoners selected as prominent work units for the Nazi death camps and were guaranteed at least four months of life before being dispensed of and replaced, given that all Sonderkommandos had access to the deepest, darkest secrets of the concentration camps. The account prospers as a reliable and vital piece of particulars given that Dr. Nyiszli served as the right hand man of Dr. Mengele for eight months, having had to save himself from execution multiple times through hasty decisions and mere luck.

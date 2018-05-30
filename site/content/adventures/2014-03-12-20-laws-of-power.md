@@ -3,6 +3,8 @@ title: "20 Laws of Power"
 date: 2014-03-12
 description: "My favorite 20 laws of power."
 banner: https://fvcproductions.files.wordpress.com/2014/03/book.jpg
+aliases:
+  - /2014/03/12/20-laws-of-power/
 tags:
     - adapt and survive
     - be wary
@@ -23,7 +25,7 @@ categories:
     - blog
 ---
 
-So if you're not already familiar with Robert Green's popular book "[The 48 Laws of Power](//en.wikipedia.org/wiki/The_48_Laws_of_Power "48 Laws of Power - Wiki")" that was published in 1998, I'm going to suggest you read it… right now.
+So if you're not already familiar with Robert Green's popular book "[The 48 Laws of Power](//en.wikipedia.org/wiki/The_48_Laws_of_Power '48 Laws of Power - Wiki')" that was published in 1998, I'm going to suggest you read it… right now.
 
 Like any popular book, it has its positive and negative criticisms, but I found it immensely interesting for a self-help book.
 
@@ -35,15 +37,15 @@ I just included my 20 favorite ones so that if you want to read the book, you ca
 
 Here they are then…
 
-1. Never Outshine The Master
-2. Be Wary Of Friends For They Will Betray You Faster
-3. Learn How To Use Enemies For They Have More to Prove
-4. Conceal Your Emotions
-5. Always Say Less Than Necessary
-6. Never Do Yourself What Others Can Do For You
-7. Use Selective Honesty & Generosity
-8. Crush Your Rival Completely & Totally
-9. Be Unpredictable
+1.  Never Outshine The Master
+2.  Be Wary Of Friends For They Will Betray You Faster
+3.  Learn How To Use Enemies For They Have More to Prove
+4.  Conceal Your Emotions
+5.  Always Say Less Than Necessary
+6.  Never Do Yourself What Others Can Do For You
+7.  Use Selective Honesty & Generosity
+8.  Crush Your Rival Completely & Totally
+9.  Be Unpredictable
 10. Isolation is Dangerous
 11. Do Not Offend The Wrong Person
 12. Keep Your Own Hands Clean
