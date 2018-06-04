@@ -6,6 +6,7 @@ banner: https://i.imgur.com/mGA3X7m.png
 link: https://github.com/fvcproductions/hugoma-theme
 categories:
   - portfolio
+  - oss
 tags:
   - github repo
 ---

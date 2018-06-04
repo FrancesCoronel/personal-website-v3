@@ -15,6 +15,10 @@ var altTitles = [
   "Do you read me, HAL? 🔴",
   "Expecto patronum! ⚡",
   "You've been just peachy! 🍑",
+  "I'll be back. 🤖️",
+  "I see dead people. 💀",
+  "I'm king of the world! 🛳️",
+  "Elementary, my dear Watson. 🧐"
 ];
 
 window.onblur = () => {

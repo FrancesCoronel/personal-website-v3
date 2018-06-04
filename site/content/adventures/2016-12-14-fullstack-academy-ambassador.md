@@ -1,6 +1,7 @@
 ---
 title: Fullstack Academy
 date: 2017-12-14
+banner: https://i.imgur.com/vTvG2lQ.png
 description: Ambassador
 aliases:
   - /home/adventures/experience/fullstack-academy-ambassador/

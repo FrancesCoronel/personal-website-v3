@@ -14,12 +14,8 @@ aliases:
 
 <!-- ## 2016
 
-* [CRA-Women Grad Cohort Workshop | Scholarship Recipient](http://cra.org/cra-w/grad-cohort-workshop/)
-* [Cornell Tech | Best Final Sprint Presentation in Grizzly Room](https://fvcproductions.com/portfolio/product-studio-final-sprint/)
-* [Cornell Tech | Artful Artifacts](https://fvcproductions.com/portfolio/product-studio-final-sprint/)
 * [Quora | Most Viewed Writer – Fullstack Academy](https://www.quora.com/profile/Frances-Coronel-1/highlights)
 * [Kent Hack Enough | Best Device Privacy Hack](https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v)
-* [Cornell Tech | James H. and Marilyn H. Simons Graduate Fellowship](http://www.news.cornell.edu/stories/2013/02/new-graduate-fellowship-supports-cornell-tech)
 * [TAPIA Conference | Scholarship Recipient](http://tapiaconference.org/)
 * [Daily Press | Featured Blog Post](http://www.dailypress.com/business/tidewater/dp-may-13-revolutionconf-showcases-software-community-in-hampton-roads-20160513-story.html)
 * [npmCamp | Diversity Scholarship Recipient](http://npm.camp/)
