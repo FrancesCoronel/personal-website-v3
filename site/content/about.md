@@ -23,12 +23,9 @@ Might have something to do with human nature in general, though, so interpret it
 
 <span class="large-emoji">👩🏽‍💻️</span>
 
-* Software Engineer with a focus on UI design & development 🖌️🔧️
-* Incoming Frontend Engineer at Slack HQ in San Francisco 💼
+* Front End Engineer at Slack HQ in SF with a focus on UI design & development 🖌️🔧️
 * Latina (Peruvian-American) 🇵🇪️ who gets a lot of personal satisfaction out of inspiring underserved groups within the tech industry 😊
-* Mentor, freelancer & speaker 💬️
-* Avid conference & hackathon goer 🚗
-* Code pusher, design publisher & online blogger 🌐️
+* Passionate mentor, freelancer & speaker 💬️
 
 ### Random Fun Facts 🦄
 
@@ -43,12 +40,11 @@ I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the E
 
 ### What's Happening Nowadays 📅
 
-> This a [now section](https://nownownow.com/about) and if you have your own site, you should make one, too!
+> This a [now section](//nownownow.com/about) and if you have your own site, you should make one, too!
 >
-> Last updated May 3rd
+> Last updated June 3rd
 
-* Taking a break before starting my new job at [Slack](//slack.com)! 🎉
+* Spoke at NationJS and [received awesome feedback](/2018/05/18/nationjs/)! 🎉
+* Working on some [cool open-source stuff](//github.com/fvcproductions/hugoma-theme).
 * Volunteered as a model for TechHire Oakland and am featured on [their new website](//www.techhireoakland.org/) 📸
 * I received a scholarship to finish the Mobile Web Nanodegree through the [Grow with Google Udacity scholarship program](//www.udacity.com/grow-with-google) 🎓
-* My talk/workshop proposals have been accepted at [almost every event I applied to speak at](/speaking) 🗨️
-* Recorded my [first podcast episode](/2018/04/10/tales-from-the-script-podcast/) on Tales From The Script with Chris DeMars 🎙️
