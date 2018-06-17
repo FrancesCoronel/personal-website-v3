@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
 
 <head prefix="og: http://ogp.me/ns#">
   <!--
@@ -24,9 +24,15 @@
   <link rel="dns-prefetch" href="https://google-analytics.com">
   <link rel="dns-prefetch" href="https://cdn.onesignal.com">
   <link rel="dns-prefetch" href="https://cdn.embedly.com">
+  <!-- Preconnect -->
+  <link rel="preconnect" href="https://twitter.github.io">
+  <link rel="preconnect" href="https://google-analytics.com">
+  <link rel="preconnect" href="https://cdn.onesignal.com">
+  <link rel="preconnect" href="https://cdn.embedly.com">
   <!-- Preload -->
   <link rel="preload" href="/assets/css/main.css" as="style">
-  <!-- SEO -->
+  <link rel="preload" href="/assets/js/app.js">
+  <!-- Favicons, SEO -->
   {{ partial "head/index.html" . }}
 </head>
 
@@ -49,7 +55,7 @@
     <!-- Inner Content -->
     <div class="inner">
       <!-- Navbar-->
-      <nav class="main-navigation menu-navigation" role="navigation" aria-label="Primary Navigation">
+      <nav class="main-navigation menu-navigation" aria-label="Primary Navigation">
         <ul id="primary-menu" class="menu">
           {{ $parentPages := where .Site.RegularPages "Type" "page" }} {{ $homePages := $parentPages | union (.Site.Sections) }} {{ range $homePages.ByTitle }}
           <li class="menu-item">

@@ -4,6 +4,8 @@ metaDataFormat                = "yaml"
 enableEmoji                   = true
 footnoteReturnLinkContents    = "↩"
 copyright                     = "This work is licensed under MIT."
+enableRobotsTXT               = true
+# canonifyURLs                  = true
 
 # Language
 languageCode                  = "en-us"
@@ -30,7 +32,7 @@ disqusShortname               = "fvcproductions"
 
 # RSS
 [outputs]
-    home                      = ["HTML", "AMP", "RSS"]
+    home                      = ["HTML", "RSS"]
     page                      = ["HTML"]
 
 [outputFormats]
@@ -45,12 +47,11 @@ disqusShortname               = "fvcproductions"
     copyright                 = "FVCproductions"
     year                      = 2013
     og_image                  = "https://www.fvcproductions.com/assets/img/teaser.png"
+    logo                      = "https://www.fvcproductions.com/assets/img/logo.png"
 
 # Permalinks
 [permalinks]
   adventures                  = "/:year/:month/:day/:title/"
-  blog                        = "/blog/:year/:month/:day/:title/"
-  portfolio                   = "/portfolio/:year/:month/:day/:title/"
 
 # Social Links
 [social]

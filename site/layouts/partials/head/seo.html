@@ -1,5 +1,4 @@
 <!-- Set Language Mode: HTML Liquid -->
-<meta charset="utf-8">
 <meta http-equiv="cleartype" content="on">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -9,7 +8,6 @@
 <meta name="msapplication-tooltip" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}">
 <meta name="msapplication-window" content="width=device-width;height=device-height">
 <meta name="robots" content="index, follow">
-<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0">
 <!-- Internal Template - Schema -->
 {{ template "_internal/schema.html" . }}
 <!-- Internal Template - Twitter Cards -->
@@ -28,6 +26,89 @@
 <meta name="DC.title" content="{{ .Title }}">
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}">
 <meta name="title" content="{{ .Title }}">
+<!-- Structured Data -->
+{{ if .IsHome -}}
+<script type="application/ld+json">
+{
+    "@context":         "http://schema.org",
+    "@type":            "WebSite",
+    "image":            "{{ .Site.Params.og_image }}",
+    "license":          "{{ .Site.Params.copyright }}",
+    "name":             "{{ .Site.Title }}",
+    "thumbnailUrl":     "{{ .Site.Params.logo }}",
+    "url":              "{{ .Site.BaseURL }}",
+    "author":           {
+        "@type":        "Person",
+        "name":         "{{ .Site.Author.name }}"
+    },
+    "mainEntityOfPage": {
+        "@type":        "WebPage",
+        "@id":          "{{ .Site.BaseURL }}"
+    },
+    "potentialAction":  {
+        "@type":        "SearchAction",
+        "target":       "https://www.fvcproductions.com/search/#gsc.tab=0&gsc.q={search_term_string}",
+        "query-input":  "required name=search_term_string"
+    },
+    "sameAs":           [
+        "https://www.facebook.com/frances.v.coronel",
+        "https://instagram.com/fvcproductions",
+        "https://www.linkedin.com/in/fvcproductions",
+        "https://plus.google.com/+fvcproductions2013",
+        "https://twitter.com/fvcproductions",
+        "https://youtube.com/+fvcproductions2013"
+    ]
+}
+</script>
+{{- else if .IsPage -}}
+<script type="application/ld+json">
+{
+    "@context":          "http://schema.org",
+    "@type":             "BlogPosting",
+    "accountablePerson": "{{ .Site.Author.name }}",
+    "articleSection":    "{{ .Section }}",
+    "copyrightHolder":   "{{ .Site.Author.name }}",
+    "copyrightYear":     "{{ .Date.Format "2006" }}",
+    "creator":           "{{ .Site.Author.name }}",
+    "genre":             "{{ .Type }}",
+    "headline":          "{{ .Title }}",
+    "inLanguage":        "en-US",
+    "license":           "{{ .Site.Params.copyright }}",
+    "name":              "{{ .Title }}",
+    "url":               "{{ .Permalink }}",
+    "wordcount":         {{ .WordCount }},
+    "description":       "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
+    "mainEntityOfPage":  {
+        "@type":         "WebPage",
+        "@id":           "{{ .Permalink }}"
+    },
+    "image":             [
+        "{{ .Params.banner }}"
+    ],
+    "author":        {
+        "@type":     "Person",
+        "name":      "{{ .Site.Author.name }}"
+    },
+    "publisher":     {
+        "@type":     "Organization",
+        "name":      "{{ .Site.Title }}",
+        "logo":      {
+          "@type":   "ImageObject",
+          "url":     "{{ .Site.Params.logo }}"
+        }
+    },
+    "keywords":      [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }} ],
+    {{ if not .PublishDate.IsZero -}}
+    "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
+    {{- else if not .Date.IsZero -}}
+    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
+    {{- end }}
+    {{ with .Lastmod -}}
+    "dateModified": "{{ .Format "2006-01-02T15:04:05-07:00" | safeHTML }}"
+    {{- end }}
+}
+</script>
+{{- end }}
 <!-- Site Name -->
 <meta name="apple-mobile-web-app-title" content="{{ .Site.Title }}">
 <meta name="application-name" content="{{ .Site.Title }}">

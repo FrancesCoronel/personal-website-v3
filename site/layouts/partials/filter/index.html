@@ -40,7 +40,7 @@
     {{ if .Params.speaking }}
     <!-- Talks -->
     <section class="section tiles filtered-grid">
-      {{ $speaking := ($.Site.Taxonomies.categories.speaking).Pages }}{{ range $speaking.ByDate.Reverse }}{{ partial "page/body/tiles/tile-plain-image.html" . }}{{ end }}
+      {{ $speaking := ($.Site.Taxonomies.categories.speaking).Pages }}{{ range $speaking.ByDate.Reverse }}{{ partial "page/body/tiles/tile-plain.html" . }}{{ end }}
     </section>
     {{ end }}
   </div>

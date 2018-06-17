@@ -23,9 +23,9 @@ Might have something to do with human nature in general, though, so interpret it
 
 <span class="large-emoji">👩🏽‍💻️</span>
 
-* Front End Engineer at Slack HQ in SF with a focus on UI design & development 🖌️🔧️
-* Latina (Peruvian-American) 🇵🇪️ who gets a lot of personal satisfaction out of inspiring underserved groups within the tech industry 😊
-* Passionate mentor, freelancer & speaker 💬️
+- Front End Engineer at Slack HQ in SF with a focus on UI design & development 🖌️🔧️
+- Latina (Peruvian-American) 🇵🇪️ who gets a lot of personal satisfaction out of inspiring underserved groups within the tech industry 😊
+- Passionate mentor, freelancer & speaker 💬️
 
 ### Random Fun Facts 🦄
 
@@ -44,7 +44,7 @@ I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the E
 >
 > Last updated June 3rd
 
-* Spoke at NationJS and [received awesome feedback](/2018/05/18/nationjs/)! 🎉
-* Working on some [cool open-source stuff](//github.com/fvcproductions/hugoma-theme).
-* Volunteered as a model for TechHire Oakland and am featured on [their new website](//www.techhireoakland.org/) 📸
-* I received a scholarship to finish the Mobile Web Nanodegree through the [Grow with Google Udacity scholarship program](//www.udacity.com/grow-with-google) 🎓
+- Spoke at NationJS and [received awesome feedback](/2018/05/18/nationjs/)! 🎉
+- Working on some [cool open-source stuff](//github.com/fvcproductions/hugoma).
+- Volunteered as a model for TechHire Oakland and am featured on [their new website](//www.techhireoakland.org/) 📸
+- I received a scholarship to finish the Mobile Web Nanodegree through the [Grow with Google Udacity scholarship program](//www.udacity.com/grow-with-google) 🎓

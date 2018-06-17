@@ -54,7 +54,7 @@ npm run deploy
 
 ## Tools & Typography
 
-* See [Colophon](https://www.fvcproductions.com/colophon).
+- See [Colophon](https://www.fvcproductions.com/colophon).
 
 ## Contributing
 
@@ -78,14 +78,14 @@ Or just [create an issue](https://github.com/fvcproductions/fvcproductions.githu
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-More details can be found at this project's [code of conduct](CODE_OF_CONDUCT.md).
+More details can be found at this project's [code of conduct](.github/CODE_OF_CONDUCT.md).
 
 ## Credits
 
-* [FVCproductions](https://github.com/fvcproductions) 🍓🍫
-* [HTML5 UP](https://html5up.net/license)
-* [Victor Hugo](https://github.com/netlify/victor-hugo)
-* [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes)
+- [FVCproductions](https://github.com/fvcproductions) 🍓🍫
+- [HTML5 UP](https://html5up.net/license)
+- [Victor Hugo](https://github.com/netlify/victor-hugo)
+- [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes)
 
 ## License
 

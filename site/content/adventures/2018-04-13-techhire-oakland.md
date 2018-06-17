@@ -5,6 +5,7 @@ description: I volunteered to be a part of a photo shoot for TechHire's new webs
 banner: https://i.imgur.com/WTcbmKX.png
 categories:
   - award
+  - volunteering
 tags:
   - techhire oakland
 ---

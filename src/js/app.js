@@ -5,9 +5,7 @@ require("./components/twemoji");
 require("./components/fonts");
 
 // Font Awesome
-require("@fortawesome/fontawesome");
-require("@fortawesome/fontawesome-free-solid");
-require("@fortawesome/fontawesome-free-brands");
+require("./components/fontAwesome");
 
 // Return to Top
 require("./components/returnToTop");
