@@ -32,7 +32,7 @@ categories:
 >
 > They will hear the ring of our GitHub clients, and they will know what we can do!
 >
-> By the structure of our bytes, and the strength of our expressions… and the consistency of our algorithms!
+> By the structure of our bytes, and the strength of our expressions... and the consistency of our algorithms!
 >
 > Gentlemen!
 >

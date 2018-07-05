@@ -64,7 +64,7 @@ Last sentence was kinda stupid, but yeah hope you enjoy sucka! :razz:
 
 ##### 7. Let's play a game!! You go underwater and I'll count to one million! (For all the swimmers out there.) :grin:
 
-##### 8. How bout you slip into something a little more comfy for both of us…like a coma?
+##### 8. How bout you slip into something a little more comfy for both of us...like a coma?
 
 ##### 9. Bitch, you're like Mondays. Nobody likes you. (Cliche, I know) :roll:
 

@@ -95,7 +95,7 @@ Style](//sd.keepcalm-o-matic.co.uk/i/keep-calm-because-finally-i-m-senior-8.png)
 
 > Saturday
 
-* This Saturday, I'll be attending the [Sally Conference](//www.meetup.com/WomenWhoCodeNYC/events/223064683/). The tickets are **300 DOLLARS**, but Shanna G., who is part of the hiring team here at Fullstack, had some free tickets to give out - so to you, Shanna, I say…
+* This Saturday, I'll be attending the [Sally Conference](//www.meetup.com/WomenWhoCodeNYC/events/223064683/). The tickets are **300 DOLLARS**, but Shanna G., who is part of the hiring team here at Fullstack, had some free tickets to give out - so to you, Shanna, I say...
 
 ![Thank you.](//media.giphy.com/media/3oEduJnper1UdNqreg/giphy.gif)
 

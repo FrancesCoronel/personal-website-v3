@@ -19,11 +19,11 @@
       <!-- Alphabetical Order -->
       {{ if .Params.alphabetical }}
       <!-- By Title -->
-      {{ range $pages.ByTitle }} {{ partial "page/body/tiles/tile.html" . }} {{ end }}
+      {{ range $pages.ByTitle }} {{ partial "page/body/tiles/tile-plain.html" . }} {{ end }}
       <!-- Date Order -->
       {{ else }}
       <!-- Reverse Order -->
-      {{ range $pages.ByDate.Reverse }} {{ partial "page/body/tiles/tile.html" . }} {{ end }} {{ end }}
+      {{ range $pages.ByDate.Reverse }} {{ partial "page/body/tiles/tile-plain.html" . }} {{ end }} {{ end }}
     </section>
   </div>
   <!-- End Tiles -->

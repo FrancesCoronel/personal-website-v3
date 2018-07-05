@@ -42,8 +42,8 @@ The School for Field Studies creates transformative study abroad experiences thr
 
 I got a lot from this program. Specifically, I...
 
-* learned how to perform the effective identification, sampling, and data collection and analysis methods for flora and fauna; remote and on-ground sensing; spatial mapping; survey design and interviewing skills; and communication skills (report writing and public presentation)
-* gained foundational skills in observation and evaluations of wildlife, as well as interactive methods used for assessing local community attitudes and behaviors toward conservation efforts and applied these techniques to advance long-term research goals at the research center
+- learned how to perform the effective identification, sampling, and data collection and analysis methods for flora and fauna; remote and on-ground sensing; spatial mapping; survey design and interviewing skills; and communication skills (report writing and public presentation)
+- gained foundational skills in observation and evaluations of wildlife, as well as interactive methods used for assessing local community attitudes and behaviors toward conservation efforts and applied these techniques to advance long-term research goals at the research center
 
 ### Transcript
 

@@ -93,7 +93,7 @@ I think an undergrad student can benefit. In most graphic design curriculums the
 
 _Some Logistics_
 
-* They accept Paypal and Bitcoin…
+* They accept Paypal and Bitcoin...
 * Once you confirm your participation, they'll shoot an invoice for your deposit
 * Remaining tuition is due 2 weeks before class starts
 * You get set up with an account on [Lynda.com](//lynda.com 'Lynda') once you pay the first deposit.

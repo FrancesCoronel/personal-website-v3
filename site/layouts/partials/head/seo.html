@@ -19,13 +19,34 @@
 <!-- Internal Template - Google News -->
 {{ template "_internal/google_news.html" . }}
 <!-- Schema -->
+<link rel="canonical" href="{{ .Permalink }}">
+<link rel="manifest" href="/manifest.json">
+<link rel="preconnect" href="https://www.fvcproductions.com">
+<link rel="schema.DC" href="http://purl.org/DC/elements/1.1/">
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+<meta itemprop="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}">
+<meta itemprop="image" content="{{ if .Params.banner }}{{ .Params.banner }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
+<meta itemprop="name" content="{{ .Title }}">
+<meta name="apple-mobile-web-app-title" content="{{ .Site.Title }}">
+<meta name="application-name" content="{{ .Site.Title }}">
 <meta name="DC.creator" content="{{ .Site.Author.name }}">
 <meta name="DC.description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}">
 <meta name="DC.language" content="en">
 <meta name="DC.publisher" content="{{ .Site.Author.name }}">
 <meta name="DC.title" content="{{ .Title }}">
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}">
+<meta name="image" content="{{ if .Params.banner }}{{ .Params.banner }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
 <meta name="title" content="{{ .Title }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image:src" content="{{ if .Params.banner }}{{ .Params.banner }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
+<meta property="dcterms:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}">
+<meta property="dcterms:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}">
+<meta property="og:image:height" content="600">
+<meta property="og:image:width" content="1050">
+<meta property="og:image" content="{{ if .Params.banner }}{{ .Params.banner }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:title" content="{{ .Title }}">
 <!-- Structured Data -->
 {{ if .IsHome -}}
 <script type="application/ld+json">
@@ -109,10 +130,6 @@
 }
 </script>
 {{- end }}
-<!-- Site Name -->
-<meta name="apple-mobile-web-app-title" content="{{ .Site.Title }}">
-<meta name="application-name" content="{{ .Site.Title }}">
-<meta property="og:site_name" content="{{ .Site.Title }}">
 <!-- Updated Time -->
 {{ if .IsPage }}
 <!-- Check for valid date -->
@@ -142,23 +159,6 @@
     <meta name="twitter:data2" value="{{ delimit .Params.tags ", " }}">
   {{ end }}
 {{ end }}
-<!-- Images -->
-<!-- Open Graph -->
-<meta property="og:image:width" content="1050">
-<meta property="og:image:height" content="600">
-<meta property="og:image" content="{{ if .Params.banner }}{{ .Params.banner }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
-<!-- Twitter -->
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image:src" content="{{ if .Params.banner }}{{ .Params.banner }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
-<meta name="image" content="{{ if .Params.banner }}{{ .Params.banner }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
-<!-- Schema -->
-<meta itemprop="image" content="{{ if .Params.banner }}{{ .Params.banner }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
-<!-- Links -->
-<link rel="canonical" href="{{ .Permalink }}">
-<link rel="manifest" href="/manifest.json" />
-<link rel="preconnect" href="https://www.fvcproductions.com">
-<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
-<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
 <!-- RSS -->
 {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">

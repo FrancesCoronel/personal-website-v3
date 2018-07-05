@@ -96,7 +96,7 @@ The goal of the Tapia Conferences is to bring together undergraduate and graduat
 
 ---
 
-> To note…
+> To note...
 >
 > This is more of a telling of a personal journey than a technical description or overview of what the conference entails.
 >
@@ -106,7 +106,7 @@ The goal of the Tapia Conferences is to bring together undergraduate and graduat
 
 Basically, the 2015 Richard Tapia Conference is this conference that promotes diversity in computing. It has been ongoing annually since 2001. The guy that the conference is named after is [Richard Tapia](//tapiaconference.org/about/tapia 'Richard Tapia'), who is this Mexican American math professor at Rice who is apparently pretty effective when it comes to promoting diversity outreach in STEM fields.
 
-Taking their goals from their website…
+Taking their goals from their website...
 
 _The goal of the Tapia Conferences is to bring together undergraduate and graduate students, faculty, researchers, and professionals in computing from all backgrounds and ethnicities to:_
 
@@ -123,11 +123,11 @@ Norfolk from up high is pretty cool looking with all the snow everywhere.
 
 ![Norfolks the real MVP](//fvcproductions.files.wordpress.com/2015/02/norfolk-from-above.jpg)
 
-When I get to Philadelphia, my flight to Boston gets delayed… twice. I end up having to book a slightly earlier flight through Customer Service, but the whole delay was a first.
+When I get to Philadelphia, my flight to Boston gets delayed... twice. I end up having to book a slightly earlier flight through Customer Service, but the whole delay was a first.
 
 ![Foundation Yeti](//senlinonline.com/wp-content/uploads/2013/05/foundation-yeti.png)
 
-⛄️ When I get to Boston, I get the idea that the Yeti (not the one from Foundation, just THE Yeti) lives there because it looks like this from the plane…
+⛄️ When I get to Boston, I get the idea that the Yeti (not the one from Foundation, just THE Yeti) lives there because it looks like this from the plane...
 
 ![Yeti Lives Here](//fvcproductions.files.wordpress.com/2015/02/yeti-lives-here.jpg)
 

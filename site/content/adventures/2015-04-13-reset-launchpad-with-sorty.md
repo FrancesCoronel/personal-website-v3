@@ -49,7 +49,7 @@ I see so many Launchpads that are disorganized and cluttered.
 There are Launchpads that look like this:[![Calvin C |
 Launchpad](//fvcproductions.files.wordpress.com/2015/04/screen-shot-2015-04-13-at-11-30-06-am.png)](//fvcproductions.files.wordpress.com/2015/04/screen-shot-2015-04-13-at-11-30-06-am.png)
 
-If only it could go back to its default settings and look pretty again, like the Launchpad below… :wink:
+If only it could go back to its default settings and look pretty again, like the Launchpad below... :wink:
 
 [![Launchpad |
 Pretty](//fvcproductions.files.wordpress.com/2015/04/screenshot-2015-04-13-22-36-38.png)](//fvcproductions.files.wordpress.com/2015/04/screenshot-2015-04-13-22-36-38.png)
@@ -84,8 +84,8 @@ This app can do wonders for you!
 
 ![](//40.media.tumblr.com/tumblr_lxsx4pAafb1qfu4tho1_500.png)
 
-##### [Your chances slowly draining away…](//wiles.dk/ 'Sorty for OS X')
+##### [Your chances slowly draining away...](//wiles.dk/ 'Sorty for OS X')
 
 ![](//s-media-cache-ak0.pinimg.com/originals/45/55/e7/4555e732a56e8faa1bd65aacac7cae3e.jpg)
 
-###### [DRAINNNNIINGGGG…](//wiles.dk/ 'Sorty for OS X')
+###### [DRAINNNNIINGGGG...](//wiles.dk/ 'Sorty for OS X')

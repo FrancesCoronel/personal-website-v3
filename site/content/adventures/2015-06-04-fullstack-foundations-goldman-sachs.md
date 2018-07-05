@@ -83,7 +83,7 @@ Floor](//static.businessinsider.com/image/5012d4beecad043223000007-590/foursquar
 
 Everyone was so used to all the elevators and there were so many people just packing inside the next available elevator. It felt like something exciting was always about to happen but at the same time, I felt a lot like a sardine.
 
-Needless to say, I learned a lot about what kind of environment I'd like to work in for the future. I have just never been into very big crowds… or (sigh) business suits.
+Needless to say, I learned a lot about what kind of environment I'd like to work in for the future. I have just never been into very big crowds... or (sigh) business suits.
 
 **Anyways**, I'm going to use all `$5K` of what I earned to pay for the Fullstack Academy tuition, which is going to cover roughly half of it all.
 
@@ -137,16 +137,16 @@ I'm feeling statistically inclined so I'm going to share some of the more techni
 * **The Instructors**
   * The average developer salary is about \$80K in NYC so I'll just guess that's how much pay their instructors.
   * So with that in mind, \$80K/12 month = roughly \$7K and \$7K times 4 months = \$28K
-  * However, realistically speaking, I'm really just spending about half of that 4 months face to face with the instructor, so…
+  * However, realistically speaking, I'm really just spending about half of that 4 months face to face with the instructor, so...
   * `= around $14K in total for 4 months per instructor`
 * **A Supportive Environment**
   * **Who knows** how much that costs?
-  * Well, what I can do is estimate the cost of the building floor itself which is probably around \$250K per year (maybe more). So roughly \$21K per month… ergo it's around \$84K in total for 4 months
-  * However, I don't take up that much space so realistically speaking we can split that cost by 70 since that's how many people are usually there at any given time - which turns into…
+  * Well, what I can do is estimate the cost of the building floor itself which is probably around \$250K per year (maybe more). So roughly \$21K per month... ergo it's around \$84K in total for 4 months
+  * However, I don't take up that much space so realistically speaking we can split that cost by 70 since that's how many people are usually there at any given time - which turns into...
   * `= around $1.2K in total for 4 months per instruc11tor`
 * **Other Stuff**
   * I'm tired of guesstimating but they probably have to worry about the costs for the other software they use (like Learndot whose standard plan is \$500/month) throughout the program and snacks/snacks to appease the newbie programmers like myself. We just :heart: snacks and swag.
-  * Anyways, so going out on a limb here, I'll say…
+  * Anyways, so going out on a limb here, I'll say...
   * `= around $500 in total for 4 months for other stuff`
 
 So, with all that, we can calculate how much they're really spending on each student, like me.

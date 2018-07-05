@@ -29,7 +29,7 @@ tags:
 >
 > Bootcamps are a risky business, make sure you make the right decision. I included the reviews that are up to date just for today.
 >
-> > > > I think a website that showcases the reviews and star ratings from all the sites combined that automatically updates would be in place here…
+> > > > I think a website that showcases the reviews and star ratings from all the sites combined that automatically updates would be in place here...
 >
 > Also, I'd recommend checking out this Quora [Has anyone had a bad experience at a programming bootcamp?](//qr.ae/EXqFt) and some Reddit threads for horror stories.
 
@@ -204,7 +204,7 @@ tags:
     * Quora (N/A)
     * SwitchUp ([9 Reviews](//www.switchup.org/bootcamps/starter-league)) ⭐️⭐️⭐️⭐️⭐️ 5/5
     * Techendo ([7 Positive, 0 Negative](//schools.techendo.com/schools/software-craftsmanship-guild))
-    * Yelp ([1 Review… that is not recommended](//www.yelp.com/biz/starter-league-chicago)) ⭐️ 1/5
+    * Yelp ([1 Review... that is not recommended](//www.yelp.com/biz/starter-league-chicago)) ⭐️ 1/5
 27. [Startup Institute](//www.startupinstitute.com/) (Berlin, Boston, Chicago, London, New York)
     * Course Report ([2 Reviews](//www.coursereport.com/schools/startup-institute))
     * Quora ([1 Review](//www.quora.com/Reviews-of-Startup-Institute)) ⭐️⭐️⭐️⭐️⭐️ 5/5

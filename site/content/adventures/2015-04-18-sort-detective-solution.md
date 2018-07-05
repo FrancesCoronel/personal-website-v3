@@ -70,7 +70,7 @@ It has an array defined with **5 different** orders that the sorting methods **C
 
 ![](//fvcproductions.files.wordpress.com/2015/04/sortingexperiment-line.png)
 
-Zooming in…
+Zooming in...
 
 ![](//fvcproductions.files.wordpress.com/2015/04/screenshot-2015-04-18-16-09-09.png)
 

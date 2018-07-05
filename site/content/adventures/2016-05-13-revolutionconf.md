@@ -133,7 +133,7 @@ Now that name hasn't really caught on 100% given that **757Dev** has taken more 
 
 <blockquote class="embedly-card"><h4><a href="//www.slideshare.net/SiliconAnchor/norfolk-virginia-beach-startup-community-guide">Norfolk/Virginia Beach Startup Community Guide</a></h4><p>A go-to guide on everything you will need to know in the Norfolk/ Virginia Beach startup community.</p></blockquote>
 
-**POINT BEING…** Norfolk, overall, is a pretty awesome city. And we have pretty **AWESOME** developers here. I think what [Erik](//www.linkedin.com/in/erikpmp), the CEO of [80|20](//8020.co) and one of the chief organizers of the conference, has stated before definitely resonates a lot with me.
+**POINT BEING...** Norfolk, overall, is a pretty awesome city. And we have pretty **AWESOME** developers here. I think what [Erik](//www.linkedin.com/in/erikpmp), the CEO of [80|20](//8020.co) and one of the chief organizers of the conference, has stated before definitely resonates a lot with me.
 
 > "We have this Napoleon complex here, and we doubt ourselves – we think > we're not worthy of national or even state-level praise, and it's not > true. We may never be a Silicon Valley, but we can at least rise up in the ranks a little bit." -[Erik > O.](//www.linkedin.com/in/erikpmp) > _[Source](//pilotonline.com/inside-business/revolutionconf-seeks-to-unite-software-community/article_5c92cdce-c3cc-5deb-a0a4-e5311105e6b4.html)_
 

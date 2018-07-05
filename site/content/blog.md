@@ -10,4 +10,8 @@ noTimeEstimate: true
 aliases:
   - /blog/
   - /blog/archive/
+  - /blog/archive/
+  - /category/certainties/
+  - /category/coding/
+  - /category/creativity/
 ---

@@ -32,7 +32,7 @@ tags:
   - time
 ---
 
-# So during my last few days of Fullstack, I was feeling a little something like this…
+# So during my last few days of Fullstack, I was feeling a little something like this...
 
 ![I regret nothing](https://i0.wp.com/cdn.smosh.com/sites/default/files/ftpuploads/bloguploads/meme-regret-portal.gif)
 
@@ -120,9 +120,9 @@ So, I’d say realistically I spent more like `$3,500` on external expenses.
 
 I missed a few days of Fullstack on account of being sick and also that one day when the Tessle Hackathon was taking place because I had to attend an Apple Hiring Event back home.
 
-Regardless, the experience was exactly how others have described it before… it was like **drinking water out of a firehose**.
+Regardless, the experience was exactly how others have described it before... it was like **drinking water out of a firehose**.
 
-I love water and all, but man oh man…
+I love water and all, but man oh man...
 
 Fullstack was 9:30 am to 6:30 pm Monday through Friday. **Roughly** 50 days, 9 hours a day. This totals to ~450 hours, not including time spent outside of class.
 

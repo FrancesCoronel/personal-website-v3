@@ -57,7 +57,7 @@ Here are 3 examples of Automator workflows that have helped me out significantly
 
 You know when you go crazy and you decide you want to get all these fonts for a creative project you're working on and so now you have about 100 different fonts in your `Downloads` folder?
 
-And then you even start to click on them one by one to import them to your Font Book…
+And then you even start to click on them one by one to import them to your Font Book...
 
 **Say no more! Automator to the rescue!**
 
@@ -70,7 +70,7 @@ Fonts](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-
 
 You know when you have a PDF file and need all the pages to be images so you can upload them to some website that only accepts images - like Behance?
 
-So now you have this 20 page PDF file and you start to export each page to a `png` file one by one…
+So now you have this 20 page PDF file and you start to export each page to a `png` file one by one...
 
 **Say no more! Automator to the rescue!**
 
@@ -85,7 +85,7 @@ Okay, this one's pretty obvious.
 
 You know when you have a ton of cool wallpapers you just downloaded and they're all named something crappy like `1250x1280` or something?
 
-So now you have 30+ wallpaper images in your `Downloads` folder and because you're OCD, you start to rename each image one by one to an appropriate title like `Wallpaper - 1`…
+So now you have 30+ wallpaper images in your `Downloads` folder and because you're OCD, you start to rename each image one by one to an appropriate title like `Wallpaper - 1`...
 
 **Say no more! Automator to the rescue!**
 
@@ -108,7 +108,7 @@ Definitely not a haiku there, but man - just goes to show how much I depend on t
 
 ![BetterSnapTool](//a3.mzstatic.com/us/r30/Purple3/v4/b0/e1/f1/b0e1f178-69dc-f01a-3d4e-0faa4379ca8f/icon128-2x.png)
 
-I was so slow moving windows around before this app, so once I transitioned to fast resizing, my whole workflow sped up significantly. People wonder how I get things done so fast… BetterSnapTool is part of the reason.
+I was so slow moving windows around before this app, so once I transitioned to fast resizing, my whole workflow sped up significantly. People wonder how I get things done so fast... BetterSnapTool is part of the reason.
 
 Only good things can be said about this app, seriously.
 

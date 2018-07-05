@@ -50,7 +50,7 @@ Regardless, it's a whole lot. So I'm going to break this news up into three smal
 
 So my official graduation commencement will be next Sunday and then there's an award ceremony the day before (turns out I'm the top graduate in my CS department which is pretty cool).
 
-Finally getting that paper though…
+Finally getting that paper though...
 
 //www.youtube.com/watch?v=ewRjZoRtu0Y
 

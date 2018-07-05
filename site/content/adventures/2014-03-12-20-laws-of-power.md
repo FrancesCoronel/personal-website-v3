@@ -25,7 +25,7 @@ categories:
     - blog
 ---
 
-So if you're not already familiar with Robert Green's popular book "[The 48 Laws of Power](//en.wikipedia.org/wiki/The_48_Laws_of_Power '48 Laws of Power - Wiki')" that was published in 1998, I'm going to suggest you read it… right now.
+So if you're not already familiar with Robert Green's popular book "[The 48 Laws of Power](//en.wikipedia.org/wiki/The_48_Laws_of_Power '48 Laws of Power - Wiki')" that was published in 1998, I'm going to suggest you read it... right now.
 
 Like any popular book, it has its positive and negative criticisms, but I found it immensely interesting for a self-help book.
 
@@ -35,7 +35,7 @@ All credit goes to Robert Greene for the laws.
 
 I just included my 20 favorite ones so that if you want to read the book, you can still get surprised.
 
-Here they are then…
+Here they are then...
 
 1.  Never Outshine The Master
 2.  Be Wary Of Friends For They Will Betray You Faster

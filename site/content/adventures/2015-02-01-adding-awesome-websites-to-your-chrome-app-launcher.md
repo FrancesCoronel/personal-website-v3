@@ -70,7 +70,7 @@ So all in all, it looks like clutter and a ridiculous \# of bookmark folders are
 
 **UNLESS YOU COULD ADD YOUR OWN LINKS TO THE APP LAUNCHER.**
 
-**DUN DUN DUN…………………**
+**DUN DUN DUN.....................**
 
 Tutorial time.
 

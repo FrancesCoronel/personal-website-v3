@@ -66,7 +66,7 @@ It’s always exciting to potentially be part of an inaugural anything so when t
 
 I was surprised by the amount of support I received from the community for the proposal and before I knew it, I had gotten the opportunity to speak for the first time at an official tech conference.
 
-I’ve spoken at conferences before, but never at an actual tech conference which is why victory was that much sweeter when I finally got the opportunity to do so today. So…
+I’ve spoken at conferences before, but never at an actual tech conference which is why victory was that much sweeter when I finally got the opportunity to do so today. So...
 
 Thanks HR DevFest.
 

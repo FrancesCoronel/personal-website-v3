@@ -143,7 +143,7 @@ Tech](//tech.cornell.edu/static/css/images/content-logo.png)
 
 > There's this girl named [Joanna](//github.com/joanaz/) in my cohort who's attending [Cornell Tech](//tech.cornell.edu/) for her Master's right now (I had no idea) and since I'm actually considering CT as a place for my Master's, I found it lovely I could meet someone from there. She gave the place quite the **rave** review.
 >
-> Eh, I still don't know - I'm not terribly fond of NYC, but that upcoming campus sure looks nice…
+> Eh, I still don't know - I'm not terribly fond of NYC, but that upcoming campus sure looks nice...
 
 ![Cornell Tech New
 Campus](//tech.cornell.edu/uploads/galleries/_full/campus-view-from-manhattan-aerial.jpg)
@@ -154,7 +154,7 @@ Campus](//tech.cornell.edu/uploads/galleries/_full/campus-view-from-manhattan-ae
 School](//ambassador-api.s3.amazonaws.com/uploads/portal/655/2014_09_16_20_43_07_Logo-horizontal.png)
 
 * Easy cruising through the lecture and workshop on Angular Directives today - going through the relevant course material on `Code School` really helped out. Why are you so wonderful `Code School`?!
-* Hot Seat today made me feel really sad/frustrated for some reason (still not sure why exactly either…). I even had to watch TV afterwards to numb my mind for said reason. It was strange, to say the least.
+* Hot Seat today made me feel really sad/frustrated for some reason (still not sure why exactly either...). I even had to watch TV afterwards to numb my mind for said reason. It was strange, to say the least.
 
 > That's [Seema](//twitter.com/seemaisms) talking about **`Big O`l** important stuff such as trees. But the binary kind. 🌳💻🌳
 

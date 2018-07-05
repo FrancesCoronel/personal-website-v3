@@ -40,7 +40,7 @@ With all that being said, what stood out for me the most throughout the entire t
 
 Everyone was so used to all the elevators and there were so many people just packing inside the next available elevator. It felt like something exciting was always about to happen but at the same time, I felt a lot like a sardine.
 
-Needless to say, I learned a lot about what kind of environment I'd like to work in for the future. I have just never been into very big crowds… or (sigh) business suits.
+Needless to say, I learned a lot about what kind of environment I'd like to work in for the future. I have just never been into very big crowds... or (sigh) business suits.
 
 **Anyways**, I'm going to use all `$5K` of what I earned to pay for the Fullstack Academy tuition, which is going to cover roughly half of it all
 

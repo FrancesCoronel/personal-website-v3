@@ -43,7 +43,7 @@ So most top colleges have this central message that the book seems to hold as it
 
 You know, something along those lines...
 
-**_So anyhow, the book starts off with study basics…_**
+**_So anyhow, the book starts off with study basics..._**
 
 1.  **Start off the day using 5 minutes to manage your time**
     * Jot down to-dos and deadlines on a physical/electronic list whenever they arise (I use Evernote)
@@ -63,7 +63,7 @@ You know, something along those lines...
     * Take a small break every hour
     * Morning and afternoon are ideal times for work, not the evening
 
-**_Then the book looks at different ways to tackle weekly or daily quizzes and exams…_**
+**_Then the book looks at different ways to tackle weekly or daily quizzes and exams..._**
 
 1.  **Take Smart Notes**
     * Always go to class and try to take the best notes possible
@@ -97,9 +97,9 @@ You know, something along those lines...
     * Answer the questions in order of increasing difficulty
     * Write out a mini-outline before tackling an essay question
 
-_SO BASICALLY_ focus on the easiest, most valuable questions that you understand first and then go in increasing difficulty to the rest of the problems…_baddabing baddaboom_
+_SO BASICALLY_ focus on the easiest, most valuable questions that you understand first and then go in increasing difficulty to the rest of the problems..._baddabing baddaboom_
 
-**_Finally the book focused on how to effectively write essays and papers…_**
+**_Finally the book focused on how to effectively write essays and papers..._**
 
 1.  **Target a Titillating Topic**
     * Start looking for an interesting topic early

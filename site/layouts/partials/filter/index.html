@@ -27,7 +27,7 @@
     <!-- Reviews -->
     {{ if .Params.reviews }}
     <section class="section tiles filtered-grid">
-      {{ $reviews := ($.Site.Taxonomies.categories.review).Pages }}{{ range $reviews.ByDate.Reverse }}{{ partial "page/body/tiles/tile.html" . }}{{ end }}
+      {{ $reviews := ($.Site.Taxonomies.categories.review).Pages }}{{ range $reviews.ByDate.Reverse }}{{ partial "page/body/tiles/tile-plain.html" . }}{{ end }}
     </section>
     {{ end }}
     <!-- Portfolio -->

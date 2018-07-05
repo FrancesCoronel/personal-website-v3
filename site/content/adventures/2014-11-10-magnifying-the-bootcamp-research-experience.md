@@ -115,7 +115,7 @@ This is the page for [HackReactor on _Bootcamper_](//bootcamper.io/schools/hack-
 * very little information provided
   * besides the basic overview and typical stats on the left or right sidebar, there isn't much going on
 * no other resources provided
-  * although they do intend to release a blog soon…
+  * although they do intend to release a blog soon...
 
 📝 **THE VERDICT: 3.5/5**
 
@@ -152,7 +152,7 @@ This is the page for [HackReactor on _Bootcamps.in_](//www.bootcamps.in/san-fran
 * lots of filters but they don't help
   * it is nice when code camps are filtered in so many ways by cost, focus, location, and so on but it's not really nice when they're not filtered in a way that helps you get the most out of it
   * with this website, you can only select one of these options so literally just one location, one focus, one cost and so on and that's how it's determined
-  * so basically, what I'm saying is that if you were looking for a JavaScript focused school that cost less than \$10K located in California, that would be really hard for you to actually do because this website only allows for one of those factors to be looked for specifically…
+  * so basically, what I'm saying is that if you were looking for a JavaScript focused school that cost less than \$10K located in California, that would be really hard for you to actually do because this website only allows for one of those factors to be looked for specifically...
 
 📝 **THE VERDICT: 2/5**
 
@@ -264,7 +264,7 @@ This is the page for [HackReactor on _Switchup_](//www.switchup.org/bootcamps/ha
     * to somebody in high places, one of these \$ might mean \$10,000 so I'm not a big fan of the simple \$, \$\$, \$\$\$, and so on unless there's some background provided
   * that ratings filter
     * okay, so why would anybody want to search for a 1-star or 2-star rated bootcamp again, just for funsies?
-    * it's understandable that it's there given that it correlates with the student reviews but…
+    * it's understandable that it's there given that it correlates with the student reviews but...
 * limitedinformation for each bootcamp
   * besides the stunning student review section and a basic overview of what the bootcamp has to offer (which is a similarity between all the websites), there's not much else going on
 
@@ -278,7 +278,7 @@ This is the page for [HackReactor on _Switchup_](//www.switchup.org/bootcamps/ha
   * rates accelerators, tech-related books, software, accelerators, venture capitalists, development schools (aka coding bootcamps), etc. based on reviews
   * has a [leaderboard](//schools.techendo.com/leaderboard) for the top "Development Schools"
     * according to Techendo, [HackReactor is number one](//schools.techendo.com/schools/hack-reactor)
-    * …however, this is only based on 10 positive reviews, so still needs some more data
+    * ...however, this is only based on 10 positive reviews, so still needs some more data
 
 [![Firehose
 Project](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-58.png?w=676)](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-58.png)
@@ -316,7 +316,7 @@ App](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-45
 
 ![](//portland.startupweekend.org/files/2013/11/Treehouse-Logo-With-Text.png)
 
-* And of course you can't go wrong with your more typical, well-known resources for learning how to love `{code}`…
+* And of course you can't go wrong with your more typical, well-known resources for learning how to love `{code}`...
   * [Codecademy](//codecademy.com)
   * [Code School](//codeschool.com)
   * [Treehouse](//teamtreehouse.com)
@@ -325,9 +325,9 @@ App](//fvcproductions.files.wordpress.com/2014/11/screenshot-2014-11-09-20-46-45
   * [codewars](//codewars.com)
   * [topcoder](//www.topcoder.com)
 
-[![quora_icon](//fvcproductions.files.wordpress.com/2014/11/quora_icon.png)](//fvcproductions.files.wordpress.com/2014/11/quora_icon.png)General Tip: [Quora](//quora.com) usually has a ton of useful answers for this very question too… why does Quora have to be so awesome, geez. 😏
+[![quora_icon](//fvcproductions.files.wordpress.com/2014/11/quora_icon.png)](//fvcproductions.files.wordpress.com/2014/11/quora_icon.png)General Tip: [Quora](//quora.com) usually has a ton of useful answers for this very question too... why does Quora have to be so awesome, geez. 😏
 
-> To Note… 📄
+> To Note... 📄
 >
 > > I think a great idea when it comes to student reviews for each bootcamp is being able to produce some sort of web crawler that scans Yelp, Quora, Google+, among other popular rating sites and putting it all into one place for everyone to look at. As long as the UI/UX end up meshing well together, that would prove to be really beneficial. For the time being though, we have to stick with reviews (some replicas) being scattered through the web for each individual bootcamp.
 

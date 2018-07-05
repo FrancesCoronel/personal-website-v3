@@ -14,11 +14,55 @@ aliases:
 
 The URL for this website is https://www.fvcproductions.com and there are 3 different URLs that redirect to it:
 
-* fvcproductions.com
-* latinasoftwareengineer.com
-* latinaswe.com
+- fvcproductions.com
+- latinaswe.com (going to expire this)
+- latinasoftwareengineer.com
+- latinahacker.com
+- latinaprogrammer.com
+- latinatechnologist.com
 
-Originally published 2013.
+I'm also looking into these domains:
+
+> Best Candidates
+
+- latinatechie.com
+  - 2018-08-25
+- latinaengineer.com
+  - 2018-10-17
+- latinacoder.com
+  - 2019-05-04
+
+> Candidates
+
+- latinaintech.com
+  - 2018-09-20
+- latinosintech.com
+  - 2018-09-01
+- codingisfun.com
+  - 2018-09-18
+- ilovetocode.com
+  - 2018-12-24
+- peruvianamerican.com
+  - 2019-05-16
+- peruvian.com
+  - 2020-11-09
+- peruana.com
+  - 2020-12-02
+- icode.com
+  - 2021-10-10
+- latinagenius.com
+- latinaguru.com
+- latinageek.com
+- available
+  - latinaengineering.com
+  - latinawhocodes.com
+  - latinosoftwareengineer.com
+  - latinsoftwareengineer.com
+  - peruvianengineer.com
+
+This website was born in June of 2013 using Wordpress.com in my final month of high school.
+
+I bought my domain `fvcproductions.com` August 20th, 2014.
 
 Website design, development, and copy writing by Frances Coronel.
 
@@ -47,6 +91,7 @@ The source code [can be found on GitHub](//github.com/fvcproductions/fvcproducti
   * [Roboto](//fonts.google.com/specimen/Roboto)
   * [Roboto Mono](//fonts.google.com/specimen/Roboto+Mono)
   * [Font Awesome 5](//fontawesome.com)
+  * [Simple Icon](https://www.flaticon.com/authors/simpleicon)
 * **Colors**
   * <svg width="1em" height="1em"><rect width="1em" height="1em" style="fill:#253137;" /></svg> My lovely brand color of Oxford Blue with the HEX value of `#253137`
   * [Material Colors](//material.io/guidelines/style/color.html#color-color-palette)
@@ -65,9 +110,9 @@ _This means that even IE users can see 💩._
 
 For external links, a ↗ is automatically added to the end like [//google.com](//google.com).
 
-External links also automatically have `target='_blank'` and `rel='nofollow'` added to the `a` tag.
+External links also automatically have `target='_blank'` and `rel='noopener'` added to the `a` tag.
 
-The important part to note is that I've set the ↗ up to work only with links that start with `//` so [https://google.com](https://google.com) and [http://google.com](http://google.com) will just have the `target='_blank'` and `rel='nofollow'` added.
+The important part to note is that I've set the ↗ up to work only with links that start with `//` so [https://google.com](https://google.com) and [http://google.com](http://google.com) will just have the `target='_blank'` and `rel='noopener'` added.
 
 1.  List item one
     1.  List item one
@@ -100,9 +145,9 @@ _This means that even IE users can see 💩._
 
 For external links, a ↗ is automatically added to the end like [//google.com](//google.com).
 
-External links also automatically have `target='_blank'` and `rel='nofollow'` added to the `a` tag.
+External links also automatically have `target='_blank'` and `rel='nofopener'` added to the `a` tag.
 
-The important part to note is that I've set the ↗ up to work only with links that start with `//` so [https://google.com](https://google.com) and [http://google.com](http://google.com) will just have the `target='_blank'` and `rel='nofollow'` added.
+The important part to note is that I've set the ↗ up to work only with links that start with `//` so [https://google.com](https://google.com) and [http://google.com](http://google.com) will just have the `target='_blank'` and `rel='nofopener'` added.
 
 1.  List item one
     1.  List item one

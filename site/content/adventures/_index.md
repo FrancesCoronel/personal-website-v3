@@ -8,6 +8,7 @@ filtering: true
 adventures: true
 noComments: true
 aliases:
+  - /adventures/
   - /home/adventures/
   - /home/adventures/conferences/
   - /home/adventures/experience/

@@ -52,14 +52,14 @@ Meant for beginners, I've come up with a few basic code samples to showcase as a
     stuff
     */
 
-###### Okay, so that was **super easy**…
+###### Okay, so that was **super easy**...
 
-### Go ahead, press the button! :D Virtually…
+### Go ahead, press the button! :D Virtually...
 
 ![Computer
 Hope](//citycleanersoftx.com/wp-content/uploads/2014/01/Easy-Button.jpg)
 
-## So moving on…to the main method!
+## So moving on...to the main method!
 
     class MainMethodShizz {
         public static void main (String[] args) {

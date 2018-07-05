@@ -25,7 +25,7 @@ tags:
 
 ## Hello. Hello. Hello.
 
-It's been a while, but no worries. Once again, I'm here to make programming a little easier by providing the literal solutions…
+It's been a while, but no worries. Once again, I'm here to make programming a little easier by providing the literal solutions...
 
 I've decided to use better resources so that my programs can be more easily shared.
 

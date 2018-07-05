@@ -1,11 +1,3 @@
 <li>
-  {{ if .Params.link }}
-  <a class="plain-link" href="{{ .Params.link }}" target="_blank" rel="noopener">
-    {{ .Title }} {{ if .Params.link }}↗️{{ end }}
-  </a>
-  {{ else }}
-  <a class="plain-link" href="{{ .RelPermalink }}">
-    {{ .Title }}
-  </a>
-  {{ end }}
+    <a class="plain-link" {{ if .Params.link }}href="{{ .Params.link }}" target="_blank" rel="noopener"{{ else }}href="{{ .RelPermalink }}"{{ end }}>{{ .Title }} {{ if .Params.link }}↗️{{ end }}</a>
 </li>

@@ -66,7 +66,7 @@ There are 58 days in Fullstack. These are the first 5. Let's begin. &lt;3
 * Met some seniors today. Not literal seniors (old folks).
   * At Fullstack, there are two groups - seniors and juniors.
   * Juniors are the ones that are going through the first half of Fullstack while seniors are simply the ones that have completed that first half (the learning phase) and are now in the second half (the project phase).
-* Naturally, the first thing the seniors did was pull a joke on me. _Classic…_ :twisted:
+* Naturally, the first thing the seniors did was pull a joke on me. _Classic..._ :twisted:
 * Frankly, I'm more excited about the project phase where I'll actually be building things. Looking forward to it already. Weird.
 * I got a friggin' t-shirt - yessssssss.
 * Mixer today puts me in a great mood because charades is always fun.
@@ -76,7 +76,7 @@ There are 58 days in Fullstack. These are the first 5. Let's begin. &lt;3
 >
 > > Fullstack Academy is a full out marathon and I'm more of a short distance runner. It'll get better with time though! 😁
 > >
-> > Also, if someone asked me to express how I felt about my first week using a song…
+> > Also, if someone asked me to express how I felt about my first week using a song...
 
 \
 //www.youtube.com/watch?v=t-yCg-0-baE\

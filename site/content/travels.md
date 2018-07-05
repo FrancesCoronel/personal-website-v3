@@ -16,7 +16,7 @@ aliases:
 
 ## So I’ve come to the conclusion that I come from a pretty interesting background.
 
-> Here’s why…
+> Here’s why...
 
 ### North America
 

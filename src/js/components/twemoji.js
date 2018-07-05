@@ -1,7 +1,7 @@
 import twemoji from "twemoji";
 
 twemoji.parse(document.body, {
-  base: "https://twitter.github.io/twemoji/2/",
+  base: "https://twemoji.maxcdn.com/2/",
   folder: "svg",
-  ext: ".svg"
+  ext: ".svg",
 });

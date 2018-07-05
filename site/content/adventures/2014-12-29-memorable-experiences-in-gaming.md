@@ -47,7 +47,7 @@ tags:
 
 > I'm not very big on gaming, but these following games were the top 25 games that were the most memorable to me at some point.
 
-**Key To Game Genres…**
+**Key To Game Genres...**
 
 > _Every game usually has multiple genres going on, but I'm just going to point out what I thought was the overarching genre._
 
@@ -88,7 +88,7 @@ tags:
 
 6\) [**Wizard 101**](//wizard101.com) - 🔮 MMORPG
 
-> I used to actually be addicted to this game. But one day, my account got borrowed by my brother, which in turn got borrowed by somebody else… and I pretty much lost access to it because I let my brother borrow it. Lesson learned. :( I have a new account now, but my days of being a wickedly awesome wizard are over.
+> I used to actually be addicted to this game. But one day, my account got borrowed by my brother, which in turn got borrowed by somebody else... and I pretty much lost access to it because I let my brother borrow it. Lesson learned. :( I have a new account now, but my days of being a wickedly awesome wizard are over.
 
 [![](//i2.cdnds.net/13/19/618x330/gamning-runescape-3-screenshot-9.jpg)](//i2.cdnds.net/13/19/618x330/gamning-runescape-3-screenshot-9.jpg)
 

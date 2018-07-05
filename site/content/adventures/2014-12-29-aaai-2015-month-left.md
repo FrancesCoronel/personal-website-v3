@@ -28,11 +28,11 @@ categories:
 
 It's happening.
 
-[![](//fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif)](//fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif) do the Bender dance…
+[![](//fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif)](//fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif) do the Bender dance...
 
 I'll be acting as a volunteer for [the conference](//www.aaai.org/Conferences/AAAI/aaai15.php 'AAAI 2015 Winter Conference') (it's the first winter conference, too, apparently) and was therefore lucky enough to get a \$200 scholarship and a complimentary registration (\$450, in my case) to attend.
 
-\$200 is very little to cover travel and hotel costs, but seeing as I have no serious research experience in the field yet, I'd say I'm still fine with it. Especially considering these registration costs for a student AAAI member like myself…
+\$200 is very little to cover travel and hotel costs, but seeing as I have no serious research experience in the field yet, I'd say I'm still fine with it. Especially considering these registration costs for a student AAAI member like myself...
 
 > **Student AAAI Member (Registration Fees)**
 >
@@ -53,7 +53,7 @@ Thankfully, with a scholarship I got from the [VSGC](//vsgc.odu.edu 'VSGC @ ODU'
 
 I will say though that I don't feel I really have a lot of information yet in terms of scheduling.
 
-I mean, I just know the basics as of right now…
+I mean, I just know the basics as of right now...
 
 **AAAI–15 Program Overview**
 

@@ -37,7 +37,7 @@ I was surprised by the amount of support I received from the community for the p
 
 //twitter.com/HRDevFest/status/656476470454300672\]
 
-I've spoken at conferences before, but never at an actual tech conference which is why victory was that much sweeter when I finally got the opportunity to do so today. So…
+I've spoken at conferences before, but never at an actual tech conference which is why victory was that much sweeter when I finally got the opportunity to do so today. So...
 
 //twitter.com/fvcproductions/status/662647429737615360\]
 

@@ -47,8 +47,8 @@ tags:
 
 ## Day Five - Friday
 
-* People liked the presentation! Yesssss…. :grin:
-* Hot Seat today. I'm really enjoying hearing these stories. If only there was some sort of fireplace…
+* People liked the presentation! Yesssss.... :grin:
+* Hot Seat today. I'm really enjoying hearing these stories. If only there was some sort of fireplace...
 * Finally gave in and installed `zsh` today using some dude's dot files (he's a big Spacegray theme fan too). Now everything looks and feels **SPACEGRAY**. Heyyyy.
 * Bought this [Sublime Text Power User](//sublimetextbook.com/ 'ST3 Power User') book by the Bos for `$25`. I used the coupon code `CHRISTMAS` which still worked and took `$11` off. LOL.
 * It sucks that [Flavours](//flavours.interacto.net/ 'Flavours') is no longer going to exist once `El Capitan` comes out. I want to be able to customize EVERYTHING.

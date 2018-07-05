@@ -34,6 +34,12 @@ npm start
 
 The site will be be displayed at `localhost:3000` with BrowserSync automatically reloading the page with any new changes.
 
+## Usage
+
+```bash
+hugo new adventures/2018-06-19-xyz.md
+```
+
 ## Deployment
 
 This website is hosted on [GitHub](https://pages.github.com) and deployed through [Netlify](https://www.netlify.com/).

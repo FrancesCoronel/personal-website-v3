@@ -25,7 +25,7 @@ tags:
 
 ### Hello, hello, hello!
 
-Welcome to Python Bits, where you're introduced to increasingly difficult program problems that you can solve… or not.
+Welcome to Python Bits, where you're introduced to increasingly difficult program problems that you can solve... or not.
 
 It's up to you, I'm not the pushy type.
 
@@ -43,7 +43,7 @@ Now let's do this, homie!
     Compiler - CodeRunner 1.3.1
     Python Version - 3.3.4
 
-Now we'll be covering 7 "problems" today…
+Now we'll be covering 7 "problems" today...
 
     1. Installation
     2. Numerical Expressions
@@ -65,13 +65,13 @@ Install Python first fool (in case you haven't already)!
 
 The latest version as of March 4, 2014 is Python 3.3.4, and I'll just be referring to it as Python 3.0.
 
-As an Apple fanatic, I personally use [CodeRunner](//krillapps.com/coderunner/) to compile and run my little programs. Although it does cost \$9.99 on Apple's App Store… so you know - that's your go.
+As an Apple fanatic, I personally use [CodeRunner](//krillapps.com/coderunner/) to compile and run my little programs. Although it does cost \$9.99 on Apple's App Store... so you know - that's your go.
 
-However, it is recommended by most web-developers that you learn how to use [SublimeText](//www.sublimetext.com) if you intend to do more programming in the future. SublimeText is recognized way more by top web-developers and can be run on Linux, Windows, and OSX (so that's a plus!). The downside is that SublimeText requires a purchase license for continued use, but at the same time there's no time limit for your "evaluation" of the product… so it's kinda free?
+However, it is recommended by most web-developers that you learn how to use [SublimeText](//www.sublimetext.com) if you intend to do more programming in the future. SublimeText is recognized way more by top web-developers and can be run on Linux, Windows, and OSX (so that's a plus!). The downside is that SublimeText requires a purchase license for continued use, but at the same time there's no time limit for your "evaluation" of the product... so it's kinda free?
 
 ANYHOW, SublimeText costs \$70, but there are PLENTY of free options out there, so do NOT give up if you're on a tight budget.
 
-The popular free ones are [TextWrangler](//www.barebones.com/products/textwrangler/), [Xcode](//developer.apple.com/xcode/) (if you have OSX), [Eclipse](//www.eclipse.org) and some popular expensive ones are [Coda](//panic.com/coda/), [BBEdit](//www.barebones.com/products/bbedit/), [PyCharm](//www.jetbrains.com/pycharm/), and SublimeText 2…which I mentioned already.
+The popular free ones are [TextWrangler](//www.barebones.com/products/textwrangler/), [Xcode](//developer.apple.com/xcode/) (if you have OSX), [Eclipse](//www.eclipse.org) and some popular expensive ones are [Coda](//panic.com/coda/), [BBEdit](//www.barebones.com/products/bbedit/), [PyCharm](//www.jetbrains.com/pycharm/), and SublimeText 2...which I mentioned already.
 
 Yarharhar. Okay, moving on.
 
@@ -85,20 +85,20 @@ If you want to run Python 3.0 on CodeRunner, you will have to
 6.  I have it installed already so this image shows up:\
      ![Already
 Installed](//fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-04-at-5-19-30-pm.png)
-7.  If that doesn't show up, you probably screwed up, or I suck at giving instructions…check Google.
+7.  If that doesn't show up, you probably screwed up, or I suck at giving instructions...check Google.
 8.  If it does work, we can work with CodeRunner now! :D
 9.  So now open up CodeRunner and go to _CodeRunner -&gt; Preferences -&gt; Languages_
 10. Then go ahead and create a new language with the + button
 11. It should look something like this:\
      ![Adding Python
 3.0](//fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-04-at-11-47-49-am.png)
-12. Once you've done that, you can choose Python 3 from your scroll bar of languages…and FINALLY — you can freaking use Python 3.0.
+12. Once you've done that, you can choose Python 3 from your scroll bar of languages...and FINALLY — you can freaking use Python 3.0.
 
 **Problem 2 - Numerical Expressions**
 
 So with Python, you have the ability to to use the language as a calculator. I mean, it's an awesome programming language so you can pretty much use the language to do **whatever the hell you want**.
 
-So go ahead and open up a tab and check out what happens when you work with different numerical expressions…
+So go ahead and open up a tab and check out what happens when you work with different numerical expressions...
 
     a) 7 * 3
 
@@ -193,7 +193,7 @@ Area of a circle is known
 
     3*π*radius²
 
-**_But here's a little trick for pi…_**
+**_But here's a little trick for pi..._**
 
 Instead of declaring pi as 3.14 and so on, you can use a built-in math constant known as math.pi which will give you the entire value of pi, to the precise number!
 

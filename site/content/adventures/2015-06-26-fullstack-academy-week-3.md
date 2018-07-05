@@ -40,8 +40,8 @@ tags:
 
 ## Day Two - Tuesday
 
-* The `twitter-js` project was fun, but this `twitter-sql` business is just a whole nother ballgame, and I'm not sure if I really like playing… ⚾️⚾️⚾️
-* On the other hand, `Mongo` seems nice. The docs are definitely cleaner…
+* The `twitter-js` project was fun, but this `twitter-sql` business is just a whole nother ballgame, and I'm not sure if I really like playing... ⚾️⚾️⚾️
+* On the other hand, `Mongo` seems nice. The docs are definitely cleaner...
 
 ## Day Three - Wednesday
 
@@ -74,7 +74,7 @@ Avalon Set Up
 
 * Set in the primitive medieval era, [Avalon](//www.amazon.com/Indie-Boards-Cards-AVA1IBC-Resistance/dp/B009SAAV0C 'Avalon') forces people to lie and identify as either a good or bad person, which has never made sense to me (not just the good vs bad schematic, but the whole light vs dark color theming, etc.) because I've always identified as both a good and bad person.
   * Regardless, the game was a lot of fun because it involves the wicked art of _deception_ and people just made a bunch of accusations all throughout which led to a lot of laughter and random banter.
-  * I myself don't feel I'm terribly good at lying, but people have told me before that I have a great poker face or that I'm just plain shady. _The quiet ones are always a little crazzyyyy…_
+  * I myself don't feel I'm terribly good at lying, but people have told me before that I have a great poker face or that I'm just plain shady. _The quiet ones are always a little crazzyyyy..._
   * Anyways, the good people (such as myself) won, but only because the bad kids weren't very good at being bad. Shucks.
 
 ## Day Five - Friday

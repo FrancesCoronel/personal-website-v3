@@ -26,7 +26,7 @@ tags:
 
 So I decided to compile a bunch of fun interview topics of interest and questions. This article is limited to what I know from my job interviews.
 
-# So For Those Who Are Looking Forward To Technical Interviews For Software Developer Internships…
+# So For Those Who Are Looking Forward To Technical Interviews For Software Developer Internships...
 
 **_Here we go!_** :grin:
 

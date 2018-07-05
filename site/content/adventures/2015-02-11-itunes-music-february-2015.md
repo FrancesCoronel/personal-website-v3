@@ -94,7 +94,7 @@ La da di da...
 
 //www.youtube.com/watch?v=T0gO2bqZ8v4
 
-**Dance like there's no tomorrow………………**
+**Dance like there's no tomorrow..................**
 
 Yes, ma Cherie...
 
@@ -118,7 +118,7 @@ A long time favorite of mine from here is `Nara`.
 
 //www.youtube.com/watch?v=cpLZeSigNvY
 
-**I'm really not much of an oldies fan, but if I'm really in the mood…**
+**I'm really not much of an oldies fan, but if I'm really in the mood...**
 
 //www.youtube.com/watch?v=ym1eDeOxq14
 
@@ -130,13 +130,13 @@ A long time favorite of mine from here is `Nara`.
 
 //www.youtube.com/watch?v=jQybgJCswF0
 
-**Tbh, not much into Rock either…**
+**Tbh, not much into Rock either...**
 
-I could actually probably drop all these songs and be ok with it…
+I could actually probably drop all these songs and be ok with it...
 
-**OMG, soundtrack time!! 3 screenshots needed…**
+**OMG, soundtrack time!! 3 screenshots needed...**
 
-**And it's now techno's turn… 2 screenshots only this time.**
+**And it's now techno's turn... 2 screenshots only this time.**
 
 `Bla Bla Bla` definitely isn't my favorite song from my techno album, but it has the best music video by far.
 

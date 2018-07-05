@@ -72,7 +72,7 @@ As a result, there are now only **7** days of [**Fullstack**](http://www.fullsta
 | July 6th to July 10th  | Days 20 to 24 | Week 5 |
 | July 13th to July 17th | Days 25 to 29 | Week 6 |
 
-* July 3rd was a holiday for Fullstack.
+- July 3rd was a holiday for Fullstack.
 
 # Review Week! July 20th to July 24th.
 
@@ -84,7 +84,7 @@ As a result, there are now only **7** days of [**Fullstack**](http://www.fullsta
 | August 3rd to 7th      | Days 35 to 39 | Week 8 |
 | August 10th to 14th    | Days 40 to 43 | Week 9 |
 
-* Missed out on Friday’s Tessle Hackathon in Week 9 because of an Apple Hiring Event. More on _that_ later.
+- Missed out on Friday’s Tessle Hackathon in Week 9 because of an Apple Hiring Event. More on _that_ later.
 
 # What’s Left
 
@@ -93,11 +93,11 @@ As a result, there are now only **7** days of [**Fullstack**](http://www.fullsta
 | August 17th to 21st | Days 44 to 48 | Week 10        |
 | August 24th to 26th | Days 49 to 51 | 1/2 of Week 11 |
 
-> Overarching thought… **_holy crap_**.
+> Overarching thought... **_holy crap_**.
 
 # **SO NOW WE MUST TRAVEL BACK IN TIME.**
 
-> Specifically to Week 7, which is where I left off and also when things were actually slightly more stressful than they are now here in Week 10….
+> Specifically to Week 7, which is where I left off and also when things were actually slightly more stressful than they are now here in Week 10....
 
 ![TimeTravel](https://i0.wp.com/33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif)
 
@@ -105,43 +105,43 @@ As a result, there are now only **7** days of [**Fullstack**](http://www.fullsta
 
 ## Monday
 
-* Omg, stackstore. `stress++;`
-* My presentation was shared with the junior cohort! `ego++;`
+- Omg, stackstore. `stress++;`
+- My presentation was shared with the junior cohort! `ego++;`
 
 > Here is the presentation in its full glory:
 
-* 1st `REACTO` today. `stress++;`
+- 1st `REACTO` today. `stress++;`
 
 ## Tuesday
 
-* I’m coming to realize that my team is actually very solid. This is great! `ego++; stress--;`
-* Learning Team Lunch today. For the first time ever, we have to talk to each other and are not actually spending time playing some sort of board game.
+- I’m coming to realize that my team is actually very solid. This is great! `ego++; stress--;`
+- Learning Team Lunch today. For the first time ever, we have to talk to each other and are not actually spending time playing some sort of board game.
   * The meeting is very **hogwarts** (which sounds a lot like **awkward** if you say it out loud a bunch of times really fast). `excitement--;`
 
 ## Wednesday
 
-* Interfeud today! Intefeud is this fun little game where we get quizzed on knowledge we learned from Junior Phase. `excitement++;`
+- Interfeud today! Intefeud is this fun little game where we get quizzed on knowledge we learned from Junior Phase. `excitement++;`
 
 ## Thursday
 
-* I see my fellow Jimmy on the subway.
-* Yeah, I guess that’s basically it.
+- I see my fellow Jimmy on the subway.
+- Yeah, I guess that’s basically it.
 
 ![TrollForJimmy](https://cdn2.scratch.mit.edu/get_image/gallery/221290_200x130.png?v=1371781049.0)
 
-* `ego++;`
+- `ego++;`
 
 ## Friday
 
-* Ladies lunch was today, I went briefly, and found out that the junior cohort now has the best women-to-men ratio by far.
-  * That ratio fact alone is pretty great.
-  * I also got a lot of nice feedback for the slide deck that was shared. `ego++; excitement++;`
-* Fullstack Mixer today.
-  * My learning team combined with one of the junior learning teams ended up winning. `excitement++; ego++;`
-  * The grand prize? Stickers.
+- Ladies lunch was today, I went briefly, and found out that the junior cohort now has the best women-to-men ratio by far.
+  - That ratio fact alone is pretty great.
+  - I also got a lot of nice feedback for the slide deck that was shared. `ego++; excitement++;`
+  - Fullstack Mixer today.
+  - My learning team combined with one of the junior learning teams ended up winning. `excitement++; ego++;`
+  - The grand prize? Stickers.
     `excitement--;`
-* I completely and utterly embarrassed myself trying to be novel and introduce myself with this speech I memorized (refer to speech below). `ego -= 5;`
-* Here’s the first tidbit of the speech (the entire thing is kind of long). This is all from memory because the speech is just _that_ provocative to me.
+    - I completely and utterly embarrassed myself trying to be novel and introduce myself with this speech I memorized (refer to speech below). `ego -= 5;`
+    - Here’s the first tidbit of the speech (the entire thing is kind of long). This is all from memory because the speech is just _that_ provocative to me.
 
 > T.E Lawrence, eponymously of Arabia, but very much an Englishman, favored pinching a burning match between his fingers to put it out.
 >
@@ -159,13 +159,13 @@ As a result, there are now only **7** days of [**Fullstack**](http://www.fullsta
 >
 > Fire.
 
-* In my head, I was thinking this is how the speech was going to go since I practiced and such:
+- In my head, I was thinking this is how the speech was going to go since I practiced and such:
 
 ![MinionsSpeech](https://i1.wp.com/33.media.tumblr.com/8642075103c54ee6eae9bb3808377121/tumblr_noenylQkFh1s8njeuo1_500.gif)
 
-* But in reality, when I tried to speak it out, my entire face started to almost melt and I felt this strange sense of uncertainty all throughout.
-  * It was interesting going through this process because people have told me I have pretty solid public presentation skills, and here I was, struggling like a true turnip.
-  * In other words, it was a **major reality check.**
+- But in reality, when I tried to speak it out, my entire face started to almost melt and I felt this strange sense of uncertainty all throughout.
+  - It was interesting going through this process because people have told me I have pretty solid public presentation skills, and here I was, struggling like a true turnip.
+  - In other words, it was a **major reality check.**
     `goals.push(" improve public speaking skills (perhaps through Toastmasters?)");`
 
 > ➡ **Overall Conclusion for Week 7?**
@@ -247,9 +247,9 @@ var week7 = function() {
 week7();
 ```
 
-> Oh look, a repl out in the wild. **Gotta catch ’em all**…… [`https://repl.it/BC5A`](https://repl.it/BC5A)
+> Oh look, a repl out in the wild. **Gotta catch ’em all**...... [`https://repl.it/BC5A`](https://repl.it/BC5A)
 
-# OK, SO AFTER THAT EXCESSIVE RAMBLING, WE MUST NOW TRAVEL BACK FORWARD IN TIME…
+# OK, SO AFTER THAT EXCESSIVE RAMBLING, WE MUST NOW TRAVEL BACK FORWARD IN TIME...
 
 > and this time simply get a quick overview of how the rest of senior phase has been so far in these nifty little things called bullet points.
 
@@ -257,7 +257,7 @@ week7();
 
 > Short trip this time. 😉
 
-* **Week 8**
+- **Week 8**
   * More REACTO.
   * Presented Stackstore on Wednesday.
   * On Wednesday, I also presented my Tech Talk on Design. Multitasking is fun. -**\_**- That was sarcasm, by the way.
@@ -271,7 +271,7 @@ week7();
 
 > Yawn.
 
-* **Week 9**
+- **Week 9**
   * On Monday, I get an invitation to attend an Apple Hiring Event back in Norfolk. I applied for an College At Home Advisor position back on July 4th, so I’m really glad they were able to follow back. The event is on Sunday.
   * We also present our stackathon projects on Monday.
     * My stackathon project was **[Rank Me](https://github.com/fvcproductions/RankMe)**, an app that ranks coding bootcamps on their rating and social scores based on data that is crawled from various sites.
@@ -298,8 +298,8 @@ week7();
 
 > Time travel wasn’t even that necessary this time, but hey. 😎
 
-* **Week 10**
-  * As it turns out, there are only 2 people in my group for the capstone project (which has now been dubbed `Hiredot2` because a previous Hiredot existed…but died out\[?\]), _myself included_.
+- **Week 10**
+  * As it turns out, there are only 2 people in my group for the capstone project (which has now been dubbed `Hiredot2` because a previous Hiredot existed...but died out[?]), _myself included_.
     * Yes, it’s actually just Joanna and I.
     * I’ve actually mentioned Joanna here on my blog before.
     * She’s the one who attends Cornell Tech for her Master’s in Connective Media.

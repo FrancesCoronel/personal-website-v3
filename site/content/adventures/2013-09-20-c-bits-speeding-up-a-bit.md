@@ -25,9 +25,9 @@ tags:
 
 ## Hello. Hello. Hello
 
-So once again, I'm here to make programming a little easier by providing the literal solutions… with GitHub (yes!).
+So once again, I'm here to make programming a little easier by providing the literal solutions... with GitHub (yes!).
 
-C Programming Help that is…
+C Programming Help that is...
 
 The solutions that also include the question as a comment on top and can be found on my GitHub.
 

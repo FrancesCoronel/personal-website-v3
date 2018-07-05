@@ -47,7 +47,7 @@ I keep looking for the key out of my novice programming level, but nothing seems
 
 The reasons I decided to consider these ‘coding bootcamps', which have garnered both positive and negative public opinions is because I think it's going to provide the [bow](//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Parts_of_a_Yale_lock-type_key.svg/2000px-Parts_of_a_Yale_lock-type_key.svg.png) for that key I was describing earlier.
 
-I'd have to take care of the important bits of the key of course, but it would be inconvenient if the key didn't have a bow, wouldn't it? I'm going to avoid going off a tangent here now…
+I'd have to take care of the important bits of the key of course, but it would be inconvenient if the key didn't have a bow, wouldn't it? I'm going to avoid going off a tangent here now...
 
 So, in lamest terms, the way I'm feeling right now about my programming skills is similar to feeling like `Big Head` from the TV show [Silicon Valley](<//en.wikipedia.org/wiki/Silicon_Valley_(TV_series)>). `Richard` and `Big Head` can relate to each other. They're buddies and they both work (or worked) at the same company. **But** their skills level are completely off. Richard really gets algorithms and data structures. He really **gets** them. But Big Head, he can only make these shady MVPs that turn out to be [pretty _sexist_](//www.newyorker.com/tech/elements/the-unfunniest-joke-in-technology).
 
@@ -67,7 +67,7 @@ So, what is a closure? That is the question.
 * A `callback function`, on the other hand, can be used as a closure, but a callback function itself is when the function is called within itself in order to be be ‘called back' later.
 * I figured these topics would be something HR wants their applicants somewhat familiar with since `Node` works with closures and callbacks all the bloody time.
 
-**Unfortunately**, the interview never took place over some confusion over my aliases. Whoops. I ended up rescheduling… 😔
+**Unfortunately**, the interview never took place over some confusion over my aliases. Whoops. I ended up rescheduling... 😔
 
 However, even though there were some discrepancies over the setup of my interview, I was still able to meet up with someone. The interviewer asked that I don't reveal their name and that I should share this article with them. So cheers, interviewer! 😁
 
