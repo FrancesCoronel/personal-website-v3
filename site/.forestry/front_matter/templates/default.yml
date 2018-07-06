@@ -1,80 +1,80 @@
 ---
-pages:
-- adventures/subtitles---cinderella.md
-- adventures/2016-01-01-el-capitan----strict--yosemite----strict.md
-- adventures/2015-08-28-fullstack-academy---blog-post-banners.md
-- adventures/2014-11-11-new-wordpress-theme---tdeditor.md
-- adventures/2014-11-16-needs-flavours.md
-- adventures/2014-10-15-custom-website-flavicons.md
-hide_body:     false
+hide_body: false
+is_partial: false
 fields:
-- name:        title
-  label:       Title
-  type:        text
-  hidden:      false
-  default:     ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
   config:
-    required:  true
+    required: true
   description: A short and sweet eye catcher.
-- name:        date
-  label:       Date
-  type:        text
-  hidden:      false
-  default:     ''
+- name: date
+  label: Date
+  type: text
+  hidden: false
+  default: ''
   description: When this post was finalized.
-- name:        description
-  label:       Description
-  type:        text
-  hidden:      false
-  default:     ''
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
   config:
-    required:  true
+    required: true
   description: A brief description of this post.
-- name:        banner
-  label:       Banner
-  type:        text
-  hidden:      false
-  default:     ''
+- name: banner
+  label: Banner
+  type: text
+  hidden: false
+  default: ''
   description: A link to the featured image that is hosted on Imgur.
-- name:        caption
-  label:       Caption
-  type:        text
-  hidden:      false
-  default:     ''
+- name: caption
+  label: Caption
+  type: text
+  hidden: false
+  default: ''
   description: Caption for banner image.
-- name:        bannerLink
-  label:       Banner Link
-  type:        text
-  hidden:      false
-  default:     ''
+- name: bannerLink
+  label: Banner Link
+  type: text
+  hidden: false
+  default: ''
   description: Link the featured image points to.
-- name:        link
-  label:       Redirect Link
-  type:        text
-  hidden:      false
-  default:     ''
+- name: link
+  label: Redirect Link
+  type: text
+  hidden: false
+  default: ''
   description: Link this post redirects to (assumes there will be no content).
-- name:        draft
-  label:       Draft
-  type:        boolean
-  hidden:      false
-  default:     true
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true
   description: Keep as draft until fully finalized.
-- name:        noComments
-  label:       No Comments
-  type:        boolean
-  hidden:      true
-  default:     false
+- name: noComments
+  label: No Comments
+  type: boolean
+  hidden: true
+  default: false
   description: Comments are enabled by default.
-- name:        categories
-  label:       Categories
-  type:        tag_list
-  hidden:      false
-  default:     []
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: []
   description: Categories help differentiate what kind of post this is.
-- name:        tags
-  label:       Tags
-  type:        tag_list
-  hidden:      false
-  default:     ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
   description: Tags are useful for SEO.
+pages:
+- site/content/adventures/2014-10-15-custom-website-flavicons.md
+- site/content/adventures/2016-01-01-el-capitan----strict--yosemite----strict.md
+- site/content/adventures/2015-08-28-fullstack-academy---blog-post-banners.md
+- site/content/adventures/2014-11-11-new-wordpress-theme---tdeditor.md
+- site/content/adventures/2014-11-16-needs-flavours.md
