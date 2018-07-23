@@ -13,15 +13,19 @@ Most coding bootcamps are 2 to 4 months (8 to 12 weeks) long.
 
 These programs instead act as alternative options to a CS degree which is usually 4 years long.
 
-|                     |    42     |  Galvanize  | Holberton School | Make School |                  Turing School                  |
+|                     | 42        | Galvanize   | Holberton School | Make School | Turing School                                   |
 | :-----------------: | :-------: | :---------: | :--------------: | :---------: | :---------------------------------------------: |
-|    **Duration**     | 3-5 years |  6 months   |     2 years      |   2 years   |                    7 months                     |
-|      **Time**       |           | M-F 9am-5pm |                  |             |
-|     **Tuition**     |   Free    |    $21K     |                  |             | $20K (comes with new laptop), otherwise $18,800 |
-| **Acceptance Rate** | are neat  |     $1      |
-|    **Age Range**    |   18-30   |     18+     |       18+        |     13+     |                       18+                       |
+| **Duration**        | 3-5 years | 6 months    | 2 years          | 2 years     | 7 months                                        |
+| **Time**            |           | M-F 9am-5pm |                  |             |
+| **Tuition**         | Free      | $21K        |                  |             | $20K (comes with new laptop), otherwise $18,800 |
+| **Acceptance Rate** | are neat  | $1          |
+| **Age Range**       | 18-30     | 18+         | 18+              | 13+         | 18+                                             |
 
 ---
+
+https://lambdaschool.com
+
+Horizons One
 
 ## [Make School](https://www.makeschool.com/)
 

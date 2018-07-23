@@ -98,3 +98,4 @@ disqusShortname               = "fvcproductions"
 
 [taxonomies]
     category                  = "categories"
+    tag                       = "tags"
