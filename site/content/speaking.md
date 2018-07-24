@@ -23,18 +23,6 @@ If you'd like me to speak at an event, don't hesitate to [reach out](/contact)!
 
 ## ⌚️ Upcoming Speaking Events
 
-### [We RISE Tech Conference](//twitter.com/WeRiseConf/status/971815420142419968) - June 21st
-
-- [TypeScript 101 (Talk)](//twitter.com/WeRiseConf/status/961650712361996288)
-
-### [Beer City Code](//beercitycode.com/) - June 23rd
-
-- TypeScript 101 (Talk) - June 23rd
-
-### [Girl Develop It SF](//girldevelopit.com/chapters/san-francisco) - June 26th
-
-- [Panel: Women in Open Source](//meetup.com/Girl-Develop-It-San-Francisco/events/251388638/)
-
 ### [Google Developer Group SF](//meetup.com/google-developer-group-san-francisco/) - August 15th
 
 - [Progressive Web Apps 101](//meetup.com/google-developer-group-san-francisco/events/251833049/)
