@@ -2,9 +2,6 @@
 title: Colophon ⚙️
 description: Unveiling the inner workings of this website.
 banner: https://i.imgur.com/D4dPpG2.jpg
-hideBanner: true
-noComments: true
-noTimeEstimate: true
 aliases:
   - /about/colophon/
   - /colophon/

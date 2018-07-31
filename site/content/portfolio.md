@@ -2,11 +2,6 @@
 title: Portfolio 💼️
 description: My work across the interwebs.
 banner: https://i.imgur.com/DZnLjQQ.png
-hideBanner: true
-filtering: true
-portfolio: true
-noComments: true
-noTimeEstimate: true
 aliases:
   - /portfolio/
   - /project-type/books/

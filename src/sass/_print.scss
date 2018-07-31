@@ -1,0 +1,45 @@
+@media print {
+  body,
+  html,
+  :link,
+  :visited,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  code,
+  pre,
+  h1 code,
+  h2 code,
+  h3 code,
+  h4 code,
+  h5 code,
+  h6 code {
+    color: black;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  :link,
+  :visited {
+    text-decoration: underline;
+  }
+  body {
+    padding: 0;
+    margin: 0;
+    line-height: 1.25em;
+  }
+  .content-footer,
+  footer,
+  nav,
+  .card,
+  .hero-body,
+  .columns,
+  .columns .is-multiline,
+  .column,
+  .return-to-top,
+  .pagination {
+    display: none;
+  }
+}

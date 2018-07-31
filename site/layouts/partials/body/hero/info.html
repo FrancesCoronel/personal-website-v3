@@ -1,0 +1,35 @@
+<!-- Content Info -->
+{{ if or (.Description) (not .PublishDate.IsZero) (.Params.lastPresented) (not .Params.noTimeEstimate) (.Params.link) }}
+<div class="content-info">
+  <!-- Description -->
+  {{ if .Description }}
+  <p>
+    ℹ {{ .Description }}
+  </p>
+  {{ end }}
+  <!-- Date -->
+  {{- if not .PublishDate.IsZero }}
+  <p>
+    📅️ Published {{ dateFormat "Monday - January 2, 2006" .Date }}
+  </p>
+  <!-- Last Presented -->
+  {{- if .Params.lastpresented }}
+  <p>
+    📆️ Last presented {{ dateFormat "Monday - January 2, 2006" .Params.lastpresented }}
+  </p>
+  {{- end }} {{- end }}
+  <!-- Reading Time & Word Count -->
+  {{- if not .Params.noTimeEstimate }} {{ if .ReadingTime }} {{ if .WordCount }}
+  <p>
+    ⏰ {{ .ReadingTime }} min read ∙ {{ .WordCount }} words
+  </p>
+  {{ end }} {{ end }} {{- end }}
+  <!-- External Link -->
+  {{ if .Params.link }}
+  <p>
+    ↗️
+    <a href="{{ .Params.link }}" target="_blank" rel="noopener">{{ .Params.link }}</a>
+  </p>
+  {{ end }}
+</div>
+{{ end }}

@@ -2,7 +2,7 @@
 title: "Panel: Women in Open Source"
 date: 2018-06-26
 description: Shared how I get involved with open source on GitHub and how one can get start contributing themselves.
-banner: https://i.imgur.com/SkB1rKd.jpg
+banner: https://i.imgur.com/SkB1rKd.jpg?1
 categories:
   - blog
   - speaking

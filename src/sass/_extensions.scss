@@ -1,0 +1,21 @@
+%material-shadow {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+%image-shadow {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+%text-shadow {
+  text-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+}
+
+%overflow-text {
+  overflow: hidden;
+  text-align: center;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  text-transform: none;
+  white-space: nowrap;
+  display: inline-block;
+}

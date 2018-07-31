@@ -1,0 +1,50 @@
+.section {
+  padding: 1em;
+  .section-intro {
+    h1 {
+      font-size: 5em;
+    }
+    p {
+      font-size: 4em;
+    }
+  }
+  .content {
+    .section-taxonomy {
+      h3 a {
+        border-bottom: none;
+      }
+    }
+    .section-taxonomy {
+      h3 a {
+        border-bottom: none;
+      }
+    }
+  }
+  .content-footer {
+    .section {
+      padding: 1em 0;
+    }
+    .section-related,
+    .section-donate {
+      a {
+        text-decoration: none;
+        border-bottom: none;
+      }
+    }
+    .section-related {
+      h2 {
+        font-size: unset;
+        margin-bottom: unset;
+      }
+    }
+    .section-donate {
+      img {
+        height: 50px !important;
+        box-shadow: none;
+        &:hover {
+          @extend %material-shadow;
+        }
+      }
+    }
+  }
+}

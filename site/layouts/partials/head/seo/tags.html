@@ -1,0 +1,4 @@
+{{ if .Params.tags }}
+  <meta itemprop="keywords" content="{{ delimit .Params.tags ", " }}">
+  <meta name="DC.subject" content="{{ delimit .Params.tags ", " }}">
+{{ end }}

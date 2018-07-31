@@ -1,0 +1,30 @@
+.is-primary {
+  background-color: $primary !important;
+}
+
+.is-danger {
+  background-color: $is-danger !important;
+}
+
+.box {
+  border-radius: 0;
+  box-shadow: none;
+  border: 1px solid rgba(0, 0, 0, .1) !important;
+}
+
+.media-cn .menu-label {
+  color: $primary;
+  font-size: inherit;
+  font-weight: 600;
+}
+
+.media-content {
+  padding: 1em;
+}
+
+.container {
+  padding: 0 .5em;
+  @media screen and (min-width: 1024px) {
+    width: 75%;
+  }
+}

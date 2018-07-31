@@ -1,6 +1,8 @@
 import autoprefixer from "autoprefixer";
 import BrowserSync from "browser-sync";
-import {spawn} from "child_process";
+import {
+  spawn
+} from "child_process";
 import cssnano from "cssnano";
 import del from "del";
 import log from "fancy-log";
@@ -25,7 +27,10 @@ import webpackConfig from "./webpack.config";
 const browserSync = BrowserSync.create();
 
 // Hugo arguments
-const hugoArgsDefault = ["-d", "../dist", "-s", "site", "-v"];
+const hugoArgsDefault = ["-d", "../dist", "-s", "site"];
+
+// Verbose Hugo Log
+// const hugoArgsVerbose = ["-d", "../dist", "-s", "site", "-v"];
 
 // Development tasks
 gulp.task("hugo", (cb) => buildSite(cb));
@@ -45,7 +50,7 @@ gulp.task("minify", () =>
       minifyCSS: true,
       minifyJS: true,
       removeComments: true,
-      useShortDoctype: true
+      useShortDoctype: true,
     })
   )
   .pipe(
@@ -53,12 +58,12 @@ gulp.task("minify", () =>
       skipLarger: true,
       mode: 0,
       quality: 11,
-      lgblock: 0
+      lgblock: 0,
     })
   )
   .pipe(
     gzip({
-      skipGrowingFiles: true
+      skipGrowingFiles: true,
     })
   )
   .pipe(gulp.dest("./dist"))
@@ -67,10 +72,10 @@ gulp.task("minify", () =>
 // Compress SASS
 gulp.task("sass", () =>
   gulp
-  .src("./src/sass/main.scss")
+  .src("./src/sass/styles.scss")
   .pipe(
     sass({
-      outputStyle: "compressed"
+      outputStyle: "compressed",
     }).on("error", sass.logError)
   )
   .pipe(postcss([autoprefixer(), cssnano(), csso()]))
@@ -90,8 +95,8 @@ gulp.task("img", () =>
 // Copy static files
 gulp.task("static", () =>
   gulp
-  .src("./src/static/**/*")
-  .pipe(gulp.dest("./dist/assets"))
+  .src("./static/**/*")
+  .pipe(gulp.dest("./dist"))
   .pipe(browserSync.stream())
 );
 
@@ -109,7 +114,7 @@ gulp.task("js", () => {
       "[webpack]",
       stats.toString({
         colors: true,
-        progress: true
+        progress: true,
       })
     );
     browserSync.reload();
@@ -120,8 +125,8 @@ gulp.task("js", () => {
 gulp.task("server", ["hugo", "sass", "js", "img", "static"], () => {
   browserSync.init({
     server: {
-      baseDir: "./dist"
-    }
+      baseDir: "./dist",
+    },
   });
   watch("./src/sass/**/*.scss", () => {
     gulp.start(["sass"]);
@@ -132,10 +137,10 @@ gulp.task("server", ["hugo", "sass", "js", "img", "static"], () => {
   watch("./src/img/**/*", () => {
     gulp.start(["img"]);
   });
-  watch("./src/assets/**/*", () => {
+  watch("./static/**/*", () => {
     gulp.start(["static"]);
   });
-  watch("./site/**/*", () => {
+  watch(["./site/layouts/**/*", "./site/content/**/*", "./site/data/**/*", "./site/config.toml"], () => {
     gulp.start(["hugo"]);
   });
 });
@@ -145,7 +150,7 @@ function buildSite(cb, options, environment = "development") {
   const args = options ? hugoArgsDefault.concat(options) : hugoArgsDefault;
   process.env.NODE_ENV = environment;
   return spawn(hugoBin, args, {
-    stdio: "inherit"
+    stdio: "inherit",
   }).on("close", (code) => {
     if (code === 0) {
       browserSync.reload();

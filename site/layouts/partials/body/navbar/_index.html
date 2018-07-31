@@ -1,0 +1,69 @@
+<nav class="navbar has-shadow">
+  <div class="navbar-brand">
+    {{ if .Site.Params.logo }}
+    <a class="navbar-item" href="/">
+      <img src="{{ .Site.Params.logo }}" height="128" alt="{{ .Title }}">
+    </a>
+    {{ end }}
+    <!-- Left Icons -->
+    <!-- Show only on mobile -->
+    {{- range .Site.Menus.mobile }}
+    <a class="navbar-item is-hidden-desktop fa-{{ .Identifier }}" href="{{ .URL }}" {{ if .Name }}aria-label="{{ .Name }}" {{ end }} {{ if hasPrefix .URL "https://" }} target="_blank" rel="noopener" {{ end }}>
+      {{ if .Identifier }} {{ $identifier := .Identifier }} {{ partial (printf "body/icons/%s.html" $identifier) }} {{ else }} {{ .Name }} {{ end }}
+    </a>
+    {{- end }}
+    <!-- Hamburger Menu -->
+    <div id="navbarBurger" class="navbar-burger burger" data-target="navMenuDocumentation">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+  <div id="navMenuDocumentation" class="navbar-menu">
+    <div class="navbar-start">
+      <!-- Left Navbar Items -->
+      {{- range .Site.Menus.left }}
+      <a class="navbar-item" href="{{ .URL }}">
+        {{ .Name }}
+      </a>
+      {{- end }}
+      <!-- Activate for Dropdown Menu -->
+      <!-- <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          <i class="fas fa-info-circle" alt="More Options" title="More Options"></i>
+          &nbsp;&nbsp; More
+        </a>
+        <div class="navbar-dropdown">
+          <a class="navbar-item " href="https://bulma.io//bulma-start">
+            <span>
+              <span class="icon has-text-success">
+                <i class="fas fa-rocket"></i>
+              </span>
+              <strong>Bulma start</strong>
+              <br> A tiny npm package to get started
+            </span>
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item " href="https://bulma.io//made-with-bulma">
+            <span>
+              <span class="icon has-text-primary">
+                <i class="fas fa-certificate"></i>
+              </span>
+              <strong>Made with Bulma</strong>
+              <br> The official community badge
+            </span>
+          </a>
+        </div>
+      </div> -->
+    </div>
+    <div class="navbar-end">
+      <!-- Right Navbar Items (Icons) -->
+      <!-- Hidden on Mobile -->
+      {{- if .Site.Menus.right }} {{ range .Site.Menus.right }} {{ $identifier := .Identifier }}
+      <a class="navbar-item is-hidden-mobile fa-{{ .Identifier }}" href="{{ .URL }}" {{ if .Name }}aria-label="{{ .Name }}" {{ end }} {{ if hasPrefix .URL "https://" }} target="_blank" rel="noopener" {{ end }}>
+        {{ if .Identifier }} {{ partial (printf "body/icons/%s.html" $identifier) }} {{ else }} {{ .Name }} {{ end }}
+      </a>
+      {{ end }} {{- end }}
+    </div>
+  </div>
+</nav>

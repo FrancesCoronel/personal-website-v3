@@ -7,58 +7,54 @@ const WorkboxPlugin = require("workbox-webpack-plugin");
 const BrotliPlugin = require("brotli-webpack-plugin");
 // GZip
 const CompressionPlugin = require("compression-webpack-plugin");
-// UglifyJS
-const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
 
 module.exports = {
-  mode: "production",
   module: {
     rules: [{
       test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/,
-      loader: "url-loader",
+      loader: "url-loader"
     },
     {
       test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-c9])?$/,
-      loader: "url-loader",
+      loader: "url-loader"
     },
     {
       test: /\.js?$/,
       loader: "babel-loader",
       exclude: /node_modules/,
       query: {
-          cacheDirectory: true,
-        },
+          cacheDirectory: true
+        }
     },
     {
       test: /\.css$/,
-      use: ["style-loader", "css-loader"],
+      use: ["style-loader", "css-loader"]
     },
     {
       test: /\.(gif|png|jpe?g|svg)$/i,
       use: [
           "file-loader",
           {
-            loader: "image-webpack-loader",
-          },
-        ],
-    },
-    ],
+            loader: "image-webpack-loader"
+          }
+        ]
+    }
+    ]
   },
   plugins: [
     new webpack.optimize.ModuleConcatenationPlugin(),
     new webpack.ProvidePlugin({
-      fetch: "imports-loader?this=>global!exports?global.fetch!whatwg-fetch",
+      fetch: "imports-loader?this=>global!exports?global.fetch!whatwg-fetch"
     }),
     new webpack.optimize.AggressiveMergingPlugin(),
     new BrotliPlugin(),
     new CompressionPlugin(),
     new WorkboxPlugin({
-      cacheId: "fvcproductions",
-      globDirectory: "dist",
-      globPatterns: ["index.html", "404.html", "**/*.{html,css,png,gif,jpg,svg,xml,js,ico,json}"],
-      globStrict: false,
+      cacheId: "hugoma",
       swDest: path.join("dist", "sw.js"),
-      maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
+      globDirectory: "dist",
+      globPatterns: ["index.html", "404.html", "**/*.{css,png,gif,jpg,svg,xml,js,ico,json}"],
+      globStrict: false,
       clientsClaim: true,
       skipWaiting: true,
       runtimeCaching: [{
@@ -66,58 +62,27 @@ module.exports = {
         handler: "networkFirst",
       },
       {
-        urlPattern: /\.(?:css|png|gif|jpg|svg|xml|js|ico|jso)$/,
-        handler: "staleWhileRevalidate",
-      },
-      {
-        urlPattern: new RegExp("https://cdn.embedly.com"),
-        handler: "staleWhileRevalidate",
-      },
-      {
-        urlPattern: new RegExp("https://fvcproductions.disqus.com"),
-        handler: "staleWhileRevalidate",
-      },
-      {
-        urlPattern: new RegExp("https://cdn.onesignal.com"),
-        handler: "staleWhileRevalidate",
-      },
-      {
-        urlPattern: new RegExp("https://imgur.com"),
+        urlPattern: /\.(?:css|png|gif|jpg|svg|xml|js|ico|json)$/,
         handler: "staleWhileRevalidate",
       },
       {
         urlPattern: new RegExp("https://google-analytics.com"),
-        handler: "staleWhileRevalidate",
+        handler: "staleWhileRevalidate"
       },
       {
-        urlPattern: new RegExp("https://twitter.github.io"),
-        handler: "networkFirst",
-      },
-      ],
-    }),
+        urlPattern: new RegExp("https://twemoji.maxcdn.com"),
+        handler: "staleWhileRevalidate"
+      }
+      ]
+    })
   ],
-  optimization: {
-    minimizer: [
-      new UglifyJsPlugin({
-        uglifyOptions: {
-          compress: true,
-          ecma: 6,
-          output: {
-            comments: false,
-          },
-          sourceMap: false,
-        },
-      }),
-    ],
-  },
   context: path.join(__dirname, "src"),
   entry: {
-    app: ["./js/app"],
-    filter: ["./js/components/filter.js"],
+    app: ["./js/app"]
   },
   output: {
-    filename: "[name].js",
     path: path.join(__dirname, "dist/assets/js"),
     publicPath: "/dist/assets/js/",
-  },
+    filename: "[name].js"
+  }
 };

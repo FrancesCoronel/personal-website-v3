@@ -1,0 +1,29 @@
+<!-- Topics -->
+<h2>🗨️ {{ len (($.Site.Taxonomies.categories.talk).Pages) }} Talks</h2>
+<div class="columns is-multiline">
+  {{ $talks := ($.Site.Taxonomies.categories.talk).Pages }} {{ range $talks.ByDate.Reverse }}
+  <div class="column is-one-third">
+    {{ partial "body/content/card/_index.html" . }}
+  </div>
+  {{ end }}
+</div>
+<!-- Upcoming Events -->
+<!-- {{ if gt (len ($.Site.Taxonomies.categories.upcoming).Pages) 0 }}
+<h2>🕒 {{ len (($.Site.Taxonomies.categories.upcoming).Pages) }} Upcoming Events</h2>
+<div class="columns is-multiline">
+  {{ range ($.Site.Taxonomies.categories.upcoming).Pages.ByDate.Reverse }}
+  <div class="column is-one-third">
+    {{ partial "body/content/card/no-image.html" . }}
+  </div>
+  {{ end }}
+</div>
+{{ end }} -->
+<!-- Past Events -->
+<h2>🕒 {{ len (($.Site.Taxonomies.categories.speaking).Pages) }} Past Events</h2>
+<div class="columns is-multiline">
+  {{ range ($.Site.Taxonomies.categories.speaking).Pages.ByDate.Reverse }}
+  <div class="column is-one-third">
+    {{ partial "body/content/card/no-image.html" . }}
+  </div>
+  {{ end }}
+</div>

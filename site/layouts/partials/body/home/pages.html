@@ -1,0 +1,19 @@
+<hr>
+<section class="section page">
+  <div class="container">
+    <div class="columns is-multiline">
+      <!-- Pages -->
+      {{ $pages := where .Site.RegularPages "Type" "page" }}
+      <!-- Pages & Section Pages -->
+      {{ $pages := $pages | union (.Site.Sections) }}
+      <!-- Looping -->
+      {{ range $pages.ByTitle }}
+      <!-- Filter -->
+      {{ if not (.Params.noHomePage) }}
+      <div class="column is-one-third">
+        {{ partial "body/content/card/no-image.html" . }}
+      </div>
+      {{ end }} {{ end }}
+    </div>
+  </div>
+</section>

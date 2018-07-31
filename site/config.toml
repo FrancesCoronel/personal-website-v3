@@ -1,28 +1,35 @@
 baseURL                       = "https://www.fvcproductions.com"
-title                         = "FVCproductions"
-metaDataFormat                = "yaml"
-enableEmoji                   = true
-footnoteReturnLinkContents    = "↩"
 copyright                     = "This work is licensed under MIT."
-enableRobotsTXT               = true
-# canonifyURLs                  = true
-
-# Language
-languageCode                  = "en-us"
 defaultContentLanguage        = "en"
-
-# Categories
+disqusShortname               = "fvcproductions"
+enableEmoji                   = true
+enableRobotsTXT               = true
+footnoteReturnLinkContents    = "↩"
+googleAnalytics               = "UA-63190978-3"
+languageCode                  = "en-us"
+metaDataFormat                = "yaml"
+Paginate                      = 6
+PaginatePath                  = ""
 preserveTaxonomyNames         = false
-
-# Code
 pygmentsCodefences            = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsStyle                 = "manni"
-# pygmentsOptions             = "linenos=table"
+title                         = "FVCproductions"
 
-# Internal Templates
-googleAnalytics               = "UA-63190978-3"
-disqusShortname               = "fvcproductions"
+# RSS
+[outputs]
+    home                      = ["HTML", "AMP", "RSS"]
+    page                      = ["HTML", "AMP"]
+
+# Output Formats
+[outputFormats]
+    [outputFormats.RSS]
+        mediatype             = "application/rss"
+        baseName              = "feed"
+
+# Permalinks
+[permalinks]
+  adventures                  = "/:year/:month/:day/:title/"
 
 # Author
 [author]
@@ -30,50 +37,45 @@ disqusShortname               = "fvcproductions"
     copyright                 = "©️ FVCproductions"
     email                     = "hello@fvcproductions.com"
 
-# RSS
-[outputs]
-    home                      = ["HTML", "RSS"]
-    page                      = ["HTML"]
+# Taxonomy
+[taxonomies]
+    category                  = "categories"
+    tag                       = "tags"
 
-[outputFormats]
-    [outputFormats.RSS]
-        mediatype             = "application/rss"
-        baseName              = "feed"
-
-# Homepage
+# Custom Params
 [params]
-    headline                  = "Hey there, I'm Frances! 👋🏽️"
-    description               = "I like to dabble with things that ought to be dabbled with."
+    contributions             = true
     copyright                 = "FVCproductions"
-    year                      = 2013
-    og_image                  = "https://www.fvcproductions.com/assets/img/teaser.png"
+    description               = "I like to dabble with things that ought to be dabbled with."
+    github                    = "fvcproductions/hugoma-theme"
+    headline                  = "Hey there, I'm Frances! 👋🏽️"
     logo                      = "https://www.fvcproductions.com/assets/img/logo.png"
-
-# Permalinks
-[permalinks]
-  adventures                  = "/:year/:month/:day/:title/"
+    og_image                  = "https://www.fvcproductions.com/assets/img/teaser.png"
+    one_signal_id             = "e64fce8d-6d54-4434-8b76-3fde80e6bdf1"
+    search_url                = "https://www.fvcproductions.com/search/#gsc.tab=0&gsc.q={search_term_string}"
+    year                      = 2013
 
 # Social Links
 [social]
-    # amazon                  = "AGCK4BOZOTAMEA4HTNM2DF7AL4RA"
+    amazon                    = "AGCK4BOZOTAMEA4HTNM2DF7AL4RA"
     angellist                 = "fvcproductions"
-    # behance                 = "fvcproductions"
+    behance                   = "fvcproductions"
     calendly                  = "fvcproductions"
-    # codepen                 = "fvcproductions"
-    # deviantart              = "fvcproductions"
-    # dribbble                = "fvcproductions"
+    codepen                   = "fvcproductions"
+    deviantart                = "fvcproductions"
+    dribbble                  = "fvcproductions"
     email                     = "hello@fvcproductions.com"
-    # etsy                    = "fvcproductions"
-    # facebook                = "fvcproductions"
-    # freecodecamp            = "fvcproductions"
+    etsy                      = "fvcproductions"
+    facebook                  = "frances.v.coronel"
+    freecodecamp              = "fvcproductions"
     github                    = "fvcproductions"
-    # gitlab                  = "fvcproductions"
+    gitlab                    = "fvcproductions"
     goodreads                 = "fvcproductions"
-    # googleplus              = "fvcproductions2013"
-    # hackernews              = "fvcproductions"
-    # houzz                   = "fvcproductions"
-    # instagram               = "fvcproductions"
+    google_plus               = "+fvcproductions2013"
+    hackernews                = "fvcproductions"
+    houzz                     = "fvcproductions"
     imgur                     = "fvcproductions"
+    instagram                 = "fvcproductions"
     linkedin                  = "fvcproductions"
     medium                    = "@fvcproductions"
     meetup                    = "182920007"
@@ -83,19 +85,15 @@ disqusShortname               = "fvcproductions"
     reddit                    = "fvcproductions"
     scribd                    = "194063411/FVCproductions"
     slideshare                = "fvcproductions"
-    # soundcloud              = "fvcproductions"
-    # spotify                 = "fvcproductions"
+    soundcloud                = "fvcproductions"
+    spotify                   = "fvcproductions"
     stackexchange             = "3595658/fvcproductions"
-    # stackoverflow           = "3000467/fvcproductions"
-    # steam                   = "fvcproductions"
-    # trello                  = "fvcproductions"
-    # tumblr                  = "fvcproductions2013"
+    stackoverflow             = "3000467/fvcproductions"
+    steam                     = "fvcproductions"
+    trello                    = "fvcproductions"
+    tumblr                    = "fvcproductions2013"
     twitter                   = "fvcproductions"
-    # vimeo                   = "fvcproductions"
-    # wordpress               = "fvcproductions"
-    # yelp                    = "E6StflkoWAutmRZ31zNTug"
-    youtube                   = "fvcproductions2013"
-
-[taxonomies]
-    category                  = "categories"
-    tag                       = "tags"
+    vimeo                     = "fvcproductions"
+    wordpress                 = "fvcproductions"
+    yelp                      = "E6StflkoWAutmRZ31zNTug"
+    youtube                   = "+fvcproductions2013"

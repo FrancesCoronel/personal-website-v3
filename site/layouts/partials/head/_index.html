@@ -1,0 +1,32 @@
+<!--
+        ******** **      **   ******
+        /**///// /**     /**  **////**
+        /**      /**     /** **    //
+        /******* //**    ** /**
+        /**////   //**  **  /**
+        /**        //****   //**    **
+        /**         //**     //******
+        //           //       //////
+
+        Yo, yo, yo.... whatcha up to...
+  -->
+<title>{{ .Title }}</title>
+<!-- SEO -->
+{{ partial "head/seo/_index.html" . }}
+<!-- Favicons -->
+{{ partial "head/favicons/_index.html" . }}
+<!-- Custom CSS -->
+<link rel="stylesheet" href="/assets/css/styles.css">
+<!-- Prefetch Third Party Resources -->
+<!-- Twemoji -->
+<link rel="dns-prefetch" href="https://twemoji.maxcdn.com">
+<!-- Google Analytics -->
+<link rel="dns-prefetch" href="https://google-analytics.com">
+<!-- OneSignal -->
+<link rel="dns-prefetch" href="https://cdn.onesignal.com">
+<!-- Preconnect -->
+<link rel="preconnect" href="{{ .Site.BaseURL }}">
+<!-- Preload -->
+<link rel="preload" href="/assets/css/styles.css" as="style">
+<!-- Twemoji -->
+<script src="https://twemoji.maxcdn.com/2/twemoji.min.js?11.0"></script>

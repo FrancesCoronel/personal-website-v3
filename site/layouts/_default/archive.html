@@ -1,17 +1,14 @@
 {{ define "main" }}
-<!-- Begin Main -->
-<!-- Return to Top -->
-{{ partial "page/body/return-to-top.html" . }}
-<!-- Page -->
-<div class="page">
-  <!-- Page Header -->
-  {{ partial "page/header/index.html" . }}
-  <!-- Page Body -->
-  {{ partial "page/body/index.html" . }}
-  <!-- Range -->
-  {{ range .Site.RegularPages.GroupByDate "2006" }} {{ partial "page/body/lists/list-item.html" . }} {{ end }}
-  <!-- End Message -->
-  {{ partial "page/body/lists/end-message.html" . }}
-</div>
-<!-- End Main -->
+<section class="section">
+  <div class="container">
+    <div class="content">
+      <!-- Banner -->
+      {{ partial "body/hero/image.html" . }}
+      <!-- Range -->
+      {{ range .Site.RegularPages.GroupByDate "2006" }} {{ partial "body/content/list/_index.html" . }} {{ end }}
+      <!-- End Message -->
+      {{ partial "body/content/list/end-message.html" . }}
+    </div>
+  </div>
+</section>
 {{ end }}

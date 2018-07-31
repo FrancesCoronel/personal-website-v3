@@ -2,14 +2,19 @@
 title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
 description: ''
-# Featured image hosted on Imgur.
+# Featured image hosted on Imgur
 banner: ''
 # (Optional) Caption for banner image.
 caption: ''
 # (Optional) Link this post redirects user to.
 link: ''
-# not ready for publishing
+# Not ready for publishing
 draft: true
+# Pages
+noComments: true
+noTimeEstimate: true
+noHomePage: true
+speaking: true
 # taxonomy
 categories:
   - award

@@ -56,6 +56,9 @@ img.emoji {
   vertical-align: -0.1em;
   background: none;
   padding: 0;
+  &.fa-3x {
+    font-size: 3em;
+  }
 }
 
 .background-image {

@@ -1,0 +1,12 @@
+<div class="columns is-multiline">
+  {{ $paginator := .Paginate (where $.Site.RegularPages "Params.categories" "speaking" ) 5 }} {{ range $paginator.Pages.ByDate.Reverse }}
+  <div class="column is-one-third">
+    {{ partial "body/content/card/_index.html" . }}
+  </div>
+  {{ end }}
+
+</div>
+<!-- Pagination -->
+<section class="section">
+  {{ partial "paginator.html" . }}
+</section>

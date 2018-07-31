@@ -1,0 +1,23 @@
+.hero {
+  &.image {
+    @extend %image-shadow;
+    width: 100%;
+  }
+  .title,
+  .subtitle {
+    color: white;
+  }
+  .title {
+    font-size: 3em;
+  }
+  .subtitle {
+    font-size: 2em;
+  }
+}
+
+@media print,
+screen and (max-width: 768px) {
+  .hero.is-large .hero-body {
+    padding: 10rem 0;
+  }
+}

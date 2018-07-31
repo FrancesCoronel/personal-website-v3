@@ -1,0 +1,63 @@
+body {
+  font-size: $font-size;
+  word-wrap: break-word;
+  @media screen and (max-width: $mobile) {
+    font-size: $font-size-mobile;
+  }
+}
+
+a {
+  color: $links;
+  &.navbar-item {
+    &:hover {
+      color: $links;
+      background-color: $light-gray;
+    }
+  }
+  &.navbar-item.is-hidden-mobile.icon {
+    &:hover {
+      background-color: white;
+    }
+  }
+  &.external-link {
+    text-decoration: underline;
+    &:hover {
+      font-weight: 700;
+    }
+  }
+}
+
+iframe {
+  width: 100%;
+}
+
+form,
+label,
+textarea,
+input,
+span,
+button,
+pre code {
+  font-size: $font-size;
+}
+
+table {
+  font-size: 1em;
+  text-align: center;
+  width: 100%;
+  overflow-x: auto;
+  @media screen and (max-width: $tablet) {
+    display: block;
+  }
+}
+
+hr {
+  margin: 1rem 0;
+}
+
+button,
+input[type='button'],
+input[type='reset'],
+input[type='submit'] {
+  @extend %overflow-text;
+}

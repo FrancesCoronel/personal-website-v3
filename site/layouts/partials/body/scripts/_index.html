@@ -1,0 +1,6 @@
+<!-- Custom JS -->
+<script src="/assets/js/app.js"></script>
+<!-- OneSignal Web Push Notifications -->
+{{ if .Site.Params.one_signal_id }}{{ partial "body/scripts/onesignal.html" . }}{{ end }}
+<!-- Service Worker Registration -->
+{{ partial "body/scripts/service-worker.html" . }}

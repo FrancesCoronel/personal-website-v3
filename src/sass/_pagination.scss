@@ -1,0 +1,33 @@
+.pagination {
+  font-size: $font-size;
+  padding: 1em 0;
+  .pagination-previous,
+  .pagination-next {
+    @extend %overflow-text;
+  }
+  .pagination-link,
+  .pagination-next,
+  .pagination-previous {
+    border: 1px solid $border !important;
+    &:hover {
+      @extend %image-shadow;
+    }
+  }
+  .pagination-link[disabled],
+  .pagination-next[disabled],
+  .pagination-previous[disabled] {
+    background-color: $border;
+    border-color: $border;
+    color: $primary;
+    opacity: .5;
+  }
+  .pagination-link:focus,
+  .pagination-next:focus,
+  .pagination-previous:focus {
+    border-color: $primary;
+  }
+  .pagination-link.is-current {
+    background-color: $primary;
+    border-color: $primary;
+  }
+}

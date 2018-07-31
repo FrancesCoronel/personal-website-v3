@@ -1,0 +1,13 @@
+<!-- Categories & Tags Present -->
+{{ if and (.Params.Categories) (.Params.tags) }}
+  <!-- Categories -->
+  {{ if .Params.categories }}
+    <meta name="twitter:label1" value="Categories 📂️">
+    <meta name="twitter:data1" value="{{ delimit .Params.categories ", " }}">
+  {{ end }}
+  <!-- Twitter Labels -->
+  {{ if .Params.tags }}
+    <meta name="twitter:label2" value="Tags 📌️">
+    <meta name="twitter:data2" value="{{ delimit .Params.tags ", " }}">
+  {{ end }}
+{{ end }}

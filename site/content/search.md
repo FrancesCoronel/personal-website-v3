@@ -1,10 +1,6 @@
 ---
 title: Search 🔍️
 description: Search across my website!
-banner: https://upload.wikimedia.org/wikipedia/commons/9/96/Google_web_search.png
-hideBanner: true
-noComments: true
-noTimeEstimate: true
 aliases:
   - /search/
 ---

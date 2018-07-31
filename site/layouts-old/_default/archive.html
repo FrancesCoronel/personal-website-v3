@@ -1,0 +1,17 @@
+{{ define "main" }}
+<!-- Begin Main -->
+<!-- Return to Top -->
+{{ partial "page/body/custom/return-to-top.html" . }}
+<!-- Page -->
+<div class="page">
+  <!-- Page Header -->
+  {{ partial "page/header/index.html" . }}
+  <!-- Page Body -->
+  {{ partial "page/body/index.html" . }}
+  <!-- Range -->
+  {{ range .Site.RegularPages.GroupByDate "2006" }} {{ partial "page/body/lists/list-item.html" . }} {{ end }}
+  <!-- End Message -->
+  {{ partial "page/body/lists/end-message.html" . }}
+</div>
+<!-- End Main -->
+{{ end }}

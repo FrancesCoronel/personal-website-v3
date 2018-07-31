@@ -1,0 +1,29 @@
+<script async src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function () {
+    OneSignal.init({
+      appId: "{{ .Site.Params.one_signal_id }}",
+    });
+  });
+
+</script>
+<style>
+  #onesignal-popover-container #onesignal-popover-dialog,
+  #onesignal-popover-container #onesignal-popover-dialog .popover-button {
+    font-family: BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+  }
+
+  #onesignal-popover-container #onesignal-popover-dialog .popover-button {
+    padding: .375em 1em;
+  }
+
+  #onesignal-popover-container #onesignal-popover-dialog .popover-button.primary {
+    background: #253137 !important;
+  }
+
+  #onesignal-popover-container #onesignal-popover-dialog .popover-button.secondary {
+    color: #253137 !important;
+  }
+
+</style>

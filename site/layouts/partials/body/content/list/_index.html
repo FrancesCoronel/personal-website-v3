@@ -1,0 +1,27 @@
+<!-- Line Separator - Year -->
+<!-- Check for No Date -->
+{{ if not (eq .Key "0001") }}
+<!-- Year -->
+<h2>{{ .Key }}</h2>
+<!-- Begin - Range - Month -->
+{{ range .Pages.GroupByDate "January" }}
+<!-- Month -->
+<h3>{{ .Key }}</h3>
+<!-- List -->
+<ul>
+  <!-- Begin - Range - Pages -->
+  {{ range .Pages }}
+  <!-- List Item -->
+  <li>
+    <!-- Date -->
+    <span class="mr-1">{{ dateFormat "02" .Date }}</span>
+    <!-- Title -->
+    <a href="{{ .RelPermalink }} ">{{ .Title }}</a>
+  </li>
+  {{ end }}
+  <!-- End - Range - Pages -->
+</ul>
+{{ end }}
+<!-- End - Range - Month -->
+{{ end }}
+<!-- End - Range - Year -->

@@ -2,12 +2,6 @@
 title: Speaking 💬️
 description: Talks I've given at events.
 banner: https://i.imgur.com/vv51StT.jpg?1
-caption: "TypeScript 101 at CONNECT 2018 by Women Who Code"
-noComments: true
-speaking: true
-alphabetical: true
-filtering: true
-noTimeEstimate: true
 aliases:
   - /speaking/
   - /home/services/speaking/

@@ -2,10 +2,6 @@
 title: About 🍫️🍓️
 description: A brief intro to my world.
 banner: https://i.imgur.com/Ap1R1zy.jpg
-caption: The quintessential portrait
-alphabetical: true
-noComments: true
-noTimeEstimate: true
 aliases:
   - /home/about/
   - /about-me/
@@ -21,7 +17,7 @@ Might have something to do with human nature in general, though, so interpret it
 
 ### Blurb 📇
 
-<span class="large-emoji">👩🏽‍💻️</span>
+<span class="font-size--3x">👩🏽‍💻️</span>
 
 - Front End Engineer at Slack HQ in SF with a focus on UI design & development 🖌️🔧️
 - Latina (Peruvian-American) 🇵🇪️ who gets a lot of personal satisfaction out of inspiring underserved groups within the tech industry 😊

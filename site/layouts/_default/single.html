@@ -1,17 +1,13 @@
 {{ define "main" }}
-<!-- Begin Main -->
-<!-- Return to Top -->
-{{ partial "page/body/return-to-top.html" . }}
+<!-- Banner -->
+{{ partial "body/hero/_index.html" . }}
 <!-- Page -->
-<div class="page">
-  <!-- Page Header -->
-  {{ partial "page/header/index.html" . }}
-  <!-- Page Body -->
-  {{ partial "page/body/index.html" . }}
-  <!-- Filtering -->
-  {{ partial "filter/index.html" . }}
-  <!-- Page Footer -->
-  {{ partial "page/footer/index.html" . }}
-</div>
-<!-- End Main -->
+<section class="section">
+  <div class="container">
+    <!-- TOC -->
+    {{ partial "body/custom/toc.html" . }}
+    <!-- Content -->
+    {{ partial "body/content/_index.html" . }}
+  </div>
+</section>
 {{ end }}

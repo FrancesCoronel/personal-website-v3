@@ -1,0 +1,28 @@
+img.emoji {
+  -webkit-box-shadow: none;
+  background: 0 0;
+  border: 0;
+  box-shadow: none;
+  margin: 0 0.25em;
+  padding: 0;
+  vertical-align: -0.1em;
+  width: 1em;
+}
+
+.background-image {
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: scroll;
+  @extend %text-shadow;
+  &.overlay {
+    @extend %image-shadow;
+  }
+}
