@@ -11,7 +11,7 @@ categories:
 
 ## Name
 
-[Discover Accenture](//www.accenture.com/us-en "Accenture")
+[Discover Accenture](https://www.accenture.com/us-en "Accenture")
 
 ## Organizer
 

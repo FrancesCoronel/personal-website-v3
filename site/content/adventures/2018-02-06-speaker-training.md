@@ -14,7 +14,7 @@ tags:
 
 ## Name
 
-[Slomoff Consulting Group - 2 Day Impact Leadership Communication Program](//www.slomoffgroup.com/)
+[Slomoff Consulting Group - 2 Day Impact Leadership Communication Program](https://www.slomoffgroup.com/)
 
 ## Location
 

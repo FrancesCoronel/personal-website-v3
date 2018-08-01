@@ -13,11 +13,11 @@ tags:
 ---
 
 * Desktop Widgets
-  * [Ubersicht](//tracesof.net/uebersicht-widgets/)
+  * [Ubersicht](https://tracesof.net/uebersicht-widgets/)
 * Transparent Dock
-  * [cDock](//sourceforge.net/projects/cdock/)
+  * [cDock](https://sourceforge.net/projects/cdock/)
 * Wallpaper
-  * [Black Lab](//www.surftin.com/images/black-labrador-dog_352390.jpg)
+  * [Black Lab](https://www.surftin.com/images/black-labrador-dog_352390.jpg)
 
 ![Obsessed with Labs 3](https://i.imgur.com/GfFWEib.png)
 

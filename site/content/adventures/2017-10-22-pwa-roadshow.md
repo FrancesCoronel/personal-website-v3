@@ -10,7 +10,7 @@ categories:
 
 ## Name
 
-[Progressive Web App Roadshow San Francisco 2017](//events.withgoogle.com/progressive-web-app-roadshow-san-francisco-2017/)
+[Progressive Web App Roadshow San Francisco 2017](https://events.withgoogle.com/progressive-web-app-roadshow-san-francisco-2017/)
 
 ## Location
 
@@ -22,7 +22,7 @@ Sunday, October 22nd - 9:00 AM to 5:00 PM
 
 ## Role
 
-_Participant_ - I participated this event as part of the [Chrome Dev Summit](//developer.chrome.com/devsummit/). Registration was super limited so I'm glad I was able to attend.
+_Participant_ - I participated this event as part of the [Chrome Dev Summit](https://developer.chrome.com/devsummit/). Registration was super limited so I'm glad I was able to attend.
 
 ## About
 
@@ -36,26 +36,26 @@ Progressive Web Apps are experiences that combine the best of the web and the be
 
 #### Overview
 
-* [PWAs](//developers.google.com/web/progressive-web-apps)
-  * [Twitter Lite](//mobile.twitter.com/home)
-  * [Lancome](//lancome.com)
-  * [Lyft](//ride.lyft.com)
-* [Google's Udacity Courses](//www.udacity.com/google)
+* [PWAs](https://developers.google.com/web/progressive-web-apps)
+  * [Twitter Lite](https://mobile.twitter.com/home)
+  * [Lancome](https://lancome.com)
+  * [Lyft](https://ride.lyft.com)
+* [Google's Udacity Courses](https://www.udacity.com/google)
 
 #### Integration
 
-* [High Conversion Web Forms](//developers.google.com/web/fundamentals/design-and-ux/input/forms/#recommended_input_name_and_autocomplete_attribute_values)
-* [Payment Request API](//developers.google.com/web/fundamentals/payments/)
+* [High Conversion Web Forms](https://developers.google.com/web/fundamentals/design-and-ux/input/forms/#recommended_input_name_and_autocomplete_attribute_values)
+* [Payment Request API](https://developers.google.com/web/fundamentals/payments/)
 
 #### Reliability
 
-* [Service Workers](//developers.google.com/web/fundamentals/primers/service-workers/)
-* [Lie-fi](//www.urbandictionary.com/define.php?term=lie-fi)
-* [Workbox](//workboxjs.org/)
+* [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/)
+* [Lie-fi](https://www.urbandictionary.com/define.php?term=lie-fi)
+* [Workbox](https://workboxjs.org/)
 
 #### Engaging
 
-* [Web Push Notifications Library](//github.com/web-push-libs/web-push)
+* [Web Push Notifications Library](https://github.com/web-push-libs/web-push)
 * Web Push Notifications
   * Carnival
 * Good Notifications
@@ -102,7 +102,7 @@ Progressive Web Apps are experiences that combine the best of the web and the be
 * Man in the middle attacks
 * First get `HTTPS` then extend to `HTTP/2`
 * Certificate
-  * [Let's Encrypt](//letsencrypt.org/)
+  * [Let's Encrypt](https://letsencrypt.org/)
 * Referrer Policy
 
 ### Lighthouse
@@ -116,10 +116,10 @@ Progressive Web Apps are experiences that combine the best of the web and the be
 
 ### Codelabs
 
-* [Your First Progressive Web App](//goo.gl/ubLX3o)
-* [Debugging Service Workers](//goo.gl/QY5FFL)
-* [Adding Push Notifications](//goo.gl/Mt2n5k)
-* [Frictionless Payments with the Payment Request API](//goo.gl/SV4tgJ)
+* [Your First Progressive Web App](https://goo.gl/ubLX3o)
+* [Debugging Service Workers](https://goo.gl/QY5FFL)
+* [Adding Push Notifications](https://goo.gl/Mt2n5k)
+* [Frictionless Payments with the Payment Request API](https://goo.gl/SV4tgJ)
 
 ### Photos
 

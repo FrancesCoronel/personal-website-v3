@@ -45,7 +45,7 @@ tags:
 
 ### Make a Copy (GIF)
 
-![MakeCopy](//fvcproductions.files.wordpress.com/2015/05/makecopy.gif)
+![MakeCopy](https://fvcproductions.files.wordpress.com/2015/05/makecopy.gif)
 
 ## Keynote
 
@@ -62,9 +62,9 @@ Jeopardy template created using Keynote that can be used by anybody to create th
 
 ## External Fonts
 
-* [Gyparody](//www.1001fonts.com/gyparody-font.html) (for Jeopardy Title Slide)
-* [Exposition](//www.ffonts.net/Exposition.font) (for Last Slide)
-* [Square 721](//www.fontyukle.net/en/1,Square721) (for Prize Money Numbers)
+* [Gyparody](https://www.1001fonts.com/gyparody-font.html) (for Jeopardy Title Slide)
+* [Exposition](https://www.ffonts.net/Exposition.font) (for Last Slide)
+* [Square 721](https://www.fontyukle.net/en/1,Square721) (for Prize Money Numbers)
 
 ## Stats
 

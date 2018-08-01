@@ -29,7 +29,7 @@ Specifically, I was chosen to present my "TypeScript 101" talk.
 
 ## Women Who Code
 
-[Women Who Code (WWCode)](//www.womenwhocode.com/) is changing the face of tech, creating a more inclusive and diverse industry, and helping women to connect with professional opportunities that propel them into positions of power.
+[Women Who Code (WWCode)](https://www.womenwhocode.com/) is changing the face of tech, creating a more inclusive and diverse industry, and helping women to connect with professional opportunities that propel them into positions of power.
 
 <blockquote class="embedly-card"><h4><a href="https://connect2018.womenwhocode.com/">Welcome</a></h4><p>WOMEN WHO CODE TECH CONFERENCE FOR ENGINEERS, DEVELOPERS, DATA SCIENTISTS</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

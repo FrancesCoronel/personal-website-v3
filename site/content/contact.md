@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact 📨
 description: Getting in touch.
 banner: https://i.imgur.com/0n5zqiA.jpg
 aliases:
@@ -15,21 +15,36 @@ aliases:
 
 Just have a general question? Maybe you found a typo?
 
-Feel free to [submit a new issue](//github.com/fvcproductions/ama/issues/new) through my AMA GitHub repo.
+Feel free to [submit a new issue](https://github.com/fvcproductions/ama/issues/new) through my AMA GitHub repo.
 
 ## LinkedIn 💼️
 
-If you'd like to stay in touch professionally, don't hesistate to [connect with me on LinkedIn](//linkedin.com/in/fvcproductions).
+If you'd like to stay in touch professionally, don't hesitate to [connect with me on LinkedIn](https://linkedin.com/in/fvcproductions).
 
 ## Book a Chat 📅
 
-If you'd like to set up a phone or video chat, you can use my [Calendly](//calendly.com/fvcproductions) to book a time with me.
+If you'd like to set up a phone or video chat, you can use my [Calendly](https://calendly.com/fvcproductions) to book a time with me.
 
-### Mentoring Sessions 💛️
+### Pricing Table 💵
 
-Because of high demand, as of July 2018, I will be charging $60 per hour for mentoring or feedback sessions since I am already working part-time as a [Thinkful mentor](//www.thinkful.com/mentors/) and also have a full-time job.
+Because of high demand, as of August 2018, I have updated my pricing table for the services I offer.
 
-So before booking a mentoring session through Calendly, please make sure to [Cash](//cash.me/$fvcprdxs), [PayPal](//paypal.me/fvcproductions) or [Venmo](//venmo.com/fvcproductions) me the appropriate amount.
+| Session Type                                | Hourly Rate |
+| ------------------------------------------- | ----------- |
+| Freelance Writing                           | $25         |
+| General Mentoring                           | $30         |
+| General Technical Help (Codementor)         | $40         |
+| Freelance Design                            | $50         |
+| General App/Product/Startup Review & Advice | $60         |
+| Speaking Engagements                        | $100*       |
+| Technical Consulting                        | $120        |
+| Freelance Development                       | $150        |
+
+\*Does not include travel/accommodation costs.
+
+> So before booking a **paid session** through my [Calendly](https://calendly.com/fvcproductions)  or [Codementor](https://www.codementor.io/fvcproductions), please make sure to [Cash](https://cash.me/$fvcprdxs), [PayPal](https://paypal.me/fvcproductions) or [Venmo](https://venmo.com/fvcproductions) me the appropriate amount.
+
+#### Mentoring Sessions 💛️
 
 If you are a black female or Latina in the tech industry, you can book a mentoring session with me for free.
 
@@ -40,21 +55,36 @@ If none of the above options seemed appropriate for you, feel free to go old sch
 Please note that depending on the contact reason, it may take longer for me to get back to you.
 
 <section class="contact-form">
-<form method="POST" action="https://formspree.io/hello@fvcproductions.com">
-<div class="field half first">
-<input autocomplete="on" type="text" name="name" placeholder="Your name">
-</div>
-<div class="field half">
-<input autocomplete="on" type="email" name="email" placeholder="Your email">
-</div>
-<div class="field">
-<textarea spellcheck="true" rows="5" name="message" id="message" placeholder="Your message"></textarea>
-</div>
-<ul class="actions">
-<li>
-<input type="submit" value="Send message" class="button big">
-</li>
-</ul>
-<input type="hidden" name="_subject" value="FVCproductions - New Contact Message" />
-</form>
+  <form method="POST" action="https://formspree.io/hello@fvcproductions.com">
+    <input type="hidden" name="_subject" value="FVCproductions - New Contact Message">
+    <div class="field">
+      <label class="label">Name</label>
+      <div class="control has-icons-left">
+        <input class="input" aria-label="Name" autocomplete="on" type="text" name="name" placeholder="Frances Coronel">
+        <span class="icon is-small is-left">
+          ✒️
+        </span>
+      </div>
+    </div>
+    <div class="field">
+      <label class="label">Email</label>
+      <div class="control has-icons-left">
+        <input class="input" aria-label="Email" autocomplete="on" type="email" name="email" placeholder="hello@fvcproductions.com">
+        <span class="icon is-small is-left">
+          ✉️
+        </span>
+      </div>
+    </div>
+    <div class="field">
+      <label class="label">Message</label>
+      <div class="control">
+        <textarea class="textarea" aria-label="Message" spellcheck="true" rows="5" name="message" id="message" placeholder="I want to contact you about..."></textarea>
+      </div>
+    </div>
+    <div class="field is-grouped">
+      <div class="control">
+        <button type="submit" class="button is-primary">Send message</button>
+      </div>
+    </div>
+  </form>
 </section>

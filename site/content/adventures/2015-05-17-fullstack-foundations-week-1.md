@@ -17,19 +17,19 @@ tags:
   - prework
 ---
 
-> Fullstack Foundations is the prework course for [Fullstack Academy](//fullstackacademy.com 'Fullstack Academy').
+> Fullstack Foundations is the prework course for [Fullstack Academy](https://fullstackacademy.com 'Fullstack Academy').
 
 So.
 
-[Fullstack Academy](//fullstackacademy.com 'Fullstack Academy')‘s first ever **[Summer of Code](//www.fullstackacademy.com/summer-of-code 'Summer of Code')** program, which is described as a program that "_gives college students the opportunity to study full stack web development while on summer break_" is starting this June.
+[Fullstack Academy](https://fullstackacademy.com 'Fullstack Academy')‘s first ever **[Summer of Code](https://www.fullstackacademy.com/summer-of-code 'Summer of Code')** program, which is described as a program that "_gives college students the opportunity to study full stack web development while on summer break_" is starting this June.
 
 Specifically, Monday, June 8th 2015.
 
 Ergo, I'm actually going to be part of an inaugural class of **something**. That's never happened before, so I'm pretty darn excited.
 
-As excited as _I_ can get anyway, which to some people would not really be perceived as very excited at all. Think **[Maurice Moss](//theitcrowd.wikia.com/wiki/Maurice_Moss 'Maurice Moss')**.
+As excited as _I_ can get anyway, which to some people would not really be perceived as very excited at all. Think **[Maurice Moss](https://theitcrowd.wikia.com/wiki/Maurice_Moss 'Maurice Moss')**.
 
-![Moss](//media.tumblr.com/tumblr_lib9372zdW1qglrwm.png)
+![Moss](https://media.tumblr.com/tumblr_lib9372zdW1qglrwm.png)
 
 Basically.
 
@@ -41,7 +41,7 @@ Now that may be because my CS curriculum doesn't actually focus on web developme
 
 **I'm not saying it was ridiculously difficult either.** It was just more than I expected - I mean, there was **a lot** to do. A lot to get done. You know, the whole doge thing - _much work, such stress, must caffeine, alot study_ - blah, blah blah.
 
-![Doge](//s-media-cache-ak0.pinimg.com/736x/a1/19/9e/a1199e56544b00b716791a54bb503e16.jpg)
+![Doge](https://s-media-cache-ak0.pinimg.com/736x/a1/19/9e/a1199e56544b00b716791a54bb503e16.jpg)
 
 Mmmmhmmm... indeed...
 

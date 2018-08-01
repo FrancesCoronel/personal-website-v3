@@ -52,12 +52,12 @@ Meant for beginners, I've come up with a few basic code samples to showcase as a
     stuff
     */
 
-###### Okay, so that was **super easy**...
+#### Okay, so that was **super easy**...
 
 ### Go ahead, press the button! :D Virtually...
 
 ![Computer
-Hope](//citycleanersoftx.com/wp-content/uploads/2014/01/Easy-Button.jpg)
+Hope](https://citycleanersoftx.com/wp-content/uploads/2014/01/Easy-Button.jpg)
 
 ## So moving on...to the main method!
 
@@ -73,7 +73,7 @@ Brackets or the curly braces (what have you) that look like this `{ }` are requi
 
 Finally, for each `System.out.println("Text");` that you have there always needs to be a `;` at the end. Always! So get used to it!
 
-#### If you decide **NOT** to put the stupid `;` at the end of your output statements, you WILL get an **ERROR**.
+### If you decide **NOT** to put the stupid `;` at the end of your output statements, you WILL get an **ERROR**.
 
 Also, in case you were wondering, with most IDEs or Integrated Development Environments, there is syntax highlighting which makes it easier to understand what's going on by adding color to the types of different texts.
 

@@ -19,11 +19,11 @@ I did not end up getting the job and actually felt a much less qualified candida
 
 The work you can find below was part of my attempt to better convince the developer evangelism team that I'd be a good fit.
 
-I have since removed the PowerForm that I created but [the PowerForm looked like this](//i.imgur.com/2pYbvXr.png).
+I have since removed the PowerForm that I created but [the PowerForm looked like this](https://i.imgur.com/2pYbvXr.png).
 
 I also created a presentation for this interview on **[Demystifying Meltdown & Spectre](/2018/02/16/demystifying-meltdown--spectre/)**.
 
-More details on my unsucessful but engaging interview process [can be found on Glassdoor](//www.glassdoor.com/Interview/DocuSign-Interview-RVW19450031.htm).
+More details on my unsucessful but engaging interview process [can be found on Glassdoor](https://www.glassdoor.com/Interview/DocuSign-Interview-RVW19450031.htm).
 
 <blockquote class="embedly-card"><h4><a href="https://www.glassdoor.com/Interview/DocuSign-Developer-Evangelist-Interview-Questions-EI_IE307604.0,8_KO9,29.htm#InterviewReview_19450031">DocuSign Developer Evangelist Interview Questions</a></h4><p>Application I applied online. The process took 4+ weeks. I interviewed at DocuSign (San Francisco, CA) in February 2018. Interview Sat, Jan 27 - Applied online Tue, Jan 30 - Recruiter reaches out and an initial phone call is set up Thurs, Feb 1 - Initial call with recruiter - get positive impression of team/company Wed, Feb 7 - Call with the director of dev rel team.</p></blockquote>
 
@@ -84,7 +84,7 @@ More details on my unsucessful but engaging interview process [can be found on G
 
 ### Creating Your Own PowerForm
 
-Check out the DocuSign documentation for [how to create your first PowerForm](//support.docusign.com/guides/ndse-user-guide-using-powerforms).
+Check out the DocuSign documentation for [how to create your first PowerForm](https://support.docusign.com/guides/ndse-user-guide-using-powerforms).
 
 The code is really simple and looks like the following for this site:
 

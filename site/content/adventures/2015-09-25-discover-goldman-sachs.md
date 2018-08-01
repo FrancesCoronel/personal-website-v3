@@ -12,7 +12,7 @@ categories:
 
 ## Name
 
-[Discover Goldman Sachs](//www.goldmansachs.com/careers/why-goldman-sachs/diversity/diversity-us.html)
+[Discover Goldman Sachs](https://www.goldmansachs.com/careers/why-goldman-sachs/diversity/diversity-us.html)
 
 ## Organizer
 

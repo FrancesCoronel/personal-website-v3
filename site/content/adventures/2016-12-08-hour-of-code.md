@@ -11,15 +11,15 @@ categories:
 
 ## Name
 
-[Hour of Code](//hourofcode.com/)
+[Hour of Code](https://hourofcode.com/)
 
 ## Organizer
 
-[Code.org](//code.org)
+[Code.org](https://code.org)
 
 ## Location
 
-[urban Assembly Academy for Future Leaders](//schools.nyc.gov/SchoolPortals/05/M286/default.htm) - Harlem, NY
+[urban Assembly Academy for Future Leaders](https://schools.nyc.gov/SchoolPortals/05/M286/default.htm) - Harlem, NY
 
 ## Date
 
@@ -31,9 +31,9 @@ Mentor
 
 ## About
 
-Volunteered at the [urban Assembly Academy for Future Leaders](//schools.nyc.gov/SchoolPortals/05/M286/default.htm) in Harlem, NY through the [Hour of Code program](//hourofcode.com) & [ELiTE Education](//www.elite-education.org/csweek2016)'s CS Week of 2016.
+Volunteered at the [urban Assembly Academy for Future Leaders](https://schools.nyc.gov/SchoolPortals/05/M286/default.htm) in Harlem, NY through the [Hour of Code program](https://hourofcode.com) & [ELiTE Education](https://www.elite-education.org/csweek2016)'s CS Week of 2016.
 
-Helped out middle school students in their [CodeCombat](//codecombat.com) lessons and gave a presentation to middle school girls on why they should learn to code.
+Helped out middle school students in their [CodeCombat](https://codecombat.com) lessons and gave a presentation to middle school girls on why they should learn to code.
 
 I even received some swag from ELiTE Education in exchange! 😊
 

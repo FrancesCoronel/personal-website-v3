@@ -12,25 +12,25 @@ tags:
 
 ## Highlights
 
-* 1 of 9 finalists from 80+ applicants
-* winner for BrooklynCupcake company challenge out of 3 competitors
-* awarded a first-round interview with Goldman Sachs, a spot in a Cornerstone event, and a $5,000 scholarship
+- 1 of 9 finalists from 80+ applicants
+- winner for BrooklynCupcake company challenge out of 3 competitors
+- awarded a first-round interview with Goldman Sachs, a spot in a Cornerstone event, and a $5,000 scholarship
 
 ## Full Story
 
-I was selected as one of 3 finalists to represent [BrooklynCupcake](//brooklyncupcake.com "BrooklynCupcake") for the 10,000 Small Businesses Student Challenge through [Goldman Sachs](//www.goldmansachs.com/ "Goldman Sachs"). I was one out of 9 students presenting since there were 3 students for the three different small businesses.
+I was selected as one of 3 finalists to represent [BrooklynCupcake](https://brooklyncupcake.com 'BrooklynCupcake') for the 10,000 Small Businesses Student Challenge through [Goldman Sachs](https://www.goldmansachs.com/ 'Goldman Sachs'). I was one out of 9 students presenting since there were 3 students for the three different small businesses.
 
-This implied that I had to create a 5-minute presentation addressing the business challenge [BrooklynCupcake](//brooklyncupcake.com "BrooklynCupcake") wanted to solve.
+This implied that I had to create a 5-minute presentation addressing the business challenge [BrooklynCupcake](https://brooklyncupcake.com 'BrooklynCupcake') wanted to solve.
 
 Creating the right presentation can take a **whole lot** of time (it totally did) and I ended up getting a cold from trying to work too hard (at least that's what my mum claims). I even still had that cold when I was presenting, but I lucked out and even though I had this sketchy cold voice the day after the presentation, I managed a softer sexier cold voice the day of.
 
-Regardless, the hard work paid off and I was selected as the winner for the [BrooklynCupcake](//brooklyncupcake.com "BrooklynCupcake") category!
+Regardless, the hard work paid off and I was selected as the winner for the [BrooklynCupcake](https://brooklyncupcake.com 'BrooklynCupcake') category!
 
 This was the final submission I presented.
 
 https://www.youtube.com/watch?v=fZ1iTIHHXmE
 
-> You can view my [entry submission](https://www.youtube.com/watch?v=4a6rEjB8KH8 "Entry Submission") as well.
+> You can view my [entry submission](https://www.youtube.com/watch?v=4a6rEjB8KH8 'Entry Submission') as well.
 
 With all that being said, what stood out for me the most throughout the entire trip was how everyone got to work on `200 West Street`. The Goldman Sachs building/tower is huge so what everybody does is enter through the first floor, take an elevator to the 11th floor (the Sky Lobby) and then from there, they have several different elevators they can use to get to the other floors. There was an elevator hallway for Floors 12–14 for instance and then another for Floors 30–40 and so on and so forth.
 

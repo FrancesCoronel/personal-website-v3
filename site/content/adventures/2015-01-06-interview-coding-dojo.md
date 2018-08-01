@@ -22,11 +22,11 @@ tags:
   - web development bootcamp
 ---
 
-[![](//jlau-bucket-1.s3.amazonaws.com/uploads/topic/image/5/coding_dojo.png) Fancy.
+[![](https://jlau-bucket-1.s3.amazonaws.com/uploads/topic/image/5/coding_dojo.png) Fancy.
 
-# Interview with [Coding Dojo](//www.codingdojo.com)
+# Interview with [Coding Dojo](https://www.codingdojo.com)
 
-### with [Speros Misirlakis](//www.linkedin.com/pub/speros-misirlakis/28/743/384)
+## with [Speros Misirlakis](https://www.linkedin.com/pub/speros-misirlakis/28/743/384)
 
 > answers were paraphrased or just referenced verbatim\
 > personal comments are highlighted `like this`
@@ -62,10 +62,10 @@ I was accepted! Here's part of the email they sent me:
 
 I also have shared my **interview experience** with bootcamps such as
 
-* [Bitmaker Labs](/blog/2014/03/12/interview-bitmaker-labs/)
-* [Coding House](//fvcproductions.com/blog/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
-* [Designation](//fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
-* [Dev League](//fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'My Experience With DevLeague 💻')
-* [Fullstack Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
-* [Hack Reactor](//fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ 'Questioning Hack Reactor 🔑')
-* [Maker Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')
+- [Bitmaker Labs](/blog/2014/03/12/interview-bitmaker-labs/)
+- [Coding House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
+- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
+- [Dev League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'My Experience With DevLeague 💻')
+- [Fullstack Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
+- [Hack Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ 'Questioning Hack Reactor 🔑')
+- [Maker Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')

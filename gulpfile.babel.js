@@ -140,7 +140,7 @@ gulp.task("server", ["hugo", "sass", "js", "img", "static"], () => {
   watch("./static/**/*", () => {
     gulp.start(["static"]);
   });
-  watch(["./site/layouts/**/*", "./site/content/**/*", "./site/data/**/*", "./site/config.toml"], () => {
+  watch(["./site/**/*"], () => {
     gulp.start(["hugo"]);
   });
 });

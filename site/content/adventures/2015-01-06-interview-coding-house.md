@@ -28,11 +28,11 @@ tags:
   - tricks
 ---
 
-[![](//course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/74/s300/coding-house-logo.png)](//www.codinghouse.com)
+[![](https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/74/s300/coding-house-logo.png)](https://www.codinghouse.com)
 
-# Interview with [Coding House](//www.codinghouse.com 'Coding House')
+# Interview with [Coding House](https://www.codinghouse.com 'Coding House')
 
-### with [Nick James](//www.linkedin.com/in/hellonick) and [Samer Buna](//www.linkedin.com/in/samerbuna)
+### with [Nick James](https://www.linkedin.com/in/hellonick) and [Samer Buna](https://www.linkedin.com/in/samerbuna)
 
 > answers were paraphrased or just referenced verbatim\
 > personal comments are highlighted `like this`
@@ -64,19 +64,19 @@ Unfortunately, that's not a typing error on my part.
 
 _Logistics_
 
-* deposit should be submitted
-* standard background check is needed
-* bootcamp agreement needs to be signed
-* there is no hard date to submit the deposit since they accept people on a rolling basis but Nick recommended sooner than later
+- deposit should be submitted
+- standard background check is needed
+- bootcamp agreement needs to be signed
+- there is no hard date to submit the deposit since they accept people on a rolling basis but Nick recommended sooner than later
 
 Once all that is taken care of, they'll let you access their internal website to get started with the pre-work at home.
 
 I also have shared my **interview experience** with bootcamps such as
 
-* [Bitmaker Labs](/blog/2014/03/12/interview-bitmaker-labs/)
-* [Coding Dojo](/blog/2015/01/06/interview-coding-dojo/)
-* [Designation](//fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
-* [Dev League](//fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'Interview With DevLeague 💻')
-* [Fullstack Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
-* [Hack Reactor](//fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ 'Questioning Hack Reactor 🔑')
-* [Maker Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')
+- [Bitmaker Labs](/blog/2014/03/12/interview-bitmaker-labs/)
+- [Coding Dojo](/blog/2015/01/06/interview-coding-dojo/)
+- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
+- [Dev League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'Interview With DevLeague 💻')
+- [Fullstack Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
+- [Hack Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ 'Questioning Hack Reactor 🔑')
+- [Maker Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')

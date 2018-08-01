@@ -9,55 +9,7 @@ aliases:
 
 ## Copyright ∞ FVCproductions
 
-The URL for this website is https://www.fvcproductions.com and there are 3 different URLs that redirect to it:
-
-- fvcproductions.com
-- latinaswe.com (going to expire this)
-- latinasoftwareengineer.com
-- latinahacker.com
-- latinaprogrammer.com
-- latinatechnologist.com
-
-I'm also looking into these domains:
-
-> Best Candidates
-
-- latinatechie.com
-  - 2018-08-25
-- latinaengineer.com
-  - 2018-10-17
-- latinacoder.com
-  - 2019-05-04
-
-> Candidates
-
-- latinaintech.com
-  - 2018-09-20
-- latinosintech.com
-  - 2018-09-01
-- codingisfun.com
-  - 2018-09-18
-- ilovetocode.com
-  - 2018-12-24
-- peruvianamerican.com
-  - 2019-05-16
-- peruvian.com
-  - 2020-11-09
-- peruana.com
-  - 2020-12-02
-- icode.com
-  - 2021-10-10
-- latinagenius.com
-- latinaguru.com
-- latinageek.com
-- available
-  - latinaengineering.com
-  - latinawhocodes.com
-  - latinosoftwareengineer.com
-  - latinsoftwareengineer.com
-  - peruvianengineer.com
-
-This website was born in June of 2013 using Wordpress.com in my final month of high school.
+This website was originally born in June of 2013 using [Wordpress.com](https://wordpress.com) in my final month of high school.
 
 I bought my domain `fvcproductions.com` August 20th, 2014.
 
@@ -65,142 +17,163 @@ Website design, development, and copy writing by Frances Coronel.
 
 The software and hardware I use on a day to day basis can be found on my [What I Use](/2018/03/18/what-i-use---spring-2018/) page - last updated Spring 2018.
 
-The source code [can be found on GitHub](//github.com/fvcproductions/fvcproductions.github.io).
+The source code [can be found on GitHub](https://github.com/fvcproductions/fvcproductions.github.io).
+
+The URL for this website is https://www.fvcproductions.com and there are several URLs that also redirect to it.
+
+- https://fvcproductions.com
+- https://latinaswe.com (going to expire this)
+- https://latinasoftwareengineer.com
+- https://latinahacker.com
+- https://latinaprogrammer.com
+- https://latinatechnologist.com
 
 ---
 
 ## Credits
 
-* **CMS**
-  * [Hugo](//gohugo.io)
-* **Hosting**
-  * [Netlify](//www.netlify.com)
-* **Dependencies**
-  * [Disqus](//disqus.com/)
-  * [Embedly](//embed.ly/)
-  * [Google Analytics](//analytics.google.com)
-  * [HTML5 UP](//html5up.net)
-  * [MailChimp](//mailchi.mp/022336cef0b2/fvcproductions)
-  * [MixItUp](//www.kunkalabs.com/mixitup/)
-  * [Skel](//github.com/ajlkn/skel)
-  * [Twemoji](//github.com/twitter/twemoji)
-* **Fonts**
-  * [Roboto](//fonts.google.com/specimen/Roboto)
-  * [Roboto Mono](//fonts.google.com/specimen/Roboto+Mono)
-  * [Font Awesome 5](//fontawesome.com)
-  * [Simple Icon](https://www.flaticon.com/authors/simpleicon)
-* **Colors**
-  * <svg width="1em" height="1em"><rect width="1em" height="1em" style="fill:#253137;" /></svg> My lovely brand color of Oxford Blue with the HEX value of `#253137`
-  * [Material Colors](//material.io/guidelines/style/color.html#color-color-palette)
+- **CMS**
+  - [Hugo](https://gohugo.io)
+- **Hosting**
+  - [Netlify](https://www.netlify.com)
+- **Dependencies**
+  - [Disqus](https://disqus.com/)
+  - [Embedly](https://embed.ly/)
+  - [Google Analytics](https://analytics.google.com)
+  - [HTML5 UP](https://html5up.net)
+  - [MailChimp](https://mailchi.mp/022336cef0b2/fvcproductions)
+  - [MixItUp](https://www.kunkalabs.com/mixitup/)
+  - [Skel](https://github.com/ajlkn/skel)
+  - [Twemoji](https://github.com/twitter/twemoji)
+- **Fonts**
+  - [Roboto](https://fonts.google.com/specimen/Roboto)
+  - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
+  - [Font Awesome 5](https://fontawesome.com)
+  - [Simple Icon](https://www.flaticon.com/authors/simpleicon)
+- **Colors**
+  - <svg width="1em" height="1em"><rect width="1em" height="1em" style="fill:#253137;" /></svg> My lovely brand color of Oxford Blue with the HEX value of `#253137`
+  - [Material Colors](https://material.io/guidelines/style/color.html#color-color-palette)
 
 ---
 
-## Style Guide
+## Domain Searching
 
-### Markdown
+I'm also looking into these domains:
+
+> Best Candidates
+
+- https://latinatechie.com
+  - 2018-08-25
+- https://latinaengineer.com
+  - 2018-10-17
+- https://latinacoder.com
+  - 2019-05-04
+
+> Candidates
+
+- https://latinaintech.com
+  - 2018-09-20
+- https://latinosintech.com
+  - 2018-09-01
+- https://codingisfun.com
+  - 2018-09-18
+- https://ilovetocode.com
+  - 2018-12-24
+- https://peruvianamerican.com
+  - 2019-05-16
+- https://peruvian.com
+  - 2020-11-09
+- https://peruana.com
+  - 2020-12-02
+- https://icode.com
+  - 2021-10-10
+- https://latinagenius.com
+- https://latinaguru.com
+- https://latinageek.com
+
+> Available
+
+- https://latinaengineering.com
+- https://latinawhocodes.com
+- https://latinosoftwareengineer.com
+- https://latinsoftwareengineer.com
+- https://peruvianengineer.com
+
+---
+
+## Formatting
 
 > I like to dabble with things that ought to be dabbled with.
 
-I'm **obsessed** with emoji so I'm using [Twitter's emoji library](//github.com/twitter/twemoji) called `Twemoji` so that they look the same across all browsers. 🎉🎂🎈🎁
+I'm **_obsessed_** with emoji so I'm using [Twitter's emoji library](https://github.com/twitter/twemoji) called `Twemoji` so that they look the same across all browsers. 🎉🎂🎈🎁
 
 _This means that even IE users can see 💩._
 
-For external links, a ↗ is automatically added to the end like [//google.com](//google.com).
+For external links, a ↗ is automatically added to the end like [https://google.com](https://google.com).
 
 External links also automatically have `target='_blank'` and `rel='noopener'` added to the `a` tag.
 
-The important part to note is that I've set the ↗ up to work only with links that start with `//` so [https://google.com](https://google.com) and [http://google.com](http://google.com) will just have the `target='_blank'` and `rel='noopener'` added.
+---
 
-1.  List item one
-    1.  List item one
-        * List item one
-        * List item two
-        * List item three
-        * List item four
-    2.  List item two
-    3.  List item three
-    4.  List item four
-2.  List item two
-3.  List item three
-4.  List item four
+# First level
 
-|      Name       |       Occupation       | Age |
-| :-------------: | :--------------------: | :-: |
-|  Huey Freeman   | Intellectual Terrorist | 12  |
-|     Tintin      |        Reporter        | 15  |
-| Steven Universe |        Guardian        | 14  |
-|  Tina Belcher   |        Student         | 13  |
-| Phillip J. Fry  |      Delivery Boy      | 25  |
-|  Finn Mertens   |       Adventurer       | 16  |
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida, nulla nunc varius lectus, nec rutrum justo nibh eu lectus. Ut vulputate semper dui. Fusce erat odio, sollicitudin vel erat vel, interdum mattis neque. Subscript works as well!
 
-```md
-> I like to dabble with things that ought to be dabbled with.
+## Second level
 
-I'm **obsessed** with emoji so I'm using [Twitter's emoji library](//github.com/twitter/twemoji) called `Twemoji` so that they look the same across all browsers. 🎉🎂🎈🎁
+Curabitur accumsan turpis pharetra **augue tincidunt** blandit. Quisque condimentum maximus mi, sit amet commodo arcu rutrum id. Proin pretium urna vel cursus venenatis. Suspendisse potenti. Etiam mattis sem rhoncus lacus dapibus facilisis. Donec at dignissim dui. Ut et neque nisl.
 
-_This means that even IE users can see 💩._
+- In fermentum leo eu lectus mollis, quis dictum mi aliquet.
+- Morbi eu nulla lobortis, lobortis est in, fringilla felis.
+- Aliquam nec felis in sapien venenatis viverra fermentum nec lectus.
+- Ut non enim metus.
 
-For external links, a ↗ is automatically added to the end like [//google.com](//google.com).
+### Third level
 
-External links also automatically have `target='_blank'` and `rel='nofopener'` added to the `a` tag.
+Quisque ante lacus, malesuada ac auctor vitae, congue [non ante](https://www.youtube.com/watch?v=dQw4w9WgXcQ). Phasellus lacus ex, semper ac tortor nec, fringilla condimentum orci. Fusce eu rutrum tellus.
 
-The important part to note is that I've set the ↗ up to work only with links that start with `//` so [https://google.com](https://google.com) and [http://google.com](http://google.com) will just have the `target='_blank'` and `rel='nofopener'` added.
+1.  Donec blandit a lorem id convallis.
+2.  Cras gravida arcu at diam gravida gravida.
+3.  Integer in volutpat libero.
+4.  Donec a diam tellus.
+5.  Aenean nec tortor orci.
+6.  Quisque aliquam cursus urna, non bibendum massa viverra eget.
+7.  Vivamus maximus ultricies pulvinar.
 
-1.  List item one
-    1.  List item one
-        * List item one
-        * List item two
-        * List item three
-        * List item four
-    2.  List item two
-    3.  List item three
-    4.  List item four
-2.  List item two
-3.  List item three
-4.  List item four
+> Ut venenatis, nisl scelerisque sollicitudin fermentum, quam libero hendrerit ipsum, ut blandit est tellus sit amet turpis.
 
-|      Name       |       Occupation       | Age |
-| :-------------: | :--------------------: | :-: |
-|  Huey Freeman   | Intellectual Terrorist | 12  |
-|     Tintin      |        Reporter        | 15  |
-| Steven Universe |        Guardian        | 14  |
-|  Tina Belcher   |        Student         | 13  |
-| Phillip J. Fry  |      Delivery Boy      | 25  |
-|  Finn Mertens   |       Adventurer       | 16  |
-```
+Quisque at semper enim, eu hendrerit odio. Etiam auctor nisl et _justo sodales_ elementum. Maecenas ultrices lacus quis neque consectetur, et lobortis nisi molestie.
 
-### HTML
+Sed sagittis enim ac tortor maximus rutrum. Nulla facilisi. Donec mattis vulputate risus in luctus. Maecenas vestibulum interdum commodo.
 
-There are <sup>superscripts</sup> like in E = MC<sup>2</sup> and <sub>subscripts</sub> like with H<sub>2</sub>O.
+A technology to make HTML look better
 
-This tag should denote <ins>inserted</ins> text.
+Suspendisse egestas sapien non felis placerat elementum. Morbi tortor nisl, suscipit sed mi sit amet, mollis malesuada nulla. Nulla facilisi. Nullam ac erat ante.
 
-Let's not forget about our precious <kbd>Delete</kbd> key.
+#### Fourth level
 
-<button class="button big">Big Button</button>
-
-<button class="button">Primary Button</button>
-
-<button class="button small">Small Button</button>
-
-<button class="button">Button with Icon <i class="fas fa-download"></i></button>
-
-<button class="button fit">Fit Button</button>
+Nulla efficitur eleifend nisi, sit amet bibendum sapien fringilla ac. Mauris euismod metus a tellus laoreet, at elementum ex efficitur.
 
 ```html
-There are <sup>superscripts</sup> like in E = MC<sup>2</sup> and <sub>subscripts</sub> like with H<sub>2</sub>O.
-
-This tag should denote <ins>inserted</ins> text.
-
-Let's not forget about our precious <kbd>Delete</kbd> key.
-
-<button class="button big">Big Button</button>
-
-<button class="button">Primary Button</button>
-
-<button class="button small">Small Button</button>
-
-<button class="button">Button with Icon <i class="fas fa-download"></i></button>
-
-<button class="button fit">Fit Button</button>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello World</title>
+  </head>
+  <body>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra nec nulla vitae mollis.</p>
+  </body>
+</html>
 ```
+
+##### Fifth level
+
+Aliquam sagittis rhoncus vulputate. Cras non luctus sem, sed tincidunt ligula. Vestibulum at nunc elit. Praesent aliquet ligula mi, in luctus elit volutpat porta. Phasellus molestie diam vel nisi sodales, a eleifend augue laoreet. Sed nec eleifend justo. Nam et sollicitudin odio.
+
+![Placeholder](https://bulma.io/images/placeholders/256x256.png) ![Placeholder](https://bulma.io/images/placeholders/256x256.png)
+
+Figure 1: Some beautiful placeholders
+
+###### Sixth level
+
+Cras in nibh lacinia, venenatis nisi et, auctor urna. Donec pulvinar lacus sed diam dignissim, ut eleifend eros accumsan. Phasellus non tortor eros. Ut sed rutrum lacus. Etiam purus nunc, scelerisque quis enim vitae, malesuada ultrices turpis. Nunc vitae maximus purus, nec consectetur dui. Suspendisse euismod, elit vel rutrum commodo, ipsum tortor maximus dui, sed varius sapien odio vitae est. Etiam at cursus metus.

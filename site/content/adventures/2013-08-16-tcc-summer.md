@@ -9,7 +9,7 @@ categories:
 
 ## Institution
 
-[Tidewater Community College](//tcc.edu)
+[Tidewater Community College](https://tcc.edu)
 
 ## Location
 
@@ -31,10 +31,10 @@ Through TCC's dual enrollment program, I enrolled in 4 different courses that I 
 
 ### Courses
 
-* NAS 132 - Astronomy II
-* CSC 110 - Introduction to Computing in C++
-* PHI 101 - Introduction to Philosophy I
-* SOC 201 - Introduction to Sociology (AUDIT)
+- NAS 132 - Astronomy II
+- CSC 110 - Introduction to Computing in C++
+- PHI 101 - Introduction to Philosophy I
+- SOC 201 - Introduction to Sociology (AUDIT)
 
 ### Transcript
 

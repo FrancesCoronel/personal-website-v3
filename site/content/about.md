@@ -36,7 +36,7 @@ I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the E
 
 ### What's Happening Nowadays 📅
 
-> This a [now section](//nownownow.com/about) and if you have your own site, you should make one, too!
+> This a [now section](https://nownownow.com/about) and if you have your own site, you should make one, too!
 >
 > Last updated June 3rd
 
@@ -44,5 +44,5 @@ I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the E
 - Speaking at We RISE Tech & Beer City Code this week
 - Loving my job at Slack
 - Spoke at NationJS and [received awesome feedback](/2018/05/18/nationjs/) 🎉
-- Working on some [cool open-source stuff](//github.com/fvcproductions/hugoma)
-- Volunteered as a model for TechHire Oakland and am featured on [their new website and throughout their social media pages](//www.techhireoakland.org/) 📸
+- Working on some [cool open-source stuff](https://github.com/fvcproductions/hugoma)
+- Volunteered as a model for TechHire Oakland and am featured on [their new website and throughout their social media pages](https://www.techhireoakland.org/) 📸

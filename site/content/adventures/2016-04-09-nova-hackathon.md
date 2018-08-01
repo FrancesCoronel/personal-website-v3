@@ -12,7 +12,7 @@ categories:
 
 ## Name
 
-[InNOVAtion Hackathon](//novahackathon.org)
+[InNOVAtion Hackathon](https://novahackathon.org)
 
 ## Organizer
 
@@ -56,19 +56,19 @@ I spoke about 2 topics:
 
 ### Blog Post
 
-As a speaker at [conferences](//capwic.org/conference-details/birds-of-a-feather/), [Meetups](//www.meetup.com/NorfolkJS/events/227490794/), and most recently [hackathons](//novahackathon.org), I've had the opportunity so far to talk about topics like [JS (JavaScript) Coding Bootcamps](//speakerdeck.com/fvcproductions/hrdevfest-web-design), [Coding Bootcamps (targeted at women in tech)](//speakerdeck.com/fvcproductions/capwic-2016), and [Web Design](//speakerdeck.com/fvcproductions/hrdevfest-web-design).
+As a speaker at [conferences](https://capwic.org/conference-details/birds-of-a-feather/), [Meetups](https://www.meetup.com/NorfolkJS/events/227490794/), and most recently [hackathons](https://novahackathon.org), I've had the opportunity so far to talk about topics like [JS (JavaScript) Coding Bootcamps](https://speakerdeck.com/fvcproductions/hrdevfest-web-design), [Coding Bootcamps (targeted at women in tech)](https://speakerdeck.com/fvcproductions/capwic-2016), and [Web Design](https://speakerdeck.com/fvcproductions/hrdevfest-web-design).
 
-But earlier this month, I got the opportunity to speak at the first annual [Innovation Hackathon](//www.novahackathon.org/) located at [Northern Virginia Community College's (NOVA) brand new Regional Center for Workforce Education and Training](//www.nvcc.edu/rcwet/) (quite a mouthful).
+But earlier this month, I got the opportunity to speak at the first annual [Innovation Hackathon](https://www.novahackathon.org/) located at [Northern Virginia Community College's (NOVA) brand new Regional Center for Workforce Education and Training](https://www.nvcc.edu/rcwet/) (quite a mouthful).
 
-I found about the In[NOVA](//www.nvcc.edu/)tion hackathon through [MLH](//mlh.io) and earlier this year when I was browsing through which hackathons I could potentially attend, I noticed on their website that they were looking for speakers.
+I found about the In[NOVA](https://www.nvcc.edu/)tion hackathon through [MLH](https://mlh.io) and earlier this year when I was browsing through which hackathons I could potentially attend, I noticed on their website that they were looking for speakers.
 
-I figured, hey, why not, and after meeting up with the the main guy in charge - [Thomas](//www.linkedin.com/in/thomas-mitchell-4ab60077) (cool dude) - I originally planned on speaking about JS Coding Bootcamps and Web Design (I'd be giving two separate talks).
+I figured, hey, why not, and after meeting up with the the main guy in charge - [Thomas](https://www.linkedin.com/in/thomas-mitchell-4ab60077) (cool dude) - I originally planned on speaking about JS Coding Bootcamps and Web Design (I'd be giving two separate talks).
 
 After a while though, I thought to myself, "Wait a second, Frances! You're going to be speaking at your first hackathon! You can't just recycle an old topic like that. Plus, I doubt a lot of kids in community college really want to think about attending a JS coding bootcamp in the first place.".
 
-I decided I'd talk about something a lot more broad that could appeal to lots of tech-savvy folks, whether the [Innovation Hackathon](//www.novahackathon.org/) was their very first or they were a hackathon veteran.
+I decided I'd talk about something a lot more broad that could appeal to lots of tech-savvy folks, whether the [Innovation Hackathon](https://www.novahackathon.org/) was their very first or they were a hackathon veteran.
 
-> So naturally, my topic of choice ended up being wizardry. More specifically, the presentation was dubbed " [So You Want To A Wizard](//speakerdeck.com/fvcproductions/so-you-want-to-be-a-wizard)".
+> So naturally, my topic of choice ended up being wizardry. More specifically, the presentation was dubbed " [So You Want To A Wizard](https://speakerdeck.com/fvcproductions/so-you-want-to-be-a-wizard)".
 
 ![So You Want To A Wizard 1](https://i.imgur.com/DEwWLeQ.jpg)
 

@@ -14,11 +14,11 @@ tags:
 
 ## Name
 
-[2012 Vietnam Medical Mission](//operationsmilevietnam2012.blogspot.com/)
+[2012 Vietnam Medical Mission](https://operationsmilevietnam2012.blogspot.com/)
 
 ## Organizer
 
-[Operation Smile](//studentprograms.operationsmile.org/events/mission-training-workshop/)
+[Operation Smile](https://studentprograms.operationsmile.org/events/mission-training-workshop/)
 
 ## Location
 

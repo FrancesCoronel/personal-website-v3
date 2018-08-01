@@ -11,7 +11,7 @@ categories:
 
 ## Name
 
-[Fluent Conference](//conferences.oreilly.com/fluent/javascript-html-us/ "Fluent Conference")
+[Fluent Conference](https://conferences.oreilly.com/fluent/javascript-html-us/ "Fluent Conference")
 
 ## Organizer
 

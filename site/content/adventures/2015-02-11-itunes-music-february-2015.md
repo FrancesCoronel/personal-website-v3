@@ -14,7 +14,7 @@ Okay, I've decided to compile all the music from my iTunes library due to sheer 
 
 # Okay, I've decided to compile all the music from my iTunes library due to sheer boredom.
 
-Also, I think it'll be nice to see how much my musical preferences have changed a few years from now. And it [**will change**](//www.ted.com/talks/dan_gilbert_you_are_always_changing "Dan Gilbert").
+Also, I think it'll be nice to see how much my musical preferences have changed a few years from now. And it [**will change**](https://www.ted.com/talks/dan_gilbert_you_are_always_changing 'Dan Gilbert').
 
 As a general rule with my albums, if an artist has less than 5 songs in my library, all the songs from that artist are put into a **"Random"** album, which means they're bunched up with a whole lot of other songs that fall into a particular genre. Because of this ‘rule', I only have 30 albums but 621 songs, most albums being the ‘Random' ones.
 
@@ -46,7 +46,7 @@ I don't think I could ever get tired of `Heartbeat`.
 
 **These songs are great when in the right mood. I actually learned about Evanescence through my mom because she enjoyed listening to her back when Evanescence was just starting out. It's a solid album, regardless.**
 
-**Inception was an awesome experience and I ended up being one of those crazy people that took the plot too seriously and made up all these hypothetical scenarios about dream worlds and how I'd probably remain stuck in one too and my totem would just keep moving about, endlessly turning and turning. Mmmmhmmm..**![](//fvcproductions.files.wordpress.com/2015/02/inception.png)
+**Inception was an awesome experience and I ended up being one of those crazy people that took the plot too seriously and made up all these hypothetical scenarios about dream worlds and how I'd probably remain stuck in one too and my totem would just keep moving about, endlessly turning and turning. Mmmmhmmm..**![Inception](https://fvcproductions.files.wordpress.com/2015/02/inception.png)
 
 I used to be addicted to Zimmer's `Time`.
 
@@ -178,4 +178,4 @@ Whew. Okay, enough of this.
 
 > **Think my music is lacking a bit?**
 >
-> > Give me music suggestions [@fvcproductions](//twitter.com/fvcproductions)
+> > Give me music suggestions [@fvcproductions](https://twitter.com/fvcproductions)

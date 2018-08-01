@@ -16,9 +16,9 @@ tags:
 
 ![Meetup Dice - Winner](https://fvcproductions.files.wordpress.com/2016/01/meetupdice-winner.png)
 
-So for my [Norfolk.js Meetup group](//meetup.com/NorfolkJS), they like to give out prizes through a raffle every [Meetup](//meetup.com). The method they used was messy with a simple console application (I think). Anyway, I just wanted a better visual experience for choosing a random person to give a prize to.
+So for my [Norfolk.js Meetup group](https://meetup.com/NorfolkJS), they like to give out prizes through a raffle every [Meetup](https://meetup.com). The method they used was messy with a simple console application (I think). Anyway, I just wanted a better visual experience for choosing a random person to give a prize to.
 
-Right now, unfortunately, this web app just works for the Meetup groups I’m a part of but eventually, I’d like to be able to use the [Meetup API](//www.meetup.com/meetup_api/) to get it to work for anybody’s Meetup profile.
+Right now, unfortunately, this web app just works for the Meetup groups I’m a part of but eventually, I’d like to be able to use the [Meetup API](https://www.meetup.com/meetup_api/) to get it to work for anybody’s Meetup profile.
 
 Full credit goes to the contributors below who originally created the app. It had a pretty rough layout though so I made a lot of visual changes.
 

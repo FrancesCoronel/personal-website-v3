@@ -10,11 +10,11 @@ categories:
 
 ## Name
 
-[Affect Conf](//affectconf.com/)
+[Affect Conf](https://affectconf.com/)
 
 ## Organizer
 
-[Elea Chang](//twitter.com/elea)
+[Elea Chang](https://twitter.com/elea)
 
 ## Location
 
@@ -34,9 +34,9 @@ Attended Affect Conf as a speaker attendant volunteer and heard a lot of amazing
 
 My favorite talks were:
 
-* **Hacking Liberation Building Safe Platforms For All Genders** by [Morgen Bromwell](//twitter.com/MorgenBromell)
-* **We Read Too Creating A Central Resource For Books By POC** by [Kaya Thomas](//twitter.com/kthomas901)
-* **Voting Machines And A Road To Accidental Activism** by and [Emily Gorcenski](//twitter.com/EmilyGorcenski)
+* **Hacking Liberation Building Safe Platforms For All Genders** by [Morgen Bromwell](https://twitter.com/MorgenBromell)
+* **We Read Too Creating A Central Resource For Books By POC** by [Kaya Thomas](https://twitter.com/kthomas901)
+* **Voting Machines And A Road To Accidental Activism** by and [Emily Gorcenski](https://twitter.com/EmilyGorcenski)
 
 ![Eliot Center](https://i.imgur.com/4Nj0CQT.jpg)
 

@@ -1,11 +1,16 @@
 {{ define "main" }}
-<section class="section">
+<section class="section section-page">
   <div class="container">
     <div class="content">
       <!-- Banner -->
       {{ partial "body/hero/image.html" . }}
       <!-- Range -->
-      {{ range .Site.RegularPages.GroupByDate "2006" }} {{ partial "body/content/list/_index.html" . }} {{ end }}
+      <div class="content-body">
+        <blockquote>
+          <strong>📄️ {{ len .Site.RegularPages }} Total Pages</strong>
+        </blockquote>
+        {{ range .Site.RegularPages.GroupByDate "2006" }} {{ partial "body/content/list/_index.html" . }} {{ end }}
+      </div>
       <!-- End Message -->
       {{ partial "body/content/list/end-message.html" . }}
     </div>

@@ -29,15 +29,15 @@ tags:
 
 > Ever wonder what our interview process is like? We have recently started getting many applications from the mainland and...
 >
-> Posted by [Dev League](//www.facebook.com/Dev-League-419352214850086/) on [Friday, January 16, 2015](//www.facebook.com/permalink.php?story_fbid=702971763154795&id=419352214850086)
+> Posted by [Dev League](https://www.facebook.com/Dev-League-419352214850086/) on [Friday, January 16, 2015](https://www.facebook.com/permalink.php?story_fbid=702971763154795&id=419352214850086)
 
 \_oembed_time_c34a1a7c05f0f71be4c25c8ffb32d2ea: '1447941722' author: login: fvcproductions email: fvcproductions@gmail.com display_name: description: I applied to DevLeague, a new coding bootcamp in Hawaii! ---
 
-![DevLeague](//fvcproductions.files.wordpress.com/2015/01/devleague2.jpg) Mahalo, indeed.
+![DevLeague](https://fvcproductions.files.wordpress.com/2015/01/devleague2.jpg) Mahalo, indeed.
 
-# My Experience With [DevLeague](//www.devleague.com 'DevLeague')
+# My Experience With [DevLeague](https://www.devleague.com 'DevLeague')
 
-> with [Jason Sewell](//www.linkedin.com/in/jasonsewell 'Jason Sewell')
+> with [Jason Sewell](https://www.linkedin.com/in/jasonsewell 'Jason Sewell')
 >
 > This is where I'll go through how my admissions process was with **DevLeague**, the 1st JavaScript focused coding bootcamp in Hawaii.
 >
@@ -45,16 +45,16 @@ tags:
 >
 > That being said, I'm not releasing anything here without DevLeague's permission.
 
-I decided to apply to DevLeague since they were the first of their kind in Hawaii. I have some connection with Hawaii. I've actually never been, but I was initially going to attend [Hawaii Pacific University](//www.hpu.edu 'HPU') as a double major in Computer Science and Integrated Multimedia with a very large scholarship. Since I had enough credits from high school, I'd still be able to graduate in 4 years. I even had a party a few months before school started because I was certain at that point I was going to attend HPU. It was a win-win situation, but then out of the blue, in July, I got accepted to [Jacobs University](//www.jacobs-university.de 'Jacobs University') with a medium-sized scholarship and decided to go there for the 3-year CS program.
+I decided to apply to DevLeague since they were the first of their kind in Hawaii. I have some connection with Hawaii. I've actually never been, but I was initially going to attend [Hawaii Pacific University](https://www.hpu.edu 'HPU') as a double major in Computer Science and Integrated Multimedia with a very large scholarship. Since I had enough credits from high school, I'd still be able to graduate in 4 years. I even had a party a few months before school started because I was certain at that point I was going to attend HPU. It was a win-win situation, but then out of the blue, in July, I got accepted to [Jacobs University](https://www.jacobs-university.de 'Jacobs University') with a medium-sized scholarship and decided to go there for the 3-year CS program.
 
-> I don't regret my decision, but since then, I've always had the desire to get to know Hawaii but obviously had no chance for financial reasons. DevLeague would be a practical way to do this. I'm also considering going to [UH at Manoa](//www.ics.hawaii.edu 'UH@Manoa CS') for my grad studies in CS so there's that too.
+> I don't regret my decision, but since then, I've always had the desire to get to know Hawaii but obviously had no chance for financial reasons. DevLeague would be a practical way to do this. I'm also considering going to [UH at Manoa](https://www.ics.hawaii.edu 'UH@Manoa CS') for my grad studies in CS so there's that too.
 
 ## Part 1: The Application 📝
 
-* You fill out the virtual application for DevLeague [here](//www.devleague.com/apply 'Apply to DevLeague').
-* Like Fullstack, the application didn't involve a lot of effort, just basic background info (employment, coding abilities, cohort choice) and two small essay questions. The essay questions are right now: `Why would you like to attend DevLeague?` and `Tell us a little bit about yourself`.
-* Once you fill this out, they'll send you an email shortly afterwards where you will schedule a virtual interview through Skype with one of the co-founders, [Jason](//twitter.com/sewell_jason 'Jason - Twitter').
-* Again, the process overall was clean, efficient, and very organized. No problems here.
+- You fill out the virtual application for DevLeague [here](https://www.devleague.com/apply 'Apply to DevLeague').
+- Like Fullstack, the application didn't involve a lot of effort, just basic background info (employment, coding abilities, cohort choice) and two small essay questions. The essay questions are right now: `Why would you like to attend DevLeague?` and `Tell us a little bit about yourself`.
+- Once you fill this out, they'll send you an email shortly afterwards where you will schedule a virtual interview through Skype with one of the co-founders, [Jason](https://twitter.com/sewell_jason 'Jason - Twitter').
+- Again, the process overall was clean, efficient, and very organized. No problems here.
 
 ## Part 2: The Interview 📞
 
@@ -96,8 +96,8 @@ I decided to apply to DevLeague since they were the first of their kind in Hawai
 
 _Logistics_\
 
-* an initial deposit is required to reserve your seat in the cohort after you're accepted\
-* as the student gets closer to the session start date, payment plans are put into place
+- an initial deposit is required to reserve your seat in the cohort after you're accepted\
+- as the student gets closer to the session start date, payment plans are put into place
 
 //www.facebook.com/permalink.php?story_fbid=702971763154795&id=419352214850086
 
@@ -105,10 +105,10 @@ _Logistics_\
 
 I also have shared my **interview experience** with bootcamps such as
 
-* [Bitmaker Labs](/blog/2014/03/12/interview-bitmaker-labs/)
-* [Coding Dojo](/blog/2015/01/06/interview-coding-dojo/)
-* [Coding House](//fvcproductions.com/blog/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
-* [Designation](//fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
-* [Fullstack Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
-* [Hack Reactor](//fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ 'Questioning Hack Reactor 🔑')
-* [Maker Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')
+- [Bitmaker Labs](/blog/2014/03/12/interview-bitmaker-labs/)
+- [Coding Dojo](/blog/2015/01/06/interview-coding-dojo/)
+- [Coding House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
+- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
+- [Fullstack Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
+- [Hack Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ 'Questioning Hack Reactor 🔑')
+- [Maker Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')

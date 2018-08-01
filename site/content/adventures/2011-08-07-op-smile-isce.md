@@ -16,7 +16,7 @@ tags:
 
 ## Name
 
-[International Student Cultural Exchange](//studentprograms.operationsmile.org/events/islc/)
+[International Student Cultural Exchange](https://studentprograms.operationsmile.org/events/islc/)
 
 ## Organizer
 

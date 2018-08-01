@@ -18,7 +18,7 @@ tags:
   - pm interview
 ---
 
-As part of the interview process for [Duolingo](//duolingo.com), I created this slide deck for a product task that Duolingo could achieve by 1–4 engineers in 3–6 months.
+As part of the interview process for [Duolingo](https://duolingo.com), I created this slide deck for a product task that Duolingo could achieve by 1–4 engineers in 3–6 months.
 
 I decided to create **Duolingo Delights**. With this feature, Duolingo users can learn more about the culture around the language they’re trying to learn and not just the grammar. This objective will be achieved by inserting mini culture-related tasks throughout the user’s learning process. These culture-related tasks will be called delights.
 

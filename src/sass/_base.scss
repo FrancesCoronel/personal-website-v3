@@ -38,11 +38,10 @@ input,
 span,
 button,
 pre code {
-  font-size: $font-size;
+  font-size: $font-size !important;
 }
 
 table {
-  font-size: 1em;
   text-align: center;
   width: 100%;
   overflow-x: auto;

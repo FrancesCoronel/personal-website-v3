@@ -24,7 +24,7 @@ aliases:
 - I interned in Redwood City, CA for Accenture during the summer of 2016.
 - I graduated from an HBCU (Hampton University) in May of 2016.
 - I graduated from an Ivy League school (Cornell University) in May of 2017.
-- As of 2017, I have visited Canada and 25+ US states<sup>[1](#footnote1)</sup>.
+- As of 2017, I have visited Canada and 25+ US states.
 
 ### Central & South America
 
@@ -60,9 +60,11 @@ aliases:
 
 > In other words, by being exposed to so many different people over my lifetime, I’m aware now that I’ll probably always want to travel and explore new worlds unknown to me.
 
-## So until next time, safe travels! ✈
+**So until next time, safe travels!** ✈
 
-> <a name="footnote1"><b>1.</b></a> US States I've Visited
+---
+
+## US States I've Visited
 
 - [ ] Alabama
 - [ ] Alaska

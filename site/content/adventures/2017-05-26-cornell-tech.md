@@ -10,7 +10,7 @@ categories:
 
 ## Institution
 
-[Cornell Tech](//tech.cornell.edu)
+[Cornell Tech](https://tech.cornell.edu)
 
 ## Location
 
@@ -32,16 +32,16 @@ Cornell Tech is the technology-focused campus of Cornell University located in N
 
 ### Activities
 
-* [WiTNY](//tech.cornell.edu/impact/witny) (Women in Technology and Entrepreneurship in New York)
+* [WiTNY](https://tech.cornell.edu/impact/witny) (Women in Technology and Entrepreneurship in New York)
 
 ### Awards
 
 * May 2017 - "Good job" from David Tisch for final sprint of Startup Studio
 * Best Presentation in Grizzly Room for Sprint 3 of Product Studio
-* February 8th, 2017 - [Selected for Cornell Tech Student Panel](//tech.cornell.edu/admissions/visit-us)
+* February 8th, 2017 - [Selected for Cornell Tech Student Panel](https://tech.cornell.edu/admissions/visit-us)
   * Selected to speak as a current student for a prospective student event
   * One of two CS students selected to represent Cornell Tech in an open panel for prospective students
-* August 2016 - [James H. and Marilyn H. Simons Graduate Fellowship](//news.cornell.edu/stories/2013/02/new-graduate-fellowship-supports-cornell-tech)
+* August 2016 - [James H. and Marilyn H. Simons Graduate Fellowship](https://news.cornell.edu/stories/2013/02/new-graduate-fellowship-supports-cornell-tech)
   * merit-based scholarship covering 25% of tuition costs
 
 ### Courses
@@ -93,7 +93,7 @@ Congrats to all the grads! 🎓
 
 ![Cornell Tech - Grad Party Invite 1](https://i.imgur.com/qIJKAqf.png)
 
-Feel free to [download this Sketch file](//github.com/fvcproductions/sketch/blob/master/grad-party-invite.sketch) and tweak it to your heart's desire.
+Feel free to [download this Sketch file](https://github.com/fvcproductions/sketch/blob/master/grad-party-invite.sketch) and tweak it to your heart's desire.
 
 ### Pictures
 

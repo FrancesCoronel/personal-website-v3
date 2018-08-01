@@ -20,43 +20,43 @@ tags:
 
 ## Episode Summary
 
-On this episode, [Chris DeMars](//twitter.com/saltnburnem) and I discuss the topic of coding bootcamps. We also touch on traditional academia and the pros and cons that come along with both bootcamps and traditional schooling.
+On this episode, [Chris DeMars](https://twitter.com/saltnburnem) and I discuss the topic of coding bootcamps. We also touch on traditional academia and the pros and cons that come along with both bootcamps and traditional schooling.
 
 ## Episode Notes
 
 ### Frances Coronel on the Web
 
-* [Twitter](//twitter.com/fvcproductions)
-* [Website](//fvcproductions.com/)
-* [Apprenticeships GitHub Repo](//github.com/fvcproductions/apprenticeships)
+* [Twitter](https://twitter.com/fvcproductions)
+* [Website](https://fvcproductions.com/)
+* [Apprenticeships GitHub Repo](https://github.com/fvcproductions/apprenticeships)
 
 ### Coding Bootcamps
 
-* [Thinkful](//www.thinkful.com/)
-* [Make School](//www.makeschool.com/)
-* [Holberton](//www.holbertonschool.com/)
-* [Grand Circus](//www.grandcircus.co/)
-* [Fullstack Academy](//www.fullstackacademy.com)
-* [General Assembly](//generalassemb.ly/)
+* [Thinkful](https://www.thinkful.com/)
+* [Make School](https://www.makeschool.com/)
+* [Holberton](https://www.holbertonschool.com/)
+* [Grand Circus](https://www.grandcircus.co/)
+* [Fullstack Academy](https://www.fullstackacademy.com)
+* [General Assembly](https://generalassemb.ly/)
 
 ### Meetups
 
-* [Norfolk.js](//www.norfolkjs.org/)
+* [Norfolk.js](https://www.norfolkjs.org/)
 
 ### Apprenticeships
 
-* [United Shore](//unitedshore.com/)
-* [Detroit Labs](//www.detroitlabs.com/)
+* [United Shore](https://unitedshore.com/)
+* [Detroit Labs](https://www.detroitlabs.com/)
 
 ### Other Links
 
-* [SwitchUp](//www.switchup.org/)
-* [Course Report](//www.coursereport.com/)
-* [Council on Integrity in Results Reporting](//cirr.org/)
+* [SwitchUp](https://www.switchup.org/)
+* [Course Report](https://www.coursereport.com/)
+* [Council on Integrity in Results Reporting](https://cirr.org/)
 
 ## About the Show
 
-[Tales From The Script](//www.tftscript.com) is a podcast focused on front end web development, accessibility, performance and user experience mixed with a little bit of horror.
+[Tales From The Script](https://www.tftscript.com) is a podcast focused on front end web development, accessibility, performance and user experience mixed with a little bit of horror.
 
 ![Tales From The Script Banner](https://i.imgur.com/OodAkQ6.png)
 

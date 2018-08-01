@@ -36,7 +36,7 @@ tags:
 
 ## Employer
 
-[Fullstack Academy](//fullstackacademy.com 'Fullstack Academy')
+[Fullstack Academy](https://fullstackacademy.com 'Fullstack Academy')
 
 ## Location
 
@@ -84,7 +84,7 @@ If you or someone you know is interested in learning more about Fullstack Academ
 
 ### Mentoring
 
-Mentored [Kelaiya Parikh](//www.linkedin.com/in/kelaiya-parikh) for ~6 hours.
+Mentored [Kelaiya Parikh](https://www.linkedin.com/in/kelaiya-parikh) for ~6 hours.
 
 ### The State of Coding Bootcamps 2017
 

@@ -1,4 +1,5 @@
 baseURL                       = "https://www.fvcproductions.com"
+buildFuture                   = true
 copyright                     = "This work is licensed under MIT."
 defaultContentLanguage        = "en"
 disqusShortname               = "fvcproductions"

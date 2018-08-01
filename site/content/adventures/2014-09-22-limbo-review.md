@@ -78,13 +78,13 @@ After I finished the game, I was kinda confused, so I went ahead and did a stand
 
 You see, Oxford Dictionary tells me that in Christian theology, "_limbo_" is this place where all the unbaptized _infants_ reside. _Unbaptized infants_. I mean, geez. Who would have thought that they would have a special little place for even **those** guys?? NOT ME, BRO. NOT ME. An equally sinister second definition is "_limbo_" being defined as a state of neglect or oblivion, e.g., "_children left in an emotional limbo_". Now, someone tell me it's not even weirder that the example sentence for the second definition was that EXACT same thing I just typed: "**_children left in an emotional limbo_**". All I gotta say is... **_SKETCHHHHHH_**! Considering all the subtle horrific encounters I went through while in Limbo, either theory makes sense. The subtlety too, man
 
-* that gets to you!
+- that gets to you!
 
 ![Pyamid Head chilling with all these hanging (unbaptized?) kids](https://fc04.deviantart.net/fs71/i/2012/034/3/3/pyramid_head_in_limbo__by_z0h3-d4oj0fa.jpg)
 
 > Pyramid Head chilling with all these hanging (unbaptized?) kids...
 
-Anyhow, hoped you enjoyed this review! Be sure to check out the sweet fan artwork that feature Limbo crossovers and check out their sweet new game when it comes out called [**INSIDE**](//playdead.com/inside/) (featured below).
+Anyhow, hoped you enjoyed this review! Be sure to check out the sweet fan artwork that feature Limbo crossovers and check out their sweet new game when it comes out called [**INSIDE**](https://playdead.com/inside/) (featured below).
 
 <blockquote class="embedly-card"><h4><a href="http://www.youtube.com/watch?v=op4G1--kb-g">INSIDE Trailer E3 2014</a></h4><p>Since the release of LIMBO in 2010, Playdead has been working hard on INSIDE. For more information, visit http://playdead.com/inside</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

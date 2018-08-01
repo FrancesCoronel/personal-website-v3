@@ -17,7 +17,7 @@ tags:
 
 ## Name
 
-[Operation Smile Mission Training Workshop](//studentprograms.operationsmile.org/events/mission-training-workshop/)
+[Operation Smile Mission Training Workshop](https://studentprograms.operationsmile.org/events/mission-training-workshop/)
 
 ## Organizer
 

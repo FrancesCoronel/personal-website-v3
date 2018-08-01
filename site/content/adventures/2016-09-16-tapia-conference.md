@@ -13,7 +13,7 @@ categories:
 
 ## Name
 
-[ACM Richard Tapia Celebration of Diversity in Computing](//tapiaconference.org 'ACM Richard Tapia Celebration of Diversity in Computing')
+[ACM Richard Tapia Celebration of Diversity in Computing](https://tapiaconference.org 'ACM Richard Tapia Celebration of Diversity in Computing')
 
 ## Organizer
 
@@ -63,7 +63,7 @@ Needless to say, this year was friggin' amazing.
 
 > I'm the one in pink!
 
-<blockquote class="embedly-card"><h4><a href="//twitter.com/SonjaOttley/status/776506790724841472">Sonja Gittens Ottley on Twitter</a></h4><p>Meeting so many great students @Tapia_con, like these from our Startup breakfast co-hosted with @a16z! #Tapia2016</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/SonjaOttley/status/776506790724841472">Sonja Gittens Ottley on Twitter</a></h4><p>Meeting so many great students @Tapia_con, like these from our Startup breakfast co-hosted with @a16z! #Tapia2016</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 * award: TAPIA Conference Scholarship Recipient
@@ -89,28 +89,28 @@ Feel free to download the Sketch file from GitHub and modify it however you like
 
 ### Pictures
 
-![TAPIA 2016](//i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0717.jpg?w=233&h=1154&crop&ssl=1&zoom=2!)
+![TAPIA 2016](https://i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0717.jpg?w=233&h=1154&crop&ssl=1&zoom=2!)
 
-![TAPIA 2016](//i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0706.jpg?w=509&h=382&crop&ssl=1&zoom=2!)
+![TAPIA 2016](https://i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0706.jpg?w=509&h=382&crop&ssl=1&zoom=2!)
 
-![TAPIA 2016](//i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0704.jpg?w=479&h=359&crop&ssl=1&zoom=2!)
+![TAPIA 2016](https://i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0704.jpg?w=479&h=359&crop&ssl=1&zoom=2!)
 
-![TAPIA 2016](//i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0728.jpg?w=164&h=123&crop&ssl=1&zoom=2!)
+![TAPIA 2016](https://i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0728.jpg?w=164&h=123&crop&ssl=1&zoom=2!)
 
-![TAPIA 2016](//i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0715.jpg?w=509&h=382&crop&ssl=1&zoom=2!)
+![TAPIA 2016](https://i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0715.jpg?w=509&h=382&crop&ssl=1&zoom=2!)
 
-![TAPIA 2016](//i0.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0701.jpg?w=509&h=382&crop&ssl=1&zoom=2!)
+![TAPIA 2016](https://i0.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0701.jpg?w=509&h=382&crop&ssl=1&zoom=2!)
 
-![TAPIA 2016](//i0.wp.com/fvcproductions.files.wordpress.com/2016/09/dropbox-booth.gif?w=185&h=123&crop&ssl=1&zoom=2!)
+![TAPIA 2016](https://i0.wp.com/fvcproductions.files.wordpress.com/2016/09/dropbox-booth.gif?w=185&h=123&crop&ssl=1&zoom=2!)
 
-![TAPIA 2016](//i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0705.jpg?w=165&h=123&crop&ssl=1&zoom=2!)
+![TAPIA 2016](https://i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0705.jpg?w=165&h=123&crop&ssl=1&zoom=2!)
 
-![TAPIA 2016](//i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0723.jpg?w=220&h=123&crop&ssl=1&zoom=2!)
+![TAPIA 2016](https://i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0723.jpg?w=220&h=123&crop&ssl=1&zoom=2!)
 
-![TAPIA 2016](//i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0714.jpg?w=263&h=158&crop&ssl=1!)
+![TAPIA 2016](https://i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0714.jpg?w=263&h=158&crop&ssl=1!)
 
-![TAPIA 2016](//i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg!)
+![TAPIA 2016](https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg!)
 
-![TAPIA 2016](//i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0710.jpg?w=246&h=185&crop&ssl=1&zoom=2!)
+![TAPIA 2016](https://i1.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0710.jpg?w=246&h=185&crop&ssl=1&zoom=2!)
 
-![TAPIA 2016](//i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0707.jpg?w=246&h=185&crop&ssl=1&zoom=2)
+![TAPIA 2016](https://i2.wp.com/fvcproductions.files.wordpress.com/2016/09/img_0707.jpg?w=246&h=185&crop&ssl=1&zoom=2)

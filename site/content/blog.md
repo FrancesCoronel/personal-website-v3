@@ -2,6 +2,7 @@
 title: Blog 📝️
 description: Writings and musings.
 banner: https://i.imgur.com/85KFCCP.jpg
+blog: true
 aliases:
   - /blog/
   - /blog/archive/

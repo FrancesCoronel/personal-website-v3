@@ -15,7 +15,7 @@ categories:
 
 # Name
 
-[Hoya Hacks](//hoyahacks.com)
+[Hoya Hacks](https://hoyahacks.com)
 
 ## Organizer
 

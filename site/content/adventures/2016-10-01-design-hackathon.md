@@ -15,7 +15,7 @@ categories:
 
 ## Name
 
-[DesignHackathon](//mysocialcanvas.com/designhackathon)
+[DesignHackathon](https://mysocialcanvas.com/designhackathon)
 
 ## Organizer
 

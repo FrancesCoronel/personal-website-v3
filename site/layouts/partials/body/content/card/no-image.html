@@ -3,25 +3,24 @@
     <div class="media-content">
       <div class="content">
         <!-- Title -->
-        <h4>{{ .Title }}</h4>
+        <h4>{{ .Title }}{{ if .Params.link }} ↗️{{ end }}</h4>
         <!-- Description -->
         <p class="has-text-grey-dark">{{ if .Description }}{{ .Description | truncate 100 | safeHTML }}{{ else }}{{ .Summary | truncate 100 | safeHTML }}{{ end }}</p>
         <!-- Date -->
         {{ if not .PublishDate.IsZero }}
         <p class="subtitle has-text-weight-light is-size-6 mt-1">
           <time datetime="{{ dateFormat " 2006-01-02 " .Date }}">
-            {{ dateFormat "January 2, 2006" .Date }}
+            {{ dateFormat "Monday - January 2, 2006" .Date }}
           </time> ∙ {{ .ReadingTime }} min read
         </p>
         {{ end }}
       </div>
-
       <!-- Tags -->
-      {{ if .Params.tags }}
+      <!-- {{ if .Params.tags }}
       <div class="mt-1">
         {{ partial "body/content/taxonomy/tags/tags.html" . }}
       </div>
-      {{ end }}
+      {{ end }} -->
     </div>
   </div>
 </a>

@@ -14,7 +14,7 @@ tags:
   - stevonnie
 ---
 
-> Unless otherwise noted, all images are attributed to the [Steven Universe Wikia page](//steven-universe.wikia.com/wiki/Steven_Universe_Wiki).
+> Unless otherwise noted, all images are attributed to the [Steven Universe Wikia page](https://steven-universe.wikia.com/wiki/Steven_Universe_Wiki).
 
 I'm quite a big fan of Steven Universe and the writers have definitely helped me feel as though Steven & Connie have this beautiful and innocent relationship that I get quite envious of.
 

@@ -23,7 +23,7 @@ categories:
 
 So maybe you got tired of Yosemite's icons. That's cool.
 
-Even without apps like the once legendary [`CandyBar`](//www.panic.com/blog/candybar-mountain-lion-and-beyond/ 'CandyBar') or [`LiteIcon`](//www.freemacsoft.net/liteicon/ 'LiteIcon'), you can still change all your icons. No more dependencies!
+Even without apps like the once legendary [`CandyBar`](https://www.panic.com/blog/candybar-mountain-lion-and-beyond/ 'CandyBar') or [`LiteIcon`](https://www.freemacsoft.net/liteicon/ 'LiteIcon'), you can still change all your icons. No more dependencies!
 
 I got tired of Yosemite's icons and decided to take some initiative without the usual dependency on an app. It took about 2 days for me to perfect this strategy and now it's time to make your process a lot easier than mine.
 
@@ -35,25 +35,25 @@ I got tired of Yosemite's icons and decided to take some initiative without the 
 
 # Step 1 - Get Your Icons
 
-[DeviantArt](//www.deviantart.com 'DeviantArt') is my go-to place for icons sets, but you can also try [IconArchive](//www.iconarchive.com/ 'IconArchive') for a broader range of options.
+[DeviantArt](https://www.deviantart.com 'DeviantArt') is my go-to place for icons sets, but you can also try [IconArchive](https://www.iconarchive.com/ 'IconArchive') for a broader range of options.
 
 If you like the app icons I show in these pictures, then you're welcome to download them from my Dropbox.
 
 [![Bubble Icons - Default
-Apps](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-32-49.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-32-49.png)[![Bubble
+Apps](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-32-49.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-32-49.png)[![Bubble
 Icons -
-Utility](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-47-53.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-47-53.png)
+Utility](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-47-53.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-27-11-47-53.png)
 
-### [Here is a `ZIP` file of the icons and commands used in this tutorial.](//github.com/fvcproductions/customize-icons 'Icons')
+### [Here is a `ZIP` file of the icons and commands used in this tutorial.](https://github.com/fvcproductions/customize-icons 'Icons')
 
 _A special thanks to these guys for the amazing circular icons that I use in this how-to._
 
-* [Sebastian de With](//dewith.com/ 'deWith')
-* [All the contributors to `Yoios` on GitHub](//github.com/mmarfil/yoios 'Yoios')
+* [Sebastian de With](https://dewith.com/ 'deWith')
+* [All the contributors to `Yoios` on GitHub](https://github.com/mmarfil/yoios 'Yoios')
 
 # Step 2 - Get The Command
 
-I include this command file in the [`ZIP` file](//github.com/fvcproductions/customize-icons 'Icons') mentioned in **Step 1**, but for reference, here is the code for the `ChangeIcons.command`.
+I include this command file in the [`ZIP` file](https://github.com/fvcproductions/customize-icons 'Icons') mentioned in **Step 1**, but for reference, here is the code for the `ChangeIcons.command`.
 
 ````
 \#!/usr/bin/env ruby
@@ -95,12 +95,12 @@ that is named `icon-data.json` and a `UNIX Executable File` called
 `setfileicon`.
 
 [![All The Icons Folder Screenshot -
-1](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-10-54.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-10-54.png)[![All
+1](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-10-54.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-10-54.png)[![All
 The Icons Screenshot -
-2](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-18.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-18.png)
+2](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-18.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-18.png)
 
 These files are both included in a folder called `set_icon` in the
-[`ZIP` file](//github.com/fvcproductions/customize-icons "Icons")
+[`ZIP` file](https://github.com/fvcproductions/customize-icons "Icons")
 provided in **Step 1**.
 
 The `icon-data.json` file looks something like this:
@@ -119,7 +119,7 @@ Edit this `icon-data.json` file to include your own apps or create it yourself u
 Here is how the `JSON` file for the Utilities looks like.
 
 [![JSON
-file](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-49-06.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-49-06.png)
+file](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-49-06.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-49-06.png)
 
 It is `case-sensitive`, so make sure to type everything correctly to suit what the app is called and what you named the corresponding `icns` file.
 
@@ -132,20 +132,20 @@ Now, using `Terminal`, type in the following: `defaults write com.apple.finder A
 After that, type in `killall Finder` into Terminal for the command to restart the Finder and have the hidden files be revealed in your Finder.
 
 [![Show Hidden Files Command in
-Terminal](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-21-37.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-21-37.png)
+Terminal](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-21-37.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-21-37.png)
 
-Now that you have your Finder revealing all the hidden files - in the folder where you have all your icons properly named, copy and paste the folder `set_icons` from the [`ZIP` file](//github.com/fvcproductions/customize-icons 'Icons') mentioned in **Step 1**, and rename it to `.set_icons`. Adding a period in front of the folder name makes it hidden and you will therefore not be able to see it anymore.
+Now that you have your Finder revealing all the hidden files - in the folder where you have all your icons properly named, copy and paste the folder `set_icons` from the [`ZIP` file](https://github.com/fvcproductions/customize-icons 'Icons') mentioned in **Step 1**, and rename it to `.set_icons`. Adding a period in front of the folder name makes it hidden and you will therefore not be able to see it anymore.
 
-It looks exactly like the `.set_icons` folder already included within the folder called `Utilities` that can be found in the [`ZIP` file](//github.com/fvcproductions/customize-icons 'Icons').
+It looks exactly like the `.set_icons` folder already included within the folder called `Utilities` that can be found in the [`ZIP` file](https://github.com/fvcproductions/customize-icons 'Icons').
 
 [![Utility
-Sub-Folder](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-42.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-42.png)
+Sub-Folder](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-42.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-23-11-42.png)
 
 So if you want to change your Utility icons as well, the `.set_icons` folder located in the sub-folder `Utilities` already has the `json` file with all the necessary modifications.
 
 > The only difference between the `ChangeIcons.command` within the `All The Icons` folder and the `ChangeUtilityIcons.command located within the`Utilities folder`is that on Line 36, the app path is listed as`app_path = "/Applications/Utilities/\#{key}"\`.
 
-_A special thanks to [James Moore](//twitter.com/foozmeat 'James Moore'), who created the `ChangeIcons.command` to replace all the icons and Damien Bobillot who created the `setfileicon` UNIX Executable File._
+_A special thanks to [James Moore](https://twitter.com/foozmeat 'James Moore'), who created the `ChangeIcons.command` to replace all the icons and Damien Bobillot who created the `setfileicon` UNIX Executable File._
 
 # Step 3 - Execute Command
 
@@ -155,7 +155,7 @@ Now you probably have something like the following:
 
 * a folder called `All The Icons` with
   * all the icons you want to replace your old ones (in `icns` format)
-  * the `ChangeIcons.command` that was included in this [`ZIP` file](//github.com/fvcproductions/customize-icons 'Icons')
+  * the `ChangeIcons.command` that was included in this [`ZIP` file](https://github.com/fvcproductions/customize-icons 'Icons')
   * a _hidden_ sub-folder called `.set_icons` with
     * a modified `icon-data.json` file to include your own personal apps
     * the `setfileicon` UNIX executable file
@@ -165,7 +165,7 @@ At this point, if you've done everything right, you can "hide" your hidden files
 Now go ahead and click the `ChangeIcons.command` to change all your icons simultaneously.
 
 [![ChangeIcons.command in
-Terminal](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-01-44.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-01-44.png)
+Terminal](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-01-44.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-01-44.png)
 
 You will be prompted to enter your password and _walla_ you have all your snazzy new icons in place in seconds!
 
@@ -179,8 +179,8 @@ You will be prompted to enter your password and _walla_ you have all your snazzy
 * An app is locked and, therefore, the icon cannot be changed. To unlock an app, go to the app, right click, `Get Info`. Uncheck the `Locked` button.
 
 [![Locked App Error In
-Terminal](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-01-54.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-01-54.png)[![Locked
+Terminal](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-01-54.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-01-54.png)[![Locked
 App -
-Dropbox](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-09-37.png)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-09-37.png)
+Dropbox](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-09-37.png)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-29-00-09-37.png)
 
 ### Have fun with your new icons! 😍

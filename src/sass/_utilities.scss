@@ -2,15 +2,15 @@
 
 // Margin Top
 .mt-sm {
-  margin-top: 0.5em;
+  margin-top: 0.5em !important;
 }
 
 .mt-1 {
-  margin-top: 1em;
+  margin-top: 1em !important;
 }
 
 .mt-2 {
-  margin-top: 2em;
+  margin-top: 2em !important;
 }
 
 // Margin Right
@@ -65,7 +65,11 @@
   padding-bottom: .5em;
 }
 
-/** Font Size **/
+/** Font **/
+
+.font-monospace {
+  font-family: $family-monospace;
+}
 
 .font-size--3x {
   font-size: 3em;

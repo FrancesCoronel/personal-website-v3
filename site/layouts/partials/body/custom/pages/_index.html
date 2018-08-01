@@ -1,1 +1,10 @@
-{{ if .Params.speaking }} {{ partial "body/custom/pages/speaking.html" . }} {{ end }}
+<!-- Awards -->
+{{ if .Params.awards }}{{ partial "body/custom/pages/awards.html" . }}
+<!-- Blog -->
+{{ else if .Params.blog }}{{ partial "body/custom/pages/blog.html" . }}
+<!-- Feedback -->
+{{ else if .Params.feedback }}{{ partial "body/custom/pages/feedback.html" . }}
+<!-- Portfolio -->
+{{ else if .Params.portfolio }}{{ partial "body/custom/pages/portfolio.html" . }}
+<!-- Speaking -->
+{{ else if .Params.speaking }}{{ partial "body/custom/pages/speaking.html" . }}{{ end }}

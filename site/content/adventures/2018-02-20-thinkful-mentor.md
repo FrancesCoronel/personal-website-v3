@@ -9,7 +9,7 @@ categories:
 
 ## Employer
 
-[Thinkful](//thinkful.com)
+[Thinkful](https://thinkful.com)
 
 ## Location
 
@@ -27,4 +27,4 @@ Thinkful's mission is to help students gain the technical skills necessary to sw
 
 ### Students
 
-* [Melh David](//www.linkedin.com/in/melhdavid)
+* [Melh David](https://www.linkedin.com/in/melhdavid)

@@ -15,7 +15,7 @@ tags:
 
 ## Name
 
-[WE Rise Tech Conference](//werise.tech/)
+[WE Rise Tech Conference](https://werise.tech/)
 
 ## Location
 
@@ -64,7 +64,7 @@ We RISE is all about growing and showcasing women in technology. For two days, W
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/WeRiseConf/status/1018888245848035332">We RISE Tech Conf on Twitter</a></h4><p>TypeScript 101.. @fvcproductions' session from #WeRiseTech is up! 📹 https://t.co/fWJA8pk2jV #atlanta #tech #conference #typescript #javascript #programming #webdevelopment #coding</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-> Also available [on Recall Act](//www.recallact.com/presentation/typescript-101).
+> Also available [on Recall Act](https://www.recallact.com/presentation/typescript-101).
 
 <blockquote class="embedly-card"><h4><a href="https://vimeo.com/279042639">WeRISE_d1_101_-_1000_-_TypeScript 101 - Frances Coronel</a></h4><p>This is "WeRISE_d1_101_-_1000_-_TypeScript 101 - Frances Coronel" by RecallAct on Vimeo, the home for high quality videos and the people who love them.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

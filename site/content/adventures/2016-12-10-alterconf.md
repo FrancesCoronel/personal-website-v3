@@ -25,7 +25,7 @@ tags:
 
 ## Name
 
-[AlterConf NYC](//alterconf.com)
+[AlterConf NYC](https://alterconf.com)
 
 ## Organizer
 
@@ -45,15 +45,15 @@ Freelance Blogger, Participant
 
 ## About
 
-![Intro](//fvcproductions.files.wordpress.com/2017/01/alterconf.gif)
+![Intro](https://fvcproductions.files.wordpress.com/2017/01/alterconf.gif)
 
-[AlterConf](//alterconf.com/) is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
+[AlterConf](https://alterconf.com/) is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
 
-About a month ago, I was honored to have the opportunity to freelance blog for [AlterConf NYC](//www.alterconf.com/conferences/nyc-2016) in December 2016. The conference left me inspired and less alone, as technologists from all walks of life surrounded me throughout the conference.
+About a month ago, I was honored to have the opportunity to freelance blog for [AlterConf NYC](https://www.alterconf.com/conferences/nyc-2016) in December 2016. The conference left me inspired and less alone, as technologists from all walks of life surrounded me throughout the conference.
 
 Indeed, AlterConf was hands down the MOST diverse conference I have ever attended and I find this aspect to be more important than ever, especially considering what the year 2016 has brought us.
 
-Given that I was hired as a freelance blogger for this conference, I've published [onto LinkedIn](//www.linkedin.com/pulse/alterconf-nyc-2016-frances-coronel?published=t), and [my personal blog](//fvcproductions.com/2017/01/03/alterconf-nyc-2016/) already about my experience at AlterConf and what it entailed.
+Given that I was hired as a freelance blogger for this conference, I've published [onto LinkedIn](https://www.linkedin.com/pulse/alterconf-nyc-2016-frances-coronel?published=t), and [my personal blog](https://fvcproductions.com/2017/01/03/alterconf-nyc-2016/) already about my experience at AlterConf and what it entailed.
 
 <blockquote class="embedly-card"><h4><a href="https://www.linkedin.com/pulse/alterconf-nyc-2016-frances-coronel?published=t">AlterConf NYC 2016 🗽</a></h4><p>AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -98,11 +98,11 @@ To give you an idea of how amazing this conference was, here is a thorough rundo
 
 ### **OPENING ADDRESS**
 
-#### **Adina Shanholtz**, [@FeyTechnologist](//twitter.com/FeyTechnologist)
+#### **Adina Shanholtz**, [@FeyTechnologist](https://twitter.com/FeyTechnologist)
 
-<br> **Ashe Dryden**, [@ashedryden](//twitter.com/ashedryden)
+<br> **Ashe Dryden**, [@ashedryden](https://twitter.com/ashedryden)
 
-<br> **Danielle James**, [@big_dani_j](//twitter.com/big_dani_j)
+<br> **Danielle James**, [@big_dani_j](https://twitter.com/big_dani_j)
 
 Adina, a technical evangelist at Microsoft, opened up the conference and how she wanted to make more diversity events like **AlterConf** happen at Microsoft.
 
@@ -116,7 +116,7 @@ Danielle, a marketing specialist at MongoDB and an avid shipper of diversity ini
 
 ### **OPENING THE INTERNET: LOOKING BEYOND ENGLISH DOMINANCE**
 
-#### [Christina González](//medium.com/@c_gonzalez), @c_gonzalez
+#### [Christina González](https://medium.com/@c_gonzalez), @c_gonzalez
 
 The global Internet audience has been steadily changing over time. The structure of the Internet itself, however, has been slower to catch up. Internationalized Domain Names (IDNs), which utilize non-Latin alphabets and diacritic marks, were proposed in the mid-90's, but not realized until 2010. Even now, not all services play nicely with them. In a country and a world where the Internet can serve as a lifeline to learning tools, as well as opportunity, access must go beyond simply connecting to the Internet.
 
@@ -130,7 +130,7 @@ Christina addresses this from a personal perspective (Do you really need that ac
 
 ### **DEALING WITH INTELLECTUAL TROLLING**
 
-#### **Alexandra Bowen**, [@AlexandraABowen](//twitter.com/AlexandraABowen)
+#### **Alexandra Bowen**, [@AlexandraABowen](https://twitter.com/AlexandraABowen)
 
 Alexandra doesn't want to let trolls define your experiences in work, in your communities and in your projects. If you've ever had to deal with an intellectual bully in an online community, on a project, or social media, you know that it's one of the most unpleasant aspects of the Internet.
 
@@ -146,7 +146,7 @@ So do you want a "death star" or "rock star" community member? Alexandra expands
 
 ### **BUILDING WORLD CLASS TEAMS FROM DEVELOPING NATIONS**
 
-#### **Juan Pablo Buritica**, [@buritica](//twitter.com/buritica)
+#### **Juan Pablo Buritica**, [@buritica](https://twitter.com/buritica)
 
 When you think of Latin America & software, the first thought that comes to mind is near shoring or off shoring. When building the engineering team for Ride, Juan decided to see if they could build a world-class engineering team from Latin America by giving opportunities to former consultants of near shoring companies.
 
@@ -160,7 +160,7 @@ This talk goes over the decisions made, the lessons learned and the unexpected i
 
 ### **LUNCH TIME** 😋
 
-It was great to see the sponsors involved from some great companies. The official job fair sponsors were [Intel](//medium.com/@intel), Automattic, and [Meetup](//medium.com/@meetup) — all marvelous companies.
+It was great to see the sponsors involved from some great companies. The official job fair sponsors were [Intel](https://medium.com/@intel), Automattic, and [Meetup](https://medium.com/@meetup) — all marvelous companies.
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/automattic/status/807613015113797632/photo/1">Automattic on Twitter</a></h4><p>Excited to be sponsoring @AlterConf NYC today - be sure to stop by and meet us at the job fair! #AlterConf</p></blockquote>
 
@@ -172,7 +172,7 @@ It was great to see the sponsors involved from some great companies. The officia
 
 ### **CROSSING THE LANGUAGE DIVIDE: MAKING PROGRAMMING ACCESSIBLE TO ENGLISH AND NON-ENGLISH SPEAKERS ALIKE**
 
-#### **Aditya Mukerjee**, [@chimeracoder](//twitter.com/chimeracoder)
+#### **Aditya Mukerjee**, [@chimeracoder](https://twitter.com/chimeracoder)
 
 In _The Hitchhikers's Guide to the Galaxy_, the Babel Fish is a universal translator. By allowing all beings to communicate regardless of language, it "neatly crosses the language divide between any species".
 
@@ -194,7 +194,7 @@ He also talks about the steps to making open-source projects fully multilingual 
 
 ### **HOW TO BE BOSS WHEN YOU'RE NOT THE BOSS: EFFECTIVE LEADERSHIP STRATEGIES FOR EVERYONE!**
 
-#### **Natali Wachtman Perilo**, [@NataliJewel](//twitter.com/NataliJewel)
+#### **Natali Wachtman Perilo**, [@NataliJewel](https://twitter.com/NataliJewel)
 
 The most effective leaders are those who can rely on others to execute confidently and independently. Leaders are measured by how others perform.
 
@@ -208,7 +208,7 @@ Natalie uses applied behavioral science strategies to understand why people do t
 
 ### **IT'S NOT LIT: STRATEGIES FOR EXPOSING AND ELIMINATING CULTURAL APPROPRIATION IN MARKETING**
 
-#### **Candace Williams**, [@teacherc](//twitter.com/teacherc)
+#### **Candace Williams**, [@teacherc](https://twitter.com/teacherc)
 
 From tweets written by agency agency staffers, to tech talk slides and "witty" café chalkboard signs, the use of appropriated artifacts and slurs has been normalized in product and service marketing.
 
@@ -226,7 +226,7 @@ In this talk, Candace identifies examples of this issue and leads a brainstormin
 
 ### **DISMANTLING THE BINARY, ONE MICROAGGRESSION AT A TIME**
 
-#### **Jameson Hampton**, [@jameybash](//twitter.com/jameybash)
+#### **Jameson Hampton**, [@jameybash](https://twitter.com/jameybash)
 
 Microaggressions. You know, the slights that sting but seem so small that you feel like you're overreacting, even though they become more and more hurtful the more (dozens of) times you hear them?
 
@@ -240,7 +240,7 @@ This talk will make visible the microaggressions too regularly lobbed at non-bin
 
 ### **BATTLING UNCONSCIOUS BIAS**
 
-#### **Neem Serra**, [@teamneem](//twitter.com/teamneem)
+#### **Neem Serra**, [@teamneem](https://twitter.com/teamneem)
 
 Unconscious biases affect our perceptions, decisions, and interactions every day. How do we address biases if we don't know about them?
 
@@ -254,7 +254,7 @@ In this talk, Neem talks about how to recognize and counter the biases that play
 
 ### **HOW A PERSONAL CHATBOT CAN MAKE YOUR LIFE BETTER**
 
-#### **Lauren Golembiewski**, [@laurengolem](//twitter.com/laurengolem)
+#### **Lauren Golembiewski**, [@laurengolem](https://twitter.com/laurengolem)
 
 Chatbots are re-emerging as a technology that can be used to automate businesses, give big brands more customer touch points, and help individuals better communicate.
 
@@ -270,7 +270,7 @@ She'll also be discussing Ghostbot for Burner, a chatbot she designed that aims 
 
 ### **THE CULT(URE) OF STRENGTH**
 
-#### **Emily Gorcenski**, [@EmilyGorcenski](//twitter.com/EmilyGorcenski)
+#### **Emily Gorcenski**, [@EmilyGorcenski](https://twitter.com/EmilyGorcenski)
 
 "Strength," "Courage," and "Bravery" are virtues often heaped upon individuals undergoing hardship. These compliments come from a deep-rooted cultural value that sacrifice should be praiseworthy and that performing in the face of difficulty is a sign of virtue. In tech, strength is valued to the point of caricature, creating a culture of depersonalization and overwork that disproportionately affects people who exist on one or more axes of inter sectional marginalization.
 
@@ -290,7 +290,7 @@ _The YouTube video was made private._
 
 ### **"YOU MAKE EVERYTHING ABOUT RACE" — AN APPEAL FOR EMPATHY IN DISCUSSIONS OF RACISM IN AMERICA**
 
-**Kareem Francis**, [github.com/kareemf](//github.com/kareemf)
+**Kareem Francis**, [github.com/kareemf](https://github.com/kareemf)
 
 This talk highlights select instances in media, pop-culture, and forums for technologists where the depiction of people of color is generally glossed over by the population at large, but may be problematic to people of color, though discussion of these issues are often relegated to discussions in safe spaces.
 
@@ -308,11 +308,11 @@ _❗ Trigger Warnings: Race, racism, microaggressions._
 
 ### **INCREDIBLE WITNESS: FINDINGS FROM THE PUBLIC LABORATORY**
 
-#### **Allison Parrish**, [@aparrish](//twitter.com/aparrish)
+#### **Allison Parrish**, [@aparrish](https://twitter.com/aparrish)
 
-<br> **Clarinda Mac Low**, [@adniralc](//twitter.com/adniralc)
+<br> **Clarinda Mac Low**, [@adniralc](https://twitter.com/adniralc)
 
-<br> **Lauren Bierly**, [@l_bierly](//twitter.com/l_bierly)
+<br> **Lauren Bierly**, [@l_bierly](https://twitter.com/l_bierly)
 
 Incredible Witness is a public laboratory created by these three ladies that asks: how can people ever be "credible witnesses" when even the most basic perceptions, such as color vision or spatial awareness, differ drastically from person to person?
 
@@ -328,7 +328,7 @@ In the Incredible Witness laboratory, they invite people into unusual perceptual
 
 ### **DIVERSITY AND INCLUSION IN TECH THROUGH A HAMILTON LENS**
 
-#### **Lizzie Siegle**, [@lizziepika](//twitter.com/lizziepika)
+#### **Lizzie Siegle**, [@lizziepika](https://twitter.com/lizziepika)
 
 Though both diversity and inclusion are important, it's not enough to be in the room where it happens, which is like diversity. You want both the Adams Administration as well as Washington on your side, which is like inclusion. The latter breeds the former because even on a diverse team, you could still be uncomfortable and helpless.
 
@@ -356,8 +356,8 @@ So what's the difference between the two? Lizzie uses Hamilton lyrics to go over
 
 ### Get Involved with AlterConf
 
-* Facebook [AlterConf](//www.facebook.com/AlterConf/)
-* Twitter [@alterconf](//twitter.com/alterconf), tweet using [#AlterConf](//twitter.com/hashtag/alterconf?src=hash)
-* Website [alterconf.com](//alterconf.com/), [NYC 2016](//www.alterconf.com/conferences/nyc-2016)
-* Video Recordings [are on YouTube](//www.youtube.com/playlist?list=PLgWwTXVZ2pcNJtnKh_DO2hJPHP4ECqyOa)
-* Closed Captions [bit.ly/nyc-captions](//bit.ly/nyc-captions), the founder of the technology behind this awesome transcription tool, [Mirabai](//stenoknight.com/), was actually present at AlterConf!
+* Facebook [AlterConf](https://www.facebook.com/AlterConf/)
+* Twitter [@alterconf](https://twitter.com/alterconf), tweet using [#AlterConf](https://twitter.com/hashtag/alterconf?src=hash)
+* Website [alterconf.com](https://alterconf.com/), [NYC 2016](https://www.alterconf.com/conferences/nyc-2016)
+* Video Recordings [are on YouTube](https://www.youtube.com/playlist?list=PLgWwTXVZ2pcNJtnKh_DO2hJPHP4ECqyOa)
+* Closed Captions [bit.ly/nyc-captions](https://bit.ly/nyc-captions), the founder of the technology behind this awesome transcription tool, [Mirabai](https://stenoknight.com/), was actually present at AlterConf!

@@ -43,7 +43,7 @@ I desire the casual yet I know it is
 Time to think of the impossible.
 ```
 
-This poem was featured in the [POTW Issue 30 of Jacobs University Bremen](//www.scribd.com/doc/174387876/POTW-Issue-30) (page 16).
+This poem was featured in the [POTW Issue 30 of Jacobs University Bremen](https://www.scribd.com/doc/174387876/POTW-Issue-30) (page 16).
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/174387876/POTW-Issue-30#page=16">POTW Issue 30</a></h4><p>PULSE to in order to present said petition. A first meeting was requested with Heinz-Otto Peitgen and subsequently scheduled with Thorsten Thiel, Jacobs University's CEO and COO respectively. This preparatory meeting saw a set of wide-ranging, yet unofficial assurances from the side of the university administration.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

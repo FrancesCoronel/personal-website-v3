@@ -1,0 +1,11 @@
+<!-- Variables -->
+{{ $portfolio := ($.Site.Taxonomies.categories.portfolio.Pages) }}
+<!-- portfolio -->
+<h2>💼 {{ len $portfolio }} Projects</h2>
+<div class="columns is-multiline">
+  {{ range $portfolio }} {{ if .Date.Before now }}
+  <div class="column is-one-third">
+    {{ partial "body/content/card/no-image.html" . }}
+  </div>
+  {{ end }} {{ end }}
+</div>

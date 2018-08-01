@@ -12,7 +12,7 @@ tags:
   - diversity
 ---
 
-RESPECT 2015 was the first international meeting of the [IEEE](//www.computer.org/) [Special Technical Community on Broadening Participation](//stcbp.org/) with technical co-sponsorship by the [IEEE Computer Society](//www.computer.org/). STC BP and RESPECT are dedicated to research and action to engage everyone in computing.
+RESPECT 2015 was the first international meeting of the [IEEE](https://www.computer.org/) [Special Technical Community on Broadening Participation](https://stcbp.org/) with technical co-sponsorship by the [IEEE Computer Society](https://www.computer.org/). STC BP and RESPECT are dedicated to research and action to engage everyone in computing.
 
 As part of a logo competition, I designed these. Ultimately, they did not get chosen but I enjoyed exercising my design skills! 👩🏽‍🎨️
 

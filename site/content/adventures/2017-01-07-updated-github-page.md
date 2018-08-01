@@ -13,7 +13,7 @@ tags:
   - github page
 ---
 
-Updated my GitHub page - [fvcproductions.github.io](//fvcprodutions.github.io) in order to better showcase my current state of mind.
+Updated my GitHub page - [fvcproductions.github.io](https://fvcprodutions.github.io) in order to better showcase my current state of mind.
 
 If you click on 'black' or 'white', the interface changes colors. Woot!
 

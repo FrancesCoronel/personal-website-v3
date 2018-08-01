@@ -14,7 +14,7 @@ tags:
 
 ## Name
 
-[International Student Leadership Conference](//studentprograms.operationsmile.org/events/islc/)
+[International Student Leadership Conference](https://studentprograms.operationsmile.org/events/islc/)
 
 ## Organizer
 

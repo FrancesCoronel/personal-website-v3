@@ -20,7 +20,7 @@ tags:
 
 ## Name
 
-[TreeHacks](//treehacks.com)
+[TreeHacks](https://treehacks.com)
 
 ## Organizer
 
@@ -59,7 +59,7 @@ The areas we believe Ammalia could be the most useful is with radiology image ma
 
 ### Awards
 
-> [Out of State Applicant Scholarship](//medium.com/@hackwithtrees/treehacks-admissions-our-goals-and-process-b204a198d4a6) - December 2015
+> [Out of State Applicant Scholarship](https://medium.com/@hackwithtrees/treehacks-admissions-our-goals-and-process-b204a198d4a6) - December 2015
 
 I was 1 of 150 hackers from out of state who was accepted to attend TreeHacks with full travel reimbursement from over two thousand applicants, so basically a ~7.5% acceptance rate.
 
@@ -111,10 +111,10 @@ Created a README badge using Sketch to be used for project READMEs hacked out at
 
 ### Team - _Big Hero 4_
 
-* [Frances Coronel (me)](//github.com/fvcproductions)
-* [Stephanie Zeidan](//github.com/stephzeid)
-* [Diana Wang](//github.com/diana-wang)
-* [Effie Nehoran](//github.com/effien3)
+* [Frances Coronel (me)](https://github.com/fvcproductions)
+* [Stephanie Zeidan](https://github.com/stephzeid)
+* [Diana Wang](https://github.com/diana-wang)
+* [Effie Nehoran](https://github.com/effien3)
 
 ### Pictures
 

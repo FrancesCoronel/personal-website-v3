@@ -6,7 +6,7 @@ aliases:
   - /resume/
 ---
 
-## For a live version of my resume, please refer to [my LinkedIn profile](//linkedin.com/in/fvcproductions).
+## For a live version of my resume, please refer to [my LinkedIn profile](https://linkedin.com/in/fvcproductions).
 
 > And feel free to connect with me on there as well! 👥️
 
@@ -18,7 +18,7 @@ aliases:
 
 I know what you're thinking - wow, Frances - how did you get your resume to look so neat?
 
-Well, I used a little something I like to call [Creddle.io](//resume.creddle.io/review/870o0jjlt23).
+Well, I used a little something I like to call [Creddle.io](https://resume.creddle.io/review/870o0jjlt23).
 
 It's pretty nifty and I'm never going back to manually formatting my resume again.
 

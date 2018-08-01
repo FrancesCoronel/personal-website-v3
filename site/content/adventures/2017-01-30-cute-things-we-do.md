@@ -22,7 +22,7 @@ The logo is a really cute picture of my dog because yeah why not.
 
 > Update - January 27th, 2018
 
-Even though I originally had the domain [cutethingswedo.com](//cutethingswedo.com) for this, I only paid for a year so yeah **RIP** - it's a GitHub page now!
+Even though I originally had the domain [cutethingswedo.com](https://cutethingswedo.com) for this, I only paid for a year so yeah **RIP** - it's a GitHub page now!
 
 <blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/cutethingswedo/">Cute Things We Do</a></h4><p>Cute Things We Do</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

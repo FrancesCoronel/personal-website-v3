@@ -47,10 +47,10 @@ This is how the completed app looks like.
 
 ## Installation Process
 
-1.  Download [**Vagrant**](//www.vagrantup.com/)
-2.  Download [**VirtualBox**](//www.virtualbox.org/wiki/Downloads)
-3.  Clone or download [my sample to-do app](//github.com/fvcproductions/ds-todos)
-    * **Option 1.** Use a GitHub client like [Tower](//git-tower.com)
+1.  Download [**Vagrant**](https://www.vagrantup.com/)
+2.  Download [**VirtualBox**](https://www.virtualbox.org/wiki/Downloads)
+3.  Clone or download [my sample to-do app](https://github.com/fvcproductions/ds-todos)
+    * **Option 1.** Use a GitHub client like [Tower](https://git-tower.com)
     * **Option 2.** `git clone //github.com/fvcproductions/ds-todos.git`
     * Make note of the file path for this repo by using `pwd`, i.e. `~/Dropbox/github/ds-todos`
 4.  `cd ~ && vagrant box laravel/homestead`
@@ -146,5 +146,5 @@ MAIL_ENCRYPTION=null
 
 ### Helpful Resources
 
-* [Great video on installation process](//vimeo.com/164946495)
-* [Laravel Homestead Documentation](//laravel.com/docs/5.3/homestead)
+* [Great video on installation process](https://vimeo.com/164946495)
+* [Laravel Homestead Documentation](https://laravel.com/docs/5.3/homestead)

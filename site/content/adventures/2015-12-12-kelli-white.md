@@ -7,6 +7,6 @@ categories:
   - review
 ---
 
-The class and I would like to thank you and your team for an amazing [CODE](//hourofcode.com/us)ing experience. [Your presentation](//fvcproductions.com/2015/12/07/hour-of-code-2015/) was enlightening, and your help was appreciated. To say the kids were excited is an understatement, they were "electrified!". They couldn't stop talking about how fun it was and now that I have a teacher dashboard I can see their progress. I appreciate the instructor handbook and have already found some really cool activities to try. You have inspired the class and their teacher. We couldn't have done it without you.
+The class and I would like to thank you and your team for an amazing [CODE](https://hourofcode.com/us)ing experience. [Your presentation](https://fvcproductions.com/2015/12/07/hour-of-code-2015/) was enlightening, and your help was appreciated. To say the kids were excited is an understatement, they were "electrified!". They couldn't stop talking about how fun it was and now that I have a teacher dashboard I can see their progress. I appreciate the instructor handbook and have already found some really cool activities to try. You have inspired the class and their teacher. We couldn't have done it without you.
 
 Thank you for making the journey to our school, and giving us two hours of your time.

@@ -33,19 +33,19 @@ So here are 3 of my favorite power tools that changed how I worked and my averag
 
 There are other awesome power apps of course, like
 
-* [Amphetamine](//itunes.apple.com/us/app/amphetamine/id937984704?mt=12 'Amphetamine')
-* [Bartender](//www.macbartender.com 'Bartender')
-* [Dash](//kapeli.com/dash 'Dash')
-* [Flux](//justgetflux.com 'Flux')
-* [Sorty](//wiles.dk/ 'Sorty')
-* [Ubersicht](//tracesof.net/uebersicht/ 'Ubersicht')
-* [Yoink](//eternalstorms.at/yoink/Yoink*-\_Draggings_a_drag_no_more/Yoink*-\_Draggings_a_drag_no_more%21.html ""Yoink"")
+- [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12 'Amphetamine')
+- [Bartender](https://www.macbartender.com 'Bartender')
+- [Dash](https://kapeli.com/dash 'Dash')
+- [Flux](https://justgetflux.com 'Flux')
+- [Sorty](https://wiles.dk/ 'Sorty')
+- [Ubersicht](https://tracesof.net/uebersicht/ 'Ubersicht')
+- [Yoink](https://eternalstorms.at/yoink/Yoink*-\_Draggings_a_drag_no_more/Yoink*-\_Draggings_a_drag_no_more%21.html ""Yoink"")
 
 among others - but these 3 are by far my favorite.
 
-1.  # [Automator](//en.wikipedia.org/wiki/Automator\_%28software%29 ""Automator"")
+1.  # [Automator](https://en.wikipedia.org/wiki/Automator\_%28software%29 ""Automator"")
 
-![Automator](//www.redundantrobot.com/wp-content/uploads/2013/10/automator.png)
+![Automator](https://www.redundantrobot.com/wp-content/uploads/2013/10/automator.png)
 
 Seriously, I've done things with this guy in seconds that would take others hours. Automator is a lot like Terminal in terms of power, but with a graphical interface.
 
@@ -62,7 +62,7 @@ And then you even start to click on them one by one to import them to your Font 
 **Say no more! Automator to the rescue!**
 
 [![Import
-Fonts](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-46.png?w=660)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-46.png)
+Fonts](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-46.png?w=660)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-46.png)
 
 2.  PDF To Images
 
@@ -75,7 +75,7 @@ So now you have this 20 page PDF file and you start to export each page to a `pn
 **Say no more! Automator to the rescue!**
 
 [![PDF To
-Images](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-16.png?w=660)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-16.png)
+Images](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-16.png?w=660)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-16.png)
 
 3.  Rename Multiple Photos
 
@@ -90,26 +90,26 @@ So now you have 30+ wallpaper images in your `Downloads` folder and because you'
 **Say no more! Automator to the rescue!**
 
 [![Rename Multiple
-Photos](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11-06.png?w=660)](//fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11-06.png)
+Photos](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11-06.png?w=660)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11-06.png)
 
-2.  # [Alfred](//www.alfredapp.com/ ""Alfred"")
+2.  # [Alfred](https://www.alfredapp.com/ ""Alfred"")
 
-![Alfred](//a2.mzstatic.com/us/r30/Purple/v4/22/16/13/221613ff-de88-908e-684d-262576f7dbd0/icon128-2x.png)
+![Alfred](https://a2.mzstatic.com/us/r30/Purple/v4/22/16/13/221613ff-de88-908e-684d-262576f7dbd0/icon128-2x.png)
 
 > Oh, Alfred, where would I be without you?
 >
-> You're prettier than [LaunchBar](//www.alfredapp.com/ ""Alfred"") and 10 times more powerful than [Spotlight](//www.alfredapp.com/ ""Alfred"").
+> You're prettier than [LaunchBar](https://www.alfredapp.com/ ""Alfred"") and 10 times more powerful than [Spotlight](https://www.alfredapp.com/ ""Alfred"").
 >
 > If you were a person, I know you'd be my gay best friend.
 
 Definitely not a haiku there, but man - just goes to show how much I depend on the damn bowler hat.
 
-3.  # [BetterSnapTool](//itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12 ""BetterSnapTool"")
+3.  # [BetterSnapTool](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12 ""BetterSnapTool"")
 
-![BetterSnapTool](//a3.mzstatic.com/us/r30/Purple3/v4/b0/e1/f1/b0e1f178-69dc-f01a-3d4e-0faa4379ca8f/icon128-2x.png)
+![BetterSnapTool](https://a3.mzstatic.com/us/r30/Purple3/v4/b0/e1/f1/b0e1f178-69dc-f01a-3d4e-0faa4379ca8f/icon128-2x.png)
 
 I was so slow moving windows around before this app, so once I transitioned to fast resizing, my whole workflow sped up significantly. People wonder how I get things done so fast... BetterSnapTool is part of the reason.
 
 Only good things can be said about this app, seriously.
 
-And that's it! Check out my post, [What I Use](//fvcproductions.com/what-i-use/ 'What I Use 📱') for more awesome apps!
+And that's it! Check out my post, [What I Use](https://fvcproductions.com/what-i-use/ 'What I Use 📱') for more awesome apps!

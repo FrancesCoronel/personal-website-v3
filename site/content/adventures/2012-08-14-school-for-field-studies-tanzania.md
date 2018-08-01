@@ -20,7 +20,7 @@ tags:
 
 ## Name
 
-[School for Field Studies (SFS) - Wildlife Management Studies: Techniques for Wildlife Field Research](//www.fieldstudies.org/eastafrica)
+[School for Field Studies (SFS) - Wildlife Management Studies: Techniques for Wildlife Field Research](https://www.fieldstudies.org/eastafrica)
 
 ## Location
 
@@ -92,7 +92,7 @@ One, I had never been to Africa and life is very well... non lengthy. I don't re
 
 Two, I wanted to study something related to zoology at the time and "Wildlife Research Techniques", which is the formal title of the course, sounded pretty close enough to me (sarcasm). I mean, obviously I thought it through a lot more than it seems but you get the picture.
 
-So in conclusion, SFS was a pretty big opportunity for me, it was there, and I just took the chance when I got it. And I ended up finding out about it with a simple [Google search](//www.google.com/search?client=safari&rls=en&q=link+a+google+search&ie=UTF-8&oe=UTF-8#q=summer+wildlife+research+college+program&rls=en). Of course, I had to go through tons of PDF lists of programs and many pages on Google's search engine (so much fun by the way) , BUT in the end it was definitely... I mean, _most definitely_ worth it.
+So in conclusion, SFS was a pretty big opportunity for me, it was there, and I just took the chance when I got it. And I ended up finding out about it with a simple [Google search](https://www.google.com/search?client=safari&rls=en&q=link+a+google+search&ie=UTF-8&oe=UTF-8#q=summer+wildlife+research+college+program&rls=en). Of course, I had to go through tons of PDF lists of programs and many pages on Google's search engine (so much fun by the way) , BUT in the end it was definitely... I mean, _most definitely_ worth it.
 
 ...
 

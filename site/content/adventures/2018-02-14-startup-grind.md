@@ -15,7 +15,7 @@ tags:
 
 ## Name
 
-[Startup Grind](//www.startupgrind.com/conference/)
+[Startup Grind](https://www.startupgrind.com/conference/)
 
 ## Location
 
@@ -46,12 +46,12 @@ Around the world, hundreds of thousands of founders come together each month to 
 
 I had known of Startup Grind for some time now but I'm not one for attending conferences unless I can go for free so with a steep price (it's about 700 bucks at the door, I think?), the only way I was ever going to attend is through a scholarship of some sort.
 
-Thankfully, I've been part of this amazing organization - [Women Who Code](//www.womenwhocode.com) - for about 3 years now and I knew they gave away free tickets for big events like this.
+Thankfully, I've been part of this amazing organization - [Women Who Code](https://www.womenwhocode.com) - for about 3 years now and I knew they gave away free tickets for big events like this.
 
 <blockquote class="embedly-card"><h4><a href="https://www.womenwhocode.com">Women Who Code | Welcome</a></h4><p>Women Who Code (WWCode) is a global 501(c)(3) non-profit organization dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion - the world of technology is much better with women in it.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-So I [applied for a free ticket](//www.linkedin.com/embed/feed/update/urn:li:activity:6366132486338150400) and I got it! Huzzah! 💛
+So I [applied for a free ticket](https://www.linkedin.com/embed/feed/update/urn:li:activity:6366132486338150400) and I got it! Huzzah! 💛
 
 ---
 
@@ -131,7 +131,7 @@ I grab some veggie poke from the Go Fish Poke Bar nearby. It's pretty amazing. I
 
 You see those two women pitching in the photo above? They came in, were prepared and killed it. Everyone else who pitched looked miles behind them with their lack of prep.
 
-I was definitely checking out the dating app they pitched called [Pheramor](//www.pheramor.com/) which literally uses your genes to try and find you an ideal match. My partner and I met through OKCupid so I have a lot of confidence in how apps can connect people effectively.
+I was definitely checking out the dating app they pitched called [Pheramor](https://www.pheramor.com/) which literally uses your genes to try and find you an ideal match. My partner and I met through OKCupid so I have a lot of confidence in how apps can connect people effectively.
 
 #### Good Intentions, Bad Advice: How to Keep Your Board Aligned With Your Vision
 
@@ -283,13 +283,13 @@ I noticed throughout the conference that speakers kept idolizing Elon Musk in so
 
 This mentality of Elon Musk being this sort of amazing unicorn and being heralded as this generation's Steve Jobs bothered me quite a bit because both Steve Jobs and Elon Musk are not the kind of people I believe should be idolized this way.
 
-It's already well known that Steve Jobs [was a world-class asshole](//qz.com/984174/silicon-valley-has-idolized-steve-jobs-for-decades-and-its-finally-paying-the-price/) and would treat people under him badly for very small mistakes. Despite this and all his other personality and social shortcomings, Steve Jobs was and continues to be seen as a revolutionary within the tech industry.
+It's already well known that Steve Jobs [was a world-class asshole](https://qz.com/984174/silicon-valley-has-idolized-steve-jobs-for-decades-and-its-finally-paying-the-price/) and would treat people under him badly for very small mistakes. Despite this and all his other personality and social shortcomings, Steve Jobs was and continues to be seen as a revolutionary within the tech industry.
 
-Elon Musk himself told his own wife that he was the ["alpha" in their relationship at their WEDDING](//twitter.com/whmullally/status/962623052050829312?lang=en). As a woman of color, this triggered the hell out of me. Is that really the kind of man you want to be in a relationship with - romantically or professionally? Someone who considers themselves superior and is willing to [overwork](//www.theguardian.com/technology/2017/may/18/tesla-workers-factory-conditions-elon-musk) his [(mostly male)](//www.sandiegouniontribune.com/opinion/commentary/sd-oe-spacex-diversity-women-20180215-story.html) employees to the bone or to the point where they actually feel compelled to have to [sue their own company](//www.engadget.com/2017/05/13/spacex-settles-underpaid-employees-4-million/) to get paid fairly and have breaks??????
+Elon Musk himself told his own wife that he was the ["alpha" in their relationship at their WEDDING](https://twitter.com/whmullally/status/962623052050829312?lang=en). As a woman of color, this triggered the hell out of me. Is that really the kind of man you want to be in a relationship with - romantically or professionally? Someone who considers themselves superior and is willing to [overwork](https://www.theguardian.com/technology/2017/may/18/tesla-workers-factory-conditions-elon-musk) his [(mostly male)](https://www.sandiegouniontribune.com/opinion/commentary/sd-oe-spacex-diversity-women-20180215-story.html) employees to the bone or to the point where they actually feel compelled to have to [sue their own company](https://www.engadget.com/2017/05/13/spacex-settles-underpaid-employees-4-million/) to get paid fairly and have breaks??????
 
 #### Being an asshole should not be an aspiration for anyone.
 
-And having models like these two privileged white men in Silicon Valley is probably part of the reason we ended up with CEOs like [Travis Kalanick](//fortune.com/2017/06/21/uber-controversy-timeline-travis-kalanick/) who was willing to do anything to get ahead of the competition. And unfortunately, our [piss poor example of a president](//www.nytimes.com/2018/01/11/opinion/trump-immigration-white-supremacy.html) only perpetuates this dismal situation.
+And having models like these two privileged white men in Silicon Valley is probably part of the reason we ended up with CEOs like [Travis Kalanick](https://fortune.com/2017/06/21/uber-controversy-timeline-travis-kalanick/) who was willing to do anything to get ahead of the competition. And unfortunately, our [piss poor example of a president](https://www.nytimes.com/2018/01/11/opinion/trump-immigration-white-supremacy.html) only perpetuates this dismal situation.
 
 In the US, unfortunately, there is actually very little financial incentive in creating innovative solutions that solve REAL social problems (income inequality, sexual abuse, mental health, gun control, climate change, scalable housing, and transportation infrastructure, etc).
 

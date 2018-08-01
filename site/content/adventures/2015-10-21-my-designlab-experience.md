@@ -35,7 +35,7 @@ tags:
 
 ## Name
 
-[Designlab - Design 101](//trydesignlab.com)
+[Designlab - Design 101](https://trydesignlab.com)
 
 ## Location
 
@@ -53,25 +53,30 @@ Online student
 
 Designlab is the best way to learn UI/UX design skills online — through project-based courses and 1-on-1 mentorship from expert designers.
 
-* [Overview](#overview)
-  * [What is Designlab?](#what-is-designlab)
-  * [Date & Times](#date--times)
-  * [Swag](#swag)
-  * [My Mentor](#my-mentor)
-  * [The Lessons](#the-lessons)
-  * [The Projects](#the-projects)
-  * [The Difference](#the-difference)
-  * [The Aftermath](#the-aftermath)
-* [Projects](#projects)
-  * [SuperGood](#supergood)
-  * [Flitter](#flitter)
-  * [Two Words on Design](#two-words-on-design)
-  * [readingit](#readingit)
-  * [RankMe](#rankme)
-  * [Web Layout](#web-layout)
-  * [Style Guide](#style-guide)
-  * [Final Project](#final-project)
-  * [Certificate of Completion](#certificate-of-completion)
+- [Name](#name)
+- [Location](#location)
+- [Date](#date)
+- [Role](#role)
+- [About](#about)
+- [Overview](#overview)
+  - [What is Designlab?](#what-is-designlab)
+  - [Date & Times](#date--times)
+  - [Swag](#swag)
+  - [My Mentor](#my-mentor)
+  - [The Lessons](#the-lessons)
+  - [The Projects](#the-projects)
+  - [The Difference](#the-difference)
+  - [The Aftermath](#the-aftermath)
+- [Projects](#projects)
+  - [SuperGood](#supergood)
+  - [Flitter](#flitter)
+  - [Two Words on Design](#two-words-on-design)
+  - [readingit](#readingit)
+  - [RankMe](#rankme)
+  - [Web Layout](#web-layout)
+  - [Style Guide](#style-guide)
+  - [Final Project](#final-project)
+  - [Certificate of Completion](#certificate-of-completion)
 
 ## Overview
 
@@ -79,7 +84,7 @@ Designlab is the best way to learn UI/UX design skills online — through projec
 
 ![Designlab - Logo](https://fvcproductions.files.wordpress.com/2015/10/designlab-logo.png)
 
-> [Designlab](//trydesignlab.com) is the best way to learn web and mobile design skills online.
+> [Designlab](https://trydesignlab.com) is the best way to learn web and mobile design skills online.
 >
 > Practice the principles of visual design, UX (user experience), and UI (user interface) design with our project-based, mentor-driven online courses.
 >
@@ -87,9 +92,9 @@ Designlab is the best way to learn UI/UX design skills online — through projec
 >
 > Design is the difference. Set yourself apart.
 
-I decided to take the **[Design 101](//trydesignlab.com/web-design-course/)** course on Designlab to get a better understanding of how design can be incorporated into my work.
+I decided to take the **[Design 101](https://trydesignlab.com/web-design-course/)** course on Designlab to get a better understanding of how design can be incorporated into my work.
 
-You can view the syllabus [here](//storage.trydesignlab.com/syllabus/design-101.pdf).
+You can view the syllabus [here](https://storage.trydesignlab.com/syllabus/design-101.pdf).
 
 ### Date & Times
 
@@ -113,7 +118,7 @@ I received a few items in the mail August 31st - ooh la la. The book "Steal Like
 
 ![Designlab - Mentor](https://fvcproductions.files.wordpress.com/2015/10/designlab-mentor.png)
 
-My mentor, [Chad](//chadtrutt.com/ 'Chad Trutt') was pretty cool. I checked out his website and he has some killer work, like this pepper:
+My mentor, [Chad](https://chadtrutt.com/ 'Chad Trutt') was pretty cool. I checked out his website and he has some killer work, like this pepper:
 
 ![Low-Poly Chilli Pepper](https://cdn.dribbble.com/users/136678/screenshots/1560457/chilipepper_behance_1x.jpg)
 
@@ -140,13 +145,13 @@ Each unit had designated projects and with each project, there were several arti
 
 I'm still pretty new to the world of design. Even though I already knew the difference between UX/UI, how a wireframe is different from a prototype, and how important design is in general, **Designlab** was still made me realize how much more complex design can really be even when your only goal is simplicity.
 
-I explored each project more in depth [on this page](//fvcproductions.com/portfolio/designlab-submissions/).
+I explored each project more in depth [on this page](https://fvcproductions.com/portfolio/designlab-submissions/).
 
 ![Designlab - Profile](https://fvcproductions.files.wordpress.com/2015/10/designlab-profile.png)
 
 ### The Difference
 
-The difference, I believe, between something like [DailyUI](//chadtrutt.com/ 'Chad Trutt') challenges and [Designlab](//trydesignlab.com 'Designlab') is the amount of feedback you're going to get. I feel the main thing you're paying for is the community and feedback. The articles they provide as mini-lessons before each project are all actually free online somewhere, but, nonetheless, they were **very** well selected.
+The difference, I believe, between something like [DailyUI](https://chadtrutt.com/ 'Chad Trutt') challenges and [Designlab](https://trydesignlab.com 'Designlab') is the amount of feedback you're going to get. I feel the main thing you're paying for is the community and feedback. The articles they provide as mini-lessons before each project are all actually free online somewhere, but, nonetheless, they were **very** well selected.
 
 ![Designlab - Discussion](https://fvcproductions.files.wordpress.com/2015/10/designlab-discussion.png)
 
@@ -154,7 +159,7 @@ The difference, I believe, between something like [DailyUI](//chadtrutt.com/ 'Ch
 
 ![Designlab - Course Completion](https://fvcproductions.files.wordpress.com/2015/10/designlab-course-summary.png)
 
-Upon course completion, I received a [nice online certificate](//trydesignlab.com/certificates/design-101/fvcproductions/) which I promptly added to my LinkedIn (they made this really easy to do).
+Upon course completion, I received a [nice online certificate](https://trydesignlab.com/certificates/design-101/fvcproductions/) which I promptly added to my LinkedIn (they made this really easy to do).
 
 The certificate itself is actually nothing more than a showcasing of all the design projects I completed for the course.
 

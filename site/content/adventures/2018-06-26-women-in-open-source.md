@@ -17,7 +17,7 @@ tags:
 
 ## Name
 
-[Girl Develop It SF - Panel: Women in Open Source](//www.meetup.com/Girl-Develop-It-San-Francisco/events/251388638/)
+[Girl Develop It SF - Panel: Women in Open Source](https://www.meetup.com/Girl-Develop-It-San-Francisco/events/251388638/)
 
 ## Location
 

@@ -108,7 +108,7 @@ HOWEVER, it turns out the plot thickens.
 
 # This is, of course, where all the real fun begins.
 
-By having such a very morbid ambiance all throughout the game, **[The Binding of _Isaac_](//store.steampowered.com/app/113200/)** successfully communicates what a terrible situation _Isaac_ is really in.
+By having such a very morbid ambiance all throughout the game, **[The Binding of _Isaac_](https://store.steampowered.com/app/113200/)** successfully communicates what a terrible situation _Isaac_ is really in.
 
 Here he is, battling all these fascinating and creepy looking monsters, each with their own quirk while trying to make sure to avoid the most twisted monster of all - his own mother. The message of how low one can sink when in isolation and in rejection is very obvious.
 

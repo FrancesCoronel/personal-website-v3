@@ -11,7 +11,7 @@ categories:
 
 ## Institution
 
-[Jacobs University Bremen](//www.jacobs-university.de)
+[Jacobs University Bremen](https://www.jacobs-university.de)
 
 ## Location
 
@@ -63,10 +63,10 @@ I received a generous merit scholarship to attend and study computer science. Wh
 
 ### Awards
 
-| Award                                                                                            | Month   | Year | Notes                                                                                                           |
-| ------------------------------------------------------------------------------------------------ | ------- | ---- | --------------------------------------------------------------------------------------------------------------- |
-| [Featured Poem on Pulse of the World](//scribd.com/document/174387876/POTW-Issue-30)             | October | 2013 | My poem was featured on Jacob University’s student-run newspaper “POTW” (Issue 11) while I was a student there. |
-| [Merit-Based Scholarship](//jacobs-university.de/study/undergraduate/fees-finances/scholarships) | August  | 2013 | merit-based annual scholarship of $10K                                                                          |
+| Award                                                                                                  | Month   | Year | Notes                                                                                                              |
+| ------------------------------------------------------------------------------------------------------ | ------- | ---- | ------------------------------------------------------------------------------------------------------------------ |
+| [Featured Poem on Pulse of the World](https://scribd.com/document/174387876/POTW-Issue-30)             | October | 2013 | My poem was featured on Jacob University’s student-run newspaper “POTW” (Issue 11) while I was a student there. |
+| [Merit-Based Scholarship](https://jacobs-university.de/study/undergraduate/fees-finances/scholarships) | August  | 2013 | merit-based annual scholarship of $10K                                                                             |
 
 ### Projects
 

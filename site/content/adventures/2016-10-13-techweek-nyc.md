@@ -14,7 +14,7 @@ tags:
 
 ## Name
 
-[Techweek NYC](//techweek.com)
+[Techweek NYC](https://techweek.com)
 
 ## Organizer
 

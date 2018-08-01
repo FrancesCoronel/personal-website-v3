@@ -17,7 +17,7 @@ categories:
 
 ## Name
 
-[Monarchs Hack the Campus](//www.cs.odu.edu/~acm/hackathon/)
+[Monarchs Hack the Campus](https://www.cs.odu.edu/~acm/hackathon/)
 
 ## Organizer
 
@@ -43,7 +43,7 @@ For the annual Old Dominion University dubbed Monarchs Hack the Campus, I helped
 
 Monarchs Hack the Campus Old Dominion University February 2016 Credits go to Michelle Graham for ODU Cat Graphic
 
-For an upcoming hackathon at [ODU](//odu.edu) dubbed [`Monarchs Hack the Campus`](//www.cs.odu.edu/~acm/hackathon/), I'm acting as a volunteer and am already helping out with some pretty big tasks.
+For an upcoming hackathon at [ODU](https://odu.edu) dubbed [`Monarchs Hack the Campus`](https://www.cs.odu.edu/~acm/hackathon/), I'm acting as a volunteer and am already helping out with some pretty big tasks.
 
 ## Project
 
@@ -54,11 +54,11 @@ For an upcoming hackathon at [ODU](//odu.edu) dubbed [`Monarchs Hack the Campus`
 
 ### Tools
 
-* [HTML5UP](//html5up.net)
-* [Sublime Text](//github.com/fvcproductions/Sublime)
-* [CodeKit](//incident57.com/codekit/)
-* [Sketch](//www.sketchapp.com/)
-* [Typeform](//typeform.com)
+* [HTML5UP](https://html5up.net)
+* [Sublime Text](https://github.com/fvcproductions/Sublime)
+* [CodeKit](https://incident57.com/codekit/)
+* [Sketch](https://www.sketchapp.com/)
+* [Typeform](https://typeform.com)
 
 ### Tasks
 

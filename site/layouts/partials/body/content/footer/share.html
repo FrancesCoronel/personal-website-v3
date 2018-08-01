@@ -4,31 +4,31 @@
   <h1>🌐️ Share</h1>
   <!-- Twitter -->
   <div class="social-icons mt-2">
-    <a href="//twitter.com/intent/tweet?url={{ .Permalink }}&via={{ .Site.Social.twitter }}&text={{ .Title }}" target="_blank" rel="noopener" class="fa-twitter" aria-label="Share on Twitter">
+    <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&via={{ .Site.Social.twitter }}&text={{ .Title }}" target="_blank" rel="noopener" class="fa-twitter" aria-label="Share on Twitter">
       {{ partial "body/icons/twitter.html" . }}
     </a>
     <!-- Facebook -->
-    <a href="//www.facebook.com/sharer.php?u={{ .Permalink }}" target="_blank" rel="noopener" class="fa-facebook" aria-label="Share on Facebook">
+    <a href="https://www.facebook.com/sharer.php?u={{ .Permalink }}" target="_blank" rel="noopener" class="fa-facebook" aria-label="Share on Facebook">
       {{ partial "body/icons/facebook.html" . }}
     </a>
     <!-- LinkedIn -->
-    <a href="//www.linkedin.com/shareArticle?mini=true&url={{ .Permalink | safeURL }}&title={{ .Title }}&summary={{ .Summary }}&source={{ .Site.Title }}" target="_blank" rel="noopener" class="fa-linkedin" aria-label="Share on LinkedIn">
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink | safeURL }}&title={{ .Title }}&summary={{ .Summary }}&source={{ .Site.Title }}" target="_blank" rel="noopener" class="fa-linkedin" aria-label="Share on LinkedIn">
       {{ partial "body/icons/linkedin.html" . }}
     </a>
     <!-- Pinterest -->
-    <a href="//pinterest.com/pin/create/bookmarklet/?media={{ .Params.banner }}&url={{ .Permalink | safeURL }}&description={{ .Title }}" target="_blank" rel="noopener" class="fa-pinterest" aria-label="Share on Pinterest">
+    <a href="https://pinterest.com/pin/create/bookmarklet/?media={{ .Params.banner }}&url={{ .Permalink | safeURL }}&description={{ .Title }}" target="_blank" rel="noopener" class="fa-pinterest" aria-label="Share on Pinterest">
       {{ partial "body/icons/pinterest.html" . }}
     </a>
     <!-- Google+ -->
-    <a href="//plus.google.com/share?url={{ .Permalink | safeURL }}" target="_blank" rel="noopener" class="fa-google-plus" aria-label="Share on Google+">
+    <a href="https://plus.google.com/share?url={{ .Permalink | safeURL }}" target="_blank" rel="noopener" class="fa-google-plus" aria-label="Share on Google+">
       {{ partial "body/icons/google-plus.html" . }}
     </a>
     <!-- Reddit -->
-    <a href="//reddit.com/submit?url={{ .Permalink | safeURL }}&title={{ .Title }}" target="_blank" rel="noopener" class="fa-reddit" aria-label="Share on Reddit">
+    <a href="https://reddit.com/submit?url={{ .Permalink | safeURL }}&title={{ .Title }}" target="_blank" rel="noopener" class="fa-reddit" aria-label="Share on Reddit">
       {{ partial "body/icons/reddit.html" . }}
     </a>
     <!-- Hacker News -->
-    <a href="//news.ycombinator.com/submitlink?u={{ .Permalink | safeURL }}&t={{ .Title }}" target="_blank" rel="noopener" class="fa-reddit" aria-label="Share on Hacker News">
+    <a href="https://news.ycombinator.com/submitlink?u={{ .Permalink | safeURL }}&t={{ .Title }}" target="_blank" rel="noopener" class="fa-reddit" aria-label="Share on Hacker News">
       {{ partial "body/icons/hacker-news.html" . }}
     </a>
     <!-- Email -->

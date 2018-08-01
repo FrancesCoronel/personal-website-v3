@@ -15,7 +15,7 @@ tags:
 
 > I'll admit right away that this title is somewhat misleading because ultimately I didn't get the position BUT hot damn, at least I tried. 💪🏽
 
-So first, I would like to start out by saying how grateful I am for having been given the opportunity to interview with [Kapor Capital](//www.kaporcapital.com/) for the 2017 summer associate position.
+So first, I would like to start out by saying how grateful I am for having been given the opportunity to interview with [Kapor Capital](https://www.kaporcapital.com/) for the 2017 summer associate position.
 
 While I did not end up getting an offer, I learned a lot along the way and wanted to share some tidbits from my experience.
 
@@ -85,7 +85,7 @@ The process actually wasn't too drawn out before the onsite but in order to diff
 You can do this by crafting excellent responses to the questions they ask and showcasing your best self through your previous experience/resume.
 
 1.  applied online through posting
-2.  call with [Ulili](//www.kaporcapital.com/who-we-are/uriridiakoghene-onovakpuri/) (who was recently promoted to partner at Kapor)
+2.  call with [Ulili](https://www.kaporcapital.com/who-we-are/uriridiakoghene-onovakpuri/) (who was recently promoted to partner at Kapor)
 3.  onsite interview was scheduled for May 11, 2017
 4.  fly to Oakland
 5.  onsite interviews in Oakland
@@ -100,20 +100,20 @@ The nice part about the onsite is that all my travel needs were reimbursed and t
 > Wednesday - May 10th, 2017
 
 * **11:15 am** - Arrive at Office
-* **11:30 pm to 12:00pm** - Interview with [Ellen Pao](//www.kaporcapital.com/who-we-are/ellen-pao/)
+* **11:30 pm to 12:00pm** - Interview with [Ellen Pao](https://www.kaporcapital.com/who-we-are/ellen-pao/)
   * You will be joined by another candidate for this part of the interview.
 * **12:00 pm to 1:00 pm** - Lunch with the Kapor Capital Team Members
-  * [Anthony](//www.linkedin.com/in/anthony-heckman-6790a2b3), [Carolina](//www.kaporcapital.com/who-we-are/carolina-huaranca/), [Jorge](//www.kaporcapital.com/who-we-are/jorge-mendez/), [Mandela](//www.linkedin.com/in/mandelash), and [Ulili](//www.kaporcapital.com/who-we-are/uriridiakoghene-onovakpuri/)
-* **1:30 pm to 2:00pm** - Meeting with [Carolina](//www.kaporcapital.com/who-we-are/carolina-huaranca/)
-* **2:00 pm to 2:30pm** - Meeting with [Jorge](//www.kaporcapital.com/who-we-are/jorge-mendez/)
+  * [Anthony](https://www.linkedin.com/in/anthony-heckman-6790a2b3), [Carolina](https://www.kaporcapital.com/who-we-are/carolina-huaranca/), [Jorge](https://www.kaporcapital.com/who-we-are/jorge-mendez/), [Mandela](https://www.linkedin.com/in/mandelash), and [Ulili](https://www.kaporcapital.com/who-we-are/uriridiakoghene-onovakpuri/)
+* **1:30 pm to 2:00pm** - Meeting with [Carolina](https://www.kaporcapital.com/who-we-are/carolina-huaranca/)
+* **2:00 pm to 2:30pm** - Meeting with [Jorge](https://www.kaporcapital.com/who-we-are/jorge-mendez/)
 * **2:30 pm to 4:45pm** - Break
 * **4:45 pm** - Return to Kapor Center Offices
-* **5:00pm to 5:30 pm** - Interview with [Freada Kapor Klein](//www.kaporcapital.com/who-we-are/freada-kapor-klein/) and [Brian Dixon](//www.kaporcapital.com/who-we-are/brian-dixon/)
-* **5:30 pm to 6:00pm** - Interview with [Mitch Kapor](//www.kaporcapital.com/who-we-are/mitchell-kapor/)
+* **5:00pm to 5:30 pm** - Interview with [Freada Kapor Klein](https://www.kaporcapital.com/who-we-are/freada-kapor-klein/) and [Brian Dixon](https://www.kaporcapital.com/who-we-are/brian-dixon/)
+* **5:30 pm to 6:00pm** - Interview with [Mitch Kapor](https://www.kaporcapital.com/who-we-are/mitchell-kapor/)
 
 To prepare for the onsite interview, I reached out to several past summer associates via LinkedIn (at least 6 I believe) but only 3 replied - Madeline (resources), Adrian (branding), and Sidney.
 
-[Adrian](//www.jopwell.com/thewell/posts/day-in-the-life-venture-capital-summer-associate-adrian-williams-kapor-capital) actually gave me a great piece of advice:
+[Adrian](https://www.jopwell.com/thewell/posts/day-in-the-life-venture-capital-summer-associate-adrian-williams-kapor-capital) actually gave me a great piece of advice:
 
 _I think what you'll get out of it will tend to be very personal but I wanted to use the opportunity to dip my toe into VC, understand if it's something that I want to pursue further, understand what stage of the investment cycle I enjoy most, understand how social impact VC differs from traditional VC, etc. I think I was certainly able to get that out of my summer at Kapor._
 

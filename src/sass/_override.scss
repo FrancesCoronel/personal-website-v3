@@ -2,6 +2,12 @@
   background-color: $primary !important;
 }
 
+button.is-primary {
+  &:hover {
+    background-color: lighten($primary, 25%) !important;
+  }
+}
+
 .is-danger {
   background-color: $is-danger !important;
 }
@@ -24,7 +30,4 @@
 
 .container {
   padding: 0 .5em;
-  @media screen and (min-width: 1024px) {
-    width: 75%;
-  }
 }

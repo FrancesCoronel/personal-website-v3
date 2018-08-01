@@ -39,19 +39,19 @@ tags:
     - waves of tech
 ---
 
-> Where I rant and share questions my experience from my interview with [Hack Reactor](//hackreactor.com 'Hack Reactor') (sort of).
+> Where I rant and share questions my experience from my interview with [Hack Reactor](https://hackreactor.com 'Hack Reactor') (sort of).
 
 I keep looking for the key out of my novice programming level, but nothing seems to be clicking in the right place. It's an icky situation.
 
-[![](//www.clipartbest.com/cliparts/7Ta/Mbx/7TaMbxgLc.png)](//www.clipartbest.com/cliparts/7Ta/Mbx/7TaMbxgLc.png) The bow is the circular part.
+[![](https://www.clipartbest.com/cliparts/7Ta/Mbx/7TaMbxgLc.png)](https://www.clipartbest.com/cliparts/7Ta/Mbx/7TaMbxgLc.png) The bow is the circular part.
 
-The reasons I decided to consider these ‘coding bootcamps', which have garnered both positive and negative public opinions is because I think it's going to provide the [bow](//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Parts_of_a_Yale_lock-type_key.svg/2000px-Parts_of_a_Yale_lock-type_key.svg.png) for that key I was describing earlier.
+The reasons I decided to consider these ‘coding bootcamps', which have garnered both positive and negative public opinions is because I think it's going to provide the [bow](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Parts_of_a_Yale_lock-type_key.svg/2000px-Parts_of_a_Yale_lock-type_key.svg.png) for that key I was describing earlier.
 
 I'd have to take care of the important bits of the key of course, but it would be inconvenient if the key didn't have a bow, wouldn't it? I'm going to avoid going off a tangent here now...
 
-So, in lamest terms, the way I'm feeling right now about my programming skills is similar to feeling like `Big Head` from the TV show [Silicon Valley](<//en.wikipedia.org/wiki/Silicon_Valley_(TV_series)>). `Richard` and `Big Head` can relate to each other. They're buddies and they both work (or worked) at the same company. **But** their skills level are completely off. Richard really gets algorithms and data structures. He really **gets** them. But Big Head, he can only make these shady MVPs that turn out to be [pretty _sexist_](//www.newyorker.com/tech/elements/the-unfunniest-joke-in-technology).
+So, in lamest terms, the way I'm feeling right now about my programming skills is similar to feeling like `Big Head` from the TV show [Silicon Valley](<//en.wikipedia.org/wiki/Silicon_Valley_(TV_series)>). `Richard` and `Big Head` can relate to each other. They're buddies and they both work (or worked) at the same company. **But** their skills level are completely off. Richard really gets algorithms and data structures. He really **gets** them. But Big Head, he can only make these shady MVPs that turn out to be [pretty _sexist_](https://www.newyorker.com/tech/elements/the-unfunniest-joke-in-technology).
 
-[![](//wac.450f.edgecastcdn.net/80450F/screencrush.com/442/files/2014/03/Silicon-Valley.jpg)](//wac.450f.edgecastcdn.net/80450F/screencrush.com/442/files/2014/03/Silicon-Valley.jpg) Whut??
+[![](https://wac.450f.edgecastcdn.net/80450F/screencrush.com/442/files/2014/03/Silicon-Valley.jpg)](https://wac.450f.edgecastcdn.net/80450F/screencrush.com/442/files/2014/03/Silicon-Valley.jpg) Whut??
 
 I mean, **I** can't even make MVPs yet (not even _shady_ ones), but you still get the point.
 
@@ -63,9 +63,9 @@ As quick preparation, I went over what a closure and callback was. I had seen th
 
 So, what is a closure? That is the question.
 
-* A `closure`, I've come to understand, is a function that ‘closes over' local variables.
-* A `callback function`, on the other hand, can be used as a closure, but a callback function itself is when the function is called within itself in order to be be ‘called back' later.
-* I figured these topics would be something HR wants their applicants somewhat familiar with since `Node` works with closures and callbacks all the bloody time.
+- A `closure`, I've come to understand, is a function that ‘closes over' local variables.
+- A `callback function`, on the other hand, can be used as a closure, but a callback function itself is when the function is called within itself in order to be be ‘called back' later.
+- I figured these topics would be something HR wants their applicants somewhat familiar with since `Node` works with closures and callbacks all the bloody time.
 
 **Unfortunately**, the interview never took place over some confusion over my aliases. Whoops. I ended up rescheduling... 😔
 
@@ -104,14 +104,14 @@ I've decided to categorize the questions I asked into 4 sections: questions spec
 > Personal Cohort Experience
 
 1.  **Did you ever go through imposter syndrome?** Yeah, absolutely. It gets talked about a lot here, because the amount of information is tremendous that it is impossible to know everything. No one knows everything. It's definitely something that's talked about and so are strategies to overcome it.
-2.  **What was your project about?** My solo project was an astronomy app that would tell you the positioning of all the planets and my thesis project involved my team and I creating an iPhone app ([Endevr](//www.youtube.com/watch?v=XTizYogXstU 'Endevr')).
+2.  **What was your project about?** My solo project was an astronomy app that would tell you the positioning of all the planets and my thesis project involved my team and I creating an iPhone app ([Endevr](https://www.youtube.com/watch?v=XTizYogXstU 'Endevr')).
 3.  **How often did you stay up late in your experience at Hack Reactor?** I was pretty aggressive about getting 6–7 hours of sleep. And yes I did stay up late but it was't frequent.
 4.  **If you made a switch, why do you think you chose your initial field first?** Well, my jump wasn't that large compared to others. I came in with experience of being a product manager.
 5.  **Do you help construct the curriculum?** Yes, a little bit by providing toy problems. I also lecture a bit about toy problems and help out with interviews, the help desk, cross sort and debugging.
 6.  **What was your favorite event/memory from Hack Reactor?** The first 6 weeks were the most fun I've ever had, it was really great meeting the other students. There are a lot of interesting people getting along and figuring out this strange ecosystem. I just really had a ball.
 7.  **When did you notice the students in your cohort starting to get friendly with each other and form those bonds?** We had a really great group where you could see from the 1st day, the relationships were starting to get made. There were a lot of musicians and chess players, so we had these really crazy chess matches. People had a really good time. I'd say you could notice it immediately.
 
-#### If you are interested in more information regarding Hack Reactor, [I compiled a short list of resources to best prepare for the interview and also gave my thoughts on how competitive bootcamps select for students](//fvcproductions.com/blog/2015/01/05/tiny-glimpse-hack-reactor-selection-preparation/ 'A Tiny Glimpse Into Hack Reactor: Selection & Preparation').
+#### If you are interested in more information regarding Hack Reactor, [I compiled a short list of resources to best prepare for the interview and also gave my thoughts on how competitive bootcamps select for students](https://fvcproductions.com/blog/2015/01/05/tiny-glimpse-hack-reactor-selection-preparation/ 'A Tiny Glimpse Into Hack Reactor: Selection & Preparation').
 
 ## **Questions I Forgot To Ask**
 
@@ -124,11 +124,11 @@ I've decided to categorize the questions I asked into 4 sections: questions spec
 
 [I completed my technical interview last Friday with Christopher T. and Katherine G. acting as a shadow. The whole session was supposed to last exactly an hour.]{.s1}
 
-We jumped right into the technical interview and after Christopher thought I was tested enough (mainly on callbacks and objects) using [CodeShare](//codeshare.io 'CodeShare'), he gave me exactly 10 minutes to ask him about his experience about Hack Reactor.
+We jumped right into the technical interview and after Christopher thought I was tested enough (mainly on callbacks and objects) using [CodeShare](https://codeshare.io 'CodeShare'), he gave me exactly 10 minutes to ask him about his experience about Hack Reactor.
 
 The first question I asked was about his background before he came to Hack Reactor. He told me he wasn't comfortable answering that since he didn't really know me. I was a little taken aback and no longer knew what could be defined as an appropriate question at that point so I didn't really ask any more questions. To be fair, he did mention how amazing his experience at Hack Reactor was. It was also made clear I had a limited amount of time, so after that he told me that admissions would be getting back to me within a week and that was that.
 
-Well, "curiosity killed the cat" and I decided to look up my interviewers on LinkedIn ([weird, right?](//help.linkedin.com/app/answers/detail/a_id/3544/~/finding-people-on-linkedin 'Weird.')). Turns out not a lot is really private anymore, but I'm okay with pretending it is.
+Well, "curiosity killed the cat" and I decided to look up my interviewers on LinkedIn ([weird, right?](https://help.linkedin.com/app/answers/detail/a_id/3544/~/finding-people-on-linkedin 'Weird.')). Turns out not a lot is really private anymore, but I'm okay with pretending it is.
 
 I felt _pretty bad_ about how my interview went and decided to send them supplemental material such as links to my LinkedIn, GitHub, etc.
 
@@ -140,7 +140,7 @@ Today, they finally got back to me and this is part of the email they sent me:
 
 All in all, it was definitely an eye-opening experience and I'm glad I was able to be a part of it.
 
-I knew already beforehand that no matter what, I'm going to keep bettering myself and [riding the waves of technology](//www.urbandictionary.com/define.php?term=Surfing+the+Web 'Surfing The Web') and you know, just being me.
+I knew already beforehand that no matter what, I'm going to keep bettering myself and [riding the waves of technology](https://www.urbandictionary.com/define.php?term=Surfing+the+Web 'Surfing The Web') and you know, just being me.
 
 **Surf's Up! 🏄**
 
@@ -148,10 +148,10 @@ I knew already beforehand that no matter what, I'm going to keep bettering mysel
 
 I also have shared my **interview experience** with bootcamps such as
 
-* [Bitmaker Labs](/blog/2014/03/12/interview-bitmaker-labs/)
-* [Coding Dojo](/blog/2015/01/06/interview-coding-dojo/)
-* [Coding House](//fvcproductions.com/blog/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
-* [Designation](//fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
-* [Dev League](//fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'My Experience With DevLeague 💻')
-* [Fullstack Academy](//fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
-* [Maker Square](//fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')
+- [Bitmaker Labs](/blog/2014/03/12/interview-bitmaker-labs/)
+- [Coding Dojo](/blog/2015/01/06/interview-coding-dojo/)
+- [Coding House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
+- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
+- [Dev League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'My Experience With DevLeague 💻')
+- [Fullstack Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
+- [Maker Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')

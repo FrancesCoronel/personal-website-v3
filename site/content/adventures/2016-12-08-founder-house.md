@@ -16,7 +16,7 @@ September 11, 2016 to December 11, 2016
 
 ## About
 
-Now known as [Tribe Coliving](//www.tribecoliving.com/), Founder House is/was a network of interest-based co-living spaces in NYC.
+Now known as [Tribe Coliving](https://www.tribecoliving.com/), Founder House is/was a network of interest-based co-living spaces in NYC.
 
 I stayed at their location in Times Square for a semester while at Cornell Tech and I gotta say, it was a pretty positive experience despite the lack of privacy.
 

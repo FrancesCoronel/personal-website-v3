@@ -59,12 +59,12 @@ Check out the badges at [`built-in-norfolk`](https://github.com/fvcproductions/b
 
 ### Credits
 
-* [Sketch 3](//www.sketchapp.com/) (for all design things)
-* [For the Badge](//github.com/BraveUX/for-the-badge) (original inspiration)
+* [Sketch 3](https://www.sketchapp.com/) (for all design things)
+* [For the Badge](https://github.com/BraveUX/for-the-badge) (original inspiration)
 
 ### Tools
 
-* [Sketch](//www.sketchapp.com/)
+* [Sketch](https://www.sketchapp.com/)
 
 ## GitHub Repo
 

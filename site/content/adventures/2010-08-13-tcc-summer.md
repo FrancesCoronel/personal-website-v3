@@ -14,7 +14,7 @@ tags:
 
 ## Institution
 
-[Tidewater Community College (TCC)](//tcc.edu)
+[Tidewater Community College (TCC)](https://tcc.edu)
 
 ## Location
 
@@ -30,14 +30,14 @@ Dual Enrollment
 
 ## About
 
-[Tidewater Community College](//www.tcc.edu/) is the largest provider of higher education and workforce development services in Hampton Roads, enrolling over 37,000 students annually—the second largest undergraduate student body in the Commonwealth of Virginia.
+[Tidewater Community College](https://www.tcc.edu/) is the largest provider of higher education and workforce development services in Hampton Roads, enrolling over 37,000 students annually—the second largest undergraduate student body in the Commonwealth of Virginia.
 
 Through TCC's dual enrollment program, I enrolled in 2 different courses in the summer of 2010.
 
 ### Courses
 
-* `MTH 158` - College Algebra (A-)
-* `ACC 211` - Principles of Accounting I (B)
+- `MTH 158` - College Algebra (A-)
+- `ACC 211` - Principles of Accounting I (B)
 
 ### Transcript
 

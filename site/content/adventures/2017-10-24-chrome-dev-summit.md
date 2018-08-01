@@ -13,7 +13,7 @@ tags:
 
 ## Name
 
-[Chrome Dev Summit](//developer.chrome.com/devsummit/)
+[Chrome Dev Summit](https://developer.chrome.com/devsummit/)
 
 ## Organizer
 

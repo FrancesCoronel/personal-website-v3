@@ -2,6 +2,7 @@
 title: Portfolio 💼️
 description: My work across the interwebs.
 banner: https://i.imgur.com/DZnLjQQ.png
+portfolio: true
 aliases:
   - /portfolio/
   - /project-type/books/

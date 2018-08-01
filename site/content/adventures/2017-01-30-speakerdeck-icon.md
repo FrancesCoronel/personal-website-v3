@@ -12,7 +12,7 @@ tags:
   - sketch 3
 ---
 
-So I am in LOVE with [Speaker Deck](//speakerdeck.com). 😍
+So I am in LOVE with [Speaker Deck](https://speakerdeck.com). 😍
 
 BUT I can't even find a good version of their bloody logo to use for my website or projects!
 
@@ -22,6 +22,6 @@ So I decided to just create my own using their crappy small logo I could find fr
 
 Now I can use the logo with whatever background I want! 😊
 
-If you want access to the Sketch file, feel free to download it from [this GitHub repo](//github.com/fvcproductions/sketch). 😺
+If you want access to the Sketch file, feel free to download it from [this GitHub repo](https://github.com/fvcproductions/sketch). 😺
 
 ![Speaker Deck 1](https://i.imgur.com/QncIeTz.png)

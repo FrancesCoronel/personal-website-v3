@@ -133,7 +133,7 @@ $fa-color in $fa-social {
     text-align: center;
     color: inherit;
     padding: 1em;
-    margin: 0.1em;
+    margin: 0.5em;
     &:hover {
       border-style: solid;
       border-color: white;
@@ -141,9 +141,6 @@ $fa-color in $fa-social {
   }
   .fa-icon {
     font-size: 1.5em;
-  }
-  @media screen and (max-width: $tablet) {
-    text-align: center;
   }
 }
 

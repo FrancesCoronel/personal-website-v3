@@ -14,7 +14,7 @@ tags:
 
 ## Name
 
-[Beer City Code](//beercitycode.com/)
+[Beer City Code](https://beercitycode.com/)
 
 ## Location
 

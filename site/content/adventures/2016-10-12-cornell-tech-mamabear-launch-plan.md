@@ -48,7 +48,7 @@ I helped create visual assets, design the presentation, formatted launch plan, a
 
 As part of the MamaBear Launch Plan, I created a Twitter-esque UI to help illustrate what kind of problems the MamaBear platform would be responding to in order to help users while at conferences.
 
-The initial Sketch file was created by [Rafael Conde](//rafaelconde.net/).
+The initial Sketch file was created by [Rafael Conde](https://rafaelconde.net/).
 
 ![Mama Bear 2](https://i.imgur.com/HxuAa43.png)
 

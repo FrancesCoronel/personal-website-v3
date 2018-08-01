@@ -15,18 +15,18 @@ categories:
 >
 > Last updated April 2015.
 
-For an English 218 project, my team and I decided to create two [GitBooks](//gitbook.com) that would serve as a sort of introduction for both Computer Science & English majors at [Hampton University](//hamptonu.edu).
+For an English 218 project, my team and I decided to create two [GitBooks](https://gitbook.com) that would serve as a sort of introduction for both Computer Science & English majors at [Hampton University](https://hamptonu.edu).
 
 We decided to separate the two majors into 2 different GitBooks:
 
-1.  [An Intro for CS Majors at HU](//bit.ly/hu-book)
+1.  [An Intro for CS Majors at HU](https://bit.ly/hu-book)
 2.  [An Intro for ENG Majors at HU](https://www.gitbook.com/book/fvcproductions/an-intro-for-eng-majors-at-hu)
 
 We'll have to see how it goes but I think it has a lot of potential.
 
-* short link to CS GitBook [bit.ly/hu-book](//bit.ly/hu-book)
-* about the GitBooks [bit.ly/about-hu-book](//bit.ly/about-hu-book)
-* website for GitBooks [hubook.strikingly.com](//hubook.strikingly.com/)
+* short link to CS GitBook [bit.ly/hu-book](https://bit.ly/hu-book)
+* about the GitBooks [bit.ly/about-hu-book](https://bit.ly/about-hu-book)
+* website for GitBooks [hubook.strikingly.com](https://hubook.strikingly.com/)
 
 ## Table of Contents
 
@@ -34,8 +34,8 @@ We'll have to see how it goes but I think it has a lot of potential.
 
 ## Tools
 
-* This book is published using the platform [GitBook](//bit.ly/hu-book).
-* A one-page website for the book is located at [hubook.strikingly.com](//hubook.strikingly.com/).
+* This book is published using the platform [GitBook](https://bit.ly/hu-book).
+* A one-page website for the book is located at [hubook.strikingly.com](https://hubook.strikingly.com/).
 
 ## Why this project?
 

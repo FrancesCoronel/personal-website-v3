@@ -13,7 +13,7 @@ tags:
 
 ## Name
 
-[SMASH Academy at Stanford](//engineering.stanford.edu/students-academics/engineering-diversity-programs/pre-college-programs/smash-academy-stanford)
+[SMASH Academy at Stanford](https://engineering.stanford.edu/students-academics/engineering-diversity-programs/pre-college-programs/smash-academy-stanford)
 
 ## Location
 
@@ -29,7 +29,7 @@ Speaker - "My Career Path Thus Far"
 
 ## About
 
-[SMASH Academy](//www.smash.org/programs/smash-academy/) is a part of the Level Playing Field Institute (LPFI), an education empowerment social arm of the Kapor Center of Social Impact.
+[SMASH Academy](https://www.smash.org/programs/smash-academy/) is a part of the Level Playing Field Institute (LPFI), an education empowerment social arm of the Kapor Center of Social Impact.
 
 SMASH is a free of cost, STEM-intensive college preparatory program for underrepresented high school students of color.
 

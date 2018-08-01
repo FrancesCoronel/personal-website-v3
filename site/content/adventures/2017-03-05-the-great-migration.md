@@ -35,18 +35,18 @@ Now, I just want to reassure Automattic that I've been loving my Wordpress.com e
 
 ## So this will probably be one of my last posts on this blog as I transition all the content over. 😶
 
-Feel free to view the progress of my new blog at [fvcproductions.github.io](//fvcproductions.github.io) but I don't expect it to be fully fleshed out until July of this year.🌻
+Feel free to view the progress of my new blog at [fvcproductions.github.io](https://fvcproductions.github.io) but I don't expect it to be fully fleshed out until July of this year.🌻
 
 ## In the meantime, I am still actively publishing content to the following services so feel free to check them out! 😊
 
-* [Behance](//behance.net/fvcproductions) (design) 🎨
-* [GitHub](//github.com/fvcproductions) (code) 💻
-* [Scribd](//www.scribd.com/user/194063411/FVCproductions) (docs) 🗒
-* [SpeakerDeck](//speakerdeck.com/fvcproductions) (presentations) 💬
-* [YouTube](//www.youtube.com/+fvcproductions2013) (videos) 🎥
+* [Behance](https://behance.net/fvcproductions) (design) 🎨
+* [GitHub](https://github.com/fvcproductions) (code) 💻
+* [Scribd](https://www.scribd.com/user/194063411/FVCproductions) (docs) 🗒
+* [SpeakerDeck](https://speakerdeck.com/fvcproductions) (presentations) 💬
+* [YouTube](https://www.youtube.com/+fvcproductions2013) (videos) 🎥
 
 ## Overall, I'm super excited about this process and have been actively working on my new website the entirety of this past week. Here's to new beginnings! 🎉
 
-![The Great Gatsby Toast](//fvcproductions.files.wordpress.com/2017/03/source.gif)
+![The Great Gatsby Toast](https://fvcproductions.files.wordpress.com/2017/03/source.gif)
 
 > The header image is in reference to that awesome migration Monarch butterflies have every year. 🦋

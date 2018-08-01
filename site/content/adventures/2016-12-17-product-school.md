@@ -13,7 +13,7 @@ categories:
 
 ## Name
 
-[Product School](//productschool.com)
+[Product School](https://productschool.com)
 
 ## Location
 

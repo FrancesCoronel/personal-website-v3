@@ -12,7 +12,7 @@ categories:
 
 ## Name
 
-[DeveloperWeek](//developerweek.com "DeveloperWeek")
+[DeveloperWeek](https://developerweek.com "DeveloperWeek")
 
 ## Organizer
 

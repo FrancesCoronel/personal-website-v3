@@ -14,11 +14,11 @@
   }
   a {
     border-bottom-width: 1px;
-    border-bottom-style: dotted;
+    border-bottom-style: dashed;
     border-bottom-color: $links;
     &:hover {
       color: black;
-      border-bottom-width: 1px;
+      border-bottom-width: 2px;
       border-bottom-style: solid;
       border-bottom-color: black;
       img {
@@ -61,6 +61,9 @@
   }
   figure {
     margin: 0;
+    &:not(:last-child) {
+      margin: 0;
+    }
   }
   .columns.is-multiline {
     margin-top: 1em;

@@ -10,7 +10,7 @@ categories:
   - oss
 ---
 
-I created a guessing game for the Foundations stage of [Fullstack Academy](//fullstackacademy.com).
+I created a guessing game for the Foundations stage of [Fullstack Academy](https://fullstackacademy.com).
 
 <blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/guessing-game">The Guessing Game</a></h4><p>Fullstack Foundations - Part 1</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -20,16 +20,16 @@ I created a guessing game for the Foundations stage of [Fullstack Academy](//ful
 
 ## Features
 
-* Cool music once you win or lose.
-* Number validation.
-* Tracking for your previous guesses.
-* Really hard to **NOT** win.
-* Hints
-* Number of guesses limit
-* You can have fun guessing numbers?!
+- Cool music once you win or lose.
+- Number validation.
+- Tracking for your previous guesses.
+- Really hard to **NOT** win.
+- Hints
+- Number of guesses limit
+- You can have fun guessing numbers?!
 
 # Tools
 
-* [GitHub Pages](//pages.github.com/)
-* [Bootstrap](//getbootstrap.com/)
-* [Flat UI](//designmodo.github.io/Flat-UI/)
+- [GitHub Pages](https://pages.github.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Flat UI](https://designmodo.github.io/Flat-UI/)

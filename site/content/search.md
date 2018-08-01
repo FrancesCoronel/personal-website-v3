@@ -70,7 +70,7 @@ a.gsst_a {
 }
 
 table.gsc-search-box {
-    display: inline-table;
+  display: inline-table;
 }
 
 .gsc-selected-option-container {
@@ -81,10 +81,20 @@ table.gsc-search-box {
   display: none;
 }
 
-.gsc-tabsArea > div {
+.gsc-tabsArea>div {
   overflow: hidden;
 }
 
+input#gsc-i-id1 {
+  background: none !important;
+  margin: 0 !important;
+  text-indent: 0 !important;
+  padding: 1em !important;
+}
+
+td.gsc-input {
+    padding: 0!important;
+}
 </style>
 
 <script>

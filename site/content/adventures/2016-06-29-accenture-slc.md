@@ -11,7 +11,7 @@ categories:
 
 ## Name
 
-[Student Leadership Conference](//www.accenture.com/us-en/careers/student-leadership-conference "Accenture Student Leadership Conference")
+[Student Leadership Conference](https://www.accenture.com/us-en/careers/student-leadership-conference "Accenture Student Leadership Conference")
 
 ## Organizer
 

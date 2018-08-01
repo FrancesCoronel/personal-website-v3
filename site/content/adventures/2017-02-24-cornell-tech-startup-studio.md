@@ -23,7 +23,7 @@ tags:
   - desktop app
 ---
 
-For [Startup Studio](//tech.cornell.edu/studio) at [Cornell Tech](//tech.cornell.edu), I teamed up with three other women to create a streamlined document management solution targeted at social workers so they can place children into foster care faster.
+For [Startup Studio](https://tech.cornell.edu/studio) at [Cornell Tech](https://tech.cornell.edu), I teamed up with three other women to create a streamlined document management solution targeted at social workers so they can place children into foster care faster.
 
 <blockquote class="embedly-card"><h4><a href="https://tech.cornell.edu/studio">Studio</a></h4><p>Cornell Tech is a graduate school like none other, designed to engage our rapidly evolving global society. Located in New York City.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -111,7 +111,7 @@ At the end of the semester, each team was also tasked to create a poster for the
 
 This is the end result.
 
-Feel free to download the PDF [here](//github.com/fvcproductions/venus-co/raw/assets/pdf/poster.pdf).
+Feel free to download the PDF [here](https://github.com/fvcproductions/venus-co/raw/assets/pdf/poster.pdf).
 
 ## GitHub Repo
 
@@ -120,4 +120,4 @@ Feel free to download the PDF [here](//github.com/fvcproductions/venus-co/raw/as
 
 ---
 
-> See other examples of work submitted to Startup Studio [here](//docs.google.com/spreadsheets/d/1cBiZH8efq6DdHRY-ErI38FRjVvPraRCeE4WyrrGg99M/edit#gid=0).
+> See other examples of work submitted to Startup Studio [here](https://docs.google.com/spreadsheets/d/1cBiZH8efq6DdHRY-ErI38FRjVvPraRCeE4WyrrGg99M/edit#gid=0).

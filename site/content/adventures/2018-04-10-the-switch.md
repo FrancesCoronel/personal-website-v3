@@ -78,9 +78,9 @@ So let's go through these switches one-by-one!
 
 ![Google Play Books](https://i.imgur.com/JsGt0vN.png)
 
-Unlike iBooks, [Google Play Books](//play.google.com/books) can serve you as an offline-first web app that is also wholly cross-platform with Android & iOS options.
+Unlike iBooks, [Google Play Books](https://play.google.com/books) can serve you as an offline-first web app that is also wholly cross-platform with Android & iOS options.
 
-ℹ️ **FYI** If you need help finding out where your ePub/PDF files are from iBooks, this Stack Overflow answer for [Where are my iBooks stored in macOS Sierra?](//apple.stackexchange.com/questions/259836/where-are-my-ibooks-stored-in-macos-sierra) will become quite handy.
+ℹ️ **FYI** If you need help finding out where your ePub/PDF files are from iBooks, this Stack Overflow answer for [Where are my iBooks stored in macOS Sierra?](https://apple.stackexchange.com/questions/259836/where-are-my-ibooks-stored-in-macos-sierra) will become quite handy.
 
 ### Browser
 
@@ -88,15 +88,15 @@ Unlike iBooks, [Google Play Books](//play.google.com/books) can serve you as an 
 
 ![Chrome](https://i.imgur.com/fZJjELa.png)
 
-If you're a developer, most folks recommend using [Chrome](//www.google.com/chrome/) and frankly I've used Chrome for the longest time now so I can't even offer any arguments for why other browsers might be better.
+If you're a developer, most folks recommend using [Chrome](https://www.google.com/chrome/) and frankly I've used Chrome for the longest time now so I can't even offer any arguments for why other browsers might be better.
 
-Chrome & their [DevTools](//developer.chrome.com/devtools) have always just worked great for me.
+Chrome & their [DevTools](https://developer.chrome.com/devtools) have always just worked great for me.
 
-But I still use Safari for the one thing Chrome has yet to offer which is [PiP or Picture-in-Picture](//www.wikiwand.com/en/Picture-in-picture).
+But I still use Safari for the one thing Chrome has yet to offer which is [PiP or Picture-in-Picture](https://www.wikiwand.com/en/Picture-in-picture).
 
-Unfortunately, the current solutions for Chrome [are quite dismal](//apple.stackexchange.com/questions/254701/how-to-use-picture-in-picture-in-chrome).
+Unfortunately, the current solutions for Chrome [are quite dismal](https://apple.stackexchange.com/questions/254701/how-to-use-picture-in-picture-in-chrome).
 
-I've tried [Helium](//heliumfloats.com/) but that's just a separate browser, so it doesn't seem that useful to me.
+I've tried [Helium](https://heliumfloats.com/) but that's just a separate browser, so it doesn't seem that useful to me.
 
 My sister uses Safari because she thinks the UI is cleaner which doesn't make sense to me but it's okay Rosi - you do you. 😂
 
@@ -128,7 +128,7 @@ Not going to lie to you, AirDrop is neato. I still use it sometimes to transfer 
 
 However, a bummer about AirDrop is that it only works with Apple's ecosystem of devices.
 
-With [Portal](//portal.pushbullet.com/), you need to have the app downloaded on the devices you want files transferred to similar to how
+With [Portal](https://portal.pushbullet.com/), you need to have the app downloaded on the devices you want files transferred to similar to how
 
 ### Fitness
 
@@ -136,7 +136,7 @@ With [Portal](//portal.pushbullet.com/), you need to have the app downloaded on 
 
 ![Google Fit](https://i.imgur.com/iiBR3B9.png)
 
-I think you're probably starting to see the same pattern, but yes basically, Google Fit is excellent in that it also [offers a web version](//fit.google.com/u/0/) of all the fitness data they collect.
+I think you're probably starting to see the same pattern, but yes basically, Google Fit is excellent in that it also [offers a web version](https://fit.google.com/u/0/) of all the fitness data they collect.
 
 ![Google Fit Web](https://i.imgur.com/5rgmDqI.png)
 
@@ -154,9 +154,9 @@ Try not to judge my lack of activity - my phone doesn't track everything. 😛�
 
 ![Google Play Music - 1](https://phandroid.s3.amazonaws.com/wp-content/uploads/2014/11/Google-Play-Music-YouTube-Music-Key.png)
 
-Apple's music infrastructure is very elite and has a loyal fan base (e.g., my siblings). However, what makes [Google Play Music](//play.google.com/music) quite valuable is their association with YouTube.
+Apple's music infrastructure is very elite and has a loyal fan base (e.g., my siblings). However, what makes [Google Play Music](https://play.google.com/music) quite valuable is their association with YouTube.
 
-Because YouTube is by far the most popular video streaming sites in the world, Google Play Music having [YouTube Red](//www.youtube.com/red) as part of the subscription package is a huge plus.
+Because YouTube is by far the most popular video streaming sites in the world, Google Play Music having [YouTube Red](https://www.youtube.com/red) as part of the subscription package is a huge plus.
 
 ![Google Play Music - 2](https://i.imgur.com/Yz5ZXkn.png)
 
@@ -174,11 +174,11 @@ I would have switched to Google Play Music a while ago, but I pay less with Spot
 
 Okay - IMO - if you were ever using Apple Maps, I have nothing to say to you except wow, that makes no sense at all. My sister uses Apple Maps still for some arbitrary reason, and I mock her for it all the time. Rosi, if you're reading this, I don't feel a shred of empathy. 😂
 
-I don't drive anymore because frankly, driving is super scary but if I'm helping someone navigate, I prefer to use [Waze](//www.waze.com/) where I'm royalty. 👑️
+I don't drive anymore because frankly, driving is super scary but if I'm helping someone navigate, I prefer to use [Waze](https://www.waze.com/) where I'm royalty. 👑️
 
 ![Waze](https://i.kinja-img.com/gawker-media/image/upload/s--m2L99CqK--/c_scale,fl_progressive,q_80,w_800/wc5bdu7xaoqf0vcvgq5w.png)
 
-However, a plus that Googles offer (haha) is that you can level up as a [Local Guide contributor](//maps.google.com/localguides) and get some sweet prizes. I'm still on Level 5.
+However, a plus that Googles offer (haha) is that you can level up as a [Local Guide contributor](https://maps.google.com/localguides) and get some sweet prizes. I'm still on Level 5.
 
 ![Local Guide](https://i.imgur.com/TR4ODPR.png)
 
@@ -190,9 +190,9 @@ However, a plus that Googles offer (haha) is that you can level up as a [Local G
 
 Initially, I was pretty fine with using Google Play Newsstand which is entirely cross-platform, unlike Apple News.
 
-Apple News is literally just supported on iOS while Google Play Newsstand is supported by [iOS](//itunes.apple.com/us/app/google-play-newsstand/id459182288?mt=8), [Android](//play.google.com/store/apps/details?id=com.google.android.apps.magazines) & [Web](//newsstand.google.com/).
+Apple News is literally just supported on iOS while Google Play Newsstand is supported by [iOS](https://itunes.apple.com/us/app/google-play-newsstand/id459182288?mt=8), [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines) & [Web](https://newsstand.google.com/).
 
-However, I realized after some time that I like the quality of news I get from [The New York Times](//www.nytimes.com/) so I subscribed. 📰️
+However, I realized after some time that I like the quality of news I get from [The New York Times](https://www.nytimes.com/) so I subscribed. 📰️
 
 ![The New York Times](https://downtrend.com/wp-content/uploads/2017/08/gty_new_york_times_ll_130827_16x9_992.jpg)
 
@@ -204,7 +204,7 @@ Regardless, when are more companies going to realize that the web is the future 
 
 ![Google Keep](http://www.androidguys.com/wp-content/uploads/2015/08/KeepGif-3.gif)
 
-As I mentioned before, Google Keep [integrates well](//www.wired.com/2016/07/turn-google-best-app-ever/) with Google Inbox & Google Calendar.
+As I mentioned before, Google Keep [integrates well](https://www.wired.com/2016/07/turn-google-best-app-ever/) with Google Inbox & Google Calendar.
 
 You can even copy your notes to Google Doc as shown in the GIF above.
 
@@ -216,7 +216,7 @@ HOWEVER. For me, it doesn't have a UI right now that supports long form notes wh
 
 Quick jots for me were always created as reminders or soon turned into more extended notes.
 
-There are a lot of note taking options honestly with notable ones being [Evernote](//evernote.com/), [Quip](//quip.com/) & [Notion](//notion.so).
+There are a lot of note taking options honestly with notable ones being [Evernote](https://evernote.com/), [Quip](https://quip.com/) & [Notion](https://notion.so).
 
 ![Notion](https://i.imgur.com/kcl6Itk.png)
 
@@ -238,13 +238,13 @@ Unlimited storage and a 10x better UI than Apple Photos? I was already using Goo
 
 ![Google Keep](https://i.imgur.com/nZ2aQEE.png)
 
-Hmmm. The transition here is where things got a little hairy. The reason I liked using [Reminders](//www.icloud.com/reminders) so much is that it was very simplistic and integrated with my favorite calendar desktop app - [Fantastical](//flexibits.com/fantastical).
+Hmmm. The transition here is where things got a little hairy. The reason I liked using [Reminders](https://www.icloud.com/reminders) so much is that it was very simplistic and integrated with my favorite calendar desktop app - [Fantastical](https://flexibits.com/fantastical).
 
-However, the reality is there are some great reminder options out there now like [Todoist](//todoist.com) and [Microsoft's To-Do](//todo.microsoft.com/en-us) (they acquired [Wunderlist](//www.wunderlist.com/)) so this isn't a big deal.
+However, the reality is there are some great reminder options out there now like [Todoist](https://todoist.com) and [Microsoft's To-Do](https://todo.microsoft.com/en-us) (they acquired [Wunderlist](https://www.wunderlist.com/)) so this isn't a big deal.
 
 ![Todoist](https://d3ptyyxy2at9ui.cloudfront.net/968d99236e2536919d6d14ca13d25930.jpg)
 
-I use Todoist, and all my reminders integrate right into my Google Calendar which in turn works swimmingly with every significant calendar desktop app worth a damn like Fantastical or [BusyCal](//www.busymac.com/busycal/).
+I use Todoist, and all my reminders integrate right into my Google Calendar which in turn works swimmingly with every significant calendar desktop app worth a damn like Fantastical or [BusyCal](https://www.busymac.com/busycal/).
 
 ### SMS
 
@@ -254,7 +254,7 @@ I use Todoist, and all my reminders integrate right into my Google Calendar whic
 
 ![Google Allo](https://allo.google.com/images/allo-share.jpg)
 
-Things are quite fishy here. Google has way too many apps for messaging ([Google Hangouts](//www.wikiwand.com/en/Google_Hangouts), [Google Allo](//allo.google.com/) & [Android Messages](//play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en_US)) and it rightfully confuses consumers who interact with them.
+Things are quite fishy here. Google has way too many apps for messaging ([Google Hangouts](https://www.wikiwand.com/en/Google_Hangouts), [Google Allo](https://allo.google.com/) & [Android Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en_US)) and it rightfully confuses consumers who interact with them.
 
 ![Chat Apps](https://cdn57.androidauthority.net/wp-content/uploads/2017/03/Google-communication-apps-840x473.jpg)
 
@@ -270,8 +270,8 @@ Unfortunately, it's been hard to convince everyone I text to use Allo with me, s
 
 As I said before, Google's communication offerings can confuse consumers and they need to still work on centralizing everything into one platform.
 
-For professional stuff, I prefer to use [Daily.co](//daily.co) but of course for personal calls, you can't go wrong with [Google Duo](//duo.google.com/) which is supported by both Android & iOS.
+For professional stuff, I prefer to use [Daily.co](https://daily.co) but of course for personal calls, you can't go wrong with [Google Duo](https://duo.google.com/) which is supported by both Android & iOS.
 
-In [January of this year](//www.androidauthority.com/google-web-support-group-calls-better-audio-quality-829305/), the Duo team teased that Duo would be coming to the web soon but who the hell knows?
+In [January of this year](https://www.androidauthority.com/google-web-support-group-calls-better-audio-quality-829305/), the Duo team teased that Duo would be coming to the web soon but who the hell knows?
 
 But yes, ideally, Duo becomes even more cross-platform because then it could compete with FaceTime even better.

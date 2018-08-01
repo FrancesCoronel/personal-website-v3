@@ -13,7 +13,7 @@ tags:
   - blog posts
 ---
 
-Going into [**Fullstack Academy**](//fullstackacademy.com/), a coding bootcamp in NYC, I knew I would be blogging extensively about my experience.
+Going into [**Fullstack Academy**](https://fullstackacademy.com/), a coding bootcamp in NYC, I knew I would be blogging extensively about my experience.
 
 What I wasn't expecting, however, is how much fun it would be to create the banners for my blog posts.
 

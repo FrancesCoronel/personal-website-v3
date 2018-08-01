@@ -26,7 +26,7 @@ tags:
 
 ## Name
 
-[Event](//google.com)
+[Event](https://google.com)
 
 ## Location
 

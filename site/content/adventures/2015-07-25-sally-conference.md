@@ -11,7 +11,7 @@ categories:
 
 ## Name
 
-[Sally Conference](//www.thesallyconference.com/ "Sally Conference")
+[Sally Conference](https://www.thesallyconference.com/ "Sally Conference")
 
 ## Organizer
 

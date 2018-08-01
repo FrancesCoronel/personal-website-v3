@@ -43,41 +43,41 @@ categories:
 
 ### Binary Trees 🌲
 
-* _trees_
-  * a structure with unique starting point - root - where each node can have multiple children nodes, and a unique path exists from the root node to every other node
-* _root_
-  * top node of a tree structure, a node with no parent
-* _binary tree_
-  * structure where each item is called a node and where each node can have a max of two children, left and right child node
-  * diagram:\
-    ![](//www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/pix/tree1.bmp)
-* _leaf_
-  * node with no children
-* _descendant_
-  * child of a node
-* _ancestor_
-  * parent of a node
-* _binary search tree_
-  * binary tree where value in any node is greater than or equal to value in its left child and any of descendants (nodes in left subtree) and less than value in its right child and any of its descendants (nodes in right subtree)
-  * diagram:\
-    ![](//programminggeeks.com/wp-content/uploads/2014/01/nodes-in-binary-search-tree.png)
-* _full binary tree_
-  * binary tree where all of leaves are on same level and every nonleaf node has 2 children
-* _complete binary tree_
-  * binary tree that is full or full through next-to-last level, with leaves on last level as far as possible\
-    ![](//www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/pix/full_complete.bmp)
-* _balanced tree_
-  * left and right subtrees of any node are the same height\
-    ![](//www.stoimen.com/blog/wp-content/uploads/2012/06/10.-Balanced-or-not.png)
+- _trees_
+  - a structure with unique starting point - root - where each node can have multiple children nodes, and a unique path exists from the root node to every other node
+- _root_
+  - top node of a tree structure, a node with no parent
+- _binary tree_
+  - structure where each item is called a node and where each node can have a max of two children, left and right child node
+  - diagram:\
+    ![](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/pix/tree1.bmp)
+- _leaf_
+  - node with no children
+- _descendant_
+  - child of a node
+- _ancestor_
+  - parent of a node
+- _binary search tree_
+  - binary tree where value in any node is greater than or equal to value in its left child and any of descendants (nodes in left subtree) and less than value in its right child and any of its descendants (nodes in right subtree)
+  - diagram:\
+    ![](https://programminggeeks.com/wp-content/uploads/2014/01/nodes-in-binary-search-tree.png)
+- _full binary tree_
+  - binary tree where all of leaves are on same level and every nonleaf node has 2 children
+- _complete binary tree_
+  - binary tree that is full or full through next-to-last level, with leaves on last level as far as possible\
+    ![](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/pix/full_complete.bmp)
+- _balanced tree_
+  - left and right subtrees of any node are the same height\
+    ![](https://www.stoimen.com/blog/wp-content/uploads/2012/06/10.-Balanced-or-not.png)
 
-- _preorder_
-  * node/root, left, right
-- _inorder_
-  * left, node/root, right
-- _postorder_
-  * left, right, node/root
+* _preorder_
+  - node/root, left, right
+* _inorder_
+  - left, node/root, right
+* _postorder_
+  - left, right, node/root
 
-![](//www.cse.unt.edu/~donr/courses/2050/images/Figure1010.gif)
+![](https://www.cse.unt.edu/~donr/courses/2050/images/Figure1010.gif)
 
 > **FUN TIP I** 🌟
 >
@@ -88,35 +88,35 @@ categories:
 >
 > > in-order traversal is probably easiest to see, because it sorts the values from smallest to largest (literally)
 
-* **How to Delete A Binary Search Tree** ␡
-  * no successor
+- **How to Delete A Binary Search Tree** ␡
+  - no successor
     1.  if node is leaf, simply removed
     2.  but if root is leaf, pointer to tree assigned null value
-  * one successor
+  - one successor
     1.  parent node connected to sucessor node
     2.  deleted node disposed of
-  * two successors
+  - two successors
     1.  find logical predecessor (node in left subtree with largest value)
     2.  logical predecessor replaces deleted node
 
 ### Recursion 🚥
 
-* **recursive method is a method that calls itself**
-  * in many cases, recursive algorithms are less efficient than iterative algorithms
-* **recursive solutions repetitively**
-  * allocate memory for parameters and local variables
-  * store address of where control returns after method terminates
-* **basically works like this:**
-  * a base case is established
-    * if matched, method solves it and returns
-  * if base case cannot be solved
-    * method reduces it to smaller problem (recursive case) and calls itself to solve smaller problem
-* **examples of recursion in real life**
-  * quick sort, merge sort, flowers,Towers of Hanoi, Fibonacci sequence, factorials
-  * towers of hanoi fun pic:\
-    ![](//upload.wikimedia.org/wikipedia/commons/6/60/Tower_of_Hanoi_4.gif)
+- **recursive method is a method that calls itself**
+  - in many cases, recursive algorithms are less efficient than iterative algorithms
+- **recursive solutions repetitively**
+  - allocate memory for parameters and local variables
+  - store address of where control returns after method terminates
+- **basically works like this:**
+  - a base case is established
+    - if matched, method solves it and returns
+  - if base case cannot be solved
+    - method reduces it to smaller problem (recursive case) and calls itself to solve smaller problem
+- **examples of recursion in real life**
+  - quick sort, merge sort, flowers,Towers of Hanoi, Fibonacci sequence, factorials
+  - towers of hanoi fun pic:\
+    ![](https://upload.wikimedia.org/wikipedia/commons/6/60/Tower_of_Hanoi_4.gif)
 
-- **example 1 provided - emptyVase** 🍶\
+* **example 1 provided - emptyVase** 🍶\
   ```void emptyVase(int flowersInVase) {\
   if (flowersInVase &gt; 0) {\
   //takes one flower\
@@ -126,7 +126,7 @@ categories:
   }\
   }\
   ```
-- **example 2 provided - Recursion2**\
+* **example 2 provided - Recursion2**\
   ```public class Recursion2 {\
   public void countItDown(int counter) {\
   if (counter == 0)\
@@ -145,7 +145,7 @@ categories:
   }\
   }\
   ```
-- **example 3 provided - count** ⓴\
+* **example 3 provided - count** ⓴\
   ```count(n)\
   if (n &gt; 0)\
   print n\
@@ -157,7 +157,7 @@ categories:
   count: (n-1) --&gt; n = 1\
   count: (n-1) --&gt; n = 0\
   ```
-- **example 4 - from textbook `Foundations of Java`**\
+* **example 4 - from textbook `Foundations of Java`**\
   ```public class Recursive {\
   public static void message(int n) { //displays message n times\
   if (n &gt; 0) {\
@@ -167,7 +167,7 @@ categories:
   }\
   }\
   ```
-- **example 5 - from textbook `Foundations of Java`**\
+* **example 5 - from textbook `Foundations of Java`**\
   ```public static int fib(int n) { // returns
   nth number in Fibonacci sequence\
   if (n == 0)\
@@ -178,7 +178,7 @@ categories:
   return fib(n - 1) + fib(n - 2);\
   }\
   ```
-- **example 6 - from textbook `Foundations of Java`**\
+* **example 6 - from textbook `Foundations of Java`**\
   ```public static int factorial(int n) { //
   returns factorial of non-negative argument\
   if (n == 0)\
@@ -187,7 +187,7 @@ categories:
   return n \* factorial(n-1);\
   }\
   ```
-- **example 7 - from textbook `Foundations of Java`**\
+* **example 7 - from textbook `Foundations of Java`**\
   ```public static int gcd(int x, int y) { //
   returns greater common denominator of two arguments\
   if (x % y == 0)\

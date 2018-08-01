@@ -12,7 +12,7 @@ categories:
 
 ## Name
 
-[React.js Conf](//conf.reactjs.com/ "React.js Conf")
+[React.js Conf](https://conf.reactjs.com/ "React.js Conf")
 
 ## Organizer
 

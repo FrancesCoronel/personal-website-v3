@@ -10,7 +10,7 @@ categories:
 
 ## Institution
 
-[Ghent School](//npsk12.com/gs)
+[Ghent School](https://npsk12.com/gs)
 
 ## Location
 

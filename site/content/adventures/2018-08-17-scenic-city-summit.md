@@ -1,0 +1,36 @@
+---
+title: Scenic City Summit
+date: 2018-08-17
+description: TypeScript 101 (Talk) & Progressive Web Apps 101 (Talk)
+link: https://www.sceniccitysummit.com/
+categories:
+  - speaking
+tags:
+  - google developers
+---
+
+## Name
+
+[Event](https://google.com)
+
+## Location
+
+Address - City, State
+
+## Date
+
+Sunday, October 22nd - 9:00 AM to 5:00 PM
+
+## Role
+
+Speaker - Talk
+
+## About
+
+### Feedback
+
+### Slides
+
+### Video
+
+### Pictures

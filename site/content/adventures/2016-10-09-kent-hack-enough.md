@@ -19,7 +19,7 @@ tags:
 
 ## Name
 
-[Kent Hack Enough 2016](//2016.khe.io)
+[Kent Hack Enough 2016](https://2016.khe.io)
 
 ## Organizer
 

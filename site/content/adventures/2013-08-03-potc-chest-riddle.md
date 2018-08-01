@@ -29,7 +29,7 @@ tags:
 
 ## Here's a little riddle that is based on a very recognized riddle, except it uses POTC references.
 
-So basically it's like [Star Trek Monopoly](//www.amazon.com/USAopoly-MN066-201-Monopoly-Star-Continuum/dp/B001SN8G8G 'Star Trek Monopoly'), a spoof of the original.
+So basically it's like [Star Trek Monopoly](https://www.amazon.com/USAopoly-MN066-201-Monopoly-Star-Continuum/dp/B001SN8G8G 'Star Trek Monopoly'), a spoof of the original.
 
 Made it up on by own and really love it so hope you do too.
 

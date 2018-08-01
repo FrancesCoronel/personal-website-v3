@@ -11,7 +11,7 @@ categories:
 
 ## Employer
 
-[Accenture Liquid Studio](//accenture.com/us-en/capability-rapid-application-development-studio)
+[Accenture Liquid Studio](https://accenture.com/us-en/capability-rapid-application-development-studio)
 
 ## Location
 
@@ -36,14 +36,14 @@ The Accenture Liquid Studios are designed for rapid application development. The
 * improved technical skills in Unity, C#, JavaScript, Sketch, Xcode, and Safari for Developers
 * gained a familiarity with a wide range of wearable devices targeted for enterprise clients
 
-<blockquote class="embedly-card"><h4><a href="//speakerdeck.com/fvcproductions/my-accenture-internship">My Accenture Internship</a></h4><p>An overview of my internship with Accenture. Accenture Liquid Studio Redwood City, CA Wearables Team Summer 2016</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/my-accenture-internship">My Accenture Internship</a></h4><p>An overview of my internship with Accenture. Accenture Liquid Studio Redwood City, CA Wearables Team Summer 2016</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="//speakerdeck.com/fvcproductions/studio-session-number-11-accenture-liquid-studio">Studio Session #11 | Accenture Liquid Studio</a></h4><p>A slightly edited version of the Wearables slide deck. Presented to entire Liquid Studio Team as part of the weekly studio sessions. Accenture | Liquid Studio Wearables Team Summer 2016 Intern</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/studio-session-number-11-accenture-liquid-studio">Studio Session #11 | Accenture Liquid Studio</a></h4><p>A slightly edited version of the Wearables slide deck. Presented to entire Liquid Studio Team as part of the weekly studio sessions. Accenture | Liquid Studio Wearables Team Summer 2016 Intern</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//speakerdeck.com/fvcproductions/wearables-team">Wearables Team</a></h4><p>An overview of the Wearables Team at Accenture's Liquid Studio.</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/wearables-team">Wearables Team</a></h4><p>An overview of the Wearables Team at Accenture's Liquid Studio.</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="//speakerdeck.com/fvcproductions/ar-vs-vr-accenture">AR vs VR | Accenture</a></h4><p>An overview of the difference between AR and VR. Accenture Liquid Studio Wearables Team Summer 2016 Intern</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/ar-vs-vr-accenture">AR vs VR | Accenture</a></h4><p>An overview of the difference between AR and VR. Accenture Liquid Studio Wearables Team Summer 2016 Intern</p></blockquote>
 
 ![Accenture Internship](https://i0.wp.com/fvcproductions.files.wordpress.com/2016/06/accenture-internship-5.jpg?w=274&h=205&crop&ssl=1&zoom=2)
 

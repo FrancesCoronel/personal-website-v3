@@ -62,7 +62,7 @@ Professional Development Workshop
 
 ---
 
-## So in the end, I decided to volunteer throughout the week for 4 different schools: [Bethel High School](//bhs.hampton.k12.va.us/), [Sedgefield Elementary School](//sedgefield.nn.k12.va.us/), [John B. Dey Elementary School](//www.deyes.vbschools.com/), and [Tallwood Elementary School](//www.tallwoodes.vbschools.com/).
+## So in the end, I decided to volunteer throughout the week for 4 different schools: [Bethel High School](https://bhs.hampton.k12.va.us/), [Sedgefield Elementary School](https://sedgefield.nn.k12.va.us/), [John B. Dey Elementary School](https://www.deyes.vbschools.com/), and [Tallwood Elementary School](https://www.tallwoodes.vbschools.com/).
 
 ![Hour of Code - Banner](https://fvcproductions.files.wordpress.com/2015/12/hourofcode1-e1449524689973.jpg)
 
@@ -74,7 +74,7 @@ I created two different presentations, one for _high schoolers_ and one for _ele
 
 ### High School Version
 
-At [`Bethel High School`](//bhs.hampton.k12.va.us/), I presented and helped out with **3 classes** that were all taught by `Mrs. Ai Choo Ashe`. I gave a roughly 30-minute presentation to each class using the slides below. The classes were related to digital media/game development/animation so the students were learning how to use software like GameMaker & Adobe Photoshop. I gave away all my free swag I got from Code.org to Mrs. Ashe because she deserved it. I kept the water bottle and a sticker, though. They were too useful to pass up.
+At [`Bethel High School`](https://bhs.hampton.k12.va.us/), I presented and helped out with **3 classes** that were all taught by `Mrs. Ai Choo Ashe`. I gave a roughly 30-minute presentation to each class using the slides below. The classes were related to digital media/game development/animation so the students were learning how to use software like GameMaker & Adobe Photoshop. I gave away all my free swag I got from Code.org to Mrs. Ashe because she deserved it. I kept the water bottle and a sticker, though. They were too useful to pass up.
 
 #### Speaker Deck
 
@@ -92,7 +92,7 @@ At [`Bethel High School`](//bhs.hampton.k12.va.us/), I presented and helped out 
 
 ### Elementary School Version
 
-At [`Sedgefield Elementary School`](//bhs.hampton.k12.va.us/), I gave a presentation to a class of 3rd graders on why it’s important to learn how to code. The teachers in charge were so nice and supportive of the kids. I found it funny how much more the 3rd graders participated than the high schoolers, but hey.
+At [`Sedgefield Elementary School`](https://bhs.hampton.k12.va.us/), I gave a presentation to a class of 3rd graders on why it’s important to learn how to code. The teachers in charge were so nice and supportive of the kids. I found it funny how much more the 3rd graders participated than the high schoolers, but hey.
 
 #### Sedgefield Elementary School
 

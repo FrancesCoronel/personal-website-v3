@@ -34,7 +34,7 @@ Here in this playlist called Tutorial, I have 5 songs I want to download for lat
 
 IMAGE HERE
 
-## 2. Go to [playlistbuddy.com](//playlistbuddy.com/) and login with your Spotify account.
+## 2. Go to [playlistbuddy.com](https://playlistbuddy.com/) and login with your Spotify account.
 
 Here, convert your desired playlist to a YouTube playlist.
 
@@ -44,7 +44,7 @@ IMAGE HERE
 
 ## 3. Install Homebrew
 
-[Homebrew](//brew.sh/) allows us to install, remove and updated applications and packages. To install it, paste the following command in your Terminal (located under **Applications/Utilities/Terminal**).
+[Homebrew](https://brew.sh/) allows us to install, remove and updated applications and packages. To install it, paste the following command in your Terminal (located under **Applications/Utilities/Terminal**).
 
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL //raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -52,7 +52,7 @@ IMAGE HERE
 
 ## 4. Install `youtube-dl` and `libav`
 
-Now that you have Homebrew, it'll be super easy to perform the following commands in order to install the command-line program [youtube-dl](//rg3.github.io/youtube-dl/) and [libav](//libav.org/).
+Now that you have Homebrew, it'll be super easy to perform the following commands in order to install the command-line program [youtube-dl](https://rg3.github.io/youtube-dl/) and [libav](https://libav.org/).
 
 To convert music to different audio formats, `youtube-dl` needs either `ffmpeg` or `avconv`, and their helper programs `ffprobe` or `avprobe`. We can just install `libav` for all this.
 

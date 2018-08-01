@@ -9,7 +9,7 @@ categories:
 
 ## Name
 
-[West AAERG/HAERG Leadership Summit](//www.accenture.com/us-en/company-diversity "West AAERG/HAERG Leadership Summit")
+[West AAERG/HAERG Leadership Summit](https://www.accenture.com/us-en/company-diversity "West AAERG/HAERG Leadership Summit")
 
 ## Organizer
 

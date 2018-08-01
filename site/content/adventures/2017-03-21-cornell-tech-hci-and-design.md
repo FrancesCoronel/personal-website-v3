@@ -55,12 +55,12 @@ The font Helvetica is the one that has been used by the MTA for the past 20 year
 
 #### External Resources
 
-* [D Train](//www.common.com/images/homes/shared_photos/subway-lines/d-78a85f62.svg)
-* [4 Train](//www.common.com/images/homes/shared_photos/subway-lines/4-6ccc3f43.svg)
-* [Shuttle Icon](//www.orlandoairports.net/site/uploads/2015/08/shuttle_icon.svg)
-* [NYC Map](//upload.wikimedia.org/wikipedia/commons/0/04/NYC_subway-4D.svg)
+* [D Train](https://www.common.com/images/homes/shared_photos/subway-lines/d-78a85f62.svg)
+* [4 Train](https://www.common.com/images/homes/shared_photos/subway-lines/4-6ccc3f43.svg)
+* [Shuttle Icon](https://www.orlandoairports.net/site/uploads/2015/08/shuttle_icon.svg)
+* [NYC Map](https://upload.wikimedia.org/wikipedia/commons/0/04/NYC_subway-4D.svg)
 * [Fastrack Logo](http://web.mta.info/nyct/service/images/fastrack_2014.jpg)
-* [MTA Logo](//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/MTA_New_York_City_Subway_logo.svg/2000px-MTA_New_York_City_Subway_logo.svg.png)
+* [MTA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/MTA_New_York_City_Subway_logo.svg/2000px-MTA_New_York_City_Subway_logo.svg.png)
 
 #### Colors
 
@@ -122,9 +122,9 @@ The (2) similar stations and (1) the header for travel alternatives take up 5/12
 
 ### The Task
 
-I was tasked with decomposing an app of my choice and redesigning one of the main pages of the app with Google's Material Design guidelines for my [HCI & Design](//nixdell.com/classes/HCI-and-Design-Spring-2017/) class at [Cornell Tech](//tech.cornell.edu).
+I was tasked with decomposing an app of my choice and redesigning one of the main pages of the app with Google's Material Design guidelines for my [HCI & Design](https://nixdell.com/classes/HCI-and-Design-Spring-2017/) class at [Cornell Tech](https://tech.cornell.edu).
 
-I chose [Slice](//slicelife.com) as the app of my choice. There are many apps called Slice out there so to clarify, I'm referring to the app where you can order pizza from local pizzerias.
+I chose [Slice](https://slicelife.com) as the app of my choice. There are many apps called Slice out there so to clarify, I'm referring to the app where you can order pizza from local pizzerias.
 
 I personally love ordering from this website because of my obsession with pizza, so it seemed like an ideal choice.
 

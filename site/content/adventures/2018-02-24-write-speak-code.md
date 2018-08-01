@@ -12,11 +12,11 @@ tags:
 
 ## Name
 
-[Own Your Expertise - SF - Speak Your Truth](//www.meetup.com/WriteSpeakCode-SFBay/events/247074554/)
+[Own Your Expertise - SF - Speak Your Truth](https://www.meetup.com/WriteSpeakCode-SFBay/events/247074554/)
 
 ## Organizer
 
-[Write/Speak/Code](//www.writespeakcode.com/)
+[Write/Speak/Code](https://www.writespeakcode.com/)
 
 ## Location
 
@@ -28,7 +28,7 @@ February 24th, 2018 - 9 am to 6 pm
 
 ## Role
 
-Participant - I attended with my co-worker [Angela](//www.linkedin.com/in/angelahaowenzhou)
+Participant - I attended with my co-worker [Angela](https://www.linkedin.com/in/angelahaowenzhou)
 
 ## About
 

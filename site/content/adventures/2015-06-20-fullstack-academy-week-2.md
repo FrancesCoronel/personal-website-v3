@@ -31,8 +31,8 @@ tags:
 
 ## Day Two - Tuesday
 
-* I've decided I'm just not a big fan of [Codewars](//codewars.com 'Codewars').
-* I just prefer [Code School](//codeschool.com 'Code School')'s cleaner design & fun videos. Oh, well!
+* I've decided I'm just not a big fan of [Codewars](https://codewars.com 'Codewars').
+* I just prefer [Code School](https://codeschool.com 'Code School')'s cleaner design & fun videos. Oh, well!
 
 ## Day Three - Wednesday
 
@@ -50,8 +50,8 @@ tags:
 * People liked the presentation! Yesssss.... :grin:
 * Hot Seat today. I'm really enjoying hearing these stories. If only there was some sort of fireplace...
 * Finally gave in and installed `zsh` today using some dude's dot files (he's a big Spacegray theme fan too). Now everything looks and feels **SPACEGRAY**. Heyyyy.
-* Bought this [Sublime Text Power User](//sublimetextbook.com/ 'ST3 Power User') book by the Bos for `$25`. I used the coupon code `CHRISTMAS` which still worked and took `$11` off. LOL.
-* It sucks that [Flavours](//flavours.interacto.net/ 'Flavours') is no longer going to exist once `El Capitan` comes out. I want to be able to customize EVERYTHING.
+* Bought this [Sublime Text Power User](https://sublimetextbook.com/ 'ST3 Power User') book by the Bos for `$25`. I used the coupon code `CHRISTMAS` which still worked and took `$11` off. LOL.
+* It sucks that [Flavours](https://flavours.interacto.net/ 'Flavours') is no longer going to exist once `El Capitan` comes out. I want to be able to customize EVERYTHING.
 
 > :arrow: **Overall Conclusion?**
 >

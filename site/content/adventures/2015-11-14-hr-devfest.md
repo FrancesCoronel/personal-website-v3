@@ -13,7 +13,7 @@ categories:
 
 ## Name
 
-[HR (Hampton Roads) DevFest](//hrdevfest.org)
+[HR (Hampton Roads) DevFest](https://hrdevfest.org)
 
 ## Organizer
 

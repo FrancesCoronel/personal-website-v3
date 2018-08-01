@@ -13,7 +13,7 @@ I created these while I was in the process of applying for jobs at these places.
 
 The cover letters have been sanitized to remove any meaningful personal information.
 
-These templates are free for anyone to use and modify by [downloading the Pages files from my GitHub](//github.com/fvcproductions/cover-letter-templates).
+These templates are free for anyone to use and modify by [downloading the Pages files from my GitHub](https://github.com/fvcproductions/cover-letter-templates).
 
 ## Braintree
 
