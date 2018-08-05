@@ -2,6 +2,8 @@
 title: About 🍫️🍓️
 description: A brief intro to my world.
 banner: https://i.imgur.com/Ap1R1zy.jpg
+hideBanner: true
+noComments: true
 aliases:
   - /home/about/
   - /about-me/
@@ -32,17 +34,4 @@ reason why, I just think they're yummy. 🍫🍓
 
 I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the Egyptian queen) a crap ton.
 
-[![Nefy](https://i.imgur.com/cwXno9D.jpg)](https://i.imgur.com/cwXno9D.jpg)
-
-### What's Happening Nowadays 📅
-
-> This a [now section](https://nownownow.com/about) and if you have your own site, you should make one, too!
->
-> Last updated June 3rd
-
-- In the process of revamping this website to have way better performance (as in way less JS) and more scalability (using Bulma as design system) 🔧
-- Speaking at We RISE Tech & Beer City Code this week
-- Loving my job at Slack
-- Spoke at NationJS and [received awesome feedback](/2018/05/18/nationjs/) 🎉
-- Working on some [cool open-source stuff](https://github.com/fvcproductions/hugoma)
-- Volunteered as a model for TechHire Oakland and am featured on [their new website and throughout their social media pages](https://www.techhireoakland.org/) 📸
+![Nefy](https://i.imgur.com/cwXno9D.jpg)

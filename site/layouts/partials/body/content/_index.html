@@ -1,13 +1,12 @@
 <div class="content">
   <!-- Banner -->
-  {{ if .Params.banner }}
   <div class="content-head">
     {{ partial "body/hero/image.html" . }}
   </div>
-  {{ end }} {{ if .Content }}
+  <!-- Content -->
+  {{ if .Content }}
   <!-- Content Body -->
-  <div class="content-body">
-    <!-- Content -->
+  <div class="pt-1 pb-1">
     {{ .Content }}
   </div>
   {{ end }}

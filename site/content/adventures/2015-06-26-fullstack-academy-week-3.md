@@ -1,5 +1,5 @@
 ---
-title: Fullstack Academy - Week 3 🔦
+title: Fullstack Academy – Week 3 🔦🔦🔦
 date: 2015-06-26
 description: June 22nd to 26th. There are 57 days in Fullstack. These are the third 5.
 banner: https://fvcproductions.files.wordpress.com/2015/06/banners-0011.jpg
@@ -89,8 +89,7 @@ Dino](https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/exhi
   - **Exactly.**
 - After that whole warp back in time was over and done with, I had lunch with Kelsey and Jovia at this yummy vegetarian place. This is when I finally found out that same sex marriage is finally legal **EVERYWHERE**. WOOT WOOT!!!
 
-[![Pride
-Octocat](https://fvcproductions.files.wordpress.com/2015/06/pride-octocat.png)](https://fvcproductions.files.wordpress.com/2015/06/pride-octocat.png)
+[![Pride Octocat](https://fvcproductions.files.wordpress.com/2015/06/pride-octocat.png)](https://fvcproductions.files.wordpress.com/2015/06/pride-octocat.png)
 
 - Once all was said and done and we headed back to Fullstack, I was very full and tired, so the lecture on Promises didn't get the attention it deserved from me.
 - Thankfully though, afterwards, by some freakish and questionable miracle, I'm not struggling with the workshop that much at all. _Mmmhmmm._

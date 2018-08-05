@@ -1,5 +1,5 @@
 ---
-title: "First Week at Fullstack Academy 😮"
+title: "First Week at Fullstack Academy  💫"
 date: 2015-06-13
 description: There are 58 days in Fullstack. These are the first 5. Let's begin.
 banner: https://fvcproductions.files.wordpress.com/2015/06/fullstack-academy-week-1-001.jpg
@@ -40,8 +40,7 @@ There are 58 days in Fullstack. These are the first 5. Let's begin. &lt;3
 - My level of energy is quickly deteriorating. Must develop a method of increasing endurance.
 - I took a picture of my workplace today.
 
-[![Workstation - Fullstack Academy - Week
-1](https://fvcproductions.files.wordpress.com/2015/06/img_0083.jpg?w=660)](https://fvcproductions.files.wordpress.com/2015/06/img_0083.jpg)
+[![Workstation - Fullstack Academy - Week 1](https://fvcproductions.files.wordpress.com/2015/06/img_0083.jpg?w=660)](https://fvcproductions.files.wordpress.com/2015/06/img_0083.jpg)
 
 - Fun Jeopardy game today.
   - My team is called **Bubbles** after bubble sort.
@@ -78,6 +77,7 @@ There are 58 days in Fullstack. These are the first 5. Let's begin. &lt;3
 > >
 > > Also, if someone asked me to express how I felt about my first week using a song...
 
-\
-//www.youtube.com/watch?v=t-yCg-0-baE\
+<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=t-yCg-0-baE">Grits - My Life Be Like (Ooh-Aah) with lyrics</a></h4><p>Feel me like a fingertip! Lyrics in annotations.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 Just sayin'. :roll:

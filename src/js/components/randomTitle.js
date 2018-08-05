@@ -1,8 +1,8 @@
 // Changing title of tab
 
-var title = document.title;
+const title = document.title;
 
-var altTitles = [
+const altTitles = [
   "Whatcha up to? 👀",
   "'Ello Gov'nor! 🎩",
   "Top o' the mornin' to ya! ☘",

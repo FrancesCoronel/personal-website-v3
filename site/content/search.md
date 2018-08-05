@@ -1,6 +1,9 @@
 ---
 title: Search 🔍️
 description: Search across my website!
+banner: https://i.imgur.com/rETMF3V.jpg
+hideBanner: true
+noComments: true
 aliases:
   - /search/
 ---
@@ -94,6 +97,10 @@ input#gsc-i-id1 {
 
 td.gsc-input {
     padding: 0!important;
+}
+
+td#gs_tti50 {
+    border-bottom: 1px solid black;
 }
 </style>
 

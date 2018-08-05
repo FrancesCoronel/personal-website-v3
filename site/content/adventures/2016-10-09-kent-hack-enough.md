@@ -43,7 +43,8 @@ Volunteered for the hardware booth and Foobar (smoothies) and then teamed up wit
 
 ### Awards
 
-Won award of <strong>[Best Security Privacy Hack](https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v)</strong> sponsored by Ubisoft with the prize being two copies of <code>Watch Dog 2</code>
+- [Kent Hack Enough | Best Device Privacy Hack](https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v)
+  - Won award of <strong>[Best Security Privacy Hack](https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v)</strong> sponsored by Ubisoft with the prize being two copies of <code>Watch Dog 2</code>
 
 ### Project
 
@@ -90,8 +91,8 @@ Optimizing the UI, extending password combination capabilities (multiple numbers
 
 #### Installation
 
-* Use `CodeKit` to minify `CSS` and `JS` files
-* Make sure to have LeapMotion installed on your computer
+- Use `CodeKit` to minify `CSS` and `JS` files
+- Make sure to have LeapMotion installed on your computer
 
 ### Pictures
 

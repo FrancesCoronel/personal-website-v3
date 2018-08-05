@@ -36,9 +36,9 @@ February 12th to 14th, 2016
 
 ## Role
 
-* [Travel Grant Recipient](https://medium.com/@hackwithtrees/treehacks-admissions-our-goals-and-process-b204a198d4a6)
-* Participant
-* Prize Winner
+- [Out of State Applicant Scholarship, Travel Grant Recipient](https://medium.com/@hackwithtrees/treehacks-admissions-our-goals-and-process-b204a198d4a6)
+- Participant
+- Prize Winner
 
 ## About
 
@@ -65,12 +65,12 @@ I was 1 of 150 hackers from out of state who was accepted to attend TreeHacks wi
 
 > Hackathon Prizes
 
-* Best Use of Dropbox API
-  * 100 GB of Dropbox storage for each member
-* Best Social Impact
-  * Lunch with Stanford President Hennessey + \$400 to a charity of your choice
-  * Coaching with Shannon Farley & Tour of Fast Forward
-  * $400 to a charity of your choice
+- Best Use of Dropbox API
+  - 100 GB of Dropbox storage for each member
+- Best Social Impact
+  - Lunch with Stanford President Hennessey + \$400 to a charity of your choice
+  - Coaching with Shannon Farley & Tour of Fast Forward
+  - $400 to a charity of your choice
 
 ### Coverage
 
@@ -80,8 +80,8 @@ I was 1 of 150 hackers from out of state who was accepted to attend TreeHacks wi
 
 ### Branding
 
-* Theme Color: `#62A7C6`
-* Font: `Karla`
+- Theme Color: `#62A7C6`
+- Font: `Karla`
 
 #### README Badge
 
@@ -103,18 +103,18 @@ Created a README badge using Sketch to be used for project READMEs hacked out at
 
 ### Tools
 
-* [Leap Motion](https://developer.leapmotion.com/)
-  * uses Leap Motion API and hardware to track hand gestures (pan in/out, zoom in/out, slide right/left) without physically touching computer
-* [Dropbox API](https://www.dropbox.com/developers)
-  * use Dropbox for uploading/storing images for patient’s problems
-  * have folders within Dropbox API represent a single patient
+- [Leap Motion](https://developer.leapmotion.com/)
+  - uses Leap Motion API and hardware to track hand gestures (pan in/out, zoom in/out, slide right/left) without physically touching computer
+- [Dropbox API](https://www.dropbox.com/developers)
+  - use Dropbox for uploading/storing images for patient’s problems
+  - have folders within Dropbox API represent a single patient
 
 ### Team - _Big Hero 4_
 
-* [Frances Coronel (me)](https://github.com/fvcproductions)
-* [Stephanie Zeidan](https://github.com/stephzeid)
-* [Diana Wang](https://github.com/diana-wang)
-* [Effie Nehoran](https://github.com/effien3)
+- [Frances Coronel (me)](https://github.com/fvcproductions)
+- [Stephanie Zeidan](https://github.com/stephzeid)
+- [Diana Wang](https://github.com/diana-wang)
+- [Effie Nehoran](https://github.com/effien3)
 
 ### Pictures
 

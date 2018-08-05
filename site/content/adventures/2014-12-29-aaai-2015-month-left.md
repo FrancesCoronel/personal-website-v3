@@ -28,7 +28,7 @@ categories:
 
 It's happening.
 
-[![](https://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif)](https://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif) do the Bender dance...
+[![Bender Dance](https://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif)](https://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif) do the Bender dance...
 
 I'll be acting as a volunteer for [the conference](https://www.aaai.org/Conferences/AAAI/aaai15.php 'AAAI 2015 Winter Conference') (it's the first winter conference, too, apparently) and was therefore lucky enough to get a \$200 scholarship and a complimentary registration (\$450, in my case) to attend.
 
@@ -46,8 +46,7 @@ I mean, _HOLY CRAP_! My bank account would cry if it had to deal with such costs
 
 Hotel costs, even with the special conference rate, will be \~\$1087 out of my pocket. And then flight costs ended up being \~\$358. And then of course, there are other expenses to consider such as food and possible incurring extra travel costs. Either way, it's probably going to cost me roughly \$1.5K not including the \$200 scholarship they gave me. Ah, well. Hopefully, it'll be worth it! See lovely flight details below.
 
-[![Delta Flight
-Details](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-30-20-31-34.png)](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-30-20-31-34.png) I'll take the very back window seat please, thanks.
+[![Delta Flight Details](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-30-20-31-34.png)](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-30-20-31-34.png) I'll take the very back window seat please, thanks.
 
 Thankfully, with a scholarship I got from the [VSGC](https://vsgc.odu.edu 'VSGC @ ODU'), I'll be able to pay off the majority of these conference fees. **Whew.** In the end, I'll be shelling out only \$300 for it all, which isn't terrible. Glad I'm selling so much crap on eBay, I'll tell you that.
 
@@ -55,7 +54,7 @@ I will say though that I don't feel I really have a lot of information yet in te
 
 I mean, I just know the basics as of right now...
 
-**AAAI–15 Program Overview**
+## AAAI–15 Program Overview
 
 - **Sunday, January 25**
   - 9 am to 12:30 pm - Workshop 1 **(will be missing this one 😭)**

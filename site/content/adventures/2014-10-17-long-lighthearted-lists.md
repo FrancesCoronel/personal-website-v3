@@ -93,7 +93,7 @@ Austin](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg?w=294)](
   - [RefactorU](https://www.refactoru.com) - Boulder, Colorado
     - Applied, interviewed, accepted. Had an interesting conversation about an array of topics related to AI and the technological singularity with [Sean](https://twitter.com/seandaken 'Sean Daken - Twitter').
   - [Bitmaker Labs](https://bitmakerlabs.com) - Toronto, Canada
-    - Applied, interviewed, accepted. The people there are SO nice - it's ridiculous. I did not feel nervous at all during the whole process. You can see more about my Bitmaker experience [here](/blog/2014/03/12/interview-bitmaker-labs/).
+    - Applied, interviewed, accepted. The people there are SO nice - it's ridiculous. I did not feel nervous at all during the whole process. You can see more about my Bitmaker experience [here](/2014/03/12/interview-bitmaker-labs/).
   - [Code Fellows](https://www.codefellows.org/ 'Code Fellows') - Seattle, Washington
     - I applied for the Front-End Design & Development class in Seattle but did not go through with the interview. They understood and were pretty nice about it.
   - [Dev Bootcamp](https://devbootcamp.com/ 'Dev Bootcamp') - Chicago

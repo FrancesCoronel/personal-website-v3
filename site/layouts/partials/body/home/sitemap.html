@@ -1,4 +1,4 @@
-<section class="section section-page">
+<section class="section">
   <div class="container content">
     <h2>🌐 Sitemap</h2>
     <div class="columns is-multiline">
@@ -11,7 +11,7 @@
       <!-- Filter -->
       {{ if not (.Params.noHomePage) }}
       <div class="column is-one-third">
-        {{ partial "body/content/card/no-image.html" . }}
+        {{ partial "body/content/card/plain.html" . }}
       </div>
       {{ end }} {{ end }}
     </div>

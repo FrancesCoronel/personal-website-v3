@@ -7,11 +7,12 @@ aliases:
   - /home/adventures/conferences/fluent-conf-march-2016/
 categories:
   - conference
+  - award
 ---
 
 ## Name
 
-[Fluent Conference](https://conferences.oreilly.com/fluent/javascript-html-us/ "Fluent Conference")
+[Fluent Conference](https://conferences.oreilly.com/fluent/javascript-html-us/ 'Fluent Conference')
 
 ## Organizer
 
@@ -35,35 +36,23 @@ I was selected as a "Diversity Scholarship Recipient" by O'Reilly to attend the 
 
 Fluent brings together talented people from diverse backgrounds who are building great projects for the web and are eager to share experiences and expertise. They explore topics related to core web platform technologies, tools to help build the modern web, and strategies for building performant and resilient apps and sites:
 
-award: Diversity Scholarship
-issuer: O'Reilly
-month: 'January'
-year: 2016
-link: '//oreilly.com/conferences/diversity-application.csp'
-notes: >-
-Used for FluentConf.Conference pass that includes workshops/tutorials, plus the video
-compilation (Gold Pass or equivalent); training courses are not included
-in the scholarship
+### Awards
 
-      $599 (USD) prepaid gift card to help offset the costs related to attending
-      the conference such as travel, lodging, food, and child care; gift card
-      will be awarded to recipient onsite at the conference
+- January 2016 - [O’Reilly Fluent Conf | Diversity Scholarship Recipient](http://www.oreilly.com/conferences/diversity-application.csp)
 
-    - alt: "Fluent Conf"
-      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0510.jpg
-    - alt: "Fluent Conf"
-      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0491.jpg
-    - alt: "Fluent Conf"
-      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0484.jpg
-    - alt: "Fluent Conf"
-      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0520.jpg
-    - alt: "Fluent Conf"
-      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0556.jpg
-    - alt: "Fluent Conf"
-      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0527.jpg
-    - alt: "Fluent Conf"
-      url: //i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0526.jpg
-    - alt: "Fluent Conf"
-      url: //i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0502.jpg
-    - alt: "Fluent Conf"
-      url: //i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0527.jpg
+  - Used for FluentConf.Conference pass that includes workshops/tutorials, plus the video
+    compilation (Gold Pass or equivalent); training courses are not included
+    in the scholarship
+  - $599 (USD) prepaid gift card to help offset the costs related to attending
+    the conference such as travel, lodging, food, and child care; gift card
+    will be awarded to recipient onsite at the conference
+
+![Fluent Conf 1](https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0510.jpg)
+![Fluent Conf 2](https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0491.jpg)
+![Fluent Conf 3](https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0484.jpg)
+![Fluent Conf 4](https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0520.jpg)
+![Fluent Conf 5](https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0556.jpg)
+![Fluent Conf 6](https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0527.jpg)
+![Fluent Conf 7](https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0526.jpg)
+![Fluent Conf 8](https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0502.jpg)
+![Fluent Conf 9](https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0527.jpg)

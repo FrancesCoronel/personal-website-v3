@@ -1,5 +1,5 @@
 ---
-title: Fullstack Academy - Week 4 💵
+title: Fullstack Academy – Week 4 💲🔮🔮💲
 date: 2015-07-03
 description: June 29th to July 2nd. There are 57 days of Fullstack Academy. These are days 16 through 19 Week 4.
 banner: https://fvcproductions.files.wordpress.com/2015/07/banners-001.jpg

@@ -25,12 +25,11 @@ tags:
 
 I have been _quite_ the busy bee.
 
-[![](https://www.emilyurness.com/wp-content/uploads/2015/04/RTAdGe8TL.png)](https://www.emilyurness.com/wp-content/uploads/2015/04/RTAdGe8TL.png) Busy But Happy Bee
+[![Busy But Happy Bee](https://www.emilyurness.com/wp-content/uploads/2015/04/RTAdGe8TL.png)](https://www.emilyurness.com/wp-content/uploads/2015/04/RTAdGe8TL.png)
 
 To the point where it's actually nothing like the sweet picture above. It's more like this:
 
-[![Cute But Angry
-Bee](https://fvcproductions.files.wordpress.com/2015/06/cute-but-angry-bee.png?w=282)](https://fvcproductions.files.wordpress.com/2015/06/cute-but-angry-bee.png)
+[![Cute But Angry Bee](https://fvcproductions.files.wordpress.com/2015/06/cute-but-angry-bee.png?w=282)](https://fvcproductions.files.wordpress.com/2015/06/cute-but-angry-bee.png)
 
 So I'm taking a break and writing about how I've become the annoyed bee depicted above. It'll allow me to destress for some strange reason.
 
@@ -67,19 +66,18 @@ Regardless, the hard work paid off and I was selected as the winner for the [Bro
 
 This was the final submission I presented.
 
-//www.youtube.com/watch?v=fZ1iTIHHXmE
-
-</div>
+<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=fZ1iTIHHXmE">Finalist Submission | 10K Small Businesses Student Challenge</a></h4><p>10,000 Small Businesses is one of several programs developed and supported by Goldman Sachs and the Goldman Sachs Foundation focused on accelerating the growth of high potential small businesses to create jobs and grow economies. Since its launch in 2000, the program has reached over 4,000 leaders of high-growth small businesses and social enterprises across the country.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 > You can view my [entry submission](https://www.youtube.com/watch?v=4a6rEjB8KH8 'Entry Submission') as well.
 
 With all that being said, what stood out for me the most throughout the entire trip was how everyone got to work on `200 West Street`. The Goldman Sachs building/tower is huge so what everybody does is enter through the first floor, take an elevator to the 11th floor (the Sky Lobby) and then from there, they have several different elevators they can use to get to the other floors. There was an elevator hallway for Floors 12–14 for instance and then another for Floors 30–40 and so on and so forth.
 
-![The First Floor
-Entrance](https://farm6.static.flickr.com/5286/5319954555_189fc82df2_b.jpg '200 West Street')![To
-the 11th
-Floor](https://www.3dhousedownload.com/wp-content/uploads/2012/11/Elevator-hallway-ceiling-interior-design-3D.jpg 'Elevator Hallway')![11th
-Floor](https://static.businessinsider.com/image/5012d4beecad043223000007-590/foursquare-user-hugh-c-snapped-a-shot-of-goldmans-sky-lobby-inside-its-200-west-offices.jpg 'Sky Lobby')
+![The First Floor Entrance](https://farm6.static.flickr.com/5286/5319954555_189fc82df2_b.jpg '200 West Street')
+
+![To the 11th Floor](https://www.3dhousedownload.com/wp-content/uploads/2012/11/Elevator-hallway-ceiling-interior-design-3D.jpg 'Elevator Hallway')
+
+![11th Floor](https://static.businessinsider.com/image/5012d4beecad043223000007-590/foursquare-user-hugh-c-snapped-a-shot-of-goldmans-sky-lobby-inside-its-200-west-offices.jpg 'Sky Lobby')
 
 Everyone was so used to all the elevators and there were so many people just packing inside the next available elevator. It felt like something exciting was always about to happen but at the same time, I felt a lot like a sardine.
 
@@ -91,8 +89,7 @@ Needless to say, I learned a lot about what kind of environment I'd like to work
 
 For Part 2 (or Week 2) of Foundations, which was twos week ago (holy crap!), I did end up finishing the "Guessing Game", which was a lot of fun.
 
-[![The Guessing
-Game](https://fvcproductions.files.wordpress.com/2015/06/unknown.png)](https://fvcproductions.files.wordpress.com/2015/06/unknown.png)
+[![The Guessing Game](https://fvcproductions.files.wordpress.com/2015/06/unknown.png)](https://fvcproductions.files.wordpress.com/2015/06/unknown.png)
 
 > You're welcome to play the game at [fvcproductions.github.io/Guessing-Game](https://fvcproductions.github.io/Guessing-Game/ 'Guessing Game').
 

@@ -56,6 +56,10 @@
   padding-top: .5em;
 }
 
+.pt-1 {
+  padding-top: 1em;
+}
+
 // Padding Bottom
 .pb-0 {
   padding-bottom: 0;
@@ -63,6 +67,10 @@
 
 .pb-sm {
   padding-bottom: .5em;
+}
+
+.pb-1 {
+  padding-bottom: 1em;
 }
 
 /** Font **/
@@ -73,6 +81,17 @@
 
 .font-size--3x {
   font-size: 3em;
+}
+
+/** Border **/
+
+.table-border-none {
+  .content table td,
+  .content table th,
+  .table td,
+  .table th {
+    border: none;
+  }
 }
 
 /** Return To Top **/

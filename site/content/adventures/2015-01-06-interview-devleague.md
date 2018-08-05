@@ -5,8 +5,10 @@ description: My interview with DevLeague.
 banner: https://fvcproductions.files.wordpress.com/2015/01/devleague-join-the-movement-learn-to-code-in-hawaii.png?w=1024&h=435&crop=1
 aliases:
   - /2015/01/06/interview-devleague/
+  - /2015/01/06/experience-with-devleague/
 categories:
   - blog
+  - press
 tags:
   - acceptance
   - bootcamp
@@ -26,12 +28,6 @@ tags:
   - web development
   - web development hawaii
 ---
-
-> Ever wonder what our interview process is like? We have recently started getting many applications from the mainland and...
->
-> Posted by [Dev League](https://www.facebook.com/Dev-League-419352214850086/) on [Friday, January 16, 2015](https://www.facebook.com/permalink.php?story_fbid=702971763154795&id=419352214850086)
-
-\_oembed_time_c34a1a7c05f0f71be4c25c8ffb32d2ea: '1447941722' author: login: fvcproductions email: fvcproductions@gmail.com display_name: description: I applied to DevLeague, a new coding bootcamp in Hawaii! ---
 
 ![DevLeague](https://fvcproductions.files.wordpress.com/2015/01/devleague2.jpg) Mahalo, indeed.
 
@@ -58,7 +54,7 @@ I decided to apply to DevLeague since they were the first of their kind in Hawai
 
 ## Part 2: The Interview 📞
 
-    Jason was a great interviewer! All around chill guy and I was comfortable all throughout the interview. He was really informative as well and told me everything I needed to know about DevLeague in great detail. His friend and co-founder of DevLeague, Russel, who was also with him at the time, was also quite amiable.
+Jason was a great interviewer! All around chill guy and I was comfortable all throughout the interview. He was really informative as well and told me everything I needed to know about DevLeague in great detail. His friend and co-founder of DevLeague, Russel, who was also with him at the time, was also quite amiable.
 
 > answers taken from my interview are paraphrased or just referenced verbatim
 >
@@ -99,16 +95,29 @@ _Logistics_\
 - an initial deposit is required to reserve your seat in the cohort after you're accepted\
 - as the student gets closer to the session start date, payment plans are put into place
 
-//www.facebook.com/permalink.php?story_fbid=702971763154795&id=419352214850086
+## Press
 
-//twitter.com/devleaguehawaii/status/556569297133510656\]
+When I was in the process of applying to a ton of coding bootcamps, I came
+across DevLeague.
+
+They were kind enough to feature my blog post in January 2015 on my interview experience
+with them on their own website through their blog. I thought they were
+some of the nicest people I came across when the coding bootcamp interview
+process and definitely appreciate how they’re the only coding bootcamp in
+Hawaii.
+
+<blockquote class="embedly-card"><h4><a href="https://www.facebook.com/permalink.php?story_fbid=702971763154795&id=419352214850086">DevLeague</a></h4><p>Ever wonder what our interview process is like? We have recently started getting many applications from the mainland and one of our recent mainland applicants blogged about her experience. We could...</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<blockquote class="embedly-card"><h4><a href="http://twitter.com/devleaguehawaii/status/556569297133510656">DevLeague on Twitter</a></h4><p>Thanks to @fvcproductions for smry of applicant experience with us. This young woman is going places! #javascript http://t.co/xCTIQGNS41</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 I also have shared my **interview experience** with bootcamps such as
 
-- [Bitmaker Labs](/blog/2014/03/12/interview-bitmaker-labs/)
-- [Coding Dojo](/blog/2015/01/06/interview-coding-dojo/)
-- [Coding House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
-- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
-- [Fullstack Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
-- [Hack Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ 'Questioning Hack Reactor 🔑')
-- [Maker Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')
+- [Bitmaker Labs](/2014/03/12/interview-bitmaker-labs/ 'Bitmaker Labs')
+- [Coding Dojo](/2015/01/06/interview-coding-dojo/ 'Coding Dojo')
+- [Coding House](/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
+- [Designation](/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
+- [Fullstack Academy](/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
+- [Hack Reactor](/2015/01/05/questioning-hack-reactor/ 'Questioning Hack Reactor 🔑')
+- [Maker Square](/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')

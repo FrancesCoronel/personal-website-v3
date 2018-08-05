@@ -2,6 +2,8 @@
 title: Colophon ⚙️
 description: Unveiling the inner workings of this website.
 banner: https://i.imgur.com/D4dPpG2.jpg
+hideBanner: true
+noComments: true
 aliases:
   - /about/colophon/
   - /colophon/
@@ -40,16 +42,10 @@ The URL for this website is https://www.fvcproductions.com and there are several
   - [Disqus](https://disqus.com/)
   - [Embedly](https://embed.ly/)
   - [Google Analytics](https://analytics.google.com)
-  - [HTML5 UP](https://html5up.net)
   - [MailChimp](https://mailchi.mp/022336cef0b2/fvcproductions)
-  - [MixItUp](https://www.kunkalabs.com/mixitup/)
-  - [Skel](https://github.com/ajlkn/skel)
   - [Twemoji](https://github.com/twitter/twemoji)
 - **Fonts**
-  - [Roboto](https://fonts.google.com/specimen/Roboto)
-  - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
-  - [Font Awesome 5](https://fontawesome.com)
-  - [Simple Icon](https://www.flaticon.com/authors/simpleicon)
+  - BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
 - **Colors**
   - <svg width="1em" height="1em"><rect width="1em" height="1em" style="fill:#253137;" /></svg> My lovely brand color of Oxford Blue with the HEX value of `#253137`
   - [Material Colors](https://material.io/guidelines/style/color.html#color-color-palette)

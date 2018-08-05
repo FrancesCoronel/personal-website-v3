@@ -33,13 +33,13 @@ categories:
   - overview
 - [Stack Properties](#section-stacks)
   - overview
-  - defintion
+  - definition
   - diagram
   - conceptual implementation
   - operations
 - [Queue Properties](#section-queues)
   - overview
-  - defintion
+  - definition
   - diagram
   - conceptual implementation
   - operations
@@ -59,14 +59,11 @@ categories:
   - advantages
   - disadvantages
   - examples of how they can be used
-- [Queue Algorithms](#section-queuealgo)\
-
+- [Queue Algorithms](#section-queuealgo)
   > uses arrays for implementation
-
   - shift queue
   - circular queues
-
-- [Basic Definitions & Phrases](#section-defintions)
+- [Basic Definitions & Phrases](#section-definitions)
 
 ### Array Properties
 
@@ -88,7 +85,7 @@ categories:
   - can only access the top
   - harder to manage b/c only top can be accessed
 - _defintion_
-  - data structure of ordered items such that items can be inserted and removed only at 1 end (called the \[code language="java"\]top```)
+  - data structure of ordered items such that items can be inserted and removed only at 1 end called the `top`
 - _diagram_![Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Data_stack.svg/1280px-Data_stack.svg.png)
 - _conceptual implementation_
   - First In, First Out (FIFO)
@@ -105,7 +102,7 @@ categories:
 - _overview_
   - example of a collection SDT
   - operations: enqueue (add), dequeue (delete)
-- _defintion_
+- _definition_
   - data structure of ordered items that can be inserted only at end (rear) and removed at other end (front)
 - _diagram_
 
@@ -125,27 +122,30 @@ categories:
 
 > _isEmpty_
 
-```int top = -1; //or 0\
-public boolean isEmpty () {\
-return (top == -1);\
-}\
+```java
+int top = -1; //or 0
+public boolean isEmpty () {
+    return (top == -1);
+}
 ```
 
 > _isFull_
 
-```public boolean isFull() {\
-return (top == size-1);\
-}\
+```java
+public boolean isFull() {
+    return (top == size-1);
+}
 ```
 
 > _add to stack_
 
-```public void add (int element) {\
-if (isFull() == true)\
-System.out.println("Stack full, cannot add element.");\
-else\
-stack\[++top\] = element;\
-}\
+```java
+public void add (int element) {
+    if (isFull() == true)
+        System.out.println("Stack full, cannot add element.");
+    else
+        stack[++top] = element;
+}
 ```
 
 1.  check if stack is not full
@@ -154,12 +154,13 @@ stack\[++top\] = element;\
 
 > _delete from stack_
 
-```public int delete () {\
-if (isEmpty() == true)\
-System.out.println("Stack empty, cannot delete element.");\
-else\
-return stack\[top--\];\
-}\
+```java
+public int delete () {
+    if (isEmpty() == true)
+        System.out.println("Stack empty, cannot delete element.");
+    else
+        return stack[top--];
+}
 ```
 
 1.  check if stack is not empty
@@ -168,25 +169,27 @@ return stack\[top--\];\
 
 > _print in order_
 
-```public void printOrder() {\
-while(!isEmpty()) {\
-int value = remove();\
-System.out.print(value + " ");\
-}\
-}\
+```java
+public void printOrder() {
+    while(!isEmpty()) {
+        int value = remove();
+        System.out.print(value + " ");
+    }
+}
 ```
 
 > _find an element in stack_
 
-```public boolean find(int element) {\
-System.out.print("Please enter element to find: ");\
-element = keyboard.nextInt();\
-for (int i = 0; i &lt; size; i++) {\
-if (stack\[i\] == element)\
-return true;\
-}\
-return false;\
-}\
+```java
+public boolean find(int element) {
+    System.out.print("Please enter element to find: ");
+    element = keyboard.nextInt();
+    for (int i = 0; i &lt; size; i++) {
+        if (stack[i] == element)
+            return true;
+    }
+    return false;
+}
 ```
 
 ### Comparing Stacks & Queues

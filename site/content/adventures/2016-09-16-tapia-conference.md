@@ -45,13 +45,13 @@ I made sure to visit every booth in the career fair and because of this, I got e
 
 I also got invited by the following companies to interview during the conference or afterwards:
 
-* Dropbox
-* Facebook
-* Capital One
-* Northrup Grumman
-* BNY Mellon
-* Microsoft
-* JP Morgan Chase
+- Dropbox
+- Facebook
+- Capital One
+- Northrup Grumman
+- BNY Mellon
+- Microsoft
+- JP Morgan Chase
 
 Other companies just wanted me to visit their booth after reviewing my resume since they weren't offering interviews at the conference. And other companies invited me to different events during the conference, like Asana & a16z for a breakfast.
 
@@ -66,14 +66,10 @@ Needless to say, this year was friggin' amazing.
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/SonjaOttley/status/776506790724841472">Sonja Gittens Ottley on Twitter</a></h4><p>Meeting so many great students @Tapia_con, like these from our Startup breakfast co-hosted with @a16z! #Tapia2016</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-* award: TAPIA Conference Scholarship Recipient
-* issuer: TAPIA Conference
-* month: 'August'
-* year: 2016
-* link: '//tapiaconference.org/'
-* notes: >-
-* Scholarship includes conference registration, shared hotel with another
-  scholarship recipient and $500 travel award.
+### Awards
+
+- August 2016 - TAPIA Conference Scholarship Recipient
+  - Scholarship includes conference registration, shared hotel with another scholarship recipient and $500 travel award.
 
 ### Banners
 
@@ -85,7 +81,9 @@ I decided to create these banners in recognition of the conference.
 
 The font used is Nimbus Sans Extended.
 
-Feel free to download the Sketch file from GitHub and modify it however you like.https://github.com/fvcproductions/sketch/blob/master/tapia-conference.sketch
+Feel free to download the Sketch file from GitHub and modify it however you like.
+
+https://github.com/fvcproductions/sketch/blob/master/tapia-conference.sketch
 
 ### Pictures
 

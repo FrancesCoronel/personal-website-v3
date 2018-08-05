@@ -2,6 +2,8 @@
 title: Portfolio 💼️
 description: My work across the interwebs.
 banner: https://i.imgur.com/DZnLjQQ.png
+hideBanner: true
+noComments: true
 portfolio: true
 aliases:
   - /portfolio/
@@ -13,4 +15,5 @@ aliases:
   - /project-type/slide-decks/
   - /project-type/web/
   - /portfolio/no-more-projects/
+  - /2015/04/08/lease-template/
 ---

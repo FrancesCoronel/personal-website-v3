@@ -58,7 +58,7 @@ categories:
 
 # So in your [launcher](https://chrome.google.com/webstore/launcher), you have all these lovely links to useful Google Apps and any apps you can find in the Chrome Web Store.
 
-![](https://core0.staticworld.net/images/article/2013/02/applaunchersplash-100026310-orig.png)
+![Chrome App Launcher 1](https://core0.staticworld.net/images/article/2013/02/applaunchersplash-100026310-orig.png)
 
 Unfortunately, if you have a website you visit regularly but isn't available in the Chrome Web Store, there's not much you can do.
 
@@ -66,7 +66,7 @@ You can always use **bookmarks,** but if you're like me, you know too many bookm
 
 So all in all, it looks like clutter and a ridiculous \# of bookmark folders are your best options.
 
-![](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_496x150.png)
+![Chrome App Launcher 2](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_496x150.png)
 
 **UNLESS YOU COULD ADD YOUR OWN LINKS TO THE APP LAUNCHER.**
 
@@ -78,15 +78,15 @@ Tutorial time.
 
 > icons below were created using this [Pixel Icon Generator](https://www.iconj.com/pixel_icon_generator.php)
 
-![](https://fvcproductions.files.wordpress.com/2015/02/chrome.png)
+![Chrome App Launcher 3](https://fvcproductions.files.wordpress.com/2015/02/chrome.png)
 
 [Chrome](https://www.google.com/chrome/) (derp)
 
-![](https://fvcproductions.files.wordpress.com/2015/02/sublime1.png)
+![Chrome App Launcher 4](https://fvcproductions.files.wordpress.com/2015/02/sublime1.png)
 
 [A text editor](https://www.sublimetext.com/) (I prefer Sublime Text)
 
-![](https://fvcproductions.files.wordpress.com/2015/02/google.png)
+![Chrome App Launcher 5](https://fvcproductions.files.wordpress.com/2015/02/google.png)
 
 [Google-fu](https://www.urbandictionary.com/define.php?term=google-fu) (Just a little!)
 
@@ -94,13 +94,13 @@ Tutorial time.
 
 > Choose which website you want to add! 😍
 >
-> > I chose [One Page Love](https://onepagelove.com/), which is a _One Page_ website design gallery showcasing the best _Single Page_ website designs from around the web. ![](https://fvcproductions.files.wordpress.com/2015/02/one-page-love.png)
+> > I chose [One Page Love](https://onepagelove.com/), which is a _One Page_ website design gallery showcasing the best _Single Page_ website designs from around the web. ![Chrome App Launcher 6](https://fvcproductions.files.wordpress.com/2015/02/one-page-love.png)
 
 # Step 2
 
 > Create a folder with he name of the site you want to add to your Chrome App Launcher.
 >
-> ![](https://fvcproductions.files.wordpress.com/2015/02/folders.png)
+> ![Chrome App Launcher 7](https://fvcproductions.files.wordpress.com/2015/02/folders.png)
 >
 > > You're going to end up having two files with each folder/app you create:
 
@@ -151,7 +151,7 @@ Tutorial time.
 
 > The above example works with the _One Page Love_ website.
 >
-> ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-19-43-50.png)
+> ![Chrome App Launcher 8](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-19-43-50.png)
 
 ## Step 4
 
@@ -164,7 +164,7 @@ Tutorial time.
 
 > > A handy tip to get the description for the website fast is by using the query `info:onepagelove.com` in Google which will provide information about the url. No spaces, or else it doesn't work.
 > >
-> > ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-19-51-41.png)
+> > ![Chrome App Launcher 9](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-19-51-41.png)
 
 ## Step 5
 
@@ -176,7 +176,7 @@ Tutorial time.
 >
 > > You can accelerate your search by going to `Search tools` &gt; > > `Size` &gt; `Exactly...` &gt; `Width: 128 px, Height: 128 px` and then by typing in `filetype:png` into the Google search to select specifically for PNG files.
 > >
-> > ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-20-15-20.png) > > ![](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-20-16-32.png)
+> > ![Chrome App Launcher 10](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-20-15-20.png) > > !Chrome App Launcher 11[](https://fvcproductions.files.wordpress.com/2015/02/screenshot-2015-02-01-20-16-32.png)
 
 ## Step 7
 
@@ -184,7 +184,7 @@ Tutorial time.
 >
 > Head over to `chrome://extensions` or use your toolbar to get there.
 >
-> > ![](https://fvcproductions.files.wordpress.com/2015/02/loading-e1422840256797.png)
+> > ![Chrome App Launcher 12](https://fvcproductions.files.wordpress.com/2015/02/loading-e1422840256797.png)
 >
 > Click `Load unpacked extension...`
 >
@@ -194,10 +194,10 @@ Tutorial time.
 
 > Your website will now show up in the extensions!
 >
-> > ![](https://fvcproductions.files.wordpress.com/2015/02/extensions.png)
+> > ![Chrome App Launcher 13](https://fvcproductions.files.wordpress.com/2015/02/extensions.png)
 >
 > And once it shows up in your extensions, it'll also show up in the `Chrome App Launcher`.
 >
-> > ![](https://fvcproductions.files.wordpress.com/2015/02/complete-e1422839649943.png)
+> > ![Chrome App Launcher 14](https://fvcproductions.files.wordpress.com/2015/02/complete-e1422839649943.png)
 >
 > That's it. Congratulations! 😊

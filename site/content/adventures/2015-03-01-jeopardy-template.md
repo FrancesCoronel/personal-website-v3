@@ -62,22 +62,22 @@ Jeopardy template created using Keynote that can be used by anybody to create th
 
 ## External Fonts
 
-* [Gyparody](https://www.1001fonts.com/gyparody-font.html) (for Jeopardy Title Slide)
-* [Exposition](https://www.ffonts.net/Exposition.font) (for Last Slide)
-* [Square 721](https://www.fontyukle.net/en/1,Square721) (for Prize Money Numbers)
+- [Gyparody](https://www.1001fonts.com/gyparody-font.html) (for Jeopardy Title Slide)
+- [Exposition](https://www.ffonts.net/Exposition.font) (for Last Slide)
+- [Square 721](https://www.fontyukle.net/en/1,Square721) (for Prize Money Numbers)
 
 ## Stats
 
 > As of September 2015
 
-* 1,300+ views for _bitly link_ and _Speaker Deck slides_ of Jeopardy Keynote Template
-* 1,700+ views for _bitly link_ and _Speaker Deck slides_ of Jeopardy Google Slides Template
+- 1,300+ views for _bitly link_ and _Speaker Deck slides_ of Jeopardy Keynote Template
+- 1,700+ views for _bitly link_ and _Speaker Deck slides_ of Jeopardy Google Slides Template
 
 > As of November 2016
 
-* 2,300+ views for just Keynote and Google Slides links
-* 6,200+ views for Speaker deck of Keynote
-* 5,400+ views for Speaker deck of Google Slides
-* 1,900+ views for Behance of Google Slides
+- 2,300+ views for just Keynote and Google Slides links
+- 6,200+ views for Speaker deck of Keynote
+- 5,400+ views for Speaker deck of Google Slides
+- 1,900+ views for Behance of Google Slides
 
 = 15,800+ total views across the web

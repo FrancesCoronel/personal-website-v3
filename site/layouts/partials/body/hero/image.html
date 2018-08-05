@@ -2,5 +2,7 @@
 <h1>{{ .Title }}</h1>
 {{ partial "body/hero/info.html" . }}
 <!-- Banner -->
+{{ if and (.Params.banner) (not .Params.hideBanner) }}
 <img class="hero image" src="{{ .Params.banner }}" alt="{{ .Title }}">
+{{ end }}
 <hr>

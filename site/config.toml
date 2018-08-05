@@ -9,7 +9,7 @@ footnoteReturnLinkContents    = "↩"
 googleAnalytics               = "UA-63190978-3"
 languageCode                  = "en-us"
 metaDataFormat                = "yaml"
-Paginate                      = 6
+Paginate                      = 12
 PaginatePath                  = ""
 preserveTaxonomyNames         = false
 pygmentsCodefences            = true
@@ -41,7 +41,7 @@ title                         = "FVCproductions"
 # Taxonomy
 [taxonomies]
     category                  = "categories"
-    tag                       = "tags"
+    # tag                       = "tags"
 
 # Custom Params
 [params]

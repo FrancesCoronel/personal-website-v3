@@ -1,9 +1,9 @@
 <footer class="footer">
-  <div class="container is-fluid">
+  <div class="container is-fluid has-text-centered">
     <div class="column">
       {{ partial "body/footer/icons.html" . }}
       <!-- Copyright -->
-      <div class="content has-text-centered mt-2">
+      <div class="content mt-2">
         <p>
           ©️
           <a href="/" target="_blank" rel="noopener">{{ .Site.Title }}</a> {{ with .Site.Params.year }} {{ . }} {{ end }} to {{ now.Year }}

@@ -1,11 +1,12 @@
 <!-- Variables -->
 {{ $blog := ($.Site.Taxonomies.categories.blog).Pages }}
 <!-- Blog -->
-<h2>📝{{ len $blog }} Posts</h2>
+<h2>📝 {{ len $blog }} Posts</h2>
 <div class="columns is-multiline">
-  {{ range $blog}} {{ if .Date.Before now }}
+  {{ range $blog }} {{ if .Date.Before now }}
   <div class="column is-one-third">
-    {{ partial "body/content/card/no-image.html" . }}
+    {{ partial "body/content/card/plain.html" . }}
   </div>
   {{ end }} {{ end }}
 </div>
+<hr>

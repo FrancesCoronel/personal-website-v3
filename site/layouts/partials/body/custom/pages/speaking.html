@@ -15,9 +15,9 @@
 <!-- Upcoming Events -->
 <h2>⏳️ Upcoming Events</h2>
 <div class="columns is-multiline">
-  {{ range $speaking }} {{ if ge .Date.Unix (now.AddDate 0 0 -1) }}
+  {{ range $speaking.ByDate }} {{ if ge .Date.Unix (now.AddDate 0 0 -1) }}
   <div class="column is-one-third">
-    {{ partial "body/content/card/no-image.html" . }}
+    {{ partial "body/content/card/plain.html" . }}
   </div>
   {{ end }} {{ end }}
 </div>
@@ -26,7 +26,8 @@
 <div class="columns is-multiline">
   {{ range ($.Site.Taxonomies.categories.speaking).Pages.ByDate.Reverse }} {{ if .Date.Before now }}
   <div class="column is-one-third">
-    {{ partial "body/content/card/no-image.html" . }}
+    {{ partial "body/content/card/plain.html" . }}
   </div>
   {{ end }} {{ end }}
 </div>
+<hr>

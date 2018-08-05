@@ -1,7 +1,9 @@
 ---
 title: Freelancing 💎️
 description: What you can hire me for.
-banner: https://i.imgur.com/8o2Nhyo.jpg
+banner: https://i.imgur.com/hD3rQiK.jpg
+hideBanner: true
+noComments: true
 aliases:
   - /services/freelancing/
   - /freelancing/
@@ -48,11 +50,3 @@ I charged my last writing client $200 for 2000+ words.
 #### Mentoring
 
 Through my Fullstack Academy ambassador position, I received $500 to mentor an incoming Grace Hopper student for 6 hours.
-
----
-
-## As a developer with a design background, I take pride in having work that is both aesthetically pleasing and technically challenging.
-
-You can find [the feedback I've received](/feedback) thus far on my website!
-
-![Designer/Developer](https://i.imgur.com/hD3rQiK.jpg)

@@ -116,7 +116,7 @@ As a result, there are now only **7** days of [**Fullstack**](http://www.fullsta
 
 - I’m coming to realize that my team is actually very solid. This is great! `ego++; stress--;`
 - Learning Team Lunch today. For the first time ever, we have to talk to each other and are not actually spending time playing some sort of board game.
-  * The meeting is very **hogwarts** (which sounds a lot like **awkward** if you say it out loud a bunch of times really fast). `excitement--;`
+  - The meeting is very **hogwarts** (which sounds a lot like **awkward** if you say it out loud a bunch of times really fast). `excitement--;`
 
 ## Wednesday
 
@@ -258,10 +258,10 @@ week7();
 > Short trip this time. 😉
 
 - **Week 8**
-  * More REACTO.
-  * Presented Stackstore on Wednesday.
-  * On Wednesday, I also presented my Tech Talk on Design. Multitasking is fun. -**\_**- That was sarcasm, by the way.
-  * Started working on my Stackathon project. I decide I’m going to take it easy for this one, because I’m tired and we only have till Monday to work on it, so _ughhhhh_.
+  - More REACTO.
+  - Presented Stackstore on Wednesday.
+  - On Wednesday, I also presented my Tech Talk on Design. Multitasking is fun. -**\_**- That was sarcasm, by the way.
+  - Started working on my Stackathon project. I decide I’m going to take it easy for this one, because I’m tired and we only have till Monday to work on it, so _ughhhhh_.
 
 > My team’s Stackstore. See it in full glory on Heroku at [`http://robopocalypse.herokuapp.com`](http://robopocalypse.herokuapp.com).
 
@@ -272,21 +272,21 @@ week7();
 > Yawn.
 
 - **Week 9**
-  * On Monday, I get an invitation to attend an Apple Hiring Event back in Norfolk. I applied for an College At Home Advisor position back on July 4th, so I’m really glad they were able to follow back. The event is on Sunday.
-  * We also present our stackathon projects on Monday.
-    * My stackathon project was **[Rank Me](https://github.com/fvcproductions/RankMe)**, an app that ranks coding bootcamps on their rating and social scores based on data that is crawled from various sites.
-    * I bothered Jimmy a lot to get my crawler working nicely. Thanks Jimmy!
-    * The app is still very much in _BETA_, but once I settle back home, I’ll **definitely** have something to work on because I’ve had this idea ever since I first started applying to bootcamps, which was back in friggin’ 2013. It’s going to be big, y’all.
-  * I come to realize that I still haven’t gotten my 2 extra **free** t-shirts from Fullstack for (1) making a killer design for that flashcard app from Junior Phase with Yves and (2) for getting to 4 kyu on Codewars. 😦
-  * There is **A LOT** of planning done in preparation for the groups pairing off for the Capstone projects. If the point was to emphasize what a big deal it was, point successfully emphasized!
-  * After a lot of discussion about ideas, I decide to hop on to David’s idea of creating an internal sort of LinkedIn for Fullstack Academy students and companies that are looking to hire them.
-    * It seems very practical and I actually was thinking of this as a potential project myself when looking at bootcamps to attend.
-    * I had really wanted a place to go to for Fullstack Academy where I could explore all the hackathons, projects, and companies students are involved with.
-    * And so now I can at least start putting the seed in the ground for this project per se since it’ll be continually developed and improved upon within Fullstack regardless.
+  - On Monday, I get an invitation to attend an Apple Hiring Event back in Norfolk. I applied for an College At Home Advisor position back on July 4th, so I’m really glad they were able to follow back. The event is on Sunday.
+  - We also present our stackathon projects on Monday.
+    - My stackathon project was **[Rank Me](https://github.com/fvcproductions/RankMe)**, an app that ranks coding bootcamps on their rating and social scores based on data that is crawled from various sites.
+    - I bothered Jimmy a lot to get my crawler working nicely. Thanks Jimmy!
+    - The app is still very much in _BETA_, but once I settle back home, I’ll **definitely** have something to work on because I’ve had this idea ever since I first started applying to bootcamps, which was back in friggin’ 2013. It’s going to be big, y’all.
+  - I come to realize that I still haven’t gotten my 2 extra **free** t-shirts from Fullstack for (1) making a killer design for that flashcard app from Junior Phase with Yves and (2) for getting to 4 kyu on Codewars. 😦
+  - There is **A LOT** of planning done in preparation for the groups pairing off for the Capstone projects. If the point was to emphasize what a big deal it was, point successfully emphasized!
+  - After a lot of discussion about ideas, I decide to hop on to David’s idea of creating an internal sort of LinkedIn for Fullstack Academy students and companies that are looking to hire them.
+    - It seems very practical and I actually was thinking of this as a potential project myself when looking at bootcamps to attend.
+    - I had really wanted a place to go to for Fullstack Academy where I could explore all the hackathons, projects, and companies students are involved with.
+    - And so now I can at least start putting the seed in the ground for this project per se since it’ll be continually developed and improved upon within Fullstack regardless.
 
 > By the time I finally finish out the last kinks of my stackathon project Monday morning, I’m feeling something like this:
 
-[![Ooohhh](<https://cdn0.vox-cdn.com/thumbor/So_Sc-rt5khq-17lV0YO_4nu5xg=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3859280/giphy%20(1).gif>)](https://github.com/fvcproductions/RankMe)
+[![Ooohhh](https://cdn0.vox-cdn.com/thumbor/So_Sc-rt5khq-17lV0YO_4nu5xg=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3859280/giphy%20(1).gif)](https://github.com/fvcproductions/RankMe)
 
 > Stackathon Project – About Page
 
@@ -299,19 +299,19 @@ week7();
 > Time travel wasn’t even that necessary this time, but hey. 😎
 
 - **Week 10**
-  * As it turns out, there are only 2 people in my group for the capstone project (which has now been dubbed `Hiredot2` because a previous Hiredot existed...but died out[?]), _myself included_.
-    * Yes, it’s actually just Joanna and I.
-    * I’ve actually mentioned Joanna here on my blog before.
-    * She’s the one who attends Cornell Tech for her Master’s in Connective Media.
-    * In her last year too. Lucky gal.
-  * Anyways, the reason we’re just a group of two (and that usually never happens with capstone projects but there’s definitely been some exceptions going on with my cohort because they’re trying to accommodate the preferences that us Summer of Code (SOC) students have) is because (1) we’re both SOC students so we’re obligated to work together and (2) I thought I would have to go back home early for further steps in the interview process for the Apple College At Home Advisor position.
-    * Turns out though I was totally wrong about that last part and I’ll definitely be able to finish the program till the end.
-    * **However**, Joanna still has to start going back to school this Wednesday (today) so she’ll only be coming to Fullstack part time from then (now) on.
-    * Most people figured at that point that both of us would have less time to work on the capstone, so it just ended up being the two of us.
-    * Anywhoozies, the point is – it’s a tight situation.
-  * I started working on actual code this week for the capstone.
-  * There’s more Interfeud. The Flex students end up winning of course. 🙄
-  * A lot of the states (hackathons, projects, students, companies) are basically done now for `Hiredot2`, but time slots still need to be created for the hiring event state and the dragging and dropping feature for students and companies.
+  - As it turns out, there are only 2 people in my group for the capstone project (which has now been dubbed `Hiredot2` because a previous Hiredot existed...but died out[?]), _myself included_.
+    - Yes, it’s actually just Joanna and I.
+    - I’ve actually mentioned Joanna here on my blog before.
+    - She’s the one who attends Cornell Tech for her Master’s in Connective Media.
+    - In her last year too. Lucky gal.
+  - Anyways, the reason we’re just a group of two (and that usually never happens with capstone projects but there’s definitely been some exceptions going on with my cohort because they’re trying to accommodate the preferences that us Summer of Code (SOC) students have) is because (1) we’re both SOC students so we’re obligated to work together and (2) I thought I would have to go back home early for further steps in the interview process for the Apple College At Home Advisor position.
+    - Turns out though I was totally wrong about that last part and I’ll definitely be able to finish the program till the end.
+    - **However**, Joanna still has to start going back to school this Wednesday (today) so she’ll only be coming to Fullstack part time from then (now) on.
+    - Most people figured at that point that both of us would have less time to work on the capstone, so it just ended up being the two of us.
+    - Anywhoozies, the point is – it’s a tight situation.
+  - I started working on actual code this week for the capstone.
+  - There’s more Interfeud. The Flex students end up winning of course. 🙄
+  - A lot of the states (hackathons, projects, students, companies) are basically done now for `Hiredot2`, but time slots still need to be created for the hiring event state and the dragging and dropping feature for students and companies.
 
 > How I feel my capstone group is like compared to other groups.
 

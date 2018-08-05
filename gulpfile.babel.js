@@ -18,27 +18,38 @@ import watch from "gulp-watch";
 import hugoBin from "hugo-bin";
 import PluginError from "plugin-error";
 import csso from "postcss-csso";
-import runSequence from "run-sequence";
+// import runSequence from "run-sequence";
 import webpack from "webpack";
 
 import webpackConfig from "./webpack.config";
 
-// Browser Sync
+/** Browser Sync **/
 const browserSync = BrowserSync.create();
 
-// Hugo arguments
-const hugoArgsDefault = ["-d", "../dist", "-s", "site"];
+/** Hugo arguments **/
 
-// Verbose Hugo Log
+const hugoArgsDefault = ["-d", "../dist", "-s", "site"];
 // const hugoArgsVerbose = ["-d", "../dist", "-s", "site", "-v"];
 
-// Development tasks
-gulp.task("hugo", (cb) => buildSite(cb));
+/** Run Hugo and Build Site */
 
-// Build/production tasks
-gulp.task("build", ["clean", "hugo", "sass", "js", "img", "static"], (callback) => {
-  runSequence("minify", callback);
-});
+function buildSite(cb, options, environment = "development") {
+  const args = options ? hugoArgsDefault.concat(options) : hugoArgsDefault;
+  process.env.NODE_ENV = environment;
+  return spawn(hugoBin, args, {
+    stdio: "inherit",
+  }).on("close", (code) => {
+    if (code === 0) {
+      browserSync.reload();
+      cb();
+    } else {
+      browserSync.notify("Hugo build failed :(");
+      cb("Hugo build failed");
+    }
+  });
+}
+
+/** Gulp Tasks **/
 
 // Minify HTML
 gulp.task("minify", () =>
@@ -121,6 +132,15 @@ gulp.task("js", () => {
   });
 });
 
+// Development tasks
+gulp.task("hugo", (cb) => buildSite(cb));
+
+// Build/production tasks
+// gulp.task("build", ["clean", "hugo", "sass", "js", "img", "static"], (callback) => {
+//   runSequence("minify", callback);
+// });
+gulp.task("build", ["clean", "hugo", "sass", "js", "img", "static"], (cb) => buildSite(cb, [], "production"));
+
 // Development server with browser sync
 gulp.task("server", ["hugo", "sass", "js", "img", "static"], () => {
   browserSync.init({
@@ -144,20 +164,3 @@ gulp.task("server", ["hugo", "sass", "js", "img", "static"], () => {
     gulp.start(["hugo"]);
   });
 });
-
-// Run Hugo and build site
-function buildSite(cb, options, environment = "development") {
-  const args = options ? hugoArgsDefault.concat(options) : hugoArgsDefault;
-  process.env.NODE_ENV = environment;
-  return spawn(hugoBin, args, {
-    stdio: "inherit",
-  }).on("close", (code) => {
-    if (code === 0) {
-      browserSync.reload();
-      cb();
-    } else {
-      browserSync.notify("Hugo build failed :(");
-      cb("Hugo build failed");
-    }
-  });
-}

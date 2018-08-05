@@ -62,7 +62,7 @@ I was accepted! Here's part of the email they sent me:
 
 I also have shared my **interview experience** with bootcamps such as
 
-- [Bitmaker Labs](/blog/2014/03/12/interview-bitmaker-labs/)
+- [Bitmaker Labs](/2014/03/12/interview-bitmaker-labs/)
 - [Coding House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
 - [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
 - [Dev League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'My Experience With DevLeague 💻')

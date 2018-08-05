@@ -10,6 +10,8 @@ tags:
   - brooklyn cupcake
 ---
 
+> [Goldman Sachs | 10,000 Small Businesses Student Challenge Winner](http://www.goldmansachs.com/careers/students-and-graduates/our-programs/americas-programs/student-challenge.html)
+
 ## Highlights
 
 - 1 of 9 finalists from 80+ applicants

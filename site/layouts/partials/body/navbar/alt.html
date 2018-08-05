@@ -11,13 +11,13 @@
         </span>
       </a>
       <ul id="primary-menu">
-        {{ $parentPages := where .Site.RegularPages "Type" "page" }} {{ $homePages := $parentPages | union (.Site.Sections) }} {{ range $homePages.ByTitle }}
+        {{ $parentPages := where .Site.RegularPages "Type" "page" }} {{ $homePages := $parentPages | union (.Site.Sections) }} {{ range $homePages.ByTitle }} {{ if (not .Params.noHomePage) }}
         <li class="menu-item">
           <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}">
             {{ .Title }}
           </a>
         </li>
-        {{ end }}
+        {{ end }} {{ end }}
       </ul>
     </nav>
   </div>

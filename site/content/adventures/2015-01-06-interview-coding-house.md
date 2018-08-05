@@ -73,8 +73,8 @@ Once all that is taken care of, they'll let you access their internal website to
 
 I also have shared my **interview experience** with bootcamps such as
 
-- [Bitmaker Labs](/blog/2014/03/12/interview-bitmaker-labs/)
-- [Coding Dojo](/blog/2015/01/06/interview-coding-dojo/)
+- [Bitmaker Labs](/2014/03/12/interview-bitmaker-labs/)
+- [Coding Dojo](/2015/01/06/interview-coding-dojo/)
 - [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
 - [Dev League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'Interview With DevLeague 💻')
 - [Fullstack Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')

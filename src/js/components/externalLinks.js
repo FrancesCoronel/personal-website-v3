@@ -1,6 +1,6 @@
-const anchors = document.querySelectorAll(".content-body a[href^='https://']");
+const anchors = document.querySelectorAll(".content a[href^='https://']");
 
-for (var i = 0; i < anchors.length; i++) {
+for (let i = 0; i < anchors.length; i++) {
   anchors[i].target = "_blank";
   anchors[i].rel = "noopener";
 }

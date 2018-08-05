@@ -28,7 +28,9 @@ I also created a crowd-sourced version of the map using the service [Mapme](http
 
 ## Why Mapme?
 
-So after realizing a lot of people liked the idea of a more geographically oriented way to find a bootcamp, I started creating [Bootcamp.me](https://bit.ly/bootcampme 'Bootcamp.me') using Google Maps back in November of last year.\[googlemaps //www.google.com/maps/d/embed?mid=zIblKEWM9BnY.kF6pHtgPUlIo&w=640&h=480\]
+So after realizing a lot of people liked the idea of a more geographically oriented way to find a bootcamp, I started creating [Bootcamp.me](https://bit.ly/bootcampme 'Bootcamp.me') using Google Maps back in November of last year.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=123K1t2NXzk0e4BjF9_etA8LCk1o" width="640" height="480"></iframe>
 
 Again, you can find the Google Map at [bit.ly/bootcampme](https://bit.ly/bootcampme 'Bootcamp.me').
 

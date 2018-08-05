@@ -39,11 +39,11 @@ There are other awesome power apps of course, like
 - [Flux](https://justgetflux.com 'Flux')
 - [Sorty](https://wiles.dk/ 'Sorty')
 - [Ubersicht](https://tracesof.net/uebersicht/ 'Ubersicht')
-- [Yoink](https://eternalstorms.at/yoink/Yoink*-\_Draggings_a_drag_no_more/Yoink*-\_Draggings_a_drag_no_more%21.html ""Yoink"")
+- [Yoink](https://eternalstorms.at/yoink/ 'Yoink')
 
 among others - but these 3 are by far my favorite.
 
-1.  # [Automator](https://en.wikipedia.org/wiki/Automator\_%28software%29 ""Automator"")
+## 1. [Automator](https://en.wikipedia.org/wiki/Automator_%28software%29 'Automator')
 
 ![Automator](https://www.redundantrobot.com/wp-content/uploads/2013/10/automator.png)
 
@@ -51,7 +51,7 @@ Seriously, I've done things with this guy in seconds that would take others hour
 
 Here are 3 examples of Automator workflows that have helped me out significantly.
 
-1.  Import Multiple Fonts
+### 1. Import Multiple Fonts
 
 ---
 
@@ -61,10 +61,9 @@ And then you even start to click on them one by one to import them to your Font 
 
 **Say no more! Automator to the rescue!**
 
-[![Import
-Fonts](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-46.png?w=660)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-46.png)
+[![Import Fonts](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-46.png?w=660)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-46.png)
 
-2.  PDF To Images
+### 2. PDF To Images
 
 ---
 
@@ -74,10 +73,9 @@ So now you have this 20 page PDF file and you start to export each page to a `pn
 
 **Say no more! Automator to the rescue!**
 
-[![PDF To
-Images](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-16.png?w=660)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-16.png)
+[![PDF To Images](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-16.png?w=660)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-16.png)
 
-3.  Rename Multiple Photos
+### 3. Rename Multiple Photos
 
 ---
 
@@ -89,10 +87,9 @@ So now you have 30+ wallpaper images in your `Downloads` folder and because you'
 
 **Say no more! Automator to the rescue!**
 
-[![Rename Multiple
-Photos](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11-06.png?w=660)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11-06.png)
+[![Rename Multiple Photos](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11-06.png?w=660)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11-06.png)
 
-2.  # [Alfred](https://www.alfredapp.com/ ""Alfred"")
+## 2. [Alfred](https://www.alfredapp.com/ 'Alfred')
 
 ![Alfred](https://a2.mzstatic.com/us/r30/Purple/v4/22/16/13/221613ff-de88-908e-684d-262576f7dbd0/icon128-2x.png)
 
@@ -104,7 +101,7 @@ Photos](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28
 
 Definitely not a haiku there, but man - just goes to show how much I depend on the damn bowler hat.
 
-3.  # [BetterSnapTool](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12 ""BetterSnapTool"")
+## 3. [BetterSnapTool](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12 'BetterSnapTool')
 
 ![BetterSnapTool](https://a3.mzstatic.com/us/r30/Purple3/v4/b0/e1/f1/b0e1f178-69dc-f01a-3d4e-0faa4379ca8f/icon128-2x.png)
 

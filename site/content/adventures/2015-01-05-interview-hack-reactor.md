@@ -148,8 +148,8 @@ I knew already beforehand that no matter what, I'm going to keep bettering mysel
 
 I also have shared my **interview experience** with bootcamps such as
 
-- [Bitmaker Labs](/blog/2014/03/12/interview-bitmaker-labs/)
-- [Coding Dojo](/blog/2015/01/06/interview-coding-dojo/)
+- [Bitmaker Labs](/2014/03/12/interview-bitmaker-labs/)
+- [Coding Dojo](/2015/01/06/interview-coding-dojo/)
 - [Coding House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
 - [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
 - [Dev League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'My Experience With DevLeague 💻')
