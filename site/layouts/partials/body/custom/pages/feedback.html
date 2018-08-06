@@ -1,12 +1,13 @@
 <!-- Variables -->
 {{ $feedback := ($.Site.Taxonomies.categories.review.Pages) }}
 <!-- Feedback -->
-<h2 class="mt-0">✅ {{ len $feedback }} Reviews</h2>
-<div class="columns is-multiline">
-  {{ range $feedback }} {{ if .Date.Before now }}
-  <div class="column is-one-third">
-    {{ partial "body/content/card/_index.html" . }}
+<div class="content">
+  <h2>✅ {{ len $feedback }} Reviews</h2>
+  <div class="columns is-multiline">
+    {{ range $feedback }} {{ if .Date.Before now }}
+    <div class="column is-one-third">
+      {{ partial "body/content/card/_index.html" . }}
+    </div>
+    {{ end }} {{ end }}
   </div>
-  {{ end }} {{ end }}
 </div>
-<hr>

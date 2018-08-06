@@ -3,6 +3,8 @@ title: Free Code Camp
 date: 2016-05-25
 description: Spoke for the official Norfolk Free Code Camp Facebook group!
 banner: https://fvcproductions.files.wordpress.com/2016/06/freecodecamp.jpg
+location: 757 Makerspace - Norfolk, VA
+slides: https://speakerdeck.com/fvcproductions/so-you-want-to-be-a-wizard-free-code-camp-norfolk
 categories:
   - speaking
   - wizard
@@ -27,6 +29,6 @@ Invited to speak for FreeCodeCamp Norfolk's group on how to get started as a dev
 
 ### Facebook Posts
 
-* [Announcement](https://www.facebook.com/groups/free.code.camp.norfolk/permalink/812271315539607/)
-* [Event](https://www.facebook.com/groups/free.code.camp.norfolk/permalink/806430109457061/)
-* [Aftermath](https://www.facebook.com/groups/free.code.camp.norfolk/permalink/812716962161709/)
+- [Announcement](https://www.facebook.com/groups/free.code.camp.norfolk/permalink/812271315539607/)
+- [Event](https://www.facebook.com/groups/free.code.camp.norfolk/permalink/806430109457061/)
+- [Aftermath](https://www.facebook.com/groups/free.code.camp.norfolk/permalink/812716962161709/)

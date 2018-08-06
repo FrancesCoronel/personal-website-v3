@@ -3,6 +3,7 @@ title: Fullstack Academy
 date: 2017-12-14
 banner: https://i.imgur.com/vTvG2lQ.png
 description: Ambassador
+slides: https://www.slideshare.net/FVCproductions/the-state-of-coding-bootcamps-2017
 aliases:
   - /home/adventures/experience/fullstack-academy-ambassador/
 categories:
@@ -10,6 +11,8 @@ categories:
   - portfolio
   - oss
   - research
+  - speaking
+  - bootcamps
 tags:
   - ambassador
   - fullstack academy
@@ -17,20 +20,20 @@ tags:
 
 <!-- TOC -->
 
-* [Employer](#employer)
-* [Location](#location)
-* [Date](#date)
-* [Role](#role)
-* [About](#about)
-  * [Initial Pitch](#initial-pitch)
-* [Material Developed](#material-developed)
-  * [Mentoring](#mentoring)
-  * [The State of Coding Bootcamps 2017](#the-state-of-coding-bootcamps-2017)
-  * [My Summer of Code Experience](#my-summer-of-code-experience)
-  * [GitHub Repo](#github-repo)
-  * [Notion Page](#notion-page)
-  * [hire-me](#hire-me)
-  * [Alumni Panel](#alumni-panel)
+- [Employer](#employer)
+- [Location](#location)
+- [Date](#date)
+- [Role](#role)
+- [About](#about)
+  - [Initial Pitch](#initial-pitch)
+- [Material Developed](#material-developed)
+  - [Mentoring](#mentoring)
+  - [The State of Coding Bootcamps 2017](#the-state-of-coding-bootcamps-2017)
+  - [My Summer of Code Experience](#my-summer-of-code-experience)
+  - [GitHub Repo](#github-repo)
+  - [Notion Page](#notion-page)
+  - [hire-me](#hire-me)
+  - [Alumni Panel](#alumni-panel)
 
 <!-- /TOC -->
 
@@ -90,7 +93,7 @@ Mentored [Kelaiya Parikh](https://www.linkedin.com/in/kelaiya-parikh) for ~6 hou
 
 > Presented February 19th, 2017
 
-<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/the-state-of-coding-bootcamps-2017">The State of Coding Bootcamps 2017</a></h4><p>FVCproductions https://fvcproductions.com</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/the-state-of-coding-bootcamps-2017">The State of Coding Bootcamps 2017</a></h4><p>Published February 19th, 2017. Looking into the state of where coding bootcamps are now in 2017 and where they're going. --- FVCproductions https://fvcproducti...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### My Summer of Code Experience

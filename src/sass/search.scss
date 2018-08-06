@@ -1,0 +1,156 @@
+.gcsc-branding,
+table.gsc-resultsHeader {
+  display: none;
+}
+
+td {
+  &.gsc-search-button,
+  &.gsib_b {
+    display: none;
+  }
+}
+
+.gs-result .gs-title {
+  text-decoration: none;
+  border: none;
+  * {
+    text-decoration: none;
+  }
+}
+
+table {
+  padding: 0;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+  &.gsc-search-box {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+}
+
+.gsib_a,
+.gsc-above-wrapper-area,
+.cse .gsc-control-cse,
+.gsc-control-cse,
+table tbody tr,
+.gsc-input-box,
+table tbody td,
+.gsst_a,
+input[type=text]:focus,
+td.gsc-input {
+  padding: 0;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+}
+
+table tbody tr:nth-child(odd) {
+  background-color: white;
+}
+
+.gsc-result .gs-title,
+.gsc-input-box {
+  height: inherit;
+  text-decoration: none;
+}
+
+div#gsc-iw-id1 {
+  border: 1px solid black;
+}
+
+td#gs_tti50 {
+  padding: 1em;
+}
+
+.cse .gsc-search-button input.gsc-search-button-v2,
+input.gsc-search-button-v2 {
+  height: auto;
+  width: auto;
+}
+
+.gsc-results-wrapper-nooverlay.gsc-results-wrapper-visible {
+  margin-top: 2em;
+}
+
+a.gsst_a {
+  border-bottom: none !important;
+}
+
+.gsc-search-box-tools .gsc-search-box .gsc-input {
+  padding-right: 0;
+}
+
+table.gsc-search-box {
+  display: inline-table;
+}
+
+.gsc-selected-option-container {
+  max-width: 100%;
+}
+
+.gsc-refinementsArea {
+  display: none;
+}
+
+.gsc-tabsArea>div {
+  overflow: hidden;
+}
+
+input#gsc-i-id1 {
+  background: none !important;
+  margin: 0 !important;
+  text-indent: 0 !important;
+  padding: 1em !important;
+}
+
+td {
+  &.gsc-input {
+    padding: 0 !important;
+  }
+  &#gs_tti50 {
+    border-bottom: none;
+  }
+}
+
+::-webkit-input-placeholder {
+  /* WebKit browsers */
+  color: transparent;
+}
+
+:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: transparent;
+}
+
+::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: transparent;
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10+ */
+  color: transparent;
+}
+
+textarea::-webkit-input-placeholder {
+  /* WebKit browsers */
+  color: transparent;
+}
+
+textarea:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: transparent;
+}
+
+textarea::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: transparent;
+}
+
+textarea:-ms-input-placeholder {
+  /* Internet Explorer 10+ */
+  color: transparent;
+}

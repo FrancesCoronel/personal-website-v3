@@ -1,25 +1,11 @@
 ---
-title: Event Name
+title: Talk Name
 date: 2018-01-01
-description: Talk
+description: Talk Description
 banner: https://imgur.com
+talk: talkName
 categories:
-  - award
-  - blog
-  - conference
-  - education
-  - experience
-  - hackathon
-  - portfolio
-  - program
-  - review
-  - speaking
-    - bootcamps
-    - hourofcode
-    - typescript101
-    - webdesign
-    - wizard
-  - volunteering
+  - talk
 tags:
   - tag
 ---

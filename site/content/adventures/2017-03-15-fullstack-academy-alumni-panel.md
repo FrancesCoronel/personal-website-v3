@@ -3,6 +3,8 @@ title: Fullstack Academy - Alumni Panel
 date: 2017-03-15
 description: Spoke at an alumni panel for Fullstack Academy's senior cohort.
 banner: https://i.imgur.com/5PVK7I1.png
+location: Fullstack Academy - New York, NY
+video: https://www.youtube.com/watch?v=nzOfNIL9GWE
 categories:
   - speaking
 ---

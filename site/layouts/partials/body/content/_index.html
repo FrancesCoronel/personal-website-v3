@@ -3,6 +3,8 @@
   <div class="content-head">
     {{ partial "body/hero/image.html" . }}
   </div>
+  <!-- TOC -->
+  {{ partial "body/custom/toc.html" . }}
   <!-- Content -->
   {{ if .Content }}
   <!-- Content Body -->
@@ -10,8 +12,4 @@
     {{ .Content }}
   </div>
   {{ end }}
-  <!-- Custom Pages -->
-  {{ partial "body/custom/pages/_index.html" . }}
-  <!-- Single Pages - Footer -->
-  {{- if .IsPage }} {{ partial "body/content/footer/_index.html" . }} {{- end }}
 </div>

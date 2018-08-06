@@ -4,6 +4,9 @@
   .pagination-previous,
   .pagination-next {
     @extend %overflow-text;
+    height: 100%;
+    overflow: visible;
+    white-space: initial;
   }
   .pagination-link,
   .pagination-next,

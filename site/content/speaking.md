@@ -4,7 +4,8 @@ description: Talks I've given at events.
 banner: https://i.imgur.com/vv51StT.jpg?2
 hideBanner: true
 noComments: true
-speaking: true
+noTimeEstimate: true
+layout: "custom/speaking"
 aliases:
   - /speaking/
   - /home/services/speaking/

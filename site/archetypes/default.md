@@ -14,7 +14,6 @@ draft: true
 noComments: true
 noTimeEstimate: true
 noHomePage: true
-speaking: true
 # taxonomy
 categories:
   - award
@@ -41,6 +40,7 @@ categories:
     - typescript101
     - webdesign
     - wizard
+    - careerpath
   - volunteering
 tags:
   - tag

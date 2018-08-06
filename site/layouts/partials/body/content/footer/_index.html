@@ -1,20 +1,24 @@
-<div class="content-footer">
-  <!-- Taxonomy -->
-  {{ partial "body/content/taxonomy/_index.html" . }}
-  <!-- Author -->
-  {{ partial "body/content/footer/author.html" . }}
-  <!-- Share -->
-  {{ partial "body/content/footer/share.html" . }}
-  <!-- Donate -->
-  {{ partial "body/content/footer/donate.html" . }}
-  <!-- Subscribe -->
-  {{ partial "body/content/footer/subscribe.html" . }}
-  <!-- Comment -->
-  {{ partial "body/content/footer/comment.html" . }}
-  <!-- Contribute -->
-  {{ partial "body/content/footer/contribute.html" . }}
-  <!-- Related -->
-  {{ partial "body/content/footer/related.html" . }}
-  <!-- Pagination -->
-  {{ if .IsPage }} {{ partial "body/custom/pagination.html" . }} {{ end }}
+{{- if .IsPage }}
+<div class="content">
+  <div class="content-footer">
+    <!-- Taxonomy -->
+    {{ partial "body/content/taxonomy/_index.html" . }}
+    <!-- Author -->
+    {{ partial "body/content/footer/author.html" . }}
+    <!-- Share -->
+    {{ partial "body/content/footer/share.html" . }}
+    <!-- Donate -->
+    {{ partial "body/content/footer/donate.html" . }}
+    <!-- Subscribe -->
+    {{ partial "body/content/footer/subscribe.html" . }}
+    <!-- Comment -->
+    {{ partial "body/content/footer/comment.html" . }}
+    <!-- Contribute -->
+    {{ partial "body/content/footer/contribute.html" . }}
+    <!-- Related -->
+    {{ partial "body/content/footer/related.html" . }}
+    <!-- Pagination -->
+    {{- if .IsPage }}{{ partial "body/custom/pagination.html" . }}{{- end }}
+  </div>
 </div>
+{{- end }}

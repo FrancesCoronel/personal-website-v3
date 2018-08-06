@@ -3,31 +3,32 @@
 {{ $talks := ($.Site.Taxonomies.categories.talk).Pages }}
 <!-- Speaking -->
 {{ $speaking := ($.Site.Taxonomies.categories.speaking).Pages }}
-<!-- Topics -->
-<h2 class="mt-sm">🗨️ {{ len $talks }} Talks</h2>
-<div class="columns is-multiline">
-  {{ range $talks.ByDate.Reverse }}
-  <div class="column is-one-third">
-    {{ partial "body/content/card/_index.html" . }}
+<div class="content">
+  <!-- Upcoming Events -->
+  <h2>⏳️ Upcoming Events</h2>
+  <div class="columns is-multiline">
+    {{ range $speaking.ByDate }} {{ if ge .Date.Unix (now.AddDate 0 0 -1) }}
+    <div class="column is-one-third">
+      {{ partial "body/content/card/plain.html" . }}
+    </div>
+    {{ end }} {{ end }}
   </div>
-  {{ end }}
-</div>
-<!-- Upcoming Events -->
-<h2>⏳️ Upcoming Events</h2>
-<div class="columns is-multiline">
-  {{ range $speaking.ByDate }} {{ if ge .Date.Unix (now.AddDate 0 0 -1) }}
-  <div class="column is-one-third">
-    {{ partial "body/content/card/plain.html" . }}
+  <!-- Past Events -->
+  <h2>⌛️ {{ len $speaking }} Past Events</h2>
+  <div class="columns is-multiline">
+    {{ range ($.Site.Taxonomies.categories.speaking).Pages.ByDate.Reverse }} {{ if .Date.Before now }}
+    <div class="column is-one-third">
+      {{ partial "body/content/card/plain.html" . }}
+    </div>
+    {{ end }} {{ end }}
   </div>
-  {{ end }} {{ end }}
-</div>
-<!-- Past Events -->
-<h2>⌛️ {{ len $speaking }} Past Events</h2>
-<div class="columns is-multiline">
-  {{ range ($.Site.Taxonomies.categories.speaking).Pages.ByDate.Reverse }} {{ if .Date.Before now }}
-  <div class="column is-one-third">
-    {{ partial "body/content/card/plain.html" . }}
+  <!-- Topics -->
+  <h2>🗨️ {{ len $talks }} Major Talks</h2>
+  <div class="columns is-multiline">
+    {{ range $talks.ByDate.Reverse }}
+    <div class="column is-one-third">
+      {{ partial "body/content/card/plain.html" . }}
+    </div>
+    {{ end }}
   </div>
-  {{ end }} {{ end }}
 </div>
-<hr>

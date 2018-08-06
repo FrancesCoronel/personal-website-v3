@@ -3,6 +3,7 @@ title: Operation Smile - Medical Mission
 description: Volunteered as a high schooler for a medical mission in Vietnam through Operation Smile.
 date: 2012-06-18
 banner: https://fvcproductions.files.wordpress.com/2015/11/581163_207413282713894_160438369_n.jpg
+location: Multiple Locations - Hanoi, Vietnam
 categories:
   - volunteering
   - speaking

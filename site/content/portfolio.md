@@ -4,7 +4,8 @@ description: My work across the interwebs.
 banner: https://i.imgur.com/DZnLjQQ.png
 hideBanner: true
 noComments: true
-portfolio: true
+noTimeEstimate: true
+layout: "custom/portfolio"
 aliases:
   - /portfolio/
   - /project-type/books/

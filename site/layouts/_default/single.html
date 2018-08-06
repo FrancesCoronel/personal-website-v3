@@ -4,10 +4,12 @@
 <!-- Page -->
 <section class="section">
   <div class="container">
-    <!-- TOC -->
-    {{ partial "body/custom/toc.html" . }}
     <!-- Content -->
     {{ partial "body/content/_index.html" . }}
+    <div class="content">
+      <!-- Single Pages - Footer -->
+      {{- if .IsPage }} {{ partial "body/content/footer/_index.html" . }} {{- end }}
+    </div>
   </div>
 </section>
 {{ end }}

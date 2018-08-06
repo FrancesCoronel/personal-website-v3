@@ -3,11 +3,12 @@ title: Beer City Code
 date: 2018-06-23
 description: Beer City Code is an annual conference for software developers held in Grand Rapids, MI, also known as Beer City, USA.
 banner: https://i.imgur.com/0bKmWQQ.png
+location: Calvin College - Grand Rapids, MI
+slides: https://www.slideshare.net/FVCproductions/typescript-101-beer-city-code
 categories:
   - conference
   - speaking
   - typescript101
-  - video
 tags:
   - beer city code
 ---

@@ -31,10 +31,10 @@ The Accenture Liquid Studios are designed for rapid application development. The
 
 ### Wearables Developer (Intern)
 
-* aided in managing the wearables hardware and client demos
-* provided development and testing support in the areas of AR and VR
-* improved technical skills in Unity, C#, JavaScript, Sketch, Xcode, and Safari for Developers
-* gained a familiarity with a wide range of wearable devices targeted for enterprise clients
+- aided in managing the wearables hardware and client demos
+- provided development and testing support in the areas of AR and VR
+- improved technical skills in Unity, C#, JavaScript, Sketch, Xcode, and Safari for Developers
+- gained a familiarity with a wide range of wearable devices targeted for enterprise clients
 
 <blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/my-accenture-internship">My Accenture Internship</a></h4><p>An overview of my internship with Accenture. Accenture Liquid Studio Redwood City, CA Wearables Team Summer 2016</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

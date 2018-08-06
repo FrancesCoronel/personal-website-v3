@@ -6,6 +6,14 @@ body {
   }
 }
 
+body,
+button,
+input,
+select,
+textarea {
+  font-family: $family-primary;
+}
+
 a {
   color: $links;
   &.navbar-item {
@@ -38,7 +46,9 @@ form {
   span,
   button,
   pre code {
-    font-size: $font-size !important;
+    @media screen and (min-width: $mobile) {
+      font-size: initial !important;
+    }
   }
 }
 

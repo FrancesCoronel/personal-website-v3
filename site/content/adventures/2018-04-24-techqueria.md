@@ -1,9 +1,21 @@
 ---
-title: Techqueria Website Revamp
-description: Spent a whole weekend revamping the existing website of Techqueria using a custom Hugo boilerplate I created called Hugoma.
+title: Techqueria
+description: Open Source Developer
 date: 2018-04-24
 banner: https://i.imgur.com/aA56Nma.png
-link: https://github.com/fvcproductions/techqueria-site-revamp
+categories:
+  - portfolio
+  - volunteering
+  - oss
+  - experience
 ---
 
-Still in the process of being integrated into main website at http://techquera.org.
+> Techqueria is one of the largest communities of Latinx professionals in the tech industry.
+
+Spent a whole weekend revamping the existing website of Techqueria using a custom Hugo boilerplate I created called Hugoma.
+
+Still in the process of being integrated into main website at https://techquera.org - currently at https://beta.techqueria.org.
+
+Helped spearhead creation of `#website` channel in Techqueria's Slack for more collaborative development of the new website.
+
+Source code can be found at https://github.com/techqueria/website.

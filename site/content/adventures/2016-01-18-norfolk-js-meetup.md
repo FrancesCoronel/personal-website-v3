@@ -3,6 +3,8 @@ title: Norfolk.js Meetup
 date: 2016-01-18
 description: My first speaking event for a Meetup group!
 banner: https://fvcproductions.files.wordpress.com/2015/11/norfolkjs-jan-2016-0041.jpg
+location: Pierce/McCoy - Norfolk, VA
+slides: https://www.slideshare.net/FVCproductions/2016-0118-norfolkjs-js-coding-bootcamps
 tags:
   - 757
   - 757dev
@@ -19,7 +21,7 @@ categories:
 
 ## Name
 
-[Norfolk.js - Norfolk JavaScript Meetup Group](https://norfolkjs.org "Norfolk.js")
+[Norfolk.js - Norfolk JavaScript Meetup Group](https://www.meetup.com/NorfolkJS/events/227490794/)
 
 ## Organizer
 
@@ -33,16 +35,7 @@ Pierce/McCoy - Norfolk, VA
 
 January 18th, 2016
 
-## Role
-
-Volunteer (helped create website)
-
 ## About
 
-https://www.meetup.com/NorfolkJS/events/227490794/
-
-[gallery type="rectangular" size="full" ids="3697,3698,3699,3700,3701,3702" orderby="rand"]
-
-https://speakerdeck.com/fvcproductions/js-coding-bootcamps-norfolk-dot-js
-
-https://speakerdeck.com/fvcproductions/my-norfolk-dot-js-journey
+<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/2016-0118-norfolkjs-js-coding-bootcamps">Norfolk.js Meetup - JS Coding Bootcamps</a></h4><p>Norfolk.js Meetup January 18th, 2016 For our January meetup, Frances Coronel will be talking about the rise of JavaScript-based coding bootcamps and her exper...</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

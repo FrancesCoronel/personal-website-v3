@@ -3,6 +3,7 @@ title: Hour of Code 2015 💻️
 description: So this past week, I signed up as a technical volunteer for the Hour of Code. Here's how my experience went.
 date: 2015-12-13
 banner: https://fvcproductions.files.wordpress.com/2015/12/img_2021.jpg
+location: Multiple Locations - Hampton Roads, VA
 aliases:
   - /2015/12/07/hour-of-code-2015/
 categories:
@@ -76,35 +77,9 @@ I created two different presentations, one for _high schoolers_ and one for _ele
 
 At [`Bethel High School`](https://bhs.hampton.k12.va.us/), I presented and helped out with **3 classes** that were all taught by `Mrs. Ai Choo Ashe`. I gave a roughly 30-minute presentation to each class using the slides below. The classes were related to digital media/game development/animation so the students were learning how to use software like GameMaker & Adobe Photoshop. I gave away all my free swag I got from Code.org to Mrs. Ashe because she deserved it. I kept the water bottle and a sticker, though. They were too useful to pass up.
 
-#### Speaker Deck
-
-> Converted from `Keynote` to `PDF`
-
-##### Longer Version
-
-##### Shorter Version
-
-#### YouTube Video
-
-> Converted from `Keynote` to `m4v`
-
----
-
 ### Elementary School Version
 
 At [`Sedgefield Elementary School`](https://bhs.hampton.k12.va.us/), I gave a presentation to a class of 3rd graders on why it’s important to learn how to code. The teachers in charge were so nice and supportive of the kids. I found it funny how much more the 3rd graders participated than the high schoolers, but hey.
-
-#### Sedgefield Elementary School
-
-> Converted from `Keynote` to `PDF`
-
-#### YouTube Video
-
-> Converted from `Keynote` to `m4v`
-
-#### John B. Dey Elementary School
-
-> Converted from `Keynote` to `PDF`
 
 ---
 
@@ -201,3 +176,29 @@ Hour of Code – Sedgefield
 ---
 
 If you’d like access to the `Keynote` files to show to your class, please [contact me](http://fvcproductions.com/contact/) and I will happily send them to you.
+
+---
+
+## High School
+
+> Regular Version
+
+<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/hour-of-code-2015-high-school-short-version">Hour of Code 2015 - High School - Short Version</a></h4><p>Published December 7, 2015, in Education This is a shorter version of the Hour of Code presentation I made for high school students at Bethel High School. --- ...</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+> Shorter Version
+
+<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/hour-of-code-2015-high-school-short-version">Hour of Code 2015 - High School - Short Version</a></h4><p>Published December 7, 2015, in Education This is a shorter version of the Hour of Code presentation I made for high school students at Bethel High School. --- ...</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+## Elementary School
+
+> Volunteering Alone Version
+
+<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/2015-1208-hour-of-code-elementary-school">Hour of Code 2015 - Elementary School</a></h4><p>Published December 8, 2015, in Education I gave a presentation to elementary school students on why they should learn how to code for Code.org's Hour of Week. ...</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+> Volunteering with Group Version
+
+<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/2015-1210-hour-of-code-elementary-school-group-version">Hour of Code 2015 - Elementary School - Group Version</a></h4><p>Published December 10, 2015, in Education This is the presentation I gave to second-graders at John B. Dey Elementary School. It's an alternate version since t...</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

@@ -3,6 +3,7 @@ title: Tales From The Script Podcast
 date: 2018-04-10
 description: "Coding Bootcamps: The Less Scary Alternative"
 banner: https://i.imgur.com/PIVkbwR.png?1
+recording: https://simplecast.com/s/e7a5925b
 categories:
   - speaking
   - bootcamps
@@ -26,33 +27,33 @@ On this episode, [Chris DeMars](https://twitter.com/saltnburnem) and I discuss t
 
 ### Frances Coronel on the Web
 
-* [Twitter](https://twitter.com/fvcproductions)
-* [Website](https://fvcproductions.com/)
-* [Apprenticeships GitHub Repo](https://github.com/fvcproductions/apprenticeships)
+- [Twitter](https://twitter.com/fvcproductions)
+- [Website](https://fvcproductions.com/)
+- [Apprenticeships GitHub Repo](https://github.com/fvcproductions/apprenticeships)
 
 ### Coding Bootcamps
 
-* [Thinkful](https://www.thinkful.com/)
-* [Make School](https://www.makeschool.com/)
-* [Holberton](https://www.holbertonschool.com/)
-* [Grand Circus](https://www.grandcircus.co/)
-* [Fullstack Academy](https://www.fullstackacademy.com)
-* [General Assembly](https://generalassemb.ly/)
+- [Thinkful](https://www.thinkful.com/)
+- [Make School](https://www.makeschool.com/)
+- [Holberton](https://www.holbertonschool.com/)
+- [Grand Circus](https://www.grandcircus.co/)
+- [Fullstack Academy](https://www.fullstackacademy.com)
+- [General Assembly](https://generalassemb.ly/)
 
 ### Meetups
 
-* [Norfolk.js](https://www.norfolkjs.org/)
+- [Norfolk.js](https://www.norfolkjs.org/)
 
 ### Apprenticeships
 
-* [United Shore](https://unitedshore.com/)
-* [Detroit Labs](https://www.detroitlabs.com/)
+- [United Shore](https://unitedshore.com/)
+- [Detroit Labs](https://www.detroitlabs.com/)
 
 ### Other Links
 
-* [SwitchUp](https://www.switchup.org/)
-* [Course Report](https://www.coursereport.com/)
-* [Council on Integrity in Results Reporting](https://cirr.org/)
+- [SwitchUp](https://www.switchup.org/)
+- [Course Report](https://www.coursereport.com/)
+- [Council on Integrity in Results Reporting](https://cirr.org/)
 
 ## About the Show
 

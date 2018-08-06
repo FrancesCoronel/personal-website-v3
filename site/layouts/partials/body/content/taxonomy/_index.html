@@ -1,25 +1,27 @@
 {{ if or (or (.Params.tags) (.Params.categories)) }}
+<!-- Separator -->
+{{ if .Content }}
+<hr>{{ end }}
 <!-- Taxonomy -->
 <section class="section section-taxonomy">
   <div class="columns">
     <!-- Categories -->
     {{ if .Params.categories }}
     <div class="column">
-      <h3>
+      <h2>
         📂
         <a href="/categories/">Categories</a>
-      </h3>
+      </h2>
       {{ partial "body/content/taxonomy/tags/categories.html" . }}
     </div>
     {{ end }}
     <!-- Tags -->
     {{ if .Params.tags }}
     <div class="column">
-      <h3>
-        <a href="/tags/">
-          📌 Tags
-        </a>
-      </h3>
+      <h2>
+        📌
+        <a href="/tags/">Tags</a>
+      </h2>
       {{ partial "body/content/taxonomy/tags/tags.html" . }}
     </div>
     {{ end }}

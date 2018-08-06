@@ -48,9 +48,12 @@ I've spoken at conferences before, but never at an actual tech conference which 
 
 ![Lanyard - HR DevFest](https://fvcproductions.files.wordpress.com/2015/11/img_0100.jpg)
 
-## Slides on Speaker Deck
+## Slides
 
 <blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/hrdevfest-web-design">HRDevFest | Web Design</a></h4><p>My presentation on Web Design for HRDevFest in Norfolk, VA on November 14th, 2015. https://www.youtube.com/watch?v=dEJyRuQF4Ww</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/2015-1114-hr-dev-fest-web-design">HR DevFest - Web Design</a></h4><p>Published November 14, 2015, in Design My presentation on Web Design for HRDevFest in Norfolk, VA on November 14th, 2015.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Video on YouTube

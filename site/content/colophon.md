@@ -2,6 +2,7 @@
 title: Colophon ⚙️
 description: Unveiling the inner workings of this website.
 banner: https://i.imgur.com/D4dPpG2.jpg
+toc: true
 hideBanner: true
 noComments: true
 aliases:
@@ -110,10 +111,6 @@ For external links, a ↗ is automatically added to the end like [https://google
 External links also automatically have `target='_blank'` and `rel='noopener'` added to the `a` tag.
 
 ---
-
-# First level
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla accumsan, metus ultrices eleifend gravida, nulla nunc varius lectus, nec rutrum justo nibh eu lectus. Ut vulputate semper dui. Fusce erat odio, sollicitudin vel erat vel, interdum mattis neque. Subscript works as well!
 
 ## Second level
 

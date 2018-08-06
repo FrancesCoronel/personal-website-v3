@@ -3,6 +3,7 @@ title: InNOVAtion Hackathon
 description: My first speaking event at an MLH hackathon!
 date: 2016-04-09
 banner: https://i1.wp.com/fvcproductions.files.wordpress.com/2016/02/img_0975.jpg
+location: Northern Virginia Community College - Springfield, VA
 categories:
   - hackathon
   - speaking
@@ -36,8 +37,8 @@ First hackathon I spoke at!
 
 I spoke about 2 topics:
 
-* So You Want To Be A Wizard
-* Web Design
+- So You Want To Be A Wizard
+- Web Design
 
 ### Slides
 
@@ -80,12 +81,12 @@ This presentation covered all your standard wizardry topics, like
 
 ![So You Want To A Wizard 4](https://i.imgur.com/0PoPdnY.jpg)
 
-* **muggles** (the difference between creators and consumers),
-* **houses** (what kind of software developer positions you can go into),
-* **flying** (what you can do to become a better developer),
-* **potions** (what specific tools are out there to help you become a better developer),
-* **the dark arts** (your real reasoning behind wanting to become a developer),
-* and a hearty **conclusion** (ultimately you should forge your own path).
+- **muggles** (the difference between creators and consumers),
+- **houses** (what kind of software developer positions you can go into),
+- **flying** (what you can do to become a better developer),
+- **potions** (what specific tools are out there to help you become a better developer),
+- **the dark arts** (your real reasoning behind wanting to become a developer),
+- and a hearty **conclusion** (ultimately you should forge your own path).
 
 I got a pretty good response from the audience, with quite a few folks coming up sometime afterwards letting me know they enjoyed it or if I had any more advice for so and so. All in all, I really enjoyed going to the hackathon and I think the team did excellently in setting it up in a really modern spacious building despite the weather conditions (it got frosty).
 

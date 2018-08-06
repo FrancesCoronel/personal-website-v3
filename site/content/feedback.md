@@ -4,7 +4,8 @@ description: All the sweet things folks have had to say.
 banner: https://i.imgur.com/eDqiqGu.jpg
 hideBanner: true
 noComments: true
-feedback: true
+noTimeEstimate: true
+layout: "custom/feedback"
 aliases:
   - /reviews/
   - /services/mentoring/reviews/
@@ -15,5 +16,3 @@ aliases:
 ---
 
 ## If you’re interested in being mentored, feel free to [contact me](/contact/) through my website. 📩️
-
----

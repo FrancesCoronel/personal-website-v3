@@ -3,6 +3,8 @@ title: HR DevFest
 date: 2015-11-14
 description: My first speaking event at a tech conference!
 banner: https://fvcproductions.files.wordpress.com/2015/11/issuetrak-conference-00831.jpg
+location: Issuetrak - Norfolk, VA
+slides: https://speakerdeck.com/fvcproductions/hrdevfest-web-design
 aliases:
   - /2015/11/13/hrdevfest-talk/
 categories:

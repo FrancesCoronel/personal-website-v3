@@ -4,6 +4,7 @@ description: Getting in touch.
 banner: https://i.imgur.com/0n5zqiA.jpg
 hideBanner: true
 noComments: true
+noTimeEstimate: true
 aliases:
   - /contact/
   - /getting-in-touch/
@@ -12,16 +13,6 @@ aliases:
   - /contact/donate/
   - /donate/
 ---
-
-## Ask Me Anything 🤔️
-
-Just have a general question? Maybe you found a typo?
-
-Feel free to [submit a new issue](https://github.com/fvcproductions/ama/issues/new) through my AMA GitHub repo.
-
-## LinkedIn 💼️
-
-If you'd like to stay in touch professionally, don't hesitate to [connect with me on LinkedIn](https://linkedin.com/in/fvcproductions).
 
 ## Book a Chat 📅
 
@@ -42,13 +33,23 @@ Because of high demand, as of August 2018, I have updated my pricing table for t
 | Technical Consulting                        | $120        |
 | Freelance Development                       | $150        |
 
-\*Does not include travel/accommodation costs.
+_\*Does not include travel/accommodation costs._
 
 > So before booking a **paid session** through my [Calendly](https://calendly.com/fvcproductions)  or [Codementor](https://www.codementor.io/fvcproductions), please make sure to [Cash](https://cash.me/$fvcprdxs), [PayPal](https://paypal.me/fvcproductions) or [Venmo](https://venmo.com/fvcproductions) me the appropriate amount.
 
 #### Mentoring Sessions 💛️
 
 If you are a black female or Latina in the tech industry, you can book a mentoring session with me for free.
+
+## Ask Me Anything 🤔️
+
+Just have a general question? Maybe you found a typo?
+
+Feel free to [submit a new issue](https://github.com/fvcproductions/ama/issues/new) through my AMA GitHub repo.
+
+## LinkedIn 💼️
+
+If you'd like to stay in touch professionally, don't hesitate to [connect with me on LinkedIn](https://linkedin.com/in/fvcproductions).
 
 ## Contact Form 📼
 

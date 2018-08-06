@@ -3,6 +3,8 @@ title: "Community Engineering Report Podcast Interview with Kim Crayton"
 date: 2017-09-28
 description: "A podcast where honest conversations about #diversity, #inclusion, & safe #spaces in #tech happen."
 banner: https://i.imgur.com/LWzCzMm.jpg
+video: https://www.pscp.tv/KimCrayton1/1zqJVRPmrLLJB
+location: Strange Loop Conference
 categories:
   - speaking
 tags:

@@ -3,6 +3,8 @@ title: Strange Loop
 date: 2017-09-27
 description: Strange Loop is a multi-disciplinary conference that brings together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.
 banner: https://i.imgur.com/uBaeAmo.jpg?1
+location: Peabody Opera House - St Louis, MO
+slides: https://slideshare.net/FVCproductions/typescript-101-80676517
 categories:
   - conference
   - speaking
@@ -55,9 +57,9 @@ I really enjoyed this event not just for the speakers but because it felt very p
 
 #### Takeaways
 
-* Realized I actually knew a lot already about security and privacy on the web
-* Learned a lot more about Mozilla's efforts to create a better and open web and became super impressed
-* Inspired to learn WebGL because the last speaker created very cool graphics
+- Realized I actually knew a lot already about security and privacy on the web
+- Learned a lot more about Mozilla's efforts to create a better and open web and became super impressed
+- Inspired to learn WebGL because the last speaker created very cool graphics
 
 ### Thursday, September 28th
 
@@ -119,7 +121,8 @@ My talk was selected and I was able to present the first Lightning Talk starting
 
 My talk was called **"TypeScript 101"**.
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/typescript-101-80676517">TypeScript 101</a></h4><p>Lightning Talks Strange Loop 2017 8:30 PM - Friday, September 29th</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://slideshare.net/FVCproductions/typescript-101-80676517">Strange Loop 2017 - TypeScript 101</a></h4><p>Presented September 29th, 2017. A short introduction to TypeScript and the benefits it provides to large-scale projects. Lightning Talks Strange Loop 2017 Fr...</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 I got a lot of great feedback on it too!
 

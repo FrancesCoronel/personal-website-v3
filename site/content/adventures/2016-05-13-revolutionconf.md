@@ -139,3 +139,11 @@ And I believe [RevolutionConf](https://revolutionconf.com) is taking us one step
 <blockquote class="embedly-card"><h4><a href="https://revolutionconf.com">RevolutionConf 2017</a></h4><p>RevolutionConf is a two-day, platform and language agnostic, software development conference being held on June 1-2, 2017 in Virginia Beach, VA. We are a 501c3 non-profit that formed specifically for running this and other great events for software developers in the area.</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/revconf">RevolutionConf (@revconf) | Twitter</a></h4><p>The latest Tweets from RevolutionConf (@revconf). May 17-18, 2018 in Virginia Beach, VA. Organized by @1kevgriff, @lynnaloo, @erikpmp. Virginia Beach, VA</p></blockquote>
+
+---
+
+> Old LinkedIn Post Responses
+
+![Old LinkedIn Post Responses 1](https://i.imgur.com/hFTB8Zw.png)
+
+![Old LinkedIn Post Responses 2](https://i.imgur.com/QzMHGAR.png)

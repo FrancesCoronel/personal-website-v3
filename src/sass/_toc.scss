@@ -1,0 +1,11 @@
+nav#TableOfContents {
+  ul,
+  li,
+  li li,
+  ul ul {
+    list-style: none;
+  }
+  a {
+    border: none;
+  }
+}

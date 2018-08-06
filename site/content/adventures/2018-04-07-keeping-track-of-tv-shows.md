@@ -1,7 +1,6 @@
 ---
 title: TV Shows
 date: 2018-04-07
-lastpresented: 2018-05-08
 description: A list of TV shows I enjoy, have enjoyed or thought were terrible.
 categories:
   - blog

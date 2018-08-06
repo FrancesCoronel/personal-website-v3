@@ -4,6 +4,7 @@ description: A brief intro to my world.
 banner: https://i.imgur.com/Ap1R1zy.jpg
 hideBanner: true
 noComments: true
+noTimeEstimate: true
 aliases:
   - /home/about/
   - /about-me/

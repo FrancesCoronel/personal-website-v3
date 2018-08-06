@@ -83,7 +83,7 @@ gulp.task("minify", () =>
 // Compress SASS
 gulp.task("sass", () =>
   gulp
-  .src("./src/sass/styles.scss")
+  .src(["./src/sass/styles.scss", "./src/sass/search.scss"])
   .pipe(
     sass({
       outputStyle: "compressed",

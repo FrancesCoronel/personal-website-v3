@@ -3,6 +3,8 @@ title: Women Who Code CONNECT
 date: 2018-04-28
 banner: https://i.imgur.com/vv51StT.jpg?1
 description: Lightning Talk Speaker - TypeScript 101
+location: Twitter HQ - San Francisco, CA
+slides: https://www.slideshare.net/FVCproductions/women-who-code-connect-2018-typescript-101
 categories:
   - speaking
   - typescript101
