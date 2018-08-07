@@ -1,5 +1,7 @@
+{{ if (not .Params.noComments) }}
 <hr>
 <section class="section section-comment">
   <h1>🙈️🙉️🙊️ Comment</h1>
   {{ template "_internal/disqus.html" . }}
 </section>
+{{ end }}
