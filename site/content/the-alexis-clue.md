@@ -1,6 +1,6 @@
 ---
 title: The Alexis Clue 🎙️
-description: "Bite-sized stories of women in tech sharing their favorite productivity apps."
+description: 'Bite-sized stories of women in tech sharing their favorite productivity apps.'
 banner: https://i.imgur.com/YyDzosp.png
 noTimeEstimate: true
 noComments: true
@@ -11,7 +11,7 @@ aliases:
   - /alexis-clue/
 ---
 
-> Coming October 2018 as a YouTube video series/podcast!
+> Coming January 2019 as a YouTube video series/podcast!
 
 ## Further Details
 
@@ -65,3 +65,7 @@ If there's enough interest, a second season will be released but this is more of
 
 - Sketch 3 used for designing imagery
 - [avataaars generator](https://getavataaars.com/) for awesome avatar image
+
+## Disclaimers
+
+Originally scheduled for release October 2018 but it's more likely it will be released by January 2019.

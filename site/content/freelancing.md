@@ -37,16 +37,26 @@ Please refer to the pricing table on [my contact page](/contact) for more info.
 
 #### Development
 
-I charged my last development client $300 for a static website.
+- Ameot
+  - $300 for static website
 
 #### Design
 
-I charged my last design client $150 for branding work.
+- Ameot
+  - $150 for branding work
 
 #### Writing
 
-I charged my last writing client $200 for 2000+ words.
+- AlterConf
+  - $200 for 2000+ words
 
 #### Mentoring
 
-Through my Fullstack Academy ambassador position, I received $500 to mentor an incoming Grace Hopper student for 6 hours.
+- Grace Hopper Academy
+  - $500 for 6 hours (ambassador position)
+
+#### App Feedback
+
+- STELLARES
+  - $60 for 1 hour
+  - July 8th, 2 pm to 3 pm

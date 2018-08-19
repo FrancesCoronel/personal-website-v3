@@ -82,7 +82,7 @@ Using data science algorithms, Predikt aggregates and quantifies your profession
 
 ### [Riverside Research](https://www.riversideresearch.org)
 
-![RR](http://files.constantcontact.com/f1f7fceb101/37016184-cffc-4ba5-afd9-e99497c25587.jpg?a=1108633239802)
+![RR](https://files.constantcontact.com/f1f7fceb101/37016184-cffc-4ba5-afd9-e99497c25587.jpg?a=1108633239802)
 
 Riverside Research is an independent, not-for-profit organization chartered to advance scientific research in the public interest and in support of the United States government.
 
@@ -100,20 +100,20 @@ Via Science uses the latest in mathematics and massively parallel computing powe
 
 ### [Vicarious](https://www.vicarious.com)
 
-![Vicarious](http://svbi.org/wp-content/uploads/2016/10/Vicarious.png)
+![Vicarious](https://svbi.org/wp-content/uploads/2016/10/Vicarious.png)
 
 Vicarious is building a unified algorithmic architecture to achieve human-level intelligence in vision, language, and motor control.
 
 ## Other Resources
 
-* [The World’s Coolest Machine Learning Internships](https://bickson.blogspot.com/2012/01/worlds-coolest-machine-learning.html)
+- [The World’s Coolest Machine Learning Internships](https://bickson.blogspot.com/2012/01/worlds-coolest-machine-learning.html)
 
   > What the author, Danny Bickson, has to say:
 
   _"I believe that every graduate student should try to do at least two internships in the industry. It is a great experience. Below you can find a list I compiled by aggregating information from some of the companies I am in touch with as a part of our GraphLab project. This list is a academic resource - I am not involved in any of the companies below. I also got some angry comments about some company or another missing - this is a personal list. I will be happy to add more companies providing the are doing some interesting research."_
 
-* [What companies have Data Science Internships? - Quora](https://www.quora.com/What-companies-have-data-science-internships)
-* **There are so many companies out there now!** You just have to look for them. **Or not.** Check out this awesome infographic that [Shivon Zilis](https://twitter.com/shivon 'Shivon Z.') made to showcase the ‘_Machine Intelligence Landscape_’. Brilliant!
+- [What companies have Data Science Internships? - Quora](https://www.quora.com/What-companies-have-data-science-internships)
+- **There are so many companies out there now!** You just have to look for them. **Or not.** Check out this awesome infographic that [Shivon Zilis](https://twitter.com/shivon 'Shivon Z.') made to showcase the ‘_Machine Intelligence Landscape_’. Brilliant!
 
 ![Machine Intelligence Landscape](https://fvcproductions.files.wordpress.com/2015/05/machine_intelligence_landscape_12-10-2014.png)
 

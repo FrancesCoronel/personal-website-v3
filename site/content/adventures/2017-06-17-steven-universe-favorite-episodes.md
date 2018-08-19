@@ -57,7 +57,7 @@ Universe that mostly show the closeness that Steven & Connie share.
 
 ## 11. Season 1 Episode 49 - Jailbreak (song)
 
-![Jailbreak](http://38.media.tumblr.com/6b5dae401f44e55051100a4714380d75/tumblr_nl4efdy0JW1u1e188o1_500.gif)
+![Jailbreak](https://38.media.tumblr.com/6b5dae401f44e55051100a4714380d75/tumblr_nl4efdy0JW1u1e188o1_500.gif)
 
 ## 12. Season 2 Episode 1 - Full Disclosure (song)
 

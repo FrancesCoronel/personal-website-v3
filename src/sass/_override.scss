@@ -1,11 +1,19 @@
 .is-primary {
   background-color: $primary !important;
+  &.is-outlined {
+    background-color: white !important;
+    color: $primary !important;
+    border-color: $primary !important;
+    &:hover {
+      background-color: $primary !important;
+      color: white !important;
+    }
+  }
 }
 
-button.is-primary {
-  &:hover {
-    background-color: lighten($primary, 25%) !important;
-  }
+.button.is-primary.is-focused:not(:active),
+.button.is-primary:focus:not(:active) {
+  box-shadow: 0 0 0 0.125em lighten($primary, 75%);
 }
 
 .is-danger {

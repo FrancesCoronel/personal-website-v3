@@ -1,8 +1,9 @@
 ---
-title: Women Who Code Newsletter - CODE Review
+title: Women Who Code Newsletter - CODE Review 👏🏽️
 description: Women Who Code mentioned my transition to Slack in their CODE Review newsletter.
 banner: https://i.imgur.com/mYGABcb.png
 date: 2018-07-24
+url: /2018/07/24/women-who-code-newsletter-code-review/
 categories:
   - press
 tags:

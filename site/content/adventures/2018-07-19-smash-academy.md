@@ -8,6 +8,7 @@ slides: https://www.slideshare.net/FVCproductions/smash-speaker-series-at-stanfo
 categories:
   - speaking
   - careerpath
+  - volunteering
 tags:
   - smash academy
   - stanford
@@ -43,3 +44,11 @@ I presented my career path, moments of resilience and some key advice as one of 
 
 <blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/smash-speaker-series-at-stanford-university-july-2018">SMASH Speaker Series at Stanford University</a></h4><p>SMASH Academy is a free of cost, STEM-intensive college preparatory program for underrepresented high school students of color that is run in partnership with ...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+### Pictures
+
+![SMASH Academy Stanford 1](https://i.imgur.com/48vjaRy.jpg)
+![SMASH Academy Stanford 2](https://i.imgur.com/Ym5YJ9o.jpg)
+![SMASH Academy Stanford 3](https://i.imgur.com/28VWe7h.jpg)
+![SMASH Academy Stanford 4](https://i.imgur.com/bhs9bSA.jpg)
+![SMASH Academy Stanford 5](https://i.imgur.com/5xJpE21.jpg)

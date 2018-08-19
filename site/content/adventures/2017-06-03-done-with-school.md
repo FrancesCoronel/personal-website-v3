@@ -187,4 +187,4 @@ AND THANKFULLY, my parents and I have never had to take a single loan out either
 
 > How I think most people feel after they owe a shit ton of money for a degree that wasn't really worth much.
 
-![Poor Unfortunate Souls](http://manapop.com/wp-content/uploads/2014/05/poor-unfortunate-souls.png)
+![Poor Unfortunate Souls](https://manapop.com/wp-content/uploads/2014/05/poor-unfortunate-souls.png)

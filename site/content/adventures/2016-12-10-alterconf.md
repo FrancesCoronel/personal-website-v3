@@ -11,6 +11,7 @@ aliases:
 categories:
   - blog
   - conference
+  - freelancing
 tags:
   - alterconf
   - alterconf new york city
@@ -356,8 +357,8 @@ So what's the difference between the two? Lizzie uses Hamilton lyrics to go over
 
 ### Get Involved with AlterConf
 
-* Facebook [AlterConf](https://www.facebook.com/AlterConf/)
-* Twitter [@alterconf](https://twitter.com/alterconf), tweet using [#AlterConf](https://twitter.com/hashtag/alterconf?src=hash)
-* Website [alterconf.com](https://alterconf.com/), [NYC 2016](https://www.alterconf.com/conferences/nyc-2016)
-* Video Recordings [are on YouTube](https://www.youtube.com/playlist?list=PLgWwTXVZ2pcNJtnKh_DO2hJPHP4ECqyOa)
-* Closed Captions [bit.ly/nyc-captions](https://bit.ly/nyc-captions), the founder of the technology behind this awesome transcription tool, [Mirabai](https://stenoknight.com/), was actually present at AlterConf!
+- Facebook [AlterConf](https://www.facebook.com/AlterConf/)
+- Twitter [@alterconf](https://twitter.com/alterconf), tweet using [#AlterConf](https://twitter.com/hashtag/alterconf?src=hash)
+- Website [alterconf.com](https://alterconf.com/), [NYC 2016](https://www.alterconf.com/conferences/nyc-2016)
+- Video Recordings [are on YouTube](https://www.youtube.com/playlist?list=PLgWwTXVZ2pcNJtnKh_DO2hJPHP4ECqyOa)
+- Closed Captions [bit.ly/nyc-captions](https://bit.ly/nyc-captions), the founder of the technology behind this awesome transcription tool, [Mirabai](https://stenoknight.com/), was actually present at AlterConf!

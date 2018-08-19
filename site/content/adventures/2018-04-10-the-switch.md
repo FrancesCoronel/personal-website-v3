@@ -52,21 +52,23 @@ So let's go through these switches one-by-one!
 
 <!-- TOC depthFrom:3 -->
 
-* [Books](#books)
-* [Browser](#browser)
-* [Calendar](#calendar)
-* [Email](#email)
-* [File Transfer](#file-transfer)
-* [Fitness](#fitness)
-* [Money](#money)
-* [Music](#music)
-* [Navigation](#navigation)
-* [News](#news)
-* [Notes](#notes)
-* [Photos](#photos)
-* [Reminders](#reminders)
-* [SMS](#sms)
-* [Video](#video)
+- [Why](#why)
+- [How](#how)
+  - [Books](#books)
+  - [Browser](#browser)
+  - [Calendar](#calendar)
+  - [Email](#email)
+  - [File Transfer](#file-transfer)
+  - [Fitness](#fitness)
+  - [Money](#money)
+  - [Music](#music)
+  - [Navigation](#navigation)
+  - [News](#news)
+  - [Notes](#notes)
+  - [Photos](#photos)
+  - [Reminders](#reminders)
+  - [SMS](#sms)
+  - [Video](#video)
 
 <!-- /TOC -->
 
@@ -202,7 +204,7 @@ Regardless, when are more companies going to realize that the web is the future 
 
 > Notes 👉🏽️ Google Keep
 
-![Google Keep](http://www.androidguys.com/wp-content/uploads/2015/08/KeepGif-3.gif)
+![Google Keep](https://www.androidguys.com/wp-content/uploads/2015/08/KeepGif-3.gif)
 
 As I mentioned before, Google Keep [integrates well](https://www.wired.com/2016/07/turn-google-best-app-ever/) with Google Inbox & Google Calendar.
 

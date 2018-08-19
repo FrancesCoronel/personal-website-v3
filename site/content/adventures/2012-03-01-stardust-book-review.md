@@ -8,6 +8,7 @@ aliases:
 categories:
   - blog
   - award
+  - press
 tags:
   - adult perspective
   - fairy

@@ -315,7 +315,7 @@ week7();
 
 > How I feel my capstone group is like compared to other groups.
 
-![CapstoneGroup](http://vignette4.wikia.nocookie.net/parody/images/9/9f/Kevin_and_bob_are_bananas.jpg)
+![CapstoneGroup](https://vignette4.wikia.nocookie.net/parody/images/9/9f/Kevin_and_bob_are_bananas.jpg)
 
 > And here’s how the home page looks like now for `Hiredot2`. There’s obviously more I could show you, but ehhh.
 

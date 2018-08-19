@@ -9,6 +9,7 @@ categories:
   - speaking
   - webdesign
   - wizard
+  - press
 ---
 
 ## Name

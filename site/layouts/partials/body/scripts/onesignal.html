@@ -10,8 +10,31 @@
 </script>
 <style>
   #onesignal-popover-container #onesignal-popover-dialog,
-  #onesignal-popover-container #onesignal-popover-dialog .popover-button {
-    font-family: Roboto, BlinkMacSystemFont, -apple-system, Segoe UI, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+  #onesignal-popover-container #onesignal-popover-dialog .popover-button,
+  .onesignal-customlink-subscribe,
+  .onesignal-customlink-subscribe.onesignal-reset {
+    font-family: inherit;
+  }
+
+  .onesignal-customlink-subscribe.button {
+    box-shadow: none;
+    font-weight: 400;
+    text-transform: none;
+  }
+
+  .onesignal-customlink-subscribe.button.large {
+    font-size: inherit;
+    border: 1px solid rgb(37, 49, 55) !important;
+  }
+
+  .onesignal-customlink-subscribe.button:active,
+  .onesignal-customlink-subscribe.button:focus,
+  .onesignal-customlink-subscribe.button:hover {
+    border: 1px solid rgb(37, 49, 55) !important;
+    text-shadow: none !important;
+    box-shadow: none !important;
+    background-color: rgb(37, 49, 55) !important;
+    color: rgb(255, 255, 255) !important;
   }
 
   #onesignal-popover-container #onesignal-popover-dialog .popover-button {

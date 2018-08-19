@@ -190,7 +190,7 @@ Or in other words, if you've ever watched _Minions_, it's basically like when on
 
 ### BUDDIES!!!
 
-![Buddies - Minions](http://www.minionmovie.com.au/images/shareimage.jpg)
+![Buddies - Minions](https://www.minionmovie.com.au/images/shareimage.jpg)
 
 ## In-Game Screenshots
 
