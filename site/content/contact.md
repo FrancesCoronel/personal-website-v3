@@ -24,18 +24,17 @@ Because of high demand, as of August 2018, I have updated my pricing table for t
 
 | Session Type                                | Hourly Rate |
 | ------------------------------------------- | ----------- |
-| Freelance Writing                           | $25         |
-| General Mentoring                           | $30         |
+| Freelance Writing                           | $30         |
 | General Technical Help (Codementor)         | $40         |
-| Freelance Design                            | $50         |
+| General Career Advice/Mentoring             | $50         |
 | General App/Product/Startup Review & Advice | $60         |
+| Freelance Design                            | $75         |
 | Speaking Engagements                        | $100*       |
-| Technical Consulting                        | $120        |
 | Freelance Development                       | $150        |
 
 _\*Does not include travel/accommodation costs._
 
-> So before booking a **paid session** through my [Calendly](https://calendly.com/fvcproductions)  or [Codementor](https://www.codementor.io/fvcproductions), please make sure to [Cash](https://cash.me/$fvcprdxs), [PayPal](https://paypal.me/fvcproductions) or [Venmo](https://venmo.com/fvcproductions) me the appropriate amount.
+> So before booking a **paid session** through my [Calendly](https://calendly.com/fvcproductions)  or [Codementor](https://www.codementor.io/fvcproductions), please make sure to [Cash](https://cash.me/$fvcprdxs) or [Venmo](https://venmo.com/fvcproductions) me the appropriate amount.
 
 #### Mentoring Sessions 💛️
 
@@ -43,13 +42,15 @@ If you are a black female or Latina in the tech industry, you can book a mentori
 
 ## Ask Me Anything 🤔️
 
-Just have a general question? Maybe you found a typo?
+Just have a general question? Want career advice for free? Maybe you found a typo?
 
-Feel free to [submit a new issue](https://github.com/fvcproductions/ama/issues/new) through my AMA GitHub repo.
+Feel free to [submit a new issue/question](https://github.com/fvcproductions/ama/issues/new) through my AMA GitHub repo.
 
 ## LinkedIn 💼️
 
 If you'd like to stay in touch professionally, don't hesitate to [connect with me on LinkedIn](https://linkedin.com/in/fvcproductions).
+
+If you want career/mentoring advice, please refer to the details above.
 
 ## Contact Form 📼
 
