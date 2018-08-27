@@ -130,16 +130,16 @@ $fa-color in $fa-social {
     border: 1px solid $border;
     color: inherit;
     display: inline-block;
-    padding: 1em;
+    padding: .75em;
     text-align: center;
     text-decoration: none;
     &:hover {
       border-style: solid;
       border-color: white;
-	}
-	@media screen and (max-width: $tablet) {
-		margin: .5em;
-	}
+    }
+    @media screen and (max-width: $tablet) {
+      margin: .5em;
+    }
   }
   .fa-icon {
     font-size: 1.5em;

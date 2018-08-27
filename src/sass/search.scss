@@ -31,6 +31,13 @@ table {
   }
 }
 
+.gsc-control-cse .gs-spelling,
+.gsc-control-cse .gs-result .gs-title,
+.gsc-control-cse .gs-result .gs-title * {
+  font-size: initial;
+  font-family: inherit;
+}
+
 .gsib_a,
 .gsc-above-wrapper-area,
 .cse .gsc-control-cse,
