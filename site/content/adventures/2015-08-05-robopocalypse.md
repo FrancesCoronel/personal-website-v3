@@ -9,9 +9,6 @@ categories:
   - portfolio
   - web
   - oss
-tags:
-  - robopocalypse
-  - fullstack academy
 ---
 
 I collaborated in a four-person team to create an e-commerce store that specializes in selling robots with features such as multi-tenancy, admin/merchant dashboards, and social login using [the MEAN stack](https://mean.io 'MEAN stack'), [the Mandrill API](https://mandrillapp.com/api/docs/ 'Mandrill API'), and [OAuth](https://oauth.net/ 'OAuth').

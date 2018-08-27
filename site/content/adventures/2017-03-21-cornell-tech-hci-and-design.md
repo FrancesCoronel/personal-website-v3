@@ -7,11 +7,6 @@ categories:
   - portfolio
   - design
   - web
-tags:
-  - cornell tech
-  - hci
-  - design
-  - sketch
 ---
 
 As part of [Assignment 3](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/Assignment3.pdf) for my class [HCI & Design](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/) at [Cornell Tech](http://tech.cornell.edu), I was tasked with re-designing an ad for the MTA’s Fast-track and decomposing an app of my choice.
@@ -55,12 +50,12 @@ The font Helvetica is the one that has been used by the MTA for the past 20 year
 
 #### External Resources
 
-* [D Train](https://www.common.com/images/homes/shared_photos/subway-lines/d-78a85f62.svg)
-* [4 Train](https://www.common.com/images/homes/shared_photos/subway-lines/4-6ccc3f43.svg)
-* [Shuttle Icon](https://www.orlandoairports.net/site/uploads/2015/08/shuttle_icon.svg)
-* [NYC Map](https://upload.wikimedia.org/wikipedia/commons/0/04/NYC_subway-4D.svg)
-* [Fastrack Logo](http://web.mta.info/nyct/service/images/fastrack_2014.jpg)
-* [MTA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/MTA_New_York_City_Subway_logo.svg/2000px-MTA_New_York_City_Subway_logo.svg.png)
+- [D Train](https://www.common.com/images/homes/shared_photos/subway-lines/d-78a85f62.svg)
+- [4 Train](https://www.common.com/images/homes/shared_photos/subway-lines/4-6ccc3f43.svg)
+- [Shuttle Icon](https://www.orlandoairports.net/site/uploads/2015/08/shuttle_icon.svg)
+- [NYC Map](https://upload.wikimedia.org/wikipedia/commons/0/04/NYC_subway-4D.svg)
+- [Fastrack Logo](http://web.mta.info/nyct/service/images/fastrack_2014.jpg)
+- [MTA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/MTA_New_York_City_Subway_logo.svg/2000px-MTA_New_York_City_Subway_logo.svg.png)
 
 #### Colors
 
@@ -165,17 +160,17 @@ The hierarchy is as follows.
 
 ### Design Patterns
 
-* Navigation
-* Search
+- Navigation
+- Search
 
 ### Design Components
 
-* Menu
-* Text Field
-* Card
-* Divider
-* Button
-* Bottom Navigation
+- Menu
+- Text Field
+- Card
+- Divider
+- Button
+- Bottom Navigation
 
 ### Material Redesign - Mobile
 

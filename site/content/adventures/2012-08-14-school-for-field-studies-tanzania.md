@@ -12,10 +12,6 @@ categories:
   - program
   - education
   - blog
-tags:
-  - tanzania
-  - sfs
-  - wildlife research techniques
 ---
 
 ## Name

@@ -1,17 +1,13 @@
 ---
 title: Tales From The Script Podcast
 date: 2018-04-10
-description: "Coding Bootcamps: The Less Scary Alternative"
+description: 'Coding Bootcamps: The Less Scary Alternative'
 banner: https://i.imgur.com/PIVkbwR.png?1
 recording: https://simplecast.com/s/e7a5925b
 categories:
   - speaking
   - bootcamps
   - podcast
-tags:
-  - podcast
-  - tales from the script
-  - chris demars
 ---
 
 > Originally recorded March 16th

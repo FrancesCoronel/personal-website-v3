@@ -6,11 +6,6 @@ banner: https://i.imgur.com/x8IDOzM.jpg
 categories:
   - portfolio
   - design
-tags:
-  - keynote
-  - icon design
-  - image2icon
-  - iconverticons
 ---
 
 A circular icon made for [Blogo](https://getblogo.com/), an innovative desktop blogging app.

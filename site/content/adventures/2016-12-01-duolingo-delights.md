@@ -11,11 +11,6 @@ categories:
   - presentation
   - web
   - mobile
-tags:
-  - duolingo
-  - duolingo delights
-  - product manager intern
-  - pm interview
 ---
 
 As part of the interview process for [Duolingo](https://duolingo.com), I created this slide deck for a product task that Duolingo could achieve by 1–4 engineers in 3–6 months.

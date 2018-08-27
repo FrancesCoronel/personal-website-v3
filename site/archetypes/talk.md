@@ -6,8 +6,6 @@ banner: https://imgur.com
 talk: talkName
 categories:
   - talk
-tags:
-  - tag
 ---
 
 ## Name

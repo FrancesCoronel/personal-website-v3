@@ -6,8 +6,6 @@ date: 2018-07-24
 url: /2018/07/24/women-who-code-newsletter-code-review/
 categories:
   - press
-tags:
-  - women who code
 ---
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/fvcproductions/status/1023417226202759169">Frances Coronel on Twitter</a></h4><p>Eyy - @WomenWhoCode mentioned my transition to @SlackHQ in their CODE Review newsletter! 👏🏽👏🏽👏🏽 #ApplaudHer https://t.co/39XHacozUt</p></blockquote>

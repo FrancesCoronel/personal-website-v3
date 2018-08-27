@@ -8,34 +8,6 @@ aliases:
   - /2014/12/27/im-a-noob-when-it-comes-to-programming-where-to-now/
 categories:
   - blog
-tags:
-  - code school
-  - codecademy
-  - codecombat
-  - coderbyte
-  - codewars
-  - cracking the coding interview
-  - css
-  - eloquent javascript
-  - fvcproductions
-  - html
-  - html/css
-  - javascript
-  - jquery
-  - jumpstart
-  - noob
-  - noobie
-  - odin project
-  - online python tutor
-  - programmer
-  - Programming
-  - properly program
-  - python
-  - superhero js
-  - treehouse
-  - tutorial
-  - typing.io
-  - web development
 ---
 
 # Here, I've compiled a list of 15 great resources I've come to learn about over the years of trying to learn how to properly program.

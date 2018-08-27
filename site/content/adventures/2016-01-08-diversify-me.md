@@ -9,6 +9,4 @@ categories:
   - oss
   - web
   - research
-tags:
-  - github
 ---

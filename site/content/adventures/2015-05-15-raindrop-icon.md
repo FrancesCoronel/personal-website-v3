@@ -6,12 +6,6 @@ banner: https://i.imgur.com/nkD18Zz.jpg
 categories:
   - portfolio
   - design
-tags:
-  - keynote
-  - icon design
-  - ui/ux
-  - image2icon
-  - iconverticons
 ---
 
 A circular icon made for [Raindrop](https://raindrop.io/), an app that aims to make bookmarks more vivid and functional.

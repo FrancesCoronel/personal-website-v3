@@ -5,15 +5,6 @@ description: My first speaking event for a Meetup group!
 banner: https://fvcproductions.files.wordpress.com/2015/11/norfolkjs-jan-2016-0041.jpg
 location: Pierce/McCoy - Norfolk, VA
 slides: https://www.slideshare.net/FVCproductions/2016-0118-norfolkjs-js-coding-bootcamps
-tags:
-  - 757
-  - 757dev
-  - javascript
-  - js coding bootcamps
-  - norfolk
-  - norfolk javascript
-  - norfolkjs
-  - norfolkjs journey
 categories:
   - speaking
   - bootcamps

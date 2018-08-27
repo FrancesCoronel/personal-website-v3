@@ -1,48 +1,12 @@
 ---
-title: "My Most Memorable Experiences in Gaming"
+title: 'My Most Memorable Experiences in Gaming'
 date: 2014-12-29
-description: "One month left till the AAAI 2015 Conference."
+description: 'One month left till the AAAI 2015 Conference.'
 banner: https://fvcproductions.files.wordpress.com/2014/12/gaming-backgrounds.jpg?w=675&h=340&crop=1
 aliases:
   - /2014/12/29/memorable-experiences-in-gaming/
 categories:
   - blog
-tags:
-  - chaos faction
-  - chronicles of narnia
-  - dont starve
-  - fvcproductions
-  - gaming
-  - harry potter
-  - impossible quiz
-  - just dance 2014
-  - kinect sports
-  - kinect sports rivals
-  - last stand
-  - last stand union city
-  - limbo
-  - lord of the rings
-  - lord of the rings return of the king
-  - mario kart
-  - new super mario bros
-  - online flash games
-  - pandemic
-  - pandemic 2
-  - poptropica
-  - portal runner
-  - project zomboid
-  - runescape
-  - sims 2
-  - sims 3
-  - sims medieval
-  - spank the money
-  - spank the monkey
-  - spore
-  - super smash bros
-  - union city
-  - videogames
-  - walking dead
-  - wii sports
 ---
 
 > I'm not very big on gaming, but these following games were the top 25 games that were the most memorable to me at some point.
@@ -216,7 +180,3 @@ Ban](https://fvcproductions.files.wordpress.com/2014/12/screenshot-2014-12-29-13
 25\) [Poptropica](https://www.poptropica.com) - 🔓 Online Flash
 
 > The stories were pretty interesting, so I stayed for those.
-
-> Know any great games?
->
-> > Let me know [@fvcproductions](https://twitter.com/fvcproductions 'Twitter - FVCproductions')

@@ -8,17 +8,6 @@ aliases:
   - /2014/09/04/answer-potc-parchment-riddle/
 categories:
   - blog
-tags:
-  - BARBOSSA
-  - Black Beard
-  - Blackbeard
-  - Captain Jack Sparrow
-  - Hector Barbossa
-  - Jack Sparrow
-  - Johnny Depp
-  - Parchment
-  - poem
-  - riddle
 ---
 
 You (Captain Jack Sparrow) have been sentenced to DEATH by the infamous BLACK BEARD so that he may be forever young through the FOUNTAIN OF YOUTH.

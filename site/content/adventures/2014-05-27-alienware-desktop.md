@@ -6,12 +6,6 @@ banner: https://i.imgur.com/XpoXJ51.png
 categories:
   - portfolio
   - design
-tags:
-  - cdock
-  - amora icons
-  - bartender
-  - flavours
-  - deviantart
 ---
 
 I used Bartender, Flavours, cDock, Amora icons and custom icons from DeviantArt to bring this to life.

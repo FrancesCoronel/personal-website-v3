@@ -1,25 +1,12 @@
 ---
-title: "Integrating Your School Emails with Airmail"
+title: 'Integrating Your School Emails with Airmail'
 date: 2014-05-06
 description: "So in case you haven't heard of it yet, Don't Starve is this awesome Indie game."
 banner: https://fvcproductions.files.wordpress.com/2014/05/airmail-1-1-mac.png?w=1024&h=436&crop=1
 aliases:
   - /2014/05/06/integrating-school-emails-airmail/
-tags:
-    - airmail
-    - airmail integration
-    - airmail school email
-    - gmail
-    - Hampton
-    - integrate your school email
-    - ODU
-    - ODU email integration
-    - school email
-    - school email integration
-    - TNCC
-    - VCCS
 categories:
-    - blog
+  - blog
 ---
 
 So I have 4 different email accounts, my personal one, and then 3 other ones for the different universities I'll be attending this summer for classes (YEAHHHH, it's a drag).

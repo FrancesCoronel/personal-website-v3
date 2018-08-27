@@ -7,20 +7,6 @@ aliases:
   - /2014/12/28/interview-fullstack-academy/
 categories:
   - blog
-tags:
-  - admissions
-  - application
-  - coding
-  - coding bootcamps
-  - coding challenge
-  - decision
-  - dev bootcamps
-  - full stack academy of code
-  - fullstack
-  - fullstack academy
-  - fvcproductions
-  - huntly
-  - interview
 ---
 
 # [![](https://static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png)](https://static.tumblr.com/da3e7f950dc4f48a095f2ed96013ea61/rf1lxme/1gCnf8uce/tumblr_static_eut8x7fhbuo0cccwcg8c8soo8.png)

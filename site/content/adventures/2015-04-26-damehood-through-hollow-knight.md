@@ -7,14 +7,6 @@ aliases:
   - /2015/04/26/damehood-through-hollow-knight/
 categories:
   - blog
-tags:
-  - 2d game
-  - damehood
-  - hollow knight
-  - imcompetech
-  - kickstarter
-  - knighthood
-  - plans in motion
 ---
 
 ## Back in December of last year, I was browsing through Kickstarter - eager to spend my limited college student cash on something awesome. I found [Hollow Knight](https://www.kickstarter.com/projects/11662585/hollow-knight 'Hollow Knight').

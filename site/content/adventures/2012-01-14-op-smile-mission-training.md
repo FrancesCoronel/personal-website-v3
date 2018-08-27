@@ -9,11 +9,6 @@ categories:
   - volunteering
   - program
   - imovie101
-tags:
-  - imovie101
-  - operation smile
-  - medical mission
-  - training
 ---
 
 ## Name

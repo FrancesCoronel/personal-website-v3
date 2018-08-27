@@ -8,23 +8,6 @@ aliases:
   - /portfolio/jeopardy-template/
 categories:
   - portfolio
-tags:
-  - behance
-  - creations
-  - creativity
-  - designer
-  - designing
-  - designs
-  - fvcproductions
-  - google slides
-  - jeopardy
-  - jeopardy template
-  - Jeopardy Template
-  - Keynote
-  - pretty
-  - slides carnival
-  - slidescarnival
-  - unsplash
 ---
 
 > These two templates can be used by anybody to create their own Jeopardy game.

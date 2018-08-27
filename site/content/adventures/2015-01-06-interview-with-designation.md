@@ -7,36 +7,6 @@ aliases:
   - /2015/01/06/interview-with-designation/
 categories:
   - blog
-tags:
-  - accepted
-  - aftermath
-  - background
-  - backgrounds
-  - bitcoin
-  - bootcamps
-  - college students
-  - course
-  - creativity
-  - design
-  - design bootcamp
-  - designation
-  - designation labs
-  - designation.io
-  - drop out
-  - graphic design
-  - graphic design bootcamp
-  - instructors
-  - interview
-  - interviewer
-  - logistics
-  - lynda.com
-  - paypal
-  - prework
-  - process
-  - ui
-  - ux
-  - web development
-  - yield rate
 ---
 
 [![Designation](https://designation.io/downloads/designation_logo_black/designation_vertical_black.png)](https://designation.io)

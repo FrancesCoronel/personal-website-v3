@@ -1,6 +1,6 @@
 ---
-title: {{ replace .TranslationBaseName "-" " " | title }}
-date: {{ .Date }}
+title: { { replace .TranslationBaseName "-" " " | title } }
+date: { { .Date } }
 description: ''
 # Featured image hosted on Imgur
 banner: ''
@@ -42,8 +42,6 @@ categories:
     - wizard
     - careerpath
   - volunteering
-tags:
-  - tag
 ---
 
 ## Name

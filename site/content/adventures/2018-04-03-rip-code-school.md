@@ -7,9 +7,6 @@ aliases:
   - /2018/04/03/rip-code-school/
 categories:
   - blog
-tags:
-  - code school
-  - pluralsight
 ---
 
 6 years ago, I started to learn how to code online. It was 2012 and I was in my senior year of high school.

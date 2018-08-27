@@ -5,11 +5,6 @@ date: 2010-08-13
 banner: https://i.imgur.com/vcutWQD.png
 categories:
   - education
-tags:
-  - dual enrollment
-  - tcc
-  - college algebra
-  - accounting
 ---
 
 ## Institution

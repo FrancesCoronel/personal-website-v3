@@ -1,13 +1,10 @@
 ---
-title: "Cataloging my iTunes Music"
+title: 'Cataloging my iTunes Music'
 date: 2015-02-11
-description: "Compiling all the music from my iTunes library due to sheer boredom."
+description: 'Compiling all the music from my iTunes library due to sheer boredom.'
 banner: https://fvcproductions.files.wordpress.com/2015/02/itunesbanner.jpg
-tags:
-    - music
-    - fvcproductions
 categories:
-    - blog
+  - blog
 ---
 
 Okay, I've decided to compile all the music from my iTunes library due to sheer boredom.

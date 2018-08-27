@@ -1,23 +1,12 @@
 ---
-title: "The Day After Calculus Ended"
+title: 'The Day After Calculus Ended'
 date: 2014-08-08
-description: "Exploring blogging applications."
+description: 'Exploring blogging applications.'
 banner: https://fvcproductions.files.wordpress.com/2014/08/byword_mac_03.jpg
 aliases:
   - /2014/08/08/the-day-after-calculus-ended/
 categories:
   - blog
-tags:
-  - byword
-  - calculus
-  - cleft lip
-  - cleft palette
-  - mac
-  - merger
-  - non profit
-  - operation smile
-  - smile train
-  - ulyssess
 ---
 
 Honestly, the best blogging utility would be a combination of [Byword](https://bywordapp.com 'Byword')'s simple UI, publishing, and exporting utilities and [Ulysses III](https://ulyssesapp.com 'Ulysses')'s database management and the numerous extra features (statistics, navigation, helpful .md hints, visual syntax, etc.).

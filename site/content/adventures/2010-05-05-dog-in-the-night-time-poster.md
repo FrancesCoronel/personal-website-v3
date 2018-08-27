@@ -6,9 +6,6 @@ banner: https://i.imgur.com/Qxz9bkS.jpg
 categories:
   - portfolio
   - design
-tags:
-  - pages
-  - english
 ---
 
 I used Apple pages to create this movie poster for an English class in high school.

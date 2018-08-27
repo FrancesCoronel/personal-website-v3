@@ -7,9 +7,6 @@ aliases:
   - /home/adventures/conferences/international-student-leadership-conference-august-2013/
 categories:
   - conference
-tags:
-  - islc
-  - operation smile
 ---
 
 ## Name

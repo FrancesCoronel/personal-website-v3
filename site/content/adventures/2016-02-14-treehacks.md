@@ -11,11 +11,6 @@ categories:
   - hackathon
   - portfolio
   - award
-tags:
-  - hackathon
-  - treehacks
-  - stanford
-  - readme badge
 ---
 
 ## Name

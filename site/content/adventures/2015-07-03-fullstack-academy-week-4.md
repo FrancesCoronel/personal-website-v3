@@ -8,28 +8,6 @@ aliases:
   - /2015/07/03/fullstack-academy-week-4/
 categories:
   - blog
-tags:
-  - alternote
-  - avalon
-  - bubbles
-  - coding bootcamp
-  - coney island
-  - featured
-  - frameworks
-  - fullstack academy
-  - fullstack academy week 4
-  - google maps API
-  - inside out
-  - jquery
-  - js library
-  - learning team lunch
-  - lunch
-  - promises
-  - static ui
-  - trip planner
-  - ui
-  - venmo
-  - week 4
 ---
 
 > June 29th to July 2nd

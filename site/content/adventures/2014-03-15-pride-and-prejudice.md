@@ -6,9 +6,6 @@ banner: https://i.imgur.com/OnHPXZ6.jpg
 categories:
   - portfolio
   - design
-tags:
-  - pages
-  - keynote
 ---
 
 All these assets were created using Apple Pages and Keynote.

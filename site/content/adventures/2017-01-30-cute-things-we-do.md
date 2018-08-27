@@ -10,10 +10,6 @@ categories:
   - portfolio
   - web
   - design
-tags:
-  - nolan
-  - valentine's day
-  - relationships
 ---
 
 I felt like doing something non-traditional for Valentine's day so I made my boyfriend this website showcasing a few pictures from dates we've had together.

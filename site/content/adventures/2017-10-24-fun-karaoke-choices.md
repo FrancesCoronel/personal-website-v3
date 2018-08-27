@@ -4,8 +4,6 @@ date: 2017-10-24
 description: Tailored for yours truly. Refer to this in times of need.
 categories:
   - blog
-tags:
-  - karaoke
 ---
 
 ## Wake Me Up

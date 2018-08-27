@@ -4,8 +4,6 @@ date: 2018-04-07
 description: A list of TV shows I enjoy, have enjoyed or thought were terrible.
 categories:
   - blog
-tags:
-  - tv shows
 ---
 
 ## Enjoying

@@ -11,22 +11,6 @@ categories:
   - conference
   - volunteering
   - press
-tags:
-  - 757 developers
-  - 757dev
-  - conference
-  - featured
-  - free code camp
-  - meetups
-  - norfolk
-  - pixelfest
-  - revconf
-  - revolution
-  - revolution conference
-  - revolutionconf
-  - revolutionconf virginia
-  - virginia
-  - virginia beach
 ---
 
 ## Name

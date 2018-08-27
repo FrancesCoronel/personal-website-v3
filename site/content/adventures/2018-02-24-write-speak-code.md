@@ -5,9 +5,6 @@ description: An all day workshop for women and non-binary coders, customized to 
 banner: https://i.imgur.com/fsWiZQ2.jpg
 categories:
   - program
-tags:
-  - san francisco
-  - write/speak/code
 ---
 
 ## Name
@@ -78,36 +75,36 @@ In this workshop, you'll go through a few exercises around our theme, "Speak You
 
 ## Story You Love
 
-* The IT Crowd
-  * All the people are working in IT and are super nerdy and awkward sometimes but very funny
-  * They were seen as non-relevant and not as important since the show was made in the early 2000s but now we have a very small group of people actually end up with a lot of power
-* The 5 Languages of Love
-  * It's about understanding how different people communicate and express warmth towards each other
-  * Applies to a lot of different people
+- The IT Crowd
+  - All the people are working in IT and are super nerdy and awkward sometimes but very funny
+  - They were seen as non-relevant and not as important since the show was made in the early 2000s but now we have a very small group of people actually end up with a lot of power
+- The 5 Languages of Love
+  - It's about understanding how different people communicate and express warmth towards each other
+  - Applies to a lot of different people
 
 ## Characters
 
 ### 3 characters that you relate to
 
-* Shuri from Black Panther
-* Betty from Ugly Betty
-* Hermonine from Harry Potter
-* Samantha from Dear White People
+- Shuri from Black Panther
+- Betty from Ugly Betty
+- Hermonine from Harry Potter
+- Samantha from Dear White People
 
 ### 3 characters you want to be
 
-* David from AI
-* Idris from Luther
+- David from AI
+- Idris from Luther
 
 ## Boundary Bullseye
 
 > Think about your personal boundaries when it comes to sharing the truth.
 
-* Self
-* Nolan/Family
-* Internet/Strangers - via blog
-* Friends
-* Acquaintances
+- Self
+- Nolan/Family
+- Internet/Strangers - via blog
+- Friends
+- Acquaintances
 
 ## I am...
 
@@ -135,54 +132,54 @@ In this workshop, you'll go through a few exercises around our theme, "Speak You
 
 ## What Brought You Here Today
 
-* Uber express - my driver was deaf and the people riding with me were chill and quiet - I was just texting with my boyfriend the whole time because he's really funny in the afternoon
-* I got up at around 7 but stayed in bed until 7:15 am and waited to hear back from a company because they've been ghosting me basically
-* I then got ready and realized my laundry basket was still in my roommates' room
-* I heard about it and want to make the most of my Saturdays. I'm still so early in my career that spending Saturdays developing myself is still pretty easy to do and doesn't feel like I'm overworking myself
-* I grab any opportunities I can develop myself
-* I just saw it as an opportunity to develop myself like a long Meetup session
-* It's also reassuring to be in a room full of all women and non-binary folks
-* I got into coding back in high school. I was set on studying biology but then I realized I didn't love it enough to want to be with a bunch of pre-med students and that's the path that most people were taking. Computers and biology were always my things so I decided bio-informatics. Then coding.
+- Uber express - my driver was deaf and the people riding with me were chill and quiet - I was just texting with my boyfriend the whole time because he's really funny in the afternoon
+- I got up at around 7 but stayed in bed until 7:15 am and waited to hear back from a company because they've been ghosting me basically
+- I then got ready and realized my laundry basket was still in my roommates' room
+- I heard about it and want to make the most of my Saturdays. I'm still so early in my career that spending Saturdays developing myself is still pretty easy to do and doesn't feel like I'm overworking myself
+- I grab any opportunities I can develop myself
+- I just saw it as an opportunity to develop myself like a long Meetup session
+- It's also reassuring to be in a room full of all women and non-binary folks
+- I got into coding back in high school. I was set on studying biology but then I realized I didn't love it enough to want to be with a bunch of pre-med students and that's the path that most people were taking. Computers and biology were always my things so I decided bio-informatics. Then coding.
 
 ## Timeline
 
-* 2012 - got interested - 17 years old - started taking online courses through Codecademy and Code School
-* 2013 - started studying computer science in college and my blog with basic dev tutorials
-* 2014 - design, pet projects, prepping for coding bootcamps
-* 2015 - first job, first talk, bootcamp
-* 2016 - freelancing, mentoring, got my bachelors, lots of speaking and conferences, product management course
-* 2017 - masters in computer science
-* 2018 - speaker, mentor, software engineer - turning 22
+- 2012 - got interested - 17 years old - started taking online courses through Codecademy and Code School
+- 2013 - started studying computer science in college and my blog with basic dev tutorials
+- 2014 - design, pet projects, prepping for coding bootcamps
+- 2015 - first job, first talk, bootcamp
+- 2016 - freelancing, mentoring, got my bachelors, lots of speaking and conferences, product management course
+- 2017 - masters in computer science
+- 2018 - speaker, mentor, software engineer - turning 22
 
 ## Success Story
 
-* situation or problem that needed to be addressed
-  * was having trouble finding my first job/internship
-* what you did about it
-  * so I started with the conventional route of applying to jobs online but on the side, I was actually preparing to submit talks at conferences and Meetups
-* results of what you did
-  * I realized that getting a job interview right out of college without knowing anyone at the company and lacking that friendly intro is very difficult. And what happened instead is that after presenting on web design at a local conference, a few people reached out to me afterward and asked me if I was available so I was actually able to get three interviews from that one talk and it made all the difference.
-* strategic impact on the company
-  * they got a new hire
-* what skills or strengths did you use
-  * public speaking, passionate about web design
+- situation or problem that needed to be addressed
+  - was having trouble finding my first job/internship
+- what you did about it
+  - so I started with the conventional route of applying to jobs online but on the side, I was actually preparing to submit talks at conferences and Meetups
+- results of what you did
+  - I realized that getting a job interview right out of college without knowing anyone at the company and lacking that friendly intro is very difficult. And what happened instead is that after presenting on web design at a local conference, a few people reached out to me afterward and asked me if I was available so I was actually able to get three interviews from that one talk and it made all the difference.
+- strategic impact on the company
+  - they got a new hire
+- what skills or strengths did you use
+  - public speaking, passionate about web design
 
 ## Persuasive Storytelling
 
-* What is
-  * introduce your vision
-  * not getting the job
-* What could be
-  * play up the contrast
-  * online postings vs alternative methods like Meetups in person and conferences
-* Call to action
-  * presenting argument that acts on vision
-  * there are other ways to get a job
+- What is
+  - introduce your vision
+  - not getting the job
+- What could be
+  - play up the contrast
+  - online postings vs alternative methods like Meetups in person and conferences
+- Call to action
+  - presenting argument that acts on vision
+  - there are other ways to get a job
 
 ## Thesis Story
 
-* goes back to having alternatives ways of finding an opportunity
-* being resourceful as fuck
+- goes back to having alternatives ways of finding an opportunity
+- being resourceful as fuck
 
 ## Identify projects
 
@@ -192,52 +189,52 @@ https://fvcproductions.com/portfolio/
 
 > Technical
 
-* Git/GitHub
-* JavaScript
-* Unity
-* Angular
-* Electron
-* TypeScript
-* NPM
-* JAMstack
-* Open Source
+- Git/GitHub
+- JavaScript
+- Unity
+- Angular
+- Electron
+- TypeScript
+- NPM
+- JAMstack
+- Open Source
 
 > Design
 
-* Sketch 3
-* UI Design
-* Keynote
-* InVision
-* SASS
-* HTML
-* CSS
+- Sketch 3
+- UI Design
+- Keynote
+- InVision
+- SASS
+- HTML
+- CSS
 
 > Soft
 
-* Public Speaking
-* Mentoring
-* Agile
+- Public Speaking
+- Mentoring
+- Agile
 
 ## Identify Roles
 
-* designer
-* student
-* mentor
-* developer
-* speaker
+- designer
+- student
+- mentor
+- developer
+- speaker
 
 ## Identify Strengths
 
-* public speaking
-* breaking down complex topics
-* web design
-* resourcefulness
+- public speaking
+- breaking down complex topics
+- web design
+- resourcefulness
 
 ## Challenges
 
-* getting taken seriously
-* networking
-* not feeling so isolated
+- getting taken seriously
+- networking
+- not feeling so isolated
 
 ## Topics
 

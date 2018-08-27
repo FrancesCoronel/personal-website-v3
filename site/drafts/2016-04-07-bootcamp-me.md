@@ -1,14 +1,12 @@
 ---
 title: BootcampMe Program
 date: 2016-04-07
-description:
+? description
 categories:
   - research
   - presentation
   - tutorial
   - portfolio
-tags:
-  -
 ---
 
 https://github.com/fvcproductions/bootcamp-me
@@ -47,11 +45,11 @@ Get a Theme
 2.  Exploring awesome OS X apps and plugins
 3.  Bookmarking useful websites & Chrome extension essentials
 
-* shortcut for Alfred 3
-* macbed.com
-* ad-blockers
-* sublime text theme: http://colorsublime.com/
-* great macos apps: http://fvcproductions.github.io/what-i-use/
+- shortcut for Alfred 3
+- macbed.com
+- ad-blockers
+- sublime text theme: http://colorsublime.com/
+- great macos apps: http://fvcproductions.github.io/what-i-use/
 
 Git & GitHub send sublime text book sublime text crack - key
 
@@ -63,57 +61,57 @@ Look into easy way to share installed chrome extensions with others
 
 > Dev
 
-* 1Password
-* Adblock
-* Adguard Adblocker
-* Application Launcher for Drive (by Google)
-* Black Menu for Google
-* Bookmark Manager
-* BuiltWith Technology Profiler: https://builtwith.com/
-* Check My Links
-* Chrome Extension Source Viewer
-* Coupons at Checkout
-* CycleTab
-* Dark Reader
-* DevTools Author
-* Finch Developer Tools
-* GitHunt
-* Google Calendar (by Google)
-* Google Cast
-* Google Dictionary
-* Grammarly
-* Honey
-* Hova
-* Hover Zoom
-* HoverCards
-* I'm a Gentleman
-* Inbox by Gmail
-* Ink by Google
-* Instant Translate
-* JSON View
-* JunkFill
-* Magic Actions by YouTube
-* Motivation
-* Musixmatch Lyrics
-* Muzli 2
-* OctoMate
-* Office Editing for Docs, Sheets & Slides
-* Panda 5
-* Pop up Blocker
-* Product Hunt
-* Raindrop.io
-* Ratings Preview
-* Refined GitHub
-* SimpleExtManager
-* Sprucemarks
-* Stylebot
-* Fireshot
-* Tampermonkey
-* UXCheck
-* WakaTime
-* Wappazlyer
-* WhatFont
-* Wikiwand
+- 1Password
+- Adblock
+- Adguard Adblocker
+- Application Launcher for Drive (by Google)
+- Black Menu for Google
+- Bookmark Manager
+- BuiltWith Technology Profiler: https://builtwith.com/
+- Check My Links
+- Chrome Extension Source Viewer
+- Coupons at Checkout
+- CycleTab
+- Dark Reader
+- DevTools Author
+- Finch Developer Tools
+- GitHunt
+- Google Calendar (by Google)
+- Google Cast
+- Google Dictionary
+- Grammarly
+- Honey
+- Hova
+- Hover Zoom
+- HoverCards
+- I'm a Gentleman
+- Inbox by Gmail
+- Ink by Google
+- Instant Translate
+- JSON View
+- JunkFill
+- Magic Actions by YouTube
+- Motivation
+- Musixmatch Lyrics
+- Muzli 2
+- OctoMate
+- Office Editing for Docs, Sheets & Slides
+- Panda 5
+- Pop up Blocker
+- Product Hunt
+- Raindrop.io
+- Ratings Preview
+- Refined GitHub
+- SimpleExtManager
+- Sprucemarks
+- Stylebot
+- Fireshot
+- Tampermonkey
+- UXCheck
+- WakaTime
+- Wappazlyer
+- WhatFont
+- Wikiwand
 
 ---
 

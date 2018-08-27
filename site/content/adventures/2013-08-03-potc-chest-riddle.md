@@ -8,23 +8,6 @@ aliases:
   - /2014/07/20/answer-to-potc-logic-riddle/
 categories:
   - blog
-tags:
-    - aviation
-    - Benito de Soto
-    - Black Pearl
-    - Captain Jack Sparrow
-    - Doubloon
-    - gaming
-    - Gold
-    - gold doubloons
-    - Jack Sparrow
-    - Johnny Depp
-    - poem
-    - riddle
-    - star trek monopoly
-    - Tortuga
-    - transportation
-    - video games
 ---
 
 ## Here's a little riddle that is based on a very recognized riddle, except it uses POTC references.

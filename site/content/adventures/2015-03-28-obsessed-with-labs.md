@@ -6,18 +6,14 @@ banner: https://i.imgur.com/Re1sr8U.png
 categories:
   - portfolio
   - design
-tags:
-  - cdock
-  - ubersicht
-  - deviantart
 ---
 
-* Desktop Widgets
-  * [Ubersicht](https://tracesof.net/uebersicht-widgets/)
-* Transparent Dock
-  * [cDock](https://sourceforge.net/projects/cdock/)
-* Wallpaper
-  * [Black Lab](https://www.surftin.com/images/black-labrador-dog_352390.jpg)
+- Desktop Widgets
+  - [Ubersicht](https://tracesof.net/uebersicht-widgets/)
+- Transparent Dock
+  - [cDock](https://sourceforge.net/projects/cdock/)
+- Wallpaper
+  - [Black Lab](https://www.surftin.com/images/black-labrador-dog_352390.jpg)
 
 ![Obsessed with Labs 3](https://i.imgur.com/GfFWEib.png)
 

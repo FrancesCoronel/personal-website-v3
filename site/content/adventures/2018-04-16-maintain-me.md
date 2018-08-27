@@ -7,6 +7,4 @@ link: https://github.com/fvcproductions/maintain-me
 categories:
   - portfolio
   - oss
-tags:
-  - github
 ---

@@ -7,11 +7,6 @@ categories:
   - portfolio
   - design
   - web
-tags:
-  - cups of tea
-  - '2013'
-  - wordpress
-  - blog design
 ---
 
 I have updated the theme for my Wordpress website to be more user friendly.

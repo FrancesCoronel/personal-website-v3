@@ -4,8 +4,6 @@ description: Just two notes I took from my interview with TAPAD for a Product Ma
 date: 2017-04-05
 categories:
   - blog
-tags:
-  - tapad
 ---
 
 ## You’ll see it again and again (and again). What’s up with the computer science requirement for PMs? Coding isn’t a regular part of a PM's regular job, so why don’t companies loosen up that requirement to find someone who's truly excellent at the core product management skills?

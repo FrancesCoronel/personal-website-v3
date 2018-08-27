@@ -11,10 +11,6 @@ categories:
   - award
   - hackathon
   - web
-tags:
- - jake
- - leap motion
- - kent hack enough
 ---
 
 ## Name

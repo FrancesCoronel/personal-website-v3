@@ -11,13 +11,6 @@ categories:
   - portfolio
   - tutorial
   - web
-tags:
-  - laravel
-  - laravel 5
-  - laravel 5.3
-  - todo
-  - todo app
-  - todo app laravel
 ---
 
 I created a simple to-do app in Laravel 5.3 using Homestead as part of an engineering internship screening for [DoSomething.org](https://DoSomething.org). In the end, nothing really came of it. 💀️
@@ -42,21 +35,21 @@ This is how the completed app looks like.
 
 ## You will need...
 
-* Basic **Terminal** Knowledge
-  * I will be referring to a lot of commands you'll have to type in.
+- Basic **Terminal** Knowledge
+  - I will be referring to a lot of commands you'll have to type in.
 
 ## Installation Process
 
 1.  Download [**Vagrant**](https://www.vagrantup.com/)
 2.  Download [**VirtualBox**](https://www.virtualbox.org/wiki/Downloads)
 3.  Clone or download [my sample to-do app](https://github.com/fvcproductions/ds-todos)
-    * **Option 1.** Use a GitHub client like [Tower](https://git-tower.com)
-    * **Option 2.** `git clone //github.com/fvcproductions/ds-todos.git`
-    * Make note of the file path for this repo by using `pwd`, i.e. `~/Dropbox/github/ds-todos`
+    - **Option 1.** Use a GitHub client like [Tower](https://git-tower.com)
+    - **Option 2.** `git clone //github.com/fvcproductions/ds-todos.git`
+    - Make note of the file path for this repo by using `pwd`, i.e. `~/Dropbox/github/ds-todos`
 4.  `cd ~ && vagrant box laravel/homestead`
 5.  They will ask for the provider so we are going to enter in `1` since we are using **VirtualBox**
 6.  `cd ~ && mkdir Code`
-    * We will need this folder later
+    - We will need this folder later
 7.  Clone down **Laravel Homestead** and install it in a folder called `Homestead` using`cd ~ && git clone //github.com/laravel/homestead.git Homestead`
 8.  Initialize Homestead using `cd Homestead && bash init.sh`
 9.  While still in `~/Homestead` folder, `sudo nano /private/etc/hosts` to edit the hosts file and add on [these two lines (refer below)](#hosts)
@@ -64,7 +57,7 @@ This is how the completed app looks like.
 11. Hit **Enter** twice (you don't have to enter a password)
 12. Time to start up **Vagrant** using `cd ~/Homestead && vagrant up` and enter password when asked
 13. Edit the `Homestead.yaml` file to configure locations of code using `nano ~/.homestead/Homestead.yaml` and make the`folder` and `sites` sections [look like this (refer below)](#yaml-config)
-    * ❗ Anytime you edit this `Homestead.yaml` file, you have to perform the next 3 steps in order for it to work, so let's go ahead and do those now.
+    - ❗ Anytime you edit this `Homestead.yaml` file, you have to perform the next 3 steps in order for it to work, so let's go ahead and do those now.
 14. Stop vagrant temporarily by using `vagrant halt`
 15. Reload `yaml` configurations by using `vagrant reload --provision` and enter password when asked
 16. While still in `~/Homestead` folder, use `vagrant ssh` to enter into your `Vagrant` setup
@@ -146,5 +139,5 @@ MAIL_ENCRYPTION=null
 
 ### Helpful Resources
 
-* [Great video on installation process](https://vimeo.com/164946495)
-* [Laravel Homestead Documentation](https://laravel.com/docs/5.3/homestead)
+- [Great video on installation process](https://vimeo.com/164946495)
+- [Laravel Homestead Documentation](https://laravel.com/docs/5.3/homestead)

@@ -6,8 +6,6 @@ banner: https://i.imgur.com/rnCLyau.jpg
 categories:
   - portfolio
   - presentation
-tags:
-  - coding bootcamp
 ---
 
 <blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/dear-bootcamp-82133387">Dear Bootcamp</a></h4><p>Published December 31, 2014. Creative portion sent to bootcamps during the application process. Inspired by Bloggytoons - http://bloggytoons.com/dear-flatiron...</p></blockquote>

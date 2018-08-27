@@ -7,18 +7,6 @@ aliases:
   - /2015/06/20/fullstack-academy-week-2/
 categories:
   - blog
-tags:
-  - academy
-  - code school
-  - coding bootcamp experience
-  - coding bootcamp fullstack
-  - coding bootcamps
-  - fullstack
-  - fullstack academy
-  - fullstack foundations
-  - fullstack week
-  - UNO
-  - week 2
 ---
 
 > June 15th to 19th.

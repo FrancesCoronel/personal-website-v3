@@ -15,6 +15,8 @@
       {{ range $listPages.GroupByDate "2006" }}{{ partial "body/content/list/_index.html" . }}{{ end }}
       <!-- End Message -->
       {{ partial "body/content/list/end-message.html" . }}
+      <!-- Categories Links -->
+      {{ partial "body/content/list/categories-link.html" . }}
     </div>
   </div>
 </section>

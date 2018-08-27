@@ -1,16 +1,11 @@
 ---
-title: 'WTM: International Women''s Day Celebration (IWD)'
+title: "WTM: International Women's Day Celebration (IWD)"
 date: 2018-03-03
 description: The Women Techmakers Global Event Series Celebrating International Women's Day
 banner: https://i.imgur.com/rUAA2Jy.jpg
 categories:
   - conference
   - blog
-tags:
-  - women techmakers
-  - iwd
-  - google
-  - mountain view
 ---
 
 ## Location
@@ -25,7 +20,7 @@ Saturday, March 3rd - 8:30 AM to 6:00 PM
 
 Participant
 
-* Over 10,000 applicants and only 350 were able to attend event in-person!
+- Over 10,000 applicants and only 350 were able to attend event in-person!
 
 ## About
 

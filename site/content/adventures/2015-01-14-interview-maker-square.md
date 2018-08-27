@@ -7,35 +7,6 @@ aliases:
   - /2015/01/14/interview-maker-square/
 categories:
   - blog
-tags:
-  - acceptance
-  - admissions
-  - admissions challenge
-  - applications
-  - austin
-  - bootcamp
-  - career
-  - challenge
-  - chicago
-  - class
-  - coding bootcamp
-  - cohort
-  - daniel
-  - daniel
-  - founders
-  - interview
-  - javascript
-  - jobs
-  - makersquare
-  - Programming
-  - projects
-  - recruiting
-  - san francisco
-  - screenhero
-  - shaan
-  - starter league
-  - technical challenge
-  - typeform
 ---
 
 ![MakerSquare](https://m1.behance.net/rendition/modules/124031971/disp/fa0c76d4bd39b9bc82c8cf32b90cd846.png)

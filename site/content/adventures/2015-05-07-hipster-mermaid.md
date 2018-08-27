@@ -6,13 +6,6 @@ banner: https://i.imgur.com/l6nXfJm.jpg
 categories:
   - portfolio
   - design
-tags:
-  - keynote
-  - icon design
-  - image2icon
-  - iconverticons
-  - branding
-  - icon
 ---
 
 Hipster mermaid logo created for a tech conference in my local area.

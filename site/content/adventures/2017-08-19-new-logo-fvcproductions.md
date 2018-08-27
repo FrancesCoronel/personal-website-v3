@@ -6,12 +6,6 @@ banner: https://i.imgur.com/aIbX4z0.png
 categories:
   - design
   - portfolio
-tags:
-  - logo
-  - redesign
-  - revamp
-  - strawberry
-  - chocolate
 ---
 
 So with my past logo, a lot of folks would mistake it for a heart.

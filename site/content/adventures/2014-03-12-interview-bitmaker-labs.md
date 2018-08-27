@@ -7,23 +7,6 @@ aliases:
   - /2014/03/12/interview-bitmaker-labs/
 categories:
   - blog
-tags:
-  - bit
-  - BitMaker
-  - Bitmaker Labs
-  - boot camp
-  - bootcamp
-  - canada
-  - coding
-  - curriculum
-  - development
-  - Labs
-  - maker
-  - Programming
-  - Toronto
-  - UI design
-  - web design
-  - web dev
 ---
 
 So this past winter, I applied to [**Bitmaker Labs**](https://bitmakerlabs.com 'BitmakerLabs') for their summer 2014 full-time web development immersive course and was accepted.

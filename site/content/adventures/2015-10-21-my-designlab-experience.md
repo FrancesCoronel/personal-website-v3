@@ -11,26 +11,6 @@ categories:
   - program
   - portfolio
   - design
-tags:
-  - behance
-  - chad trutt
-  - color theory
-  - design
-  - design 101
-  - design online course
-  - design101
-  - designlab
-  - designlab course
-  - designlab design 101
-  - featured
-  - final project
-  - layout
-  - online course
-  - online design course
-  - process
-  - typography
-  - visual hierarchy
-  - web design
 ---
 
 ## Name

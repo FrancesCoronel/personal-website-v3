@@ -12,16 +12,6 @@ categories:
   - blog
   - conference
   - freelancing
-tags:
-  - alterconf
-  - alterconf new york city
-  - alterconf nyc
-  - alterconf nyc 2016
-  - diversity in tech
-  - featured
-  - new york city
-  - tech conference
-  - tech diversity
 ---
 
 ## Name

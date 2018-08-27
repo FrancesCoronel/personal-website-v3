@@ -7,20 +7,6 @@ aliases:
   - /2014/03/12/python-bits-1-getting-started/
 categories:
   - blog
-tags:
-  - area of a rectangle python
-  - digital hieroglyphics
-  - initializing
-  - installation
-  - integers
-  - numerical expressions
-  - printing
-  - python
-  - python 3
-  - python area of a
-  - circle
-  - python bits
-  - strings python
 ---
 
 ### Hello, hello, hello!

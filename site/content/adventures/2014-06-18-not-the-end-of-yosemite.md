@@ -6,15 +6,6 @@ banner: https://i.imgur.com/baezBus.png
 categories:
   - portfolio
   - design
-tags:
-  - cdock
-  - iconfactory
-  - blotter
-  - bowtie
-  - bartender
-  - flavours
-  - deviantart
-  - geektool
 ---
 
 I used Bartender, Bowtie, Flavours, GeekTool, cDock, Blotter and custom icons from DeviantArt to bring this to life.

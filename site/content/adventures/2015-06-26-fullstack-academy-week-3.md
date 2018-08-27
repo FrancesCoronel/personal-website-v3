@@ -7,25 +7,6 @@ aliases:
   - /2015/06/26/fullstack-academy-week-3/
 categories:
   - blog
-tags:
-  - aline lerner
-  - alumni panel
-  - american museum of natural history
-  - avalon
-  - board game
-  - coding bootcamps
-  - dinos
-  - DropBox
-  - duck bill
-  - equality
-  - fullstack
-  - fullstack academy
-  - gay marriage legal now
-  - museum
-  - Robert Langdon
-  - same sex marriage
-  - week 3
-  - wikistack
 ---
 
 > June 22nd to 26th.

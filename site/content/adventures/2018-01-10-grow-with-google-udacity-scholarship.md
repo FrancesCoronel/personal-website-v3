@@ -6,9 +6,6 @@ banner: https://i.imgur.com/TDXjQcA.png
 categories:
   - award
   - program
-tags:
-  - GoogleUdacityScholars
-  - GrowWithGoogle
 ---
 
 ## April 17th, 2018

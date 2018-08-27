@@ -1,52 +1,12 @@
 ---
 title: Magnifying the Bootcamp Research Experience
 date: 2014-11-10
-description: "The coding bootcamp ultimatum."
+description: 'The coding bootcamp ultimatum.'
 banner: https://fvcproductions.files.wordpress.com/2014/11/hack-reactor-interior.jpg?w=1024&h=435&crop=1
 aliases:
   - /2014/11/10/magnifying-the-bootcamp-research-experience/
 categories:
   - blog
-tags:
-  - app academy
-  - bootcamper.io
-  - bootcamps
-  - bootcamps.in
-  - cb
-  - cbs
-  - code combat
-  - code combt
-  - code school
-  - code2040
-  - codecademy
-  - codewars
-  - coding bootcamps
-  - course report
-  - firehose project
-  - flatiron
-  - fullstack
-  - fvcproductions
-  - general assembly
-  - google+
-  - hack app
-  - hack reactor
-  - hackreactor
-  - launch academy
-  - makersquare
-  - quora
-  - resources
-  - switch
-  - switchup
-  - techendo
-  - topcoder
-  - treehouse
-  - tweet
-  - typing.io
-  - ui
-  - UI/UX
-  - ux
-  - web crawler
-  - yelp
 ---
 
 The Coding Bootcamp Ultimatum

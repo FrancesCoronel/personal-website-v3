@@ -8,10 +8,6 @@ this summer."
 aliases:
   - /2015/04/13/what-to-do-week-negative-8/
 banner: https://fvcproductions.files.wordpress.com/2015/04/fullstack-academy-banner.jpg?w=1024&h=435&crop=1
-tags:
-    - internships
-    - fullstack academy
-    - coding bootcamps
 categories:
     - blog
 ---

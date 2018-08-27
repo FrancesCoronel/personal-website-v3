@@ -6,11 +6,6 @@ banner: https://i.imgur.com/X0M0UK7.png
 categories:
   - portfolio
   - design
-tags:
-  - geektool
-  - bowtie
-  - nyx menu bar
-  - deviantart
 ---
 
 Here, I used Geektool, Bowtie, Nyx Menu Bar by Levantin Lynx and DeviantArt icons to bring this to life.

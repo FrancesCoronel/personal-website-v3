@@ -5,8 +5,6 @@ description: Centralizing my work even further.
 banner: https://i.imgur.com/3EdwlW5.png
 categories:
   - blog
-tags:
-  - behance
 ---
 
 ## I've been using Behance since March 11, 2014.

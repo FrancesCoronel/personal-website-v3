@@ -1,27 +1,12 @@
 ---
-title: "A Few Java Factoids - Part 1"
+title: 'A Few Java Factoids - Part 1'
 date: 2014-03-03
-description: "A few basic facts about Java."
+description: 'A few basic facts about Java.'
 banner: https://fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
 aliases:
   - /2014/04/08/a-few-java-factoids-part-1/
-tags:
-    - basic structure
-    - beginner
-    - beginning programming
-    - classes
-    - comments
-    - digital hieroglyphics
-    - error
-    - java
-    - java programming
-    - main method
-    - program
-    - semicolons
-    - string
-    - system
 categories:
-    - blog
+  - blog
 ---
 
 I'm taking a Java class right now and sometimes just looking at code is really great to get the learning started.

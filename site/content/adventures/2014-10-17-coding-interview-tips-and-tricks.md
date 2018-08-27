@@ -8,18 +8,6 @@ aliases:
   - /blog/2014/10/17/ti-89-tricks-for-calculus/
 categories:
   - blog
-tags:
-  - coding
-  - coding interview
-  - cracking the coding interview
-  - internship interview
-  - personal questions
-  - questions coding
-  - software development
-  - tech companies
-  - technical interview
-  - technical questions
-  - tips and tricks
 ---
 
 [![tumblr_nd30ogjKdp1qcrg73o1_500](https://fvcproductions.files.wordpress.com/2014/10/tumblr_nd30ogjkdp1qcrg73o1_500.jpg)](https://fvcproductions.files.wordpress.com/2014/10/tumblr_nd30ogjkdp1qcrg73o1_500.jpg)
@@ -32,10 +20,11 @@ So I decided to compile a bunch of fun interview topics of interest and question
 
 ## **Overview**
 
-- [General Topics Covered](#section-topics)
-- [Sample Technical Q's](#section-sampletq)
-- [Sample Personal Q's](#section-samplepq)
-- [Questions to Ask Your Interviewer](#section-interviewerq)
+- [**Overview**](#overview)
+  - [**General Topics Covered**](#general-topics-covered)
+  - [**Sample Technical Q's**](#sample-technical-qs)
+  - [**Sample Personal Q's**](#sample-personal-qs)
+  - [**Questions to Ask Your Interviewer**](#questions-to-ask-your-interviewer)
 
 ### **General Topics Covered**
 

@@ -6,9 +6,6 @@ banner: https://i.imgur.com/lQlzotN.png
 categories:
   - portfolio
   - design
-tags:
-  - wordpress
-  - flavicons
 ---
 
 ## Circular

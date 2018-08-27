@@ -6,9 +6,6 @@ banner: https://i.imgur.com/VgiYCSV.png
 categories:
   - portfolio
   - web
-tags:
-  - sukromia
-  - privacy in the digital age
 ---
 
 At Cornell Tech, I took a "Privacy in the Digital Age" class.

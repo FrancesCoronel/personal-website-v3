@@ -9,14 +9,6 @@ categories:
   - video
   - web
   - award
-tags:
-  - tsp
-  - government
-  - website
-  - huge design
-  - huge agency
-  - thrift savings plan
-  - redesign
 ---
 
 There were 2 parts to the interview process - the video and the design challenge.

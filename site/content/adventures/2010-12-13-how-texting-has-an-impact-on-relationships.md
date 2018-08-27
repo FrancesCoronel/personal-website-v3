@@ -5,19 +5,6 @@ description: Talks about the mainly negative impact of texting on relationships.
 banner: https://fvcproductions.files.wordpress.com/2013/08/old-technology-never-forget.jpg?w=1024&h=436&crop=1
 categories:
   - blog
-tags:
-  - awkward silences
-  - essay talks
-  - facebook
-  - fvcproductions
-  - kinect
-  - levels of communication
-  - mobile phone
-  - phone conversations
-  - technology
-  - text messaging
-  - va governor schools
-  - wii
 ---
 
 ## This first essay talks about the mainly negative impact of texting on relationships.

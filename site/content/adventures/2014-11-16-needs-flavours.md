@@ -6,30 +6,20 @@ banner: https://i.imgur.com/V32FfNX.png
 categories:
   - portfolio
   - design
-tags:
-  - flavours
-  - cdock
-  - ccard3dev
-  - caffeine
-  - sip
-  - 1password
-  - flux
-  - dropbox
-  - blotter
 ---
 
-* Dock Icons
-  * [ccard3dev](http://ccard3dev.deviantart.com/art/Dynamic-Icons-for-Yosemite-Apple-Apps-460428519)
-* Transparent Dock
-  * [cDock](http://sourceforge.net/projects/cdock/)
-* Desktop Calendar
-  * [Blotter](http://wireload.net/products/blotter/)
-* 3rd-Party Menubar Icons
-  * [Dropbox](http://dropbox.com/)
-  * [1Password](https://agilebits.com/onepassword)
-  * [f.lux](https://justgetflux.com/)
-  * [Caffeine](http://lightheadsw.com/caffeine/)
-  * [Sip](http://theolabrothers.com/sip/)
+- Dock Icons
+  - [ccard3dev](http://ccard3dev.deviantart.com/art/Dynamic-Icons-for-Yosemite-Apple-Apps-460428519)
+- Transparent Dock
+  - [cDock](http://sourceforge.net/projects/cdock/)
+- Desktop Calendar
+  - [Blotter](http://wireload.net/products/blotter/)
+- 3rd-Party Menubar Icons
+  - [Dropbox](http://dropbox.com/)
+  - [1Password](https://agilebits.com/onepassword)
+  - [f.lux](https://justgetflux.com/)
+  - [Caffeine](http://lightheadsw.com/caffeine/)
+  - [Sip](http://theolabrothers.com/sip/)
 
 ... needless to say, I cannot WAIT till [Flavours 2](https://interacto.zendesk.com/entries/53605899-Yosemite-and-the-future-Flavours-2) comes out.
 

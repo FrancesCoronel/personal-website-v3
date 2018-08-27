@@ -7,6 +7,4 @@ link: https://github.com/fvcproductions/applications
 categories:
   - portfolio
   - oss
-tags:
-  - github
 ---

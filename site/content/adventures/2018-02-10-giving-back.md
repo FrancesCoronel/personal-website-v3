@@ -7,9 +7,6 @@ categories:
   - blog
   - portfolio
   - oss
-tags:
-  - open collective
-  - docsify
 ---
 
 ## I love open-source. 🌐

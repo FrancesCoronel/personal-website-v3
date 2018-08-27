@@ -4,10 +4,6 @@ date: 2018-03-25
 description: Mentor developers and get paid.
 categories:
   - blog
-tags:
-  - mentoring
-  - programs
-  - coding
 ---
 
 These are programs that allow you to mentor others as they learn how to code and get paid to do it!
@@ -18,19 +14,19 @@ The hours are flexible, and it's common knowledge that when you teach, you solid
 
 <!-- TOC -->
 
-* [Paid Mentorship Programs](#paid-mentorship-programs)
-  * [Bloc](#bloc)
-  * [Codecademy](#codecademy)
-  * [Code Mentor](#code-mentor)
-  * [Designlab](#designlab)
-  * [hack.hands()](#hackhands)
-  * [RookieUp](#rookieup)
-  * [Thinkful](#thinkful)
-  * [Udacity](#udacity)
-* [Volunteering Options](#volunteering-options)
-  * [hack.pledge()](#hackpledge)
-  * [Out of Office Hours](#out-of-office-hours)
-  * [#YesWeCode](#yeswecode)
+- [Paid Mentorship Programs](#paid-mentorship-programs)
+  - [Bloc](#bloc)
+  - [Codecademy](#codecademy)
+  - [Code Mentor](#code-mentor)
+  - [Designlab](#designlab)
+  - [hack.hands()](#hackhands)
+  - [RookieUp](#rookieup)
+  - [Thinkful](#thinkful)
+  - [Udacity](#udacity)
+- [Volunteering Options](#volunteering-options)
+  - [hack.pledge()](#hackpledge)
+  - [Out of Office Hours](#out-of-office-hours)
+  - [#YesWeCode](#yeswecode)
 
 <!-- /TOC -->
 

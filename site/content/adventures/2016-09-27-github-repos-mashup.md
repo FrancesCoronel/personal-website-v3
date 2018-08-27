@@ -10,6 +10,4 @@ categories:
   - portfolio
   - oss
   - web
-tags:
-  - github
 ---

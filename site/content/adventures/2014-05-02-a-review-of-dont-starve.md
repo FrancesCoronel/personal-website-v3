@@ -7,21 +7,6 @@ aliases:
   - /2014/05/02/a-review-of-dont-starve/
 categories:
   - blog
-tags:
-  - dont starve
-  - dont starve game
-  - dont starve review
-  - frankenweenie
-  - game review
-  - horror
-  - indie
-  - klei entertainment
-  - macabre
-  - game review
-  - sandbox
-  - scary
-  - tim burton
-  - video games
 ---
 
 So in case you haven’t heard of it yet, “[Don’t Starve](http://www.dontstarvegame.com)” is this awesome Indie game that came out late April of last year.

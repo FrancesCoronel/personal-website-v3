@@ -7,15 +7,6 @@ aliases:
   - /2013/07/28/in-christophers-footsteps/
 categories:
   - blog
-tags:
-  - asperger
-  - asperger syndrome
-  - aspie
-  - autism spectrum
-  - curious incident of the dog in the night time
-  - matthew fontaine maury high school
-  - maury high school
-  - quizlet
 ---
 
 ## Context

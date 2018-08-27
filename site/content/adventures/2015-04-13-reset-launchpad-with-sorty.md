@@ -1,5 +1,5 @@
 ---
-title: "Reset Your Launchpad with Sorty 🔄"
+title: 'Reset Your Launchpad with Sorty 🔄'
 date: 2015-04-13
 description: You can reset your launchpad on Yosemite using Sorty.
 banner: https://fvcproductions.files.wordpress.com/2015/04/sorty-for-os-x.png?w=1024&h=435&crop=1
@@ -7,19 +7,6 @@ aliases:
   - /2015/04/13/reset-launchpad-with-sorty/
 categories:
   - blog
-tags:
-  - launchpad
-  - launchpad items reset
-  - reset dock
-  - reset launchpad
-  - reset your launchpad
-  - sorty
-  - sorty app
-  - sorty for osx
-  - wiles.dk
-  - yosemite
-  - yosemite launchpad
-  - yosemite launchpad reset
 ---
 
 ![Reset Your Launchpad 1](https://img.informer.com/icons_mac/png/48/297/297271.png)

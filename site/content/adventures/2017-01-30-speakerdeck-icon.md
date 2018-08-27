@@ -6,10 +6,6 @@ banner: https://i.imgur.com/xjoO73K.png
 categories:
   - portfolio
   - design
-tags:
-  - icons
-  - speaker deck
-  - sketch 3
 ---
 
 So I am in LOVE with [Speaker Deck](https://speakerdeck.com). 😍

@@ -7,10 +7,6 @@ categories:
   - portfolio
   - oss
   - web
-tags:
-  - pwa
-  - angular cli
-  - angular
 ---
 
 As part of preparation for an upcoming client project that used the new Angular CLI, I created this very small app that showcases the Pacific Shores Shuttle schedule.

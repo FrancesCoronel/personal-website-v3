@@ -7,19 +7,6 @@ aliases:
   - /2013/08/03/old-essays-on-technology/
 categories:
   - blog
-tags:
-  - awkward silences
-  - essay talks
-  - facebook
-  - fvcproductions
-  - kinect
-  - levels of communication
-  - mobile phone
-  - phone conversations
-  - technology
-  - text messaging
-  - va governor schools
-  - wii
 ---
 
 > The first time I applied to the VA Governor School for Math, Science, and Technology in 2010, I used an essay on "How Texting Has An Impact on Relationships 📵️". I was rejected.

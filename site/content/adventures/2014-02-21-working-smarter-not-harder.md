@@ -1,32 +1,12 @@
 ---
-title: "Working Smarter, Not Harder"
+title: 'Working Smarter, Not Harder'
 date: 2014-02-21
-description: "Work smarter, not harder with these key study strategies."
+description: 'Work smarter, not harder with these key study strategies.'
 banner: https://fvcproductions.files.wordpress.com/2014/03/book.jpg
 aliases:
   - /2014/03/12/working-smarter-not-harder/
-tags:
-    - essays
-    - exams
-    - how to study
-    - not
-    - working harder
-    - notes
-    - papers
-    - procrastination
-    - quizzes
-    - school
-    - work
-    - smart notes
-    - study better
-    - study strategies
-    - study time
-    - studying smart
-    - time management
-    - work routines
-    - working smarter
 categories:
-    - blog
+  - blog
 ---
 
 So there's this book that covers the best study strategies.

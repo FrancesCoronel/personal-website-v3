@@ -1,43 +1,13 @@
 ---
-title: "The Best 50 Insults"
+title: 'The Best 50 Insults'
 date: 2014-03-04
-description: "I first started compiling this long list back in August 2013 and they always made/make me laugh my head clean off."
+description: 'I first started compiling this long list back in August 2013 and they always made/make me laugh my head clean off.'
 banner: https://fvcproductions.files.wordpress.com/2014/03/banners-002.jpg?w=1024&h=436&crop=1
 aliases:
   - /2014/03/04/the-best-50-insults-i-found-online/
   - /blog/2014/03/04/the-best-50-insults-i-found-online/
-tags:
-    - accountability
-    - arsenic
-    - baboon
-    - balls
-    - cockroach
-    - conundrums
-    - cookie
-    - fuck
-    - fucking
-    - fvcproductions
-    - humanity
-    - idiotic
-    - insult
-    - insults
-    - KO
-    - man
-    - mean
-    - oh snap
-    - personality
-    - pity
-    - reason
-    - retarded
-    - sesame street
-    - shame
-    - skiirty
-    - spider
-    - stupid
-    - unarmed
-    - universe
 categories:
-    - blog
+  - blog
 ---
 
 I first started compiling this long list back in August 2013 and they always made/make me laugh my head clean off.

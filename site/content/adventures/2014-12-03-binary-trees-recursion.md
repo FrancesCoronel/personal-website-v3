@@ -1,40 +1,12 @@
 ---
-title: "Binary Trees & Recursion 🌳"
+title: 'Binary Trees & Recursion 🌳'
 date: 2014-12-03
-description: "CSC 251 Study Guide"
+description: 'CSC 251 Study Guide'
 banner: https://fvcproductions.files.wordpress.com/2014/12/binary_fractal_tree_03_30_60_065_075.png?w=800&h=340&crop=1
 aliases:
   - /2014/12/03/binary-trees-recursion/
-tags:
-    - ancestor
-    - balanced
-    - binary
-    - binary search tree
-    - binary tree
-    - children
-    - complete
-    - descendants
-    - factorials
-    - fibonacci
-    - full
-    - inorder
-    - left
-    - left subtree
-    - node
-    - postorder
-    - predecessor
-    - preorder
-    - recursion
-    - recursive
-    - repetitive
-    - right
-    - same height
-    - smaller problem
-    - subtree
-    - towers of hanoi
-    - tree
 categories:
-    - blog
+  - blog
 ---
 
 # CSC251 Study Guide 😓

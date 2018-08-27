@@ -7,10 +7,6 @@ location: Accenture Liquid Studio - Redwood City, CA
 categories:
   - program
   - speaking
-tags:
-  - slomoff
-  - training
-  - liquid studio
 ---
 
 ## Name

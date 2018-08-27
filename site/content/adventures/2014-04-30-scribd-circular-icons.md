@@ -5,9 +5,6 @@ description: Created for my Strikingly website.
 categories:
   - portfolio
   - design
-tags:
-  - icons
-  - scribd
 ---
 
 ![Scribd Circular Icons 1](https://i.imgur.com/eSFOD07.png)

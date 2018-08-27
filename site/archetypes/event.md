@@ -10,6 +10,4 @@ categories:
   - conference
   - speaking
   - talkName
-tags:
-  - tag 1
 ---

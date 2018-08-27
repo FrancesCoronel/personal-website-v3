@@ -10,8 +10,4 @@ aliases:
 categories:
   - portfolio
   - oss
-tags:
-  - github
-  - readme
-  - template
 ---

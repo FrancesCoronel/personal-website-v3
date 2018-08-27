@@ -8,6 +8,4 @@ categories:
   - portfolio
   - research
   - oss
-tags:
-  - github
 ---

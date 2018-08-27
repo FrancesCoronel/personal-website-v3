@@ -8,8 +8,6 @@ aliases:
 categories:
   - portfolio
   - design
-tags:
-  - flavours
 ---
 
 ## These are all the Flavours themes I’ve created for the Mac customizing application, [Flavours](https://www.flavours.interacto.net/).

@@ -6,10 +6,6 @@ banner: https://i.imgur.com/yibzV1C.jpg
 categories:
   - design
   - portfolio
-tags:
-  - logo
-  - strawberry
-  - chocolate
 ---
 
 I used Pages and Keynote to make this initial version of my logo.

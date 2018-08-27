@@ -7,10 +7,6 @@ categories:
   - conference
   - award
   - blog
-tags:
-  - women who code
-  - startup grind
-  - redwood city
 ---
 
 ## Name

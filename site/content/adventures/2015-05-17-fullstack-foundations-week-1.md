@@ -7,14 +7,6 @@ aliases:
   - /2015/05/17/fullstack-foundations-week-1/
 categories:
   - blog
-tags:
-  - bootcamp
-  - coding bootcamp prework
-  - fullstack academy
-  - fullstack foundations
-  - intensive
-  - intro course
-  - prework
 ---
 
 > Fullstack Foundations is the prework course for [Fullstack Academy](https://fullstackacademy.com 'Fullstack Academy').

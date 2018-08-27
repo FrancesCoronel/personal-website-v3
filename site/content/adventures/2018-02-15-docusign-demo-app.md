@@ -6,9 +6,6 @@ banner: https://tctechcrunch2011.files.wordpress.com/2015/05/docusign.png
 categories:
   - portfolio
   - web
-tags:
-  - docusign
-  - developer evangelist
 ---
 
 ## Update - Feb 27
@@ -117,26 +114,24 @@ The code is really simple and looks like the following for this site:
 
 ```javascript
 // initially hide warning message
-$(".warning-message").hide();
+$('.warning-message').hide();
 // open in new tab
 function openInNewTab(url) {
-  var win = window.open(url, "_blank");
+  var win = window.open(url, '_blank');
   win.focus();
 }
 // DocuSign
 function docuSign() {
-  if (!$("#applicantEmail").val() || !$("#applicantName").val()) {
+  if (!$('#applicantEmail').val() || !$('#applicantName').val()) {
     // if no values, show warning message
-    $(".warning-message").show();
+    $('.warning-message').show();
   } else {
     // set PowerForm url
-    var url =
-      "https://demo.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=18bd5af0-3a6f-4d59-9400-82d7be18cc2e";
+    var url = 'https://demo.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=18bd5af0-3a6f-4d59-9400-82d7be18cc2e';
     // set email
-    url += "&Applicant_Email=" + encodeURIComponent($("#applicantEmail").val());
+    url += '&Applicant_Email=' + encodeURIComponent($('#applicantEmail').val());
     // set name
-    url +=
-      "&Applicant_UserName=" + encodeURIComponent($("#applicantName").val());
+    url += '&Applicant_UserName=' + encodeURIComponent($('#applicantName').val());
     // set updated URL
     openInNewTab(url);
   }

@@ -6,9 +6,6 @@ banner: https://i.imgur.com/NlboOhH.jpg
 categories:
   - conference
   - award
-tags:
-  - chrome
-  - google
 ---
 
 ## Name
@@ -31,9 +28,9 @@ October 22nd to 24th, 2017
 
 Women Techmakers - Scholarship Recipient
 
-* PWA Roadshow - October 22, 9 am to 5 pm
-* Women Techmakers Reception - October 22, 6:30 pm to 10 pm
-* Chrome Dev Summit - October 23 to 24
+- PWA Roadshow - October 22, 9 am to 5 pm
+- Women Techmakers Reception - October 22, 6:30 pm to 10 pm
+- Chrome Dev Summit - October 23 to 24
 
 ## About
 

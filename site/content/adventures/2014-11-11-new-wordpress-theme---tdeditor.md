@@ -4,13 +4,9 @@ date: 2014-11-11
 description: Updated my website with the tdEditor theme.
 banner: https://i.imgur.com/sgxJ8Mx.png
 categories:
-- portfolio
-- web
-- design
-tags:
-- tdeditor
-- wordpress
-- wordpress theming
+  - portfolio
+  - web
+  - design
 ---
 
 The tdEditor theme was created by Tasko.

@@ -6,11 +6,6 @@ banner: https://i.imgur.com/kM2NSMi.jpg
 categories:
   - portfolio
   - design
-tags:
-  - branding
-  - graphic design
-  - icon design
-  - moo
 ---
 
 ![Front - Business Card](https://i.imgur.com/sRrebv3.png)

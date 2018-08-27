@@ -7,6 +7,4 @@ link: https://github.com/fvcproductions/hugoma
 categories:
   - portfolio
   - oss
-tags:
-  - github repo
 ---

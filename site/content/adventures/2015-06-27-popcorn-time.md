@@ -6,12 +6,6 @@ banner: https://i.imgur.com/ksS7VWV.jpg
 categories:
   - portfolio
   - design
-tags:
-  - keynote
-  - icon design
-  - sip
-  - image2icon
-  - iconverticons
 ---
 
 Two circular icons made for [Popcorn Time](https://popcorntime.io/), the best way to stream tv shows and movies.

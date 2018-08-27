@@ -6,13 +6,6 @@ categories:
   - portfolio
   - presentation
   - tutorial
-tags:
-  - chrome extensions
-  - sublime text
-  - packages
-  - themes
-  - osx apps
-  - fullstack academy
 ---
 
 This deck served to aid students ramp up their dev environment while studying at Fullstack Academy.
@@ -22,85 +15,85 @@ This deck served to aid students ramp up their dev environment while studying at
 
 <!-- TOC -->
 
-* [1. Making Sublime Sexy](#1-making-sublime-sexy)
-  * [Package Control](#package-control)
-    * [Installing Package Control](#installing-package-control)
-    * [Installing Packages](#installing-packages)
-    * [Installing a Certain Package](#installing-a-certain-package)
-  * [Themes](#themes)
-    * [Installing Themes](#installing-themes)
-  * [Magical Packages](#magical-packages)
-    * [Bracket Highlighter](#bracket-highlighter)
-    * [GitGutter](#gitgutter)
-    * [SublimeLinter](#sublimelinter)
-    * [HTML-CSS-JS Prettify](#html-css-js-prettify)
-    * [Markdown Editing](#markdown-editing)
-    * [AutoFileName](#autofilename)
-    * [Sublime CodeIntel](#sublime-codeintel)
-    * [Sidebar Enhancements](#sidebar-enhancements)
-    * [Codeiviate](#codeiviate)
-    * [Want more?](#want-more)
-* [2. Messing with the Terminal](#2-messing-with-the-terminal)
-  * [Creating Aliases in Terminal/iTerm](#creating-aliases-in-terminaliterm)
-  * [No more sudo.](#no-more-sudo)
-  * [Add subl to open files in Terminal using Sublime Text 3](#add-subl-to-open-files-in-terminal-using-sublime-text-3)
-  * ["Bada\*\*ify" your terminal & shell with oh-my-zsh](#bada\ify-your-terminal--shell-with-oh-my-zsh)
-  * [A Random Cool Bash Profile](#a-random-cool-bash-profile)
-  * [Add syntax highlighting to command line Mongo queries.](#add-syntax-highlighting-to-command-line-mongo-queries)
-* [3. Cool OSX Apps](#3-cool-osx-apps)
-  * [Free](#free)
-    * [Amphetamine](#amphetamine)
-    * [Flux](#flux)
-    * [Dash](#dash)
-    * [Sorty](#sorty)
-    * [Alfred 2](#alfred-2)
-    * [Image2icon](#image2icon)
-    * [QuickCast](#quickcast)
-    * [GitHub’s Student Developer Pack](#githubs-student-developer-pack)
-    * [LiteIcon](#liteicon)
-    * [Sip](#sip)
-    * [Noizio](#noizio)
-    * [Spectacle](#spectacle)
-    * [BetterTouchTool](#bettertouchtool)
-    * [GitHub Desktop](#github-desktop)
-    * [cDock](#cdock)
-    * [Robomongo](#robomongo)
-    * [Octohub](#octohub)
-  * [Paid](#paid)
-    * [Bartender](#bartender)
-    * [CodeRunner](#coderunner)
-    * [Marked 2](#marked-2)
-    * [1Password](#1password)
-    * [BetterSnapTool](#bettersnaptool)
-    * [Candelight](#candelight)
-    * [Healthier](#healthier)
-    * [Flavours 2 Lite](#flavours-2-lite)
-    * [iStat Menus 5](#istat-menus-5)
-    * [CodeKit](#codekit)
-    * [Coda](#coda)
-    * [WebStorm](#webstorm)
-    * [Tower](#tower)
-    * [Paw](#paw)
-* [4. Nifty Chrome Extensions](#4-nifty-chrome-extensions)
-  * [Goodies for GitHub](#goodies-for-github)
-  * [Hova!](#hova)
-  * [JSONView](#jsonview)
-  * [Postman - REST Client](#postman---rest-client)
-  * [Marmoset](#marmoset)
-* [5. Wicked Websites](#5-wicked-websites)
-  * [Code4Startup](#code4startup)
-  * [Waffle.io](#waffleio)
-  * [Hackr.io](#hackrio)
-  * [Typing.io](#typingio)
-* [Funsies](#funsies)
-  * [Attend tech Meetups](#attend-tech-meetups)
-  * [Earn honor and rank up on Codewars.](#earn-honor-and-rank-up-on-codewars)
-  * [Participate in Hackathons](#participate-in-hackathons)
-  * [Become a warrior through CodeCombat](#become-a-warrior-through-codecombat)
-  * [Start writing technical posts or just blogging in general.](#start-writing-technical-posts-or-just-blogging-in-general)
-  * [Work on side projects](#work-on-side-projects)
-* [Other Awesome Resources](#other-awesome-resources)
-* [Credits](#credits)
+- [1. Making Sublime Sexy](#1-making-sublime-sexy)
+  - [Package Control](#package-control)
+    - [Installing Package Control](#installing-package-control)
+    - [Installing Packages](#installing-packages)
+    - [Installing a Certain Package](#installing-a-certain-package)
+  - [Themes](#themes)
+    - [Installing Themes](#installing-themes)
+  - [Magical Packages](#magical-packages)
+    - [Bracket Highlighter](#bracket-highlighter)
+    - [GitGutter](#gitgutter)
+    - [SublimeLinter](#sublimelinter)
+    - [HTML-CSS-JS Prettify](#html-css-js-prettify)
+    - [Markdown Editing](#markdown-editing)
+    - [AutoFileName](#autofilename)
+    - [Sublime CodeIntel](#sublime-codeintel)
+    - [Sidebar Enhancements](#sidebar-enhancements)
+    - [Codeiviate](#codeiviate)
+    - [Want more?](#want-more)
+- [2. Messing with the Terminal](#2-messing-with-the-terminal)
+  - [Creating Aliases in Terminal/iTerm](#creating-aliases-in-terminaliterm)
+  - [No more sudo.](#no-more-sudo)
+  - [Add subl to open files in Terminal using Sublime Text 3](#add-subl-to-open-files-in-terminal-using-sublime-text-3)
+  - ["Bada\*\*ify" your terminal & shell with oh-my-zsh](#%22badaify%22-your-terminal--shell-with-oh-my-zsh)
+  - [A Random Cool Bash Profile](#a-random-cool-bash-profile)
+  - [Add syntax highlighting to command line Mongo queries.](#add-syntax-highlighting-to-command-line-mongo-queries)
+- [3. Cool OSX Apps](#3-cool-osx-apps)
+  - [Free](#free)
+    - [Amphetamine](#amphetamine)
+    - [Flux](#flux)
+    - [Dash](#dash)
+    - [Sorty](#sorty)
+    - [Alfred 2](#alfred-2)
+    - [Image2icon](#image2icon)
+    - [QuickCast](#quickcast)
+    - [GitHub’s Student Developer Pack](#githubs-student-developer-pack)
+    - [LiteIcon](#liteicon)
+    - [Sip](#sip)
+    - [Noizio](#noizio)
+    - [Spectacle](#spectacle)
+    - [BetterTouchTool](#bettertouchtool)
+    - [GitHub Desktop](#github-desktop)
+    - [cDock](#cdock)
+    - [Robomongo](#robomongo)
+    - [Octohub](#octohub)
+  - [Paid](#paid)
+    - [Bartender](#bartender)
+    - [CodeRunner](#coderunner)
+    - [Marked 2](#marked-2)
+    - [1Password](#1password)
+    - [BetterSnapTool](#bettersnaptool)
+    - [Candelight](#candelight)
+    - [Healthier](#healthier)
+    - [Flavours 2 Lite](#flavours-2-lite)
+    - [iStat Menus 5](#istat-menus-5)
+    - [CodeKit](#codekit)
+    - [Coda](#coda)
+    - [WebStorm](#webstorm)
+    - [Tower](#tower)
+    - [Paw](#paw)
+- [4. Nifty Chrome Extensions](#4-nifty-chrome-extensions)
+  - [Goodies for GitHub](#goodies-for-github)
+  - [Hova!](#hova)
+  - [JSONView](#jsonview)
+  - [Postman - REST Client](#postman---rest-client)
+  - [Marmoset](#marmoset)
+- [5. Wicked Websites](#5-wicked-websites)
+  - [Code4Startup](#code4startup)
+  - [Waffle.io](#waffleio)
+  - [Hackr.io](#hackrio)
+  - [Typing.io](#typingio)
+- [Funsies](#funsies)
+  - [Attend tech Meetups](#attend-tech-meetups)
+  - [Earn honor and rank up on Codewars.](#earn-honor-and-rank-up-on-codewars)
+  - [Participate in Hackathons](#participate-in-hackathons)
+  - [Become a warrior through CodeCombat](#become-a-warrior-through-codecombat)
+  - [Start writing technical posts or just blogging in general.](#start-writing-technical-posts-or-just-blogging-in-general)
+  - [Work on side projects](#work-on-side-projects)
+- [Other Awesome Resources](#other-awesome-resources)
+- [Credits](#credits)
 
 <!-- /TOC -->
 
@@ -406,10 +399,10 @@ The ultimate REST client for Mac. $29.99
 
 ### Goodies for GitHub
 
-* GitHub Awesome Autocomplete
-* GitHub Expandinizer
-* GitHub Mate
-* GitHub Hoverscope
+- GitHub Awesome Autocomplete
+- GitHub Expandinizer
+- GitHub Mate
+- GitHub Hoverscope
 
 ### Hova!
 
@@ -484,20 +477,20 @@ There’s plenty of options out there: Ghost, Tumblr, Wordpress, Jekyll, Medium,
 
 ## Other Awesome Resources
 
-* SetUI Icons
-* Quick Look Plugins
-* Homebrew & Cask
-* Thoughtbot Dev Environment Setup
-* PRODUCT HUNT
-* Awesome Lists
-* Have Dropbox?
-  * Sync your ST3 settings with Dropbox!
+- SetUI Icons
+- Quick Look Plugins
+- Homebrew & Cask
+- Thoughtbot Dev Environment Setup
+- PRODUCT HUNT
+- Awesome Lists
+- Have Dropbox?
+  - Sync your ST3 settings with Dropbox!
 
 ## Credits
 
 Special thanks to all the people who made and released these awesome resources for free!
 
-* Content by FVCproductions
-* Presentation template by SlidesCarnival
-* Photographs by Unsplash
-* Contributions by Fullstackers
+- Content by FVCproductions
+- Presentation template by SlidesCarnival
+- Photographs by Unsplash
+- Contributions by Fullstackers

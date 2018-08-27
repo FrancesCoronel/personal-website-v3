@@ -7,19 +7,6 @@ aliases:
   - /2015/01/06/interview-coding-dojo/
 categories:
   - blog
-tags:
-  - coding
-  - coding bootcamps
-  - coding dojo
-  - dev bootcamps
-  - dojo
-  - fvcproductions
-  - interview
-  - mountain view
-  - Speros Misirlakis
-  - summer bootcamp
-  - web development
-  - web development bootcamp
 ---
 
 [![](https://jlau-bucket-1.s3.amazonaws.com/uploads/topic/image/5/coding_dojo.png) Fancy.

@@ -7,20 +7,6 @@ aliases:
   - /2013/07/28/robopocalypse-book-review/
 categories:
   - blog
-tags:
-  - AI
-  - archos
-  - artificial intelligence
-  - fear
-  - Kudos
-  - modern tech
-  - novel
-  - post-apocalyptic
-  - robopocalypse
-  - Robot
-  - robots
-  - siri
-  - Wilson
 ---
 
 > SO I have a mild obsession with this notion of A.I. and so naturally when my English teacher asks me for a book review, I'm gonna give her one relating to some sweet dear honey-eyed robots.

@@ -1,27 +1,12 @@
 ---
-title: "AAAI 2015 Winter Conference - A Month Left"
+title: 'AAAI 2015 Winter Conference - A Month Left'
 date: 2014-12-29
-description: "One month left till the AAAI 2015 Conference."
+description: 'One month left till the AAAI 2015 Conference.'
 banner: https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg
 aliases:
   - /2014/12/29/aaai-2015-month-left/
-tags:
-    - aaai
-    - aaai 2015
-    - AI
-    - ai conference
-    - artificial intelligence
-    - austin
-    - costs
-    - fvcproductions
-    - machine learning
-    - month left
-    - pricey
-    - robotics
-    - texas
-    - winter conference
 categories:
-    - blog
+  - blog
 ---
 
 # Holy crap, I just got my plane ticket for this.
@@ -91,10 +76,6 @@ I mean, I just know the basics as of right now...
 
 Any-whoozies, should be fun overall. I'll be rooming alone, unfortunately, since my roommate request didn't end successfully but hopefully I'll meet some friendly fellow volunteers!
 
-Cheers,\
-[fvcproductions](https://twitter.com/fvcproductions 'Twitter - FVCproductions')
-
-[![AAAI-2015
-Banner](https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg)](https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg)
+[![AAAI-2015 Banner](https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg)](https://fvcproductions.files.wordpress.com/2014/12/aaai-2015-001.jpg)
 
 _\^ I made a banner for the conference out of sheer excitement!_

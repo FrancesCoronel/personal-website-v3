@@ -9,10 +9,6 @@ categories:
   - speaking
   - typescript101
   - conference
-tags:
-  - women who code
-  - typescript
-  - connect 2018
 ---
 
 I was selected to be a speaker at CONNECT 2018, which is an annual conference organized by Women Who Code that brings together speakers from around the world to share their stories and expertise about technology.

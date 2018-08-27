@@ -6,9 +6,6 @@ banner: https://i.imgur.com/vU0YtLB.png
 categories:
   - portfolio
   - design
-tags:
-  - geektool
-  - deviantart
 ---
 
 Here, I used Geektool and DeviantArt icons to bring this to life.

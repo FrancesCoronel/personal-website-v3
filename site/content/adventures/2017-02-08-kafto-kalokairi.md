@@ -6,8 +6,6 @@ banner: https://i.imgur.com/eLZ5yMd.png
 categories:
   - portfolio
   - design
-tags:
-  - geektool
 ---
 
 I used Geektool widgets and custom icons from different websites to bring this to life.

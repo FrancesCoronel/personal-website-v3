@@ -1,23 +1,12 @@
 ---
-title: "50 Lines For 50 Crimes"
+title: '50 Lines For 50 Crimes'
 date: 2014-12-20
-description: "A poem I wrote for a good friend."
+description: 'A poem I wrote for a good friend.'
 banner: https://fvcproductions.files.wordpress.com/2014/06/52c833ace4b0df7dc79c740a.png?w=800&h=340&crop=1
 aliases:
   - /2014/12/20/50-lines-for-50-crimes/
 categories:
   - blog
-tags:
-  - 50 crimes
-  - 50 lines
-  - 50 lines for 50 crimes
-  - a poem for a friend
-  - friendship
-  - poem
-  - poetry
-  - puppy love
-  - riddle
-  - romance
 ---
 
 > This is a poem I wrote for a friend of mine as a sort of reminiscent(?) act for her.

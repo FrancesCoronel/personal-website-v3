@@ -9,24 +9,6 @@ aliases:
 categories:
   - blog
   - press
-tags:
-  - acceptance
-  - bootcamp
-  - bootcamp hawaii
-  - coding
-  - coding bootcamps
-  - decision
-  - development
-  - devleague
-  - fvcproductions
-  - hawaii
-  - interview
-  - jason sewell
-  - learning
-  - Programming
-  - russell cheng
-  - web development
-  - web development hawaii
 ---
 
 ![DevLeague](https://fvcproductions.files.wordpress.com/2015/01/devleague2.jpg) Mahalo, indeed.

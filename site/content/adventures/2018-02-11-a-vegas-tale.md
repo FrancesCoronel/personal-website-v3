@@ -6,10 +6,6 @@ banner: https://i.imgur.com/UtTdh6q.jpg
 categories:
   - portfolio
   - book
-tags:
-  - vegetarian
-  - vegan
-  - alpaca
 ---
 
 Way back in the day (not even sure how long ago), I decided to apply for a scholarship competition.

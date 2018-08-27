@@ -10,9 +10,6 @@ categories:
   - design
   - research
   - presentation
-tags:
-  - mamabear
-  - cornell tech
 ---
 
 Worked with 4 other team members to create launch plan and presentation for a product. Presented to professors for Business for Non-Business class at Cornell Tech (NBAY 5500).
@@ -41,8 +38,8 @@ I helped create visual assets, design the presentation, formatted launch plan, a
 
 ## Tools
 
-* Quip
-* Google Slides
+- Quip
+- Google Slides
 
 ## Graphics
 

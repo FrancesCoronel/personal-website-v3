@@ -6,11 +6,6 @@ banner: https://i.imgur.com/rkWJYwr.jpg
 categories:
   - portfolio
   - design
-tags:
-  - keynote
-  - icon design
-  - image2icon
-  - iconverticons
 ---
 
 [Alchemize](https://alchemizeapp.com/) lets you easily pretty-print or minify your source code.

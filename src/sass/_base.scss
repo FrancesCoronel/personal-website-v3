@@ -6,13 +6,6 @@ body {
   }
 }
 
-button,
-input,
-select,
-textarea {
-  font-family: inherit !important;
-}
-
 a {
   color: $links;
   &.navbar-item {
@@ -51,6 +44,20 @@ form {
   }
 }
 
+button,
+input,
+select,
+textarea {
+  font-size: initial !important;
+}
+
+button,
+input[type='button'],
+input[type='reset'],
+input[type='submit'] {
+  @extend %overflow-text;
+}
+
 table {
   text-align: center;
   width: 100%;
@@ -62,11 +69,4 @@ table {
 
 hr {
   margin: 1rem 0;
-}
-
-button,
-input[type='button'],
-input[type='reset'],
-input[type='submit'] {
-  @extend %overflow-text;
 }

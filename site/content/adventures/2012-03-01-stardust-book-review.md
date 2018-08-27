@@ -9,19 +9,6 @@ categories:
   - blog
   - award
   - press
-tags:
-  - adult perspective
-  - fairy
-  - fantasy
-  - fantasy novels
-  - neil gaiman
-  - stardust
-  - tristan
-  - unforeseen destiny
-  - victoria
-  - videogames
-  - witchcraft
-  - yvaine
 ---
 
 ## Neil Gaiman's _Stardust_

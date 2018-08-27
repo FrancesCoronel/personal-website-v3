@@ -7,18 +7,6 @@ aliases:
   - /2015/02/20/brief-thoughts-best-bootcamps-switchup/
 categories:
   - blog
-tags:
-  - best bootcamps
-  - bootcamp
-  - bootcamps
-  - brief thoughts
-  - coding
-  - coding bootcamps
-  - inklings
-  - programming bootcamps
-  - switch up
-  - switchup
-  - tech cocktail
 ---
 
 > Full report can be found [here](https://www.switchup.org/research/best-coding-bootcamps).

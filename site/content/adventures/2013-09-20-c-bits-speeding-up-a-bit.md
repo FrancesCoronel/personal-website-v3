@@ -8,19 +8,6 @@ aliases:
   - /blog/2013/09/20/c-bits-speeding-up-a-bit/
 categories:
   - blog
-tags:
-  - c++
-  - celsius to fahrenheit
-  - computer
-  - digital hieroglyphics
-  - Fahrenheit
-  - gaming
-  - Hexadecimal
-  - hexadecimal numbers
-  - integer
-  - Keyboard instrument
-  - Memory address
-  - Pointer
 ---
 
 ## Hello. Hello. Hello

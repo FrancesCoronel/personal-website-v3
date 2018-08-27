@@ -1,42 +1,12 @@
 ---
-title: "Interview with Hack Reactor"
+title: 'Interview with Hack Reactor'
 date: 2014-12-29
-description: "Where I rant and share questions my experience from my interview with Hack Reactor (sort of)."
+description: 'Where I rant and share questions my experience from my interview with Hack Reactor (sort of).'
 banner: https://fvcproductions.files.wordpress.com/2015/01/screenshot-2015-01-05-20-16-31.png?w=1024&h=435&crop=1
 aliases:
   - /2015/01/05/interview-hack-reactor/
 categories:
-    - blog
-tags:
-    - bow
-    - bummer
-    - callbacks
-    - christopher t
-    - closures
-    - cohort
-    - cs background
-    - curiosity
-    - endevr
-    - fvcproductions
-    - hack reactor
-    - hacker in residence
-    - initial interview
-    - interview
-    - katherine gilhooley
-    - key
-    - logistics
-    - mvp
-    - numbers
-    - personal cohort experience
-    - pertaining to hack reactor
-    - Programming
-    - questions
-    - rejection
-    - silicon valley
-    - student experience
-    - surfing
-    - switch
-    - waves of tech
+  - blog
 ---
 
 > Where I rant and share questions my experience from my interview with [Hack Reactor](https://hackreactor.com 'Hack Reactor') (sort of).

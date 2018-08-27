@@ -6,11 +6,6 @@ banner: https://i.imgur.com/4IAtyVW.jpg
 categories:
   - portfolio
   - design
-tags:
-  - fullstack academy
-  - nyc
-  - banners
-  - blog posts
 ---
 
 Going into [**Fullstack Academy**](https://fullstackacademy.com/), a coding bootcamp in NYC, I knew I would be blogging extensively about my experience.

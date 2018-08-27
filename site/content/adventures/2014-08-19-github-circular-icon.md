@@ -5,9 +5,6 @@ description: Created for my Strikingly website.
 categories:
   - portfolio
   - design
-tags:
-  - icons
-  - github
 ---
 
 Based on the Dribble project "Rings" by Tanya.

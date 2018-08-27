@@ -10,9 +10,6 @@ categories:
   - conference
   - speaking
   - typescript101
-tags:
-  - we rise tech
-  - women who code
 ---
 
 ## Name

@@ -6,9 +6,6 @@ banner: https://fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg?w=800&h
 categories:
   - blog
   - award
-tags:
-  - casual
-  - poetry
 ---
 
 ## This is a poem wrote back in the day.

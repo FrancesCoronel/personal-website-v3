@@ -11,28 +11,6 @@ categories:
   - speaking
   - blog
   - hourofcode
-tags:
-  - bethel high school
-  - code.org
-  - hour of code
-  - john b dey
-  - sedgefield
-  - tallwood
-  - HourOfCode
-  - bethel high school
-  - code
-  - code.org
-  - coding
-  - computer science
-  - computer science education
-  - cs
-  - featured
-  - hour
-  - hour of code
-  - hour of code code.org
-  - john b dey elementary
-  - Programming
-  - sedgefield elementary
 ---
 
 # So this week, I signed up as a `technical volunteer` for the [**Hour of Code**](https://hourofcode.com/us).

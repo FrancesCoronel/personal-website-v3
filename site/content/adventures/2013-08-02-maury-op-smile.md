@@ -5,12 +5,6 @@ date: 2013-08-02
 banner: https://fvcproductions.files.wordpress.com/2015/11/img_0848.jpg
 categories:
   - volunteering
-tags:
-  - high school
-  - high school volunteering
-  - Maury High School
-  - op smile
-  - operation smile
 ---
 
 ## Name
@@ -35,29 +29,29 @@ Member, Vice President, Co-President
 
 ### 2012 to 2013
 
-* Attended the annual **International Student Leadership Conference** in Norfolk, VA in August 2013
-* Co-President
-  * Helped fund-raise $1655, an 85% increase from 2009
+- Attended the annual **International Student Leadership Conference** in Norfolk, VA in August 2013
+- Co-President
+  - Helped fund-raise $1655, an 85% increase from 2009
 
 ### 2011 to 2012
 
-* Co-President
-  * Helped fund-raise $1500
-* Volunteered for an Operation Smile medical mission in Hanoi, Vietnam in June 2012
-* Attended **Mission Training** for an Operation Smile Medical Mission in Norfolk, VA in January 2012
-  * Selected to train alongside 40+ other students from 250+ applicants
-  * Selected to train students the basic concepts of iMovie in a 1-hour talk
+- Co-President
+  - Helped fund-raise $1500
+- Volunteered for an Operation Smile medical mission in Hanoi, Vietnam in June 2012
+- Attended **Mission Training** for an Operation Smile Medical Mission in Norfolk, VA in January 2012
+  - Selected to train alongside 40+ other students from 250+ applicants
+  - Selected to train students the basic concepts of iMovie in a 1-hour talk
 
 ### 2010 to 2011
 
-* Vice-president since 2010
-  * Helped fund-raise $500
-* Attended the annual **International Student Leadership Conference** in Beijing, China in August 2011
+- Vice-president since 2010
+  - Helped fund-raise $500
+- Attended the annual **International Student Leadership Conference** in Beijing, China in August 2011
 
 ### 2009 to 2010
 
-* High school club member
-  * Helped fund-raise $240
+- High school club member
+  - Helped fund-raise $240
 
 ## About
 

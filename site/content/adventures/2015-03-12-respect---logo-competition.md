@@ -6,10 +6,6 @@ banner: https://i.imgur.com/Jsh2KrJ.jpg
 categories:
   - portfolio
   - design
-tags:
-  - branding
-  - respect conference
-  - diversity
 ---
 
 RESPECT 2015 was the first international meeting of the [IEEE](https://www.computer.org/) [Special Technical Community on Broadening Participation](https://stcbp.org/) with technical co-sponsorship by the [IEEE Computer Society](https://www.computer.org/). STC BP and RESPECT are dedicated to research and action to engage everyone in computing.

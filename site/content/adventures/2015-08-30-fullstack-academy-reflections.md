@@ -8,29 +8,6 @@ aliases:
   - /blog/2015/08/30/fullstack-academy-reflections/
 categories:
   - blog
-tags:
-  - apple
-  - capstone project
-  - coding bootcamps
-  - costs
-  - demo day
-  - designlab
-  - experience
-  - featured
-  - friends and family
-  - fullstack
-  - fullstack academy
-  - hiredot
-  - interview
-  - journey
-  - jubilant
-  - last days
-  - learning team
-  - mint
-  - no regrets
-  - projects
-  - reflections
-  - time
 ---
 
 # So during my last few days of Fullstack, I was feeling a little something like this...

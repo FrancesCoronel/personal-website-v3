@@ -12,16 +12,19 @@ $family-primary: BlinkMacSystemFont,
 "Helvetica",
 "Arial",
 sans-serif;
+$family-sans-serif: $family-primary,
+sans-serif;
 $font-size: 30px;
 $font-size-mobile: 15px;
 // Colors
 $primary: #253137;
-$secondary: rgb(88, 88, 88);
+$secondary: #585858;
 $border: #c9c9c9;
 $button-border: #dbdbdb;
 $is-danger: #8e001d;
 $light-gray: #eeeeee;
 $links: #1c52a6;
+$link: $links;
 // Breakpoints
 $mobile: 500px;
 $laptop: 1024px;

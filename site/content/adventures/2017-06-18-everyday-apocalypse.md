@@ -5,12 +5,6 @@ date: 2017-06-18
 banner: https://i.imgur.com/8Qykhfo.jpg
 categories:
   - blog
-tags:
-  - zombie
-  - apocalypse
-  - siegius
-  - romance
-  - short story
 ---
 
 ## Your Everyday Apocalypse

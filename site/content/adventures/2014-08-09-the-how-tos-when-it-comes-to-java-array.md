@@ -1,22 +1,12 @@
 ---
-title: "The How-Tos When It Comes to Defining, Assigning, and Printing a Java Array 🔃"
+title: 'The How-Tos When It Comes to Defining, Assigning, and Printing a Java Array 🔃'
 date: 2014-08-09
-description: "How to define, assign, and print an array using Java."
+description: 'How to define, assign, and print an array using Java.'
 banner: https://fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
 aliases:
   - /2014/08/09/the-how-tos-when-it-comes-to-java-array/
 categories:
   - blog
-tags:
-  - arrays
-  - assigning
-  - character
-  - defining
-  - digital hieroglyphics
-  - float
-  - java
-  - list
-  - printing
 ---
 
 1.  Defining an array (character type) of a size 3 called `array`

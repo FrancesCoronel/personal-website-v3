@@ -9,10 +9,6 @@ aliases:
 categories:
   - portfolio
   - tutorial
-tags:
-  - linkedin
-  - profiles
-  - chrome extensions
 ---
 
 ## The Problem

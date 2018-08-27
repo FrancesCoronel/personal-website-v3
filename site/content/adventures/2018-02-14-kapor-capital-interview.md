@@ -5,10 +5,6 @@ description: How an MS in CS student with no prior VC experience got an intervie
 banner: https://i.imgur.com/MXLhBqa.png
 categories:
   - blog
-tags:
-  - kapor capital
-  - venture capital
-  - interview
 ---
 
 ## Or how an MS in CS student with no prior VC experience got an interview with one of the most well-recognized VC firms in Silicon Valley.
@@ -27,31 +23,32 @@ While I won't share every feeling I had from my interview day, I do want to give
 
 <!-- TOC depthFrom:3 depthTo:6 -->
 
-- [Position](#position)
-- [Process](#process)
-- [Onsite Interview Schedule](#onsite-interview-schedule)
-- [Asking Questions](#asking-questions)
-- [Answering Questions](#answering-questions)
-  - [What makes a good VC?](#what-makes-a-good-vc)
-  - [Do you feel the intense pressure to succeed?](#do-you-feel-the-intense-pressure-to-succeed)
-  - [Why you?](#why-you)
-  - [Break down the investment stages.](#break-down-the-investment-stages)
-  - [How do you keep up with the latest news? Is there a blog in particular?](#how-do-you-keep-up-with-the-latest-news-is-there-a-blog-in-particular)
-  - [Why ed-tech?](#why-ed-tech)
-  - [What do you believe this role involves?](#what-do-you-believe-this-role-involves)
-  - [What do you believe makes a good investment?](#what-do-you-believe-makes-a-good-investment)
-  - [Which of our portfolio companies do you like/dislike?](#which-of-our-portfolio-companies-do-you-likedislike)
-- [Essay Responses](#essay-responses)
-  - [Why do you want to intern at a social impact venture capital firm such as Kapor Capital?](#why-do-you-want-to-intern-at-a-social-impact-venture-capital-firm-such-as-kapor-capital)
-  - [What experience do you have volunteering, interning, or working to close gaps of access, opportunity or outcomes for low-income African American, Latinx, Pacific Islander, or Native American communities in the United States?](#what-experience-do-you-have-volunteering-interning-or-working-to-close-gaps-of-access-opportunity-or-outcomes-for-low-income-african-american-latinx-pacific-islander-or-native-american-communities-in-the-united-states)
-  - [Which of our investment sectors are you most interested in working and why? (Sectors: Edtech, FinTech, Digital Health/Med Device, People Operations Tech, or Justice). Please only choose 1 or 2 of the above sectors.](#which-of-our-investment-sectors-are-you-most-interested-in-working-and-why-sectors-edtech-fintech-digital-healthmed-device-people-operations-tech-or-justice-please-only-choose-1-or-2-of-the-above-sectors)
-  - [Are you currently enrolled in a MBA, MS, JD, PhD or have received a letter of acceptance from to start graduate studies in Fall 2017? (You do not have to be enrolled in a graduate program to apply).](#are-you-currently-enrolled-in-a-mba-ms-jd-phd-or-have-received-a-letter-of-acceptance-from-to-start-graduate-studies-in-fall-2017-you-do-not-have-to-be-enrolled-in-a-graduate-program-to-apply)
-  - [Why do you want a job in Venture Capital?](#why-do-you-want-a-job-in-venture-capital)
-- [Notes](#notes)
-  - [Relating to Interviewers](#relating-to-interviewers)
-    - [Brian/Carolina](#briancarolina)
-    - [Mr. Kapor](#mr-kapor)
-    - [Ellen Pao, Mrs. Kapor](#ellen-pao-mrs-kapor)
+- [Or how an MS in CS student with no prior VC experience got an interview with one of the most well-recognized VC firms in Silicon Valley.](#or-how-an-ms-in-cs-student-with-no-prior-vc-experience-got-an-interview-with-one-of-the-most-well-recognized-vc-firms-in-silicon-valley)
+  - [Position](#position)
+  - [Process](#process)
+  - [Onsite Interview Schedule](#onsite-interview-schedule)
+  - [Asking Questions](#asking-questions)
+  - [Answering Questions](#answering-questions)
+    - [What makes a good VC?](#what-makes-a-good-vc)
+    - [Do you feel the intense pressure to succeed?](#do-you-feel-the-intense-pressure-to-succeed)
+    - [Why you?](#why-you)
+    - [Break down the investment stages.](#break-down-the-investment-stages)
+    - [How do you keep up with the latest news? Is there a blog in particular?](#how-do-you-keep-up-with-the-latest-news-is-there-a-blog-in-particular)
+    - [Why ed-tech?](#why-ed-tech)
+    - [What do you believe this role involves?](#what-do-you-believe-this-role-involves)
+    - [What do you believe makes a good investment?](#what-do-you-believe-makes-a-good-investment)
+    - [Which of our portfolio companies do you like/dislike?](#which-of-our-portfolio-companies-do-you-likedislike)
+  - [Essay Responses](#essay-responses)
+    - [Why do you want to intern at a social impact venture capital firm such as Kapor Capital?](#why-do-you-want-to-intern-at-a-social-impact-venture-capital-firm-such-as-kapor-capital)
+    - [What experience do you have volunteering, interning, or working to close gaps of access, opportunity or outcomes for low-income African American, Latinx, Pacific Islander, or Native American communities in the United States?](#what-experience-do-you-have-volunteering-interning-or-working-to-close-gaps-of-access-opportunity-or-outcomes-for-low-income-african-american-latinx-pacific-islander-or-native-american-communities-in-the-united-states)
+    - [Which of our investment sectors are you most interested in working and why? (Sectors: Edtech, FinTech, Digital Health/Med Device, People Operations Tech, or Justice). Please only choose 1 or 2 of the above sectors.](#which-of-our-investment-sectors-are-you-most-interested-in-working-and-why-sectors-edtech-fintech-digital-healthmed-device-people-operations-tech-or-justice-please-only-choose-1-or-2-of-the-above-sectors)
+    - [Are you currently enrolled in a MBA, MS, JD, PhD or have received a letter of acceptance from to start graduate studies in Fall 2017? (You do not have to be enrolled in a graduate program to apply).](#are-you-currently-enrolled-in-a-mba-ms-jd-phd-or-have-received-a-letter-of-acceptance-from-to-start-graduate-studies-in-fall-2017-you-do-not-have-to-be-enrolled-in-a-graduate-program-to-apply)
+    - [Why do you want a job in Venture Capital?](#why-do-you-want-a-job-in-venture-capital)
+  - [Notes](#notes)
+    - [Relating to Interviewers](#relating-to-interviewers)
+      - [Brian/Carolina](#briancarolina)
+      - [Mr. Kapor](#mr-kapor)
+      - [Ellen Pao, Mrs. Kapor](#ellen-pao-mrs-kapor)
 
 <!-- /TOC -->
 
@@ -63,16 +60,16 @@ This is just to provide some context as to what Kapor was looking for in the fir
 
 The qualifiers then that we can take from this posting are the following.
 
-* [x] Currently pursuing an MBA, MS, JD, PhD in science, business or other disciplines. Students about to commence their graduate studies or who are in their 1st year of graduate study would benefit the most from this internship. We are also open to non-traditional candidates that can demonstrate a genuine interest in venture capital.
-* [x] Desire to pursue a career in venture capital.
-* [x] Demonstrated commitment to closing gaps of access, opportunity or outcomes for low-income communities of underrepresented ethnic and racial minorities.
-* [x] At least 2 years of full-time, post-undergraduate work experience.
-* [x] High level of confidentiality and strong work ethic.
-* [x] Superior written and oral communication skills. Ability to communicate effectively to all levels of the organization and to the larger technology community.
-* [x] Strong knowledge of Excel and Google Spreadsheets.
-* [x] Analytical ability. Must be able to analyze data effectively, interpret results, and extract insights.
-* [x] Candidates with knowledge of the world of technology startups as a founder, early stage employee, or other full-time role.
-* [x] Domain experience or interest in the Digital Health/Med Device, Education Technology, - [x] Financial Technology or People Operations Technology sectors.
+- [x] Currently pursuing an MBA, MS, JD, PhD in science, business or other disciplines. Students about to commence their graduate studies or who are in their 1st year of graduate study would benefit the most from this internship. We are also open to non-traditional candidates that can demonstrate a genuine interest in venture capital.
+- [x] Desire to pursue a career in venture capital.
+- [x] Demonstrated commitment to closing gaps of access, opportunity or outcomes for low-income communities of underrepresented ethnic and racial minorities.
+- [x] At least 2 years of full-time, post-undergraduate work experience.
+- [x] High level of confidentiality and strong work ethic.
+- [x] Superior written and oral communication skills. Ability to communicate effectively to all levels of the organization and to the larger technology community.
+- [x] Strong knowledge of Excel and Google Spreadsheets.
+- [x] Analytical ability. Must be able to analyze data effectively, interpret results, and extract insights.
+- [x] Candidates with knowledge of the world of technology startups as a founder, early stage employee, or other full-time role.
+- [x] Domain experience or interest in the Digital Health/Med Device, Education Technology, - [x] Financial Technology or People Operations Technology sectors.
 
 That whole spiel about _We are also open to non-traditional candidates that can demonstrate a genuine interest in venture capital._? Yeah - that's where I fit in. 😊
 
@@ -99,17 +96,17 @@ The nice part about the onsite is that all my travel needs were reimbursed and t
 
 > Wednesday - May 10th, 2017
 
-* **11:15 am** - Arrive at Office
-* **11:30 pm to 12:00pm** - Interview with [Ellen Pao](https://www.kaporcapital.com/who-we-are/ellen-pao/)
-  * You will be joined by another candidate for this part of the interview.
-* **12:00 pm to 1:00 pm** - Lunch with the Kapor Capital Team Members
-  * [Anthony](https://www.linkedin.com/in/anthony-heckman-6790a2b3), [Carolina](https://www.kaporcapital.com/who-we-are/carolina-huaranca/), [Jorge](https://www.kaporcapital.com/who-we-are/jorge-mendez/), [Mandela](https://www.linkedin.com/in/mandelash), and [Ulili](https://www.kaporcapital.com/who-we-are/uriridiakoghene-onovakpuri/)
-* **1:30 pm to 2:00pm** - Meeting with [Carolina](https://www.kaporcapital.com/who-we-are/carolina-huaranca/)
-* **2:00 pm to 2:30pm** - Meeting with [Jorge](https://www.kaporcapital.com/who-we-are/jorge-mendez/)
-* **2:30 pm to 4:45pm** - Break
-* **4:45 pm** - Return to Kapor Center Offices
-* **5:00pm to 5:30 pm** - Interview with [Freada Kapor Klein](https://www.kaporcapital.com/who-we-are/freada-kapor-klein/) and [Brian Dixon](https://www.kaporcapital.com/who-we-are/brian-dixon/)
-* **5:30 pm to 6:00pm** - Interview with [Mitch Kapor](https://www.kaporcapital.com/who-we-are/mitchell-kapor/)
+- **11:15 am** - Arrive at Office
+- **11:30 pm to 12:00pm** - Interview with [Ellen Pao](https://www.kaporcapital.com/who-we-are/ellen-pao/)
+  - You will be joined by another candidate for this part of the interview.
+- **12:00 pm to 1:00 pm** - Lunch with the Kapor Capital Team Members
+  - [Anthony](https://www.linkedin.com/in/anthony-heckman-6790a2b3), [Carolina](https://www.kaporcapital.com/who-we-are/carolina-huaranca/), [Jorge](https://www.kaporcapital.com/who-we-are/jorge-mendez/), [Mandela](https://www.linkedin.com/in/mandelash), and [Ulili](https://www.kaporcapital.com/who-we-are/uriridiakoghene-onovakpuri/)
+- **1:30 pm to 2:00pm** - Meeting with [Carolina](https://www.kaporcapital.com/who-we-are/carolina-huaranca/)
+- **2:00 pm to 2:30pm** - Meeting with [Jorge](https://www.kaporcapital.com/who-we-are/jorge-mendez/)
+- **2:30 pm to 4:45pm** - Break
+- **4:45 pm** - Return to Kapor Center Offices
+- **5:00pm to 5:30 pm** - Interview with [Freada Kapor Klein](https://www.kaporcapital.com/who-we-are/freada-kapor-klein/) and [Brian Dixon](https://www.kaporcapital.com/who-we-are/brian-dixon/)
+- **5:30 pm to 6:00pm** - Interview with [Mitch Kapor](https://www.kaporcapital.com/who-we-are/mitchell-kapor/)
 
 To prepare for the onsite interview, I reached out to several past summer associates via LinkedIn (at least 6 I believe) but only 3 replied - Madeline (resources), Adrian (branding), and Sidney.
 
@@ -121,15 +118,15 @@ _I think what you'll get out of it will tend to be very personal but I wanted to
 
 Below are the questions I researched to ask my interviewers ahead of time. Remember that for the most part, you can ask the same question to multiple interviewers and get very useful/different opinions.
 
-* As a VC, what dimension of a company are you disproportionately willing to take risks on?
-* When you reflect back on your career, is there anything important you would have done differently that other young people who are aspiring into venture capital could benefit from hearing your wisdom and experience about?
-* What are the most important decisions you made along the way in your career that you think most greatly contributed to your current success?
-* do you see yourself in vc for the long-run or what are your long-term plans
-* What are some deals you/your firm passed on, which eventually went on to become very successful start-ups? Are there any general lessons that can be drawn from those misses?
-* If you had $500,000 to invest in a company, which one which you choose and why?
-* What lessons can be learned from the Juicero debacle?
-* Ask about their careers and how they ended up in VC. Venture capital is often "the last job someone will ever have." So they tend to be pretty reflective on the path that brought them there.
-* As a minority, have you ever felt the intense pressure to succeed?
+- As a VC, what dimension of a company are you disproportionately willing to take risks on?
+- When you reflect back on your career, is there anything important you would have done differently that other young people who are aspiring into venture capital could benefit from hearing your wisdom and experience about?
+- What are the most important decisions you made along the way in your career that you think most greatly contributed to your current success?
+- do you see yourself in vc for the long-run or what are your long-term plans
+- What are some deals you/your firm passed on, which eventually went on to become very successful start-ups? Are there any general lessons that can be drawn from those misses?
+- If you had $500,000 to invest in a company, which one which you choose and why?
+- What lessons can be learned from the Juicero debacle?
+- Ask about their careers and how they ended up in VC. Venture capital is often "the last job someone will ever have." So they tend to be pretty reflective on the path that brought them there.
+- As a minority, have you ever felt the intense pressure to succeed?
 
 ---
 
@@ -187,23 +184,23 @@ If we don’t get women and people of color at the table — real technologists 
 
 #### What do you believe this role involves?
 
-* Find great companies
-  * Find great companies by being out in the community building strong relationships.
-* Make the right decisions about investments
-  * Have good judgment and strong insights about opportunities, and be able to communicate this and push through the inertia of a firm.
-* Close those investments over other firms
-  * Represent the culture and brand of the firm, and leave a good impression.
-* Help their companies grow
-  * Offer help to portfolio companies when you can be useful, but respect that the entrepreneur-firm relationship is owned by the Partner.
-* Help their companies exit when appropriate
-  * Stay the hell out of the way with potential exits, unless asked.
+- Find great companies
+  - Find great companies by being out in the community building strong relationships.
+- Make the right decisions about investments
+  - Have good judgment and strong insights about opportunities, and be able to communicate this and push through the inertia of a firm.
+- Close those investments over other firms
+  - Represent the culture and brand of the firm, and leave a good impression.
+- Help their companies grow
+  - Offer help to portfolio companies when you can be useful, but respect that the entrepreneur-firm relationship is owned by the Partner.
+- Help their companies exit when appropriate
+  - Stay the hell out of the way with potential exits, unless asked.
 
 #### What do you believe makes a good investment?
 
-* is the product in market yet?
-* is there a technical founder on the team?
-* who is your customer and what problem does it solve?
-* what kind of traction do you have?
+- is the product in market yet?
+- is there a technical founder on the team?
+- who is your customer and what problem does it solve?
+- what kind of traction do you have?
 
 We are focused on seed stage, IT startups which serve the domestic U.S. market and close gaps of access, opportunity or outcome for low-income communities and/or communities of color.
 
@@ -215,24 +212,24 @@ So I looked into most of them and made a short list of ones I liked/didn't like 
 
 > Like
 
-* Make School
-* piazza
-* Accredible (automated certificate process)
-* Brilliant (math and science advanced topics)
-* ClassDojo (reminded me of this glass company (Corning) who envisioned futuristic classroom) - A Day Made of Glass
-* noredink (grammar)
-* Learners Guild (Shereed Bishay)
-* Magoosh
-* CODEHS
-* binti
-* bitly
+- Make School
+- piazza
+- Accredible (automated certificate process)
+- Brilliant (math and science advanced topics)
+- ClassDojo (reminded me of this glass company (Corning) who envisioned futuristic classroom) - A Day Made of Glass
+- noredink (grammar)
+- Learners Guild (Shereed Bishay)
+- Magoosh
+- CODEHS
+- binti
+- bitly
 
 > Don't Like
 
-* interviewing.io (Aline Lerner is great but hiring factors still off)
-* wepow (no clear differentiation)
-* codespark (product still iffy)
-* writelab (Grammarly?)
+- interviewing.io (Aline Lerner is great but hiring factors still off)
+- wepow (no clear differentiation)
+- codespark (product still iffy)
+- writelab (Grammarly?)
 
 ---
 
@@ -344,13 +341,13 @@ Kapor Capital specifically... I see myself in Brian, who's a partner, and I see 
 
 ##### Mr. Kapor
 
-* former transcendental meditation teacher?
-* Lotus 1-2-3 spreadsheet, the "killer application" which made the personal computer ubiquitous in the business world
-* EFF defends civil liberties in the digital world and works to ensure that rights and freedoms are enhanced and protected as our use of technology grows.
-* In a funny way, having a childhood in which I was a social outcast was a big success factor. I skipped second grade and was two years younger than my classmates and was always excluded from social groups. It gave me an outsider’s perspective. I was never very concerned with approval from my peers and was willing to entertain crazy ideas (like insisting in 1978 everyone in business needed a personal computer or in 1990 that everyone in the world would hook up to the Internet). Being an outsider of course isn’t sufficient but it shaped me and I used it.
-* I'm an outsider too as a Peruvian-American female who loves developing but also has interests outside of that like PM and VC.
+- former transcendental meditation teacher?
+- Lotus 1-2-3 spreadsheet, the "killer application" which made the personal computer ubiquitous in the business world
+- EFF defends civil liberties in the digital world and works to ensure that rights and freedoms are enhanced and protected as our use of technology grows.
+- In a funny way, having a childhood in which I was a social outcast was a big success factor. I skipped second grade and was two years younger than my classmates and was always excluded from social groups. It gave me an outsider’s perspective. I was never very concerned with approval from my peers and was willing to entertain crazy ideas (like insisting in 1978 everyone in business needed a personal computer or in 1990 that everyone in the world would hook up to the Internet). Being an outsider of course isn’t sufficient but it shaped me and I used it.
+- I'm an outsider too as a Peruvian-American female who loves developing but also has interests outside of that like PM and VC.
 
 ##### Ellen Pao, Mrs. Kapor
 
-* [Project Include](https://medium.com/@mitch_freada/dear-investors-so-you-want-to-take-diversity-seriously-part-1-777972b5450c)
-  * amazing initiative
+- [Project Include](https://medium.com/@mitch_freada/dear-investors-so-you-want-to-take-diversity-seriously-part-1-777972b5450c)
+  - amazing initiative

@@ -7,10 +7,6 @@ categories:
   - portfolio
   - oss
   - design
-tags:
-  - dotfiles
-  - github
-  - material design
 ---
 
 A minimal Material Design inspired theme. Primary color is the lovely Oxford Blue.

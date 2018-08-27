@@ -6,8 +6,6 @@ banner: https://i.imgur.com/WTcbmKX.png
 categories:
   - press
   - volunteering
-tags:
-  - techhire oakland
 ---
 
 <blockquote class="embedly-card"><h4><a href="https://www.techhireoakland.org/">Home - Tech Hire Oakland</a></h4><p>TechHire Oakland guides underrepresented East Bay residents of color to rewarding careers in tech.</p></blockquote>

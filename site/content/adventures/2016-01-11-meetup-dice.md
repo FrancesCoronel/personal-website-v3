@@ -9,9 +9,6 @@ categories:
   - portfolio
   - web
   - oss
-tags:
-  - meetups
-  - heroku
 ---
 
 ![Meetup Dice - Winner](https://fvcproductions.files.wordpress.com/2016/01/meetupdice-winner.png)
@@ -45,17 +42,17 @@ heroku config:set MEETUP_API_KEY=1234567890
 
 ## Tools
 
-* [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
-* [Sublime Text](https://github.com/fvcproductions/Sublime)
-* [CodeKit](https://incident57.com/codekit/)
+- [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
+- [Sublime Text](https://github.com/fvcproductions/Sublime)
+- [CodeKit](https://incident57.com/codekit/)
 
 ## Contributors
 
-* [Harlan Harris](https://github.com/HarlanH)
-* [Devin Castro](https://github.com/ddcast)
-* [Chetan Shenoy](https://github.com/cshenoy)
-* [Sheng Zhao](https://github.com/itsheng)
-* [FVCproductions](https://github.com/fvcproductions)
+- [Harlan Harris](https://github.com/HarlanH)
+- [Devin Castro](https://github.com/ddcast)
+- [Chetan Shenoy](https://github.com/cshenoy)
+- [Sheng Zhao](https://github.com/itsheng)
+- [FVCproductions](https://github.com/fvcproductions)
 
 ## GitHub Repo
 

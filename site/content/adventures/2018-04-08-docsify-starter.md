@@ -7,6 +7,4 @@ link: https://github.com/fvcproductions/docsify-starter
 categories:
   - portfolio
   - oss
-tags:
-  - github
 ---

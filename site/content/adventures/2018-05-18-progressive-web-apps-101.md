@@ -4,17 +4,10 @@ description: Throughout this course, we will explore the wide array of companies
 banner: https://i.imgur.com/a7NdCI0.jpg
 date: 2018-05-18
 talk: pwas101
-layout: "custom/talk"
+layout: 'custom/talk'
 aliases:
   - /speaking/talks/progressive-web-apps-101/
   - /pwas-101/
 categories:
   - talk
-tags:
-  - service workers
-  - progressive web apps
-  - manifest
-  - HTTPs
-  - google
-  - pwas
 ---

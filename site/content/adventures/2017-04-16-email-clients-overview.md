@@ -4,8 +4,6 @@ description: A quick blurb on the state of email clients I've tried out.
 date: 2017-04-16
 categories:
   - blog
-tags:
-  - email
 ---
 
 I've always been somewhat obsessed with keeping up with the latest and greatest
@@ -17,39 +15,39 @@ The only downside to Inbox is that it's Google accounts only so I can't utilize 
 
 ## Mail + MailButler
 
-* extended features don't extend to mobile offering
-* also, I have an Android now
+- extended features don't extend to mobile offering
+- also, I have an Android now
 
 ## Polymail
 
-* star functionality missing?
+- star functionality missing?
 
 ## Canary
 
-* UI not intuitive enough
+- UI not intuitive enough
 
 ## Spark
 
-* not enough features
+- not enough features
 
 ## Airmail
 
-* too many lists created
+- too many lists created
 
 ## Inbox
 
-* love but does not accept multiple clients
+- love but does not accept multiple clients
 
 ## Nylas Mail
 
-* love but so damn slow!!
-* cannot setup Exchange account
+- love but so damn slow!!
+- cannot setup Exchange account
 
 ## Postbox
 
-* difficult to setup
-* seeing flagged emails is not as easy to do
+- difficult to setup
+- seeing flagged emails is not as easy to do
 
 ## Boxy
 
-* web is better and the future
+- web is better and the future

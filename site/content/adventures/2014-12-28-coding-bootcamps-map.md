@@ -8,16 +8,6 @@ aliases:
   - /portfolio/mapme-coding-bootcamps/
 categories:
   - portfolio
-tags:
-  - bootcamp.me
-  - coding bootcamp map
-  - coding bootcamps
-  - crowdsourced map
-  - crowdsourcing
-  - google map
-  - map me
-  - map of coding bootcamps
-  - mapme
 ---
 
 The world is teeming with coding bootcamps, but I just couldn’t find a more geographically/visually oriented website that showed all the physical coding bootcamps that are available out there.

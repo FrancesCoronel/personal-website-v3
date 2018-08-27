@@ -9,9 +9,6 @@ categories:
   - conference
   - pwas101
   - typescript101
-tags:
-  - chattanooga
-  - scenic city summit
 ---
 
 [Scenic City Summit](https://www.sceniccitysummit.com/) is a one-day technology conference presented by Red Hat, and a program of ChaTech, the Chattanooga Technology Council.

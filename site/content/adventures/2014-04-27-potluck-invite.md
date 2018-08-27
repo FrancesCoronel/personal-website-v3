@@ -6,8 +6,6 @@ banner: https://i.imgur.com/M7EpOh2.jpg
 categories:
   - portfolio
   - design
-tags:
-  - pages
 ---
 
 I used Apple Pages to create this cute little flyer for a potluck event my family was having.

@@ -6,9 +6,6 @@ banner: https://cdn-images-1.medium.com/max/2000/1*SC4JbLADfaGRrOZBdKngTA.png
 caption: One of my many official looking banners!
 categories:
   - blog
-tags:
-  - medium
-  - blogging
 ---
 
 > Update: February 11, 2018

@@ -1,31 +1,12 @@
 ---
-title: "Review - Limbo"
+title: 'Review - Limbo'
 date: 2014-09-22
-description: "Expressing my gratitude."
+description: 'Expressing my gratitude.'
 banner: https://fvcproductions.files.wordpress.com/2014/09/limbo-featurebanner.jpg?w=1024&h=435&crop=1
 aliases:
   - /2014/09/22/limbo-review/
-tags:
-    - app store
-    - boys
-    - death
-    - fragile
-    - infants
-    - inside
-    - limbo
-    - limbo game
-    - lord of the flies
-    - mac
-    - playdead
-    - playdead games
-    - Sketch
-    - spider
-    - theology
-    - trial and death
-    - unbaptized
-    - walkthroughs
 categories:
-    - blog
+  - blog
 ---
 
 ![Limbo Logo](https://fvcproductions.files.wordpress.com/2014/09/aac70-limbo_logo.png)

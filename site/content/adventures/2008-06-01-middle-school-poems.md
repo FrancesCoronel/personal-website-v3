@@ -5,13 +5,6 @@ description: Random poems from 2008.
 banner: https://fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg?w=800&h=340&crop=1
 categories:
   - blog
-tags:
-  - trampoline
-  - middle school poems
-  - random poems
-  - the test
-  - shakespeare
-  - gratitude
 ---
 
 ## Trampoline

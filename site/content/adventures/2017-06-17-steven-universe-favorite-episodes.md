@@ -6,12 +6,6 @@ banner: https://i.imgur.com/dNsORE7.png
 caption: Image taken from Steven Universe Wikia.
 categories:
   - blog
-tags:
-  - steven
-  - connie
-  - steven universe
-  - love
-  - stevonnie
 ---
 
 > Unless otherwise noted, all images are attributed to the [Steven Universe Wikia page](https://steven-universe.wikia.com/wiki/Steven_Universe_Wiki).

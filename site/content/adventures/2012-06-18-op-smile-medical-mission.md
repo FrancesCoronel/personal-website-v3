@@ -8,9 +8,6 @@ categories:
   - volunteering
   - speaking
   - burnprevention
-tags:
-  - vietnam
-  - medical mission
 ---
 
 ## Name

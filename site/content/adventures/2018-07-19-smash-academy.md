@@ -9,9 +9,6 @@ categories:
   - speaking
   - careerpath
   - volunteering
-tags:
-  - smash academy
-  - stanford
 ---
 
 ## Name

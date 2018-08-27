@@ -5,6 +5,4 @@ description: Description
 banner: https://imgur.com
 categories:
   - press
-tags:
-  - company
 ---

@@ -6,10 +6,6 @@ banner: https://i.imgur.com/3srpjrf.png
 categories:
   - portfolio
   - design
-tags:
-  - flyers
-  - banners
-  - marketing
 ---
 
 I was part of the backstage crew for "The Chinese Wall" play at Jacobs University Bremen.

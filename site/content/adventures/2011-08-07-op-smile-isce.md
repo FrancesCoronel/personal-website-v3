@@ -7,11 +7,6 @@ aliases:
   - /home/adventures/conferences/international-student-cultural-exchange/
 categories:
   - conference
-tags:
-  - operation smile
-  - isce
-  - china
-  - beijing
 ---
 
 ## Name

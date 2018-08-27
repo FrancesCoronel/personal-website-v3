@@ -6,11 +6,6 @@ banner: https://i.imgur.com/yE0QMDf.jpg
 categories:
   - portfolio
   - design
-tags:
-  - keynote
-  - icon design
-  - image2icon
-  - iconverticons
 ---
 
 A circular icon made for [Writefull](https://writefullapp.com/), a light-weight app that provides feedback on your writing by checking your text against databases of correct language.

@@ -7,16 +7,6 @@ aliases:
   - /2013/08/03/enders-game-book-review/
 categories:
   - blog
-tags:
-  - battle school
-  - book review
-  - ender
-  - ender wiggin
-  - enders game
-  - formic
-  - international fleet personnel
-  - orson
-  - scott card
 ---
 
 ## Geek Paradise

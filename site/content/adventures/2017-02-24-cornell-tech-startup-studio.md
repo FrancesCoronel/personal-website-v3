@@ -12,15 +12,6 @@ categories:
   - presentation
   - video
   - research
-tags:
-  - electron
-  - startup studio
-  - cornell tech
-  - mora
-  - foster care
-  - venus
-  - case management
-  - desktop app
 ---
 
 For [Startup Studio](https://tech.cornell.edu/studio) at [Cornell Tech](https://tech.cornell.edu), I teamed up with three other women to create a streamlined document management solution targeted at social workers so they can place children into foster care faster.
@@ -36,14 +27,14 @@ Our company is called **Venus** and we created a product called Mora.
 
 <!-- TOC -->
 
-* [Sprints](#sprints)
-  * [Sprint 1](#sprint-1)
-  * [Sprint 2](#sprint-2)
-  * [Sprint 3](#sprint-3)
-  * [Final Sprint](#final-sprint)
-* [Branding](#branding)
-* [Open Studio Poster](#open-studio-poster)
-* [GitHub Repo](#github-repo)
+- [Sprints](#sprints)
+  - [Sprint 1](#sprint-1)
+  - [Sprint 2](#sprint-2)
+  - [Sprint 3](#sprint-3)
+  - [Final Sprint](#final-sprint)
+- [Branding](#branding)
+- [Open Studio Poster](#open-studio-poster)
+- [GitHub Repo](#github-repo)
 
 <!-- /TOC -->
 

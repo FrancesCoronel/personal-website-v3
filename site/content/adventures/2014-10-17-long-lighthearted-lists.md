@@ -7,18 +7,6 @@ aliases:
   - /2014/10/17/long-lighthearted-lists/
 categories:
   - blog
-tags:
-  - bootcamp
-  - coding
-  - Languages
-  - lighthearted
-  - long lists
-  - materialism
-  - old science
-  - projects
-  - science fair
-  - TV shows
-  - wish list
 ---
 
 Long Lighthearted Lists

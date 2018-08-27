@@ -1,25 +1,12 @@
 ---
-title: "Giving Back"
+title: 'Giving Back'
 date: 2014-09-10
-description: "Expressing my gratitude."
+description: 'Expressing my gratitude.'
 banner: https://fvcproductions.files.wordpress.com/2014/09/piratebay.jpg
 aliases:
   - /2014/09/10/giving-back/
 categories:
   - blog
-tags:
-  - air heads
-  - edgar allen poe
-  - giving back
-  - gottfrid svartholm
-  - letter
-  - mom
-  - mom problems
-  - pb
-  - peter sunde
-  - pirate bay
-  - support
-  - vegan candy
 ---
 
 **Yesterday**, I successfully packaged a bag of Air Heads, an appreciative letter, and the complete and unabridged works of Edgar Allen Poe in support of [Peter Sunde](https://www.facebook.com/pages/Peter-Sunde/126485467393990) - hope he enjoys it!

@@ -8,8 +8,6 @@ aliases:
 categories:
   - conference
   - volunteering
-tags:
-  - techweek nyc
 ---
 
 ## Name

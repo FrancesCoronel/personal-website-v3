@@ -7,10 +7,6 @@ categories:
   - portfolio
   - web
   - design
-tags:
-  - tdeditor
-  - wordpress
-  - wordpress theming
 ---
 
 The tdEditor theme was created by Tasko.

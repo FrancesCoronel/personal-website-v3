@@ -5,8 +5,6 @@ description: I got to the top 10 on Code Schools' leader board for Accenture out
 banner: https://i.imgur.com/7HOcL4c.png
 categories:
   - award
-tags:
-  - code school
 ---
 
 All Accenture employees who sign up for free access to Pluralsight & Code School also get access to a team leader board.

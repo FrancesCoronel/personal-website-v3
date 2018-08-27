@@ -5,11 +5,6 @@ description: Admitted to A-List which is for the top candidates on AngelList - u
 banner: https://cdn-images-1.medium.com/max/1150/1*my9FmR5dT0Na1XbHlfTfog.png
 categories:
   - award
-tags:
-  - AngelList
-  - hiring
-  - platform
-  - candidates
 ---
 
 ## A-List is a platform that helps top startups quickly interview the top-ranked tech talent on AngelList.

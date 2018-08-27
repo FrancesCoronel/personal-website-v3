@@ -5,9 +5,6 @@ description: Invited by Goldman Sachs to come up with an innovative solution to 
 banner: https://i.imgur.com/fwVTITD.jpg
 categories:
   - award
-tags:
-  - goldman sachs
-  - brooklyn cupcake
 ---
 
 > [Goldman Sachs | 10,000 Small Businesses Student Challenge Winner](http://www.goldmansachs.com/careers/students-and-graduates/our-programs/americas-programs/student-challenge.html)

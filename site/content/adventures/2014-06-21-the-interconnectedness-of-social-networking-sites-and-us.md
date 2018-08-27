@@ -7,31 +7,6 @@ aliases:
   - /2014/06/21/the-interconnectedness-of-social-networking-sites-and-us/
 categories:
   - blog
-tags:
-  - behance
-  - Facebook
-  - Facebook page
-  - fvcproductions
-  - google+
-  - hoot suite
-  - iftt
-  - interconnectedness
-  - linked in
-  - plurality
-  - Quizlet
-  - quora
-  - scribe
-  - social
-  - social networking
-  - social networking connectedness
-  - social networking sites
-  - sound cloud
-  - the grid
-  - tumblr
-  - twitter
-  - vimeo
-  - wordpress
-  - youtube
 ---
 
 So, I've made a somewhat interesting discovery.

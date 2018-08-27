@@ -7,15 +7,6 @@ categories:
   - blog
   - tutorial
   - portfolio
-tags:
-  - spotify
-  - playlists
-  - mp3
-  - playlistbuddy
-  - youtube-dl
-  - download mp3
-  - spotify download
-  - spotify download mp3
 ---
 
 > Disclaimers: I am subscribed to Spotify Premium.

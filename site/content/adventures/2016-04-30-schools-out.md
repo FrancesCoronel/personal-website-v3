@@ -7,29 +7,6 @@ aliases:
   - /2016/04/30/schools-out/
 categories:
   - blog
-tags:
-  - accenture
-  - bay area
-  - campus
-  - change
-  - cornell tech
-  - featured
-  - fullstack academy
-  - future plans
-  - grace hopper
-  - graduate school
-  - graduating
-  - hack reactor
-  - make school
-  - mentoring
-  - new york city
-  - news
-  - product academy
-  - school
-  - screenhero
-  - silicon valley
-  - skype
-  - undergrad
 ---
 
 SO MUCH GOING ON. =================
@@ -115,18 +92,18 @@ The most unexpected thing was getting accepted to all 9 schools I applied to. Ha
 
 These were the other grad schools I got accepted into but declined admission to for obvious reasons:
 
-* [Brown - Program in Innovation Management & Entrepreneurship](https://www.brown.edu/academics/engineering/prime/)
-* [Northwestern - MS Engineering Design Innovation](https://segal.northwestern.edu/programs/graduate/engineering-design-innovation/)
-* [University of Illinois at Urbana-Champaign - Professional MS CS](https://cs.illinois.edu/current-students/graduate-students/professional-masters-mcs)
-* [University of Rochester - MS Technical Entrepreneurship and Management](https://www.rochester.edu/team/)
-  * $28,792 (50% Tuition) Scholarship
-* [Northeastern - MS Computer Science](https://www.northeastern.edu/graduate/programs/computer-science/#masters)
-* [Rochester Institute of Technology - MS Human-Computer Interaction](https://www.rit.edu/programs/human-computer-interaction-ms)
-  * $8,360 Scholarship
-* [NYU - Master's in Management of Technology](https://engineering.nyu.edu/academics/programs/management-technology-ms)
-  * $8K Scholarship
-* [Duke - MEMP - Masters in Engineering Management Program](https://memp.pratt.duke.edu/)
-  * $10K Scholarship
+- [Brown - Program in Innovation Management & Entrepreneurship](https://www.brown.edu/academics/engineering/prime/)
+- [Northwestern - MS Engineering Design Innovation](https://segal.northwestern.edu/programs/graduate/engineering-design-innovation/)
+- [University of Illinois at Urbana-Champaign - Professional MS CS](https://cs.illinois.edu/current-students/graduate-students/professional-masters-mcs)
+- [University of Rochester - MS Technical Entrepreneurship and Management](https://www.rochester.edu/team/)
+  - $28,792 (50% Tuition) Scholarship
+- [Northeastern - MS Computer Science](https://www.northeastern.edu/graduate/programs/computer-science/#masters)
+- [Rochester Institute of Technology - MS Human-Computer Interaction](https://www.rit.edu/programs/human-computer-interaction-ms)
+  - $8,360 Scholarship
+- [NYU - Master's in Management of Technology](https://engineering.nyu.edu/academics/programs/management-technology-ms)
+  - $8K Scholarship
+- [Duke - MEMP - Masters in Engineering Management Program](https://memp.pratt.duke.edu/)
+  - $10K Scholarship
 
 ### HOWEVER.
 

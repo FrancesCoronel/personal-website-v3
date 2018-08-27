@@ -6,12 +6,6 @@ banner: https://cdn.dribbble.com/users/63407/screenshots/1965585/dribbble_icons.
 caption: '"Connections" by Ranganath Krishnamani'
 categories:
   - blog
-tags:
-  - conference
-  - applying
-  - cfp
-  - attendees
-  - diversity at conferences
 ---
 
 > Struggling to find conferences to attend or speak at?
