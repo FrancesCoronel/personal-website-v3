@@ -6,5 +6,6 @@ banner: https://i.imgur.com/7UuyI1b.png
 link: https://github.com/fvcproductions/applications
 categories:
   - portfolio
-  - oss
+tags:
+  - open-source
 ---

@@ -5,6 +5,7 @@ description: Customizing my desktop layout.
 banner: https://i.imgur.com/Yv22Bpe.png
 categories:
   - portfolio
+tags:
   - design
 ---
 

@@ -14,9 +14,9 @@
   <!-- Talk Events -->
   {{ if in .Params.categories "talk" }} {{ $talk := .Params.talk }}
   <!-- Events -->
-  {{ $events := (index .Site.Taxonomies.categories $talk) }}
+  {{ $events := (index .Site.Taxonomies.tags $talk) }}
   <!-- Talk -->
-  <p class="subtitle has-text-weight-light is-size-6 mt-1">Presented at {{ len $events }} events</p>
+  <p class="subtitle has-text-weight-light is-size-6 mt-1">Presented at {{ len $events }} {{ if gt (len $events) 1 }} events{{ else }} event{{ end }}</p>
   {{ end }}
   <!-- Date -->
   {{ if not .PublishDate.IsZero }}

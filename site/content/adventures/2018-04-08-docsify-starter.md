@@ -6,5 +6,6 @@ banner: https://i.imgur.com/xJjmBy6.png
 link: https://github.com/fvcproductions/docsify-starter
 categories:
   - portfolio
-  - oss
+tags:
+  - open-source
 ---

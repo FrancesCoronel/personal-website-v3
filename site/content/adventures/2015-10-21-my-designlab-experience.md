@@ -10,6 +10,7 @@ categories:
   - blog
   - program
   - portfolio
+tags:
   - design
 ---
 

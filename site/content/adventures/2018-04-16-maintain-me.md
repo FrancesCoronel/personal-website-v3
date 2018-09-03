@@ -6,5 +6,6 @@ banner: https://i.imgur.com/twNgmU3.png
 link: https://github.com/fvcproductions/maintain-me
 categories:
   - portfolio
-  - oss
+tags:
+  - open-source
 ---

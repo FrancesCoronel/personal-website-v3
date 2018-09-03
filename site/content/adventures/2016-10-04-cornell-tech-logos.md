@@ -7,8 +7,9 @@ aliases:
   - /portfolio/cornell-tech-logos/
 categories:
   - portfolio
-  - design
+tags:
   - web
+  - design
 ---
 
 All the Cornell Tech logos in one place.

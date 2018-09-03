@@ -11,6 +11,7 @@ aliases:
 categories:
   - blog
   - conference
+tags:
   - freelancing
 ---
 

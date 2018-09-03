@@ -10,10 +10,10 @@ aliases:
   - /travels/
 ---
 
+## So I’ve come to the conclusion that I come from a pretty interesting background.
+
 <blockquote class="embedly-card"><h4><a href="https://www.google.com/maps/d/u/0/embed?mid=11xSbsfkr_6UXjic4znLDZSObW_M">Travels</a></h4><p>Where I've been. https://fvcproductions.com/about/travels © FVCproductions</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-## So I’ve come to the conclusion that I come from a pretty interesting background.
 
 > Here’s why...
 

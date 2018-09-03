@@ -10,7 +10,8 @@ aliases:
 categories:
   - conference
   - speaking
-  - webdesign
+tags:
+  - web-design
 ---
 
 ## Name

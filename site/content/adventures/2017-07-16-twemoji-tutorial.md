@@ -3,7 +3,8 @@ title: Twemoji Tutorial
 date: 2017-07-16
 categories:
   - portfolio
-  - oss
+tags:
+  - open-source
 ---
 
 This CodePen was created as part of this GitHub issue I opened for the popular emoji library `twemoji` that triggered a new release of `twemoji` due to lack of browser compatibility.

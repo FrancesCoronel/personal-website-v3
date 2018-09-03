@@ -1,23 +1,25 @@
 {{ define "main" }}
-<!-- TODO: MAKE AMAZING -->
 <!-- Banner -->
 {{ partial "body/hero/title.html" . }}
 <!-- Content -->
-<section class="section">
+<section class="section pt-0">
   <div class="container">
     <div class="content">
-      <ol>
+      <div class="columns is-multiline">
+        <!-- Looping -->
         {{ $data := .Data }} {{ range $key, $value := .Data.Terms.ByCount }}
-        <li>
-          <p>
-            <a href="{{ $value.Name | urlize }}">{{ $value.Name }}</a> -
-            <b>{{ $value.Count }}</b>
-          </p>
-        </li>
+        <div class="column is-one-quarter">
+          <a class="reset" aria-label="{{ $value.Name }}" href="{{ $value.Name | urlize }}">
+            <div class="card card-equal-height">
+              <div class="media-content">
+                <h2>{{ $value.Count }}</h2>
+                <p class="has-text-weight-light is-capitalized">{{ $value.Name }}</p>
+              </div>
+            </div>
+          </a>
+        </div>
         {{ end }}
-      </ol>
-      <!-- End Message -->
-      {{ partial "body/content/list/end-message.html" . }}
+      </div>
     </div>
   </div>
 </section>

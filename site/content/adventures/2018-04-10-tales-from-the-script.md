@@ -6,9 +6,9 @@ banner: https://i.imgur.com/PIVkbwR.png?1
 recording: https://simplecast.com/s/e7a5925b
 categories:
   - speaking
-  - bootcamps
 tags:
   - podcast
+  - bootcamps
 ---
 
 > Originally recorded March 16th

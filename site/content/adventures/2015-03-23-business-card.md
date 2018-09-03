@@ -5,6 +5,7 @@ description: A business card I made for my brand using the platform Moo.
 banner: https://i.imgur.com/kM2NSMi.jpg
 categories:
   - portfolio
+tags:
   - design
 ---
 

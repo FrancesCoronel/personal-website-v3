@@ -5,6 +5,7 @@ description: A circular icon created for Alchemize.
 banner: https://i.imgur.com/rkWJYwr.jpg
 categories:
   - portfolio
+tags:
   - design
 ---
 

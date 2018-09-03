@@ -9,5 +9,6 @@ aliases:
   - /portfolio/readme-template/
 categories:
   - portfolio
-  - oss
+tags:
+  - open-source
 ---

@@ -4,6 +4,7 @@ date: 2016-01-01
 description: 'Just a quick view on how Yosemite was much less strict than El Capitan when it comes to customization.'
 categories:
   - portfolio
+tags:
   - design
 ---
 

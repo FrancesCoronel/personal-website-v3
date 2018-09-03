@@ -7,6 +7,7 @@ aliases:
   - /portfolio/flavours-themes/
 categories:
   - portfolio
+tags:
   - design
 ---
 

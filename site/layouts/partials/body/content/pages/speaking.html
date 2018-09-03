@@ -3,6 +3,15 @@
 {{ $talks := ($.Site.Taxonomies.categories.talk).Pages }}
 <!-- Speaking -->
 {{ $speaking := ($.Site.Taxonomies.categories.speaking).Pages }}
+<!-- Topics -->
+<h2>📢 {{ len $talks }} Selected Talks</h2>
+<div class="columns is-multiline">
+  {{ range $talks.ByDate.Reverse }}
+  <div class="column is-one-third">
+    {{ partial "body/content/card/_index.html" . }}
+  </div>
+  {{ end }}
+</div>
 <!-- Past Events -->
 <h2>⌛️ {{ len $speaking }} Past Events</h2>
 <div class="columns is-multiline">
@@ -11,13 +20,4 @@
     {{ partial "body/content/card/plain.html" . }}
   </div>
   {{ end }} {{ end }}
-</div>
-<!-- Topics -->
-<h2>🗨️ {{ len $talks }} Major Talks</h2>
-<div class="columns is-multiline">
-  {{ range $talks.ByDate.Reverse }}
-  <div class="column is-one-third">
-    {{ partial "body/content/card/plain.html" . }}
-  </div>
-  {{ end }}
 </div>

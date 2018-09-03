@@ -5,6 +5,7 @@ description: I designed these as part of a logo competition for the RESPECT conf
 banner: https://i.imgur.com/Jsh2KrJ.jpg
 categories:
   - portfolio
+tags:
   - design
 ---
 

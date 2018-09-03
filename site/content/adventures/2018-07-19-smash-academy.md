@@ -7,8 +7,9 @@ location: Stanford University - Stanford, CA
 slides: https://www.slideshare.net/FVCproductions/smash-speaker-series-at-stanford-university-july-2018
 categories:
   - speaking
-  - careerpath
   - volunteering
+tags:
+  - career-path
 ---
 
 ## Name

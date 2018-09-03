@@ -5,7 +5,8 @@ description: If you work at Pacific Shores, you can figure out when the next shu
 banner: https://i.imgur.com/IBedZom.png
 categories:
   - portfolio
-  - oss
+tags:
+  - open-source
   - web
 ---
 

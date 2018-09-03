@@ -4,8 +4,9 @@ date: 2014-06-04
 description: Creating a brand for myself.
 banner: https://i.imgur.com/yibzV1C.jpg
 categories:
-  - design
   - portfolio
+tags:
+  - design
 ---
 
 I used Pages and Keynote to make this initial version of my logo.

@@ -8,7 +8,7 @@ categories:
   - portfolio
 tags:
   - web
-  - oss
+  - open-source
 ---
 
 I created a guessing game for the Foundations stage of [Fullstack Academy](https://fullstackacademy.com).

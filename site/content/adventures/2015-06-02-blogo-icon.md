@@ -5,6 +5,7 @@ description: A circular icon made for Blogo, an innovative desktop blogging app.
 banner: https://i.imgur.com/x8IDOzM.jpg
 categories:
   - portfolio
+tags:
   - design
 ---
 

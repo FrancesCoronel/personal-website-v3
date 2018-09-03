@@ -5,8 +5,9 @@ description: Material I developed while taking the HCI & Design class at Cornell
 banner: https://i.imgur.com/DMQkVuR.png
 categories:
   - portfolio
-  - design
+tags:
   - web
+  - design
 ---
 
 As part of [Assignment 3](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/Assignment3.pdf) for my class [HCI & Design](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/) at [Cornell Tech](http://tech.cornell.edu), I was tasked with re-designing an ad for the MTA’s Fast-track and decomposing an app of my choice.

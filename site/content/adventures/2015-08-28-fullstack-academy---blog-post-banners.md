@@ -5,6 +5,7 @@ description: Banners made for blog posts related to my experience in Fullstack A
 banner: https://i.imgur.com/4IAtyVW.jpg
 categories:
   - portfolio
+tags:
   - design
 ---
 

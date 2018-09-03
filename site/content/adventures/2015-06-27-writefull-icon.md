@@ -5,6 +5,7 @@ description: A circular icon made for Writefull, a light-weight app that provide
 banner: https://i.imgur.com/yE0QMDf.jpg
 categories:
   - portfolio
+tags:
   - design
 ---
 

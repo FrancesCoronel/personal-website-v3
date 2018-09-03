@@ -8,6 +8,7 @@ aliases:
   - /portfolio/github-repos-mashup/
 categories:
   - portfolio
-  - oss
+tags:
   - web
+  - open-source
 ---

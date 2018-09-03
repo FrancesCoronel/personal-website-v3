@@ -10,6 +10,7 @@ categories:
   - experience
   - portfolio
   - speaking
+tags:
   - bootcamps
 ---
 

@@ -9,8 +9,9 @@ aliases:
 categories:
   - hackathon
   - portfolio
-  - design
+tags:
   - web
+  - design
 ---
 
 ## Name

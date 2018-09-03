@@ -5,6 +5,7 @@ description: Two circular icons made for Popcorn Time, the best way to stream tv
 banner: https://i.imgur.com/ksS7VWV.jpg
 categories:
   - portfolio
+tags:
   - design
 ---
 

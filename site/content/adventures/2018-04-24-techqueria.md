@@ -8,7 +8,7 @@ categories:
   - portfolio
   - volunteering
 tags:
-  - oss
+  - open-source
 ---
 
 > Techqueria is one of the largest communities of Latinx professionals in the tech industry.

@@ -5,6 +5,7 @@ description: Custom design created for a potluck event.
 banner: https://i.imgur.com/M7EpOh2.jpg
 categories:
   - portfolio
+tags:
   - design
 ---
 

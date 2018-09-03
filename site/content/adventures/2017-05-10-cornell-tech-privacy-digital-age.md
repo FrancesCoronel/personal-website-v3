@@ -5,6 +5,7 @@ description: Sukromia is an in-browser encryption tool that allows any messaging
 banner: https://i.imgur.com/VgiYCSV.png
 categories:
   - portfolio
+tags:
   - web
 ---
 

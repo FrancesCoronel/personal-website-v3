@@ -4,6 +4,7 @@ date: 2014-08-19
 description: Created for my Strikingly website.
 categories:
   - portfolio
+tags:
   - design
 ---
 

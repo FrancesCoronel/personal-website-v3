@@ -7,6 +7,7 @@ aliases:
   - /portfolio/hack-the-vote/
 categories:
   - portfolio
+tags:
+  - open-source
   - web
-  - oss
 ---

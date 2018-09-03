@@ -8,7 +8,8 @@ location: urban Assembly Academy for Future Leaders - Harlem, NY
 categories:
   - volunteering
   - speaking
-  - hourofcode
+tags:
+  - hour-of-code
 ---
 
 ## Name

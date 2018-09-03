@@ -5,6 +5,7 @@ description: SVG icon created for Speaker Deck.
 banner: https://i.imgur.com/xjoO73K.png
 categories:
   - portfolio
+tags:
   - design
 ---
 

@@ -5,6 +5,7 @@ description: Updated my website with the tdEditor theme.
 banner: https://i.imgur.com/sgxJ8Mx.png
 categories:
   - portfolio
+tags:
   - web
   - design
 ---

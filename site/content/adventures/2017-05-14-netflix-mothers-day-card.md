@@ -5,6 +5,7 @@ description: Did you get your mama a Netflix subscription? Use this card to show
 banner: https://i.imgur.com/S4zDe5b.png
 categories:
   - portfolio
+tags:
   - design
 ---
 

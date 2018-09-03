@@ -9,8 +9,9 @@ aliases:
   - /2015/08/05/web-dev-and-web-design-slides-fullstack-academy/
 categories:
   - blog
-  - webdesign
   - speaking
+tags:
+  - web-design
 ---
 
 ### On June 18th, the 2nd Thursday of Fullstack Academy, I realized a lot of my partners for pair programming would ask me similar questions regarding my dev environment so I started making a deck of some tips and tricks that I felt would have proven valuable for me back in the day.

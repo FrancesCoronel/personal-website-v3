@@ -8,5 +8,6 @@ aliases:
   - /portfolio/va-acm-slack-invites/
 categories:
   - portfolio
-  - oss
+tags:
+  - open-source
 ---

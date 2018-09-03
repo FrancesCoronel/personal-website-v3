@@ -1,15 +1,15 @@
 ---
-title: "Norfolk.js"
+title: 'Norfolk.js'
 date: 2016-12-17
-description: "An awesome Meetup group in Norfolk focusing on all things JS!"
-categories:
-    - program
+description: 'An awesome Meetup group in Norfolk focusing on all things JS!'
 banner: https://fvcproductions.files.wordpress.com/2015/11/norfolkjs-jan-2016-0041.jpg
+categories:
+  - program
 ---
 
 ## Name
 
-[NorfolkJS](https://www.meetup.com/NorfolkJS "NorfolkJS")
+[NorfolkJS](https://www.meetup.com/NorfolkJS 'NorfolkJS')
 
 ## Location
 

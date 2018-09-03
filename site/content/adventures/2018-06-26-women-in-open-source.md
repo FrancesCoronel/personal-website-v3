@@ -7,7 +7,8 @@ location: Unity HQ - San Francisco, CA
 categories:
   - blog
   - speaking
-  - oss
+tags:
+  - open-source
 ---
 
 ## Name

@@ -88,7 +88,8 @@
     max-width: 100%;
     @extend %image-shadow;
 
-    &.emoji {
+    &.emoji,
+    &.no-box-shadow {
       -webkit-box-shadow: none;
       box-shadow: none;
     }

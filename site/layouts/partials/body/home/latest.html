@@ -1,12 +1,14 @@
 <section class="section">
-  <div class="container content">
-    <h2>🕒 Latest Posts</h2>
-    <div class="columns is-multiline">
-      {{ range first 4 $.Site.RegularPages.ByDate.Reverse }} {{ if .Date.Before now }}
-      <div class="column is-half">
-        {{ partial "body/content/card/_index.html" . }}
+  <div class="container">
+    <div class="content">
+      <h2>🕒 Latest Posts</h2>
+      <div class="columns is-multiline">
+        {{ range first 4 $.Site.RegularPages.ByDate.Reverse }} {{ if .Date.Before now }}
+        <div class="column is-half">
+          {{ partial "body/content/card/_index.html" . }}
+        </div>
+        {{ end }} {{ end }}
       </div>
-      {{ end }} {{ end }}
     </div>
   </div>
 </section>

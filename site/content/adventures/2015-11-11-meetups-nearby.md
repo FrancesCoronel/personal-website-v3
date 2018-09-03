@@ -8,5 +8,6 @@ aliases:
   - /portfolio/meetups-nearby/
 categories:
   - portfolio
-  - oss
+tags:
+  - open-source
 ---

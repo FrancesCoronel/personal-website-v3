@@ -5,6 +5,7 @@ description: This was a logo created for a tech conference in my local area.
 banner: https://i.imgur.com/l6nXfJm.jpg
 categories:
   - portfolio
+tags:
   - design
 ---
 

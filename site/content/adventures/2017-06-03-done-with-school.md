@@ -4,7 +4,7 @@ date: 2017-06-03
 description: A record of all the college courses and tests I've taken from 2007 to 2017.
 banner: https://i.imgur.com/WhsKEHB.jpg
 categories:
-  - education
+  - blog
 ---
 
 Since having graduated with an MS in CS from Cornell Tech, I've taken a total of 89 college-level courses starting from 2010.

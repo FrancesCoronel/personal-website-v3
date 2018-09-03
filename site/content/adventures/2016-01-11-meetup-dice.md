@@ -7,8 +7,9 @@ aliases:
   - /portfolio/meetup-dice/
 categories:
   - portfolio
+tags:
+  - open-source
   - web
-  - oss
 ---
 
 ![Meetup Dice - Winner](https://fvcproductions.files.wordpress.com/2016/01/meetupdice-winner.png)

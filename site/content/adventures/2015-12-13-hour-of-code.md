@@ -10,7 +10,8 @@ categories:
   - volunteering
   - speaking
   - blog
-  - hourofcode
+tags:
+  - hour-of-code
 ---
 
 # So this week, I signed up as a `technical volunteer` for the [**Hour of Code**](https://hourofcode.com/us).

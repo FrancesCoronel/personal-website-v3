@@ -7,6 +7,7 @@ aliases:
   - /portfolio/duolingo-anagram-checker/
 categories:
   - portfolio
+tags:
   - web
 ---
 
@@ -20,10 +21,10 @@ Web page that lets a user input two strings and then tells the user whether the 
 
 ### Tools
 
-* [HTML5UP](https://html5up.net)
-* [Sublime Text](https://github.com/fvcproductions/Sublime)
-* [CodeKit](https://incident57.com/codekit/)
-* [Sketch](https://www.sketchapp.com/)
+- [HTML5UP](https://html5up.net)
+- [Sublime Text](https://github.com/fvcproductions/Sublime)
+- [CodeKit](https://incident57.com/codekit/)
+- [Sketch](https://www.sketchapp.com/)
 
 ### GitHub Repo
 

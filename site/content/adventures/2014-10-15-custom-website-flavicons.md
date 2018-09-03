@@ -5,6 +5,7 @@ description: I created some custom flavicons for my Wordpress website.
 banner: https://i.imgur.com/lQlzotN.png
 categories:
   - portfolio
+tags:
   - design
 ---
 

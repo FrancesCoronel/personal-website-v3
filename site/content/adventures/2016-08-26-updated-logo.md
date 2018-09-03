@@ -7,6 +7,7 @@ aliases:
   - /portfolio/fvcproductions-updated-logo/
 categories:
   - portfolio
+tags:
   - design
 ---
 

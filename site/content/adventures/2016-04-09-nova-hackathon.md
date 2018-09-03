@@ -9,7 +9,7 @@ categories:
   - speaking
   - press
 tags:
-  - webdesign
+  - web-design
   - wizard
 ---
 

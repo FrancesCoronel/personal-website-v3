@@ -6,7 +6,8 @@ banner: https://i.imgur.com/xJjmBy6.png
 categories:
   - blog
   - portfolio
-  - oss
+tags:
+  - open-source
 ---
 
 ## I love open-source. 🌐

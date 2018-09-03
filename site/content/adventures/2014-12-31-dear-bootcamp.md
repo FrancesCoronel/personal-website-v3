@@ -5,6 +5,7 @@ description: My case for why I should get accepted into a coding bootcamp.
 banner: https://i.imgur.com/rnCLyau.jpg
 categories:
   - portfolio
+tags:
   - presentation
 ---
 

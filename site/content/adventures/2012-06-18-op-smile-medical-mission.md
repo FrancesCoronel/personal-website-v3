@@ -7,7 +7,8 @@ location: Multiple Locations - Hanoi, Vietnam
 categories:
   - volunteering
   - speaking
-  - burnprevention
+tags:
+  - burn-prevention
 ---
 
 ## Name

@@ -7,6 +7,7 @@ date: 2018-07-08
 categories:
   - review
   - portfolio
+tags:
   - freelancing
 ---
 

@@ -8,6 +8,7 @@ aliases:
   - /portfolio/cute-things-we-do/
 categories:
   - portfolio
+tags:
   - web
   - design
 ---

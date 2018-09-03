@@ -5,6 +5,7 @@ description: Out of ideas for what to do with your friends at the party? Look no
 banner: https://i.imgur.com/tG1Zjrb.png
 categories:
   - portfolio
+tags:
   - design
 ---
 
