@@ -9,6 +9,8 @@ aliases:
   - /youtube-series/
   - /the-alexis-clue/
   - /alexis-clue/
+tags:
+  - podcast
 ---
 
 > Coming January 2019 as a YouTube video series/podcast!

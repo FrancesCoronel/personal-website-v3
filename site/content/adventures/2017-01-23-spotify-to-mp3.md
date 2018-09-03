@@ -5,8 +5,9 @@ date: 2017-01-23
 banner: https://www.scdn.co/i/_global/open-graph-default.png
 categories:
   - blog
-  - tutorial
   - portfolio
+tags:
+  - tutorial
 ---
 
 > Disclaimers: I am subscribed to Spotify Premium.

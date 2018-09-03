@@ -14,3 +14,59 @@
     </div>
   </div>
 </section>
+{{ if or (not .PublishDate.IsZero) (not .Params.noTimeEstimate) (.Params.location) (.Params.slides) (.Params.video) (.Params.recording) (.Params.link) }}
+<section class="section">
+  <div class="container">
+    <div class="content">
+      <div class="content-info">
+        <!-- Date -->
+        {{- if not .PublishDate.IsZero }}
+        <p>
+          📅️ {{ dateFormat "Monday - January 2, 2006" .Date }}
+        </p>
+        {{- end }}
+        <!-- Reading Time & Word Count -->
+        {{- if not .Params.noTimeEstimate }} {{ if .ReadingTime }} {{ if .WordCount }}
+        <p>
+          ⏰ {{ .ReadingTime }} min read ∙ {{ .WordCount }} words
+        </p>
+        {{ end }} {{ end }} {{- end }}
+        <!-- Location -->
+        {{ if .Params.location }}
+        <p>
+          📍 {{ .Params.location }}
+        </p>
+        {{ end }}
+        <!-- Slides -->
+        {{ if .Params.slides }}
+        <p>
+          📎️
+          <a href="{{ .Params.slides }}" target="_blank" rel="noopener">Slides</a>
+        </p>
+        {{ end }}
+        <!-- Video -->
+        {{ if .Params.video }}
+        <p>
+          🎥
+          <a href="{{ .Params.video }}" target="_blank" rel="noopener">Video</a>
+        </p>
+        {{ end }}
+        <!-- Recording -->
+        {{ if .Params.recording }}
+        <p>
+          🎙️
+          <a href="{{ .Params.recording }}" target="_blank" rel="noopener">Recording</a>
+        </p>
+        {{ end }}
+        <!-- External Link -->
+        {{ if .Params.link }}
+        <p>
+          🌐
+          <a href="{{ .Params.link }}" target="_blank" rel="noopener">{{ .Params.link }}</a>
+        </p>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

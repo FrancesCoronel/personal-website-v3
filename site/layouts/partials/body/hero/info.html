@@ -1,8 +1,8 @@
 <!-- Content Info -->
-{{ if or (.Description) (not .PublishDate.IsZero) (.Params.lastPresented) (not .Params.noTimeEstimate) (.Params.link) }}
+{{ if or (.Description) (not .PublishDate.IsZero) (not .Params.noTimeEstimate) (.Params.location) (.Params.slides) (.Params.video) (.Params.recording) (.Params.link) }}
 <div class="content-info">
   <!-- Description -->
-  {{ if and (.Description) (.Params.banner) }}
+  {{ if .Description }}
   <p>
     ℹ {{ .Description }}
   </p>

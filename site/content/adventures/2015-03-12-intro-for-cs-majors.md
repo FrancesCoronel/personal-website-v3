@@ -7,8 +7,6 @@ aliases:
   - /portfolio/intro-for-cs-majors/
 categories:
   - portfolio
-  - book
-  - web
 ---
 
 > Originally started February 2015.
@@ -24,9 +22,9 @@ We decided to separate the two majors into 2 different GitBooks:
 
 We'll have to see how it goes but I think it has a lot of potential.
 
-* short link to CS GitBook [bit.ly/hu-book](https://bit.ly/hu-book)
-* about the GitBooks [bit.ly/about-hu-book](https://bit.ly/about-hu-book)
-* website for GitBooks [hubook.strikingly.com](https://hubook.strikingly.com/)
+- short link to CS GitBook [bit.ly/hu-book](https://bit.ly/hu-book)
+- about the GitBooks [bit.ly/about-hu-book](https://bit.ly/about-hu-book)
+- website for GitBooks [hubook.strikingly.com](https://hubook.strikingly.com/)
 
 ## Table of Contents
 
@@ -34,12 +32,12 @@ We'll have to see how it goes but I think it has a lot of potential.
 
 ## Tools
 
-* This book is published using the platform [GitBook](https://bit.ly/hu-book).
-* A one-page website for the book is located at [hubook.strikingly.com](https://hubook.strikingly.com/).
+- This book is published using the platform [GitBook](https://bit.ly/hu-book).
+- A one-page website for the book is located at [hubook.strikingly.com](https://hubook.strikingly.com/).
 
 ## Why this project?
 
-* This book would have been so helpful when I was starting out, so I wanted others who were in my place to at least have a smoother process when it comes to integrating to their new college environment.
+- This book would have been so helpful when I was starting out, so I wanted others who were in my place to at least have a smoother process when it comes to integrating to their new college environment.
 
 ![Icon](https://i.imgur.com/kENWuAq.jpg)
 
@@ -55,5 +53,5 @@ We'll have to see how it goes but I think it has a lot of potential.
 
 ## Update April 6, 2015 for CS GitBook
 
-* over 80 people are reading
-* over 1.3K hits
+- over 80 people are reading
+- over 1.3K hits

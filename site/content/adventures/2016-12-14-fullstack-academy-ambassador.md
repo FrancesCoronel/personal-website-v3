@@ -9,8 +9,6 @@ aliases:
 categories:
   - experience
   - portfolio
-  - oss
-  - research
   - speaking
   - bootcamps
 ---

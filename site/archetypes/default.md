@@ -23,25 +23,18 @@ categories:
   - experience
   - hackathon
   - portfolio
-    - book
-    - design
-    - mobile
-    - oss
-    - presentation
-    - research
-    - tutorial
-    - video
-    - web
   - program
   - review
   - speaking
-    - bootcamps
-    - hourofcode
-    - typescript101
-    - webdesign
-    - wizard
-    - careerpath
   - volunteering
+tags:
+  - bootcamps
+  - hour-of-code
+  - typescript101
+  - web-design
+  - wizard
+  - career-path
+  - pwas101
 ---
 
 ## Name

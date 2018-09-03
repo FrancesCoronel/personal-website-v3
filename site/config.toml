@@ -41,6 +41,7 @@ title                         = "FVCproductions"
 # Taxonomy
 [taxonomies]
     category                  = "categories"
+    tag                       = "tags"
 
 # Custom Params
 [params]

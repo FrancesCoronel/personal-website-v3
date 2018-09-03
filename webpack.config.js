@@ -53,7 +53,7 @@ module.exports = {
       cacheId: "hugoma",
       swDest: path.join("dist", "sw.js"),
       globDirectory: "dist",
-      globPatterns: ["index.html", "404.html", "**/*.{css,png,gif,jpg,svg,xml,js,ico,json}"],
+      globPatterns: ["index.html", "404.html", "**/*.{css,png,gif,jpg,svg,js,ico,json}"],
       globStrict: false,
       clientsClaim: true,
       skipWaiting: true,

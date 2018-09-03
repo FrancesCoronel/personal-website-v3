@@ -1,0 +1,23 @@
+.return-to-top {
+  -moz-transition: all .5s ease;
+  -ms-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  -webkit-transition: all .5s ease;
+  bottom: 1em;
+  color: $secondary;
+  display: none;
+  font-size: 1.5em;
+  position: fixed;
+  right: 1em;
+  text-decoration: none;
+  transition: all .5s ease;
+  z-index: 5000;
+
+  &.show {
+    display: block;
+  }
+
+  &:hover {
+    color: $primary;
+  }
+}

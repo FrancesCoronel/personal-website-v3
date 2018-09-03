@@ -7,6 +7,7 @@ aliases:
   - /portfolio/duolingo-delights/
 categories:
   - portfolio
+tags:
   - design
   - presentation
   - web

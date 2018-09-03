@@ -1,11 +1,7 @@
 ---
 title: BootcampMe Program
 date: 2016-04-07
-? description
 categories:
-  - research
-  - presentation
-  - tutorial
   - portfolio
 ---
 

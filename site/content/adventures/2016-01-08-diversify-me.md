@@ -6,7 +6,4 @@ banner: https://i.imgur.com/CBa9WDh.png
 link: https://github.com/fvcproductions/diversify-me
 categories:
   - portfolio
-  - oss
-  - web
-  - research
 ---

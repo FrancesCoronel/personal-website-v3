@@ -5,8 +5,6 @@ description: My updated Wordpress blog design.
 banner: https://i.imgur.com/HtwsL8J.png
 categories:
   - portfolio
-  - design
-  - web
 ---
 
 I have updated the theme for my Wordpress website to be more user friendly.

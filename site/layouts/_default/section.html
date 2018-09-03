@@ -2,14 +2,16 @@
 <!-- Banner -->
 {{ partial "body/hero/_index.html" . }}
 <!-- Page -->
-<section class="section">
+<section class="section section-content">
   <div class="container">
-    <!-- Content -->
-    {{ partial "body/content/_index.html" . }}
-    <!-- Children -->
-    {{ partial "body/children/_index.html" . }}
-    <!-- Footer -->
-    {{ partial "body/content/footer/_index.html" . }}
+    <div class="content">
+      <!-- Content -->
+      {{ partial "body/content/_index.html" . }}
+      <!-- Children -->
+      {{ partial "body/children/_index.html" . }}
+    </div>
+    <!-- Pagination -->
+    {{ partial "body/children/paginator.html" . }}
   </div>
 </section>
 {{ end }}

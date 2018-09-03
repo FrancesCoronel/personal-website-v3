@@ -9,6 +9,7 @@ url: /2018/06/23/beer-city-code/
 categories:
   - conference
   - speaking
+tags:
   - typescript101
 ---
 

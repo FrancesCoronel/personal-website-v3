@@ -4,6 +4,7 @@ description: "Everything I've been up to these days!"
 banner: https://i.imgur.com/3k5oRoh.jpg
 hideBanner: true
 noComments: true
+noTimeEstimate: true
 adventures: true
 aliases:
   - /adventures/

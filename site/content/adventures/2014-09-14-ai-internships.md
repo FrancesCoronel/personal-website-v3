@@ -7,7 +7,6 @@ aliases:
   - /portfolio/ai-internships/
 categories:
   - portfolio
-  - research
 ---
 
 ![Briefcase Icon](https://fvcproductions.files.wordpress.com/2014/09/1424067036_briefcase.png)

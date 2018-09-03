@@ -7,9 +7,10 @@ location: Northern Virginia Community College - Springfield, VA
 categories:
   - hackathon
   - speaking
+  - press
+tags:
   - webdesign
   - wizard
-  - press
 ---
 
 ## Name

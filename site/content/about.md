@@ -1,5 +1,5 @@
 ---
-title: About 🍫️🍓️
+title: About 🍫🍓
 description: A brief intro to my world.
 banner: https://i.imgur.com/Ap1R1zy.jpg
 hideBanner: true
@@ -10,7 +10,7 @@ aliases:
   - /about-me/
 ---
 
-<h2>I like to dabble with things that <del>shouldn’t</del> ought to be dabbled with.</h2>
+## I like to dabble with things that ~~shouldn't~~ ought to be dabbled with.
 
 Well, at least... that's my slogan.
 
@@ -36,3 +36,5 @@ reason why, I just think they're yummy. 🍫🍓
 I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the Egyptian queen) a crap ton.
 
 ![Nefy](https://i.imgur.com/cwXno9D.jpg)
+
+> On [my biography page](/bio/), you can find my bio in different lengths as well as my speaker image.

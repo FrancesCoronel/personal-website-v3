@@ -7,6 +7,7 @@ location: Infosys - Palo Alto, CA
 slides: https://www.slideshare.net/FVCproductions/a-fullstack-future-progressive-web-apps
 categories:
   - speaking
+tags:
   - pwas101
 ---
 

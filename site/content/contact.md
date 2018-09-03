@@ -62,32 +62,32 @@ Please note that depending on the contact reason, it may take longer for me to g
   <form method="POST" action="https://formspree.io/hello@fvcproductions.com">
     <input type="hidden" name="_subject" value="FVCproductions - New Contact Message">
     <div class="field">
-      <label class="label">Name</label>
+      <label class="label is-large">Name</label>
       <div class="control has-icons-left">
-        <input class="input" aria-label="Name" autocomplete="on" type="text" name="name" placeholder="Frances Coronel">
-        <span class="icon is-small is-left">
+        <input class="input is-large" aria-label="Name" autocomplete="on" type="text" name="name" placeholder="Frances Coronel">
+        <span class="icon is-large is-left">
           ✒️
         </span>
       </div>
     </div>
     <div class="field">
-      <label class="label">Email</label>
+      <label class="label is-large">Email</label>
       <div class="control has-icons-left">
-        <input class="input" aria-label="Email" autocomplete="on" type="email" name="email" placeholder="hello@fvcproductions.com">
-        <span class="icon is-small is-left">
+        <input class="input is-large" aria-label="Email" autocomplete="on" type="email" name="email" placeholder="hello@fvcproductions.com">
+        <span class="icon is-large is-left">
           ✉️
         </span>
       </div>
     </div>
     <div class="field">
-      <label class="label">Message</label>
+      <label class="label is-large">Message</label>
       <div class="control">
-        <textarea class="textarea" aria-label="Message" spellcheck="true" rows="5" name="message" id="message" placeholder="I want to contact you about..."></textarea>
+        <textarea class="textarea is-large" aria-label="Message" spellcheck="true" rows="5" name="message" id="message" placeholder="I want to contact you about..."></textarea>
       </div>
     </div>
-    <div class="field is-grouped">
+    <div class="field">
       <div class="control">
-        <button type="submit" class="button is-primary">Send message</button>
+        <button type="submit" class="button is-success">Send message</button>
       </div>
     </div>
   </form>

@@ -2,9 +2,7 @@
 title: Strikingly Website
 description: A personal website I made using Strikingly.
 date: 2014-08-19
-banner:
 categories:
-  - web
   - portfolio
 ---
 

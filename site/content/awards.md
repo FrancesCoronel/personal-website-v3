@@ -5,7 +5,7 @@ banner: https://i.imgur.com/ZdSLPUa.jpg
 hideBanner: true
 noComments: true
 noTimeEstimate: true
-layout: "custom/awards"
+awardsPage: true
 aliases:
   - /awards/
   - /home/awards/

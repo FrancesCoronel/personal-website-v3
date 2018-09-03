@@ -7,8 +7,8 @@ banner: https://i.imgur.com/aA56Nma.png
 categories:
   - portfolio
   - volunteering
+tags:
   - oss
-  - experience
 ---
 
 > Techqueria is one of the largest communities of Latinx professionals in the tech industry.

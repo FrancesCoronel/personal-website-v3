@@ -10,9 +10,6 @@ categories:
   - hackathon
   - volunteering
   - portfolio
-  - hackathon
-  - design
-  - web
 ---
 
 ## Name
@@ -47,29 +44,29 @@ For an upcoming hackathon at [ODU](https://odu.edu) dubbed [`Monarchs Hack the C
 
 ## Project
 
-* Unfortunately, the GitHub repo is private. 💀️
-* [Typeform](https://mhtc-spring-2016.typeform.com/to/RXB7sy)
-* [Website](https://www.cs.odu.edu/~acm/hackathon/)
-* [Old Portfolio Link](https://fvcproductions.com/portfolio/monarchs-hack-the-campus/)
+- Unfortunately, the GitHub repo is private. 💀️
+- [Typeform](https://mhtc-spring-2016.typeform.com/to/RXB7sy)
+- [Website](https://www.cs.odu.edu/~acm/hackathon/)
+- [Old Portfolio Link](https://fvcproductions.com/portfolio/monarchs-hack-the-campus/)
 
 ### Tools
 
-* [HTML5UP](https://html5up.net)
-* [Sublime Text](https://github.com/fvcproductions/Sublime)
-* [CodeKit](https://incident57.com/codekit/)
-* [Sketch](https://www.sketchapp.com/)
-* [Typeform](https://typeform.com)
+- [HTML5UP](https://html5up.net)
+- [Sublime Text](https://github.com/fvcproductions/Sublime)
+- [CodeKit](https://incident57.com/codekit/)
+- [Sketch](https://www.sketchapp.com/)
+- [Typeform](https://typeform.com)
 
 ### Tasks
 
 > Completed January 31st
 
-* branding
-  * created 4 new banners using Sketch and existing logo (credits to Michelle Graham for the logo)
-* the actual website
-  * **completely redesigned** from the bottom up to have a nice look and feel based on an HTML5UP template
-* registration
-  * redesigned and made some minor changes to the configuration for the Typeform used as registration for those interested in attending the hackathon
+- branding
+  - created 4 new banners using Sketch and existing logo (credits to Michelle Graham for the logo)
+- the actual website
+  - **completely redesigned** from the bottom up to have a nice look and feel based on an HTML5UP template
+- registration
+  - redesigned and made some minor changes to the configuration for the Typeform used as registration for those interested in attending the hackathon
 
 > I was a volunteer
 

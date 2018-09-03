@@ -8,13 +8,15 @@
   <div class="container">
     <!-- Content -->
     <div class="content table-border-none">
-      <blockquote>
-        <strong>📄️ {{ len $listPages }} Pages</strong>
+      <blockquote class="is-uppercase">
+        📄 <strong>{{ len $listPages }}{{ if gt (len $listPages) 1 }} pages{{ else }} page{{ end }}</strong>
       </blockquote>
       <!-- Range -->
       {{ range $listPages.GroupByDate "2006" }}{{ partial "body/content/list/_index.html" . }}{{ end }}
       <!-- End Message -->
+      {{ if gt (len $listPages) 1 }}
       {{ partial "body/content/list/end-message.html" . }}
+      {{ end }}
       <!-- Categories Links -->
       {{ partial "body/content/list/categories-link.html" . }}
     </div>

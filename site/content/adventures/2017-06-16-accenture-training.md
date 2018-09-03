@@ -5,17 +5,13 @@ description: Digital Case Study - Technology Development Program - Training at A
 banner: https://i.imgur.com/rvTmpm9.jpg
 categories:
   - portfolio
-  - mobile
-  - design
-  - presentation
-  - research
 ---
 
-* Digital Case Study
-* Daily Splash
-* Final Prototype
-* Technology Development Group
-* Accenture Technology
+- Digital Case Study
+- Daily Splash
+- Final Prototype
+- Technology Development Group
+- Accenture Technology
 
 <blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/team-monarch">Team Monarch</a></h4><p>Digital Case Study Daily Splash Final Presentation Technology Development Group Accenture Technology</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

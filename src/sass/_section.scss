@@ -1,14 +1,27 @@
 .section {
   padding: 1em;
+
+  &.section-content {
+    padding-top: 2em;
+  }
+
   &.section-taxonomy {
     h3 a {
       border-bottom: none;
     }
   }
+
   .content-footer {
     .section {
       padding: 1em 0;
     }
+
+    .section-subscribe {
+      h3 {
+        margin-top: 0;
+      }
+    }
+
     .section-related,
     .section-donate {
       a {
@@ -16,16 +29,19 @@
         border-bottom: none;
       }
     }
+
     .section-related {
       h2 {
         font-size: unset;
         margin-bottom: unset;
       }
     }
+
     .section-donate {
       img {
         height: 50px !important;
         box-shadow: none;
+
         &:hover {
           @extend %material-shadow;
         }

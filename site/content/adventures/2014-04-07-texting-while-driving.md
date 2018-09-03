@@ -7,10 +7,6 @@ aliases:
   - /portfolio/texting-while-driving-project/
 categories:
   - portfolio
-  - design
-  - research
-  - presentation
-  - video
 ---
 
 As part of a health project, my team and I tackled the effects of texting while driving.

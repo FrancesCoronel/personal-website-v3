@@ -9,6 +9,7 @@ video: https://www.recallact.com/presentation/typescript-101
 categories:
   - conference
   - speaking
+tags:
   - typescript101
 ---
 

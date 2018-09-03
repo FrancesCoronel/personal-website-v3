@@ -7,9 +7,6 @@ aliases:
   - /portfolio/mamabear-launch-plan/
 categories:
   - portfolio
-  - design
-  - research
-  - presentation
 ---
 
 Worked with 4 other team members to create launch plan and presentation for a product. Presented to professors for Business for Non-Business class at Cornell Tech (NBAY 5500).

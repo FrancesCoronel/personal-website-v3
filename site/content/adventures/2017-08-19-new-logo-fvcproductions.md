@@ -4,8 +4,9 @@ date: 2017-08-19
 description: A new sleek look for my brand.
 banner: https://i.imgur.com/aIbX4z0.png
 categories:
-  - design
   - portfolio
+tags:
+  - design
 ---
 
 So with my past logo, a lot of folks would mistake it for a heart.

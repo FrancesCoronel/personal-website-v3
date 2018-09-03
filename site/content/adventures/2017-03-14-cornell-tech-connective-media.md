@@ -5,9 +5,6 @@ description: Material I developed while taking the Connective Media class at Cor
 banner: https://github.com/fvcproductions/cmtech-assignment-1/raw/master/assets/img/screenshot.png
 categories:
   - portfolio
-  - research
-  - presentation
-  - oss
 ---
 
 ## Assignment 1 - Building Successful Online Communities

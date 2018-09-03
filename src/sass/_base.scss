@@ -1,6 +1,7 @@
 body {
   font-size: $font-size;
   word-wrap: break-word;
+
   @media screen and (max-width: $mobile) {
     font-size: $font-size-mobile;
   }
@@ -8,19 +9,23 @@ body {
 
 a {
   color: $links;
+
   &.navbar-item {
     &:hover {
       color: $links;
       background-color: $light-gray;
     }
   }
+
   &.navbar-item.is-hidden-mobile.icon {
     &:hover {
       background-color: white;
     }
   }
+
   &.external-link {
     text-decoration: underline;
+
     &:hover {
       font-weight: 700;
     }
@@ -29,26 +34,6 @@ a {
 
 iframe {
   width: 100%;
-}
-
-form {
-  label,
-  textarea,
-  input,
-  span,
-  button,
-  pre code {
-    @media screen and (min-width: $mobile) {
-      font-size: initial !important;
-    }
-  }
-}
-
-button,
-input,
-select,
-textarea {
-  font-size: initial !important;
 }
 
 button,
@@ -62,6 +47,7 @@ table {
   text-align: center;
   width: 100%;
   overflow-x: auto;
+
   @media screen and (max-width: $tablet) {
     display: block;
   }
@@ -69,4 +55,21 @@ table {
 
 hr {
   margin: 1rem 0;
+}
+
+@media screen and (max-width: $tablet) {
+
+  .field.has-addons,
+  .field.is-grouped {
+    display: block;
+
+    .control:not(:last-child) {
+      margin-right: 0;
+      margin-bottom: 1em;
+
+      button {
+        width: 100%;
+      }
+    }
+  }
 }

@@ -12,10 +12,6 @@ aliases:
 categories:
   - portfolio
   - award
-  - research
-  - design
-  - oss
-  - web
 ---
 
 ![The New York Times - White Banner](https://fvcproductions.files.wordpress.com/2016/09/white-banner1.png)
@@ -41,42 +37,42 @@ To address this problem, we created Q&A, a platform that solicits the opinion of
 
 <!-- TOC -->
 
-* [Sprint 1](#sprint-1)
-  * [Sprint 1 - Narrative](#sprint-1---narrative)
-  * [Sprint 1 - Presentation](#sprint-1---presentation)
-  * [Sprint 1 - Prototype](#sprint-1---prototype)
-* [Sprint 2](#sprint-2)
-  * [Sprint 2 - Narrative](#sprint-2---narrative)
-    * [Journey](#journey)
-    * [User Research](#user-research)
-    * [Working Demo](#working-demo)
-    * [Validation Findings](#validation-findings)
-    * [Architecture Evolution](#architecture-evolution)
-  * [Sprint 2 - Presentation](#sprint-2---presentation)
-  * [Sprint 2 - Prototype](#sprint-2---prototype)
-* [Sprint 3](#sprint-3)
-  * [Sprint 3 - Narrative](#sprint-3---narrative)
-    * [Coded Out Solution](#coded-out-solution)
-    * [User Validation](#user-validation)
-    * [Technology](#technology)
-    * [Reporter Validation](#reporter-validation)
-    * [Impact](#impact)
-    * [Monetization](#monetization)
-    * [Product Development](#product-development)
-    * [Business Objective](#business-objective)
-    * [Go To Market Strategy](#go-to-market-strategy)
-    * [Our Journey](#our-journey)
-    * [What’s Next](#whats-next)
-  * [Sprint 3 - Presentation](#sprint-3---presentation)
-  * [Sprint 3 - Prototype](#sprint-3---prototype)
-* [Final Sprint](#final-sprint)
-  * [Final Sprint - Presentation](#final-sprint---presentation)
-  * [Final Sprint - Prototype](#final-sprint---prototype)
-* [Open Studio Poster](#open-studio-poster)
-* [Awards](#awards)
-* [GitHub Repo](#github-repo)
-* [Tools](#tools)
-* [Team](#team)
+- [Sprint 1](#sprint-1)
+  - [Sprint 1 - Narrative](#sprint-1---narrative)
+  - [Sprint 1 - Presentation](#sprint-1---presentation)
+  - [Sprint 1 - Prototype](#sprint-1---prototype)
+- [Sprint 2](#sprint-2)
+  - [Sprint 2 - Narrative](#sprint-2---narrative)
+    - [Journey](#journey)
+    - [User Research](#user-research)
+    - [Working Demo](#working-demo)
+    - [Validation Findings](#validation-findings)
+    - [Architecture Evolution](#architecture-evolution)
+  - [Sprint 2 - Presentation](#sprint-2---presentation)
+  - [Sprint 2 - Prototype](#sprint-2---prototype)
+- [Sprint 3](#sprint-3)
+  - [Sprint 3 - Narrative](#sprint-3---narrative)
+    - [Coded Out Solution](#coded-out-solution)
+    - [User Validation](#user-validation)
+    - [Technology](#technology)
+    - [Reporter Validation](#reporter-validation)
+    - [Impact](#impact)
+    - [Monetization](#monetization)
+    - [Product Development](#product-development)
+    - [Business Objective](#business-objective)
+    - [Go To Market Strategy](#go-to-market-strategy)
+    - [Our Journey](#our-journey)
+    - [What’s Next](#whats-next)
+  - [Sprint 3 - Presentation](#sprint-3---presentation)
+  - [Sprint 3 - Prototype](#sprint-3---prototype)
+- [Final Sprint](#final-sprint)
+  - [Final Sprint - Presentation](#final-sprint---presentation)
+  - [Final Sprint - Prototype](#final-sprint---prototype)
+- [Open Studio Poster](#open-studio-poster)
+- [Awards](#awards)
+- [GitHub Repo](#github-repo)
+- [Tools](#tools)
+- [Team](#team)
 
 <!-- /TOC -->
 
@@ -238,12 +234,12 @@ At the end of the semester, each team was also tasked to create a poster for the
 
 ## Awards
 
-* **Artful Artifacts**
-  * November 22nd, 2016
-  * "We've pulled these for the class to see great examples of teams or individuals that have produced meaningful artifacts that not only showcase an interesting way of representing their solution, but also act as useful milestones that can be referenced to in the future of the product development process."
-* **Best Final Sprint Presentation in Grizzly Room**
-  * December 9th, 2016
-  * Recognized as having one of the best team presentations during the final sprint in the Product Studio class at Cornell Tech out of 10+ teams inside the Grizzly presentation room.
+- **Artful Artifacts**
+  - November 22nd, 2016
+  - "We've pulled these for the class to see great examples of teams or individuals that have produced meaningful artifacts that not only showcase an interesting way of representing their solution, but also act as useful milestones that can be referenced to in the future of the product development process."
+- **Best Final Sprint Presentation in Grizzly Room**
+  - December 9th, 2016
+  - Recognized as having one of the best team presentations during the final sprint in the Product Studio class at Cornell Tech out of 10+ teams inside the Grizzly presentation room.
 
 ## GitHub Repo
 
@@ -252,18 +248,18 @@ At the end of the semester, each team was also tasked to create a poster for the
 
 ## Tools
 
-* InVision
-* Keynote
-* Quip
-* Sketch 3
-* * Keynote
-* Quip
-* GitHub Hosting
-* HTML/CSS/JS
+- InVision
+- Keynote
+- Quip
+- Sketch 3
+- - Keynote
+- Quip
+- GitHub Hosting
+- HTML/CSS/JS
 
 ## Team
 
-* Israel Burns
-* Delia Casa
-* Frances Coronel
-* Chumeng Xu
+- Israel Burns
+- Delia Casa
+- Frances Coronel
+- Chumeng Xu

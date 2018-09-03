@@ -5,7 +5,6 @@ description: How healthiness and hope won over greed and conformity.
 banner: https://i.imgur.com/UtTdh6q.jpg
 categories:
   - portfolio
-  - book
 ---
 
 Way back in the day (not even sure how long ago), I decided to apply for a scholarship competition.

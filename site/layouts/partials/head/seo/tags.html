@@ -1,3 +1,4 @@
-{{ if .Params.categories }}
-<meta itemprop="keywords" content="{{ delimit .Params.categories " , " }}">
-<meta name="DC.subject" content="{{ delimit .Params.categories " , " }}"> {{ end }}
+{{ if or (.Params.categories) (.Params.tags) }}
+<meta itemprop="keywords" content="{{ if .Params.categories }}{{ delimit .Params.categories ", " }}{{ end }}{{ if .Params.tags }}{{ delimit .Params.tags ", " }}{{ end }}fvcproductions">
+<meta name="DC.subject" content="{{ if .Params.categories }}{{ delimit .Params.categories ", " }}{{ end }}{{ if .Params.tags }}{{ delimit .Params.tags ", " }}{{ end }}fvcproductions">
+{{ end }}

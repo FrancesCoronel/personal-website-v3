@@ -5,6 +5,7 @@ description: Created a poster for an English class in high school.
 banner: https://i.imgur.com/Qxz9bkS.jpg
 categories:
   - portfolio
+tags:
   - design
 ---
 

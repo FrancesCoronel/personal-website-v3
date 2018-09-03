@@ -5,6 +5,7 @@ description: All these designs were created as part of a Pride and Prejudice the
 banner: https://i.imgur.com/OnHPXZ6.jpg
 categories:
   - portfolio
+tags:
   - design
 ---
 

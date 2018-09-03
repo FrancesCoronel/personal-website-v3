@@ -5,7 +5,7 @@ banner: https://i.imgur.com/DZnLjQQ.png
 hideBanner: true
 noComments: true
 noTimeEstimate: true
-layout: "custom/portfolio"
+portfolioPage: true
 aliases:
   - /portfolio/
   - /project-type/books/

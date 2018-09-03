@@ -7,8 +7,9 @@ location: Twitter HQ - San Francisco, CA
 slides: https://www.slideshare.net/FVCproductions/women-who-code-connect-2018-typescript-101
 categories:
   - speaking
-  - typescript101
   - conference
+tags:
+  - typescript101
 ---
 
 I was selected to be a speaker at CONNECT 2018, which is an annual conference organized by Women Who Code that brings together speakers from around the world to share their stories and expertise about technology.

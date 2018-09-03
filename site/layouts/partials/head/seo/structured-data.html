@@ -1,7 +1,7 @@
 {{ if .IsHome -}}
 <script type="application/ld+json">
 {
-    "@context":         "http://schema.org",
+    "@context":         "https://schema.org",
     "@type":            "WebSite",
     "image":            "{{ .Site.Params.og_image }}",
     "license":          "{{ .Site.Params.copyright }}",
@@ -68,9 +68,13 @@
           "url":         "{{ .Site.BaseURL }}{{ .Site.Params.logo }}"
         }
     },
+    {{ if or (.Params.categories) (.Params.tags) -}}
     "keywords":          [
-      {{ if isset .Params "categories" }}{{ range .Params.categories }}"{{ . }}",{{ end }}{{ else }}"fvcproductions"{{ end }}
+      {{ if .Params.categories }}{{ delimit .Params.categories " , " }}{{ end }}
+      {{ if .Params.tags }}{{ delimit .Params.tags " , " }}{{ end }}
+      "fvcproductions"
     ],
+    {{- end }}
     {{ if not .PublishDate.IsZero -}}
     "datePublished":     "{{ .PublishDate.Format "2006-01-02T15: 04: 05-07: 00" | safeHTML }}",
     {{- else if not .Date.IsZero -}}
@@ -95,7 +99,7 @@
 {{ end }}
 <script type="application/ld+json">
 {
-  "@context":        "http://schema.org",
+  "@context":        "https://schema.org",
   "@type":           "BreadcrumbList",
   "itemListElement": [{{ range $.Scratch.Get "breadcrumb" }}{{ if ne .position 1 }},{{ end }}{
         "@type":     "ListItem",

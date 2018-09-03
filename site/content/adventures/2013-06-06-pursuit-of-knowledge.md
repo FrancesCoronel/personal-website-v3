@@ -7,6 +7,7 @@ aliases:
   - /portfolio/pursuit-of-knowledge/
 categories:
   - portfolio
+tags:
   - book
 ---
 

@@ -7,11 +7,6 @@ aliases:
   - /portfolio/2017/02/24/startup-studio/
 categories:
   - portfolio
-  - web
-  - design
-  - presentation
-  - video
-  - research
 ---
 
 For [Startup Studio](https://tech.cornell.edu/studio) at [Cornell Tech](https://tech.cornell.edu), I teamed up with three other women to create a streamlined document management solution targeted at social workers so they can place children into foster care faster.

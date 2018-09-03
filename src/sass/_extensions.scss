@@ -16,6 +16,7 @@
   text-decoration: none;
   text-overflow: ellipsis;
   text-transform: none;
-  white-space: nowrap;
   display: inline-block;
+  white-space: pre-wrap;
+  height: 100%;
 }

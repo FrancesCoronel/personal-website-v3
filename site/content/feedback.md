@@ -5,7 +5,7 @@ banner: https://i.imgur.com/eDqiqGu.jpg
 hideBanner: true
 noComments: true
 noTimeEstimate: true
-layout: "custom/feedback"
+feedbackPage: true
 aliases:
   - /reviews/
   - /services/mentoring/reviews/

@@ -1,4 +1,5 @@
 .content {
+
   h1,
   h2,
   h3,
@@ -14,6 +15,7 @@
       content: " ↗";
     }
   }
+
   h1,
   h2,
   h3,
@@ -23,49 +25,61 @@
   .card-header-title {
     color: black;
   }
+
   h2.card-header-title {
     font-size: inherit;
     margin-bottom: 0;
   }
+
   a {
     border-bottom-width: 1px;
     border-bottom-style: dashed;
     border-bottom-color: $links;
+
     &:hover {
       color: black;
       border-bottom-style: solid;
       border-bottom-color: black;
+
       img {
         @extend %material-shadow;
+
         &.emoji {
           -webkit-box-shadow: none;
           box-shadow: none;
         }
       }
     }
+
     img {
       @extend %image-shadow;
+
       &.emoji {
         -webkit-box-shadow: none;
         box-shadow: none;
       }
     }
+
     &.button {
       border: 1px solid $button-border;
     }
+
     &.tag {
       border-bottom: none;
       color: white;
+
       &:hover {
         border-bottom: none;
         text-decoration: underline;
       }
     }
+
     &.reset {
       border: none;
       color: black;
     }
   }
+
   img {
     display: block;
     border: 0;
@@ -73,32 +87,37 @@
     position: relative;
     max-width: 100%;
     @extend %image-shadow;
+
     &.emoji {
       -webkit-box-shadow: none;
       box-shadow: none;
     }
+
     p,
     a & {
       text-align: center;
     }
   }
+
   figure {
     margin: 0;
+
     &:not(:last-child) {
       margin: 0;
     }
   }
-  .columns.is-multiline {
-    margin-top: 1em;
-  }
+
   .content-info {
     margin: 1em 0;
+
     & img.emoji {
       margin-right: 1em;
     }
   }
+
   .content-footer {
     margin: 0;
+
     h1 {
       margin-top: 0em;
     }

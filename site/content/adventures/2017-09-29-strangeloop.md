@@ -8,6 +8,7 @@ slides: https://slideshare.net/FVCproductions/typescript-101-80676517
 categories:
   - conference
   - speaking
+tags:
   - typescript101
 ---
 

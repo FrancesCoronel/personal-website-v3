@@ -9,6 +9,7 @@ aliases:
 categories:
   - blog
   - portfolio
+tags:
   - tutorial
   - web
 ---

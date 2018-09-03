@@ -5,6 +5,7 @@ date: 2017-01-21
 banner: https://i.ytimg.com/vi/Lo8WQR-B89I/0.jpg
 categories:
   - portfolio
+tags:
   - design
   - video
   - web

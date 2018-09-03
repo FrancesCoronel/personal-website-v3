@@ -9,6 +9,7 @@ aliases:
 categories:
   - portfolio
   - hackathon
+tags:
   - mobile
   - design
 ---
@@ -71,17 +72,17 @@ The project will be made up of two parts: the Android app itself, and a web serv
 
 ### Tools
 
-* [Sketch](https://sketchapp.com)
-* [Invision](https://www.invisionapp.com/)
-* [Slack](https://slack.com)
+- [Sketch](https://sketchapp.com)
+- [Invision](https://www.invisionapp.com/)
+- [Slack](https://slack.com)
 
 ### Team
 
-* Jamison Bryant (team lead)
-* Lenny Canny (beginner)
-* Moses Namara (Android dev)
-* me (designer)
-* Organizer Lukas (advisor)
+- Jamison Bryant (team lead)
+- Lenny Canny (beginner)
+- Moses Namara (Android dev)
+- me (designer)
+- Organizer Lukas (advisor)
 
 ![Transparent Logo](https://i.imgur.com/2B2FXtp.png)
 

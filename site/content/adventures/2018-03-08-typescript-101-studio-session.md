@@ -7,6 +7,7 @@ location: Accenture Liquid Studio - Redwood City, CA
 banner: https://i.imgur.com/L7pFNaY.jpg
 categories:
   - speaking
+tags:
   - typescript101
 ---
 

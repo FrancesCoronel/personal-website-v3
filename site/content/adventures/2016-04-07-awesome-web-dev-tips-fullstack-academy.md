@@ -4,6 +4,7 @@ date: 2016-04-07
 description: I created this deck as a resource for other Fullstack Academy students while I was a student there myself.
 categories:
   - portfolio
+tags:
   - presentation
   - tutorial
 ---

@@ -1,1 +1,7 @@
-{{- if (not .Params.banner) }}{{ partial "body/hero/gradient.html" . }}{{- end }}
+{{ if and (.Params.banner) (not .Params.hideBanner) }}
+  <!-- Banner -->
+  {{ partial "body/hero/image.html" . }}
+{{ else }}
+  <!-- Gradient -->
+  {{ partial "body/hero/gradient.html" . }}
+{{ end }}

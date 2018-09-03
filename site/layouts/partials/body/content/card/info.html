@@ -4,7 +4,7 @@
   <!-- Description -->
   <p class="has-text-grey-dark">{{ if .Description }}{{ .Description | truncate 100 | safeHTML }}{{ else }}{{ .Summary | truncate 100 | safeHTML }}{{ end }}</p>
   <!-- Talk Names -->
-  {{ if in .Params.categories "speaking" }}{{ partial "body/custom/talk-list.html" . }}{{ end }}
+  {{ if in .Params.categories "speaking" }}{{ partial "body/content/card/talks.html" . }}{{ end }}
   <!-- Location -->
   {{ if .Params.location }}
   <p class="subtitle has-text-weight-light is-size-6 mt-1">

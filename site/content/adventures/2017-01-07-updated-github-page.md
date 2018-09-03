@@ -7,8 +7,6 @@ aliases:
   - /portfolio/updated-github-page/
 categories:
   - portfolio
-  - web
-  - design
 ---
 
 Updated my GitHub page - [fvcproductions.github.io](https://fvcprodutions.github.io) in order to better showcase my current state of mind.

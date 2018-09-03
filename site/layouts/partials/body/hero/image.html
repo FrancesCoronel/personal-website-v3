@@ -1,9 +1,16 @@
-<!-- Title -->
-{{ if and (.Title) (.Params.banner) }}
-<h1>{{ .Title }}</h1>{{ end }}
-<!-- Info -->
-{{ partial "body/hero/info.html" . }}
-<!-- Banner -->
-{{ if and (.Params.banner) (not .Params.hideBanner) }}
-<img class="hero image" src="{{ .Params.banner }}" alt="{{ .Title }}">{{ end }}
-<hr>
+<section class="section">
+  <div class="container">
+    <div class="content">
+      <!-- Title -->
+      {{ if and (.Title) (.Params.banner) }}
+      <h1>{{ .Title }}</h1>{{ end }}
+      <!-- Info -->
+      {{ partial "body/hero/info.html" . }}
+      <!-- Banner -->
+      {{ if and (.Params.banner) (not .Params.hideBanner) }}
+      <img class="hero image" src="{{ .Params.banner }}" alt="{{ .Title }}">
+      {{ end }}
+      <hr>
+    </div>
+  </div>
+</section>

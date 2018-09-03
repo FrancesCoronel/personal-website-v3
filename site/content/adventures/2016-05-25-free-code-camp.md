@@ -7,6 +7,7 @@ location: 757 Makerspace - Norfolk, VA
 slides: https://speakerdeck.com/fvcproductions/so-you-want-to-be-a-wizard-free-code-camp-norfolk
 categories:
   - speaking
+tags:
   - wizard
 ---
 

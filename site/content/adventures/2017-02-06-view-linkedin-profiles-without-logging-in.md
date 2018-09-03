@@ -8,6 +8,7 @@ aliases:
   - /portfolio/view-linkedin-profiles-without-logging-in/
 categories:
   - portfolio
+tags:
   - tutorial
 ---
 

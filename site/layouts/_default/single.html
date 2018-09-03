@@ -2,14 +2,16 @@
 <!-- Banner -->
 {{ partial "body/hero/_index.html" . }}
 <!-- Page -->
-<section class="section">
+<section class="section section-content">
   <div class="container">
-    <!-- Content -->
-    {{ partial "body/content/_index.html" . }}
     <div class="content">
-      <!-- Single Pages - Footer -->
-      {{- if .IsPage }} {{ partial "body/content/footer/_index.html" . }} {{- end }}
+      <!-- Content -->
+      {{ partial "body/content/_index.html" . }}
+      <!-- Custom Content -->
+      {{ partial "body/content/pages/_index.html" . }}
     </div>
   </div>
 </section>
+<!-- Footer -->
+{{ partial "body/content/footer/_index.html" . }}
 {{ end }}

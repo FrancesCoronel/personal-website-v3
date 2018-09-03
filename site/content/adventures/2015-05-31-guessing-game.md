@@ -6,6 +6,7 @@ aliases:
   - /portfolio/guessing-game/
 categories:
   - portfolio
+tags:
   - web
   - oss
 ---

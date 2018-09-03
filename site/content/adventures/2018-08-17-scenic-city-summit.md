@@ -7,6 +7,7 @@ banner: https://i.imgur.com/YLdyGq0.jpg
 categories:
   - speaking
   - conference
+tags:
   - pwas101
   - typescript101
 ---

@@ -5,7 +5,7 @@ banner: https://i.imgur.com/EjOfuv5.png
 url: /2018/07/08/stellares-feedback-session/
 date: 2018-07-08
 categories:
-  - feedback
+  - review
   - portfolio
   - freelancing
 ---

@@ -7,6 +7,7 @@ recording: https://simplecast.com/s/e7a5925b
 categories:
   - speaking
   - bootcamps
+tags:
   - podcast
 ---
 

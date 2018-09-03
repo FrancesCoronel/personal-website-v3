@@ -2,7 +2,7 @@
 title: Middle School Poems ✒️
 date: 2008-06-01
 description: Random poems from 2008.
-banner: https://fvcproductions.files.wordpress.com/2013/07/fancy-pen.jpg?w=800&h=340&crop=1
+banner: https://i.imgur.com/rogNoii.jpg
 categories:
   - blog
 ---

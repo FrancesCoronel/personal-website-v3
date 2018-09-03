@@ -5,8 +5,6 @@ date: 2018-02-16
 banner: https://i.imgur.com/aWN2RkM.jpg
 categories:
   - portfolio
-  - research
-  - presentation
 ---
 
 ## Problem
