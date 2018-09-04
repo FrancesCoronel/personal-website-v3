@@ -4,9 +4,9 @@
   <!-- Union -->
   {{ $pages := $paginator | union (.Sections) }}
   <!-- Looping -->
-  {{ range $pages.ByDate.Reverse }} {{ if .Date.Before now }}
+  {{ range $pages.ByDate.Reverse }}
   <div class="column is-half">
     {{ partial "body/content/card/_index.html" . }}
   </div>
-  {{ end }} {{ end }}
+  {{ end }}
 </div>

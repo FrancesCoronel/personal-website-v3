@@ -1,4 +1,5 @@
 @media print {
+
   body,
   html,
   :link,
@@ -21,25 +22,28 @@
     padding-left: 0;
     padding-right: 0;
   }
+
   :link,
   :visited {
     text-decoration: underline;
   }
+
   body {
     padding: 0;
     margin: 0;
     line-height: 1.25em;
   }
-  .content-footer,
-  footer,
+
   nav,
+  footer,
   .card,
   .hero-body,
   .columns,
   .columns .is-multiline,
   .column,
   .return-to-top,
-  .pagination {
+  .pagination,
+  .section-footer {
     display: none;
   }
 }

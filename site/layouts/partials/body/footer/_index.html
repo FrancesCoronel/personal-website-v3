@@ -1,9 +1,21 @@
 <footer class="footer">
   <div class="container is-fluid has-text-centered">
     <div class="content">
+      <div class="mt-1 mb-2 is-hidden-mobile">
+        <p>
+          <a class="mr-1 ml-1" href="/colophon/">Colophon ⚙️</a>
+          <a class="mr-1 ml-1" href="/search/">Search 🔍️</a>
+          <a class="mr-1 ml-1" href="/sitemap/">Sitemap 🌐️</a>
+        </p>
+      </div>
+      <div class="mt-1 mb-2 is-hidden-tablet">
+        <p><a class="is-size-4" href="/colophon/">Colophon ⚙️</a></p>
+        <p><a class="is-size-4" href="/search/">Search 🔍️</a></p>
+        <p><a class="is-size-4" href="/sitemap/">Sitemap 🌐️</a></p>
+      </div>
       {{ partial "body/footer/icons.html" . }}
       <!-- Copyright -->
-      <div class="mt-2">
+      <div class="mt-2 mb-1">
         <p>
           ©️
           <a href="/" target="_blank" rel="noopener">{{ .Site.Title }}</a> {{ with .Site.Params.year }} {{ . }} {{ end }} to {{ now.Year }}

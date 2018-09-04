@@ -1,13 +1,17 @@
 ---
-title: About 🍫🍓
+title: About Me 🍓
 description: A brief intro to my world.
 banner: https://i.imgur.com/Ap1R1zy.jpg
 hideBanner: true
 noComments: true
 noTimeEstimate: true
+url: /about/
 aliases:
   - /home/about/
   - /about-me/
+  - /bio/
+  - /bios/
+  - /biography/
 ---
 
 ## I like to dabble with things that ~~shouldn't~~ ought to be dabbled with.
@@ -18,7 +22,7 @@ My "life motto", if you will.
 
 Might have something to do with human nature in general, though, so interpret it as you will.
 
-### Blurb 📇
+## Blurb 📇
 
 <span class="font-size--3x">👩🏽‍💻️</span>
 
@@ -37,4 +41,40 @@ I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the E
 
 ![Nefy](https://i.imgur.com/cwXno9D.jpg)
 
-> On [my biography page](/bio/), you can find my bio in different lengths as well as my speaker image.
+## Biographies
+
+### Short (<100 characters)
+
+> 81 characters, 13 words
+
+Frances Coronel is a software engineer on the Customer Acquisition Team at Slack.
+
+### Medium (<500 characters)
+
+> 399 characters, 64 words
+
+Frances Coronel</b is a developer who gets a lot of personal satisfaction out of helping the local tech community through her varied skill set.</p>
+She is currently a software engineer on the Customer Acquisition team at Slack and has been working professionally as a developer since 2015.</p>
+Her passions outside of work include contributing to open-source, blogging about her adventures in tech, and traveling with her partner using Airbnb.</p>
+
+### Long (<1000 characters)
+
+> 941 characters, 148 words
+
+Frances Coronel is a developer with a design background who gets a lot of personal satisfaction out of helping the local tech community through her varied skill set.
+
+She is currently a Software Engineer at Slack at their headquarters in San Francisco, having previously worked and interned at Accenture's Liquid Studio as a software engineer and AR/VR developer.
+
+She has a Master's in Computer Science from Cornell Tech and a Bachelor's in Computer Science from Hampton University.
+
+Her short-term goals involve becoming a more effective technical mentor for others and getting better at speaking to large developer audiences.
+
+In the long-term, she wants to be able to help engineer and invest in alternative forms of education in computer science and become a leader in that community.
+
+Her passions outside of work include contributing to open-source, blogging about her adventures in tech, and traveling with her partner using Airbnb.
+
+## Speaker Image
+
+> Source: https://www.techhireoakland.org/training/
+
+![Headshot](https://github.com/fvcproductions/fvcproductions/blob/master/photos/headshot_3_2.jpg?raw=true)

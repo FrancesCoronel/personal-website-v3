@@ -4,7 +4,10 @@ description: What you can hire me for.
 banner: https://i.imgur.com/hD3rQiK.jpg
 hideBanner: true
 noComments: true
+freelancingPage: true
+notShownOnNavbar: true
 aliases:
+  - /services/
   - /services/freelancing/
   - /freelancing/
   - /home/services/

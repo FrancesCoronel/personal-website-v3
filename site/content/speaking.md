@@ -6,6 +6,7 @@ hideBanner: true
 noComments: true
 noTimeEstimate: true
 speakingPage: true
+notShownOnNavbar: true
 aliases:
   - /speaking/
   - /home/services/speaking/

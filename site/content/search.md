@@ -5,6 +5,7 @@ banner: https://i.imgur.com/rETMF3V.jpg
 hideBanner: true
 noComments: true
 noTimeEstimate: true
+notShownOnNavbar: true
 aliases:
   - /search/
 ---

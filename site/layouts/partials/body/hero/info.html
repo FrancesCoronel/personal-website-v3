@@ -10,7 +10,7 @@
   <!-- Date -->
   {{- if not .PublishDate.IsZero }}
   <p>
-    📅️ {{ dateFormat "Monday - January 2, 2006" .Date }}
+    📅️ {{ if in .Params.categories "talk" }}First presented {{ end }}{{ dateFormat "Monday - January 2, 2006" .Date }}
   </p>
   {{- end }}
   <!-- Reading Time & Word Count -->
@@ -22,7 +22,7 @@
   <!-- Location -->
   {{ if .Params.location }}
   <p>
-    📍 {{ .Params.location }}
+    🗺️ {{ .Params.location }}
   </p>
   {{ end }}
   <!-- Slides -->

@@ -98,3 +98,52 @@ title                         = "FVCproductions"
     wordpress                 = "fvcproductions"
     yelp                      = "E6StflkoWAutmRZ31zNTug"
     youtube                   = "+fvcproductions2013"
+
+[[menu.mobile]]
+    name                      = "Facebook"
+    url                       = "https://www.facebook.com/groups/techqueria"
+    identifier                = "fab fa-lg fa-facebook"
+
+[[menu.mobile]]
+    name                      = "Twitter"
+    url                       = "https://twitter.com/techqueriasf"
+    identifier                = "fab fa-lg fa-twitter"
+
+[[menu.left]]
+    name                      = "About"
+    url                       = "/about/"
+    # identifier              = "fas fa-info-circle"
+
+[[menu.left]]
+    name                      = "Branding"
+    url                       = "/branding/"
+    # identifier              = "fas fa-newspaper"
+
+[[menu.left]]
+    name                      = "Communities"
+    url                       = "/communities/"
+    # identifier              = "fas fa-comments"
+
+[[menu.left]]
+    name                      = "Contact"
+    url                       = "/contact/"
+    # identifier              = "fas fa-envelope"
+
+[[menu.left]]
+    name                      = "Events"
+    url                       = "/events/"
+    # identifier              = "fas fa-calendar-alt"
+
+[[menu.left]]
+    name                      = "Sponsors"
+    url                       = "/sponsors/"
+
+[[menu.right]]
+    name                      = "Facebook"
+    url                       = "https://www.facebook.com/groups/techqueria"
+    identifier                = "fab fa-lg fa-facebook"
+
+[[menu.right]]
+    name                      = "Twitter"
+    url                       = "https://twitter.com/techqueriasf"
+    identifier                = "fab fa-lg fa-twitter"

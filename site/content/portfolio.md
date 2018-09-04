@@ -1,13 +1,15 @@
 ---
-title: Portfolio 💼️
+title: Portfolio 🛠️
 description: My work across the interwebs.
 banner: https://i.imgur.com/DZnLjQQ.png
 hideBanner: true
 noComments: true
 noTimeEstimate: true
 portfolioPage: true
+notShownOnNavbar: true
 aliases:
   - /portfolio/
+  - /projects/
   - /project-type/books/
   - /project-type/branding/
   - /project-type/maps/

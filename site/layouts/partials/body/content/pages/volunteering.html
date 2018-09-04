@@ -1,0 +1,9 @@
+{{ $volunteering := ($.Site.Taxonomies.categories.volunteering).Pages }}
+<h2>💛 {{ len $volunteering }} Volunteer Efforts</h2>
+<div class="columns is-multiline">
+  {{ range $volunteering }}
+  <div class="column is-one-third">
+    {{ partial "body/content/card/plain.html" . }}
+  </div>
+  {{ end }}
+</div>

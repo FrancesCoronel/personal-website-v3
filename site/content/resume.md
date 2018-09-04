@@ -1,9 +1,10 @@
 ---
-title: Resume 📄️
+title: Resume 📃
 description: A 1-page summary of my professional journey.
 banner: https://i.imgur.com/vEg8KOi.jpg
 hideBanner: true
 noComments: true
+notShownOnNavbar: true
 aliases:
   - /home/awards/resume/
   - /resume/

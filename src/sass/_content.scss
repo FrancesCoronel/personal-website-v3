@@ -34,7 +34,7 @@
   a {
     border-bottom-width: 1px;
     border-bottom-style: dashed;
-    border-bottom-color: $links;
+    border-bottom-color: $link;
 
     &:hover {
       color: black;
@@ -113,14 +113,6 @@
 
     & img.emoji {
       margin-right: 1em;
-    }
-  }
-
-  .content-footer {
-    margin: 0;
-
-    h1 {
-      margin-top: 0em;
     }
   }
 }

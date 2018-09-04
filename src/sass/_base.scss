@@ -8,12 +8,12 @@ body {
 }
 
 a {
-  color: $links;
+  color: $link;
 
   &.navbar-item {
     &:hover {
-      color: $links;
-      background-color: $light-gray;
+      color: $link;
+      background-color: $grey-light;
     }
   }
 

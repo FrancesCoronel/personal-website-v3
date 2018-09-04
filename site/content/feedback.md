@@ -1,13 +1,14 @@
 ---
-title: Feedback ✅
+title: Reviews ✅
 description: All the sweet things folks have had to say.
 banner: https://i.imgur.com/eDqiqGu.jpg
 hideBanner: true
 noComments: true
 noTimeEstimate: true
 feedbackPage: true
+notShownOnNavbar: true
+url: /reviews/
 aliases:
-  - /reviews/
   - /services/mentoring/reviews/
   - /services/reviews/
   - /feedback/

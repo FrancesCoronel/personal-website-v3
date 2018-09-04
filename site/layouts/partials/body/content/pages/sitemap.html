@@ -1,6 +1,5 @@
-<section class="section">
+<section class="section pt-0">
   <div class="container content">
-    <h2>🌐 Sitemap</h2>
     <div class="columns is-multiline">
       <!-- Pages -->
       {{ $pages := where .Site.RegularPages "Type" "page" }}
@@ -9,11 +8,10 @@
       <!-- Looping -->
       {{ range $pages.ByTitle }}
       <!-- Filter -->
-      {{ if not (.Params.noHomePage) }}
       <div class="column is-one-third">
         {{ partial "body/content/card/plain.html" . }}
       </div>
-      {{ end }} {{ end }}
+      {{ end }}
     </div>
   </div>
 </section>

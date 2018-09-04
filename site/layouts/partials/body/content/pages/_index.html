@@ -1,32 +1,25 @@
-<!-- Archive -->
 {{ if .Params.archivePage }}
   {{ partial "body/content/pages/archive.html" . }}
-{{ end }}
-<!-- Awards -->
-{{ if .Params.awardsPage }}
+{{ else if .Params.awardsPage }}
   {{ partial "body/content/pages/awards.html" . }}
-{{ end }}
-<!-- Blog -->
-{{ if .Params.blogPage }}
+{{ else if .Params.blogPage }}
   {{ partial "body/content/pages/blog.html" . }}
-{{ end }}
-<!-- Feedback -->
-{{ if .Params.feedbackPage }}
+{{ else if .Params.conferencePage }}
+  {{ partial "body/content/pages/conference.html" . }}
+{{ else if .Params.feedbackPage }}
   {{ partial "body/content/pages/feedback.html" . }}
-{{ end }}
-<!-- Press -->
-{{ if .Params.pressPage }}
+{{ else if .Params.milestonesPage }}
+  {{ partial "body/content/pages/milestones.html" . }}
+{{ else if .Params.pressPage }}
   {{ partial "body/content/pages/press.html" . }}
-{{ end }}
-<!-- Portfolio -->
-{{ if .Params.portfolioPage }}
+{{ else if .Params.portfolioPage }}
   {{ partial "body/content/pages/portfolio.html" . }}
-{{ end }}
-<!-- Speaking -->
-{{ if .Params.speakingPage }}
+{{ else if .Params.sitemapPage }}
+  {{ partial "body/content/pages/sitemap.html" . }}
+{{ else if .Params.speakingPage }}
   {{ partial "body/content/pages/speaking.html" . }}
-{{ end }}
-<!-- Talk -->
-{{ if .Params.talk }}
+{{ else if .Params.talk }}
   {{ partial "body/content/pages/talk.html" . }}
+{{ else if .Params.volunteeringPage }}
+  {{ partial "body/content/pages/volunteering.html" . }}
 {{ end }}

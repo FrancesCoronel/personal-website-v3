@@ -7,114 +7,50 @@ import cssnano from "cssnano";
 import del from "del";
 import log from "fancy-log";
 import gulp from "gulp";
-import brotli from "gulp-brotli";
-import gzip from "gulp-gzip";
-import htmlmin from "gulp-htmlmin";
 import imagemin from "gulp-imagemin";
 import postcss from "gulp-postcss";
 import sass from "gulp-sass";
 import sourcemaps from "gulp-sourcemaps";
-import watch from "gulp-watch";
 import hugoBin from "hugo-bin";
 import PluginError from "plugin-error";
 import csso from "postcss-csso";
-// import runSequence from "run-sequence";
 import webpack from "webpack";
-
+import run from "gulp-run-command";
 import webpackConfig from "./webpack.config";
 
-/** Browser Sync **/
+// Browser Sync
 const browserSync = BrowserSync.create();
-
-/** Hugo arguments **/
-
-const hugoArgsDefault = ["-d", "../dist", "-s", "site"];
-// const hugoArgsVerbose = ["-d", "../dist", "-s", "site", "-v"];
-
-/** Run Hugo and Build Site */
-
-function buildSite(cb, options, environment = "development") {
-  const args = options ? hugoArgsDefault.concat(options) : hugoArgsDefault;
-  process.env.NODE_ENV = environment;
-  return spawn(hugoBin, args, {
-    stdio: "inherit",
-  }).on("close", (code) => {
-    if (code === 0) {
-      browserSync.reload();
-      cb();
-    } else {
-      browserSync.notify("Hugo build failed :(");
-      cb("Hugo build failed");
-    }
-  });
-}
-
-/** Gulp Tasks **/
-
-// Minify HTML
-gulp.task("minify", () =>
-  gulp
-  .src("./dist/**/*.html")
-  .pipe(
-    htmlmin({
-      collapseWhitespace: true,
-      minifyCSS: true,
-      minifyJS: true,
-      removeComments: true,
-      useShortDoctype: true,
-    })
-  )
-  .pipe(
-    brotli.compress({
-      skipLarger: true,
-      mode: 0,
-      quality: 11,
-      lgblock: 0,
-    })
-  )
-  .pipe(
-    gzip({
-      skipGrowingFiles: true,
-    })
-  )
-  .pipe(gulp.dest("./dist"))
-);
 
 // Compress SASS
 gulp.task("sass", () =>
   gulp
-  .src(["./src/sass/styles.scss", "./src/sass/search.scss"])
-  .pipe(
-    sass({
-      outputStyle: "compressed",
-    }).on("error", sass.logError)
-  )
-  .pipe(postcss([autoprefixer(), cssnano(), csso()]))
-  .pipe(sourcemaps.write("."))
-  .pipe(gulp.dest("./dist/assets/css"))
-  .pipe(browserSync.stream())
+    .src(["./src/sass/styles.scss", "./src/sass/search.scss"])
+    .pipe(
+      sass({
+        outputStyle: "compressed",
+      }).on("error", sass.logError)
+    )
+    .pipe(postcss([autoprefixer(), cssnano(), csso()]))
+    .pipe(sourcemaps.write("."))
+    .pipe(gulp.dest("./dist/assets/css"))
+    .pipe(browserSync.stream())
 );
 
 // Compress images
 gulp.task("img", () =>
   gulp
-  .src("./src/img/**/*")
-  .pipe(imagemin())
-  .pipe(gulp.dest("./dist/assets/img"))
+    .src("./src/img/**/*")
+    .pipe(imagemin())
+    .pipe(gulp.dest("./dist/assets/img"))
 );
 
 // Copy static files
 gulp.task("static", () =>
   gulp
-  .src("./static/**/*")
-  .pipe(gulp.dest("./dist"))
-  .pipe(browserSync.stream())
+    .src("./static/**/*")
+    .pipe(gulp.dest("./dist"))
+    .pipe(browserSync.stream())
 );
-
-// Clean up dist
-gulp.task("clean", () => {
-  return del.sync("dist");
-});
 
 // Compile Javascript
 gulp.task("js", () => {
@@ -132,35 +68,57 @@ gulp.task("js", () => {
   });
 });
 
-// Development tasks
-gulp.task("hugo", (cb) => buildSite(cb));
+// Clean up dist
+gulp.task("clean", () => {
+  return del.sync("dist");
+});
 
-// Build/production tasks
-// gulp.task("build", ["clean", "hugo", "sass", "js", "img", "static"], (callback) => {
-//   runSequence("minify", callback);
-// });
-gulp.task("build", ["clean", "hugo", "sass", "js", "img", "static"], (cb) => buildSite(cb, [], "production"));
-
-// Development server with browser sync
-gulp.task("server", ["hugo", "sass", "js", "img", "static"], () => {
+// Development server with browsersync
+const runServer = () => {
   browserSync.init({
     server: {
-      baseDir: "./dist",
-    },
+      baseDir: "./dist"
+    }
   });
-  watch("./src/sass/**/*.scss", () => {
-    gulp.start(["sass"]);
+  gulp.watch("./src/js/**/*.js", ["js"]);
+  gulp.watch("./src/sass/**/*.scss", ["sass"]);
+  gulp.watch("./src/img/**/*", ["img"]);
+  gulp.watch("./src/static/**/*", ["static"]);
+  gulp.watch("./site/**/*", ["hugo"]);
+};
+
+// Run Hugo
+function buildSite(cb, options, environment = "development") {
+  const args = options ? hugoArgsDefault.concat(options) : hugoArgsDefault;
+
+  process.env.NODE_ENV = environment;
+
+  return spawn(hugoBin, args, {
+    stdio: "inherit"
+  }).on("close", (code) => {
+    if (code === 0) {
+      browserSync.reload();
+      cb();
+    } else {
+      browserSync.notify("Hugo build failed :(");
+      cb("Hugo build failed");
+    }
   });
-  watch("./src/js/**/*.js", () => {
-    gulp.start(["js"]);
-  });
-  watch("./src/img/**/*", () => {
-    gulp.start(["img"]);
-  });
-  watch("./static/**/*", () => {
-    gulp.start(["static"]);
-  });
-  watch(["./site/**/*"], () => {
-    gulp.start(["hugo"]);
-  });
-});
+}
+
+// Hugo arguments
+const hugoArgs = "hugo -d ../dist -s site -v --minify";
+const hugoArgsDefault = ["-d", "../dist", "-s", "site"];
+const hugoArgsPreview = ["--buildDrafts", "--buildFuture"];
+
+// Development tasks
+gulp.task("hugo", (cb) => buildSite(cb, []));
+gulp.task("hugo-preview", (cb) => buildSite(cb, hugoArgsPreview));
+
+// Server tasks
+gulp.task("server", ["hugo", "sass", "js", "img", "static"], (cb) => runServer(cb));
+gulp.task("server-preview", ["hugo-preview", "sass", "js", "img", "static"], (cb) => runServer(cb));
+
+// Production tasks
+gulp.task("build", ["clean"], run(hugoArgs), ["sass", "js", "img", "static"]);
+gulp.task("build-preview", ["clean", "hugo", "sass", "js", "img", "static"], (cb) => buildSite(cb, hugoArgsPreview, "production"));

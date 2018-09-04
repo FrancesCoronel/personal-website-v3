@@ -11,13 +11,13 @@
   <!-- Table -->
   <table class="table">
     <tbody>
-      {{ range .Pages }}{{ if .Date.Before now }}
+      {{ range .Pages }}
       <tr>
         <td style="width:20%;">{{ dateFormat "January 2" .Date }}</td>
         <td>
-          <a {{ if .Params.link }} href="{{ .Params.link }}" target="_blank" rel="noopener" {{ else }} href="{{ .RelPermalink }}" {{ end }}>{{ .Title }}</a>
+          <a {{ if .Params.link }} href="{{ .Params.link }}" target="_blank" rel="noopener" {{ else }} href="{{ .RelPermalink }}"{{ end }}>{{ .Title }}</a>
         </td>
-      </tr>{{ end }}{{ end }}
+      </tr>{{ end }}
     </tbody>
   </table>
   {{ end }}

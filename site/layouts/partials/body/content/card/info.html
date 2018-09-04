@@ -20,12 +20,22 @@
   {{ end }}
   <!-- Date -->
   {{ if not .PublishDate.IsZero }}
+  {{ if not (in .Params.categories "talk") }}
   <p class="subtitle has-text-weight-light is-size-6 mt-1">
     <time datetime="{{ dateFormat " 2006-01-02 " .Date }}">
       {{ dateFormat "Monday - January 2, 2006" .Date }}
-    </time>{{ if .ReadingTime }} ∙ {{ .ReadingTime }} min read{{ end }}
+    </time>
+  </p>
+  {{- if not .Params.noTimeEstimate }}
+  {{ if .ReadingTime }}
+  {{ if .WordCount }}
+  <p class="subtitle has-text-weight-light is-size-6 mt-1">
+    {{ .ReadingTime }} min read ∙ {{ .WordCount }} words
   </p>
   {{ end }}
+  {{ end }}
+  {{- end }}
+  {{ end }}{{ end }}
   <!-- Assets -->
   <!-- Slides -->
   {{ if or (.Params.slides) (.Params.video) (.Params.recording) }}

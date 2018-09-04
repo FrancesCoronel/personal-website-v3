@@ -4,11 +4,14 @@ description: 'Bite-sized stories of women in tech sharing their favorite product
 banner: https://i.imgur.com/YyDzosp.png
 noTimeEstimate: true
 noComments: true
+notShownOnNavbar: true
 aliases:
   - /podcast/
   - /youtube-series/
   - /the-alexis-clue/
   - /alexis-clue/
+categories:
+  - podcast
 tags:
   - podcast
 ---
