@@ -68,8 +68,8 @@ fields:
   default: []
   description: Categories help differentiate what kind of post this is.
 pages:
-- site/content/adventures/2015-08-28-fullstack-academy---blog-post-banners.md
-- site/content/adventures/2014-11-11-new-wordpress-theme---tdeditor.md
 - site/content/adventures/2014-10-15-custom-website-flavicons.md
 - site/content/adventures/2014-11-16-needs-flavours.md
+- site/content/adventures/2015-08-28-fullstack-academy---blog-post-banners.md
+- site/content/adventures/2014-11-11-new-wordpress-theme---tdeditor.md
 - site/content/adventures/2016-01-01-el-capitan----strict--yosemite----strict.md
