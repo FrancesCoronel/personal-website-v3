@@ -24,32 +24,32 @@ const browserSync = BrowserSync.create();
 // Compress SASS
 gulp.task("sass", () =>
   gulp
-    .src(["./src/sass/styles.scss", "./src/sass/search.scss"])
-    .pipe(
-      sass({
-        outputStyle: "compressed",
-      }).on("error", sass.logError)
-    )
-    .pipe(postcss([autoprefixer(), cssnano(), csso()]))
-    .pipe(sourcemaps.write("."))
-    .pipe(gulp.dest("./dist/assets/css"))
-    .pipe(browserSync.stream())
+  .src(["./src/sass/styles.scss", "./src/sass/search.scss"])
+  .pipe(
+    sass({
+      outputStyle: "compressed",
+    }).on("error", sass.logError)
+  )
+  .pipe(postcss([autoprefixer(), cssnano(), csso()]))
+  .pipe(sourcemaps.write("."))
+  .pipe(gulp.dest("./dist/assets/css"))
+  .pipe(browserSync.stream())
 );
 
 // Compress images
 gulp.task("img", () =>
   gulp
-    .src("./src/img/**/*")
-    .pipe(imagemin())
-    .pipe(gulp.dest("./dist/assets/img"))
+  .src("./src/img/**/*")
+  .pipe(imagemin())
+  .pipe(gulp.dest("./dist/assets/img"))
 );
 
 // Copy static files
 gulp.task("static", () =>
   gulp
-    .src("./static/**/*")
-    .pipe(gulp.dest("./dist"))
-    .pipe(browserSync.stream())
+  .src("./static/**/*")
+  .pipe(gulp.dest("./dist"))
+  .pipe(browserSync.stream())
 );
 
 // Compile Javascript
@@ -66,6 +66,10 @@ gulp.task("js", () => {
     );
     browserSync.reload();
   });
+});
+
+gulp.task("hugo-test", () => {
+  run(hugoArgs);
 });
 
 // Clean up dist
@@ -120,5 +124,5 @@ gulp.task("server", ["hugo", "sass", "js", "img", "static"], (cb) => runServer(c
 gulp.task("server-preview", ["hugo-preview", "sass", "js", "img", "static"], (cb) => runServer(cb));
 
 // Production tasks
-gulp.task("build", ["clean"], run(hugoArgs), ["sass", "js", "img", "static"]);
+gulp.task("build", ["clean", "hugo", "sass", "js", "img", "static"], (cb) => buildSite(cb, [], "production"));
 gulp.task("build-preview", ["clean", "hugo", "sass", "js", "img", "static"], (cb) => buildSite(cb, hugoArgsPreview, "production"));
