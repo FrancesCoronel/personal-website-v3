@@ -6,7 +6,7 @@ hideBanner: true
 noComments: true
 noTimeEstimate: true
 awardsPage: true
-notShownOnNavbar: true
+noNavbar: true
 aliases:
   - /awards/
   - /home/awards/

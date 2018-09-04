@@ -1,3 +1,4 @@
+<div class="content-custom">
 {{ if .Params.archivePage }}
   {{ partial "body/content/pages/archive.html" . }}
 {{ else if .Params.awardsPage }}
@@ -6,20 +7,31 @@
   {{ partial "body/content/pages/blog.html" . }}
 {{ else if .Params.conferencePage }}
   {{ partial "body/content/pages/conference.html" . }}
+{{ else if .Params.educationPage }}
+  {{ partial "body/content/pages/education.html" . }}
+{{ else if .Params.experiencePage }}
+  {{ partial "body/content/pages/experience.html" . }}
 {{ else if .Params.feedbackPage }}
-  {{ partial "body/content/pages/feedback.html" . }}
+  {{ partial "body/content/pages/reviews.html" . }}
+{{ else if .Params.hackathonPage }}
+  {{ partial "body/content/pages/hackathons.html" . }}
 {{ else if .Params.milestonesPage }}
   {{ partial "body/content/pages/milestones.html" . }}
 {{ else if .Params.pressPage }}
   {{ partial "body/content/pages/press.html" . }}
 {{ else if .Params.portfolioPage }}
   {{ partial "body/content/pages/portfolio.html" . }}
+{{ else if .Params.programPage }}
+  {{ partial "body/content/pages/program.html" . }}
 {{ else if .Params.sitemapPage }}
   {{ partial "body/content/pages/sitemap.html" . }}
 {{ else if .Params.speakingPage }}
   {{ partial "body/content/pages/speaking.html" . }}
 {{ else if .Params.talk }}
   {{ partial "body/content/pages/talk.html" . }}
+{{ else if .Params.talkPage }}
+  {{ partial "body/content/pages/talks.html" . }}
 {{ else if .Params.volunteeringPage }}
   {{ partial "body/content/pages/volunteering.html" . }}
 {{ end }}
+</div>

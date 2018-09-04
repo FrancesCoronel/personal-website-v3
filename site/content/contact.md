@@ -5,8 +5,8 @@ banner: https://i.imgur.com/0n5zqiA.jpg
 hideBanner: true
 noComments: true
 noTimeEstimate: true
+url: /contact/
 aliases:
-  - /contact/
   - /getting-in-touch/
   - /get-in-touch/
   - /about/contact/

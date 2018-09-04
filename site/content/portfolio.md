@@ -6,9 +6,9 @@ hideBanner: true
 noComments: true
 noTimeEstimate: true
 portfolioPage: true
-notShownOnNavbar: true
+noNavbar: true
+url: /portfolio/
 aliases:
-  - /portfolio/
   - /projects/
   - /project-type/books/
   - /project-type/branding/

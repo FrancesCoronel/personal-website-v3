@@ -1,7 +1,7 @@
 <!-- Variables -->
 {{ $press := ($.Site.Taxonomies.categories.press).Pages }}
 <!-- Press -->
-<h2>📰️ {{ len $press }} Mentions</h2>
+<h2>📰️ {{ len $press }} press mentions</h2>
 <div class="columns is-multiline">
   {{ range $press }} {{ if .Date.Before now }}
   <div class="column is-one-third">

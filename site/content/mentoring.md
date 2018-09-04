@@ -3,7 +3,7 @@ title: Mentoring 📚
 description: Mentoring is a brain to pick, an ear to listen, and a push in the right direction.
 banner: https://i.imgur.com/BqiFTqF.jpg
 noComments: true
-notShownOnNavbar: true
+noNavbar: true
 url: /mentoring/
 aliases:
   - /services/mentoring/
@@ -13,31 +13,28 @@ aliases:
 
 ## I enjoy mentoring folks through non-profit organizations trying to enact change in the tech industry.
 
-Generally speaking, I enjoy mentoring on how to prepare for coding bootcamps but I have teachable experience in web development, web design, and all sorts of nifty dev, design, or productivity tools.
-
 > As of **August 2018**, I am slowly losing track of all the mentoring activity I've been up to, however, my [Linkedin profile](https://linkedin.com/in/fvcproductions) is the most up to date.
-
-> As of **June 2018**, I’ve dedicated **over 55 hours** of my free time mentoring awesome people 1-on-1 which you can see on my [mentoring sessions](/mentoring/) page. ⏰
-
+>
+> As of **June 2018**, I’ve dedicated **over 55 hours** of my free time mentoring awesome people 1-on-1 which you can see on the [mentoring sessions](#mentoring-sessions) section below ⏰
+>
 > As of **February 2018**, I've [started mentoring part-time](/2018/02/20/thinkful/) for Thinkful's web development bootcamp and getting paid to do so. 😊
 
+Generally speaking, I enjoy mentoring on how to prepare for coding bootcamps but I have teachable experience in web development, web design, and all sorts of nifty dev, design, or productivity tools.
 
 So far, I’ve helped out folks who have successfully gone on to coding bootcamps like [Fullstack Academy](https://fullstackacademy.com), [Hack Reactor](https://hackreactor.com), and [MakerSquare](https://makersquare.com).
 
 I’ve also tutored kids at the elementary, middle, and high school level on how to get started in the tech field.
 
-
 You can find [the feedback I've received](/feedback/) thus far on my website!
 
----
-
-## If you’re interested in being mentored, feel free to [contact me](/contact/) through my website. 📩️
-
----
-
-> Total # of Sessions: 68
+> If you’re interested in being mentored, feel free to check out my [mentoring page](/mentoring/). 📚
 >
-> Total Hours: 55.48
+> Or you can [contact me](/contact/). 📩️
+
+## Mentoring Sessions
+
+- Total # of Sessions: 68
+- Total Hours: 55.48
 
 <!-- Use https://www.miniwebtool.com/sum-calculator/ -->
 

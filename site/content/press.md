@@ -5,7 +5,8 @@ banner: https://i.imgur.com/iFVrP3w.jpg
 hideBanner: true
 noComments: true
 pressPage: true
-notShownOnNavbar: true
+noNavbar: true
+url: /press/
 aliases:
-  - /press/
+  - /press-mentions/
 ---

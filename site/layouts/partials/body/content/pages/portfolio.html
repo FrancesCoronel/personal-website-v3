@@ -1,7 +1,5 @@
-<!-- Variables -->
 {{ $portfolio := ($.Site.Taxonomies.categories.portfolio.Pages) }}
-<!-- Portfolio -->
-<h2>💼 {{ len $portfolio }} Projects</h2>
+<h2>🛠️ {{ len $portfolio }} projects worked on</h2>
 <div class="columns is-multiline">
   {{ range $portfolio }} {{ if .Date.Before now }}
   <div class="column is-one-third">

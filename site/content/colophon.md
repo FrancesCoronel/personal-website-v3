@@ -5,10 +5,12 @@ banner: https://i.imgur.com/D4dPpG2.jpg
 hideBanner: true
 noTimeEstimate: true
 noComments: true
-notShownOnNavbar: true
+noNavbar: true
+url: /colophon/
 aliases:
   - /about/colophon/
-  - /colophon/
+  - /humans/
+  - /wtf/
 ---
 
 ## Copyright ∞ FVCproductions

@@ -5,4 +5,7 @@ url: /milestones/
 hideBanner: true
 noComments: true
 milestonesPage: true
+aliases:
+  - /goals/
+  - /data/
 ---

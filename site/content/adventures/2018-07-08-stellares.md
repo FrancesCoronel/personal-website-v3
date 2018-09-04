@@ -6,7 +6,6 @@ url: /2018/07/08/stellares-feedback-session/
 date: 2018-07-08
 categories:
   - review
-  - portfolio
 tags:
   - freelancing
 ---

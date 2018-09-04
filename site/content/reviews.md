@@ -6,7 +6,7 @@ hideBanner: true
 noComments: true
 noTimeEstimate: true
 feedbackPage: true
-notShownOnNavbar: true
+noNavbar: true
 url: /reviews/
 aliases:
   - /services/mentoring/reviews/
@@ -16,4 +16,6 @@ aliases:
   - /testimonials/
 ---
 
-## If you’re interested in being mentored, feel free to [contact me](/contact/) through my website. 📩️
+> If you’re interested in being mentored, feel free to check out my [mentoring page](/mentoring/). 📚
+>
+> Or you can [contact me](/contact/). 📩️

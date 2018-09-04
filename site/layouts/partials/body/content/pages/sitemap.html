@@ -1,10 +1,11 @@
+<!-- Pages -->
+{{ $pages := where .Site.RegularPages "Type" "page" }}
+<!-- Pages & Section Pages -->
+{{ $pages := $pages | union (.Site.Sections) }}
 <section class="section pt-0">
   <div class="container content">
+    <h2>🌐️ {{ len $pages }} total pages</h2>
     <div class="columns is-multiline">
-      <!-- Pages -->
-      {{ $pages := where .Site.RegularPages "Type" "page" }}
-      <!-- Pages & Section Pages -->
-      {{ $pages := $pages | union (.Site.Sections) }}
       <!-- Looping -->
       {{ range $pages.ByTitle }}
       <!-- Filter -->

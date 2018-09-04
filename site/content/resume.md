@@ -4,10 +4,10 @@ description: A 1-page summary of my professional journey.
 banner: https://i.imgur.com/vEg8KOi.jpg
 hideBanner: true
 noComments: true
-notShownOnNavbar: true
+noNavbar: true
+url: /resume/
 aliases:
   - /home/awards/resume/
-  - /resume/
 ---
 
 ## For a live version of my resume, please refer to [my LinkedIn profile](https://linkedin.com/in/fvcproductions).

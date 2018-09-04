@@ -6,5 +6,8 @@ conferencePage: true
 hideBanner: true
 noComments: true
 noTimeEstimate: true
-notShownOnNavbar: true
+noNavbar: true
+url: /conferences/
+aliases:
+  - /tech-events/
 ---

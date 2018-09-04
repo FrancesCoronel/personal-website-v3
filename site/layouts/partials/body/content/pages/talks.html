@@ -1,0 +1,9 @@
+{{ $talk := ($.Site.Taxonomies.categories.talk).Pages }}
+<h2>📢 {{ len $talk }} presentations created</h2>
+<div class="columns is-multiline">
+  {{ range $talk }} {{ if .Date.Before now }}
+  <div class="column is-one-third">
+    {{ partial "body/content/card/plain.html" . }}
+  </div>
+  {{ end }} {{ end }}
+</div>

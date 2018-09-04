@@ -1,11 +1,12 @@
 ---
 title: Programs 🌱
 description: Growing outside of work or school.
-programsPage: true
+programPage: true
 hideBanner: true
 noComments: true
 noTimeEstimate: true
-notShownOnNavbar: true
+noNavbar: true
+url: /programs/
 aliases:
   - /meetups/
 ---

@@ -7,6 +7,9 @@
     <div class="content">
       <!-- Content -->
       {{ partial "body/content/_index.html" . }}
+      {{ if .Content }}
+      <br>
+      {{ end }}
       <!-- Custom Content -->
       {{ partial "body/content/pages/_index.html" . }}
     </div>

@@ -1,15 +1,16 @@
 ---
 title: The Alexis Clue 🎙️
-description: 'Bite-sized stories of women in tech sharing their favorite productivity apps.'
+description: Bite-sized stories of women in tech sharing their favorite productivity apps.
 banner: https://i.imgur.com/YyDzosp.png
 noTimeEstimate: true
 noComments: true
-notShownOnNavbar: true
+noNavbar: true
+url: /podcast/
 aliases:
-  - /podcast/
   - /youtube-series/
   - /the-alexis-clue/
   - /alexis-clue/
+  - /podcast-series/
 categories:
   - podcast
 tags:

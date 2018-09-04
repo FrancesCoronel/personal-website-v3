@@ -4,11 +4,12 @@ description: The places I've been.
 banner: https://images.pexels.com/photos/59519/pexels-photo-59519.jpeg
 hideBanner: true
 noComments: true
-notShownOnNavbar: true
+noNavbar: true
+url: /travels/
 aliases:
   - /home/about/travels/
   - /about/travels/
-  - /travels/
+  - /traveling/
 ---
 
 ## So I’ve come to the conclusion that I come from a pretty interesting background.

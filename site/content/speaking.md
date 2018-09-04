@@ -6,10 +6,11 @@ hideBanner: true
 noComments: true
 noTimeEstimate: true
 speakingPage: true
-notShownOnNavbar: true
+noNavbar: true
+url: /speaking/
 aliases:
-  - /speaking/
   - /home/services/speaking/
+  - /speaking-events/
 ---
 
 All presentation slides that I've used can be found on <a href="https://www.slideshare.net/fvcproductions" target="_blank" rel="noopener">my SlideShare profile <i class="fab fa-slideshare"></i></a>.

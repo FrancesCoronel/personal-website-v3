@@ -5,9 +5,11 @@ banner: https://i.imgur.com/rETMF3V.jpg
 hideBanner: true
 noComments: true
 noTimeEstimate: true
-notShownOnNavbar: true
+noNavbar: true
+url: /search/
 aliases:
-  - /search/
+  - /search-query/
+  - /searching/
 ---
 
 ## Enter your search term below.

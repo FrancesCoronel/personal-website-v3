@@ -1,0 +1,9 @@
+{{ $reviews := ($.Site.Taxonomies.categories.review.Pages) }}
+<h2>✅ {{ len $reviews }} reviews given</h2>
+<div class="columns is-multiline">
+  {{ range $reviews }} {{ if .Date.Before now }}
+  <div class="column is-one-third">
+    {{ partial "body/content/card/_index.html" . }}
+  </div>
+  {{ end }} {{ end }}
+</div>

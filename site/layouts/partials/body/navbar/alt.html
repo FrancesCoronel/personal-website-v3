@@ -11,7 +11,7 @@
         </span>
       </a>
       <ul class="mt-1">
-        {{ $parentPages := where .Site.RegularPages "Type" "page" }} {{ $homePages := $parentPages | union (.Site.Sections) }} {{ range $homePages.ByTitle }} {{ if (not .Params.notShownOnNavBar) }}
+        {{ $parentPages := where .Site.RegularPages "Type" "page" }} {{ $homePages := $parentPages | union (.Site.Sections) }} {{ range $homePages.ByTitle }} {{ if (not .Params.noNavbar) }}
         <li class="menu-item is-size-5">
           <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}">
             {{ .Title }}

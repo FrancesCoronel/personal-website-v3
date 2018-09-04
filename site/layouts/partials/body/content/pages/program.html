@@ -1,7 +1,7 @@
-{{ $conferences := ($.Site.Taxonomies.categories.conference).Pages }}
-<h2>👥 {{ len $conferences }} events attended</h2>
+{{ $programs := ($.Site.Taxonomies.categories.program).Pages }}
+<h2>🌱 {{ len $programs }} programs attended</h2>
 <div class="columns is-multiline">
-  {{ range $conferences }}
+  {{ range $programs }}
   <div class="column is-one-third">
     {{ partial "body/content/card/plain.html" . }}
   </div>

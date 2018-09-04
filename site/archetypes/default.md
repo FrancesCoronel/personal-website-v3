@@ -13,7 +13,7 @@ draft: true
 # Pages
 noComments: true
 noTimeEstimate: true
-notShownOnNavbar: true
+noNavbar: true
 # taxonomy
 categories:
   - award

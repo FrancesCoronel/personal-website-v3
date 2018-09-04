@@ -1,7 +1,7 @@
-{{ $conferences := ($.Site.Taxonomies.categories.conference).Pages }}
-<h2>👥 {{ len $conferences }} events attended</h2>
+{{ $experience := ($.Site.Taxonomies.categories.experience).Pages }}
+<h2>💼 {{ len $experience }} positions so far</h2>
 <div class="columns is-multiline">
-  {{ range $conferences }}
+  {{ range $experience }}
   <div class="column is-one-third">
     {{ partial "body/content/card/plain.html" . }}
   </div>

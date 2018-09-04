@@ -6,7 +6,7 @@ hideBanner: true
 noComments: true
 noTimeEstimate: true
 blogPage: true
-notShownOnNavbar: true
+noNavbar: true
 aliases:
   - /blog/
   - /blog/archive/

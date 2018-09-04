@@ -6,6 +6,7 @@ hideBanner: true
 noComments: true
 noTimeEstimate: true
 archivePage: true
+url: /archive/
 aliases:
   - /tags/
 ---

@@ -4,8 +4,9 @@ description: All the pages on this website.
 noComments: true
 noTimeEstimate: true
 sitemapPage: true
-notShownOnNavbar: true
+noNavbar: true
+url: /sitemap/
 aliases:
-  - /sitemap/
   - /directory/
+  - /all-pages/
 ---

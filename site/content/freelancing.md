@@ -5,11 +5,11 @@ banner: https://i.imgur.com/hD3rQiK.jpg
 hideBanner: true
 noComments: true
 freelancingPage: true
-notShownOnNavbar: true
+noNavbar: true
+url: /freelancing/
 aliases:
   - /services/
   - /services/freelancing/
-  - /freelancing/
   - /home/services/
   - /home/services/freelancing/
 ---
