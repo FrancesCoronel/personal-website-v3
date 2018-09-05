@@ -24,32 +24,32 @@ const browserSync = BrowserSync.create();
 // Compress SASS
 gulp.task("sass", () =>
   gulp
-  .src(["./src/sass/styles.scss", "./src/sass/search.scss"])
-  .pipe(
-    sass({
-      outputStyle: "compressed",
-    }).on("error", sass.logError)
-  )
-  .pipe(postcss([autoprefixer(), cssnano(), csso()]))
-  .pipe(sourcemaps.write("."))
-  .pipe(gulp.dest("./dist/assets/css"))
-  .pipe(browserSync.stream())
+    .src(["./src/sass/styles.scss", "./src/sass/search.scss"])
+    .pipe(
+      sass({
+        outputStyle: "compressed",
+      }).on("error", sass.logError)
+    )
+    .pipe(postcss([autoprefixer(), cssnano(), csso()]))
+    .pipe(sourcemaps.write("."))
+    .pipe(gulp.dest("./dist/assets/css"))
+    .pipe(browserSync.stream())
 );
 
 // Compress images
 gulp.task("img", () =>
   gulp
-  .src("./src/img/**/*")
-  .pipe(imagemin())
-  .pipe(gulp.dest("./dist/assets/img"))
+    .src("./src/img/**/*")
+    .pipe(imagemin())
+    .pipe(gulp.dest("./dist/assets/img"))
 );
 
 // Copy static files
 gulp.task("static", () =>
   gulp
-  .src("./static/**/*")
-  .pipe(gulp.dest("./dist"))
-  .pipe(browserSync.stream())
+    .src("./static/**/*")
+    .pipe(gulp.dest("./dist"))
+    .pipe(browserSync.stream())
 );
 
 // Compile Javascript
@@ -110,6 +110,15 @@ function buildSite(cb, options, environment = "development") {
   });
 }
 
+function buildSiteTest(cb, options, environment = "development") {
+  const args = ["-d", "../dist", "-s", "site", "-v", "--minify"];
+  process.env.NODE_ENV = environment;
+  return spawn({
+    cmd: "hugo",
+    args: args
+  });
+}
+
 // Hugo arguments
 const hugoArgs = "hugo -d ../dist -s site -v --minify";
 const hugoArgsDefault = ["-d", "../dist", "-s", "site"];
@@ -124,5 +133,6 @@ gulp.task("server", ["hugo", "sass", "js", "img", "static"], (cb) => runServer(c
 gulp.task("server-preview", ["hugo-preview", "sass", "js", "img", "static"], (cb) => runServer(cb));
 
 // Production tasks
-gulp.task("build", ["clean", "hugo", "sass", "js", "img", "static"], (cb) => buildSite(cb, [], "production"));
+gulp.task("build", ["clean", "hugo", "sass", "img", "static", "js"], (cb) => buildSiteTest(cb, [], "production"));
+
 gulp.task("build-preview", ["clean", "hugo", "sass", "js", "img", "static"], (cb) => buildSite(cb, hugoArgsPreview, "production"));
