@@ -74,6 +74,10 @@ Space is limited, so reserve your spot today. Gracias to Twitter for hosting us.
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/MBonell/status/1034983044455645185">Marcela Bonell on Twitter</a></h4><p>Escuchando experiencias de #LatinasInTech</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
+## Feedback
+
+"I would like to thank you for taking the time to speak with me after the Latinas in Tech event at Twitter. I enjoyed hearing about your experience and journey working in tech."
+
 ## Questions Asked
 
 ### For all panelists

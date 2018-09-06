@@ -110,15 +110,6 @@ function buildSite(cb, options, environment = "development") {
   });
 }
 
-function buildSiteTest(cb, options, environment = "development") {
-  const args = ["-d", "../dist", "-s", "site", "-v", "--minify"];
-  process.env.NODE_ENV = environment;
-  return spawn({
-    cmd: "hugo",
-    args: args
-  });
-}
-
 // Hugo arguments
 const hugoArgs = "hugo -d ../dist -s site -v --minify";
 const hugoArgsDefault = ["-d", "../dist", "-s", "site"];
@@ -133,6 +124,6 @@ gulp.task("server", ["hugo", "sass", "js", "img", "static"], (cb) => runServer(c
 gulp.task("server-preview", ["hugo-preview", "sass", "js", "img", "static"], (cb) => runServer(cb));
 
 // Production tasks
-gulp.task("build", ["clean", "hugo", "sass", "img", "static", "js"], (cb) => buildSiteTest(cb, [], "production"));
+gulp.task("build", ["clean", "hugo", "sass", "img", "static", "js"], (cb) => buildSite(cb, [], "production"));
 
 gulp.task("build-preview", ["clean", "hugo", "sass", "js", "img", "static"], (cb) => buildSite(cb, hugoArgsPreview, "production"));
