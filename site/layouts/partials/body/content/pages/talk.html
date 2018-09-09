@@ -7,7 +7,7 @@
 <h2>📍 Presented at {{ len $events }}{{ if gt (len $events) 1 }} events{{ else }} event{{ end }}</h2>
 <div class="columns is-multiline">
   {{ range $events }} {{ if .Date.Before now }}
-  <div class="column is-one-third">
+  <div class="column is-half">
     {{ partial "body/content/card/_index.html" . }}
   </div>
   {{ end }} {{ end }}

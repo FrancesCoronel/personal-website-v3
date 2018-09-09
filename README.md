@@ -2,21 +2,17 @@
 
 # fvcproductions.github.io
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/commits/production) [![GitHub Commit Activity (Yearly)](https://img.shields.io/github/commit-activity/y/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/commits/production)
+[![GitHub last commit](https://img.shields.io/github/last-commit/fvcproductions/fvcproductions.github.io.svg)](https://github.com/fvcproductions/fvcproductions.github.io/commits/production) [![GitHub Commit Activity (Yearly)](https://img.shields.io/github/commit-activity/y/fvcproductions/fvcproductions.github.io.svg)](https://github.com/fvcproductions/fvcproductions.github.io/commits/production)
 
-[![GitHub Issues](https://img.shields.io/github/issues/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](https://github.com/fvcproductions/fvcproductions.github.io/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/fvcproductions/fvcproductions.github.io.svg)](https://github.com/fvcproductions/fvcproductions.github.io/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/fvcproductions/fvcproductions.github.io.svg)](https://github.com/fvcproductions/fvcproductions.github.io/pulls)
 
-[![MIT License](https://img.shields.io/github/license/fvcproductions/fvcproductions.github.io.svg?style=flat-square)](http://badges.mit-license.org) [![Become a Patron!](https://img.shields.io/badge/Patreon-Become%20a%20Patron!-orange.svg?style=flat-square)](https://www.patreon.com/fvcproductions) [![Gitter](https://img.shields.io/gitter/room/fvcproductions/Lobby.svg?style=flat-square)](https://gitter.im/fvcproductions/Lobby)
+[![MIT License](https://img.shields.io/github/license/fvcproductions/fvcproductions.github.io.svg)](http://badges.mit-license.org) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffvcproductions%2Ffvcproductions.github.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffvcproductions%2Ffvcproductions.github.io?ref=badge_shield)
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffvcproductions%2Ffvcproductions.github.io.svg?type=small)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffvcproductions%2Ffvcproductions.github.io?ref=badge_small)
+[![Become a Patron!](https://img.shields.io/badge/Patreon-Become%20a%20Patron!-orange.svg)](https://www.patreon.com/fvcproductions) [![Gitter](https://img.shields.io/gitter/room/fvcproductions/Lobby.svg)](https://gitter.im/fvcproductions/Lobby)
 
 My blog and portfolio all in one.
 
 View my website at [`https://www.fvcproductions.com`](https://www.fvcproductions.com).
-
-This website is a migration from my old Wordpress website at [`fvcproductions.wordpress.com`](https://fvcproductions.wordpress.com).
-
-It was built from the bottom up!
 
 ## Installation
 
@@ -42,20 +38,12 @@ hugo new adventures/2018-06-19-xyz.md
 
 ## Deployment
 
-This website is hosted on [GitHub](https://pages.github.com) and deployed through [Netlify](https://www.netlify.com/).
+This website is hosted & deployed through [Netlify](https://www.netlify.com/).
 
 ```bash
 # build static version in `/dist` folder
 
-npm run build
-
-# preview draft posts
-
-npm run build-preview
-
-# deploy dist folder to master (for GitHub pages)
-
-npm run deploy
+npm build
 ```
 
 ## Tools & Typography
@@ -65,8 +53,6 @@ npm run deploy
 ## Contributing
 
 I am always looking for ways to make my website more modular, lean, and clean.
-
-> Project management is handled by ZenHub - check out [the project board](https://github.com/fvcproductions/fvcproductions.github.io#boards?repos=25947059)!
 
 So if you have any suggestions, feel free to contribute!
 
@@ -89,10 +75,4 @@ More details can be found at this project's [code of conduct](.github/CODE_OF_CO
 ## Credits
 
 - [FVCproductions](https://github.com/fvcproductions) 🍓🍫
-- [HTML5 UP](https://html5up.net/license)
 - [Victor Hugo](https://github.com/netlify/victor-hugo)
-- [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes)
-
-## License
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Ffvcproductions%2Ffvcproductions.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Ffvcproductions%2Ffvcproductions.github.io?ref=badge_large)

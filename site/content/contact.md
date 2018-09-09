@@ -14,32 +14,6 @@ aliases:
   - /donate/
 ---
 
-## Book a Chat 📅
-
-If you'd like to set up a phone or video chat, you can use my [Calendly](https://calendly.com/fvcproductions) to book a time with me.
-
-### Pricing Table 💵
-
-Because of high demand, as of August 2018, I have updated my pricing table for the services I offer.
-
-| Session Type                                | Hourly Rate |
-| ------------------------------------------- | ----------- |
-| Freelance Writing                           | $30         |
-| General Technical Help (Codementor)         | $40         |
-| General Career Advice/Mentoring             | $50         |
-| General App/Product/Startup Review & Advice | $60         |
-| Freelance Design                            | $75         |
-| Speaking Engagements                        | $100*       |
-| Freelance Development                       | $150        |
-
-_\*Does not include travel/accommodation costs._
-
-> So before booking a **paid session** through my [Calendly](https://calendly.com/fvcproductions)  or [Codementor](https://www.codementor.io/fvcproductions), please make sure to [Cash](https://cash.me/$fvcprdxs) or [Venmo](https://venmo.com/fvcproductions) me the appropriate amount.
-
-### Mentoring Sessions 💛️
-
-If you are a black female or Latina in the tech industry, you can book a mentoring session with me for free.
-
 ## Ask Me Anything 🤔️
 
 Just have a general question? Want career advice for free? Maybe you found a typo?
@@ -51,6 +25,36 @@ Feel free to [submit a new issue/question](https://github.com/fvcproductions/ama
 If you'd like to stay in touch professionally, don't hesitate to [connect with me on LinkedIn](https://linkedin.com/in/fvcproductions).
 
 If you want career/mentoring advice, please refer to the details above.
+
+## Book a Chat 📅
+
+If you'd like to set up a phone or video chat, you can use my [Calendly](https://calendly.com/fvcproductions) to book a time with me. Before booking a session, please be sure to refer to the pricing table below and pay the appropriate amount before the session if applicable.
+
+If you are looking for technical help, you can message me on [Codementor](https://www.codementor.io/fvcproductions).
+
+### Pricing Table 💵
+
+Due to high demand, I've had to put a price point for some of the services I offer.
+
+If I don't value my time, effort and expertise, no one else will.
+
+| Session Type                                | Hourly Rate |
+| ------------------------------------------- | ----------- |
+| Freelance Writing                           | $30         |
+| General Technical Help (Codementor)         | $40         |
+| General Career Advice/Mentoring             | $50         |
+| General App/Product/Startup Review & Advice | $60         |
+| Freelance Design                            | $75         |
+| Freelance Development                       | $150        |
+| Speaking Engagements                        | $200*       |
+
+_\*Price may change based on event type/size and this does not include travel/accommodation costs._
+
+> I accept payments through [Venmo](https://venmo.com/fvcproductions) (preferred), [Square Cash](https://cash.me/$fvcprdxs) or [PayPal](https://paypal.me/fvcproductions).
+
+### Free Mentoring Sessions 💛️
+
+If you are a black female or Latina in the tech industry, you can book a mentoring session with me for free.
 
 ## Contact Form 📼
 

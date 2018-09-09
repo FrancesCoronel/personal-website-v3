@@ -4,6 +4,7 @@ description: Lady, I'm not a developer advocate, I'm just a developer who likes 
 noComments: true
 noTimeEstimate: true
 noNavbar: true
+customPage: true
 talkPage: true
 url: /talks/
 aliases:

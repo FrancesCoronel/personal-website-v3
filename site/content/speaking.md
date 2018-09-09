@@ -5,6 +5,7 @@ banner: https://i.imgur.com/vv51StT.jpg?2
 hideBanner: true
 noComments: true
 noTimeEstimate: true
+customPage: true
 speakingPage: true
 noNavbar: true
 url: /speaking/

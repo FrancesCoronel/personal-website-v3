@@ -5,6 +5,7 @@ banner: https://i.imgur.com/eDqiqGu.jpg
 hideBanner: true
 noComments: true
 noTimeEstimate: true
+customPage: true
 feedbackPage: true
 noNavbar: true
 url: /reviews/
