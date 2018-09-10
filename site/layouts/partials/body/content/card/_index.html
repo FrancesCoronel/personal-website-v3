@@ -1,5 +1,5 @@
-<a class="reset" aria-label="{{ .Title }}" {{ if .Params.link }} href="{{ .Params.link }}" target="_blank" rel="noopener" {{ else }} href="{{ .RelPermalink }}"{{ end }}>
-  <div class="card card-equal-height">
+<div class="card card-equal-height">
+  <a class="reset" aria-label="{{ .Title }}" {{ if .Params.link }} href="{{ .Params.link }}" target="_blank" rel="noopener" {{ else }} href="{{ .RelPermalink }}" {{ end }}>
     {{ if .Params.banner }}
     <figure class="image">
       <img src="{{ .Params.banner }}" alt="{{ .Title }}">
@@ -7,14 +7,14 @@
     {{ end }}
     <div class="media-content">
       {{ partial "body/content/card/info.html" . }}
-      <!-- Categories -->
-      {{ if .Params.categories }}
-      {{ if not (in .Params.categories "talk") }}
-      <div class="mt-1">
-        {{ partial "body/content/taxonomy/tags/categories.html" . }}
-      </div>
-      {{ end }}
-      {{ end }}
     </div>
+  </a>
+  <!-- Categories -->
+  {{ if .Params.categories }}
+  {{ if not (in .Params.categories "talk") }}
+  <div class="media-content mt-1">
+    {{ partial "body/content/taxonomy/tags/categories.html" . }}
   </div>
-</a>
+  {{ end }}
+  {{ end }}
+</div>

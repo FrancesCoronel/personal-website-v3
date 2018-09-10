@@ -3,11 +3,11 @@
 <nav class="pagination is-centered" aria-label="pagination">
   <!-- Previous Page -->
   {{ if .PrevInSection }}
-  <a class="pagination-previous" href="{{ .PrevInSection.RelPermalink }}">⬅&nbsp;<b>Previous</b>&nbsp;{{ .PrevInSection.Title }}</a>
+  <a class="pagination-previous" href="{{ .PrevInSection.RelPermalink }}">⬅&nbsp;<strong>Previous<strong>&nbsp;{{ .PrevInSection.Title }}</a>
   {{ end }}
   <!-- Next Page -->
   {{ if .NextInSection }}
-  <a class="pagination-next" href="{{ .NextInSection.RelPermalink }}">{{ .NextInSection.Title }}&nbsp;<b>Next</b>&nbsp;➡</a>
+  <a class="pagination-next" href="{{ .NextInSection.RelPermalink }}">{{ .NextInSection.Title }}&nbsp;<strong>Next<strong>&nbsp;➡</a>
   {{ end }}
 </nav>
 {{ end }}

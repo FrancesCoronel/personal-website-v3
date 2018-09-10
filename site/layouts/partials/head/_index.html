@@ -14,10 +14,6 @@
 <!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>{{ .Title }}</title>
-<!-- SEO -->
-{{ partial "head/seo/_index.html" . }}
-<!-- Favicons -->
-{{ partial "head/favicons/_index.html" . }}
 <!-- Custom CSS -->
 <link rel="stylesheet" href="/assets/css/styles.css">
 <!-- Prefetch Third Party Resources -->
@@ -31,3 +27,7 @@
 <link rel="preconnect" href="{{ .Site.BaseURL }}">
 <!-- Preload -->
 <link rel="preload" href="/assets/css/styles.css" as="style">
+<!-- Favicons -->
+{{ partial "head/favicons/_index.html" . }}
+<!-- SEO -->
+{{ partial "head/seo/_index.html" . }}

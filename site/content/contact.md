@@ -28,7 +28,9 @@ If you want career/mentoring advice, please refer to the details above.
 
 ## Book a Chat 📅
 
-If you'd like to set up a phone or video chat, you can use my [Calendly](https://calendly.com/fvcproductions) to book a time with me. Before booking a session, please be sure to refer to the pricing table below and pay the appropriate amount before the session if applicable.
+If you'd like to set up a phone or video chat, you can use my [Calendly](https://calendly.com/fvcproductions) to <a href="" onclick="Calendly.showPopupWidget('https://calendly.com/fvcproductions/30min');return false;">book a time with me</a>.
+
+Before booking a session, please be sure to refer to the pricing table below and pay the appropriate amount before the session if applicable.
 
 If you are looking for technical help, you can message me on [Codementor](https://www.codementor.io/fvcproductions).
 
@@ -62,7 +64,7 @@ If none of the above options seemed appropriate for you, feel free to go old sch
 
 Please note that depending on the contact reason, it may take longer for me to get back to you.
 
-<section class="contact-form">
+<div class="contact-form">
   <form method="POST" action="https://formspree.io/hello@fvcproductions.com">
     <input type="hidden" name="_subject" value="FVCproductions - New Contact Message">
     <div class="field">
@@ -95,4 +97,9 @@ Please note that depending on the contact reason, it may take longer for me to g
       </div>
     </div>
   </form>
-</section>
+</div>
+
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<!-- Calendly link widget end -->

@@ -1,5 +1,5 @@
 <hr>
-<section class="section section-share">
+<div class="section section-share">
   <h2>🌐️ Share</h2>
   <!-- Twitter -->
   <div class="social-icons mt-2">
@@ -31,7 +31,7 @@
       {{ partial "body/icons/hacker-news.html" . }}
     </a>
     <!-- Email -->
-    <a href="mailto:?subject=Check out this work by {{ .Site.Title }}&body={{ .Permalink | safeURL }}" target="_blank" rel="noopener" class="fa-email" aria-label="Email this article">
+    <a href="mailto:?subject=Check%20out%20this%20work%20by%20{{ .Site.Title }}&body={{ .Permalink | safeURL }}" target="_blank" rel="noopener" class="fa-email" aria-label="Email this article">
       {{ partial "body/icons/email.html" . }}
     </a>
     <!-- Print -->
@@ -39,4 +39,4 @@
       {{ partial "body/icons/print.html" . }}
     </a> -->
   </div>
-</section>
+</div>

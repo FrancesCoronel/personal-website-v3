@@ -53,9 +53,11 @@ Frances Coronel is a software engineer on the Customer Acquisition Team at Slack
 
 > 399 characters, 64 words
 
-Frances Coronel</b is a developer who gets a lot of personal satisfaction out of helping the local tech community through her varied skill set.</p>
-She is currently a software engineer on the Customer Acquisition team at Slack and has been working professionally as a developer since 2015.</p>
-Her passions outside of work include contributing to open-source, blogging about her adventures in tech, and traveling with her partner using Airbnb.</p>
+Frances Coronel is a developer who gets a lot of personal satisfaction out of helping the local tech community through her varied skill set.
+
+She is currently a software engineer on the Customer Acquisition team at Slack and has been working professionally as a developer since 2015.
+
+Her passions outside of work include contributing to open-source, blogging about her adventures in tech, and traveling with her partner using Airbnb.
 
 ### Long (<1000 characters)
 

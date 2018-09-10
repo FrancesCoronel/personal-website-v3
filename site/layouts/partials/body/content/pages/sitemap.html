@@ -2,7 +2,7 @@
 {{ $pages := where .Site.RegularPages "Type" "page" }}
 <!-- Pages & Section Pages -->
 {{ $pages := $pages | union (.Site.Sections) }}
-<section class="section pt-0">
+<div class="section pt-0">
   <div class="container content">
     <h2>🌐️ {{ len $pages }} total pages</h2>
     <div class="columns is-multiline">
@@ -15,4 +15,4 @@
       {{ end }}
     </div>
   </div>
-</section>
+</div>
