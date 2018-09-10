@@ -79,4 +79,4 @@ Her passions outside of work include contributing to open-source, blogging about
 
 > Source: https://www.techhireoakland.org/training/
 
-![Headshot](https://github.com/fvcproductions/fvcproductions/blob/master/photos/headshot_3_2.jpg?raw=true)
+![Headshot](/assets/img/about/headshot.jpg)
