@@ -1,6 +1,6 @@
 {{ $related := .Site.RegularPages.Related . | first 3 }} {{ with $related }}
 <hr>
-<section class="section section-related">
+<div class="section section-related">
   <h2>💭 Related</h2>
   <div class="columns is-multiline">
     {{ range . }}
@@ -9,5 +9,5 @@
     </div>
     {{ end }}
   </div>
-</section>
+</div>
 {{ end }}

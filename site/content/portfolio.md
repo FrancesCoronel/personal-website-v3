@@ -5,6 +5,7 @@ banner: https://i.imgur.com/DZnLjQQ.png
 hideBanner: true
 noComments: true
 noTimeEstimate: true
+customPage: true
 portfolioPage: true
 noNavbar: true
 url: /portfolio/

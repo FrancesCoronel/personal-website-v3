@@ -8,21 +8,3 @@ img.emoji {
   vertical-align: -0.1em;
   width: 1em;
 }
-
-.background-image {
-  -webkit-background-size: 100%;
-  -moz-background-size: 100%;
-  -o-background-size: 100%;
-  background-size: 100%;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-position: center center;
-  background-attachment: scroll;
-  @extend %text-shadow;
-  &.overlay {
-    @extend %image-shadow;
-  }
-}

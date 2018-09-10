@@ -13,54 +13,71 @@ aliases:
   - /wtf/
 ---
 
-## Copyright ∞ FVCproductions
+# Copyright ∞ FVCproductions
 
-This website was originally born in June of 2013 using [Wordpress.com](https://wordpress.com) in my final month of high school.
+Website design, development, and copy by Frances Coronel.
 
-I bought my domain `fvcproductions.com` August 20th, 2014.
+<!-- TOC -->
 
-Website design, development, and copy writing by Frances Coronel.
+- [The Beginnings](#the-beginnings)
+- [What I Use](#what-i-use)
+- [Source Code](#source-code)
+- [Domains](#domains)
+  - [Domain Searching](#domain-searching)
+    - [Best Candidates](#best-candidates)
+    - [Candidates](#candidates)
+    - [Available](#available)
+- [Tools](#tools)
+- [Testing](#testing)
+  - [Codacy](#codacy)
+  - [Codebeat](#codebeat)
+  - [CodeFactor](#codefactor)
+  - [FOSSA](#fossa)
+  - [Lighthouse](#lighthouse)
+- [Branding](#branding)
+  - [Colors](#colors)
+  - [Fonts](#fonts)
+- [Formatting](#formatting)
+  - [Third level](#third-level)
+    - [Fourth level](#fourth-level)
+      - [Fifth level](#fifth-level)
+        - [Sixth level](#sixth-level)
+
+<!-- /TOC -->
+
+## The Beginnings
+
+This website was originally born with Wordpress.com in my final month of high school (June 2013).
+
+## What I Use
 
 The software and hardware I use on a day to day basis can be found on my [What I Use](/2018/03/18/what-i-use---spring-2018/) page - last updated Spring 2018.
 
+## Source Code
+
 The source code [can be found on GitHub](https://github.com/fvcproductions/fvcproductions.github.io).
 
-The URL for this website is https://www.fvcproductions.com and there are several URLs that also redirect to it.
+## Domains
+
+I bought my domain `fvcproductions.com` August 20th, 2014.
+
+Before that, the domain used to be `fvcproductions.wordpress.com`.
+
+The main URL for this website is https://www.fvcproductions.com and there are several URLs that also redirect to it.
 
 - https://fvcproductions.com
-- https://latinaswe.com (going to expire this)
+- https://fvcproductions.github.io (GitHub Page)
+- https://latinaswe.com (expiring)
 - https://latinasoftwareengineer.com
 - https://latinahacker.com
 - https://latinaprogrammer.com
 - https://latinatechnologist.com
 
----
-
-## Credits
-
-- **CMS**
-  - [Hugo](https://gohugo.io)
-- **Hosting**
-  - [Netlify](https://www.netlify.com)
-- **Dependencies**
-  - [Disqus](https://disqus.com/)
-  - [Embedly](https://embed.ly/)
-  - [Google Analytics](https://analytics.google.com)
-  - [MailChimp](https://mailchi.mp/022336cef0b2/fvcproductions)
-  - [Twemoji](https://github.com/twitter/twemoji)
-- **Fonts**
-  - BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-- **Colors**
-  - <svg width="1em" height="1em"><rect width="1em" height="1em" style="fill:#253137;" /></svg> My lovely brand color of Oxford Blue with the HEX value of `#253137`
-  - [Material Colors](https://material.io/guidelines/style/color.html#color-color-palette)
-
----
-
-## Domain Searching
+### Domain Searching
 
 I'm also looking into these domains:
 
-> Best Candidates
+#### Best Candidates
 
 - https://latinatechie.com
   - 2018-08-25
@@ -69,7 +86,7 @@ I'm also looking into these domains:
 - https://latinacoder.com
   - 2019-05-04
 
-> Candidates
+#### Candidates
 
 - https://latinaintech.com
   - 2018-09-20
@@ -91,13 +108,59 @@ I'm also looking into these domains:
 - https://latinaguru.com
 - https://latinageek.com
 
-> Available
+#### Available
 
 - https://latinaengineering.com
 - https://latinawhocodes.com
 - https://latinosoftwareengineer.com
 - https://latinsoftwareengineer.com
 - https://peruvianengineer.com
+
+## Tools
+
+- [Hugo](https://gohugo.io) (CMS)
+- [Netlify](https://www.netlify.com) (Hosting & Deployment)
+- [Google Analytics](https://analytics.google.com) (Analytics)
+- [MailChimp](https://mailchi.mp/022336cef0b2/fvcproductions) (Email Marketing)
+- [Bulma](https://bulma.io) (CSS Framework)
+- [Disqus](https://disqus.com/) (Comments)
+- [Embedly](https://embed.ly/) (Rich Embeds)
+- [Twemoji](https://github.com/twitter/twemoji) (Emoji 😍)
+- [ZenHub](https://github.com/fvcproductions/fvcproductions.github.io#boards?repos=25947059)(Project Management)
+
+## Testing
+
+### Codacy
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3e60471b991941298d8a7f862b08f91b)](https://www.codacy.com/app/hello_67/fvcproductions.github.io?utm_source=github.com&utm_medium=referral&utm_content=fvcproductions/fvcproductions.github.io&utm_campaign=Badge_Grade)
+
+### Codebeat
+
+[![codebeat badge](https://codebeat.co/badges/b3702151-f58e-430f-aba1-15b265675031)](https://codebeat.co/projects/github-com-fvcproductions-fvcproductions-github-io-production)
+
+### CodeFactor
+
+[![CodeFactor](https://www.codefactor.io/repository/github/fvcproductions/fvcproductions.github.io/badge)](https://www.codefactor.io/repository/github/fvcproductions/fvcproductions.github.io)
+
+### FOSSA
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffvcproductions%2Ffvcproductions.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffvcproductions%2Ffvcproductions.github.io?ref=badge_large)
+
+### Lighthouse
+
+[![Lighthouse - September 2018](https://i.imgur.com/YaRV8EN.jpg)](https://developers.google.com/web/tools/lighthouse/)
+
+## Branding
+
+### Colors
+
+I use the lovely Oxford Blue with the HEX value of `#253137`
+
+<svg width="1em" height="1em"><rect width="1em" height="1em" style="fill:#253137;" /></svg>
+
+### Fonts
+
+`BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif`
 
 ---
 
@@ -112,17 +175,6 @@ _This means that even IE users can see 💩._
 For external links, a ↗ is automatically added to the end like [https://google.com](https://google.com).
 
 External links also automatically have `target='_blank'` and `rel='noopener'` added to the `a` tag.
-
----
-
-## Second level
-
-Curabitur accumsan turpis pharetra **augue tincidunt** blandit. Quisque condimentum maximus mi, sit amet commodo arcu rutrum id. Proin pretium urna vel cursus venenatis. Suspendisse potenti. Etiam mattis sem rhoncus lacus dapibus facilisis. Donec at dignissim dui. Ut et neque nisl.
-
-- In fermentum leo eu lectus mollis, quis dictum mi aliquet.
-- Morbi eu nulla lobortis, lobortis est in, fringilla felis.
-- Aliquam nec felis in sapien venenatis viverra fermentum nec lectus.
-- Ut non enim metus.
 
 ### Third level
 
@@ -140,11 +192,12 @@ Quisque ante lacus, malesuada ac auctor vitae, congue [non ante](https://www.you
 
 Quisque at semper enim, eu hendrerit odio. Etiam auctor nisl et _justo sodales_ elementum. Maecenas ultrices lacus quis neque consectetur, et lobortis nisi molestie.
 
-Sed sagittis enim ac tortor maximus rutrum. Nulla facilisi. Donec mattis vulputate risus in luctus. Maecenas vestibulum interdum commodo.
+- In fermentum leo eu lectus mollis, quis dictum mi aliquet.
+- Morbi eu nulla lobortis, lobortis est in, fringilla felis.
+- Aliquam nec felis in sapien venenatis viverra fermentum nec lectus.
+- Ut non enim metus.
 
-A technology to make HTML look better
-
-Suspendisse egestas sapien non felis placerat elementum. Morbi tortor nisl, suscipit sed mi sit amet, mollis malesuada nulla. Nulla facilisi. Nullam ac erat ante.
+Curabitur accumsan turpis pharetra **augue tincidunt** blandit. Quisque condimentum maximus mi, sit amet commodo arcu rutrum id. Proin pretium urna vel cursus venenatis. Suspendisse potenti. Etiam mattis sem rhoncus lacus dapibus facilisis. Donec at dignissim dui. Ut et neque nisl.
 
 #### Fourth level
 

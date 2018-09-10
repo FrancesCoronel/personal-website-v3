@@ -5,6 +5,7 @@ banner: https://i.imgur.com/85KFCCP.jpg
 hideBanner: true
 noComments: true
 noTimeEstimate: true
+customPage: true
 blogPage: true
 noNavbar: true
 aliases:

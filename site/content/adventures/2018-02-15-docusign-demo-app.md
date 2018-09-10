@@ -33,7 +33,7 @@ More details on my unsucessful but engaging interview process [can be found on G
 
 ## Fill the form out below to support an aspiring DocuSignee! ✒️
 
-<section>
+<div>
   <form>
     <div class="field half first">
       <input autocomplete="on" type="text" name="name" id="applicantName" placeholder="Your name">
@@ -50,7 +50,7 @@ More details on my unsucessful but engaging interview process [can be found on G
       </li>
     </ul>
   </form>
-</section>
+</div>
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous"></script>
 
@@ -89,7 +89,7 @@ The code is really simple and looks like the following for this site:
 #### HTML
 
 ```html
-<section>
+<div>
   <form>
     <div class="field half first">
       <input autocomplete="on" type="text" name="name" id="applicantName" placeholder="Your name">
@@ -106,7 +106,7 @@ The code is really simple and looks like the following for this site:
       </li>
     </ul>
   </form>
-</section>
+</div>
 ```
 
 #### JavaScript

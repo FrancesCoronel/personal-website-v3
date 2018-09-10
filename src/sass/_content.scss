@@ -81,11 +81,10 @@
   }
 
   img {
-    display: block;
     border: 0;
-    display: inline-block;
     position: relative;
     max-width: 100%;
+    display: inline-block;
     @extend %image-shadow;
 
     &.emoji,

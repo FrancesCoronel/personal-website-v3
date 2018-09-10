@@ -1,20 +1,23 @@
-<a class="reset" aria-label="{{ .Title }}" {{ if .Params.link }} href="{{ .Params.link }}" target="_blank" rel="noopener" {{ else }} href="{{ .RelPermalink }}"{{ end }}>
-  <div class="card card-equal-height">
+<div class="card card-equal-height">
+  <a class="reset" aria-label="{{ .Title }}" {{ if .Params.link }} href="{{ .Params.link }}" target="_blank" rel="noopener" {{ else }} href="{{ .RelPermalink }}" {{ end }}>
     {{ if .Params.banner }}
     <figure class="image">
       <img src="{{ .Params.banner }}" alt="{{ .Title }}">
     </figure>
     {{ end }}
-    <div class="media-content">
+    <div class="media-content pb-0">
       {{ partial "body/content/card/info.html" . }}
-      <!-- Categories -->
-      {{ if .Params.categories }}
-      {{ if not (in .Params.categories "talk") }}
-      <div class="mt-1">
-        {{ partial "body/content/taxonomy/tags/categories.html" . }}
-      </div>
-      {{ end }}
-      {{ end }}
     </div>
+  </a>
+  <div class="media-content pt-sm">
+    {{ partial "body/content/card/info-speaking.html" . }}
   </div>
-</a>
+  <!-- Categories -->
+  {{ if .Params.categories }}
+  {{ if not (in .Params.categories "talk") }}
+  <div class="media-content mt-1">
+    {{ partial "body/content/taxonomy/tags/categories.html" . }}
+  </div>
+  {{ end }}
+  {{ end }}
+</div>

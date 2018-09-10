@@ -3,28 +3,11 @@
   <h4>{{ .Title }}{{ if .Params.link }} ↗️{{ end }}</h4>
   <!-- Description -->
   <p class="has-text-grey-dark">{{ if .Description }}{{ .Description | truncate 100 | safeHTML }}{{ else }}{{ .Summary | truncate 100 | safeHTML }}{{ end }}</p>
-  <!-- Talk Names -->
-  {{ if in .Params.categories "speaking" }}{{ partial "body/content/card/talks.html" . }}{{ end }}
-  <!-- Location -->
-  {{ if .Params.location }}
-  <p class="subtitle has-text-weight-light is-size-6 mt-1">
-    {{ .Params.location }}
-  </p>
-  {{ end }}
-  <!-- Talk Events -->
-  {{ if in .Params.categories "talk" }} {{ $talk := .Params.talk }}
-  <!-- Events -->
-  {{ $events := (index .Site.Taxonomies.tags $talk) }}
-  <!-- Talk -->
-  <p class="subtitle has-text-weight-light is-size-6 mt-1">Presented at {{ len $events }} {{ if gt (len $events) 1 }} events{{ else }} event{{ end }}</p>
-  {{ end }}
   <!-- Date -->
-  {{ if not .PublishDate.IsZero }}
-  {{ if not (in .Params.categories "talk") }}
+  {{- if not .PublishDate.IsZero }}
+  {{- if not (in .Params.categories "talk") }}
   <p class="subtitle has-text-weight-light is-size-6 mt-1">
-    <time datetime="{{ dateFormat " 2006-01-02 " .Date }}">
-      {{ dateFormat "Monday - January 2, 2006" .Date }}
-    </time>
+    <time datetime='{{ dateFormat "2006-01-02" .Date }}'>{{ dateFormat "Monday - January 2, 2006" .Date }}</time>
   </p>
   {{- if not .Params.noTimeEstimate }}
   {{ if .ReadingTime }}
@@ -35,23 +18,6 @@
   {{ end }}
   {{ end }}
   {{- end }}
-  {{ end }}{{ end }}
-  <!-- Assets -->
-  <!-- Slides -->
-  {{ if or (.Params.slides) (.Params.video) (.Params.recording) }}
-  <p class="subtitle has-text-weight-light is-size-6 mt-1">
-    <!-- Slides -->
-    {{ if .Params.slides }}
-    <a href="{{ .Params.slides }}" target="_blank" rel="noopener">Slides</a>
-    {{ end }}
-    <!--- Video -->
-    {{ if .Params.video }} {{ if .Params.slides }} ∙ {{ end }}
-    <a href="{{ .Params.video }}" target="_blank" rel="noopener">Video</a>
-    {{ end }}
-    <!-- Recording -->
-    {{ if .Params.recording }} {{ if or (.Params.slides) (.Params.video) }} ∙ {{ end }}
-    <a href="{{ .Params.recording }}" target="_blank" rel="noopener">Recording</a>
-    {{ end }}
-  </p>
-  {{ end }}
+  {{- end }}{{- end }}
 </div>
+

@@ -1,4 +1,5 @@
-<div class="content-custom">
+{{ if .Params.customPage }}
+<div class="content-custom mt-1">
 {{ if .Params.archivePage }}
   {{ partial "body/content/pages/archive.html" . }}
 {{ else if .Params.awardsPage }}
@@ -35,3 +36,4 @@
   {{ partial "body/content/pages/volunteering.html" . }}
 {{ end }}
 </div>
+{{ end }}
