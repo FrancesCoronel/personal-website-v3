@@ -1,7 +1,10 @@
-<a class="reset" aria-label="{{ .Title }}" {{ if .Params.link }}href="{{ .Params.link }}" target="_blank" rel="noopener" {{ else }}href="{{ .RelPermalink }}" {{ end }}>
-  <div class="card card-equal-height">
-    <div class="media-content">
+<div class="card card-equal-height">
+  <a class="reset" aria-label="{{ .Title }}" {{ if .Params.link }} href="{{ .Params.link }}" target="_blank" rel="noopener" {{ else }} href="{{ .RelPermalink }}" {{ end }}>
+    <div class="media-content pb-0">
       {{ partial "body/content/card/info.html" . }}
     </div>
+  </a>
+  <div class="media-content pt-sm">
+    {{ partial "body/content/card/info-speaking.html" . }}
   </div>
-</a>
+</div>

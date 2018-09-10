@@ -5,10 +5,13 @@
       <img src="{{ .Params.banner }}" alt="{{ .Title }}">
     </figure>
     {{ end }}
-    <div class="media-content">
+    <div class="media-content pb-0">
       {{ partial "body/content/card/info.html" . }}
     </div>
   </a>
+  <div class="media-content pt-sm">
+    {{ partial "body/content/card/info-speaking.html" . }}
+  </div>
   <!-- Categories -->
   {{ if .Params.categories }}
   {{ if not (in .Params.categories "talk") }}

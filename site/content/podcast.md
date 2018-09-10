@@ -19,7 +19,33 @@ tags:
 
 > Coming January 2019 as a YouTube video series/podcast!
 
-## Further Details
+---
+
+## Episode 1 - 1Password 7 with Frances Coronel
+
+TBA
+
+![Episode 1 - 1Password 7](https://i.imgur.com/k43T1sI.png)
+
+## Episode 2
+
+TBD
+
+## Episode 3
+
+TBD
+
+## Episode 4
+
+TBD
+
+## Episode 5
+
+TBD
+
+---
+
+### Further Details
 
 The YouTube series will be hosted through [my YouTube channel](https://www.youtube.com/user/fvcproductions2013/videos) as its own playlist while the podcast (simply the audio version of the videos) will be hosted on [Anchor](https://anchor.fm/the-alexis-clue).
 
@@ -27,32 +53,25 @@ The first season will have 5 episodes featuring 5 different amazing apps for a t
 
 If there's enough interest, a second season will be released but this is more of personal experiment.
 
-## Potential Apps
+### Potential Apps
 
 - 1Password
 - Alfred
 - Background Music
 - Bartender
-- Caption
 - CleanMyMac
 - Fantastical
 - Flux
-- Gitify
 - Grammarly
-- Hyper
-- ImageOptim
 - Kap
-- LittleIpsum
 - Muzzle
-- Noizio
-- Noizio
 - Notion
 - Sip
 - Slack
 - Tower
 - tyke
 
-## Format
+### Format
 
 > Max 5 minutes long
 
@@ -63,15 +82,15 @@ If there's enough interest, a second season will be released but this is more of
 - Cool tip/trick with app others users would find useful (optional)
 - Wrap up and teaser for next episode
 
-## More Imagery
+### More Imagery
 
 ![The Alexis Clue (Podcast)](https://i.imgur.com/aWVM5pN.png)
 
-## Credits
+### Credits
 
 - Sketch 3 used for designing imagery
 - [avataaars generator](https://getavataaars.com/) for awesome avatar image
 
-## Disclaimers
+### Disclaimers
 
 Originally scheduled for release October 2018 but it's more likely it will be released by January 2019.
