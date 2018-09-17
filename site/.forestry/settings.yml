@@ -1,20 +1,22 @@
+---
 new_page_extension: md
 auto_deploy: true
 admin_path: site/.forestry
+webhook_url: 
 sections:
-  - type: directory
-    path: site/content
-    label: Pages
-    create: all
-    match: '*'
-  - type: directory
-    path: site/content/adventures
-    label: Adventures
-    create: all
-    match: '**/*'
+- type: directory
+  path: site/content
+  label: Pages
+  create: all
+  match: "*"
+- type: directory
+  path: site/content/adventures
+  label: Adventures
+  create: all
+  match: "**/*"
 upload_dir: site/static/uploads
-public_path: '/uploads'
+public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ':year:/:month:/:day:/:filename:'
+file_template: ":year:/:month:/:day:/:filename:"
 version: 0.31.1
