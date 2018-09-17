@@ -1,6 +1,6 @@
 ---
 title: 80|20 Software Consulting
-description: Frontend Developer
+description: Front End Developer
 date: 2015-11-24
 banner: https://i2.wp.com/fvcproductions.files.wordpress.com/2016/02/64e84044-e263-4dd1-94ac-ff1bf9a6d179.jpg
 aliases:

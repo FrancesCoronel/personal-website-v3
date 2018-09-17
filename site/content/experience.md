@@ -7,7 +7,6 @@ experiencePage: true
 noComments: true
 noTimeEstimate: true
 hideBanner: true
-noNavbar: true
 url: /experience/
 aliases:
   - /jobs/

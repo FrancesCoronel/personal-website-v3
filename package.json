@@ -34,6 +34,7 @@
     "file-loader": "^0.11.2",
     "gulp": "^3.9.1",
     "gulp-brotli": "^1.2.1",
+    "gulp-cli": "^2.0.1",
     "gulp-gzip": "^1.4.2",
     "gulp-htmlmin": "^4.0.0",
     "gulp-imagemin": "^4.1.0",

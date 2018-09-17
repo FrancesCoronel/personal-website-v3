@@ -7,7 +7,6 @@ noComments: true
 noTimeEstimate: true
 customPage: true
 blogPage: true
-noNavbar: true
 aliases:
   - /blog/
   - /blog/archive/

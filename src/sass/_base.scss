@@ -2,7 +2,7 @@ body {
   font-size: $font-size;
   word-wrap: break-word;
 
-  @media screen and (max-width: $mobile) {
+  @media screen and (max-width: $tablet) {
     font-size: $font-size-mobile;
   }
 }

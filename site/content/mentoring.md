@@ -2,8 +2,7 @@
 title: Mentoring 📚
 description: Mentoring is a brain to pick, an ear to listen, and a push in the right direction.
 banner: https://i.imgur.com/BqiFTqF.jpg
-noComments: true
-noNavbar: true
+noComment: true
 url: /mentoring/
 aliases:
   - /services/mentoring/
@@ -25,11 +24,11 @@ So far, I’ve helped out folks who have successfully gone on to coding bootcamp
 
 I’ve also tutored kids at the elementary, middle, and high school level on how to get started in the tech field.
 
-You can find [the feedback I've received](/feedback/) thus far on my website!
+You can find [the feedback I've received](/feedback/ "Feedback") thus far on my website!
 
-> If you’re interested in being mentored, feel free to check out my [mentoring page](/mentoring/). 📚
+> If you’re interested in being mentored, feel free to check out my [mentoring page](/mentoring/ "Mentoring"). 📚
 >
-> Or you can [contact me](/contact/). 📩️
+> Or you can [contact me](/contact/ "Contact Me"). 📩️
 
 ## Mentoring Sessions
 
@@ -40,6 +39,7 @@ You can find [the feedback I've received](/feedback/) thus far on my website!
 
 | Why                                              | Who                      | Method      | Hours | Date                            |
 | ------------------------------------------------ | ------------------------ | ----------- | ----- | ------------------------------- |
+| Interview on Design & Development                | Kanad Bahalkar           | In-Person   | .50   | August 20th, 2018               |
 | Out of Office Hours                              | Joydeep Gill             | Online Call | 0.75  | May 22, 2018                    |
 | Out of Office Hours                              | Alex Rivadeneira         | Phone Call  | 0.58  | May 21, 2018                    |
 | Out of Office Hours                              | Valeria Oshiro           | Phone Chat  | 0.50  | May 1, 2018                     |

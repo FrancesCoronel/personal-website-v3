@@ -7,6 +7,7 @@ talk: pwas101
 aliases:
   - /speaking/talks/progressive-web-apps-101/
   - /pwas-101/
+customPage: true
 categories:
   - talk
 ---

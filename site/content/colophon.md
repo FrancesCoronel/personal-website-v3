@@ -5,7 +5,7 @@ banner: https://i.imgur.com/D4dPpG2.jpg
 hideBanner: true
 noTimeEstimate: true
 noComments: true
-noNavbar: true
+footer: true
 url: /colophon/
 aliases:
   - /about/colophon/

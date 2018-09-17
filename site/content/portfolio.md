@@ -7,9 +7,9 @@ noComments: true
 noTimeEstimate: true
 customPage: true
 portfolioPage: true
-noNavbar: true
 url: /portfolio/
 aliases:
+  - /work/
   - /projects/
   - /project-type/books/
   - /project-type/branding/

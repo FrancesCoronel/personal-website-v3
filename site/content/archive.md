@@ -7,6 +7,7 @@ noComments: true
 noTimeEstimate: true
 customPage: true
 archivePage: true
+footer: true
 url: /archive/
 aliases:
   - /tags/

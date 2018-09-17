@@ -4,7 +4,6 @@ description: Bite-sized stories of women in tech sharing their favorite producti
 banner: https://i.imgur.com/YyDzosp.png
 noTimeEstimate: true
 noComments: true
-noNavbar: true
 url: /podcast/
 aliases:
   - /youtube-series/

@@ -6,6 +6,5 @@ hideBanner: true
 noComments: true
 customPage: true
 hackathonPage: true
-noNavbar: true
 url: /hackathons/
 ---

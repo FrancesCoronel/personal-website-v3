@@ -4,7 +4,7 @@
 <!-- Speaking -->
 {{ $speaking := ($.Site.Taxonomies.categories.speaking).Pages }}
 <!-- Topics -->
-<h2>📢 {{ len $talks }} Talks</h2>
+<h2 class="mt-1">📢 {{ len $talks }} Talks</h2>
 <div class="columns is-multiline">
   {{ range $talks.ByDate.Reverse }}
   <div class="column is-one-third">

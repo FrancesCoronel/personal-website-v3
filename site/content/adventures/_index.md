@@ -6,9 +6,9 @@ hideBanner: true
 noComments: true
 noTimeEstimate: true
 adventures: true
+navbar: true
+url: /adventures/
 aliases:
-  - /adventures/
-  - /archive/
   - /home/adventures/
   - /home/adventures/conferences/
   - /home/adventures/experience/

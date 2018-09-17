@@ -1,6 +1,6 @@
 ---
 title: Accenture Liquid Studio - Summer 2016
-description: Wearables Developer
+description: AR/VR Software Engineering Intern
 date: 2016-06-01
 banner: https://fvcproductions.files.wordpress.com/2016/07/accentureslc-1.jpeg
 aliases:
@@ -29,7 +29,7 @@ The Accenture Liquid Studios are designed for rapid application development. The
 
 ## Role
 
-### Wearables Developer (Intern)
+### AR/VR Software Engineering Intern on Wearables Team
 
 - aided in managing the wearables hardware and client demos
 - provided development and testing support in the areas of AR and VR

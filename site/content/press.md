@@ -6,7 +6,7 @@ hideBanner: true
 noComments: true
 customPage: true
 pressPage: true
-noNavbar: true
+navbar: true
 url: /press/
 aliases:
   - /press-mentions/

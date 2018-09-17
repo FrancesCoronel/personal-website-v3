@@ -5,7 +5,6 @@ banner: https://images.pexels.com/photos/691485/meeting-room-business-conference
 hideBanner: true
 noComments: true
 noTimeEstimate: true
-noNavbar: true
 customPage: true
 conferencePage: true
 url: /conferences/

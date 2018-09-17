@@ -6,7 +6,6 @@ banner: https://i.imgur.com/NLjoKyh.jpg
 location: Waikiki Beach Marriott Resort - Honolulu, HI
 url: /2018/08/26/jsconf-hawaii-diversity-scholarship/
 categories:
-  - conference
   - award
 tags:
   - hawaii

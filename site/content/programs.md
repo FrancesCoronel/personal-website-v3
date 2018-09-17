@@ -6,7 +6,6 @@ programPage: true
 hideBanner: true
 noComments: true
 noTimeEstimate: true
-noNavbar: true
 url: /programs/
 aliases:
   - /meetups/

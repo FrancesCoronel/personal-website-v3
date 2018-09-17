@@ -7,7 +7,6 @@ noComments: true
 noTimeEstimate: true
 customPage: true
 awardsPage: true
-noNavbar: true
 aliases:
   - /awards/
   - /home/awards/

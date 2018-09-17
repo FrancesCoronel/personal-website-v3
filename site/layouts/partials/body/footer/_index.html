@@ -2,23 +2,29 @@
   <div class="container is-fluid has-text-centered">
     <div class="content">
       <div class="mt-1 mb-2 is-hidden-mobile">
-        <p>
-          <a class="mr-1 ml-1" href="/colophon/">Colophon ⚙️</a>
-          <a class="mr-1 ml-1" href="/search/">Search 🔍️</a>
-          <a class="mr-1 ml-1" href="/sitemap/">Sitemap 🌐️</a>
-        </p>
+      {{ $parentPages := where .Site.RegularPages "Type" "page" }}
+      {{ $footerPages := $parentPages | union (.Site.Sections) }}
+      <p>
+      {{ range $footerPages.ByTitle }}
+        {{ if .Params.footer }}
+          <a class="mr-1 ml-1" href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}">{{ .Title }}</a>
+        {{ end }}
+      {{ end }}
+      </p>
       </div>
       <div class="mt-1 mb-2 is-hidden-tablet">
-        <p><a class="is-size-4" href="/colophon/">Colophon ⚙️</a></p>
-        <p><a class="is-size-4" href="/search/">Search 🔍️</a></p>
-        <p><a class="is-size-4" href="/sitemap/">Sitemap 🌐️</a></p>
+      {{ range $footerPages.ByTitle }}
+        {{ if .Params.footer }}
+          <p><a class="mr-1 ml-1 is-size-4" href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}">{{ .Title }}</a></p>
+        {{ end }}
+      {{ end }}
       </div>
       {{ partial "body/footer/icons.html" . }}
       <!-- Copyright -->
       <div class="mt-2 mb-1">
         <p>
           ©️
-          <a href="/" target="_blank" rel="noopener">{{ .Site.Title }}</a> {{ with .Site.Params.year }} {{ . }} {{ end }} to {{ now.Year }}
+	  <a href="/" target="_blank" rel="noopener" title="{{ .Site.Title }}">{{ .Site.Title }}</a> {{ with .Site.Params.year }} {{ . }} {{ end }} to {{ now.Year }}
         </p>
       </div>
     </div>

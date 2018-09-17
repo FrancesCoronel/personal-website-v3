@@ -5,7 +5,6 @@ noComments: true
 noTimeEstimate: true
 customPage: true
 educationPage: true
-noNavbar: true
 url: /education/
 aliases:
   - /schools/

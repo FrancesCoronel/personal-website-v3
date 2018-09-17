@@ -1,10 +1,11 @@
 ---
-title: About Me 🍓
+title: About 🍓
 description: A brief intro to my world.
-banner: https://i.imgur.com/Ap1R1zy.jpg
+banner: https://i.imgur.com/NWXkplC.jpg
 hideBanner: true
 noComments: true
 noTimeEstimate: true
+navbar: true
 url: /about/
 aliases:
   - /home/about/
@@ -35,7 +36,7 @@ Might have something to do with human nature in general, though, so interpret it
 My logo is a chocolate dipped strawberry. No particular
 reason why, I just think they're yummy. 🍫🍓
 
-[![Logo](https://imgur.com/aIbX4z0.png)](/2017/08/19/fvcproductions---logo-redesign-/)
+[![Logo](https://imgur.com/aIbX4z0.png)](/2017/08/19/fvcproductions---logo-redesign-/ 'FVCproductions Logo Redesign')
 
 I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the Egyptian queen) a crap ton.
 
@@ -77,6 +78,8 @@ Her passions outside of work include contributing to open-source, blogging about
 
 ## Speaker Image
 
-> Source: https://www.techhireoakland.org/training/
+![Headshot](https://i.imgur.com/NWXkplC.jpg 'Frances Coronel - Headshot')
 
-![Headshot](https://github.com/fvcproductions/fvcproductions/blob/master/photos/headshot_3_2.jpg?raw=true)
+> Source: [TechHire Oakland](https://www.techhireoakland.org/training/)
+>
+> Photo Cred: [Adrian Walker](https://www.adrianowalker.com/)

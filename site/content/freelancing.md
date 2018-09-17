@@ -6,7 +6,6 @@ hideBanner: true
 noComments: true
 customPage: true
 freelancingPage: true
-noNavbar: true
 url: /freelancing/
 aliases:
   - /services/

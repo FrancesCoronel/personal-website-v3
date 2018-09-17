@@ -7,7 +7,7 @@ noComments: true
 noTimeEstimate: true
 customPage: true
 speakingPage: true
-noNavbar: true
+navbar: true
 url: /speaking/
 aliases:
   - /home/services/speaking/

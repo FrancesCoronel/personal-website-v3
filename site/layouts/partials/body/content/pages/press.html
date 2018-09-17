@@ -4,8 +4,8 @@
 <h2>📰️ {{ len $press }} press mentions</h2>
 <div class="columns is-multiline">
   {{ range $press }} {{ if .Date.Before now }}
-  <div class="column is-one-third">
-    {{ partial "body/content/card/plain.html" . }}
+  <div class="column is-half">
+    {{ partial "body/content/card/_index.html" . }}
   </div>
   {{ end }} {{ end }}
 </div>

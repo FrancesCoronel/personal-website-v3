@@ -2,7 +2,7 @@
   <a class="reset" aria-label="{{ .Title }}" {{ if .Params.link }} href="{{ .Params.link }}" target="_blank" rel="noopener" {{ else }} href="{{ .RelPermalink }}" {{ end }}>
     {{ if .Params.banner }}
     <figure class="image">
-      <img src="{{ .Params.banner }}" alt="{{ .Title }}">
+      <img src="{{ .Params.banner }}" alt="{{ .Title }}" title="{{ .Title }}">
     </figure>
     {{ end }}
     <div class="media-content pb-0">

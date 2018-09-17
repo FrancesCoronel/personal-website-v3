@@ -7,7 +7,6 @@ noComments: true
 noTimeEstimate: true
 customPage: true
 feedbackPage: true
-noNavbar: true
 url: /reviews/
 aliases:
   - /services/mentoring/reviews/
@@ -17,6 +16,6 @@ aliases:
   - /testimonials/
 ---
 
-> If you’re interested in being mentored, feel free to check out my [mentoring page](/mentoring/). 📚
+> If you’re interested in being mentored, feel free to check out my [mentoring page](/mentoring/ 'Mentoring'). 📚
 >
-> Or you can [contact me](/contact/). 📩️
+> Or you can [contact me](/contact/ 'Contact Me'). 📩️
