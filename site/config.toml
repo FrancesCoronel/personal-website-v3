@@ -30,7 +30,7 @@ title                         = "FVCproductions"
 
 # Permalinks
 [permalinks]
-  blog                        = "/:year/:month/:day/:title/"
+  adventures                  = "/:year/:month/:day/:title/"
 
 # Author
 [author]
