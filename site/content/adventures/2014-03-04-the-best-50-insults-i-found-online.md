@@ -2,7 +2,7 @@
 title: 'The Best 50 Insults'
 date: 2014-03-04
 description: 'I first started compiling this long list back in August 2013 and they always made/make me laugh my head clean off.'
-banner: https://fvcproductions.files.wordpress.com/2014/03/banners-002.jpg?w=1024&h=436&crop=1
+banner: https://lh3.googleusercontent.com/1w5u76VoifdKqHXGruSCIVt5lvhVDYPdpxxF2MIfMZ5PCMwlNHXLxZmrYFshhdbCSqF-KFICTCuifa2WTuzoqL4janlyD66GHSZne_-4wsrxbhLBWZzmf-vBfg2Cb18_K5DuqFtYB2PRvsFoUtG927cSWgcmKk4w0n4F7VER1x28g0WQneZXdsD5zkXo8j8oZQ_UdWe8pJqoapFPk58dJc7J1G6zZOWCSVoooXQFlI-YsvTX8ePh6VIVHCUgpFzMP5MXJUOLspJ95IZzdqIqLVFHb_6KqnHBLncGV1sirb2S84r-TeyadV71_EIh9f4tcrS5uzgsOjUcH6Jkabglb9Y4M54liIZz_KUAQrCknkflr1aozRDiXaowJrptZDjTezkZ8vhr4VSmqoqcIlJ4KHodJb42BICONKUkmi_s_8HPNts9HmqKQJtrH0TGtdSpovkkzTWbkiVMBZnv7EuAYm2lXUS6hYIqipc70Rp0IJuYVt71RtDc03gUZfJhbF7MMStOlgD6MCUKLJQhr4k9LRlwa85fUInoHnb6Dwi-6-PeMSk1Y1Mxj9Qw-ZDKH0Al4ufKVnvm8yhTYGFV8lMCjmzKwViFxfx9iC-l5nRXDkJ9QUTe55EXoBanbWqKwkdq=w1140-h500-no
 aliases:
   - /2014/03/04/the-best-50-insults-i-found-online/
   - /blog/2014/03/04/the-best-50-insults-i-found-online/

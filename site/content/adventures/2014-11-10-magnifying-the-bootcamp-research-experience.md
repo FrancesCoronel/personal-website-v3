@@ -2,7 +2,7 @@
 title: Magnifying the Bootcamp Research Experience
 date: 2014-11-10
 description: 'The coding bootcamp ultimatum.'
-banner: https://fvcproductions.files.wordpress.com/2014/11/hack-reactor-interior.jpg?w=1024&h=435&crop=1
+banner: https://lh3.googleusercontent.com/vji6X-s_V9mSm6l97jVpQs3B5FB5Qmmn6jNPrEChBKvnuQsfgpUKEgEbYw1Z_XQ09YWIDdRbDRxqmMF47EFTpKn-WMTctoK89w0ZJYesj2jKdE4z7w0Ck8x8U7scHOHalQm9ym6PwmeKIoQSULvYdN8SKcXnuWuNrU4F_5yLK6TkCl2WXHbgDucAVFLkUVhbcvK5thUsoE5mMZ3rR6U5zE6N5718bNEoIpV6-Wml238KZPjs2qh4k15zDqFHzJ7xFVa9szaJarLX1pF1R-UipV_JXyS-3GuEkBvUKZAGJc8GS4ge65Hec6-50swnXeFDWlnaCvPfAHx7wkA8-0NwZMnQXHUyTlEHmlVeD0H209sMjCNVNbLVCOy5sI26q3ckfRpmbIcRLpli-PfG1BW_zAQR8V1izVSMZIUZKVDJbVBdPx3GDhSuDc-0vCg-UPuQJJc0woCidu1M2D0hRaNBvm9q0WtFNqpCbkprUHmZf1w0HnZbL9s56Cc_PNBdcdYHmhAfzxWyXo41SulXz50WlG3Yi0ZyGqzwytT42OExZ5iIXbYxMoS9hkwk143sAW5G56Vkuw7QEhL7VvmQSU31RVDOM4JCPAxfy-7sloj-EO2IhXnZ9U_CECtVi03sSsbR=w1280-h644-no
 aliases:
   - /2014/11/10/magnifying-the-bootcamp-research-experience/
 categories:

@@ -1,12 +1,12 @@
 ---
-title: "Change Your Icons on Yosemite with Scripting 🔧"
+title: 'Change Your Icons on Yosemite with Scripting 🔧'
 date: 2015-03-29
 description: I got tired of Yosemite's icons and decided to take some initiative without the usual dependency on an app. It took about 2 days for me to perfect this strategy and now it's time to make your process a lot easier than mine.
 aliases:
   - /2015/03/29/change-your-icons-yosemite/
-banner: https://fvcproductions.files.wordpress.com/2015/03/banner-new-icons.png?w=1024&h=435&crop=1
+banner: https://lh3.googleusercontent.com/ldHejjQ9ADTjtsFLH_G1tBJgfRUcQUJhjqdTLUf7f0SmlYJOgU0c85OybzJD0lh9nxey0EfE9Y7noc3hb0guHpMGH_ykjN0PxNq1gDBxNn6l1G0N_4GqoRocqN9NTSxxf_vLCCA3mJ7VXnutFgz48Sp1jGbA35UVsNc4DVgUc0OEHXC1COla5sUKv0RPQ88M1Ox5kc_avsxa7wcccxlI37Us7n_DsB-PEUnoz3S88YGdeBMXstND0GTvzAoWkmiixjNP-LJr11ktHqIat4eMadZhPY7nU1mriLPMfxH1-d1DzoFPFAfkJFnKeVt1ra9ZXS20Ba5ZQNuYSp2DPHzCHjV8RxEChBnNUFE_rjnbQzNvWxXT0w1yYLQiHHBNAJhTx1OimBUNhSxzJyYRLCeRXkjdyVc_qYe5f2slFrZ1F8iRHJLBpD7IQNCYsa0hOF3ayU_a6lFEiUNKIpkcNM3fRiFz6XNDf0O2I-Cn8gJQTihIMT_qsUn-8Wq0Y0-qmdqijmRUYmpwMJchO41AQXuWP84QRAqj_5a63n0QIpwWz5wDqy09_mqmGpG3W-9Ll9FZB17oRBhl4C8dl4XuhuveijEYsHUfEwQw7k5JYCdREopAnyBalHquLFdnBbmghsf1=w528-h220-no
 categories:
-    - blog
+  - blog
 ---
 
 > for all you machines out there

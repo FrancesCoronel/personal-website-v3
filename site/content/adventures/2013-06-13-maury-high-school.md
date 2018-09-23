@@ -2,7 +2,7 @@
 title: Maury High School
 description: Graduated with advanced degree from Maury High School.
 date: 2013-06-13
-banner: https://fvcproductions.files.wordpress.com/2015/11/201048_3688026930399_442436614_o.jpg
+banner: https://lh3.googleusercontent.com/dW89j5VGIqoeZymF4IsIm1d-FAGegMzZGjE7XsaxhHNrRM3N-7vbcAZ5moDAyhLK2wRddK0VCRVlUaZ3A4nWejW3znmyHaF5GPYrR7T_RUirPYUKc0y-xMPZE0vtxXrrzWLWiptYjGmP_FxkR9WWEFbPNzBvXsWHHUndz2oLLudlYo_46ROVY7tD0qZXck8LemI2sUfKEQb4mXktdeiNmlg1w4iZY59P14P4oXh_sZHP2QDiDUHuDqcsSaOLUUwZDAIj_AL4Nn9wEtxhmiTM9plzOYIrmpYE722ddWInMpNnkI5jqV7NUkpHEwJK5S1YK3tiW_JIvgf4gvWUYirTU3QaFpmeM-n8Y9z_wh3erVDMGba9yZb13Ekq7q-hhTsYEltgn3R-U2P0Xsl3ouL6t09EYZaklylDUkdaVtkJfI0gvfj4DuU_bzEw_XPHuryV6ODsQZ0i1JGiTlNtS2P0JQlOhuIarg5mKzxoTH4SI9isv6vptddakEM52LgSCXTTDLpAah9l_ppQkFzgL-a6z66o3Rp31Vm8GCqQlYo20hrSW_D84NpWbsL3X3j3i5bwnOeMPKF4ZGOEW1TfONdpUFUs3EqG1D6rwRU8W5nd_VggF87odqf9PrAMFN-9gV9F=w1448-h969-no
 categories:
   - education
 ---
@@ -76,38 +76,27 @@ Matthew Fontaine Maury High School also known as Maury High School, one of five 
 
 <!-- TOC depthFrom:4 -->
 
-- [Institution](#institution)
-- [Location](#location)
-- [Date](#date)
-- [Program](#program)
-- [About](#about)
-  - [Activities](#activities)
-  - [Courses](#courses)
-  - [Transcript](#transcript)
-  - [Projects](#projects)
-  - [Awards](#awards)
-    - [AP Scholar Award](#ap-scholar-award)
-    - [Governor's Certificate of Recognition - Early College Scholars Program](#governors-certificate-of-recognition---early-college-scholars-program)
-    - [Innovation Honor Award](#innovation-honor-award)
-    - [President's Scholarship](#presidents-scholarship)
-    - [Featured as OP Smile Co-President in School Newspaper](#featured-as-op-smile-co-president-in-school-newspaper)
-    - [Certificate of Completion - Digital Content Design for Game Development](#certificate-of-completion---digital-content-design-for-game-development)
-    - [Certificate of Achievement - Spanish](#certificate-of-achievement---spanish)
-    - [Certificate of Appreciation - International Surgical Mission to Vietnam](#certificate-of-appreciation---international-surgical-mission-to-vietnam)
-    - [3rd Place - Grade 11 - NPL Book Review Contest](#3rd-place---grade-11---npl-book-review-contest)
-    - [Academic High Honors](#academic-high-honors)
-    - [First Place Sophomore Winner - Community Care Day Poster Contest](#first-place-sophomore-winner---community-care-day-poster-contest)
-    - [Accepted - Summer Residential Governor's School for Mathematics, Science, and Technology at Lynchburg College](#accepted---summer-residential-governors-school-for-mathematics-science-and-technology-at-lynchburg-college)
-    - [SuperTeen](#superteen)
-    - [Community Service Hours](#community-service-hours)
-    - [Membership - The National Society of High School Scholars](#membership---the-national-society-of-high-school-scholars)
-    - [Microsoft Office Specialist Official Certification - Microsoft Office Word 2003](#microsoft-office-specialist-official-certification---microsoft-office-word-2003)
-    - [Spanish Honor Society](#spanish-honor-society)
-    - [Honorable Mention - Legal - Democratic Republic of Congo](#honorable-mention---legal---democratic-republic-of-congo)
-    - [FBLA Stock Market Challenge Participant](#fbla-stock-market-challenge-participant)
-    - [Honor Roll](#honor-roll)
-    - [Perfect Attendance](#perfect-attendance)
-  - [Pictures](#pictures)
+- [AP Scholar Award](#ap-scholar-award)
+- [Governor's Certificate of Recognition - Early College Scholars Program](#governors-certificate-of-recognition---early-college-scholars-program)
+- [Innovation Honor Award](#innovation-honor-award)
+- [President's Scholarship](#presidents-scholarship)
+- [Featured as OP Smile Co-President in School Newspaper](#featured-as-op-smile-co-president-in-school-newspaper)
+- [Certificate of Completion - Digital Content Design for Game Development](#certificate-of-completion---digital-content-design-for-game-development)
+- [Certificate of Achievement - Spanish](#certificate-of-achievement---spanish)
+- [Certificate of Appreciation - International Surgical Mission to Vietnam](#certificate-of-appreciation---international-surgical-mission-to-vietnam)
+- [3rd Place - Grade 11 - NPL Book Review Contest](#3rd-place---grade-11---npl-book-review-contest)
+- [Academic High Honors](#academic-high-honors)
+- [First Place Sophomore Winner - Community Care Day Poster Contest](#first-place-sophomore-winner---community-care-day-poster-contest)
+- [Accepted - Summer Residential Governor's School for Mathematics, Science, and Technology at Lynchburg College](#accepted---summer-residential-governors-school-for-mathematics-science-and-technology-at-lynchburg-college)
+- [SuperTeen](#superteen)
+- [Community Service Hours](#community-service-hours)
+- [Membership - The National Society of High School Scholars](#membership---the-national-society-of-high-school-scholars)
+- [Microsoft Office Specialist Official Certification - Microsoft Office Word 2003](#microsoft-office-specialist-official-certification---microsoft-office-word-2003)
+- [Spanish Honor Society](#spanish-honor-society)
+- [Honorable Mention - Legal - Democratic Republic of Congo](#honorable-mention---legal---democratic-republic-of-congo)
+- [FBLA Stock Market Challenge Participant](#fbla-stock-market-challenge-participant)
+- [Honor Roll](#honor-roll)
+- [Perfect Attendance](#perfect-attendance)
 
 <!-- /TOC -->
 
@@ -254,10 +243,10 @@ Matthew Fontaine Maury High School also known as Maury High School, one of five 
 
 ### Pictures
 
-![Maury High School](https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/201048_3688026930399_442436614_o.jpg?w=746&h=499&crop&ssl=1&zoom=2)
+![Maury High School](https://lh3.googleusercontent.com/dW89j5VGIqoeZymF4IsIm1d-FAGegMzZGjE7XsaxhHNrRM3N-7vbcAZ5moDAyhLK2wRddK0VCRVlUaZ3A4nWejW3znmyHaF5GPYrR7T_RUirPYUKc0y-xMPZE0vtxXrrzWLWiptYjGmP_FxkR9WWEFbPNzBvXsWHHUndz2oLLudlYo_46ROVY7tD0qZXck8LemI2sUfKEQb4mXktdeiNmlg1w4iZY59P14P4oXh_sZHP2QDiDUHuDqcsSaOLUUwZDAIj_AL4Nn9wEtxhmiTM9plzOYIrmpYE722ddWInMpNnkI5jqV7NUkpHEwJK5S1YK3tiW_JIvgf4gvWUYirTU3QaFpmeM-n8Y9z_wh3erVDMGba9yZb13Ekq7q-hhTsYEltgn3R-U2P0Xsl3ouL6t09EYZaklylDUkdaVtkJfI0gvfj4DuU_bzEw_XPHuryV6ODsQZ0i1JGiTlNtS2P0JQlOhuIarg5mKzxoTH4SI9isv6vptddakEM52LgSCXTTDLpAah9l_ppQkFzgL-a6z66o3Rp31Vm8GCqQlYo20hrSW_D84NpWbsL3X3j3i5bwnOeMPKF4ZGOEW1TfONdpUFUs3EqG1D6rwRU8W5nd_VggF87odqf9PrAMFN-9gV9F=w1448-h969-no)
 
-![Maury High School](https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0849.jpg?w=246&h=184&crop&ssl=1&zoom=2)
+![Maury High School](https://lh3.googleusercontent.com/PY94Iu6yoRKLuhTFhHP78ho2p55fXQ6lPeFmz_II4PSvXf28ZbnR_Qiu8C4jNRR1vqCq3eSvm3Lm2dulWvqKaTVS6Ku5qFxD6_8iQ7GSG1F0btg2FmWFu2uQ6Y5qQZBuS1m7P1m5cxNr9z7Xl6FTkLaHIBMdvskdZt4qcHXSA2mqwd7mmN5es0CPytmi1aQQBY9fdL1sAUOAuymFI6VVt_Qu-rPI4HpkCe7R1VFalz8G8QXTqhw7mWeCSYaJoq911EFz2Ra_P7ZCzKiHZx4LfrVblEs3-9pwFJ-D0CF9Qfl-Fs00DlqkrSPh6PxfUCTQg0DLdhHIj9NOG0S4iowK284jU-h28-qH81HEfsF9olF6BTwMNxbv2KCI9tZXl_94yl-qh0RmVLUDORkD3dlM6V5s-PFqlUoU8yhlcZbkGumAl4MLih5yQpIVa2x9OLcdPPiSW5vRoBvtpA9DkRxkJ7lOIElHfvhWDjQYiwaBrjAAxk6kceuGYdVrYvFX7UND9pWhZbEoLXHruOEj-2SbsJ9dF6KyJEz_RI50xNg__nkycuUPvgZ2mymX5yYbJ2Y3PNCe_u0k7iSpgn5CqS1V0diVE2Lg4alfHndZGUc63KabzHvYcgNfyWt2zFSJjnZv=w640-h480-no)
 
-![Maury High School](https://i0.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0847.jpg?w=246&h=184&crop&ssl=1&zoom=2)
+![Maury High School](https://lh3.googleusercontent.com/cc3ceA_kRKWCqwiJ6CFfbX72-BzPhoLTXQs1F5sxTi6qDjxixxD9f3uXz-kAYhlYDWMVZQiEk9QTDJ4cy5F0uOZI_v7nZ0HfDGEh-NP5S9mQCAqm4x6JthhC05kHENqvZA-dIiHCt6Gx6Ub_ZcEz2bi4MEnWUj1xsao4qpoGfITbrrwcqV3ZDqiLKlHumfvQQlrKXH8IpoG-kOVxrPuurmxSJJI1FgCHN3JmpvGw94j90gz6U2wdRpCdvxqkDAHhQmN205GXr1upt0Cav-R3qzAnEIV8-rrx3WsZsC4q7N7CzaofnUYay0r1uBKnlj6Vfda6vfK3hwPW_XxWD8wYqa3BWS_abne55PlD22SuPG34Fr8ZbfNNweNr2IT5MaR_fWkXkGFm91xpz4w0-nXTNIbsxUEOXtO1N5-DrBvqvgatXpwulUYLOkydPq_ZLkn3SfjULlBLmfqEKClaM_sqlx9kKZ84HXtJv8kXkeEpiseGigcmiMfu002N-ABzSFG-b51dWIZaQHLv-LWgzfNkBj_FT8hzo4P1Z9x-4ihzgM7a8BZ7me5CUQQqWFeYVIBmCbwW58aUnfo-T4eKq-5j6aJSerlHwPuk5F9dHRZz6yq-t3nonX2XUHWdwVcTUSKW=w640-h480-no)
 
-![Maury High School](https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0848.jpg?w=496&h=372&crop&ssl=1&zoom=2)
+![Maury High School](https://lh3.googleusercontent.com/DuJ8isRt5WrcRDXuhdO2ot7Oe_y2rnHQDAG8wKVeQThUMROQFFabVNVoIuO4aqjGpSSuaHKtv6IjpHzTTkhdtY8lcGS4xPqJLeMId0t7WA56pOVfZm14gaDL3T6_-EXqEVW4V_j99XrJ61ITLCyuxKMs5edixHvMGFJRZlmAMuin2SDF9VgHYmmXWpQHMSYHDQqHJ5VpnKyTVGDQ4pBpZJWaHWtd7aFUPWCFlhJTqk6yy1miZPwQz7OyqV6NpMfOYOijx1zbYhocPEjs03zQIFcGQLMcZITTLYgFg74ec0dJgUb8Bcb3usIRbMlSebdyjL79ZzYExAixIdnxAzyMtJ_MNaLtxIqYoNxFw8wdaDkee_tRewoZaCuHxypKSoHmSmjdgtHTOLPyyfTWTobTf6EueHBj_Kz6b3UZS7afcSktpHtWRxsCE981fGwDUnFJ0iT2RNQ8ILcBTyxmFC2q3Z-rqcw-Yufh1Osl-lBB8BdFBsoLYtRSxd3mIvKU6Tky6Rqz4Kfz2VNAj47TddTIP-Exw5NbtR6B2VY3IlJHAgQ1IClWGY1dYdZLB5Q0RJd5ajfR_YhzhXV-Y_U9OWRl2MrujZD8toRt2vMIAdABJpo3jQzzrL77WHTJAB_f-jfG=w640-h480-no)

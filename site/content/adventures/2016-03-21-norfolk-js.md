@@ -2,7 +2,7 @@
 title: 'Norfolk.js'
 date: 2016-12-17
 description: 'An awesome Meetup group in Norfolk focusing on all things JS!'
-banner: https://fvcproductions.files.wordpress.com/2015/11/norfolkjs-jan-2016-0041.jpg
+banner: https://lh3.googleusercontent.com/MjRCFKIhN3Tr2dGGDKrIcdH3_8go0ravcikg0gISzM0psO7WukTEfhZBIPk1lM-wAYQx8jZLml_swwbE4SyA4DtKhdZ04nxbz_QVol0Ok2PhJQCFPQIq8WS76gFulRFV44kAxcscv6gfotLuTwf-XukUAtJV7ArJ9-kVSCy3EB5IgljbkC2f-PSg3YhD00oyJ1IB6iwaLC-XpOMTJAV7cX-8rGi0PfpGAaapoEmWmqe4SJnfOLRpT66o8NddjZ1qvdQsQHo4v3kcqH0Lu4PINARSUuiX0sDGF_sFScvbgcAXTkk63AVU4cUuiTuLjdcX9HiCgj111yWtJrBWXmsaPhIDXfj71-nhA9XbH602JfxrIm9eRoJjvz_IbfLHtSKvHg_8ZOSwoYGwpq-ULjI39BSaVV7PsRPWCg820M7YE3bIRgibjnUKUn4vY0isCVTpKrQQONpSY5d9LBjy3P--JaC7Kr4YD2oGJ4MIc2kQzUJ2cMOWkKzPXCQsA0IRjKrWH4DNNWz2LrXRFEPrkd-4WLlfj-8HvMjlVMjFv_NL7Dy2Yb9pOxkh7Mr96r-9B3vmUFIH_usIzzJseKD42ic3J2-vdXCfDT6Hh-8cG6Nvm9bEeUUq1CLQe7BKRsMs5r_j=w1459-h969-no
 categories:
   - program
 ---
@@ -39,4 +39,4 @@ I attended 9 Meetups in total.
 
 I presented on JS Coding Bootcamps for the [January 2016 Meetup](meetup.com/NorfolkJS/events/227490794).
 
-{% include figure url="https://fvcproductions.files.wordpress.com/2015/11/norfolkjs1.png" title="NorfolkJS - Circular Logo" %}
+![NorfolkJS - Circular Logo](https://fvcproductions.files.wordpress.com/2015/11/norfolkjs1.png)

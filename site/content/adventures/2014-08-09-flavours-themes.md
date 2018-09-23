@@ -2,7 +2,7 @@
 title: Flavours Themes
 date: 2014-08-09
 description: These are all the Flavours themes I’ve created for the Mac customizing application, Flavours.
-banner: https://fvcproductions.files.wordpress.com/2014/08/flavoursthemes.jpg?w=1440
+banner: https://lh3.googleusercontent.com/zTDOaZmyv9lIk0uwYAcluRTbsIRZ49sj0sOu1IyazRqepICPTyj1YGFmdZ3TQj29GUQhbF1Lw00oiqu3SQHdbivd13x8uv9CRr-ShFiCFxZ6yNeA1tjxguc74xvW1TK-cFhssNnaLsavA6FVn8Ill7eodrF6VvsLbX2QmVoTENxfiOgPs2WShAyMZ8lLu2SenGz1N9ZBtPbvkutBlgtb68NLzHvTAGlEx2MieCAqzPKrFXFitAg9w2w2tgHJ1m4pQHDFDE5hyWTKDtA6bDwP8kFdf1NlR2Y67QtBfhCuZhOXYYHRdUxjOqIvKFwg6il8ccOexZMLhJ4UTbOImPTNe__gkEFUnWKy0x2KRkff6yTNrDVOUMMqY4t359X-ChfHjNXxMAg-P7vtrX0If86HUWbbTP-QOnB6GD-f2GCsLatPMt6ygGCd7jZVViEfFNXbNumbnw4IdPPeANZZzWGCpB9B1ktnRiMbYdg3Uzh1mxkknZYPTtfzCzuyvB-QepcFJ0x8hh1jX1LrgOwsa5-f8mJwTD66S4pGn-C-uSpUlYja-3ig1inEj_fu0fnEwKeZv7t58W8dDDxnzI87dBrQ5xwarBtqSrJ66EiHH1cJIEX-9FtWLMBuoXIfKZW1Bb3d=w1904-h969-no
 aliases:
   - /portfolio/flavours-themes/
 categories:

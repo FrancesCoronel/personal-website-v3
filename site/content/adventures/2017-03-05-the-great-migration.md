@@ -2,7 +2,7 @@
 title: The Start of a Wondrous Migration 🦋
 date: 2017-03-05
 description: I'm starting the process of migrating this blog from Wordpress to Jekyll.
-banner: https://fvcproductions.files.wordpress.com/2017/03/monarch-butterfly-wallpaper-2.jpg
+banner: https://lh3.googleusercontent.com/25Ilb_eIoeZLE3nVpZYOQ-UsAz_ZeXvwvf1wxizFd7ZECzJ5kFcbneYLRaoyBZQZylcVOPqKuk10rUMsVqNHFS7teRq55v32m5TwiAWQAmRq4mGTHiyl6DO3WfD__6CHqksqQAfFfuW4g57Yb98Dxq_KCbgZME367HUkRnY3K6tzynYOWcXjrh8wnYUIpM6Fueao9FOfYXGlHUweIVqeJIEvNnsygRZqqBeOnLgHq6VrK6lT82cLOubCU5pkinB3taXYwoPDwP_981ULORvXQjBML5S_o3nXJHBl9LkujSx64XesyDWLcnq4UKsPM07m-qnMvv7AvNrF8j0mN-4MeP_xtzPhLNdmvaUqhQzG9emLwHbkYrPvY8b82rxfxDBR-QAPAPioz-5SWHgB1J4wfGLsQQGKwkZ0Ztrpljp83OudkmzCg56lLXVb0ZnFkgS2-VEGHUt9lkjVLrQS1qM3uIwtHmc-momdexnZQ7HT0ZWNflZYGsmpXoMWTGEbIdCcM0ZNBvFGtVXaW5EDhu7K3CXnkBy5VsZU66_JX8IWya-x9dj4aQ3tfxW_3in-iqhNC8uNkDSrNw7ywlaIhwXUf-nQze4nURCzGRhveVF1atx0AdpG7FUQhC3PtZ7yIleO=w1551-h969-no
 aliases:
   - /2017/03/05/the-start-of-a-wondrous-migration/
 categories:

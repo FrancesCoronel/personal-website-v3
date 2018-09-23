@@ -2,7 +2,7 @@
 title: Robopocalypse - Book Review 🤖️
 date: 2013-07-29
 description: A book review on 'Robopocalypse' by Daniel Wilson.
-banner: https://fvcproductions.files.wordpress.com/2013/07/what_if_____ws_by_casperium6.jpg?w=1024&h=435&crop=1
+banner: https://lh3.googleusercontent.com/HeqZ-pDXoPK32jwTFNZXeTp1p_W_us1glbHTUxqhiu4LHhMszaEdBCfFtErd2OT2vLbpSRwz8V-O8idZWEMg16zJNJgh5Xxr_6NWyNLpxyV7vPiowjZNIkc5cKI0SDgw7UuFNhmS_suVfRldS_FcjgdWCJrPv_EXQrhcf-Q8XUk3nevu6HfXyBxaLh9BYVTMTxTGyMHBWylbQvMUdPz1yhiwDBQUlZtfoTN8h9Fmh2xTxN4u6Bv4MTEbGNZi9QhJx2mEOiyoZ-lIDQaZ5VVLA3NgdXo73CrWCRer6Zo5HeiifPmCl-MWYqDJlO2-DXEEA2DcPEDkT0rU8d6TQbnGH6Q4GWATkX8DY0IhJPIcS-JKQLIbh5D3w4fRpr80xsAgpZxaqN76r8VCRfdxQnt1gq-GcdqtpayUx-vWQDOUYJMxwqSSuIl3SuEdFO_wPt7VC_bV196oub_dMFuZfJ4LBa0u9Z8A4wD8Z7bFACwQIa6Q_xci1qzByoXCI2QoQKpVmfrvsD1_WdwgT6fm62NuqJOpIxwKd1vLhtnrvlXVZYpfHjAHdUvr9h97w-y91TZSXLZyoLwnjEDNbP-M4XGnKvJn4cx6yJoWYbc-GBvDuCf15MS5oMVZHS2fZkpg3YMN=w1280-h800-no
 aliases:
   - /2013/07/28/robopocalypse-book-review/
 categories:

@@ -2,7 +2,7 @@
 title: 'Nothing to Envy - Book Review'
 date: 2014-02-21
 description: 'A research-oriented piece for my history class.'
-banner: https://fvcproductions.files.wordpress.com/2014/03/51454715.jpg?w=600&h=340&crop=1
+banner: https://lh3.googleusercontent.com/t5HScrqvnPDaUpPbw51bwbozsx3PH0u-mP-7udtbAQO7b27uK1v1aXGO-hFYUJzZ_Sc0rY2x2i4xtTOYdLYAC0HTdIdLEUgZXsUeEjgUCrr3qdBiTwi-ysPcr8gAFBqDLlR9f3esE4QkEy8aUhlk8qzml1Dla7yhSDRcPk063QTfY2ycU_yQtrhS5EBpEZsQAcBPsCBvUUQiGCsW2jOpJ2kTL_aoQuPsuthCDF_2Izi6JziRzMeAZjvavi9Qx9C0G1FKNUi_85hrPD9XMhYaH1kLBMy5PzwXvIsKatsWjIIsDdjkH0edAjDpVBNy-5ENR2h8w_RfvZOhzk7slkMbsnKg35zvCo-rw9_qhvsmc92KMpGIkoDsJf8QIxNN9nyGkbEiWQ_WnPMywAAy70PsSIp-fXVf-TVsfTnKxADLuA5-dzfmnweiN1lLLSvoV6BH5JMf2AdyvJ8L343dFvoD-44EdJ1rBzM515Xy3CycZoAV2teNxBrzO7lxNt0mARZNYLFNXHbspRgjRHGwxBvqp_tlk9QXk63-_gd1xnkCJcgxVkIjPdMkQOKahhpDCoH_eTm4kJSN5GpD3QtaakBEqe8YYb85YM2y3JEe2UfswXZMUfAQSlOqU0O_cjTLewZr=w600-h425-no
 aliases:
   - /2014/03/04/nothing-to-envy/
   - /blog/2014/03/04/nothing-to-envy/

@@ -2,7 +2,7 @@
 title: Hour of Code 2016
 description: Volunteering for the Hour of Code program offered by Code.org for a second time in a row!
 date: 2016-12-08
-banner: https://fvcproductions.files.wordpress.com/2017/01/dsc08495.jpg
+banner: https://lh3.googleusercontent.com/hgumkvk0L3ZY50_-WQVUsOnInSzKALwF7X67uJ-LiexX1NSURyVnurLL3KZjMoOtTy3FYX76H8Q7PDEvD-w2rDg73Pi_3PTm1XQuBorRud0cUcV30udODNkf_xrdDaaqnd0wbTZ5utry2ecC8Pwfmnk7IiwTXR7UTfBEMwSvctodzreU6ONF6cfNphZDn_ocfoGSQ0DFQWZmtVJdJY_3U_LH0MnBAQ2x4qOLLDhN6iZWRs2q2551MM2I0YGSz7LMNoK3yNPYqHxDqQPmkeq4oYU0m5MJqLzYqT7XKTNPQUaTmfBLgfKBTGZF1mtrfxoLG4nIsZxWuB-pziqgeCuVIeVDAm2S7JFQO56Dm5BcaNI6mkMaENKJRdaOqJPbm5StCVWmfbek3XTZGhc5aDdVI1BtJOapuE7LM2XUP83HP5cN8kpxiCDIY7e24btFXkgAHfoZ1CjGStefb3CEQ3upNX2EvbTKHqmDGV-KGOAeFilYm6nrae0Xsk9BNVNMjKvxvchlzMdSxzX7xEyJQWGugB2KmSmDVmU1vhWflzAs1lUghGTnruTj4eWYo0FEAeaf7kTz_P7yRuh0Zjkmzk5HOhDbTsSrS5qBIsAxtrjR8OLJf2QMEWsJabse4mWRWvKw=w1600-h899-no
 slides: https://www.slideshare.net/FVCproductions/hour-of-code-2016-middle-school
 location: urban Assembly Academy for Future Leaders - Harlem, NY
 categories:

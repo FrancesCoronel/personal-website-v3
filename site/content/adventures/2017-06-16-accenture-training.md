@@ -3,6 +3,8 @@ title: Team Monarch - The Daily Splash
 date: 2017-06-16
 description: Digital Case Study - Technology Development Program - Training at Accenture in St Charles
 banner: https://i.imgur.com/rvTmpm9.jpg
+aliases:
+  - /2017/06/16/team-monarch---the-daily-splash/
 categories:
   - portfolio
 ---

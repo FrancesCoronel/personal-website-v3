@@ -7,4 +7,7 @@ noComments: true
 customPage: true
 hackathonPage: true
 url: /hackathons/
+aliases:
+  - /hacking/
+  - /hacker/
 ---

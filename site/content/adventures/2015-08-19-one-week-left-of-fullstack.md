@@ -2,7 +2,7 @@
 title: ONE WEEK OF FULLSTACK LEFT 🙊
 date: 2015-08-19
 description: "There's only one week of Fullstack Academy left. Overarching feeling: HOLY CRAP."
-banner: https://fvcproductions.files.wordpress.com/2015/08/banners-001.jpg
+banner: https://lh3.googleusercontent.com/Da__j2lzv13iWtgq-srqnIAbTWaVp2r5iqpDoY5-L6QEdjjtP99AH4d6l684-tsjmKT7wQ-fMx2rGPxkB2YxwumilAhAetc3mB0s4P-zaJEl103D9eBdq-DLwPumPIgqyVm1MzmKj3Wc8GV_cLpJlO7sA-2XGFNLViqHwdv90oEvNY4ri9RVfrcZmlKWGENi-6wOvd9hgPtX1leRQbfOn9fR0VjTDHyUH-tw80xqp2WdE1V-itL90Xw8UWDdUXJkmgfRMDTjC7BbbB67bMKVpMIS_qJQC3ilMlPP7qLG55kRqfXLsaLCgLJ03Ht2aqcrBncRKv2dfno-kWvrTRJs5cavV8KVW9k0SDtUCZhQDeKCfikm8knvgfrwpIXj_s8w7wEm9pmlhkQ1KyoY9XTtAzHI3eG19EE6JUmLl1JYgjOgpvw_UkUEhuuWnNn-763Yb_sONUkMd8GWbmujGAhAqnEx_bmIW7bjjnCHM7tCOP-zSiQKUk2U5hPkwhHmRTfgZRU1WieuGsweozb8dU3EI5RQcDNybqRPyUZI79e_sm6D-4W1iMLtfKNbWecJUU_-K_2nNfSLxcXDc_NkEq3DWwFELAalMor4yWT4OMYFfJm8HZeSAyUXw5MrTn7snvt8=w1140-h500-no
 aliases:
   - /2015/08/19/one-week-left-of-fullstack/
 categories:

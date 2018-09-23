@@ -6,6 +6,7 @@ banner: https://i.imgur.com/10PHLUS.png
 aliases:
   - /portfolio/2017/02/06/view-linkedin-profiles-without-logging-in/
   - /portfolio/view-linkedin-profiles-without-logging-in/
+  - /2017/02/06/view-linkedin-profiles-without-logging-in-/
 categories:
   - portfolio
 tags:

@@ -2,7 +2,7 @@
 title: 'Interview with Hack Reactor'
 date: 2014-12-29
 description: 'Where I rant and share questions my experience from my interview with Hack Reactor (sort of).'
-banner: https://fvcproductions.files.wordpress.com/2015/01/screenshot-2015-01-05-20-16-31.png?w=1024&h=435&crop=1
+banner: https://lh3.googleusercontent.com/O1B3Cev-T7x9HU4LalPahE8bUeRRcUoKgD4y1PNidopGYb_uY8LZpEpGBg4y5ewCa6w1zrCYS-L5yS2fgG3CQH9GnpvF4XM5uTk_UTNdDnKqOPvY8qNeak24iOtHi7U7hvqsoeZLvgob2feYY_NAOuW74hekq1CPjAxiSXZHo0meF70FWZcmbigaat1GHpm0QtX90HPyvZ2z45k7OyU_Dh7RCoC8aafN2JPe1h8CUiU3TaO991fRN_sr8P556i5fkP1f9Qy-ZiUKiLCyzzZqnMiurtGXa1lbggPmK77pcaTeOUvCGpi7vsXCpXJIHQJV5X_Fd0P_CkM4DSi48300LA6P2Y43vvnDG-84axyZKfRla92MJ5lYMLuVnZMsQfBfjkCrOG8OYd8w2cR0SVchXJLOcekZL5iGbLgYprxZ1wmyLlM4Z-jB8xsH7Ym2bp7llRTYORnztjD6YdiyE97P9CLTFuK-wMUVIX_Tv2J8ryWkPJZcwYWQQin0mjJvaMf_TdSPDuLc0BXnre-pSwXRgvd1tbFyRL8MxY2pWKoo1ec3e95Yc14aaQ8eNGr5jKzDfW6yq9B7jPmAHMQtg8SSnfddXci2PwKUckVPE-53RoXHg1GlKa1QS8RnGi99E5vy=w527-h220-no
 aliases:
   - /2015/01/05/interview-hack-reactor/
 categories:

@@ -2,7 +2,7 @@
 title: The DaVinci Code - Book Review 🖼️
 date: 2013-07-29
 description: A book review on 'The DaVinci Code' by Dan Brown.
-banner: https://fvcproductions.files.wordpress.com/2013/07/dlqjb0cly1xaymibqdqxsbsy6vj.jpg
+banner: https://lh3.googleusercontent.com/-qUsADYBQTeRJqoulGNek0s348A6W8QClyRWGjIXZVpsDMM3P12wmME6U15w7pU0uksJ3iCWHO4SE-5MZL6vkbkdFMdby-ZAMo_vCotpAJS0jp9-LuSZHfRhHtY34D0viHYW1K5gG2vPBtOQYeapcH6G_Sc_Evw3Nprtflg-aaIAPkGEQrDvfT3uNcAB89nhdD2v7cF_0LQR6hJkJs3FKFT5RTlMJ4qmOpJN-BuQXV4CjmODt2mKLzvzjw6KsxFG4fFJyNEO2H5n-vBubY7B4a9jfnUMoiDBPMcM4IGvW9Cp8aeXGzL3H52CEgOrQ-CgcqLsjUu89KOxIbuPV9kq3fhQ2MTYPU0o9lHFFz2EGO1fHH-0zBNq1jIONPBtPWmnuK9iGQcbE0p4QgQXbln4PddcvHhaXd_1btksNGD4yr5oPJUH9Tca7ulBVn8nrRBeaXyPI8L5-vJYeTctb4-R8G63NlFk_H6pdfZ0Pwtej6XQe7m_uBngh-dvufLwW-n9oUj78FFJEpomAoclqzvSy58sS15fmomKCeuTdGJf5XrpA9y_bnjxt-nZzoy195GDWt4KWTvgnyJy4eLOrvrrR_ZkAc5avtsJP2U4bQ1lM55j2OKwmu--7OWW07oVfe6A=w1723-h969-no
 aliases:
   - /2013/07/28/the-davinci-code-book-review/
 categories:

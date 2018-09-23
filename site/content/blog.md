@@ -6,9 +6,10 @@ hideBanner: true
 noComments: true
 noTimeEstimate: true
 customPage: true
+navbar: true
 blogPage: true
+url: /blog/
 aliases:
-  - /blog/
   - /blog/archive/
   - /blog/archive/
   - /category/certainties/

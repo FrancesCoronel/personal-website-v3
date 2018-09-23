@@ -2,7 +2,7 @@
 title: School for Field Studies - Wildlife Research Techniques - Tanzania 🌍
 date: 2012-08-14
 description: Studied Wildlife Research Techniques in Tanzania during the summer of 2012.
-banner: https://fvcproductions.files.wordpress.com/2015/11/461956_476846202328099_271376704_o.jpg
+banner: https://lh3.googleusercontent.com/FsYPkabxVyC0fqdxeWu-BDmxrekBqfj0tAH-JnHoT0xkNbqyNggZthGdiwtjIJ_-5_0ViXbX1wETQve6WnNKE7aiTvbvhQOPxSYXqdsShBMCOdHkffak_dn25JzkyQCup-sXXZ7QRVosfzDCvNOOcMcaRu7du1I-cTJU2gLBppMP6LEU5hD2MTte_hqYwtZtkeRnSpti--FSlWs4UoekqXXZmjhfaqKwebonOwfwyyxQ300grAFfS7n20BMyL0A02q3YUXDHvufWJ4CBEltpCSgZvPyHMMT4jyRS6dBlfcQrwedQf_IH2y3mg6vynD6JlYYoaHpkC2rHPjQTDPR8oimPq9IPvda2gAfeAsvwgh6g5JNxS1YsKzXyATEW8sbPS5_7IDv99Kow47hb2Q8yCBYUfxpAFYfxwRrukX06-bpKsFcLFqJZcOfdF0yCdW8UsbqERvlC1bu6_otaXZj57BpUD3AZifB-yf7qhtZvU9a_YFK2ClndZ7VUXZkHCTSLTwzW0Tmx9czX0lEWw1o0eWaHuxLcleZwfdLFu4CVSKtX7zjM6E-_vwVObgtA9Q36elo_c9XWdDUBauYxsDkKhsGj30dyO07SQvh9dqxiR_g2Obq_l-42Q-tqytU-E4o8=w1292-h969-no
 aliases:
   - /blog/2012/07/30/blog-post-from-tanzania/
   - /programs/2012/08/14/school-for-field-studies/

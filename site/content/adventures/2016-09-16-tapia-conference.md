@@ -1,8 +1,8 @@
 ---
-title: "TAPIA 2016"
-description: "ACM Richard Tapia Celebration of Diversity in Computing"
+title: 'TAPIA 2016'
+description: 'ACM Richard Tapia Celebration of Diversity in Computing'
 date: 2016-09-16
-banner: https://fvcproductions.files.wordpress.com/2016/09/photo1.jpg
+banner: https://lh3.googleusercontent.com/UUqHsDQqPDajQMPch9pB33Lbwf8GUjIahhH5GGz4Es9E-TlMs04QGVa0hq4CJ6jVHtTYcYwNNAolajQxJ6v-agl6Zs2D2THZuDYBoFqqeYHgF08dEey_3y2--WP88g78woaJ6iPW4BsGkiYGp_Imf_G6D0Hy4vBpFQ5tAqi-GC8WTMMZpiZGnIB5LSjkrxHK4R8Xs-AfcH0C9q4ouE41mvnKmsHuDrS12YTlr-tADjh1GcBWwuFpky051_tik5wPB0TqViUfcZPcN2i_ZGDrOV4UCh-GJy1VS_EoxcqlrqdMarr8P0ZjMrbk43Z4wky8V9KFDeC84cDlOWDpT87cvZbGUahBtoOY2Xt948t9FeMH359Bf79GhNsVnh3Tx8TlRNko5G7mq14w1nVuBnrwam41CBFpDSGmv6ae_f0CpBe5fTz6viHmK_SAMGgvsEWrpr-Bh1kIhjL5tpwE2NecnfCXVe84Nxy0VFuwIe2W5H36LCKxUSZgG15zvsFeKAu4N9h4U_J9tS4q5Ss1gfxO0OziOoedTmHgxF84O0gXDBVZ90L5iiEiQxb5DZk3O9RMKYOpK6LnbFtH1ec8zdgcXfFUUUGa0k6LLirBSXz-VOB8qVVU5JEkMAofBsBcX64l=w450-h400-no
 aliases:
   - /home/adventures/conferences/tapia-conference-sept-16/
   - /2015/02/24/that-tapia-conference/

@@ -32,17 +32,17 @@ Cornell Tech is the technology-focused campus of Cornell University located in N
 
 ### Activities
 
-* [WiTNY](https://tech.cornell.edu/impact/witny) (Women in Technology and Entrepreneurship in New York)
+- [WiTNY](https://tech.cornell.edu/impact/witny) (Women in Technology and Entrepreneurship in New York)
 
 ### Awards
 
-* May 2017 - "Good job" from David Tisch for final sprint of Startup Studio
-* Best Presentation in Grizzly Room for Sprint 3 of Product Studio
-* February 8th, 2017 - [Selected for Cornell Tech Student Panel](https://tech.cornell.edu/admissions/visit-us)
-  * Selected to speak as a current student for a prospective student event
-  * One of two CS students selected to represent Cornell Tech in an open panel for prospective students
-* August 2016 - [James H. and Marilyn H. Simons Graduate Fellowship](https://news.cornell.edu/stories/2013/02/new-graduate-fellowship-supports-cornell-tech)
-  * merit-based scholarship covering 25% of tuition costs
+- May 2017 - "Good job" from David Tisch for final sprint of Startup Studio
+- Best Presentation in Grizzly Room for Sprint 3 of Product Studio
+- February 8th, 2017 - [Selected for Cornell Tech Student Panel](https://tech.cornell.edu/admissions/visit-us)
+  - Selected to speak as a current student for a prospective student event
+  - One of two CS students selected to represent Cornell Tech in an open panel for prospective students
+- August 2016 - [James H. and Marilyn H. Simons Graduate Fellowship](https://news.cornell.edu/stories/2013/02/new-graduate-fellowship-supports-cornell-tech)
+  - merit-based scholarship covering 25% of tuition costs
 
 ### Courses
 

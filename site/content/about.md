@@ -1,5 +1,5 @@
 ---
-title: About 🍓
+title: About 🍫🍓
 description: A brief intro to my world.
 banner: https://i.imgur.com/NWXkplC.jpg
 hideBanner: true

@@ -2,7 +2,7 @@
 title: 'A Few Java Factoids - Part 1'
 date: 2014-03-03
 description: 'A few basic facts about Java.'
-banner: https://fvcproductions.files.wordpress.com/2014/10/banners-005.jpg?w=1024&h=436&crop=1
+banner: https://lh3.googleusercontent.com/Ea2fAXV5_mxzyuM4r5sZhLRayaBwciJUqC5onBNyzXPqa519AbJw1OilonBb7KUBmf2ZMEclxrBUx8knQNFskEmlFuzEFuHkv3yZdnKy7naM5vwS_XqtPVCz7bMuHnPd29LDphsIrmSBzBEZ_KYhMDhQSSh9UUsYMtJUFvWe4O-cieeJSREhbGAIyNn3gALuHHplvFHzl_a_DqcrWytRrsIunNpcafqGe0gK1B76Iac1AGdgxw-6krjyD_PvrxkbAJyUG9MNLc2EFbjv-96GbgzAg2CMN_M0os5G0qeDtaM27BfXCy6NkscKOFMpKKCgDkuARQqzNhg5Kekqqd43sKtjmXlgbJT7VE9K3jdMNe0E0sNSwj3HM6gtWpKGZrcoz2ee6gLsfdYdKGrn3VbrdjHPuGwDjbAidqmhMSiLs0wq8dD6Yc5jO9YiJuhk6gbl2WuGBjiMNj1VuKhjovd4FegwJo0c8sjlp3rVti2PJ0RE1BMNJjU8Qi4yUo0rKzlILEpwR35dyAKedLHun-hu26G0fNbPExD5PeA7oIM_uBA2WZcXnKgS0WKDK86iPExzNgs_LQ6kJqY-BDnEUWdbG6lXMl9on0MVLL9Mss44sQvpPCa5dh2LMBSBAX67OcPR=w1140-h500-no
 aliases:
   - /2014/04/08/a-few-java-factoids-part-1/
 categories:

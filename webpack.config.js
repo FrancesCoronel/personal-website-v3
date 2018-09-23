@@ -66,7 +66,7 @@ module.exports = {
         handler: "staleWhileRevalidate",
       },
       {
-        urlPattern: new RegExp("https://google-analytics.com"),
+        urlPattern: new RegExp("https://www.google-analytics.com"),
         handler: "staleWhileRevalidate"
       },
       {

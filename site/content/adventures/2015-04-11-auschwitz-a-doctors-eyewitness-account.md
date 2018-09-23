@@ -2,7 +2,7 @@
 title: "Auschwitz: A Doctor's Eyewitness Account 📖"
 date: 2015-04-11
 description: 'Book review of "Auschwitz: A Doctor''s Eyewitness Account".'
-banner: https://fvcproductions.files.wordpress.com/2014/06/toaletter_pc3a5_auschwitz_2.jpg
+banner: https://lh3.googleusercontent.com/UPySneNoe0KuELIRg1gOBsfPJiNPsZpQyk7amTXr2FLDfrM46A0JoYG9LmLSPC7AE75aiWRxDoQon9pEJc0X8UfcLKT4kgdZYunDGN70-52WWc4lcKvLiHzD66BMHD9ER8pZDiovceDowsSFcrrLcZ3DJnAsIn3-DKUvyJVewia-ejXtq337Ki2iO8JetvTjIdaX1-msTublD9GlYLQtxzorUxo2biGZ1o-ieWjDtR44kXJisgDUQwcGiTb9Y0MpxKMgz_sFFlnwoYeiL2Bf3eXhq8xKWvG_kTlJajnjBWGa8gFNALd7WwdLFGsFmF0HX5lDC77jR6wZibat2i7Q0d20PdZFNw2XyqnPPO4RaXXd7IYBNwT9YvSj4V2TnCpgppnbFN1G6m_KdH9yJ389J34gnPLU_lHrtKEq7Ps0vrvz7h11RtWp59b7qoZXaZA0P0lPsD08wGjIhXBjEjiObG1_HEMb_Cf-55aVQnsWDlY28A4y-wF7mpc53b0ZfLoyhoCw6f4L29cRtM6qYwJcILIo_J7kATGVUvtEhFoSk47EWZGLMsh9kMsMHUWwe0U5c-17LbjWNYX_P1mII6ulUgUUdyd0qJmqUSrim-4F7fcpv2Icx7duK3b3J3BlBR1l=w1177-h969-no
 aliases:
   - /2015/04/11/auschwitz-a-doctors-eyewitness-account/
 categories:

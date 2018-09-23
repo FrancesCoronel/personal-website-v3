@@ -77,3 +77,17 @@ It's basically going full-circle!!
 > Response from old LinkedIn post
 
 ![Old LinkedIn Post Responses](https://i.imgur.com/mmRAQHz.png)
+
+---
+
+I was one of 10,000 students accepted to the Intermediate Mobile Web Specialist Track for the Google-Udacity scholarship program.
+
+Over 100K applicants applied across the US and 25K seats were offered for the Web Track and 25K seats were offered for the Android Track.
+
+Of the 25K seats for the Web Track, 15K were allotted for the Beginner Track and the other 10K for the Intermediate Track.
+
+Being accepted to the Intermediate Track basically means I get 3-month access to to the "Offline Web Applications" course with support from Udacity mentors.
+
+After those 3 months, the top 1K students from the Intermediate Track will be awarded scholarships to the Mobile Web Specialist Nanodegree Program so that's what I'm working towards now!
+
+The Google-Udacity curriculum is targeted to helping developers get the training they need to enter the workforce as Android or mobile web developers.

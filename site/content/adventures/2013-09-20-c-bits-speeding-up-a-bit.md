@@ -2,7 +2,7 @@
 title: C Bits - Speeding Up A Bit 🚤
 date: 2013-09-20
 description: The 2nd part in a mini-series for beginners in C.
-banner: https://fvcproductions.files.wordpress.com/2013/09/banners-001.jpg?w=1024&h=436&crop=1
+banner: https://lh3.googleusercontent.com/9LJvLU0woNsL2S2uNR7xt5cDvZSlPxbLTtbqaFf65V0PHS7Q8LsvIWc_u23SsJACic2CLUJ6OFZ6wZqre9BrAaEn4kgFX6IK43emwzVE10ADNRtg09mj5wRyyL1pRiE-dOmI-_we2A-0yGTnhk6dsjwXTpg63Phvi7c-YP-zZoEjCC6qVJQGk-J-1TFoE4J_o-YcmbgQbv9DfoMMtTgb2m5fRClN0L1Otc0oMZGszNz2VlqqBGtaAOjD2XrubtaWwlffOrRNhogUayDPTtsiCDTqippRO_nEMsD_pHmvKPYENX-G2OKbdHASHdHWcYTAA9FQEwGt1PefF5iCZRSrzd7NpwmKfLETuzbcpcjfzBF_w9Uan0b210n-664PgkxbjPdHF17dWuc5O-VMN-GePFMWcgyTgPD-oCuSCqRCNo-dzv8KR_KZCH0AG6P7guKupiQGEpXvngwyU1rvsQToBnoYQutvRV8ydbNQd_b6OO83Vrb0WCPPrHax4vIyGNptEj-HE9fWq92gco7j4fW7cyTN_mxlWSEpZU8pbCRVf2ReFsM9-Y15iVO0SkNzjjDN-7g4eDtczwyZ2elbGx3vcug4Ards7Mexz7lj5YtOGEo5rMtSTdEWGtNXKODGEhNY=w1140-h500-no
 aliases:
   - /2013/09/20/c-bits-speeding-up-a-bit/
   - /blog/2013/09/20/c-bits-speeding-up-a-bit/

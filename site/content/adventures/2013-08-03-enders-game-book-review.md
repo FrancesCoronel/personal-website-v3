@@ -2,7 +2,7 @@
 title: Ender's Game - Book Review 👾
 date: 2010-08-03
 description: The Martian Chronicles, Star Wars, Lord of the Rings, Stranger in a Strange Land...an average geek's favorite reading list can be literally incalculable.
-banner: https://fvcproductions.files.wordpress.com/2013/08/enders-game.jpg
+banner: https://lh3.googleusercontent.com/zRPCOFwKz2Xhfoo51RmgFCAQIFSY84U0bwdbwDUGqPLJRU2HGN7zsoT8q6KJRt2S1qsIQTMrypMDIwGhiDimaIdWmtsj_RJH8CYsCEQY-0_STzdVW-OihOZnL0tv6s7wKwF9I4kwemlXx6y7VLDNeGiWz5oL7gLy-g_ME-5YT6bJ_sAPjSbmdfXWsj9-7HXU6HApJqG79F0ui2uExdEAL-JP7j81or_Jvp3eY0IPqWxre73TTbjLUQdegyNHQ_AedZhqGjmYlMH1onCAGC9mSNIYUaB68N6C1LKPMK37eINhnhpX6vjAqrTKJGT4S7EYmH2chwgf5u8bw1mR8hcKuEgtX-WmGTUfvIZDj-TtQN7IgmfA7myWlAG_gidMZGoo8X2RJj_F8rdaWNZGGw93AsNu-Cs-aqIMcGBvcx0xCW7SZ_ZCoB51La_Gfv7_Ci_kA_oWAHIpfxMNXwc1UyGbinxvucScamVCeUHm4aDGJpwTnTp9-kTpGkyQph6iBfBUPulicN-UUu2ZuM_0JbG8dym1A54gHJIjcjHySWRHOfAwOdaQ2SscVPsRnLwDhWfAC-N-N2xz9eNJ0qSRoVRU6SbVChhlg0WJdE8ca6zCBkOavXT2sWAL91g6iJppCe6Y=w1563-h969-no
 aliases:
   - /2013/08/03/enders-game-book-review/
 categories:

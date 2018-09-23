@@ -2,7 +2,7 @@
 title: Long Lighthearted Lists
 date: 2014-10-17
 description: Long lighthearted lists covering languages, old science fair project, coding bootcamps, cool places, TV shows, and conferences.
-banner: https://fvcproductions.files.wordpress.com/2014/10/long-lists.jpg
+banner: https://lh3.googleusercontent.com/h_wMjM2QBnzNWDrHVNxKLqVAECVTzaSx7iuvQkjLx2EDxJEJCxwe_VqTU2Ius8Ih5_Y8ro3vBY2J-GcKTHVdwPT47i5S8_yD8AesxnaMMIhRdojPsDtiB_1oV7ns-pKp9BmeteVNiNXsLNZOZD8FVITOR38vsxhoqN-no1Gc-pH4V8OniEGuha0AP_4n0ngBOE7YOuyXXvpZ-toLZHCpCq3rVrDVZZvQRB8SJ_D7VJfzVnqi4JKxslRvxqnK_7j3Aev0Lc8Fgtj7RxY8w8bhSDA_2OW001GTyeeSMFKxkfkwdvYN_A5zSGUYLmoqLCIRIqa4GYS3PGXGGLaG86xgHfMMhYwv6ZCTeS6EqIDrMwYIA44eBXq2w0MOUUYPVvtQX0ZfLGNbaGtI-MiwTfAyiHu0qNn6Clm6Movf7vA8gPslx1VoiTsb8SHYvP9hehIK5Hij8p1VIMmtqIfd6h_A_2ICT8_YqTaBmyPMD5KPiItUeyRFMF_mzSB1QqGYRa9yqSsKGB7eK4qTZbVhdapTEJpvALB3ioHSZbgWC6Zl-eR-d39E3V1NolG1bI5J5R49U_IoiQLkWHW-ksDZv8bNkjWfFVOR2KxPsvvTDYLlIDJrObcf9whqG9DGkRMuxhcK=w293-h220-no
 aliases:
   - /2014/10/17/long-lighthearted-lists/
 categories:

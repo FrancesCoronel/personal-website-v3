@@ -2,7 +2,7 @@
 title: 'Sort Detective - Solution ☕'
 date: 2015-04-18
 description: 'Stuck on that homework assignment involving SortDetective.jar? No need to worry!'
-banner: https://fvcproductions.files.wordpress.com/2015/04/banners-001.jpg?w=1024&h=436&crop=1
+banner: https://lh3.googleusercontent.com/5dPfd6KYrqCHfGxJ13NZE8psAo5fJx_U3xRLUB6btQzb57csLifXgabrsiZDCqtpFIhSmcfK-cHfTho8ehJCtk_l-yYTYW9jf0Gi21zV2LuQte0glgQTiyqls4P1dZVqVGbvz9g9SISPkIvcwtZY88OQG5TKgh0frtqZcHluFg4fxyH2eK9JHOqjLwC3UAa2MJu8boEd1KySiT9J5sms2yTTIPi4lDYGWgnZYDPd83eAoBMSb4Wjs1B3hxDjhJiTy7X-20kXUy83KIoUkg6h0OaT3Cp6y6thSwzQ2fCduPY_4PK4uZyhAmrLwBHztxUtQMvRfC01af5p2p-xyfzb2gMiU6bnsRVNgjI265wUPt_cV3P7sAqXxP1Cmo3fmXEfnEz6NXBRY6rLE_kasTovAU_XXzsKsx7eSAtgaoxN7CHEFp20wuL9BUDoBEKqQ-sLEd6kBtrSmSlwF7EmHDriUJxkoq21nFefQgLxe05nYeYNaKsA-vmpC9Z6p1mFr_ueoay__mVsFm4mcWm-hDl5JnpCvTAy_kzNV3OOVbbXraiNwWSopFpQmjLM_DcT4r9pTBcvWz_edGnSY-Ks1Z_kCCPiPMDdvoHQo4MDfOqe9AUF_V_2eSgqCCKY8oxUXwm4=w1140-h500-no
 aliases:
   - /2015/04/18/sort-detective-solution/
 categories:

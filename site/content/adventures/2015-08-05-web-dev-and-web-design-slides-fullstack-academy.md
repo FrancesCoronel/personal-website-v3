@@ -2,7 +2,7 @@
 title: Tech Talk - Fullstack Academy
 date: 2015-08-05
 description: On June 18th, the 2nd Thursday  Fullstack Academy, I realized lot of my partners for pair programmi would ask me similar question regarding my dev environment so I started making a deck of some tips  tricks that I felt would have prov valuable for me back in the day.
-banner: https://fvcproductions.files.wordpress.com/2015/08/githubwallpaper.jpg
+banner: https://lh3.googleusercontent.com/WPQ7f36eXCdVUk_ebJBKZMUFFw32usvqz7TKkgeQHGHN5xcDm641G4ixCbwWliwSoEg9tF-_7Ol90kN9F3V2GYReTXlm31CkYdk2snqEA9O0wVTf1dyfacE0enlaMx4hUohRs7Eaf9CrQQaxtm57fEu7iNogToWpGp_Q-GaJGXqajZ4Nzc5uJhfuDuiTanGs5ck1om87MpmZ8OuYvFLrmjoPRaSMKTlqcNNqJ2-dzkPAb8--6fKsuo_yIpHg60LOpn6HnvrcDHDmagCp9LNVAychbRe3Kplr3Jfd5JWRaZA4uyGn4mG2qi0ysl77bGNhciahraMuV7s4DOsp6afUFkmV-Z0JKAYm9yJmPy46_Fv6n_mBUcyJoVYFAwMr0lSauVzGaAz9lyOY0Y88wQKMnvlMJoZz6V_au9_PrmbH65ghhUziid7T1EvcV57728jrpP99-wv7Kj5rsE1qAHihc_XS9krUJcS7Nzm8D7qu2dRoVAARdNuFX9-Yyu3a5jDj7GPRG_w3o2kpBnUxUUrwM93GY6siYk67ARWzlDxiPyh6UdwhGnJqUOnwPrOxdGI_LDzQbXvoE-n5dY-qk56_ueLz2EhmJWWWEVSM6VyX9gfs4yFDMEZZjVU8DpCZ8C2g=w1551-h969-no
 slides: https://www.slideshare.net/FVCproductions/2015-0805-fullstack-academy-tech-talk-web-design
 location: Fullstack Academy - New York, NY
 aliases:

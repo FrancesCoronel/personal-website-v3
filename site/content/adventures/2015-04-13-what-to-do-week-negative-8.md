@@ -7,7 +7,7 @@ rejections and acceptances, I've decided to head to Fullstack Academy
 this summer."
 aliases:
   - /2015/04/13/what-to-do-week-negative-8/
-banner: https://fvcproductions.files.wordpress.com/2015/04/fullstack-academy-banner.jpg?w=1024&h=435&crop=1
+banner: https://lh3.googleusercontent.com/MfiYQkypgX62eRvBSfT2KHs1nHsZovaGHjEJttFDSBN-QWIt_pUaJvfjhJumBeNgOKzB4x1ZOhLInOLDTzMsOi7SitOiR2UMg30V9tfx-Xr4u6Iekq9cnHai2-StenObq8WTIpKKB1DvLcRqAoVyovpCIOKQbzThXLxEl8ta_mgCi67UnneucDCyooqjPd8_Uk4jGfVvVUgGSTBmPR4ZzluFO2roPtI-t0kiA_O3qOkUSMaQ6WbGlew_7cbGqH-bCiavSKUV2pG6VaBXMUhBcxbPgRecbyjs6bd11GPOJRn4GdC6TLKlQuGf8D_GIz_bnBrAprc9DBWBqn5oI1ZEGxOvJ-xO6b4PSO5Ht2qSOwOY3-2PczEcwd7OFI26UjL_yfoGH4m4Sl7ocTewD77Z3t5IPRCukfB4O0mArW82qLsBseVOiMLy8dGKyzIuA5k1ye6u3Ijb6Ifu5B4iJ2i_9yXjGzDOoQ8_m1-CgcyLraNW1w5SMBvT53sfCnwnn2A1eNCQyNTkjoYiHSepRRcbOLJNG7LI1Bj66FOzsx9XDMyLe71q2pq8rT0FdOG3fVClj_AqZCJtZFnmlXioMvCL7hJXveH_T_EWCUZybspmKjDRxtmAxFEntVY6PLrZfny2=w1024-h723-no
 categories:
     - blog
 ---

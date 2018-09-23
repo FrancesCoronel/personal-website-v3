@@ -2,7 +2,7 @@
 title: Python Bits - Getting Started
 date: 2014-03-12
 description: The first bit in a mini-series for beginners of Python.
-banner: https://fvcproductions.files.wordpress.com/2014/06/python.jpg?w=1024&h=435&crop=1
+banner: https://lh3.googleusercontent.com/M5gI9DnsMdkEdl_qCVSX5wbbbZqs7IqgFES9yEeFFQcwgJvEfpgoPlVrGUZ7-fco8DaVkqDfS_7H6WYV6FfwgGKAhgI4OSJVFeHrY4msap8m_rXNQLOMtzsilOm_8b_UeT8PFl5GU_bxoXSkTo1B8HREgZIj3vQS_ceqXQzOxjBW3fd0peJHbbg9RMt31wLtO-50pBLDnpnCjGhP-XTwWmu5LYyTKX8x9bMoxq8uR16nRQl0mHkSlgGamsmaQqC-lz9WTDpOurcC3fZy3j5aE5RJUxDWCUgSq3eqW5un34F2F0I0WRIgORgEhvMebzGuvhdp73H9xNvLMVtYsw5bXTQsGEZ5OxHIGrYnmnIPDg_aoA2AOTolfxj4iEGIs2CekUyZYef1g2xw8kg-yV5DMGNyzdShb-8Gm1aYOkvgTlflvHl__geFVR7PXGIYsvkbnaK_CMhrz8k-6iVR3S8AOC5I7TDohcm4VkQC8-0ZDP7IG6tI1ORYsdb-9liDpOp3aCusvwL8qFMW1ONlJOceRQbS9f9sHWabvdnk6veDMLNxzbbaR48gxvddnwGqaXqvjK05b22u_Il8abLNLwFRyJJJKAaNK0tNIwTlEFDBgBWCAJinmRaR-unXuILQs1rm=w1440-h900-no
 aliases:
   - /2014/03/12/python-bits-1-getting-started/
 categories:
@@ -70,14 +70,14 @@ If you want to run Python 3.0 on CodeRunner, you will have to
 5.  Then go ahead and use your Terminal, the app you can find in _Applications/Utilities_ on your Mac and type in "python3"
 6.  I have it installed already so this image shows up:\
      ![Already
-Installed](https://fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-04-at-5-19-30-pm.png)
+Installed](https://lh3.googleusercontent.com/wab-aLoY3IKY1DfXJ3AhLB_cT9kGPP4jj1qFcPlE_xPN9J4CFW5R4Dvfg0ymhQY6d0SVWcM73HPbK4QFYB4T7XUZksciCNyXjyPYY4fDaETlUt2_glCiKwpppgO99QZYZTw4gruIjqPEFWoBGFaa9pyV5sRIB0RUnANtgcH2UdF_5oh2X170eZpgaX9kfUwKn8uSapJW8MlCxswlsjhg4uC-SCcZIGZlAuJTzvNGsvGONlOpbbh8PBOoz1EmPA6bvnuPA7o_7QAfYdklST5iLkghSoQD-w_QQhVNUUHiXVv7tK-5xYfKDy977pynjjLdFYr1SREWocH5gUnnvtvIZo29E3JL0i5V_8ejPltTJOd9Au37vEFX13JJZkqZUlAp1P_jr67c4JwgicL_5a4-AKF3OLGFxwd9vJQjzOCWKgGcgo6RJz8VSYEkvOoQTBA9S9Xr9BKRsuJQK0oZjfMM3JT1U7ftqBtHRRbhO_BFbrTsnGE6d4knSWlf9th_aIQ356YFAJYxLtqM70Wxub05nGC2itVbn3z-CqBTOsi1vGwwSwLZSasQFcEWtxo3uor4UH0bEHQC7RvU7ifqOm02dh2zoSr572QZcTKmS7ATr8bKzl3DDjcxiSJ6q_mF9uxj=w589-h367-no)
 7.  If that doesn't show up, you probably screwed up, or I suck at giving instructions...check Google.
 8.  If it does work, we can work with CodeRunner now! :D
 9.  So now open up CodeRunner and go to _CodeRunner -&gt; Preferences -&gt; Languages_
 10. Then go ahead and create a new language with the + button
 11. It should look something like this:\
      ![Adding Python
-3.0](https://fvcproductions.files.wordpress.com/2014/03/screen-shot-2014-03-04-at-11-47-49-am.png)
+3.0](https://lh3.googleusercontent.com/Cyz_G7eQhOPKiSZlPCP5JKidKT4R8RHWtauVyNlwtK7mm2FgVGEExbMHfHgjOGGhS_Yf_4e9GeT7xGTCtz_APqHg1fu-2wQxHmiooc-VJEhYXYqMNlSG4Ua937CrU9I4luDRP4T6eezdWPRy_zgOfisfSJlswfR82hm1dHalPTJUnJs4qz2--ELl9saX6JXTvh5YhFWhadZ_ludsMuI8GnwGr28RV-Uyka3i2NkWzSsnuikqEaSrFiFjik75w_5v70t8zk2eTAXszYoehCoikU2gRpUu1hZAdrAQpDGFqRaSQdF4C7xHgrWDtEIQ11UFc_1JIpq7a42otAX9qerMzzMa11Prd9v_axWeR_jgjMsBdAcNadQctRGzVJ6mzJLN9VSsiIa263uzJI1dEwY9OBfAWlLI89ENGc_j7K_D9svHtpZobeAZwNQ5bXWjvPduNuzhzve_yRcP8WkSx3oEd-kKZS3YsdDWsbjmkt5JwHOe4RkfHrO1WPzaGht6K7w8DUMO-DMwJZMC6ij7eUEIUeNGJZItoPfW0fWv27nSsSwcgcvHN_msxAGpiHagzN76AUgQ8mEJ1qUyD8NBY5s0ofeiKISyMMyihyWdLgILD9sMQZMKfKtGVAkXciN_c5JE=w627-h442-no)
 12. Once you've done that, you can choose Python 3 from your scroll bar of languages...and FINALLY — you can freaking use Python 3.0.
 
 ## Problem 2 - Numerical Expressions

@@ -2,7 +2,7 @@
 title: Free Code Camp
 date: 2016-05-25
 description: Spoke for the official Norfolk Free Code Camp Facebook group!
-banner: https://fvcproductions.files.wordpress.com/2016/06/freecodecamp.jpg
+banner: https://lh3.googleusercontent.com/d31XhZCYv4nK8zhXAPAUrjOnD0KbYG8nPtEWASKj8FLU2yhnxW_yJtCNgmQa464PjH2U7xL-oglivvuz2O9Q1ig7Bz99HNrzBZ719rliaUJF4WtJpl9w9BhG6fSmX_Hb9bqSvIXI4Nw8FfRGxN_vyMkVLqrzrQ5i1fWMGt1d-F7mWJGBRRX87jkBGL4-uz6kPYr3Dszo-INvidtYL0x7p_PWlgyNoXHyXStMpo4BUEZHK815Z4QHYTgKurCeQ1fUcJTr8qQ7gBfYjRcOF_-UfHyFhgm3u64t3TH4dcA-2nPj7kRENpXI3K5TMgFXX4NCgdN8lzdcr2uts0ZRkzoaqCIhA26lK0o8-pJ4JPU-A-OBOVNBJXDD2tJ7mAhvnr7FulejBxQDKsLRozbt1R3IjeBx0mGnLX0N0jWQWi8Hk5ZZJmys53vLGmyxujSZBNgP0AsteyFuYMn1FsBFGqDAZ5Ef2Dd1RhZwlfw-4h48jqjvoOAl5L2Tvym3_f4tDglLJ2QihLqBC1DAWj_Us_PlBg97AV0cWmkqSxAGPOrMvDW8HtXb7xPtPKcyPveyVK9cDsY0Qk1q7V7meDYdPf8C_qzcoXrFnv1AnzH9DmlV2-ylU2SAM-7ZZnMy8L5t_3Y3=w720-h960-no
 location: 757 Makerspace - Norfolk, VA
 slides: https://speakerdeck.com/fvcproductions/so-you-want-to-be-a-wizard-free-code-camp-norfolk
 categories:

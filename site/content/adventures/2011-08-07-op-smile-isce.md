@@ -2,7 +2,7 @@
 title: ISCE 2011
 description: My first conference through OP Smile!
 date: 2011-08-07
-banner: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0164.jpg
+banner: https://lh3.googleusercontent.com/iH9cWBbImAn_ueOZ0QcmuNbwwZYksXneRAVhC8bj4jgEDPe7Pn6m1n7x-VTCHrMuRlz2U4ay2YZdhWj6aa2zFjQAn9yG7OV9jz7llgdjWoY0D-3DGL8dUpcLiPk8Ggk2muiVQeEUxPSESayrk0dqurfpGhJF0soIxlfVyiwwhyd-_OUci6VJW7ztXfCc364vu9NV2O6i-ILYLI_zgtNcj06jKHThdH6FBNRIK3C8rVILtyIHqyvO2To_uOeF02EkMP5gXZy3RPwrswTFu9Tm3k0Qr56BXDORVMPE0axHdiap6UJ2Sby-1JCEs9f5CnXo4WBr0KUW64y9BM1qFHq_Z7QkNmVqNmxkWMDmC9qTy02ZX6kZQwjuctJ8hvUI1-uo-jxLcIuIqZqZyN76xo587KlHs3LEhLA1d3SzzccX0JVPi76tul2QUYqFr5x70k1rInWZr6QPtV87x9VbgG6cVt3R9Z8N5_0_MtLfgwXPjzLCkLTJZuopA1NHRReP3DU4tF8dxRClSCnFm2Rf0LEToxJenAweKrS8JF8eUZLgzPMJmO6npf7WQMmFb74PkM_51H14JgpD-rRPuHwAM2GVWa6AsNTqDkSfq1_ifs0bsBlp7PhKy0R9HC202Nq08Dre=w1292-h969-no
 aliases:
   - /home/adventures/conferences/international-student-cultural-exchange/
 categories:
@@ -29,4 +29,4 @@ August 1st to 7th, 2011
 
 This was an international conference Operation Smile hosted for all the student volunteers involved. This was my first serious conference at 16 and I learned so much.
 
-![ISCE 2011 - Group Shot](https://i0.wp.com/fvcproductions.files.wordpress.com/2015/11/isce_groupshot_2011.jpg)
+![ISCE 2011 - Group Shot](https://lh3.googleusercontent.com/6hWrLtK9pFynRoi7MJ-Q1tS7qgXM8uqTTBhv0K_o_-esnBYyqx4BoFpvDr9ao46PlU3GR-fDYl91FB8oXmbDGPK5PUqZgXwSBjERvjHvvwOIow6sd_3I49lHc9AoLH1NAwqZIR2g101NCb5aEOL22vMvxFo1XFNjlbBRYLwI7heQ-_X5sAmiQAMaKhdRTf43ooFPbn5bl8D1cX6quwrpk5BuvT6-vjc59bvY1LJ4LQHwYJGLYscjPc0caw0NisCPJUzeZtD_z4hoHFQaWM3StL-_K_0xK4FQQw6qBYkvjfw0g49-hWTxcHlXBfzFowBY0gMsfD-coHc2-nQHPCQ2LSdtGv_btfSMP6HIXD_oNsrI6Y70-9rbLeAb23iqAekIIalCNSVnh8mbs2wTsk4Vs3ZjPXCpTPCBfFTTJufHbhEzkXKCQ-40FJsvM_3HgFb0nKFVvaI_T0sy2Axy2uTbCZAi33bF7TGmWdQHSjd0NExSPXFRKIprddi8S4vSPYySDNUtt8B8l_TMsoTltnVY3NyAeG-9YAVNfcSJQRIY-fpgQOQY3fe1xWN8OEkuhl3m0flwD3Z-SxD8VSdauwvhKjlSpX3KBPqRPCWiLzFYdv5GLVULIke-DBj1m5msOdF0=w840-h483-no)

@@ -2,7 +2,7 @@
 title: ISLC 2013
 description: International Student Leadership Conference
 date: 2013-08-02
-banner: https://i0.wp.com/fvcproductions.files.wordpress.com/2015/11/screen-shot-2016-01-22-at-9-53-08-pm.jpg
+banner: https://lh3.googleusercontent.com/On81awnL4XZgrVZyVNOgKnBk_xhO5fmqHOPDLu1GOW0xDsJ7AXt6i5q7_aLR801IkFUHUPda6Wh7mxyj4SzMOdG0oaAAafSizLS4-eCswLsQPHvyHlMd8rqgPRkRo2OmHMYl6Gq8D7siyeoAvlupzOYmJtwXz--z_lotXDVUfVpV740TyUQ5zeEWEYkQONf4PYrnQB-zEQZonHroD9BO0kHPMiQ1ht42ekelSy5froLeKYhlXS6q93yIcwZwJKJhKNVuLB8R4hTYFCaiccnreLGOL140RBTVPYf5U_OCwGPuBQj28q1IbgOveagyUo2nCSc6nJEnan9KZZm5wcMlUP8sPJdE-P5kX4S4PjxKUjUHoGJ1mYDH_HJOOmfnpac_FIqTdgrf-3IB5ArNTbBjizOGPlOHblrTLrHrln-jo7LE1BYhwgRfyw2c1h-4mqkhgb5WfTyBI5Wzp7Kez9Q93gsaHPYPoZO16quPtFb2pRLiM_Z7wKkai3NDKTo5YnQl_6hVQORFS6x6mDjbclDHG2UkaCcm2_nxwShY0QYUkeIyWfQwDt9fomGTVZGXdl9Yt-HwAJhseU0bwXLkvBoXQyxB6wPKPVDhssAdXfRl3GeQtfuaoNezXLXwJZ-lgRU_=w2193-h659-no
 aliases:
   - /home/adventures/conferences/international-student-leadership-conference-august-2013/
 categories:
@@ -33,6 +33,4 @@ I really enjoyed this conference because I was able to bring in a lot of my fell
 
 It was conveniently located in my hometown of Norfolk and marked my final piece of involvement with Operation Smile since I had just graduated from high school.
 
-![https://i0.wp.com/fvcproductions.files.wordpress.com/2015/11/screen-shot-2016-01-22-at-9-53-08-pm.jpg!)
-
-![https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0844.jpg)
+![Boat](https://lh3.googleusercontent.com/urKBLjx8HQQziBAq9TY8cTFOJLAUZDr1EulpV3Oj_KGHW4pnrJLs4rDylwuf8JoB8NOpEpJvqCClhkcbSvuFxKGRzDl5iSHkN_3OUwAvrez4K0DeNQJVNVFdPW9yTxGbrlrAXtEvctMWiaXnLUsIXt64QG0DewJqiDL1DswlcMWa7_1K8Kj72IAOsftCKs0LyvntLbNh_9bvuULQE7zHpETtW_dmR6rlKlamtU0mIEWnf8XgH4KXzHgL6htSNBVPCsn_cWObnb-gIVXyRY_EaR6NHS27XkwbXKCQ3IYyJGaEM3KNOGNyG1_Fq9-JibO0JwnEf7IWnQ_PiHjpDdDW5AuJ4T1aXEuw4n-RdECMkQi_CTLH38LpfrC1x_QIKdfg1Xj0B7Hq-WkKBC8U6zY48D6MbToylCYw-YnIe0iz7ZdlRB7blbl7MPcZeD6p1iV4lnwXOTtC86KrqfrrA8W-nw1k0h4kE4cAecQnG41s8t4ZOY6_mulcgPkpSNcnD9xVDNMyxTObSRMJ3_gJT47whf7rQhf_IqgtS_GCPQcY30QLJy4yAz64vkdroqxQ8nj229ZILMGoSJU4tj9eFmxct_80Wte1ZtOsYf3iqFtRNucqMGSRLBlCOtmOSR8xP2GH=w1292-h969-no)

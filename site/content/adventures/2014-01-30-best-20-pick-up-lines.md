@@ -2,7 +2,7 @@
 title: 'The Best 20 Pick Up Lines'
 date: 2014-01-30
 description: 'Pick up lines I thought of.'
-banner: https://fvcproductions.files.wordpress.com/2014/03/banners-0011.jpg?w=1024&h=436&crop=1
+banner: https://lh3.googleusercontent.com/UzdHNCXYXRxPnHnzovNoJNkqAJxlc9ruqPw_Ugd32OMFH68Pd0eJNuDCZqT7o06ScCA5Xd9z3pTsgji2OLb4PFjI8qqVSActhVIfYZKsUss_djTNb-N86r93u3wSnS2FkWzmcuq9A0mYho6unWWTR4tcrMI1ssBp2VtGafkw_Ct2qNrLmmNQzx5seQNA2gNNRZuU-0GpcYos4LZRG0rqeME4CEhYGxAONgh0SK4MfkAJw214NbWwMOuGSklJtVC7DXyXnhnFEfFuUVKLqCfYOcwJIrOe9mFxJHBI8FIcfbXYkt--_ffRQHTkzWCzL-KlBJhFSOtkYtqu-8U_ZDzW52utT2or4YchMVkXgNplFlIFvO7ysr6QXehtNDhrK-GNugBxMhebv8cZaGPVrPAwpSfFMVuq2n4vTSOHrtwNaBT2qH3X6CAWUvP_HP7euYcJao1GzSCpST68hxsThA-mYg3W7IYMgMtBOgKyr4AHNTqh4J2OTdmVe2tl32agZi9-yhxKdcKpLb2Z9_NHsEYo6bJl90RwJIQLigjNZc18YS8nkyXSQLLcm3rhHBHe64fElgtOFjuhWs7eSAcBiciubYnqhoHa6kpfBEciJVEi5l47jv6UUy0p9y5Pk2W1ULnh=w1140-h500-no
 aliases:
   - /2014/03/04/best-20-pick-up-lines/
   - /blog/2014/03/04/best-20-pick-up-lines/

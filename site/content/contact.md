@@ -5,6 +5,7 @@ banner: https://i.imgur.com/0n5zqiA.jpg
 hideBanner: true
 noComments: true
 noTimeEstimate: true
+navbar: true
 footer: true
 url: /contact/
 aliases:

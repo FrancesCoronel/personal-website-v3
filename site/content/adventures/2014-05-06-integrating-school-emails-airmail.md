@@ -2,7 +2,7 @@
 title: 'Integrating Your School Emails with Airmail'
 date: 2014-05-06
 description: "So in case you haven't heard of it yet, Don't Starve is this awesome Indie game."
-banner: https://fvcproductions.files.wordpress.com/2014/05/airmail-1-1-mac.png?w=1024&h=436&crop=1
+banner: https://lh3.googleusercontent.com/TcFxGldUsuMDDS2-jaDLOEC4AasAy9DzQ6GWBXD4l7KWwqQIDUKxt-aqXzlFZawy2LtY4BhQh6ocb-guDfRrAXP_b7JD9PLZjpeF2Fzdw1QmDrM4YmkEksPEUUYcb8RH601oI2OGFeAgLvShfCobR3QcjNijnTJol2HJBAxMudIuuTqB5kOsboJpWKEm3X5hRf5-E3zQR9vbIEUJ3jJCv7uGPmc711B7ljLB8SsRIdSOCzhG5Kqm4xGxRnA2RCTjyVWEefG7oE2JfwXuuwfrrUkTiwU9Z3qYMviHaysmIsYY_mbxDoZPPudxHOPbEyJzU_EAITp3adeOxKkYxkcHCLh8Db4kqe4TIHy4PtzquI-qvaP4Wtaru3j9aPEG_mWvxoR_TdPy58JKD-lPaUvo-HMfc7ZsE_ni7qhvmn-7Msc_Lz8jtZlbJ8VOT2xlujblQE0bi6P6FriHyFykvj-24SkFFvOuRduRcYQj9iUbF-iIlUQSgOzJD7uZlxMLDBomGxawqZ3OkgEcOPL2F876bdFuz_ncQ_pi34M5ETMBwEFtTNNBNUi-ZPhZKfuWDky1hs_mH1OeA5H8usIV8hUkeQ_4LyOB-opa4EU_5FHifs-7HNJvuc9uzlgpUjYHvffR=w401-h228-no
 aliases:
   - /2014/05/06/integrating-school-emails-airmail/
 categories:

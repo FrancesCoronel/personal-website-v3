@@ -2,9 +2,10 @@
 title: Interview with Fullstack Academy of Code
 date: 2014-12-28
 description: This is where I'll go through how my admissions process was with Fullstack Academy of Code based in NYC.
-banner: https://fvcproductions.files.wordpress.com/2014/12/img_9625-2.jpg
+banner: https://lh3.googleusercontent.com/gfOEHIXw3eaXokWmCjUQktGlMPs-mc_nqPdhmEQHpNxZawzDoVzw4O2To57hWcgGsAzWjyQFCRJFCAFFNw3K3SThTx1GOEGT2YsZOWkcN69gnIGe5GdUgpGTJ0EzM2KR_01khlIR8zDSFCnnBZI3fbDZt3OE2Hj6K1ld6nYOqL_w5wQdcNPrBzqd2rRPurNkPvEp7d-MHp3O6d71Jv8k72AK3B5K_yALwE8EW6uXBGeX_Bma33gL3ERiNGgIxRVhynwgMtATm3AlBlPiBySbtGW_mAuoB1qGPfR35OnR2sS8UKHGDYODEUmHE7IN85WOWe9-lvy_ozxU5Jx17IAORASmiSK8dcFop1XcNQJRZpD5YyhWc6voFQo2Zj59LOerwSEawH8W_xwIXhd_5jYRuS7gUP8VBMlWctABTzhY3EApfit9RbmAL8qRMXaqjYd8DXCWRVf6yHdBY4YTh9lmGWuL5pBqnNY7uI2dh1DkTmjo5I8DVOZKXJpYqLcqo7IMW5gexfbgbwtijpu2N_JHLNGPSKoM0uN0mPm36a8HBpKfw7u3JQlYueQFEHFrpuiYlILw3EWrEKKSBxkftVkNqivzA12YTypX_Y_32uh1eVlRh04VrdeGFW6mPIQaamBY=w1454-h969-no
 aliases:
   - /2014/12/28/interview-fullstack-academy/
+  - /2014/12/28/my-experience-with-fullstack-academy-of-code/
 categories:
   - blog
 ---

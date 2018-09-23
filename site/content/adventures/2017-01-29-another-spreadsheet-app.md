@@ -2,7 +2,7 @@
 title: 'Another spreadsheet app? 🤔️️'
 date: 2017-01-29
 description: 'Are there other options out there?'
-banner: https://fvcproductions.files.wordpress.com/2017/01/airtable.png
+banner: https://lh3.googleusercontent.com/kFDhPT8p3W0L7unQCvgcKwafTsPEtjhM_gqQcwCGNCYv2e2uTLK33vd3XtL4j_hRV5ujGo5o25syLUSrdcYzfRWY8YrM0oEisvQTSxEtHnTlaEUKVKhF9LRqDFSGaMGHpec9DsyJJP0HkUgGHkA-Q6au6i_jfdZhbRxKgnOqzZ1GK_uHUF-4jJGij6JMLrY26Qq7qeMi23QzlxceAwdwr_8I3Ln4pNWlgW9mBJo-hcoxPCZwCh79qVASEtCDT6vsheCcgfiphqX0J2vYmTPE-r3ZJotebnYx43pvqydZ9q4vLPJ_unMuksbiY9fbUDuI_gxvlqJ5K6_FyV-BIUpZNT8BT7fAvJv_MhcJZFpWzXgJZeWezomJfqoMTYLIuQJffG8woo-kHEivVFO4td90Lh5FlL-x4bjuZ9hfXQFsFVYyTdHtotRmvvMHjfA2h-VZ3MC8FwA6YVNgV6toQUmSFZjpQny8HGkbbSd47bAWz8DUVDWXc36qjB5-ueTUKWgCy0-yNV4cQfMjIT1JnSochUG1lSSs4y2yeVHFykBlt2TY4kTu9SmqIqXCwUpZqXAJKflA__DfIn3sWD2YW3q5P_JOJjXZaMz4ym5LAh2MaPpy5fd8t4G-RhqBq5Y3lDgV=w1200-h630-no
 aliases:
   - /2017/01/29/another-spreadsheet-app/
 categories:
@@ -17,11 +17,11 @@ But not me. No, no, no.
 
 ## You see, I've been using this platform called [Airtable](https://airtable.com) for a month now and I can't even imagine doing anything in Google Sheets, let alone Excel, any longer. 😊
 
-{% include figure url='//fvcproductions.files.wordpress.com/2017/01/logo1.png' alt='Airtable Logo' %}
+![Airtable Logo](https://fvcproductions.files.wordpress.com/2017/01/logo1.png)
 
 > [Airtable](https://airtable.com) is a productivity tool that enables its users to manage spreadsheets.
 
-{% include figure url='//fvcproductions.files.wordpress.com/2017/01/reimagined2x.png' alt='Using Airtable' %}
+![Using Airtable](https://fvcproductions.files.wordpress.com/2017/01/reimagined2x.png)
 
 I know what you're thinking. 😅
 
@@ -29,27 +29,27 @@ I know what you're thinking. 😅
 
 To be fair, I'm not in a job that requires the use of either but in terms of organizing data, I have found it useful to utilize spreadsheets in the past to keep track of a variety of different things. However, Google Sheets proved to be far too clunky with a spotty UI for organizing files.
 
-{% include figure url='//fvcproductions.files.wordpress.com/2017/01/3fc4a2d8703426a99a3f2d33ad5affb4.png' alt='Google Sheets' %}
+![Google Sheets](https://fvcproductions.files.wordpress.com/2017/01/3fc4a2d8703426a99a3f2d33ad5affb4.png)
 
 With [Airtable](https://airtable.com), I feel like I can find whatever I need to in a breeze because of how easy it is to access just about any piece of data you've stored in it. The interface is seamless across mobile and the web, I can share and export to whatever I want, and I can even sync data with my calendar.
 
-{% include figure url='//fvcproductions.files.wordpress.com/2017/01/2016-10-25_14-04-23.jpg' alt='Clean UI' %}
+![Clean UI](https://fvcproductions.files.wordpress.com/2017/01/2016-10-25_14-04-23.jpg)
 
 > Airtable describes itself as a productivity tool that enables users to > format table rows as tappable cards on mobile; add new columns; attach > files directly to the rows in tables; preview images and documents; > share tables and see changes; connect related data by linking one > record to another; sort, filter, and rearrange columns and rows in a > table; and integrate with existing systems or build additional > functionalities.
 
 So far, I've been using [Airtable](https://airtable.com) to keep track of deadlines, college courses, mentoring sessions, job applications, test scores, awards, all sorts of things! 🛠
 
-{% include figure url='//fvcproductions.files.wordpress.com/2017/01/screen_shot_2017-01-20_at_7-29-24_pm.png' alt='Bases' %}
+![Bases](https://fvcproductions.files.wordpress.com/2017/01/screen_shot_2017-01-20_at_7-29-24_pm.png)
 
 My favorite aspect of Airtable is how easy it is to share everything. If I'm working on a table that involves deadlines, I can send someone a calendar view or just sync my calendar so I know exactly when everything is due (very handy for job apps). 📆
 
-{% include figure url='//fvcproductions.files.wordpress.com/2017/01/screen_shot_2016-08-10_at_11-43-02_am.png' alt='Calendar capabilities' %}
+![Calendar capabilities](https://fvcproductions.files.wordpress.com/2017/01/screen_shot_2016-08-10_at_11-43-02_am.png)
 
 I can send a stand alone link to just view the specific table I'm logging in or all of them at once. Despite the complexity involved throughout the app, the UI makes it easy to navigate and do just about anything without having to reference documentation.
 
 Plus, there are so many base templates to choose from! 😲
 
-{% include figure url='//fvcproductions.files.wordpress.com/2017/01/templates-airtable.png' alt='Templates' %}
+![Templates](https://fvcproductions.files.wordpress.com/2017/01/templates-airtable.png)
 
 But what I find interesting about [Airtable](https://airtable.com) is that they were able to break into a seemingly boring and crowded market (spreadsheets) and still get tons of users on board because they put the experience of their users first.
 

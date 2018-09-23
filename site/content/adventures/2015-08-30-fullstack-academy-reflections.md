@@ -2,7 +2,7 @@
 title: Fullstack Academy - Reflections 💭
 date: 2015-08-30
 description: At the end of the day, I'm really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye opening pair programming sessions, and the awesome people.
-banner: https://fvcproductions.files.wordpress.com/2015/08/banners-0011.jpg
+banner: https://lh3.googleusercontent.com/b_Vu5nN-f2T13en1fG_z5ysX399mlDH9Mpfdn3cx9143OZipN-DZzVmuv9bC82itg2crpy1ebih_BK8cuwUmrzJyq1HJCgUzOxPuD_ypjNAdKXtZSo7PnmY8-e-uYB8EhqWmZlpiE9VyLwzClsSQJI8Y3sDX-YCLJO-XAXdOhc-_H5xvVM4ZXAmFyvK1LpgOHvRXY8_timW4B45kr-DCSQBswmf2xa-6qNpgKHH__IgdvcdbSd7Vyp7XTgMFtLiBPCnRNCjDMZIL17RBX6b9RZiqxz6EbryCboGSN1gjXgyx8vsEfJLtQAhvhCiUcj3I5HkpELK_zJ5DEAfEJWTtb2STzJ19-miCFeXGDEtJOq7ypbdryheuF2cvtkA2Imrj3jgKAixg3wgHv_q3eESATLlsEM69XuVM-4if9rQTuEIbRARw5jN0lcXj3ZRKHqOiWS6B5I62QTNH94tEo1LV89dQQZlFSnju54eqjIRH7DJu-aBGE3XMab5g8vKer9hZkhjcfJL_iEGUFPNwtpDHBfltnHrlRlhkSn82qgaxNGOzkNjWluPr74HsNGtJfuC4yULlJkIWd39-OO6Xj20q7Wr9WjyBVWD2IxKFwGowbKq_J6CORRIXfhHHtvRVfPU6=w1140-h500-no
 aliases:
   - /2015/08/30/fullstack-academy-reflections/
   - /blog/2015/08/30/fullstack-academy-reflections/

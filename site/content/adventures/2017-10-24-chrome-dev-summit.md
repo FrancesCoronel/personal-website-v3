@@ -3,6 +3,8 @@ title: Chrome Dev Summit 2017
 date: 2017-10-24
 description: Awarded a scholarship to attend this annual exploration of the latest and greatest in web.
 banner: https://i.imgur.com/NlboOhH.jpg
+aliases:
+  - /adventures/2017-10-24-chrome-dev-summit/
 categories:
   - conference
   - award

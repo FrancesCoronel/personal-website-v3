@@ -2,6 +2,8 @@
 title: Fullstack Academy - Awesome Web Dev Tips & Tricks
 date: 2016-04-07
 description: I created this deck as a resource for other Fullstack Academy students while I was a student there myself.
+aliases:
+  - /2016/04/07/fullstack-academy---awesome-web-dev-tips--tricks/
 categories:
   - portfolio
 tags:
