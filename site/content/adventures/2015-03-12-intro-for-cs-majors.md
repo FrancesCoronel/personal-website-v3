@@ -28,7 +28,7 @@ We'll have to see how it goes but I think it has a lot of potential.
 
 ## Table of Contents
 
-![TOC - CS GitBook](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-04-18-10-54-50.png)
+![TOC - CS GitBook](https://lh3.googleusercontent.com/ruLea1pT1YmynlKbUzov3HoEV-naFQFHOUadB-D-qtYmIICmhktaQb7YZoYl2SinfLIzBsnHR6AOkAZ3ciyLtTnEUIwBSGiRJ-TxQ95TL_siMLpAZnd9Y_7PMC35xvQZbRfFb1CLSDLw-qryUKnWaoYeYXncKbS4LRxrfdGnqAoTbknyGg9uusgGP5j00w1CcZaiRiCTDKKwE-9oCU902Ds2L4d9e0ek2qr2ts9hkUKWQYILHdMQp2KzvQKXOWQJtyWwsqMhOkoQLlVFBut89bZHhDvXSYtrL0X8ojApyF0tc_8mOXaC7VDY-VoD4NBjDmFnjO58VXN4YtypoEmwuZFRdom91sLlCPpFGLSkTa2wxjiaukHJr4KqndakqO_vr9Nu6Nft3woku0KkMWA_22lVYqqEPiPE9p3FpyBU6zp81ovyuTyFlN-3oBYYwrVae5376dTPaYLKbc8055TaByx5kBc4418aqIfbbCeWjQN35LO-51fHO1WXpHLLdKKigMv2rbKWxZtT8Hq2HbCRwrn8jfxKiWCp03o0QYqASKusudbeAdGEvYL1cvEVumtJIv66Ke_8jv2wOXMXaQDL353YJyT4R2Z-roV94BZ3qibe_et0_xsPuuIBmY7sUhoa=w313-h220-no)
 
 ## Tools
 

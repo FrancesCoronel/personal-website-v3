@@ -54,8 +54,7 @@ Long Lighthearted Lists
 
 ### Cool Places I Can Live When I'm Older
 
-[![Travel to
-Austin](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg?w=294)](https://fvcproductions.files.wordpress.com/2015/01/img_0074.jpg)
+![Travel to Austin](https://lh3.googleusercontent.com/XjzJehQ3CB5MWSu35PjqQF4Ik0cq5Ua_klOBqzuvRG7DrNrd1-0fP4DOUeFORg46SOD4lkqH7iJY7p2N9odtfxdN6XGYDRZctFCImmI7I4xC6N1cUR9pvmBAdjH8YjiUr8r7T5SA-2M5GyUlVqqTLpOdGGDLjzcQ2VjL13dcCpqBd4v_Q2fCHTJrYw8Jh_1n1L2DXZbZHgxZYbrM6z7BR7m33EI2jx0r7Apv4fKem-LVogwycWJFRxl0HxfSGQWCM7nT-Ca-AQt8o_K09qJO6kMYuKR2SMZ05OK1bKZ5WZ1kGFjdAzTCrgwp65Vr64FFxzBnS8nlI4LUuVlp4DCZmjpFmO5c0NweEsK6BfATKZEkioW43x3mMjn0WrSy5UIGCRa1GFN8UuNRoEuEbDB9XWx0tjGPSRYHUGifQM49YbYnMY6kDpuwKGwDkNEYbBPhNiSQdgl-MMmw0sfoD-7JTF37OggVkYe3BynjDbQHGj8d12_nmYfXokQ4feKkq3rJZtAVAC0Tu2LA7KfG80Om2ITeaA88WzbV_GhFxAivn9mAbSSDGZBXYanll7Z4kmJRea6D_8QQpeNzuSrrjTV7fdw3L4Hg3QZWw2PTAmW_Ec0WQcH6_2qpWEPpm7MPsdKl=w950-h969-no)
 
 - Honolulu, Hawaii
 - Miami, Florida

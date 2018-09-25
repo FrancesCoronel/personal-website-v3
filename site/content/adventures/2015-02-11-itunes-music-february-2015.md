@@ -46,7 +46,7 @@ I don't think I could ever get tired of `Heartbeat`.
 
 **These songs are great when in the right mood. I actually learned about Evanescence through my mom because she enjoyed listening to her back when Evanescence was just starting out. It's a solid album, regardless.**
 
-**Inception was an awesome experience and I ended up being one of those crazy people that took the plot too seriously and made up all these hypothetical scenarios about dream worlds and how I'd probably remain stuck in one too and my totem would just keep moving about, endlessly turning and turning. Mmmmhmmm..**![Inception](https://fvcproductions.files.wordpress.com/2015/02/inception.png)
+**Inception was an awesome experience and I ended up being one of those crazy people that took the plot too seriously and made up all these hypothetical scenarios about dream worlds and how I'd probably remain stuck in one too and my totem would just keep moving about, endlessly turning and turning. Mmmmhmmm..**
 
 I used to be addicted to Zimmer's `Time`.
 

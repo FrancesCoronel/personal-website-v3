@@ -9,7 +9,7 @@ categories:
   - blog
 ---
 
-![Limbo Logo](https://fvcproductions.files.wordpress.com/2014/09/aac70-limbo_logo.png)
+![Limbo Logo](https://lh3.googleusercontent.com/oqnv5xlI9eBPU6vtzbW6KVMvbHi41q5MNpFjGCKqKyyY5Iisn0W1SPeCKbgReB6TJfT8jyccSoQdmp_FpWqFjeGWzOxW2HdXA31F0fHLO2zzoR-LV0ZKnIn8TKcqiCy8_N5m95rrbx3naY6vxmo8FcYUMVSfONi7w0C0LKblwJCVVL2Zr6QKL1cZS1VezmJi1fxJHAYbB1zrOtCRgyWHXSnYpywOKS3Hx0ngTklUYfiomU7yHwCCxBBVrDF03XztyHdzqmExeOOeVNcqSfxXXgOya5yW7iHgfXEJj5sBlIetyCFfSnsx7cb5zzDll4y-ubxB7KDvHDqz5nqKwZ_aYoHdIBV-u3SuHgOIXZkRUUehr6CrTkiLwnexym6qaWSEzDC_FtJTsNH2cEzXJyiUIRz0t3GGD0XVmh9wUDFA5JC6K0dg0QxCBnDkjsw_dkkNQF39WG5w0zAoMh7JjIp999U735wyDMAsssQZCP55HPsZRN5nkHwzA_G3l6_J_Bttk0SqirDZzXmh6qdCrMm1_SreolU6SpDApBzhrqxA2GiwpuRv7ij_VuQxt-oZPkBkaqS_taPTgnvMTIeRaxCYGpBOm0j5bpingvAKOIIpgwTjvKBQO81qyZY2PWSftNB5=w1600-h526-no)
 
 **It's been roughly 3 years (July 2010) since Limbo was first released to the Xbox 360 platform.**
 
@@ -41,7 +41,7 @@ So then I realized pretty quickly that I need to treat this little kid like an A
 
 Even so, while the hope increases, the excitement after death only does too. The addiction. If some of these puzzling, think of out of the box type situations don't appease you, then the back story will. One of the best parts of this game for me was being able to resist cheating. If you cheat, the game is basically ruined. You don't have that sense of joy that you received from finishing it anymore. Of course, if you do want to cheat, there's always YouTube...
 
-![125,000 possible LIMBO walkthrough videos](https://fvcproductions.files.wordpress.com/2014/09/screenshot-2014-09-22-12-10-20.png)
+![125,000 possible LIMBO walkthrough videos](https://lh3.googleusercontent.com/550clvI64klq4v2MoifIMCDc-XG8e12TwIP0G044Nluz_bw7Yoj05rj-bX48RU5Y81zB8DkRlBmVj0OlF2hvRoTMID2HKSAxxnsTG2leHfgdGex7pLt_2A57-4JMO-a6-hqqICh3p2kMUEBT6OvOE4G0an-s_C_IHk4JYCrc6UPk8ilSIC1X34kSnjDVtFEu_ORja7be-c6E2jz7r487pHVu4YOjkW6AxkyorLy_RBj12C7dRhqH6sZnuDyZHLJW3RmCgN2-cfMCaixnj2M819K1Eqz9wpZFqztPiIMXJosPZJWgTcguS3m1pEkclO7HxYXlyCiRBM0kAUodhtzSJWMo0ZdKAf7h3xTAnDX_gBmJ_DH1qJYJFgbDs8ftAV07FWPWXDWfCt4UYRk6L92wFQrJ3wH_m2Q9Eq6wITRkkJAT26_5t8cY8YzTw7S26Ihj0T5O1z8NMgWeW0X21jLsJrq2zADGWH33MnkvbmctmSf7iDl-gUrhUSGwSlsonqoxfos7GqmPNsz8h_duST5BNMKl7IDXztXNEztyG0OIvYSzDou_AOgMroArJrJAtd_hkzLhqjQif09IdqdM0RTHmcYNKqs0n5lQDLSUK7kLaYwRRSj3L_OrAp9E45wuF4sI=w297-h220-no)
 
 > 125,000 possible LIMBO walk through videos...
 

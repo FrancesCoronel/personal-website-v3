@@ -19,8 +19,8 @@ title                         = "FVCproductions"
 
 # RSS
 [outputs]
-    home                      = ["HTML", "AMP", "RSS"]
-    page                      = ["HTML", "AMP"]
+    home                      = ["HTML", "RSS"]
+    page                      = ["HTML"]
 
 # Output Formats
 [outputFormats]

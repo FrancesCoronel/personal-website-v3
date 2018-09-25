@@ -16,7 +16,7 @@ categories:
 
 After applying and interviewing for a bunch of internships and coding bootcamps and receiving a bunch of rejections and acceptances, I've decided to head to [Fullstack Academy](https://fullstackacademy.com 'Fullstack Academy') this summer which is located in New York City to be part of their inaugural class for their [Summer of Code](https://www.fullstackacademy.com/summer-of-code 'Fullstack Academy | Summer of Code') program. Ok, wow, that was a mouthful!
 
-![Summer of Code | Fullstack Academy](https://fvcproductions.files.wordpress.com/2015/04/summer-of-code-fullstack-academy.png)
+![Summer of Code | Fullstack Academy](https://lh3.googleusercontent.com/AFT-Lji4GzmIFPh-cCcUcn50BzrUci2bTu-dyD2Wn5MgsXN3QaSLw9biy1D-W9D404xa7CWudAO_7edX0vgdmyHQCQEXaXyRuGF6oLM-_LO81Y2rrFxpsQSMf3OD-sxZuoI1zpbUn5s3_kxQassHVffEWE4WoliWXG5VlY1o6qSYhWFwGvVQHb-ONdA_1KhPZh00zqS-T6Ka0GRvGcvzesJ_kwUVlt6b1FkZa7y_Pc3IML3ym5UWZg6AFsbX3my4s8NsST2C-8Evoy4cyQ1Y6s_3xNJ0msgJaRkoo54fCIn0sHnw9q-sqYsl_6pBzjqmvpBrsxz2v_3F6aCbxgsD0QFRBAWFRR9djAQ5I7vUF9HIJeGRki8drcNkyykdY7Nv-oSif-aImkyAO4F7JdI7RLoC5_LbPgVR1X1WvCoM8ajk_4RWk_kpeqxdm9qz4CleUUbrVm9u_cJBseMsZE3Gb1i9Xcs-0KQJA33gFj4o_1g8ygqP3r5EQBcTwUyuKyE9ujK-SzyEfJ8EafdmDL4KelNN364oFEpBbrYiC0pospHKENlgpk1KZHG4C3LwW4jitExPhvZ_sbaPifScY0J7roBXKcZb96WNSaLa7FNeUWF6yUnp-tDiRHVYu7l_EF1p=w479-h220-no)
 
 It's only for college kiddies and surprisingly there's not many programs designated specifically for us, so it's pretty cool that Fullstack decided to implement this.
 

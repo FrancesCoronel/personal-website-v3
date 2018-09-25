@@ -64,7 +64,7 @@ My future goals still involve making this into a full-fledged web app or having 
 
 ![Mapme | Coding Bootcamps](https://i.imgur.com/SR7yuSg.png)
 
-![Mapme | Coding Bootcamps 2](https://fvcproductions.files.wordpress.com/2015/05/codingbootcamps.png)
+![Mapme | Coding Bootcamps 2](https://lh3.googleusercontent.com/NMAvc9I8ja7BgQUQDrAU5zi0HbrUFD43A2twxJB7HQ4JLPrO65YE68Rn3K_GYFCLQWKi6Up5p2W2X6FEIASHcQruIjNg3HufKL8wklB5kyQpXMtb3GkHajK1lvmAnr6xr9rkBa1qDjnWt8IIg2t7reSN2AflXqmnpXgxGi8hDzCaYZGv34nr_ygfbksrYgdwqPoJsGo8uq2b1bvgwRwuNLENBmqSH8oKjTQW38Q9rtHGlQmilUZ_0VCNukSlcCf0VCG9ngcIQPfKFBoLjTrlgsJvtDRk1tstCbMX-D_HpZW9V1sVkeSnYkMOoZRO-xiU_UGI-wlTiTsh_PyTEFh0W2c3JoJF_d5wCqpmX6W7iLmhKMgB1qnLGt3394_mGY0wv6W7-TBSVSaLftl49v-WBDFcmMrGfwQOufvdfO9mTu0781hI4any_u7WXdr3X7uvsIREkttaX2Usjy_ijL8bU93qQ1kwG9jxMSlXk1yk3XI67CiIB8j6-fR5I0APeXiycXhvHq4FaFRA2RoewhHo_ylzGd8awAcXkNaLip-lDSYX7nF6on0IMBDbOoWjIkn1ui9XbmE-e07vMmjav7y9AH-e2lT7d7Hm63FC4LYBOe4eqosiGedGKSnBnCrEP2_u=w1440-h805-no)
 
 ## References
 

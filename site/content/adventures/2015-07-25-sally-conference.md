@@ -1,8 +1,8 @@
 ---
-title: "Sally Conference"
-description: "Sponsored by Bloom & Women Who Code"
+title: 'Sally Conference'
+description: 'Sponsored by Bloom & Women Who Code'
 date: 2015-07-25
-banner: https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/ckydracwgaeajgp.jpg
+banner: https://lh3.googleusercontent.com/WQs-_OEt7iS_vnOncTQ0yhc5ANMAGsau94QiqIFvPoC7dUcf3H65HDg-jEw6Aad0cfy42GCSs5epyHRVm60oUwo4dBla0FBplGyZNfXFwrpuGwy3FnfO8gzLfuKXfNphyb2Y0WN8kBWmyZjdaIMMYJE5AXRv_x9Qq-z5gVE9zE1cNS5ij_iQmxLot2lFD-FxUSPsV0STs5WQL8umQA7Iaq6bPQymJarHuITnCb4NHfOT6esXAReickDAZmJM4pMwzHZZfpdh1BjgKJD5tjXyxalW43s7Fg5T1f9iNt4oJkrwmd8y4Al7Br8U6r_tiVvDQjU3TK1leK84E2smirSpQKbE1DXrmrv3n7m_ztsbDp6eYG-2IdtAzxq0ogI-uYUdY0aAgCm6bUk-XNu6NkRHFnx9Qc7FsHI73lGlxGvayNw59EiAxtRYmmSXiUcCeiPgkayNE-qaPapPHsprjjop5FFXwUi7Eq5sMgRigbi8Nnkqzn5XU6PybVAqBFjpDaXPDZxSLvnOtFjQ4oGo-Nnwc9RuNQB3FzVQUgVTcnSeq_29v-m4tUplJPlo43HdhoXNHxtJunbli2sOX1h1gLE4qnzSWXEWatHG-cuheeQ-9SjaMmAMYp8z59f0SwDb77mS=w1024-h584-no
 aliases:
   - /home/adventures/conferences/sally-conference/
 categories:
@@ -11,7 +11,7 @@ categories:
 
 ## Name
 
-[Sally Conference](https://www.thesallyconference.com/ "Sally Conference")
+[Sally Conference](https://www.thesallyconference.com/ 'Sally Conference')
 
 ## Organizer
 
@@ -35,6 +35,6 @@ While I was at Fullstack Academy, I was offered to attend the Sally Conference, 
 
 It was definitely an interesting session and I heard a lot of great speakers.
 
-![Sally Conference](https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0001.jpg)
-![Sally Conference](https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0002.jpg)
-![Sally Conference](https://i0.wp.com/fvcproductions.files.wordpress.com/2016/02/ckydracwgaeajgp.jpg)
+![Sally Conference](https://lh3.googleusercontent.com/7lTjit6KjNrRy81Bw9_QglkUcAdWOvx-2JKs1L3KsMuzqh5lJ45fEcRWDNvkv_Xj8tdQkuY5DPUCllDy7uJAeCoeWY_vFO7KwH5_MCAbJ37qf-u-FwOvzUypyIDzEdp19kWPhwQVB9eJu0yinqo8Q5-55n-bw15LHzM12VAl_aM75wwGolKZn-WPmoA5Td1URyp-uNVHN5mNuiuTJtQcvxWUg-QjLRB1IMrsB9625x4znhaEcf8mZhkV1kJJHLatxfGv_qbgUXmmwazk3QhyJ7factf4FlfdclGsX4lN-hIjxo1GVslwsrBO98OdMu9OK2mC0jKSavRhTifgVONAYggqvxwp9nHeK8z5py6VtEGZwj3Ci21GwSro1nLIgA7x0C2KCzf7Lr4uPYUiIHj0C6nBUdIAPiFqGGLh2g_BXD0Izi8pjtk4OOIAo9_Y3e6_0n32AfbnsqWFbJdtDzj43rFW2TX_QHgVX8-CTCjbc2w5yuH3ig103kWCgALg7EWfy2hoa8pg0d8qeNK6GboHjcWK9pYS3Q8GpEqGd27zQ1L0bGGCRWcGnG7gpFzn5b-7VtCRVLHkOGs5LXJyNoLiKsjy4HVdG5t2fn-fj_cNBkfNon-Q4pfbG_x-iN8WPa5S=w727-h969-no)
+
+![Sally Conference](https://lh3.googleusercontent.com/Mc73HaM8CVbP1uRIA0bQ_0lew-r6wR9dVEjIq_e-fKPUF24w548uUIgVTvLCNUS9So-yzqqpNvylFlu2kxYo-Xf4JC2Eh2SQR5shK3huGqroX2XrJ-Y29SenNPzhNfsNwiFPyrNBMQHBLT-HZIL7_pM2yfpgTs8BQFthRg11GK3xQzvzoLSayJhSPLO01D-bY9BTF0qsIQ3L3eeO1uUqIUkGcnVRjBp6axBpSlzfZqyf3jfU5Xy18ai9UYQy-vnrFJ7Kib43sKuw8OaQDPfJ8bPh-660A5oEznVsKN_IjSHDBdj9iKEjXst9bUkZThknY9Sk0Vdrw5pfZNvc3wHKSoMBR93frKfKNThBJIG-osJ0ghUSETWOt4-FWN2qsIpVwUzJPWcH2boPwU1_PZP8OTkUBg7p-11oblwWl5qoCHtqx9weBMFgWxn5ZyisiVUCvMrGtxyAaV21S-20T61f_HZ4gZ1wJvcms33MdiMctT-DOK5NSiVa4NAkg3Hi4vewBe-JrhOpPYI8iFQawvTKEJ8Ss-oNFZr7u8d2VKhj5hQb4BvPDGRhjPpHksXedmNvtmDjeQ_ZvtQ1A1M0kxKkSPhMbY4Fu52QLH-5sLsIWlRc0lUTmm3VFEPFcVGuDHYm=w1292-h969-no)

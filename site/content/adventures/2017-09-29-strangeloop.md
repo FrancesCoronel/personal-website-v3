@@ -144,8 +144,3 @@ My boyfriend actually ended up getting a little jelly because I mentioned that A
 Waking up super early to catch a flight home. 😴️
 
 > <a name="footnote1"><strong>1.</strong></a> Ian is one of the [Project Alloy](https://www.projectalloy.org/) co-founders.
-
----
-
-<blockquote class="embedly-card"><h4><a href="https://imgur.com/a/4OYm2">Strange Loop 2017</a></h4><p>My adventures at Strange Loop in St Louis, MO from September 27th to 29th, 2017.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

@@ -39,7 +39,7 @@ Scholarship Recipient, Speaker - Web Design for Developers
 
 Hampton Roads DevFest is a technology conference focused on giving software engineers in the region exposure to new innovations and best practices.
 
-![HR DevFest](https://fvcproductions.files.wordpress.com/2015/11/issuetrak-conference-00831.jpg)
+![HR DevFest](https://lh3.googleusercontent.com/NPXDu3e-baECxUk60EGv8-OzTHMA87rl7Jf81ri2SHfz6HUoRXjUw5z6pZx_MO6koG1vPrrhyv5N-EmTOcGIX6d9Qfixn9ZWiOjFqkjz0Cr63bqj6SfILUwpB5PFZbZPL1C5UTo3bI8hJkseIfl1AQJnS67Y9l4CwCOLQV_ytcy2eO0ptPVgusue-cw-hCbg6F0kkQR4K4GcNHOSbfOXTspzZvTr5uF5MYQZa1apeGPZqUXv9Zm2RLLBh0LnnKinnGjwhtM8hXeHz0zf4jBN0qFKcQxEjeiiP5DxVdNLaZSmxctM0SltLBhh7eQfCbOcL5STdNSZ9A4z5QXrPMy6p357IYCGSNSjWnCMpRwexGVXfqQPpiSIW_lZ7F0rsBJxS6yvHcFiYkff4HoStWsHrmNR91N9U1S_Nc4Ax5A0_bqH9e4G8piYi3gSR2c8dziuXE70OZEai4Hx_ZyR9PelLZcEr-OLRJ2yj7eKhIIyHgbMSUpQGCZnc21x_HL71kyN_1dBmtgmuN7iCyMOx2l8-PJOt0Kq1MQo_hcmD8xuc1S0M-MIol_9DI2Vo01tqNUdpCRJcoci1VdL4KnwugsCn9poPTTFxrHszBY-MqimIR_Q4w25YeRiYz6LYv-WUhl5=w963-h641-no)
 
 ### Presentation
 
@@ -105,7 +105,7 @@ I've spoken at conferences before, but never at an actual tech conference which 
 
 **_Thanks HR DevFest._**
 
-![Lanyard - HR DevFest](https://fvcproductions.files.wordpress.com/2015/11/img_0100.jpg)
+![Lanyard - HR DevFest](https://lh3.googleusercontent.com/0MXP1ci7fvN8c9R9hWrfYHuzCz4Wo0o89THqqANMbC9hW9y1OvUKLnlQBxcogN119jH37J6VVwJopGkg_iiVg0nZMYwDjTP91pnvSjInsxl4LnaFbzr78JgUiPd0PhQCOxct1tj07BNrZ3yH6_d1lwSs30XWsX2tgiVcNjGp1cSM7MgV9qD7ND5jW7EvIKD0oAqwSVqa34DxZc5hOoH2FjzvQWNjV49RTJ80NUO6yTKregRkXHkcMjIFBnWegNJf-Wqo_6KP9N-N9fpGozKxf3v2vhfRUt9ED1VZCbbZyi1Sn04V2hYjmoARBVmESJY6VmexuDLcVWpLfxrJ7I5HoCq10HLyCJq86RtkqLv10kqqddadLixkXfr_HA9XKFpk7NQp7Ca3h5zo1ZGSuQI3bPQUbvg_n2MuzpPUfrSqQnwLRSfp-M9tydeqLYd0jG3y1uaYiF_ok6HyD1iYdzUa-XmNi52gyuXVD2z_Q7-ErW1PZ3dbboVrSyDcyWUj6PssaPnJrnjqiHUnMjBOJrzQ3oqsajHwICMHUJOLMSl918Bh62d_BCDLvwMxr9iN8v_l7LWhDzTrBhO9lYCavOTqLl-SkcZ55QylloSEk4y62NtW1nQ-XdEn9rBv_qiOuGLM=w165-h220-no)
 
 ## Slides
 
@@ -125,12 +125,12 @@ I've spoken at conferences before, but never at an actual tech conference which 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/lisadenoia/status/665604693549170688">Lisa on Twitter</a></h4><p>@fvcproductions I really enjoyed your session at @hrdevfest this morning! Well done! #hrdevfest</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-![Slack Feedback - HRDevFest](https://fvcproductions.files.wordpress.com/2015/11/screenshot-2015-11-14-20-14-11.png)
+![Slack Feedback - HRDevFest](https://lh3.googleusercontent.com/v_lneX2_wJqkqa1QqXNmqGZp4dEHrTeJKIt31bzQDhcuimifzG_YTEVZHSdpc43HcPDVYIxWsz1M0yvGBbzg6ZMjmFitw6oICC_S4AHqLTPvGSmfAJFxuAkwOFQzJmX6Q-YQhWk1TXHkee_RdQveY7UY2LBkNicnkg7roPYd4hng5xy2-KYeyJfSVBITwfpL4YA-Lsis8L26s_1RAAh-HO8dqN5n_FHr-gAOguLnoJMtLsbKANMqGm7X5G5dL_UJCkktcAEodLfNk7iSw0FTQEa3Hdcfy8nVnGCDQz2z1hTCeEsFl56tWdvhIavAWnVIhowhnYq20AtDmHsO5otYZWYo07Qk3UrQaeRrMXuD7126O4Y_NnhP8Hi_gGMUnkeOfSR2Hw0oJO5pgCJx0di0D1RDsD612FhCyWtzLlSz5ZgQoMNq2fbEnMKmSFNZg5yhNl7vnWGzMTAMe8EK05w9ULKIVuH8F5C7gK3iGbD-VjB6Z4eYr7dCFM7FxGSZ3y14fngEiz-QSqkQPs_qf5MIn_pckP8TZN4hzkJWnP79ZjHGdu6nvOLdUmpxy5ouTD-tAVmEdTyYVimRSqMjssoFNBOk1ADMD35O6g2l_0DYrmFMYoLgFm2FknoJ28xhwrHd=w797-h212-no)
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/aag1091/status/665554097798426624">Avinash Gosavi on Twitter</a></h4><p>@fvcproductions That was a pretty awesome talk.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-![LinkedIn - Feedback](https://fvcproductions.files.wordpress.com/2015/11/screenshot-2015-11-14-23-14-32.png)
+![LinkedIn - Feedback](https://lh3.googleusercontent.com/aWyXjpAUgYU_SjtnMVVHmxhXZ5tK1yO5eerL3ytyAsD0DQbY5BqE1iaEkEm6ocSgyiv7d7hheT-QoXFn9PVcHtFU1cLrU6OBaYsiIEDOLAKP7ubK1wH1eqHdjJe-XCGHT5xL_WLlOywX2VuTtYKkq6fVxmAqsOyTsNgJDAYOT7pSBOkaCy8P-y3zDRKJ5Sy0U6upSMTRvQEB0PKbM1omMJqPP0fAMQcTha1Yo8i4i51AR1c_XXReEUvpzHAg3tXTxBFuEueuOaiFR0z88IiKbFEJQFDZWT1M-FWhI3xFb3-yKavievIg9kENZjk4T4TCrKv4xLwIo--1AMgOXwzvd5V9R0bz6LMZf3mnfEqXQT2G3URKBB_ML7EvWQRZ_vSoNLNBCjElrYH_7rF8CI40pNkljpQPdcAUeg0oglr8-ypL0irsSBN7qbUNeEMzLrH9qOvgaIIaNj_LKyVRmmbr0uDzk8L0cwKsibpTF-1pyDFRQJdCkuQAmlx1JpgrVwkCf-95XJeAqnChEBRvs6HYKhNkBbZIeDOfiMStVEr8Z1bqaSgLDad1QTIaE8wl5L-jGXJ0rrm5_Sj-I1Q38ifqDHMR59VFg0ZihoVhFIPUAMx43Nmgyv5Kpon1hGKzCl1T=w482-h220-no)
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/erikpmp/status/665554118182703105">Erik Olson on Twitter</a></h4><p>Thanks @fvcproductions for letting me know about the upcoming documentary DESIGN DISRUPTORS! https://t.co/a3QvMSqkWy #hrdevfest</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -139,7 +139,7 @@ I've spoken at conferences before, but never at an actual tech conference which 
 
 ## Conference Website
 
-![Hampton Roads DevFest](https://fvcproductions.files.wordpress.com/2015/11/hampton-roads-devfest.jpg)
+![Hampton Roads DevFest](https://lh3.googleusercontent.com/LavU-50Ub8omn8IMNDHWIFi6oSuggw72VcR5lUbQXp1f0VCR0UZfIVaayZxy-iusbx48ZQhQtrphNpP0U8T81ypJ3syTO7y7d8Q2puMzfnUBdFM3MTZW1i2HyBr9zGN8u9XzeykTIMN4L4FCiWSeqzMaeCmLFL4MUjNwBFm_bzHgfxB9BBQl27sP2VcsniLQ_iulkB8JIj-77EG3YRP_ez6g1-gt19c7r5C5SRXylh-lEVbLZQXbHT6bdlnL4yNL0X2Vugmh7WMIHOZMyPC0T2CrPl0GmZdp8MJoaGF7EaAeKjkNBIbLZzu9uas5cP999djYojfa5PvuJ7GrhXz4PlGndXO4bMOwfnXDuufg4P6DWWBPxwgYa7j7ywwvMEBdHYpGMKCcFiikeK0FJOLxrhgTUb_3xHnJ5vNxgfY67B-ZBuCZrM7yWtEFuL7XzZS9fF3yFqSBddXdeidCtJNo0B_Sb48cxTq3BXVDxFyoltMg7rW5DLOpJeHD6iJfAAutR9_smDjPKzbftDVjcs-jAuWMjesI7Wl_ElH6v6kq6AmcTkfBPR9slIzHirPKCJie7yBwDUvCHw--2r2sdSoW7Lvh5ZU3viTrO_gwD2zDBvP_GBwURqiE4JtrrEFjYdD2=w183-h969-no)
 
 ## References/Resources
 

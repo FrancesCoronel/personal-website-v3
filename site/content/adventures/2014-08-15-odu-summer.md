@@ -32,5 +32,3 @@ I took one course during the summer of 2014 term at Old Dominion University thro
 ### Courses
 
 - MATH 212 - Calculus II
-
-![Old Dominion University - Summer 2014](https://fvcproductions.files.wordpress.com/2017/01/odu.jpeg)

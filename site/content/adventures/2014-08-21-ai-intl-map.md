@@ -7,7 +7,7 @@ categories:
   - portfolio
 ---
 
-![Robot Waze](https://fvcproductions.files.wordpress.com/2014/09/robot-waze.png)
+![Robot Waze](https://lh3.googleusercontent.com/3_36TUmtc72h62ftOn51cB2wjpxtNXmwzr1HrlG5JMpXhnhj2fG93siezSRJEO3gSskpdO5Rqgzi5SHbPn7JvcSNZufTQQLrNf6k-r8LOIyEybcWZWXrcWq3iF-tisaxsVqtAHP8B-Ho67saxGjVHlkMkrgben_8xFTrqy8_yWMgbfU9s87AiRn5nGXuGNxKooeRcuF34-9Midn6tpGJNuOH6OGfMFLPOHcUMJsCyjKLdNgCIBPZv48dZqrXXGWaIpwilUH0hMDY4dpqpxWDRbti5rsGOXnM24yPLfV8sjyiFFs1ggIfWb7pidH8GpdfRByDE-NuCSVbkj9MHyM11wBd_mjx_Bf76PI-fP4zuJlVItArjY9895bUZSlTfUALtSTroFWBAUeIyk4CNGvD7917-xHCTZslRpjtmk_IKyUHEDzKW1BjrX2KHmzNweCdT6tS-UPP5oH5-0ubiIlaGnd-Vca_ExCg_sPSBDT8yBxM8K4tp8aWmhHq5lOVKR1b6ln2Bfff-ObEQSC2Hf9ozyE48UqNdyyzAvvdEa78Qtn3yUQDrNDgn0FEim77RnoYdfcaMg9CPa8Hj4DQw3Z6svfRkzdKrOtAOPlm4oKevd_ElDUguewyEfylCFY3Lsqj=w164-h120-no)
 
 > This map was started August 21, 2014.
 >

@@ -11,7 +11,7 @@ categories:
   - press
 ---
 
-![DevLeague](https://fvcproductions.files.wordpress.com/2015/01/devleague2.jpg) Mahalo, indeed.
+![DevLeague](https://lh3.googleusercontent.com/fwbCIEMtZdmjWvea0CSKsArFckIOfaXsdurgK4s26sRWmTxjy7bTpemEbl-xMw31_bxDOYMRI9RfCp-Whklrk8Uc0gbtN-cf8iDOV_a-LLog0CFHlOVC-yLltklbxgygurd2cgT_T_Iu2DFVdfmYF0rB17ccmQFAo3WwzydQUhyNlNHjspj95fqHS6wZieKyiuOStknS5ifx8wrqpV_V72uR95R8RyObNjc1OO7WJhcSxbcLY8PtHhRzOF9uDE8Ruuz86QrMgtaKR1Y9TsmTm8O2izzXc5cC53vcprH-2HtM4oew42jJDes07Z9LRZNFbeSzOC2o_FgtoCJPMb5T2suuiPGZZ0A9w29xI4zh1vuDFCj0ZYOMFlEdTkTfbPA0Oxb2lpIenLr7HfYuWbXhJ8zpNo3ed83XKr0gJh-WNw2Ne257rljS78DQkEBwFKh5Z8gDYspmG82q6dTIDtEALkypiNqQNTo698lorkTGks9hZl69Z62x7Nwf4YpK7BYtj2tusJG0JOAw0oYLz2HvspEOJfF2Pt_DgAUQTaR6qsf5pXLTCZh0ZMs0HyCy0clwTVKkYJ0j71Hb99Re1AJDk8encefjksEr_NZ2e6HpWzaVN2UfUTz-LrzuLxB4vHqY=w1350-h316-no) Mahalo, indeed.
 
 # My Experience With [DevLeague](https://www.devleague.com 'DevLeague')
 

@@ -1,6 +1,7 @@
 ---
 title: Chris Lanus
-date: 2016-04-01
+date: 2018-09-17
+banner: http://chrislan.us/images/chris2.jpg
 categories:
   - review
 ---
@@ -12,6 +13,7 @@ Thanks for the info! My name is Chris Lanus, and while I'm not interested in new
 In particular, I wanted to let you know that when I was researching bootcamps, I ended up finding your blog detailing your time and experience at Fullstack. Your blog was a fantastic resource in helping me choose to pursue the bootcamp path, and Fullstack specifically, as I was decided if/how to make a career transition from high school educator to software developer. Thought you might appreciate knowing that your words were read and were influential!
 
 Thank you!
+
 Chris Lanus
 
-> https://stackoverflow.com/users/5293137/rriera96
+> https://www.linkedin.com/in/cqlanus

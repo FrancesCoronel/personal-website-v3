@@ -31,7 +31,7 @@ There are 58 days in Fullstack. These are the first 5. Let's begin. &lt;3
 - My level of energy is quickly deteriorating. Must develop a method of increasing endurance.
 - I took a picture of my workplace today.
 
-[![Workstation - Fullstack Academy - Week 1](https://fvcproductions.files.wordpress.com/2015/06/img_0083.jpg?w=660)](https://fvcproductions.files.wordpress.com/2015/06/img_0083.jpg)
+![Workstation - Fullstack Academy - Week 1](https://lh3.googleusercontent.com/FxerlfoRxVtiVbOKOzZ3xbboxfLvMrkTEyu5JRY7bJBkZSLip1-2CXCjsMlv7uQ9lA-UEGsznxKX_Qm60NbNrSl79aXTj-K4VxvJhJpThgZWg8558l8owUQDKLJdo4IqI_i7Bfj6BY5h0ZoqXS4dWNFeUOGTQMHhBf3fZjVk_mX7nzS16WSj9Q3gciT_k2ZUez4Jue7j_k3OkscVVocpXBhYGk6MpOp6j-ylsQKCoYq37YDZL-0y9V96hg35j_tva62L_68NEL3LFa2WlXWM_ZSnjbSCQVFbLNT2sN3GTVa0E0ZiV8P05tPu23UFR-pa9CkzKppvc-8sl_N7Hr_MWHfqHV4Y2eTdG0_6GeNzcSDGjZQ7iTor-BOruoyGb7I-4FxYXbWuRnIFaFBIdXeDzTW9yGenU-_PPdfEcUoU1C1Gt-j2NLlzjFDnNqPgNGUrd3NmRrqtrB5GnnkSHixYrLuCq9OsQXSP3c1DPkMgbSN3NHZTeiYar4Vbi0bhCRTvk7IaY1vgoUon_qq3bgLv-86airAvMEjyA9Jf4FieKBrGYqVi0xaDbQS_7eycjdNSRRNgpokcffuZO7o_fKxp6jm82nBJmdtzQglKoBkDznzAZj4lRag5lja_G0ntuPew=w727-h969-no)
 
 - Fun Jeopardy game today.
   - My team is called **Bubbles** after bubble sort.

@@ -46,8 +46,8 @@ Needless to say, I learned a lot about what kind of environment I'd like to work
 <blockquote class="embedly-card"><h4><a href="http://www.goldmansachs.com/careers/students/programs/">Goldman Sachs | Student Programs</a></h4><p>null</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-![Brooklyn Cupcake](https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0052.jpg)
+![Brooklyn Cupcake](https://lh3.googleusercontent.com/JvJtnC3npeu182nPzhkojHv_zLQKittcdFq6EfG7K3kGLkn_sCA4emN-3vUarROcmiPujvlxguswQMbwhIMUd8wY3bc5qYGLPzLwYhKB1XcF-3b_E5RYLnbIsEJo7MSvZR9FB7IKksAq5zuLlHqXSzixeF1MhjBZbWw-yrYpulb7uLcwRQxsnT594HEpbSGTspUuU9hqAddBcZ6w81iNdo1ZuOh3LMMaPtEmcvUiR1N51ScZHBNIr6WBajT3Cf4e_Mn5n9eHG0SjVJ99wMso4ZHTGjSf0XXJSEe3RrGL_TwSanEni6wv2cEXKm0oKBFqsqeSxQXQ-t9m_ozj73KeVkBhEjXjjRqeamfxfYKKWylT6QuTmDvjL4rsT2YIkV8qUner1BUnoNVYsASH-YRxY5jtQe-LmJjUC_dz6MSQ0G8yBISTxha4HgXeWzkVZHPm1KpyBfFWyVz3smWu2dHegsiuzi2pK2YBHlCMk-VNrsNqtQWd98N4Sq1i66PdNuteS6TDm_uMU2YaDdjVErmz-5-SU_C0dufMw7rTNqjpeO1aqtFkqr-JwhWpGeu3vjXHSpf4gbcFZJ7MFjPfp5u2QjLPUXll5_8gJTCxJI4PXH66mHmjaslIj6ikGtxnnnVv=w1292-h969-no)
 
-![Goldman Sachs Challenge - Swag](https://i1.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0054.jpg)
+![Goldman Sachs Challenge - Swag](https://lh3.googleusercontent.com/1q9xcoKbWYB7BfMfyncioDLDwpq0S5xu9iYZYzvul0W14nqYpYLD2XPCTvNO_b9ltsFTj1a9u__DbbvLKufI-XsZscGPwJvJxmal0fqehUCK8XG5HqiHdKGymw9wuz1KpsUjWRH7X9x996T29jy62XDYl6ZJ8qYW9tnwk47U4pLJagi3N9UIYWS4AMuOGY9urZJy5ckgiSQir9GBbSOgcBLPI0zg5ojbygtgLDonkVGphdkXdbMxI2mPmOkBDwFl1wFOVkL-F9KJdv3KeI7_r9-ytJRXLsZxkEKsju5GEg7UQryK6ugw22XiQ8zmjYySZPWaBFgI06v8Q8vb7sPgbRDxecaE27PeVr6seYoKUj5SwYEQejCKvukp9QQ4xPxcwREeUqEITrWFQTQq0wdwk3dEcbjJJPnSZDTL4GOxIFkHjV7cpZ9PlLTRNBEkDms_TVreJiNc6x5q-szltnNv0PMbUkgu63sSxLPg6a31wyfwS-7th71ZJNGXsEbmSeqT9lGlpSzz4T2-aOli4sOvxh_S6y9EgD28lkEhqDavMhNeQLNfdLE6jzXh_LfhvuZ15tf7rQtN_OYwk9syVaoy8MPd4_zv-So2rqn6QfSrtsC2pKH4LzZYYNTi99ClrRMu=w727-h969-no)
 
 ![Brooklyn Cupcake - Team](https://i.imgur.com/fwVTITD.jpg)

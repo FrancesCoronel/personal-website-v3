@@ -1,8 +1,8 @@
 ---
-title: "Discover Accenture"
-description: "Invited to explore Accenture as a potential full-time candidate."
+title: 'Discover Accenture'
+description: 'Invited to explore Accenture as a potential full-time candidate.'
 date: 2015-11-20
-banner: https://i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0108.jpg
+banner: https://lh3.googleusercontent.com/ROXm4b1PAL9B2gpktrqAmkfab_1pGu1XIss-aE7FW0RT7E9-QxXHsFYkOjyCs8baLaMQOgTVBnGwe5by07hnVwIFjNonM6kmQOEBN_GBhfW9RhVo42lgyDxmTZ6TvgViMwUCF87r9y8GZDWBiCgtNr8OEMxpLLOFPRg_QfJjdMDQ1-_b4w3jLGlvXJ33eS-GPvhrUoXe9Bfb6u-HwQvxTONDyMIFxB06sF2QKGq25BR2mRqGajKqIaAmFinCNeR-SGMkFs63fVml_pAveCklfnZkVbA0ats1liFNddzrhh-C8DnN_lCheuvXpxMcY9mwe7B58LZgmP7EK558DoulyoUl66TAOLtpqgO9Ee7eWBz_P0tMZVCkQXHyJs_UDpLxga4GQPC1XYsNe1KLUkLlgQepzVtIn7yBiUP6AVR7hrDjGSAXGmI5M9nxbOtoC1jwOgyPjbwkEfxXdVQOJCarHAAC_CXOOlYbNxOtiVSPRsQw-Yc7pFdUM8G5caWuksE41cUhC0NVb7El4IJTMkWyycXvUYL4iPaVS_i1c_X2S-5ArgPpF3Vb0BaVpC6dI5i89AEkplXBGOy29Fs5lIImME2_jjjb4xPDkWkcoo_P2ysNBNExIxXswY_bLbB97K8C=w1292-h969-no
 aliases:
   - /home/adventures/conferences/discover-accenture/
 categories:
@@ -11,7 +11,7 @@ categories:
 
 ## Name
 
-[Discover Accenture](https://www.accenture.com/us-en "Accenture")
+[Discover Accenture](https://www.accenture.com/us-en 'Accenture')
 
 ## Organizer
 
@@ -33,7 +33,6 @@ Potential Full-Time Hire Candidate
 
 I was invited to explore potential careers with Accenture in San Francisco, all expenses paid for.
 
-    - alt: "Discover Accenture"
-      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/kate-selfie.jpg
-    - alt: "Discover Accenture"
-      url: //i2.wp.com/fvcproductions.files.wordpress.com/2015/11/img_0108.jpg
+![Discover Accenture 1](https://lh3.googleusercontent.com/_1n7VrQDQQBNoji2f8k4RkdYcueT9utQjX0PBkDzVxcHPFYW5hfGvkSG_GCXTNiboOzlvxbr-X4rZSXJBDiq3P9E_ilhaaZgW27zB0VSzUaAYEEN5TnYBJZhMHUZoZKNNElm1Un-ooGP7yR5QnI3-TKt_PmSBImMopLAjOo6Z-lEboQhtpQM74IZjJQruoCFtYs5okLzblhLkmLm0pLMxfMJsC8HrRJFC9xmE9VA4ps9kZpvIYkqPLichj5GV8ZDvHCUkV1TzJrnsVz0LQj3sGWpSJeIgRvVbfE0AWtI11d2ur-jt6FTs1FZcrT_v0WWEbOoINEZWgyDswepTgP6SaYaS8hfHoRpssG24b4MIBJPbqP84mrnXw05BstEl7o1gTKrJDIuzIMxk3JITqy-fDSfRxi1VVDScHS8i6pPUe8yGCCtfEpXsUDq-C5mH4RX8d1u2BsjyWZEBu2asBptx3pksoGrTx3FjMXFKGqJBqWAlwoMIGW6oU0Nz4-w13VtnIGWn3aQUZO4y6QEyZa78gNDZQPY4AyTdzq1Y_YLiGhIYpL5C730lI8Lw-8N6WDiJTB1BtUTKys4IondaOZppwo6XS47hjCHjz2OnC0zLWoaKpttp6sNPxjJzK001B9-=s959-no)
+
+![Discover Accenture 2](https://lh3.googleusercontent.com/89vbrcwh36QNvigj28m4K6Imne1vOFVJLCcPiTHmH2eLoqx8cvy4XRzyoJ-BQiC7LD5faxFxZ1D7qaJHVgpKdU6JG9wZ9_LBCrrfGPNBpaJRPYz9ZJ2YIsrc6-9L63u2pRAA3UPj7KKlT57oSeT79yj80JsExGML1BYLiehEtLzbLD-QqZr-j_IQLBJ02KT4aJPLAg7a8Q4-6sdZbSmtr4t65s9jyz8-CZyLNHgC8QfU8rCK_aHNADewKngDVfPkpbxXUx82uZazZsezef3nEkHNZ-1kRwxE9oInBxV19kVfpvzv2PHSCEIt0pqUXWY0M9fPCHnQ6LRUrBQdQcO7FdhbNAno7Mu0eJfqsfhRtHzMWxRBAyFRw7x3kDNjfyxPmkJSapp2pWUT0YQKBZeJ3WTgctWnV5oXZv-CjZRM_nf_MuWGwS76xoOwIvUDRKXVjCgOncQ485FAaTBlAmBpywScce3hF4H1D5RO1rMgOj1_75cSaFdBpPsRYd8qVq8KFOamScxHMror1Y4OqkuWfuQq9thFPPixmIf7CmEBGcpQIC6krOmgBHqIrn9zS_xSPdL1EDIYhxGph12EANZunkwZ_pU_QdnuQpnCiCKRBCqkZA92Q3Hreu4UXPr0nCq0=w727-h969-no)

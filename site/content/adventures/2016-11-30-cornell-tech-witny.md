@@ -40,5 +40,3 @@ The Java Talk program will:
 - Provide a vehicle for transferring technical as well as formal and informal industry-related and career-focused knowledge
 
 Through this program, I was given the chance to mentor a CIS major at CUNY. I personally enjoyed the mentoring session a lot and look forward to participating in similar events in the future.
-
-[WiTNY at Cornell Tech](https://fvcproductions.files.wordpress.com/2016/12/img_0068.jpg)

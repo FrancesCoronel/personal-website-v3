@@ -45,7 +45,7 @@ And then you even start to click on them one by one to import them to your Font 
 
 **Say no more! Automator to the rescue!**
 
-[![Import Fonts](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-46.png?w=660)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-46.png)
+![Import Fonts](https://lh3.googleusercontent.com/Loy00P2M-y1-C1NReCZ9KbGb3zxehZJF5lhr67-7OuMEXnNYjW5IVUXkros8kgc4jxq0VLSJ7EhFh1xAqox5M_iUS0V_S0K6DYG0kocFC_powqYIxgI2qrpu-SF4lMOVXg2S3C0vhUCtZZaxCsizdoltmYZUiq-EUpCXDABihNAIvyYDI2mSa5f73Hoor_w-ZJJGN7AvnKEtjXYdy25AQuzE_-siG_m-Oy1mkScOWEYA55eVUr3UP5DVhrFhbm5ftFDyqc5PQ_3ZzOCLX8eDUHcesD2JJoImbto0At1MOqhTJ9S8eUR8eIr76BLefC5W9n-8obRu2tZsh-WIpV4AW-AOcXTF5HA44k2g2MhIxXpJmWWGpdprkzRpwMPFVfaLGDccY5e9I0JADFZV-MPOZiEx-tr9aVYKrurfoNTprAnmOdkqT2NtsurZG3wbYM2UQXLqq5nP6ZxcTfNOAJcgeSUsPwdCOmwHpLkp2HZ1vESEOW-XvlDcukDJ3BFS2Zg5hbtsjn4EueO8cNIlMtJMyrhlDK7wnoQzE6mheW9KByq9qXKnvtsnqgz3W3FFJKHKxdqDV4SmcOMSJNpUGVNOJSeX079Ku_NdYP4f3cfC9x7PqrSRrNfFWkKbcN__54Ih=w1060-h371-no)
 
 ### 2. PDF To Images
 
@@ -57,7 +57,7 @@ So now you have this 20 page PDF file and you start to export each page to a `pn
 
 **Say no more! Automator to the rescue!**
 
-[![PDF To Images](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-16.png?w=660)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-10-16.png)
+![PDF To Images](https://lh3.googleusercontent.com/1dklPsda_bE5HUIh-Wxrn210A8XqTSn2Duar_ZVoPWL-DpVKcH96YScOo95ef3buAxbvxjLBEpFd6et29-vyVRnU-cZA4aD8bR6WYQGeu-Qi2NZrQ4uZUo2wXS-hDAJlvuI1w44OLcNARskxkyKg8qiR63sYUiOJ8-lPkcprWSLDCM9rxvhoknzWU2SJyAbgPeQl4_A_FZRhU9-DMOsV_fe683rDkiJEdWoEtCF1ZTjIZSCsttTX6_pgWLCwBNEB2i27meaek6_L2kbIwc3MtoLsSIj04nyl-Y2LL8Br5rh4bVndAmij1WDeI7X6r4XctFZ__0uPbjKV-ijttCBtr4Zd2vrseFXBYhit1Tb_8bG8rqDsN9wUG3nkHwx17OaNJLEAceP8Jpl6iHOTG92WFdAO6E3xpXraUUGnvL5TYW6O9tkt6rVCEynQ2Qbpd8ssLCxXhW3K_B2JRHXsHWklGuiCUSyRGk2bg2lvfR_CXH5lHaxnHYc7ISJpxCmeQ9yTYxlaIOHkdVsx-1vqfmCD_oU7Da2Y3pl-6wuN7fwVt6w0m1MNZ0B_k24O_YkxhS2xSzpOxe6A9wh2N9ObIr64kj5C1_u3hUExhbPpf4lB4i8sx8pCjRYLO8xCE7RYX2J2=w1059-h471-no)
 
 ### 3. Rename Multiple Photos
 
@@ -71,7 +71,7 @@ So now you have 30+ wallpaper images in your `Downloads` folder and because you'
 
 **Say no more! Automator to the rescue!**
 
-[![Rename Multiple Photos](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11-06.png?w=660)](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-28-18-11-06.png)
+![Rename Multiple Photos](https://lh3.googleusercontent.com/xdeJmXeYUzPFEVUy1QcN8uubg1FUz6tDIZUz-uV_XKzoUQ4hqDZUhjiGmiO_1c3bMrpZ8g-sOsCdS6PyXK2EzAX_AkVgqZ4y4t2PWHaZmawKfKRsmPf1hA4hck8iJqC5NLYQu8IaCGzqZ9IaKSY__9c7tMebsWzdFsnKog7asP2ug_-wq5lkQO82WknLVydPpZTTd41iVO8Up3xGe7i25g1O9YpXLvqL2Yr_9DsTSlKLvik2stBMyL_ArRTX5PwGgRUz8pDkts4B4zo0zeI9LKR1sUblyh4Rj31vFHF561efzmbxOz6z7Pushv9pgz3VOvwZy8lDPCMmRQvwjSy1mecH7c4meddazSwg1VrHPKl6D4EiDvP7eACEFUcR4qqGcUI-3FaSxOQ49YQ-pnaQxa4lUKI7BKumSGWaRW3dVrlyvmi3Uo46kx50p_uNm8VL-a_mkqmnisGPvaatEtiL0obwlGhoWXKJQZKWRPzYm9GFfFU1uHOma2gwdk3B79fClco5vZZun28DdJNQVRjxWcGIyk5dHO3B2nqc0DjzokMFxDaK5LbxTwgICCY2Yd5VJJnA06oMJRnP298A7vS-GWUni9WQBILKf-In31C1LIHzKz-soLmX2BmNidycI3JV=w1056-h378-no)
 
 ## 2. [Alfred](https://www.alfredapp.com/ 'Alfred')
 

@@ -11,8 +11,7 @@ categories:
 
 # So I just went to my first [Meetup](https://meetup.com) ever on December 15 with [NorfolkJS](https://www.meetup.com/NorfolkJS/) and it was basically an ["Introduction to Travis-CI"](https://www.meetup.com/NorfolkJS/events/213364882/).
 
-![NorfolkJS - Circular
-Logo](https://fvcproductions.files.wordpress.com/2015/11/norfolkjs1.png) NorfolkJS - Circular Logo
+![NorfolkJS - Circular Logo](https://lh3.googleusercontent.com/S5loULYpBz_eJzSGK3J24G8O8c1EaNLO14wrhJYqtdxGvimT-bQ_fgIvQMJapetbKbDSfK9mlFPbXtfrbk9aBhi31ilEKvCS_QQAid2ytpShhBGJmdvonvttUzhjt__f0A1DCv8wHTEgLuIGF9xNuXPHkNdb7fyMSzVzYJ1W0U9tb7BjVvChvW2pvLVhSzyW0ZZFI1MaS-rUZMsH9r91zyOhjpPF0Bm251F2ztm3NYT2mRFNRINUMtnTPZBdzN15BIlZ4fY-J3ITbGhTMr6IZb14abR3FVJkUsYz2puiAN3ERDMRK1uWSVffL65dNls-m_GsPhjwwLuo4zkmp_C44b3yiI2C0PVONPEmVOyqB3Eq-GW93KALmkEWksyPn5tJPYKsfHDVn5DEnCBdDWqvbMF9X2H1x8QQRC4VrCny_BVC-WKrC20gAm2LsisM4d8dvAjSzYSAP73wgbfsA7c3x0lky0VeUtvQEYZIUyo5CnW_7FIKkhd7HiAzBM23yiFlySqp_8BCTHPAqMY2kSkZtk3XWI3DYjEBA0D0ezUg61cMMe4XJNPJBaYgKOIcqg_Twk9VDxe0Tttut-DRk0pGkGgygE1IUsdTtVdQxzlLhGd3rjWM6kZzVcgcYg2afUML=s512-no) NorfolkJS - Circular Logo
 
 I didn't really know anything about [Travis CI](https://travis-ci.org) going in (other than the fact that some coding bootcamps [have used it for projects](https://github.com/hr-14-15/resources)) but I'm still glad I was able to get some perspective from [one of the engineers](https://github.com/BanzaiMan) there.
 
@@ -24,8 +23,7 @@ I went to a [planetarium show](https://sci.odu.edu/physics/planetarium/home.html
 
 TL;DR - Looking forward to the next Meetups for sure!!!
 
-![Meetup - HR
-Fen](https://fvcproductions.files.wordpress.com/2015/06/1433270063_featured.png) Meetup - HR Fen
+![Meetup - HR Fen](https://lh3.googleusercontent.com/NVhUjN1mbyi7OHdF2QoHD1bNrq1M1H_rW68BPnZtfTN0ajaADivqf7h0t1JGe1tN3OqXXmaGasKNcYmREUOG6VR_e-uUJnzii72em0SbEwFfvEiBB4YRIK1FyKEG5hv4As_UQIHUHYQQOh-ub4t9JP4YBuCqUw7lHNyVW001WIdR67aZ_F0ByN8B1KhX4VOGcQXtkYr5HsyFIvvY5rl0diSmjp-Mo9MUC5dHy4Nh3YCgwM6aSpN1-nBimgbKtwC-tk60Fst0LlwczYDWvPObu9_sAP2ikZPsZKU9claC6d_lfzWwbi7yFn0EgS2o7fIhLVvjSkPnuMf6jsw1OTDcTCNjmxxfMsLUzgHXMs2M0Vjd20u440WJPsXV8547L_JiDUznPa-9xrMlhxqrBonPYx8ip41I2W0rPkr0pJAUySgB0QDGYfmolXeHbRS7YKk5_5dSLR_pbyfu3L2C-mpIpFrdQyySWscPH2xTUf6Axfozew8CBXlRxzEpofF7Nfz2q4cj5gv9YqYYADTuS1PHln8rWQg4qL1U3m-mi3aNHiqThLTxyKWKV6quW3K1nxcrFH8JbiMNNDeExkf6Ys_ukyJanfueGR50uAWjPEcIqsXwoPesGkVoUKOe8wMjrVxW=w502-h220-no) Meetup - HR Fen
 
 I also ended up going to my first non-tech related meetup soon afterwards with [Hampton Roads Friends, Events, and Networking](https://www.meetup.com/HR-FEN 'Meetup - HR FEN').
 

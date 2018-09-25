@@ -14,7 +14,7 @@ categories:
   - award
 ---
 
-![The New York Times - White Banner](https://fvcproductions.files.wordpress.com/2016/09/white-banner1.png)
+![The New York Times - White Banner](https://lh3.googleusercontent.com/nAfuzrWnGdYkC6d3ULP6wFraJ5XiEDrzPlw8BXORMsThk5jEGiPdVLUOp13mj6XUn4eLcxYhSXPfsEz5o2IlhLu6XfRJVpKw4wjDe3_MpPbZH_PMAt_b62zmYzyYfu2n6KCbX012mcp3nmZqn88WHzEI_QsIgnUuDy7SLMGDDipVBF1qZqgz1EaABVx-Is7FIwjpyNKK4T0ds9ByFgRJ-Eh0aWN5eBLuWEhjBiT5x-lYU1ly2WVl56OWNvRO6LrOpFLcvhO90o5QpL_d7ijl7_v-cxlzjKm7shAMXay5Kip0rX_953E9Ps4iXFqxCF7pmDyllBIk2iBj3VtPIgPKfBn9v0uBI56wymZfzec-cVR-SgUxNkiQFMWmgPGA85-B-S10qg8DqqG-wj-5zuNMXK4cOFwD-C4cAJxbeHsXZ8_BSK5MV1jkYaC8yshlyARMKRBv47waPp4moxj0dLuUC2OgGfF0IPwQ6jyUT_QNaNNqUjE_RVeNmOPtJnqqQ6r0Nr-cKMldoNnrXOIIaBbRiCtslwrIrmOGsmyEtesJZ2PItUyk5pHxEAVRYYLyiHt0w6SITtKRSdals0MzOeu-zLs2U1FwDrgW1LOlkvVG7MSEFxU5PvOHRwzOEDhfCGQp=w1500-h500-no)
 
 Every fall, leading startups, companies, and organizations in NYC pose business challenges to Cornell Tech. In Product Studio, teams develop and present new products, services, and strategies that respond to those challenges.
 
@@ -38,36 +38,36 @@ To address this problem, we created Q&A, a platform that solicits the opinion of
 <!-- TOC -->
 
 - [Sprint 1](#sprint-1)
-  - [Sprint 1 - Narrative](#sprint-1---narrative)
-  - [Sprint 1 - Presentation](#sprint-1---presentation)
-  - [Sprint 1 - Prototype](#sprint-1---prototype)
+	- [Sprint 1 - Narrative](#sprint-1---narrative)
+	- [Sprint 1 - Presentation](#sprint-1---presentation)
+	- [Sprint 1 - Prototype](#sprint-1---prototype)
 - [Sprint 2](#sprint-2)
-  - [Sprint 2 - Narrative](#sprint-2---narrative)
-    - [Journey](#journey)
-    - [User Research](#user-research)
-    - [Working Demo](#working-demo)
-    - [Validation Findings](#validation-findings)
-    - [Architecture Evolution](#architecture-evolution)
-  - [Sprint 2 - Presentation](#sprint-2---presentation)
-  - [Sprint 2 - Prototype](#sprint-2---prototype)
+	- [Sprint 2 - Narrative](#sprint-2---narrative)
+		- [Journey](#journey)
+		- [User Research](#user-research)
+		- [Working Demo](#working-demo)
+		- [Validation Findings](#validation-findings)
+		- [Architecture Evolution](#architecture-evolution)
+	- [Sprint 2 - Presentation](#sprint-2---presentation)
+	- [Sprint 2 - Prototype](#sprint-2---prototype)
 - [Sprint 3](#sprint-3)
-  - [Sprint 3 - Narrative](#sprint-3---narrative)
-    - [Coded Out Solution](#coded-out-solution)
-    - [User Validation](#user-validation)
-    - [Technology](#technology)
-    - [Reporter Validation](#reporter-validation)
-    - [Impact](#impact)
-    - [Monetization](#monetization)
-    - [Product Development](#product-development)
-    - [Business Objective](#business-objective)
-    - [Go To Market Strategy](#go-to-market-strategy)
-    - [Our Journey](#our-journey)
-    - [What’s Next](#whats-next)
-  - [Sprint 3 - Presentation](#sprint-3---presentation)
-  - [Sprint 3 - Prototype](#sprint-3---prototype)
+	- [Sprint 3 - Narrative](#sprint-3---narrative)
+		- [Coded Out Solution](#coded-out-solution)
+		- [User Validation](#user-validation)
+		- [Technology](#technology)
+		- [Reporter Validation](#reporter-validation)
+		- [Impact](#impact)
+		- [Monetization](#monetization)
+		- [Product Development](#product-development)
+		- [Business Objective](#business-objective)
+		- [Go To Market Strategy](#go-to-market-strategy)
+		- [Our Journey](#our-journey)
+		- [What’s Next](#whats-next)
+	- [Sprint 3 - Presentation](#sprint-3---presentation)
+	- [Sprint 3 - Prototype](#sprint-3---prototype)
 - [Final Sprint](#final-sprint)
-  - [Final Sprint - Presentation](#final-sprint---presentation)
-  - [Final Sprint - Prototype](#final-sprint---prototype)
+	- [Final Sprint - Presentation](#final-sprint---presentation)
+	- [Final Sprint - Prototype](#final-sprint---prototype)
 - [Open Studio Poster](#open-studio-poster)
 - [Awards](#awards)
 - [GitHub Repo](#github-repo)
@@ -95,7 +95,7 @@ Introducing "Most-Discussed" on the New York Times app. Here, you can see articl
 
 ### Sprint 1 - Prototype
 
-![Prototype](https://fvcproductions.files.wordpress.com/2016/09/screenshot-2016-09-26-18-00-38.png)
+![Prototype](https://lh3.googleusercontent.com/n5C2XUjvVB_dos_J97Dv0r9W3EbX99fkZkup_pEl0Pm2rF9L1e712sQRx4v_qwOfa3P_iathWJoVVsoBxLCOk95P-pxYxbMPGKVYnTy-gbH576DCHX4TWphhGfnoRu5Pj9tVoo3RRymzk_C0mp9o2kDf7q_RDtkiT54n27-jrVh1Hactgh6L_Q9ZRA1TRcrSdQBxE2U-XEPE-CUub17PA5OAfWWaKGPMzzuMy_me8BjjIRaHAw-OTF6WQeHwWQL0ddh9gflbZFGntaM3PR0zzu5MAy9Hzjr1N3X_s3KVEtYn8RM2e8BMcLIKalDAOW14ZgW2k4Kcq8bFRnruzTpBthGYNmqErUUiQ-vv8PG1z8Zw7uSEEITVn6MPA3vM1sbK6fLkTcWg934hTBNXAWuXmsaC2HtJBC2co0FhXDgbYaL_kcq5o7fjIkL9wExjoeCBHzuzmYn38Op_pEDUlTUWI6YN1ilD97rY1weE6p0Qe7FKtRZp847s2ZUGQGPeuW_0FIz9Fannv7CR8r6fbrHW4YPAgHz0RkyRyGh7eQXq2Ai8YuIY716CFfVRRBcEQI8-p9egoLFSya5eEH5lNvonF-vy-y_erNqRoM0lyB3DBce6Q_leGEpO-tKKryWo3igQ=w444-h788-no)
 
 <blockquote class="embedly-card"><h4><a href="https://invis.io/HZ8PJDK89">Click here to view the project `NYTimes - Sprint 1`</a></h4><p>This prototype brought to you by InVisionApp</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -207,7 +207,7 @@ Lastly, to hand off our product, we plan to provide all of our assets to the NYT
 
 ### Sprint 3 - Prototype
 
-![Prototype](https://fvcproductions.files.wordpress.com/2016/11/screenshot-2016-11-28-23-27-57.png)
+![Prototype](https://lh3.googleusercontent.com/8kAmhjSesZYh8toBZw7PVW072yooFD3zpx1jP5P9_8YUxZpNYCaMUQDUbMhcX08x7_18gSbY_RTlUPJrYvn9TPU26-ii9OrfB1pA4FPJDyFIwZ6T2lKhVLg-LlhGxpn0S70YAXHKfj9btuiqNRMoa3vyDhsDdKoUj674rJmtgZe0PWVTdRX_1S_h6rg_3x3Y9eR8PrZH_96o8ozmE4nZhcCR7xXxrvjXkqy-hYL99NH-g2P7L9fOG1CyirKuCBAUhcXQp6dl0ybLh1AyFWbODPFelzhFjGFoUxjFM2z7W07ZBkF7srVheYgrPESRemzbLG88S4fsYl2PbtIOQjUxgpi6MlZrgxl0Foi3om0pW5V7kgVRcKI-Wx9u5tpXIH_zSPIjzKf_VJnw1to8ImqLqEYL1Pwtlcz3zqsBnOC1iULl_m_XNsXPRX1aXI2rQPBlxFW75kNFpcDLXrGrX4eyPp8ULJHnJZTUC-2U_ay9C6V9kSFwged2aaqgY90QHdgnM2TKENGd3zcCcjUFvVssrzV47ZiCbz5HMfItsC9X9ny-p_fsMTCY5tPEsWUrqzuW9JlUnwqiu5tQlawwTF6eihxiGqrKZjjnENUt5qB_axoQWRk1PxMWQS_0rkT_BGwq=w1440-h900-no)
 
 <blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/nyt-comm/">The Spanish Lesson I Never Got at School - The New York Times</a></h4><p>Like millions of Latino kids educated in California public schools, I never took a class in Spanish grammar or Spanish literature, nor was I ever asked to write a single word with an accent or a squiggly tilde over it.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
