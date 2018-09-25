@@ -1,7 +1,7 @@
 ---
 title: Chris Lanus
 date: 2018-09-17
-banner: http://chrislan.us/images/chris2.jpg
+banner: https://lh3.googleusercontent.com/HptdYmUq0zanJaiJqmo5uoGMaBQeoH-BO4HxB84kRHikMV08dV8etqI_Ay8plHVI979w7zfRVh0=w328-h350-no
 categories:
   - review
 ---
