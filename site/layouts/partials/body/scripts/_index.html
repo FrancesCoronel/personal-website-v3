@@ -6,5 +6,5 @@
 {{ if .Site.Params.one_signal_id }}{{ partial "body/scripts/onesignal.html" . }}{{ end }}
 <!-- Service Worker Registration -->
 {{ partial "body/scripts/service-worker.html" . }}
-<!-- Internal Template - Google Marketing Platform -->
-{{ partial "body/scripts/google.html" . }}
+<!-- Internal Template - Google Analytics -->
+{{ template "_internal/google_analytics_async.html" . }}

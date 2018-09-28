@@ -22,7 +22,11 @@ If you'd like me to speak at an event, don't hesitate to [contact me](/contact).
 
 ## Upcoming Events
 
-- October 16th, 2018 at 6 pm
+- October 16th
   - "Real Talk: Finding your voice in Tech" at Asana
-- November 8th, 2018 at 7:40 pm
+- October 28th
+  - "Progressive Web Apps 101" at GDG DevFest SF
+- November 3rd
+  - CodeNewbie Podcast
+- November 8th
   - "Progressive Web Apps 101" at Hack Reactor
