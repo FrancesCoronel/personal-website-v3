@@ -2,7 +2,7 @@
 title: Hoya Hacks - Life at Home 🏠
 date: 2016-01-31
 description: A mobile user interface for an Android application that allows users to send push notifications containing common household alerts and phrases to the Android devices of their family members.
-banner: https://i.imgur.com/uMCszCs.png
+image: https://i.imgur.com/uMCszCs.png
 aliases:
   - /portfolio/life-at-home/
   - /home/adventures/hackathons/hoya-hacks-january-2016/

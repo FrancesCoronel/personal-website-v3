@@ -2,7 +2,7 @@
 title: POTC - Parchment Riddle 📜
 date: 2013-08-03
 description: A riddle inspired by Pirates of the Caribbean.
-banner: https://lh3.googleusercontent.com/uhUtAnvuoHiXeVzsTb7a24aCXHZM6P13KrDOGxP_FPXxVYxIDfx9ONPxWxh6o5AlqRyhQuDATJdNn7qSVyoW7GiZUA9v5SKa0qmObxvKUcW5-FKc4IfwC0X0eSSSxpv8GemEUaSfBqQwF5fh-wGJPLi_ChsmbmeObMwRV7gviFtigQQAx1eGmFvSVojya0rJU4kI-xOX-5S3i_rwzNpz6a4foXEt-NoEQjNlLls_N2GXu60M1_YxuKQ2C4mEWrwunjFydLaA_WDz67OBl1g_EUZj3VOLUgTmi80bvw7rJ0MWPTLFEVvVCfzyTEmQ8ogXGXoad18vLPpRJqw-gzFPkGgIfuaGpBQmV5SymU_63aXtt3Uus_i0tQHjeYmajQpIw5QTybeRPB4hB3gD3Gtj4wZP-D1l6Wicmdn8uK2Op7pzqcCEh8MRNwdmWihd7N1OuQIxtBtUAqxU-8KPtrfIiyZjH3SXkEWQLpot5a-C4XLjDZrBxBPXb5ypio5qemfEezuitZ1QgQR7mnIfBAbjfSIW8qgXp3KJ_bRbOEIxkSxvsPXckyMClmPs6L5WA_j7Lek-48_hAnzbASGpB8z_FjgOeE6aacOJM0rzLEKoBZcH5kkH7Fl1OgoFqwzA2R6R=w800-h533-no
+image: https://i.imgur.com/M1nm5LU.jpg
 aliases:
   - /2013/08/03/another-riddle-potc-style/
   - /2014/09/04/answer-potc-parchment-riddle/

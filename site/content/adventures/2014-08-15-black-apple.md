@@ -2,7 +2,7 @@
 title: The Black Apple
 date: 2014-08-15
 description: Customizing my desktop layout.
-banner: https://i.imgur.com/Yv22Bpe.png
+image: https://i.imgur.com/Yv22Bpe.png
 categories:
   - portfolio
 tags:

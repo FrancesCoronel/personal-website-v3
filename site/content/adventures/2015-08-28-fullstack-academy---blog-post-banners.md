@@ -2,7 +2,7 @@
 title: Fullstack Academy - Blog Post Banners
 date: 2015-08-28
 description: Banners made for blog posts related to my experience in Fullstack Academy's Summer of Code 2015 program.
-banner: https://i.imgur.com/4IAtyVW.jpg
+image: https://i.imgur.com/4IAtyVW.jpg
 categories:
   - portfolio
 tags:

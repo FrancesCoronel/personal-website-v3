@@ -2,13 +2,13 @@
   <div class="container">
     <div class="content">
       <!-- Title -->
-      {{ if and (.Title) (.Params.banner) }}
+      {{ if and (.Title) (.Params.image) }}
       <h1>{{ .Title }}</h1>{{ end }}
       <!-- Info -->
       {{ partial "body/hero/info.html" . }}
-      <!-- Banner -->
-      {{ if and (.Params.banner) (not .Params.hideBanner) }}
-      <img class="hero image" src="{{ .Params.banner }}" alt="{{ .Title }}">
+      <!-- Hero -->
+      {{ if and (.Params.image) (not .Params.hideImage) }}
+      <img class="hero image" src="{{ .Params.image }}" alt="{{ .Title }}">
       {{ end }}
       <hr>
     </div>

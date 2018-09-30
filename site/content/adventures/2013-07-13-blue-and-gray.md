@@ -2,7 +2,7 @@
 title: Blue and Gray, Blue and Gray
 date: 2013-07-13
 description: Customizing my desktop layout.
-banner: https://i.imgur.com/nzhce7U.png
+image: https://i.imgur.com/nzhce7U.png
 categories:
   - portfolio
 tags:

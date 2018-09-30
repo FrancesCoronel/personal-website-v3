@@ -2,7 +2,7 @@
 title: Blogo Icon
 date: 2015-06-02
 description: A circular icon made for Blogo, an innovative desktop blogging app.
-banner: https://i.imgur.com/x8IDOzM.jpg
+image: https://i.imgur.com/x8IDOzM.jpg
 categories:
   - portfolio
 tags:

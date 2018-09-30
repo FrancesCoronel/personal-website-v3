@@ -1,8 +1,8 @@
 ---
 title: Awards 🏆️
 description: Recognitions I've received.
-banner: https://i.imgur.com/ZdSLPUa.jpg
-hideBanner: true
+image: https://i.imgur.com/ZdSLPUa.jpg
+hideImage: true
 noComments: true
 noTimeEstimate: true
 customPage: true

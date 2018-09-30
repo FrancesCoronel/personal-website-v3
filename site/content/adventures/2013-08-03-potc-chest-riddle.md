@@ -2,7 +2,7 @@
 title: POTC - Chest Riddle 👑
 date: 2013-08-03
 description: Here's a little riddle that is based on a very recognized riddle, except it uses POTC references.
-banner: https://lh3.googleusercontent.com/KorRRkq-l6BbyjhapuQ9RuI81UZ_AVQxq7SXftE0_esWzr8Ojrr_CzeVHPIzOsCmN8fvechZDN7sRzX3-YAmElvd1AMzVxUNa5-PNOADwflbltPePIEAlVq1MxvH-AkiWBJzTv135ao0I2KGgjCpTg809RPCWRyAd9PreZ8lY6K5Iki2VlN_89oeu6vP5fL3pVgurVCgB1GZKtSDmA8H1RRRUTDM5nkVBPaLpfeNm6Hxgr5LlUuB05-nzGz2KevsVQI9VjcqoRS09Qm0ykGg8C6mEZhTa3pCczENaUDIVSToyKAuzVf9XPuSBySATkDvV8UO3rijK5GbFJdtJH0qx5pHrIu2BPrz-4Ciy0oN6QI7ymrVWnpwKXbsG_We87O1XS2HXLzfkMslbkl9WDZs21jZ63FkWNYHAeZKUjtB7yjywhqkZaO-X2LZZjlwbYsABSCTAsH2vno4RX2NBO9aTl4KNfvYwKTgK_PPfC75_l_j5EQnyjGWYQJB3fHq-88FeVX4NeP6uJebL9nlQm1DlMVwLSkIm7DwXoT-4v_QMUlPJb2EYOhom_NNxnJ0CCaVY9NvES8oXps15S-81ADIQgVp9l8GVuPPQaOM0s9TuDKZTrHMN8a1zsb4vWmLGW5d=w1200-h792-no
+image: https://i.imgur.com/uHEktLw.jpg
 aliases:
   - /2013/08/03/testing-logic-potc/
   - /2014/07/20/answer-to-potc-logic-riddle/

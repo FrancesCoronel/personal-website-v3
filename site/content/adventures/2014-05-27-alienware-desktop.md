@@ -2,7 +2,7 @@
 title: Alienware Desktop
 date: 2014-05-27
 description: Customizing my desktop layout.
-banner: https://i.imgur.com/XpoXJ51.png
+image: https://i.imgur.com/XpoXJ51.png
 categories:
   - portfolio
 tags:

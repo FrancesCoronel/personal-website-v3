@@ -1,8 +1,8 @@
 ---
 title: Portfolio 🛠️
 description: My work across the interwebs.
-banner: https://i.imgur.com/DZnLjQQ.png
-hideBanner: true
+image: https://i.imgur.com/DZnLjQQ.png
+hideImage: true
 noComments: true
 noTimeEstimate: true
 navbar: true

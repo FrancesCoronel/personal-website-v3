@@ -2,8 +2,7 @@
 title: Announcing My New Medium Blog 🎉
 date: 2017-12-02
 description: And looking back on my personal journey of writing stuff and publishing it online.
-banner: https://cdn-images-1.medium.com/max/2000/1*SC4JbLADfaGRrOZBdKngTA.png
-caption: One of my many official looking banners!
+image: https://cdn-images-1.medium.com/max/2000/1*SC4JbLADfaGRrOZBdKngTA.png
 categories:
   - blog
 ---

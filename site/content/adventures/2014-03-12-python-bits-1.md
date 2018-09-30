@@ -2,7 +2,7 @@
 title: Python Bits - Getting Started
 date: 2014-03-12
 description: The first bit in a mini-series for beginners of Python.
-banner: https://lh3.googleusercontent.com/M5gI9DnsMdkEdl_qCVSX5wbbbZqs7IqgFES9yEeFFQcwgJvEfpgoPlVrGUZ7-fco8DaVkqDfS_7H6WYV6FfwgGKAhgI4OSJVFeHrY4msap8m_rXNQLOMtzsilOm_8b_UeT8PFl5GU_bxoXSkTo1B8HREgZIj3vQS_ceqXQzOxjBW3fd0peJHbbg9RMt31wLtO-50pBLDnpnCjGhP-XTwWmu5LYyTKX8x9bMoxq8uR16nRQl0mHkSlgGamsmaQqC-lz9WTDpOurcC3fZy3j5aE5RJUxDWCUgSq3eqW5un34F2F0I0WRIgORgEhvMebzGuvhdp73H9xNvLMVtYsw5bXTQsGEZ5OxHIGrYnmnIPDg_aoA2AOTolfxj4iEGIs2CekUyZYef1g2xw8kg-yV5DMGNyzdShb-8Gm1aYOkvgTlflvHl__geFVR7PXGIYsvkbnaK_CMhrz8k-6iVR3S8AOC5I7TDohcm4VkQC8-0ZDP7IG6tI1ORYsdb-9liDpOp3aCusvwL8qFMW1ONlJOceRQbS9f9sHWabvdnk6veDMLNxzbbaR48gxvddnwGqaXqvjK05b22u_Il8abLNLwFRyJJJKAaNK0tNIwTlEFDBgBWCAJinmRaR-unXuILQs1rm=w1440-h900-no
+image: https://i.imgur.com/T1x7fMB.jpg
 aliases:
   - /2014/03/12/python-bits-1-getting-started/
 categories:

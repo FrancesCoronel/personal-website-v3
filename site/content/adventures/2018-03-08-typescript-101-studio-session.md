@@ -4,7 +4,7 @@ date: 2018-03-08
 description: The Liquid Studio strives to make time to share knowledge by hosting Studio Sessions.
 slides: https://www.slideshare.net/FVCproductions/typescript-101-studio-session-accenture-liquid-studio
 location: Accenture Liquid Studio - Redwood City, CA
-banner: https://i.imgur.com/L7pFNaY.jpg
+image: https://i.imgur.com/L7pFNaY.jpg
 categories:
   - speaking
 tags:

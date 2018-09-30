@@ -2,7 +2,7 @@
 title: TreeHacks
 description: At TreeHacks, everything's chill but the weather.
 date: 2016-02-14
-banner: https://i.imgur.com/40piFZT.jpg
+image: https://i.imgur.com/40piFZT.jpg
 aliases:
   - /portfolio/ammalia/
   - /portfolio/treehacks-readme-badge/

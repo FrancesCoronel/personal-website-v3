@@ -1,8 +1,8 @@
 ---
 title: Blog 📝️
 description: Writings and musings.
-banner: https://i.imgur.com/85KFCCP.jpg
-hideBanner: true
+image: https://i.imgur.com/85KFCCP.jpg
+hideImage: true
 noComments: true
 noTimeEstimate: true
 customPage: true

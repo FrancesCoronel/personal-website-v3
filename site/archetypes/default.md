@@ -3,10 +3,8 @@ title: { { replace .TranslationBaseName "-" " " | title } }
 date: { { .Date } }
 description: ''
 # Featured image hosted on Imgur
-banner: ''
+image: ''
 # (Optional) Caption for banner image.
-caption: ''
-# (Optional) Link this post redirects user to.
 link: ''
 # Not ready for publishing
 draft: true

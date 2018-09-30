@@ -2,7 +2,7 @@
 title: "WTM: International Women's Day Celebration (IWD)"
 date: 2018-03-03
 description: The Women Techmakers Global Event Series Celebrating International Women's Day
-banner: https://i.imgur.com/rUAA2Jy.jpg
+image: https://i.imgur.com/rUAA2Jy.jpg
 categories:
   - conference
   - blog

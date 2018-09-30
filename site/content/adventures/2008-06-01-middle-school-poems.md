@@ -2,7 +2,7 @@
 title: Middle School Poems ✒️
 date: 2008-06-01
 description: Random poems from 2008.
-banner: https://i.imgur.com/rogNoii.jpg
+image: https://i.imgur.com/rogNoii.jpg
 categories:
   - blog
 ---

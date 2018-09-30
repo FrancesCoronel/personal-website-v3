@@ -2,7 +2,7 @@
 title: Not The End Of Yosemite
 date: 2014-06-18
 description: Customizing my desktop layout.
-banner: https://i.imgur.com/baezBus.png
+image: https://i.imgur.com/baezBus.png
 categories:
   - portfolio
 tags:

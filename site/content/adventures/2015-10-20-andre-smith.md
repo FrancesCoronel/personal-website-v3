@@ -1,7 +1,7 @@
 ---
 title: Andre Smith
 date: 2015-10-20
-banner: https://i.imgur.com/7nxv4po.jpg
+image: https://i.imgur.com/7nxv4po.jpg
 categories:
   - review
 ---

@@ -2,7 +2,7 @@
 title: Stardust - Book Review ⭐
 date: 2012-03-01
 description: People can go through great lengths for 'true love'.
-banner: https://lh3.googleusercontent.com/MXlrIkKVzSp9gsc_aaOk_fJO010k2de1UqzeGt6kKjMwXTQJP9ZNRDlj1vk7sex88xzH_O7HrQiUJjTH4r8DeS1-wazptZ5-14y6eqLiQmV6H6A0vaqeCzsEaEZd9n7xInMF8eNBBI12K_svUf43xUESwkMs7DUne8bNO70OwWZxsfhzgdk0VFARDHiqqt2RJScaYMycvPytGqqJDdS7CLK7S9_hWha6cco2ygFYHr7QRoyOIIk1_0CO9QeHtA3EvwadyLzwXRQitjl1-HUO5TyoPoGI4viWiL2vEbx0MczndaY8ODnnFsHEI6LR0njLFztmboDZ53y2-DzHobvHJvsjTtqhmIKH3V7kMadmfcDH0LZPyLQMCRLbE67GzJQyFOWoQLfVU-eKsKarL41fmPqKY8o9FFhv79O2M2K1TAv9U_borBxJFvA89ABjIl_Pbmw6LJpXsstfMGnt19WFY89WO_vOs1tYMCRw9LtoBsIqKD0090U362kOay6po97TheW-rvCcfVq2UrnQlktUfVlpHFkkETfWgbKZ-8uJ7XynxxhLYLHKl889y6H9uosWBn_xqe3-vsV5BqmTkXgLhray7K_hO6YEeV5mkCsmgbp7xD1sI6FBi3BUkIXTYi7C=w1212-h969-no
+image: https://i.imgur.com/q1s5FVA.jpg
 aliases:
   - /2013/08/03/stardust-book-review/
 categories:

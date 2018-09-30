@@ -2,7 +2,7 @@
 title: In Christopher's Footsteps 👣️
 date: 2009-12-10
 description: I was assigned to write a sort of creative essay from the POV of Christopher (the protagonist who is a 15 year old boy in the novel with an autistic spectrum condition -- I'm guessing Aspergers?) for my English class.
-banner: https://lh3.googleusercontent.com/GEPLtgI8NXSEMZuJwmYPHy3e8Rf08WELxsqGmJP8AuIcz5VBZ6qpzVPzT_l8Pjzt-KFn-QLBHjYUdiifw7m1Z863UIU7ZqjO1U2lowfUhGqpT0FJvZxwcv_qWCNxoFxYAS4h4iia8REzWIiUoVS1zVy3mkaZiIBAhz4g8Xj-ZTDqUk0Voadrkt1FXYJFylWh7ERT7eiq2r1banUFpuY48h5-rkpJ3yIdHbf9WLkx0aInsbhsXjpV2mJ2hEWWb114mcynKVpasaFhB-zKr3n9BV5M012UZ3aYd7fMJiLoIHWFCl_R5xOQ95r2zmn2kUfi7nQcsZyf0Xmgg-vIBWlvVFqOCfgtAteGaf1sKDXxy3OzidPnwJ5JmzybxL_ML8h0KWJwQqkerHpu6UHI7wzBvjvsk28gBhNcy1K8ddWR_oQNNPps-TuKvfAWa7rVC-72462_dOxaTUjYle_PBO6o3HoXNf4FJoRRIDU9h7anhmJDQuU7gpuESBEYXX0FlazbQ9UMI2kp35b1xknwf9mwTeXF8r6hB3TwljlLiQA0PViaO0nfeZ0JXNIAYg_BeMzh_6GnhBmS2nE4NwO_saHC7zN6dk2QUZ-X_5e2Srl7pXUXVyZaVFebTigcJHNFHkKw=w1535-h969-no
+image: https://i.imgur.com/OT2QZ7g.png
 aliases:
   - /2013/07/28/in-christophers-footsteps/
 categories:

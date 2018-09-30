@@ -1,8 +1,8 @@
 ---
 title: Adventures ✈️
 description: "Everything I've been up to these days!"
-banner: https://i.imgur.com/3k5oRoh.jpg
-hideBanner: true
+image: https://i.imgur.com/3k5oRoh.jpg
+hideImage: true
 noComments: true
 noTimeEstimate: true
 adventures: true

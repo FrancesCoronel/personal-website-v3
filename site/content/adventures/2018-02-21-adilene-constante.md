@@ -1,7 +1,7 @@
 ---
 title: Adilene Constante
 date: 2018-02-21
-banner: https://i.imgur.com/FArz3d7.jpg
+image: https://i.imgur.com/FArz3d7.jpg
 categories:
   - review
 ---

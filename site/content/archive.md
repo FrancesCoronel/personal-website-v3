@@ -1,8 +1,8 @@
 ---
 title: Archive 🕒️
 description: The past has been revealed.
-banner: https://i.imgur.com/r940Dkr.jpg
-hideBanner: true
+image: https://i.imgur.com/r940Dkr.jpg
+hideImage: true
 noComments: true
 noTimeEstimate: true
 customPage: true

@@ -2,7 +2,7 @@
 title: Tidewater Community College - Summer 2010
 description: Through TCC's dual enrollment program, I enrolled in 2 different courses in the summer of 2010.
 date: 2010-08-13
-banner: https://i.imgur.com/vcutWQD.png
+image: https://i.imgur.com/vcutWQD.png
 categories:
   - education
 ---

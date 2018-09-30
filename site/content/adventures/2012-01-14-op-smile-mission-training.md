@@ -2,7 +2,7 @@
 title: Operation Smile Mission Training Workshop
 date: 2012-01-14
 description: My first big time speaking event.
-banner: https://lh3.googleusercontent.com/tqP9GScflm7NtmnOOZeOfU-3tziAdwBonrRDhtU_walz2uc7XYCcTvBsqBKucfX-0gDExS-j4j5YUoQuXIgfn8L6VdVhqkIIrfieRzUxpZ2m4qPuAb6UQWXoddDv9osJH8iXSC7RK8SK8jkk49ubjC-MMpT6FRt-nM489UN-oK-PVlUX-U9Yne_bPwduOgH_Mpah0Amx8zNil434vq3wRsp_WdoZIfpjGW1bufz9CaVAhv-CDPVOQxr2Fp5pmMWqABX-Vbm29CgO9iu_6clIOh72CRYpMWweXqSf8cB4B3k5MBC30I9zVCFBMR05Z7rRnTAdJBAbBiTC2ESEfI-mLhrF1BhOZFzcuRAJrK5Q_VMGG1Q_kuQl1CTnqFl1eDK1AS5OuVqLcFF-vnL2cTeV4wOrYCyRYtonS3d-w7s0vopjlGq9PflNs3_O-zLFz0-VZixf5PeSYDl6QYOwYfNR22PUIT5q4EUIbQSggvBOBLlKiKiciRTfMsg4V1ZG2oJlCLoJ7obSQmWLBpWQNUlgCB9yyStoUK6Hi-ciH9wb8orFykB1WFy0sW8wkLgaON5_ioEnFnLUfDkwia6t_LEajrWbg5EdNdZSrbofhwSgL8K-8nWJiY1wISbe12azLKnz=w1453-h969-no
+image: https://i.imgur.com/nYkBpT9.jpg
 location: Holiday Inn Airport - Norfolk, VA
 categories:
   - speaking

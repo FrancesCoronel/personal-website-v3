@@ -2,7 +2,7 @@
 title: "Amazon Alexa Hackathon"
 date: 2017-06-30
 description: "Accenture + Amazon host a hackathon."
-banner: https://i.imgur.com/S7te2Ld.png
+image: https://i.imgur.com/S7te2Ld.png
 categories:
     - hackathon
 ---

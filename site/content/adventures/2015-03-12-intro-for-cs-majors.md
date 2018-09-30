@@ -2,7 +2,7 @@
 title: An Intro for CS Majors 📘
 date: 2015-03-12
 description: I wrote an introductory book geared towards Computer Science majors at Hampton University.
-banner: https://i.imgur.com/YpP5kSK.jpg
+image: https://i.imgur.com/YpP5kSK.jpg
 aliases:
   - /portfolio/intro-for-cs-majors/
 categories:

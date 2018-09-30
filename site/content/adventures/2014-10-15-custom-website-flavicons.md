@@ -2,7 +2,7 @@
 title: Custom Website Flavicons
 date: 2014-10-15
 description: I created some custom flavicons for my Wordpress website.
-banner: https://i.imgur.com/lQlzotN.png
+image: https://i.imgur.com/lQlzotN.png
 categories:
   - portfolio
 tags:

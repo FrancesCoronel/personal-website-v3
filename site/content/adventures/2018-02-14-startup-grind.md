@@ -2,7 +2,7 @@
 title: Startup Grind
 date: 2018-02-14
 description: The most inspirational conference around the globe for entrepreneurs.
-banner: https://i.imgur.com/JHY94Lk.jpg
+image: https://i.imgur.com/JHY94Lk.jpg
 categories:
   - conference
   - award

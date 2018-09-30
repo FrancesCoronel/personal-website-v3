@@ -3,7 +3,7 @@ title: Programs 🌱
 description: Growing outside of work or school.
 customPage: true
 programPage: true
-hideBanner: true
+hideImage: true
 noComments: true
 noTimeEstimate: true
 url: /programs/

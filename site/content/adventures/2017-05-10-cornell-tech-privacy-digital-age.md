@@ -2,7 +2,7 @@
 title: Cornell Tech - Privacy in the Digital Age - Sukromia
 date: 2017-05-10
 description: Sukromia is an in-browser encryption tool that allows any messaging service to instantly become safe and secure.
-banner: https://i.imgur.com/VgiYCSV.png
+image: https://i.imgur.com/VgiYCSV.png
 categories:
   - portfolio
 tags:

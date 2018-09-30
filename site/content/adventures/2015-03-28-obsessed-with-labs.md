@@ -2,7 +2,7 @@
 title: I'm Obsessed With Labs
 date: 2015-03-28
 description: Customizing my desktop layout.
-banner: https://i.imgur.com/Re1sr8U.png
+image: https://i.imgur.com/Re1sr8U.png
 categories:
   - portfolio
 tags:

@@ -2,7 +2,7 @@
 title: 10,000 Small Businesses Student Challenge Winner
 date: 2015-05-20
 description: Invited by Goldman Sachs to come up with an innovative solution to one of three business challenges.
-banner: https://i.imgur.com/fwVTITD.jpg
+image: https://i.imgur.com/fwVTITD.jpg
 categories:
   - award
 ---
@@ -25,11 +25,15 @@ Creating the right presentation can take a **whole lot** of time (it totally did
 
 Regardless, the hard work paid off and I was selected as the winner for the [BrooklynCupcake](https://brooklyncupcake.com 'BrooklynCupcake') category!
 
-This was the final submission I presented.
+> Final Submission
 
-https://www.youtube.com/watch?v=fZ1iTIHHXmE
+<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=fZ1iTIHHXmE">Finalist Submission | 10K Small Businesses Student Challenge</a></h4><p>10,000 Small Businesses is one of several programs developed and supported by Goldman Sachs and the Goldman Sachs Foundation focused on accelerating the growth of high potential small businesses to create jobs and grow economies. Since its launch in 2000, the program has reached over 4,000 leaders of high-growth small businesses and social enterprises across the country.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-> You can view my [entry submission](https://www.youtube.com/watch?v=4a6rEjB8KH8 'Entry Submission') as well.
+> Entry Submission
+
+<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=4a6rEjB8KH8">Entry Submission | 10K Student Business Challenge</a></h4><p>10,000 Small Businesses is one of several programs developed and supported by Goldman Sachs and the Goldman Sachs Foundation focused on accelerating the growth of high potential small businesses to create jobs and grow economies. Since its launch in 2000, the program has reached over 4,000 leaders of high-growth small businesses and social enterprises across the country.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 With all that being said, what stood out for me the most throughout the entire trip was how everyone got to work on `200 West Street`. The Goldman Sachs building/tower is huge so what everybody does is enter through the first floor, take an elevator to the 11th floor (the Sky Lobby) and then from there, they have several different elevators they can use to get to the other floors. There was an elevator hallway for Floors 12–14 for instance and then another for Floors 30–40 and so on and so forth.
 
@@ -43,11 +47,9 @@ Needless to say, I learned a lot about what kind of environment I'd like to work
 
 **Anyways**, I'm going to use all `$5K` of what I earned to pay for the Fullstack Academy tuition, which is going to cover roughly half of it all
 
-<blockquote class="embedly-card"><h4><a href="http://www.goldmansachs.com/careers/students/programs/">Goldman Sachs | Student Programs</a></h4><p>null</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="http://www.goldmansachs.com/careers/students/programs/">Goldman Sachs | Student Programs</a></h4></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-![Brooklyn Cupcake](https://lh3.googleusercontent.com/JvJtnC3npeu182nPzhkojHv_zLQKittcdFq6EfG7K3kGLkn_sCA4emN-3vUarROcmiPujvlxguswQMbwhIMUd8wY3bc5qYGLPzLwYhKB1XcF-3b_E5RYLnbIsEJo7MSvZR9FB7IKksAq5zuLlHqXSzixeF1MhjBZbWw-yrYpulb7uLcwRQxsnT594HEpbSGTspUuU9hqAddBcZ6w81iNdo1ZuOh3LMMaPtEmcvUiR1N51ScZHBNIr6WBajT3Cf4e_Mn5n9eHG0SjVJ99wMso4ZHTGjSf0XXJSEe3RrGL_TwSanEni6wv2cEXKm0oKBFqsqeSxQXQ-t9m_ozj73KeVkBhEjXjjRqeamfxfYKKWylT6QuTmDvjL4rsT2YIkV8qUner1BUnoNVYsASH-YRxY5jtQe-LmJjUC_dz6MSQ0G8yBISTxha4HgXeWzkVZHPm1KpyBfFWyVz3smWu2dHegsiuzi2pK2YBHlCMk-VNrsNqtQWd98N4Sq1i66PdNuteS6TDm_uMU2YaDdjVErmz-5-SU_C0dufMw7rTNqjpeO1aqtFkqr-JwhWpGeu3vjXHSpf4gbcFZJ7MFjPfp5u2QjLPUXll5_8gJTCxJI4PXH66mHmjaslIj6ikGtxnnnVv=w1292-h969-no)
+![Brooklyn Cupcake](https://lh3.googleusercontent.com/vjMhq3iMVKtWoKWwncUb1_urR9evTAQdvaPNZ-IUc0PnFvudbEySlqhfjjMO60chyOluf0XJKJ1IaBz3MeZ2Yvm6MF7KmdpYTYVpMyFHSlT3P33F2GKub6e-jitvP7fZTC7mq_OrcdMyCk7m52z1KihYsvF_ShrqIkBMEkCbGYESeOkRWJQOFvgrkJfIIWfYSxDknhx2-82JC7bS_GTrUYoPpBXojVLJKE2D57Znwn6y0W4ourgfmj2XinJOpO6gaIIkOkwiXab4BBadnMyAGeebqKyQMrvP-ywCHEtuwIUkSnvrRQeP0eS7GLZj0lcx4_M-7mAgwgGliBtIQ3zNEVBvLRjsln2wX0IcG0nbWgDjCL56iDMux3XVjXeMmRzAv6RH_nl-TOvb-XhuSfba92QW08R3N1FF4tI1ruYTpgEajHbRTl6lD4jhqn8bVkxNoDcSkyZ4lyxNAQ6_pjS4Zq2CHx4UfUeN7PZKTKiStpugG7VYK_lTEkELSv6M71_81HCpvybaXD_tBe6lBWZllYQCenIzXNxWDONkfCeZLFdx5EsmMkC4zTJ3dZykYTb3J6IezxVXaBURSmhzjen0xrUJqgAIP9o=s1292-w1292-h969-no)
 
-![Goldman Sachs Challenge - Swag](https://lh3.googleusercontent.com/1q9xcoKbWYB7BfMfyncioDLDwpq0S5xu9iYZYzvul0W14nqYpYLD2XPCTvNO_b9ltsFTj1a9u__DbbvLKufI-XsZscGPwJvJxmal0fqehUCK8XG5HqiHdKGymw9wuz1KpsUjWRH7X9x996T29jy62XDYl6ZJ8qYW9tnwk47U4pLJagi3N9UIYWS4AMuOGY9urZJy5ckgiSQir9GBbSOgcBLPI0zg5ojbygtgLDonkVGphdkXdbMxI2mPmOkBDwFl1wFOVkL-F9KJdv3KeI7_r9-ytJRXLsZxkEKsju5GEg7UQryK6ugw22XiQ8zmjYySZPWaBFgI06v8Q8vb7sPgbRDxecaE27PeVr6seYoKUj5SwYEQejCKvukp9QQ4xPxcwREeUqEITrWFQTQq0wdwk3dEcbjJJPnSZDTL4GOxIFkHjV7cpZ9PlLTRNBEkDms_TVreJiNc6x5q-szltnNv0PMbUkgu63sSxLPg6a31wyfwS-7th71ZJNGXsEbmSeqT9lGlpSzz4T2-aOli4sOvxh_S6y9EgD28lkEhqDavMhNeQLNfdLE6jzXh_LfhvuZ15tf7rQtN_OYwk9syVaoy8MPd4_zv-So2rqn6QfSrtsC2pKH4LzZYYNTi99ClrRMu=w727-h969-no)
-
-![Brooklyn Cupcake - Team](https://i.imgur.com/fwVTITD.jpg)
+![Goldman Sachs Challenge - Swag](https://lh3.googleusercontent.com/j8N0N3MieHdXId2isRJ2bQnTDDwzLiZ-4oHMtBUmIAO-RelwWHGWCxdtOoGckZ9uq5yGkyHmXjj0f1GxTcIy3rt389rF0cr0gkdimpBJHu7yCprQ3ykXdIldHwNKv7DtmFg1tBP7hG_Dfv7j9Pysc4EqSeIo1Gugiz_S17bL5jeGWAxlFbQWV8ltZWVw0a5Km4pv5lfeSm5cYGeqzjuTPeLmbSVelh82mRziaqfSjQbeAVnNmeQBRUExYa98WeYq8-Lr8ErWKPHPXeoreiCE8NOIdhBPQfHR4rRYEKfmaFTIN4CR4y3C__zOTvbwSya8wNCDUn9itGC1oiI1yfeE8A9fZFZteJCPGYd-HfKnqHsjPIiXFPitXDKhracZsC74gsNKcpXvvtqmMu6oX3KE7Dbjvr-KRuwDnxmWp7CqcnxRKf2PV7jRnPPpOqmYcj5z-9Q2DmoJS2h3mNIV6RIc3XM5NaUmNLSV04pR5e0naus9gyuB1_KChyLXhCLJse2E1QCNzxYKCYfa29vLBDnZ2Blyv6yfNmVD4g-gcl0E9mrIoL9noeG8JQ485JUTnsPmVbvJWMimUKaHz9Nk1EM9Az51ryzV2LE=s969-w727-h969-no)

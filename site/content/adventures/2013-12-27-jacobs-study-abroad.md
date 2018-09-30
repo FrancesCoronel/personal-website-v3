@@ -2,7 +2,7 @@
 title: Jacobs University Bremen - Fall 2013
 description: Jacobs University is a private international research university with a residential campus in Bremen, Germany.
 date: 2013-12-27
-banner: https://lh3.googleusercontent.com/V6tZUUqcsLKjrgqBP8J5l4yAG89qnVDnRFCZgK2Ufxj7Q1grDVu0bkO185JSJ5EQI2ORL1zvNHFjX4h8xSj9S43K8MCpx-ig9YL5vv8qE_vYi-7_L8WvvyNcd0ojKE28dsTp8nptTnqQE-REWrwyB04d_4nj2wtJOjH7epAxY9NTSMiq23rUtQHWbu7spEX7SbH9CQ_T8YqqZ4vaO9VVWhnqVN1-Ikyx7HXGDsuupHRzNAERlfE6GXivLGFMFNDIceebpwUifvLwtBYWiZt_KiOYoHzRMlTLyZogSjeEs7A2yGGrbqHIHOjRojMZgOImGLvTKk2vSbTQalt0kC2tz1YGVLErdnJFpHChGoA0GwCgHqGf9tAUBtQr2QPrV8kEbryzVawa_DNseC-f6FD1bkwQJKx4WFDPi4hphmNFy_wD6Xtd1YAbmtInX0oECCKlCGAaWteKFXMTn3o3IYOqRpZSH39ZdxVbB1VYOZpExhxmqjQd4OUFUBZKiLi5mPqk7UkChdtsbAiji2h-2ukJJHgzVpjpDO5anVYCLVPU9fSWWqkvZ1CFTc2Fvp4HwGjBisod4Ju4xyl8oz00Bq6wI_ysObwNSjv8l7ZQgCwu9DSCPYqyCRyr2_705lWvFryd=w600-h800-no
+image: https://i.imgur.com/75qeiby.jpg
 categories:
   - education
   - portfolio
@@ -63,10 +63,10 @@ I received a generous merit scholarship to attend and study computer science. Wh
 
 ### Awards
 
-| Award                                                                                                  | Month   | Year | Notes                                                                                                              |
-| ------------------------------------------------------------------------------------------------------ | ------- | ---- | ------------------------------------------------------------------------------------------------------------------ |
+| Award                                                                                                  | Month   | Year | Notes                                                                                                           |
+| ------------------------------------------------------------------------------------------------------ | ------- | ---- | --------------------------------------------------------------------------------------------------------------- |
 | [Featured Poem on Pulse of the World](https://scribd.com/document/174387876/POTW-Issue-30)             | October | 2013 | My poem was featured on Jacob University’s student-run newspaper “POTW” (Issue 11) while I was a student there. |
-| [Merit-Based Scholarship](https://jacobs-university.de/study/undergraduate/fees-finances/scholarships) | August  | 2013 | merit-based annual scholarship of $10K                                                                             |
+| [Merit-Based Scholarship](https://jacobs-university.de/study/undergraduate/fees-finances/scholarships) | August  | 2013 | merit-based annual scholarship of $10K                                                                          |
 
 ### Projects
 

@@ -1,8 +1,8 @@
 ---
 title: Travels 🌎️
 description: The places I've been.
-banner: https://images.pexels.com/photos/59519/pexels-photo-59519.jpeg
-hideBanner: true
+image: https://images.pexels.com/photos/59519/pexels-photo-59519.jpeg
+hideImage: true
 noComments: true
 url: /travels/
 aliases:

@@ -1,7 +1,7 @@
 ---
 title: Kent Hack Enough 2017
 date: 2017-10-08
-banner: https://i.imgur.com/KzOlHae.png
+image: https://i.imgur.com/KzOlHae.png
 categories:
   - hackathon
 ---

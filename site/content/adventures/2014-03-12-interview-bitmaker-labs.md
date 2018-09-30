@@ -2,7 +2,7 @@
 title: Interview with Bitmaker Labs
 date: 2014-03-12
 description: So this past winter, I applied to Bitmaker Labs for their summer 2014 full-time web development immersive course and was accepted.
-banner: https://lh3.googleusercontent.com/gm4NIW0Fzqtrd2EKl-Ar2EJWXfVQD_fGCR-JW3WUhzsKA51DZeUnSx8eyPYVVwd8PEjVYGNnoPQ0DR73U8-XK1wvDN39ZkuNGkzjOAP3GJu9URXq5qzgYgMQiJ9Pcn7Y3fR8UTLjJXnAJ-8ZuReDdBj_Hatq-3_ktMkeWHkQJAPLGF6vKXtC19bRt7qujK8oP-3GrtyWG153_Mvr4O78ilBBu7P7kaBelwZysweou6lgwIOUPj_0VrXsc0af6N7N4xz7E5n-1FZqgO5EIHU-fYNDv5DDNsxNl8O5JKj2gwomdk3vhPOfOPHu56sWXyssgq2ysBDAVtABE_5t2uOK8AQtKeWOB8vMzoEgOw6eqHyKXD7FjnrPbw8OtjdptDys4n80GBVSO5HgBCIwkUepKNTHVf-YFKIYnpysWfQAaOJvqhrLkld3OIIApX-j81S8EuZRcup6apqlcGAIcZtzBmf_Y4OJJVB93-Fm7fAqdUzE01hurnVSRiKJLkYZ435SaZqc0lpSFKGHwSkVQYIKVhmNDdjccHczDzJ8MYDrEgLikBxiZlb76jIWjQxzC9x7K7xeQSFfxwh8AqVKrH1k1iIKVnCbP7MN6Z8URAXFPI-nWP_NIzey4YkXJoT3pwu6=w1200-h630-no
+image: https://i.imgur.com/ZvrGPQA.png
 aliases:
   - /2014/03/12/interview-bitmaker-labs/
 categories:

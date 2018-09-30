@@ -2,7 +2,7 @@
 title: DocuSign Demo App
 description: I created this demo app using PowerForms to try and impress the developer evangelism team at DocuSign.
 date: 2018-02-15
-banner: https://tctechcrunch2011.files.wordpress.com/2015/05/docusign.png
+image: https://tctechcrunch2011.files.wordpress.com/2015/05/docusign.png
 categories:
   - portfolio
 tags:

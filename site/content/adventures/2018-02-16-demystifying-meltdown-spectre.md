@@ -2,7 +2,7 @@
 title: Demystifying Meltdown & Spectre
 description: Attempting to break down the two biggest security flaws the world has ever seen.
 date: 2018-02-16
-banner: https://i.imgur.com/aWN2RkM.jpg
+image: https://i.imgur.com/aWN2RkM.jpg
 categories:
   - portfolio
 ---

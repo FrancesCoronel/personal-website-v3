@@ -2,7 +2,7 @@
 title: PathFinder
 date: 2017-04-14
 description: Visualize your future.
-banner: https://i.ytimg.com/vi/WAGKzph41Rg/hqdefault.jpg
+image: https://i.ytimg.com/vi/WAGKzph41Rg/hqdefault.jpg
 categories:
   - portfolio
 ---

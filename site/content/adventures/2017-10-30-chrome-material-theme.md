@@ -2,7 +2,7 @@
 title: Chrome Theme - Materialize
 date: 2017-10-30
 description: My custom Chrome theme - Materialized!
-banner: https://www.themebeta.com/media/cache/728/files/chrome/images/201711/03/98dbe7b6f50947ee4cef06f28c4d362b.png
+image: https://www.themebeta.com/media/cache/728/files/chrome/images/201711/03/98dbe7b6f50947ee4cef06f28c4d362b.png
 categories:
   - portfolio
 tags:

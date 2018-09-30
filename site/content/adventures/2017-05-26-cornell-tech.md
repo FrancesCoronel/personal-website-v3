@@ -2,7 +2,7 @@
 title: Cornell Tech
 description: Master of Engineering in Computer Science
 date: 2017-05-26
-banner: https://i.imgur.com/2Z3jGeg.jpg
+image: https://i.imgur.com/2Z3jGeg.jpg
 categories:
   - education
   - award

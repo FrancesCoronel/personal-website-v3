@@ -2,7 +2,7 @@
 title: Speaker Deck Icon
 date: 2017-01-30
 description: SVG icon created for Speaker Deck.
-banner: https://i.imgur.com/xjoO73K.png
+image: https://i.imgur.com/xjoO73K.png
 categories:
   - portfolio
 tags:

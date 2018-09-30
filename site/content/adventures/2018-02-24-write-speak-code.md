@@ -2,7 +2,7 @@
 title: Write/Speak/Code - Own Your Expertise
 date: 2018-02-24
 description: An all day workshop for women and non-binary coders, customized to empower you as a leader in tech.
-banner: https://i.imgur.com/fsWiZQ2.jpg
+image: https://i.imgur.com/fsWiZQ2.jpg
 categories:
   - program
 ---

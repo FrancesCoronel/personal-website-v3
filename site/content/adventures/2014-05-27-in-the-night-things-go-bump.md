@@ -2,7 +2,7 @@
 title: In The Night Things Go Bump
 date: 2014-05-27
 description: Customizing my desktop layout.
-banner: https://i.imgur.com/uqAi3Cy.png
+image: https://i.imgur.com/uqAi3Cy.png
 categories:
   - portfolio
 tags:

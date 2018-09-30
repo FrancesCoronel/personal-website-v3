@@ -2,7 +2,7 @@
 title: Strange Loop
 date: 2017-09-27
 description: Strange Loop is a multi-disciplinary conference that brings together the developers and thinkers building tomorrow's technology in fields such as emerging languages, alternative databases, concurrency, distributed systems, security, and the web.
-banner: https://i.imgur.com/uBaeAmo.jpg?1
+image: https://i.imgur.com/uBaeAmo.jpg?1
 location: Peabody Opera House - St Louis, MO
 slides: https://slideshare.net/FVCproductions/typescript-101-80676517
 categories:

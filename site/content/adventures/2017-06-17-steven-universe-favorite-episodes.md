@@ -2,8 +2,7 @@
 title: Steven Universe - My Favorite Episodes
 description: All are centered on romance.
 date: 2017-06-17
-banner: https://i.imgur.com/dNsORE7.png
-caption: Image taken from Steven Universe Wikia.
+image: https://i.imgur.com/dNsORE7.png
 categories:
   - blog
 ---

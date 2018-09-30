@@ -2,7 +2,7 @@
 title: The Switch
 date: 2018-04-10
 description: Switching from an iPhone to Pixel or iOS to Android.
-banner: https://i.imgur.com/kKAICgz.png
+image: https://i.imgur.com/kKAICgz.png
 categories:
   - blog
 ---

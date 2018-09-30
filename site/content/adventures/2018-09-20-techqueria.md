@@ -1,8 +1,8 @@
 ---
 title: Techqueria's New Website Launched! 🌮
-description: Open Source Developer
+description: After a couple of months, I was finally able to launch a new version of Techqueria's website!
 date: 2018-09-20
-banner: https://i.imgur.com/BFKbzGO.png
+image: https://i.imgur.com/BFKbzGO.png
 url: /2018/09/20/techqueria/
 categories:
   - portfolio
@@ -10,8 +10,6 @@ categories:
 tags:
   - open-source
 ---
-
-![Test](https://lh3.googleusercontent.com/Q4b0cwvQPxYG3CNfukB-9bFJbPeFhh7w2WjVClS9_DEGgq_qM5iFJxAVDC6sWm5_7DMn77eBTGEu9NxMYIyCHfCPmPicXrCUL6kwaWEAsWhM74otDodwv0Lk8Emfp3KrP7jrMDMhT03HQ67eNq54qeGdMkzpdOX0p6LBbLth-ay2NH1z_yr6eGI5ccD0NUYKeap2nRY9soNCoo86lwmJCoyg7B4iwgEn5Tp57YqJWKD7-pGpV00-CHKtha52BlQVymKZoISmdNuk7B3Wo4zC4xkpCthqiZoxxhV-6qs4dS8WzWxzQWMXSyYt06aeLmQf9tf3N7s0z5jO6eE0Zah--OJp0bvGbAIjRqIdDwJ7OogJcs_fLAGRnR31HdB1L8aVNPvLgAYa6zs6mD5ugCfndqwY_HVfj64Nh8zJHz5IDc_Ng5KcTeCBulZOwrW7zWvgEf9y8xzdHBiC0gCAeSUhDC5b1W4EUWREl97FgXGj3QCyEv2uM9A8uyPgwlReSHmBxbBK1aC-_qiI-7UNIvJsmceDZygf5p-WsVfBPlq9BwkiqBzXv8dPhLETWWO-RUuhspfnxZUfY36K3DjMV8fqW5LPagr7N-XlUzo6oOHwNSN2AlV586vE17ZSUESUKVQr=w2560-h969-no)
 
 Techqueria is one of the largest communities of Latinx professionals in the tech industry.
 

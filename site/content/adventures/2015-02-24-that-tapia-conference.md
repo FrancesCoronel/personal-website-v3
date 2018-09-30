@@ -2,7 +2,7 @@
 title: That TAPIA Conference
 date: 2015-02-21 12:30:00 -0800
 description: A conference that promotes diversity in computing.
-banner: https://i.imgur.com/CFJ8IES.jpg
+image: https://i.imgur.com/CFJ8IES.jpg
 aliases:
   - /home/adventures/conferences/tapia-conference/
 categories:

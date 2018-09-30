@@ -1,8 +1,8 @@
 ---
 title: Hackathons 💻
 description: Hack, hack, hack...
-banner: https://i.imgur.com/iFVrP3w.jpg
-hideBanner: true
+image: https://i.imgur.com/iFVrP3w.jpg
+hideImage: true
 noComments: true
 customPage: true
 hackathonPage: true

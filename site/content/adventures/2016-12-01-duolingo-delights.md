@@ -2,7 +2,7 @@
 title: Duolingo Delights 🎁
 date: 2016-12-01
 description: Surprise yourself with Delights. Learn the language, explore the culture.
-banner: https://i.imgur.com/ImLcMvw.jpg
+image: https://i.imgur.com/ImLcMvw.jpg
 aliases:
   - /portfolio/duolingo-delights/
 categories:

@@ -2,7 +2,7 @@
 title: WE Rise Tech Conference
 date: 2018-06-21
 description: We RISE is all about growing and showcasing women in technology.
-banner: https://i.imgur.com/2idH7U6.png
+image: https://i.imgur.com/2idH7U6.png
 location: Loudermilk Center - Atlanta, GA
 slides: https://www.slideshare.net/FVCproductions/typescript-101-we-rise-tech-conference
 video: https://www.recallact.com/presentation/typescript-101

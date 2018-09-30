@@ -2,7 +2,7 @@
 title: 'Speech - Robotics In The Workforce'
 date: 2014-05-12
 description: 'The idea of robots taking over the economy.'
-banner: https://lh3.googleusercontent.com/nKaQwF3lxMMubw_vRYzPR77AWHZ_WP_-AZ2nl5oa75XTBb1fB8CCsYXvy5RvYc3e_jSFlUNwEDdjfzHV8fRiEEjG9KHyAZbtta4_bshHKCcVaZ-4fKH4fv5jl0aCZTofa6G9u5akS7R-vvKy6wBzkQd3l-qIc4ldEUoZMSrRC5QMRjs0ySiAY8XZjFpOvXaF9b6ntgwr7dRIJrF_0mktx8QVYsYdWO1uQiPpVFvOXWwMzGp9FNIxdA6ROIKX9qqWnJfTcBi3WcnEDEVrufTRfCphdTDhLS8B0thqxGvHZb6U47xV8UHvacsbI9sxlh3VQ2bN3ZN3a8Wg_eNaRLTi4vmhFjXh2xNIY_omuUnEFyEDYnsAnUSQ13TkAY-Sw1-nQ7SrYQ5cACCtHCPrx-P3txr-1qFNQAiDvxesulp6-ETN8eHQy84CbozPcDM0SfP82nBuxhSBsbvP6iLjpfO56VKmyjbbQneod7CCCJAcYZ9Nl-AkUob9QfJk5hjX-gEGtnNhPiThw3hR5ip3oaSXNVcD4eCpwBNPKUOPTTAAqWW9aJXHY8IjQ3Dp5EW8c3oHmJuYxZ9qFj5ICdT6Kl8XSxMhSIaT6PN2Z9uSC_kuoV1z1GAhkMi3jiambfCYiYVO=w1140-h713-no
+image: https://i.imgur.com/XT6uQlV.jpg
 aliases:
   - /2014/05/12/speech-robotics-in-the-workforce/
 categories:

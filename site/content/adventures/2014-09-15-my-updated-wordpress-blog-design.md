@@ -2,7 +2,7 @@
 title: My Updated Wordpress Blog Design
 date: 2014-09-15
 description: My updated Wordpress blog design.
-banner: https://i.imgur.com/HtwsL8J.png
+image: https://i.imgur.com/HtwsL8J.png
 categories:
   - portfolio
 ---

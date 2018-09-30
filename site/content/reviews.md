@@ -1,8 +1,8 @@
 ---
 title: Reviews ✅
 description: All the sweet things folks have had to say.
-banner: https://i.imgur.com/eDqiqGu.jpg
-hideBanner: true
+image: https://i.imgur.com/eDqiqGu.jpg
+hideImage: true
 noComments: true
 noTimeEstimate: true
 customPage: true

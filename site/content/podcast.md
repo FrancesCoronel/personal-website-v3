@@ -1,7 +1,7 @@
 ---
 title: The Alexis Clue 🎙️
 description: Bite-sized stories of women in tech sharing their favorite productivity apps.
-banner: https://i.imgur.com/YyDzosp.png
+image: https://i.imgur.com/YyDzosp.png
 noTimeEstimate: true
 noComments: true
 url: /podcast/

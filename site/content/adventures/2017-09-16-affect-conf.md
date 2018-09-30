@@ -2,7 +2,7 @@
 title: Affect Conf
 date: 2017-09-16
 description: Affect is a 2-day conference examining the work, culture, and design of social change.
-banner: https://i.imgur.com/TxMdO3z.jpg
+image: https://i.imgur.com/TxMdO3z.jpg
 categories:
   - conference
   - volunteering

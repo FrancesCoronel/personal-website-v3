@@ -18,6 +18,7 @@
       {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}
     {{ range .Data.Pages }}
+    {{ if .Date.Before now }}
 		<item>
 			<title>{{ .Title }}</title>
 			<link>{{ .Permalink }}</link>
@@ -27,6 +28,7 @@
       <guid>{{ .Permalink }}</guid>
       <description>{{ if .Params.description }}{{ .Params.description | html }}{{ else }}{{ .Summary | html }}{{ end }}</description>
 		</item>
+    {{ end }}
     {{ end }}
 	</channel>
 </rss>

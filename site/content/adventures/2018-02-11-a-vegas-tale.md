@@ -2,7 +2,7 @@
 title: A Vegas Tale
 date: 2018-02-11
 description: How healthiness and hope won over greed and conformity.
-banner: https://i.imgur.com/UtTdh6q.jpg
+image: https://i.imgur.com/UtTdh6q.jpg
 categories:
   - portfolio
 ---

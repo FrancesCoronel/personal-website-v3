@@ -2,7 +2,7 @@
 title: A-List Membership
 date: 2018-01-29
 description: Admitted to A-List which is for the top candidates on AngelList - under 1% of candidates qualify.
-banner: https://cdn-images-1.medium.com/max/1150/1*my9FmR5dT0Na1XbHlfTfog.png
+image: https://cdn-images-1.medium.com/max/1150/1*my9FmR5dT0Na1XbHlfTfog.png
 categories:
   - award
 ---

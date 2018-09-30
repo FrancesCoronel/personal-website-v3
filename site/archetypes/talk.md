@@ -2,7 +2,7 @@
 title: Talk Name
 date: 2018-01-01
 description: Talk Description
-banner: https://imgur.com
+image: https://imgur.com
 talk: talkName
 categories:
   - talk

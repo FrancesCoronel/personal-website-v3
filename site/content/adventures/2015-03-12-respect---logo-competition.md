@@ -2,7 +2,7 @@
 title: RESPECT - Logo Competition
 date: 2015-03-12
 description: I designed these as part of a logo competition for the RESPECT conference.
-banner: https://i.imgur.com/Jsh2KrJ.jpg
+image: https://i.imgur.com/Jsh2KrJ.jpg
 categories:
   - portfolio
 tags:

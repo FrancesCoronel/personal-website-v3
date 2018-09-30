@@ -2,7 +2,7 @@
 title: Giving Back 💛
 date: 2018-02-10
 description: Becoming the first sponsor for an open-source project.
-banner: https://i.imgur.com/xJjmBy6.png
+image: https://i.imgur.com/xJjmBy6.png
 categories:
   - blog
   - portfolio

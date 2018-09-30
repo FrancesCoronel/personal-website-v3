@@ -2,7 +2,7 @@
 title: Impact Leadership Communication Program
 date: 2018-02-06
 description: The Liquid Studio provided a group of 10 residents access to an intense and valuable session of speaker training provided by the Slomoff Consulting Group.
-banner: https://i.imgur.com/PfU3Gxz.jpg
+image: https://i.imgur.com/PfU3Gxz.jpg
 location: Accenture Liquid Studio - Redwood City, CA
 categories:
   - program

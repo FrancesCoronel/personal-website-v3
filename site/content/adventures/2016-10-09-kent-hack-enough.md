@@ -2,7 +2,7 @@
 title: Kent Hack Enough
 description: Volunteered and teamed up with my boyfriend to work on a Leap Motion hack that won an award
 date: 2016-10-09
-banner: https://i.imgur.com/fmSUI58.png
+image: https://i.imgur.com/fmSUI58.png
 aliases:
   - /portfolio/jake-the-dog-key-hand/
   - /home/adventures/hackathons/kent-hack-enough-october-2016/

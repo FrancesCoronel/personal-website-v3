@@ -2,7 +2,7 @@
 title: Top 10 on Code School
 date: 2017-10-02
 description: I got to the top 10 on Code Schools' leader board for Accenture out of over 10,000 employees.
-banner: https://i.imgur.com/7HOcL4c.png
+image: https://i.imgur.com/7HOcL4c.png
 categories:
   - award
 ---

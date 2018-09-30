@@ -1,7 +1,7 @@
 ---
 title: Undergrad A.I. Internships
 date: 2014-09-14
-banner: https://i.imgur.com/6kexSrT.jpg
+image: https://i.imgur.com/6kexSrT.jpg
 aliases:
   - /portfolio/2014/09/14/ai-internships/
   - /portfolio/ai-internships/

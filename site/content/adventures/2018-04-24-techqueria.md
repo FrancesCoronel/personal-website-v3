@@ -3,7 +3,7 @@ title: Techqueria 🌮
 description: Open Source Developer
 date: 2018-04-24
 url: /2018/04/24/techqueria/
-banner: https://i.imgur.com/aA56Nma.png
+image: https://i.imgur.com/aA56Nma.png
 categories:
   - portfolio
   - volunteering
@@ -15,7 +15,7 @@ tags:
 
 Spent a whole weekend revamping the existing website of Techqueria using a custom Hugo boilerplate I created called Hugoma.
 
-Still in the process of being integrated into main website at https://techquera.org - currently at https://beta.techqueria.org.
+Still in the process of being integrated into main website at https://techqueria.org - currently at https://beta.techqueria.org.
 
 Helped spearhead creation of `#website` channel in Techqueria's Slack for more collaborative development of the new website.
 

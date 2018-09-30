@@ -2,7 +2,7 @@
 title: C++ Bits - Time Measurements 🕑
 date: 2013-07-28
 description: Measuring time in C++.
-banner: https://lh3.googleusercontent.com/ZjgASvaeNDYVQMgfhJ_w31GJoFuy0Dcpmei_O2iS3H1gjKvjTjg83Ljzdva_SuNa8SvGagJejs39K4i4YcoFfT1dAcKqGQAz8DGV2OiXlNm-C_Zrok8agVho53zIoeire-T2NeifdbLWQDt898XZKNkLNQ52LCUTlZJvEKubuEccXnuEhurrziBWHIUOtKsRDTy_dI5RYPjBZqrO5tN2HA_3dmUP7zl2F0Ft6g1hYKKcQIIBiwWxnrG6itvJXF-g-nI7PsYmuWFs5wT5qe-RHsbOKybE9Q_9o3M7AdQoXhGcsAzQ1tqmvVG1mRM6aR9_qvjoQGypyJvprFYxZspHtYxZ9Aga9hKQONEfUfpOo7f0y7uKEXsRSs3nKackkfVJ79MmTBrvPCWcHMsbFljid7qjAdQRCj3H0-tY_a8zkIB74Tkh-Sym3iyloLNOyjdpVvUIwidog9fJTfpFW1bo37A3EC8sV_EDurRFPSAJV-7os0-WQ-C84JrzGsKae2xkNPCduzaOtzZYEldtzDgRk16ODpyp-894TpVIZywpPVtoDUiPUrU_9haZl1yg-V8eDeaps9ILS552Sm3QwGsAt3nTBPeEk3u6MWKnLd-WXOx_0pnYfQA7Ka9DGTypqYNO=w1140-h500-no
+image: https://i.imgur.com/mNett8e.jpg
 categories:
   - blog
 ---

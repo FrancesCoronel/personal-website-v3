@@ -2,7 +2,7 @@
 title: Connective Media
 date: 2017-03-14
 description: Material I developed while taking the Connective Media class at Cornell Tech.
-banner: https://github.com/fvcproductions/cmtech-assignment-1/raw/master/assets/img/screenshot.png
+image: https://github.com/fvcproductions/cmtech-assignment-1/raw/master/assets/img/screenshot.png
 categories:
   - portfolio
 ---

@@ -1,7 +1,7 @@
 ---
 title: Map of Coding Bootcamps
 date: 2014-12-28
-banner: https://i.imgur.com/HEcSJIK.png
+image: https://i.imgur.com/HEcSJIK.png
 aliases:
   - /2015/05/20/bootcamp-me-attempting-to-crowd-source/
   - /portfolio/bootcamp-me/

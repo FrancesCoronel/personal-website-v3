@@ -2,7 +2,7 @@
 title: Jeopardy Template - Keynote and Google Slides 📁
 date: 2015-03-01
 description: A free Jeopardy template you can use with Google Slides or Keynote.
-banner: https://i.imgur.com/UW55LNg.jpg
+image: https://i.imgur.com/UW55LNg.jpg
 aliases:
   - /2015/03/12/jeopardy-template/
   - /portfolio/jeopardy-template/

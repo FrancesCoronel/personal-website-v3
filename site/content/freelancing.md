@@ -1,65 +1,58 @@
 ---
 title: Freelancing 💎️
-description: What you can hire me for.
-banner: https://i.imgur.com/hD3rQiK.jpg
-hideBanner: true
+description: Services I offer.
+image: https://i.imgur.com/hD3rQiK.jpg
+hideImage: true
 noComments: true
 customPage: true
 freelancingPage: true
 url: /freelancing/
 aliases:
-  - /services/
   - /services/freelancing/
   - /home/services/
   - /home/services/freelancing/
+  - /services/
+categories:
+  - freelancing
 ---
 
-## I work with clients of all backgrounds on both product design & development.
+## I work with clients of all backgrounds and offer a number of different services.
 
-> I also freelance write every now and then.
+### Services
 
-### Provisions
+| Session Type                                | Hourly Rate |
+| ------------------------------------------- | ----------- |
+| Freelance Writing                           | $30         |
+| General Technical Help (Codementor)         | $40         |
+| General Career Advice/Mentoring             | $50         |
+| General App/Product/Startup Review & Advice | $60         |
+| Freelance Design                            | $75         |
+| Freelance Development                       | $150        |
+| Speaking Engagements                        | $200*       |
 
-Whatever your needs are related to web design & development or blog writing, I will work with you every step of the way to ensure you get the best quality output.
+_\*Price may change based on event type/size and this does not include travel/accommodation costs._
 
-To get a better idea of what I have to offer, feel free to look through a [few samples from my blog](/blog), [portfolio](/portfolio), and [feedback](/services/reviews) given from folks I've worked with in the past.
+> I accept payments through [Venmo](https://venmo.com/fvcproductions) (preferred), [Square Cash](https://cash.me/$fvcprdxs) or [PayPal](https://paypal.me/fvcproductions).
 
 ### Process
 
-1.  You contact me through my website with some details about what your needs are.
+1.  You [contact me through my website](/contact/) with some details about what your needs are.
 2.  I will [set up a time to meet](https://calendly.com/fvcproductions) so we can discuss the project further as well as pricing.
-3.  A contract will be set up [through Bonsai](https://www.hellobonsai.com) and iteration starts. This will involve you receiving consistent updates on the project and an overview of the hours I've worked through [Toggl](https://toggl.com/) and [Trello](https://trello.com).
-4.  Once you're happy with the final changes and payments are finalized [via PayPal](https://paypal.me/fvcproductions) or your method of choice, the project is complete!
-5.  If you'd like to at this point, you can also add a testimonial by [reaching out to me](/contact).
-
-### Pricing
-
-Please refer to the pricing table on [my contact page](/contact) for more info.
+3.  A contract will be set up [through Bonsai](https://www.hellobonsai.com).
+4.  We'll communicate back and forth until you're happy with the end results!
+5.  Payments are finalized and if you'd like to at this point, you can also [add a testimonial](/feedback/).
 
 ### Previous Clients
 
-#### Development
+- # of Clients: 4
+- Revenue: $1,210
 
-- Ameot
-  - $300 for static website
+<!-- Use https://www.miniwebtool.com/sum-calculator/ -->
+<!-- Update milestones page -->
 
-#### Design
-
-- Ameot
-  - $150 for branding work
-
-#### Writing
-
-- AlterConf
-  - $200 for 2000+ words
-
-#### Mentoring
-
-- Grace Hopper Academy
-  - $500 for 6 hours (ambassador position)
-
-#### App Feedback
-
-- STELLARES
-  - $60 for 1 hour
-  - July 8th, 2 pm to 3 pm
+| Year | Who               | Why                                  | Pricing |
+| ---- | ----------------- | ------------------------------------ | ------- |
+| 2018 | Stellares         | 1 hour feedback session              | $60     |
+| 2017 | Fullstack Academy | 6 hours of mentoring for GHA Student | $500    |
+| 2016 | AlterConf         | Blog Post                            | $200    |
+| 2015 | Ameot             | Branding & web development           | $450    |

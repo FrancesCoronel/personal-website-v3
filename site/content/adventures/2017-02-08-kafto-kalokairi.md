@@ -2,7 +2,7 @@
 title: Kafto Kalokairi
 date: 2013-04-30
 description: Customizing my desktop layout.
-banner: https://i.imgur.com/eLZ5yMd.png
+image: https://i.imgur.com/eLZ5yMd.png
 categories:
   - portfolio
 tags:

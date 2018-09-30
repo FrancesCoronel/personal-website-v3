@@ -2,7 +2,7 @@
 title: AP Spanish Language Skit 🐷️
 date: 2012-02-06
 description: This was a fun little skit I did with a few kids from my AP Spanish Language class.
-banner: https://lh3.googleusercontent.com/ZjW7EBuCK4AG6y14IPXVBCL9prEil1NL0dsAw1qDmmD8mu3KwBJexxV3okMdhx9LR_h6oOPjxEwrQk0dljf3cUtdCT59RKG4_9e4ITR7Clxf7UxeFIuaVMILQTFKTVymEKi8Db_Mt5wRpwuurx8sviGvlMdAxi1Z8fn3Fh_JvUGwbv01z8pJeGlM8_GVWdfe3Ubolcla4uCigny27t-RI_ymxtO3ARFGqzfVVFs3D8jH735YnQpFnkErY-FDPtd-68CjgXB3iipAYazhJXsYp_KwQ-pWW7QoJOML2HxchBCBCqZPxbeGas2toUYHiDjQQINnnTO80ufuebMdRwJu6a2TfBQMOGyDDzUYun7ccjPyUHZTPlFj_OcdXg51Vu5tTX26Pdl2C76R2Tq7gKc1g3hxBXBaHdCcrhVtR1rmVK1jjYlOJU6v6vFCYXyjrcpq2M8Fb2YPUM5sUy1JX0QfwrQLjb6SF0yoFQF8QWOzmQg8NlyaOFvKZC9fzcBNokTGSrw4SD3TmYEuGvYmY5sDM38-OIAQx-ULU-c6zGp9TeBEm5hxTKQOfX43phjjw9Bp3XxsyWNUASLN6uMcmnOwbcpPZo8KRaDEB5ZV_f6bXJ6xuqUhYrn4YTysRnxg0CZ8=w1551-h969-no
+image: https://i.imgur.com/E724hB0.jpg
 categories:
   - blog
 ---

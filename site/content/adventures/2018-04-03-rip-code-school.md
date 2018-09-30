@@ -2,7 +2,7 @@
 title: RIP Code School ☠️
 description: Goodbye, my precious.
 date: 2018-04-03
-banner: https://i.imgur.com/a6OphgI.png
+image: https://i.imgur.com/a6OphgI.png
 aliases:
   - /2018/04/03/rip-code-school/
 categories:

@@ -2,7 +2,7 @@
 title: Raindrop - Circular Icon
 date: 2015-05-15
 description: An icon I made for Raindrop since I couldn't find a circular icon anywhere online.
-banner: https://i.imgur.com/nkD18Zz.jpg
+image: https://i.imgur.com/nkD18Zz.jpg
 categories:
   - portfolio
 tags:

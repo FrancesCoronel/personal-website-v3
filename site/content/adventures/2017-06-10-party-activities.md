@@ -2,7 +2,7 @@
 title: Funsies - Party Activities Pamphlet
 date: 2017-05-11
 description: Out of ideas for what to do with your friends at the party? Look no further!
-banner: https://i.imgur.com/tG1Zjrb.png
+image: https://i.imgur.com/tG1Zjrb.png
 categories:
   - portfolio
 tags:

@@ -1,8 +1,8 @@
 ---
-title: Milestones ✨
+title: Milestones 🏅
 description: And every day I'm one step closer...
 url: /milestones/
-hideBanner: true
+hideImage: true
 noComments: true
 customPage: true
 navbar: true

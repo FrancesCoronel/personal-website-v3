@@ -2,7 +2,7 @@
 title: Snow White
 date: 2014-08-30
 description: Customizing my desktop layout.
-banner: https://i.imgur.com/GKKYghG.png
+image: https://i.imgur.com/GKKYghG.png
 categories:
   - portfolio
 tags:

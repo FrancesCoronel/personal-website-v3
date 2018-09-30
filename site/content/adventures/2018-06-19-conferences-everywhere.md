@@ -2,8 +2,7 @@
 title: Conferences Everywhere
 date: 2018-06-19
 description: Struggling to find conferences to attend or speak at?
-banner: https://cdn.dribbble.com/users/63407/screenshots/1965585/dribbble_icons.png
-caption: '"Connections" by Ranganath Krishnamani'
+image: https://cdn.dribbble.com/users/63407/screenshots/1965585/dribbble_icons.png
 categories:
   - blog
 ---
@@ -15,26 +14,6 @@ Well, you're in luck 😛 because here's a compilation of websites I have found 
 These websites all essentially aggregate events that are tech related into one space where it's easy to filter by topic, location or date.
 
 Hope it helps! 💛
-
----
-
-<!-- TOC depthFrom:2 -->
-
-- [General](#general)
-  - [Awesome Conference](#awesome-conference)
-  - [ConferCal](#confercal)
-  - [ConferenceList](#conferencelist)
-  - [Conferize](#conferize)
-  - [Confs.tech](#confstech)
-  - [DiversityTickets.org](#diversityticketsorg)
-  - [Eventil](#eventil)
-  - [PaperCall.io](#papercallio)
-  - [TechMeme](#techmeme)
-  - [TechSpeakers CFP Calendar](#techspeakers-cfp-calendar)
-- [GitHub Repos](#github-repos)
-  - [Diversify.me](#diversifyme)
-
-<!-- /TOC -->
 
 ---
 
@@ -109,3 +88,5 @@ Hope it helps! 💛
 
 <blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/diversify-me">fvcproductions/diversify-me</a></h4><p>diversify-me - A list of tech conferences that provide diversity travel grants/scholarships 💸</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+> Image Attribution: '"Connections" by Ranganath Krishnamani'

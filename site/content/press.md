@@ -1,8 +1,8 @@
 ---
 title: Press 📰️
 description: Mentions in the media or news.
-banner: https://i.imgur.com/iFVrP3w.jpg
-hideBanner: true
+image: https://i.imgur.com/iFVrP3w.jpg
+hideImage: true
 noComments: true
 customPage: true
 pressPage: true

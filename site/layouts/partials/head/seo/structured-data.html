@@ -54,7 +54,7 @@
         "@id":           "{{ .Permalink }}"
     },
     "image":             [
-        "{{ if .Params.banner }}{{ .Params.banner }}{{ else }}{{ .Site.Params.og_image }}{{ end }}"
+        "{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.og_image }}{{ end }}"
     ],
     "author":            {
         "@type":         "Person",

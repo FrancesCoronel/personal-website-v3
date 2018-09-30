@@ -12,12 +12,12 @@
   </div>
   {{ end }}
 </div>
-<!-- Past Events -->
-<h2>⌛️ {{ len $speaking }} Past Events</h2>
+<!-- Past & Upcoming Events -->
+<h2>⌛ {{ len $speaking }} Past & Upcoming Events</h2>
 <div class="columns is-multiline">
-  {{ range ($.Site.Taxonomies.categories.speaking).Pages.ByDate.Reverse }} {{ if .Date.Before now }}
+  {{ range ($.Site.Taxonomies.categories.speaking).Pages.ByDate.Reverse }}
   <div class="column is-one-third">
-    {{ partial "body/content/card/plain.html" . }}
+    {{ partial "body/content/card/plain-image.html" . }}
   </div>
-  {{ end }} {{ end }}
+  {{ end }}
 </div>

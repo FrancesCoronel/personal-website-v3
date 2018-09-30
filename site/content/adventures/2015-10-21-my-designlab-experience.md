@@ -2,7 +2,7 @@
 title: My Designlab Experience 🎨
 date: 2015-10-21
 description: My personal experience with Designlab, an online platform for learning web and mobile design skills.
-banner: https://i.imgur.com/XvuQKSk.jpg
+image: https://i.imgur.com/XvuQKSk.jpg
 aliases:
   - /2015/10/21/my-designlab-experience/
   - /portfolio/designlab-submissions/

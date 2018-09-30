@@ -2,7 +2,7 @@
 title: Thinkful
 date: 2018-02-20
 description: Technical Mentor - Flexible Web Development Bootcamp
-banner: https://tf-assets-prod.s3.amazonaws.com/splash/social/thinkful_logo.png
+image: https://tf-assets-prod.s3.amazonaws.com/splash/social/thinkful_logo.png
 categories:
   - experience
 ---

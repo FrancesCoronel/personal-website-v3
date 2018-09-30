@@ -2,7 +2,7 @@
 title: FVCproductions - Logo Design
 date: 2014-06-04
 description: Creating a brand for myself.
-banner: https://i.imgur.com/yibzV1C.jpg
+image: https://i.imgur.com/yibzV1C.jpg
 categories:
   - portfolio
 tags:

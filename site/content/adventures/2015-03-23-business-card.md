@@ -2,7 +2,7 @@
 title: Leh Business Card
 date: 2015-03-23
 description: A business card I made for my brand using the platform Moo.
-banner: https://i.imgur.com/kM2NSMi.jpg
+image: https://i.imgur.com/kM2NSMi.jpg
 categories:
   - portfolio
 tags:

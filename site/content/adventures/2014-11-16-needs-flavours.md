@@ -2,7 +2,7 @@
 title: Needs Flavours...
 date: 2014-11-16
 description: Customizing my desktop layout.
-banner: https://i.imgur.com/V32FfNX.png
+image: https://i.imgur.com/V32FfNX.png
 categories:
   - portfolio
 tags:

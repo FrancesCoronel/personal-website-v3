@@ -2,7 +2,7 @@
 title: Cute Things We Do ❤
 date: 2017-01-30
 description: Cute Things We Do = FC.js + NK.js
-banner: https://i.imgur.com/jMOtDPI.jpg
+image: https://i.imgur.com/jMOtDPI.jpg
 aliases:
   - /portfolio/2017/01/30/cute-things-we-do/
   - /portfolio/cute-things-we-do/

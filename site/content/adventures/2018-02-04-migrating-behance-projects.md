@@ -2,7 +2,7 @@
 title: Migrating Behance Projects 👣
 date: 2018-02-04
 description: Centralizing my work even further.
-banner: https://i.imgur.com/3EdwlW5.png
+image: https://i.imgur.com/3EdwlW5.png
 categories:
   - blog
 ---

@@ -2,7 +2,7 @@
 title: A Review of Don't Starve
 date: 2014-05-02
 description: So in case you haven't heard of it yet, Don't Starve is this awesome Indie game that came out late April of last year.
-banner: https://lh3.googleusercontent.com/XFW163gqFoZe8K_UHuQNUoQZ9D7U3yJ_cM14QZi8CdG17MsqFMBP6cjWOI-PAQ3Ecw4L7QubMlbtIe6tYWA_5oWdoSCYYYXMg4pdrzYb8RRUlucwc6pdDpXkGyzj2AVzUz1AWi3vo55yDg6BAeLXcUSxt_b17WM1qyuYMLEDK3DHW1D2CKIr1RQ0aXRED6dD8JHSf2Dm3Y8ofcFXYhf7cWI3DtWQ8Pr3dLInuuM0jEF4IV8jJ6T5uH8JwfJYb_cYBOjaEYIQB0YPx4DeQF-ndukk1iH5k-sHyUxrJeZGlpgZd8OJlg2f1Kn90nDqT-7rV7_66VBfKziVUHrExFvuHoCMZDxr6LulSO7mrxXF1bkQqinYjO6InKwFtTi6-zpuUxWPfzzpqmzYD87thmazqOYM9g94exm_Q1Mh-Q1n2bJPWNhG6YpZ0DK_w9h-Zob4biXn-zt7MTnugtGuK6prnUZuNzppuSuX9omGwqTEvXW3uj4e46bSe_Fg6CUUXu97SuwqTQ0XRtLoxvPmhYXq0em1PK1Jkd7VnP1dpGEk3fiNjbYvX9uAePKani7zkjo3yxhrJ5PDD9GwLbAFuT_4f_mM5Qh3rl7apYzM8rCOg5QonxbJx8Vhz2in1Rqskvnq=w1456-h969-no
+image: https://i.imgur.com/nQNJn6i.jpg
 aliases:
   - /2014/05/02/a-review-of-dont-starve/
 categories:

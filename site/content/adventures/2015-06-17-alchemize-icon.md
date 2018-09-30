@@ -2,7 +2,7 @@
 title: Alchemize Icon
 date: 2015-06-17
 description: A circular icon created for Alchemize.
-banner: https://i.imgur.com/rkWJYwr.jpg
+image: https://i.imgur.com/rkWJYwr.jpg
 categories:
   - portfolio
 tags:

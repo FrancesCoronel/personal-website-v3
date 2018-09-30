@@ -1,8 +1,8 @@
 ---
 title: Search 🔍️
 description: Search across my website!
-banner: https://i.imgur.com/rETMF3V.jpg
-hideBanner: true
+image: https://i.imgur.com/rETMF3V.jpg
+hideImage: true
 noComments: true
 noTimeEstimate: true
 footer: true

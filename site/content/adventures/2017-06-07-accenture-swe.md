@@ -2,7 +2,7 @@
 title: Accenture Liquid Studio
 date: 2017-06-07
 description: Software Engineer
-banner: https://i.imgur.com/2VW391R.jpg
+image: https://i.imgur.com/2VW391R.jpg
 categories:
   - experience
 ---

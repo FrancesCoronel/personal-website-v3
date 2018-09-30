@@ -2,7 +2,7 @@
 title: Pacific Shores Shuttle App
 date: 2017-08-13
 description: If you work at Pacific Shores, you can figure out when the next shuttle is coming!
-banner: https://i.imgur.com/IBedZom.png
+image: https://i.imgur.com/IBedZom.png
 categories:
   - portfolio
 tags:

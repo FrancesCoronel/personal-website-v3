@@ -2,7 +2,7 @@
 title: Pre-Mother's Day Potluck Invite
 date: 2014-04-08
 description: Custom design created for a potluck event.
-banner: https://i.imgur.com/M7EpOh2.jpg
+image: https://i.imgur.com/M7EpOh2.jpg
 categories:
   - portfolio
 tags:

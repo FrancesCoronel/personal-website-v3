@@ -2,7 +2,7 @@
 title: Wordpress Theme - tdEditor - Updated
 date: 2015-03-29
 description: Updated tdEditor theme with a couple of customizations.
-banner: https://i.imgur.com/AeIjpok.png
+image: https://i.imgur.com/AeIjpok.png
 categories:
   - portfolio
 tags:

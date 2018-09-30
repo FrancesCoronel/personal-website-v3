@@ -1,8 +1,8 @@
 ---
 title: Contact 📬
 description: Getting in touch.
-banner: https://i.imgur.com/0n5zqiA.jpg
-hideBanner: true
+image: https://i.imgur.com/0n5zqiA.jpg
+hideImage: true
 noComments: true
 noTimeEstimate: true
 navbar: true

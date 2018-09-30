@@ -1,8 +1,8 @@
 ---
 title: Resume 📃
 description: A 1-page summary of my professional journey.
-banner: https://i.imgur.com/vEg8KOi.jpg
-hideBanner: true
+image: https://i.imgur.com/vEg8KOi.jpg
+hideImage: true
 noComments: true
 url: /resume/
 aliases:

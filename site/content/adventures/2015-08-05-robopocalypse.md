@@ -1,7 +1,7 @@
 ---
 title: Robopocalypse 🤖
 date: 2015-08-05
-banner: https://i.imgur.com/V26V6tz.png
+image: https://i.imgur.com/V26V6tz.png
 aliases:
   - /2015/08/05/robopocalypse/
   - /portfolio/robopocalypse/

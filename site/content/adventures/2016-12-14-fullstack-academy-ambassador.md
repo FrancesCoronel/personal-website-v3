@@ -1,7 +1,7 @@
 ---
 title: Fullstack Academy
 date: 2017-12-14
-banner: https://i.imgur.com/vTvG2lQ.png
+image: https://i.imgur.com/vTvG2lQ.png
 description: Ambassador
 slides: https://www.slideshare.net/FVCproductions/the-state-of-coding-bootcamps-2017
 aliases:

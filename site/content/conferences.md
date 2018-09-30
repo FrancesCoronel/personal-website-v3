@@ -1,8 +1,8 @@
 ---
 title: Conferences 👥
 description: Conferences I've attended.
-banner: https://images.pexels.com/photos/691485/meeting-room-business-conference-691485.jpeg
-hideBanner: true
+image: https://images.pexels.com/photos/691485/meeting-room-business-conference-691485.jpeg
+hideImage: true
 noComments: true
 noTimeEstimate: true
 customPage: true

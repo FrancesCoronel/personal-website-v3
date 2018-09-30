@@ -2,7 +2,7 @@
 title: Assignment 3 - HCI & Design - Cornell Tech
 date: 2017-03-21
 description: Material I developed while taking the HCI & Design class at Cornell Tech.
-banner: https://i.imgur.com/DMQkVuR.png
+image: https://i.imgur.com/DMQkVuR.png
 categories:
   - portfolio
 tags:
