@@ -8,3 +8,7 @@ customPage: true
 categories:
   - talk
 ---
+
+Code.org is a non-profit organization and eponymous website led by Hadi Partovi that aims to encourage people, particularly school students in the United States, to learn computer science.
+
+- Mentored students and presented a Keynote on the importance of learning to code at several elementary or high schools for the Hour of Code computer science education week in December of 2015.

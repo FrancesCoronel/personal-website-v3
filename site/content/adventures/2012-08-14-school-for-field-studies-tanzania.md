@@ -36,10 +36,14 @@ I took a "Wildlife Research Techniques" study abroad course in Tanzania through 
 
 The School for Field Studies creates transformative study abroad experiences through field-based learning and research. Students part of the Wildlife Management program study how changes in land-use and resource can be managed to foster the well-being of local communities while safeguarding and promoting biodiversity conservation.
 
-I got a lot from this program. Specifically, I...
+I received college credit from Boston University for completing this course.
 
-- learned how to perform the effective identification, sampling, and data collection and analysis methods for flora and fauna; remote and on-ground sensing; spatial mapping; survey design and interviewing skills; and communication skills (report writing and public presentation)
-- gained foundational skills in observation and evaluations of wildlife, as well as interactive methods used for assessing local community attitudes and behaviors toward conservation efforts and applied these techniques to advance long-term research goals at the research center
+- Learned how to perform the effective identification, sampling, and data collection and analysis methods for flora and fauna; remote and on-ground sensing; spatial mapping; survey design and interviewing skills; and communication skills (report writing and public presentation)
+- Gained foundational skills in observation and evaluations of wildlife, as well as interactive methods used for assessing local community attitudes and behaviors toward conservation efforts and applied these techniques to advance long-term research goals at the research center
+
+### Activities
+
+- Swahili Language Class
 
 ### Transcript
 

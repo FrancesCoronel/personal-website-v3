@@ -8,6 +8,12 @@ categories:
   - volunteering
 ---
 
+TechHire Oakland guides underrepresented East Bay residents of color to rewarding careers in tech.
+
+- Volunteered to be part of a photoshoot to show diversity in tech for the new TechHire Oakland website.
+
+---
+
 > Photo Cred: [Adrian Walker](http://www.adrianowalker.com/)
 
 <blockquote class="embedly-card"><h4><a href="https://www.techhireoakland.org/">Home - Tech Hire Oakland</a></h4><p>TechHire Oakland guides underrepresented East Bay residents of color to rewarding careers in tech.</p></blockquote>

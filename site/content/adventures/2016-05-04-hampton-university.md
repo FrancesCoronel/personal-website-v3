@@ -33,7 +33,15 @@ January 12, 2014 to May 4, 2016
 
 ## About
 
-Hampton University is a private historically black university located in Hampton, Virginia, United States.
+Hampton University is a private historically black university located in Hampton, Virginia.
+
+- Top Graduate/Highest GPA in Computer Science Department
+- Graduated with Summa Cum Laude Honors
+- Graduated with 142 credits (50 credits from dual enrollment/AP classes)
+- Dean's List - 2014, 2015, 2016
+- Passed CLEP Exam for Humanities (HUM 101/102) and English (ENG 101/102)
+- Credit by Examination for General Biology (BIO 103)
+- Full-ride merit scholarship
 
 ### Activities
 
@@ -49,6 +57,7 @@ Hampton University is a private historically black university located in Hampton
 - STARS (Students & Technology in Academia, Research, & Service) Computing Corps
   - served as one of the department's peer tutors and as a mentor for incoming freshmen as part of STARS Leadership Corps program in 2014 and 2015
   - awarded scholarship to attend annual STARS Celebration conference in August 2014
+- Upsilon Pi Epsilon, ACM (Association for Computing Machinery), AAAI (Association for the Advancement of Artificial Intelligence), STARS (Students & Technology in Academia, Research, & Service) Computing Corps, Golden Key International Honour Society
 
 ### Awards
 

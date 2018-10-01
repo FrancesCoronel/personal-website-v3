@@ -28,11 +28,19 @@ Master's of Engineering in Computer Science
 
 ## About
 
-Cornell Tech is the technology-focused campus of Cornell University located in New York City.
+Cornell Tech is the technology-focused graduate campus of Cornell University located in New York City.
+
+- Worked with a cross-disciplinary team as the lead developer to tackle commenter diversity through a collaboration with The New York Times in "Product Studio"
+- Experimented with building ground up a startup dubbed Mora aiming to provide a foster care analytics and case management solution in "Startup Studio"
+- Selected to represent CS majors in an open house panel event for potential students
+- Excelled in coursework spanning a diverse range of topics, including HCI & Design, Connective Media, Privacy in the Digital Age, Product Management, and Women in Technology
+- Simons Graduate Fellow which awarded a merit scholarship covering 25% of tuition costs
 
 ### Activities
 
 - [WiTNY](https://tech.cornell.edu/impact/witny) (Women in Technology and Entrepreneurship in New York)
+- Cornell Tech Student Panel for Prospective Students
+- Conversations in the Studio Student Host
 
 ### Awards
 

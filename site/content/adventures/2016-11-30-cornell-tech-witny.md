@@ -11,6 +11,8 @@ categories:
 
 [WiTNY](https://tech.cornell.edu/impact/witny)
 
+The mission of the Women in Technology and Entrepreneurship in New York initiative is to facilitate, encourage and enable a significant increase in the participation of women in both higher education and entrepreneurship in fields related to technology in the New York market. Through strategic initiatives and purposeful integration with key institutions and programs in the city of New York, WiTNY targets high school girls getting ready for college, undergraduate and graduate women, preparing them to secure a rewarding and lucrative position in the technology industry.
+
 ## Organizer
 
 [Cornell Tech](https://tech.cornell.edu/)
@@ -40,3 +42,7 @@ The Java Talk program will:
 - Provide a vehicle for transferring technical as well as formal and informal industry-related and career-focused knowledge
 
 Through this program, I was given the chance to mentor a CIS major at CUNY. I personally enjoyed the mentoring session a lot and look forward to participating in similar events in the future.
+
+---
+
+- Volunteered as a mentor for female undergraduate students majoring in computer science during the Java Talk at Baruch College sponsored by Women in Technology and Entrepreneurship in New York (WiTNY) in sponsorship with Cornell Tech.

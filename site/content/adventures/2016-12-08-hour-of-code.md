@@ -44,3 +44,8 @@ I even received some swag from ELiTE Education in exchange! 😊
 
 <blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/hour-of-code-2016-middle-school">Hour of Code 2016 - Middle School</a></h4><p>Published December 8, 2016, in Education Volunteered at the urban Assembly Academy for Future Leaders in Harlem, NY through the Hour of Code program & ELiTE Ed...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+---
+
+- Mentored students at the Urban Assembly Academy for Future Leaders in NYC for the Hour of Code computer science education week in December of 2015 in cooperation with the organization Emerging Leaders in Technology and Engineering Inc (ELiTE)
+- Presented a Keynote on the importance of learning to code to selected female students interested in STEM fields

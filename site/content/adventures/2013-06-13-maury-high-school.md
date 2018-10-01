@@ -29,10 +29,16 @@ September 8, 2009 to June 14, 2013
 
 Matthew Fontaine Maury High School also known as Maury High School, one of five city comprehensive high schools, is a high school located in the Ghent area of Norfolk, Virginia, United States.
 
+- Graduated in the top 10% of my class
+- Completed 10 AP courses
+- Innovation Award
+- Early College Scholar
+- Board of Ed. Excellence in Civic Education
+- Governor’s Seal
+
 ### Activities
 
-- Operation Smile
-- Model UN
+- Operation Smile Club, Model United Nations, FBLA, Varsity Tennis Team
 
 ### Courses
 

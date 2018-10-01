@@ -34,6 +34,14 @@ Online student
 
 Designlab is the best way to learn UI/UX design skills online — through project-based courses and 1-on-1 mentorship from expert designers.
 
+From August to October 2015, I was enrolled in a 6-week online web design course offered by Designlab.
+
+I was part of the less than 30% of enrolled students who finished the entire course.
+
+- Learned about fundamentals of color theory, typography, and layout in web design
+- Gained expertise with the design tool Sketch
+- Worked with an expert mentor who provided written feedback on all my work
+
 - [Name](#name)
 - [Location](#location)
 - [Date](#date)

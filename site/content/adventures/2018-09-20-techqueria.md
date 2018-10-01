@@ -11,7 +11,9 @@ tags:
   - open-source
 ---
 
-Techqueria is one of the largest communities of Latinx professionals in the tech industry.
+Techqueria is one of the largest Latinx in tech organizations in the US, with a presence in the Bay Area, LA, and NYC.
+
+I helped revamp their entire website using Hugo which can be currently found at https://techqueria.org.
 
 After a couple of months, I was finally able to launch a new version of Techqueria's website! 🎉
 

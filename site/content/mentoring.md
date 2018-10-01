@@ -24,12 +24,12 @@ I’ve also tutored kids at the elementary, middle, and high school level on how
 
 ### Feedback
 
-You can find [the feedback I've received](/feedback/ "Feedback") thus far on my website!
+You can find [the feedback I've received](/feedback/ 'Feedback') thus far on my website!
 
 ### Previous Mentoring Sessions
 
-- # of Sessions: 72
-- Hours: 57.73
+- # of Sessions: 73
+- Hours: 58.73
 
 <!-- Use https://www.miniwebtool.com/sum-calculator/ -->
 <!-- Update milestones page -->
@@ -39,6 +39,7 @@ You can find [the feedback I've received](/feedback/ "Feedback") thus far on my 
 | 2018-09-13 | Resume review                                    | Mariela Passalacqua      | In-Person   | 0.75  |
 | 2018-09-07 | Resume review and career advice                  | Mariela Passalacqua      | Video Chat  | 0.50  |
 | 2018-08-20 | Interview on Design & Development Workflow       | Kanad Bahalkar           | In-Person   | 0.50  |
+| 2018-08-01 | Next Chapter Apprentice Office Hour              | Lino                     | In-Person   | 1.00  |
 | 2018-05-22 | Out of Office Hours                              | Joydeep Gill             | Online Call | 0.75  |
 | 2018-05-21 | Out of Office Hours                              | Alex Rivadeneira         | Phone Call  | 0.58  |
 | 2018-05-01 | Out of Office Hours                              | Valeria Oshiro           | Phone Chat  | 0.50  |
