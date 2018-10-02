@@ -20,7 +20,7 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year:/:month:/:day:/:filename:"
 build:
-  preview_command: gulp build
+  preview_command: gulp server
   publish_command: gulp build
   publish_env:
   - HUGO_ENV=production
