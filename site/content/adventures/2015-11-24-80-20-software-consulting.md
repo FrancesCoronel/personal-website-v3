@@ -1,17 +1,17 @@
 ---
 title: 80|20 Software Consulting
 description: Front End Developer
-date: 2015-11-24
+date: 2015-11-24 00:00:00 +0000
 image: https://lh3.googleusercontent.com/VRtYE24C9Wuqxa6LAGAO1SdXcTFuXoVuAwlzb3JbFgR__SpRlPu0iwAlcALS_Cq6E007BIAQV9bZMQiAF2gonSF32SRNmmH8RZuY9iQkW042Z-XWIVqGAuvT5_M0Q8xRGLST8pJT7l548WcEuU3bWR8skUX_r_g7PyUCx8PGGQKfKBMYKUht_3HeyZmddDt0UBiefn4_x8lKWalwsxTM22XccO7EDy7kKjrNk9VLYOUlbXtDSDIudCu_0sjB6vtxdXckHyYId2-7uGtdyftJFTRMMHDySINI2I6IcX6TPIPvW0sFPLIhGAwBTb508O9uFYGbctElHU-CsjmCB7LMfNMZ6CcFbeWqQYT-LNHHA4k7SDVnoYy3KqGq-YJZYW7wHJ_NyoETKi_Q-NSLgnUuukX3durhjW3OIjDiUwfVlyveRCxL_XU4-lEcL1PK_so4B0H-EGm81nwUjERq8xcfyvshHzCoNwhMLV33GrCUGfPgf8XCVwP_QapmKx8EnQwHOpiZux9If9Us83jSrgRyJIGPbZPxxWB8Q8G6OGsUHfuopaOAdcBEyAtkAF02D0KnmCSh5c4jKWpoAY0gZeU3Eho6v7n5Rnk55N6IaDO5m65c30dlJR7v4AyVBJle7kSt=w1425-h647-nos
 aliases:
-  - /home/adventures/experience/80-20/
+- "/home/adventures/experience/80-20/"
 categories:
-  - experience
----
+- experience
 
+---
 ## Employer
 
-[80|20 Software Consulting](https://madeby8020.com '80|20 Software Consulting')
+[80|20 Software Consulting](https://madeby8020.com "80|20 Software Consulting")
 
 ## Location
 
@@ -23,27 +23,27 @@ November 24th, 2015 to February 5th, 2016
 
 ## About
 
-<p>80|20 is a software agency that creates web and mobile applications and provides software consulting solutions for small and mid-sized businesses.</p>
+80|20 is a software agency that creates web and mobile applications and provides software consulting solutions for small and mid-sized businesses.
 
 ## Role
 
 ### Frontend Developer (Part-Time)
 
-- prototyped mobile/web user interfaces for client projects
-- helped develop/design in-house website creation platform using modern web technologies such as HTML/CSS/JS
-- consulted clients on how to improve their Wordpress based websites
-- gained skills in fullstack web development by working with large scale web projects
+* prototyped mobile/web user interfaces for client projects
+* helped develop/design in-house website creation platform using modern web technologies such as HTML/CSS/JS
+* consulted clients on how to improve their Wordpress based websites
+* gained skills in fullstack web development by working with large scale web projects
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/madeby8020/status/669603319330021377">80|20 on Twitter</a></h4><p>We're excited to have @fvcproductions joining the team as a front-end developer!</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/fvcproductions/status/700371760663891968">Frances Coronel on Twitter</a></h4><p>Company lunch @8020co! 🍳☕️🍞</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/madeby8020/status/673989239827267586">80|20 on Twitter</a></h4><p>From our client...@iambriansreed and @fvcproductions are extremely knowledgeable and gave me tremendous insights [for] my website!</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/madeby8020/status/673989239827267586">80|20 on Twitter</a></h4><p>From our client...@iambriansreed and @fvcproductions are extremely knowledgeable and gave me tremendous insights \[for\] my website!</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/NorfolkJS/status/689321587045056512">Norfolk.js on Twitter</a></h4><p>@fvcproductions Great work tonight! Nice handoff from the Balderdash series to @8020co.</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/fvcproductions/status/684940206785589248">Frances Coronel on Twitter</a></h4><p>Just submitted a talk for #revconf. Ridiculously excited! 🇻🇳 &lt;★&gt; 🇻🇳 @revconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/fvcproductions/status/684940206785589248">Frances Coronel on Twitter</a></h4><p>Just submitted a talk for #revconf. Ridiculously excited! 🇻🇳 <★> 🇻🇳 @revconf</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/NorfolkJS/status/685708460743389184">Norfolk.js on Twitter</a></h4><p>This month we have @fvcproductions speaking about her experience with JS Bootcamps. But first, lightning talks!! //t.co/MxiZ2mAea3</p></blockquote>
 
