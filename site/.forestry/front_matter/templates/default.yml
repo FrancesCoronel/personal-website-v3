@@ -79,6 +79,7 @@ fields:
   name: tags
   label: Tags
 pages:
+- site/content/adventures/2018-06-26.md
 - site/content/adventures/2018-07-19.md
 - site/content/adventures/2018-08-15-code-2040.md.md
 - site/content/adventures/2015-08-28-fullstack-academy---blog-post-banners.md
