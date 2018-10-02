@@ -77,13 +77,13 @@ Hampton University is a private historically black university located in Hampton
 * Passed CLEP Exam for Humanities (HUM 101/102) and English (ENG 101/102)
 * Received credit by examination for General Biology (BIO 103)
 
-#### Computer Science Tutor
+### Computer Science Tutor
 
 > Oct 2014 – May 2015
 
-- Served as a peer tutor with sponsorship from the STARS Leadership Corps program  
-- Mentored underclassmen for class assignments & projects using Java  
-- Awarded a scholarship to attend the annual STARS Celebration conference in August 2014
+* Served as a peer tutor with sponsorship from the STARS Leadership Corps program
+* Mentored underclassmen for class assignments & projects using Java
+* Awarded a scholarship to attend the annual STARS Celebration conference in August 2014
 
 <blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/315207507/Hampton-University-Transcript">Hampton University Transcript</a></h4><p>FVCproductions Check me out at fvcproductions.com Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright FVCproduction... by fvcproductions in Types > School Work, books, and article</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
