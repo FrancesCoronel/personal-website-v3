@@ -1,5 +1,5 @@
 ---
-title: 'Real Talk: Finding your voice in Tech'
+title: "Upcoming | Real Talk: Finding your voice in Tech"
 date: 2018-10-16
 location: Asana - San Francisco, CA
 image: https://i.imgur.com/KE1OJdt.png

@@ -146,7 +146,7 @@ Great VCs can consistently pick winners. VCs see a ton of deals and they have to
 
 #### Do you feel the intense pressure to succeed?
 
-harsh reality is that the folks in this room have to show that we can actually make this shit happen to inspire a generation of people to want to be a part of this. Whatever burden that falls on us is what it is, but we have that responsibility. And to the extent that we do, the great thing about this culture is that we’ve taken over every single vertical, co-opted it, and made those verticals more special.
+harsh reality is that the folks in this room have to show that we can actually make this shit happen to inspire a generation of people to want to be a part of this. Whatever burden that falls on us is what it is, but we have that responsibility. And to the extent that we do, the great thing about this culture is that we've taken over every single vertical, co-opted it, and made those verticals more special.
 
 #### Why you?
 
@@ -168,7 +168,7 @@ Once talented entrepreneurs have developed a strong idea, they need to build the
 
 > Series A Investment Size: $750K - $3M
 
-When the fruits of a team's labor have paid off--when a company has successfully figured out their product/market fit--we’re there to drive the major fundraising milestone. We work to scale companies with proven product lines.
+When the fruits of a team's labor have paid off--when a company has successfully figured out their product/market fit--we're there to drive the major fundraising milestone. We work to scale companies with proven product lines.
 
 #### How do you keep up with the latest news? Is there a blog in particular?
 
@@ -178,9 +178,9 @@ GitHub, ProductHunt, LinkedIn, NYTimes, Hacker News, Behance, Medium
 
 Due to receiving a full-ride merit scholarship to pursue my undergrad and a generous scholarship for grad school, I, unlike many of my school peers, am not held prisoner by my student debt and can pursue the career of my dreams.
 
-AI is about to make the biggest changes to humanity, and we’re missing a whole generation of diverse technologists and leaders
+AI is about to make the biggest changes to humanity, and we're missing a whole generation of diverse technologists and leaders
 
-If we don’t get women and people of color at the table — real technologists doing the real work — we will bias systems. Trying to reverse that a decade or two from now will be so much more difficult, if not close to impossible.
+If we don't get women and people of color at the table — real technologists doing the real work — we will bias systems. Trying to reverse that a decade or two from now will be so much more difficult, if not close to impossible.
 
 #### What do you believe this role involves?
 
@@ -261,7 +261,7 @@ The reason I try to close the gap specifically through freelancing, mentoring, a
 
 For example, I freelanced this past December for AlterConf, which is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries. The hackathons I've been an organizer of in the past all heavily focused on recruiting a diverse body of students.
 
-I've mentored aspiring female techies through the WiTNY (Women in Technology and Entrepreneurship in New York) program that is fully funded by Cornell Tech and aims to facilitate, encourage and enable a significant increase in the participation of women in both higher education and entrepreneurship in fields related to technology within New York. I also have held over 15 video chat sessions with potential coding bootcamp students who have successfully gone on to coding bootcamps like Fullstack Academy, Hack Reactor, and MakerSquare. Through Code.org, I’ve also tutored kids at the elementary, middle, and high school level on how to get started in the tech field.
+I've mentored aspiring female techies through the WiTNY (Women in Technology and Entrepreneurship in New York) program that is fully funded by Cornell Tech and aims to facilitate, encourage and enable a significant increase in the participation of women in both higher education and entrepreneurship in fields related to technology within New York. I also have held over 15 video chat sessions with potential coding bootcamp students who have successfully gone on to coding bootcamps like Fullstack Academy, Hack Reactor, and MakerSquare. Through Code.org, I've also tutored kids at the elementary, middle, and high school level on how to get started in the tech field.
 
 When it comes to speaking, I've given talks on alternative forms of education (coding bootcamps) and one can get started as a developer.
 
@@ -325,7 +325,7 @@ If you look at the array of skills, networks, and experiences required to be an 
 
 Focusing on key job responsibilities and measurable skills needed — not proxies. As a head of People Ops at a tech company put it, "A degree from Stanford and a previous job at Google are not skills."
 
-Emphasizing actions, not words. We prioritize candidates who have experience building and managing diverse teams, or who have experience being an "only" in a professional or volunteer position. It’s amazing how quickly the "most qualified" candidates go to the bottom of the rankings if demonstrated experience with diverse teams is a requirement in the job description.
+Emphasizing actions, not words. We prioritize candidates who have experience building and managing diverse teams, or who have experience being an "only" in a professional or volunteer position. It's amazing how quickly the "most qualified" candidates go to the bottom of the rankings if demonstrated experience with diverse teams is a requirement in the job description.
 
 Developing a diverse talent pool. We know openings for partners, principals, associates, and analysts occur infrequently in small firms like ours, so we decided to grow our own talent pool. Kapor Capital has worked with Management Leaders for Tomorrow for several years to recruit pre-MBA and MBA students from underrepresented backgrounds as Summer Associates. Several have gone on to full-time positions as investors in the industry. Our very own Brian Dixon was a Kapor Capital Summer Associate, prior to entering business school four years ago. Thereafter, he became a full-time Associate, then a Principal, and just a few months ago was named Partner.
 
@@ -344,7 +344,7 @@ Kapor Capital specifically... I see myself in Brian, who's a partner, and I see 
 - former transcendental meditation teacher?
 - Lotus 1-2-3 spreadsheet, the "killer application" which made the personal computer ubiquitous in the business world
 - EFF defends civil liberties in the digital world and works to ensure that rights and freedoms are enhanced and protected as our use of technology grows.
-- In a funny way, having a childhood in which I was a social outcast was a big success factor. I skipped second grade and was two years younger than my classmates and was always excluded from social groups. It gave me an outsider’s perspective. I was never very concerned with approval from my peers and was willing to entertain crazy ideas (like insisting in 1978 everyone in business needed a personal computer or in 1990 that everyone in the world would hook up to the Internet). Being an outsider of course isn’t sufficient but it shaped me and I used it.
+- In a funny way, having a childhood in which I was a social outcast was a big success factor. I skipped second grade and was two years younger than my classmates and was always excluded from social groups. It gave me an outsider's perspective. I was never very concerned with approval from my peers and was willing to entertain crazy ideas (like insisting in 1978 everyone in business needed a personal computer or in 1990 that everyone in the world would hook up to the Internet). Being an outsider of course isn't sufficient but it shaped me and I used it.
 - I'm an outsider too as a Peruvian-American female who loves developing but also has interests outside of that like PM and VC.
 
 ##### Ellen Pao, Mrs. Kapor

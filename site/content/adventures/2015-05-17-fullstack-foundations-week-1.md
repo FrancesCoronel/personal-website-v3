@@ -2,24 +2,24 @@
 title: Fullstack Foundations - Week 1
 date: 2015-05-17
 description: Fullstack Academy‘s first ever Summer of Code program, which is described as a program that "gives college students the opportunity to study fullstack web development while on summer break" is starting this June. Specifically, Monday, June 8th 2015.
-image: https://lh3.googleusercontent.com/unuOzvWkVSZWpUER8eQ0rOYefK6ZYQxRRrYVlVZdcNC7SmLPbkU6ysDBGLM4L0dJAQ0YTN53-YfkvlTlR_zbt6UEGZbehn_xBlSfbBl_u5Vz_M6cHWNQWD1DAsiHvQtoT0wJDSXID2qQJdsPDH1u6GVd9lYukhVtPacsvmM4TaYfMDkS4djBXHKNIsDWDOiZYcW5X2m_7O52fAZW-cxZyFL_fImD19TSomxnWar2k5-KO0UnB4pDWedawHHCse_LWUEwKfwzY7T6VvqCvFBZn8bpHTmljHWScT4gZRSLYDKkSi4uLaSQor8bjY1tzcTxCb-28Zo_YQuYK5aHpo_BST1xQOh8ebxLvBTEUmE8EJWE0RBCWG152vYJWZW3MrO0raGpuHBQ6EqE2DuBha-KsSX47apGlnk-Jq03jegRZCYxnb3ypRKj0OljhsZUV34s_cK_YO9JNhSilH9vL0EJdPWDZrIcUhLQ5j9r5KSoHiorFzKl5Hm0R72_tWVT4-mOIlTH0mwQ0M96HJQim5nfDthEbIq2Lp0kSJxxpX3uUDrVKggzyFbQc1xXLgfhhItiOCGfbeyAzA2At3uW3V7pZIKzFEUhsxcTBJrWsXpq8LjVjPBy8D7zh6xpnZSFsvwG=w1636-h920-no
+image: https://i.imgur.com/Zi4KZtm.jpg
 aliases:
   - /2015/05/17/fullstack-foundations-week-1/
 categories:
   - blog
 ---
 
-> Fullstack Foundations is the prework course for [Fullstack Academy](https://fullstackacademy.com 'Fullstack Academy').
+> Fullstack Foundations is the prework course for [Fullstack Academy](https://fullstackacademy.com "Fullstack Academy").
 
 So.
 
-[Fullstack Academy](https://fullstackacademy.com 'Fullstack Academy')‘s first ever **[Summer of Code](https://www.fullstackacademy.com/summer-of-code 'Summer of Code')** program, which is described as a program that "_gives college students the opportunity to study full stack web development while on summer break_" is starting this June.
+[Fullstack Academy](https://fullstackacademy.com "Fullstack Academy")‘s first ever **[Summer of Code](https://www.fullstackacademy.com/summer-of-code "Summer of Code")** program, which is described as a program that "_gives college students the opportunity to study full stack web development while on summer break_" is starting this June.
 
 Specifically, Monday, June 8th 2015.
 
 Ergo, I'm actually going to be part of an inaugural class of **something**. That's never happened before, so I'm pretty darn excited.
 
-As excited as _I_ can get anyway, which to some people would not really be perceived as very excited at all. Think **[Maurice Moss](https://theitcrowd.wikia.com/wiki/Maurice_Moss 'Maurice Moss')**.
+As excited as _I_ can get anyway, which to some people would not really be perceived as very excited at all. Think **[Maurice Moss](https://theitcrowd.wikia.com/wiki/Maurice_Moss "Maurice Moss")**.
 
 ![Moss](https://media.tumblr.com/tumblr_lib9372zdW1qglrwm.png)
 

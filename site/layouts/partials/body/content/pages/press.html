@@ -5,7 +5,7 @@
 <div class="columns is-multiline">
   {{ range $press }} {{ if .Date.Before now }}
   <div class="column is-half">
-    {{ partial "body/content/card/_index.html" . }}
+    {{ partial "body/content/card/plain-image.html" . }}
   </div>
   {{ end }} {{ end }}
 </div>

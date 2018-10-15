@@ -35,39 +35,54 @@ To address this problem, we created Q&A, a platform that solicits the opinion of
 
 ---
 
+## Q&A | The New York Times
+
+> Aug 2016 – Dec 2016
+
+Every fall, leading startups, companies, and organizations in NYC pose business challenges to Cornell Tech. In Product Studio, teams develop and present new products, services, and strategies that respond to those challenges.
+
+Our team responded to The New York Times (Community) challenge: How might we create a safe place for people of all backgrounds to discuss important local, national, and global issues?
+
+-   To address this problem, we created Q&A, a platform that solicits the opinion of readers based off of both the text analysis of an article and their personal reading history.
+-   One of the best-performing teams out of 10+ teams in final sprint round at Cornell Tech.
+-   Recognized as a team with artful artifacts in final sprint round at Cornell Tech.
+
+---
+
 <!-- TOC -->
 
+- [Q&A | The New York Times](#qa--the-new-york-times)
 - [Sprint 1](#sprint-1)
-	- [Sprint 1 - Narrative](#sprint-1---narrative)
-	- [Sprint 1 - Presentation](#sprint-1---presentation)
-	- [Sprint 1 - Prototype](#sprint-1---prototype)
+  - [Sprint 1 - Narrative](#sprint-1---narrative)
+  - [Sprint 1 - Presentation](#sprint-1---presentation)
+  - [Sprint 1 - Prototype](#sprint-1---prototype)
 - [Sprint 2](#sprint-2)
-	- [Sprint 2 - Narrative](#sprint-2---narrative)
-		- [Journey](#journey)
-		- [User Research](#user-research)
-		- [Working Demo](#working-demo)
-		- [Validation Findings](#validation-findings)
-		- [Architecture Evolution](#architecture-evolution)
-	- [Sprint 2 - Presentation](#sprint-2---presentation)
-	- [Sprint 2 - Prototype](#sprint-2---prototype)
+  - [Sprint 2 - Narrative](#sprint-2---narrative)
+    - [Journey](#journey)
+    - [User Research](#user-research)
+    - [Working Demo](#working-demo)
+    - [Validation Findings](#validation-findings)
+    - [Architecture Evolution](#architecture-evolution)
+  - [Sprint 2 - Presentation](#sprint-2---presentation)
+  - [Sprint 2 - Prototype](#sprint-2---prototype)
 - [Sprint 3](#sprint-3)
-	- [Sprint 3 - Narrative](#sprint-3---narrative)
-		- [Coded Out Solution](#coded-out-solution)
-		- [User Validation](#user-validation)
-		- [Technology](#technology)
-		- [Reporter Validation](#reporter-validation)
-		- [Impact](#impact)
-		- [Monetization](#monetization)
-		- [Product Development](#product-development)
-		- [Business Objective](#business-objective)
-		- [Go To Market Strategy](#go-to-market-strategy)
-		- [Our Journey](#our-journey)
-		- [What’s Next](#whats-next)
-	- [Sprint 3 - Presentation](#sprint-3---presentation)
-	- [Sprint 3 - Prototype](#sprint-3---prototype)
+  - [Sprint 3 - Narrative](#sprint-3---narrative)
+    - [Coded Out Solution](#coded-out-solution)
+    - [User Validation](#user-validation)
+    - [Technology](#technology)
+    - [Reporter Validation](#reporter-validation)
+    - [Impact](#impact)
+    - [Monetization](#monetization)
+    - [Product Development](#product-development)
+    - [Business Objective](#business-objective)
+    - [Go To Market Strategy](#go-to-market-strategy)
+    - [Our Journey](#our-journey)
+    - [What's Next](#whats-next)
+  - [Sprint 3 - Presentation](#sprint-3---presentation)
+  - [Sprint 3 - Prototype](#sprint-3---prototype)
 - [Final Sprint](#final-sprint)
-	- [Final Sprint - Presentation](#final-sprint---presentation)
-	- [Final Sprint - Prototype](#final-sprint---prototype)
+  - [Final Sprint - Presentation](#final-sprint---presentation)
+  - [Final Sprint - Prototype](#final-sprint---prototype)
 - [Open Studio Poster](#open-studio-poster)
 - [Awards](#awards)
 - [GitHub Repo](#github-repo)
@@ -106,7 +121,7 @@ Introducing "Most-Discussed" on the New York Times app. Here, you can see articl
 
 Currently the majority of New York Times commenters are older white men. But that group is just a small slice of the larger population, which means that many readers—people who have valuable experiences and expertise to share—are shut out of the conversation.
 
-As a solution, we want to invite commenters from all backgrounds in, as a way of expanding and enriching the New York Times’s user-generated content. By celebrating different voices, we believe we can create value for both the New York Times and its readers.
+As a solution, we want to invite commenters from all backgrounds in, as a way of expanding and enriching the New York Times's user-generated content. By celebrating different voices, we believe we can create value for both the New York Times and its readers.
 
 #### Journey
 
@@ -114,21 +129,21 @@ We arrived at our current product after a few wrong turns. After the last sprint
 
 #### User Research
 
-So we conducted some user interviews with _Times_ readers and we learned that people are demotivated from commenting when they don’t think they have anything informative to contribute; when they don’t think their comments will be seen or valued; and when they don’t care about the issue.
+So we conducted some user interviews with _Times_ readers and we learned that people are demotivated from commenting when they don't think they have anything informative to contribute; when they don't think their comments will be seen or valued; and when they don't care about the issue.
 
 #### Working Demo
 
-Meet Chumeng, an Asian-American woman (Chumeng is actually Chinese, but for the sake of our user story, we’re saying she’s Asian-American). She’s reading an article about how more Asian Americans are becoming Democrats. Looking at the current layout of the comments section, there’s no space carved out for her opinion. She doesn’t trust that her opinion will be valued here, and she doesn’t immediately have an idea about what information she could share.
+Meet Chumeng, an Asian-American woman (Chumeng is actually Chinese, but for the sake of our user story, we're saying she's Asian-American). She's reading an article about how more Asian Americans are becoming Democrats. Looking at the current layout of the comments section, there's no space carved out for her opinion. She doesn't trust that her opinion will be valued here, and she doesn't immediately have an idea about what information she could share.
 
-With the new Q+A feature, the story is different. Now Chumeng’s opinion is being solicited directly with a question related to her background. She is being prompted to share something specific, so she thinks, Aha! I have something to add here. And she can see the opinions of other Asian-Americans on display, so she knows it’s an environment that will support her opinion. And because the question is tagged "Asian American," she can see how her background makes her especially qualified to make a comment.
+With the new Q+A feature, the story is different. Now Chumeng's opinion is being solicited directly with a question related to her background. She is being prompted to share something specific, so she thinks, Aha! I have something to add here. And she can see the opinions of other Asian-Americans on display, so she knows it's an environment that will support her opinion. And because the question is tagged "Asian American," she can see how her background makes her especially qualified to make a comment.
 
 #### Validation Findings
 
-To validate our product, we built wireframes for targeted A/B testing. Of the people we tested, 90% said they were more likely to read the comments with our interface, 80% said they were more likely to comment, and 100% said they were more likely to do one or the other. We also saw a lot of smiles and got a lot of unsolicited positive feedback. And from our alumni crit, we got feedback that ranged from "There’s really something here" to concerns about our feature inviting trolls in as well.
+To validate our product, we built wireframes for targeted A/B testing. Of the people we tested, 90% said they were more likely to read the comments with our interface, 80% said they were more likely to comment, and 100% said they were more likely to do one or the other. We also saw a lot of smiles and got a lot of unsolicited positive feedback. And from our alumni crit, we got feedback that ranged from "There's really something here" to concerns about our feature inviting trolls in as well.
 
 #### Architecture Evolution
 
-There are two major parts to our system. One is the editor’s view and one is the reader’s view. The editors input the article into the New York Times content management system, and through IBM Watson’s Alchemy API, we can extract key concepts and entities from the article, and use these to generate targeted questions. The editors then formulate the appropriate questions, and these appear on the New York Times commenting platform.
+There are two major parts to our system. One is the editor's view and one is the reader's view. The editors input the article into the New York Times content management system, and through IBM Watson's Alchemy API, we can extract key concepts and entities from the article, and use these to generate targeted questions. The editors then formulate the appropriate questions, and these appear on the New York Times commenting platform.
 
 ### Sprint 2 - Presentation
 
@@ -144,19 +159,19 @@ https://speakerdeck.com/fvcproductions/sprint-3-product-studio
 
 ### Sprint 3 - Narrative
 
-Hi, we’re the New York Times (Community) Team, Delia, Chumeng, and Frances.
+Hi, we're the New York Times (Community) Team, Delia, Chumeng, and Frances.
 
 Our challenge was How might we create a safe place for people of all backgrounds to discuss important local, national, and global issues?
 
-The people who comment on the New York Times platform are fairly homogeneous: they tend to be older, they tend to be white, and they’re more likely to be men. As a result, Times readers are missing out on different perspectives, and the Times is missing out on an opportunity to grow its commenter base and build a stronger relationship with its audience.
+The people who comment on the New York Times platform are fairly homogeneous: they tend to be older, they tend to be white, and they're more likely to be men. As a result, Times readers are missing out on different perspectives, and the Times is missing out on an opportunity to grow its commenter base and build a stronger relationship with its audience.
 
 So we thought, how can the comments section do a better job of inviting people of all backgrounds in? Through our user research, we found that people are more motivated to comment when they feel they have specific knowledge to share because of their experiences—and people get more value out of reading comments that are informative.
 
 #### Coded Out Solution
 
-Let’s walk you through our coded out solution. Meet Ana. She doesn’t subscribe to the Times, and she has never commented.
+Let's walk you through our coded out solution. Meet Ana. She doesn't subscribe to the Times, and she has never commented.
 
-One day, a friend shares an article on Facebook. She clicks through to read it, and she sees a pop-up. When she clicks the pop-up, she’s shown a question that resonates with her. Based on Ana’s reading history on the Times, our system has made a guess that she is Latina, and made the default question and comment view one that pertains to her background. She can click through to see the other questions, and she can switch tabs to view comments from people of other backgrounds, including children of immigrants and language experts.
+One day, a friend shares an article on Facebook. She clicks through to read it, and she sees a pop-up. When she clicks the pop-up, she's shown a question that resonates with her. Based on Ana's reading history on the Times, our system has made a guess that she is Latina, and made the default question and comment view one that pertains to her background. She can click through to see the other questions, and she can switch tabs to view comments from people of other backgrounds, including children of immigrants and language experts.
 
 She stays on the site longer than usual, reading through the responses and looking at the data visualization about the comments. Thanks to the question prompt, she can see that she has valuable information to contribute. So she composes and posts her comment. This makes the commenter base more diverse, and we can keep Ana coming back to read and comment by sending her email digests about other relevant questions and comments.
 
@@ -182,7 +197,7 @@ Since a commenter self-identifies as belonging to one or more groups, we are abl
 
 #### Product Development
 
-In terms of product development, we focused more on fleshing out the front-end since we feel that’s where our product value lies and with the back end, we got as far as being able to extract smart entities from article text.
+In terms of product development, we focused more on fleshing out the front-end since we feel that's where our product value lies and with the back end, we got as far as being able to extract smart entities from article text.
 
 #### Business Objective
 
@@ -196,7 +211,7 @@ We recommend taking the feature to market via pop-ups on the site, a feature exp
 
 We floated a lot of ideas before settling on Q&A, and we pivoted after doing user research with Times readers. So we definitely learned to know our users first. Also, we saw that active engagement is really important to the future of news, and traditional media outlets like the Times recognize this and are adapting.
 
-#### What’s Next
+#### What's Next
 
 Lastly, to hand off our product, we plan to provide all of our assets to the NYT team. Thank you.
 
@@ -234,12 +249,12 @@ At the end of the semester, each team was also tasked to create a poster for the
 
 ## Awards
 
-- **Artful Artifacts**
-  - November 22nd, 2016
-  - "We've pulled these for the class to see great examples of teams or individuals that have produced meaningful artifacts that not only showcase an interesting way of representing their solution, but also act as useful milestones that can be referenced to in the future of the product development process."
-- **Best Final Sprint Presentation in Grizzly Room**
-  - December 9th, 2016
-  - Recognized as having one of the best team presentations during the final sprint in the Product Studio class at Cornell Tech out of 10+ teams inside the Grizzly presentation room.
+-   **Artful Artifacts**
+    -   November 22nd, 2016
+    -   "We've pulled these for the class to see great examples of teams or individuals that have produced meaningful artifacts that not only showcase an interesting way of representing their solution, but also act as useful milestones that can be referenced to in the future of the product development process."
+-   **Best Final Sprint Presentation in Grizzly Room**
+    -   December 9th, 2016
+    -   Recognized as having one of the best team presentations during the final sprint in the Product Studio class at Cornell Tech out of 10+ teams inside the Grizzly presentation room.
 
 ## GitHub Repo
 
@@ -248,18 +263,18 @@ At the end of the semester, each team was also tasked to create a poster for the
 
 ## Tools
 
-- InVision
-- Keynote
-- Quip
-- Sketch 3
-- - Keynote
-- Quip
-- GitHub Hosting
-- HTML/CSS/JS
+-   InVision
+-   Keynote
+-   Quip
+-   Sketch 3
+-   -   Keynote
+-   Quip
+-   GitHub Hosting
+-   HTML/CSS/JS
 
 ## Team
 
-- Israel Burns
-- Delia Casa
-- Frances Coronel
-- Chumeng Xu
+-   Israel Burns
+-   Delia Casa
+-   Frances Coronel
+-   Chumeng Xu

@@ -28,7 +28,7 @@ Might have something to do with human nature in general, though, so interpret it
 <span class="font-size--3x">👩🏽‍💻️</span>
 
 - Front End Engineer at Slack HQ in SF with a focus on UI design & development 🖌️🔧️
-- Latina (Peruvian-American) 🇵🇪️ who gets a lot of personal satisfaction out of inspiring underserved groups within the tech industry 😊
+- Latina (2nd gen. Peruvian-American) 🇵🇪️ who gets a lot of personal satisfaction out of inspiring underserved groups within the tech industry 😊
 - Passionate mentor, freelancer & speaker 💬️
 
 ### Random Fun Facts 🦄

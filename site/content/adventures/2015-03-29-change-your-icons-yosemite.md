@@ -1,10 +1,10 @@
 ---
-title: 'Change Your Icons on Yosemite with Scripting 🔧'
+title: "Change Your Icons on Yosemite with Scripting 🔧"
 date: 2015-03-29
 description: I got tired of Yosemite's icons and decided to take some initiative without the usual dependency on an app. It took about 2 days for me to perfect this strategy and now it's time to make your process a lot easier than mine.
 aliases:
   - /2015/03/29/change-your-icons-yosemite/
-image: https://lh3.googleusercontent.com/ldHejjQ9ADTjtsFLH_G1tBJgfRUcQUJhjqdTLUf7f0SmlYJOgU0c85OybzJD0lh9nxey0EfE9Y7noc3hb0guHpMGH_ykjN0PxNq1gDBxNn6l1G0N_4GqoRocqN9NTSxxf_vLCCA3mJ7VXnutFgz48Sp1jGbA35UVsNc4DVgUc0OEHXC1COla5sUKv0RPQ88M1Ox5kc_avsxa7wcccxlI37Us7n_DsB-PEUnoz3S88YGdeBMXstND0GTvzAoWkmiixjNP-LJr11ktHqIat4eMadZhPY7nU1mriLPMfxH1-d1DzoFPFAfkJFnKeVt1ra9ZXS20Ba5ZQNuYSp2DPHzCHjV8RxEChBnNUFE_rjnbQzNvWxXT0w1yYLQiHHBNAJhTx1OimBUNhSxzJyYRLCeRXkjdyVc_qYe5f2slFrZ1F8iRHJLBpD7IQNCYsa0hOF3ayU_a6lFEiUNKIpkcNM3fRiFz6XNDf0O2I-Cn8gJQTihIMT_qsUn-8Wq0Y0-qmdqijmRUYmpwMJchO41AQXuWP84QRAqj_5a63n0QIpwWz5wDqy09_mqmGpG3W-9Ll9FZB17oRBhl4C8dl4XuhuveijEYsHUfEwQw7k5JYCdREopAnyBalHquLFdnBbmghsf1=w528-h220-no
+image: https://i.imgur.com/7lkPqpY.png
 categories:
   - blog
 ---
@@ -21,7 +21,7 @@ categories:
 
 So maybe you got tired of Yosemite's icons. That's cool.
 
-Even without apps like the once legendary [`CandyBar`](https://www.panic.com/blog/candybar-mountain-lion-and-beyond/ 'CandyBar') or [`LiteIcon`](https://www.freemacsoft.net/liteicon/ 'LiteIcon'), you can still change all your icons. No more dependencies!
+Even without apps like the once legendary [`CandyBar`](https://www.panic.com/blog/candybar-mountain-lion-and-beyond/ "CandyBar") or [`LiteIcon`](https://www.freemacsoft.net/liteicon/ "LiteIcon"), you can still change all your icons. No more dependencies!
 
 I got tired of Yosemite's icons and decided to take some initiative without the usual dependency on an app. It took about 2 days for me to perfect this strategy and now it's time to make your process a lot easier than mine.
 
@@ -33,7 +33,7 @@ I got tired of Yosemite's icons and decided to take some initiative without the 
 
 # Step 1 - Get Your Icons
 
-[DeviantArt](https://www.deviantart.com 'DeviantArt') is my go-to place for icons sets, but you can also try [IconArchive](https://www.iconarchive.com/ 'IconArchive') for a broader range of options.
+[DeviantArt](https://www.deviantart.com "DeviantArt") is my go-to place for icons sets, but you can also try [IconArchive](https://www.iconarchive.com/ "IconArchive") for a broader range of options.
 
 If you like the app icons I show in these pictures, then you're welcome to download them from my Dropbox.
 
@@ -41,16 +41,16 @@ If you like the app icons I show in these pictures, then you're welcome to downl
 
 ![Bubble Icons - Utility](https://lh3.googleusercontent.com/pCtmh4zJuZAa0JyL53JuicE-3aIacDVTaG1XT65sgHUdsjznD84tTc4kPx4M2Qh-_lTznRvoY5qBQLqLyuZ9-Kz-vvz4z1O1gZcnC1PkGzOT2y4UgrmEq2syzMr4Yz1N0zKQ7GQJ19GaEITHEx21W4EzWZpkoNEXSdGFuirF2YVixb1Yxuk9dxiJshWI0TsgDVryDOc54ygtH66ikkL-HnUeR1rAwa1vOqx7Jn_QTAaSisGD0EMoWCzVNSegiRP1g3SmAr2aiLfTDRsAcyvE0NxnUtfz34h0zdVRoA1tDQ1MBWbVQT2CsoB1wVNWYEmu37SGQktQrLTeOlS2Z1lOeiNwuq18hNFkZtK7J6MZTDDCjmWp5XF5rqd-PJnRIx7dlkc9_d4BWYXWcMI2xsuWw6ZkTkS6k3Iap64s_qycslKab6TnVH5wrb-_Di0WuJiqujp3tNc60kGNTS7lZEthMbPVoCMrf60c7FIIPYMl86-Ga62e2N9w5LMIqlgpkmSvE4XOce7jpESPOeqpjTY5iKeuGxv_IbYFo70QgMsd83gP4_Haz8yxAjzpznoZSG0MKgz6CZnlmTAFPJmaoAqvxuHlsX1h2ozl8LCHy6IpomvBnTxq5atjfL06ApM8Loj3=w352-h220-no)
 
-## [Here is a `ZIP` file of the icons and commands used in this tutorial.](https://github.com/fvcproductions/customize-icons 'Icons')
+## [Here is a `ZIP` file of the icons and commands used in this tutorial.](https://github.com/fvcproductions/customize-icons "Icons")
 
 _A special thanks to these guys for the amazing circular icons that I use in this how-to._
 
-- [Sebastian de With](https://dewith.com/ 'deWith')
-- [All the contributors to `Yoios` on GitHub](https://github.com/mmarfil/yoios 'Yoios')
+- [Sebastian de With](https://dewith.com/ "deWith")
+- [All the contributors to `Yoios` on GitHub](https://github.com/mmarfil/yoios "Yoios")
 
 # Step 2 - Get The Command
 
-I include this command file in the [`ZIP` file](https://github.com/fvcproductions/customize-icons 'Icons') mentioned in **Step 1**, but for reference, here is the code for the `ChangeIcons.command`.
+I include this command file in the [`ZIP` file](https://github.com/fvcproductions/customize-icons "Icons") mentioned in **Step 1**, but for reference, here is the code for the `ChangeIcons.command`.
 
 ```ruby
 #!/usr/bin/env ruby
@@ -84,7 +84,7 @@ Now here comes the tricky part. This command relies on a `JSON` file that is nam
 
 ![All The Icons Screenshot - 2](https://lh3.googleusercontent.com/dGSFh4eNr-l9hl_YMq7lOOW8QFySHE3rkVW8weQzw9HIJY8u_tMkYw5PBwPOddx2PyFpt3E8n4gGWRdNJCFkQ_SACW3aHhzzzMY882OCYIzbDLxYlZCjtSYxGUbdoqQmBJly64bluI9dGnbt0y59MR5bZ_kZlRYaEqePaPm1_SFVkDFpswTuLfutXlIAzXIzppCUDDzmn5rMjw0DoUYODXwUDnqQ0mQqRVzpa3q1kqnO-gxa3BWiziMlGu4Z_x5KuAuOwA-fVrsrhZXtB7-_9NXl8FXg5yZr6P4Yg8aWpyazvR4orT41_4umdGUDxHDr2RCQG8x6jAr8hQPrWpesAp-uOmw5DA_G_h1Rl04fvnORH1IlAkLwK5AKcPGdcHxzPLsvQfizmD9jsxH7mk0HwsEQAs8c603Zz8ENwnFGgHFCXmDUuKGL2QrDgJEwd9sEHBuPY-z6RHE1Uc08askghUezvIqwPozI8Uu44qIgjP--mXi0DQu0t43JcUD5coufUlkF4iBT1tmzA-9YANNw30UJkkiaCbON1itIFQCSn64FNuIhqsBjCkiijTy00P96VhHkox-1RbF11gf8kHg3WLZ7mJeKqPm8p7jERVso4UW0reHBXs2f1ETwHjkyqDac=w413-h163-no)
 
-These files are both included in a folder called `set_icon` in the [`ZIP` file](https://github.com/fvcproductions/customize-icons 'Icons') provided in **Step 1**.
+These files are both included in a folder called `set_icon` in the [`ZIP` file](https://github.com/fvcproductions/customize-icons "Icons") provided in **Step 1**.
 
 The `icon-data.json` file looks something like this:
 
@@ -116,9 +116,9 @@ After that, type in `killall Finder` into Terminal for the command to restart th
 
 ![Show Hidden Files Command in Terminal](https://lh3.googleusercontent.com/K8a7c1Xffn1B2FpOO--jdLtzWm2YQgePclyCQXnO1PhW1wwWpIF6J0l3ES8wtmU8IP3CVmrJ9uEVjc_nJHsiHPyd5Yl3TFTjokPMIR5Q84tg9U2p3D4BnmbcFJNBWYfyI3erglQPQUCGi9KKhRFcZHNRK_3HjQXdYSw5ggf0lO3FEtDmau0D8AWoncS23dDyLUpuKYWoDWNfZBKAufs1RowFemmp-ItWzbXCGXPcJRKkaK7_GDz3TQtuGbG-pXlJnNVHQNcAIdzdjMCpvBK6KHudwapI5HM1jlvebeqTA4GYYb-rK6rwQcxIi-4fs7CWY1WE9fA90hycTtT8Eh8oIrA2kt_bHGxQiQo7bGw6WUFuxFqRAbMxz8bk8Pql5sVDVGKY-B_CnFuQX08GOy63s4iKQWm1m0CEb2m2vfA4zkyaksUGiUNyBPvZpZTOYnxXv6OjVKFB9Ai8BphgElFXoPMR5AZfQZOBaRi4CU-KD7CQR0Pm6tgJb25ogOYxYmsY8lUIV5xJYA6BMRx_yuSzC1-f8Vzc8rL2XdcOh1aY29S7ZrhehvGseLiPzDoYKHFfyqj1OnkDDxaM9bWMdTuqqdLqTLtSDtqfFTeYmvs7miHtgiQvcgFQokEA9-4uQADm=w763-h139-no)
 
-Now that you have your Finder revealing all the hidden files - in the folder where you have all your icons properly named, copy and paste the folder `set_icons` from the [`ZIP` file](https://github.com/fvcproductions/customize-icons 'Icons') mentioned in **Step 1**, and rename it to `.set_icons`. Adding a period in front of the folder name makes it hidden and you will therefore not be able to see it anymore.
+Now that you have your Finder revealing all the hidden files - in the folder where you have all your icons properly named, copy and paste the folder `set_icons` from the [`ZIP` file](https://github.com/fvcproductions/customize-icons "Icons") mentioned in **Step 1**, and rename it to `.set_icons`. Adding a period in front of the folder name makes it hidden and you will therefore not be able to see it anymore.
 
-It looks exactly like the `.set_icons` folder already included within the folder called `Utilities` that can be found in the [`ZIP` file](https://github.com/fvcproductions/customize-icons 'Icons').
+It looks exactly like the `.set_icons` folder already included within the folder called `Utilities` that can be found in the [`ZIP` file](https://github.com/fvcproductions/customize-icons "Icons").
 
 ![Utility Sub-Folder](https://lh3.googleusercontent.com/B2FQ2J9N2Pse27HQcc2ZjdBOWRZK9FTBLGgvk3QOemu0hfys1Tp4AiyUosQ1cSq3i5B4LPovp_op4GmvbOpbQglkUdJ5lqIBZ6SIhcUQRuDvMfe1GsOSnfI8BrMICNMGnqkFkvI1VSGRhrh7oWVz9B3-q3AzEyA5NVtPwvic1rgDLFkBi3MqZadv4fOwWPKrR77-iIX63BOIl9PSdSSBOgFRwczcsx-0CQHmmzyFfTY1R0PM7KdMxiWRXajLro2fcztB5OtD14SiT8wWws3yl2XTSdOFA8kRGqM6KhN4tJIECmlUBkIN_EPwO6DKlAtUM33WL_SyE61wvS28AdIw97fNPCdCBlmzXsubxtKtrBJoBhv_O7YT-NTSH9Q7OEsfRw4lV6SGdPj8JeTJQogC6Kkf9xx32TOYqGToDQbyFLLw_U80EFAfeqT7xH0vHRgKtcyDpponUhn0ojZAByTzkMhz2Ok9wS-KCAfUbGOTjrxRxu4rFfjwfezZeY_RTjp0zSaoITKDLd077I-RcBjOWl38uX9AMH9GowQrrl61b5y2ZEvLdWickAqnFmn7Y6Pv3UgT-SH9norHhLfVpQnHZ-fse43tPKcuSN-CiRMuM8NwPXdFGL97XuYfvHhQbEBZ=w421-h605-no)
 
@@ -126,7 +126,7 @@ So if you want to change your Utility icons as well, the `.set_icons` folder loc
 
 > The only difference between the `ChangeIcons.command` within the `All The Icons` folder and the `ChangeUtilityIcons.command located within the`Utilities folder`is that on Line 36, the app path is listed as`app_path = "/Applications/Utilities/\#{key}"\`.
 
-_A special thanks to [James Moore](https://twitter.com/foozmeat 'James Moore'), who created the `ChangeIcons.command` to replace all the icons and Damien Bobillot who created the `setfileicon` UNIX Executable File._
+_A special thanks to [James Moore](https://twitter.com/foozmeat "James Moore"), who created the `ChangeIcons.command` to replace all the icons and Damien Bobillot who created the `setfileicon` UNIX Executable File._
 
 # Step 3 - Execute Command
 
@@ -134,7 +134,7 @@ _A special thanks to [James Moore](https://twitter.com/foozmeat 'James Moore'), 
 
 Now you probably have something like the following:
 
-- a folder called `All The Icons` with - all the icons you want to replace your old ones (in `icns` format) - the `ChangeIcons.command` that was included in this [`ZIP` file](https://github.com/fvcproductions/customize-icons 'Icons') - a _hidden_ sub-folder called `.set_icons` with - a modified `icon-data.json` file to include your own personal apps - the `setfileicon` UNIX executable file
+- a folder called `All The Icons` with - all the icons you want to replace your old ones (in `icns` format) - the `ChangeIcons.command` that was included in this [`ZIP` file](https://github.com/fvcproductions/customize-icons "Icons") - a _hidden_ sub-folder called `.set_icons` with - a modified `icon-data.json` file to include your own personal apps - the `setfileicon` UNIX executable file
 
 At this point, if you've done everything right, you can "hide" your hidden files again in your Finder by executing the command `defaults write com.apple.finder AppleShowAllFiles NO` in `Terminal`. Make sure to execute `killall Finder` as well so that your Finder restarts and shows the changes.
 

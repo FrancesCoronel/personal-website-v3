@@ -1,8 +1,8 @@
 ---
-title: 'AAAI 2015 Winter Conference - A Month Left'
+title: "AAAI 2015 Winter Conference - A Month Left"
 date: 2014-12-29
-description: 'One month left till the AAAI 2015 Conference.'
-image: https://lh3.googleusercontent.com/ASQoCxHMYS2KmTSKvAOVh2X3gX-Ww16OhlcfG2AfvJJc1Agglq07g3t_Q6RwoPy3A3VfA9Ysq6pE996AthCbbqSu8kHf45ZsRXUD3NRD95NRQMjd9Vc0FeQWqEobD0q4VNt-azf0NlVk38u44t2R3dZZJMmQHyhk1DohW3Lyl_f72Z2EMoHw0EN8GhK0JEj8xii1La12CBcEYlTliCHEl_12Y2rSbZHIr_DSFRsNQxMZfyE0wC-lO9BjsBAmuD_M8M9ZXKM3xiFiOL9816x_pXpp0EGHGTr4xK4ZcEna5aRA500Bs2Tj67kciF803q0KoaPzpTCeLgo_t1WbrkawTKULFi7fk83_N-ChCrYuIuGRyc4dwxi89FDqj1rDDhryvF9NEdXwOlPLuykquqmuBue_U6Yx-azLM8cJYxVzciasLC0-7jf5BtFHB_pCpeJ27m8-6vBWToVltPwfEw6E4KrYIE1YYlVzrVz1sDOIuLp8wYj0Px4QxuhmBT-iOl0Q4yPf0x-N8qicQrpx-PB17T8XRFh9RvR6XkejBKAOzrOLJ_wDtoeZGm0jieu_ytTafbdBS6i27RTcghFU68wgbKjFJG5i4f7fDmy3tDCm14JAFTq3QH0m9CkdbRBAdC3c=w615-h220-no
+description: "One month left till the AAAI 2015 Conference."
+image: https://i.imgur.com/TDFh3D5.jpg
 aliases:
   - /2014/12/29/aaai-2015-month-left/
 categories:
@@ -15,7 +15,7 @@ It's happening.
 
 ![Bender Dance](https://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif)](https://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif) do the Bender dance...
 
-I'll be acting as a volunteer for [the conference](https://www.aaai.org/Conferences/AAAI/aaai15.php 'AAAI 2015 Winter Conference') (it's the first winter conference, too, apparently) and was therefore lucky enough to get a \$200 scholarship and a complimentary registration (\$450, in my case) to attend.
+I'll be acting as a volunteer for [the conference](https://www.aaai.org/Conferences/AAAI/aaai15.php "AAAI 2015 Winter Conference") (it's the first winter conference, too, apparently) and was therefore lucky enough to get a \$200 scholarship and a complimentary registration (\$450, in my case) to attend.
 
 \$200 is very little to cover travel and hotel costs, but seeing as I have no serious research experience in the field yet, I'd say I'm still fine with it. Especially considering these registration costs for a student AAAI member like myself...
 
@@ -35,7 +35,7 @@ Hotel costs, even with the special conference rate, will be \~\$1087 out of my p
 
 I'll take the very back window seat please, thanks.
 
-Thankfully, with a scholarship I got from the [VSGC](https://vsgc.odu.edu 'VSGC @ ODU'), I'll be able to pay off the majority of these conference fees. **Whew.** In the end, I'll be shelling out only \$300 for it all, which isn't terrible. Glad I'm selling so much crap on eBay, I'll tell you that.
+Thankfully, with a scholarship I got from the [VSGC](https://vsgc.odu.edu "VSGC @ ODU"), I'll be able to pay off the majority of these conference fees. **Whew.** In the end, I'll be shelling out only \$300 for it all, which isn't terrible. Glad I'm selling so much crap on eBay, I'll tell you that.
 
 I will say though that I don't feel I really have a lot of information yet in terms of scheduling.
 

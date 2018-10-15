@@ -1,14 +1,14 @@
 ---
 title: Accenture Liquid Studio - Summer 2016
 description: AR/VR Software Engineering Intern
-date: 2016-06-01 00:00:00 +0000
-image: https://lh3.googleusercontent.com/eL2zwkg_6RRwe04ohFquEiY9AW1zNIt-xDCpga8AtjJMUAGcTwGS8Vq2nGuyudu8lBKpvA45Ug6mKrh5Y_zGO5PN0Aku9yBscyyfacZhMo1_wp6YiNxkdZiGR7tg_Ipqh-PbXGOmt8_7TNMm0BGQhermoExd9IRLQhM9TbwliAhv_qPu6DwNwAxfruqdmrWXWTRbJL0FumtqoG6v246WNgohXJ1oSNxpSXmKuVmF70as80riDpRFey1x9YLEKftYcdUHAf7VUVS2pWY2LuJKAjbqrrBtbyN1IOv82z_Y9pTha3GYrd6mslJvwkvXS0waV7WQ0lhA4KYqIZK8HLVQSN53-vKdgtYkMzOpD7BoPx-ecQ4ZxTE_tJYo3bM-CCx59g_g8CbsECXOUF3eEyIPl7yaQzOCmBt_hJMMNeKjrIGLKx7jiQCPqVXSIDmO4IH-f9z7bLbMb0XxC6YqE-KMwoVCajTF-HPbEHYBCV1vxMk0LPgmB6z1Q3PI0hRoUKPD_-lD3_wAr3qQoKKThg3Uu6iy6hN43EIxsLHHJ9EUTn26_gcOqta7_K6ASTuNwnwA97h6ctNTa9TRgpg6gMf7eNYNa8PfLXaAVnEQ2QNpYebaa4xGLodNTGRvWeYGLXrl=w1293-h969-no
+date: 2016-06-01
+image: https://i.imgur.com/p8Sdocu.jpg
 aliases:
-- "/home/adventures/experience/accenture-liquid-studio/"
+  - "/home/adventures/experience/accenture-liquid-studio/"
 categories:
-- experience
-
+  - experience
 ---
+
 ## Employer
 
 [Accenture Liquid Studio](https://accenture.com/us-en/capability-rapid-application-development-studio)
@@ -33,11 +33,11 @@ I interned as a wearables developer for Accenture's Liquid Studio in Redwood Cit
 
 ### AR/VR Software Engineering Intern on Wearables Team
 
-- Aided in managing the wearables hardware and client demos  
-- Designed, developed, & tested various AR/VR apps using Unity for enterprise clients  
-- Developed Bash scripts to automate APK installations and testing on wearable devices  
-- Improved technical skills in Unity, C#, JavaScript, Sketch, Xcode, and Safari for Developers  
-- Developed a mobile-first website using Handlebars that showcases device inventory  
+- Aided in managing the wearables hardware and client demos
+- Designed, developed, & tested various AR/VR apps using Unity for enterprise clients
+- Developed Bash scripts to automate APK installations and testing on wearable devices
+- Improved technical skills in Unity, C#, JavaScript, Sketch, Xcode, and Safari for Developers
+- Developed a mobile-first website using Handlebars that showcases device inventory
 - Gained a familiarity with a wide range of wearable devices targeted for enterprise clients including but not limited to HoloLens, Google Glass, Google Tango, Apple Watch, Vuzix, Epson, Moto 360, and Samsung Gea
 
 <blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/my-accenture-internship">My Accenture Internship</a></h4><p>An overview of my internship with Accenture. Accenture Liquid Studio Redwood City, CA Wearables Team Summer 2016</p></blockquote>

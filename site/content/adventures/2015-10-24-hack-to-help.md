@@ -2,7 +2,7 @@
 title: Hack to Help Hampton Roads
 description: Our team created Hack the Vote at Hack to Help HR at Dominion Enterprises.
 date: 2015-10-24
-image: https://lh3.googleusercontent.com/1c1AIwWnEcBUWsKOpPiFiHRLWKEbYg0X8ASdF3z6xr3DVZfCfJkS8srwagxLXU5-eZjOQHh2PKRwpP0fxgamdHae1g1ngc5ntaAVc292cRqZthuHWyeD7gAbdgae8KRoT1NPac-HElvdR_7ccSjSiKmFggLSOK1zA0jOePmsBy-09JmMVKRUf_w_D9DutfhUN5aEa-gpvXkDFu4bmnztZ5UaV2m6Z62ThRG2AEPzS_0qM5xyIrFSWEBQdfX8N0t7Cf9ukMqxwpWO0q0dTt3jKL3Bbs24GfdnBARIr8ulh-7ciErvwYIIaxw2xgWdGJwq6rm81wOp-QxOi97_5BZF8eK-RcG7lhGzNRJ4ZUYpBcNpuDVupFaiYcBa6hRf1Ya3Cr0f_-YZvFrZPH3IcCpkNBa4EuHbgx6GXWs0Y7oHPJsfyx4XqyNGfCQJLU0b6KLODDPtnPePgWc0VBnTlOD2FUJgq7jjXqb2XAAY92xjL2B761LuBmvfGFr4A-GvoRssiTFnoC1_9EfGUwyiFtRgcutBx1eQsrCMbpiAlpmU72RnxCa1BcLcK72u9rjB6QLox5mydU9d_4rpzbgDJjykdPdD8ejBUByQvcoN-FDS4G30_hxJIGs3mOZgQIcPNGC1=w1024-h576-no
+image: https://i.imgur.com/JTWR1y1.jpg
 aliases:
   - home/adventures/hackathons/hack-to-help-hampton-roads-october-2015/
 categories:
@@ -11,7 +11,7 @@ categories:
 
 ## Name
 
-[**Hack to Help Hampton Roads**](https://hackathon.dominionenterprises.com/ 'DE')
+[**Hack to Help Hampton Roads**](https://hackathon.dominionenterprises.com/ "DE")
 
 ## Organizer
 

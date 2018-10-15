@@ -1,8 +1,8 @@
 ---
 title: Job Interview - Tips and Tricks
 date: 2014-10-17
-description: Expressing my gratitude.
-image: https://lh3.googleusercontent.com/JPBXvXNdP6GtwWWL6F8LHacG1YdagKAgjGkY76NrctdKMlwn1A8siRtknGSeETISVwph2hIOXppeV4N0PlUd-W-RLsSOvx5SZ1zZ0ZGwbicIWmP0Nx7KeOV-uRdydZZyJcjVvodqkJQe2b7DgRQVOGoo0JBcBUbYfLQmZprlVYtae_ybRxxDjeXWdg6WV3Z2gArJXK7ZBUk05Z_r1wvlJDvYNcKIGxMJfBCyhxmQASXJcQEpZQK0zeDKt2niW-OtnRv1JWcIxoamQumLgW3l4a1buSuZ8iAvsBvVuFHREh8SjlIGEv6yDeKEo-DZkH0_Gxjt_aqNl8Tp7lw8LZ-fz0jSsCq22fI4XlpzUSsb9cIJH0fslBQfqlw-Df0HOvVQTA5vP3j-gsjJ4HAaNESW9SC9NS8BZGjPB_6aw98wus73-m28j9uGf7B8mSaAcyFmzUiy4ri0LSEzUxfgcMXFjQVaNJ3V5ykVLL5BDEHAZJTweyaRCBx2ek4tO_kez3qScVegB1Ni0Vp1iLdH2FyhrMJ8PWBgNDAi0lrkcQXsECneJbz4XHVsrJ9Wa4C6f2L7R0K6aL1FJiLI3KXYLvvm_hmr1uZH4nQ0oWUhZZHgcK7eJandvtVgkNzoHWmcd9C4=s800
+description: So I decided to compile a bunch of fun interview topics of interest and questions. This article is limited to what I know from my job interviews.
+image: https://i.imgur.com/LOC4piZ.jpg
 aliases:
   - /2014/10/17/ti-89-tricks-for-calculus/
   - /blog/2014/10/17/ti-89-tricks-for-calculus/

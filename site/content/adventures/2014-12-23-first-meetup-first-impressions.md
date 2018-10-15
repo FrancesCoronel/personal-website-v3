@@ -1,8 +1,8 @@
 ---
-title: 'First Meetup, First Impressions'
+title: "First Meetup, First Impressions"
 date: 2014-12-23
-description: 'Meeting new people always prove to be an interesting experience.'
-image: https://lh3.googleusercontent.com/0wwZfbRgAct9Lh-8d8u4eVGQQvp4l3C4-M3806ZIu__rMVUb1qkmx6ckGWMfhPzJbJ8LEf5tisIEgTa6HaNSmcqaHW0uOSaRkyueUxfCRkebNijI1-FR_4P-D4-hLkuyrnb71mVX7MKLGusmbnwNQAcf449lZrk3b9WTdjAk-U5J9Y4DwYmf4EmDeiR4OclWcTtb9OctsOj_oSWPyN4Ki4AUsxaRIKhP16Uhk9orUnKoKKc9lQKmBJuAMggIo20kaDfPNOuunBUTLBMUilc9gCMMnIUNS30Lg4lFsw0Ex8g7bfuazQ2mOx7E98QLibMjalM9URNXVJlgOegT8uKigQRem6IxQwLyAFwQHUfFnF_8RtS8b8nOImFhR0wyKM4TqK9JJDL-I3pdibZtJWGcHApPo5yGzjZugFWEg9wrxRB2CWHIyfDUdekJJHSj6eqTXhxEKVUxqMtbtty8ZUk7M1Z1gkr4jj_VxfiOF4CX8CP6UK3QMInWRsiE_ow2gOkDSHx06syuz8uUYJ-QOAA6POxBUVNtIgcbnK-qx8rG6C52fJSzC0cohdqJfcpCBtu-frKyziROS9GCHQ3wTZP5RtMtsaAPrX55vC3Smlp-VfM5rg5CPM4aF5hxN9HtyXgm=s220-no
+description: "Meeting new people always prove to be an interesting experience."
+image: https://i.imgur.com/0mWOLc2.png
 aliases:
   - /2014/12/23/first-meetup-first-impressions/
 categories:
@@ -17,7 +17,7 @@ I didn't really know anything about [Travis CI](https://travis-ci.org) going in 
 
 I also got a free book, ["If Hemingway wrote JavaScript"](https://www.nostarch.com/hemingwayjs) (which is pretty amusing so far!), a [new network](https://757dev.org) of local coding peeps, and tons of potential future fun.
 
-Besides NorfolkJS, I also joined [/\\drenaline\_ junkies](https://www.meetup.com/Adrenaline_Junky/), [GDG Hampton Roads](https://www.meetup.com/GDG-Hampton-Roads/), [HR FEN (Hampton Roads Friends, Events and Networking)](https://www.meetup.com/HR-FEN/), [Southeastern Virginia Skeptics](https://www.meetup.com/sevaskeptics/), [Tidewater Atheists Group (TAG)](https://www.meetup.com/Tidewater-Atheists-Group/ 'TAG'), [Tidewater Science and Reason](https://www.meetup.com/Tidewater-Science-and-Reason/), and the [Vegan Dinner Social and Pleasure Club](https://www.meetup.com/Vegan-Dinner-Social-and-Pleasure-Club/).
+Besides NorfolkJS, I also joined [/\\drenaline\_ junkies](https://www.meetup.com/Adrenaline_Junky/), [GDG Hampton Roads](https://www.meetup.com/GDG-Hampton-Roads/), [HR FEN (Hampton Roads Friends, Events and Networking)](https://www.meetup.com/HR-FEN/), [Southeastern Virginia Skeptics](https://www.meetup.com/sevaskeptics/), [Tidewater Atheists Group (TAG)](https://www.meetup.com/Tidewater-Atheists-Group/ "TAG"), [Tidewater Science and Reason](https://www.meetup.com/Tidewater-Science-and-Reason/), and the [Vegan Dinner Social and Pleasure Club](https://www.meetup.com/Vegan-Dinner-Social-and-Pleasure-Club/).
 
 I went to a [planetarium show](https://sci.odu.edu/physics/planetarium/home.html) and was recommended a [really great book](https://www.amazon.com/MAD-COWBOY-Plain-Cattle-Rancher/dp/0684854465) (Mad Cowboy) in other Meetups so far.
 
@@ -25,7 +25,7 @@ TL;DR - Looking forward to the next Meetups for sure!!!
 
 ![Meetup - HR Fen](https://lh3.googleusercontent.com/NVhUjN1mbyi7OHdF2QoHD1bNrq1M1H_rW68BPnZtfTN0ajaADivqf7h0t1JGe1tN3OqXXmaGasKNcYmREUOG6VR_e-uUJnzii72em0SbEwFfvEiBB4YRIK1FyKEG5hv4As_UQIHUHYQQOh-ub4t9JP4YBuCqUw7lHNyVW001WIdR67aZ_F0ByN8B1KhX4VOGcQXtkYr5HsyFIvvY5rl0diSmjp-Mo9MUC5dHy4Nh3YCgwM6aSpN1-nBimgbKtwC-tk60Fst0LlwczYDWvPObu9_sAP2ikZPsZKU9claC6d_lfzWwbi7yFn0EgS2o7fIhLVvjSkPnuMf6jsw1OTDcTCNjmxxfMsLUzgHXMs2M0Vjd20u440WJPsXV8547L_JiDUznPa-9xrMlhxqrBonPYx8ip41I2W0rPkr0pJAUySgB0QDGYfmolXeHbRS7YKk5_5dSLR_pbyfu3L2C-mpIpFrdQyySWscPH2xTUf6Axfozew8CBXlRxzEpofF7Nfz2q4cj5gv9YqYYADTuS1PHln8rWQg4qL1U3m-mi3aNHiqThLTxyKWKV6quW3K1nxcrFH8JbiMNNDeExkf6Ys_ukyJanfueGR50uAWjPEcIqsXwoPesGkVoUKOe8wMjrVxW=w502-h220-no) Meetup - HR Fen
 
-I also ended up going to my first non-tech related meetup soon afterwards with [Hampton Roads Friends, Events, and Networking](https://www.meetup.com/HR-FEN 'Meetup - HR FEN').
+I also ended up going to my first non-tech related meetup soon afterwards with [Hampton Roads Friends, Events, and Networking](https://www.meetup.com/HR-FEN "Meetup - HR FEN").
 
 The official title of [this Meetup](https://www.meetup.com/HR-FEN/events/219360131/) was _Macaroni Grill Restaurant, Town Center - New Member Mixer Dinner._
 

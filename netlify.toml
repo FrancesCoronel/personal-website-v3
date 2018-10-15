@@ -15,3 +15,8 @@
   from = "https://fvcproductions.netlify.com/*"
   to = "/:splat"
   status = 301
+
+[[redirects]]
+  from = "https://podcast.fvcproductions.com/*"
+  to = "/podcast/:splat"
+  status = 301

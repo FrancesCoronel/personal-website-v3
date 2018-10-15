@@ -2,12 +2,12 @@
 title: Finding Coding Bootcamps
 date: 2014-12-23
 description: All the resources for finding a coding bootcamp.
-image: https://lh3.googleusercontent.com/IiSRJ7TwZlVyksHHhFc9kSIGlEmfwnBIS4WaZoM2ORx2xVrovgr1HFJ_YUtk3EVbBthlkQnTDB711BI6UkDY2rya78t6rm9cHgJm4yBietHAK9bYUJEdMTpzHV_g8zPxVX04I7AzzVOZvBbs3ijNJ8f8o8CGWemfn6daUc8HzwiXbukMW-C516X9bxUltxFQf2wwjmjPnFjCbQeJQkDdyUlw9yB7cT9dP_4xR8dQYaqfR5qHR36fXmqbkFQwQ7ArCH8b0mYr93K1Ix6Ecu9mGLIoT8XjtbwSbtKXtnd5PM8t89a9IVbCae3Q9ih7MyUt5KQAXuZWB6u84yMmF_Du69U7WYEaUIzvIavHyT8cC6qHcI-CG-umy_6Rct9VxMcNgveSzJLtMqSMAcJsdIqNY5JFaXMB7RaGG7YhczVqH6F33rnwnH5x6Nlsj7rmtMTC-K1O74oXB05yG5uBv7C5jGUxljofCvbjlS85ORSn85RxyPuPPBbRVYsIW3TK-zp7j_SwEymLuesVkVjH8oMZ1XpwQnbKhZyPNMfW5N965sxTvQZuNIN9o8cWrUMRt5vbVBA4RbFpBKoqwb2qcBgYvmWmU1QzyeETwVJbN6RHGStOUFkJloejrjyhrEAeXUbx=w411-h231-no
+image: https://i.imgur.com/LOC4piZ.jpg
 categories:
   - blog
 ---
 
-### Want a [more comprehensive look at the best sites](https://fvcproductions.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/ 'Magnifying the Bootcamp Research Experience')?
+### Want a [more comprehensive look at the best sites](https://fvcproductions.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/ "Magnifying the Bootcamp Research Experience")?
 
 ### Rating, Researching, Reviewing
 

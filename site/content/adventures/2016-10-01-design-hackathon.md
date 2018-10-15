@@ -36,6 +36,12 @@ I acted as the tech student in my team of 3 which had to compromise of a busines
 
 ## About
 
+The My Social Canvas DesignHackathon will bring together students who are pursuing degrees in fashion, graphic design, technology, and business in an effort to increase awareness, participation, and funding for girls in STEM programs across the country.
+
+- Our team, MEGGS, creates tech-focused cases that offer beautiful and well designed protective solutions for your iPhone 7
+- We believe getting women interested and involved in STEM fields is vital to the industries and creates a well balanced and educated society
+- Through our cases, we want to give young women and girls a tangible way to showcase their passion for interests through fashion accessories
+
 <img href="https://mysocialcanvas.com/designhackathon/" src="https://static1.squarespace.com/static/57752b91c534a5929ff9177d/t/57894c6920099eb5a807d43b/1468615801024/?format=1500w"/>
 
 <img href="https://mysocialcanvas.com/designhackathon/" src="https://static1.squarespace.com/static/57752b91c534a5929ff9177d/t/57d6f14d59cc683d257687ef/1473704279091/?format=1500w"/>

@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: true
 admin_path: site/.forestry
-webhook_url: 
+webhook_url:
 sections:
 - type: directory
   path: site/content
@@ -19,10 +19,4 @@ public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year:/:month:/:day:/:filename:"
-build:
-  preview_command: gulp build
-  publish_command: gulp build
-  publish_env:
-  - HUGO_ENV=production
-  output_directory: dist
 version: 0.31.1

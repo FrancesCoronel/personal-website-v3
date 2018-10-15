@@ -52,7 +52,7 @@ This deck served to aid students ramp up their dev environment while studying at
     - [Alfred 2](#alfred-2)
     - [Image2icon](#image2icon)
     - [QuickCast](#quickcast)
-    - [GitHub’s Student Developer Pack](#githubs-student-developer-pack)
+    - [GitHub's Student Developer Pack](#githubs-student-developer-pack)
     - [LiteIcon](#liteicon)
     - [Sip](#sip)
     - [Noizio](#noizio)
@@ -102,7 +102,7 @@ This deck served to aid students ramp up their dev environment while studying at
 
 ## 1. Making Sublime Sexy
 
-> Let’s start by installing Package Control!
+> Let's start by installing Package Control!
 
 To note.. ST3 > WebStorm > Vim.
 
@@ -122,7 +122,7 @@ Go here: https://packagecontrol.io/installation
 
 #### Installing a Certain Package
 
-Enter To Install The Highlighted Package & You’re Done!
+Enter To Install The Highlighted Package & You're Done!
 
 ### Themes
 
@@ -138,7 +138,7 @@ Make sure to include the code in your **User Settings** file which can be found 
 
 For example, if you installed the Theme ITG Flat, then this is how you would modify your User Settings file to have the dark version of the theme and color scheme.
 
-These instructions will be in the Theme’s documentation on their GitHub repo.
+These instructions will be in the Theme's documentation on their GitHub repo.
 
 ```json
 {
@@ -149,7 +149,7 @@ These instructions will be in the Theme’s documentation on their GitHub repo.
 
 ### Magical Packages
 
-> You’re a wizard now.
+> You're a wizard now.
 
 Also, some of these just work with ST3.
 
@@ -197,7 +197,7 @@ Insight, motivation, and benchmarking for programmers.
 
 Learn from the best of the best.
 
-Seriously, there’s an entire series from the Google Developers YouTube team dedicated to cool plugins.
+Seriously, there's an entire series from the Google Developers YouTube team dedicated to cool plugins.
 
 ## 2. Messing with the Terminal
 
@@ -215,7 +215,7 @@ Make sure to restart your terminal after you add the alias(es).
 
 ### No more sudo.
 
-Type this in your Terminal app so you don’t have to type sudo before every npm install command.
+Type this in your Terminal app so you don't have to type sudo before every npm install command.
 
 `sudo chown -R $(whoami) ~/.npm`
 
@@ -229,7 +229,7 @@ Type this in your Terminal app so you can open files in ST3.
 
 Source
 
-This doesn’t work with ST2.
+This doesn't work with ST2.
 
 ### "Bada\*\*ify" your terminal & shell with oh-my-zsh
 
@@ -258,7 +258,7 @@ Keep your Mac awake.
 
 #### Flux
 
-Makes the color of your computer’s display adapt to the time of day.
+Makes the color of your computer's display adapt to the time of day.
 
 #### Dash
 
@@ -282,7 +282,7 @@ Make. Publish. Share.
 
 Screencasts made easy.
 
-#### GitHub’s Student Developer Pack
+#### GitHub's Student Developer Pack
 
 The best developer tools, free for students.
 
@@ -330,7 +330,7 @@ Organize your Mac menu bar apps. $15
 
 #### CodeRunner
 
-Pretty self-explanatory, but it’s basically repl.it except not online. $14.99
+Pretty self-explanatory, but it's basically repl.it except not online. $14.99
 
 #### Marked 2
 
@@ -362,7 +362,7 @@ Customize the look of your Mac.
 
 Free for 5 days. Then, $5.
 
-To Note: Once El Capitan comes out, you can’t customize your Mac anymore which is kind of a bummer.
+To Note: Once El Capitan comes out, you can't customize your Mac anymore which is kind of a bummer.
 
 #### iStat Menus 5
 
@@ -466,13 +466,13 @@ Check out Hackathon IO for upcoming local hackathons.
 
 ### Become a warrior through CodeCombat
 
-If you’re into gaming, then you can learn JavaScript as you defeat ogres, solve mazes, and level up.
+If you're into gaming, then you can learn JavaScript as you defeat ogres, solve mazes, and level up.
 
 ### Start writing technical posts or just blogging in general.
 
 Reflecting is always nice.
 
-There’s plenty of options out there: Ghost, Tumblr, Wordpress, Jekyll, Medium, etc.
+There's plenty of options out there: Ghost, Tumblr, Wordpress, Jekyll, Medium, etc.
 
 ### Work on side projects
 

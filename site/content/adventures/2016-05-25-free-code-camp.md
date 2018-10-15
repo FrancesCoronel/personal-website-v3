@@ -2,7 +2,7 @@
 title: Free Code Camp
 date: 2016-05-25
 description: Spoke for the official Norfolk Free Code Camp Facebook group!
-image: https://lh3.googleusercontent.com/SxJ00u-n_cbT1SpCTaox65T-aiPfBG6dDrHX8NjDS5EESj6d-JMPRKyONLNb4lJC1fEQhG_Fj0sFocfNdWxs4LhhLgE93T9ozWEdpae90L8E5inOP8DSQEF41dtzfK3wTnkrhW1TQhsjoDe1ZkaP1nDF8sfsc0B2ozoFfibGVqxNhpdl1tYFYCc3Cqfduiz69TqX9SYbcOkc-UcdGug8wuSn6lXVyznw_U7Pe68rv3GHfWV6F8cPK-vWRUFOouf1R8BrGKC6lLBYTUh3JONPmnyAWj-w84dDM4e22FPRjC5Th6I42kClKWDylMZxq9boV30NdWJiOWjRximBI5ipKfv3TiMqK7RM6Vbj81JJchNCg3PYPsms05-GczU_vgiG4lNmU_jR7361yHbRGeshZXzw0SyuN2shqbIwr6VR2z-ke8sXbHbq0S-eEMgDQ9k_7jxj1KKBdUz20-_Gvcql4MDV5aezWsZWdxucvpEM3Ra5MO_Rbiahulug8usmXomFCARu02cnQh6NijHV64DLcO_t0EajDN9uojXa07v8gnxixYOY3Jujm23RgY9Hoj5vNe-qZXGx9NE3cXdBD84oPFlSYfg4tkg=s960-w720-h960-no
+image: https://i.imgur.com/CMstQWa.jpg
 location: 757 Makerspace - Norfolk, VA
 slides: https://speakerdeck.com/fvcproductions/so-you-want-to-be-a-wizard-free-code-camp-norfolk
 categories:

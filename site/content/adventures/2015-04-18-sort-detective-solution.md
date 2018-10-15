@@ -1,8 +1,8 @@
 ---
-title: 'Sort Detective - Solution ☕'
+title: "Sort Detective - Solution ☕"
 date: 2015-04-18
-description: 'Stuck on that homework assignment involving SortDetective.jar? No need to worry!'
-image: https://lh3.googleusercontent.com/5dPfd6KYrqCHfGxJ13NZE8psAo5fJx_U3xRLUB6btQzb57csLifXgabrsiZDCqtpFIhSmcfK-cHfTho8ehJCtk_l-yYTYW9jf0Gi21zV2LuQte0glgQTiyqls4P1dZVqVGbvz9g9SISPkIvcwtZY88OQG5TKgh0frtqZcHluFg4fxyH2eK9JHOqjLwC3UAa2MJu8boEd1KySiT9J5sms2yTTIPi4lDYGWgnZYDPd83eAoBMSb4Wjs1B3hxDjhJiTy7X-20kXUy83KIoUkg6h0OaT3Cp6y6thSwzQ2fCduPY_4PK4uZyhAmrLwBHztxUtQMvRfC01af5p2p-xyfzb2gMiU6bnsRVNgjI265wUPt_cV3P7sAqXxP1Cmo3fmXEfnEz6NXBRY6rLE_kasTovAU_XXzsKsx7eSAtgaoxN7CHEFp20wuL9BUDoBEKqQ-sLEd6kBtrSmSlwF7EmHDriUJxkoq21nFefQgLxe05nYeYNaKsA-vmpC9Z6p1mFr_ueoay__mVsFm4mcWm-hDl5JnpCvTAy_kzNV3OOVbbXraiNwWSopFpQmjLM_DcT4r9pTBcvWz_edGnSY-Ks1Z_kCCPiPMDdvoHQo4MDfOqe9AUF_V_2eSgqCCKY8oxUXwm4=w1140-h500-no
+description: "Stuck on that homework assignment involving SortDetective.jar? No need to worry!"
+image: https://i.imgur.com/aNVfqmh.jpg
 aliases:
   - /2015/04/18/sort-detective-solution/
 categories:
@@ -21,7 +21,7 @@ categories:
 
 ## Step 1 - Download JD-GUI
 
-Head over to the Java Decompiler [page located at `jd.benow.ca`](https://jd.benow.ca/ 'Java Decompiler')) and download the `ZIP` file for the `JD-GUI`.
+Head over to the Java Decompiler [page located at `jd.benow.ca`](https://jd.benow.ca/ "Java Decompiler")) and download the `ZIP` file for the `JD-GUI`.
 
 ![Sort Detective 2](https://lh3.googleusercontent.com/rmpHtmddoL95gbLfiF7jPJDUcn-I3I48hWRsYuFvzIjUn0YNHuAr2JgsyGA_xvilBUX8cg31gbjx25xbDnq-8o4Wb3FII5Fk6y0ieIzGCZ1sNpio254-8QKqRJE3E_oxi0C4iGVKRtJZWR0LxlQ-b6FQmKIPLGPJQiMAWKAb1d81Zd0lj-LROXoVfoCZs-Hakg9K_lz0_p6nRtFlBujamS25qiCrx6UYfJBAtvBpOzqVHaduwWkaEYCr0UA_q3Rk-9AoqA0UpZVGgRScQpmQ8ZNdVVnVgWvI1aCODTXaHkU_Sn-6_xR1K98Aaq0f44LHzgpiGs5Hay7jcs-_f2M95n7KAAHajDimrJ4BFEsxCDhxfIVuQ3A0gDQtYwLljlF91VhhjL5eQK-25wtIfKAgDXu7uySDr3h7JrLq0CbnAz-_mUiZWC_XO-cpODAh521yXGLZ4T5Ua4ZqQcy8SCPlww9UyeomZ_wsBmcXeaVxJU8rZwyKotwFIoib_qplsSvPTNh6RH_lNmzxGJhDzs-HIhuRj_id38aRDMJLS4J0pxTeUfExN69KweQwSi8w40CnpB0YbHCeQOgA47MpISV_TMIufaqIyRpeswBYjMFBVjXxgJd1JU6SGpkD4yZFqmOW=w1323-h725-no)
 

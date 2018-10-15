@@ -66,11 +66,19 @@ module.exports = {
         handler: "staleWhileRevalidate",
       },
       {
+        urlPattern: new RegExp("https://twemoji.maxcdn.com"),
+        handler: "staleWhileRevalidate"
+      },
+      {
+        urlPattern: new RegExp("https://i.imgur.com"),
+        handler: "staleWhileRevalidate"
+      },
+      {
         urlPattern: new RegExp("https://www.google-analytics.com"),
         handler: "staleWhileRevalidate"
       },
       {
-        urlPattern: new RegExp("https://twemoji.maxcdn.com"),
+        urlPattern: new RegExp("https://cdn.onesignal.com"),
         handler: "staleWhileRevalidate"
       }
       ]

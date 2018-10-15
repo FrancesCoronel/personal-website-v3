@@ -5,12 +5,12 @@
       <h2>📝 Latest Posts</h2>
       <p>
         I've written about
-        <a href="/archive/">{{ len $regularPages }} different things</a> so far but here are my 10 most recent posts.
+        <a href="/archive/">{{ len $regularPages }} different things</a> so far but here are some of my most recent posts.
       </p>
       <!-- Table -->
       <table class="table">
         <tbody>
-          {{ range first 10 $regularPages.ByDate.Reverse }}{{ if .Date.Before now }}
+          {{ range first 12 $regularPages.ByDate.Reverse }}{{ if .Date.Before now }}
           <tr>
             <td style="width:20%; padding-left:0;">{{ dateFormat "January 2" .Date }}</td>
             <td>

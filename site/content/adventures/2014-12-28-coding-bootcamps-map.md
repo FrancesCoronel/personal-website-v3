@@ -10,7 +10,7 @@ categories:
   - portfolio
 ---
 
-The world is teeming with coding bootcamps, but I just couldn’t find a more geographically/visually oriented website that showed all the physical coding bootcamps that are available out there.
+The world is teeming with coding bootcamps, but I just couldn't find a more geographically/visually oriented website that showed all the physical coding bootcamps that are available out there.
 
 In comes [**Bootcamp.me**](https://bit.ly/bootcampme 'Bootcamp.me'), a Google map that provides links to in-person coding bootcamps/development schools located worldwide.
 

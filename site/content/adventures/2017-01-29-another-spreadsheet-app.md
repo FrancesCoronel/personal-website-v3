@@ -1,8 +1,8 @@
 ---
-title: 'Another spreadsheet app? 🤔️️'
+title: "Another spreadsheet app? 🤔️️"
 date: 2017-01-29
-description: 'Are there other options out there?'
-image: https://lh3.googleusercontent.com/kFDhPT8p3W0L7unQCvgcKwafTsPEtjhM_gqQcwCGNCYv2e2uTLK33vd3XtL4j_hRV5ujGo5o25syLUSrdcYzfRWY8YrM0oEisvQTSxEtHnTlaEUKVKhF9LRqDFSGaMGHpec9DsyJJP0HkUgGHkA-Q6au6i_jfdZhbRxKgnOqzZ1GK_uHUF-4jJGij6JMLrY26Qq7qeMi23QzlxceAwdwr_8I3Ln4pNWlgW9mBJo-hcoxPCZwCh79qVASEtCDT6vsheCcgfiphqX0J2vYmTPE-r3ZJotebnYx43pvqydZ9q4vLPJ_unMuksbiY9fbUDuI_gxvlqJ5K6_FyV-BIUpZNT8BT7fAvJv_MhcJZFpWzXgJZeWezomJfqoMTYLIuQJffG8woo-kHEivVFO4td90Lh5FlL-x4bjuZ9hfXQFsFVYyTdHtotRmvvMHjfA2h-VZ3MC8FwA6YVNgV6toQUmSFZjpQny8HGkbbSd47bAWz8DUVDWXc36qjB5-ueTUKWgCy0-yNV4cQfMjIT1JnSochUG1lSSs4y2yeVHFykBlt2TY4kTu9SmqIqXCwUpZqXAJKflA__DfIn3sWD2YW3q5P_JOJjXZaMz4ym5LAh2MaPpy5fd8t4G-RhqBq5Y3lDgV=w1200-h630-no
+description: "Are there other options out there?"
+image: https://i.imgur.com/dxtM2ju.png
 aliases:
   - /2017/01/29/another-spreadsheet-app/
 categories:

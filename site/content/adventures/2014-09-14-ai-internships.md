@@ -65,7 +65,7 @@ MIRI exists to ensure that the creation of smarter-than-human intelligence has a
 
 ![NSA](https://pbs.twimg.com/profile_images/727527189525090304/OHr577N-.jpg)
 
-The National Security Agency/Central Security Service (NSA/CSS) is home to America’s codemakers and codebreakers.
+The National Security Agency/Central Security Service (NSA/CSS) is home to America's codemakers and codebreakers.
 
 ### [Numenta](https://www.numenta.com)
 
@@ -105,14 +105,14 @@ Vicarious is building a unified algorithmic architecture to achieve human-level 
 
 ## Other Resources
 
-- [The World’s Coolest Machine Learning Internships](https://bickson.blogspot.com/2012/01/worlds-coolest-machine-learning.html)
+- [The World's Coolest Machine Learning Internships](https://bickson.blogspot.com/2012/01/worlds-coolest-machine-learning.html)
 
   > What the author, Danny Bickson, has to say:
 
   _"I believe that every graduate student should try to do at least two internships in the industry. It is a great experience. Below you can find a list I compiled by aggregating information from some of the companies I am in touch with as a part of our GraphLab project. This list is a academic resource - I am not involved in any of the companies below. I also got some angry comments about some company or another missing - this is a personal list. I will be happy to add more companies providing the are doing some interesting research."_
 
 - [What companies have Data Science Internships? - Quora](https://www.quora.com/What-companies-have-data-science-internships)
-- **There are so many companies out there now!** You just have to look for them. **Or not.** Check out this awesome infographic that [Shivon Zilis](https://twitter.com/shivon 'Shivon Z.') made to showcase the ‘_Machine Intelligence Landscape_’. Brilliant!
+- **There are so many companies out there now!** You just have to look for them. **Or not.** Check out this awesome infographic that [Shivon Zilis](https://twitter.com/shivon 'Shivon Z.') made to showcase the ‘_Machine Intelligence Landscape_'. Brilliant!
 
 ![Machine Intelligence Landscape](https://lh3.googleusercontent.com/dQsBbFj6vh5fmwKNBR_vUqN_vPLyITRxVi81Q3cXE4nV7VdYpc3L-uZzWBE28wYCqmN0DvBRtnJYKfACM9fThjQ9Xpcpb1_2ufDKyDhxSyHoDIIrdekU9iMdoIyD56AZ85NIqotBzNBNxGc72cErjR3hVwREiu-JVwWW0e-uOogL6gZCwIJzzMjhQE0ovI7c7emW9VRRX4CFDoU_2PBc2Tm3w_tLLicvlBzZfETHIeoQ1KH9WD-6_HdLuuORlTKf4tMgXnq7d7UyGAloz-u28nKH85Ih_T5z5cnbDsZ3VMUfrXFQjXfqYBebBc_HR6AEkJ6zH4G65auM2Cr6kDlY2yPi_24-96ehO73DzzksI8JbSFEHE6dnwd7DlP6zQPMhGnq8x9_3SP0NpnDMWoUlJHYbwLgjynZTTgE5kj9oIQR2cdvY6cYBvMz3H4e8OTcZvxUlKO8ruP30PpEiteqXO3346xxCET5BKEYmUiSsJLBwLuPIJyhjdsGgRgZQrOzfK_3UwXU_ZkCQ-sNGaiPg-cuy6Zouelw_EtF2zoTXQxYHEOpuYlrOF0IANfL9MqdzYgW9lN6jHfm3mbfLj-dUcbYq0GfWbDm5rmZ6s_zgS4nf0IFiJLVQ3uWyl8FFcSgS=w293-h220-no)
 
@@ -120,4 +120,4 @@ Vicarious is building a unified algorithmic architecture to achieve human-level 
 
 So, why this project?
 
-There aren’t many internships that deal with A.I in the first place (and therefore, not many extensive lists either) so I figured this might prove useful to other people as well as myself.
+There aren't many internships that deal with A.I in the first place (and therefore, not many extensive lists either) so I figured this might prove useful to other people as well as myself.

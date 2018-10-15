@@ -1,8 +1,9 @@
 ---
-title: RIP Wordpress
+title: RIP Wordpress ☠️
 date: 2018-09-24
 description: Alive from July 2013 to September 2018.
 image: https://i.imgur.com/TaERXLC.jpg
+url: /2018/09/24/rip-wordpress/
 categories:
   - blog
 ---

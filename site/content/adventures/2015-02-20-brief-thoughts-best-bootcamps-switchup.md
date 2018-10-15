@@ -2,7 +2,7 @@
 title: Brief Thoughts on SwitchUp's Best Bootcamps List
 date: 2015-02-15
 description: Bootcamps are a risky business, make sure you make the right decision.
-image: https://lh3.googleusercontent.com/0mbw1ZNEe4Tpkq_IXZn5bQDg8_FfzoFEGU54ioBM1jlciMMFaenjdFfHfqgOBPkJgndeLT16ZIv9s_G1CSAw8GbYJ5Civ4M7MIhcHCVzNh7LxMLtukqQJMoTANEkGYZTopjg9-p2U7y84UOvZPn2VTp-VpPJ-LFcRMVZtKhJQ9-2DZibD0Cfjyx-y2DWHwTz3rF_gZt6N6QkRmrVCcTRelSmbeVjbDguM7T2mbJZLstRaKOyvFmNET_dwXFNmJYMCtarFqXZXQ3zCJcB_CsYoAh3NqFQpWd4BjnMRDN0JimigNwP70M4C_WAu6Q7j12dl2kRpUtmiEK79C9oYPA-iDuXFQRoCpdCu-bZmEGLkgCkT_rMaVf8DERR6BiAku-acWh6OgDjXpunC23TsULOOpCme6f5JvPVdkiw31RZ6DpdvdBV9tIyy3ALNsyl5dq9XGx_3i7eJ8Ab0kIH-88O-92DMyxPRLqZLIL8YEMN0OsBJe7IxbaSochwz8QyMd0ITLnyYSqBfSj5AA4TurM7mVWdW3yVCx0O2R2fZJnDqyjXhE-YgQUUGodKYsGenx3gkVBoH4tARcJ2LQChgiuTQnGyi67I-yc6XwspQpSuoO4xPzsI0P40V9xin5KOUBhN=w1280-h853-no
+image: https://i.imgur.com/OTAxONP.jpg
 aliases:
   - /2015/02/20/brief-thoughts-best-bootcamps-switchup/
 categories:
@@ -23,7 +23,7 @@ categories:
 
 ## Best Physical Bootcamps from SwitchUp
 
-1.  [Anyone Can Learn to Code](https://anyonecanlearntocode.com/ 'Anyone Can Learn to Code') (Chicago)
+1.  [Anyone Can Learn to Code](https://anyonecanlearntocode.com/ "Anyone Can Learn to Code") (Chicago)
     - Course Report ([6 Reviews](https://www.coursereport.com/schools/anyone-can-learn-to-code#/reviews))
     - Quora ([2 Reviews](https://www.quora.com/Reviews-of-Anyone-Can-Learn-To-Code-programming-bootcamp)) ⭐️⭐️⭐️⭐️⭐️ 5/5
     - SwitchUp ([8 Reviews](https://www.switchup.org/bootcamps/93)) ⭐️⭐️⭐️⭐️⭐️ 5/5
@@ -174,14 +174,14 @@ categories:
     - SwitchUp ([4 Reviews](https://www.switchup.org/bootcamps/makers-academy)) ⭐️⭐️⭐️⭐️⭐️ 5/5
     - Techendo ([2 Positive, 0 Negative](https://schools.techendo.com/schools/makers-academy))
     - Yelp (N/A)
-24. [Rocket U](https://rocket-space.com 'Rocket Space') (San Francisco)
+24. [Rocket U](https://rocket-space.com "Rocket Space") (San Francisco)
     - I applied to this program as well, but as with others, I did not go through with the interview process.
     - Course Report ([6 Reviews](https://www.coursereport.com/schools/rocketu))
     - Quora (N/A)
     - SwitchUp ([11 Reviews](https://www.switchup.org/bootcamps/rocket-u)) ⭐️⭐️⭐️⭐️ 4/5
     - Techendo ([1 Positive, 0 Negative](https://schools.techendo.com/schools/rocketu))
     - Yelp (N/A)
-25. [Software Craftsmanship Guild](https://www.swcguild.com/ 'SWC Guild') (Akron)
+25. [Software Craftsmanship Guild](https://www.swcguild.com/ "SWC Guild") (Akron)
     - Course Report ([4 Reviews](https://www.coursereport.com/schools/software-craftsmanship-guild))
     - Quora ([11 Reviews](https://www.quora.com/Reviews-of-Software-Craftsmanship-Guild)) ⭐️⭐️⭐️⭐️⭐️ 4.9/5
     - SwitchUp ([16 Reviews](https://www.switchup.org/bootcamps/software-craftsmanship-guild)) ⭐️⭐️⭐️⭐️⭐️ 5/5

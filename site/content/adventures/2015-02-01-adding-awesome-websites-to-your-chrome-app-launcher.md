@@ -1,8 +1,8 @@
 ---
-title: 'Adding Awesome Websites To Your Chrome App Launcher'
+title: "Adding Awesome Websites To Your Chrome App Launcher"
 date: 2015-02-01
 description: "Add all your favorite websites to Chrome's App Launcher."
-image: https://lh3.googleusercontent.com/AtG0ldxtTsbWOxfkQNhDDZyFLgV4nyOUndWHuh2Q6cOJ8r4Hz1nQeziSJFlyOEs0RhpzgKwrowff-dtB-aFI7Pq7MCkHSsTl5NNSN6ApD1LR85D5Hu95T8Huv5hF9TeV6eHCY4KA_5yx0EtccTfthaHpzuyr3kzJd5YSFSBALszH9a4_wuK2-HANxuJh8JJnmmfHznElrqmyD8NjJudUWKE7o5iLXgcbF816uXjffztrShMLzs48PZL5G5jsBUzO5-39kiGHFT46mkimqXeUB4hsWd8-0KkFAOAjiQSzmIr3_S8BI0XBWacoXWUlGJsczz776lmTVWQVAE_-iUh-0VvAISpsBqZUL7yzJJ-ZhPY0-XWMIuVTZ9LEICjpXbkAp7syBBajAVt3vMS12gIYh_vkHH0gwJcOccUUzN1vVoZrpTpfUGcs4ZyvMjzBTtPKlUvbcT_FJ26ogksO5DGoWufrgSmKaPe_-VtVJP6lOs3QN3hqnuX8UHDBDod5lkM7xEYJmo_A04-Yl4UK6pW3rA4VvdjYDJIuFNVyuDlUk3jKKorPrERoTRHPZKNI6DD0FyPyTEDpZKtn88_9iT1IiRSJ4RfXIDkcanav4jY7LQUtteTWyJMlxQdv9EPyjGLf=w1240-h930-no
+image: https://i.imgur.com/8Cv5FNk.jpg
 aliases:
   - /2015/02/01/adding-awesome-websites-to-your-chrome-app-launcher/
 categories:

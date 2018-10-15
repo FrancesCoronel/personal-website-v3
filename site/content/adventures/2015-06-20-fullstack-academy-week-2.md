@@ -2,7 +2,7 @@
 title: Fullstack Academy - Week 2 👬
 date: 2015-06-20
 description: June 15th to 19th. There are 57 days in Fullstack. These are the second 5.
-image: https://lh3.googleusercontent.com/32fC9CpQ-wYG9vpGUUYDuRbn2KSOgHdeizRO0AtZtLUqPeASckC4ssMpsEHE8mCGxM7RWQ-VcATClO4qCKRrWigZ-ExhFd3sfEaHwIejM6uEaFviIRWByu5wnENaOQKQBP_ZVZNB7QkgfxWWieuMuV2eKf8DZeRMqXyfjidoqZeC8sRdUpaY9ls_CWfi4HBOXzARqmWWV5Zia2V0sn_wy_hxg35lm1d3ZmerLfomFwyoc3op_EEDuebb7WAIy24h2nNnnnzpk1RMjgmsx-VycHmQEptaf9TkUryqHuePIIPbDy6ClKXSLjHH4Naa-XDLL9cPIRX5iqVRivvEUldFQxHVnfteQOPpI4Am1QNT_bP2MfcX_Jwqh8vei4s26cPkofSUia9ELPF1YSU07OTmn1pArdUqgUY_vbKVgcGwjPepY-wAIUDz0Hwkp85azl5DKzbRYkDCTiBuliQcRUO_bj_sUIjuvczzZ3L0HDdgFlyckJ6r5q7GY9s4g13H78lBphB1VCj48SAXIFKLRsFS0Al6q5HtPIKTUZRuR8BCRNLGWC7wwFYqBcra_vfcKpn7xEZvu46wcil4HFRo3zMr72q3-kXurap5jZ94KTaiAqHvEF7ilhXaF1vm0V923LFI=w1140-h500-no
+image: https://i.imgur.com/GvuWXIf.jpg
 aliases:
   - /2015/06/20/fullstack-academy-week-2/
 categories:
@@ -19,8 +19,8 @@ categories:
 
 ## Day Two - Tuesday
 
-- I've decided I'm just not a big fan of [Codewars](https://codewars.com 'Codewars').
-- I just prefer [Code School](https://codeschool.com 'Code School')'s cleaner design & fun videos. Oh, well!
+- I've decided I'm just not a big fan of [Codewars](https://codewars.com "Codewars").
+- I just prefer [Code School](https://codeschool.com "Code School")'s cleaner design & fun videos. Oh, well!
 
 ## Day Three - Wednesday
 
@@ -38,8 +38,8 @@ categories:
 - People liked the presentation! Yesssss.... :grin:
 - Hot Seat today. I'm really enjoying hearing these stories. If only there was some sort of fireplace...
 - Finally gave in and installed `zsh` today using some dude's dot files (he's a big Spacegray theme fan too). Now everything looks and feels **SPACEGRAY**. Heyyyy.
-- Bought this [Sublime Text Power User](https://sublimetextbook.com/ 'ST3 Power User') book by the Bos for `$25`. I used the coupon code `CHRISTMAS` which still worked and took `$11` off. LOL.
-- It sucks that [Flavours](https://flavours.interacto.net/ 'Flavours') is no longer going to exist once `El Capitan` comes out. I want to be able to customize EVERYTHING.
+- Bought this [Sublime Text Power User](https://sublimetextbook.com/ "ST3 Power User") book by the Bos for `$25`. I used the coupon code `CHRISTMAS` which still worked and took `$11` off. LOL.
+- It sucks that [Flavours](https://flavours.interacto.net/ "Flavours") is no longer going to exist once `El Capitan` comes out. I want to be able to customize EVERYTHING.
 
 > :arrow: **Overall Conclusion?**
 >

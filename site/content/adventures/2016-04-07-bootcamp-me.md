@@ -75,11 +75,11 @@ Check out Hackathon IO for upcoming local hackathons.
 
 #### Become a warrior through CodeCombat.
 
-If you’re into gaming, then you can learn JavaScript as you defeat ogres, solve mazes, and level up.
+If you're into gaming, then you can learn JavaScript as you defeat ogres, solve mazes, and level up.
 
 #### Start writing technical posts or just blogging in general. Reflecting is always nice.
 
-There’s plenty of options out there: Ghost, Tumblr, Wordpress, Jekyll, Medium, etc.
+There's plenty of options out there: Ghost, Tumblr, Wordpress, Jekyll, Medium, etc.
 
 ### Session 1 Slides
 

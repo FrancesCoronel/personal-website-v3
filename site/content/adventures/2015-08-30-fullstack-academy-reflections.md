@@ -2,7 +2,7 @@
 title: Fullstack Academy - Reflections 💭
 date: 2015-08-30
 description: At the end of the day, I'm really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye opening pair programming sessions, and the awesome people.
-image: https://lh3.googleusercontent.com/b_Vu5nN-f2T13en1fG_z5ysX399mlDH9Mpfdn3cx9143OZipN-DZzVmuv9bC82itg2crpy1ebih_BK8cuwUmrzJyq1HJCgUzOxPuD_ypjNAdKXtZSo7PnmY8-e-uYB8EhqWmZlpiE9VyLwzClsSQJI8Y3sDX-YCLJO-XAXdOhc-_H5xvVM4ZXAmFyvK1LpgOHvRXY8_timW4B45kr-DCSQBswmf2xa-6qNpgKHH__IgdvcdbSd7Vyp7XTgMFtLiBPCnRNCjDMZIL17RBX6b9RZiqxz6EbryCboGSN1gjXgyx8vsEfJLtQAhvhCiUcj3I5HkpELK_zJ5DEAfEJWTtb2STzJ19-miCFeXGDEtJOq7ypbdryheuF2cvtkA2Imrj3jgKAixg3wgHv_q3eESATLlsEM69XuVM-4if9rQTuEIbRARw5jN0lcXj3ZRKHqOiWS6B5I62QTNH94tEo1LV89dQQZlFSnju54eqjIRH7DJu-aBGE3XMab5g8vKer9hZkhjcfJL_iEGUFPNwtpDHBfltnHrlRlhkSn82qgaxNGOzkNjWluPr74HsNGtJfuC4yULlJkIWd39-OO6Xj20q7Wr9WjyBVWD2IxKFwGowbKq_J6CORRIXfhHHtvRVfPU6=w1140-h500-no
+image: https://i.imgur.com/PuMqMmW.jpg
 aliases:
   - /2015/08/30/fullstack-academy-reflections/
   - /blog/2015/08/30/fullstack-academy-reflections/
@@ -16,11 +16,11 @@ categories:
 
 Mainly because the whole thing was a little crazy and stressful, but really great, so ergo – _I REGRET NOTHING_.
 
-My official last day of Fullstack was **Wednesday, August 26, 2015**, but I’ve been so busy getting ready for school and settling in back home, it’s been hard to focus on writing anything substantial.
+My official last day of Fullstack was **Wednesday, August 26, 2015**, but I've been so busy getting ready for school and settling in back home, it's been hard to focus on writing anything substantial.
 
-Anywho, the last week and 3 days of Fullstack was a bit of a whirlwind, with my uncle’s birthday and relatives coming over along with making sure the Capstone project looked presentable.
+Anywho, the last week and 3 days of Fullstack was a bit of a whirlwind, with my uncle's birthday and relatives coming over along with making sure the Capstone project looked presentable.
 
-As I’ve mentioned before, I worked on the Capstone project with only one other person – Joanna. She was pretty great to work with, and I’m actually pretty happy with what we were able to manage in such a short span of time.
+As I've mentioned before, I worked on the Capstone project with only one other person – Joanna. She was pretty great to work with, and I'm actually pretty happy with what we were able to manage in such a short span of time.
 
 > “Together, our brains created Hiredot.”
 
@@ -30,7 +30,7 @@ As I’ve mentioned before, I worked on the Capstone project with only one other
 
 ## Hiredot
 
-Specifically, **[Hiredot](https://github.com/joanaz/HireDot2)** is a portal where current students, potential students, alumni, employers, and even guests can explore the various aspects of the Fullstack Academy experience. Students and companies can also be matched together through their preferences using the [stable marriage algorithm](https://www.wikiwand.com/en/Stable_marriage_problem 'Stable Marriage').
+Specifically, **[Hiredot](https://github.com/joanaz/HireDot2)** is a portal where current students, potential students, alumni, employers, and even guests can explore the various aspects of the Fullstack Academy experience. Students and companies can also be matched together through their preferences using the [stable marriage algorithm](https://www.wikiwand.com/en/Stable_marriage_problem "Stable Marriage").
 
 ---
 
@@ -38,13 +38,13 @@ Specifically, **[Hiredot](https://github.com/joanaz/HireDot2)** is a portal wher
 
 ## Friends & Family Day
 
-So my last day involved demoing our capstone projects to everybody’s friends and families. My brother, Tío, and Tía were able to attend.
+So my last day involved demoing our capstone projects to everybody's friends and families. My brother, Tío, and Tía were able to attend.
 
-> A few of the Summer of Code students saying goodbye to my learning team fellow, Jimmy. If it isn’t obvious already, he went to UT Austin. 😛
+> A few of the Summer of Code students saying goodbye to my learning team fellow, Jimmy. If it isn't obvious already, he went to UT Austin. 😛
 
-Saying goodbye is unpleasant so I just didn’t for the most part with most people. The circumstances were also slightly tricky with everyone’s relatives being around and all.
+Saying goodbye is unpleasant so I just didn't for the most part with most people. The circumstances were also slightly tricky with everyone's relatives being around and all.
 
-My folks went back only slightly earlier before me and headed to China Town, so I went home alone on the dreadful subway, got some pizza, and watched what would probably be the last episode I ever watch of the show [Dating Naked](http://www.vh1.com/shows/dating-naked/ 'Dating Naked') (why is it so intriguing?!).
+My folks went back only slightly earlier before me and headed to China Town, so I went home alone on the dreadful subway, got some pizza, and watched what would probably be the last episode I ever watch of the show [Dating Naked](http://www.vh1.com/shows/dating-naked/ "Dating Naked") (why is it so intriguing?!).
 
 Probably not a very ideal way to end an awesome experience, but then again, it was also really relaxing.
 
@@ -56,13 +56,13 @@ Probably not a very ideal way to end an awesome experience, but then again, it w
 
 My bus ride home with my brother was early the next morning.
 
-I didn’t really get any rest with the noise so that was kind of dreary, but during the ride, my next interview was scheduled with Apple Retail for Friday so I was happy. Also, the fact that I was greeted by my dog, Nefer, and my mom’s sweet iced tea didn’t hurt either.
+I didn't really get any rest with the noise so that was kind of dreary, but during the ride, my next interview was scheduled with Apple Retail for Friday so I was happy. Also, the fact that I was greeted by my dog, Nefer, and my mom's sweet iced tea didn't hurt either.
 
-On Friday, I’d also be starting my course ‘Design 101’ on [Designlab](http://trydesignlab.com/ 'Designlab').
+On Friday, I'd also be starting my course ‘Design 101' on [Designlab](http://trydesignlab.com/ "Designlab").
 
-Friday comes and the course gets me all excited. I’m able to access the course a few hours before the interview. I’m even starting to write about my experience with the course in a separate post.
+Friday comes and the course gets me all excited. I'm able to access the course a few hours before the interview. I'm even starting to write about my experience with the course in a separate post.
 
-It’s Sunday now and the first class of my last undergrad semester starts tomorrow at 10 am.
+It's Sunday now and the first class of my last undergrad semester starts tomorrow at 10 am.
 
 Should be interesting.
 
@@ -80,15 +80,15 @@ I use [Mint](http://bywordapp.com/) to track all my costs so it was pretty easy 
 
 ![Fullstack Spending](https://i1.wp.com/i.imgur.com/AIvCgHE.png)
 
-Now, it’s pretty easy to figure out that with my `$9,500` tuition cost, which is included in the graph above, I spent `$14,220.45` in total while in New York for Fullstack Academy from June 8th to August 26th.
+Now, it's pretty easy to figure out that with my `$9,500` tuition cost, which is included in the graph above, I spent `$14,220.45` in total while in New York for Fullstack Academy from June 8th to August 26th.
 
 ### Pricey!
 
-**HOWEVER**, this total amount of spending doesn’t account for impulsive buys, silly mistakes (_like buying an extra Metro Card when I couldn’t find my other one and then finding the old one later_), and birthday gifts (_I try to spoil my family_).
+**HOWEVER**, this total amount of spending doesn't account for impulsive buys, silly mistakes (_like buying an extra Metro Card when I couldn't find my other one and then finding the old one later_), and birthday gifts (_I try to spoil my family_).
 
-So, I’d say realistically I spent more like `$3,500` on external expenses.
+So, I'd say realistically I spent more like `$3,500` on external expenses.
 
-> All I can say is that I’m glad I’m not taking that many credits this semester so I can take on a part-time job. Wooweee..
+> All I can say is that I'm glad I'm not taking that many credits this semester so I can take on a part-time job. Wooweee..
 
 ---
 
@@ -104,13 +104,13 @@ I love water and all, but man oh man...
 
 Fullstack was 9:30 am to 6:30 pm Monday through Friday. **Roughly** 50 days, 9 hours a day. This totals to ~450 hours, not including time spent outside of class.
 
-If that’s not an immersive experience, I don’t know what is.
+If that's not an immersive experience, I don't know what is.
 
 ---
 
-# At the end of the day, I’m really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye-opening pair programming sessions, and the amazingly bright people.
+# At the end of the day, I'm really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye-opening pair programming sessions, and the amazingly bright people.
 
-> It’s been real (awesome).
+> It's been real (awesome).
 
 ---
 

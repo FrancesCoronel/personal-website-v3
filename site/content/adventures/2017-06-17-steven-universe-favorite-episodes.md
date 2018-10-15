@@ -64,6 +64,6 @@ Universe that mostly show the closeness that Steven & Connie share.
 
 ![Sworn Sword](https://i.pinimg.com/originals/9a/d7/99/9ad799944cd35ec3324f26fab16694ee.jpg)
 
-## 15. Season 2 Episode 23 - Steven’s Birthday
+## 15. Season 2 Episode 23 - Steven's Birthday
 
 ![Steven's Birthday](https://i.pinimg.com/originals/d0/68/e1/d068e1758914dbfe8e00da70c0ff3e40.png)

@@ -2,7 +2,7 @@
 title: Interview with DevLeague
 date: 2015-01-06
 description: My interview with DevLeague.
-image: https://lh3.googleusercontent.com/L1yoOEPofX5qGFPWWAYC4vBcCGzCCS38KSFnXT6e_rEy1I5oR0OmBPYH27me22i_g5B9Uev_uE1FYP--VLeXhacoTX3G4Wx9S2dMxW9hLzqflT9WT8eKllTT6JDNJLTiPOdNE4ayTDzdEHGi-85pxhKPYSe46cBiSdiihfV936YL9-C7Bkw7A_Ke-fvk5EkLZgbrgK0U4gxjvIbTAwc9jj4pAX-yAloSnvdc8bj8xGLT42aVoJyJ14jqiu1hgoU6THn9nYvDIL8tUpxiPNuejT10tyHUvtNr5JHVlZyd1AOSZcWHIV1kVR2vRJe0_GGmn3LoshRjizDQCoXzQdqzrVJwUBm0a6AqxW1C-riZEYiXHh37MON5NKJxTT8DzUCqJ7pptHhKCGRIMFQImH1GhF5Xuy8BCcZOpreOqs1a5ZKCkYf56-TePTcENQ1qUmDUKJqoqSeEXWA8qKYOKnX0fCYloHzm1bE5wwHpMyOKwozpEL3F4z7xvWBXG9iE1Yy7jNS7L-aUuXN9VKS1qfs3_0jrKC2ljnmc2ozSXXfnnxVB8RsV2AQ00WPl_jG1BLNcdV3dgk0hhHCcOhzFMnrSW5ME0I7Di_NWzkUna1hFNWBZ_hqzg8EE1Loa1o40idav=w1425-h790-no
+image: https://i.imgur.com/eD91o6I.png
 aliases:
   - /2015/01/06/interview-devleague/
   - /2015/01/06/experience-with-devleague/
@@ -13,9 +13,9 @@ categories:
 
 ![DevLeague](https://lh3.googleusercontent.com/fwbCIEMtZdmjWvea0CSKsArFckIOfaXsdurgK4s26sRWmTxjy7bTpemEbl-xMw31_bxDOYMRI9RfCp-Whklrk8Uc0gbtN-cf8iDOV_a-LLog0CFHlOVC-yLltklbxgygurd2cgT_T_Iu2DFVdfmYF0rB17ccmQFAo3WwzydQUhyNlNHjspj95fqHS6wZieKyiuOStknS5ifx8wrqpV_V72uR95R8RyObNjc1OO7WJhcSxbcLY8PtHhRzOF9uDE8Ruuz86QrMgtaKR1Y9TsmTm8O2izzXc5cC53vcprH-2HtM4oew42jJDes07Z9LRZNFbeSzOC2o_FgtoCJPMb5T2suuiPGZZ0A9w29xI4zh1vuDFCj0ZYOMFlEdTkTfbPA0Oxb2lpIenLr7HfYuWbXhJ8zpNo3ed83XKr0gJh-WNw2Ne257rljS78DQkEBwFKh5Z8gDYspmG82q6dTIDtEALkypiNqQNTo698lorkTGks9hZl69Z62x7Nwf4YpK7BYtj2tusJG0JOAw0oYLz2HvspEOJfF2Pt_DgAUQTaR6qsf5pXLTCZh0ZMs0HyCy0clwTVKkYJ0j71Hb99Re1AJDk8encefjksEr_NZ2e6HpWzaVN2UfUTz-LrzuLxB4vHqY=w1350-h316-no) Mahalo, indeed.
 
-# My Experience With [DevLeague](https://www.devleague.com 'DevLeague')
+# My Experience With [DevLeague](https://www.devleague.com "DevLeague")
 
-> with [Jason Sewell](https://www.linkedin.com/in/jasonsewell 'Jason Sewell')
+> with [Jason Sewell](https://www.linkedin.com/in/jasonsewell "Jason Sewell")
 >
 > This is where I'll go through how my admissions process was with **DevLeague**, the 1st JavaScript focused coding bootcamp in Hawaii.
 >
@@ -23,15 +23,15 @@ categories:
 >
 > That being said, I'm not releasing anything here without DevLeague's permission.
 
-I decided to apply to DevLeague since they were the first of their kind in Hawaii. I have some connection with Hawaii. I've actually never been, but I was initially going to attend [Hawaii Pacific University](https://www.hpu.edu 'HPU') as a double major in Computer Science and Integrated Multimedia with a very large scholarship. Since I had enough credits from high school, I'd still be able to graduate in 4 years. I even had a party a few months before school started because I was certain at that point I was going to attend HPU. It was a win-win situation, but then out of the blue, in July, I got accepted to [Jacobs University](https://www.jacobs-university.de 'Jacobs University') with a medium-sized scholarship and decided to go there for the 3-year CS program.
+I decided to apply to DevLeague since they were the first of their kind in Hawaii. I have some connection with Hawaii. I've actually never been, but I was initially going to attend [Hawaii Pacific University](https://www.hpu.edu "HPU") as a double major in Computer Science and Integrated Multimedia with a very large scholarship. Since I had enough credits from high school, I'd still be able to graduate in 4 years. I even had a party a few months before school started because I was certain at that point I was going to attend HPU. It was a win-win situation, but then out of the blue, in July, I got accepted to [Jacobs University](https://www.jacobs-university.de "Jacobs University") with a medium-sized scholarship and decided to go there for the 3-year CS program.
 
-> I don't regret my decision, but since then, I've always had the desire to get to know Hawaii but obviously had no chance for financial reasons. DevLeague would be a practical way to do this. I'm also considering going to [UH at Manoa](https://www.ics.hawaii.edu 'UH@Manoa CS') for my grad studies in CS so there's that too.
+> I don't regret my decision, but since then, I've always had the desire to get to know Hawaii but obviously had no chance for financial reasons. DevLeague would be a practical way to do this. I'm also considering going to [UH at Manoa](https://www.ics.hawaii.edu "UH@Manoa CS") for my grad studies in CS so there's that too.
 
 ## Part 1: The Application 📝
 
-- You fill out the virtual application for DevLeague [here](https://www.devleague.com/apply 'Apply to DevLeague').
+- You fill out the virtual application for DevLeague [here](https://www.devleague.com/apply "Apply to DevLeague").
 - Like Fullstack, the application didn't involve a lot of effort, just basic background info (employment, coding abilities, cohort choice) and two small essay questions. The essay questions are right now: `Why would you like to attend DevLeague?` and `Tell us a little bit about yourself`.
-- Once you fill this out, they'll send you an email shortly afterwards where you will schedule a virtual interview through Skype with one of the co-founders, [Jason](https://twitter.com/sewell_jason 'Jason - Twitter').
+- Once you fill this out, they'll send you an email shortly afterwards where you will schedule a virtual interview through Skype with one of the co-founders, [Jason](https://twitter.com/sewell_jason "Jason - Twitter").
 - Again, the process overall was clean, efficient, and very organized. No problems here.
 
 ## Part 2: The Interview 📞
@@ -85,7 +85,7 @@ across DevLeague.
 They were kind enough to feature my blog post in January 2015 on my interview experience
 with them on their own website through their blog. I thought they were
 some of the nicest people I came across when the coding bootcamp interview
-process and definitely appreciate how they’re the only coding bootcamp in
+process and definitely appreciate how they're the only coding bootcamp in
 Hawaii.
 
 <blockquote class="embedly-card"><h4><a href="https://www.facebook.com/permalink.php?story_fbid=702971763154795&id=419352214850086">DevLeague</a></h4><p>Ever wonder what our interview process is like? We have recently started getting many applications from the mainland and one of our recent mainland applicants blogged about her experience. We could...</p></blockquote>
@@ -96,10 +96,10 @@ Hawaii.
 
 I also have shared my **interview experience** with bootcamps such as
 
-- [Bitmaker Labs](/2014/03/12/interview-bitmaker-labs/ 'Bitmaker Labs')
-- [Coding Dojo](/2015/01/06/interview-coding-dojo/ 'Coding Dojo')
-- [Coding House](/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
-- [Designation](/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
-- [Fullstack Academy](/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
-- [Hack Reactor](/2015/01/05/questioning-hack-reactor/ 'Questioning Hack Reactor 🔑')
-- [Maker Square](/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')
+- [Bitmaker Labs](/2014/03/12/interview-bitmaker-labs/ "Bitmaker Labs")
+- [Coding Dojo](/2015/01/06/interview-coding-dojo/ "Coding Dojo")
+- [Coding House](/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
+- [Designation](/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+- [Fullstack Academy](/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+- [Hack Reactor](/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
+- [Maker Square](/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")

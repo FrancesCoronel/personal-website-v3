@@ -1,8 +1,8 @@
 ---
-title: 'Preparing for Coding Bootcamps'
+title: "Preparing for Coding Bootcamps"
 date: 2014-01-05
-description: 'Before my interviews with all the coding bootcamps I applied to, I did some digging and really went out of my way to try and find out what would make me a better candidate in the entire process.'
-image: https://lh3.googleusercontent.com/MfiYQkypgX62eRvBSfT2KHs1nHsZovaGHjEJttFDSBN-QWIt_pUaJvfjhJumBeNgOKzB4x1ZOhLInOLDTzMsOi7SitOiR2UMg30V9tfx-Xr4u6Iekq9cnHai2-StenObq8WTIpKKB1DvLcRqAoVyovpCIOKQbzThXLxEl8ta_mgCi67UnneucDCyooqjPd8_Uk4jGfVvVUgGSTBmPR4ZzluFO2roPtI-t0kiA_O3qOkUSMaQ6WbGlew_7cbGqH-bCiavSKUV2pG6VaBXMUhBcxbPgRecbyjs6bd11GPOJRn4GdC6TLKlQuGf8D_GIz_bnBrAprc9DBWBqn5oI1ZEGxOvJ-xO6b4PSO5Ht2qSOwOY3-2PczEcwd7OFI26UjL_yfoGH4m4Sl7ocTewD77Z3t5IPRCukfB4O0mArW82qLsBseVOiMLy8dGKyzIuA5k1ye6u3Ijb6Ifu5B4iJ2i_9yXjGzDOoQ8_m1-CgcyLraNW1w5SMBvT53sfCnwnn2A1eNCQyNTkjoYiHSepRRcbOLJNG7LI1Bj66FOzsx9XDMyLe71q2pq8rT0FdOG3fVClj_AqZCJtZFnmlXioMvCL7hJXveH_T_EWCUZybspmKjDRxtmAxFEntVY6PLrZfny2=w1024-h723-no
+description: "Before my interviews with all the coding bootcamps I applied to, I did some digging and really went out of my way to try and find out what would make me a better candidate in the entire process."
+image: https://i.imgur.com/sa1hpu1.jpg
 aliases:
   - /2015/01/05/prepare-for-coding-bootcamps/
 categories:
@@ -49,15 +49,15 @@ _The Gist Of It_
 
 **Helpful Resources**
 
-- [coderbyte](https://coderbyte.com/CodingArea/Challenges/ 'Coderbyte Easy') - the easy challenges
-- [Codecademy](https://www.codecademy.com/en/tracks/javascript 'Codecademy') - the JavaScript track
-- [Code School](https://www.codeschool.com/paths/javascript 'Code School') - the `Road to JavaScript`
-- [Eloquent JavaScript: 2nd Edition](https://eloquentjavascript.net 'Eloquent JavaScript') - basically reading the whole book would be helpful, but if you can't do that, then the 1st 5 chapters are pretty key
+- [coderbyte](https://coderbyte.com/CodingArea/Challenges/ "Coderbyte Easy") - the easy challenges
+- [Codecademy](https://www.codecademy.com/en/tracks/javascript "Codecademy") - the JavaScript track
+- [Code School](https://www.codeschool.com/paths/javascript "Code School") - the `Road to JavaScript`
+- [Eloquent JavaScript: 2nd Edition](https://eloquentjavascript.net "Eloquent JavaScript") - basically reading the whole book would be helpful, but if you can't do that, then the 1st 5 chapters are pretty key
 
 **Going All Out**
 
-- [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742 'JavaScript: The Good Parts') - the first few chapters
-- [Functional JavaScript](https://shop.oreilly.com/product/0636920028857.do 'Functional JavaScript') - again, the first few chapters
+- [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742 "JavaScript: The Good Parts") - the first few chapters
+- [Functional JavaScript](https://shop.oreilly.com/product/0636920028857.do "Functional JavaScript") - again, the first few chapters
 
 **Topics that are generally NOT covered in the interview**
 
@@ -109,15 +109,15 @@ _The Gist Of It_
 
 Recently, SwitchUp released their 2014 list of the [top coding bootcamps](https://fvcproductions.com/blog/2015/02/20/brief-thoughts-best-bootcamps-switchup/ "Brief Thoughts on SwitchUp's Review for 31 Best Bootcamps 2014 💭"). I'd check that out too.
 
-For finding them, refer to this post [where I look over the best websites for that purpose](https://fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ 'A Short Operation: Tips & Tricks 4 Finding Coding Bootcamps 🔎') and also the post where I [elaborate on each](https://fvcproductions.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/ 'Magnifying the Bootcamp Research Experience 🔎').
+For finding them, refer to this post [where I look over the best websites for that purpose](https://fvcproductions.com/blog/2014/12/27/a-short-operation-tips-tricks-4-coding-bootcamps/ "A Short Operation: Tips & Tricks 4 Finding Coding Bootcamps 🔎") and also the post where I [elaborate on each](https://fvcproductions.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/ "Magnifying the Bootcamp Research Experience 🔎").
 
 I also have shared my **interview experience** with bootcamps such as
 
 - [Bitmaker Labs](/2014/03/12/interview-bitmaker-labs/)
 - [Coding Dojo](/2015/01/06/interview-coding-dojo/)
-- [Coding House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
-- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
-- [Dev League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'My Experience With DevLeague 💻')
-- [Fullstack Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
-- [Hack Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ 'Questioning Hack Reactor 🔑')
-- [Maker Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')
+- [Coding House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
+- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+- [Dev League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
+- [Fullstack Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+- [Hack Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
+- [Maker Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")

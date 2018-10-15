@@ -2,7 +2,7 @@
 title: Interview with Coding Dojo
 date: 2015-01-06
 description: My interview with Coding Dojo.
-image: https://lh3.googleusercontent.com/qOk9rxVsr1xJrkC5AIaNmTKALLY18fAdiM2AqKJjIkbIktE6iHCfooVubCHMYhYW8IvvctChP_embNs8TPaZqHMCHr7oUJQVM73dX5GudceoRkBOAmR7JN1HNJNY8icwUL6Dcnm-ueoYlH_XRp0xFc2kF3Kmizi-xvbkLb3oQi2xslcriK6XZZhuRBWHrTsPYa3oQ3XcQ6VFjT2YLc3rTVcpre6wJqK7uKZqjSUzJEH2FpgpfYS21AfYHAzwMLEW-2yaJnZagH4MN1YR_sIprOyXklfTWFxqU_fK6avSOEfMbeiDSpcmEYf0qWxwNP_vuubacNkqy4xAbIFgo16aCa6LKYSz6_ZZpQRH60dGzaJp6MOUsxVd7xoKCG4If8t_1oxgTznwgvyaoJo2t6c3hoPRcF2YLUjW8upkvDuhJJksrdLtWBwq5nrhRs8HBO0lZsGThBeauYkyun4BJN9U5WH6Pry9DO4ybaKVQ_rGNRWAYz1Ea8QJ-zFpSVqQNSt9P4kjLbmcL89uFnRqDbZmM0TiodUXYK4ULPzxnR9yqsrPNvkorKWXEFxtfi7BVnFnzlHPcU22xlneqvHb5fNvdH7x25QAU5Kkqo1hLRy-zMH740CQMl0ROhAyR_tx52L5=w1454-h969-no
+image: https://i.imgur.com/DwSiDfI.jpg
 aliases:
   - /2015/01/06/interview-coding-dojo/
 categories:
@@ -50,9 +50,9 @@ I was accepted! Here's part of the email they sent me:
 I also have shared my **interview experience** with bootcamps such as
 
 - [Bitmaker Labs](/2014/03/12/interview-bitmaker-labs/)
-- [Coding House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
-- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
-- [Dev League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'My Experience With DevLeague 💻')
-- [Fullstack Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
-- [Hack Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ 'Questioning Hack Reactor 🔑')
-- [Maker Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')
+- [Coding House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
+- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+- [Dev League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
+- [Fullstack Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+- [Hack Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
+- [Maker Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")

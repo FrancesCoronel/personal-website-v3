@@ -1,8 +1,8 @@
 ---
-title: 'Interview with Coding House'
+title: "Interview with Coding House"
 date: 2015-01-06
-description: 'My interview with Coding House.'
-image: https://lh3.googleusercontent.com/3ctDuHpYE4wGAmB-FjZ2iDvN7PqRrtxz4-ibdOKM1PdQzsfIKSbdNmXRNTbb_RNr1IqfeLUmsPpSGRkbaL5X8_MShxESbDHnkVKk1hdomSh2sZOxiGbkT65PCp8afojzucJBnzreUscilL3ru30KJ1k8vDk_FZU4KDmu6L3QfhpSRjbuNbgpzxTUzfd9hhlEMyg0MC7E7QlqbZL2adTKKPcoxQfZzLarXLF4m3UCUhccApTE6l3jZrpLEQh6nVT-SkNJl8nxwp4Znz4KVECmixllfI_QvwA5ArvmYsSBdb1OOWFZDigzyQeqzF4iA1OODFM_bO15n1W78yDYcC0jHn0SmzvplzabOnuF4ECH0bWrdpE2U-AMosAK_7QfmMOJ8HneYqXUg7pL0L4-sqcuXPb-gu8FKyNyQfiV-OPtMXmBUgzN_CAvl5H9hPO3-fk1FQZihewcq7g_jtba_d7KKIjmQ9LQTI8BWqHIeMtof2kDEd2d8zSOJcQX9YLJ8US3avPl7b2YMXad7KW9yr0rmjBJWFFSz0aOSfSu61gBDLUVOvraGUmSvzZD_6Fd8lHjDk2YTyVWzm2SgPGQHVSaiNG8gA4QTLFv1oEiXCmpAcuLbOqD1ebwidSJk3OW8pdP=w1292-h969-no
+description: "My interview with Coding House."
+image: https://i.imgur.com/340Yjll.jpg
 aliases:
   - /2015/01/06/interview-coding-house/
 categories:
@@ -11,7 +11,7 @@ categories:
 
 [![](https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/74/s300/coding-house-logo.png)](https://www.codinghouse.com)
 
-# Interview with [Coding House](https://www.codinghouse.com 'Coding House')
+# Interview with [Coding House](https://www.codinghouse.com "Coding House")
 
 ### with [Nick James](https://www.linkedin.com/in/hellonick) and [Samer Buna](https://www.linkedin.com/in/samerbuna)
 
@@ -56,8 +56,8 @@ I also have shared my **interview experience** with bootcamps such as
 
 - [Bitmaker Labs](/2014/03/12/interview-bitmaker-labs/)
 - [Coding Dojo](/2015/01/06/interview-coding-dojo/)
-- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
-- [Dev League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'Interview With DevLeague 💻')
-- [Fullstack Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
-- [Hack Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ 'Questioning Hack Reactor 🔑')
-- [Maker Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')
+- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+- [Dev League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "Interview With DevLeague 💻")
+- [Fullstack Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+- [Hack Reactor](https://fvcproductions.com/blog/2015/01/05/questioning-hack-reactor/ "Questioning Hack Reactor 🔑")
+- [Maker Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")

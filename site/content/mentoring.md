@@ -18,24 +18,28 @@ categories:
 
 Generally speaking, I enjoy mentoring on how to prepare for coding bootcamps but I have teachable experience in web development, web design, and all sorts of nifty dev, design, or productivity tools.
 
-So far, I’ve helped out folks who have successfully gone on to coding bootcamps like [Fullstack Academy](https://fullstackacademy.com), [Hack Reactor](https://hackreactor.com), and [MakerSquare](https://makersquare.com).
+So far, I've helped out folks who have successfully gone on to coding bootcamps like [Fullstack Academy](https://fullstackacademy.com), [Hack Reactor](https://hackreactor.com), and [MakerSquare](https://makersquare.com).
 
-I’ve also tutored kids at the elementary, middle, and high school level on how to get started in the tech field.
+I've also tutored kids at the elementary, middle, and high school level on how to get started in the tech field.
 
 ### Feedback
 
-You can find [the feedback I've received](/feedback/ 'Feedback') thus far on my website!
+You can find [the feedback I've received](/feedback/ "Feedback") thus far on my website!
 
 ### Previous Mentoring Sessions
 
-- # of Sessions: 73
-- Hours: 58.73
+- # of Sessions: 77
+- Hours: 61.23
 
 <!-- Use https://www.miniwebtool.com/sum-calculator/ -->
 <!-- Update milestones page -->
 
 | Date       | Why                                              | Who                      | Method      | Hours |
 | ---------- | ------------------------------------------------ | ------------------------ | ----------- | ----- |
+| 2018-10-19 | Career advice                                    | Abel Regaldo             | In-Person   | 1.00  |
+| 2018-10-10 | Career advice                                    | Annelise Thorsen         | Phone Call  | 0.50  |
+| 2018-10-04 | Career path                                      | Abel Hernandez           | Phone Call  | 0.50  |
+| 2018-09-26 | Resume review                                    | Prateek Kumar            | Online Call | 0.50  |
 | 2018-09-13 | Resume review                                    | Mariela Passalacqua      | In-Person   | 0.75  |
 | 2018-09-07 | Resume review and career advice                  | Mariela Passalacqua      | Video Chat  | 0.50  |
 | 2018-08-20 | Interview on Design & Development Workflow       | Kanad Bahalkar           | In-Person   | 0.50  |

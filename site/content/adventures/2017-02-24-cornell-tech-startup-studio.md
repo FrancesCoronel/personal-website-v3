@@ -20,6 +20,12 @@ Our company is called **Venus** and we created a product called Mora.
 
 ![MORA 2](https://i.imgur.com/PZmdcRU.png)
 
+---
+
+In Startup Studio at Cornell Tech, all students practice the actions of entrepreneurship, product design, management, prototyping and more by developing a new startup from the ground up.
+
+---
+
 <!-- TOC -->
 
 - [Sprints](#sprints)

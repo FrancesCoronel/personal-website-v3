@@ -68,16 +68,14 @@ If you want to run Python 3.0 on CodeRunner, you will have to
 3.  Careful to pick the right version depending on whether your Mac is 64 or 32-bit
 4.  After you open up the install dmg file from the website, install it using the .mpkg file
 5.  Then go ahead and use your Terminal, the app you can find in _Applications/Utilities_ on your Mac and type in "python3"
-6.  I have it installed already so this image shows up:\
-     ![Already
-Installed](https://lh3.googleusercontent.com/wab-aLoY3IKY1DfXJ3AhLB_cT9kGPP4jj1qFcPlE_xPN9J4CFW5R4Dvfg0ymhQY6d0SVWcM73HPbK4QFYB4T7XUZksciCNyXjyPYY4fDaETlUt2_glCiKwpppgO99QZYZTw4gruIjqPEFWoBGFaa9pyV5sRIB0RUnANtgcH2UdF_5oh2X170eZpgaX9kfUwKn8uSapJW8MlCxswlsjhg4uC-SCcZIGZlAuJTzvNGsvGONlOpbbh8PBOoz1EmPA6bvnuPA7o_7QAfYdklST5iLkghSoQD-w_QQhVNUUHiXVv7tK-5xYfKDy977pynjjLdFYr1SREWocH5gUnnvtvIZo29E3JL0i5V_8ejPltTJOd9Au37vEFX13JJZkqZUlAp1P_jr67c4JwgicL_5a4-AKF3OLGFxwd9vJQjzOCWKgGcgo6RJz8VSYEkvOoQTBA9S9Xr9BKRsuJQK0oZjfMM3JT1U7ftqBtHRRbhO_BFbrTsnGE6d4knSWlf9th_aIQ356YFAJYxLtqM70Wxub05nGC2itVbn3z-CqBTOsi1vGwwSwLZSasQFcEWtxo3uor4UH0bEHQC7RvU7ifqOm02dh2zoSr572QZcTKmS7ATr8bKzl3DDjcxiSJ6q_mF9uxj=w589-h367-no)
+6.  I have it installed already so this image shows up:
+    ![Already Installed](https://i.imgur.com/jBtkr0p.png)
 7.  If that doesn't show up, you probably screwed up, or I suck at giving instructions...check Google.
 8.  If it does work, we can work with CodeRunner now! :D
 9.  So now open up CodeRunner and go to _CodeRunner -&gt; Preferences -&gt; Languages_
 10. Then go ahead and create a new language with the + button
-11. It should look something like this:\
-     ![Adding Python
-3.0](https://lh3.googleusercontent.com/Cyz_G7eQhOPKiSZlPCP5JKidKT4R8RHWtauVyNlwtK7mm2FgVGEExbMHfHgjOGGhS_Yf_4e9GeT7xGTCtz_APqHg1fu-2wQxHmiooc-VJEhYXYqMNlSG4Ua937CrU9I4luDRP4T6eezdWPRy_zgOfisfSJlswfR82hm1dHalPTJUnJs4qz2--ELl9saX6JXTvh5YhFWhadZ_ludsMuI8GnwGr28RV-Uyka3i2NkWzSsnuikqEaSrFiFjik75w_5v70t8zk2eTAXszYoehCoikU2gRpUu1hZAdrAQpDGFqRaSQdF4C7xHgrWDtEIQ11UFc_1JIpq7a42otAX9qerMzzMa11Prd9v_axWeR_jgjMsBdAcNadQctRGzVJ6mzJLN9VSsiIa263uzJI1dEwY9OBfAWlLI89ENGc_j7K_D9svHtpZobeAZwNQ5bXWjvPduNuzhzve_yRcP8WkSx3oEd-kKZS3YsdDWsbjmkt5JwHOe4RkfHrO1WPzaGht6K7w8DUMO-DMwJZMC6ij7eUEIUeNGJZItoPfW0fWv27nSsSwcgcvHN_msxAGpiHagzN76AUgQ8mEJ1qUyD8NBY5s0ofeiKISyMMyihyWdLgILD9sMQZMKfKtGVAkXciN_c5JE=w627-h442-no)
+11. It should look something like this:
+    ![Adding Python 3.0](https://i.imgur.com/Nn8mwYw.png)
 12. Once you've done that, you can choose Python 3 from your scroll bar of languages...and FINALLY — you can freaking use Python 3.0.
 
 ## Problem 2 - Numerical Expressions

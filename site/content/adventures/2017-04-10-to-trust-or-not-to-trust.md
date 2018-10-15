@@ -10,7 +10,7 @@ Beginning in 2012, coding bootcamps began offering courses in software developme
 
 Even the creator of *["Cracking the Coding Interview"](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) *has gone ahead and vouched for the *[value of coding bootcamps herself](https://medium.freecodecamp.com/so-that-whole-coding-bootcamp-thing-is-a-scam-right-6fddf14087d4#.meynkdi7c). *📖
 
-**But a key pain point** for a lot of potential students is whether or not they’ll really be able to get a job right afterward and how **trustworthy** it is.
+**But a key pain point** for a lot of potential students is whether or not they'll really be able to get a job right afterward and how **trustworthy** it is.
 
 To combat this, in early 2015, a group of coding schools sent a letter to President Obama, [pledging to release standardized and audited outcome reports](https://thenesta.org/). That never happened. 😞
 

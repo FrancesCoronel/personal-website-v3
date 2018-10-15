@@ -1,5 +1,5 @@
 ---
-title: 'GDG DevFest SF 2018'
+title: "Upcoming | GDG DevFest SF 2018"
 date: 2018-10-28
 location: Galvanize - San Francisco, CA
 image: https://i.imgur.com/xtGC7Q6.jpg

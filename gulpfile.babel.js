@@ -15,8 +15,8 @@ import hugoBin from "hugo-bin";
 import PluginError from "plugin-error";
 import csso from "postcss-csso";
 import webpack from "webpack";
-import run from "gulp-run-command";
-import webpackConfig from "./webpack.config";
+import webpackConfig from "./webpack.prod";
+import webpackDevConfig from "./webpack.dev";
 
 // Browser Sync
 const browserSync = BrowserSync.create();
@@ -54,7 +54,14 @@ gulp.task("static", () =>
 
 // Compile Javascript
 gulp.task("js", () => {
-  const myConfig = Object.assign({}, webpackConfig);
+  const environment = process.env.NODE_ENV;
+  log("ENVIRONMENT: " + environment);
+  let myConfig = {};
+  if (environment === "dev") {
+    myConfig = Object.assign({}, webpackDevConfig);
+  } else {
+    myConfig = Object.assign({}, webpackConfig);
+  }
   webpack(myConfig, (err, stats) => {
     if (err) throw new PluginError("webpack", err);
     log(
@@ -68,9 +75,6 @@ gulp.task("js", () => {
   });
 });
 
-gulp.task("hugo-test", () => {
-  run(hugoArgs);
-});
 
 // Clean up dist
 gulp.task("clean", () => {
@@ -92,11 +96,9 @@ const runServer = () => {
 };
 
 // Run Hugo
-function buildSite(cb, options, environment = "development") {
+function buildSite(cb, options, environment) {
   const args = options ? hugoArgsDefault.concat(options) : hugoArgsDefault;
-
   process.env.NODE_ENV = environment;
-
   return spawn(hugoBin, args, {
     stdio: "inherit"
   }).on("close", (code) => {
@@ -111,19 +113,19 @@ function buildSite(cb, options, environment = "development") {
 }
 
 // Hugo arguments
-const hugoArgs = "hugo -d ../dist -s site -v --minify";
 const hugoArgsDefault = ["-d", "../dist", "-s", "site"];
 const hugoArgsPreview = ["--buildDrafts", "--buildFuture"];
 
 // Development tasks
-gulp.task("hugo", (cb) => buildSite(cb, []));
-gulp.task("hugo-preview", (cb) => buildSite(cb, hugoArgsPreview));
+gulp.task("hugo", (cb) => buildSite(cb, [], "prod"));
+gulp.task("hugo-dev", (cb) => buildSite(cb, [], "dev"));
+gulp.task("hugo-preview", (cb) => buildSite(cb, hugoArgsPreview, "dev"));
 
 // Server tasks
-gulp.task("server", ["hugo", "sass", "js", "img", "static"], (cb) => runServer(cb));
+gulp.task("server", ["hugo-dev", "sass", "js", "img", "static"], (cb) => runServer(cb));
+gulp.task("server-prod", ["hugo", "sass", "js", "img", "static"], (cb) => runServer(cb));
 gulp.task("server-preview", ["hugo-preview", "sass", "js", "img", "static"], (cb) => runServer(cb));
 
 // Production tasks
-gulp.task("build", ["clean", "hugo", "sass", "img", "static", "js"], (cb) => buildSite(cb, [], "production"));
-
-gulp.task("build-preview", ["clean", "hugo", "sass", "js", "img", "static"], (cb) => buildSite(cb, hugoArgsPreview, "production"));
+gulp.task("build", ["clean", "hugo", "sass", "img", "static", "js"], (cb) => buildSite(cb, [], "prod"));
+gulp.task("build-dev", ["clean", "hugo-dev", "sass", "img", "static", "js"], (cb) => buildSite(cb, [], "dev"));

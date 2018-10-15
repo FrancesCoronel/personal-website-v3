@@ -9,33 +9,33 @@ categories:
   - blog
 ---
 
-So in case you haven’t heard of it yet, “[Don’t Starve](http://www.dontstarvegame.com)” is this awesome Indie game that came out late April of last year.
+So in case you haven't heard of it yet, “[Don't Starve](http://www.dontstarvegame.com)” is this awesome Indie game that came out late April of last year.
 
-A year into its inception, I gotta say that I’m really glad how amazing it’s turned out – high aggregate and review scores – and they’ve recently added their first paid downloadable content expansion called “Don’t Starve: Reign of Giants”, which basically added a bunch of new monsters (giants, perhaps?) and territory to discover and be terrorized by.
+A year into its inception, I gotta say that I'm really glad how amazing it's turned out – high aggregate and review scores – and they've recently added their first paid downloadable content expansion called “Don't Starve: Reign of Giants”, which basically added a bunch of new monsters (giants, perhaps?) and territory to discover and be terrorized by.
 
 ![Screenshot from gameplay](https://lh3.googleusercontent.com/iia_n09fFl4cUDZ6rrBRa1tFIlAPQxKABhRCv6eoygDAtVcQWQrDW_GKeaP9Wb7NZfyM7W6uC4I76iE051DvRhSf_hw_yaOH7cwkdTLUvhPgVTWdUFK8gtOpZK6me7AkEBWqQ1sNLDz4X4p-3lmDekebZK3y-j1x73WPFJvS_c60WXWMVBq6kUA4ze4zTjNDqkX1ZaZZxVPgH1r0Z97MTao5v6gzeGoo7tMQ07iwlenog4VBnHZ9MSBf1o_rK3CUx3sfFvmnJfCfwigKTiA3mwTIMWQoGR8sR4dqExhwLu-diaL1fW0oOVrK-ogBwrfAdvAswkCwnBoaG53BBdniRnKKYp_btAdAeELAvrQk12nhveIh_TtnL2BKm07_mnEqpyMolnxBTYUzTm22k4iFx2tMacyyL5wXJuxA6brTf0gpBnG9_qiCwmDZkJKCx5AGE0CzPT_LZnBb3ydxJG6TeEjRoJc-lmbYdeDtWhz5OgK8ZeKoedqGPzaHG2b3BqyiucEUjJLcG9oaGtcgMGdw8PycNzu0gVaKRHaT79Jkk_8pNNWFjHO6nEFMnfAfb3sxFNCbVP1P-cQwe0gAF1s2bC2nWS4WeqhqGZkHpw81K6ga7s49a3EvxXAWGRO4ZtiJ=w402-h220-no)
 
 Screenshot from gameplay
 
-I think the first time I saw this game back in June last year, I was kind of hesitant. The [trailer](https://www.youtube.com/watch?v=W689SOpXG9o) didn’t really impress me that much and it looked like I was just going to be walking around a lot and not divulging in as much excitement as I would like.
+I think the first time I saw this game back in June last year, I was kind of hesitant. The [trailer](https://www.youtube.com/watch?v=W689SOpXG9o) didn't really impress me that much and it looked like I was just going to be walking around a lot and not divulging in as much excitement as I would like.
 
 Let me point out though that the [trailer for their newest expansion](https://www.youtube.com/watch?v=btI6Eyqv01c) is pretty downright nifty. Probably because they combined animation with the gameplay to create that creepy atmosphere that makes the game so special.
 
-Any whoozies, once I got into the game, I found that I was genuinely scared for my character’s (Wilson) livelihood. And that was amazing! To feel emotionally connected to any character in the game is a win-win, right? The gamer feels the adrenaline pumping through their body and the developer can be satisfied knowing that the gamer really was entertained and moved. And what with Wilson’s famous [beard](http://dont-starve-game.wikia.com/wiki/Beard), it’s hard NOT to like the guy.
+Any whoozies, once I got into the game, I found that I was genuinely scared for my character's (Wilson) livelihood. And that was amazing! To feel emotionally connected to any character in the game is a win-win, right? The gamer feels the adrenaline pumping through their body and the developer can be satisfied knowing that the gamer really was entertained and moved. And what with Wilson's famous [beard](http://dont-starve-game.wikia.com/wiki/Beard), it's hard NOT to like the guy.
 
-In the game, for example, there’s a clock that will alert you as to when it is the morning, afternoon, evening, and then midnight (there are even seasons), which is the darkest hour and you basically can’t see crap. AND you will come to realize that in the game, things definitely go bump in the night, if you know what I’m mean.
+In the game, for example, there's a clock that will alert you as to when it is the morning, afternoon, evening, and then midnight (there are even seasons), which is the darkest hour and you basically can't see crap. AND you will come to realize that in the game, things definitely go bump in the night, if you know what I'm mean.
 
-There’s also different structures and magical tools you can construct with the proper amount of material. Build a house or fortress, create a magical dark sword, cook a wonderful [meat soufflé](http://dont-starve-game.wikia.com/wiki/Meat) (something along those lines). It’s really your call, which converts to many fun hours of random gameplay.
+There's also different structures and magical tools you can construct with the proper amount of material. Build a house or fortress, create a magical dark sword, cook a wonderful [meat soufflé](http://dont-starve-game.wikia.com/wiki/Meat) (something along those lines). It's really your call, which converts to many fun hours of random gameplay.
 
-My first time playing the game, I thought I was all good. I mean, I got my food, my materials – everything was JUST dandy. BUT then I realized oh wait, it’s getting close to midnight, what does that mean?! It means I friggin’ died just because a stupid spider killed me when I couldn’t see anything but pure pitch darkness.
+My first time playing the game, I thought I was all good. I mean, I got my food, my materials – everything was JUST dandy. BUT then I realized oh wait, it's getting close to midnight, what does that mean?! It means I friggin' died just because a stupid spider killed me when I couldn't see anything but pure pitch darkness.
 
-Be prepared to die in this game, a lot. Unless you’re really into survival games. Then you’re probably just going to die a few times.
+Be prepared to die in this game, a lot. Unless you're really into survival games. Then you're probably just going to die a few times.
 
 ![frankenweenie_by_9emiliecharlie9-d5hszqu](https://lh3.googleusercontent.com/l36-Y944eY7MI3d42lO6vDvUchKrH44B-rxsxT6bRItCd8curikCKYfHI_W8DWFBIf6nUcz5xp-gve-YWivz95QVvgCYojFela-oP_NXRN_FdpJo4GZsw5nwjMyWLC2wc4uZWPlnqgNePW4CYF5uqibSNdHyntB52aZlWJQg2oEdT0_o4Yjjm8t02_pVac1Scu0_ACfPUlYtj7vx5IZ1PVA0u13GLlM0agrlqqoxZ3GX4kZTZMCqzuQDKYmXsFiUdyz_0qhMRq3utvZ3lPwc7S0Kxo49NT6Fs7_IfvlnVd9qxXETGlDD5cSuLgAycGVi4A-oRKTipixizN_Xn04OmwoLucW7y6w8Do_pfDHRB7zE3Gho3tlzgGJY9c6PeV3N0IfziB6DKFZuy9NSlLvdhNJ9L8Y7-_tI_3Zrywo9HplfN61nGdfXbZpc6AkA5xHyuVQl95kKvLJqFidvhyMS3aLVvJkdYRT3uweqOfyKv6QzDFv7_W7ksZwelDzhoA8aEAem5f_ICNn8ePzErK5WgMlAki1ailt9MKjavSIRONty0Yh197HKG4c4TJC_hFcI8Djl6F6KHXZNSMllqT_-avVs7GE_kw2163LNITApqPstjoJk3Z55ZZg4Ipz1Osge=w337-h220-no)
 
-For a game that looks like something pulled out of Frankenweenie (the developers were inspired by Tim Burton after all) , they make sure to be consistently in touch with reality – you’ll get hungry pretty fast, you can become insane (and I mean who wouldn’t if they were stuck in the wilderness with all these [f’ed up creatures](http://dont-starve-game.wikia.com/wiki/Monsters)?), you can get sick, and so on. By the way, if you’re going to look at how the monsters look like, consider yourself spoiled because it’s much better to have them scare you in real time.
+For a game that looks like something pulled out of Frankenweenie (the developers were inspired by Tim Burton after all) , they make sure to be consistently in touch with reality – you'll get hungry pretty fast, you can become insane (and I mean who wouldn't if they were stuck in the wilderness with all these [f'ed up creatures](http://dont-starve-game.wikia.com/wiki/Monsters)?), you can get sick, and so on. By the way, if you're going to look at how the monsters look like, consider yourself spoiled because it's much better to have them scare you in real time.
 
-Regardless, even the constant string of deaths, which are actually preventable with the [right ingredients](http://dont-starve-game.wikia.com/wiki/Meat_Effigy), couldn’t stop my utter fascination with the overall ominous ambiance of the game. I mean, not only does it take a long time to just discover everything the game has to offer with the multiple characters, adventure mode, story mode, all the sweet monsters and the strange societies they belong to, etc., but once you do discover them, you want to take a moment to sit back and just kind of appreciate the little fellas for the scary buggers they are.
+Regardless, even the constant string of deaths, which are actually preventable with the [right ingredients](http://dont-starve-game.wikia.com/wiki/Meat_Effigy), couldn't stop my utter fascination with the overall ominous ambiance of the game. I mean, not only does it take a long time to just discover everything the game has to offer with the multiple characters, adventure mode, story mode, all the sweet monsters and the strange societies they belong to, etc., but once you do discover them, you want to take a moment to sit back and just kind of appreciate the little fellas for the scary buggers they are.
 
 So **THANK YOU** Klein Entertainment for providing a great Indie game.
 
@@ -45,7 +45,7 @@ Obviously my personal rating is going to end up as a 5/5 or 10/10 – what have 
 
 > [https://andy-butnariu.deviantart.com/](https://andy-butnariu.deviantart.com/)
 
-Also, it doesn’t hurt that the game has awesome fanart. Check it out.
+Also, it doesn't hurt that the game has awesome fanart. Check it out.
 
 ![https://meckelfoxstudio.deviantart.com/](https://lh3.googleusercontent.com/hBooBnDpjRT_gnrtRWvXbh1FUkBvfbNsWEog31iqJaOIELNUEEaDoAnWde_-pFiUStfZnNk-EU8f0bJocrAXEg2OSlznd3JUQWgOuE9NCBNDB6JoJ5LSlHmTTgWc89dVWhvCEjqwlMRxFtS8EPQYWma4cqrPeFZWkBRg4FVg0XY5aKwmCXcQkbyTtdES6G3GOQZ_-NGqzaOARrxWYxRN8J-VPWUL3Hc7zd1ITwh5MKePFkpOghLkA4nvbo9v-ZFiBcgfAOOw1uKI46sZLboyFWBIru9D_ou9rsoVw60uCPzjV2zIG-tMXycfzz1x81bV1MVipy--b7Ap89X4zpvMyaQ70FQSThSsZ_sJiU56ESZac4ZQ1TyrsExBbaB_I6VyP7Xz7ExqtFawCtBAN2CYbYAlbZSjlDgL23N2A3bqMXYzt98eGCQtTABM4pjFxnZv_Ktojl_hcX0xgHsOzj2sFbVOnUQ_DPdFNXiq7--xZmJAAoV1-D7YbPJlcPHx4t7b5geiclV8zKN2MP5QNDzbI-xlWXcR-8djGJqEP1wS_KKq1eT14fMLPPmmb9YJNfQLCR3ZcRY0L46x_qGX3ldD19axr004sAdRfWEPg6jDWTnlZEqtBTocvUd5_2xd3X_c=w1018-h784-no "Don't Starve Fan Art - 5")
 
@@ -67,14 +67,14 @@ Also, it doesn’t hurt that the game has awesome fanart. Check it out.
 
 > [https://nataliedecorsair.deviantart.com/](https://nataliedecorsair.deviantart.com/)
 
-Isn’t Wilson just downright adorable?
+Isn't Wilson just downright adorable?
 
-If you’re interested, you can find a lot more of [“Don’t Starve” fan art](http://www.dontstarvegame.com/fan-art) at the gallery featured on their website. They even feature a cute little [Wilson crochet doll](https://www.facebook.com/photo.php?fbid=240025272807318&set=pb.102177486592098.-2207520000.1399074073.&type=3&theater)!
+If you're interested, you can find a lot more of [“Don't Starve” fan art](http://www.dontstarvegame.com/fan-art) at the gallery featured on their website. They even feature a cute little [Wilson crochet doll](https://www.facebook.com/photo.php?fbid=240025272807318&set=pb.102177486592098.-2207520000.1399074073.&type=3&theater)!
 
 ![1008247_544492965589213_1379285285_o](https://lh3.googleusercontent.com/HdN8BCmMxQ7C7s4tkGa2szcn_WaiA7Tuo3HmdGpSsslPCczvgju2frE-HnXjM9ZiIopdcMkKugoDmMoThZMF_PDE0ZVuqrJjww7h-xdSjdwnhPF5EodXgOCwYAmZGkZ1hP3c4ATwSJWpWAwSFlDJEn7oF7KpNJmfKWuCGmJIHoLvbw4mH5_5Y-90LhoyzkzUurmslno0by4oUpEEXa4EoYvTENMess-2A1ttAr4EYX254PH8bJ0OlsY7xrnLt6tOApPX2UgJ_gEwr6MKNyCweYG2u7HO61E7Os6lWXL3-no3pjcNqFfYxdSlK42tP7f7VyQNaO1UMLKETRkblZwP_8Bcq00LQW2Xg6N0I3t2vT4PejVua1SHSVoy5toYzP02ptkU-fzFq6v6oL6sPoNPT49lIjUfmklY609LJjlNXCFRW9-9Dp3vOSykiN3mHqW_EFPk79rTuFwsd_V3BA4X2tgXq9yjKfAV5A7MIHrbcbJS8Jnp5Q8bdjtptkFnu81Frl7R286M8Spzw1MK-OflmCyP2h4nNBMTJ02MHSh3Id-om8a4Im5JiYy8v60ebIAT9OkmBx758YOfZpIxGG0uWrzjjURgcHLygrbuACcPvDYFead3mfT8Yyroatkm39JH=w602-h401-no)
 
-There’s many ways to play this game and so there are many ways to fall in love with it.
+There's many ways to play this game and so there are many ways to fall in love with it.
 
-Indeed, I’ll be starving today once again. Cheers.
+Indeed, I'll be starving today once again. Cheers.
 
 ![post-7347-13764590855412](https://lh3.googleusercontent.com/R5Uq1A7MLlVQYESoTuw3UGL1Exw41F3PsmUvGmw5wBERK_ZlNyXrD-W-HficUENCwRbUO07S5O3Y0YqPPfE3WDpX1lKlFQtLPgMyeVY-ea8armq21-Az4hgkMtafaPXd1ouQhqOPUWVSfJbII5-MH-1T_kEplBni2DdanyNywolAV9XyKoZGFsPohNqlgQCOw_EFBfoFCc_Fs72cghP9YAyu9Co7_sRWYiSyPdJ2PxHsV_ktNgc3-2qHE2WijOZXNvxM21P-tCgsWFBvV02nvDEfshEVhg4r-TFb-uhPBoyfX1Cm6QR65FjvD4_KcJQIRbA6qZWGUuyHMK_HId5kPztWsxkYuAdXPWp5JQVG1J7gL15pr6_f_0EJG_-malvsGnJ7i-TPilqy_gorbuEqNX8w4irOLvfHWlKIM27s51j-lTCbiJtIU2ZjRNG18W6irdKpqTsS-7b5ZzxSgOCcuq4FSCnXCcwRZVATwsKJPxOf01y7_8x5m_-dJx00mDzIuCwjXsVH0TFHr__oBiHAi1hu-EfKnvyVu23HREM9hLCdfqxH5aYQ9arK16s5X6pWdUv8sqLmYEMpu6XZBmh8czVZ-5-VU3nJADVpPAAu0J-7DHlGfcxOsH_5GF1mA8dL=w106-h79-no)

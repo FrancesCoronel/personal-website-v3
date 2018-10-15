@@ -1,8 +1,8 @@
 ---
-title: 'Fullstack Academy - Week 6 & Review Week 🃏'
+title: "Fullstack Academy - Week 6 & Review Week 🃏"
 date: 2015-07-25
 description: "July 13th to July 17th. There are 52 days of Fullstack Academy. These are days 29 through 33 (Week 6). There's also review week, which is from July 20th to July 24. Review week doesn't count as Fullstack Academy. ❤️"
-image: https://lh3.googleusercontent.com/KoOgpyUNmV7-pJS6LHinG7oRMK93TojRj3Hu_EnJBSNMym-La6y6ZvLs0ce_IeNJDOYazpMAKtkNtvqC8mHcBYuL_2lKICtLosdY112o_XzctWUZjKoPyGUQjq2Em3YmJrhCXg7U1xbS7ABTgKmiaw3soe1TKXcBkYo75AdhRIey7iS3lYP6gLMSh08p9Af3n7ybKt-fg5mIa-GYfY0sv5iHFP4wROZiC6tq6zf60Yo9xx6Tl_f6lacTPecd59ZikENhEiXxEsvFjyPA22I1Qug11QNNRryqrOumgpOogyrOLtJwqNNXFAHz5k2SUrjzHtsaxQ7XaNbgfZDePORktZhrXo72rxziS3U_TucBQpnx8BLWmYHO98H5LPtSTqWGVePFAZnoY6mOLrG4eca-ZvBrtwR5xDnXm2F6KG7_q_2Mgr3md39ONiqpqHkJJlDFywK1PIH8xYngt6LgCMGZ22Suezd1f3BR6YBYyyxG3mXmVsKH308XTANrDiUD47YktUFb7694eFbGvY5u2-PnrMQITam4-O-QzcCAmtKRJdx2y-AABqBzU5hAKH7SYCTlBvE39og77PGp9NAT_kYiPnjFYx8L2AYzptWl0XVQDJ_Lf2Ef0jBZtycADMGjbjqI=w1140-h500-no
+image: https://i.imgur.com/zuKA2c2.jpg
 aliases:
   - /2015/07/25/fullstack-academy-week-6-review-week/
 categories:

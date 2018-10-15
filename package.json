@@ -4,9 +4,11 @@
   "description": "I like to dabble with things that ought to be dabbled with.",
   "repository": "fvcproductions/fvcproductions.github.io",
   "scripts": {
-    "hugo": "gulp hugo",
     "build": "gulp build",
+    "build:dev": "gulp build-dev",
     "start": "gulp server",
+    "start:prod": "gulp server-prod",
+    "start:preview": "gulp server-preview",
     "lint": "eslint src"
   },
   "author": "Frances Coronel",

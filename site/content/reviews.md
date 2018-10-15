@@ -16,6 +16,6 @@ aliases:
   - /testimonials/
 ---
 
-> If you’re interested in being mentored, feel free to check out my [mentoring page](/mentoring/ 'Mentoring'). 📚
+> If you're interested in being mentored, feel free to check out my [mentoring page](/mentoring/ 'Mentoring'). 📚
 >
 > Or you can [contact me](/contact/ 'Contact Me'). 📩️

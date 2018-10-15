@@ -2,7 +2,7 @@
 title: Hour of Code 2015 💻️
 description: So this past week, I signed up as a technical volunteer for the Hour of Code. Here's how my experience went.
 date: 2015-12-13
-image: https://lh3.googleusercontent.com/E5ulGbBrupoP-kk8Avka5hVM8yMyBhAdg-U-ofFNar8Db_rUvJxt_M1x0ROiFz3JbfCu1t7C9rjzZrZjijLKePnrY7M-vONoTSKXOWj3T9s80vsbHIJwXBevs_WnZdvkdCSmHNgkPiwet_XXN6hYGP6J7yOFdzj93RW3o52A8BWIHhEu4YSGK14KTUIEXBdcuB5IskDPdGJMI1ISh5veZBATI4-dDiFvK-CzluAEsBJX19ER_5LP8jz-TDB1WC1r0Ad2TRoroZRzU4u-9Ny5Ge0mvyyl53bh4DKcJ_OgyYu90jSrsMXcMQaqHXTBNrNO9-D2mNaZdmWIfJRhRIBQyEFvuPRUblAm9oTrYs4QTf2-Npg95qE0_K7uekpoSpR_0ZYF8qt3NTud77ccV95aJ4D0Y2sagh3Y3E_91VZxz-P-7vWVeMycO9qQqY0i1735Ng3nZpdmIfv6sMGYoENXU20DJs91S6J_3t7xM3WXgQnoIS_IoWkm16eK07EID8-nbQdLKTztGFORRMQC_UR6WbtBAhnOo4W9xgKGiMaHxg2xU10W87TgMWK0aJpUhX4B8ZUKQmRRwSFWtw3T0rif2IVtKA2JVNQ-6odC83jpQlBDgX_eoEjuk7Ay4jri1dxO=w1254-h969-no
+image: https://i.imgur.com/VO0Djgg.jpg
 location: Multiple Locations - Hampton Roads, VA
 aliases:
   - /2015/12/07/hour-of-code-2015/
@@ -26,7 +26,7 @@ tags:
 
 ![Hour of Code 2015 - Banner](https://lh3.googleusercontent.com/8tbgRRnV6K_DBBoHt4W7UDZZsPCHb1md3h6Ds3_EXdhOlgubcnZoVEq_foPdWKWWqD8mkvqgZoWhZHtT70-GmT2gqv-61m4U9EXdmaf3wonvXFmzKy_HE0QX7y9HBmlvbwrkDqh6toTHnq02b9AE3WfgyKRb2DXieTJCtuLSgHj3hy2UNn9sp-lbuG7yhG-EPM3nSDrlDbKmEY47qS0_bNhLJ_4uejhL_bebEV-kSrITrGQd-fSjl6_w2yAATxmeBnsnGT2gEUmYqYxVreDxi9f7pN5rRQek1IJKWaf-69h_UbXHE5L8Ub5Qjn62qdUnV-rpwxGWp1GsHYdgX6yXVUGWehhQc_zretJuraSiEnfvaTTW6bDnvVyvnQu0A8qCrT_42GEhd5nrzs6JIUvt609vtzzjvNMT0Agp6SVVgLp5XJZDm0jgxlLrpS_rPyZDQAlupb0BeC53Kju0ghEdZINlONKP79ebTgJe6HwSXqVASboRYa2nMuueoxWg_8SpB2Ijahby61mRnuGS8BPmHO0Yra-aIHpUQ0Z5eosfsuLKEIekEzpjA7yhreoZUA85-OWFULzutahhWs6IYJQQBqpsja1MylsHXap-kiaueL9qGcvnUg3sgA6OMOgy10jj=w1748-h969-no)
 
-Quite a few schools reached out to me, but, of course, I couldn’t volunteer with some of them due to constraints in my class schedule or because they were just too far away.
+Quite a few schools reached out to me, but, of course, I couldn't volunteer with some of them due to constraints in my class schedule or because they were just too far away.
 
 I, along with [an ODU student](http://thecbliss.com/), decided to go ahead and even attend a [**Professional Development Workshop**](https://code.org/professional-development-workshops) for the Hour of Code so we could be better prepared to assist the kids. The session was held at [CAML Academy](http://camlacademy.com/) in North Carolina and was roughly **3.5 hours away**.Thankfully, it was a Saturday.
 
@@ -58,13 +58,13 @@ At [`Bethel High School`](https://bhs.hampton.k12.va.us/), I presented and helpe
 
 ### Elementary School Version
 
-At [`Sedgefield Elementary School`](https://bhs.hampton.k12.va.us/), I gave a presentation to a class of 3rd graders on why it’s important to learn how to code. The teachers in charge were so nice and supportive of the kids. I found it funny how much more the 3rd graders participated than the high schoolers, but hey.
+At [`Sedgefield Elementary School`](https://bhs.hampton.k12.va.us/), I gave a presentation to a class of 3rd graders on why it's important to learn how to code. The teachers in charge were so nice and supportive of the kids. I found it funny how much more the 3rd graders participated than the high schoolers, but hey.
 
 ---
 
 ## Bethel High School [#HourOfCode](https://twitter.com/hashtag/hourofcode?lang=en)
 
-Here I’m helping a high schooler out.
+Here I'm helping a high schooler out.
 
 ![Helping Out](https://lh3.googleusercontent.com/46LvwVVwPFQYiwQAyAEPRwfvDR0VzaAccXX6hkJFOu8Qtqc33bP9WF6yPPWLRKOtnsRSRV8B13YYqeudE-2tIYZX1JjfYYgZ43OwfuWedJ8q6Ibr1sZyTB-gvpHWvQ-rREvawY98Racq58k5Sme17zCVdBRfDKDpfV5D79VXynPU3_RG0izOdapEjUagSIWKChdvTUHcarctnbue7F3_L6FWbu7czrfAf_yDN-TCp_XoMWdYf-THyr4IhbB_41pL-5_ZmNrYlhKSfkw-y83vcZCxu19PFLvoFFSttAt0OR0B9XnvvP7D0BXmVMayFSJd7IS-jpjLzaBymzzuauD_DVxhYVWI60LC52eetIPsbfYOVaOHQP4kYsOE6WTL_CjwWjqTpNwy8PSEAsC3xHgCJwO2NT5AEBE2KmJoawPJJ4TeThZXvotGjlMBoESV0LED7mA0rMHtBxRwsQY70RQM6uzhwLgpzjFmFEqQE-Qt8RVHt-66f6eNH5NeuQaPGrCHaMsWPzkE65Mh255ybWtEFFHOEtfV1L0qYxVZPGGtofZEnkgyNYX-8L1nF4eGxomFTottfeYTZY9AAwInkOnkVcRtzlyziVnJp8M7WWqtkq42zC24GsyB8UKCdtm74a-9=w854-h969-no)
 
@@ -154,7 +154,7 @@ Hour of Code – Sedgefield
 
 ---
 
-If you’d like access to the `Keynote` files to show to your class, please [contact me](http://fvcproductions.com/contact/) and I will happily send them to you.
+If you'd like access to the `Keynote` files to show to your class, please [contact me](http://fvcproductions.com/contact/) and I will happily send them to you.
 
 ---
 

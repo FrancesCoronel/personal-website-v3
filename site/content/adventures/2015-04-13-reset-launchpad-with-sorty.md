@@ -1,8 +1,8 @@
 ---
-title: 'Reset Your Launchpad with Sorty 🔄'
+title: "Reset Your Launchpad with Sorty 🔄"
 date: 2015-04-13
 description: You can reset your launchpad on Yosemite using Sorty.
-image: https://lh3.googleusercontent.com/ZZQHA1P3f5sz9CcpnS230Hyt9-b5-RnV4_MvaqyK8xlhs454zr6CYr77RJXCUnxbJN8pXHSFuovuHes5nsrZ3CATm2TkJYWAWBFXH1CEyabVzTBneK_AdtnpX50PTVV7EDdLwW_RlGB8S-YOrGJfVx36ya4l6p8qbFWVpijPIELMrEyImU6HStiEEWG9MVhsA2nOmhkzS-f_zVoVdR12fMfnaxTI2mPMA2E2RhrIbJ4qMXZ9Y3Pd8VvYdvoP24BX6LP03cvEv-dHD1Zqj42Xpx9ahpqBZriK_2lFNtqzb1cYiu2NWQIFGtFvU6OL3auyqffHssfl26PgwQ889mebO4wPCua2JsN_zEu-CZU7HGtdU9VQDBBj4JAt3APeLYowwXf0yfzmZJpMMVRSZ9WmK0NaKaTbaI__7yqrrtrLDDY_6vGTH5Ek6969J_frYgK8HrI8_qV1TksVt12MfGWfg6AEP0D2aT0K_v4TRY7_IPw-Bdd3n3M6it7G9XJCK0gusnIwWjRwzDUHK3E5ApeRMDtOxfgZiKudXpwNUC42-khDGghU6rjac4kP4iF_S4JaPG70QGoKgQ9CDbZjG792OsW6ML3UqHDIyQXDOo1PyEE126IwLmybu2ublsSKzj7Q=w397-h220-no
+image: https://i.imgur.com/7jPGH43.png
 aliases:
   - /2015/04/13/reset-launchpad-with-sorty/
 categories:
@@ -15,23 +15,23 @@ categories:
 
 ## `Terminal`? No.
 
-## [`Sorty`](https://wiles.dk/ 'Sorty for OSX')? Yes.
+## [`Sorty`](https://wiles.dk/ "Sorty for OSX")? Yes.
 
 # ![Sorty for OS X](https://lh3.googleusercontent.com/k9qrw_nHcQJWaoMRoUmOa6lHSWdQI-O4DEbbHj0tAiSQfn9aXOtS3F6tjL9FKOPbBxgiaDvgfwRY5wq_4Pd-LUQD7Wwzogsu0g6ezoNViB_XTUiDGRqc2Eqa6rdziAjTouEp6wNEikSBUfYTe9rjGX9f4jx8RGZ6iFc2mUacZiSTnCAI8wg1fer2XVQ1scdQlGFym62OxYfl5dEua9Ioz5fOz0TkQqDn9eHj_F1xWEuqeekAGHnRMmBfGhh-Zl1khoq5LdX-hDChJ4kUqTqqA5G3W13nT69C1_Dk09HEF5brl-amNkb9VAfbKf2JCXZ8kf9FAJyIgxfF2tb22NXhnR9M9glesz05slWrhoyf4WaP6H6NNSwMvFl1WmRnAoHlpoFGAGH02Qa6qRZDgLnVcQjLYHUQK78_88_Eonc1XSy6sM186fQPmY3H5BIGMFZWCGXl7cp2eg1SYyoQdxHjZofcJvvogqThL51LU2yaXCveCizWEuKjQwEplVxwNw73-f3UyIQbDAHrmY_6WiguzEhUNwvegEf-pbjch47kB7I6cCrn_S7NDb64zqIG8nj2cpVhKtXjWmGBXgzSTObDzoDAhqYjbPIKEoI3u3lUywZWmj7R5iH0fNTwOSAwXiWP=w397-h220-no)
 
-# [Sorty](https://wiles.dk/ 'Sorty for OSX')
+# [Sorty](https://wiles.dk/ "Sorty for OSX")
 
 > Sorty can easily reset your Launchpad items to default and remove duplicate entries in the ‘Open With' menu.
 >
 > This application has an easy to use and intuitive interface, with only two buttons: reset launchpad and remove duplicates in the ‘Open With' menu.
 >
-> Copyright [wiles.dk](https://wiles.dk/ 'Wiles.dk').
+> Copyright [wiles.dk](https://wiles.dk/ "Wiles.dk").
 
 You know, I just don't think this app is getting enough recognition.
 
 I see so many Launchpads that are disorganized and cluttered.
 
-**Thank goodness** **this [wiles.dk](https://wiles.dk/ 'Wiles.dk') dude did something about it!**
+**Thank goodness** **this [wiles.dk](https://wiles.dk/ "Wiles.dk") dude did something about it!**
 
 There are Launchpads that look like this:
 
@@ -43,7 +43,7 @@ If only it could go back to its default settings and look pretty again, like the
 
 > Hah - hey pal, don't even worry 'bout it!
 
-# Just [download Sorty](https://wiles.dk/ 'Sorty for OS X')!
+# Just [download Sorty](https://wiles.dk/ "Sorty for OS X")!
 
 ![Reset Your Launchpad 2](https://www.quickmeme.com/img/f0/f0dde7807d61217dd7acc9b55667c2320e46fe62fcf1d95714f0fb563280d18f.jpg)
 
@@ -57,20 +57,20 @@ This app can do wonders for you!
 
 **Automate everything!!!**
 
-## [So go ahead, make your worries go away!](https://wiles.dk/ 'Sorty for OS X')
+## [So go ahead, make your worries go away!](https://wiles.dk/ "Sorty for OS X")
 
 ![Reset Your Launchpad 4](https://i0.kym-cdn.com/photos/images/masonry/000/259/943/694.png)
 
-### [You downloaded it, right?](https://wiles.dk/ 'Sorty for OS X')
+### [You downloaded it, right?](https://wiles.dk/ "Sorty for OS X")
 
 ![Reset Your Launchpad 5](https://imgflip.com/s/meme/Jackie-Chan-WTF.jpg)
 
-#### [Wait, why didn't you download it?](https://wiles.dk/ 'Sorty for OS X')
+#### [Wait, why didn't you download it?](https://wiles.dk/ "Sorty for OS X")
 
 ![Reset Your Launchpad 6](https://40.media.tumblr.com/tumblr_lxsx4pAafb1qfu4tho1_500.png)
 
-##### [Your chances slowly draining away...](https://wiles.dk/ 'Sorty for OS X')
+##### [Your chances slowly draining away...](https://wiles.dk/ "Sorty for OS X")
 
 ![Reset Your Launchpad 7](https://s-media-cache-ak0.pinimg.com/originals/45/55/e7/4555e732a56e8faa1bd65aacac7cae3e.jpg)
 
-###### [DRAINNNNIINGGGG...](https://wiles.dk/ 'Sorty for OS X')
+###### [DRAINNNNIINGGGG...](https://wiles.dk/ "Sorty for OS X")

@@ -1,8 +1,8 @@
 ---
-title: 'Fullstack Academy – Week 5 💕💓💕'
+title: "Fullstack Academy – Week 5 💕💓💕"
 date: 2015-07-11
-description: 'July 6th to July 10th. There are 57 days of Fullstack Academy. These are days 22 through 26. Week 5.'
-image: https://lh3.googleusercontent.com/9XJ8B2TcEUZUYwzFBO4Ob9bCvQ620hlqCSN4eY8f9nMEMANzEhPrz88B8Rnugpy0pz-4_o9O7NDLcf6AedlWC1PNfT7d2CbUYMhyrUUZMRfM-TjzyQ2FgPYP7KFGGT_3UvmRmYz-KtoV7EbTc_xESafL8Q-VKikJnBJofmGDnz43lwFVCVn2EaSFXB_S4dc_A-KsLEw7O16Y2eRtVzRIhwjh0iB5vRoPZ9lZ1jUWP3lyazr52S7ZtfITujWNhC7OKBmNAP1jjwYhDVnwdvYCizJWCa3h0HeyJWWqcwRasDas20M0P6JyFm_9wxXF8II-7xx8G21mmIZ5EnFOIuJTfyKusnannf2EulQIUwPldJcBPg4na9w9vzbEMb7bQ0hQmelT6cEO9CqQI7lZzaw6b2bmLMLgGkVr3KvXq5TiGpFm7Iy40NDWOhj8JZSjo3P2v51HG80giq2OogJ5zjTrbEkt2mbnZELcVVyTvSpRSQCepWmJiawz1EEeuoymYWwTqPhWeCZAjqeeD7cOBGmNXKT5a975BJ8qdr6yOAtOJD3ZQ6nsoEhLI3IK-DVEPwDEf5ZnWYJuwCxCMUIFOQIz_kImkxMes8fvBV67Tr9dr2e0qOusI_lnOgEAvh1zh06X=w1140-h500-no
+description: "July 6th to July 10th. There are 57 days of Fullstack Academy. These are days 22 through 26. Week 5."
+image: https://i.imgur.com/wJkP55a.jpg
 aliases:
   - /2015/07/11/fullstack-academy-week-5/
 categories:
@@ -56,7 +56,7 @@ categories:
 
 - Okay, so I feel a little bad saying this, but I'm pretty sure the best lecture I've had so far here at Fullstack was just delivered - today - by Joe.
 - Joe is going to be teaching us more for the senior phase, but I guess since we're all going to be seniors in about a week and a half or so, he's trying to get used to us or something.
-- Anywhoozies, the lecture on [`Socket.io`](https://socket.io/ 'Socket.io') was just awesome. Seriously. So much mental stimulation. Sockets for the win!
+- Anywhoozies, the lecture on [`Socket.io`](https://socket.io/ "Socket.io") was just awesome. Seriously. So much mental stimulation. Sockets for the win!
 - It helped that I had a good partner for this workshop too. - Another factor to consider was how much trolling one could incorporate into the workshop which was all about creating a white-board (to draw on) anyone could connect to and making sure the drawings of everybody else also persisted upon refreshing the browser. My partner and I breezed through this workshop so yeah, we were feeling pretty confident. 😎😎😎
 
 ## Day Four - Thursday
@@ -83,7 +83,7 @@ So I'm just going to list them off one by one.
 
 ![Emojiii Reactions](https://i.imgur.com/lJxcOh0.png)
 
-### 5. The workshop was interesting. It was basically all about making a primitive version of [Quizlet](https://quizlet.com/ 'Quizlet'), or maybe what was probably a lot like the very 1st version of Quizlet.
+### 5. The workshop was interesting. It was basically all about making a primitive version of [Quizlet](https://quizlet.com/ "Quizlet"), or maybe what was probably a lot like the very 1st version of Quizlet.
 
 > This reminds me - I actually made some [flashcards for Fullstack Foundations regarding the command line](https://quizlet.com/80424838/fullstack-foundations-intro-to-the-command-line-flash-cards/) using Quizlet.
 

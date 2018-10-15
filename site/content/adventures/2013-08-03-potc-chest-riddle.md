@@ -12,11 +12,11 @@ categories:
 
 ## Here's a little riddle that is based on a very recognized riddle, except it uses POTC references.
 
-So basically it's like [Star Trek Monopoly](https://www.amazon.com/USAopoly-MN066-201-Monopoly-Star-Continuum/dp/B001SN8G8G 'Star Trek Monopoly'), a spoof of the original.
+So basically it's like [Star Trek Monopoly](https://www.amazon.com/USAopoly-MN066-201-Monopoly-Star-Continuum/dp/B001SN8G8G "Star Trek Monopoly"), a spoof of the original.
 
 Made it up on by own and really love it so hope you do too.
 
-![POTC riddle](https://lh3.googleusercontent.com/hpe5rP79Gicv1HLISDJ7QK7mjzVWZ8XGy6YXJz1YTZrmdTxSYBuCRBQ37rvh9I2oCeLbm3yPj4-ap4DzbQkXotlU2UJbZKUppyQZpx4UBanpjKLjur3I7kU0BfrvaOXhUYAjwcrJKNSJvEM1EQ9eQTB1gNtGBjPPi-CIae0Q-1WtlAj46jlVvdRn8fWeppxoLweSfNiQFr0mNByxoySKidPKxefxFKsNsc72M-xrw6lbq4sU-siSZ7YPVX4qWW9mxuSiBHjTnRpzTA9xIF8UVxBqhHiXDUgQjz-msa7sJ1Fvt69DKqnE_Obby6X43SDMW6v7LR1_4msIzggLsAnd1tgqHb0ZZLIsr8J-mbYdpDlgKPFsV_Nkm0p2vUkr_uaz7m3Ld0gXmYY64IqFEY04mn-2xo8-eqpKYZzMl0urmaHbdv0B_LTLGuuVaHQZ9SavryiBBUnGZQYPTH7dOt06JWWoB7-fypvOuUIdBXbjx3Mr8u69Xd7SXILp50Bgy4KyAWqT8ma8iSr0xAMvZhl2TT9TUnpexLGw78KXYr1F1cWgUd1qQ7wE6Xi8P6xpvqmSrYb-DDTgUh6WGU-A97HcMM5lQCh37vwvlSXrk2NC57QCpVPSxCYVDOT4kc9DQxiz=w414-h748-no)
+![POTC riddle](https://i.imgur.com/cMcCYoq.png)
 
 You are Jack Sparrow, Captain Jack Sparrow of the Black Pearl, and are on a journey to discover untold riches of the long gone Spanish pirate Benito de Soto.
 

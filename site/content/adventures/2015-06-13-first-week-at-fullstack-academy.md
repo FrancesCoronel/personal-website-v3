@@ -1,8 +1,8 @@
 ---
-title: 'First Week at Fullstack Academy  💫'
+title: "First Week at Fullstack Academy  💫"
 date: 2015-06-13
 description: There are 58 days in Fullstack. These are the first 5. Let's begin.
-image: https://lh3.googleusercontent.com/dLr2jWuyQCl8B8IdykYPrVc940ZyOj5RgEgsQO_ZhGLMDYcFfTx6uDHQvzDSOols1Z6r8pdpx8xGHIfswWd5-fGeIqjYxDIlkTrioEJ9r0Q8UQEXNJUJd1rUvs4ompJdBeQHYNUBiuQN2TfZ2OL4jNIkhSJwmQ4EazRLeqcJ1ekGbERJgPIUM9BhfJ0aah37cad7U2-HLDknzC1b8Udr9sto8HhK-FX8Mu_8YzKv6ryWL-QoZHBmO5SCY9dvr7cNMlZ9JBW3zo6yjS6O8UL3m2nw53zcGzzc0WxLQx9oy7tQq6s9mpTUYzdCSG4we4Hd5GwxtqvmA83d0t7tceJebj3NDCWUot_GP6dtsPM8-p-RAhWkyi6GTMl8tOgIiVHHY9pOkAsM5A4Z7EQRuH1YCGH1cJ1BG8IswRdxLB9knZx03PBYTJKoggmur7-fdH8s8a_--wq584uCwu3uKox8Ega8Mq_QxXHN0eZ9v2KnUjzR7N6mgGhA-o4RXhT31MZ-ZjktBl-bZYpPeE7CxnpsZl1Mt_8N1HUZ2pecqbtHjd8tqDLvEdsP5GUYlUvEeOWlb-P7QEcxdY_YLaCSzQwjUQZQ9TyomT3M05bYPmYPm4hH5Nd5kGwpB-58stX6JE2i=w1140-h500-no
+image: https://i.imgur.com/Z8oUzkr.jpg
 aliases:
   - /2015/06/13/first-week-at-fullstack-academy/
 categories:

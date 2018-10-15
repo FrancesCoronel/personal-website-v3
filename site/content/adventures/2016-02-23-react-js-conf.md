@@ -1,7 +1,7 @@
 ---
 title: React.js Conf
 description: Sponsored by Facebook.
-image: https://lh3.googleusercontent.com/QHZdnP21Va6_HGkJZ_nPdIG1cYHOP5m_cinTtoqfhmakz_NFx_WDslTKdnqtynv58SotwsSThofSmEIA_C1ZsAmoLoeVkuGKdIVR8vOZ8xSu1weiBfWwaYHzHKYvPOF0KZWVyu4dZPj5o3vrHGepz7IQLms2Brgu2_aDg9nS7QKO1aOQ_W5Zp-vEfcEHO9IGMR5oG2PtjMDP9GeoK-SLZAtjPp1k3ka6s-Kjscmfz4v0g39H289hbryCc9s80Ye184-3f51OCYLMe75ipnDvKoyQ3YbdX6hTjqwXRIjcOZ97XcDgbpoqCyHSp8Lt2i9H0PK-zL_4ZYziJgpWKkJrS2Vrbi0FWZlvvq6-fHuaInr8n7dWbRkaB4SbxIXYoe3rdB8YQyEjVe0f-wngMOT0Pes9z1CSunpV0tjcHC7qixOScMjjTDp2qeA96UY2CkuJFgMZK89BHmCRMB-Mf-i462gUMX98URhk38sP3kN-6QBOLuY21hzeki6g9cjM_ynUyEB3r1mfNuFPVpv9hOSbExTgK8vocUE1mPQI0TbwY9KBeNyOtNlA358UlhNa6Mk8ofpxzV5TlsIV_evdODl2_HmO2cBZiuekznFG94UKxbBcYZefJvFFIIwI35i7JTk3=w727-h969-no
+image: https://i.imgur.com/IysuMij.jpg
 date: 2016-02-23
 aliases:
   - /home/adventures/conferences/react-js-conf/
@@ -12,7 +12,7 @@ categories:
 
 ## Name
 
-[React.js Conf](https://conf.reactjs.com/ 'React.js Conf')
+[React.js Conf](https://conf.reactjs.com/ "React.js Conf")
 
 ## Organizer
 

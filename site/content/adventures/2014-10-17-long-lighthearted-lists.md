@@ -2,7 +2,7 @@
 title: Long Lighthearted Lists
 date: 2014-10-17
 description: Long lighthearted lists covering languages, old science fair project, coding bootcamps, cool places, TV shows, and conferences.
-image: https://lh3.googleusercontent.com/h_wMjM2QBnzNWDrHVNxKLqVAECVTzaSx7iuvQkjLx2EDxJEJCxwe_VqTU2Ius8Ih5_Y8ro3vBY2J-GcKTHVdwPT47i5S8_yD8AesxnaMMIhRdojPsDtiB_1oV7ns-pKp9BmeteVNiNXsLNZOZD8FVITOR38vsxhoqN-no1Gc-pH4V8OniEGuha0AP_4n0ngBOE7YOuyXXvpZ-toLZHCpCq3rVrDVZZvQRB8SJ_D7VJfzVnqi4JKxslRvxqnK_7j3Aev0Lc8Fgtj7RxY8w8bhSDA_2OW001GTyeeSMFKxkfkwdvYN_A5zSGUYLmoqLCIRIqa4GYS3PGXGGLaG86xgHfMMhYwv6ZCTeS6EqIDrMwYIA44eBXq2w0MOUUYPVvtQX0ZfLGNbaGtI-MiwTfAyiHu0qNn6Clm6Movf7vA8gPslx1VoiTsb8SHYvP9hehIK5Hij8p1VIMmtqIfd6h_A_2ICT8_YqTaBmyPMD5KPiItUeyRFMF_mzSB1QqGYRa9yqSsKGB7eK4qTZbVhdapTEJpvALB3ioHSZbgWC6Zl-eR-d39E3V1NolG1bI5J5R49U_IoiQLkWHW-ksDZv8bNkjWfFVOR2KxPsvvTDYLlIDJrObcf9whqG9DGkRMuxhcK=w293-h220-no
+image: https://i.imgur.com/UbIQdUp.jpg
 aliases:
   - /2014/10/17/long-lighthearted-lists/
 categories:
@@ -78,18 +78,18 @@ Long Lighthearted Lists
 - November 2013 - I decide I'm going to apply to bootcamps and attend one over the summer because I feel more prepared for interviewing. I then decide I want to attend a bootcamp that focuses on JavaScript and/or Python.
 - December 2013 - I apply to the following bootcamps for their full time web development sessions for the summer, but was unable to (unfortunately) attend any of them because I ended up taking summer college classes instead. Here are the bootcamps:
   - [RefactorU](https://www.refactoru.com) - Boulder, Colorado
-    - Applied, interviewed, accepted. Had an interesting conversation about an array of topics related to AI and the technological singularity with [Sean](https://twitter.com/seandaken 'Sean Daken - Twitter').
+    - Applied, interviewed, accepted. Had an interesting conversation about an array of topics related to AI and the technological singularity with [Sean](https://twitter.com/seandaken "Sean Daken - Twitter").
   - [Bitmaker Labs](https://bitmakerlabs.com) - Toronto, Canada
     - Applied, interviewed, accepted. The people there are SO nice - it's ridiculous. I did not feel nervous at all during the whole process. You can see more about my Bitmaker experience [here](/2014/03/12/interview-bitmaker-labs/).
-  - [Code Fellows](https://www.codefellows.org/ 'Code Fellows') - Seattle, Washington
+  - [Code Fellows](https://www.codefellows.org/ "Code Fellows") - Seattle, Washington
     - I applied for the Front-End Design & Development class in Seattle but did not go through with the interview. They understood and were pretty nice about it.
-  - [Dev Bootcamp](https://devbootcamp.com/ 'Dev Bootcamp') - Chicago
+  - [Dev Bootcamp](https://devbootcamp.com/ "Dev Bootcamp") - Chicago
     - I applied for their main program at their Chicago site. Again, I submitted the application but did not go through with the rest.
   - [HackerYou](https://hackeryou.com) - Toronto, Canada
-    - Applied, chatted with founder [Heather](https://twitter.com/heatherpayne 'Heather Payne - Twitter'), never ended up completing the rest of admissions process, but it was still a great chat.
+    - Applied, chatted with founder [Heather](https://twitter.com/heatherpayne "Heather Payne - Twitter"), never ended up completing the rest of admissions process, but it was still a great chat.
   - [Hackbright Academy](https://www.hackbrightacademy.com) - San Francisco, CA
-    - Applied, chatted with co-founder [Christian](https://twitter.com/chriszf 'Christian - Twitter') and one of the instructors, never ended up completing the rest of admissions process.
-  - [RocketU](https://rocket-space.com/rocketu/ 'RocketU') - San Francisco, CA
+    - Applied, chatted with co-founder [Christian](https://twitter.com/chriszf "Christian - Twitter") and one of the instructors, never ended up completing the rest of admissions process.
+  - [RocketU](https://rocket-space.com/rocketu/ "RocketU") - San Francisco, CA
     - Applied, chatted with one of the admission officers but told them early on I would not be completing the process. They were very understanding.
 
 ### Fun Tech-Related TV Shows
@@ -106,4 +106,4 @@ Long Lighthearted Lists
 
 - [National Convention for American Atheists](https://atheists.org/convention2015)
 - [Conference of the North American Vegetarian Society](https://www.vegetariansummerfest.org/index.htm)
-- [Conference of the Association for the Advancement of Artificial Intelligence (AAAI)](https://www.aaai.org/Conferences/AAAI/aaai15.php) - I ended up doing just that! You can find more about that experience [here](https://fvcproductions.com/blog/2015/01/30/adventures-with-aaai-2015/ 'Adventures with AAAI').
+- [Conference of the Association for the Advancement of Artificial Intelligence (AAAI)](https://www.aaai.org/Conferences/AAAI/aaai15.php) - I ended up doing just that! You can find more about that experience [here](https://fvcproductions.com/blog/2015/01/30/adventures-with-aaai-2015/ "Adventures with AAAI").

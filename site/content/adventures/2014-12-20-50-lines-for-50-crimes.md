@@ -1,8 +1,8 @@
 ---
-title: '50 Lines For 50 Crimes'
+title: "50 Lines For 50 Crimes"
 date: 2014-12-20
-description: 'A poem I wrote for a good friend.'
-image: https://lh3.googleusercontent.com/te9pt0vbvdBcmco_Z1GfZONmRLv-evb3gDnKGBdK8j4RrYyTffRN2HtuVTILCC4PAv1CYj3GO4aGk570jn4_tUtPKjh-qmxx-ocZqXY6f-WrV2hkCEr5-ofbJwwcRd49CshVzLhhEWfWAa63JI0Cf7k4lRC9kpGa2K9l2rF6PYAqxaR9kRMkighwb8ljaQEVT5KtbIgBojYt8Vh0-91yby26BViUQupDWo_NksgetuyMKwBcyQvN_zrthMmTnfRenzOKEmTl-lBvhINZJpusdgo982ROK4LalI8H4socWz3l6dqE9hUH6XZl4FmB29SWUEobIZHAIKC4ndT77ujQySIuFjs9oV5P8ZkNerou6EboJqsD2L5nAguRI3CZpSCpZEMxbsaTR1dVIMvb5RpaB_wIGDewr6PnYwxkC4aOt09LUHRNktspZsHrdt8nyBuDXGIWZxn56RgTgVOdJZ4ngUxIzR_JHrvm2jYEGb1lnfKUtSiRB_vEeQpox2OLniKbgBMB1t7IUkO3sxNBpx9YKN74eYTXflFAomyBZ9-jEt865-EgKDkNCijQWlT-4kED7f9wQq7fdkYyy_pL6VNfaKb9UAzUTWkgGjt2UlEqV0SVFA5S4BsqPz-Ednhf2D3k=w1000-h879-no
+description: "A poem I wrote for a good friend."
+image: https://i.imgur.com/L8C3ive.png
 aliases:
   - /2014/12/20/50-lines-for-50-crimes/
 categories:

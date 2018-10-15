@@ -38,6 +38,11 @@ Volunteer, Participant, Winner
 
 Volunteered for the hardware booth and Foobar (smoothies) and then teamed up with my boyfriend to work on [a Leap Motion hack](https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v) that ended up winning an award! 😍
 
+Kent Hack Enough brings hackers from all over the nation together to learn something new, party hard, and create something awesome.
+
+- Our team created a web app that uses LeapMotion to authenticate user trying to enter their home
+- Best Device Privacy Hack - Sponsored by Ubisoft
+
 ### Awards
 
 - [Kent Hack Enough | Best Device Privacy Hack](https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v)
@@ -72,9 +77,9 @@ Using CodeKit, we hosted a website and plugged in a lot of Leap Motion plugins a
 
 #### Challenges we ran into
 
-Getting the Leap Motion hands to display properly was hard. We spent a lot of time working on features that we shouldn’t have.
+Getting the Leap Motion hands to display properly was hard. We spent a lot of time working on features that we shouldn't have.
 
-#### Accomplishments that we’re proud of
+#### Accomplishments that we're proud of
 
 Getting it to work in only a few hours!
 
@@ -82,7 +87,7 @@ Getting it to work in only a few hours!
 
 Different Leap Motion plugins.
 
-#### What’s next for Jake the Dog Key Hand | Security Corp
+#### What's next for Jake the Dog Key Hand | Security Corp
 
 Optimizing the UI, extending password combination capabilities (multiple numbers).
 

@@ -1,15 +1,15 @@
 ---
-title: 'Fullstack Foundations & Goldman Sachs 🚀'
+title: "Fullstack Foundations & Goldman Sachs 🚀"
 date: 2015-06-04
 description: An overview of what's been going on in Fullstack Foundations Week 2-4 and the big presentation with Goldman Sachs.
-image: https://lh3.googleusercontent.com/8bqADRn8NoJAqqlMNGPW56Ls5OBPVwDI8j96_U70bI3zgwqd-DLcQxO84EAeRLKrd9D6yqiWv5m8Fvq0QIktrJ3PVXldPHk8ZxmXba5nraug5_p0_Ff5cmLt--qgKY2lbsRQMzNgsbbIVS_CyLZ76eGYSyXqRw4p1obGP7NS-5cbwG5Cq15CbCVm6x4EC4yU_uyAFwLwS1WbT8Iw7rag3CslEMmTRwiQ4uecxo4sSHsIcQ1FdL8PQyu1ENNKrefWyiPk1BoEESQhp_NlF-PPdYVeSYtqWNDFui_xMBxGEKBOgzCsGCu21KffWfh2WQxk2S9ynn4buXWTjpqkLHp0siZ4Igpo-vaOVyipmXjFMZr0hf7XTXlqabV9x-wuhOZyhycm5xKRf-jtj4OSRfviuqJdP8qBTJ8NVtAe7j-9MDKw_vyToBDn2F3Ndw6ZbCOcH1XUBLTneVK9InuCC7MjfjU-sO2rx-dm3ONNDJt52PRygriMmimQfSJ-6KW7BGZY37XN0r2o1JgxAnkbxVTo3jPz3OfJhRE-ZFloNeDLcH7YQyVvkkwTQHLWeFM0UIniQ2WCwLqvDO4A_oRzCPOGiTKFwakfMED9o2bwEtHNKaNC-0_3bpalJRxwSoTZ2EoH=w1636-h920-no
+image: https://i.imgur.com/smHP8ht.jpg
 aliases:
   - /2015/06/04/fullstack-foundations-goldman-sachs/
 categories:
   - blog
 ---
 
-> Fullstack Foundations is the prework course for [Fullstack Academy](https://fullstackacademy.com 'Fullstack Academy').
+> Fullstack Foundations is the prework course for [Fullstack Academy](https://fullstackacademy.com "Fullstack Academy").
 
 I have been _quite_ the busy bee.
 
@@ -33,37 +33,37 @@ For Weeks 2 and 3, I had to fervently split my time between working on **Fullsta
 
 But that's not all. Otherwise, I'd still be the first bee. As of now, I also have to handle the following:
 
-1.  Finalizing the website and designing a logo for my first ever official client, [Ameot](https://www.ameot.com/ 'Ameot')
-2.  Studying for that silly standardized exam (sadly, no - I'm actually talking about the [GRE](https://www.ets.org/gre 'GRE')).
+1.  Finalizing the website and designing a logo for my first ever official client, [Ameot](https://www.ameot.com/ "Ameot")
+2.  Studying for that silly standardized exam (sadly, no - I'm actually talking about the [GRE](https://www.ets.org/gre "GRE")).
 3.  Taking an online summer course that is a total waste of time but I need the course to graduate as a CS major (the course is CSC 120 which is basically required for all students and learn the ins and out of useful things like Microsoft Office, PowerPoint, & Excel, among other things). A real joy since I have not seriously used any Microsoft products (besides Skype) since the 9th grade.
-4.  Staying caught up with [Silicon Valley](<//www.wikiwand.com/en/Silicon_Valley_(TV_series)> 'SIlicon Valley').
+4.  Staying caught up with [Silicon Valley](<//www.wikiwand.com/en/Silicon_Valley_(TV_series)> "SIlicon Valley").
 
 Thankfully, once summer hits, my only focus will be Fullstack (assuming I pass the assessment - I suck at those), the GRE, and that summer course. Not bad.
 
 ## The Big Presentation
 
-I was selected as one of 3 finalists to represent [BrooklynCupcake](https://brooklyncupcake.com 'BrooklynCupcake') for the 10,000 Small Businesses Student Challenge through [Goldman Sachs](https://www.goldmansachs.com/ 'Goldman Sachs'). I was one out of 9 students presenting since there were 3 students for the three different small businesses.
+I was selected as one of 3 finalists to represent [BrooklynCupcake](https://brooklyncupcake.com "BrooklynCupcake") for the 10,000 Small Businesses Student Challenge through [Goldman Sachs](https://www.goldmansachs.com/ "Goldman Sachs"). I was one out of 9 students presenting since there were 3 students for the three different small businesses.
 
-This implied that I had to create a 5-minute presentation addressing the business challenge [BrooklynCupcake](https://brooklyncupcake.com 'BrooklynCupcake') wanted to solve.
+This implied that I had to create a 5-minute presentation addressing the business challenge [BrooklynCupcake](https://brooklyncupcake.com "BrooklynCupcake") wanted to solve.
 
 Creating the right presentation can take a **whole lot** of time (it totally did) and I ended up getting a cold from trying to work too hard (at least that's what my mum claims). I even still had that cold when I was presenting, but I lucked out and even though I had this sketchy cold voice the day after the presentation, I managed a softer sexier cold voice the day of.
 
-Regardless, the hard work paid off and I was selected as the winner for the [BrooklynCupcake](https://brooklyncupcake.com 'BrooklynCupcake') category!
+Regardless, the hard work paid off and I was selected as the winner for the [BrooklynCupcake](https://brooklyncupcake.com "BrooklynCupcake") category!
 
 This was the final submission I presented.
 
 <blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=fZ1iTIHHXmE">Finalist Submission | 10K Small Businesses Student Challenge</a></h4><p>10,000 Small Businesses is one of several programs developed and supported by Goldman Sachs and the Goldman Sachs Foundation focused on accelerating the growth of high potential small businesses to create jobs and grow economies. Since its launch in 2000, the program has reached over 4,000 leaders of high-growth small businesses and social enterprises across the country.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-> You can view my [entry submission](https://www.youtube.com/watch?v=4a6rEjB8KH8 'Entry Submission') as well.
+> You can view my [entry submission](https://www.youtube.com/watch?v=4a6rEjB8KH8 "Entry Submission") as well.
 
 With all that being said, what stood out for me the most throughout the entire trip was how everyone got to work on `200 West Street`. The Goldman Sachs building/tower is huge so what everybody does is enter through the first floor, take an elevator to the 11th floor (the Sky Lobby) and then from there, they have several different elevators they can use to get to the other floors. There was an elevator hallway for Floors 12–14 for instance and then another for Floors 30–40 and so on and so forth.
 
-![The First Floor Entrance](https://farm6.static.flickr.com/5286/5319954555_189fc82df2_b.jpg '200 West Street')
+![The First Floor Entrance](https://farm6.static.flickr.com/5286/5319954555_189fc82df2_b.jpg "200 West Street")
 
-![To the 11th Floor](https://www.3dhousedownload.com/wp-content/uploads/2012/11/Elevator-hallway-ceiling-interior-design-3D.jpg 'Elevator Hallway')
+![To the 11th Floor](https://www.3dhousedownload.com/wp-content/uploads/2012/11/Elevator-hallway-ceiling-interior-design-3D.jpg "Elevator Hallway")
 
-![11th Floor](https://static.businessinsider.com/image/5012d4beecad043223000007-590/foursquare-user-hugh-c-snapped-a-shot-of-goldmans-sky-lobby-inside-its-200-west-offices.jpg 'Sky Lobby')
+![11th Floor](https://static.businessinsider.com/image/5012d4beecad043223000007-590/foursquare-user-hugh-c-snapped-a-shot-of-goldmans-sky-lobby-inside-its-200-west-offices.jpg "Sky Lobby")
 
 Everyone was so used to all the elevators and there were so many people just packing inside the next available elevator. It felt like something exciting was always about to happen but at the same time, I felt a lot like a sardine.
 
@@ -77,7 +77,7 @@ For Part 2 (or Week 2) of Foundations, which was twos week ago (holy crap!), I d
 
 ![The Guessing Game](https://lh3.googleusercontent.com/q5-lIRJBFCTLBSNf1OaN7DO5iO8jc_3QscAUMH2yM2Y84_h94_I3Exzu3hW6ZLk3tUVl-TKh-5Csmt3uDL3OkzefgHqSKpjBTj9AsIct_44Zljwe8zoqx1qmHZDyjuU3uWR-L1k5ZIVUp0aQNOKB5imQMLFZB97aOm0vIliMpsnX95pRzBbNxIyIs5LIWsISWvPUYHc3A3Wx1dO2B6TPGrkBudmhAkCRjEEn0EAhqs9WX2YnD6P3qI7-jOCx_V7tdSXb-gCBWVwtrsM2MBiyhKXvU-EV-ckQcZ6sq8S5a44695dwGt_s08GKpPgiLhTS0moa4DTpMkrCEZM6-mIAvf-ybyFV5bKeVn5xyu0MW3TJTGsH0O5b_X6lEtutoul6QmO7fz8BKL3UaucuhGlCFrb938iT_2hlYwK0ellEpZDomYqNCyeL8gS46DdoScygIaBH32OW7l9s_6MRXzPz5YUD8lrxVPFI63AD4pj6fqT5oLFSby0VU69P-Rrj_l9klbVXU4OYITxjPNrl_z62_U1cRbh3xxIWZY_HGKZErVys56U0wh1E_Ivsl2p14sq1GyYB7SpsokXBaBFtrzCAQAO6xaCnNHSJnHxbwmdHiexypb8uhuO47oUKGIiqWZ_H=w374-h220-no)
 
-> You're welcome to play the game at [fvcproductions.github.io/Guessing-Game](https://fvcproductions.github.io/Guessing-Game/ 'Guessing Game').
+> You're welcome to play the game at [fvcproductions.github.io/Guessing-Game](https://fvcproductions.github.io/Guessing-Game/ "Guessing Game").
 
 But now this week is all about **Part 4**, the last part, the finale, the end game. I still have a lot of crap to do but I have been able to reach some conclusions.
 

@@ -2,7 +2,7 @@
 title: Binding of Isaac - Review 💀
 date: 2016-02-27
 description: My review of the Binding of Isaac desktop game.
-image: https://lh3.googleusercontent.com/HBMcE8wcbEJSKJUCNOAD14QFvQxvzuyV5ltY19Uxo9ouvFdnGk2dBJJlAxPiPIZWsy31e7pbXd5BKcxU_fYVNcC1QgB0QmHo8Z8zbhCltd04JJUXxB-lcWqzhbL8wryn5HHj7zMyfId8plcw9sZVSm0hPZUsUjrVqG5-WAbous4aIMs5f3luDGLI4u23OUF1xvtqnZBxrXVM4ztNklc-lUehGY3eEr9W5sNmV9PwwUyhJqEVIopsRFMPbOh7ejrRQJgBEHZWlAYRx2rbPS98uaXf2jQC_5647lwjNyVqXXR63SzrKBiW3-4ewyLFz83W2EMAdfMbVjPwMngHKmO_40iUb31S0RYWUf9QqOktc6iI_fYrEUWYMUolJ71NcVAfeaidzVgNNcysGzGbLxV-9eOUA-xDSXxxYve5LTt-ToQIhAEoU08JDar3XEb_mA165oXDuJiNb2AdWwM4wYzaT1a6NfuV5sIQYuFiSuaxeVyICOLs6FpVBqQyKEcTVrdmUf_61O47hQZBLt2nxThgi1s4cNPYfH1NqHnXtq5ermZtbsu3FuqitP8uNbKJ2daBDxtnIimLlbqy814y-d9VMT0-dhEDj1bR8-2N5wWIWnhmSQXr4aozjg9FI33TnuXq=w1100-h560-no
+image: https://i.imgur.com/uuYwmA6.jpg
 aliases:
   - /2016/02/27/binding-of-isaac-review/
 categories:

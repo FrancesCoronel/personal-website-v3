@@ -39,6 +39,12 @@ February 12th to 14th, 2016
 
 Stanford's annual hackathon.
 
+TreeHacks is Stanford University's official national hackathon. This year, they brought in over 670 hackers with a 50/50 gender ratio, the first major student-run hackathon to be able to do so.
+
+- Our team, Big Hero 4, created Ammalia (which means surgery in Arabic), a Leap Motion assisted app that allows medical professionals to easily view and manipulate scans while scrubbed in, sterile and ready to perform a surgery
+- Best Social Impact Prize - Sponsored by GoodHacks
+- Best Use of Dropbox API - Sponsored by Dropbox
+
 ### Project
 
 > _Ammalia._ Where surgeons go to explore.
@@ -101,7 +107,7 @@ Created a README badge using Sketch to be used for project READMEs hacked out at
 - [Leap Motion](https://developer.leapmotion.com/)
   - uses Leap Motion API and hardware to track hand gestures (pan in/out, zoom in/out, slide right/left) without physically touching computer
 - [Dropbox API](https://www.dropbox.com/developers)
-  - use Dropbox for uploading/storing images for patient’s problems
+  - use Dropbox for uploading/storing images for patient's problems
   - have folders within Dropbox API represent a single patient
 
 ### Team - _Big Hero 4_

@@ -2,7 +2,7 @@
 title: Interview with Designation
 date: 2015-01-06
 description: My interview with Designation.
-image: https://lh3.googleusercontent.com/W8jD-ODhpsfx5A-Tkk_1IK6biSDu9zB2rNisXodUi23c3Ilz8HeOaJcdxUUtvAr8LL2jRD8EHGAu34kWfpL12JLAb0h08iMcNR1Li29QuQqWtc8nxpfC6CJM1g_xQ9Ud4UyArc0oyUfBFBr-1hM7momADQ7o3yXInIDU8nt_S-gjPGzl5EbGfA0ZNiQ8rl94hO3YHH4bB2DMBmdHk-flpoDYgBNqHoUbwbXUD8J0B4jA_JucuLEY2A_dfnLamS36r54MGk_DxJel9BrSQ0kBgPl7MncT36js3TATjDCXluzuTLe_w8-dyz3nGxrNQVMYQdNfAfAL78r88av8Owwd79rHpGYMrXPyns0E1oKNGLhAPgeKe2n6tYVCLFgo0Q3oSSkHdRCGpXX1OXhrwOYgLJ2KtIjTSxX64z7hLl7XKvsYrtIjHdVWNVl2LCTJ5VKHkD1yp_Mw2KrdwC1_0S-enioP-vp8buOcvR30qogyIhYgzUH15gf6F5Iymlr1h0ZFsuE2f7rSokYkmF8emIHwZN1dx0XRdGsp7phJBikdiO5vZnfhS-Lg0e1ophYNyS637_rjWIhMKWuw7KjSnpMCrhZyxvMIKHXgP5dAIy8pauF_0sO4sGP57Tx6Q70PzkOL=w1200-h630-no
+image: https://i.imgur.com/kB7bvOn.jpg
 aliases:
   - /2015/01/06/interview-with-designation/
 categories:
@@ -11,9 +11,9 @@ categories:
 
 [![Designation](https://designation.io/downloads/designation_logo_black/designation_vertical_black.png)](https://designation.io)
 
-# Interview with [Designation.io](https://designation.io 'Designation')
+# Interview with [Designation.io](https://designation.io "Designation")
 
-## with [Will Shandling](https://www.linkedin.com/in/wshandling 'Will Shandling')
+## with [Will Shandling](https://www.linkedin.com/in/wshandling "Will Shandling")
 
 > answers are paraphrased or just referenced verbatim
 >
@@ -66,6 +66,6 @@ _Some Logistics_
 - They accept Paypal and Bitcoin...
 - Once you confirm your participation, they'll shoot an invoice for your deposit
 - Remaining tuition is due 2 weeks before class starts
-- You get set up with an account on [Lynda.com](https://lynda.com 'Lynda') once you pay the first deposit.
+- You get set up with an account on [Lynda.com](https://lynda.com "Lynda") once you pay the first deposit.
 - The total cost of the program is \$6K.
 - You have to officially confirm your acceptance no later than 1 week from today (I made sure to explain to Will I would need more time to make my decision, and he understood, so again, kudos to Will and his quick feedback!).

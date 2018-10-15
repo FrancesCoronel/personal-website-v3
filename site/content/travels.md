@@ -11,12 +11,12 @@ aliases:
   - /traveling/
 ---
 
-## So I’ve come to the conclusion that I come from a pretty interesting background.
+## So I've come to the conclusion that I come from a pretty interesting background.
 
 <blockquote class="embedly-card"><h4><a href="https://www.google.com/maps/d/u/0/embed?mid=11xSbsfkr_6UXjic4znLDZSObW_M">Travels</a></h4><p>Where I've been. https://fvcproductions.com/about/travels © FVCproductions</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-> Here’s why...
+> Here's why...
 
 ### North America
 
@@ -33,7 +33,7 @@ aliases:
 
 - My first international trip was to Chichen Itza, Mexico
   - I was only 2 at the time.
-  - It was just my mom, dad, and I at the time so there weren’t any issues (hehe).
+  - It was just my mom, dad, and I at the time so there weren't any issues (hehe).
 - Being Peruvian, my family has traveled to Peru to visit family many times.
 - I have also visited the Dominican Republic, Mexico, Honduras, & El Salvador.
 
@@ -56,12 +56,12 @@ aliases:
 ### Asia
 
 - I attended the Newport News Japanese Saturday School throughout my middle school years with my last class being Kanji, having already taken classes in Hiragana and Katakana.
-  - While I don’t know Japanese anymore, I still have a great adoration for the culture and language.
+  - While I don't know Japanese anymore, I still have a great adoration for the culture and language.
   - I have also been to Tokyo once.
 - I volunteered as a high schooler in a medical mission taking place in Vietnam for Operation Smile during the summer of 2012.
 - I attended my first international conference in Beijing, China – also through Operation Smile – during the summer of 2011
 
-> In other words, by being exposed to so many different people over my lifetime, I’m aware now that I’ll probably always want to travel and explore new worlds unknown to me.
+> In other words, by being exposed to so many different people over my lifetime, I'm aware now that I'll probably always want to travel and explore new worlds unknown to me.
 
 **So until next time, safe travels!** ✈
 

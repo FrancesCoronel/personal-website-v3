@@ -271,7 +271,7 @@ Based off what Eric told me was going to be covered in the interview with Jarell
 
 06 Be transparent Share information. Share mistakes. Share victories.
 
-05 Do what's right What is right isn’t the same as what is easy.
+05 Do what's right What is right isn't the same as what is easy.
 
 01 Ownership mentality Every employee has the power to make our company better.
 
@@ -372,10 +372,10 @@ sacrifice. Invest in the future.
 
 ## Uber
 
-""Travis’s biggest strength is that he will run through a wall to accomplish his
+""Travis's biggest strength is that he will run through a wall to accomplish his
 goals," said Mark Cuban, the Dallas Mavericks owner and billionaire investor who
-has mentored Mr. Kalanick. "Travis’s biggest weakness is that he will run
-through a wall to accomplish his goals. That’s the best way to describe him.""
+has mentored Mr. Kalanick. "Travis's biggest weakness is that he will run
+through a wall to accomplish his goals. That's the best way to describe him.""
 
 At the core of every single one of the problems we face as a society is the
 total lack of social ethics used by businesses. Uber is just another example of

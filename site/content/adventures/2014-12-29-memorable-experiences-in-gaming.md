@@ -1,8 +1,8 @@
 ---
-title: 'My Most Memorable Experiences in Gaming'
+title: "My Most Memorable Experiences in Gaming"
 date: 2014-12-29
-description: 'One month left till the AAAI 2015 Conference.'
-image: https://lh3.googleusercontent.com/Cns3MN2bbBpFjAUBthah3DJHyWZFY9Wler015ZcAIeWTCx-zgkyydSsjw8ugFVWAmzUuaS1dL-0UaxKrvhF0i5hpfpbshe_t3eqbsp00kGvP--j5JFf6blrnJCEUTce3VBeCPspT4zgw1vP5-EfU1a7NjDwdcJlIsBynAhBXWSIJgDntHZX7bJqsqjnwOoEV0BEQqiA6PnWiAZE90_m93CD3XBv7295BWg6-OIKx4Uq84-DhJ33Phkt1lEf1wwELFS7JzDx8bS5vpU2swnvyWupcvPFJArJVeKM0a9XBNXlznozsv7NQ7rdc1wV5a-DLUZcJ4H-ibfvOh67R3pkwlLIEC-XJlpyKCpHXx3JezCxvprCPxCAvpl3w5DYwDfZJBmHLAPAQmegu7HajuBhXFxfZsOTw76ONlSpnqvXVhD83LBFYNBDjOBMYZ7MaieX-ZePml3esFWk_vpmQB4LNdp3xKdrw9RyN6BXasgyvEk6GCMUn-4iD9_ARt08q1dRfe9VCj9vnnhRvfuT8_wgeORwibIQRbYlMB5frj0WQZHhYq-ivaRHjNm-qjOt0gHey8wo0A9Lg0zjqiehaFWaLSuwhfEEc4JLTYtKv_xsJrswQcp7Wm0l7UJEpRpZJxgEE=w675-h340-no
+description: "One month left till the AAAI 2015 Conference."
+image: https://i.imgur.com/CMsmCcy.jpg
 aliases:
   - /2014/12/29/memorable-experiences-in-gaming/
   - /tags/last-stand-union-city/

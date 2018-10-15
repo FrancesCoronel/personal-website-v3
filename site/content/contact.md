@@ -105,3 +105,12 @@ Please note that depending on the contact reason, it may take longer for me to g
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <!-- Calendly link widget end -->
+
+---
+
+## Links
+
+- [SlideShare](https://www.slideshare.net/FVCproductions)
+- [YouTube](https://www.youtube.com/user/fvcproductions2013)
+- [Scribd](https://www.scribd.com/user/194063411/FVCproductions)
+- [GitHub](https://github.com/fvcproductions)

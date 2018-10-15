@@ -57,6 +57,16 @@ In January 2016, Fullstack Academy launched Grace Hopper Academy, the first all-
 
 ---
 
+Fullstack Academy's flagship program is a full-time accelerated bootcamp for software engineering. Named "Best Coding Bootcamp" in the country by SkilledUp, a leading tech-education publication. Y Combinator-backed. In January 2016, Fullstack Academy launched Grace Hopper Academy, the first all-women coding bootcamp in New York City, and the first in the country to offer a deferred tuition model.
+
+- Mentored incoming students
+- Promoted Fullstack Academy at tech Meetups, conferences, and events
+- Created and published resource material for potential students
+
+If you or someone you know is interested in learning more about Fullstack Academy or Grace Hopper Academy and how to best prepare for entering the programs, feel free to look at the "fullstack-me" GitHub repo I created that contains resources on how to best to best prepare and get accepted.
+
+---
+
 Around the winter of 2016, Fullstack was asking for interested alumni to be a part of the ambassador program.
 
 The ambassador program involved referring students to the program and then mentoring the accepted students in exchange for a stipend.

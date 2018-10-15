@@ -2,7 +2,7 @@
 title: Tech Talk - Fullstack Academy
 date: 2015-08-05
 description: On June 18th, the 2nd Thursday  Fullstack Academy, I realized lot of my partners for pair programmi would ask me similar question regarding my dev environment so I started making a deck of some tips  tricks that I felt would have prov valuable for me back in the day.
-image: https://lh3.googleusercontent.com/c1DN_71ZjViHbeImuh891sE9JaCVf22IJu8w1WP_ZYamnyL3HwtgooVuhOMmyY2K6nSEcjZlmDNZ4YPkTsU7ISO6V47b_3SPpUc2Vmx1AmzVAn9J_lLCCOBBHTnR_sxSUv61nItx0NHbX1KUHy0tk9SUYd4Rv5AOgJh2Z3JoqrbVQ9AVsWPupTIF9sZ_131uhwgWkfbfBMc2AQlGNCzsT6545dnvId6Zz19VeBctJFnS-tU5Jh7HOeqdgde29-irEOata4RPuj00mnD07ph_2JwgQI5ycEDA0BBhEWdWnMaJdAPSRrIaHtj3tEO3W4hybGszmSC-w0tgxbUuU-Sh8GCErc7rk3dv85u-I7fGDEGYQjAN8o0Cayza8u4ItTHX__XKO3Ud44mrbcQ2lKkmvY5KjFJRUraKjo15wtpTeZ9CrcRRmOJ4w-UArAt1IIQyFSizsQEZYqZAGSiD1AtGgoo_PgfFWHi9wMjz-R-x4x5NwSlrLu9oGyasC8eAxo9b0QRwqR_CjrarE11USwNp2SsxnUHcg3AhtrW6ZBcDfykx0SdZYZYLQ9helVySHwjjzfuygo_7dyfRZXtDX46aiSAhKMV2yTI=s1551-w1551-h969-no
+image: https://i.imgur.com/pBWrIOS.jpg
 slides: https://www.slideshare.net/FVCproductions/2015-0805-fullstack-academy-tech-talk-web-design
 location: Fullstack Academy - New York, NY
 aliases:

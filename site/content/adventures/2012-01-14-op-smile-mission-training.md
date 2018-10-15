@@ -34,7 +34,7 @@ Speaker - iMovie 101
 
 ## About
 
-Unfortunately I don’t have any pictures of me while speaking, but given that it was the first time I spoke in front of a large group of people and I was terribly nervous in the beginning, it's probably for the best.
+Unfortunately I don't have any pictures of me while speaking, but given that it was the first time I spoke in front of a large group of people and I was terribly nervous in the beginning, it's probably for the best.
 
 I will say though that I think I did pretty well with the hiccups. I worked really hard in making a compelling video that I could use as an example. I also had to make sure I was able to get an adapater at the last minute since I had wrongly assumed there would be one. I learned right there that I should always be prepared when presenting.
 

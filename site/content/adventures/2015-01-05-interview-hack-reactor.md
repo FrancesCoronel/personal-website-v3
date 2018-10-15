@@ -1,15 +1,15 @@
 ---
-title: 'Interview with Hack Reactor'
+title: "Interview with Hack Reactor"
 date: 2014-12-29
-description: 'Where I rant and share questions my experience from my interview with Hack Reactor (sort of).'
-image: https://lh3.googleusercontent.com/O1B3Cev-T7x9HU4LalPahE8bUeRRcUoKgD4y1PNidopGYb_uY8LZpEpGBg4y5ewCa6w1zrCYS-L5yS2fgG3CQH9GnpvF4XM5uTk_UTNdDnKqOPvY8qNeak24iOtHi7U7hvqsoeZLvgob2feYY_NAOuW74hekq1CPjAxiSXZHo0meF70FWZcmbigaat1GHpm0QtX90HPyvZ2z45k7OyU_Dh7RCoC8aafN2JPe1h8CUiU3TaO991fRN_sr8P556i5fkP1f9Qy-ZiUKiLCyzzZqnMiurtGXa1lbggPmK77pcaTeOUvCGpi7vsXCpXJIHQJV5X_Fd0P_CkM4DSi48300LA6P2Y43vvnDG-84axyZKfRla92MJ5lYMLuVnZMsQfBfjkCrOG8OYd8w2cR0SVchXJLOcekZL5iGbLgYprxZ1wmyLlM4Z-jB8xsH7Ym2bp7llRTYORnztjD6YdiyE97P9CLTFuK-wMUVIX_Tv2J8ryWkPJZcwYWQQin0mjJvaMf_TdSPDuLc0BXnre-pSwXRgvd1tbFyRL8MxY2pWKoo1ec3e95Yc14aaQ8eNGr5jKzDfW6yq9B7jPmAHMQtg8SSnfddXci2PwKUckVPE-53RoXHg1GlKa1QS8RnGi99E5vy=w527-h220-no
+description: "Where I rant and share questions my experience from my interview with Hack Reactor (sort of)."
+image: https://i.imgur.com/Dc3ogOs.png
 aliases:
   - /2015/01/05/interview-hack-reactor/
 categories:
   - blog
 ---
 
-> Where I rant and share questions my experience from my interview with [Hack Reactor](https://hackreactor.com 'Hack Reactor') (sort of).
+> Where I rant and share questions my experience from my interview with [Hack Reactor](https://hackreactor.com "Hack Reactor") (sort of).
 
 I keep looking for the key out of my novice programming level, but nothing seems to be clicking in the right place. It's an icky situation.
 
@@ -74,14 +74,14 @@ I've decided to categorize the questions I asked into 4 sections: questions spec
 > Personal Cohort Experience
 
 1.  **Did you ever go through imposter syndrome?** Yeah, absolutely. It gets talked about a lot here, because the amount of information is tremendous that it is impossible to know everything. No one knows everything. It's definitely something that's talked about and so are strategies to overcome it.
-2.  **What was your project about?** My solo project was an astronomy app that would tell you the positioning of all the planets and my thesis project involved my team and I creating an iPhone app ([Endevr](https://www.youtube.com/watch?v=XTizYogXstU 'Endevr')).
+2.  **What was your project about?** My solo project was an astronomy app that would tell you the positioning of all the planets and my thesis project involved my team and I creating an iPhone app ([Endevr](https://www.youtube.com/watch?v=XTizYogXstU "Endevr")).
 3.  **How often did you stay up late in your experience at Hack Reactor?** I was pretty aggressive about getting 6–7 hours of sleep. And yes I did stay up late but it was't frequent.
 4.  **If you made a switch, why do you think you chose your initial field first?** Well, my jump wasn't that large compared to others. I came in with experience of being a product manager.
 5.  **Do you help construct the curriculum?** Yes, a little bit by providing toy problems. I also lecture a bit about toy problems and help out with interviews, the help desk, cross sort and debugging.
 6.  **What was your favorite event/memory from Hack Reactor?** The first 6 weeks were the most fun I've ever had, it was really great meeting the other students. There are a lot of interesting people getting along and figuring out this strange ecosystem. I just really had a ball.
 7.  **When did you notice the students in your cohort starting to get friendly with each other and form those bonds?** We had a really great group where you could see from the 1st day, the relationships were starting to get made. There were a lot of musicians and chess players, so we had these really crazy chess matches. People had a really good time. I'd say you could notice it immediately.
 
-#### If you are interested in more information regarding Hack Reactor, [I compiled a short list of resources to best prepare for the interview and also gave my thoughts on how competitive bootcamps select for students](https://fvcproductions.com/blog/2015/01/05/tiny-glimpse-hack-reactor-selection-preparation/ 'A Tiny Glimpse Into Hack Reactor: Selection & Preparation').
+#### If you are interested in more information regarding Hack Reactor, [I compiled a short list of resources to best prepare for the interview and also gave my thoughts on how competitive bootcamps select for students](https://fvcproductions.com/blog/2015/01/05/tiny-glimpse-hack-reactor-selection-preparation/ "A Tiny Glimpse Into Hack Reactor: Selection & Preparation").
 
 ## **Questions I Forgot To Ask**
 
@@ -94,11 +94,11 @@ I've decided to categorize the questions I asked into 4 sections: questions spec
 
 [I completed my technical interview last Friday with Christopher T. and Katherine G. acting as a shadow. The whole session was supposed to last exactly an hour.]{.s1}
 
-We jumped right into the technical interview and after Christopher thought I was tested enough (mainly on callbacks and objects) using [CodeShare](https://codeshare.io 'CodeShare'), he gave me exactly 10 minutes to ask him about his experience about Hack Reactor.
+We jumped right into the technical interview and after Christopher thought I was tested enough (mainly on callbacks and objects) using [CodeShare](https://codeshare.io "CodeShare"), he gave me exactly 10 minutes to ask him about his experience about Hack Reactor.
 
 The first question I asked was about his background before he came to Hack Reactor. He told me he wasn't comfortable answering that since he didn't really know me. I was a little taken aback and no longer knew what could be defined as an appropriate question at that point so I didn't really ask any more questions. To be fair, he did mention how amazing his experience at Hack Reactor was. It was also made clear I had a limited amount of time, so after that he told me that admissions would be getting back to me within a week and that was that.
 
-Well, "curiosity killed the cat" and I decided to look up my interviewers on LinkedIn ([weird, right?](https://help.linkedin.com/app/answers/detail/a_id/3544/~/finding-people-on-linkedin 'Weird.')). Turns out not a lot is really private anymore, but I'm okay with pretending it is.
+Well, "curiosity killed the cat" and I decided to look up my interviewers on LinkedIn ([weird, right?](https://help.linkedin.com/app/answers/detail/a_id/3544/~/finding-people-on-linkedin "Weird.")). Turns out not a lot is really private anymore, but I'm okay with pretending it is.
 
 I felt _pretty bad_ about how my interview went and decided to send them supplemental material such as links to my LinkedIn, GitHub, etc.
 
@@ -110,7 +110,7 @@ Today, they finally got back to me and this is part of the email they sent me:
 
 All in all, it was definitely an eye-opening experience and I'm glad I was able to be a part of it.
 
-I knew already beforehand that no matter what, I'm going to keep bettering myself and [riding the waves of technology](https://www.urbandictionary.com/define.php?term=Surfing+the+Web 'Surfing The Web') and you know, just being me.
+I knew already beforehand that no matter what, I'm going to keep bettering myself and [riding the waves of technology](https://www.urbandictionary.com/define.php?term=Surfing+the+Web "Surfing The Web") and you know, just being me.
 
 **Surf's Up! 🏄**
 
@@ -120,8 +120,8 @@ I also have shared my **interview experience** with bootcamps such as
 
 - [Bitmaker Labs](/2014/03/12/interview-bitmaker-labs/)
 - [Coding Dojo](/2015/01/06/interview-coding-dojo/)
-- [Coding House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ 'Interview with Coding House 🏠')
-- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ 'Interview with Designation 🎨')
-- [Dev League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ 'My Experience With DevLeague 💻')
-- [Fullstack Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ 'My Experience with Fullstack Academy of Code 💻')
-- [Maker Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ 'My Experience with MakerSquare 💻')
+- [Coding House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
+- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+- [Dev League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
+- [Fullstack Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+- [Maker Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")

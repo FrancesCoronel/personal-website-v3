@@ -15,13 +15,13 @@ categories:
 
 As a developer evangelist, you will often be called upon to speak at a variety of events from hackathons to meetups to company all-hands calls to large conferences.
 
-An invaluable skill in the evangelist’s toolbox is the ability to quickly learn a technical topic and then teach/explain it to audiences of varying technical expertise.
+An invaluable skill in the evangelist's toolbox is the ability to quickly learn a technical topic and then teach/explain it to audiences of varying technical expertise.
 
 Security researchers recently found and disclosed details about a chip flaw present in most modern CPUs.
 
 **Explain Meltdown and Spectre: what are they, how are they different, how do they work, and why are they scary?**
 
-You can choose any format you’d like: PowerPoint deck, rap lyrics, whiteboard coding, no slides whatsoever, it’s completely up to you.
+You can choose any format you'd like: PowerPoint deck, rap lyrics, whiteboard coding, no slides whatsoever, it's completely up to you.
 
 A stellar presentation will address the widest possible audience: everyone from a non-technical salesperson or your grandmother to a senior engineering director or CTO.
 
@@ -106,7 +106,7 @@ You have an unlimited supply of robbers so you sort of brute force it and sends 
 
 Each of your agents wears a microphone so you can hear them at all times.
 
-Since there’s an unlimited number of agents so you just keep trying until one succeeds.
+Since there's an unlimited number of agents so you just keep trying until one succeeds.
 
 Finally, an agent gets into the vault and is able to look at the piece of paper with the password on it.
 
@@ -114,7 +114,7 @@ They whisper the password into the microphone just before the guard shoots them 
 
 Now you know the password and can use it as needed to gain access to private accounts.
 
-That’s how meltdown works on a computer or device.
+That's how meltdown works on a computer or device.
 
 ![15](https://i.imgur.com/WxN9EBR.jpg)
 
@@ -122,7 +122,7 @@ The attacker has code that looks at the memory that should be restricted.
 
 The computer processor throws an exception and the CPU cleans everything up, erasing any evidence of the crime.
 
-But the attacks keep coming, and while the CPU is doing cleanup, it’s also executing other code out of order.
+But the attacks keep coming, and while the CPU is doing cleanup, it's also executing other code out of order.
 
 This is what leaks the password.
 

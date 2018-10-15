@@ -29,7 +29,7 @@ Participant, Scholarship Recipient (Women Who Code)
 
 > The description below was taken from the conference's website.
 
-Around the world, hundreds of thousands of founders come together each month to attend local Startup Grind events. Every February, our Global Conference brings compelling updates from the changing panorama of the tech world -- and we put it all together for 2.5 days of dynamic content and education. You will find invaluable new friendships, and hundreds of resources to help you continue to build yourself, your life and you’ll find information to grow your startup.
+Around the world, hundreds of thousands of founders come together each month to attend local Startup Grind events. Every February, our Global Conference brings compelling updates from the changing panorama of the tech world -- and we put it all together for 2.5 days of dynamic content and education. You will find invaluable new friendships, and hundreds of resources to help you continue to build yourself, your life and you'll find information to grow your startup.
 
 7,000 entrepreneurs, 250 speakers, hundreds of investors, and our team of Global Chapter Directors will join us from around the world this February. It will be our biggest and best year ever.
 

@@ -1,8 +1,8 @@
 ---
-title: 'My Top 3 Productivity Apps 🎩'
+title: "My Top 3 Productivity Apps 🎩"
 date: 2015-03-28
 description: Here are 3 of my favorite power tools that changed how I worked and my average level of productivity on a daily basis.
-image: https://lh3.googleusercontent.com/pceJfU_oMUxb-BoNpGsa1l69XIwFwoDUw7-fw0ev12hAdmNyo8aHKKQ02TZQZP8VhTrwU9sh9oN4O6FLheSxgfIqUoNRFfaLy4XIYSEi_8A0-1dLBxsDrJZhy5UrqYym88hT4dzIwl0GNn3KXzR5QgKLq37kWdM_ljTPWOHTlMOFa7tOfVQCgpRjwVyN5tjvdLRgUpnr5f7HwNPzWKw7zXHbrsIs4inrWIL6fk-nnKMQ9mWpcFT6zF4iLtLIrpJnteKNAygQqMRdkHBxBk1mhVZj8mH19sFMTjP1_og_BnXHekvZL537tpRdFF6E-JR-M8_NDhIKJNqAT3gXmkUbm5I51JHCriVlswG_gmZ6MaHVXnh61CD0eeAb8JiRHTU5-wu8Typa5H0kAfDWTKDspliqGbz64-5uJ1JgvciODRdkI2GvqlOdRNSU4XTMSed4F2tEfm_ZCqqjDTyxT5miduv3CVt7RFj5b14RWEx1ydsrFEmME2qYnEHy-h0Flq9a3w0O-HaLGdU-_8kghEOLl8v6srhaH4DCuJKl_j4v9opxma0Kfnqp6gXXvKc8vAzPAisP2iABgMIw4kkpQvZvYDyY_MeDN7Fm7VKl_HCqrWilPHtKItRkzE7OMSzpqMAh=w1140-h500-no
+image: https://i.imgur.com/uObmBFH.jpg
 aliases:
   - /2015/03/28/my-top-3-productivity-apps/
 categories:
@@ -17,17 +17,17 @@ So here are 3 of my favorite power tools that changed how I worked and my averag
 
 There are other awesome power apps of course, like
 
-- [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12 'Amphetamine')
-- [Bartender](https://www.macbartender.com 'Bartender')
-- [Dash](https://kapeli.com/dash 'Dash')
-- [Flux](https://justgetflux.com 'Flux')
-- [Sorty](https://wiles.dk/ 'Sorty')
-- [Ubersicht](https://tracesof.net/uebersicht/ 'Ubersicht')
-- [Yoink](https://eternalstorms.at/yoink/ 'Yoink')
+- [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12 "Amphetamine")
+- [Bartender](https://www.macbartender.com "Bartender")
+- [Dash](https://kapeli.com/dash "Dash")
+- [Flux](https://justgetflux.com "Flux")
+- [Sorty](https://wiles.dk/ "Sorty")
+- [Ubersicht](https://tracesof.net/uebersicht/ "Ubersicht")
+- [Yoink](https://eternalstorms.at/yoink/ "Yoink")
 
 among others - but these 3 are by far my favorite.
 
-## 1. [Automator](https://en.wikipedia.org/wiki/Automator_%28software%29 'Automator')
+## 1. [Automator](https://en.wikipedia.org/wiki/Automator_%28software%29 "Automator")
 
 ![Automator](https://www.redundantrobot.com/wp-content/uploads/2013/10/automator.png)
 
@@ -73,7 +73,7 @@ So now you have 30+ wallpaper images in your `Downloads` folder and because you'
 
 ![Rename Multiple Photos](https://lh3.googleusercontent.com/xdeJmXeYUzPFEVUy1QcN8uubg1FUz6tDIZUz-uV_XKzoUQ4hqDZUhjiGmiO_1c3bMrpZ8g-sOsCdS6PyXK2EzAX_AkVgqZ4y4t2PWHaZmawKfKRsmPf1hA4hck8iJqC5NLYQu8IaCGzqZ9IaKSY__9c7tMebsWzdFsnKog7asP2ug_-wq5lkQO82WknLVydPpZTTd41iVO8Up3xGe7i25g1O9YpXLvqL2Yr_9DsTSlKLvik2stBMyL_ArRTX5PwGgRUz8pDkts4B4zo0zeI9LKR1sUblyh4Rj31vFHF561efzmbxOz6z7Pushv9pgz3VOvwZy8lDPCMmRQvwjSy1mecH7c4meddazSwg1VrHPKl6D4EiDvP7eACEFUcR4qqGcUI-3FaSxOQ49YQ-pnaQxa4lUKI7BKumSGWaRW3dVrlyvmi3Uo46kx50p_uNm8VL-a_mkqmnisGPvaatEtiL0obwlGhoWXKJQZKWRPzYm9GFfFU1uHOma2gwdk3B79fClco5vZZun28DdJNQVRjxWcGIyk5dHO3B2nqc0DjzokMFxDaK5LbxTwgICCY2Yd5VJJnA06oMJRnP298A7vS-GWUni9WQBILKf-In31C1LIHzKz-soLmX2BmNidycI3JV=w1056-h378-no)
 
-## 2. [Alfred](https://www.alfredapp.com/ 'Alfred')
+## 2. [Alfred](https://www.alfredapp.com/ "Alfred")
 
 ![Alfred](https://a2.mzstatic.com/us/r30/Purple/v4/22/16/13/221613ff-de88-908e-684d-262576f7dbd0/icon128-2x.png)
 
@@ -85,7 +85,7 @@ So now you have 30+ wallpaper images in your `Downloads` folder and because you'
 
 Definitely not a haiku there, but man - just goes to show how much I depend on the damn bowler hat.
 
-## 3. [BetterSnapTool](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12 'BetterSnapTool')
+## 3. [BetterSnapTool](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12 "BetterSnapTool")
 
 ![BetterSnapTool](https://a3.mzstatic.com/us/r30/Purple3/v4/b0/e1/f1/b0e1f178-69dc-f01a-3d4e-0faa4379ca8f/icon128-2x.png)
 
@@ -93,4 +93,4 @@ I was so slow moving windows around before this app, so once I transitioned to f
 
 Only good things can be said about this app, seriously.
 
-And that's it! Check out my post, [What I Use](https://fvcproductions.com/what-i-use/ 'What I Use 📱') for more awesome apps!
+And that's it! Check out my post, [What I Use](https://fvcproductions.com/what-i-use/ "What I Use 📱") for more awesome apps!

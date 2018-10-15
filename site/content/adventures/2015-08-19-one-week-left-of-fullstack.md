@@ -2,14 +2,14 @@
 title: ONE WEEK OF FULLSTACK LEFT 🙊
 date: 2015-08-19
 description: "There's only one week of Fullstack Academy left. Overarching feeling: HOLY CRAP."
-image: https://lh3.googleusercontent.com/Da__j2lzv13iWtgq-srqnIAbTWaVp2r5iqpDoY5-L6QEdjjtP99AH4d6l684-tsjmKT7wQ-fMx2rGPxkB2YxwumilAhAetc3mB0s4P-zaJEl103D9eBdq-DLwPumPIgqyVm1MzmKj3Wc8GV_cLpJlO7sA-2XGFNLViqHwdv90oEvNY4ri9RVfrcZmlKWGENi-6wOvd9hgPtX1leRQbfOn9fR0VjTDHyUH-tw80xqp2WdE1V-itL90Xw8UWDdUXJkmgfRMDTjC7BbbB67bMKVpMIS_qJQC3ilMlPP7qLG55kRqfXLsaLCgLJ03Ht2aqcrBncRKv2dfno-kWvrTRJs5cavV8KVW9k0SDtUCZhQDeKCfikm8knvgfrwpIXj_s8w7wEm9pmlhkQ1KyoY9XTtAzHI3eG19EE6JUmLl1JYgjOgpvw_UkUEhuuWnNn-763Yb_sONUkMd8GWbmujGAhAqnEx_bmIW7bjjnCHM7tCOP-zSiQKUk2U5hPkwhHmRTfgZRU1WieuGsweozb8dU3EI5RQcDNybqRPyUZI79e_sm6D-4W1iMLtfKNbWecJUU_-K_2nNfSLxcXDc_NkEq3DWwFELAalMor4yWT4OMYFfJm8HZeSAyUXw5MrTn7snvt8=w1140-h500-no
+image: https://i.imgur.com/4n1gfDE.jpg
 aliases:
   - /2015/08/19/one-week-left-of-fullstack/
 categories:
   - blog
 ---
 
-Because of how busy I’ve been, I haven’t really been able to get into the proper mood to be able to blog about such and such.
+Because of how busy I've been, I haven't really been able to get into the proper mood to be able to blog about such and such.
 
 As a result, there are now only **7** days of [**Fullstack**](http://www.fullstackacademy.com) left.
 
@@ -23,7 +23,7 @@ As a result, there are now only **7** days of [**Fullstack**](http://www.fullsta
 
 ![Seriously](https://i2.wp.com/i3.kym-cdn.com/photos/images/original/000/363/814/eb7.gif)
 
-### AND here’s a `GIF` on how I feel about my lack of blogging so far here in my senior phase.
+### AND here's a `GIF` on how I feel about my lack of blogging so far here in my senior phase.
 
 ![Computer Reaction](https://i1.wp.com/i1.kym-cdn.com/photos/images/newsfeed/000/228/791/632.gif)
 
@@ -50,9 +50,9 @@ As a result, there are now only **7** days of [**Fullstack**](http://www.fullsta
 | August 3rd to 7th      | Days 35 to 39 | Week 8 |
 | August 10th to 14th    | Days 40 to 43 | Week 9 |
 
-- Missed out on Friday’s Tessle Hackathon in Week 9 because of an Apple Hiring Event. More on _that_ later.
+- Missed out on Friday's Tessle Hackathon in Week 9 because of an Apple Hiring Event. More on _that_ later.
 
-# What’s Left
+# What's Left
 
 | Date Range          | Day Numbers   | Week           |
 | ------------------- | ------------- | -------------- |
@@ -80,7 +80,7 @@ As a result, there are now only **7** days of [**Fullstack**](http://www.fullsta
 
 ## Tuesday
 
-- I’m coming to realize that my team is actually very solid. This is great! `ego++; stress--;`
+- I'm coming to realize that my team is actually very solid. This is great! `ego++; stress--;`
 - Learning Team Lunch today. For the first time ever, we have to talk to each other and are not actually spending time playing some sort of board game.
   - The meeting is very **hogwarts** (which sounds a lot like **awkward** if you say it out loud a bunch of times really fast). `excitement--;`
 
@@ -91,7 +91,7 @@ As a result, there are now only **7** days of [**Fullstack**](http://www.fullsta
 ## Thursday
 
 - I see my fellow Jimmy on the subway.
-- Yeah, I guess that’s basically it.
+- Yeah, I guess that's basically it.
 
 ![TrollForJimmy](https://cdn2.scratch.mit.edu/get_image/gallery/221290_200x130.png?v=1371781049.0)
 
@@ -107,11 +107,11 @@ As a result, there are now only **7** days of [**Fullstack**](http://www.fullsta
   - The grand prize? Stickers.
     `excitement--;`
     - I completely and utterly embarrassed myself trying to be novel and introduce myself with this speech I memorized (refer to speech below). `ego -= 5;`
-    - Here’s the first tidbit of the speech (the entire thing is kind of long). This is all from memory because the speech is just _that_ provocative to me.
+    - Here's the first tidbit of the speech (the entire thing is kind of long). This is all from memory because the speech is just _that_ provocative to me.
 
 > T.E Lawrence, eponymously of Arabia, but very much an Englishman, favored pinching a burning match between his fingers to put it out.
 >
-> When asked by his colleague, William Potter, how was he so effectively able to put out the match without physically hurting himself whatsoever, Lawrence just smiled and replied, ‘The trick, Potter, is not minding it hurts.’
+> When asked by his colleague, William Potter, how was he so effectively able to put out the match without physically hurting himself whatsoever, Lawrence just smiled and replied, ‘The trick, Potter, is not minding it hurts.'
 >
 > The flame that danced at the end of the match was a gift given to us by the Titan Prometheus.
 >
@@ -136,7 +136,7 @@ As a result, there are now only **7** days of [**Fullstack**](http://www.fullsta
 
 > ➡ **Overall Conclusion for Week 7?**
 >
-> > Hah, I’m stressed out.
+> > Hah, I'm stressed out.
 
 ```javascript
 /**
@@ -213,7 +213,7 @@ var week7 = function() {
 week7();
 ```
 
-> Oh look, a repl out in the wild. **Gotta catch ’em all**...... [`https://repl.it/BC5A`](https://repl.it/BC5A)
+> Oh look, a repl out in the wild. **Gotta catch 'em all**...... [`https://repl.it/BC5A`](https://repl.it/BC5A)
 
 # OK, SO AFTER THAT EXCESSIVE RAMBLING, WE MUST NOW TRAVEL BACK FORWARD IN TIME...
 
@@ -227,9 +227,9 @@ week7();
   - More REACTO.
   - Presented Stackstore on Wednesday.
   - On Wednesday, I also presented my Tech Talk on Design. Multitasking is fun. -**\_**- That was sarcasm, by the way.
-  - Started working on my Stackathon project. I decide I’m going to take it easy for this one, because I’m tired and we only have till Monday to work on it, so _ughhhhh_.
+  - Started working on my Stackathon project. I decide I'm going to take it easy for this one, because I'm tired and we only have till Monday to work on it, so _ughhhhh_.
 
-> My team’s Stackstore. See it in full glory on Heroku at [`http://robopocalypse.herokuapp.com`](http://robopocalypse.herokuapp.com).
+> My team's Stackstore. See it in full glory on Heroku at [`http://robopocalypse.herokuapp.com`](http://robopocalypse.herokuapp.com).
 
 ![Robopocalypse](https://lh3.googleusercontent.com/RuiAdLNBdNQc0Wl5rBac54tQTbe11Z0z6dTcOaZc71ztQBM3LrQld0TSDARQ3BADSu_eQvVp7ewRc__GL-b2XjZ2tOBbmvSQrWA3CUhF3QmeDRQeIb8sp9c_M7-vN96ZZfcQEbFjEI3PY83Kls1wroXEwnyX9DFpn5LeS29n66h3E5I2BST6UmoKjUPB66MTC59kAJFioZjz5sICbkHhmPBlawatwCFe5Lz7IKKlqpXwtJHb4YLT5srJjOBk5mMcDRTxlPCYWLifE2rTP3OlMVHIAjkQKciGe-J7R44MPG5XHKiqAhqyF-Y48wjv7qmnaDbzrMI9C79IfSu-TzSE7vOb6WToLjUh2hfDMaTfUpQCxPAyLcnOlCROYdcy0U9ADEEmGIQMFVcUuz6OM7ZO5wo-ZhV9RKQG63kOMlyRWz-_WXYirLslNemVDCwHECnX3Os0ZS2z--44gKITbSOtL9qCdJi61KPlZYc-mnY89aCKYphJ-5grXftM0zcW_7MB01HKkvME76lnmMiz-vsNx7yuiZ049BpykqgDKlU4BQb7E_E-E5y5fYV2UobWtd1CGlKg02KjWctc92A9q-nOCdc4mKU09FZDa9TU1Bx7iJMu8TuXNKleYdQ9Ew7w-vPs=w1425-h790-no "Robopocalypse4")
 
@@ -238,21 +238,21 @@ week7();
 > Yawn.
 
 - **Week 9**
-  - On Monday, I get an invitation to attend an Apple Hiring Event back in Norfolk. I applied for an College At Home Advisor position back on July 4th, so I’m really glad they were able to follow back. The event is on Sunday.
+  - On Monday, I get an invitation to attend an Apple Hiring Event back in Norfolk. I applied for an College At Home Advisor position back on July 4th, so I'm really glad they were able to follow back. The event is on Sunday.
   - We also present our stackathon projects on Monday.
     - My stackathon project was **[Rank Me](https://github.com/fvcproductions/RankMe)**, an app that ranks coding bootcamps on their rating and social scores based on data that is crawled from various sites.
     - I bothered Jimmy a lot to get my crawler working nicely. Thanks Jimmy!
-    - The app is still very much in _BETA_, but once I settle back home, I’ll **definitely** have something to work on because I’ve had this idea ever since I first started applying to bootcamps, which was back in friggin’ 2013. It’s going to be big, y’all.
-  - I come to realize that I still haven’t gotten my 2 extra **free** t-shirts from Fullstack for (1) making a killer design for that flashcard app from Junior Phase with Yves and (2) for getting to 4 kyu on Codewars. 😦
+    - The app is still very much in _BETA_, but once I settle back home, I'll **definitely** have something to work on because I've had this idea ever since I first started applying to bootcamps, which was back in friggin' 2013. It's going to be big, y'all.
+  - I come to realize that I still haven't gotten my 2 extra **free** t-shirts from Fullstack for (1) making a killer design for that flashcard app from Junior Phase with Yves and (2) for getting to 4 kyu on Codewars. 😦
   - There is **A LOT** of planning done in preparation for the groups pairing off for the Capstone projects. If the point was to emphasize what a big deal it was, point successfully emphasized!
-  - After a lot of discussion about ideas, I decide to hop on to David’s idea of creating an internal sort of LinkedIn for Fullstack Academy students and companies that are looking to hire them.
+  - After a lot of discussion about ideas, I decide to hop on to David's idea of creating an internal sort of LinkedIn for Fullstack Academy students and companies that are looking to hire them.
     - It seems very practical and I actually was thinking of this as a potential project myself when looking at bootcamps to attend.
     - I had really wanted a place to go to for Fullstack Academy where I could explore all the hackathons, projects, and companies students are involved with.
-    - And so now I can at least start putting the seed in the ground for this project per se since it’ll be continually developed and improved upon within Fullstack regardless.
+    - And so now I can at least start putting the seed in the ground for this project per se since it'll be continually developed and improved upon within Fullstack regardless.
 
-> By the time I finally finish out the last kinks of my stackathon project Monday morning, I’m feeling something like this:
+> By the time I finally finish out the last kinks of my stackathon project Monday morning, I'm feeling something like this:
 
-[![Ooohhh](https://cdn0.vox-cdn.com/thumbor/So_Sc-rt5khq-17lV0YO_4nu5xg=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3859280/giphy%20(1).gif)](https://github.com/fvcproductions/RankMe)
+[![Ooohhh](<https://cdn0.vox-cdn.com/thumbor/So_Sc-rt5khq-17lV0YO_4nu5xg=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3859280/giphy%20(1).gif>)](https://github.com/fvcproductions/RankMe)
 
 > Stackathon Project – About Page
 
@@ -262,28 +262,28 @@ week7();
 
 ![TimeTravel](https://i0.wp.com/33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif)
 
-> Time travel wasn’t even that necessary this time, but hey. 😎
+> Time travel wasn't even that necessary this time, but hey. 😎
 
 - **Week 10**
   - As it turns out, there are only 2 people in my group for the capstone project (which has now been dubbed `Hiredot2` because a previous Hiredot existed...but died out[?]), _myself included_.
-    - Yes, it’s actually just Joanna and I.
-    - I’ve actually mentioned Joanna here on my blog before.
-    - She’s the one who attends Cornell Tech for her Master’s in Connective Media.
+    - Yes, it's actually just Joanna and I.
+    - I've actually mentioned Joanna here on my blog before.
+    - She's the one who attends Cornell Tech for her Master's in Connective Media.
     - In her last year too. Lucky gal.
-  - Anyways, the reason we’re just a group of two (and that usually never happens with capstone projects but there’s definitely been some exceptions going on with my cohort because they’re trying to accommodate the preferences that us Summer of Code (SOC) students have) is because (1) we’re both SOC students so we’re obligated to work together and (2) I thought I would have to go back home early for further steps in the interview process for the Apple College At Home Advisor position.
-    - Turns out though I was totally wrong about that last part and I’ll definitely be able to finish the program till the end.
-    - **However**, Joanna still has to start going back to school this Wednesday (today) so she’ll only be coming to Fullstack part time from then (now) on.
+  - Anyways, the reason we're just a group of two (and that usually never happens with capstone projects but there's definitely been some exceptions going on with my cohort because they're trying to accommodate the preferences that us Summer of Code (SOC) students have) is because (1) we're both SOC students so we're obligated to work together and (2) I thought I would have to go back home early for further steps in the interview process for the Apple College At Home Advisor position.
+    - Turns out though I was totally wrong about that last part and I'll definitely be able to finish the program till the end.
+    - **However**, Joanna still has to start going back to school this Wednesday (today) so she'll only be coming to Fullstack part time from then (now) on.
     - Most people figured at that point that both of us would have less time to work on the capstone, so it just ended up being the two of us.
-    - Anywhoozies, the point is – it’s a tight situation.
+    - Anywhoozies, the point is – it's a tight situation.
   - I started working on actual code this week for the capstone.
-  - There’s more Interfeud. The Flex students end up winning of course. 🙄
+  - There's more Interfeud. The Flex students end up winning of course. 🙄
   - A lot of the states (hackathons, projects, students, companies) are basically done now for `Hiredot2`, but time slots still need to be created for the hiring event state and the dragging and dropping feature for students and companies.
 
 > How I feel my capstone group is like compared to other groups.
 
 ![CapstoneGroup](https://vignette4.wikia.nocookie.net/parody/images/9/9f/Kevin_and_bob_are_bananas.jpg)
 
-> And here’s how the home page looks like now for `Hiredot2`. There’s obviously more I could show you, but ehhh.
+> And here's how the home page looks like now for `Hiredot2`. There's obviously more I could show you, but ehhh.
 
 ![HiredotHome](https://i0.wp.com/i.imgur.com/d2OfxQX.png)
 

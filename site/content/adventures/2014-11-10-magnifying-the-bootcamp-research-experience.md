@@ -1,8 +1,8 @@
 ---
 title: Magnifying the Bootcamp Research Experience
 date: 2014-11-10
-description: 'The coding bootcamp ultimatum.'
-image: https://lh3.googleusercontent.com/vji6X-s_V9mSm6l97jVpQs3B5FB5Qmmn6jNPrEChBKvnuQsfgpUKEgEbYw1Z_XQ09YWIDdRbDRxqmMF47EFTpKn-WMTctoK89w0ZJYesj2jKdE4z7w0Ck8x8U7scHOHalQm9ym6PwmeKIoQSULvYdN8SKcXnuWuNrU4F_5yLK6TkCl2WXHbgDucAVFLkUVhbcvK5thUsoE5mMZ3rR6U5zE6N5718bNEoIpV6-Wml238KZPjs2qh4k15zDqFHzJ7xFVa9szaJarLX1pF1R-UipV_JXyS-3GuEkBvUKZAGJc8GS4ge65Hec6-50swnXeFDWlnaCvPfAHx7wkA8-0NwZMnQXHUyTlEHmlVeD0H209sMjCNVNbLVCOy5sI26q3ckfRpmbIcRLpli-PfG1BW_zAQR8V1izVSMZIUZKVDJbVBdPx3GDhSuDc-0vCg-UPuQJJc0woCidu1M2D0hRaNBvm9q0WtFNqpCbkprUHmZf1w0HnZbL9s56Cc_PNBdcdYHmhAfzxWyXo41SulXz50WlG3Yi0ZyGqzwytT42OExZ5iIXbYxMoS9hkwk143sAW5G56Vkuw7QEhL7VvmQSU31RVDOM4JCPAxfy-7sloj-EO2IhXnZ9U_CECtVi03sSsbR=w1280-h644-no
+description: "The coding bootcamp ultimatum."
+image: https://i.imgur.com/sBIW1Mb.jpg
 aliases:
   - /2014/11/10/magnifying-the-bootcamp-research-experience/
 categories:
@@ -31,7 +31,7 @@ I mean, it's a pretty big decision, y'all! ;)
 
 > Made with love on [**Byword 2**](https://bywordapp.com).
 >
-> > Source file [here](https://github.com/fvcproductions/blogging/blob/master/to%20publish/Comparisons/Comparing%20Bootcamp%20Sites%20with%20Hack%20Reactor.txt 'Byword Source File').
+> > Source file [here](https://github.com/fvcproductions/blogging/blob/master/to%20publish/Comparisons/Comparing%20Bootcamp%20Sites%20with%20Hack%20Reactor.txt "Byword Source File").
 
 ## **Recap - The Big 5**
 
@@ -62,7 +62,7 @@ This is the page for [HackReactor on _Bootcamper_](https://bootcamper.io/schools
 - purty
   - minimal design makes for more fun
 - plenty of reviews in the comment section
-  - using the [Disqus](https://disqus.com 'Disqus') platform was a great idea!
+  - using the [Disqus](https://disqus.com "Disqus") platform was a great idea!
 - makes use of other features
   - twitter timeline
 
@@ -256,7 +256,7 @@ This is the page for [HackReactor on _Switchup_](https://www.switchup.org/bootca
 ![](https://cdn.evbuc.com/eventlogos/1546045/code2040transparency.png)
 
 - [Code2040 - Playbook](https://playbook.code2040.org)
-  - This is great not just for minorities interested in tech, but just for anyone who wants a really great layout of what's recommend before applying and interviewing for a software development internship. This sort of logic applies for competitive coding bootcamps as well, so get out there! :) The founder of the organization, [Tristan Walker](https://www.fastcompany.com/3037933/the-visible-man 'Tristan Walker - Fast Company'), is also friggin' awesome.
+  - This is great not just for minorities interested in tech, but just for anyone who wants a really great layout of what's recommend before applying and interviewing for a software development internship. This sort of logic applies for competitive coding bootcamps as well, so get out there! :) The founder of the organization, [Tristan Walker](https://www.fastcompany.com/3037933/the-visible-man "Tristan Walker - Fast Company"), is also friggin' awesome.
 
 ![Hack Reactor Interior](https://lh3.googleusercontent.com/g6Gjjsrt-TWwqoTE5e58uHwrnsMpSCjIXpC43yym1d-dDCKm0JM2CWzY-CnWMcopOyDA3TRJ00bCyWhzqt0Gt9j98GIkv6ssdsZmZZBXZRv04gsHWSem9SbY-mFGjjxjnRtioXIvS2ZeDG3xsqTMH91QbM7vCv7s3lw0OlvzS2JRHXQNvPjo1uzqAg2gV3X6UkiRknCk5DWGKcvzDLxv26iUW3Vq-_YYlL1Ik3-xMFMrHO7Hun0VfhxNkoS_xf9v_J5ivJuhzY8_sIRlfwIXloA235kCWs0_kEfe2kQ3Z1Gjv7p0WWCDo3vyqm8hp3Or2otSaYZxAL-tbgyATUhQxs8Nt3otAgRfwCt1I-eNmg9MexDWT-rqa5TLHLWKqRKLWsAxVqUKi-H9A3uy3M4dVGwR0MBKLFoEfG2-YFSLsbwpQabFxc3TXhNO_-RDZsTb1QFoWKogGk2iy3lnmzQQBwxBL0uGS1olhS2nQDBHcbB_KyM94rTBKOHjm0ouGimLTQnVz2LZr86IseHDAqnxX8NEtJot0g4hhw3ZU9RaFPKzBKjlEx_qeqNIGpIFk_Lk3lZv4RSEvYzzynx5WhiqdaBu1fm8AELtB1qXjUVBo3Q2ugba1BPdTtPpYXhoaXlp=w437-h220-no)
 

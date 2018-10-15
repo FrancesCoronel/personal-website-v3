@@ -1,6 +1,6 @@
 ---
 title: Monarchs Hack the Campus
-description: Join us as we build apps, hardware, and community in Silicon Harbor. Yeah, we’ll be hacking for 36 hours straight, but we’ll take a chill pill or two. And whether you’re a seasoned veteran or just getting started, we’ve got your back​ every step of the way.
+description: Join us as we build apps, hardware, and community in Silicon Harbor. Yeah, we'll be hacking for 36 hours straight, but we'll take a chill pill or two. And whether you're a seasoned veteran or just getting started, we've got your back​ every step of the way.
 date: 2016-02-28
 image: https://i.imgur.com/28uEW41.png
 aliases:

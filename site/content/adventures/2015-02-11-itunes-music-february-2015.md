@@ -1,8 +1,8 @@
 ---
-title: 'Cataloging my iTunes Music'
+title: "Cataloging my iTunes Music"
 date: 2015-02-11
-description: 'Compiling all the music from my iTunes library due to sheer boredom.'
-image: https://lh3.googleusercontent.com/YL9dYiIWjw9wEvTlVnVF-tUO1yxp7bWAZomN2DKY0-b-CRbs_LOPVfdNWQAk6QVwN8ibH91zKatDeMHbj-BWnDHgAcOFgKF9odX-JMLdv_KyFFKuWQqGHB5GbJ7fbjfY46W8LJXBEEf6aXoLIPI7vWedwNjPEzHnOBlW_RGWF0AIApKcd1t6MxiQKd6EFPjJraJ5CZWY93Ib24zPd59o-287XWBiFpjmb7rLmDD4kWpoC65TvTf-pxIr-8sPHqANJGRDNt_PuCWKOOu2B-mbjXgxypgLOx5hFR2kTvVQjPXZY6HgR5AxX--QNiB1Mm9mlM937VFRMwSlEz503tZ7odwLqKmWFFpMwOmuCRG7wHPYUsp1oSfbhI9Ncs6PRsrGJ7c2y2Be82mlm9XKAtZBzRmr2cfr-Ax7D_D-5M1664DU1b4XTZfr_sl2CHVz-XrOL0yWzpSFphvT8zu3zz9giHmSF5vg4KInpCOpbskkGvCwofscwQi33TelsrZ5Ncvx5iYZv3L0ewBrJuA7WCPIIndGQewdZcELUehM2DulASW66MDkBZ6QUw9rdPy67NtPY96baFVJogXR6c23nC2RiSw4gIMCEbJmM95Cnus_qtW2qoqxlEp1CfVHltCWawlA=w391-h220-no
+description: "Compiling all the music from my iTunes library due to sheer boredom."
+image: https://i.imgur.com/9yofbtD.jpg
 categories:
   - blog
 ---
@@ -11,7 +11,7 @@ Okay, I've decided to compile all the music from my iTunes library due to sheer 
 
 # Okay, I've decided to compile all the music from my iTunes library due to sheer boredom.
 
-Also, I think it'll be nice to see how much my musical preferences have changed a few years from now. And it [**will change**](https://www.ted.com/talks/dan_gilbert_you_are_always_changing 'Dan Gilbert').
+Also, I think it'll be nice to see how much my musical preferences have changed a few years from now. And it [**will change**](https://www.ted.com/talks/dan_gilbert_you_are_always_changing "Dan Gilbert").
 
 As a general rule with my albums, if an artist has less than 5 songs in my library, all the songs from that artist are put into a **"Random"** album, which means they're bunched up with a whole lot of other songs that fall into a particular genre. Because of this ‘rule', I only have 30 albums but 621 songs, most albums being the ‘Random' ones.
 

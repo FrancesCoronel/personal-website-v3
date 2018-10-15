@@ -13,7 +13,7 @@ Worked with 4 other team members to create launch plan and presentation for a pr
 
 Splash is an all-in-one Event Marketing Platform built for achieving goals and tracking impact.
 
-Splash’s current wedge is a beautiful user interface and seamless user experience for all their event customers.
+Splash's current wedge is a beautiful user interface and seamless user experience for all their event customers.
 
 Their main competitors such as Eventbrite, Meetup, and Facebook all serve mainly as high-end bulletin boards to showcase events and register.
 

@@ -7,14 +7,14 @@ rejections and acceptances, I've decided to head to Fullstack Academy
 this summer."
 aliases:
   - /2015/04/13/what-to-do-week-negative-8/
-image: https://lh3.googleusercontent.com/MfiYQkypgX62eRvBSfT2KHs1nHsZovaGHjEJttFDSBN-QWIt_pUaJvfjhJumBeNgOKzB4x1ZOhLInOLDTzMsOi7SitOiR2UMg30V9tfx-Xr4u6Iekq9cnHai2-StenObq8WTIpKKB1DvLcRqAoVyovpCIOKQbzThXLxEl8ta_mgCi67UnneucDCyooqjPd8_Uk4jGfVvVUgGSTBmPR4ZzluFO2roPtI-t0kiA_O3qOkUSMaQ6WbGlew_7cbGqH-bCiavSKUV2pG6VaBXMUhBcxbPgRecbyjs6bd11GPOJRn4GdC6TLKlQuGf8D_GIz_bnBrAprc9DBWBqn5oI1ZEGxOvJ-xO6b4PSO5Ht2qSOwOY3-2PczEcwd7OFI26UjL_yfoGH4m4Sl7ocTewD77Z3t5IPRCukfB4O0mArW82qLsBseVOiMLy8dGKyzIuA5k1ye6u3Ijb6Ifu5B4iJ2i_9yXjGzDOoQ8_m1-CgcyLraNW1w5SMBvT53sfCnwnn2A1eNCQyNTkjoYiHSepRRcbOLJNG7LI1Bj66FOzsx9XDMyLe71q2pq8rT0FdOG3fVClj_AqZCJtZFnmlXioMvCL7hJXveH_T_EWCUZybspmKjDRxtmAxFEntVY6PLrZfny2=w1024-h723-no
+image: https://i.imgur.com/InRZz4O.jpg
 categories:
     - blog
 ---
 
 # These are interesting times.
 
-After applying and interviewing for a bunch of internships and coding bootcamps and receiving a bunch of rejections and acceptances, I've decided to head to [Fullstack Academy](https://fullstackacademy.com 'Fullstack Academy') this summer which is located in New York City to be part of their inaugural class for their [Summer of Code](https://www.fullstackacademy.com/summer-of-code 'Fullstack Academy | Summer of Code') program. Ok, wow, that was a mouthful!
+After applying and interviewing for a bunch of internships and coding bootcamps and receiving a bunch of rejections and acceptances, I've decided to head to [Fullstack Academy](https://fullstackacademy.com "Fullstack Academy") this summer which is located in New York City to be part of their inaugural class for their [Summer of Code](https://www.fullstackacademy.com/summer-of-code "Fullstack Academy | Summer of Code") program. Ok, wow, that was a mouthful!
 
 ![Summer of Code | Fullstack Academy](https://lh3.googleusercontent.com/AFT-Lji4GzmIFPh-cCcUcn50BzrUci2bTu-dyD2Wn5MgsXN3QaSLw9biy1D-W9D404xa7CWudAO_7edX0vgdmyHQCQEXaXyRuGF6oLM-_LO81Y2rrFxpsQSMf3OD-sxZuoI1zpbUn5s3_kxQassHVffEWE4WoliWXG5VlY1o6qSYhWFwGvVQHb-ONdA_1KhPZh00zqS-T6Ka0GRvGcvzesJ_kwUVlt6b1FkZa7y_Pc3IML3ym5UWZg6AFsbX3my4s8NsST2C-8Evoy4cyQ1Y6s_3xNJ0msgJaRkoo54fCIn0sHnw9q-sqYsl_6pBzjqmvpBrsxz2v_3F6aCbxgsD0QFRBAWFRR9djAQ5I7vUF9HIJeGRki8drcNkyykdY7Nv-oSif-aImkyAO4F7JdI7RLoC5_LbPgVR1X1WvCoM8ajk_4RWk_kpeqxdm9qz4CleUUbrVm9u_cJBseMsZE3Gb1i9Xcs-0KQJA33gFj4o_1g8ygqP3r5EQBcTwUyuKyE9ujK-SzyEfJ8EafdmDL4KelNN364oFEpBbrYiC0pospHKENlgpk1KZHG4C3LwW4jitExPhvZ_sbaPifScY0J7roBXKcZb96WNSaLa7FNeUWF6yUnp-tDiRHVYu7l_EF1p=w479-h220-no)
 
@@ -32,7 +32,7 @@ I'm hoping to finally gain those "practical skills" in web development so I can 
 
 If everything goes as planned, senior year is going to fly by! :wink:
 
-But [anywhoozies](https://twitter.com/swooz1e 'Swoozie'), yay me!!!
+But [anywhoozies](https://twitter.com/swooz1e "Swoozie"), yay me!!!
 
 ## Insert 5 Hours Of A Random Celebratory Song
 

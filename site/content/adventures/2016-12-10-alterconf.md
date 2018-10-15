@@ -4,7 +4,7 @@ description: "AlterConf is a traveling conference
 series that provides safe opportunities for marginalized people and
 those who support them in the tech and gaming industries."
 date: 2016-12-10
-image: https://lh3.googleusercontent.com/IeCc99xhaThJn-AOZfiEkhFalHCBHF8PvvEkyHV0HAGROtvqx3xH6UIbWi6G7rwC1JIo8YQ4LXodwVfWEgWyUT1OYRuR6C-4XQGFkzsj6hAM6iFYdLeIVKSS3Vst1p4tWoQitw0PdfnqR0wUlQsjF7dMkh5YXAjHAWUTAeo2uKjm0qqDdpClzpPT55CU8IMsD4FrGlKn6fY2e5_B8S0ZVwXWNS1dgI1N8LgFi7ejJyOidzjrXGhGHHochV4ETCxZX7g9It3G6aRasRPTak7G3rqFhEhWHpNIGOedjJpFkcxTe4NHf4T8wr8qV7ea_KvlP5mbBIGrIShKPthmWw9mtXmdqwog_LxQ8zUbMbxWmfbS4YuV3EB6SoY2c2RvNh-o17YCV4lBHKCc5MwUMPuLmTKTiQD2n9-p7vjG7xWK_IU6Z_kubHqM4m3ddHWsC--Vm1SFiEuJQTF-oMHadzJwfvp8sjvql4vw438P30QGpBIKR6dc93SM9FaW75WBWbD3xIoAUJdW9OuYtsl07y6DyBBxZWVWeCnK27FUGTlMGQjEO_onKgoITFYFdkfH2wXW584jNSSNaJJfh7P7icvmjmghSWfFUiF2yiFaUPl4UgRhLY4GL-T4QaWddS3Kfizm=w1100-h560-no
+image: https://i.imgur.com/WzJY61S.png
 aliases:
   - /home/adventures/conferences/alterconf-dec-2016/
   - /2017/01/03/alterconf-nyc-2016/

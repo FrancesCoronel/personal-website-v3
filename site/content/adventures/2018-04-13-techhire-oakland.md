@@ -44,3 +44,11 @@ TechHire Oakland guides underrepresented East Bay residents of color to rewardin
 > Skills Page
 
 ![TechHire Oakland 2](https://i.imgur.com/5qyI0Ih.png)
+
+---
+
+http://www.kelseyaroian.com/techhireoakland
+
+http://www.adrianowalker.com/
+
+https://www.vanessakoch.com/

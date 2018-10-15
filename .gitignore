@@ -63,7 +63,3 @@ typings/
 # Output
 config/env.js
 dist
-
-# Service Worker
-site/layouts/partials/body/scripts/service-worker.html
-/site/layouts/partials/body/scripts/service-worker.html
