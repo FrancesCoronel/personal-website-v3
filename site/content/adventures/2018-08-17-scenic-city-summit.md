@@ -1,10 +1,11 @@
 ---
-title: Scenic City Summit 🗻
+title: Scenic City Summit
 date: 2018-08-17
-description: One-day technology conference presented by Red Hat, and a program of ChaTech, the Chattanooga Technology Council.
+description: One-day technology conference presented by Red Hat, and a program of ChaTech, the Chattanooga Technology Council. 🗻
 location: Chattanooga Convention Center - Chattanooga, TN
 image: https://i.imgur.com/YLdyGq0.jpg
-url: /2018/08/17/scenic-city-summit/
+aliases:
+  - /2018/08/17/scenic-city-summit/
 categories:
   - speaking
   - conference

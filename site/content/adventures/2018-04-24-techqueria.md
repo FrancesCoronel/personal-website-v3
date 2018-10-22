@@ -1,8 +1,9 @@
 ---
-title: Techqueria 🌮
-description: Open Source Developer
+title: Techqueria
+description: Open Source Developer 🌮
 date: 2018-04-24
-url: /2018/04/24/techqueria/
+aliases:
+  - /2018/04/24/techqueria/
 image: https://i.imgur.com/aA56Nma.png
 categories:
   - portfolio

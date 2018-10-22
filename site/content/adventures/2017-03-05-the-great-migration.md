@@ -42,6 +42,6 @@ Feel free to view the progress of my new blog at [fvcproductions.github.io](http
 
 ## Overall, I'm super excited about this process and have been actively working on my new website the entirety of this past week. Here's to new beginnings! 🎉
 
-![The Great Gatsby Toast](https://lh3.googleusercontent.com/BiJkSgrfBTd3kbDWGUHRbz6EVHkaYWjpuBO3dNTsAb2PIMPo6UzT_GNLZGcuQroq2O5a92IACOE2tsdgi8jfkFQqSkQrd2urq_0I-zwR2i1yRJS8jk-C5WEAzsFHly3qGr2330Ph4gEKFVY-7t0OMunR9LjOXIfTHHPG5y71wmB1kULcBvpzc6-U395gkOAlPY2lHO0a4UUAUTf-h2qn6U2W0VLrukkXdXNdCffyOJtd5qjZDWPeW9hQZqc1dBheucR5o9nP4_fuN8ItOLWXfq-o4s47U5r04O0H9dlqIURCvq7lHwSEBHCNkpH06eCC0Rd-AsARRvT9zuAw47P19MdjaN05H8RTDoUOJiGVBrcjyPGSFkr6B-Rv_2ZkUIVyQU_nip2zOYRoy2vupSpr7DrTj2Eh41fRGelGU1NH4upd_Nqla566XJsv4TxcnjwGsxU-ofrAMZw7lkEvdimlguZOl1VDWuso2EnxPKEyBkkEU2woj7Ia1_ebf_TjayjZykwCVqrzDfSuIhJr3BBdd-LYQnyK66zf60j6Zs_maP1Ohlpc_MPY6LjIGjLmqM_hOqgiOCG6uDGPqJ_SnPh0hpHeUekqWykBg8q3g5VijDqQ2VXbbo596plw8nulbK3Q=w720-h405-no)
+![The Great Gatsby Toast](https://media.giphy.com/media/g9582DNuQppxC/giphy.gif)
 
 > The header image is in reference to that awesome migration Monarch butterflies have every year. 🦋

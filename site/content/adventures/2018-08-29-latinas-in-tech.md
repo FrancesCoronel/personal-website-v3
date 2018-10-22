@@ -1,10 +1,11 @@
 ---
-title: Latinas in Tech Silicon Valley Meetup 🇵🇪️️
+title: Latinas in Tech Silicon Valley Meetup
 date: 2018-08-29
-description: I was the moderator for a panel celebrating and recognizing Latina engineers.
+description: I was the moderator for a panel celebrating and recognizing Latina engineers. 🇵🇪️️
 location: Twitter HQ - San Francisco, CA
 image: https://i.imgur.com/WFVB1iB.png
-url: /2018/08/29/latinas-in-tech-silicon-valley-meetup/
+aliases:
+  - /2018/08/29/latinas-in-tech-silicon-valley-meetup/
 categories:
   - speaking
 ---

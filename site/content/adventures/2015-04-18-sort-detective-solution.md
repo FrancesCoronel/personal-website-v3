@@ -1,7 +1,7 @@
 ---
-title: "Sort Detective - Solution ☕"
+title: "Sort Detective - Solution"
 date: 2015-04-18
-description: "Stuck on that homework assignment involving SortDetective.jar? No need to worry!"
+description: "Stuck on that homework assignment involving SortDetective.jar? No need to worry! ☕"
 image: https://i.imgur.com/aNVfqmh.jpg
 aliases:
   - /2015/04/18/sort-detective-solution/

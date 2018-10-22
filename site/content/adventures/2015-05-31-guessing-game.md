@@ -1,5 +1,6 @@
 ---
-title: The Guessing Game ⁉️
+title: The Guessing Game
+description: I created a guessing game for the Foundations stage of Fullstack Academy. ⁉️
 date: 2015-05-31
 image: https://i.imgur.com/3gU4Vyu.jpg
 aliases:

@@ -1,10 +1,11 @@
 ---
-title: JSConf Hawai'i Diversity Scholarship 🌺
+title: JSConf Hawai'i Diversity Scholarship
 date: 2018-08-26
-description: Awarded a full scholarship to attend JSConf Hawai'i in 2019.
+description: Awarded a full scholarship to attend JSConf Hawai'i in 2019. 🌺
 image: https://i.imgur.com/NLjoKyh.jpg
 location: Waikiki Beach Marriott Resort - Honolulu, HI
-url: /2018/08/26/jsconf-hawaii-diversity-scholarship/
+aliases:
+  - /2018/08/26/jsconf-hawaii-diversity-scholarship/
 categories:
   - award
 tags:

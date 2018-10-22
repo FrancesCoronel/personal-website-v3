@@ -1,5 +1,6 @@
 ---
-title: Robopocalypse 🤖
+title: Robopocalypse
+description: E-commerce store project for Fullstack Academy. 🤖
 date: 2015-08-05
 image: https://i.imgur.com/V26V6tz.png
 aliases:
@@ -12,7 +13,7 @@ tags:
   - open-source
 ---
 
-I collaborated in a four-person team to create an e-commerce store that specializes in selling robots with features such as multi-tenancy, admin/merchant dashboards, and social login using [the MEAN stack](https://mean.io 'MEAN stack'), [the Mandrill API](https://mandrillapp.com/api/docs/ 'Mandrill API'), and [OAuth](https://oauth.net/ 'OAuth').
+I collaborated in a four-person team to create an e-commerce store that specializes in selling robots with features such as multi-tenancy, admin/merchant dashboards, and social login using [the MEAN stack](https://mean.io "MEAN stack"), [the Mandrill API](https://mandrillapp.com/api/docs/ "Mandrill API"), and [OAuth](https://oauth.net/ "OAuth").
 
 This project was completed on `August 5th, 2015` for the Stackstore phase of Fullstack Academy.
 

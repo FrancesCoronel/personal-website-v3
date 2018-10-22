@@ -11,7 +11,7 @@ tags:
   - wizard
 ---
 
-![FreeCodeCamp](https://lh3.googleusercontent.com/SEX2PQFrAVghmU37-LTwe1rqIVOwBxUps8HnvqW-eQ4OVT-MJ6WZMFcfzU1nygfmiOEYIvE_04jbbQBqz3jVF_K7mW_t5zLfshQyPpOQhB7_Ts_HPT-duDf0cgbOpYstuLFm404vkyetKYeTUQEn6Tp1Mk7deBCO-csaZox2BaXWqiUOHTyINrcnP1nBZtHl_imU2mPGCKq_gnM8N9wXF2ocyKWCei0rLqPjjj6UR_11QPtA3OQ-PjaOQqplymUkOJm6keQ0Qh-XcFcP8DnieyGTQUqhXmDAGgyVJyf32FoJ3DL5gYRilbwj4nBcwmWUw2mePeXlNw72hZaAEXPI1l3lv9rBBZx2He9VjqQDsl8zKj-rk1EG4jMV1txS12T3zgw7KmKRI0FkNQyvfyeLc4QfdmMfMiIvmkhTiDTQInhm_DM82myYuR2YHXOWBabyK1Firzcv-7AanCEZzQDQKON5Puys0Z3B156kCIpuzYATYwr1cKCd-EgUX_E1dZnZE8ZbQsBQltzL_s1qpx13njYaRkO3BIAhkchTkm5hbIEZyTg6WN7fCWId3eclVymHXSOIE1aUSMVTNezsqiJaqHjvlAplmp-CB7SDE2v7U9DR63rXMVAuSj9lDvvdt66L=s512-no)
+![FreeCodeCamp](https://i.imgur.com/iNf2C7o.png)
 
 # [Free Code Camp Norfolk](https://www.facebook.com/groups/free.code.camp.norfolk/)
 

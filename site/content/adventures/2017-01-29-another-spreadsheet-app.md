@@ -1,7 +1,7 @@
 ---
-title: "Another spreadsheet app? 🤔️️"
+title: "Another spreadsheet app?"
 date: 2017-01-29
-description: "Are there other options out there?"
+description: "Are there other options out there? 🤔️️"
 image: https://i.imgur.com/dxtM2ju.png
 aliases:
   - /2017/01/29/another-spreadsheet-app/

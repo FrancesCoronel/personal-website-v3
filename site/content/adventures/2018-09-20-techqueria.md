@@ -1,9 +1,8 @@
 ---
-title: Techqueria's New Website Launched! 🌮
-description: After a couple of months, I was finally able to launch a new version of Techqueria's website!
+title: Techqueria's New Website Launched!
+description: After a couple of months, I was finally able to launch a new version of Techqueria's website! 🌮
 date: 2018-09-20
 image: https://i.imgur.com/BFKbzGO.png
-url: /2018/09/20/techqueria/
 categories:
   - portfolio
   - volunteering

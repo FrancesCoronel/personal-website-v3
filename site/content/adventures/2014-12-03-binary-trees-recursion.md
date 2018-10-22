@@ -1,7 +1,7 @@
 ---
-title: "Binary Trees & Recursion 🌳"
+title: Binary Trees & Recursion
 date: 2014-12-03
-description: "CSC 251 Study Guide"
+description: CSC 251 Study Guide 🌳
 image: https://i.imgur.com/wRob1VQ.png
 aliases:
   - /2014/12/03/binary-trees-recursion/

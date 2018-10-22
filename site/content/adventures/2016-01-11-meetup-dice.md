@@ -12,7 +12,7 @@ tags:
   - web
 ---
 
-![Meetup Dice - Winner](https://lh3.googleusercontent.com/gcVcA8zMGNDWU7EuvC13OvGe1GxvRLsTWHvY2OxJefLb240NjMg512RM3W09hDbCXw0Tu5-yCrXRu_I9nXmt27lrixMrc3QvFAnNIJq0RDJYkSr41nUkSgMe_SquVVdkbjwBAiIdUgAlhEF5x14USrcSJnZoiiMHvjk6MKc2dtLrO5mBtvCElO-3gky0qeLPLTCfvKsdYHiuYEGhLtXCcIZxK3ZZx1zy2UXnmmKFplbvEStJvqMFzly2Mp2ICf6vrumbaLxjuzL9NRN4MvoLnK4zURFjFn6WXf8-yqdylXGYcZWrt_opNGQHFwLPDX64pIVdrDBjukJNYRMMDr5psKVbhq2sUdCXBmgcJhAwVz2zABU0o_eVyBd5XJKHGp0m5b7NvpgiM-BFD2dJ3tLhoF_YF51ov89eZ2Looxro9tiQTVrOVPughBEMQKkUZloTdE3mjF9plgT2OS2VSp1Dc5TNZ7LziXlvYMvJghqgwLo2Nmf3oCCm87bxq7tZ5rmCjwQ3vzWD2L3xgEFjV4Oy7WJhXoAbjflxumhJHNqdpw4yqauhNrbV5OkwF39649S9Kim2E7RcYuCuT-zkfDwur0qCjKTt8Abgd6eWePgPgw8p0NQ8wSz3bRqF2gS2jVV4=w397-h220-no)
+![Meetup Dice - Winner](https://i.imgur.com/37oUpzL.png)
 
 So for my [Norfolk.js Meetup group](https://meetup.com/NorfolkJS), they like to give out prizes through a raffle every [Meetup](https://meetup.com). The method they used was messy with a simple console application (I think). Anyway, I just wanted a better visual experience for choosing a random person to give a prize to.
 

@@ -1,6 +1,6 @@
 ---
-title: RIP Code School ☠️
-description: Goodbye, my precious.
+title: RIP Code School
+description: Goodbye, my precious. ☠️
 date: 2018-04-03
 image: https://i.imgur.com/a6OphgI.png
 aliases:

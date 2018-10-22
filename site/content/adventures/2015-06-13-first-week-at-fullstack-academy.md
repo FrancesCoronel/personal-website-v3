@@ -1,7 +1,7 @@
 ---
-title: "First Week at Fullstack Academy  💫"
+title: First Week at Fullstack Academy
 date: 2015-06-13
-description: There are 58 days in Fullstack. These are the first 5. Let's begin.
+description: There are 58 days in Fullstack. These are the first 5. Let's begin. 💫
 image: https://i.imgur.com/Z8oUzkr.jpg
 aliases:
   - /2015/06/13/first-week-at-fullstack-academy/

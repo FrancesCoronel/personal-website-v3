@@ -1,7 +1,7 @@
 ---
-title: ONE WEEK OF FULLSTACK LEFT 🙊
+title: ONE WEEK OF FULLSTACK LEFT
 date: 2015-08-19
-description: "There's only one week of Fullstack Academy left. Overarching feeling: HOLY CRAP."
+description: "There's only one week of Fullstack Academy left. Overarching feeling: HOLY CRAP. 🙊"
 image: https://i.imgur.com/4n1gfDE.jpg
 aliases:
   - /2015/08/19/one-week-left-of-fullstack/

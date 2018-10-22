@@ -1,7 +1,7 @@
 ---
-title: In Christopher's Footsteps 👣️
+title: In Christopher's Footsteps
 date: 2009-12-10
-description: I was assigned to write a sort of creative essay from the POV of Christopher (the protagonist who is a 15 year old boy in the novel with an autistic spectrum condition -- I'm guessing Aspergers?) for my English class.
+description: I was assigned to write a sort of creative essay from the POV of Christopher (the protagonist who is a 15 year old boy in the novel with an autistic spectrum condition -- I'm guessing Aspergers?) for my English class. 👣️
 image: https://i.imgur.com/OT2QZ7g.png
 aliases:
   - /2013/07/28/in-christophers-footsteps/

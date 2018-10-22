@@ -1,7 +1,7 @@
 ---
-title: Fullstack Academy - Reflections 💭
+title: Fullstack Academy - Reflections
 date: 2015-08-30
-description: At the end of the day, I'm really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye opening pair programming sessions, and the awesome people.
+description: At the end of the day, I'm really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye opening pair programming sessions, and the awesome people. 💭
 image: https://i.imgur.com/PuMqMmW.jpg
 aliases:
   - /2015/08/30/fullstack-academy-reflections/

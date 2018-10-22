@@ -121,6 +121,12 @@ TBA
 
 ---
 
+## Music
+
+Adamant Direction by Jukedeck - create your own at http://jukedeck.com
+
+---
+
 ## Credits
 
 - Sketch 3

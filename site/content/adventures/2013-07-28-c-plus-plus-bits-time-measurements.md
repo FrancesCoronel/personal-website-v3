@@ -1,7 +1,7 @@
 ---
-title: C++ Bits - Time Measurements 🕑
+title: C++ Bits - Time Measurements
 date: 2013-07-28
-description: Measuring time in C++.
+description: Measuring time in C++. 🕑
 image: https://i.imgur.com/mNett8e.jpg
 categories:
   - blog

@@ -8,8 +8,6 @@ categories:
   - portfolio
 ---
 
-![Balance](https://lh3.googleusercontent.com/BpbYgU1zdv9ENPQAn-OnmJlc4MPg-xZcSk2GZznjWmLKTQmj77O_6ho2XQM1-Tc0c3AQUcfTqPKeh9TBw0hedUfdEjCL4HHtPjYskBqqS5gZaluySzIvcOk77HMgrzF_OYyldRHRJ4RsZH3wNNndxT8GcvYi_0OVRsCogTgDR9aTvNWFv0jaYdI5c1mLUN_sPhwcjhF67JC7p8-sO3pVNFnmXh639c2D9Czgghkv-drkTKX6qa4aFYRPkzaRr6bRCtqjmNgkPKIhBsRlMDY9OGXd57pBeKeRru1DjnG6zJJ2xaiqNp1oqshqeFQfJC-8JydiwGJXL1XJDUIlOhR7QYWrIDiGMZi5-s2NbKNDqAo3dGj6XQWlAK0b3WoYA5eCxpErqx6kolybQxd5dOcFhkKMUS107zpBYQlpOOyCNAYKg9oTuqXwdGtQ94Dib82DFVdCpBoxHGW_1_eZJ8P87hsQt5L8JV95q0K5kNATo6WNmB6wEuXWcs_hkMXtzx1pxtvgLjhLNA__nQN1p6NrhcjVm8xy4HfM2LJX_kPDeyFmcBPhqlUKxyBCyL4HfZoAWcABnZapO9QL1nA89FC0vWWjU2D7OXIej9ocHyV7rNdQr90EfFjaXpVJ4Y2SvvK1=s128-no)
-
 ## Graduate Programs - MBA/MSCS
 
 This list provides graduate programs that offer a dual degree in an MBA and Master's in Computer Science/Robotics/AI/related – which are of course, few and far.

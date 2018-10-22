@@ -1,7 +1,7 @@
 ---
-title: The DaVinci Code - Book Review 🖼️
+title: The DaVinci Code - Book Review
 date: 2013-07-29
-description: A book review on 'The DaVinci Code' by Dan Brown.
+description: A book review on 'The DaVinci Code' by Dan Brown. 🖼️
 image: https://i.imgur.com/RBCLygk.jpg
 aliases:
   - /2013/07/28/the-davinci-code-book-review/

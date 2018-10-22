@@ -1,7 +1,7 @@
 ---
-title: "My Top 3 Productivity Apps 🎩"
+title: My Top 3 Productivity Apps
 date: 2015-03-28
-description: Here are 3 of my favorite power tools that changed how I worked and my average level of productivity on a daily basis.
+description: Here are 3 of my favorite power tools that changed how I worked and my average level of productivity on a daily basis. 🎩
 image: https://i.imgur.com/uObmBFH.jpg
 aliases:
   - /2015/03/28/my-top-3-productivity-apps/

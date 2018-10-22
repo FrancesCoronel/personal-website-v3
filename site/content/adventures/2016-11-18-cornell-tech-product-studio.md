@@ -1,7 +1,7 @@
 ---
-title: Cornell Tech - Product Studio 🔥
+title: Cornell Tech - Product Studio
 date: 2016-11-18
-description: How might we create a safe place for people of all backgrounds to discuss important local, national, and global issues?
+description: How might we create a safe place for people of all backgrounds to discuss important local, national, and global issues? 🔥
 image: https://github.com/fvcproductions/nyt-comm/raw/master/img/banner/ct+nytimes-white.png
 aliases:
   - /portfolio/2016/11/18/product-studio/
@@ -14,7 +14,7 @@ categories:
   - award
 ---
 
-![The New York Times - White Banner](https://lh3.googleusercontent.com/nAfuzrWnGdYkC6d3ULP6wFraJ5XiEDrzPlw8BXORMsThk5jEGiPdVLUOp13mj6XUn4eLcxYhSXPfsEz5o2IlhLu6XfRJVpKw4wjDe3_MpPbZH_PMAt_b62zmYzyYfu2n6KCbX012mcp3nmZqn88WHzEI_QsIgnUuDy7SLMGDDipVBF1qZqgz1EaABVx-Is7FIwjpyNKK4T0ds9ByFgRJ-Eh0aWN5eBLuWEhjBiT5x-lYU1ly2WVl56OWNvRO6LrOpFLcvhO90o5QpL_d7ijl7_v-cxlzjKm7shAMXay5Kip0rX_953E9Ps4iXFqxCF7pmDyllBIk2iBj3VtPIgPKfBn9v0uBI56wymZfzec-cVR-SgUxNkiQFMWmgPGA85-B-S10qg8DqqG-wj-5zuNMXK4cOFwD-C4cAJxbeHsXZ8_BSK5MV1jkYaC8yshlyARMKRBv47waPp4moxj0dLuUC2OgGfF0IPwQ6jyUT_QNaNNqUjE_RVeNmOPtJnqqQ6r0Nr-cKMldoNnrXOIIaBbRiCtslwrIrmOGsmyEtesJZ2PItUyk5pHxEAVRYYLyiHt0w6SITtKRSdals0MzOeu-zLs2U1FwDrgW1LOlkvVG7MSEFxU5PvOHRwzOEDhfCGQp=w1500-h500-no)
+![The New York Times - White Banner](https://i.imgur.com/JR9TCm7.png)
 
 Every fall, leading startups, companies, and organizations in NYC pose business challenges to Cornell Tech. In Product Studio, teams develop and present new products, services, and strategies that respond to those challenges.
 
@@ -43,9 +43,9 @@ Every fall, leading startups, companies, and organizations in NYC pose business 
 
 Our team responded to The New York Times (Community) challenge: How might we create a safe place for people of all backgrounds to discuss important local, national, and global issues?
 
--   To address this problem, we created Q&A, a platform that solicits the opinion of readers based off of both the text analysis of an article and their personal reading history.
--   One of the best-performing teams out of 10+ teams in final sprint round at Cornell Tech.
--   Recognized as a team with artful artifacts in final sprint round at Cornell Tech.
+- To address this problem, we created Q&A, a platform that solicits the opinion of readers based off of both the text analysis of an article and their personal reading history.
+- One of the best-performing teams out of 10+ teams in final sprint round at Cornell Tech.
+- Recognized as a team with artful artifacts in final sprint round at Cornell Tech.
 
 ---
 
@@ -110,7 +110,7 @@ Introducing "Most-Discussed" on the New York Times app. Here, you can see articl
 
 ### Sprint 1 - Prototype
 
-![Prototype](https://lh3.googleusercontent.com/n5C2XUjvVB_dos_J97Dv0r9W3EbX99fkZkup_pEl0Pm2rF9L1e712sQRx4v_qwOfa3P_iathWJoVVsoBxLCOk95P-pxYxbMPGKVYnTy-gbH576DCHX4TWphhGfnoRu5Pj9tVoo3RRymzk_C0mp9o2kDf7q_RDtkiT54n27-jrVh1Hactgh6L_Q9ZRA1TRcrSdQBxE2U-XEPE-CUub17PA5OAfWWaKGPMzzuMy_me8BjjIRaHAw-OTF6WQeHwWQL0ddh9gflbZFGntaM3PR0zzu5MAy9Hzjr1N3X_s3KVEtYn8RM2e8BMcLIKalDAOW14ZgW2k4Kcq8bFRnruzTpBthGYNmqErUUiQ-vv8PG1z8Zw7uSEEITVn6MPA3vM1sbK6fLkTcWg934hTBNXAWuXmsaC2HtJBC2co0FhXDgbYaL_kcq5o7fjIkL9wExjoeCBHzuzmYn38Op_pEDUlTUWI6YN1ilD97rY1weE6p0Qe7FKtRZp847s2ZUGQGPeuW_0FIz9Fannv7CR8r6fbrHW4YPAgHz0RkyRyGh7eQXq2Ai8YuIY716CFfVRRBcEQI8-p9egoLFSya5eEH5lNvonF-vy-y_erNqRoM0lyB3DBce6Q_leGEpO-tKKryWo3igQ=w444-h788-no)
+![Prototype](https://i.imgur.com/iEt4jFs.png)
 
 <blockquote class="embedly-card"><h4><a href="https://invis.io/HZ8PJDK89">Click here to view the project `NYTimes - Sprint 1`</a></h4><p>This prototype brought to you by InVisionApp</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -222,7 +222,7 @@ Lastly, to hand off our product, we plan to provide all of our assets to the NYT
 
 ### Sprint 3 - Prototype
 
-![Prototype](https://lh3.googleusercontent.com/8kAmhjSesZYh8toBZw7PVW072yooFD3zpx1jP5P9_8YUxZpNYCaMUQDUbMhcX08x7_18gSbY_RTlUPJrYvn9TPU26-ii9OrfB1pA4FPJDyFIwZ6T2lKhVLg-LlhGxpn0S70YAXHKfj9btuiqNRMoa3vyDhsDdKoUj674rJmtgZe0PWVTdRX_1S_h6rg_3x3Y9eR8PrZH_96o8ozmE4nZhcCR7xXxrvjXkqy-hYL99NH-g2P7L9fOG1CyirKuCBAUhcXQp6dl0ybLh1AyFWbODPFelzhFjGFoUxjFM2z7W07ZBkF7srVheYgrPESRemzbLG88S4fsYl2PbtIOQjUxgpi6MlZrgxl0Foi3om0pW5V7kgVRcKI-Wx9u5tpXIH_zSPIjzKf_VJnw1to8ImqLqEYL1Pwtlcz3zqsBnOC1iULl_m_XNsXPRX1aXI2rQPBlxFW75kNFpcDLXrGrX4eyPp8ULJHnJZTUC-2U_ay9C6V9kSFwged2aaqgY90QHdgnM2TKENGd3zcCcjUFvVssrzV47ZiCbz5HMfItsC9X9ny-p_fsMTCY5tPEsWUrqzuW9JlUnwqiu5tQlawwTF6eihxiGqrKZjjnENUt5qB_axoQWRk1PxMWQS_0rkT_BGwq=w1440-h900-no)
+![Prototype](https://i.imgur.com/3yzZCpg.png)
 
 <blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/nyt-comm/">The Spanish Lesson I Never Got at School - The New York Times</a></h4><p>Like millions of Latino kids educated in California public schools, I never took a class in Spanish grammar or Spanish literature, nor was I ever asked to write a single word with an accent or a squiggly tilde over it.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -249,12 +249,12 @@ At the end of the semester, each team was also tasked to create a poster for the
 
 ## Awards
 
--   **Artful Artifacts**
-    -   November 22nd, 2016
-    -   "We've pulled these for the class to see great examples of teams or individuals that have produced meaningful artifacts that not only showcase an interesting way of representing their solution, but also act as useful milestones that can be referenced to in the future of the product development process."
--   **Best Final Sprint Presentation in Grizzly Room**
-    -   December 9th, 2016
-    -   Recognized as having one of the best team presentations during the final sprint in the Product Studio class at Cornell Tech out of 10+ teams inside the Grizzly presentation room.
+- **Artful Artifacts**
+  - November 22nd, 2016
+  - "We've pulled these for the class to see great examples of teams or individuals that have produced meaningful artifacts that not only showcase an interesting way of representing their solution, but also act as useful milestones that can be referenced to in the future of the product development process."
+- **Best Final Sprint Presentation in Grizzly Room**
+  - December 9th, 2016
+  - Recognized as having one of the best team presentations during the final sprint in the Product Studio class at Cornell Tech out of 10+ teams inside the Grizzly presentation room.
 
 ## GitHub Repo
 
@@ -263,18 +263,18 @@ At the end of the semester, each team was also tasked to create a poster for the
 
 ## Tools
 
--   InVision
--   Keynote
--   Quip
--   Sketch 3
--   -   Keynote
--   Quip
--   GitHub Hosting
--   HTML/CSS/JS
+- InVision
+- Keynote
+- Quip
+- Sketch 3
+- - Keynote
+- Quip
+- GitHub Hosting
+- HTML/CSS/JS
 
 ## Team
 
--   Israel Burns
--   Delia Casa
--   Frances Coronel
--   Chumeng Xu
+- Israel Burns
+- Delia Casa
+- Frances Coronel
+- Chumeng Xu

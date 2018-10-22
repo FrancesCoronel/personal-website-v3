@@ -1,7 +1,7 @@
 ---
-title: POTC - Parchment Riddle 📜
+title: POTC - Parchment Riddle
 date: 2013-08-03
-description: A riddle inspired by Pirates of the Caribbean.
+description: A riddle inspired by Pirates of the Caribbean. 📜
 image: https://i.imgur.com/M1nm5LU.jpg
 aliases:
   - /2013/08/03/another-riddle-potc-style/

@@ -1,8 +1,9 @@
 ---
-title: STELLARES - Feedback Session 💬️🤖️
-description: Provided a 1 hour session for app feedback for their product.
+title: STELLARES - Feedback Session
+description: Provided a 1 hour session for app feedback for their product. 💬️🤖️
 image: https://i.imgur.com/EjOfuv5.png
-url: /2018/07/08/stellares-feedback-session/
+aliases:
+  - /2018/07/08/stellares-feedback-session/
 date: 2018-07-08
 categories:
   - review

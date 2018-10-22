@@ -1,7 +1,7 @@
 ---
-title: "Fullstack Foundations & Goldman Sachs 🚀"
+title: Fullstack Foundations & Goldman Sachs
 date: 2015-06-04
-description: An overview of what's been going on in Fullstack Foundations Week 2-4 and the big presentation with Goldman Sachs.
+description: An overview of what's been going on in Fullstack Foundations Week 2-4 and the big presentation with Goldman Sachs. 🚀
 image: https://i.imgur.com/smHP8ht.jpg
 aliases:
   - /2015/06/04/fullstack-foundations-goldman-sachs/

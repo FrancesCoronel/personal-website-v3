@@ -1,7 +1,7 @@
 ---
-title: C Bits - Speeding Up A Bit 🚤
+title: C Bits - Speeding Up A Bit
 date: 2013-09-20
-description: The 2nd part in a mini-series for beginners in C.
+description: The 2nd part in a mini-series for beginners in C. 🚤
 image: https://i.imgur.com/hxcsqEs.jpg
 aliases:
   - /2013/09/20/c-bits-speeding-up-a-bit/

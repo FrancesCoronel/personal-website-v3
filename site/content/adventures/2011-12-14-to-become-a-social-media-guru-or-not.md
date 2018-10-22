@@ -1,7 +1,7 @@
 ---
-title: To become a social media guru or not? 🎒
+title: To become a social media guru or not?
 date: 2011-12-14
-description: Talks about social networking in the classroom.
+description: Talks about social networking in the classroom. 🎒
 aliases:
   - /2013/08/03/old-essays-on-technology/
 categories:

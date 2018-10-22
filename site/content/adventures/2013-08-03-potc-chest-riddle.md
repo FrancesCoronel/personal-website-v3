@@ -1,7 +1,7 @@
 ---
-title: POTC - Chest Riddle 👑
+title: POTC - Chest Riddle
 date: 2013-08-03
-description: Here's a little riddle that is based on a very recognized riddle, except it uses POTC references.
+description: Here's a little riddle that is based on a very recognized riddle, except it uses POTC references. 👑
 image: https://i.imgur.com/uHEktLw.jpg
 aliases:
   - /2013/08/03/testing-logic-potc/

@@ -144,3 +144,9 @@ My boyfriend actually ended up getting a little jelly because I mentioned that A
 Waking up super early to catch a flight home. 😴️
 
 > <a name="footnote1"><strong>1.</strong></a> Ian is one of the [Project Alloy](https://www.projectalloy.org/) co-founders.
+
+---
+
+https://medium.com/projectalloy/project-alloy-2017-update-ebc6e169bd1f
+
+https://www.projectalloy.org/eoy_reports/2017-2018.pdf

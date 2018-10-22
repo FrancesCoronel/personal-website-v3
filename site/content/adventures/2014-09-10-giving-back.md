@@ -1,5 +1,5 @@
 ---
-title: "Giving Back"
+title: Giving Back
 date: 2014-09-10
 description: "Expressing my gratitude."
 image: https://i.imgur.com/L4zjh1n.jpg

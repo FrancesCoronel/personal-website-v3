@@ -1,7 +1,7 @@
 ---
-title: Ender's Game - Book Review 👾
+title: Ender's Game - Book Review
 date: 2010-08-03
-description: The Martian Chronicles, Star Wars, Lord of the Rings, Stranger in a Strange Land...an average geek's favorite reading list can be literally incalculable.
+description: The Martian Chronicles, Star Wars, Lord of the Rings, Stranger in a Strange Land...an average geek's favorite reading list can be literally incalculable. 👾
 image: https://i.imgur.com/YkJpGiL.jpg
 aliases:
   - /2013/08/03/enders-game-book-review/

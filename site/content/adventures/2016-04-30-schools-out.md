@@ -1,7 +1,7 @@
 ---
-title: School's out? 🎓️
+title: School's out?
 date: 2016-04-30
-description: Catching up on happenings for the month. SO MANY HAPPENINGS.
+description: Catching up on happenings for the month. SO MANY HAPPENINGS. 🎓️
 image: https://i.imgur.com/j7nwzCV.jpg
 aliases:
   - /2016/04/30/schools-out/
@@ -37,7 +37,7 @@ I hate paper.
 
 ### So I read this article recently on [**Coding Bootcamps and Emotional Labor**](https://modelviewculture.com/pieces/coding-bootcamps-and-emotional-labor).
 
-![Coding Bootcamps & Emotional Labor](https://lh3.googleusercontent.com/LOoJWfJqOA8QLPM0yDnUcu2NhuJuKkFg-E5WghE2_fJX37C1KkxlQxS0Fv8O3ulgb_1amj-duyZcvyh9MHH9dnV9hJPO46pz49uqpSsrnkV7vgy8s_CFBA7m2QYNiS1ZwQAawi8acxo8XpTvxCfm4G9ef2KpkSvKhxx08RQi1LgDeC93yVpC4PmiyNFV34B4-Z69SnSdUQi2Cab2-KXUCsip64wp-ojBYZCtZ65l3YJ7O4HRnE76my39zYp2MAHlBfqadTpA1uoHTkNAuo-0FfKzchL73KbltGzVWakLomLvjil4dSxT_xNRGSjTWtWgHi8Pp8Xf8EVYTwem1g088zsv3cOsPwY0rvG4JB8_I3JPYqm63Q3HBmTjzE9TwO1kEO2EjhbO8kLnv7Is_as7L2T-7d2UPh80mCI8lUSik4sM4O_cgPdEill5opiUKBMSvlkN2zXASxL3-TF6SJAkX_QRK8w4AmlvQCXlguxIIo5u-GeOL6FBCiM5vqDTFItbIhNRi5_1k3ef32OoqGN7_sIGcU0VOgxI0s0KV1kJDlw1qIVyZ3F6ZD_Nm9Iw8muH_aBaFDN2Z2rvx_tbfQLZ2nrbGmDT53LFZ8l8Bpyx0thv1kWChyozVB6edwZD78Cg=w808-h744-no)
+![Coding Bootcamps & Emotional Labor](https://i.imgur.com/fYFmklS.png)
 
 The article is essentially about how the alumni of certain bootcamps are either forced to or pushed to volunteer for free for people in the current bootcamp cohorts.
 

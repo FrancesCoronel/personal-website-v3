@@ -1,8 +1,7 @@
 ---
-title: Alternative Programs to a CS Degree 💻
-description: These are all programs that are at least 2 years long and act as alternatives to a typical CS degree.
+title: Alternative Programs to a CS Degree
+description: These are all programs that are at least 2 years long and act as alternatives to a typical CS degree. 💻
 date: 2018-09-29
-url: /2018/09/29/alternative-programs-to-a-cs-degree/
 image: https://images.pexels.com/photos/277593/pexels-photo-277593.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb
 categories:
   - blog

@@ -1,7 +1,7 @@
 ---
-title: "All The (Bootcamp) Things 🎉"
+title: "All The (Bootcamp) Things"
 date: 2016-03-31
-description: I've decided to compile all the coding bootcamp things and organize them by category. ALSO THIS IS MY 100th POST!
+description: I've decided to compile all the coding bootcamp things and organize them by category. ALSO THIS IS MY 100th POST! 🎉
 image: https://i.imgur.com/a2AizPR.jpg
 aliases:
   - /2016/03/31/all-the-bootcamp-things/

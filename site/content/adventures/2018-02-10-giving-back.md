@@ -1,7 +1,7 @@
 ---
-title: Giving Back 💛
+title: Giving Back
 date: 2018-02-10
-description: Becoming the first sponsor for an open-source project.
+description: Becoming the first sponsor for an open-source project. 💛
 image: https://i.imgur.com/xJjmBy6.png
 categories:
   - blog

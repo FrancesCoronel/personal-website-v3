@@ -36,8 +36,7 @@ You can find [the feedback I've received](/feedback/ "Feedback") thus far on my 
 
 | Date       | Why                                              | Who                      | Method      | Hours |
 | ---------- | ------------------------------------------------ | ------------------------ | ----------- | ----- |
-| 2018-10-19 | Career advice                                    | Abel Regaldo             | In-Person   | 1.00  |
-| 2018-10-10 | Career advice                                    | Annelise Thorsen         | Phone Call  | 0.50  |
+| 2018-10-10 | Resume review and career advice                  | Annelise Thorsen         | Phone Call  | 0.50  |
 | 2018-10-04 | Career path                                      | Abel Hernandez           | Phone Call  | 0.50  |
 | 2018-09-26 | Resume review                                    | Prateek Kumar            | Online Call | 0.50  |
 | 2018-09-13 | Resume review                                    | Mariela Passalacqua      | In-Person   | 0.75  |
@@ -98,3 +97,13 @@ You can find [the feedback I've received](/feedback/ "Feedback") thus far on my 
 | 2015-11-05 | Preparing for Hack Reactor                       | Mike Jonas               | Email       | 0.08  |
 | 2015-03-11 | Fullstack Academy                                | Ronnie Brown             | LinkedIn    | 0.50  |
 | 2015-01-02 | Fullstack Academy                                | Thomas Tram              | Email       | 0.25  |
+
+## Previous Chats
+
+> Not mentoring sessions but just for own personal reference in the future, these are folks I've talked to in the industry whom I'd like to stay in touch with.
+
+| Date       | Who           | Method    | Hours |
+| ---------- | ------------- | --------- | ----- |
+| 2018-10-19 | Abel Regaldo  | In-Person | 2.00  |
+| 2018-10-14 | Oscar Parra   | In-Person | 2.00  |
+| 2018-09-24 | Lupita Davila | In-Person | 1.00  |

@@ -11,7 +11,7 @@ categories:
 
 ![Accenture Liquid Studio - Silicon Valley](https://i.imgur.com/vPjtqtj.jpg)
 
-[Accenture Liquid Studio](https://accenture.com/us-en/capability-rapid-application-development-studio 'Accenture Liquid Studio')
+[Accenture Liquid Studio](https://accenture.com/us-en/capability-rapid-application-development-studio "Accenture Liquid Studio")
 
 ## Location
 
@@ -77,7 +77,7 @@ Through Accenture, I've also had the wonderful opportunity to have many learning
 
 ## Clients
 
-![Client](https://lh3.googleusercontent.com/L4zC7NgB0h3sQqTAj418x9x29m_7b70THqhwT4vFpg56yT0s9QDr_8iZ2VCjMl-SGJvAlb1Mj140wu1chE7BQZhdz5-XUTAp-qUcCBwsJM-IqVLng5Gf5Pe9WEFyDUii3ELXvJC9tH2Xsf9GkQWmWIXJ-o-O4stj6XvVcGV64CIMYcn4A8l9-H6ypxuEcO3Np0sULg2HJFi_r_9O02OSSgxfEpkeRBVYFu6paikQln08wfqO0CwglWSFDJvxvXVrMYSWlqqLodGnLh-FVQtLoT9_zgjhyJDo9M-T5v2yaWLDTfjWjkt2s2e6ZfdUcyKhm5-QCCGPXtn4bOEhX-iHg-KDRpuzzOyYC3RueG3NOImo2dK-Sat45VBDYupiqvIFMLjV1OLBk64mwilWZcyihzO6AoSL_EuT7e7XXH2HqIjnsAB5RTe5ufcxg_RfHxnsOu-tsqpBGVEEMBvc2zc19q8QATwju1vVM9gPSIZgtd_TWr-jCa8XLalCnjBjXaiLIpM2rBTn1VpJylSatZPXh2ieDtP-7eqRgdN1QGufjbF4HQqpHwAeuOzqcdvP93I6TURmEyyvJ2s1xmnd5sduCcBp0kSxUcG5o9ZqH86T32sCEvPQyyiAR9OEz_Ys9Y7-=w1292-h969-no)
+![Client](https://i.imgur.com/GKmceK8.jpg)
 
 ## Code School - Top 10
 

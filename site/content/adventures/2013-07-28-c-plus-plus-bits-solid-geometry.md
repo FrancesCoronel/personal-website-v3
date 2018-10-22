@@ -1,7 +1,7 @@
 ---
-title: C++ Bits - Solid Geometry 📐
+title: C++ Bits - Solid Geometry
 date: 2013-07-28
-description: Messing with Geometry in C++.
+description: Messing with Geometry in C++. 📐
 image: https://i.imgur.com/mNett8e.jpg
 categories:
   - blog

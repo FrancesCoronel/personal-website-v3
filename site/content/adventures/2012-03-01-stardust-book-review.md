@@ -1,7 +1,7 @@
 ---
-title: Stardust - Book Review ⭐
+title: Stardust - Book Review
 date: 2012-03-01
-description: People can go through great lengths for 'true love'.
+description: People can go through great lengths for 'true love'. ⭐
 image: https://i.imgur.com/q1s5FVA.jpg
 aliases:
   - /2013/08/03/stardust-book-review/

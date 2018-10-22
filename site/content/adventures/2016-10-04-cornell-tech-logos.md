@@ -1,7 +1,7 @@
 ---
-title: Cornell Tech Logos 🎓
+title: Cornell Tech Logos
 date: 2016-10-04
-description: All the Cornell Tech logos in one place.
+description: All the Cornell Tech logos in one place. 🎓
 link: https://cornell-tech-logos.fvcproductions.com/
 image: https://i.imgur.com/CYUp9Tl.jpg
 aliases:

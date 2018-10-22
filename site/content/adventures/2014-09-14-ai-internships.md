@@ -9,7 +9,7 @@ categories:
   - portfolio
 ---
 
-![Briefcase Icon](https://lh3.googleusercontent.com/P2oLTiDx4tWsgSx-iKV0OUspxjjROHXTuJw7kHed5RSJN2lNJ3FduutoT-BspndqmQ1kvmP1GkYJhshapUfS2cNkOP6fVBb8AZTsdKnTsZxgNbXbtSU5hE7qFdDOUjxZN5LHMmlBH0EWZN93d39lxTAeWiFEg6LV0ctHg6YJ6xUNnytvSxvOAH2zHbAjDunHdumDGVa0mf1qAkEP0yvpVFMq99SlevQa26vCFAnquERWJ4Gp5faxkbCDnXnlp6G2WjvpgHoCKKRTsBaJIFhyJOa4d6zgbMnI_RBjJFlylvJPOsR48sLNSdw5solYt39mNZy31NbG8HXzA5eCzgnJJ2zsaqR570U14dW4LQgZ_y9S06PIYza1O907bbXvlpwLUUt_zCGUvda03AAGQA2cnhyIOMLxNqhjX3eV6rT-U6dFGZuWM6SDv1Q08pRnKGvJ9l93pXgGWH5gyWcqhw-odEqpuZRd3efTi-pBRZQYNCmoF62WtnuaODVuuHVonPxx_hrMK1nMSc53zuDbzoTbYRvUm_kaTNGgckKxYqbKBu_anlDpzJbMkivOTofmdX17avqU3_59w0lYRU5PJOmPheS51UsSPBefXrFGvlOiAtxQAbt6o8A6nO_aFEIRcp5c=s128-no)
+![Briefcase Icon](https://i.imgur.com/IDLvSFm.png)
 
 This list provides **undergrad-level** internships/fellowships located in the US that deal with _machine learning, multi-agent systems, computational biology, natural language processing, big data, robotics, cognitive computing, logic programming, computational linguistics, deep learning, artificial intelligence, etc., or a mix of those topics_.
 
@@ -112,9 +112,9 @@ Vicarious is building a unified algorithmic architecture to achieve human-level 
   _"I believe that every graduate student should try to do at least two internships in the industry. It is a great experience. Below you can find a list I compiled by aggregating information from some of the companies I am in touch with as a part of our GraphLab project. This list is a academic resource - I am not involved in any of the companies below. I also got some angry comments about some company or another missing - this is a personal list. I will be happy to add more companies providing the are doing some interesting research."_
 
 - [What companies have Data Science Internships? - Quora](https://www.quora.com/What-companies-have-data-science-internships)
-- **There are so many companies out there now!** You just have to look for them. **Or not.** Check out this awesome infographic that [Shivon Zilis](https://twitter.com/shivon 'Shivon Z.') made to showcase the ‘_Machine Intelligence Landscape_'. Brilliant!
+- **There are so many companies out there now!** You just have to look for them. **Or not.** Check out this awesome infographic that [Shivon Zilis](https://twitter.com/shivon "Shivon Z.") made to showcase the ‘_Machine Intelligence Landscape_'. Brilliant!
 
-![Machine Intelligence Landscape](https://lh3.googleusercontent.com/dQsBbFj6vh5fmwKNBR_vUqN_vPLyITRxVi81Q3cXE4nV7VdYpc3L-uZzWBE28wYCqmN0DvBRtnJYKfACM9fThjQ9Xpcpb1_2ufDKyDhxSyHoDIIrdekU9iMdoIyD56AZ85NIqotBzNBNxGc72cErjR3hVwREiu-JVwWW0e-uOogL6gZCwIJzzMjhQE0ovI7c7emW9VRRX4CFDoU_2PBc2Tm3w_tLLicvlBzZfETHIeoQ1KH9WD-6_HdLuuORlTKf4tMgXnq7d7UyGAloz-u28nKH85Ih_T5z5cnbDsZ3VMUfrXFQjXfqYBebBc_HR6AEkJ6zH4G65auM2Cr6kDlY2yPi_24-96ehO73DzzksI8JbSFEHE6dnwd7DlP6zQPMhGnq8x9_3SP0NpnDMWoUlJHYbwLgjynZTTgE5kj9oIQR2cdvY6cYBvMz3H4e8OTcZvxUlKO8ruP30PpEiteqXO3346xxCET5BKEYmUiSsJLBwLuPIJyhjdsGgRgZQrOzfK_3UwXU_ZkCQ-sNGaiPg-cuy6Zouelw_EtF2zoTXQxYHEOpuYlrOF0IANfL9MqdzYgW9lN6jHfm3mbfLj-dUcbYq0GfWbDm5rmZ6s_zgS4nf0IFiJLVQ3uWyl8FFcSgS=w293-h220-no)
+![Machine Intelligence Landscape](https://i.imgur.com/F3b35rR.png)
 
 ## Why?
 

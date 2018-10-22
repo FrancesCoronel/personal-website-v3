@@ -1,7 +1,7 @@
 ---
-title: "Change Your Icons on Yosemite with Scripting 🔧"
+title: Change Your Icons on Yosemite with Scripting
 date: 2015-03-29
-description: I got tired of Yosemite's icons and decided to take some initiative without the usual dependency on an app. It took about 2 days for me to perfect this strategy and now it's time to make your process a lot easier than mine.
+description: I got tired of Yosemite's icons and decided to take some initiative without the usual dependency on an app. It took about 2 days for me to perfect this strategy and now it's time to make your process a lot easier than mine. 🔧
 aliases:
   - /2015/03/29/change-your-icons-yosemite/
 image: https://i.imgur.com/7lkPqpY.png

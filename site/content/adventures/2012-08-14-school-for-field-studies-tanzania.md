@@ -1,7 +1,7 @@
 ---
-title: School for Field Studies - Wildlife Research Techniques - Tanzania 🌍
+title: School for Field Studies - Wildlife Research Techniques - Tanzania
 date: 2012-08-14
-description: Studied Wildlife Research Techniques in Tanzania during the summer of 2012.
+description: Studied Wildlife Research Techniques in Tanzania during the summer of 2012. 🌍
 image: https://i.imgur.com/lTG1xJT.jpg
 aliases:
   - /blog/2012/07/30/blog-post-from-tanzania/

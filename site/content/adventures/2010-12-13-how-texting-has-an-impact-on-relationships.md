@@ -1,7 +1,7 @@
 ---
-title: How Texting Has An Impact on Relationships 📵️
+title: How Texting Has An Impact on Relationships
 date: 2010-12-13
-description: Talks about the mainly negative impact of texting on relationships.
+description: Talks about the mainly negative impact of texting on relationships. 📵️
 categories:
   - blog
 ---

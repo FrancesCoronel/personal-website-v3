@@ -1,9 +1,9 @@
 ---
-title: 'What influenced and inspired you to learn how to code? 🔭'
+title: "What influenced and inspired you to learn how to code?"
 date: 2015-04-26
 categories:
   - blog
-description: Back in December of last year, I was browsing through Kickstarter - eager to spend my limited college student cash on something awesome. I found Hollow Knight.
+description: Take the time to think through this question and become comfortable and confident answering it. Was there a problem you were looking to solve or change? Do you enjoy problem solving?
 image: https://i.stack.imgur.com/7cBUc.jpg
 ---
 

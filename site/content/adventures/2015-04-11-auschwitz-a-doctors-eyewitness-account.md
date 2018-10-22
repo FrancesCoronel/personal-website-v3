@@ -1,7 +1,7 @@
 ---
-title: "Auschwitz: A Doctor's Eyewitness Account 📖"
+title: "Auschwitz: A Doctor's Eyewitness Account"
 date: 2015-04-11
-description: 'Book review of "Auschwitz: A Doctor''s Eyewitness Account".'
+description: A book review 📖
 image: https://i.imgur.com/yR0ogEC.jpg
 aliases:
   - /2015/04/11/auschwitz-a-doctors-eyewitness-account/

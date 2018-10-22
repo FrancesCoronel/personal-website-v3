@@ -1,7 +1,7 @@
 ---
-title: AP Spanish Language Skit 🐷️
+title: AP Spanish Language Skit
 date: 2012-02-06
-description: This was a fun little skit I did with a few kids from my AP Spanish Language class.
+description: This was a fun little skit I did with a few kids from my AP Spanish Language class. 🐷️
 image: https://i.imgur.com/E724hB0.jpg
 categories:
   - blog

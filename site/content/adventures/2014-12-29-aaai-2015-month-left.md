@@ -31,7 +31,7 @@ I mean, _HOLY CRAP_! My bank account would cry if it had to deal with such costs
 
 Hotel costs, even with the special conference rate, will be \~\$1087 out of my pocket. And then flight costs ended up being \~\$358. And then of course, there are other expenses to consider such as food and possible incurring extra travel costs. Either way, it's probably going to cost me roughly \$1.5K not including the \$200 scholarship they gave me. Ah, well. Hopefully, it'll be worth it! See lovely flight details below.
 
-![Delta Flight Details](https://lh3.googleusercontent.com/PqaX_vvkG4-JwyDjOTqA16KSCXy1pR6XadFJYUp-9zVXo_E0M4X2dajjpACIQG9ObnP0TVTMU8L-2TEcUwB-D9vLXVCvh-FbhDkTr-PMZaYyew2BkVx9l5AZdD11wjtfD85S77YkDMPp4RRlTwphWTuldByZi5WTQBU9oDUB_IP3HbTLofNGXTdcfHOfUS8wit4PwoaV6Qfx8bhDTZn-hhskQazUy_nYAkXTdPlaPaIUXWeup9CIRIAsLhmCIZpzvm3_Cb4GHUX-3wRROY1EHpZyKeSYoVXcAJHPaNL4cTAaEL0QeKaJXfIxy7tEX3eopsCMXbbTP5jBEtuNNWdCxSTcdTmGRXR7AK6xLTIq_MdxMhKd555RJmwyTr8Ja_lcBkNrEtg_TwQ20XAdLzhZz6NY-PAJW2H_IWAzFIhyQRzjIUaxDQCcPYmsDtwRWGVrhJfi3c0Hd8-4NbflYVpIltQTRYNjQpCb9JG15fwW_nnMWMb4jwBSCJF24WAVLSfFG6PhuoGRSkS_6j1GXsZQeR6My7I1uJCZI1e3EsqHM242_b-Ph36hYCK8AmVUCYsy2y_vjU0eIXfgcwh3PDm7WiA-lSiO8tv57dWpdwUVV90LIUGP242OngOlXP5hpJyz=w600-h622-no)
+![Delta Flight Details](https://i.imgur.com/KvJFU6S.png)
 
 I'll take the very back window seat please, thanks.
 
@@ -78,6 +78,6 @@ I mean, I just know the basics as of right now...
 
 Any-whoozies, should be fun overall. I'll be rooming alone, unfortunately, since my roommate request didn't end successfully but hopefully I'll meet some friendly fellow volunteers!
 
-![AAAI-2015 Banner](https://lh3.googleusercontent.com/tlnFwxZ_qjmvx9NQx-qrLgsm_fukxbRBXbB9-6kyJGvWVoM5COW3VYM6hEdz7rCMsiU8vihGPx5tOtPltooc8TP2dY7l3jbcMtT5dz2C4PZU-eDmkKwk_NLCPmKv1oNpjFiX4gwbaa-5CPAQ87QwJeMBjvZGdgF5HJMC5iT_l3pxalXnXf_wiRITbV2xj330S3-8uFRvNFAWxaYl1PYM5m8sHBN4sWkjlwBy-AHPnYx5JaH2fATxM0jvX1-sZQrP0SButJQKAz7R4rfSpPxPvL6hd24mV6dZ-BeYamYJtLrnr5gPS-TIeZF2q6ssgUqYe37iobEO6KkENZZeZ7mry-IIG6kJNx2a2yRy6cVOeflHpK8sb2WAOsZ8Z76yO6HCBLAZfDcIYgH8CQy7Iw08A9avl6HG9kRjvxB06pJC4eZ6nfd1LvgAJ8CqwbnHZ8s2wU_6dS1jAgYAJcgRTVTteSfuGwM1X9lacAOLX4Rjy7t1cXNevk3BW1EAHoTA37V7fL9RyMsBhCuaKYxbFVBb8IR0ZplNwlWG-2YF9NRNOHulptKDDECoSLBpWImCCHwpdxswKkTI5Te5AngHl-AfMRX8eYOtUa3RBNZWZVqUDnKBbujGu5Rj2Oihx6YVbsCu=w2560-h916-no)
+![AAAI-2015 Banner](https://i.imgur.com/SH07zvh.jpg)
 
 _\^ I made a banner for the conference out of sheer excitement!_

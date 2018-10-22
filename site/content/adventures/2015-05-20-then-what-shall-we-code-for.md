@@ -1,7 +1,7 @@
 ---
-title: Then what shall we code for? 🌊
+title: Then what shall we code for?
 date: 2015-05-20
-description: Then what shall we code for? Inspiration from POTC.
+description: Then what shall we code for? Inspiration from POTC. 🌊
 image: https://i.imgur.com/hgJu4NQ.jpg
 aliases:
   - /2015/05/20/then-what-shall-we-code-for/

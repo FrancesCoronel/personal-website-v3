@@ -1,7 +1,7 @@
 ---
-title: C++ Bits - Clothing Sizes 🚺
+title: C++ Bits - Clothing Sizes
 date: 2013-07-28
-description: Testing out clothes in C++.
+description: Testing out clothes in C++. 🚺
 image: https://i.imgur.com/mNett8e.jpg
 categories:
   - blog

@@ -1,12 +1,13 @@
 ---
-title: View LinkedIn Profiles Without Logging In 👀
+title: View LinkedIn Profiles Without Logging In
 date: 2017-02-06
-description: You want to view someone on LinkedIn but you don't have a profile and have no desire to create an account.
+description: You want to view someone on LinkedIn but you don't have a profile and have no desire to create an account. 👀
 image: https://i.imgur.com/10PHLUS.png
 aliases:
   - /portfolio/2017/02/06/view-linkedin-profiles-without-logging-in/
   - /portfolio/view-linkedin-profiles-without-logging-in/
   - /2017/02/06/view-linkedin-profiles-without-logging-in-/
+  - /2017/02/06/view-linkedin-profiles-without-logging-in/
 categories:
   - portfolio
 tags:
@@ -31,7 +32,7 @@ Let's get rid of this of this annoying popup and continue browsing profiles with
 
 ### Step 1. [Download StyleBot as a Chrome extension](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en)
 
-![Stylebot ChromeExtension](https://lh3.googleusercontent.com/ltqAPaSx-KfAif-musz34a_gMuMATOPMxrbhpG_gDVJka-Z45ZV4pBVuurp8Hqv-Kf7C1rRcX8XfOzFEnlHgCJAEHWJqlNd9XsXXqTO0lcA70ILNfsC-QWkEjvYsFF3vbfd5BqVqV1Geqn9nvhYslYrKKTNkUjcz2nllgddzoGiMxl8H6SNIm9gXGVhbzdmhM05-yad556wqnr1DdGeDov4nyALQ3qE1uV7iU7bZmhXVTNsg2E6NjnZapuycmeHF2fhe7EcMudtoRiRixM-fcxqvYf8LflVNPLs65jvtaMez-4hSp9DVcasMgRANb0MfkxwaPJcCND1TyNtANgMKwQ8IBu-PQocIKNB68TGjvfOK2dSfhj44tSLCDJeXIgPKV-bknctfAmzwiAY-OPmDd0tZVTTtyLRtgxcPinBzo54pdsHjVZ3wiO-yQ8SAu-lYY_npTgm1uvvPhvw2LzZdw2QuYGk68Fx8t2OjSwzVWdcmHb7_RSxsSrhEJ82xLPT_XcYOCxSIemxSHDy8nVgha75mrMve-z98E_Yqfp08SNouWUVQs8fjW1djHvc_XWmFrSouMhj0e6641WxV45bSYoBnH0w2hO8yybHETyMs3xnxd0smHEYZuiQiXif6OKAr=w1010-h641-no)
+![Stylebot ChromeExtension](https://i.imgur.com/aYFu75E.png)
 
 ### Step 2. Add a new style
 

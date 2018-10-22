@@ -1,7 +1,7 @@
 ---
-title: Middle School Poems ✒️
+title: Middle School Poems
 date: 2008-06-01
-description: Random poems from 2008.
+description: Random poems from 2008. ✒️
 image: https://i.imgur.com/rogNoii.jpg
 categories:
   - blog

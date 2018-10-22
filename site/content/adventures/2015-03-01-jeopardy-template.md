@@ -1,7 +1,7 @@
 ---
-title: Jeopardy Template - Keynote and Google Slides 📁
+title: Jeopardy Template - Keynote and Google Slides
 date: 2015-03-01
-description: A free Jeopardy template you can use with Google Slides or Keynote.
+description: A free Jeopardy template you can use with Google Slides or Keynote. 📁
 image: https://i.imgur.com/UW55LNg.jpg
 aliases:
   - /2015/03/12/jeopardy-template/
@@ -28,7 +28,7 @@ categories:
 
 ### Make a Copy (GIF)
 
-![MakeCopy](https://lh3.googleusercontent.com/a0NPcv_6js2Qf3uafr7C3CLcb5nuLoX31EsBbNBp-xgTGozBw1lRCKbp9XxO-JmYbJLitheWOtKgUNuNCn8X36O_1Pd-0L1ZC6wi5IJS_bYYV0aGJY54VV5tj8yxQ51E7us0NpDxHu9b8_9KLazPUMDN2qXNyhIxR_AWJo8nYZhzeDPsm2sU22eW8wMgX3cmdGx0Nbp5PQVnMzHbDDQ_P7wL7VaTNAiHNeA8rw453sXi0ujQP0BuEG2hcF17pbWWzWq0lHcaSiITbFrlTzZkUKWaQ95wUyZWhp9UJdFVvJlAUtSptm4VE7zAzzPTkeP_d-b4h9R6keVagqLrdL7wh1kwZpWbkinBtZwP1SnWEUATSNUiV-unKo9X5mBleeThoJvTpm0bpwGxNz2YSbDsus6UpkLkHfvRVir46_il680fX03fhS9VDinnrcoH6_YGWCzGSf_vFKw09ySS_D4Shd9QKpI0RArdw7GEYKZcfnnUqhN8sSe5WOv2tqW8bZ4LNwX6u_fb_RfZL46JM8ZL5omqgpqAilMzrr3XXa2gKIeu7I-9J5rvMRP_ytl0BikQFDUtkWsbme6FwhwLvOhcpAOXCycjmLtGsDwVbJCsuO4ClOhuK-qKFnlm6OQJd9yO=w383-h220-no)
+![Make a Copy (GIF)](https://i.imgur.com/cjRE3Eb.gifv)
 
 ## Keynote
 

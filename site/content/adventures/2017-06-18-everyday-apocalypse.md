@@ -1,6 +1,6 @@
 ---
-title: Your Everyday Apocalypse 💀
-description: A short story about a zombie apocalypse I never finished.
+title: Your Everyday Apocalypse
+description: A short story about a zombie apocalypse I never finished. 💀
 date: 2017-06-18
 image: https://i.imgur.com/8Qykhfo.jpg
 categories:

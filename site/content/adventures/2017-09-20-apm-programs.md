@@ -1,6 +1,6 @@
 ---
-title: APM Programs for New Grads 💼
-description: So you want to be an Associate Product Manager...
+title: APM Programs for New Grads
+description: So you want to be an Associate Product Manager... 💼
 date: 2017-08-28
 image: https://i.imgur.com/llTkGsA.jpg
 ---

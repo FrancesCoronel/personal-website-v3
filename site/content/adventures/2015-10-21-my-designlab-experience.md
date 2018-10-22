@@ -1,9 +1,8 @@
 ---
-title: Designlab 🎨
+title: Designlab
 date: 2015-10-21
-description: My personal experience with Designlab, an online platform for learning web and mobile design skills.
+description: My personal experience with Designlab, an online platform for learning web and mobile design skills. 🎨
 image: https://i.imgur.com/XvuQKSk.jpg
-url: /2015/10/21/designlab/
 aliases:
   - /2015/10/21/my-designlab-experience/
   - /portfolio/designlab-submissions/
@@ -108,7 +107,7 @@ I received a few items in the mail August 31st - ooh la la. The book "Steal Like
 
 ![Designlab - Mentor](https://lh3.googleusercontent.com/rHAvq75vc_3BjjAHDESN3LrjhPrUQ2ZfH91Zg1p_MWJjlG8nBXpFhEa7bX68OdaumWB9fzkzsN5lhwPLI3AKEfgRc5md_0iJOk-kJVdSZB6oAjVwJelL3LnERa02fXmoWSFNgYcnCl3DUvuwiOhYqj9u929koZnI8ngfrpq1EViVsSPw2tJAnSb102eAPfkxdeUt5XJsBGMN5y6Gf-5MgAWIDPqCi4NIZRUjMCcR1oNw5PRPIhRHvhiDd1rNigch70xriBblZ-voMVjA231iaF6FCT2joPuo5Ih3in7brYkCzpT7wTI3Uojl228dp6J-602uIxd9jgTZliqF-uTu_RCmAIg3X1mN5A4Ou4zniXt_Bjd3qArn39cZrHJv7SsyHb-7vlA0QT98ynC1ACN6ZiAX7gjzgdqkGivqZk1vMhcGNcl5lKXEIb5np-EvjROowy1iXrRz3FkEF0mH9YdjOZd-ZfQcTpyifLf0Sbd6XhAwlUT5kIT4Oi3YOrl90jNwzXm14574ZrNHwbyN1L4UbRulmD0YDZJj8roGp1vt0dex1v6wJIP_vXjSaD06BzMCryw7DKl7KTUeZ3kwl6IeWrhwG5RTUUULTRP2Ote6kbQJyLvrGzdlVL5NjG1dkY0M=w1092-h619-no)
 
-My mentor, [Chad](https://chadtrutt.com/ 'Chad Trutt') was pretty cool. I checked out his website and he has some killer work, like this pepper:
+My mentor, [Chad](https://chadtrutt.com/ "Chad Trutt") was pretty cool. I checked out his website and he has some killer work, like this pepper:
 
 ![Low-Poly Chilli Pepper](https://cdn.dribbble.com/users/136678/screenshots/1560457/chilipepper_behance_1x.jpg)
 
@@ -141,7 +140,7 @@ I explored each project more in depth [on this page](https://fvcproductions.com/
 
 ### The Difference
 
-The difference, I believe, between something like [DailyUI](https://chadtrutt.com/ 'Chad Trutt') challenges and [Designlab](https://trydesignlab.com 'Designlab') is the amount of feedback you're going to get. I feel the main thing you're paying for is the community and feedback. The articles they provide as mini-lessons before each project are all actually free online somewhere, but, nonetheless, they were **very** well selected.
+The difference, I believe, between something like [DailyUI](https://chadtrutt.com/ "Chad Trutt") challenges and [Designlab](https://trydesignlab.com "Designlab") is the amount of feedback you're going to get. I feel the main thing you're paying for is the community and feedback. The articles they provide as mini-lessons before each project are all actually free online somewhere, but, nonetheless, they were **very** well selected.
 
 ![Designlab - Discussion](https://lh3.googleusercontent.com/TkuDabJ-xXvSUV5cWjD48S-fnH_KXXKyC882UqZ3RwBDrqLBJr39PSLJcgsfQvaU0cxaDxdiG1rPZNJJ07Jq4W6FJjJJNUpMJKxQzBml4fwBVcZliTjryXudHBs1UIKXHdIddMXoCLjOFkyKmM7s1PRiFYgQKZvkZeqH1rRhOda3c53NmCYCn07Rj0PCBr6tglUHaBX9hF9DUnVMN9IRcjrlxBgccLyfUll1k-j86nov_EU3XcI3kkzyQFJB1hYqGRu5KhZ20Ww0kBorNDgkuKcN5yISSq6xThtSEZ4XrDE7sBeyBs0Gt8ZLE678QIoKk8PLQyYhgdW1PfoEvR1z4pKrXKzWxkR1tW76B0OswXoxszi_E9SVjvYX3qyRzfb4wkbuJM6b_LAjrg7ULHcsnFg3Tv4rrpLSQjHhROMKVqEhFN61-4GXNU6SEMrm09ALCSwI3XX0XJ6k5mSBXCSO8qlg2eLJdmkkf9hEaLE1GlfxU96dOo0svlQ-k3G1th_gc3eT6usRHIDJC0PupidbN39yWJMZonHwt92eJCz-sbwpNUlSohOBf6UtVyaLwanMv9nZXJgntBAXFn78gLJioHIjgqD2nYRIjIYqldaRqemcjEV_3pl8sk_H9LIApnei=w1694-h969-no)
 

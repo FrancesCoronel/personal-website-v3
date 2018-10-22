@@ -1,7 +1,7 @@
 ---
-title: 'My Cups of Tea - 2013 ☕'
+title: "My Cups of Tea - 2013"
 date: 2013-09-14
-description: 'My primary interests for the year 2013.'
+description: "My primary interests for the year 2013. 🍵"
 image: https://i.imgur.com/lYR4oA8.png
 aliases:
   - /2013/09/14/my-cups-of-tea-from-2013/

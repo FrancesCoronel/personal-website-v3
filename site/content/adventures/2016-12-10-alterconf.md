@@ -1,8 +1,8 @@
 ---
-title: "AlterConf NYC 🗽"
+title: "AlterConf NYC"
 description: "AlterConf is a traveling conference
 series that provides safe opportunities for marginalized people and
-those who support them in the tech and gaming industries."
+those who support them in the tech and gaming industries. 🗽"
 date: 2016-12-10
 image: https://i.imgur.com/WzJY61S.png
 aliases:

@@ -1,7 +1,7 @@
 ---
-title: Binding of Isaac - Review 💀
+title: Binding of Isaac - Review
 date: 2016-02-27
-description: My review of the Binding of Isaac desktop game.
+description: My review of the Binding of Isaac desktop game. 💀
 image: https://i.imgur.com/uuYwmA6.jpg
 aliases:
   - /2016/02/27/binding-of-isaac-review/

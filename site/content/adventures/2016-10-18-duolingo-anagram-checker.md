@@ -1,7 +1,7 @@
 ---
-title: Duolingo Anagram Checker ✅
+title: Duolingo Anagram Checker
 date: 2016-10-18
-description: I created this simple website as part of the Duolingo PM intern interview process.
+description: I created this simple website as part of the Duolingo PM intern interview process. ✅
 image: https://i.imgur.com/ozMNdqh.png
 aliases:
   - /portfolio/duolingo-anagram-checker/

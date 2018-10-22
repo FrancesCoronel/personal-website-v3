@@ -1,7 +1,7 @@
 ---
-title: Interview with Kapor Capital - Summer Associate 2017 💸
+title: Interview with Kapor Capital - Summer Associate 2017
 date: 2018-02-14
-description: How an MS in CS student with no prior VC experience got an interview with one of the most well-recognized VC firms in Silicon Valley.
+description: How an MS in CS student with no prior VC experience got an interview with one of the most well-recognized VC firms in Silicon Valley. 💸
 image: https://i.imgur.com/MXLhBqa.png
 categories:
   - blog

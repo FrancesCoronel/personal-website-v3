@@ -1,7 +1,7 @@
 ---
-title: Launch a Todo App Using Laravel Homestead ✅️
+title: Launch a Todo App Using Laravel Homestead
 date: 2017-01-13
-description: Our goal? To launch a simple to-do app using Laravel Homestead on macOS.
+description: Our goal? To launch a simple to-do app using Laravel Homestead on macOS. ✅️
 image: https://i.imgur.com/NuRqalg.png
 aliases:
   - /2017/01/13/launch-todo-app-laravel/

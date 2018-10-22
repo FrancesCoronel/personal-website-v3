@@ -1,7 +1,7 @@
 ---
-title: Fullstack Academy – Week 3 🔦🔦🔦
+title: Fullstack Academy – Week 3
 date: 2015-06-26
-description: June 22nd to 26th. There are 57 days in Fullstack. These are the third 5.
+description: June 22nd to 26th. There are 57 days in Fullstack. These are the third 5. 🔦🔦🔦
 image: https://i.imgur.com/ae3WU3a.jpg
 aliases:
   - /2015/06/26/fullstack-academy-week-3/

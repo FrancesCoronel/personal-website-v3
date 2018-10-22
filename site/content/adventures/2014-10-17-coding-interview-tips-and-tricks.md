@@ -10,7 +10,7 @@ categories:
   - blog
 ---
 
-![tumblr_nd30ogjKdp1qcrg73o1_500](https://lh3.googleusercontent.com/Ku_akvwNx9hVSPI5s9KEdOmsszMZHyDKBCzGswiDt_aVvv4VxXc1f3kGw9WQx1dtoDCsgrMddfEgD18BM6k69pSw6hHWuW6Y9n5triueMm1uJpH3UM52lZqakaS71hZwDNFujrnlkAAVX4dSm_-ony54DOCsTAaDrGKfsw9CpB-WRkNzeNlq-Uss9gUK5rKdWDZJztd1MGMwHkT65v-wzftc8khKypUZNnjckqUGY3hXl-Fa2_peLOw8zebM_7uRlKGR6VlHDEG49DzihBuTFMQInYzvq8BhJzFI5HWIYh9RJ24iRrfTnvuOBu2bv2rWGLQvbuYk2f-G5yn0F1a_Hs-VCqO7tvkIjBiE7LEQN4hJEmRStmC2LyyZ8B4WN_-UfF30wgJbIZW7ITte7RG47nezfK-8sO3zjjb98ZWpynTYwReLO9d91ClcopPOWa5d-f0UP2Yg8bTf2SvKufhC_MX6TuJXlRiok3OMVnGf9OaQxYiRYFS_Y_NbhuXV9cmBQ7RMF-uEkxDYhJ6N6NhIsXAsX8ds5Qfg29795jn8FX5LFiGicTKtmlbNXOMC55dsHnCTyS0ds0ROh0-wQHQOW9KIY3p0UEhPSBYP7hBiN45vUrGmpEad-OXmrL6yuAp7=w480-h359-no)
+![tumblr_nd30ogjKdp1qcrg73o1_500](https://i.imgur.com/56RYwq5.jpg)
 
 So I decided to compile a bunch of fun interview topics of interest and questions. This article is limited to what I know from my job interviews.
 

@@ -1,7 +1,7 @@
 ---
-title: Fullstack Academy - Week 2 👬
+title: Fullstack Academy - Week 2
 date: 2015-06-20
-description: June 15th to 19th. There are 57 days in Fullstack. These are the second 5.
+description: June 15th to 19th. There are 57 days in Fullstack. These are the second 5. 👬
 image: https://i.imgur.com/GvuWXIf.jpg
 aliases:
   - /2015/06/20/fullstack-academy-week-2/

@@ -1,6 +1,6 @@
 ---
-title: 'causeascene | CONF - San Francisco 🤯️'
-description: An event without borders designed to be safe space for members of marginalized communities in tech to tell their stories.
+title: "causeascene | CONF - San Francisco"
+description: An event without borders designed to be safe space for members of marginalized communities in tech to tell their stories. 🤯️
 location: Microsoft Reactor - 680 Folsom St, San Francisco, CA
 date: 2018-08-04
 image: https://i.imgur.com/WwgCrBx.jpg

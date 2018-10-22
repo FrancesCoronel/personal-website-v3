@@ -1,7 +1,7 @@
 ---
-title: C++ Bits - Array Manipulation ✂️
+title: C++ Bits - Array Manipulation
 date: 2013-07-30
-description: Manipulating arrays in C++.
+description: Manipulating arrays in C++. ✂️
 image: https://i.imgur.com/mNett8e.jpg
 categories:
   - blog

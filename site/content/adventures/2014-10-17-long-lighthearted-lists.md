@@ -54,7 +54,7 @@ Long Lighthearted Lists
 
 ### Cool Places I Can Live When I'm Older
 
-![Travel to Austin](https://lh3.googleusercontent.com/XjzJehQ3CB5MWSu35PjqQF4Ik0cq5Ua_klOBqzuvRG7DrNrd1-0fP4DOUeFORg46SOD4lkqH7iJY7p2N9odtfxdN6XGYDRZctFCImmI7I4xC6N1cUR9pvmBAdjH8YjiUr8r7T5SA-2M5GyUlVqqTLpOdGGDLjzcQ2VjL13dcCpqBd4v_Q2fCHTJrYw8Jh_1n1L2DXZbZHgxZYbrM6z7BR7m33EI2jx0r7Apv4fKem-LVogwycWJFRxl0HxfSGQWCM7nT-Ca-AQt8o_K09qJO6kMYuKR2SMZ05OK1bKZ5WZ1kGFjdAzTCrgwp65Vr64FFxzBnS8nlI4LUuVlp4DCZmjpFmO5c0NweEsK6BfATKZEkioW43x3mMjn0WrSy5UIGCRa1GFN8UuNRoEuEbDB9XWx0tjGPSRYHUGifQM49YbYnMY6kDpuwKGwDkNEYbBPhNiSQdgl-MMmw0sfoD-7JTF37OggVkYe3BynjDbQHGj8d12_nmYfXokQ4feKkq3rJZtAVAC0Tu2LA7KfG80Om2ITeaA88WzbV_GhFxAivn9mAbSSDGZBXYanll7Z4kmJRea6D_8QQpeNzuSrrjTV7fdw3L4Hg3QZWw2PTAmW_Ec0WQcH6_2qpWEPpm7MPsdKl=w950-h969-no)
+![Travel to Austin](https://i.imgur.com/lQQva0H.jpg)
 
 - Honolulu, Hawaii
 - Miami, Florida
@@ -62,7 +62,7 @@ Long Lighthearted Lists
 
 ### Random Materialistic Wish-List
 
-![](https://s3.amazonaws.com/rapgenius/Genie-image.gif)
+![Random Materialistic Wish-List](https://s3.amazonaws.com/rapgenius/Genie-image.gif)
 
 - Kinect X or Wii (Got a Kinect with money from eBay selling!)
 - Karaoke Machine
@@ -72,7 +72,7 @@ Long Lighthearted Lists
 
 ### Coding Bootcamp Experiences
 
-![](https://cdn.skilledup.com/wp-content/uploads/2013/08/coding-bootcamp.jpg)
+![Coding Bootcamp Experiences](https://cdn.skilledup.com/wp-content/uploads/2013/08/coding-bootcamp.jpg)
 
 - May 2013 - I learned about coding bootcamps and what they were. The first bootcamps I heard about were App Academy and Dev Bootcamp. I then decide I'm not prepared for that sort of thing yet because it looked beyond my skills at the time.
 - November 2013 - I decide I'm going to apply to bootcamps and attend one over the summer because I feel more prepared for interviewing. I then decide I want to attend a bootcamp that focuses on JavaScript and/or Python.
@@ -94,7 +94,7 @@ Long Lighthearted Lists
 
 ### Fun Tech-Related TV Shows
 
-![](https://fanart.tv/fanart/tv/277165/hdtvlogo/silicon-valley-534724dd97592.png)
+![Fun Tech-Related TV Shows](https://fanart.tv/fanart/tv/277165/hdtvlogo/silicon-valley-534724dd97592.png)
 
 - [Silicon Valley](https://www.imdb.com/title/tt2575988/)
 - [The IT Crowd](https://www.imdb.com/title/tt0487831/)
@@ -102,7 +102,7 @@ Long Lighthearted Lists
 
 ### Cool Conferences I Can Go To Eventually
 
-![](https://www.icwsm.org/2012/images/supported-by/aaai.png)
+![Cool Conferences I Can Go To Eventually](https://www.icwsm.org/2012/images/supported-by/aaai.png)
 
 - [National Convention for American Atheists](https://atheists.org/convention2015)
 - [Conference of the North American Vegetarian Society](https://www.vegetariansummerfest.org/index.htm)

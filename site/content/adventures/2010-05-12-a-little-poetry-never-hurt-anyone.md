@@ -1,7 +1,7 @@
 ---
-title: Desiring the Casual 🐛
+title: Desiring the Casual
 date: 2010-05-12
-description: A little poetry never hurt anyone.
+description: A little poetry never hurt anyone. 🐛
 image: https://i.imgur.com/iFVrP3w.jpg
 categories:
   - blog

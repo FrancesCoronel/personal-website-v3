@@ -1,7 +1,7 @@
 ---
-title: FVCproductions - Updated Logo 🍓
+title: FVCproductions - Updated Logo
 date: 2016-08-26
-description: Decided to update my logo to reflect a more minimal and clean design that could work with any background.
+description: Decided to update my logo to reflect a more minimal and clean design that could work with any background. 🍓
 image: https://i.imgur.com/QUxJhyB.png
 aliases:
   - /portfolio/fvcproductions-updated-logo/

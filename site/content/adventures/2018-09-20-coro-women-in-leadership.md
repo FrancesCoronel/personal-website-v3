@@ -1,9 +1,10 @@
 ---
-title: Coro Women in Leadership 💼️
-description: The WIL program supports the leadership development of mid-career women across the Bay Area, establishes a pipeline for professional advancement, and creates a cross-sector network of women who support each other's career growth.
+title: Coro Women in Leadership
+description: The WIL program supports the leadership development of mid-career women across the Bay Area, establishes a pipeline for professional advancement, and creates a cross-sector network of women who support each other's career growth. 💼️
 date: 2018-09-20
 image: https://i.imgur.com/3LbrQez.jpg
-url: /2018/09/20/coro-women-in-leadership/
+aliases:
+  - /2018/09/20/coro-women-in-leadership/
 categories:
   - program
 tags:

@@ -1,7 +1,7 @@
 ---
-title: Robopocalypse - Book Review 🤖️
+title: Robopocalypse - Book Review
 date: 2013-07-29
-description: A book review on 'Robopocalypse' by Daniel Wilson.
+description: A book review on 'Robopocalypse' by Daniel Wilson. 🤖️
 image: https://i.imgur.com/MXhQsyN.jpg
 aliases:
   - /2013/07/28/robopocalypse-book-review/

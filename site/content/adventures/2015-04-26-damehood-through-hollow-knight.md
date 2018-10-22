@@ -1,7 +1,7 @@
 ---
-title: Achieving Dame hood through Hollow Knight 👾
+title: Achieving Dame hood through Hollow Knight
 date: 2015-04-26
-description: Back in December of last year, I was browsing through Kickstarter - eager to spend my limited college student cash on something awesome. I found Hollow Knight.
+description: Back in December of last year, I was browsing through Kickstarter - eager to spend my limited college student cash on something awesome. I found Hollow Knight. 👾
 image: https://i.imgur.com/H1pSnVh.jpg
 aliases:
   - /2015/04/26/damehood-through-hollow-knight/

@@ -41,13 +41,6 @@ I helped develop the sponsor prospectus, flyers, and helped out with registratio
 
 RevolutionConf is a two-day, platform and language agnostic, software development conference in VA Beach. It hosts talks from regional, national, and international thought leaders. RevolutionConf is organized and supported by the board members of RevolutionVA, a 501c3 non-profit based in Norfolk, VA. The goal of RevolutionVA is to unite software developers in the mid-Atlantic region through conferences, and career and learning opportunities.
 
-### Press
-
-May 2016 - This blog post on the conference got featured in The Daily Press.
-
-<blockquote class="embedly-card"><h4><a href="https://www.dailypress.com/business/tidewater/dp-may-13-revolutionconf-showcases-software-community-in-hampton-roads-20160513-story.html">What you missed at RevolutionConf in Virginia Beach</a></h4><p>The software industry, including speakers from Microsoft, Detroit Labs and Yahoo, is converging at the Virginia Beach Oceanfront today.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
 ![RevConf](https://lh3.googleusercontent.com/9ZxYcRQFSul5CyU8lgyAe-I-kZMw8trnGT_dHO2yY82cjktHiz1EbxP-7Odfr94HCmELLJYvNxCUpNAUcfBKLQv968fgH9vDw0Z3ct_2Gpp2E42ApYCbxj5a_DqSqNi0JW5CKjhWpdeHJaYYfa-D9uLAxvNrZej-VLtHrR98D8vgfx8rJjH_N-JAr1PMxEZPc8MZk9sagg5M5ADzvNoT9Ib-4LpAbcqT60aYa-Dd_96BHz9RGg4FaIoEiMTY1UzW3O0ZPhyuMcp9USWQB54y_jZaKCQfnru2bHiHEyCSYI6rqXoct0HDY4msEqTj2wBAK0pas7O8sxDWrO4aO17nA0orWJyaEQWogewquSKHigEzNVmgloV6m01G_X92eQvPlL_CiSW6PJuJGA55wtkCD1Nyi3P4U1XTuYpXrDW2rbK7xVOMuRWYd4fMEAQGWXVz12iOKDCZNUqAxNB-Hf-1ycdp0R9loKED0BTR6jMPb8dctCfNKP_JxOk3jd0f6_HbiPM4jTGvGEmPxERoyxPgl6GqFhvCMo-Ui1VNIMAP3WgpRi97WUotqZRVHIe71PK5u9bLEmk74SI3ypBX_ZFnJ1NrHrnX24bjAiYrIJZELukuR5YUu2P6EX0A_MZGiYHO=w800-h533-no)
 
 ![RevConf](https://lh3.googleusercontent.com/cKBbBynCSD1XlHCQuzgAZLcCpynSXCznI3DEANRnqpfyNqvoDWNQyYZxVgV4nG7wcJ2d-PXVs8mWXwBb7czGCrjtqqb1AQj-fNjPnu87m0EkF11dRQwgAppOwVBJciZVJovKuA7cJys_iqz3jMeBMtGK1hTMcSp0avlc7SRSX4RNGzIO872aMOHY89gjhRTUAYyBotmbghXxhBzhSkRTqmztht45qEj6x053v_JI4PeSxPsWaEtd_FvPDa5XltFptT3xB8BUguyaHtNCUR_uiXhbxitlQc_V65WLXKRXXhVXo6Uhpf3Oq5rE-Je0uTbWzEwkfK1hcaxZzVXmz6v1b-YuvB8r4HLZc1uUpSce-f7Jp7fseKIIZbiKoMuk7gr5E9gYXHVeMBPlgrnX5jZmW-o6cehvrdtJLhzqIqUwThu8S98USXfNPLLCfIPFrH7wkyVWIlX1lOdGfPCV9sLN7xi0wMQaaGUhB993kvLjfNe9iKdxfkYLt-z73o1Y2v6h5lEudPmAJtf_7BmT3pe1qCmjiH4hs5XKvUF4te3fxEOSzsZ_XGPNLmGoLcz0KJPsUfceDfWChQkY_65pSVIy3mY6kx_jf86s6jF9ZPpM1EUtqteUUXdaqANlDFdR2Kuc=w1425-h790-no)
@@ -74,11 +67,9 @@ May 2016 - This blog post on the conference got featured in The Daily Press.
 
 ![RevConf](https://lh3.googleusercontent.com/YYCwfBNyFSCzJkD2dwzdicS2qj611eDwZaLJCuXCcjHclCz345uapKlKqJCZAONRabVWKoAj9i0Tn0bwLsvnIEn-A5TAJTiKe7S2PJvc-mrJa-DL89ZNB7gc1DthZBFj4YT6ik-c6dvK_1HuYtiFhW50U3OZVnqObkNn9rjjdk0pEngIUSAhrafVGY74augafM1b4lqk1WcIuh-EoYQhXIO1Ndl-RAf9mUHhIlBHNh4b8esSSKdVwWol-PDNZwERwNyziNQERLpD86sz-nrVbLZecuJ-P3UBUtqnZGZ91MX1oihazcQ6RWGD5pXcqpP0vqYzU60-mFjWRXsGwE4wTeepCxMrRk_KmFWPSZf-XMKiY9iqF1TwTGhHBKnlIXzuqrZJ4oo_GI33-Pa1iSSzrxhkrf_lkj9DShqnXtd24_dyvTRi-qpIWGkK1LIVAFUhNwcpwfgGdVwBDAxTF23T0Xjl11OVLBo-iEUoxiIXDywsCI3kT4UKdWZUc0HRefb4z8PxpAxBDT-OBAQRWmMiweGZZDfqf5BLEUxGblbCyq1jHsK1kQsYod1RMiOisFvTwP4RZJL-aHp62ox8TYQHdfFyPdH_W5vPUtyOiLFby4Fk1Sj98dECvuyTMvPZe-BU=w1459-h969-no)
 
----
+### Press
 
----
-
----
+May 2016 - This blog post on the conference got featured in The Daily Press.
 
 ## RevolutionConf AKA yes, there's a HUGE tech scene in the 757 ⚓️
 
@@ -131,3 +122,6 @@ And I believe [RevolutionConf](https://revolutionconf.com) is taking us one step
 ![Old LinkedIn Post Responses 1](https://i.imgur.com/hFTB8Zw.png)
 
 ![Old LinkedIn Post Responses 2](https://i.imgur.com/QzMHGAR.png)
+
+<blockquote class="embedly-card"><h4><a href="https://www.dailypress.com/business/tidewater/dp-may-13-revolutionconf-showcases-software-community-in-hampton-roads-20160513-story.html">What you missed at RevolutionConf in Virginia Beach</a></h4><p>The software industry, including speakers from Microsoft, Detroit Labs and Yahoo, is converging at the Virginia Beach Oceanfront today.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

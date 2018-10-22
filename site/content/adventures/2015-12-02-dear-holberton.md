@@ -1,10 +1,10 @@
 ---
-title: "Dear Holberton 📮"
+title: "Dear Holberton"
 date: 2015-12-02
-description: "Why I want to attend Holberton."
+description: "Why I want to attend Holberton. 📮"
 image: https://www.yellopixel.com/wp-content/uploads/2017/02/holberton-school.jpg
 categories:
-    - blog
+  - blog
 ---
 
 ## Dear Holberton,

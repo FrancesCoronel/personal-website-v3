@@ -1,7 +1,7 @@
 ---
-title: 'The How-Tos When It Comes to Defining, Assigning, and Printing a Java Array 🔃'
+title: "The How-Tos When It Comes to Defining, Assigning, and Printing a Java Array"
 date: 2014-08-09
-description: 'How to define, assign, and print an array using Java.'
+description: "How to define, assign, and print an array using Java. 🔃"
 image: https://i.imgur.com/B9NMxC0.jpg
 aliases:
   - /2014/08/09/the-how-tos-when-it-comes-to-java-array/
