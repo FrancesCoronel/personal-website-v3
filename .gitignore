@@ -63,4 +63,4 @@ typings/
 # Output
 config/env.js
 dist
-package-lock.json
+/package-lock.json
