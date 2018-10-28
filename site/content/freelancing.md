@@ -18,6 +18,12 @@ categories:
 
 ## I work with clients of all backgrounds and offer a number of different services.
 
+### LinkedIn Pro Finder
+
+I'm available for small client projects through [LinkedIn Pro Finder](https://www.linkedin.com/profinder/pro/fvcproductions).
+
+<div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="en_US" data-type="profinder" data-theme="light" data-vanity="fvcproductions"><a class="LI-simple-link" href="https://www.linkedin.com/profinder/pro/fvcproductions?trk=provider-badge">Frances Coronel</a></div><script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 ### Services
 
 | Session Type                                | Hourly Rate |
@@ -28,7 +34,7 @@ categories:
 | General App/Product/Startup Review & Advice | $60         |
 | Freelance Design                            | $75         |
 | Freelance Development                       | $150        |
-| Speaking Engagements                        | $200*       |
+| Speaking Engagements                        | $200\*      |
 
 _\*Price may change based on event type/size and this does not include travel/accommodation costs._
 
@@ -44,7 +50,7 @@ _\*Price may change based on event type/size and this does not include travel/ac
 
 ### Previous Clients
 
-- # of Clients: 4
+- Number of Clients: 4
 - Revenue: $1,210
 
 <!-- Use https://www.miniwebtool.com/sum-calculator/ -->

@@ -8,6 +8,8 @@
 
 [![MIT License](https://img.shields.io/github/license/fvcproductions/fvcproductions.github.io.svg)](http://badges.mit-license.org) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffvcproductions%2Ffvcproductions.github.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffvcproductions%2Ffvcproductions.github.io?ref=badge_shield)
 
+[![CodeFactor](https://www.codefactor.io/repository/github/fvcproductions/fvcproductions.github.io/badge)](https://www.codefactor.io/repository/github/fvcproductions/fvcproductions.github.io) [![codebeat badge](https://codebeat.co/badges/b3702151-f58e-430f-aba1-15b265675031)](https://codebeat.co/projects/github-com-fvcproductions-fvcproductions-github-io-production)
+
 [![Become a Patron!](https://img.shields.io/badge/Patreon-Become%20a%20Patron!-orange.svg)](https://www.patreon.com/fvcproductions) [![Gitter](https://img.shields.io/gitter/room/fvcproductions/Lobby.svg)](https://gitter.im/fvcproductions/Lobby)
 
 My blog and portfolio all in one.
