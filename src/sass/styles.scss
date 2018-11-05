@@ -1,5 +1,7 @@
 // Variables
 @import "variables";
+// Overrides
+@import "override";
 // Bulma
 @import "node_modules/bulma/bulma.sass";
 // Extensions
@@ -32,7 +34,5 @@
 @import "image";
 // Icons
 @import "icons";
-// Overrides
-@import "override";
 // Print
 @import "print";

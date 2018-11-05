@@ -16,20 +16,21 @@
   {{ end }}
   <!-- Assets -->
   <!-- Slides -->
-  {{ if or (.Params.slides) (.Params.video) (.Params.recording) }}
+  {{ if .Params.slides }}
   <p class="subtitle has-text-weight-light is-size-6 mt-1">
-    <!-- Slides -->
-    {{ if .Params.slides }}
-    <a href="{{ .Params.slides }}" target="_blank" rel="noopener">Slides</a>
-    {{ end }}
-    <!--- Video -->
-    {{ if .Params.video }} {{ if .Params.slides }} ∙ {{ end }}
-    <a href="{{ .Params.video }}" target="_blank" rel="noopener">Video</a>
-    {{ end }}
-    <!-- Recording -->
-    {{ if .Params.recording }} {{ if or (.Params.slides) (.Params.video) }} ∙ {{ end }}
-    <a href="{{ .Params.recording }}" target="_blank" rel="noopener">Recording</a>
-    {{ end }}
+    📎️ <a href="{{ .Params.slides }}" target="_blank" rel="noopener">Slides</a>
+  </p>
+  {{ end }}
+  <!--- Video -->
+  {{ if .Params.video }}
+  <p class="subtitle has-text-weight-light is-size-6 mt-1">
+    🎥 <a href="{{ .Params.video }}" target="_blank" rel="noopener">Video</a>
+  </p>
+  {{ end }}
+  <!-- Recording -->
+  {{ if .Params.recording }}
+  <p class="subtitle has-text-weight-light is-size-6 mt-1">
+    🎙️ <a href="{{ .Params.recording }}" target="_blank" rel="noopener">Recording</a>
   </p>
   {{ end }}
 </div>

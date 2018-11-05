@@ -88,11 +88,14 @@
     border: 0;
     position: relative;
     max-width: 100%;
-    display: inline-block;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     @extend %image-shadow;
 
     &.emoji,
     &.no-box-shadow {
+      display: inline-block;
       -webkit-box-shadow: none;
       box-shadow: none;
     }
@@ -113,10 +116,6 @@
 
   .content-info {
     margin: 1em 0;
-
-    & img.emoji {
-      margin-right: 1em;
-    }
   }
 
   .content-custom {

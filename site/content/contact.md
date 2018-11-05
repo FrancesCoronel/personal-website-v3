@@ -16,6 +16,17 @@ aliases:
   - /donate/
 ---
 
+<!-- TOC -->
+
+- [Ask Me Anything 🤔️](#ask-me-anything-🤔️)
+- [LinkedIn 💼️](#linkedin-💼️)
+- [Book a Chat 📅](#book-a-chat-📅)
+  - [Pricing Table 💵](#pricing-table-💵)
+  - [Free Mentoring Sessions 💛️](#free-mentoring-sessions-💛️)
+- [Contact Form 📼](#contact-form-📼)
+
+<!-- /TOC -->
+
 ## Ask Me Anything 🤔️
 
 Just have a general question? Want career advice for free? Maybe you found a typo?
@@ -30,7 +41,7 @@ If you want career/mentoring advice, please refer to the details above.
 
 ## Book a Chat 📅
 
-If you'd like to set up a phone or video chat, you can use my [Calendly](https://calendly.com/fvcproductions) to <a href="" onclick="Calendly.showPopupWidget('https://calendly.com/fvcproductions/30min');return false;">book a time with me</a>.
+If you'd like to set up a phone or video chat, you can use my [Calendly](https://calendly.com/fvcproductions) to book a time with me.
 
 Before booking a session, please be sure to refer to the pricing table below and pay the appropriate amount before the session if applicable.
 
@@ -50,7 +61,7 @@ If I don't value my time, effort and expertise, no one else will.
 | General App/Product/Startup Review & Advice | $60         |
 | Freelance Design                            | $75         |
 | Freelance Development                       | $150        |
-| Speaking Engagements                        | $200*       |
+| Speaking Engagements                        | $200\*      |
 
 _\*Price may change based on event type/size and this does not include travel/accommodation costs._
 
@@ -100,17 +111,3 @@ Please note that depending on the contact reason, it may take longer for me to g
     </div>
   </form>
 </div>
-
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<!-- Calendly link widget end -->
-
----
-
-## Links
-
-- [SlideShare](https://www.slideshare.net/FVCproductions)
-- [YouTube](https://www.youtube.com/user/fvcproductions2013)
-- [Scribd](https://www.scribd.com/user/194063411/FVCproductions)
-- [GitHub](https://github.com/fvcproductions)

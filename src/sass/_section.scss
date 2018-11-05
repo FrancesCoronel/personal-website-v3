@@ -19,13 +19,6 @@
     padding: 1em 0;
   }
 
-  .section-subscribe {
-    h3 {
-      margin-top: 0;
-      font-size: 1.25em;
-    }
-  }
-
   .section-related,
   .section-donate {
     a {
@@ -38,6 +31,7 @@
     img {
       height: 50px !important;
       box-shadow: none;
+      display: inline-block;
 
       &:hover {
         @extend %material-shadow;

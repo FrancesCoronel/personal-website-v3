@@ -1,9 +1,7 @@
 <div class="card card-equal-height">
   <a class="reset" aria-label="{{ .Title }}" {{ if .Params.link }} href="{{ .Params.link }}" target="_blank" rel="noopener" {{ else }} href="{{ .RelPermalink }}" {{ end }}>
     {{ if .Params.image }}
-    <figure class="image">
-      <img src="{{ .Params.image }}" alt="{{ .Title }}" title="{{ .Title }}">
-    </figure>
+    <div class="background-image" style="background-image: url({{ .Params.image }});"></div>
     {{ end }}
     <div class="media-content pb-0">
       {{ partial "body/content/card/info.html" . }}

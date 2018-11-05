@@ -3,6 +3,8 @@ title: FVCproductions - Logo Redesign
 date: 2017-08-19
 description: A new sleek look for my brand. 🍫🍓
 image: https://i.imgur.com/aIbX4z0.png
+aliases:
+  - /2017/08/19/fvcproductions---logo-redesign-/
 categories:
   - portfolio
 tags:
