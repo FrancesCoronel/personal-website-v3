@@ -16,17 +16,6 @@ aliases:
   - /donate/
 ---
 
-<!-- TOC -->
-
-- [Ask Me Anything 🤔️](#ask-me-anything-🤔️)
-- [LinkedIn 💼️](#linkedin-💼️)
-- [Book a Chat 📅](#book-a-chat-📅)
-  - [Pricing Table 💵](#pricing-table-💵)
-  - [Free Mentoring Sessions 💛️](#free-mentoring-sessions-💛️)
-- [Contact Form 📼](#contact-form-📼)
-
-<!-- /TOC -->
-
 ## Ask Me Anything 🤔️
 
 Just have a general question? Want career advice for free? Maybe you found a typo?
@@ -47,25 +36,23 @@ Before booking a session, please be sure to refer to the pricing table below and
 
 If you are looking for technical help, you can message me on [Codementor](https://www.codementor.io/fvcproductions).
 
-### Pricing Table 💵
+### Rates 💵
 
 Due to high demand, I've had to put a price point for some of the services I offer.
 
-If I don't value my time, effort and expertise, no one else will.
-
 | Session Type                                | Hourly Rate |
 | ------------------------------------------- | ----------- |
-| Freelance Writing                           | $30         |
-| General Technical Help (Codementor)         | $40         |
-| General Career Advice/Mentoring             | $50         |
-| General App/Product/Startup Review & Advice | $60         |
-| Freelance Design                            | $75         |
-| Freelance Development                       | $150        |
-| Speaking Engagements                        | $200\*      |
+| Freelance Writing                           | \$30        |
+| General Technical Help (Codementor)         | \$40        |
+| General Career Advice/Mentoring             | \$50        |
+| General App/Product/Startup Review & Advice | \$60        |
+| Freelance Design                            | \$100       |
+| Freelance Development                       | \$250       |
+| Speaking Engagements                        | \$500\*     |
 
 _\*Price may change based on event type/size and this does not include travel/accommodation costs._
 
-> I accept payments through [Venmo](https://venmo.com/fvcproductions) (preferred), [Square Cash](https://cash.me/$fvcprdxs) or [PayPal](https://paypal.me/fvcproductions).
+> I accept payments through [Venmo](https://venmo.com/fvcproductions), [Square Cash](https://cash.me/$fvcprdxs) or [PayPal](https://paypal.me/fvcproductions).
 
 ### Free Mentoring Sessions 💛️
 
