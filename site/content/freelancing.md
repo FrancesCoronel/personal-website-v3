@@ -18,27 +18,16 @@ categories:
 
 ## I work with clients of all backgrounds and offer a number of different services.
 
+- Startup app review and advice
+- User research interviews
+- Freelance writing, design and development
+- Speaking engagements
+
 ### LinkedIn Pro Finder
 
 I'm available for small client projects through [LinkedIn Pro Finder](https://www.linkedin.com/profinder/pro/fvcproductions).
 
 <div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="en_US" data-type="profinder" data-theme="light" data-vanity="fvcproductions"><a class="LI-simple-link" href="https://www.linkedin.com/profinder/pro/fvcproductions?trk=provider-badge">Frances Coronel</a></div><script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-### Services
-
-| Session Type                                | Hourly Rate |
-| ------------------------------------------- | ----------- |
-| Freelance Writing                           | $30         |
-| General Technical Help (Codementor)         | $40         |
-| General Career Advice/Mentoring             | $50         |
-| General App/Product/Startup Review & Advice | $60         |
-| Freelance Design                            | $75         |
-| Freelance Development                       | $150        |
-| Speaking Engagements                        | $200\*      |
-
-_\*Price may change based on event type/size and this does not include travel/accommodation costs._
-
-> I accept payments through [Venmo](https://venmo.com/fvcproductions) (preferred), [Square Cash](https://cash.me/$fvcprdxs) or [PayPal](https://paypal.me/fvcproductions).
 
 ### Process
 
@@ -50,15 +39,16 @@ _\*Price may change based on event type/size and this does not include travel/ac
 
 ### Previous Clients
 
-- Number of Clients: 4
-- Revenue: $1,210
+- Number of Clients: 5
+- Revenue: $1,310
 
 <!-- Use https://www.miniwebtool.com/sum-calculator/ -->
 <!-- Update milestones page -->
 
-| Year | Who               | Why                                  | Pricing |
-| ---- | ----------------- | ------------------------------------ | ------- |
-| 2018 | Stellares         | 1 hour feedback session              | $60     |
-| 2017 | Fullstack Academy | 6 hours of mentoring for GHA Student | $500    |
-| 2016 | AlterConf         | Blog Post                            | $200    |
-| 2015 | Ameot             | Branding & web development           | $450    |
+| Year | Who                  | Why                                  | Earned |
+|------|----------------------|--------------------------------------|--------|
+| 2018 | YC Work at a Startup | 1 hour user research interview       | $100   |
+| 2018 | Stellares            | 1 hour feedback session              | $60    |
+| 2017 | Fullstack Academy    | 6 hours of mentoring for GHA Student | $500   |
+| 2016 | AlterConf            | Blog post                            | $200   |
+| 2015 | Ameot                | Branding & web development           | $450   |

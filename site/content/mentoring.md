@@ -28,14 +28,16 @@ You can find [the feedback I've received](/feedback/ "Feedback") thus far on my 
 
 ### Previous Mentoring Sessions
 
-- # of Sessions: 77
-- Hours: 61.23
+- # of Sessions: 79
+- Hours: 62.23
 
 <!-- Use https://www.miniwebtool.com/sum-calculator/ -->
 <!-- Update milestones page -->
 
 | Date       | Why                                              | Who                      | Method      | Hours |
-| ---------- | ------------------------------------------------ | ------------------------ | ----------- | ----- |
+|------------|--------------------------------------------------|--------------------------|-------------|-------|
+| 2018-11-08 | Career path                                      | Carly Gordon             | Phone Call  | 0.50  |
+| 2018-11-07 | Career advice                                    | Brian Martinez           | Phone Call  | 0.50  |
 | 2018-10-10 | Resume review and career advice                  | Annelise Thorsen         | Phone Call  | 0.50  |
 | 2018-10-04 | Career path                                      | Abel Hernandez           | Phone Call  | 0.50  |
 | 2018-09-26 | Resume review                                    | Prateek Kumar            | Online Call | 0.50  |

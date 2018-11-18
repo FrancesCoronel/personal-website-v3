@@ -16,47 +16,47 @@ aliases:
   - /donate/
 ---
 
-## Ask Me Anything 🤔️
-
-Just have a general question? Want career advice for free? Maybe you found a typo?
-
-Feel free to [submit a new issue/question](https://github.com/fvcproductions/ama/issues/new) through my AMA GitHub repo.
-
 ## LinkedIn 💼️
 
 If you'd like to stay in touch professionally, don't hesitate to [connect with me on LinkedIn](https://linkedin.com/in/fvcproductions).
-
-If you want career/mentoring advice, please refer to the details above.
 
 ## Book a Chat 📅
 
 If you'd like to set up a phone or video chat, you can use my [Calendly](https://calendly.com/fvcproductions) to book a time with me.
 
-Before booking a session, please be sure to refer to the pricing table below and pay the appropriate amount before the session if applicable.
-
 If you are looking for technical help, you can message me on [Codementor](https://www.codementor.io/fvcproductions).
 
-### Rates 💵
+> Please make sure to refer to the sections below before booking a session.
 
-Due to high demand, I've had to put a price point for some of the services I offer.
+### Free Sessions 💛️
 
-| Session Type                                | Hourly Rate |
-| ------------------------------------------- | ----------- |
-| Freelance Writing                           | \$30        |
-| General Technical Help (Codementor)         | \$40        |
-| General Career Advice/Mentoring             | \$50        |
-| General App/Product/Startup Review & Advice | \$60        |
-| Freelance Design                            | \$100       |
-| Freelance Development                       | \$250       |
-| Speaking Engagements                        | \$500\*     |
+- Learning about Slack (careers, work life, internships, etc.)
 
-_\*Price may change based on event type/size and this does not include travel/accommodation costs._
+> If you are a black woman or Latina in the tech industry, you can book a career advice or resume review session with me for free.
+
+### Priced Sessions 💵
+
+Due to high demand, I've had to put a price point for some of the services I offer which are listed out below.
+
+We can discuss pricing more 1-on-1 together but this is a heads up that depending on your ask, I will have to charge you.
+
+- Career advice
+- Resume review
+- Startup app review and advice
+- User research
+- Technical help ([Codementor](https://www.codementor.io/fvcproductions))
+- Freelance writing, design and development
+- Speaking engagements*
+
+_*Price may change based on event type/size and this does not include travel/accommodation costs._
 
 > I accept payments through [Venmo](https://venmo.com/fvcproductions), [Square Cash](https://cash.me/$fvcprdxs) or [PayPal](https://paypal.me/fvcproductions).
 
-### Free Mentoring Sessions 💛️
+## Ask Me Anything (AMA) 🤔️
 
-If you are a black female or Latina in the tech industry, you can book a mentoring session with me for free.
+Just have a generic question? Maybe you found a typo?
+
+Feel free to [submit a new issue](https://github.com/fvcproductions/ama/issues/new) through my AMA GitHub repo.
 
 ## Contact Form 📼
 
