@@ -1,10 +1,34 @@
 img.emoji {
-  -webkit-box-shadow: none;
-  background: 0 0;
-  border: 0;
-  box-shadow: none;
-  margin: 0 0.25em;
-  padding: 0;
-  vertical-align: -0.1em;
-  width: 1em;
+	-webkit-box-shadow: none;
+	background: 0 0;
+	border: 0;
+	box-shadow: none;
+	margin: 0 0.25em;
+	padding: 0;
+	vertical-align: -0.1em;
+	width: 1em;
+}
+
+.background-image {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50%;
+	height: 10em;
+}
+
+.blur {
+	animation-name: blur;
+	animation-duration: .75s;
+}
+
+@keyframes blur {
+
+	from {
+		-webkit-filter: blur(10px);
+	}
+
+	to {
+		-webkit-filter: blur(0px);
+	}
+
 }

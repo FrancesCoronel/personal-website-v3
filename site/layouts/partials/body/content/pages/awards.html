@@ -3,9 +3,9 @@
 <!-- Awards -->
 <h2>🏆 {{ len $awards}} awards received</h2>
 <div class="columns is-multiline">
-  {{ range $awards }} {{ if .Date.Before now }}
-  <div class="column is-one-third">
-    {{ partial "body/content/card/plain.html" . }}
-  </div>
-  {{ end }} {{ end }}
+	{{ range $awards }} {{ if .Date.Before now }}
+	<div class="column is-one-third">
+		{{ partial "body/content/card/plain-image.html" . }}
+	</div>
+	{{ end }} {{ end }}
 </div>

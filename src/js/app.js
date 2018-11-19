@@ -9,3 +9,6 @@ require("./components/externalLinks");
 
 // Random Titles
 require("./components/randomTitle");
+
+// Lozad
+require("./components/lozad");

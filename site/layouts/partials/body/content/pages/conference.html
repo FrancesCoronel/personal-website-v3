@@ -1,9 +1,9 @@
 {{ $conferences := ($.Site.Taxonomies.categories.conference).Pages }}
 <h2>👥 {{ len $conferences }} events attended</h2>
 <div class="columns is-multiline">
-  {{ range $conferences }}
-  <div class="column is-one-third">
-    {{ partial "body/content/card/plain.html" . }}
-  </div>
-  {{ end }}
+	{{ range $conferences }}
+	<div class="column is-one-third">
+		{{ partial "body/content/card/plain-image.html" . }}
+	</div>
+	{{ end }}
 </div>

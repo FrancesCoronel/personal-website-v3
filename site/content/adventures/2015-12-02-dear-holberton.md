@@ -2,7 +2,7 @@
 title: "Dear Holberton"
 date: 2015-12-02
 description: "Why I want to attend Holberton. 📮"
-image: https://www.yellopixel.com/wp-content/uploads/2017/02/holberton-school.jpg
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWlVIIH-HxbYjkqDFdwJg5O6BoHCXHZnk8WFbPvjtIUR0dHB-I
 categories:
   - blog
 ---
