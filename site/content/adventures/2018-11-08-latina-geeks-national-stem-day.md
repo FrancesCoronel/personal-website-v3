@@ -1,5 +1,5 @@
 ---
-title: "#LatinaGeeks | National STEM Day: Latinas Breaking Down Barriers In Technology"
+title: "LatinaGeeks | National STEM Day: Latinas Breaking Down Barriers In Technology"
 date: 2018-11-08
 description: The Mujerista is an online based space that shares stories and experiences that impact, empower, and celebrate Latinas.
 image: https://i.imgur.com/o8XiSjv.jpg
