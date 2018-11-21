@@ -1,0 +1,10 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.13.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:tunnel-agent:20170305':
+    - image-webpack-loader > imagemin-webp > cwebp-bin > bin-build > download > caw > tunnel-agent:
+        patched: '2018-11-21T16:46:06.630Z'
+    - image-webpack-loader > imagemin-webp > cwebp-bin > bin-wrapper > download > caw > tunnel-agent:
+        patched: '2018-11-21T16:46:06.630Z'
