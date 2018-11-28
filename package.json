@@ -48,7 +48,7 @@
 		"gulp-sourcemaps": "2.6.4",
 		"gulp-watch": "4.3.11",
 		"hugo-bin": "0.37.0",
-		"hugo-cli": "0.7.0",
+		"hugo-cli": "0.8.0",
 		"image-webpack-loader": "4.5.0",
 		"lozad": "1.7.0",
 		"mixitup": "3.3.1",
