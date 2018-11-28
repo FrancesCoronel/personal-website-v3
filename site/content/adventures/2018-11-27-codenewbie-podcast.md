@@ -9,8 +9,8 @@ description: "Stories from people on their coding journey. Recorded 11/27."
 categories:
   - speaking
 tags:
-	- codenewbie
-	- podcast
+  - podcast
+  - codenewbie
 ---
 
 Recording was rescheduled from 11/19 to 11/27! 🤫️

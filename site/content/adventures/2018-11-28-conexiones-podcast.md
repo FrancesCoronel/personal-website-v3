@@ -9,8 +9,8 @@ description: "Conexiones was born from the desire to share stories about Latinos
 categories:
   - speaking
 tags:
-	- podcast
-	- conexiones
+  - conexiones
+  - podcast
 ---
 
 Recording was completed 11/28 - stay tuned for the actual episode!
