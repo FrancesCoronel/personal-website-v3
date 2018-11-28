@@ -1,35 +1,32 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	<channel>
-		<title>{{ .Site.Title }}</title>
+		<title>{{ $.Site.Title }}</title>
 		<link>{{ .Permalink }}</link>
-		<description>{{ .Site.Params.description }}</description>
+		<description>{{ $.Site.Params.description }}</description>
 		<image>
-			<url>{{ .Site.Params.og_image }}</url>
-			<title>{{ .Site.Title }}</title>
+			<url>{{ $.Site.Params.og_image }}</url>
+			<title>{{ $.Site.Title }}</title>
 			<link>{{ .Permalink }}</link>
 		</image>
 		<generator>Hugo -- gohugo.io</generator>
-    {{ with .Site.LanguageCode }}<language>{{.}}</language>{{end}}
-    {{ with .Site.Author.email }}<managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}
-    {{ with .Site.Author.email }}<webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}
-    {{ with .Site.Copyright }}<copyright>{{.}}</copyright>{{end}}
+    {{ with $.Site.LanguageCode }}<language>{{.}}</language>{{end}}
+    {{ with $.Site.Author.email }}<managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}
+    {{ with $.Site.Author.email }}<webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}
+    {{ with $.Site.Copyright }}<copyright>{{.}}</copyright>{{end}}
     {{ if not .Date.IsZero }}<lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
     {{ with .OutputFormats.Get "RSS" }}
       {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}
-    {{ range .Data.Pages }}
-    {{ if .Date.Before now }}
-		<item>
-			<title>{{ .Title }}</title>
-			<link>{{ .Permalink }}</link>
-      {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
-      {{ if not .Date.IsZero }}<pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>{{ end }}
-      {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
-      <guid>{{ .Permalink }}</guid>
-      <description>{{ if .Params.description }}{{ .Params.description | html }}{{ else }}{{ .Summary | safeHTML }}{{ end }}</description>
-      <content:encoded>{{ .Content | safeHTML }}</content:encoded>
-		</item>
-    {{ end }}
-    {{ end }}
+    {{ range first 50 (where .Data.Pages "Section" "adventures") }}{{ if .Date.Before now }}
+      <item>
+        <title>{{ .Title }}</title>
+        <link>{{ .Permalink }}</link>
+        {{ with $.Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
+        {{ if not .Date.IsZero }}<pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>{{ end }}
+        <guid>{{ .Permalink }}</guid>
+        <description>{{ if .Params.description }}{{ .Params.description | html }}{{ else }}{{ .Summary | html }}{{ end }}</description>
+        <content:encoded>{{ .Content | html }}</content:encoded>
+      </item>
+    {{ end }}{{ end }}
 	</channel>
 </rss>
