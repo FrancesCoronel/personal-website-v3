@@ -29,7 +29,7 @@
 		"bulma": "0.7.2",
 		"compression-webpack-plugin": "1.1.12",
 		"css-loader": "0.28.11",
-		"cssnano": "3.10.0",
+		"cssnano": "4.1.7",
 		"del": "3.0.0",
 		"eslint": "5.8.0",
 		"eslint-plugin-import": "1.16.0",
