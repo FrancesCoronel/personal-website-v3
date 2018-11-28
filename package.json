@@ -46,7 +46,7 @@
 		"gulp-run-command": "0.0.9",
 		"gulp-sass": "3.2.1",
 		"gulp-sourcemaps": "2.6.4",
-		"gulp-watch": "4.3.11",
+		"gulp-watch": "5.0.1",
 		"hugo-bin": "0.37.0",
 		"hugo-cli": "0.7.0",
 		"image-webpack-loader": "4.5.0",
