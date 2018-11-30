@@ -2,8 +2,8 @@
 title: "Conexiones Podcast - Recording Completed"
 date: 2019-01-15
 location: Virtual
-image: http://conexiones.io/wp-content/uploads/2018/03/facebook-cover2-1.jpg
-description: "Recording completed on November 28th - stay tuned for episode release."
+image: https://i.imgur.com/roapW8Q.jpg
+description: "Recording completed on December 4th - stay tuned for episode release."
 link: http://conexiones.io/
 categories:
   - speaking
