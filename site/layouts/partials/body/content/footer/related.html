@@ -1,13 +1,13 @@
 {{ $related := .Site.RegularPages.Related . | first 3 }} {{ with $related }}
 <hr>
 <div class="section section-related">
-	<h2>💭 Related</h2>
-	<div class="columns is-multiline">
-		{{ range . }}
-		<div class="column is-one-third">
-			{{ partial "body/content/card/plain-image.html" . }}
-		</div>
-		{{ end }}
-	</div>
+  <h2>💭 Related</h2>
+  <div class="columns is-multiline">
+    {{ range . }}
+    <div class="column is-one-third">
+      {{ partial "body/content/card/plain-image.html" . }}
+    </div>
+    {{ end }}
+  </div>
 </div>
 {{ end }}

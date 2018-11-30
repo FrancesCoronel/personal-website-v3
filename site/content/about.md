@@ -1,6 +1,6 @@
 ---
-title: About 🍫🍓
-description: A brief intro to my world.
+title: About
+description: A brief intro to my world. 🍫🍓
 image: https://i.imgur.com/NWXkplC.jpg
 hideImage: true
 noComments: true
@@ -23,15 +23,13 @@ My "life motto", if you will.
 
 Might have something to do with human nature in general, though, so interpret it as you will.
 
-## Blurb 📇
-
-<span class="font-size--3x">👩🏽‍💻️</span>
+## Blurb 👋🏽️
 
 - Front End Engineer at Slack HQ in SF with a focus on UI design & development 🖌️🔧️
 - Latina (2nd gen. Peruvian-American) 🇵🇪️ who gets a lot of personal satisfaction out of inspiring underserved groups within the tech industry 😊
 - Passionate mentor, freelancer & speaker 💬️
 
-## Biographies
+## Bio
 
 Frances Coronel is a software engineer specializing in UI development on the Customer Acquisition Team at Slack.
 
@@ -54,7 +52,7 @@ Her passions outside of work include contributing to open-source, public speakin
 My logo is a chocolate dipped strawberry. No particular
 reason why, I just think they're yummy. 🍫🍓
 
-[![Logo](https://imgur.com/aIbX4z0.png)](/2017/08/19/fvcproductions---logo-redesign-/ "FVCproductions Logo Redesign")
+[![Logo](/assets/img/teaser.png)](/2017/08/19/fvcproductions---logo-redesign-/ "FVCproductions Logo Redesign")
 
 I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the Egyptian queen) a crap ton.
 
@@ -63,7 +61,7 @@ I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the E
 ## Life Timeline
 
 | Date           | Event                                                                  |
-|----------------|------------------------------------------------------------------------|
+| -------------- | ---------------------------------------------------------------------- |
 | 1995 October   | Born in Newport News, VA to Peruvian immigrants                        |
 | 1998 September | Started Pre-K                                                          |
 | 2001 September | Started elementary school                                              |

@@ -1,6 +1,6 @@
 ---
-title: Education 🎓
-description: Schools, colleges, the works...
+title: Education
+description: Schools, colleges, the works... 🎓
 noComments: true
 noTimeEstimate: true
 customPage: true

@@ -1,6 +1,6 @@
 ---
-title: Mentoring 📚
-description: Mentoring is a brain to pick, an ear to listen, and a push in the right direction.
+title: Mentoring
+description: Mentoring is a brain to pick, an ear to listen, and a push in the right direction. 📚
 image: https://i.imgur.com/BqiFTqF.jpg
 noComments: true
 customPage: true
@@ -35,7 +35,7 @@ You can find [the feedback I've received](/feedback/ "Feedback") thus far on my 
 <!-- Update milestones page -->
 
 | Date       | Why                                              | Who                      | Method      | Hours |
-|------------|--------------------------------------------------|--------------------------|-------------|-------|
+| ---------- | ------------------------------------------------ | ------------------------ | ----------- | ----- |
 | 2018-11-08 | Career path                                      | Carly Gordon             | Phone Call  | 0.50  |
 | 2018-11-07 | Career advice                                    | Brian Martinez           | Phone Call  | 0.50  |
 | 2018-10-10 | Resume review and career advice                  | Annelise Thorsen         | Phone Call  | 0.50  |

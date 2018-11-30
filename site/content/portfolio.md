@@ -1,6 +1,6 @@
 ---
-title: Portfolio 🛠️
-description: My work across the interwebs.
+title: Portfolio
+description: My work across the interwebs. 🛠️
 image: https://i.imgur.com/DZnLjQQ.png
 hideImage: true
 noComments: true

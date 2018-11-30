@@ -1,6 +1,6 @@
 ---
-title: Hackathons 💻
-description: Hack, hack, hack...
+title: Hackathons
+description: Hack, hack, hack... 💻
 image: https://i.imgur.com/iFVrP3w.jpg
 hideImage: true
 noComments: true

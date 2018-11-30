@@ -10,7 +10,7 @@
     <time datetime='{{ dateFormat "2006-01-02" .Date }}'>{{ dateFormat "Monday - January 2, 2006" .Date }}</time>
   </p>
   {{- if not .Params.noTimeEstimate }}
-  {{ if .ReadingTime }}
+  {{ if gt .ReadingTime 1 }}
   {{ if .WordCount }}
   <p class="subtitle has-text-weight-light is-size-6 mt-1">
     {{ .ReadingTime }} min read ∙ {{ .WordCount }} words
@@ -20,4 +20,3 @@
   {{- end }}
   {{- end }}{{- end }}
 </div>
-

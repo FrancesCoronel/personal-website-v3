@@ -17,7 +17,7 @@
         {{ if .Params.navbar }}
         <li class="menu-item is-size-4">
           <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}">
-            {{ .Title }}
+            {{ if .Params.display }}{{ .Params.display }}{{ else }}{{ .Title }}{{ end }}
           </a>
         </li>
         {{ end }}

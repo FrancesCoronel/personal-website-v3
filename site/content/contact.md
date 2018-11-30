@@ -1,11 +1,11 @@
 ---
-title: Contact 📬
-description: Getting in touch.
+title: Contact
+description: Getting in touch. 📬
 image: https://i.imgur.com/0n5zqiA.jpg
 hideImage: true
 noComments: true
 noTimeEstimate: true
-navbar: true
+navbar: false
 footer: true
 url: /contact/
 aliases:
@@ -46,9 +46,9 @@ We can discuss pricing more 1-on-1 together but this is a heads up that dependin
 - User research
 - Technical help ([Codementor](https://www.codementor.io/fvcproductions))
 - Freelance writing, design and development
-- Speaking engagements*
+- Speaking engagements\*
 
-_*Price may change based on event type/size and this does not include travel/accommodation costs._
+_\*Price may change based on event type/size and this does not include travel/accommodation costs._
 
 > I accept payments through [Venmo](https://venmo.com/fvcproductions), [Square Cash](https://cash.me/$fvcprdxs) or [PayPal](https://paypal.me/fvcproductions).
 

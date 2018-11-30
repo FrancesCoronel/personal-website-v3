@@ -1,6 +1,6 @@
 ---
-title: Colophon ⚙️
-description: Unveiling the inner workings of this website.
+title: Colophon
+description: Unveiling the inner workings of this website. ⚙️
 image: https://i.imgur.com/D4dPpG2.jpg
 hideImage: true
 noTimeEstimate: true
@@ -210,7 +210,10 @@ Nulla efficitur eleifend nisi, sit amet bibendum sapien fringilla ac. Mauris eui
     <title>Hello World</title>
   </head>
   <body>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra nec nulla vitae mollis.</p>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra nec
+      nulla vitae mollis.
+    </p>
   </body>
 </html>
 ```

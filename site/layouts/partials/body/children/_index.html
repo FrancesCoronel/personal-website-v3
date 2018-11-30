@@ -1,12 +1,12 @@
 <div class="columns is-multiline">
-	<!-- Defining Pages -->
-	{{ $paginator := .Paginator.Pages }}
-	<!-- Union -->
-	{{ $pages := $paginator | union (.Sections) }}
-	<!-- Looping -->
-	{{ range $pages.ByDate.Reverse }}
-	<div class="column is-one-third">
-		{{ partial "body/content/card/_index.html" . }}
-	</div>
-	{{ end }}
+  <!-- Defining Pages -->
+  {{ $paginator := .Paginator.Pages }}
+  <!-- Union -->
+  {{ $pages := $paginator | union (.Sections) }}
+  <!-- Looping -->
+  {{ range $pages.ByDate.Reverse }}
+  <div class="column is-one-third">
+    {{ partial "body/content/card/_index.html" . }}
+  </div>
+  {{ end }}
 </div>

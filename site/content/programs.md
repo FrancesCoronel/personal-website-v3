@@ -1,6 +1,6 @@
 ---
-title: Programs 🌱
-description: Growing outside of work or school.
+title: Programs
+description: Growing outside of work or school. 🌱
 customPage: true
 programPage: true
 hideImage: true

@@ -1,0 +1,31 @@
+{{ define "main" }}
+<!-- Hero -->
+{{ partial "body/hero/_index.html" . }}
+<!-- Page -->
+<div class="section">
+  <div class="container">
+    <div class="content">
+      <blockquote>Coming January 2019</blockquote>
+      <h2>Episodes</h2>
+      <!-- Children -->
+      <!-- Variables -->
+      {{ $podcast := ($.Site.Taxonomies.categories.podcast).Pages }}
+      <!-- Episodes -->
+      <h2>🎤 {{ len $podcast }} {{ if gt (len $podcast) 1 }} episodes{{ else }} episode{{ end }} planned so far</h2>
+      <div class="columns is-multiline">
+        {{ range $podcast.ByDate.Reverse }}
+        <div class="column is-one-third">
+          {{ partial "body/content/card/plain-image.html" . }}
+        </div>
+        {{ end }}
+      </div>
+      <br>
+      <hr>
+      <br>
+      <!-- Content -->
+      {{ partial "body/content/_index.html" . }}
+      <br>
+    </div>
+  </div>
+</div>
+{{ end }}

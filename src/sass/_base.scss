@@ -40,6 +40,16 @@ table {
   width: 100%;
   overflow-x: auto;
 
+  .v--home__date {
+    font-weight: 500;
+    padding-left: 0 !important;
+    width: 15%;
+
+    @media screen and (max-width: $mobile) {
+      width: 30%;
+    }
+  }
+
   @media screen and (max-width: $tablet) {
     display: block;
   }

@@ -1,6 +1,6 @@
 ---
-title: Freelancing 💎️
-description: Services I offer.
+title: Freelancing
+description: I work with clients of all backgrounds and offer a number of different services. 💎️
 image: https://i.imgur.com/hD3rQiK.jpg
 hideImage: true
 noComments: true
@@ -40,15 +40,15 @@ I'm available for small client projects through [LinkedIn Pro Finder](https://ww
 ### Previous Clients
 
 - Number of Clients: 5
-- Revenue: $1,310
+- Revenue: \$1,310
 
 <!-- Use https://www.miniwebtool.com/sum-calculator/ -->
 <!-- Update milestones page -->
 
 | Year | Who                  | Why                                  | Earned |
-|------|----------------------|--------------------------------------|--------|
-| 2018 | YC Work at a Startup | 1 hour user research interview       | $100   |
-| 2018 | Stellares            | 1 hour feedback session              | $60    |
-| 2017 | Fullstack Academy    | 6 hours of mentoring for GHA Student | $500   |
-| 2016 | AlterConf            | Blog post                            | $200   |
-| 2015 | Ameot                | Branding & web development           | $450   |
+| ---- | -------------------- | ------------------------------------ | ------ |
+| 2018 | YC Work at a Startup | 1 hour user research interview       | \$100  |
+| 2018 | Stellares            | 1 hour feedback session              | \$60   |
+| 2017 | Fullstack Academy    | 6 hours of mentoring for GHA Student | \$500  |
+| 2016 | AlterConf            | Blog post                            | \$200  |
+| 2015 | Ameot                | Branding & web development           | \$450  |

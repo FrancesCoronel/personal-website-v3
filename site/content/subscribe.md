@@ -1,6 +1,6 @@
 ---
-title: Subscribe 🌟
-description: You can subscribe to new updates via email or push notifications.
+title: Subscribe
+description: You can subscribe to new updates via email or push notifications. 🌟
 noComments: true
 noTimeEstimate: true
 url: /subscribe/

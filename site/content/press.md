@@ -1,6 +1,6 @@
 ---
-title: Press 📰️
-description: Mentions in the media or news.
+title: Press
+description: Interviews or mentions in the media outside of this blog. 📰️
 image: https://i.imgur.com/iFVrP3w.jpg
 hideImage: true
 noComments: true
@@ -10,4 +10,6 @@ navbar: true
 url: /press/
 aliases:
   - /press-mentions/
+  - /media/
+  - /interviews/
 ---

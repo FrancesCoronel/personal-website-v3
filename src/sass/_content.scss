@@ -40,6 +40,10 @@
     border-bottom-style: dashed;
     border-bottom-color: $link;
 
+    img {
+      display: inline-block;
+    }
+
     &:hover {
       color: black;
       border-bottom-style: solid;
