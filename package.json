@@ -42,7 +42,7 @@
 		"gulp-htmlmin": "5.0.1",
 		"gulp-imagemin": "5.0.3",
 		"gulp-newer": "1.4.0",
-		"gulp-postcss": "6.4.0",
+		"gulp-postcss": "8.0.0",
 		"gulp-run-command": "0.0.9",
 		"gulp-sass": "3.2.1",
 		"gulp-sourcemaps": "2.6.4",
