@@ -54,7 +54,7 @@
 		"mixitup": "3.3.1",
 		"plugin-error": "1.0.1",
 		"postcss-csso": "3.0.0",
-		"style-loader": "0.19.1",
+		"style-loader": "0.23.1",
 		"twemoji": "2.5.1",
 		"url-loader": "1.1.2",
 		"webpack": "3.12.0",
