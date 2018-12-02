@@ -44,7 +44,7 @@
 		"gulp-newer": "1.4.0",
 		"gulp-postcss": "8.0.0",
 		"gulp-run-command": "0.0.9",
-		"gulp-sass": "3.2.1",
+		"gulp-sass": "4.0.2",
 		"gulp-sourcemaps": "2.6.4",
 		"gulp-watch": "4.3.11",
 		"hugo-bin": "0.37.0",
