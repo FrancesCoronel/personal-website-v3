@@ -39,7 +39,7 @@
 		"gulp-brotli": "1.2.1",
 		"gulp-cli": "2.0.1",
 		"gulp-gzip": "1.4.2",
-		"gulp-htmlmin": "4.0.0",
+		"gulp-htmlmin": "5.0.1",
 		"gulp-imagemin": "5.0.3",
 		"gulp-newer": "1.4.0",
 		"gulp-postcss": "6.4.0",
