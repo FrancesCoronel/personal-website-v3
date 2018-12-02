@@ -3,6 +3,8 @@
 {{ $talks := ($.Site.Taxonomies.categories.talk).Pages }}
 <!-- Speaking -->
 {{ $speaking := ($.Site.Taxonomies.categories.speaking).Pages }}
+{{ $upcomingEvents := where $speaking "Date" "ge" now }}
+{{ $pastEvents := where $speaking "Date" "lt" now }}
 <!-- Topics -->
 <h2 class="mt-1">📢 {{ len $talks }} Talks</h2>
 <div class="columns is-multiline">
@@ -12,10 +14,21 @@
   </div>
   {{ end }}
 </div>
-<!-- Past & Upcoming Events -->
-<h2>⌛ {{ len $speaking }} Past & Upcoming Events</h2>
+<!-- Upcoming Events -->
+{{ if (len $upcomingEvents) "ge" 1 }}
+<h2>⏳️ {{ len $upcomingEvents }} Upcoming Events</h2>
 <div class="columns is-multiline">
-  {{ range ($.Site.Taxonomies.categories.speaking).Pages.ByDate.Reverse }}
+  {{ range $upcomingEvents.ByDate.Reverse }}
+  <div class="column is-one-third">
+    {{ partial "body/content/card/plain-image.html" . }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}
+<!-- Past Events -->
+<h2>⌛️ {{ len $pastEvents }} Past Events</h2>
+<div class="columns is-multiline">
+  {{ range $pastEvents.ByDate.Reverse }}
   <div class="column is-one-third">
     {{ partial "body/content/card/plain-image.html" . }}
   </div>

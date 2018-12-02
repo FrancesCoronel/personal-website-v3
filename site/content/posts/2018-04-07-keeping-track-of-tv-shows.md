@@ -4,20 +4,23 @@ date: 2018-04-07
 description: A list of TV shows I enjoy, have enjoyed or thought were terrible.
 categories:
   - blog
+tags:
+  - tv
 ---
+
+> Last updated: 12/2/18
 
 ## Enjoying
 
-1.  Adventure Time
-2.  Dear White People
-3.  How to Get Away with Murder
-4.  Mr. Robot
-5.  One Day at a Time
-6.  Rick and Morty
-7.  Sense8
-8.  Silicon Valley
-9.  The 100
-10. Westworld
+1.  Dear White People
+2.  How to Get Away with Murder
+3.  Mr. Robot
+4.  One Day at a Time
+5.  Rick and Morty
+6.  Silicon Valley
+7.  Westworld
+8.  The Chilling Adventures of Sabrina
+9.  On My Block
 
 ## Enjoyed
 
@@ -64,6 +67,9 @@ categories:
 41. Tutenstein
 42. Ugly Betty
 43. W.I.T.C.H
+44. Sense8
+45. Adventure Time
+46. The 100
 
 ## Did Not Enjoy
 

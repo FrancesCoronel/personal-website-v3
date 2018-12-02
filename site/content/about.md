@@ -1,6 +1,6 @@
 ---
 title: About
-description: A brief intro to my world. 🍫🍓
+description: I like to dabble with things that ought to be dabbled with. 🍫🍓
 image: https://i.imgur.com/NWXkplC.jpg
 hideImage: true
 noComments: true
@@ -15,15 +15,23 @@ aliases:
   - /biography/
 ---
 
-## I like to dabble with things that ~~shouldn't~~ ought to be dabbled with.
+## Overview <!-- omit in toc -->
+
+- [Blurb](#blurb)
+- [Bio](#bio)
+- [Headshot](#headshot)
+- [Life Timeline](#life-timeline)
+- [Random Fun Facts](#random-fun-facts)
+
+## Blurb
+
+I like to dabble with things that ~~shouldn't~~ ought to be dabbled with. <!-- omit in toc -->
 
 Well, at least... that's my slogan.
 
 My "life motto", if you will.
 
 Might have something to do with human nature in general, though, so interpret it as you will.
-
-## Blurb 👋🏽️
 
 - Front End Engineer at Slack HQ in SF with a focus on UI design & development 🖌️🔧️
 - Latina (2nd gen. Peruvian-American) 🇵🇪️ who gets a lot of personal satisfaction out of inspiring underserved groups within the tech industry 😊
@@ -37,26 +45,13 @@ She has been working professionally as a developer since 2015 and has both a Bac
 
 Her passions outside of work include contributing to open-source, public speaking and mentoring other URMs in tech.
 
-## Speaker Image
+## Headshot
 
 ![Headshot](https://i.imgur.com/NWXkplC.jpg "Frances Coronel - Headshot")
 
 > Photo taken for [TechHire Oakland](https://www.techhireoakland.org/training/)
 >
 > Photo taken by [Adrian Walker](https://www.adrianowalker.com/)
-
----
-
-## Random Fun Facts 🦄
-
-My logo is a chocolate dipped strawberry. No particular
-reason why, I just think they're yummy. 🍫🍓
-
-[![Logo](/assets/img/teaser.png)](/2017/08/19/fvcproductions---logo-redesign-/ "FVCproductions Logo Redesign")
-
-I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the Egyptian queen) a crap ton.
-
-![Nefy](https://i.imgur.com/cwXno9D.jpg)
 
 ## Life Timeline
 
@@ -96,4 +91,17 @@ I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the E
 | 2021 January   | Nefer probably dead                                                    |
 | 2095 October   | Probably dead                                                          |
 
-> Inspired by [Chris Coyier's](https://chriscoyier.net/timeline/) because I thought it looked neat
+> This life timeline was inspired by [Chris Coyier's](https://chriscoyier.net/timeline/) because I thought it looked neat.
+
+## Random Fun Facts
+
+My logo is a chocolate dipped strawberry.
+
+No particular reason why, I just think they're yummy. 🍫🍓
+
+[![Logo](/assets/img/teaser.png)](/2017/08/19/fvcproductions---logo-redesign-/ "FVCproductions Logo Redesign")
+
+I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the Egyptian queen) a crap ton.
+
+![Nefy](https://i.imgur.com/cwXno9D.jpg)
+
