@@ -28,7 +28,7 @@
 		"browser-sync": "2.26.3",
 		"bulma": "0.7.2",
 		"compression-webpack-plugin": "1.1.12",
-		"css-loader": "0.28.11",
+		"css-loader": "1.0.1",
 		"cssnano": "4.1.7",
 		"del": "3.0.0",
 		"eslint": "5.8.0",
