@@ -9,6 +9,7 @@ const BrotliPlugin = require("brotli-webpack-plugin");
 const CompressionPlugin = require("compression-webpack-plugin");
 
 module.exports = {
+  mode: "production",
   module: {
     rules: [{
       test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/,
@@ -49,14 +50,14 @@ module.exports = {
     new webpack.optimize.AggressiveMergingPlugin(),
     new BrotliPlugin(),
     new CompressionPlugin(),
-    new WorkboxPlugin({
-      cacheId: "hugoma",
-      swDest: path.join("dist", "sw.js"),
-      globDirectory: "dist",
+    new WorkboxPlugin.GenerateSW({
+      cacheId: "fvcproductions",
+      swDest: path.join(__dirname, "dist/sw.js"),
+      directoryIndex: path.join(__dirname, "dist/index.html"),
+      offlineGoogleAnalytics: true,
+      globDirectory: path.join(__dirname, "dist"),
       globPatterns: ["index.html", "404.html", "**/*.{css,png,gif,jpg,svg,js,ico,json}"],
       globStrict: false,
-      clientsClaim: true,
-      skipWaiting: true,
       runtimeCaching: [{
         urlPattern: /\.(?:html)$/,
         handler: "networkFirst",
