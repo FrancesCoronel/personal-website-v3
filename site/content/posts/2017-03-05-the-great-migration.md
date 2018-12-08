@@ -1,14 +1,15 @@
 ---
-title: The Start of a Wondrous Migration 🦋
-date: 2017-03-05
-description: I'm starting the process of migrating this blog from Wordpress to Jekyll.
+title: The Start of a Wondrous Migration
+date: 2017-03-05 00:00:00 +0000
+description: "I'm starting the process of migrating this blog from Wordpress to Jekyll.
+  \U0001F98B"
 image: https://i.imgur.com/WCeYmRL.jpg
 aliases:
-  - /2017/03/05/the-start-of-a-wondrous-migration/
+- "/2017/03/05/the-start-of-a-wondrous-migration/"
 categories:
-  - blog
----
+- blog
 
+---
 ## After 4 lovely years using Wordpress, I am officially starting the process of moving from Wordpress to Jekyll. 🦋
 
 Now, I just want to reassure Automattic that I've been loving my Wordpress.com experience. Seriously. I don't worry about maintaining server security or plugins or anything back-end related. I just pick out a cool theme I like and publish all my content. Everything is streamlined and easy to manage.
