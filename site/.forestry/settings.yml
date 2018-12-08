@@ -16,6 +16,11 @@ sections:
   label: Pages
   create: all
   match: "*"
+- type: directory
+  path: site/data
+  label: Data
+  create: none
+  match: "**/*.{json,yaml,yml,toml}"
 upload_dir: site/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
