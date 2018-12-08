@@ -1,19 +1,20 @@
 ---
-title: Hour of Code 2015 💻️
-description: So this past week, I signed up as a technical volunteer for the Hour of Code. Here's how my experience went.
-date: 2015-12-13
+title: Hour of Code 2015
+description: "So this past week, I signed up as a technical volunteer for the Hour
+  of Code. Here's how my experience went. \U0001F4BB️"
+date: 2015-12-13 00:00:00 +0000
 image: https://i.imgur.com/VO0Djgg.jpg
 location: Multiple Locations - Hampton Roads, VA
 aliases:
-  - /2015/12/07/hour-of-code-2015/
+- "/2015/12/07/hour-of-code-2015/"
 categories:
-  - volunteering
-  - speaking
-  - blog
+- volunteering
+- speaking
+- blog
 tags:
-  - hour-of-code
----
+- hour-of-code
 
+---
 # So this week, I signed up as a `technical volunteer` for the [**Hour of Code**](https://hourofcode.com/us).
 
 ---

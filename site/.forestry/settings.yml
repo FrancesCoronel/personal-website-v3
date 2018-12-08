@@ -5,15 +5,22 @@ admin_path: site/.forestry
 webhook_url: 
 sections:
 - type: directory
+  path: site/content/posts
+  label: Posts
+  create: all
+  match: "**/*"
+  templates:
+  - default
+- type: directory
   path: site/content
   label: Pages
   create: all
   match: "*"
 - type: directory
-  path: site/content/adventures
-  label: Adventures
-  create: all
-  match: "**/*"
+  path: site/data
+  label: Data
+  create: none
+  match: "**/*.{json,yaml,yml,toml}"
 upload_dir: site/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
