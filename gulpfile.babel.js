@@ -102,8 +102,9 @@ const buildSite = (done, options, environment) => {
 };
 
 // Hugo arguments
-const hugoArgsDefault = ["-d", "../dist", "-s", "site"];
+const hugoArgsDefault = ["-d", "../dist", "-s", "site", "--verbose"];
 const hugoArgsPreview = ["--buildDrafts", "--buildFuture"];
+const hugoArgsMin = ["--minify"];
 
 // Development tasks
 gulp.task("hugo", (done) => buildSite(done, [], "prod"));
