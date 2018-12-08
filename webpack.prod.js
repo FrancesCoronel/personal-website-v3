@@ -52,7 +52,7 @@ module.exports = {
     new CompressionPlugin(),
     new WorkboxPlugin.GenerateSW({
       cacheId: "fvcproductions",
-      swDest: path.join(__dirname, "dist/sw.js"),
+      swDest: "sw.js",
       offlineGoogleAnalytics: true,
       runtimeCaching: [{
         urlPattern: /\.(?:html)$/,
