@@ -1,13 +1,13 @@
 ---
-title: So You Want To Be A (Tech) Wizard
+title: "So You Want To Be A (Tech) Wizard"
 date: 2019-01-23
 image: https://i.imgur.com/bnp61N1.png
 description: Put on your wizard hats and join us for a beginner friendly talk about what it's like to be a developer and how you can get started.
 link: https://generalassemb.ly/education/so-you-want-to-be-a-tech-wizard/san-francisco/66021
 categories:
-	- speaking
+  - speaking
 tags:
-	- wizard
+  - wizard
 ---
 
 Put on your wizard hats and join us for a beginner friendly talk about what it's like to be a developer and how you can get started.
