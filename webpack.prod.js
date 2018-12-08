@@ -53,11 +53,7 @@ module.exports = {
     new WorkboxPlugin.GenerateSW({
       cacheId: "fvcproductions",
       swDest: path.join(__dirname, "dist/sw.js"),
-      directoryIndex: path.join(__dirname, "dist/index.html"),
       offlineGoogleAnalytics: true,
-      globDirectory: path.join(__dirname, "dist"),
-      globPatterns: ["index.html", "404.html", "**/*.{css,png,gif,jpg,svg,js,ico,json}"],
-      globStrict: false,
       runtimeCaching: [{
         urlPattern: /\.(?:html)$/,
         handler: "networkFirst",

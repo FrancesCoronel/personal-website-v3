@@ -2,7 +2,7 @@ const webpack = require("webpack");
 const path = require("path");
 
 module.exports = {
-  mode: "dev",
+  mode: "development",
   module: {
     rules: [{
       test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/,
