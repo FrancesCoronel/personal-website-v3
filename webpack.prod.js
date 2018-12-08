@@ -52,7 +52,7 @@ module.exports = {
     new CompressionPlugin(),
     new WorkboxPlugin.GenerateSW({
       cacheId: "fvcproductions",
-      swDest: "sw.js",
+      swDest: "../sw.js",
       offlineGoogleAnalytics: true,
       runtimeCaching: [{
         urlPattern: /\.(?:html)$/,
@@ -86,8 +86,9 @@ module.exports = {
     app: ["./js/app"]
   },
   output: {
-    path: path.join(__dirname, "dist/assets/js"),
-    publicPath: "/dist/assets/js/",
-    filename: "[name].js"
+    filename: path.join("js", "[name].js"),
+    chunkFilename: path.join("js", "chunk-[name].js"),
+    path: path.resolve(__dirname, "dist", "assets"),
+    publicPath: "/dist/assets/",
   }
 };
