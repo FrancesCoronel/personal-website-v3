@@ -43,11 +43,11 @@ November 24th, 2015 to February 5th, 2016
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/NorfolkJS/status/689321587045056512">Norfolk.js on Twitter</a></h4><p>@fvcproductions Great work tonight! Nice handoff from the Balderdash series to @8020co.</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/fvcproductions/status/684940206785589248">Frances Coronel on Twitter</a></h4><p>Just submitted a talk for #revconf. Ridiculously excited! 🇻🇳 <★> 🇻🇳 @revconf</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/fvcproductions/status/684940206785589248">Frances Coronel on Twitter</a></h4><p>Just submitted a talk for #revconf. Ridiculously excited! @revconf</p></blockquote>
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/NorfolkJS/status/685708460743389184">Norfolk.js on Twitter</a></h4><p>This month we have @fvcproductions speaking about her experience with JS Bootcamps. But first, lightning talks!! //t.co/MxiZ2mAea3</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/fvcproductions/status/730577559054778368">Frances Coronel on Twitter</a></h4><p>RevolutionConf AKA yes, there's a HUGE tech scene in the 757 ⚓️⭑⚓️ //t.co/6HALtzosFs</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/fvcproductions/status/730577559054778368">Frances Coronel on Twitter</a></h4><p>RevolutionConf AKA yes, there's a HUGE tech scene in the 757 //t.co/6HALtzosFs</p></blockquote>
 
 ![80|20 1](https://lh3.googleusercontent.com/rS_bEIOcd5n4tNK3YBVRCNgoXsq8YNQ9jUgMtybZqugCLWqHd-jAIlDeWBtuPrnOM6_8rI06viXyZ6kJTc6nqg77sZu4dykYOTeF4sAcVcqh3V788p6z03eSNrOis91nh4ySfTuBJwdbdmozJvFTe1LtkhLPWPangLQS9d5Emt3u9leG3hQLgHmhBB-NxJ6o-cjDwSvyRFWp9r9gFVnG95Vj1ixNQYuTnO2z2nEEPRDoIK-FPKOD91qrBk9N78p3Z--AvUNxsxuMCQSCbe6WZuTG6No5-HppKNQNyyXjdvQSeOwQ33EZ9Zw1jtOkr-RAJtCHQdpK4amYRez7S783BWIN2pxgDxcAOgN4rogVQ2aGu_mQHn3oYv6-r4dlZp5j6gDYNHLq3ctD9xJJ79WvDKIfGyeZJdK5737K5zpvagZgxlaYV4cHUR_-ZjRAU9rG6Byv1Tvjw-r4cVPaRg7xE7qgAkSu9M3Ds28zePFSo__Z5Ytti-XUr7RcL7v2F6HTLo2PKPeaQoroXSdtwCMkXCqAdIjlQS-JRPirVRyb104EWcmrES8ck75k03pkKzit5Ibg0wL6R1i1dI9DUSYs1usuXgn5iazmtid39wOHZeMpHCmLweu2rJD5uyGrh6NB=w1425-h790-no)
 
