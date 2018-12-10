@@ -13,6 +13,6 @@ categories:
 
 My mom even sent a letter to [Gottfrid](https://www.facebook.com/pages/Gottfrid-Svartholm/103131853059969)...
 
-**Later today**, my mum provided the receipt that she got from the Postal Service. It had a smiley face in red with a little message right above the \$35.64 price that was necessary for the parcel to arrive in Sweden. The message complained about something along the lines "This sacrifice is well worth it.". I later complained to her about her subtle complaint. It ended as a truce.
+**Later today**, my mum provided the receipt that she got from the Postal Service. It had a smiley face in red with a little message right above the $35.64 price that was necessary for the parcel to arrive in Sweden. The message complained about something along the lines "This sacrifice is well worth it.". I later complained to her about her subtle complaint. It ended as a truce.
 
 Overall, it was definitely a decent day. :grin:

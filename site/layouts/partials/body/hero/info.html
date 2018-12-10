@@ -4,7 +4,7 @@
 {{ end }}
 <!-- Content Info -->
 {{ if or (not .PublishDate.IsZero) (not .Params.noTimeEstimate) (.Params.location) (.Params.slides) (.Params.video) (.Params.recording) (.Params.link) }}
-<div class="content-info mt-2">
+<div class="content-info mt-1">
 	<!-- Date -->
 	{{- if not .PublishDate.IsZero }}
 	<p>

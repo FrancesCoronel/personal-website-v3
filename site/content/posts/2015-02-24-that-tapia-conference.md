@@ -48,7 +48,7 @@ The goal of the Tapia Conferences is to bring together undergraduate and graduat
 Google Scholarship Recipient
 
 - Awarded August 2015
-- Scholarship includes conference registration, shared hotel room with another scholarship recipient and a \$500 travel award
+- Scholarship includes conference registration, shared hotel room with another scholarship recipient and a $500 travel award
 
 ---
 
@@ -168,7 +168,7 @@ Consistently throughout the process, I faced the dilemma of whether or not to ta
 
 ![Mmmhmmm.](https://sunnyyq.files.wordpress.com/2012/09/12-08-31-new-york-style-mozzarella-cheese-pizza-sbarro.jpg)
 
-Half way through waiting in this 1-hour line, I call this help line \# that this lady from Toronto gives me since the help line only helps with domestic flights. It's officially from US Airways but then the help line goes on to offer me a \$100 Walmart gift card and insisting that I give them my personal info to get this card. I'm pretty gullible, so I give them my name and address but then they ask for my debit card \# and I go crazy and ask why they haven't help me out yet. I'm still in the ridiculously long line and hang up on the stupid help line and then all of a sudden, US Airways announces that the flight I've been waiting for 4 hours so far now is now boarding.
+Half way through waiting in this 1-hour line, I call this help line \# that this lady from Toronto gives me since the help line only helps with domestic flights. It's officially from US Airways but then the help line goes on to offer me a $100 Walmart gift card and insisting that I give them my personal info to get this card. I'm pretty gullible, so I give them my name and address but then they ask for my debit card \# and I go crazy and ask why they haven't help me out yet. I'm still in the ridiculously long line and hang up on the stupid help line and then all of a sudden, US Airways announces that the flight I've been waiting for 4 hours so far now is now boarding.
 
 ![And Im off after a zillion hours](https://lh3.googleusercontent.com/hL0jWDTnxbWe3-_h8DSl_FDs0qFApxwDmMVprkfuW4zk8xTsq8eXRb_MP9YtQ0qmMcj5mkc7Ev8YEyusW5Nvdx9bhzxASWa9FPGqINv-0zIsNKDcsWqGFqyxByu0PxHLX5K3k6c1PODwjlP1mUeIj4M1yhmknsR9b3tszM3DG1O3wuMB6tY39nCfeoL87C2Z9lEoMPvbvgyCL3N7gRBRvtuOKaha6JSfm801rTsyln57NQFAkjrTwixAoS9qHxQHw-3m3-IhxTHbFY9e3uJY90J_lDOZm6ORDWeFOeWjqOmtvEVVTzXN3-26saL51LyAHTL8sW7yknyKkbkSCxQVAp-svPi5Vm2B-31j09bhz7r8nuumbvTWwI6Dcg6Qn323-W_lTd5l6nTl1lV7IbFPByiAomh-RuS8bl1aodzBOZQNxUL8wPHy8LOBxCVt-z9jFFzUWW-HDPLT4pGGJK0nbP8Wb7xiVjKBBQIoib28jLI7i8cissP_MwK6RPX7WX6Itio1sS-d8jIzuNuid5ZftVV3Ec1v3mYti7El6Zvy859tzzhyWRLBvRXFWUJirLkw6BT2-rG1CRIVQnLiLAgbKik0zT5EnUlxz5HITK41ozYa5J7tPemktrR0iGOnxWRx=w727-h969-no)
 

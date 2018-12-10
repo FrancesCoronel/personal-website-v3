@@ -68,7 +68,7 @@ I've decided to categorize the questions I asked into 4 sections: questions spec
 1.  **Did a large percentage of your cohort have a CS background?** No.
 2.  **Does anybody drop out after experiencing the pre-work?** I have no info on that.
 3.  **Out of the applicants you accept, what % of that end up attending?** I have no info on that.
-4.  **How do refunds work? At what point do you stop offering full refunds?** (UPDATE - March 31, 2016 - Got some info on this from a current HR student) During the first week, everyone has the opportunity to take a mulligan and get a full refund minus the \$2,000 deposit. One person did that in my cohort. Two people in my cohort felt overwhelmed midcourse and hack reactor allowed them to drop out and defer their tuition to a later cohort after doing more self-learning.
+4.  **How do refunds work? At what point do you stop offering full refunds?** (UPDATE - March 31, 2016 - Got some info on this from a current HR student) During the first week, everyone has the opportunity to take a mulligan and get a full refund minus the $2,000 deposit. One person did that in my cohort. Two people in my cohort felt overwhelmed midcourse and hack reactor allowed them to drop out and defer their tuition to a later cohort after doing more self-learning.
 5.  **Is everyone recommended to do their development on a Mac?** That's the school standard. There has been people in the past who have tried using Windows initially, but they ended up switching over.
 
 > Personal Cohort Experience

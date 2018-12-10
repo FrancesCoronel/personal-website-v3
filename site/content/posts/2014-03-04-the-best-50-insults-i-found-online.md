@@ -56,7 +56,7 @@ Last sentence was kinda stupid, but yeah hope you enjoy sucka! :razz:
 
 #### 18. You are a sad strange little man. and you have my pity.
 
-#### 19. Boy, sit your \$5 dollar ass down before I make change! (I used this once, and I got laughed at) :mad:
+#### 19. Boy, sit your $5 dollar ass down before I make change! (I used this once, and I got laughed at) :mad:
 
 #### 20. If I wanted a joke, I'd follow you to the john and watch you take a leak. (OH SNAP) :twisted:
 

@@ -36,9 +36,7 @@
   }
 
   a {
-    border-bottom-width: 1px;
-    border-bottom-style: dashed;
-    border-bottom-color: $link;
+    border-bottom: 1px solid $link;
 
     img {
       @extend %image-shadow;
@@ -52,8 +50,7 @@
 
     &:hover {
       color: black;
-      border-bottom-style: solid;
-      border-bottom-color: black;
+			border-bottom: 1px solid black;
 
       img {
         @extend %material-shadow;
@@ -76,7 +73,8 @@
 
       &:hover {
         border-bottom: none;
-        text-decoration: underline;
+				background-color: black;
+				text-decoration: none;
       }
     }
 

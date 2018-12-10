@@ -51,11 +51,11 @@ Install Python first fool (in case you haven't already)!
 
 The latest version as of March 4, 2014 is Python 3.3.4, and I'll just be referring to it as Python 3.0.
 
-As an Apple fanatic, I personally use [CodeRunner](https://krillapps.com/coderunner/) to compile and run my little programs. Although it does cost \$9.99 on Apple's App Store... so you know - that's your go.
+As an Apple fanatic, I personally use [CodeRunner](https://krillapps.com/coderunner/) to compile and run my little programs. Although it does cost $9.99 on Apple's App Store... so you know - that's your go.
 
 However, it is recommended by most web-developers that you learn how to use [SublimeText](https://www.sublimetext.com) if you intend to do more programming in the future. SublimeText is recognized way more by top web-developers and can be run on Linux, Windows, and OSX (so that's a plus!). The downside is that SublimeText requires a purchase license for continued use, but at the same time there's no time limit for your "evaluation" of the product... so it's kinda free?
 
-ANYHOW, SublimeText costs \$70, but there are PLENTY of free options out there, so do NOT give up if you're on a tight budget.
+ANYHOW, SublimeText costs $70, but there are PLENTY of free options out there, so do NOT give up if you're on a tight budget.
 
 The popular free ones are [TextWrangler](https://www.barebones.com/products/textwrangler/), [Xcode](https://developer.apple.com/xcode/) (if you have OSX), [Eclipse](https://www.eclipse.org) and some popular expensive ones are [Coda](https://panic.com/coda/), [BBEdit](https://www.barebones.com/products/bbedit/), [PyCharm](https://www.jetbrains.com/pycharm/), and SublimeText 2...which I mentioned already.
 

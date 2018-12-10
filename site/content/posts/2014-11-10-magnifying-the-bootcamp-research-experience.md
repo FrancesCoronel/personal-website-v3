@@ -112,7 +112,7 @@ This is the page for [HackReactor on _Bootcamps.in_](https://www.bootcamps.in/sa
 - lots of filters but they don't help
   - it is nice when code camps are filtered in so many ways by cost, focus, location, and so on but it's not really nice when they're not filtered in a way that helps you get the most out of it
   - with this website, you can only select one of these options so literally just one location, one focus, one cost and so on and that's how it's determined
-  - so basically, what I'm saying is that if you were looking for a JavaScript focused school that cost less than \$10K located in California, that would be really hard for you to actually do because this website only allows for one of those factors to be looked for specifically...
+  - so basically, what I'm saying is that if you were looking for a JavaScript focused school that cost less than $10K located in California, that would be really hard for you to actually do because this website only allows for one of those factors to be looked for specifically...
 
 📝 **THE VERDICT: 2/5**
 
@@ -221,7 +221,7 @@ This is the page for [HackReactor on _Switchup_](https://www.switchup.org/bootca
   - that location filter
     - in all honesty, it might be better to enforce some kind of zip code and mile radius because the cities selection is a little tedious
   - that price filter
-    - to somebody in high places, one of these \$ might mean \$10,000 so I'm not a big fan of the simple \$, \$\$, \$\$\$, and so on unless there's some background provided
+    - to somebody in high places, one of these $ might mean $10,000 so I'm not a big fan of the simple $, $$, $$$, and so on unless there's some background provided
   - that ratings filter
     - okay, so why would anybody want to search for a 1-star or 2-star rated bootcamp again, just for funsies?
     - it's understandable that it's there given that it correlates with the student reviews but...

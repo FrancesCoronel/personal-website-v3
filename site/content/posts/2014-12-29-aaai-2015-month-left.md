@@ -15,27 +15,27 @@ It's happening.
 
 ![Bender Dance](https://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif)](https://fc07.deviantart.net/fs71/f/2011/176/b/2/triple_bender_dance_by_aspellgoof-d3jxffk.gif) do the Bender dance...
 
-I'll be acting as a volunteer for [the conference](https://www.aaai.org/Conferences/AAAI/aaai15.php "AAAI 2015 Winter Conference") (it's the first winter conference, too, apparently) and was therefore lucky enough to get a \$200 scholarship and a complimentary registration (\$450, in my case) to attend.
+I'll be acting as a volunteer for [the conference](https://www.aaai.org/Conferences/AAAI/aaai15.php "AAAI 2015 Winter Conference") (it's the first winter conference, too, apparently) and was therefore lucky enough to get a $200 scholarship and a complimentary registration ($450, in my case) to attend.
 
-\$200 is very little to cover travel and hotel costs, but seeing as I have no serious research experience in the field yet, I'd say I'm still fine with it. Especially considering these registration costs for a student AAAI member like myself...
+$200 is very little to cover travel and hotel costs, but seeing as I have no serious research experience in the field yet, I'd say I'm still fine with it. Especially considering these registration costs for a student AAAI member like myself...
 
 > **Student AAAI Member (Registration Fees)**
 >
-> - Early: \$450
+> - Early: $450
 >
-> - Late: \$550
+> - Late: $550
 >
-> - Onsite: \$600
+> - Onsite: $600
 
 I mean, _HOLY CRAP_! My bank account would cry if it had to deal with such costs on top of flight and travel.
 
-Hotel costs, even with the special conference rate, will be \~\$1087 out of my pocket. And then flight costs ended up being \~\$358. And then of course, there are other expenses to consider such as food and possible incurring extra travel costs. Either way, it's probably going to cost me roughly \$1.5K not including the \$200 scholarship they gave me. Ah, well. Hopefully, it'll be worth it! See lovely flight details below.
+Hotel costs, even with the special conference rate, will be \~$1087 out of my pocket. And then flight costs ended up being \~$358. And then of course, there are other expenses to consider such as food and possible incurring extra travel costs. Either way, it's probably going to cost me roughly $1.5K not including the $200 scholarship they gave me. Ah, well. Hopefully, it'll be worth it! See lovely flight details below.
 
 ![Delta Flight Details](https://i.imgur.com/KvJFU6S.png)
 
 I'll take the very back window seat please, thanks.
 
-Thankfully, with a scholarship I got from the [VSGC](https://vsgc.odu.edu "VSGC @ ODU"), I'll be able to pay off the majority of these conference fees. **Whew.** In the end, I'll be shelling out only \$300 for it all, which isn't terrible. Glad I'm selling so much crap on eBay, I'll tell you that.
+Thankfully, with a scholarship I got from the [VSGC](https://vsgc.odu.edu "VSGC @ ODU"), I'll be able to pay off the majority of these conference fees. **Whew.** In the end, I'll be shelling out only $300 for it all, which isn't terrible. Glad I'm selling so much crap on eBay, I'll tell you that.
 
 I will say though that I don't feel I really have a lot of information yet in terms of scheduling.
 

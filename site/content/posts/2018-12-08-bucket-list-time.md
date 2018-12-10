@@ -29,7 +29,7 @@ Let's see what happens - but I'll remind myself in Todoist to look at this post 
 3. Write a book
 4. Become a leader at a tech company (VP Eng, Chief Architect, CTO, CEO, etc.)
 5. Be on the radio
-6. Donate or raise \$10K for charity
+6. Donate or raise $10K for charity
 7. Be involved in the production of a movie I'd actually watch and enjoy
 8. Record a song
 9. Live in Peru for 6+ months
