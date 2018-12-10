@@ -5,8 +5,8 @@ image: https://i.imgur.com/3k5oRoh.jpg
 hideImage: true
 noComments: true
 noTimeEstimate: true
-adventures: true
 navbar: true
+hideUpcomingText: true
 url: /blog/
 aliases:
   - /adventures/

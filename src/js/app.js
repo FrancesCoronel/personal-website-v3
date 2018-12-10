@@ -1,6 +1,9 @@
 // Twemoji
 require("./components/twemoji");
 
+// Active Navigation Link
+require("./components/activeMenuLink");
+
 // Return to Top
 require("./components/returnToTop");
 

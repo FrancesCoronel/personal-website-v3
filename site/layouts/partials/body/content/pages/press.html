@@ -1,10 +1,10 @@
 <!-- Variables -->
 {{ $press := ($.Site.Taxonomies.categories.press).Pages }}
 <!-- Press -->
-<h2>📰️ {{ len $press }} press mentions</h2>
+<h2>{{ len $press }} press mentions</h2>
 <div class="columns is-multiline">
   {{ range $press }} {{ if .Date.Before now }}
-  <div class="column is-one-third">
+  <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
     {{ partial "body/content/card/plain-image.html" . }}
   </div>
   {{ end }} {{ end }}

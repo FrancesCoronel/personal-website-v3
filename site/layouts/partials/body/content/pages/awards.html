@@ -1,10 +1,10 @@
 <!-- Variables -->
 {{ $awards := ($.Site.Taxonomies.categories.award).Pages }}
 <!-- Awards -->
-<h2>🏆 {{ len $awards}} awards received</h2>
+<h2>{{ len $awards}} awards received</h2>
 <div class="columns is-multiline">
   {{ range $awards }} {{ if .Date.Before now }}
-  <div class="column is-one-third">
+  <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
     {{ partial "body/content/card/plain-image.html" . }}
   </div>
   {{ end }} {{ end }}

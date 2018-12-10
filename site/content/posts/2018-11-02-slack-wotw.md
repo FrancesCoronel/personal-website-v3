@@ -49,3 +49,6 @@ Essentially, this is a venue to recognize work that is:
 
 "These criteria are, necessarily, a matter of opinion. Smart, well-intentioned people will disagree about how any collection of work ranks under this rubric. We're proceeding anyway, in the belief that doing something imperfect-yet-directionally-correct is better than failing to do anything for fear of imperfection."
 
+> Update December 8th, 2018
+
+I still have the trophy since it seems a lot of employees didn't actually like how WOTW was given out. I may be the last WOTW awardee at Slack. RIP. ☠️

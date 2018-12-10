@@ -9,7 +9,7 @@
 <h2 class="mt-1">📢 {{ len $talks }} Talks</h2>
 <div class="columns is-multiline">
   {{ range $talks.ByDate.Reverse }}
-  <div class="column is-one-third">
+  <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
     {{ partial "body/content/card/_index.html" . }}
   </div>
   {{ end }}
@@ -19,7 +19,7 @@
 <h2>⏳️ {{ len $upcomingEvents }} Upcoming Events</h2>
 <div class="columns is-multiline">
   {{ range $upcomingEvents.ByDate.Reverse }}
-  <div class="column is-one-third">
+  <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
     {{ partial "body/content/card/plain-image.html" . }}
   </div>
   {{ end }}
@@ -29,7 +29,7 @@
 <h2>⌛️ {{ len $pastEvents }} Past Events</h2>
 <div class="columns is-multiline">
   {{ range $pastEvents.ByDate.Reverse }}
-  <div class="column is-one-third">
+  <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
     {{ partial "body/content/card/plain-image.html" . }}
   </div>
   {{ end }}

@@ -36,6 +36,19 @@ gulp.task("sass", () => {
     .pipe(browserSync.stream());
 });
 
+gulp.task("sass-local", () => {
+  return gulp
+    .src(["./src/sass/styles.scss", "./src/sass/search.scss"])
+    .pipe(
+      sass({
+        outputStyle: "compressed",
+      }).on("error", sass.logError)
+    )
+    .pipe(gulp.dest("./dist/assets/css"))
+    .pipe(browserSync.stream());
+});
+
+
 // Move images
 // Leave it to GitHub bot to compress
 gulp.task("img", () => {
@@ -98,7 +111,7 @@ const runServer = (options) => {
     }
   });
   gulp.watch("./src/js/**/*.js", gulp.series("js"));
-  gulp.watch("./src/sass/**/*.scss", gulp.series("sass"));
+  gulp.watch("./src/sass/**/*.scss", gulp.series("sass-local"));
   gulp.watch("./src/img/**/*", gulp.series("img"));
   gulp.watch("./site/**/*", gulp.series(options));
 };
@@ -130,7 +143,7 @@ gulp.task("hugo-dev", (done) => buildSite(done, [], "dev"));
 gulp.task("hugo-preview", (done) => buildSite(done, hugoArgsPreview, "dev"));
 
 // Server tasks
-gulp.task("server", gulp.series("hugo-dev", "sass", "img", "js", (done) => {
+gulp.task("server", gulp.series("hugo-dev", "sass-local", "img", "js", (done) => {
   runServer("hugo-dev");
   done();
 }));
@@ -140,11 +153,11 @@ gulp.task("server-prod", gulp.series("hugo", "img", "js", "sass", "optimize", (d
   done();
 }));
 
-gulp.task("server-preview", gulp.series("hugo-preview", "sass", "img", "js", (done) => {
+gulp.task("server-preview", gulp.series("hugo-preview", "sass-local", "img", "js", (done) => {
   runServer("hugo-preview");
   done();
 }));
 
 // Production tasks
 gulp.task("build", gulp.series("clean", "hugo", "img", "js", "sass", "optimize"));
-gulp.task("build-dev", gulp.series("clean", "hugo-dev", "sass", "img", "js"));
+gulp.task("build-dev", gulp.series("clean", "hugo-dev", "sass-local", "img", "js"));

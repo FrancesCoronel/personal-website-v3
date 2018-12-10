@@ -15,17 +15,9 @@ aliases:
   - /biography/
 ---
 
-## Overview <!-- omit in toc -->
-
-- [Blurb](#blurb)
-- [Bio](#bio)
-- [Headshot](#headshot)
-- [Life Timeline](#life-timeline)
-- [Random Fun Facts](#random-fun-facts)
-
 ## Blurb
 
-I like to dabble with things that ~~shouldn't~~ ought to be dabbled with. <!-- omit in toc -->
+I like to dabble with things that ~~shouldn't~~ ought to be dabbled with.
 
 Well, at least... that's my slogan.
 
@@ -104,4 +96,3 @@ No particular reason why, I just think they're yummy. 🍫🍓
 I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the Egyptian queen) a crap ton.
 
 ![Nefy](https://i.imgur.com/cwXno9D.jpg)
-

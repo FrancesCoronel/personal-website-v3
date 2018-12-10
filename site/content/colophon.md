@@ -19,29 +19,30 @@ Website design, development, and copy by Frances Coronel.
 
 <!-- TOC -->
 
-- [The Beginnings](#the-beginnings)
-- [What I Use](#what-i-use)
-- [Source Code](#source-code)
-- [Domains](#domains)
-  - [Domain Searching](#domain-searching)
-    - [Best Candidates](#best-candidates)
-    - [Candidates](#candidates)
-    - [Available](#available)
-- [Tools](#tools)
-- [Testing](#testing)
-  - [Codacy](#codacy)
-  - [Codebeat](#codebeat)
-  - [CodeFactor](#codefactor)
-  - [FOSSA](#fossa)
-  - [Lighthouse](#lighthouse)
-- [Branding](#branding)
-  - [Colors](#colors)
-  - [Fonts](#fonts)
-- [Formatting](#formatting)
-  - [Third level](#third-level)
-    - [Fourth level](#fourth-level)
-      - [Fifth level](#fifth-level)
-        - [Sixth level](#sixth-level)
+- [Copyright ∞ FVCproductions](#copyright-%E2%88%9E-fvcproductions)
+  - [The Beginnings](#the-beginnings)
+  - [What I Use](#what-i-use)
+  - [Source Code](#source-code)
+  - [Domains](#domains)
+    - [Domain Searching](#domain-searching)
+      - [Best Candidates](#best-candidates)
+      - [Candidates](#candidates)
+      - [Available](#available)
+  - [Tools](#tools)
+  - [Testing](#testing)
+    - [Codacy](#codacy)
+    - [Codebeat](#codebeat)
+    - [CodeFactor](#codefactor)
+    - [FOSSA](#fossa)
+    - [Lighthouse](#lighthouse)
+  - [Branding](#branding)
+    - [Colors](#colors)
+    - [Fonts](#fonts)
+  - [Formatting](#formatting)
+    - [Third level](#third-level)
+      - [Fourth level](#fourth-level)
+        - [Fifth level](#fifth-level)
+          - [Sixth level](#sixth-level)
 
 <!-- /TOC -->
 
@@ -72,10 +73,11 @@ The main URL for this website is https://www.fvcproductions.com and there are se
 - https://latinahacker.com
 - https://latinaprogrammer.com
 - https://latinatechnologist.com
+- https://techqueenspod.com (redirects to podcast page)
 
 ### Domain Searching
 
-I'm also looking into these domains:
+I'm also looking into these domains...
 
 #### Best Candidates
 
@@ -107,6 +109,8 @@ I'm also looking into these domains:
 - https://latinagenius.com
 - https://latinaguru.com
 - https://latinageek.com
+- https://frances.com
+- https://francescoronel.com
 
 #### Available
 
@@ -126,7 +130,7 @@ I'm also looking into these domains:
 - [Disqus](https://disqus.com/) (Comments)
 - [Embedly](https://embed.ly/) (Rich Embeds)
 - [Twemoji](https://github.com/twitter/twemoji) (Emoji 😍)
-- [ZenHub](https://github.com/fvcproductions/fvcproductions.github.io#boards?repos=25947059)(Project Management)
+- [GitHub Issues](https://github.com/fvcproductions/fvcproductions.github.io/issues)(Project Management)
 
 ## Testing
 

@@ -158,7 +158,7 @@ You'll never know if you don't go
 You'll never shine if you don't glow
 ```
 
-## Home
+## Home - Edward Sharpe
 
 ```text
 Alabama, Arkansas I do love my ma and pa Not that way that I do love you

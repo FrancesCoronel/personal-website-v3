@@ -1,8 +1,8 @@
 {{ $reviews := ($.Site.Taxonomies.categories.review.Pages) }}
-<h2>✅ {{ len $reviews }} reviews given</h2>
+<h2>{{ len $reviews }} reviews given</h2>
 <div class="columns is-multiline">
   {{ range $reviews }} {{ if .Date.Before now }}
-  <div class="column is-one-third">
+  <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
     {{ partial "body/content/card/_index.html" . }}
   </div>
   {{ end }} {{ end }}

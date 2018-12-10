@@ -1,6 +1,6 @@
 <div class="content">
   <!-- Title -->
-  <h4>{{ if .Date.After now }}UPCOMING: {{ end }}{{ .Title }}{{ if .Params.link }} ↗️{{ end }}</h4>
+  <h4>{{ if not (.Params.hideUpcomingText) }}{{ if .Date.After now }}UPCOMING: {{ end }}{{ end }}{{ .Title }}{{ if .Params.link }} ↗️{{ end }}</h4>
   <!-- Description -->
   <p class="has-text-grey-dark">{{ if .Description }}{{ .Description | truncate 100 | safeHTML }}{{ else }}{{ .Summary | truncate 100 | safeHTML }}{{ end }}</p>
   <!-- Date -->

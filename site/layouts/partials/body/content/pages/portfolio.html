@@ -1,8 +1,8 @@
 {{ $portfolio := ($.Site.Taxonomies.categories.portfolio.Pages) }}
-<h2>🛠️ {{ len $portfolio }} projects worked on</h2>
+<h2>{{ len $portfolio }} projects worked on</h2>
 <div class="columns is-multiline">
   {{ range $portfolio }} {{ if .Date.Before now }}
-  <div class="column is-one-third">
+  <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
     {{ partial "body/content/card/plain-image.html" . }}
   </div>
   {{ end }} {{ end }}

@@ -1,8 +1,8 @@
 {{ $programs := ($.Site.Taxonomies.categories.program).Pages }}
-<h2>🌱 {{ len $programs }} programs attended</h2>
+<h2>{{ len $programs }} programs attended</h2>
 <div class="columns is-multiline">
   {{ range $programs }}
-  <div class="column is-one-third">
+  <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
     {{ partial "body/content/card/plain-image.html" . }}
   </div>
   {{ end }}

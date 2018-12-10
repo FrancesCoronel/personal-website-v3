@@ -30,3 +30,15 @@ tags:
 
 <blockquote class="embedly-card"><h4><a href="https://youtu.be/FqUENekusFg?t=79">Your SIGNAL to Build</a></h4><p>It's not about APIs. It's not about bots and telephones. It's about making technology do things it was never supposed to do. It's about making magic, technical. And then making it feel magical again. This is about you. This is your SIGNAL to build.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+---
+
+I build to bring people together.
+
+I build to make your working life easier.
+
+I build to elevate others.
+
+I build to eat the world.
+
+I build to help you build.

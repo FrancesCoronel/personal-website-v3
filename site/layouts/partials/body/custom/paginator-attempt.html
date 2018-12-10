@@ -1,6 +1,6 @@
 <div class="columns is-multiline">
   {{ $paginator := .Paginate (where $.Site.RegularPages "Params.categories" "speaking" ) 5 }} {{ range $paginator.Pages.ByDate.Reverse }}
-  <div class="column is-one-third">
+  <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
     {{ partial "body/content/card/_index.html" . }}
   </div>
   {{ end }}

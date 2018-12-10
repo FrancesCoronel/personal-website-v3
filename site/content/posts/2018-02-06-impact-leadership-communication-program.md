@@ -47,7 +47,7 @@ Day 1: This is a video feedback program, so we start with an assessment of your 
 
 Day 2: The second day is dedicated to applying the principles you learned to communicate your specific content. When your business content is sticky, and listener focused, you can accelerate the results you want. One of the most successful ways to make communication more memorable is by using storytelling principles. Borrowing from the world of cinema, we teach you how to structure an oral story to create vivid, memorable scenes. The final filming demonstrates the difference a well coached, highly trained communicator can achieve: Riveting content with powerful delivery.
 
-2-Day Impact Leadership Communication is $14,000 for up to 10 individuals; plus facilitator travel expenses.
+2-Day Impact Leadership Communication is \$14,000 for up to 10 individuals; plus facilitator travel expenses.
 
 This program is tailored to meet each client's unique needs.
 

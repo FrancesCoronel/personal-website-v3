@@ -37,5 +37,9 @@
         @extend %material-shadow;
       }
     }
+
+    a:hover {
+      border-bottom: none;
+    }
   }
 }

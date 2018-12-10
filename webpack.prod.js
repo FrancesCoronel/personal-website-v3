@@ -51,8 +51,11 @@ module.exports = {
     new BrotliPlugin(),
     new CompressionPlugin(),
     new WorkboxPlugin.GenerateSW({
+      navigateFallback: "index.html",
       cacheId: "fvcproductions",
       swDest: "sw.js",
+      globDirectory: ".",
+      globPatterns: ["**/*.{js,css,html,png,svg,jpg}"],
       offlineGoogleAnalytics: true,
       runtimeCaching: [{
         urlPattern: /\.(?:html)$/,

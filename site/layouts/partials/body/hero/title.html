@@ -1,10 +1,13 @@
-<div class="hero is-medium is-primary mb-1">
+{{ $listPages := .Data.Pages }}
+<section class="hero">
   <div class="hero-body">
     <div class="container">
-      <!-- Title -->
       <h1 class="title">
         {{ .Title }}
       </h1>
+      <h2 class="subtitle">
+        {{ len $listPages }}{{ if gt (len $listPages) 1 }} items{{ else }} item{{ end }}
+      </h2>
     </div>
   </div>
-</div>
+</section>

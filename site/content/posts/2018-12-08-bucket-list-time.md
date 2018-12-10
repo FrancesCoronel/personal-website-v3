@@ -1,0 +1,41 @@
+---
+title: Bucket List Time
+date: 2018-12-08
+description: Here are some things I'd like to accomplish by the end of 2019.
+image: https://i.imgur.com/Obq4gLY.jpg
+categories:
+  - blog
+tags:
+  - bucket list
+---
+
+Here are some things I'd like to accomplish by the end of 2019.
+
+A lot of these are already planned but some are stretch goals!
+
+Let's see what happens - but I'll remind myself in Todoist to look at this post come December 8th, 2019.
+
+1. Become a senior software engineer
+2. Start a podcast (#TechQueens)
+3. Read 30+ books
+4. Talk about technology or my career at 15+ events (conferences/Meetups/podcasts/etc.)
+5. Travel to Hawaii and another place I've never been (preferably outside the US)
+6. Write 5+ articles that get published outside of my personal website (Medium publication, external blog, etc.)
+
+> These are more long-term or broad goals.
+
+1. Be loved and love others 😊
+2. Give a TED talk
+3. Write a book
+4. Become a leader at a tech company (VP Eng, Chief Architect, CTO, CEO, etc.)
+5. Be on the radio
+6. Donate or raise \$10K for charity
+7. Be involved in the production of a movie I'd actually watch and enjoy
+8. Record a song
+9. Live in Peru for 6+ months
+10. Have the ability to retire at 35 years old but then decide not to because I'd probably get bored
+11. Be known as an industry wide expert in something
+12. Attend a masquerade ball
+13. Own a doggo
+14. Try out being a teacher
+15. Lead by example and influence a generation of minority women to break into and succeed in tech

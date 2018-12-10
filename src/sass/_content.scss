@@ -41,7 +41,13 @@
     border-bottom-color: $link;
 
     img {
+      @extend %image-shadow;
       display: inline-block;
+
+      &.emoji {
+        -webkit-box-shadow: none;
+        box-shadow: none;
+      }
     }
 
     &:hover {
@@ -51,20 +57,12 @@
 
       img {
         @extend %material-shadow;
+        border-bottom: none;
 
         &.emoji {
           -webkit-box-shadow: none;
           box-shadow: none;
         }
-      }
-    }
-
-    img {
-      @extend %image-shadow;
-
-      &.emoji {
-        -webkit-box-shadow: none;
-        box-shadow: none;
       }
     }
 

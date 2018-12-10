@@ -1,34 +1,22 @@
 ---
-title: Podcast - Tech Queens
+title: Tech Queens
 display: Podcast
 description: "Stories and advice shared by women of color in tech. #TechQueens 👑"
 image: "/assets/img/podcast/tech-queens-banner.png"
-noTimeEstimate: true
 noComments: true
 navbar: true
+noTimeEstimate: true
+hideUpcomingText: true
 url: /podcast/
 layout: "podcast"
+tags:
+  - tech queens
+  - women of color in tech
 aliases:
   - /tech-queens/
   - /youtube-series/
   - /podcast-series/
-tags:
-  - TechQueens
-  - women of color in tech
 ---
-
-# Overview <!-- omit in toc -->
-
-- [Why?](#why)
-- [Who?](#who)
-  - [The Host](#the-host)
-  - [Want to be on the podcast?](#want-to-be-on-the-podcast)
-- [When?](#when)
-- [Where?](#where)
-- [What?](#what)
-  - [Mini Takeaways](#mini-takeaways)
-- [Kudos](#kudos)
-  - [Music](#music)
 
 ## Why?
 
@@ -40,7 +28,7 @@ Introducing **Tech Queens**, a podcast that focuses on stories and advice by wom
 
 `#TechQueens`
 
-![#TechQueens](/assets/img/podcast/tech-queens-banner.png)
+![TechQueens](/assets/img/podcast/tech-queens-banner.png)
 
 ## Who?
 
@@ -108,7 +96,7 @@ The format for each 1 hour session will look something like this:
 - What's your story?
 - As a minority women in tech, what challenges or obstacles have you faced within the tech industry?
 - What groups, strategies or tools have you used to overcome those obstacles?
-- If you were a white man in tech, what do you think would be easier for you to deal with?
+- If you were a white man in tech, what do you think would be easier for you to deal with (if anything)?
 - If you could give any advice to your younger self as you were starting out, what would it be?
 - What do you think can be done to create a safer space for us?
 

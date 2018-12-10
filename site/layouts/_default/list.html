@@ -2,15 +2,12 @@
 <!-- Pages -->
 {{ $listPages := .Data.Pages }}
 <!-- Hero -->
-{{ partial "body/hero/title.html" . }}
+{{ partial "body/hero/_index.html" . }}
 <!-- Page -->
-<div class="section pt-0">
+<div class="section">
   <div class="container">
     <!-- Content -->
     <div class="content table-border-none">
-      <blockquote>
-        📄 <strong>{{ len $listPages }}{{ if gt (len $listPages) 1 }} pages{{ else }} page{{ end }}</strong>
-      </blockquote>
       <!-- Range -->
       {{ range $listPages.GroupByDate "2006" }}{{ partial "body/content/list/_index.html" . }}{{ end }}
       <!-- End Message -->
