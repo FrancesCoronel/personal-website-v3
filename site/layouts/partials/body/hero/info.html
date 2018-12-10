@@ -1,49 +1,51 @@
-<!-- Content Info -->
-{{ if or (.Description) (not .PublishDate.IsZero) (not .Params.noTimeEstimate) (.Params.location) (.Params.slides) (.Params.video) (.Params.recording) (.Params.link) }}
 <!-- Description -->
 {{ if .Description }}
 <h2 class="subtitle has-text-grey-dark mt-0 is-size-4">{{ .Description }}</h2>
 {{ end }}
-<!-- Date -->
-{{- if not .PublishDate.IsZero }}
-<p>
-  <span class="mr-1">📅️</span>{{ if in .Params.categories "talk" }}First presented {{ end }}{{ dateFormat "Monday - January 2, 2006" .Date }}
-</p>
-{{- end }}
-<!-- Reading Time & Word Count -->
-{{- if not .Params.noTimeEstimate }} {{ if .ReadingTime }} {{ if .WordCount }}
-<p>
-  <span class="mr-1">⏰</span>{{ .ReadingTime }} min read ∙ {{ .WordCount }} words
-</p>
-{{ end }} {{ end }} {{- end }}
-<!-- Location -->
-{{ if .Params.location }}
-<p>
-  <span class="mr-1">🗺️</span>{{ .Params.location }}
-</p>
-{{ end }}
-<!-- Slides -->
-{{ if .Params.slides }}
-<p>
-  <span class="mr-1">📎️</span><a href="{{ .Params.slides }}" target="_blank" rel="noopener">Slides</a>
-</p>
-{{ end }}
-<!-- Video -->
-{{ if .Params.video }}
-<p>
-  <span class="mr-1">🎥 </span><a href="{{ .Params.video }}" target="_blank" rel="noopener">Video</a>
-</p>
-{{ end }}
-<!-- Recording -->
-{{ if .Params.recording }}
-<p>
-  <span class="mr-1">🎙️</span><a href="{{ .Params.recording }}" target="_blank" rel="noopener">Recording</a>
-</p>
-{{ end }}
-<!-- External Link -->
-{{ if .Params.link }}
-<p>
-  <span class="mr-1">🌐 </span><a href="{{ .Params.link }}" target="_blank" rel="noopener">{{ .Params.link }}</a>
-</p>
-{{ end }}
+<!-- Content Info -->
+{{ if or (not .PublishDate.IsZero) (not .Params.noTimeEstimate) (.Params.location) (.Params.slides) (.Params.video) (.Params.recording) (.Params.link) }}
+<div class="content-info mt-2">
+	<!-- Date -->
+	{{- if not .PublishDate.IsZero }}
+	<p>
+		<span class="mr-1">📅️</span>{{ if in .Params.categories "talk" }}First presented {{ end }}{{ dateFormat "Monday - January 2, 2006" .Date }}
+	</p>
+	{{- end }}
+	<!-- Reading Time & Word Count -->
+	{{- if not .Params.noTimeEstimate }} {{ if .ReadingTime }} {{ if .WordCount }}
+	<p>
+		<span class="mr-1">⏰</span>{{ .ReadingTime }} min read ∙ {{ .WordCount }} words
+	</p>
+	{{ end }} {{ end }} {{- end }}
+	<!-- Location -->
+	{{ if .Params.location }}
+	<p>
+		<span class="mr-1">🗺️</span>{{ .Params.location }}
+	</p>
+	{{ end }}
+	<!-- Slides -->
+	{{ if .Params.slides }}
+	<p>
+		<span class="mr-1">📎️</span><a href="{{ .Params.slides }}" target="_blank" rel="noopener">Slides</a>
+	</p>
+	{{ end }}
+	<!-- Video -->
+	{{ if .Params.video }}
+	<p>
+		<span class="mr-1">🎥 </span><a href="{{ .Params.video }}" target="_blank" rel="noopener">Video</a>
+	</p>
+	{{ end }}
+	<!-- Recording -->
+	{{ if .Params.recording }}
+	<p>
+		<span class="mr-1">🎙️</span><a href="{{ .Params.recording }}" target="_blank" rel="noopener">Recording</a>
+	</p>
+	{{ end }}
+	<!-- External Link -->
+	{{ if .Params.link }}
+	<p>
+		<span class="mr-1">🌐 </span><a href="{{ .Params.link }}" target="_blank" rel="noopener">{{ .Params.link }}</a>
+	</p>
+	{{ end }}
+</div>
 {{ end }}
