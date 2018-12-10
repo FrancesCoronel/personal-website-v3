@@ -5,6 +5,11 @@ admin_path: site/.forestry
 webhook_url: 
 sections:
 - type: directory
+  path: site/content/podcast
+  label: Podcast
+  create: all
+  match: "**/*"
+- type: directory
   path: site/content/posts
   label: Posts
   create: all
