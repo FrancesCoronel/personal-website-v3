@@ -82,7 +82,7 @@ gulp.task("js", (done) => {
 });
 
 // Minify HTML
-gulp.task("optimize", (done) => {
+gulp.task("html-minify", () => {
   return gulp.src("./dist/**/*.html")
     .pipe(htmlmin({
       collapseBooleanAttributes: true,
@@ -148,7 +148,7 @@ gulp.task("server", gulp.series("hugo-dev", "sass-local", "img", "js", (done) =>
   done();
 }));
 
-gulp.task("server-prod", gulp.series("hugo", "img", "js", "sass", "optimize", (done) => {
+gulp.task("server-prod", gulp.series("hugo", "img", "js", "sass", "html-minify", (done) => {
   runServer("hugo");
   done();
 }));
@@ -159,5 +159,5 @@ gulp.task("server-preview", gulp.series("hugo-preview", "sass-local", "img", "js
 }));
 
 // Production tasks
-gulp.task("build", gulp.series("clean", "hugo", "img", "js", "sass", "optimize"));
+gulp.task("build", gulp.series("clean", "hugo", "img", "js", "sass", "html-minify"));
 gulp.task("build-dev", gulp.series("clean", "hugo-dev", "sass-local", "img", "js"));

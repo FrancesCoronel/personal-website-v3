@@ -54,15 +54,26 @@ module.exports = {
       cacheId: "fvcproductions",
       swDest: "sw.js",
       globDirectory: ".",
-      globPatterns: ["**/*.{js,css,html,png,svg,jpg}"],
+      globPatterns: ["./dist/index.html", "./dist/404.html", "./dist/offline/index.html", "./dist/**/*.{js,css,png,svg,jpg,jpeg}"],
       offlineGoogleAnalytics: true,
+      clientsClaim: true,
+      skipWaiting: true,
       runtimeCaching: [{
         urlPattern: /\.(?:html)$/,
         handler: "networkFirst",
+        options: {
+          cacheName: "posts-cache",
+          expiration: {
+            maxEntries: 50
+          },
+        }
       },
       {
-        urlPattern: /\.(?:css|png|gif|jpg|svg|xml|js|ico|json)$/,
-        handler: "staleWhileRevalidate",
+        urlPattern: /\.(?:png|gif|jpg|svg|ico|jpeg|css|js)$/,
+        handler: "cacheFirst",
+        options: {
+          cacheName: "assets-cache"
+        }
       },
       {
         urlPattern: new RegExp("https://twemoji.maxcdn.com"),
