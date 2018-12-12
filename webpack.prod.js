@@ -53,8 +53,8 @@ module.exports = {
     new WorkboxPlugin.GenerateSW({
       cacheId: "fvcproductions",
       swDest: "sw.js",
-      globDirectory: ".",
-      globPatterns: ["./dist/index.html", "./dist/404.html", "./dist/offline/index.html", "./dist/**/*.{js,css,png,svg,jpg,jpeg}"],
+      globDirectory: "./dist",
+      globPatterns: ["index.html", "404.html", "offline/index.html", "**/*.{js,css,png,svg,jpg,jpeg}"],
       offlineGoogleAnalytics: true,
       clientsClaim: true,
       skipWaiting: true,
