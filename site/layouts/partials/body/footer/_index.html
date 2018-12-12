@@ -1,29 +1,30 @@
 <footer class="footer">
-  <div class="container is-fluid has-text-centered">
+  <div class="container has-text-centered">
     <div class="content">
-      <div class="mt-1 mb-2 navigation" aria-label="Footer Navigation">
-        {{ $parentPages := where .Site.RegularPages "Type" "page" }}
-        {{ $footerPages := $parentPages | union (.Site.Sections) }}
-        <ul class="mt-1">
+      <section class="section">
+        <nav class="level">
+          {{ $parentPages := where .Site.RegularPages "Type" "page" }}
+          {{ $footerPages := $parentPages | union (.Site.Sections) }}
+
           {{ range $footerPages.ByTitle }}
           {{ if .Params.footer }}
-          <li class="menu-item pb-sm">
+          <div class="level-item has-text-centered">
+
             <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}">
               {{ if .Params.display }}{{ .Params.display }}{{ else }}{{ .Title }}{{ end }}
             </a>
-          </li>
+          </div> {{ end }}
           {{ end }}
-          {{ end }}
-        </ul>
-      </div>
-      {{ partial "body/footer/icons.html" . }}
+        </nav>
+      </section>
+      <section class="section">
+        {{ partial "body/footer/icons.html" . }}
+      </section>
       <!-- Copyright -->
-      <div class="mt-2 mb-1">
-        <p>
-          ©️
-          <a href="/" target="_blank" rel="noopener" title="{{ .Site.Title }}">{{ .Site.Title }}</a> {{ with .Site.Params.year }} {{ . }} {{ end }} to {{ now.Year }}
+      <section class="section">
+        <p>©️ <a href="/" target="_blank" rel="noopener" title="{{ .Site.Title }}">{{ .Site.Title }}</a>{{ with .Site.Params.year }} {{ . }} {{ end }} to {{ now.Year }}
         </p>
-      </div>
+      </section>
     </div>
   </div>
 </footer>

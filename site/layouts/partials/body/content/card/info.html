@@ -2,7 +2,7 @@
   <!-- Title -->
   <h4>{{ if not (.Params.hideUpcomingText) }}{{ if .Date.After now }}UPCOMING: {{ end }}{{ end }}{{ .Title }}{{ if .Params.link }} ↗️{{ end }}</h4>
   <!-- Description -->
-  <p class="has-text-grey-dark">{{ if .Description }}{{ .Description | truncate 100 | safeHTML }}{{ else }}{{ .Summary | truncate 100 | safeHTML }}{{ end }}</p>
+  <p class="has-text-grey-dark">{{ if .Description }}{{ .Description | truncate 150 | safeHTML }}{{ else }}{{ .Summary | truncate 150 | safeHTML }}{{ end }}</p>
   <!-- Date -->
   {{- if not .PublishDate.IsZero }}
   {{- if not (in .Params.categories "talk") }}

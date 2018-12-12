@@ -65,29 +65,31 @@
     }
 
 
-    a {
-      position: relative;
-      -webkit-transition: none;
-      -moz-transition: none;
-      transition: none;
-      display: block;
-      text-decoration: none;
 
-      .content & {
-        border-bottom: none !important;
-      }
+  }
 
-      &:hover,
-      &.active {
-        &:after {
-          border-bottom: 2px solid $primary;
-          content: "";
-          left: 50%;
-          margin-top: 5px;
-          position: absolute;
-          transform: translateX(-50%);
-          width: 100%;
-        }
+  a {
+    position: relative;
+    -webkit-transition: none;
+    -moz-transition: none;
+    transition: none;
+    display: block;
+    text-decoration: none;
+
+    .content & {
+      border-bottom: none !important;
+    }
+
+    &:hover,
+    &.active {
+      &:after {
+        border-bottom: 2px solid $primary;
+        content: "";
+        left: 50%;
+        margin-top: 5px;
+        position: absolute;
+        transform: translateX(-50%);
+        width: 100%;
       }
     }
   }

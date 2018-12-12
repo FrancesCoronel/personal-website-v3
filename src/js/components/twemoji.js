@@ -1,4 +1,4 @@
-// import twemoji from "twemoji";
+import twemoji from "twemoji";
 
 twemoji.parse(document.body, {
   folder: "svg",

@@ -17,10 +17,12 @@ const webpackDevConfig = require("./webpack.dev");
 const purifyCSS = require("gulp-purifycss");
 const htmlmin = require("gulp-htmlmin");
 
+const critical = require("critical").stream;
+
 // Compress SASS
 gulp.task("sass", () => {
   return gulp
-    .src(["./src/sass/styles.scss", "./src/sass/search.scss"])
+    .src(["./src/sass/styles.scss", "./src/sass/search.scss", "./src/sass/one-signal.scss"])
     .pipe(
       sass({
         outputStyle: "compressed",
@@ -103,6 +105,20 @@ gulp.task("clean", () => {
   return del(["dist"]);
 });
 
+// Generate & Inline Critical-path CSS
+gulp.task("critical", () => {
+  return gulp.src("./dist/*.html")
+    .pipe(critical({
+      base: "dist/",
+      inline: true,
+      css: ["./dist/assets/css/styles.css"]
+    }))
+    .on("error", (err) => {
+      log.error(err.message);
+    })
+    .pipe(gulp.dest("./dist"));
+});
+
 // Development server with browsersync
 const runServer = (options) => {
   browserSync.init({
@@ -148,7 +164,7 @@ gulp.task("server", gulp.series("hugo-dev", "sass-local", "img", "js", (done) =>
   done();
 }));
 
-gulp.task("server-prod", gulp.series("hugo", "img", "js", "sass", "html-minify", (done) => {
+gulp.task("server-prod", gulp.series("hugo", "img", "js", "sass", "html-minify", "critical", (done) => {
   runServer("hugo");
   done();
 }));
@@ -159,5 +175,5 @@ gulp.task("server-preview", gulp.series("hugo-preview", "sass-local", "img", "js
 }));
 
 // Production tasks
-gulp.task("build", gulp.series("clean", "hugo", "img", "js", "sass", "html-minify"));
+gulp.task("build", gulp.series("clean", "hugo", "img", "js", "sass", "html-minify", "critical"));
 gulp.task("build-dev", gulp.series("clean", "hugo-dev", "sass-local", "img", "js"));
