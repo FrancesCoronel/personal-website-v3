@@ -164,7 +164,7 @@ gulp.task("server", gulp.series("hugo-dev", "sass-local", "img", "js", (done) =>
   done();
 }));
 
-gulp.task("server-prod", gulp.series("hugo", "img", "js", "sass", "html-minify", "critical", (done) => {
+gulp.task("server-prod", gulp.series("hugo", "img", "js", "sass", "html-minify", (done) => {
   runServer("hugo");
   done();
 }));
