@@ -175,5 +175,5 @@ gulp.task("server-preview", gulp.series("hugo-preview", "sass-local", "img", "js
 }));
 
 // Production tasks
-gulp.task("build", gulp.series("clean", "hugo", "img", "js", "sass", "html-minify", "critical"));
+gulp.task("build", gulp.series("clean", "hugo", "img", "js", "sass", "html-minify"));
 gulp.task("build-dev", gulp.series("clean", "hugo-dev", "sass-local", "img", "js"));
