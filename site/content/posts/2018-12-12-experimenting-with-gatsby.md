@@ -5,9 +5,9 @@ link: https://noltron000.netlify.com
 image: https://i.imgur.com/U3rzQWR.png
 date: 2018-12-12
 categories:
-	- portfolio
+  - portfolio
 tags:
-	- gatsby
+  - gatsby
 ---
 
 ![Blog Post Example](https://i.imgur.com/WmddLAx.png)
