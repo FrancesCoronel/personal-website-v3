@@ -1,7 +1,5 @@
 <!-- Description -->
-{{ if .Description }}
-<h2 class="subtitle has-text-grey-dark mt-0 is-size-4">{{ .Description }}</h2>
-{{ end }}
+{{ if .Description }}<h2 class="subtitle has-text-grey-dark mt-0 is-size-4 mb-sm">{{ .Description }}</h2>{{ end }}
 <!-- Content Info -->
 {{ if or (not .PublishDate.IsZero) (not .Params.noTimeEstimate) (.Params.location) (.Params.slides) (.Params.video) (.Params.recording) (.Params.link) }}
 <div class="content-info mt-1">

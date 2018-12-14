@@ -18,10 +18,6 @@
     <a href="https://pinterest.com/pin/create/bookmarklet/?media={{ .Params.image }}&url={{ .Permalink | safeURL }}&description={{ .Title }}" target="_blank" rel="noopener" class="fa-pinterest" aria-label="Share on Pinterest" title="Share on Pinterest">
       {{ partial "body/icons/pinterest.html" . }}
     </a>
-    <!-- Google+ -->
-    <a href="https://plus.google.com/share?url={{ .Permalink | safeURL }}" target="_blank" rel="noopener" class="fa-google-plus" aria-label="Share on Google+" title="Share on Google+">
-      {{ partial "body/icons/google-plus.html" . }}
-    </a>
     <!-- Reddit -->
     <a href="https://reddit.com/submit?url={{ .Permalink | safeURL }}&title={{ .Title }}" target="_blank" rel="noopener" class="fa-reddit" aria-label="Share on Reddit" title="Share on Reddit">
       {{ partial "body/icons/reddit.html" . }}
@@ -35,8 +31,8 @@
       {{ partial "body/icons/email.html" . }}
     </a>
     <!-- Print -->
-    <!-- <a href="javascript:window.print()" target="_blank" rel="noopener" class="fa-print" aria-label="Print this article" title="Print this article">
+    <a href="javascript:window.print()" target="_blank" rel="noopener" class="fa-print" aria-label="Print this article" title="Print this article">
       {{ partial "body/icons/print.html" . }}
-    </a> -->
+    </a>
   </div>
 </div>

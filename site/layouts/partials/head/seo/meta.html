@@ -1,18 +1,5 @@
-{{ $description := .Site.Params.Description | truncate 150 }}
-{{ $image := .Site.Params.og_image }}
-
-{{ if .Description }}
-{{ $description := .Description | truncate 150 }}
-{{ else if .IsPage }}
-{{ $description := .Summary | truncate 150 }}
-{{ end }}
-
-{{ if .Params.image }}
-{{ $image := .Params.image }}
-{{ end }}
-
-<meta itemprop="description" content="{{ $description }}">
-<meta itemprop="image" content="{{ $image }}">
+<meta itemprop="description" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.Description | truncate 150 }}{{ end }}">
+<meta itemprop="image" content="{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
 <meta itemprop="name" content="{{ .Title }}">
 <meta itemprop="wordCount" content="{{ .WordCount }}">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -20,25 +7,25 @@
 <meta name="apple-mobile-web-app-title" content="{{ .Site.Title }}">
 <meta name="application-name" content="{{ .Site.Title }}">
 <meta name="DC.creator" content="{{ .Site.Author.name }}">
-<meta name="DC.description" content="{{ $description }}">
+<meta name="DC.description" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.Description | truncate 150 }}{{ end }}">
 <meta name="DC.language" content="{{ .Site.Params.DefaultContentLanguage }}">
 <meta name="DC.publisher" content="{{ .Site.Author.name }}">
 <meta name="DC.title" content="{{ .Title }}">
-<meta name="description" content="{{ $description }}">
+<meta name="description" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.Description | truncate 150 }}{{ end }}">
 <meta name="google-site-verification" content="biBOb6vq_csqy61DeBLw8DvAbCDUp5UsG8Vnpgm8qu4">
 <meta name="HandheldFriendly" content="True">
-<meta name="image" content="{{ $image }}">
+<meta name="image" content="{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="MobileOptimized" content="320">
-<meta name="msapplication-tooltip" content="{{ $description }}">
+<meta name="msapplication-tooltip" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.Description | truncate 150 }}{{ end }}">
 <meta name="msapplication-window" content="width=device-width;height=device-height">
 <meta name="p:domain_verify" content="361a8bb60cdc3caa5f871d536f9669c8">
 <meta name="robots" content="index, follow">
 <meta name="title" content="{{ .Title }}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:creator" content="@{{ .Site.Social.twitter }}">
-<meta name="twitter:description" content="{{ $description }}">
-<meta name="twitter:image:src" content="{{ $image }}">
+<meta name="twitter:description" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.Description | truncate 150 }}{{ end }}">
+<meta name="twitter:image:src" content="{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
 <meta name="twitter:site" content="@{{ .Site.Social.twitter }}">
 <meta name="twitter:text:title" content="{{ .Title }}">
 <meta name="twitter:title" content="{{ .Title }}">
@@ -46,10 +33,10 @@
 <meta property="article:author" content="https://www.facebook.com/{{ .Site.Social.facebook }}">
 <meta property="article:publisher" content="https://www.facebook.com/{{ .Site.Social.facebook }}">
 <meta property="article:section" content="{{ .Section }}">
-<meta property="dcterms:description" content="{{ $description }}">
+<meta property="dcterms:description" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.Description | truncate 150 }}{{ end }}">
 <meta property="dcterms:title" content="{{ .Title }}">
-<meta property="og:description" content="{{ $description }}">
-<meta property="og:image" content="{{ $image }}">
+<meta property="og:description" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.Description | truncate 150 }}{{ end }}">
+<meta property="og:image" content="{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
 <meta property="og:locale" content="{{ .Site.Params.locale }}">
 <meta property="og:site_name" content="{{ .Site.Params.title }}">
 <meta property="og:title" content="{{ .Title }}">

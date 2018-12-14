@@ -25,7 +25,6 @@
         {{ if .Site.Social.facebook }}"https://www.facebook.com/{{ .Site.Social.facebook }}",{{ end }}
         {{ if .Site.Social.instagram }}"https://instagram.com/{{ .Site.Social.instagram }}",{{ end }}
         {{ if .Site.Social.linkedin}}"https://www.linkedin.com/{{ .Site.Social.linkedin}}",{{ end }}
-        {{ if .Site.Social.google_plus }}"https://plus.google.com/{{ .Site.Social.google_plus }}",{{ end }}
         {{ if .Site.Social.twitter }}"https://twitter.com/{{ .Site.Social.twitter }}",{{ end }}
         {{ if .Site.Social.youtube }}"https://youtube.com/{{ .Site.Social.youtube }}"{{ end }}
     ]
@@ -48,7 +47,7 @@
     "name":              "{{ .Title }}",
     "url":               "{{ .Permalink }}",
     "wordcount":         {{ .WordCount }},
-    "description":       "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
+    "description":       "{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.Description | truncate 150 }}{{ end }}",
     "mainEntityOfPage":  {
         "@type":         "WebPage",
         "@id":           "{{ .Permalink }}"

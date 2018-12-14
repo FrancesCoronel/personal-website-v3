@@ -1,4 +1,52 @@
 @media print {
+	html, body {
+  	font-size: $font-size-mobile;
+	}
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5 {
+		page-break-after: avoid;
+		break-after: avoid;
+		color: inherit !important;
+	}
+
+	table tr,
+	figure,
+	img {
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	img {
+		max-width: 80%;
+	}
+
+	// Display links for print
+	p a {
+		word-wrap: break-word;
+	}
+
+	p a:after {
+		content: " ("attr(href) ")";
+	}
+
+	// Don't show blank links
+	p a[href^="#"]:after,
+	p a[href^=""]:after {
+		display: none;
+	}
+
+	// Display external URLs for now, but let them wrap
+	p a[href^="http://"]:after,
+	a[href^="https://"]:after {
+		content: " ("attr(href) ")";
+		white-space: normal;
+		word-break: break-all;
+		font-size: .8rem;
+	}
 
   body,
   html,
@@ -19,18 +67,20 @@
   h5 code,
   h6 code {
     color: black;
-    padding-left: 0;
-    padding-right: 0;
-  }
+		padding: 0;
+		margin: 0;
+	}
+
+	a {
+		border-bottom: none;
+		&:after {
+			border-bottom: none;
+		}
+	}
 
   :link,
   :visited {
-    text-decoration: underline;
-  }
-
-  body {
-    padding: 0;
-    margin: 0;
+    text-decoration: none;
   }
 
   nav,
@@ -42,7 +92,9 @@
   .column,
   .return-to-top,
   .pagination,
-  .section-footer {
+  .section-footer,
+	.fa-arrow-up,
+	hr.pt-sm.mt-2 {
     display: none;
-  }
+	}
 }
