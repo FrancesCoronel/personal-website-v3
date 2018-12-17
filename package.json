@@ -15,7 +15,7 @@
   "author": "Frances Coronel",
   "license": "MIT",
   "dependencies": {
-    "autoprefixer": "9.4.2",
+    "autoprefixer": "9.4.3",
     "babel-eslint": "10.0.1",
     "babel-loader": "7.1.5",
     "babel-plugin-syntax-object-rest-spread": "6.13.0",
