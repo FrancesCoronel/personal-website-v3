@@ -65,12 +65,12 @@ If none of the above options seemed appropriate for you, feel free to go old sch
 Please note that depending on the contact reason, it may take longer for me to get back to you.
 
 <div class="contact-form">
-  <form method="POST" action="https://formspree.io/hello@fvcproductions.com">
+  <form name="contact" method="POST" data-netlify="true">
     <input type="hidden" name="_subject" value="FVCproductions - New Contact Message">
     <div class="field">
       <label class="label">Name</label>
       <div class="control has-icons-left">
-        <input class="input" aria-label="Name" autocomplete="on" type="text" name="name" placeholder="Frances Coronel">
+        <input class="input" aria-label="Name" autocomplete="on" type="text" name="name" placeholder="Your full name">
         <span class="icon is-left">
           ✒️
         </span>
@@ -79,7 +79,7 @@ Please note that depending on the contact reason, it may take longer for me to g
     <div class="field">
       <label class="label">Email</label>
       <div class="control has-icons-left">
-        <input class="input" aria-label="Email" autocomplete="on" type="email" name="email" placeholder="hello@fvcproductions.com">
+        <input class="input" aria-label="Email" autocomplete="on" type="email" name="email" placeholder="Your email">
         <span class="icon is-left">
           ✉️
         </span>
@@ -88,9 +88,10 @@ Please note that depending on the contact reason, it may take longer for me to g
     <div class="field">
       <label class="label">Message</label>
       <div class="control">
-        <textarea class="textarea" aria-label="Message" spellcheck="true" rows="5" name="message" id="message" placeholder="I want to contact you about..."></textarea>
+        <textarea class="textarea" aria-label="Message" spellcheck="true" rows="5" name="message" id="message" placeholder="Your message"></textarea>
       </div>
     </div>
+    <div data-netlify-recaptcha="true"></div>
     <div class="field">
       <div class="control">
         <button type="submit" class="button is-link">Send message</button>
