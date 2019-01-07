@@ -1,7 +1,7 @@
 ---
-title:Subtitles - Cinderella
-date:2018-03-28
-description:Greek subtitles for Cinderella (1997).
+title: "Subtitles - Cinderella"
+date: 2018-03-28
+description: "Greek subtitles for Cinderella (1997)."
 ---
 
 1
