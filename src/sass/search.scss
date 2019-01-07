@@ -9,7 +9,7 @@ td.gsib_b {
 
 .gs-result .gs-title {
   text-decoration: none;
-  border: none;
+  border: 0;
 
   * {
     text-decoration: none;
@@ -25,13 +25,13 @@ td.gsib_b {
 table {
   padding: 0;
   margin: 0;
-  border: none;
+  border: 0;
   box-shadow: none;
 
   &.gsc-search-box {
     padding: 0;
     margin: 0;
-    border: none;
+    border: 0;
     box-shadow: none;
     display: inline-table;
   }
@@ -56,7 +56,7 @@ input[type=text]:focus,
 td.gsc-input {
   padding: 0;
   margin: 0;
-  border: none;
+  border: 0;
   box-shadow: none;
 }
 

@@ -50,7 +50,7 @@
 
     &:hover {
       color: black;
-			border-bottom: 1px solid black;
+      border-bottom: 1px solid black;
 
       img {
         @extend %material-shadow;
@@ -73,13 +73,13 @@
 
       &:hover {
         border-bottom: none;
-				background-color: black;
-				text-decoration: none;
+        background-color: black;
+        text-decoration: none;
       }
     }
 
     &.reset {
-      border: none;
+      border: 0;
       color: black;
     }
   }

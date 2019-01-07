@@ -17,7 +17,7 @@ categories:
 
 ## [`Sorty`](https://wiles.dk/ "Sorty for OSX")? Yes.
 
-# ![Sorty for OS X](https://lh3.googleusercontent.com/k9qrw_nHcQJWaoMRoUmOa6lHSWdQI-O4DEbbHj0tAiSQfn9aXOtS3F6tjL9FKOPbBxgiaDvgfwRY5wq_4Pd-LUQD7Wwzogsu0g6ezoNViB_XTUiDGRqc2Eqa6rdziAjTouEp6wNEikSBUfYTe9rjGX9f4jx8RGZ6iFc2mUacZiSTnCAI8wg1fer2XVQ1scdQlGFym62OxYfl5dEua9Ioz5fOz0TkQqDn9eHj_F1xWEuqeekAGHnRMmBfGhh-Zl1khoq5LdX-hDChJ4kUqTqqA5G3W13nT69C1_Dk09HEF5brl-amNkb9VAfbKf2JCXZ8kf9FAJyIgxfF2tb22NXhnR9M9glesz05slWrhoyf4WaP6H6NNSwMvFl1WmRnAoHlpoFGAGH02Qa6qRZDgLnVcQjLYHUQK78_88_Eonc1XSy6sM186fQPmY3H5BIGMFZWCGXl7cp2eg1SYyoQdxHjZofcJvvogqThL51LU2yaXCveCizWEuKjQwEplVxwNw73-f3UyIQbDAHrmY_6WiguzEhUNwvegEf-pbjch47kB7I6cCrn_S7NDb64zqIG8nj2cpVhKtXjWmGBXgzSTObDzoDAhqYjbPIKEoI3u3lUywZWmj7R5iH0fNTwOSAwXiWP=w397-h220-no)
+# ![Sorty for OS X](https://i.imgur.com/7jPGH43.png)
 
 # [Sorty](https://wiles.dk/ "Sorty for OSX")
 

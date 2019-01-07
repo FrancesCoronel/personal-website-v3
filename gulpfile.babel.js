@@ -5,22 +5,35 @@ const cssnano = require("cssnano");
 const csso = require("postcss-csso");
 const del = require("del");
 const gulp = require("gulp");
+const htmlmin = require("gulp-htmlmin");
 const hugoBin = require("hugo-bin");
+const imagemin = require("gulp-imagemin");
 const log = require("fancy-log");
 const PluginError = require("plugin-error");
 const postcss = require("gulp-postcss");
+const purifyCSS = require("gulp-purifycss");
 const sass = require("gulp-sass");
 const sourcemaps = require("gulp-sourcemaps");
 const webpack = require("webpack");
 const webpackConfig = require("./webpack.prod");
 const webpackDevConfig = require("./webpack.dev");
-const purifyCSS = require("gulp-purifycss");
-const htmlmin = require("gulp-htmlmin");
 
-const critical = require("critical").stream;
-
-// Compress SASS
+// DEV: Compress SASS
+// Does not purify it since that takes longer
 gulp.task("sass", () => {
+  return gulp
+    .src(["./src/sass/styles.scss", "./src/sass/search.scss", "./src/sass/one-signal.scss"])
+    .pipe(
+      sass({
+        outputStyle: "compressed",
+      }).on("error", sass.logError)
+    )
+    .pipe(gulp.dest("./dist/assets/css"))
+    .pipe(browserSync.stream());
+});
+
+// PROD: Compress SASS
+gulp.task("sass-minify", () => {
   return gulp
     .src(["./src/sass/styles.scss", "./src/sass/search.scss", "./src/sass/one-signal.scss"])
     .pipe(
@@ -38,28 +51,21 @@ gulp.task("sass", () => {
     .pipe(browserSync.stream());
 });
 
-gulp.task("sass-local", () => {
-  return gulp
-    .src(["./src/sass/styles.scss", "./src/sass/search.scss"])
-    .pipe(
-      sass({
-        outputStyle: "compressed",
-      }).on("error", sass.logError)
-    )
-    .pipe(gulp.dest("./dist/assets/css"))
-    .pipe(browserSync.stream());
-});
-
-
-// Move images
-// Leave it to GitHub bot to compress
+// DEV: Move images
 gulp.task("img", () => {
   return gulp
     .src("./src/img/**/*")
     .pipe(gulp.dest("./dist/assets/img"));
 });
 
-// Compile Javascript
+// PROD: Move & minify images
+gulp.task("img-minify", () => {
+  return gulp.src("./src/img/**/*")
+    .pipe(imagemin())
+    .pipe(gulp.dest("./dist/assets/img"));
+});
+
+// DEV & PROD: Compile Javascript
 gulp.task("js", (done) => {
   const environment = process.env.NODE_ENV;
   log("ENVIRONMENT: " + environment);
@@ -83,7 +89,7 @@ gulp.task("js", (done) => {
   done();
 });
 
-// Minify HTML
+// PROD: Minify HTML
 gulp.task("html-minify", () => {
   return gulp.src("./dist/**/*.html")
     .pipe(htmlmin({
@@ -100,26 +106,12 @@ gulp.task("html-minify", () => {
     .pipe(gulp.dest("./dist"));
 });
 
-// Clean up dist
+// DEV & PROD: Clean up dist
 gulp.task("clean", () => {
   return del(["dist"]);
 });
 
-// Generate & Inline Critical-path CSS
-gulp.task("critical", () => {
-  return gulp.src("./dist/*.html")
-    .pipe(critical({
-      base: "dist/",
-      inline: true,
-      css: ["./dist/assets/css/styles.css"]
-    }))
-    .on("error", (err) => {
-      log.error(err.message);
-    })
-    .pipe(gulp.dest("./dist"));
-});
-
-// Development server with browsersync
+// DEV & PROD: Server with browsersync
 const runServer = (options) => {
   browserSync.init({
     server: {
@@ -127,12 +119,12 @@ const runServer = (options) => {
     }
   });
   gulp.watch("./src/js/**/*.js", gulp.series("js"));
-  gulp.watch("./src/sass/**/*.scss", gulp.series("sass-local"));
+  gulp.watch("./src/sass/**/*.scss", gulp.series("sass"));
   gulp.watch("./src/img/**/*", gulp.series("img"));
   gulp.watch("./site/**/*", gulp.series(options));
 };
 
-// Run Hugo
+// DEV & PROD: Run Hugo
 const buildSite = (done, options, environment) => {
   const args = options ? hugoArgsDefault.concat(options) : hugoArgsDefault;
   process.env.NODE_ENV = environment;
@@ -153,27 +145,23 @@ const buildSite = (done, options, environment) => {
 const hugoArgsDefault = ["-d", "../dist", "-s", "site", "--verbose"];
 const hugoArgsPreview = ["--buildDrafts", "--buildFuture"];
 
-// Development tasks
-gulp.task("hugo", (done) => buildSite(done, [], "prod"));
+// DEVELOPMENT
 gulp.task("hugo-dev", (done) => buildSite(done, [], "dev"));
 gulp.task("hugo-preview", (done) => buildSite(done, hugoArgsPreview, "dev"));
-
-// Server tasks
-gulp.task("server", gulp.series("hugo-dev", "sass-local", "img", "js", (done) => {
+gulp.task("server", gulp.series("hugo-dev", "sass", "img", "js", (done) => {
   runServer("hugo-dev");
   done();
 }));
-
-gulp.task("server-prod", gulp.series("hugo", "img", "js", "sass", "html-minify", (done) => {
-  runServer("hugo");
-  done();
-}));
-
-gulp.task("server-preview", gulp.series("hugo-preview", "sass-local", "img", "js", (done) => {
+gulp.task("server-preview", gulp.series("hugo-preview", "sass", "img", "js", (done) => {
   runServer("hugo-preview");
   done();
 }));
+gulp.task("build-dev", gulp.series("clean", "hugo-dev", "sass", "img", "js"));
 
-// Production tasks
-gulp.task("build", gulp.series("clean", "hugo", "img", "js", "sass", "html-minify"));
-gulp.task("build-dev", gulp.series("clean", "hugo-dev", "sass-local", "img", "js"));
+// PRODUCTION
+gulp.task("hugo", (done) => buildSite(done, [], "prod"));
+gulp.task("server-prod", gulp.series("hugo", "img-minify", "js", "sass-minify", "html-minify", (done) => {
+  runServer("hugo");
+  done();
+}));
+gulp.task("build", gulp.series("clean", "hugo", "img-minify", "js", "sass-minify", "html-minify"));

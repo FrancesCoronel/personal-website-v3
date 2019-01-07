@@ -21,6 +21,8 @@ tags:
 7.  Westworld
 8.  The Chilling Adventures of Sabrina
 9.  On My Block
+10. The Good Place
+11. She-Ra
 
 ## Enjoyed
 
