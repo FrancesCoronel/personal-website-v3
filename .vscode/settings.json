@@ -1,7 +1,8 @@
  {
-   "editor.tabSize": 2,
-   "markdown.extension.preview.autoShowPreviewToSide": true,
-   "markdown.preview.fontFamily": "BlinkMacSystemFont,-apple-system,Roboto,Segoe UI,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
-   "markdown.previewFrontMatter": "show",
-   "markdownlint.run": "onSave",
+ 	"editor.formatOnSave": false,
+ 	"editor.tabSize": 2,
+ 	"markdown.extension.preview.autoShowPreviewToSide": true,
+ 	"markdown.preview.fontFamily": "BlinkMacSystemFont,-apple-system,Roboto,Segoe UI,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Helvetica,Arial,sans-serif",
+ 	"markdown.previewFrontMatter": "show",
+ 	"markdownlint.run": "onSave",
  }
