@@ -23,6 +23,9 @@ tags:
 9.  On My Block
 10. The Good Place
 11. She-Ra
+12. One Punch Man
+13. Steven Universe
+14. Adventure Time
 
 ## Enjoyed
 

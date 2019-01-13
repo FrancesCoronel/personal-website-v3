@@ -1,9 +1,9 @@
 {{ $talk := ($.Site.Taxonomies.categories.talk).Pages }}
 <h2>{{ len $talk }} talks created so far</h2>
 <div class="columns is-multiline">
-  {{ range $talk }} {{ if .Date.Before now }}
+  {{ range $talk }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
     {{ partial "body/content/card/plain-image.html" . }}
   </div>
-  {{ end }} {{ end }}
+  {{ end }}
 </div>
