@@ -6,10 +6,10 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="apple-mobile-web-app-title" content="{{ .Site.Title }}">
 <meta name="application-name" content="{{ .Site.Title }}">
-<meta name="DC.creator" content="{{ .Site.Author.name }}">
+{{ if .Site.Author.name }}<meta name="DC.creator" content="{{ .Site.Author.name }}">{{ end }}
 <meta name="DC.description" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.Description | truncate 150 }}{{ end }}">
 <meta name="DC.language" content="{{ .Site.Params.DefaultContentLanguage }}">
-<meta name="DC.publisher" content="{{ .Site.Author.name }}">
+{{ if .Site.Author.name }}<meta name="DC.publisher" content="{{ .Site.Author.name }}">{{ end }}
 <meta name="DC.title" content="{{ .Title }}">
 <meta name="description" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.Description | truncate 150 }}{{ end }}">
 <meta name="google-site-verification" content="biBOb6vq_csqy61DeBLw8DvAbCDUp5UsG8Vnpgm8qu4">
