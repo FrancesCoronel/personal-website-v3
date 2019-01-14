@@ -8,7 +8,7 @@ tags:
   - tv
 ---
 
-> Last updated: 12/2/18
+> Last updated: 1/13/19
 
 ## Enjoying
 
@@ -26,6 +26,7 @@ tags:
 12. One Punch Man
 13. Steven Universe
 14. Adventure Time
+15. The 100
 
 ## Enjoyed
 
@@ -74,7 +75,6 @@ tags:
 43. W.I.T.C.H
 44. Sense8
 45. Adventure Time
-46. The 100
 
 ## Did Not Enjoy
 

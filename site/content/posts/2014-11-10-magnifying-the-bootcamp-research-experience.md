@@ -45,11 +45,11 @@ I mean, it's a pretty big decision, y'all! ;)
 
 > and a big woo-hoo 🎉 for [other resources](#section-resources)!
 
-### ![Bootcamper](https://lh3.googleusercontent.com/a9FxRqIF-u4-SS7JP-nXQ0de5sPizQj36baX4zCK3GtVsYrftrfhYMj4Tsj0qNBpQ_YbPwNLQ-are3Mc4OzqQRPy2gCkukYRgEJCl5TAshf3534MWdZtiH-Mtk7V25635mlP0UOGN6T5_Erxec55Xx_sUTqiR43AfZNpuF_PH0nbYVWeuUBsU_af2XC4InFMfmwOrpyPPHOgHpDKE00SJoaxrQFJ5oDMImHywfU9w9icxOaYhTnTAyQ9ZNa0HlruhGvgi2u1nPCMPcl3HEqCZPLo8JfTeaZIoy08jpZ81_BhHctC3Xqq_JsFH1HpWLOjG7auhzyYi9H9MO7YVEYRbpvUIZo8t0DfO1U_ibkQVa6-TOUMJyZK1rrLDXoJxnBbWyVqYmrONaE8gqZUQzWccR3NhMXuX62No5P1-sSWkThsW8HiyqwAKSgkecJWYuMDhYJoHPSyFRCXV_nGowne9ScFwdHwPlGfx4-6FAUK5onnMuppS9JpDEViDSyTBxrcmURNuHbefNnOB64HcEj-hpOEo6Ii9ieBIj-Mk2-MQLhM3RGwSGRK7J0a2ldxN7W8Ox8YT3ZvAE0eLUTuwiA3ffjEcbkSSPNMnXGtQHT2B3PuNQlgFTBeBwdn53ayyAJC=w551-h211-no)
+### ![Bootcamper](https://i.imgur.com/2Dpj4vt.png)
 
 ### [**Bootcamper**](https://bootcamper.io)
 
-![Bootcamper](https://lh3.googleusercontent.com/HQBlWbVTb03txocEAbrbg_2r5KtPKzzVIUtz-em6maMRhvNF3Imxrc-bvC3nJacQQr5Y_JPqWmYEBe8LerKoCnPYRejzXZgpFl-TIDaXQ_1MD22If87PXn4e6Dpw-QtKqeljtLcXHXbLQ5keWqGdZtMlSNuzYJBdisLUnBhIfDZOWRRVVEzd7vPFKSaJFVtML1MtUuIzHVXwFpS_VCNiXQ4FGkm_Z587hoi3ysIxSy12qBDynb2oyEbobi9GvlG4ISLJCJIWrr8zW3Gl8_2ZhO5N2FNljDmYkJffY-jinTkeyanihY6afiIRcVanfRw3kxQOZRL_2lsb5w5KclGy7AyExKnICK0gYjpY8G6IE1-yLAkrKpWbLUcG_DUEPjoCZzjSKDU8Pk53nfQBS_uyywmE6XXg5YaGxcMrln--I0cVQCGbaPYxGKJH1BPBCxQWydqbM_y3JaIZXgckixJnPwvyu8vq_8fWB9-vnx7Ve3qxRGA2iLV1xj4Xex24VdmjN6YjZy2Ho9z3z94U7mtiZ4SQUisI3yk1z3ER0nzcwPFic0kR8alo0uyse5TyhS_jMCq2E4g1xJjgq0beU4wx0IkHvmp6TK6KYK9ZX-OjJ4ElDzbJ3_g7QejwyiP9Ihnj=w764-h920-no)
+![Bootcamper](https://i.imgur.com/FhEsp86.jpg)
 
 This is the page for [HackReactor on _Bootcamper_](https://bootcamper.io/schools/hack-reactor).
 
@@ -79,11 +79,11 @@ This is the page for [HackReactor on _Bootcamper_](https://bootcamper.io/schools
 
 📝 **THE VERDICT: 3.5/5**
 
-![Bootcamps.in](https://lh3.googleusercontent.com/EM1nwbLCZbliRgTRckvVY4GWxxNrv82A5-42HRuuLt8rfbhOcHRCqhVIvwWuRkV9ACxnd1ULmWsQ3THMyb1C3_5-49ObtLvP4NvmzHYBNbfm6Y1OO6_EjKt-Vo3oBY-o5iy7UEQ0s0x-AwZKukg5TRd-iHMs197hgofSNNRdIfE9akIu4lqRYZ5RtcDo9uMJn2xjblaEvg7wEuTW_-e_I7r5NQQJFZaPSNqfB2tq_HnxrzBkroHH6iSoZ6UZF2IKnCt2mOe71uh611YwSoHtV0cRtmiZAIaJLDtq3mY91pactY8VbN1tQSHxcfOEYCE_ApWoP9ZlDmOxTIRtF27gByXqWU634imerzcaYMS4Xvk3B6JrZ5x9yCwuSZbjz5x1bK2YD983n_4kkw3-NxVQxpJ9HdUSS5ifFaAKHPJuuAiQY4ALgdRmijDUnkidApODYo2uVof2XyHHZYmUqWC61rqSsjqzCq0JcSXpoQyLWGvUA1mQEyzuPhTzMlYZoKyONaGK6IpRq4NvzzQzStIzEcJk3_Ikm8jSmLcfKhps8j6FvEBl94p8TGQaiovg3bs_7mrEpb5C_0VUYwsx1OzqGvrISGu4ly0cO79eRdh1aerzcjBqWnFXiJvbwNC1lv6i=w400-h87-no)
+![Bootcamps.in](https://i.imgur.com/dIENNhU.png)
 
 ### **[Bootcamps.in](https://bootcamps.in)**
 
-![Bootcamps.in](https://lh3.googleusercontent.com/52m6zqtppo1mRgzvEpSz-TaAiqNAeJ-26KfwV7GZTJDezIXMQSz-7ohFz7VXvjmmdR284Vyt1LG-fL2OPCPrHhlFJnmh5BPR8hI6jMof8yPDeFvNzSGXAsX7xju4lv6WTuw9HYINwhiP3G5kUavCgxQMlstyb7jrjZNNW9ktJ_iTuvsh_Djgbwu5maCajHuJ3XP1XIfUGBSRy4kikYiPm5032qlXY0rBCHJ_1FnpilX2f5BHF2_m7DrFGwGCB4j8RZjfqxKNje6apwDEQIIxsMeeUIMWrRVpPKFH4Tx_4qX2lErzy__AvMfL2wNVgXKuDEldZKwklxMV0_3g2tAJaANeTJT_Hz_f5kGLZXys3pJQz74njQ_v9h9YFxWnSoY2_5XLL1g3389zA0JKYCFPUIr-hF8JWuDYhRTGOs9XcdxbRtNccfqgkCRgTe08d0pku_4WYnejAlaLA4g7NqQgKODA5xz39pcjf8xwJSANxVBDtjab6rh4HkIdadjRGqohG9KkqrT5JmGg1PKQxjkWU6tGfhi0PKzBUXr6e-bY-9s8MZm5ZgQ0xzn-Zu_5-XG--CTpRykGkx_aiq5YzQOQWB_lEfFjtGMPpEYRmzVOAwKrufx0QMSOxeFWGqqY4L0D=w804-h969-no)
+![Bootcamps.in](https://i.imgur.com/vlEfAA1.png)
 
 This is the page for [HackReactor on _Bootcamps.in_](https://www.bootcamps.in/san-francisco/hack-reactor/).
 
@@ -120,7 +120,7 @@ This is the page for [HackReactor on _Bootcamps.in_](https://www.bootcamps.in/sa
 
 ### [**Course Report**](https://coursereport.com)
 
-![Coursereport](https://lh3.googleusercontent.com/oMBkw6pm4wkNfZRPuDvmFO62tpq8f-kYWxrC41tNQXLIbvJy8-HtVRBwDZ7FOegbdU06-lF1ZIHt2IzT3Dj6B3RiwfMDfcnxaz3-0HDY3nfapLiuVnWyhb0-p4JM1Vl1jGYdZ4ZUQSvjoYYxSRoimVU71Y0xmBSGivuMOlpk5IyEcUNdbj3YevqzICnwrZphwS4RHYtsbBNPgzzAujcloailBAh-5SZPf3xytu17iGvtq3Vu5bQIpih49sVmkwVSNNbZJcoKIGK5-InRPB0p2B_AK52Zb2wI4cd91tiiZMMEbIRv4O5il1QTxqnhmFZNS9tMQ7D6D9Fp0N-p9vR7zWxUzAH5-eP7bEmI4a7ibSzpw7iaO5AjChqzW3Gh2EdmdIHntO-OPypqSIP7gcu5iisPapA0oG4DjMR7DETpF7vwt9vM-9LDQUZqzyiwi-7-Gcuiit61fx94og-jmznBi4WV8EshxUlgBHbTUYnPlkoXBwDAlQ1A0e6m-89by_ioi_66sa_Ab9KMxaxd2JcvvwfAt6O3ZOdbS_G5HLapCr0duhqF9BAy93UDeITR6s8-ChSS2vL3N_YYJ6OKO41o5VFwkKhMq5P8cK_CPH8UysFYnmJx3uhlOUmN9STdlGFT=w416-h970-no)
+![Coursereport](https://i.imgur.com/z0etn7L.png)
 
 This is the page for [HackReactor on _Course Report_](https://www.coursereport.com/schools/hack-reactor).
 
@@ -155,7 +155,7 @@ This is the page for [HackReactor on _Course Report_](https://www.coursereport.c
 
 ### [**Thinkful Bootcamp Finder**](https://www.thinkful.com/bootcamps/)
 
-![Thinkful](https://lh3.googleusercontent.com/GV3xnfK8SI3NyF4qsAJfyxoD5FZih3Dq6tN2dBejjMBj3FejgiOHXzvFWfGzJz2LNIJnADwl5BdOwLu5Mj6UNLBflWrOOVsc18-YbjVBzR7iBAj4wACBuTOkKJPiG-Sf-dJQSLwFt5Fvw5ucWDg1LJ-ZMOzujaTxEkjU7-_IIzaZUYE84lmTpP7y79Mxhv0ydekCfGbLFxAuDPqQKQd7BaOy-lch_j5cokr57v-Mkzrn6nj0f8Ln5I6V4edpXWwDngLn2jl3XfAhXaq-L2F2eZne1CYcxmgRfK5M2qBUzzL_oYJwNY_zkkGxAa6MYSwhHlfvAbKYiOnjKxNCn1pBsmdCFFwMbH4EbXNIyVLL7OCE4eUb0e2C29iB0Re2sGv5o4J7qJXvOygb5Qyi4sVA18_3aOc_or-XKzs0YdFhrarQwC4d5W2-FCTNUF-6bMuZFvvUbqUsyCOqfC6Ri7goH8nhEou8eqYIltsqtKOvdapwLCmb8dziaOPw-f4CJPkx9HZam20NCyh5b7JIFfO3w65E-zdqWjRnVolXLjAlEIprQMabehmMYmP8Dgecsg7h5cAk-MxGllgTt1vcph9JswOsl6S3TwAdq4MTs0z0joyo0WlyEeL_PUpAVwqfrOH_=w585-h969-no)
+![Thinkful](https://i.imgur.com/Rtsm7Ps.jpg)
 
 This is the page for [HackReactor on the _Thinkful Bootcamp Finder_](https://www.thinkful.com/bootcamps/hack-reactor).
 
@@ -190,7 +190,7 @@ This is the page for [HackReactor on the _Thinkful Bootcamp Finder_](https://www
 
 ### [**Switchup**](https://switchup.org)
 
-![Switch](https://lh3.googleusercontent.com/ILF6RxgXwZqxLfdjVvOGYkYB89KYqjAPpoRO4Cay06D5CQYRAJ83NBQfM2-SCbH_1rv3qOh4EW_79I-EwTnZ8ASXKGKaVkEMS4dwnArJZmmAxOp40Egqki0FFqoMIXBwBRtg-A4HzWv392fRnRMSGzVPRqzNPuiM2vhwRu--3s_IsiI-vzUJ3N6DyyaOaUEGLA9Im5V49TyqRKwbL01z14Eodw8CoLKZ7NdP-LmKL4PeDXCaJOCiiLwmQyxJZIBsDQmo7yOo9E0I87r45dBTVlW8mdUE-QXyBgMkGjhhtZkxkJaeVlXxbZ2X8DDE_huorjFk6iKMI3dFMFGHjknG1REwQWy4izLR5fYM72LaqxmAPR88tS78_SdlnL99JBIAqYZcAsEcxhgBRAjztY3bNSWmVaGUAAU_cRMoUL0PQ_ZwbvtiVe1bBpJ0y6MZk3uWWhAxSw3usmSme4WN1RwLxxON7rONCDuynRY-pvjrZ64cunD0OGAUMuP_TS2hhNhhofnG62XQ_TbNjF7860q8ZEO_e8vFanQPeNQOvZX69tkd6Hr-TjUC_pbVXFGn54c71mGGmBv7qTJFeHwqlqS2XA5GbY01VXs_lWF-CzXrC6CjxEEr1gS-WXLNQEA9cpzk=w625-h969-no)
+![Switch](https://i.imgur.com/hcvGyRP.jpg)
 
 This is the page for [HackReactor on _Switchup_](https://www.switchup.org/bootcamps/hack-reactor).
 
@@ -232,7 +232,7 @@ This is the page for [HackReactor on _Switchup_](https://www.switchup.org/bootca
 
 ### 📡 **Other Resources**
 
-![](https://www.techendo.com/assets/techendo_faces_logo.png)
+![Techendo](https://i.imgur.com/DOIcYnQ.png)
 
 - [Techendo](https://techendo.com)
   - rates accelerators, tech-related books, software, accelerators, venture capitalists, development schools (aka coding bootcamps), etc. based on reviews
@@ -240,14 +240,14 @@ This is the page for [HackReactor on _Switchup_](https://www.switchup.org/bootca
     - according to Techendo, [HackReactor is number one](https://schools.techendo.com/schools/hack-reactor)
     - ...however, this is only based on 10 positive reviews, so still needs some more data
 
-![Firehose Project](https://lh3.googleusercontent.com/EXrM1z5w49wccpheR6GhXwQPl8yJpzmus5LHHXaGOGeh6wGq0PLfuhwK5azz7BizaF3pIt5LT1lBMBXU4Wpx-LvhIymCKPk8ENW8426DeAW1967E7fyUV-h5xhHaovPm69Mc89rrEufQ8D-V8JCNtgGBnB-MhajBai8ZeoM4NIU7WDwVxRzvvMsHZawozYcnS_1D7zVD5i_z0NbArDMns9GY-V_YMI6GwcTEr0weK2ImaxklUMkLoWWZIrFsiUwjE_JBO6dSNCBB0g0Xq3PgpPIf9sB8pSnlMxW2o8ZKbyvNiQ48l2PJHSpGImzj3dlxxhbFYPSz6GJ0NwOkOCR-Wn5s04McOGg62kwUz87mSgjIsAmey-i7k9Qhm0Ig0pJ9kFfWOcMJRuoO-x0ZA9rV4c_e8rnqEFWYavmY0uzSR1sLaXoo6HkWm_UlRjZmPI8NZouJv_TILTfcdZVnQjmx-H0C_Lo_ouZOTwBvCKEfTxMFHY7ZHnGjOoCValOSXW4RBEqfqGbDsBcwAJtDiVrjr8KoCmRCblmy91656XEf0Pg1MmDwx-OZ2hI2dYBq-Ilf_GUxT-x_nPwLjEB3vEpgsKmHvOKUtQJK9Op9ONztIv8_6BJbIpX8YmpNlJmqo6gA=w689-h124-no)
+![Firehose Project](https://i.imgur.com/fz2eDYS.png)
 
 - ["The Definitive Guide To Choosing a Bootcamp" - theFirehoseProject](https://www.thefirehoseproject.com/definitive-guide)
   - theFirehouseProject itself is a new immersive online apprenticeship targeted to those who want to become a full-stack web developer
   - so the bootcamp guide they offer is not an actual comparison/review site but rather serves as one of the first full guides dedicated to just researching and choosing the right coding bootcamp
   - needless to say, you should definitely give it a go if you're a newb to the whole CB scene, because this guide steps you through **everything** you need to know
 
-![Hack App](https://lh3.googleusercontent.com/N1Wff-Y_PjTMFrM1MJWc_6vtJ4ax41usYz0vaju9u_xJ7kkh5XFtqtclkDR4_1i8Dkjx5S4zxUzBgjSednAB4OEoeyVYrvZ_E4oy_dUII9n13rPR6mcR0ryS0iqbjfikfO7EV2_3rJKkuZDLrcIDxwajdYSGdD9klTHNftPwMIKzoVvLOZBjw2fJx3cYrBSQ77msXMtWJeXKx5aFWOjVzEPpBEI3S2n3pRMD2L8A0dIIpvhcjeljERWmxqJtdirp8yYwK3jb-UMobwqg9ek9ptZFA7tmtjkGynr3ofQlJRCnZLaXgwgFmlaYtsS7O6xnQ28EbXw3t3qNh7Rkm7V-xdfqo-ZkLMQlGG76W_kT5cPNTq1GC4XAAGNlg9jPgTIsJDDwhPSChOotZQ46fIwtTkXqwDxFoEg1OCgV6A8ZT2507LCnnASF9kd8JSO7ZmMGIOjiWnXxoszin-oMOTt4SdskEhA7PiyV4d8k6PgEcBphINtAatcc1aEnPyN7eq-kvUAQIHY0VJWQTA1UTPC0qrSrR4MKtN7n9bKtTRDxwEndNEgBErbZzbTaT6E0Ikq0Fulp4db3g6_Kr2k6B3OmwLpFxPmYE7NZKa1AndU-nuTpC7w-OOTc8KWergFresj1=w421-h151-no)
+![Hack App](https://i.imgur.com/RCV0BOL.png)
 
 - [hack_app](https://hackapp.co)
   - Some CBs have it where you can quickly apply directly through their sites, others have more interactive applications & pre-work through coding challenges like with [MakerSquare](https://makersquare.gitbooks.io/preparing-for-makersquare/content/index.html), [HackReactor](https://admissions.hackreactor.com), [Flatiron](https://prework.flatironschool.com), [Fullstack](https://www.fullstackacademy.com/interview_prep), etc., and still others might use hack_app, which is an application portal dedicated to making it easy for users to research and apply to CBs.
@@ -258,9 +258,9 @@ This is the page for [HackReactor on _Switchup_](https://www.switchup.org/bootca
 - [Code2040 - Playbook](https://playbook.code2040.org)
   - This is great not just for minorities interested in tech, but just for anyone who wants a really great layout of what's recommend before applying and interviewing for a software development internship. This sort of logic applies for competitive coding bootcamps as well, so get out there! :) The founder of the organization, [Tristan Walker](https://www.fastcompany.com/3037933/the-visible-man "Tristan Walker - Fast Company"), is also friggin' awesome.
 
-![Hack Reactor Interior](https://lh3.googleusercontent.com/g6Gjjsrt-TWwqoTE5e58uHwrnsMpSCjIXpC43yym1d-dDCKm0JM2CWzY-CnWMcopOyDA3TRJ00bCyWhzqt0Gt9j98GIkv6ssdsZmZZBXZRv04gsHWSem9SbY-mFGjjxjnRtioXIvS2ZeDG3xsqTMH91QbM7vCv7s3lw0OlvzS2JRHXQNvPjo1uzqAg2gV3X6UkiRknCk5DWGKcvzDLxv26iUW3Vq-_YYlL1Ik3-xMFMrHO7Hun0VfhxNkoS_xf9v_J5ivJuhzY8_sIRlfwIXloA235kCWs0_kEfe2kQ3Z1Gjv7p0WWCDo3vyqm8hp3Or2otSaYZxAL-tbgyATUhQxs8Nt3otAgRfwCt1I-eNmg9MexDWT-rqa5TLHLWKqRKLWsAxVqUKi-H9A3uy3M4dVGwR0MBKLFoEfG2-YFSLsbwpQabFxc3TXhNO_-RDZsTb1QFoWKogGk2iy3lnmzQQBwxBL0uGS1olhS2nQDBHcbB_KyM94rTBKOHjm0ouGimLTQnVz2LZr86IseHDAqnxX8NEtJot0g4hhw3ZU9RaFPKzBKjlEx_qeqNIGpIFk_Lk3lZv4RSEvYzzynx5WhiqdaBu1fm8AELtB1qXjUVBo3Q2ugba1BPdTtPpYXhoaXlp=w437-h220-no)
+![Hack Reactor Interior](https://i.imgur.com/NaDSYXK.jpg)
 
-![MakerSquare](https://lh3.googleusercontent.com/OqMWXi5L4_fbUBzknONGFRq7z3LUQOuR42hmQgU5J9vfSz6QHD6xZjIpJjvDgwPX5BjPj4wbXhKLERP050pg7fX7L_QPxnXZDeWcXNvHfouu3_TOYa8PEUlNPVLZY-CGtZ4CcIDqa59TBwB8jwLWQ6MHVK_qeJOmrdTuG2-Gt-K89wPDKNmz-Y5NPSzevmf9vS0zjF-ULxEsf03rc51D8nojPKFPQ23SmH0IdxNIgswKYCz0At2me6b5pRa-Wa5VraqOcMH-oR-GxasZna_P8qkQAIcn_yixwoUgz1PZ07JIJeiqg68gV4rJiuw96jFRM8COg7dGtA0PnyCAFSdNQhxj9b23aJ81PFA7HAYLcB-R69IuEbJiSWhv-gNlgdZ4_jVYFqICSqID_w-aTNI0ija_k7dDZt2dJJn33JCfLDqHYNwrOmXKX6bZGbTrK2B__ZqhQGpLyr1a-OLblImX-IY-CWQKM3nJ22G-Yo5PDSeqZJI5wFe3Lq5TtZpXKZQI6N7l86wyQC7Ld3KX1RfAAngzpkSuSBAM9VTslMdcs7vZ26lOg3zCVVYEUVz4qcKu4eNjQgFQK_AcRp4Ec976RfULLoPO0DloSb79aMZjE3eHK0s93-cPKDxJEWewZek6=w1280-h423-no)
+![MakerSquare](https://i.imgur.com/iZsOXjo.png)
 
 - Resources the CBs Provide
   - Bootcamps who are really passionate about their goal tend to offer a serious admissions pre-interview/code challenge/preponlineworkthatcan be accessed by anyone interested. Some of these are really great because they really give you a look into what kindofmaterialyououghtto be learning first hand and straight away. So here are a few of those in no particular order to get ya started (mind you, for some of these, you may have to sign up):
@@ -284,7 +284,9 @@ This is the page for [HackReactor on _Switchup_](https://www.switchup.org/bootca
   - [codewars](https://codewars.com)
   - [topcoder](https://www.topcoder.com)
 
-![quora_icon](https://lh3.googleusercontent.com/fTWdihtU2nofhuI5Dgml0DOqK1xIVHAAws_SpbQYdfXrX4jnxfEW1469eikFjCVIDjkSYJuaBLA3ejdzaSABjC0jfm-uK7pYokA5UJJDDOZBNUAEHBKAwD740_ooVVcyzotf0VqRRgZ_O0Zn_TvPO_uPsTwvQlBCgZut2QgmBQlli996Iq3c2vilVSTIay7irYrUw7ZiCm2-U_rp1pHyHG72CdsMnq9G1Nkxxv-uB9DMIGBdWbO8_U9rkbWaRex_pnTQYjGM70-6a7m7wGfZ3_z0vA-qveZpefmJ90_XkvQn7iFPidEzBJxVwTQtFusNk45BaJKDpl1p5rCVxtv3ErybRhjqnHIlB15KGRM210FLoq1OCdwBNVsB8qVwKGu3xbBUNG-hIG-Ek4HPRpHSGcbb5Mvdf8YO7oWTrjkq74tNVOgknOjM5vzGb9w0bpE_649wQ_VQb8NNIyLNS31vy0LUZe4VoZjWd1Tlqc09E-YuNrJ91zL-zOHt7J960UFiOTl_tNinIGfERjQpWISVkS71QwGw114N5aotOxwa4VMvbsSJs8vA80kE0pdjKRkhUXo85nm13nJyyV0BmQgfQ2DN9pR-KZvDU0rBMjCvejNFVG8wUW9JMXrTCtArEnyh=s45-no)(https://quora.com) usually has a ton of useful answers for this very question too... why does Quora have to be so awesome, geez. 😏
+[![quora_icon](https://i.imgur.com/YMtyWJH.png)](https://quora.com)
+
+Quora usually has a ton of useful answers for this very question too... why does Quora have to be so awesome, geez. 😏
 
 > To Note... 📄
 >
