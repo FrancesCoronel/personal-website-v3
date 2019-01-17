@@ -1,105 +1,108 @@
-baseURL                           = "https://www.fvcproductions.com"
-buildFuture                       = true
-copyright                         = "This work is licensed under MIT."
-defaultContentLanguage            = "en"
-disqusShortname                   = "fvcproductions"
-enableEmoji                       = true
-enableRobotsTXT                   = true
-footnoteReturnLinkContents        = "↩"
-googleAnalytics                   = "UA-63190978-3"
-languageCode                      = "en-us"
-metaDataFormat                    = "yaml"
-Paginate                          = 12
-PaginatePath                      = ""
-preserveTaxonomyNames             = false
-pygmentsCodefences                = true
-pygmentsCodefencesGuessSyntax     = true
-pygmentsStyle                     = "manni"
-title                             = "FVCproductions"
+baseURL                              = "https://www.fvcproductions.com"
+buildFuture                          = true
+copyright                            = "This work is licensed under MIT."
+disqusShortname                      = "fvcproductions"
+enableEmoji                          = true
+enableRobotsTXT                      = true
+footnoteReturnLinkContents           = "↩"
+googleAnalytics                      = "UA-63190978-3"
+metaDataFormat                       = "yaml"
+Paginate                             = 12
+PaginatePath                         = ""
+preserveTaxonomyNames                = false
+pygmentsCodefences                   = true
+pygmentsCodefencesGuessSyntax        = true
+pygmentsStyle                        = "manni"
+title                                = "FVCproductions"
+
+# i18n
+defaultContentLanguage               = "en"
+enableMissingTranslationPlaceholders = true
+languageCode                         = "en-US"
 
 # RSS
 [outputs]
-    home                          = ["HTML", "RSS"]
-    page                          = ["HTML"]
+    home                             = ["HTML", "RSS"]
+    page                             = ["HTML"]
 
 # Output Formats
 [outputFormats]
     [outputFormats.RSS]
-        mediatype                 = "application/rss"
-        baseName                  = "feed"
+        mediatype                    = "application/rss"
+        baseName                     = "feed"
 
 # Permalinks
 [permalinks]
-  posts                           = "/:year/:month/:day/:title/"
+  posts                              = "/:year/:month/:day/:title/"
 
 # Author
 [author]
-    name                          = "Frances Coronel"
-    copyright                     = "©️ FVCproductions"
-    email                         = "hello@fvcproductions.com"
+    name                             = "Frances Coronel"
+    copyright                        = "©️ FVCproductions"
+    email                            = "hello@fvcproductions.com"
 
 # Taxonomy
 [taxonomies]
-    category                      = "categories"
-    tag                           = "tags"
+    category                         = "categories"
+    tag                              = "tags"
 
 # Custom Params
 [params]
-    contributions                 = true
-    copyright                     = "FVCproductions"
-    description                   = "I like to dabble with things that ought to be dabbled with."
-    github                        = "fvcproductions/fvcproductions.github.io"
-    google_site_verification      = "biBOb6vq_csqy61DeBLw8DvAbCDUp5UsG8Vnpgm8qu4"
-    headline                      = "Hey there, I'm Frances!"
-    locale                        = "en_US"
-    default_content_language      = "en"
-    logo                          = "https://www.fvcproductions.com/assets/img/logo.png"
-    og_image                      = "https://www.fvcproductions.com/assets/img/teaser.png"
-    one_signal_id                 = "7bc782bf-6ee1-4373-8d1d-1346aba3b9ff"
-    pinterest_domain_verification = "361a8bb60cdc3caa5f871d536f9669c8"
-    search_url                    = "https://www.fvcproductions.com/search/#gsc.tab=0&gsc.q={search_term_string}"
-    seo_title                     = "FVCproductions | I like to dabble with things that ought to be dabbled with."
-    year                          = 2013
+    contributions                    = true
+    copyright                        = "FVCproductions"
+    description                      = "I like to dabble with things that ought to be dabbled with."
+    github                           = "fvcproductions/fvcproductions.github.io"
+    google_site_verification         = "biBOb6vq_csqy61DeBLw8DvAbCDUp5UsG8Vnpgm8qu4"
+    headline                         = "Hey there, I'm Frances!"
+    locale                           = "en_US"
+    default_content_language         = "en"
+    logo                             = "https://www.fvcproductions.com/assets/img/logo.png"
+    og_image                         = "https://www.fvcproductions.com/assets/img/teaser.png"
+    one_signal_id                    = "7bc782bf-6ee1-4373-8d1d-1346aba3b9ff"
+    pinterest_domain_verification    = "361a8bb60cdc3caa5f871d536f9669c8"
+    search_url                       = "https://www.fvcproductions.com/search/#gsc.tab=0&gsc.q={search_term_string}"
+    seo_title                        = "FVCproductions | I like to dabble with things that ought to be dabbled with."
+    year                             = 2013
 
 # Social Links
 [social]
-    amazon                        = "AGCK4BOZOTAMEA4HTNM2DF7AL4RA"
-    angellist                     = "fvcproductions"
-    behance                       = "fvcproductions"
-    calendly                      = "fvcproductions"
-    codepen                       = "fvcproductions"
-    deviantart                    = "fvcproductions"
-    dribbble                      = "fvcproductions"
-    email                         = "hello@fvcproductions.com"
-    etsy                          = "fvcproductions"
-    facebook                      = "fvcproductions2013"
-    freecodecamp                  = "fvcproductions"
-    github                        = "fvcproductions"
-    gitlab                        = "fvcproductions"
-    goodreads                     = "fvcproductions"
-    google_plus                   = "+fvcproductions2013"
-    hackernews                    = "fvcproductions"
-    houzz                         = "fvcproductions"
-    imgur                         = "fvcproductions"
-    instagram                     = "fvcproductions"
-    linkedin                      = "fvcproductions"
-    medium                        = "@fvcproductions"
-    meetup                        = "182920007"
-    paypal                        = "fvcproductions"
-    producthunt                   = "fvcproductions"
-    quora                         = "Frances-Coronel-1"
-    reddit                        = "fvcproductions"
-    scribd                        = "194063411/FVCproductions"
-    slideshare                    = "fvcproductions"
-    soundcloud                    = "fvcproductions"
-    spotify                       = "fvcproductions"
-    stackexchange                 = "3595658/fvcproductions"
-    stackoverflow                 = "3000467/fvcproductions"
-    steam                         = "fvcproductions"
-    trello                        = "fvcproductions"
-    tumblr                        = "fvcproductions2013"
-    twitter                       = "fvcproductions"
-    vimeo                         = "fvcproductions"
-    wordpress                     = "fvcproductions"
-    yelp                          = "E6StflkoWAutmRZ31zNTug"
+    amazon                           = "AGCK4BOZOTAMEA4HTNM2DF7AL4RA"
+    angellist                        = "fvcproductions"
+    behance                          = "fvcproductions"
+    calendly                         = "fvcproductions"
+    codepen                          = "fvcproductions"
+    deviantart                       = "fvcproductions"
+    dribbble                         = "fvcproductions"
+    email                            = "hello@fvcproductions.com"
+    etsy                             = "fvcproductions"
+    facebook                         = "fvcproductions2013"
+    freecodecamp                     = "fvcproductions"
+    github                           = "fvcproductions"
+    gitlab                           = "fvcproductions"
+    goodreads                        = "fvcproductions"
+    google_plus                      = "+fvcproductions2013"
+    hackernews                       = "fvcproductions"
+    houzz                            = "fvcproductions"
+    imgur                            = "fvcproductions"
+    instagram                        = "fvcproductions"
+    linkedin                         = "fvcproductions"
+    medium                           = "@fvcproductions"
+    meetup                           = "182920007"
+    paypal                           = "fvcproductions"
+    producthunt                      = "fvcproductions"
+    quora                            = "Frances-Coronel-1"
+    reddit                           = "fvcproductions"
+    scribd                           = "194063411/FVCproductions"
+    slideshare                       = "fvcproductions"
+    soundcloud                       = "fvcproductions"
+    spotify                          = "fvcproductions"
+    stackexchange                    = "3595658/fvcproductions"
+    stackoverflow                    = "3000467/fvcproductions"
+    steam                            = "fvcproductions"
+    trello                           = "fvcproductions"
+    tumblr                           = "fvcproductions2013"
+    twitter                          = "fvcproductions"
+    vimeo                            = "fvcproductions"
+    wordpress                        = "fvcproductions"
+    yelp                             = "E6StflkoWAutmRZ31zNTug"
     youtube                       = "+fvcproductions2013"

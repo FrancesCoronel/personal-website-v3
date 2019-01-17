@@ -56,7 +56,7 @@ _\*Price may change based on event type/size and this does not include travel/ac
 
 Just have a generic question? Maybe you found a typo?
 
-Feel free to [submit a new issue](https://github.com/fvcproductions/ama/issues/new) through my AMA GitHub repo.
+Feel free to [submit a new issue](https://github.com/fvcproductions/ama/issues/new/choose) through my AMA GitHub repo.
 
 ## Contact Form 📼
 

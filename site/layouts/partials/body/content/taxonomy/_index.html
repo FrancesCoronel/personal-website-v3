@@ -10,7 +10,7 @@
     <div class="column">
       <h2>
         📂
-        <a href="/categories/">Categories</a>
+        <a href="{{ "categories" | relURL }}">{{ i18n "categories" }}</a>
       </h2>
       {{ partial "body/content/taxonomy/tags/categories.html" . }}
     </div>
@@ -20,7 +20,7 @@
     <div class="column">
       <h2>
         📌️
-        <a href="/tags/">Tags</a>
+        <a href="{{ "tags" | relURL }}">{{ i18n "tags" }}</a>
       </h2>
       {{ partial "body/content/taxonomy/tags/tags.html" . }}
     </div>

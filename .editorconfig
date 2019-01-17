@@ -11,17 +11,10 @@
 
 root = true
 
-# Line endings, whitespaces, and newlines - O, my!
 [*]
-end_of_line = lf
-insert_final_newline = false
 charset = utf-8
-
-# JS, PHP, and Less explicitly lint for this
-[*.{js,jsx,ts,tsx,php,less}]
-trim_trailing_whitespace = true
-
-# Indenting style & size across the codebase
-[package.json, *.{js,jsx,ts,tsx,json,php,txt,html,less,css, md}]
-indent_style = space
+end_of_line = lf
 indent_size = 2
+indent_style = space
+insert_final_newline = false
+trim_trailing_whitespace = true
