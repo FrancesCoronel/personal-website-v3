@@ -8,7 +8,7 @@ tags:
   - tv
 ---
 
-> Last updated: 1/13/19
+> Last updated: 1/21/19
 
 ## Enjoying
 
@@ -52,29 +52,26 @@ tags:
 20. Jimmy Neutron
 21. Last Week Tonight
 22. Law and Order: SVU
-23. Modern Family
-24. NCIS
-25. Parks and Recreation
-26. Pinky and Brain
-27. Person of Interest
-28. Pucca
-29. Robot Chicken
-30. The Amazing Race
-31. The Amazing World of Gumball
-32. The Big Bang Theory
-33. The Blacklist
-34. The Boondocks
-35. The Daily Show
-36. The IT Crowd
-37. The Looney Tunes
-38. The Office
-39. The Simpsons
-40. Tom and Jerry
-41. Tutenstein
-42. Ugly Betty
-43. W.I.T.C.H
-44. Sense8
-45. Adventure Time
+23. NCIS
+24. Parks and Recreation
+25. Pinky and Brain
+26. Person of Interest
+27. Pucca
+28. Robot Chicken
+29. The Amazing Race
+30. The Amazing World of Gumball
+31. The Blacklist
+32. The Boondocks
+33. The Daily Show
+34. The IT Crowd
+35. The Office
+36. The Simpsons
+37. Tom and Jerry
+38. Tutenstein
+39. Ugly Betty
+40. W.I.T.C.H
+41. Sense8
+42. Adventure Time
 
 ## Did Not Enjoy
 
@@ -102,3 +99,6 @@ tags:
 22. The Walking Dead
 23. Two and a Half Men
 24. WordGirl
+25. Modern Family
+26. The Big Bang Theory
+27. The Looney Tunes
