@@ -6,7 +6,6 @@ customPage: true
 volunteeringPage: true
 url: "/volunteering/"
 aliases:
-- "/volunteer-efforts/"
-- "/volunteer/"
-
+  - "/volunteer-efforts/"
+  - "/volunteer/"
 ---

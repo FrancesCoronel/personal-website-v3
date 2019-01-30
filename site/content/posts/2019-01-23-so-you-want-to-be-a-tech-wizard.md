@@ -4,6 +4,8 @@ date: 2019-01-23
 image: https://i.imgur.com/WiCellf.jpg
 description: Put on your wizard hats and join us for a beginner friendly talk about what it's like to be a developer and how you can get started.
 link: https://generalassemb.ly/education/so-you-want-to-be-a-tech-wizard/san-francisco/66021
+location: General Assembly - San Francisco, California
+slides: https://www.slideshare.net/FVCproductions/general-assembly-so-you-want-to-be-a-wizard
 categories:
   - speaking
 tags:
@@ -24,3 +26,12 @@ Our speaker, Frances Coronel will cover all your standard wizardry topics, like:
 ![GA SF Event - Small](https://i.imgur.com/bnp61N1.png)
 
 ![GA SF Event](https://i.imgur.com/NnZv6jq.png)
+
+---
+
+8 people attended, 2 I already knew from before
+
+1. Omar (knew from Latinx in Tech community)
+2. Sarah
+3. Michelle
+4. Banjamad (knew from Girl Develop It community)

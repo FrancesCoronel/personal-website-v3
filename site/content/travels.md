@@ -6,11 +6,11 @@ hideImage: true
 noComments: true
 url: "/travels/"
 aliases:
-- "/home/about/travels/"
-- "/about/travels/"
-- "/traveling/"
-
+  - "/home/about/travels/"
+  - "/about/travels/"
+  - "/traveling/"
 ---
+
 ## So I've come to the conclusion that I come from a pretty interesting background.
 
 <blockquote class="embedly-card"><h4><a href="https://www.google.com/maps/d/u/0/embed?mid=11xSbsfkr_6UXjic4znLDZSObW_M">Travels</a></h4><p>Where I've been. https://fvcproductions.com/about/travels © FVCproductions</p></blockquote>

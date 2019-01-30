@@ -6,6 +6,10 @@ image: https://i.imgur.com/TDXjQcA.png
 categories:
   - award
   - program
+tags:
+  - google
+  - udacity
+  - scholarship
 ---
 
 ## April 17th, 2018
@@ -36,7 +40,7 @@ Excited since I've been really into PWAs since first hearing about them a year a
 
 ## Happy to share that I'm one step closer to becoming Google certified! 🎉
 
-I was just awarded a $1,200 scholarship to pursue the Mobile Web Nanodegree through the Grow with Google Udacity Scholarship program.
+I was just awarded a \$1,200 scholarship to pursue the Mobile Web Nanodegree through the Grow with Google Udacity Scholarship program.
 
 Back in mid-October of last year, I applied for the Grow with Google Udacity scholarship.
 

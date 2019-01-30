@@ -16,6 +16,8 @@ aliases:
   - /testimonials/
 ---
 
+> You can find more [testimonials on my LinkedIn profile](https://www.linkedin.com/in/fvcproductions/).
+
 > If you're interested in being mentored, feel free to check out my [mentoring page](/mentoring/ "Mentoring"). 📚
 >
 > Or you can [contact me](/contact/ "Contact Me"). 📩️

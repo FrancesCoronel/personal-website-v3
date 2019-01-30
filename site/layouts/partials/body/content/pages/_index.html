@@ -11,8 +11,12 @@
 {{ partial "body/content/pages/experience.html" . }}
 {{ else if .Params.feedbackPage }}
 {{ partial "body/content/pages/reviews.html" . }}
+{{ else if .Params.freelancingPage }}
+{{ partial "body/content/pages/freelancing.html" . }}
 {{ else if .Params.hackathonPage }}
 {{ partial "body/content/pages/hackathons.html" . }}
+{{ else if .Params.mentoringPage }}
+{{ partial "body/content/pages/mentoring.html" . }}
 {{ else if .Params.milestonesPage }}
 {{ partial "body/content/pages/milestones.html" . }}
 {{ else if .Params.pressPage }}

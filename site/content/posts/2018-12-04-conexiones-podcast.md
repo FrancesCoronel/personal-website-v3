@@ -1,10 +1,11 @@
 ---
 title: "Conexiones Podcast - Recording Completed"
-date: 2019-01-15
+date: 2018-12-04
 location: Virtual
 image: https://i.imgur.com/roapW8Q.jpg
 description: "Recording completed on December 4th - stay tuned for episode release."
-link: http://conexiones.io/
+aliases:
+  - /2019/01/15/conexiones-podcast---recording-completed/
 categories:
   - speaking
 tags:

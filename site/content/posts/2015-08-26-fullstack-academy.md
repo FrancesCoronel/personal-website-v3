@@ -7,6 +7,9 @@ aliases:
   - /home/adventures/programs/fullstack-academy-may-2015-to-august-2015/
 categories:
   - program
+tags:
+  - summer of code
+  - fullstack academy
 ---
 
 ## Name

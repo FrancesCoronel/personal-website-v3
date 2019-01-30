@@ -6,9 +6,9 @@ hideImage: true
 noComments: true
 url: "/resume/"
 aliases:
-- "/home/awards/resume/"
-
+  - "/home/awards/resume/"
 ---
+
 ## For a live version of my resume, please refer to [my LinkedIn profile](https://linkedin.com/in/fvcproductions).
 
 > And feel free to connect with me on there as well! 👥️

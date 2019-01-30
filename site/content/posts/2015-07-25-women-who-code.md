@@ -2,6 +2,7 @@
 title: Women Who Code
 description: Member, Speaker
 date: 2015-07-25
+image: https://i.imgur.com/7w3enzb.jpg
 categories:
   - program
 tags:

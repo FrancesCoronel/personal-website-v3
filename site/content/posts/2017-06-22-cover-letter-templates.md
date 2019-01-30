@@ -8,6 +8,8 @@ tags:
   - design
 ---
 
+<!-- TODO: Add image -->
+
 I created 5 different cover letter templates for 5 different companies: Braintree, IDEO, Meetup, NBCUniversal, and SeatGeek.
 
 I created these while I was in the process of applying for jobs at these places.

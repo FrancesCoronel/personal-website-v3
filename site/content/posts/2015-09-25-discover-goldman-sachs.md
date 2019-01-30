@@ -3,7 +3,7 @@ title: Discover Goldman Sachs
 description: I was invited to explore careers with Goldman Sachs.
 date: 2015-09-25
 image: https://i.imgur.com/iLRCKSF.jpg
-location: Salt Lake City Office - Salt Lake City, Utah
+location: Goldman Sachs - Salt Lake City, Utah
 aliases:
   - /home/adventures/conferences/discover-goldman-sachs/
 categories:

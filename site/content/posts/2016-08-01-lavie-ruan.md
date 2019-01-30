@@ -2,8 +2,10 @@
 title: Lavie Ruan
 date: 2016-08-01
 image: https://i.imgur.com/Byh0iwt.jpg
+hours: 7.0
 categories:
   - review
+  - mentoring
 ---
 
 Frances has been a great help in the process of my web development journey. She showed me what a good web development environment is.
@@ -17,3 +19,15 @@ I just got accepted to a bootcamp, and I start my full time web development boot
 I know Frances will continue to inspire and help other future web developers succeed. I am forever thankful for Frances's mentorship.
 
 > https://linkedin.com/in/laviemaru
+
+---
+
+| Date       | Reason                     | Method     | Hours |
+| ---------- | -------------------------- | ---------- | ----- |
+| 2016-04-07 | Preparing for Grace Hopper | Video Chat | 1.00  |
+| 2016-04-14 | Preparing for Grace Hopper | Video Chat | 1.00  |
+| 2016-04-17 | Preparing for Grace Hopper | Video Chat | 1.00  |
+| 2016-04-23 | Preparing for Grace Hopper | Video Chat | 1.00  |
+| 2016-04-24 | Preparing for Grace Hopper | Video Chat | 1.00  |
+| 2016-05-07 | Preparing for Grace Hopper | Video Chat | 1.00  |
+| 2016-06-05 | Preparing for Grace Hopper | Video Chat | 1.30  |

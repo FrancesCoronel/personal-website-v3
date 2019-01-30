@@ -1,0 +1,11 @@
+<!-- Variables -->
+{{ $mentoring := ($.Site.Taxonomies.categories.mentoring).Pages }}
+<!-- mentoring -->
+<h2>{{ len $mentoring}} mentoring sessions</h2>
+<div class="columns is-multiline">
+  {{ range $mentoring }} {{ if .Date.Before now }}
+  <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
+    {{ partial "body/content/card/_index.html" . }}
+  </div>
+  {{ end }} {{ end }}
+</div>

@@ -1,6 +1,7 @@
 ---
 title: Founder House
 description: Newly Renovated, Fully Furnished, All-Inclusive Co-living.
+image: https://i.imgur.com/jjzRbfR.jpg
 date: 2016-12-08
 categories:
   - program

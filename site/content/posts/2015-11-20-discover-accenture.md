@@ -2,7 +2,7 @@
 title: "Discover Accenture"
 description: "Invited to explore Accenture as a potential full-time candidate."
 date: 2015-11-20
-location: San Francisco Office - San Francisco, California
+location: Accenture - San Francisco, California
 image: https://i.imgur.com/3W4sQj3.jpg
 aliases:
   - /home/adventures/conferences/discover-accenture/

@@ -8,6 +8,8 @@ aliases:
   - /2018/08/29/latinas-in-tech-silicon-valley-meetup/
 categories:
   - speaking
+tags:
+  - panel
 ---
 
 ## Overview

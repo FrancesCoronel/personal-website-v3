@@ -1,18 +1,19 @@
 ---
 title: "AlterConf NYC"
-description: "AlterConf is a traveling conference
-series that provides safe opportunities for marginalized people and
-those who support them in the tech and gaming industries. 🗽"
+description: "AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries. 🗽"
 date: 2016-12-10
 image: https://i.imgur.com/WzJY61S.png
+location: "Microsoft Headquarters - Times Square"
+hours: 8.0
 aliases:
   - /home/adventures/conferences/alterconf-dec-2016/
   - /2017/01/03/alterconf-nyc-2016/
 categories:
   - blog
   - conference
-tags:
   - freelancing
+tags:
+  - microsoft
 ---
 
 ## Name

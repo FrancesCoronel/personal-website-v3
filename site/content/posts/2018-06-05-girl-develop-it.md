@@ -1,6 +1,7 @@
 ---
 title: Girl Develop It
 description: Member, Speaker, Volunteer (TA)
+image: https://i.imgur.com/N3Ny8HV.jpg
 date: 2018-06-05
 categories:
   - program

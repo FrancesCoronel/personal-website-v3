@@ -12,8 +12,6 @@ aliases:
   - /home/services/
   - /home/services/freelancing/
   - /services/
-categories:
-  - freelancing
 ---
 
 ## I work with clients of all backgrounds and offer a number of different services.
@@ -23,12 +21,6 @@ categories:
 - Freelance writing, design and development
 - Speaking engagements
 
-### LinkedIn Pro Finder
-
-I'm available for small client projects through [LinkedIn Pro Finder](https://www.linkedin.com/profinder/pro/fvcproductions).
-
-<div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="en_US" data-type="profinder" data-theme="light" data-vanity="fvcproductions"><a class="LI-simple-link" href="https://www.linkedin.com/profinder/pro/fvcproductions?trk=provider-badge">Frances Coronel</a></div><script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
 ### Process
 
 1.  You [contact me through my website](/contact/) with some details about what your needs are.
@@ -36,19 +28,3 @@ I'm available for small client projects through [LinkedIn Pro Finder](https://ww
 3.  A contract will be set up [through Bonsai](https://www.hellobonsai.com).
 4.  We'll communicate back and forth until you're happy with the end results!
 5.  Payments are finalized and if you'd like to at this point, you can also [add a testimonial](/feedback/).
-
-### Previous Clients
-
-- Number of Clients: 5
-- Revenue: $1,310
-
-<!-- Use https://www.miniwebtool.com/sum-calculator/ -->
-<!-- Update milestones page -->
-
-| Year | Who                  | Why                                  | Earned |
-| ---- | -------------------- | ------------------------------------ | ------ |
-| 2018 | YC Work at a Startup | 1 hour user research interview       | $100  |
-| 2018 | Stellares            | 1 hour feedback session              | $60   |
-| 2017 | Fullstack Academy    | 6 hours of mentoring for GHA Student | $500  |
-| 2016 | AlterConf            | Blog post                            | $200  |
-| 2015 | Ameot                | Branding & web development           | $450  |
