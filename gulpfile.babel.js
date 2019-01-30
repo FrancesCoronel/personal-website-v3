@@ -22,7 +22,7 @@ const webpackDevConfig = require("./webpack.dev");
 // Does not purify it since that takes longer
 gulp.task("sass", () => {
   return gulp
-    .src(["./src/sass/styles.scss", "./src/sass/search.scss", "./src/sass/one-signal.scss"])
+    .src(["./src/sass/styles.scss", "./src/sass/search.scss"])
     .pipe(
       sass({
         outputStyle: "compressed",
@@ -35,7 +35,7 @@ gulp.task("sass", () => {
 // PROD: Compress SASS
 gulp.task("sass-minify", () => {
   return gulp
-    .src(["./src/sass/styles.scss", "./src/sass/search.scss", "./src/sass/one-signal.scss"])
+    .src(["./src/sass/styles.scss", "./src/sass/search.scss"])
     .pipe(
       sass({
         outputStyle: "compressed",

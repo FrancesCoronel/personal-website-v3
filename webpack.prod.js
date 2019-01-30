@@ -86,10 +86,6 @@ module.exports = {
       {
         urlPattern: new RegExp("https://www.google-analytics.com"),
         handler: "staleWhileRevalidate"
-      },
-      {
-        urlPattern: new RegExp("https://cdn.onesignal.com"),
-        handler: "staleWhileRevalidate"
       }
       ]
     })
