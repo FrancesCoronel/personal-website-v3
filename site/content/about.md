@@ -3,9 +3,9 @@ title: About
 description: I like to dabble with things that ought to be dabbled with. 🍫🍓
 image: https://i.imgur.com/NWXkplC.jpg
 hideImage: true
+navbar: true
 noComments: true
 noTimeEstimate: true
-navbar: true
 url: /about/
 aliases:
   - /home/about/

@@ -1,8 +1,10 @@
 ---
 title: Subscribe
 description: You can subscribe to new updates via email. 🌟
+hideImage: true
 noComments: true
 noTimeEstimate: true
+image: https://i.imgur.com/yR5HPGY.jpg
 url: /subscribe/
 aliases:
   - /newsletter/

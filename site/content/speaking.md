@@ -2,12 +2,12 @@
 title: Speaking
 description: I've given talks on a variety of topics at different events. 💬️
 image: https://i.imgur.com/vv51StT.jpg?2
+customPage: true
 hideImage: true
+navbar: true
 noComments: true
 noTimeEstimate: true
-customPage: true
 speakingPage: true
-navbar: true
 url: /speaking/
 aliases:
   - /home/services/speaking/

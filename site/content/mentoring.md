@@ -2,9 +2,10 @@
 title: Mentoring
 description: Mentoring is a brain to pick, an ear to listen, and a push in the right direction. 📚
 image: https://i.imgur.com/BqiFTqF.jpg
-noComments: true
 customPage: true
+hideImage: true
 mentoringPage: true
+noComments: true
 url: /mentoring/
 aliases:
   - /services/mentoring/

@@ -4,7 +4,7 @@
 {{ $pages := $pages | union (.Site.Sections) }}
 <div class="container">
   <div class="content">
-    <h2>{{ len $pages }} total pages</h2>
+    <h2>{{ len $pages }} pages in total</h2>
     <div class="columns is-multiline">
       <!-- Looping -->
       {{ range $pages.ByTitle }}

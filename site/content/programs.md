@@ -6,6 +6,7 @@ programPage: true
 hideImage: true
 noComments: true
 noTimeEstimate: true
+image: https://i.imgur.com/Kip5AO4.jpg
 url: /programs/
 aliases:
   - /meetups/

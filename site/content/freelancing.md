@@ -2,10 +2,10 @@
 title: Freelancing
 description: I work with clients of all backgrounds and offer a number of different services. 💎️
 image: https://i.imgur.com/hD3rQiK.jpg
-hideImage: true
-noComments: true
 customPage: true
 freelancingPage: true
+hideImage: true
+noComments: true
 url: /freelancing/
 aliases:
   - /services/freelancing/

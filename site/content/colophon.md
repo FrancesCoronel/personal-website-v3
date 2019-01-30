@@ -2,10 +2,10 @@
 title: Colophon
 description: Unveiling the inner workings of this website. ⚙️
 image: https://i.imgur.com/D4dPpG2.jpg
-hideImage: true
-noTimeEstimate: true
-noComments: true
 footer: true
+hideImage: true
+noComments: true
+noTimeEstimate: true
 url: /colophon/
 aliases:
   - /about/colophon/

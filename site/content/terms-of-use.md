@@ -2,7 +2,9 @@
 title: Terms of Use
 description: "This forth terms, conditions, requirements, and clauses relating to the use of this website, e.g. copyright protection, accounts termination in cases of abuses, and so on."
 url: "/terms-of-use/"
+hideImage: true
 noComments: true
+image: https://i.imgur.com/SGijEnY.jpg
 ---
 
 ## 1. Terms
