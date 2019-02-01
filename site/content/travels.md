@@ -1,6 +1,6 @@
 ---
 title: Travels
-description: The places I've been.
+description: The places I've been. ✈️
 image: https://images.pexels.com/photos/59519/pexels-photo-59519.jpeg
 hideImage: true
 noComments: true

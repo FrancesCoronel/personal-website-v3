@@ -59,6 +59,8 @@ Coro's Women in Leadership program supports the leadership development of women 
 
 The program will engage 25 mid-career women of diverse backgrounds from the private, nonprofit, and government sectors for intensive leadership development seminars and post-fellowship networking.
 
+> I received a scholarship from Coro that covered half of the tuition and paid for the rest using my professional development funds from Slack.
+
 ## Program Skills
 
 - Strategic relationship building

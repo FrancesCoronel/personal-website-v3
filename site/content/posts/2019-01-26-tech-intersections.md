@@ -41,6 +41,8 @@ This was intense! Enough said.
 - use folders in your email to keep track of job applications
 - save job descriptions since they get taken down
 - when it comes to prepping for interviews, the "tell me about yourself" can seem terrifying but would recommend just telling a story about how your personal experience directly relates to the role you're applying for
+- favorite ways to network: Twitter
+  - "closed mouths do not get fed"
 
 ### Cindy Alvarez
 
@@ -48,6 +50,8 @@ This was intense! Enough said.
 - feedback usually isn't given because companies are terrified of liability issues
 - candidates will argue back
 - in all honesty, if interviewer is asking the "tell me about yourself" question, it is likely to
+- favorite ways to network: having people ask you specific questions first like "do you have a book recommendation for xyz?"; asking a small thing first will allow you to ease into a deeper conversation
+- use IDE instead of whiteboarding
 
 ### Elizabeth Bautista
 
@@ -55,10 +59,44 @@ This was intense! Enough said.
 - if a job wants 5 years of experience, consider that open source work and hackathons you've done, a career development program you've completed - those all tie in and can be considered experience as well
 - if candidate gets rejected and the emails are confrontational, they are usually deferred back to the recruiter
 - when it comes to prepping for interviews, make sure to prepare with questions that are relevant since you've ideally done your research on the company when it comes to culture, demographics, etc.
+- favorite ways to network: prefer to seek out companies I've never heard at career/vendor fairs to talk to the recruiter and learn something new
 
 ## Career Skills Panel - Is it Different? Being First Gen in Tech
 
 ![First Gen](https://i.imgur.com/W0V3oZv.jpg)
+
+> Miriam Aguirre, Genesis Hernandez, Nadine Bui, Gloriane Tran
+
+- Toyota is a diverse company
+- organizations mentioned
+  - Lesbians Who Tech
+  - Latinas in Tech
+  - Remix
+  - Code2040
+- how to tell company culture is good
+  - look at diversity stats of companies
+  - see if there's someone of diverse background in C-suite
+  - check when people were last praised or last promoted
+- resources mentioned
+  - huntr
+  - boomerang
+  - streak
+  - nerdwallet
+- dealing with the vast amount of wealth in the bay area coming from someone who may have grown up struggling
+  - changing expectations
+  - push for more
+  - learn to negotiate
+- salary
+  - you can ask for pay band
+  - illegal to ask for past salaries
+  - always ask for more time to consider salary
+  - share salary
+- how to recharge
+  - humble yourself
+  - ground yourself
+  - have a little perspective
+  - remember you're not alone
+  - remember your roots
 
 ## Lunch
 
@@ -68,7 +106,22 @@ I had lunch with a recruiter from Figma and a couple of software engineers from 
 
 ![Leveling Up](https://i.imgur.com/fZVWEIo.jpg)
 
-> It was nice to see Ei-Nyung who also works at Slack talking about her career path.
+> Adrianna Valdivia, Juanita Dion, Ei-Nyung Choi, Maira Benjamin
+
+- It was nice to see Ei-Nyung who also works at Slack talking about her career path.
+- diversity is important
+- try to get mentors with different skill sets
+- being an engineer is more about how you make people feel and your core principles
+  - "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel" - Maya Angelou
+- leverage open source projects
+- career is not always a straight line
+- smalller conferences/meetups - easier to network
+  - smaller events means less pressure
+- sit at the end of the table
+- raise your seat
+- sit up high
+- ask for 30% more than what you want
+- whoever speaks first usually loses
 
 ## Social Impact: The Road Less Traveled...
 
@@ -108,6 +161,10 @@ It didn't work out but then her team decided to focus on the portion that got th
   - Self-Advocacy 101
   - Networking 101
   - Financial Literacy in Tech Industry 101
+  - Career Tips & Tricks 101
+    - compare 2 candidates in the audience after asking them who is struggling/feeling confident
 - Online Presence
   - Right now, I'm using Buffer to automatically post to Twitter, LinkedIn, Facebook
   - Instead, because of Gen Z preference, I should switch Facebook to Instagram
+- hireme.fvcproductions.com
+  - keyvalues

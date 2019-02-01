@@ -4,12 +4,16 @@ description: "Attended ERG lead meetings to discuss the Latinx initiatives at di
 date: 2019-01-24
 location: San Francisco, CA
 image: https://techqueria.org/assets/img/logos/banner-logo-only.png
+categories:
+  - program
 tags:
   - erg
   - latinx in tech
 ---
 
 Organized through [Techqueria](https://techqueria.org), ERG leads are now going to start coming together!
+
+`#erg-leads-unite`
 
 ## January 24th, 2019
 

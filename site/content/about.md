@@ -45,7 +45,7 @@ Her passions outside of work include contributing to open-source, public speakin
 >
 > Photo taken by [Adrian Walker](https://www.adrianowalker.com/)
 
-## Life Timeline
+<!-- ## Life Timeline
 
 | Date           | Event                                                                  |
 | -------------- | ---------------------------------------------------------------------- |
@@ -83,7 +83,7 @@ Her passions outside of work include contributing to open-source, public speakin
 | 2021 January   | Nefer probably dead                                                    |
 | 2095 October   | Probably dead                                                          |
 
-> This life timeline was inspired by [Chris Coyier's](https://chriscoyier.net/timeline/) because I thought it looked neat.
+> This life timeline was inspired by [Chris Coyier's](https://chriscoyier.net/timeline/) because I thought it looked neat. -->
 
 ## Random Fun Facts
 

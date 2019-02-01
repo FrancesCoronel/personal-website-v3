@@ -28,6 +28,12 @@
     <span class="mr-1">💵</span>Paid Event
   </p>
   {{ end }}
+  <!-- Hours Given -->
+  {{ if .Params.hours }}
+  <p>
+    <span class="mr-1">⏳</span>{{ if eq .Params.hours 0.5 }}30 minutes{{ else if eq .Params.hours 1.0 }}{{ .Params.hours }} hour{{ else }}{{ .Params.hours }} hours{{ end }} taken
+  </p>
+  {{ end }}
   <!-- Mentoring -->
   {{ $mentoring := ($.Site.Taxonomies.categories.mentoring).Pages }}
   {{ $mentoringHours := 0 }}

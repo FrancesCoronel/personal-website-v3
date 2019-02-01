@@ -5,6 +5,7 @@ description: Mentored incoming Grace Hopper student as an ambassador for Fullsta
 hours: 5.0
 image: https://i.imgur.com/OrD53uI.jpg
 link: https://www.linkedin.com/in/kelaiya-parikh/
+location: Virtual
 categories:
   - mentoring
   - freelancing

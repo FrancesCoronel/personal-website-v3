@@ -6,6 +6,7 @@ aliases:
   - /2018/07/08/stellares-feedback-session/
 hours: 1.0
 date: 2018-07-08
+location: San Francisco, CA
 categories:
   - review
   - freelancing
