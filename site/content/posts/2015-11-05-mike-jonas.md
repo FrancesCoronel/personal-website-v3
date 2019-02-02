@@ -3,7 +3,7 @@ title: Mike Jonas
 date: 2015-11-05
 image: https://i.imgur.com/4SAX3jo.jpg
 description: "Email with coding bootcamp interview advice to prep for Hack Reactor"
-hours: .50
+hours: 0.50
 aliases:
   - /2016/04/07/mike-jonas/
 categories:

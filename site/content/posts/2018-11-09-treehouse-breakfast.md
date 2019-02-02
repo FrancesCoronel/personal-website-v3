@@ -2,12 +2,11 @@
 title: 🍳 Breakfast with Friends
 date: 2018-11-09
 image: https://i.imgur.com/2c5jugg.png
-link: https://www.linkedin.com/in/ryancarson/
 categories:
   - blog
 ---
 
-Invited to a breakfast on diversity and inclusion by the CEO of Treehouse, Ryan Carson.
+Invited to a breakfast on diversity and inclusion by the CEO of Treehouse, [Ryan Carson](https://www.linkedin.com/in/ryancarson/).
 
 ![Email](https://i.imgur.com/Acyxfre.jpg)
 
