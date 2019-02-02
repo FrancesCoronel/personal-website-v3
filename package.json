@@ -31,7 +31,6 @@
     "cssnano": "4.1.8",
     "del": "3.0.0",
     "eslint": "5.13.0",
-    "eslint-plugin-import": "2.14.0",
     "eslint-plugin-import": "2.16.0",
     "fancy-log": "1.3.3",
     "gulp": "4.0.0",
