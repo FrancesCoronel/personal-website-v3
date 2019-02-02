@@ -2,11 +2,11 @@
 title: Portfolio
 description: My work across the interwebs. 🛠️
 image: https://i.imgur.com/DZnLjQQ.png
+customPage: true
 hideImage: true
+navbar: true
 noComments: true
 noTimeEstimate: true
-navbar: true
-customPage: true
 portfolioPage: true
 url: /portfolio/
 aliases:

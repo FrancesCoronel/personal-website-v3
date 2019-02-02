@@ -2,10 +2,10 @@
 title: Colophon
 description: Unveiling the inner workings of this website. ⚙️
 image: https://i.imgur.com/D4dPpG2.jpg
-hideImage: true
-noTimeEstimate: true
-noComments: true
 footer: true
+hideImage: true
+noComments: true
+noTimeEstimate: true
 url: /colophon/
 aliases:
   - /about/colophon/
@@ -19,30 +19,29 @@ Website design, development, and copy by Frances Coronel.
 
 <!-- TOC -->
 
-- [Copyright ∞ FVCproductions](#copyright-%E2%88%9E-fvcproductions)
-  - [The Beginnings](#the-beginnings)
-  - [What I Use](#what-i-use)
-  - [Source Code](#source-code)
-  - [Domains](#domains)
-    - [Domain Searching](#domain-searching)
-      - [Best Candidates](#best-candidates)
-      - [Candidates](#candidates)
-      - [Available](#available)
-  - [Tools](#tools)
-  - [Testing](#testing)
-    - [Codacy](#codacy)
-    - [Codebeat](#codebeat)
-    - [CodeFactor](#codefactor)
-    - [FOSSA](#fossa)
-    - [Lighthouse](#lighthouse)
-  - [Branding](#branding)
-    - [Colors](#colors)
-    - [Fonts](#fonts)
-  - [Formatting](#formatting)
-    - [Third level](#third-level)
-      - [Fourth level](#fourth-level)
-        - [Fifth level](#fifth-level)
-          - [Sixth level](#sixth-level)
+- [The Beginnings](#the-beginnings)
+- [What I Use](#what-i-use)
+- [Source Code](#source-code)
+- [Domains](#domains)
+  - [Domain Searching](#domain-searching)
+    - [Best Candidates](#best-candidates)
+    - [Candidates](#candidates)
+    - [Available](#available)
+- [Tools](#tools)
+- [Testing](#testing)
+  - [Codacy](#codacy)
+  - [Codebeat](#codebeat)
+  - [CodeFactor](#codefactor)
+  - [FOSSA](#fossa)
+  - [Lighthouse](#lighthouse)
+- [Branding](#branding)
+  - [Colors](#colors)
+  - [Fonts](#fonts)
+- [Formatting](#formatting)
+  - [Third level](#third-level)
+    - [Fourth level](#fourth-level)
+      - [Fifth level](#fifth-level)
+        - [Sixth level](#sixth-level)
 
 <!-- /TOC -->
 

@@ -2,6 +2,8 @@
 title: Quora Writer Recognitions
 description: During 2015 to 2016, I was very active on Quora and got several highlight recognitions.
 date: 2016-06-15
+categories:
+  - award
 ---
 
 ## 2016

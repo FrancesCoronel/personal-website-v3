@@ -1,6 +1,7 @@
 ---
 title: Out of Office Hours
 description: Out of Office Hours aims to create a dialog between newcomers and people working in the tech industry.
+image: https://i.imgur.com/h5xFZ3l.jpg
 date: 2018-05-22
 categories:
   - volunteering

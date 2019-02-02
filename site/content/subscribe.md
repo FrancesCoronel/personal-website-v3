@@ -1,14 +1,13 @@
 ---
 title: Subscribe
-description: You can subscribe to new updates via email or push notifications. 🌟
+description: You can subscribe to new updates via email. 🌟
+hideImage: true
 noComments: true
 noTimeEstimate: true
+image: https://i.imgur.com/yR5HPGY.jpg
 url: /subscribe/
 aliases:
   - /newsletter/
-  - /notifications/
-  - /push-notifications/
-  - /web-push/
   - /notify-me/
 ---
 
@@ -31,9 +30,3 @@ You can also <a href="https://us12.campaign-archive.com/home/?u=0c1cb29d65da6e77
     </p>
   </div>
 </form>
-
-## 📲 Push Notifications
-
-<p>You can subscribe to web push notifications so you're notified anytime I release something new.</p>
-
-<div class="onesignal-customlink-container"></div>

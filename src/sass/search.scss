@@ -39,9 +39,19 @@ table {
 
 .gsc-control-cse .gs-spelling,
 .gsc-control-cse .gs-result .gs-title,
-.gsc-control-cse .gs-result .gs-title * {
-  font-size: initial;
-  font-family: inherit;
+.gsc-control-cse .gs-result .gs-title *,
+.gs-bidi-start-align.gs-visibleUrl.gs-visibleUrl-long,
+div#resInfo-0,
+.gs-bidi-start-align.gs-snippet,
+.gsc-orderby-label.gsc-inline-block,
+.gsc-selected-option,
+.gsc-tabHeader.gsc-inline-block.gsc-tabhActive,
+.gsc-tabHeader.gsc-tabhInactive.gsc-inline-block,
+.gsc-cursor-page,
+a.gs-title,
+div#resInfo-1 {
+  font-size: initial !important;
+  font-family: initial !important;
 }
 
 .gsib_a,
@@ -165,4 +175,30 @@ textarea::-moz-placeholder {
 textarea:-ms-input-placeholder {
   /* Internet Explorer 10+ */
   color: transparent;
+}
+
+div#gs_st50 {
+  display: none;
+}
+
+.gsc-tabHeader {
+  padding: 0 !important;
+  height: auto !important;
+}
+
+table.gsc-resultsHeader {
+  display: none;
+}
+
+.gsc-thumbnail-inside,
+div#resInfo-0,
+td.gsc-result-info-container,
+td.gsc-table-cell-thumbnail.gsc-thumbnail,
+.gsc-url-top {
+  padding-left: 0 !important;
+}
+
+.gs-web-image-box-landscape img.gs-image {
+  max-width: auto !important;
+  max-height: auto !important;
 }

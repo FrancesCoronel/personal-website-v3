@@ -7,6 +7,8 @@ location: Fullstack Academy - New York, NY
 video: https://www.youtube.com/watch?v=nzOfNIL9GWE
 categories:
   - speaking
+tags:
+  - panel
 ---
 
 ## Event

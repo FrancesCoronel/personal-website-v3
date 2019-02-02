@@ -2,6 +2,7 @@
 title: Google Women Techmakers
 description: Member
 date: 2017-07-15
+image: https://i.imgur.com/89wIult.jpg
 categories:
   - program
 tags:
@@ -9,7 +10,7 @@ tags:
   - women in tech
 ---
 
- Women Techmakers is Google's global program and brand for women in technology.
+Women Techmakers is Google's global program and brand for women in technology.
 
 ## July 2017
 

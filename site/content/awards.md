@@ -2,11 +2,11 @@
 title: Awards
 description: Recognitions I've received. 🏆️
 image: https://i.imgur.com/ZdSLPUa.jpg
+awardsPage: true
+customPage: true
 hideImage: true
 noComments: true
 noTimeEstimate: true
-customPage: true
-awardsPage: true
 aliases:
   - /awards/
   - /home/awards/

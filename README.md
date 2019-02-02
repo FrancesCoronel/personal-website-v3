@@ -56,6 +56,8 @@ npm build
 
 I am always looking for ways to make my website more modular, lean, and clean.
 
+If you look up `TODO:`, you can also find some outstanding items in the source code.
+
 So if you have any suggestions, feel free to contribute!
 
 > To get started...

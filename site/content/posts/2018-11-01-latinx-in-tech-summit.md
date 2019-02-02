@@ -3,17 +3,19 @@ title: "Latinx in Tech Summit"
 date: 2018-11-01
 location: E-Sports Arena - Oakland, CA
 image: https://i.imgur.com/szMn6TO.jpg
+hours: 1.0
 description: "The LTX Summit will feature prominent voices and valuable curated programming, we will explore emerging tech, opportunities, access, advocacy, mindfulness, and identity."
 categories:
   - speaking
   - conference
+  - freelancing
 tags:
   - intersectionality
   - panel
   - latinx in tech
 ---
 
-Spoke at the [Latinx in Tech Summit](http://ltx-latinx-in-tech-summit.eventcreate.com/) on Intersectional Identity & Code Switching with Jordan Medina, Adi Barreto, Julio Rodriguez & Shidume Lozada.
+Spoke at the [Latinx in Tech Summit](http://ltx-latinx-in-tech-summit.eventcreate.com/) on Intersectional Identity & Code Switching with Jordan Medina, Adi Barreto, Julio Rodriguez & Shidume Lozada from 2:45 pm to 3:45 pm on November 1st, 2018.
 
 <blockquote class="embedly-card"><h4><a href="https://twitter.com/heggyhere/status/1058116873311535104">Heggy Javascript on Twitter</a></h4><p>LTX18 @fvcproductions @operaqueenie Talks on inclusion</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

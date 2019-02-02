@@ -1,10 +1,15 @@
 ---
 title: Girl Develop It
-description: Member, Speaker, Volunteer (TA)
+description: Member, Speaker, Volunteer (TA), Open Source Developer
+image: https://i.imgur.com/N3Ny8HV.jpg
 date: 2018-06-05
+aliases:
+  - /2018/08/15/gdisf-teaching-materials/
+  - /2018/09/06/girl-develop-it-sf-intro-to-javascript-variables-functions-ta/
 categories:
   - program
   - portfolio
+  - volunteering
 tags:
   - women in tech
 ---
@@ -20,8 +25,11 @@ tags:
 
 ## August 2018
 
-- Contributed to [gdisf/teaching-materials](https://github.com/gdisf/teaching-materials/commits?author=fvcproductions)
+- 2018-08-15: Contributed to [gdisf/teaching-materials](https://github.com/gdisf/teaching-materials/commits?author=fvcproductions)
+  - Open source contributions for Girl Develop It SF teaching materials.
+  - Added stale bot and merged some PRs.
 
 ## September 2018
 
-- [TA for "Intro to JavaScript: Variables & Functions" Workshop](https://www.meetup.com/Girl-Develop-It-San-Francisco/events/253392437/)
+- 2018-09-06: [TA for "Intro to JavaScript: Variables & Functions" Workshop](https://www.meetup.com/Girl-Develop-It-San-Francisco/events/253392437/)
+  - Volunteered as a TA for a GDI SF workshop on JavaScript.

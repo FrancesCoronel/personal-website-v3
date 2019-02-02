@@ -1,6 +1,8 @@
 ---
 title: Twemoji Tutorial
 date: 2017-07-16
+image: https://i.imgur.com/N3CXPfb.png
+description: Triggered a new release of twemoji due to a bug report.
 categories:
   - portfolio
 tags:

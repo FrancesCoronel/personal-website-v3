@@ -62,8 +62,6 @@ Feel free to [submit a new issue](https://github.com/fvcproductions/ama/issues/n
 
 If none of the above options seemed appropriate for you, feel free to go old school and use this nifty contact form!
 
-Please note that depending on the contact reason, it may take longer for me to get back to you.
-
 <div class="contact-form">
   <form name="contact" method="POST" data-netlify="true">
     <input type="hidden" name="_subject" value="FVCproductions - New Contact Message">

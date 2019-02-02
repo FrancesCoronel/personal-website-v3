@@ -9,7 +9,7 @@ categories:
   - speaking
   - volunteering
 tags:
-  - career-path
+  - breaking-into-tech
 ---
 
 ## Name

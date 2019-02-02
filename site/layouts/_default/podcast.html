@@ -2,10 +2,11 @@
 <!-- Hero -->
 {{ partial "body/hero/_index.html" . }}
 <!-- Page -->
+<!-- TODO: Edit rss.xml once first episode released -->
 <div class="section">
   <div class="container">
     <div class="content">
-      <blockquote>Coming January 2019</blockquote>
+      <blockquote>Coming soon</blockquote>
       <h2>Episodes</h2>
       <!-- Children -->
       <!-- Variables -->
@@ -15,7 +16,7 @@
       <div class="columns is-multiline">
         {{ range $podcast.ByDate.Reverse }}
         <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
-          {{ partial "body/content/card/plain-image.html" . }}
+          {{ partial "body/content/card/_index.html" . }}
         </div>
         {{ end }}
       </div>

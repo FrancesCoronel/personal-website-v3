@@ -1,14 +1,14 @@
 ---
 title: Resume
-description: A 1-page summary of my professional journey.
+description: A 1-page summary of my professional journey. 📝
 image: https://i.imgur.com/vEg8KOi.jpg
 hideImage: true
 noComments: true
 url: "/resume/"
 aliases:
-- "/home/awards/resume/"
-
+  - "/home/awards/resume/"
 ---
+
 ## For a live version of my resume, please refer to [my LinkedIn profile](https://linkedin.com/in/fvcproductions).
 
 > And feel free to connect with me on there as well! 👥️
