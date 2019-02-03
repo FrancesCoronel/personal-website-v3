@@ -54,7 +54,7 @@ module.exports = {
       cacheId: "fvcproductions",
       swDest: "sw.js",
       globDirectory: "./dist",
-      globPatterns: ["index.html", "404.html", "offline/index.html", "**/*.{js,css,png,svg,jpg,jpeg}"],
+      globPatterns: ["index.html", "404.html", "**/*.{js,css,png,svg,jpg,jpeg}"],
       offlineGoogleAnalytics: true,
       clientsClaim: true,
       skipWaiting: true,
