@@ -2,6 +2,7 @@
 title: Accenture Liquid Studio - Summer 2016
 description: AR/VR Software Engineering Intern
 date: 2016-06-01
+ended: 2016-08-12
 image: https://i.imgur.com/p8Sdocu.jpg
 aliases:
   - "/home/adventures/experience/accenture-liquid-studio/"

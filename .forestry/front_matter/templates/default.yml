@@ -54,22 +54,21 @@ fields:
     source:
       type: simple
     options:
-    - blog
-    - portfolio
-    - volunteering
-    - conference
     - award
-    - speaking
+    - blog
+    - conference
+    - education
+    - experience
+    - freelancing
+    - hackathon
+    - mentoring
+    - portfolio
+    - press
     - program
     - review
-    - hackathon
-    - education
-    - press
-    - experience
+    - speaking
     - talk
-    - freelancing
-    - mentoring
-    - experience
+    - volunteering
   label: Categories
   name: categories
   default: []

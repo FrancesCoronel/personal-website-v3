@@ -2,6 +2,7 @@
 title: 80|20 Software Consulting
 description: Front End Developer
 date: 2015-11-24
+ended: 2016-02-05
 image: https://i.imgur.com/XN286LW.jpg
 aliases:
   - "/home/adventures/experience/80-20/"

@@ -1,6 +1,7 @@
 ---
 title: Thinkful
 date: 2018-02-20
+ended: 2018-05-17
 description: Technical Mentor - Flexible Web Development Bootcamp
 image: https://tf-assets-prod.s3.amazonaws.com/splash/social/thinkful_logo.png
 categories:
@@ -17,7 +18,7 @@ Remote
 
 ## Date
 
-February 20th, 2018 to Present
+February 20th, 2018 to May 17th, 2018
 
 ## About
 

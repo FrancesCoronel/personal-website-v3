@@ -1,6 +1,7 @@
 ---
 title: Accenture Liquid Studio
 date: 2017-06-07
+ended: 2018-05-03
 description: Software Engineer
 image: https://i.imgur.com/2VW391R.jpg
 categories:

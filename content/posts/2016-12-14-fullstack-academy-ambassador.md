@@ -1,6 +1,7 @@
 ---
 title: Fullstack Academy
 date: 2017-12-14
+ended: 2018-06-04
 image: https://i.imgur.com/vTvG2lQ.png
 description: Ambassador
 slides: https://www.slideshare.net/FVCproductions/the-state-of-coding-bootcamps-2017
@@ -49,7 +50,7 @@ New York City, NY
 
 ## Date
 
-December 14, 2016 to June 4th, 2017
+December 14, 2016 to June 4th, 2018
 
 ## Role
 
