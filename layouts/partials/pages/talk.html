@@ -1,0 +1,16 @@
+<!-- Variables -->
+<!-- Talk -->
+{{ $talk := .Params.talk }}
+<!-- Events -->
+{{ $events := (index .Site.Taxonomies.tags $talk) }}
+<!-- Talk -->
+<div class="mt-2">
+  <h2>🗨️ Presented at {{ len $events }}{{ if gt (len $events) 1 }} events{{ else }} event{{ end }}</h2>
+  <div class="columns is-multiline">
+    {{ range $events }} {{ if .Date.Before now }}
+    <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
+      {{ partial "card.html" . }}
+    </div>
+    {{ end }} {{ end }}
+  </div>
+</div>

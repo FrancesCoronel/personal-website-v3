@@ -1,0 +1,38 @@
+<div class="section pb-0">
+  <div class="container">
+    <div class="content">
+      <!-- Title -->
+      <h1 class="hero-title">{{ .Title }}</h1>
+      <!-- Info -->
+      <!-- Description -->
+      {{ if .Description }}
+      <h2 class="subtitle has-text-grey-dark mt-0 is-size-4 mb-1">{{ .Description }}</h2>
+      {{ end }}
+      <!-- External Link -->
+      {{ if .Params.link }}
+      <h3 class="subtitle has-text-weight-light is-size-7 mt-sm">
+        <span class="mr-sm">🌐 </span><a href="{{ .Params.link }}" target="_blank" rel="noopener">{{ .Params.link }}</a>
+      </h3>
+      {{ end }}
+      <!-- Content Info -->
+      <div class="content-info">
+        {{ partial "page-info.html" . }}
+        {{ partial "page-links.html" . }}
+        <div class="mt-2">
+          {{ partial "taxonomy.html" . }}
+        </div>
+      </div>
+      <!-- Line Separator (doesn't show with images) -->
+      {{ if not (and (.Params.image) (not .Params.hideImage)) }}
+      <hr class="pt-sm mt-1">
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ if and (.Params.image) (not .Params.hideImage) }}
+<div class="section pt-0 pb-0">
+  <div class="container">
+    <img class="hero-image image lozad" src="{{ .Params.image }}" data-src="{{ .Params.image }}" alt="{{ .Title }}">
+  </div>
+</div>
+{{ end }}

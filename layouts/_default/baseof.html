@@ -1,0 +1,28 @@
+<!doctype html>
+<!-- HTML5 -->
+<html lang="en" dir="ltr" itemscope itemtype="http://schema.org/WebPage">
+
+<head prefix="og: http://ogp.me/ns#">
+  {{- partial "head.html" . -}}
+</head>
+
+<body>
+  <!--[if lte IE 9]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+  <!-- Return to Top -->
+  {{- partial "custom/return-to-top.html" . -}}
+  <!-- Navbar -->
+  {{- partial "navbar.html" . -}}
+  <!-- Main Content -->
+  <div role="main">
+    <!-- Main Block -->
+    {{ block "main" . }}{{ end }}
+  </div>
+  <!-- Footer -->
+  {{- partial "footer.html" . -}}
+  <!-- Scripts -->
+  {{- partial "scripts.html" . -}}
+</body>
+
+</html>

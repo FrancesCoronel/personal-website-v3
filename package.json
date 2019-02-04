@@ -9,7 +9,6 @@
     "start": "gulp server",
     "start:prod": "gulp server-prod",
     "start:preview": "gulp server-preview",
-    "lint": "eslint src",
     "clean": "gulp clean",
     "snyk-protect": "snyk protect",
     "prepublish": "npm run snyk-protect"

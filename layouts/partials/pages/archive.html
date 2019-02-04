@@ -1,0 +1,28 @@
+{{ $regularPages := .Site.RegularPages }}
+<div class="table-border-none">
+  <h2>✒️ I've written about {{ len $regularPages }} different things so far.</h2>
+  <!-- Pages -->
+  {{ range $regularPages.GroupByDate "2006" }}
+  <!-- Line Separator - Year -->
+  <!-- Check for No Date -->
+  {{ if not (eq .Key "0001") }}
+  <!-- Year -->
+  <h3>{{ .Key }}</h3>
+  <!-- Table -->
+  <table class="table">
+    <tbody>
+      {{ range .Pages }}
+      <tr>
+        <td style="width:20%;">{{ dateFormat "January 2" .Date }}</td>
+        <td>
+          <a {{ if .Params.link }} href="{{ .Params.link }}" target="_blank" rel="noopener" {{ else }} href="{{ .RelPermalink }}"{{ end }}>{{ .Title }}</a>
+        </td>
+      </tr>{{ end }}
+    </tbody>
+  </table>
+  {{ end }}
+  <!-- End - Range - Year -->
+  {{ end }}
+  <!-- End Message -->
+  {{ partial "custom/end-message.html" . }}
+</div>

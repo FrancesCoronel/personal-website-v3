@@ -1,0 +1,66 @@
+<!-- Date -->
+{{- if not .PublishDate.IsZero }}
+<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+  <span class="mr-sm">📅️</span>{{ if in .Params.categories "talk" }}First presented {{ end }}{{ dateFormat "Jan 2, 2006" .Date }}
+</p>
+{{- end }}
+<!-- Reading Time & Word Count -->
+{{- if not .Params.noTimeEstimate }}
+{{- if gt .ReadingTime 1 }}
+{{- if .WordCount }}
+<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+  <span class="mr-sm">📖</span>{{ .ReadingTime }} min read ∙ {{ .WordCount }} words
+</p>
+{{- end }}
+{{- end }}
+{{- end }}
+<!-- Location -->
+{{ if .Params.location }}
+<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+  <span class="mr-sm">🗺️</span>{{ .Params.location }}
+</p>
+{{ end }}
+<!-- Freelancing -->
+{{ if in .Params.categories "freelancing" }}
+<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+  <span class="mr-sm">💵</span>Paid Event
+</p>
+{{ end }}
+<!-- Hours Given -->
+{{ if .Params.hours }}
+<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+ <span class="mr-sm">⏳</span>{{ if eq .Params.hours 0.5 }}30 minutes{{ else if eq .Params.hours 1.0 }}{{ .Params.hours }} hour{{ else }}{{ .Params.hours }} hours{{ end }} taken
+</p>
+{{ end }}
+<!-- Mentoring -->
+{{ $mentoring := ($.Site.Taxonomies.categories.mentoring).Pages }}
+{{ $mentoringHours := 0 }}
+{{ range (where $mentoring ".Params.hours" "ne" nil) }}
+{{ $hours := .Params.hours | int }}
+{{ $mentoringHours = add $mentoringHours $hours }}
+{{ end }}
+{{ if eq .URL "/mentoring/" }}
+<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+  <span class="mr-sm">💛</span>{{ $mentoringHours }} hours volunteered so far
+</p>
+{{ end }}
+<!-- Freelancing -->
+{{ $freelancing := ($.Site.Taxonomies.categories.freelancing).Pages }}
+{{ $freelancingHours := 0 }}
+{{ range (where $freelancing ".Params.hours" "ne" nil) }}
+{{ $hours := .Params.hours | int }}
+{{ $freelancingHours = add $freelancingHours $hours }}
+{{ end }}
+{{ if eq .URL "/freelancing/" }}
+<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+  <span class="mr-sm">💸️</span>{{ $freelancingHours }} hours of freelancing so far
+</p>
+{{ end }}
+<!-- Presented at x events -->
+{{ if in .Params.categories "talk" }}
+{{ $talk := .Params.talk }}
+{{ $events := (index .Site.Taxonomies.tags $talk) }}
+<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+  <span class="mr-sm">🗨️</span>Presented at {{ len $events }}{{ if gt (len $events) 1 }} events{{ else }} event{{ end }}
+</p>
+{{ end }}

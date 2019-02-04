@@ -1,0 +1,41 @@
+{{ $showPageLinks := or (in .Params.categories "speaking") (in .Params.categories "talk") (.Params.slides) (.Params.video) (.Params.recording) }}
+{{ $showPageCategoriesTags := or (.Params.categories) (.Params.tags) }}
+<div class="card card-equal-height">
+  <a class="reset" aria-label="{{ .Title }}" {{ if .Params.link }} href="{{ .Params.link }}" target="_blank" rel="noopener" {{ else }} href="{{ .RelPermalink }}" {{ end }}>
+    <!-- Image -->
+    {{ if .Params.image }}
+    <div class="card-image">
+      <figure class="image card-image--figure">
+        <img src="{{ .Params.image }}" data-src="{{ .Params.image }}" alt="{{ .Title }}" class="lozad">
+      </figure>
+    </div>
+    {{ end }}
+    <div class="media-content {{ if $showPageLinks }}pb-sm{{ end }}">
+      <div class="content">
+        <!-- Title -->
+        <h4>{{ if not (.Params.hideUpcomingText) }}{{ if .Date.After now }}UPCOMING: {{ end }}{{ end }}{{ .Title }}{{ if .Params.link }} ↗️{{ end }}</h4>
+        <!-- Description -->
+        <p class="has-text-grey-dark">{{ if .Description }}{{ .Description | truncate 150 | safeHTML }}{{ else }}{{ .Summary | truncate 150 | safeHTML }}{{ end }}</p>
+        <!-- Info -->
+        {{- partial "page-info.html" . -}}
+      </div>
+    </div>
+  </a>
+  <!-- Links -->
+  {{ if $showPageLinks }}
+  <div class="media-content pt-0 {{ if $showPageCategoriesTags }}pb-sm{{ end }}">
+    <div class="content">
+      {{- partial "page-links.html" . -}}
+    </div>
+  </div>
+  {{ end }}
+  {{ if $showPageCategoriesTags }}
+  <div class="media-content pt-1">
+    <div class="content">
+      <!-- Taxonomy -->
+  {{ partial "taxonomy.html" . }}
+
+    </div>
+  </div>
+  {{ end }}
+</div>

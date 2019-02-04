@@ -1,0 +1,38 @@
+<hr>
+<div class="section section-share">
+  <h2>🌐️ Share</h2>
+  <!-- Twitter -->
+  <div class="social-icons mt-2">
+    <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&via={{ .Site.Social.twitter }}&text={{ .Title }}" target="_blank" rel="noopener" class="fa-twitter" aria-label="Share on Twitter" title="Share on Twitter">
+      {{ partial "icons/twitter.html" . }}
+    </a>
+    <!-- Facebook -->
+    <a href="https://www.facebook.com/sharer.php?u={{ .Permalink }}" target="_blank" rel="noopener" class="fa-facebook" aria-label="Share on Facebook" title="Share on Facebook">
+      {{ partial "icons/facebook.html" . }}
+    </a>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink | safeURL }}&title={{ .Title }}&summary={{ .Summary }}&source={{ .Site.Title }}" target="_blank" rel="noopener" class="fa-linkedin" aria-label="Share on LinkedIn" title="Share on LinkedIn">
+      {{ partial "icons/linkedin.html" . }}
+    </a>
+    <!-- Pinterest -->
+    <a href="https://pinterest.com/pin/create/bookmarklet/?media={{ .Params.image }}&url={{ .Permalink | safeURL }}&description={{ .Title }}" target="_blank" rel="noopener" class="fa-pinterest" aria-label="Share on Pinterest" title="Share on Pinterest">
+      {{ partial "icons/pinterest.html" . }}
+    </a>
+    <!-- Reddit -->
+    <a href="https://reddit.com/submit?url={{ .Permalink | safeURL }}&title={{ .Title }}" target="_blank" rel="noopener" class="fa-reddit" aria-label="Share on Reddit" title="Share on Reddit">
+      {{ partial "icons/reddit.html" . }}
+    </a>
+    <!-- Hacker News -->
+    <a href="https://news.ycombinator.com/submitlink?u={{ .Permalink | safeURL }}&t={{ .Title }}" target="_blank" rel="noopener" class="fa-reddit" aria-label="Share on Hacker News" title="Share on Hacker News">
+      {{ partial "icons/hacker-news.html" . }}
+    </a>
+    <!-- Email -->
+    <a href="mailto:?subject=Check%20out%20this%20work%20by%20{{ .Site.Title }}&body={{ .Permalink | safeURL }}" target="_blank" rel="noopener" class="fa-email" aria-label="Email this article" title="Email this article">
+      {{ partial "icons/email.html" . }}
+    </a>
+    <!-- Print -->
+    <a href="javascript:window.print()" target="_blank" rel="noopener" class="fa-print" aria-label="Print this article" title="Print this article">
+      {{ partial "icons/print.html" . }}
+    </a>
+  </div>
+</div>

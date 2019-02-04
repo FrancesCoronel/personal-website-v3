@@ -1,7 +1,0 @@
-<div class="field is-grouped is-grouped-multiline">
-  {{ range $category := .Params.categories }}
-  <div class="control">
-    <a class="tag is-link is-size-6" href="/categories/{{ $category | urlize }}/" title="{{ $category }}">{{ $category }}</a>
-  </div>
-  {{ end }}
-</div>

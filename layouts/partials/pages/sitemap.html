@@ -1,0 +1,18 @@
+<!-- Pages -->
+{{ $pages := where .Site.RegularPages "Type" "page" }}
+<!-- Pages & Section Pages -->
+{{ $pages := $pages | union (.Site.Sections) }}
+<div class="container">
+  <div class="content">
+    <h2>{{ len $pages }} pages in total</h2>
+    <div class="columns is-multiline">
+      <!-- Looping -->
+      {{ range $pages.ByTitle }}
+      <!-- Filter -->
+      <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
+        {{ partial "card.html" . }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>

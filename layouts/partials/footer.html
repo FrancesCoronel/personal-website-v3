@@ -1,0 +1,64 @@
+<footer class="footer">
+  <div class="container has-text-centered">
+    <div class="content">
+      <section class="section">
+        <nav class="level">
+          {{ $parentPages := where .Site.RegularPages "Type" "page" }}
+          {{ $footerPages := $parentPages | union (.Site.Sections) }}
+          {{ range $footerPages.ByTitle }}
+          {{ if .Params.footer }}
+          <div class="level-item has-text-centered">
+            <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}">
+              {{ if .Params.display }}{{ .Params.display }}{{ else }}{{ .Title }}{{ end }}
+            </a>
+          </div>
+          {{ end }}
+          {{ end }}
+        </nav>
+      </section>
+      <section class="section">
+        <div class="social-icons">
+          <!-- GitHub -->
+          <a href="https://github.com/fvcproductions" target="_blank" rel="noopener" class="fa-github" aria-label="FVCproductions on GitHub" title="FVCproductions on GitHub">
+            {{ partial "icons/github.html" . }}
+          </a>
+          <!-- LinkedIn -->
+          <a href="https://www.linkedin.com/in/fvcproductions" target="_blank" rel="noopener" class="fa-linkedin" aria-label="FVCproductions on LinkedIn" title="FVCproductions on LinkedIn">
+            {{ partial "icons/linkedin.html" . }}
+          </a>
+          <!-- SlideShare -->
+          <a href="https://slideshare.net/fvcproductions" target="_blank" rel="noopener" class="fa-slideshare" aria-label="FVCproductions on SlideShare" title="FVCproductions on SlideShare">
+            {{ partial "icons/slideshare.html" . }}
+          </a>
+          <!-- RSS -->
+          <!-- <a href="/feed.xml" target="_blank" rel="noopener" class="fa-rss" aria-label="FVCproductions on RSS" title="FVCproductions on RSS">
+            {{ partial "icons/rss.html" . }}
+          </a> -->
+          <!-- Product Hunt -->
+          <a href="https://www.producthunt.com/@fvc" target="_blank" rel="noopener" class="fa-product-hunt" aria-label="FVCproductions on Product Hunt" title="FVCproductions on Product Hunt">
+            {{ partial "icons/product-hunt.html" . }}
+          </a>
+          <!-- Twitter -->
+          <a href="https://twitter.com/fvcproductions" target="_blank" rel="noopener" class="fa-twitter" aria-label="FVCproductions on Twitter" title="FVCproductions on Twitter">
+            {{ partial "icons/twitter.html" . }}
+          </a>
+          <!-- YouTube -->
+          <a href="https://www.youtube.com/+fvcproductions2013" target="_blank" rel="noopener" class="fa-youtube" aria-label="FVCproductions on YouTube" title="FVCproductions on YouTube">
+            {{ partial "icons/youtube.html" . }}
+          </a>
+        </div>
+      </section>
+      <!-- Last updated -->
+      <section class="section is-desktop-only">
+        {{ $latestPost := where .Site.RegularPages "Date" "le" now | first 1 }}
+        {{ range $latestPost }}
+        <p>This website was last updated <a href="{{ .RelPermalink }}" rel="noopener">{{ dateFormat "January 2, 2006" .Date }}</a>.</p>
+        {{ end }}
+      </section>
+      <!-- Copyright -->
+      <section class="section">
+        <p>©️ <a href="/" target="_blank" rel="noopener" title="{{ .Site.Title }}">{{ .Site.Title }}</a>{{ with .Site.Params.year }} {{ . }} {{ end }} to {{ now.Year }}</p>
+      </section>
+    </div>
+  </div>
+</footer>

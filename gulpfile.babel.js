@@ -22,7 +22,7 @@ const webpackDevConfig = require("./webpack.dev");
 // Does not purify it since that takes longer
 gulp.task("sass", () => {
   return gulp
-    .src(["./src/sass/styles.scss", "./src/sass/search.scss"])
+    .src(["./assets/sass/styles.scss", "./assets/sass/search.scss"])
     .pipe(
       sass({
         outputStyle: "compressed",
@@ -35,7 +35,7 @@ gulp.task("sass", () => {
 // PROD: Compress SASS
 gulp.task("sass-minify", () => {
   return gulp
-    .src(["./src/sass/styles.scss", "./src/sass/search.scss"])
+    .src(["./assets/sass/styles.scss", "./assets/sass/search.scss"])
     .pipe(
       sass({
         outputStyle: "compressed",
@@ -54,13 +54,13 @@ gulp.task("sass-minify", () => {
 // DEV: Move images
 gulp.task("img", () => {
   return gulp
-    .src("./src/img/**/*")
+    .src("./assets/img/**/*")
     .pipe(gulp.dest("./dist/assets/img"));
 });
 
 // PROD: Move & minify images
 gulp.task("img-minify", () => {
-  return gulp.src("./src/img/**/*")
+  return gulp.src("./assets/img/**/*")
     .pipe(imagemin())
     .pipe(gulp.dest("./dist/assets/img"));
 });
@@ -118,10 +118,10 @@ const runServer = (options) => {
       baseDir: "./dist"
     }
   });
-  gulp.watch("./src/js/**/*.js", gulp.series("js"));
-  gulp.watch("./src/sass/**/*.scss", gulp.series("sass"));
-  gulp.watch("./src/img/**/*", gulp.series("img"));
-  gulp.watch("./site/**/*", gulp.series(options));
+  gulp.watch("./assets/js/**/*.js", gulp.series("js"));
+  gulp.watch("./assets/sass/**/*.scss", gulp.series("sass"));
+  gulp.watch("./assets/img/**/*", gulp.series("img"));
+  gulp.watch(["./**/*", "!./dist/**/*", "!./assets/**/*"], gulp.series(options));
 };
 
 // DEV & PROD: Run Hugo
@@ -142,7 +142,7 @@ const buildSite = (done, options, environment) => {
 };
 
 // Hugo arguments
-const hugoArgsDefault = ["-d", "../dist", "-s", "site", "--verbose"];
+const hugoArgsDefault = ["-d", "./dist", "-s", "./", "--verbose"];
 const hugoArgsPreview = ["--buildDrafts", "--buildFuture"];
 
 // DEVELOPMENT

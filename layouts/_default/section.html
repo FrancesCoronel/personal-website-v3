@@ -1,0 +1,17 @@
+{{ define "main" }}
+<!-- Hero -->
+{{ partial "hero.html" . }}
+<!-- Page -->
+<div class="section">
+  <div class="container">
+    <div class="content">
+      <!-- Content -->
+      {{ partial "content.html" . }}
+      <!-- Children -->
+      {{ partial "children.html" . }}
+    </div>
+    <!-- Pagination -->
+    {{ partial "paginator.html" . }}
+  </div>
+</div>
+{{ end }}

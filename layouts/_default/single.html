@@ -1,0 +1,17 @@
+{{ define "main" }}
+<!-- Hero -->
+{{ partial "hero.html" . }}
+<!-- Page -->
+<div class="section">
+  <div class="container">
+    <div class="content">
+      <!-- Content -->
+      {{ partial "content.html" . }}
+      <!-- Custom Content -->
+      {{ partial "pages/_index.html" . }}
+    </div>
+  </div>
+</div>
+<!-- Footer -->
+{{ partial "footer/_index.html" . }}
+{{ end }}
