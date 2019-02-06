@@ -70,7 +70,7 @@ Dino](https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/exhi
   - **Exactly.**
 - After that whole warp back in time was over and done with, I had lunch with Kelsey and Jovia at this yummy vegetarian place. This is when I finally found out that same sex marriage is finally legal **EVERYWHERE**. WOOT WOOT!!!
 
-![Pride Octocat](https://lh3.googleusercontent.com/Wnq2PJa72aFdF4eqdkzrgWnEtrznZT1_hosN4NsB6zZeTu7sP3XluAD0OAKn3merOs872xadSeZASFdZk1zH3P5PA6vylZott8YuAPrbrkvElcbHB_xeHJuIlS_WNWtxBE3nqxAsM36oQtaH_OJQifkT2wbdYdTH1lSAmZREJdNWN60fc-40Heec2A9SL1g-CWl5F-pmuoAeU7o1t_uSnT32MDOUML1otaD-UKQXag1zyVK96hIAb07Ffd_ngJxMWZA0ysxhgS07VakJuA-CrhePTfK1CYvIFQRfw6Tq4-LJCbMeTdTk1zZNeOhxqxPgKVaabmMVCJmfI3ae2wGbGG0GsPEBsOXMzStZ8kXQr_-glMdLw7nj6cDixDh3igYa4WMKiFUT2eryu7C4z9S3r3LTdipigocpejRdkAclf7wllWmfJUdbAfvjv75Rwb0TMydJPLYHFPIPmyHmYmj57tISodC3gikghx05zU0hrOy0mMAgsVZGYrxu8CjrzPf6-us5mKR_qvrq3RpXmIYmaoyR-mJWWTSmYqFv3Q4WBGXZlSNSspeT2CIajClSlqPeCnrmxspDW19xGSAmgcV05txa8gnPzhIClgmNUejPqOplsZfRIu7x-0WF0uftjMTJ=w57-h56-no)
+![Pride Octocat](https://i.imgur.com/4eXPTDL.png)
 
 - Once all was said and done and we headed back to Fullstack, I was very full and tired, so the lecture on Promises didn't get the attention it deserved from me.
 - Thankfully though, afterwards, by some freakish and questionable miracle, I'm not struggling with the workshop that much at all. _Mmmhmmm._
@@ -85,4 +85,4 @@ Dino](https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/exhi
 
 This theme for creating a post today on Wordpress is very snazzy! Kudos to the sensational WP team.
 
-![Same Sex Marriage - YAY!!](https://lh3.googleusercontent.com/SXRYo8epLncHeUT7Vt5OZOtZeaE18ue5nOI4Nd_l8ZteeSWJGAUDPsTPnlsqlrjteDtogbUH73Ew58kCtytELyVvqcitU4LgXZ-sLlapMb13HihAx6heBG45pEDIj_zzqvh6RAiHpagixGoGKkHerK9fBLfa6BrFN9hI8GSSs_Lvq79oiOwfoSNBfDOPMkQy5NYQKUGR0wX7aNzFBS6VpA1_6D1ju1N5Uqchb4XxwyrXMc0e1EGPNlT6A4OaxsIKNwa5ja4mC20_2_Lu3yUiJs-BWEZ_cEqN48X4iAQ7KODy3jFzlfyvegGrvxmk3aVIp9m0LTBUm6IyhZO9zbWlcl-qtZ6VJVOVA_K6htrBlVsjmkAdz8c4dwtW_XmLGcRFl51zv_nP3YWHhKb76JVy5t_zbeUZ61yKCn6ZexSs84UHMwi9cq0yhyuxucsG13FZ4Sx1UI5bf6U-w_nztkq3AHdv2OpphlQNe5H2tLAS5U4WBjcOK9q50rrA6fPQUVt5mymr7E6D1t0-nKL8HOFaFsF1kiiPt2FqcIeNDAlVhCTIRmX7_uiOka5CCBioHxBdSUxRDQopn1br-7OqK9buzkZMKd1n1lQCiqwApFoidbKe_rWKqZny09q-HxCRSSHW=w389-h220-no)
+![Same Sex Marriage - YAY!!](https://i.imgur.com/hHFfjq0.png)

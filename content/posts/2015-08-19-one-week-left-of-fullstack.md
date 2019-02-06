@@ -231,7 +231,7 @@ week7();
 
 > My team's Stackstore. See it in full glory on Heroku at [`http://robopocalypse.herokuapp.com`](http://robopocalypse.herokuapp.com).
 
-![Robopocalypse](https://lh3.googleusercontent.com/RuiAdLNBdNQc0Wl5rBac54tQTbe11Z0z6dTcOaZc71ztQBM3LrQld0TSDARQ3BADSu_eQvVp7ewRc__GL-b2XjZ2tOBbmvSQrWA3CUhF3QmeDRQeIb8sp9c_M7-vN96ZZfcQEbFjEI3PY83Kls1wroXEwnyX9DFpn5LeS29n66h3E5I2BST6UmoKjUPB66MTC59kAJFioZjz5sICbkHhmPBlawatwCFe5Lz7IKKlqpXwtJHb4YLT5srJjOBk5mMcDRTxlPCYWLifE2rTP3OlMVHIAjkQKciGe-J7R44MPG5XHKiqAhqyF-Y48wjv7qmnaDbzrMI9C79IfSu-TzSE7vOb6WToLjUh2hfDMaTfUpQCxPAyLcnOlCROYdcy0U9ADEEmGIQMFVcUuz6OM7ZO5wo-ZhV9RKQG63kOMlyRWz-_WXYirLslNemVDCwHECnX3Os0ZS2z--44gKITbSOtL9qCdJi61KPlZYc-mnY89aCKYphJ-5grXftM0zcW_7MB01HKkvME76lnmMiz-vsNx7yuiZ049BpykqgDKlU4BQb7E_E-E5y5fYV2UobWtd1CGlKg02KjWctc92A9q-nOCdc4mKU09FZDa9TU1Bx7iJMu8TuXNKleYdQ9Ew7w-vPs=w1425-h790-no "Robopocalypse4")
+![Robopocalypse](https://i.imgur.com/ThVHuJZ.png "Robopocalypse4")
 
 ![TimeTravel](https://i0.wp.com/33.media.tumblr.com/5cb4da2b5e80b058cfc8f2e222dabf9c/tumblr_n47fo0mYwR1qd8w33o1_500.gif)
 
@@ -256,7 +256,7 @@ week7();
 
 > Stackathon Project – About Page
 
-![RankMe](https://lh3.googleusercontent.com/7LHPDhuWsiY_kqwuF0Rj3SvmqQPMaDMnj2lQllF9FridU4XCFMQC-DsHEo68v0kToJmMYIiJWJjJvh15k1h65xcZqfW8I2313Pa_NVubdzFn-bfVJ-CyT1nEiobgEa3pSXFJys-Qg4igmom7Qf9rCuInqaQt6f3YGYmxGeGbOkYnUf4LDuuCFykZcMb21osRgTwe757zg1d_yFCShHAIiYMfyGAQfSxDKeVtWoRu_JYe0cIuV-iKkwq5J1d2ony7Zy5sTw89lTgi-Q-FlUPBTcRyPlEye086l0mIlZzgNtIg1Giz9J6AlPEK_JgPMcyWDgp5jU_WuSRCwg4ytY9em2hpF4mGgwseSH0LK9f1dd_K1KKTbOmW9-WXYdo7b7OSJueisn6DVU88Q640kKU9P0Dbel1IABTOdOGiM2MGVHAeDv9PUdw_BzVTeE-K2A6DpbfFNtySoU8R8fc9N1m3nlDIkeiaC_JtoQNRQBe1Lu8ylFhBANnMv2-mJAfcoaOr17Gr3CsCH12r95E0CmRihXMt00vXeK2sc5zfcUXNdjtMOXL3gvh7CO5oEsYbaaeXif6tcdib0OOOg1AdbYQm2ttljthwmraU71efp43_JOtzHpiMhPtYMenEAYIYRUyf=w1196-h969-no)
+![RankMe](https://i.imgur.com/RYmgWzP.png)
 
 > Capstone Project – `Hiredot2` – Wireframing
 

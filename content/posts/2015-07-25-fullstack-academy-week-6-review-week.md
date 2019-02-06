@@ -86,4 +86,4 @@ Style](https://sd.keepcalm-o-matic.co.uk/i/keep-calm-because-finally-i-m-senior-
 
 ![Thank you.](https://media.giphy.com/media/3oEduJnper1UdNqreg/giphy.gif)
 
-![Sally Conference](https://lh3.googleusercontent.com/saZ-8P8MYZejD941PCmOd1sY-cdv3Bvu6qL9PMGo5j0LziPC8FllwMjxCwZYhnj6Ql0tcgC-iXbufmeqG0_99gwyqXeR9q9ThElyetH68MzxXGYxjnFgm1hfAw9H180puOmFJWB8NNoAoOuEx0vc9RFxwioehOBFBT6IV6hpNMSGt6arGlMhRUVv5QRK4kDbCWdzj07R6H0NXmsU3a2ZlQTYbTRj4cYB0yUg3kuCEU-4HYJHBe7UhxlM3NHoWfnSRxae5WsE10BRauEuVkcb4IW_4bIDAA2nB461M_jFd2stiN-2QP0Ku-n7YuEHa5zHTmpHlzjfxBUj-hBZSQxJEQKR8f340BbMKodo4HsapQWlSYMFo7QephCs3TKoy3QLYwk1AaOS8B_IIQNUh1N6hq0ga0nQgEO4XyfNZfUqaKBtyBOS5mMae4KcOP7XkDIRd0S8Fr1Tb2n_mHBkn3KCoc37WNkBHcz9EF4_sJRL46mVfIRwVnjd3HxHkC9ZbPUB_AHCVptQ6HYk5CYWhI4xcn9WFe-4r-2HdcGJb26ktbKuvomFBehIqwLiSCW_ZUqTUlvlRly0A-m2BeAVE6rV3nxgDrp_IhTpDE87NWDxMozoWqjljy2sxykuDoOjZqFG=w659-h721-no)
+![Sally Conference](https://i.imgur.com/WYxXPZQ.png)
