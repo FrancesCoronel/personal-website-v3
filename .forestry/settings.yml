@@ -1,8 +1,8 @@
 ---
 new_page_extension: md
 auto_deploy: true
-admin_path: .forestry
-webhook_url:
+admin_path: ".forestry"
+webhook_url: 
 sections:
 - type: directory
   path: content/podcast
