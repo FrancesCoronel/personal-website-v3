@@ -16,7 +16,7 @@ tags:
   - codenewbie
 ---
 
-[Codenewbie](https://www.codenewbie.org/podcast) features stories from people on their coding journey.
+[CodeNewbie](https://www.codenewbie.org/podcast) features stories from people on their coding journey.
 
 Recording was on November 27th, 2018. Released as the 200th episode on February 17th, 2019.
 

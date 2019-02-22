@@ -29,7 +29,7 @@ Introducing **Tech Queens**, a podcast that focuses on stories and advice by wom
 
 `#TechQueens`
 
-![TechQueens](/assets/img/podcast/tech-queens-banner.png)
+![TechQueens](/assets/img/podcast/tech-queens-square.png)
 
 ## Who?
 

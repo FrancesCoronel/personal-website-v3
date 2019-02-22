@@ -3,8 +3,8 @@ title: Women Impact Tech - San Francisco
 description: Women Impact Tech (WIT) is an exclusive event that aligns hundreds of top women engineers with companies who are committed to inclusion and innovation.
 location: Hyatt Regency - San Francisco, CA
 link: https://www.andiamogo.com/WITSF
-image: https://i.imgur.com/igC4TQm.png
-date: 2019-03-02
+image: https://i.imgur.com/GwCWVau.jpg
+date: 2019-03-05
 categories:
   - conference
 tags:
