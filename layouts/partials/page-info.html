@@ -4,6 +4,26 @@
   <span class="mr-sm">📅️</span>{{ if in .Params.categories "talk" }}First presented {{ else if in .Params.categories "experience" }}{{ end }}{{ dateFormat "Jan 2, 2006" .Date }}{{ if in .Params.categories "experience" }}{{ with .Params.ended }} to {{ . | dateFormat "Jan 2, 2006" }}{{ end }}{{ end }}
 </p>
 {{- end }}
+<!-- Work Experience -->
+{{ $experiencePages := ($.Site.Taxonomies.categories.experience).Pages }}
+{{ $experienceHoursTotal:= 0 }}
+{{ range (where $experiencePages ".Params.ended" "ne" nil) }}
+{{ $experienceStart := (time .Date) }}
+{{ $experienceEnd := (time .Params.ended) }}
+{{ $experienceDiff := $experienceEnd.Sub (time $experienceStart) }}
+{{ $experienceHours := $experienceDiff.Hours }}
+{{ $experienceHoursTotal = add $experienceHoursTotal $experienceHours }}
+{{ end }}
+{{ $experienceDays := int (div $experienceHoursTotal 24) }}
+{{ $experienceMonths := int (div (mod $experienceDays 365) (30)) }}
+{{ $experienceYears := int (div $experienceDays 365) }}
+{{ $experienceDaysTotal := int ((mod (mod $experienceDays 365) (30))) }}
+<!-- Experience Page -->
+{{ if eq .URL "/experience/" }}
+<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+  <span class="mr-sm">🕒</span>{{ if not (eq $experienceYears 0) }}{{ $experienceYears }} years,{{ end }} {{ $experienceMonths }} months{{ if not (eq $experienceDaysTotal 0) }}, {{ $experienceDaysTotal }} days{{ end }} of work experience since 2015
+</p>
+{{ end }}
 <!-- Time in Role -->
 {{ if .Params.ended }}
 <p class="subtitle has-text-weight-light is-size-7 mt-sm">

@@ -6,7 +6,9 @@ noComments: true
 noTimeEstimate: true
 navbar: true
 url: /posts/
+hideUpcomingText: true
 postsPage: true
+image: https://i.imgur.com/9YnoBmK.jpg
 aliases:
   - /adventures/
   - /home/adventures/
