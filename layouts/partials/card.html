@@ -23,7 +23,7 @@
   </a>
   <!-- Links -->
   {{ if $showPageLinks }}
-  <div class="media-content pt-0 {{ if $showPageCategoriesTags }}pb-sm{{ end }}">
+  <div class="media-content pt-0 {{ if $showPageCategoriesTags }}pb-sm{{ else }}pb-1{{ end }}">
     <div class="content">
       {{- partial "page-links.html" . -}}
     </div>
@@ -33,8 +33,7 @@
   <div class="media-content pt-1">
     <div class="content">
       <!-- Taxonomy -->
-  {{ partial "taxonomy.html" . }}
-
+      {{ partial "taxonomy.html" . }}
     </div>
   </div>
   {{ end }}

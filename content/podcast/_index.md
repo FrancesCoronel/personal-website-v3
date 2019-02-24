@@ -1,15 +1,15 @@
 ---
 title: Tech Queens 👑
-display: Podcast
 description: "Stories and advice shared by women of color in tech."
-image: "/assets/img/podcast/tech-queens-banner.png"
-noComments: true
-navbar: true
-noTimeEstimate: true
+display: Podcast
 hideUpcomingText: true
 icon: 🎙️
-url: /podcast/
+image: "/assets/img/podcast/tech-queens-banner.png"
 layout: "podcast"
+navbar: true
+noComments: true
+noTimeEstimate: true
+url: /podcast/
 tags:
   - tech queens
   - women of color in tech
@@ -47,43 +47,11 @@ Hi, I'm Frances!
 
 I'm a Latina (Peruvian-American) who engineers solutions to make your working life more simple, more pleasant and more productive.
 
-Or better yet, I'm a [unicorn](<https://www.wikiwand.com/en/Unicorn_(finance)>) (1% of women in tech identify as Latina) who is working for another unicorn ([Slack](https://slack.com)). 🦄
-
-You can find more deets on my [about page](/about).
-
-### Want to be on the podcast?
-
-Email me at [`hello@techqueenspod.com`](mailto:hello@techqueenspod.com) with the following items:
-
-- Name
-- Ethnic background
-- LinkedIn
-- Twitter/Facebook/Instagram
-- Brief 1 to 2 sentence blurb on why you want to be on the podcast
-- A question you feel is relevant that you want to answer and is not going to be covered (see [format section](#what) below)
-
-Here's a quick template to make it easy-peasy:
-
-```txt
-Frances Coronel
-
-Latina (Peruvian-American)
-
-https://linkedin.com/in/fvcproductions
-
-https://twitter.com/fvcproductions
-
-https://instagram.com/fvcproductions
-
-I want to be on #TechQueens because XYZ...
-
-I want to answer the question "Is there really a pipeline issue?"
-```
+Or better yet, I'm a [unicorn](<https://www.wikiwand.com/en/Unicorn_(finance)>) (1% of women in tech identify as Latina) who is working for another unicorn ([Slack](https://slack.com)). 🦄 You can find more deets on my [about page](/about).
 
 ## When?
 
-- Every 2 weeks on Monday at 12 pm
-  - minus most holidays and weeks where I'm just too busy tbh 😂
+- Every 2 weeks on Monday or Friday in the morning or afternoon
 
 ## Where?
 
@@ -107,6 +75,65 @@ The format for each 1 hour session will look something like this:
 - What does the term XYZ mean to you and how has it impacted your career? `#LearnThatTerm`
 - What is an organization or affinity group that you would recommend joining? `#Friendlies`
 - Where do you live online or how can people reach out to you? `#GrowYourNetwork`
+
+## Want to be on the podcast?
+
+<form name="podcast" method="POST" data-netlify="true">
+  <input type="hidden" name="_subject" value="FVCproductions - TechQueens Podcast Request">
+  <div class="field">
+    <label class="label">Name</label>
+    <div class="control has-icons-left">
+      <input class="input" aria-label="Name" autocomplete="on" type="text" name="name" placeholder="Your full name">
+      <span class="icon is-left">
+        ✒️
+      </span>
+    </div>
+  </div>
+  <div class="field">
+    <label class="label">Email</label>
+    <div class="control has-icons-left">
+      <input class="input" aria-label="Email" autocomplete="on" type="email" name="email" placeholder="Your email">
+      <span class="icon is-left">
+        ✉️
+      </span>
+    </div>
+  </div>
+  <div class="field">
+    <label class="label">LinkedIn</label>
+    <div class="control has-icons-left">
+      <input class="input" aria-label="LinkedIn" autocomplete="on" type="url" name="linkedin" placeholder="Your LinkedIn profile URL">
+      <span class="icon is-left">
+        💼️
+      </span>
+    </div>
+  </div>
+  <div class="field">
+    <label class="label">Other online profiles (Twitter, Instagram, website, etc)</label>
+    <div class="control has-icons-left">
+      <textarea class="textarea" aria-label="Other Online Profiles" rows="2" name="other-online-profiles" placeholder="URLs of any other online profiles you have"></textarea>
+    </div>
+  </div>
+  <div class="field">
+    <label class="label">What is a question you would like to be asked in the session?</label>
+    <div class="control">
+      <textarea class="textarea" aria-label="What is a question you would like to be asked in the session?" spellcheck="true" rows="1" name="session-question"></textarea>
+    </div>
+  </div>
+  <div class="field">
+    <label class="label">Anything else you'd like to add?</label>
+    <div class="control">
+      <textarea class="textarea" aria-label="Anything else you'd like to add?" spellcheck="true" rows="1" name="anything-else"></textarea>
+    </div>
+  </div>
+  <div data-netlify-recaptcha="true"></div>
+  <div class="field">
+    <div class="control">
+      <button type="submit" class="button is-link">Send message</button>
+    </div>
+  </div>
+</form>
+
+---
 
 ## Kudos
 

@@ -5,10 +5,12 @@ image: https://i.imgur.com/0A9tWTe.png
 description: Expert Silicon Valley technologists deliver keynotes that help full stack developers prepare for the next decade of programming. 💭
 location: Infosys - Palo Alto, CA
 slides: https://www.slideshare.net/FVCproductions/a-fullstack-future-progressive-web-apps
+hours: 0.5
 aliases:
   - /2018/07/28/a-fullstack-future/
 categories:
   - speaking
+  - freelancing
 tags:
   - pwas101
 ---

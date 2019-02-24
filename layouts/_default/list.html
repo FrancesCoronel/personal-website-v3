@@ -8,19 +8,21 @@
   <div class="container">
     <!-- Content -->
     <div class="content table-border-none">
-      <blockquote>{{ len $listPages }} pages</blockquote>
+      <blockquote>{{ len $listPages }} {{ if gt (len $listPages) 1 }}pages{{ else }}page{{ end }}</blockquote>
       <!-- Range -->
       {{ range $listPages.GroupByDate "2006" }}{{ partial "list.html" . }}{{ end }}
+      <br>
       <!-- End Message -->
       {{ if gt (len $listPages) 1 }}
       {{ partial "custom/end-message.html" . }}
       {{ end }}
       <!-- Categories Links -->
-<!-- See all categories -->
-<h5 class="has-text-weight-light">
-  See all
-  <a href="/categories/">categories</a> or <a href="/tags/">tags</a>.
-</h5>    </div>
+      <!-- See all categories -->
+      <h5 class="has-text-weight-light">
+        See all
+        <a href="/categories/">categories</a> or <a href="/tags/">tags</a>.
+      </h5>
+    </div>
   </div>
 </div>
 {{ end }}

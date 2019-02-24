@@ -18,21 +18,9 @@ tags:
 
 > Techqueria is one of the largest communities of Latinx professionals in the tech industry.
 
----
+## February 18th, 2019
 
-title: "Latinx ERG Leads Meeting"
-description: "Attended ERG lead meetings to discuss the Latinx initiatives at different workplaces."
-date: 2019-01-24
-location: San Francisco, CA
-image: https://techqueria.org/assets/img/logos/banner-logo-only.png
-categories:
-
-- program
-  tags:
-- erg
-- latinx in tech
-
----
+Techqueria granted 1Password open source team membership: https://twitter.com/fvcproductions/status/1097586696789602304
 
 ## January 24th, 2019 - ERG Leads Meeting #2
 

@@ -18,34 +18,6 @@ aliases:
 
 Website design, development, and copy by Frances Coronel.
 
-<!-- TOC -->
-
-- [The Beginnings](#the-beginnings)
-- [What I Use](#what-i-use)
-- [Source Code](#source-code)
-- [Domains](#domains)
-  - [Domain Searching](#domain-searching)
-    - [Best Candidates](#best-candidates)
-    - [Candidates](#candidates)
-    - [Available](#available)
-- [Tools](#tools)
-- [Testing](#testing)
-  - [Codacy](#codacy)
-  - [Codebeat](#codebeat)
-  - [CodeFactor](#codefactor)
-  - [FOSSA](#fossa)
-  - [Lighthouse](#lighthouse)
-- [Branding](#branding)
-  - [Colors](#colors)
-  - [Fonts](#fonts)
-- [Formatting](#formatting)
-  - [Third level](#third-level)
-    - [Fourth level](#fourth-level)
-      - [Fifth level](#fifth-level)
-        - [Sixth level](#sixth-level)
-
-<!-- /TOC -->
-
 ## The Beginnings
 
 This website was originally born with Wordpress.com in my final month of high school (June 2013).
@@ -57,68 +29,6 @@ The software and hardware I use on a day to day basis can be found on my [What I
 ## Source Code
 
 The source code [can be found on GitHub](https://github.com/fvcproductions/fvcproductions.github.io).
-
-## Domains
-
-I bought my domain `fvcproductions.com` August 20th, 2014.
-
-Before that, the domain used to be `fvcproductions.wordpress.com`.
-
-The main URL for this website is https://www.fvcproductions.com and there are several URLs that also redirect to it.
-
-- https://fvcproductions.com
-- https://fvcproductions.github.io (GitHub Page)
-- https://latinaswe.com (expiring)
-- https://latinasoftwareengineer.com
-- https://latinahacker.com
-- https://latinaprogrammer.com
-- https://latinatechnologist.com
-- https://techqueenspod.com (redirects to podcast page)
-
-### Domain Searching
-
-I'm also looking into these domains...
-
-#### Best Candidates
-
-- https://latinatechie.com
-  - 2018-08-25
-- https://latinaengineer.com
-  - 2018-10-17
-- https://latinacoder.com
-  - 2019-05-04
-
-#### Candidates
-
-- https://latinaintech.com
-  - 2018-09-20
-- https://latinosintech.com
-  - 2018-09-01
-- https://codingisfun.com
-  - 2018-09-18
-- https://ilovetocode.com
-  - 2018-12-24
-- https://peruvianamerican.com
-  - 2019-05-16
-- https://peruvian.com
-  - 2020-11-09
-- https://peruana.com
-  - 2020-12-02
-- https://icode.com
-  - 2021-10-10
-- https://latinagenius.com
-- https://latinaguru.com
-- https://latinageek.com
-- https://frances.com
-- https://francescoronel.com
-
-#### Available
-
-- https://latinaengineering.com
-- https://latinawhocodes.com
-- https://latinosoftwareengineer.com
-- https://latinsoftwareengineer.com
-- https://peruvianengineer.com
 
 ## Tools
 
@@ -165,6 +75,23 @@ I use the lovely Oxford Blue with the HEX value of `#253137`
 ### Fonts
 
 `BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif`
+
+## Domains
+
+I bought my domain `fvcproductions.com` August 20th, 2014.
+
+Before that, the domain used to be `fvcproductions.wordpress.com`.
+
+The main URL for this website is https://www.fvcproductions.com and there are several URLs that also redirect to it.
+
+- https://fvcproductions.com
+- https://fvcproductions.github.io (GitHub Page)
+- https://latinaswe.com (expiring)
+- https://latinasoftwareengineer.com
+- https://latinahacker.com
+- https://latinaprogrammer.com
+- https://latinatechnologist.com
+- https://techqueenspod.com (redirects to podcast page)
 
 ---
 
@@ -226,9 +153,9 @@ Nulla efficitur eleifend nisi, sit amet bibendum sapien fringilla ac. Mauris eui
 
 Aliquam sagittis rhoncus vulputate. Cras non luctus sem, sed tincidunt ligula. Vestibulum at nunc elit. Praesent aliquet ligula mi, in luctus elit volutpat porta. Phasellus molestie diam vel nisi sodales, a eleifend augue laoreet. Sed nec eleifend justo. Nam et sollicitudin odio.
 
-![Placeholder](https://bulma.io/images/placeholders/256x256.png) ![Placeholder](https://bulma.io/images/placeholders/256x256.png)
+![Placeholder](https://bulma.io/images/placeholders/256x256.png)
 
-Figure 1: Some beautiful placeholders
+<p class="has-text-centered"><i>Figure 1: Some beautiful placeholders</i></p>
 
 ###### Sixth level
 

@@ -23,8 +23,8 @@ aliases:
 
 ### Process
 
-1.  You [contact me through my website](/contact/) with some details about what your needs are.
-2.  I will [set up a time to meet](https://calendly.com/fvcproductions) so we can discuss the project further as well as pricing.
-3.  A contract will be set up [through Bonsai](https://www.hellobonsai.com).
-4.  We'll communicate back and forth until you're happy with the end results!
-5.  Payments are finalized and if you'd like to at this point, you can also [add a testimonial](/feedback/).
+1.  You [contact me through my website](/contact/) with some details about what your needs are
+2.  I will [set up a time to meet](https://calendly.com/fvcproductions) so we can discuss the project further as well as pricing
+3.  A contract will be set up
+4.  We'll communicate back and forth until you're happy with the end results
+5.  Payments are finalized and if you'd like to at this point, you can also [add a testimonial](/feedback/)

@@ -62,38 +62,36 @@ Feel free to [submit a new issue](https://github.com/fvcproductions/ama/issues/n
 
 If none of the above options seemed appropriate for you, feel free to go old school and use this nifty contact form!
 
-<div class="contact-form">
-  <form name="contact" method="POST" data-netlify="true">
-    <input type="hidden" name="_subject" value="FVCproductions - New Contact Message">
-    <div class="field">
-      <label class="label">Name</label>
-      <div class="control has-icons-left">
-        <input class="input" aria-label="Name" autocomplete="on" type="text" name="name" placeholder="Your full name">
-        <span class="icon is-left">
-          ✒️
-        </span>
-      </div>
+<form name="contact" method="POST" data-netlify="true">
+  <input type="hidden" name="_subject" value="FVCproductions - New Contact Message">
+  <div class="field">
+    <label class="label">Name</label>
+    <div class="control has-icons-left">
+      <input class="input" aria-label="Name" autocomplete="on" type="text" name="name" placeholder="Your full name">
+      <span class="icon is-left">
+        ✒️
+      </span>
     </div>
-    <div class="field">
-      <label class="label">Email</label>
-      <div class="control has-icons-left">
-        <input class="input" aria-label="Email" autocomplete="on" type="email" name="email" placeholder="Your email">
-        <span class="icon is-left">
-          ✉️
-        </span>
-      </div>
+  </div>
+  <div class="field">
+    <label class="label">Email</label>
+    <div class="control has-icons-left">
+      <input class="input" aria-label="Email" autocomplete="on" type="email" name="email" placeholder="Your email">
+      <span class="icon is-left">
+        ✉️
+      </span>
     </div>
-    <div class="field">
-      <label class="label">Message</label>
-      <div class="control">
-        <textarea class="textarea" aria-label="Message" spellcheck="true" rows="5" name="message" id="message" placeholder="Your message"></textarea>
-      </div>
+  </div>
+  <div class="field">
+    <label class="label">Message</label>
+    <div class="control">
+      <textarea class="textarea" aria-label="Message" spellcheck="true" rows="5" name="message" placeholder="Your message"></textarea>
     </div>
-    <div data-netlify-recaptcha="true"></div>
-    <div class="field">
-      <div class="control">
-        <button type="submit" class="button is-link">Send message</button>
-      </div>
+  </div>
+  <div data-netlify-recaptcha="true"></div>
+  <div class="field">
+    <div class="control">
+      <button type="submit" class="button is-link">Send message</button>
     </div>
-  </form>
-</div>
+  </div>
+</form>

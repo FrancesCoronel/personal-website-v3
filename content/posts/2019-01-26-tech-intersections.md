@@ -2,6 +2,7 @@
 title: "Tech Intersections 2019"
 description: "Tech Intersections is an affordable conference for the womxn of color most underrepresented in tech to come together and learn from each other’s successes, challenges, and experiences."
 image: https://i.imgur.com/RfyYomQ.jpg
+date: 2019-01-26
 categories:
   - conference
   - blog
