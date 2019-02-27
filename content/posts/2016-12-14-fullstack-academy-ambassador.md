@@ -8,15 +8,13 @@ slides: https://www.slideshare.net/FVCproductions/the-state-of-coding-bootcamps-
 aliases:
   - /home/adventures/experience/fullstack-academy-ambassador/
 categories:
-  - experience
   - portfolio
   - speaking
+  - programs
 tags:
   - bootcamps
   - fullstack academy
 ---
-
-<!-- TOC -->
 
 - [Employer](#employer)
 - [Location](#location)
@@ -37,8 +35,6 @@ tags:
 - [Checkups](#checkups)
 - [Folks I Talked To](#folks-i-talked-to)
 - [Thank Yous](#thank-yous)
-
-<!-- /TOC -->
 
 ## Employer
 
