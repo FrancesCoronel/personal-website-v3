@@ -121,7 +121,7 @@ const runServer = (options) => {
   gulp.watch("./assets/js/**/*.js", gulp.series("js"));
   gulp.watch("./assets/sass/**/*.scss", gulp.series("sass"));
   gulp.watch("./assets/img/**/*", gulp.series("img"));
-  gulp.watch(["./**/*", "!./dist/**/*", "!./assets/**/*"], gulp.series(options));
+  gulp.watch(["./content/**/*", "./data/**/*", "./i18n/**/*", "./layouts/**/*", "./resources/**/*", "./static/**/*", "./config.toml"], gulp.series(options));
 };
 
 // DEV & PROD: Run Hugo

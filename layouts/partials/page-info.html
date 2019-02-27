@@ -4,7 +4,7 @@
   <span class="mr-sm">📅️</span>{{ if in .Params.categories "talk" }}First presented {{ else if in .Params.categories "experience" }}{{ end }}{{ dateFormat "Jan 2, 2006" .Date }}{{ if in .Params.categories "experience" }}{{ with .Params.ended }} to {{ . | dateFormat "Jan 2, 2006" }}{{ end }}{{ end }}
 </p>
 {{- end }}
-<!-- Work Experience -->
+<!-- Work Experience - Amount of Time -->
 {{ $experiencePages := ($.Site.Taxonomies.categories.experience).Pages }}
 {{ $experienceHoursTotal:= 0 }}
 {{ range (where $experiencePages ".Params.ended" "ne" nil) }}
@@ -18,16 +18,16 @@
 {{ $experienceMonths := int (div (mod $experienceDays 365) (30)) }}
 {{ $experienceYears := int (div $experienceDays 365) }}
 {{ $experienceDaysTotal := int ((mod (mod $experienceDays 365) (30))) }}
-<!-- Experience Page -->
+<!-- Experience Page - show work experience time -->
 {{ if eq .URL "/experience/" }}
 <p class="subtitle has-text-weight-light is-size-7 mt-sm">
-  <span class="mr-sm">🕒</span>{{ if not (eq $experienceYears 0) }}{{ $experienceYears }} years{{ end }}{{ if not (eq $experienceMonths 0) }}, {{ $experienceMonths }} months{{ end }}{{ if not (eq $experienceDaysTotal 0) }}, {{ $experienceDaysTotal }} days{{ end }} of work experience
+  <span class="mr-sm">🕒</span>{{ if not (eq $experienceYears 0) }}{{ $experienceYears }} {{ if gt $experienceYears 1 }}years{{ else }}year{{ end }}{{ end }}{{ if not (eq $experienceMonths 0) }} {{ $experienceMonths }} {{ if gt $experienceMonths 1 }}months{{ else }}month{{ end }}{{ end }}{{ if not (eq $experienceDaysTotal 0) }} {{ $experienceDaysTotal }} {{ if gt $experienceDaysTotal 1 }}days{{ else }}day{{ end }}{{ end }} of work experience
 </p>
 <p class="subtitle has-text-weight-light is-size-7 mt-sm">
-  <span class="mr-sm">💻</span>Getting paid to code since 2015
+  <span class="mr-sm">💻</span>Getting paid to code <a href="/freelancing/" rel="noopener">since 2015</a>
 </p>
 <p class="subtitle has-text-weight-light is-size-7 mt-sm">
-  <span class="mr-sm">🎓</span>Learning to code since 2013
+  <span class="mr-sm">🎓</span>Learning to code <a href="/education/" rel="noopener">since 2013</a>
 </p>
 {{ end }}
 <!-- Time in Role -->
@@ -41,10 +41,14 @@
   {{ $months := int (div (mod $days 365) (30)) }}
   {{ $years := int (div $days 365) }}
   {{ $finalDays := (mod (mod $days 365) (30)) }}
-  <span class="mr-sm">🕒</span>{{ if not (eq $years 0) }}{{ $years }} years,{{ end }} {{ $months }} months{{ if not (eq $finalDays 0) }}, {{ $finalDays }} days{{ end }}
+  <span class="mr-sm">🕒</span>{{ if not (eq $years 0) }}{{ $years }} {{ if gt $years 1 }}years{{ else }}year{{ end }}{{ end }}{{ if not (eq $months 0) }} {{ $months }} {{ if gt $months 1 }}months{{ else }}month{{ end }}{{ end }}{{ if not (eq $finalDays 0) }} {{ $finalDays }} {{ if gt $finalDays 1 }}days{{ else }}day{{ end }}{{ end }} in this role
 </p>
 {{ end }}
+<!-- no .Params.ended - instead this is the current position -->
 {{ if .Params.currentPosition }}
+<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+  <span class="mr-sm">💼️</span>Current Position
+</p>
 <p class="subtitle has-text-weight-light is-size-7 mt-sm">
   {{ $start := (time .Date) }}
   {{ $end := (time .Params.ended) }}
@@ -54,7 +58,7 @@
   {{ $months := int (div (mod $days 365) (30)) }}
   {{ $years := int (div $days 365) }}
   {{ $finalDays := (mod (mod $days 365) (30)) }}
-  <span class="mr-sm">🕒</span>{{ if not (eq $years 0) }}{{ $years }} years,{{ end }} {{ $months }} months{{ if not (eq $finalDays 0) }}, {{ $finalDays }} days{{ end }}
+  <span class="mr-sm">🕒</span>{{ if not (eq $years 0) }}{{ $years }} {{ if gt $years 1 }}years{{ else }}year{{ end }}{{ end }}{{ if not (eq $months 0) }} {{ $months }} {{ if gt $months 1 }}months{{ else }}month{{ end }}{{ end }}{{ if not (eq $finalDays 0) }} {{ $finalDays }} {{ if gt $finalDays 1 }}days{{ else }}day{{ end }}{{ end }} in this role
 </p>
 {{ end }}
 <!-- Reading Time & Word Count -->
