@@ -101,8 +101,8 @@ I'm feeling statistically inclined so I'm going to share some of the more techni
   - 741 hours in total
 - There's a `$2,000` discount since the original program is `$15,680`for 13 Weeks On Campus.
 - **BUT** I'm a **GIRL**! So now it's `$12,680` since ladies all get a `$1,000` discount.
-- **BUT** I applied ridiculously early so I got grandfathered into the old tuition (which was \$12,500). Thank goodness for that because otherwise I'm pretty sure my parents would have been a lot more resistant. I saved a lot more this way than with the other discounts (`$3,180`).
-- My grand total is now `$9,500` for `741 hours` of in-person JS learning! So basically \$13 per hour. Sounds good to me.
+- **BUT** I applied ridiculously early so I got grandfathered into the old tuition (which was <!-- prettier-ignore -->$12,500). Thank goodness for that because otherwise I'm pretty sure my parents would have been a lot more resistant. I saved a lot more this way than with the other discounts (`$3,180`).
+- My grand total is now `$9,500` for `741 hours` of in-person JS learning! So basically <!-- prettier-ignore -->$13 per hour. Sounds good to me.
   - That doesn't include Foundations or Flight either.
 
 > So now let's break that down - what am I REALLY paying for?
@@ -112,33 +112,33 @@ I'm feeling statistically inclined so I'm going to share some of the more techni
 - **a Treehouse subscription**
   - I'm part of the Group plan, and for this year, the group currently has 101 signups.
   - So assuming they're part of the 150 seats plan which is about $19,875 annually (woah), it costs $11 per month per student.
-  - I actually used to have the student membership which was \$9 a month, but it looks like the Group Plan doesn't want to consider me a student.
+  - I actually used to have the student membership which was <!-- prettier-ignore -->$9 a month, but it looks like the Group Plan doesn't want to consider me a student.
   - `= around $44 in total for 4 months`
 - **a CodeSchool subscription**
-  - It's \$25 per month per person for the Group Plan, which I'm part of.
+  - It's <!-- prettier-ignore -->$25 per month per person for the Group Plan, which I'm part of.
   - `= around $100 in total for 4 months`
 - **The Instructors**
-  - The average developer salary is about \$80K in NYC so I'll just guess that's how much pay their instructors.
+  - The average developer salary is about <!-- prettier-ignore -->$80K in NYC so I'll just guess that's how much pay their instructors.
   - So with that in mind, $80K/12 month = roughly $7K and $7K times 4 months = $28K
   - However, realistically speaking, I'm really just spending about half of that 4 months face to face with the instructor, so...
   - `= around $14K in total for 4 months per instructor`
 - **A Supportive Environment**
   - **Who knows** how much that costs?
-  - Well, what I can do is estimate the cost of the building floor itself which is probably around $250K per year (maybe more). So roughly $21K per month... ergo it's around \$84K in total for 4 months
+  - Well, what I can do is estimate the cost of the building floor itself which is probably around $250K per year (maybe more). So roughly $21K per month... ergo it's around <!-- prettier-ignore -->$84K in total for 4 months
   - However, I don't take up that much space so realistically speaking we can split that cost by 70 since that's how many people are usually there at any given time - which turns into...
   - `= around $1.2K in total for 4 months per instruc11tor`
 - **Other Stuff**
-  - I'm tired of guesstimating but they probably have to worry about the costs for the other software they use (like Learndot whose standard plan is \$500/month) throughout the program and snacks/snacks to appease the newbie programmers like myself. We just :heart: snacks and swag.
+  - I'm tired of guesstimating but they probably have to worry about the costs for the other software they use (like Learndot whose standard plan is <!-- prettier-ignore -->$500/month) throughout the program and snacks/snacks to appease the newbie programmers like myself. We just :heart: snacks and swag.
   - Anyways, so going out on a limb here, I'll say...
   - `= around $500 in total for 4 months for other stuff`
 
 So, with all that, we can calculate how much they're really spending on each student, like me.
 
-- Treehouse Subscription \$44
-- Code School Subscription \$100
-- The Instructors \$14K
-- A Supportive Environment \$1.2K
-- Other Stuff \$500
+- Treehouse Subscription <!-- prettier-ignore -->$44
+- Code School Subscription <!-- prettier-ignore -->$100
+- The Instructors <!-- prettier-ignore -->$14K
+- A Supportive Environment <!-- prettier-ignore -->$1.2K
+- Other Stuff <!-- prettier-ignore -->$500
   - Total `$15,844`
 
 Yeah, that looks about right. I got a good deal! :grin:
