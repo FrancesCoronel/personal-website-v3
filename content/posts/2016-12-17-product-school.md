@@ -33,7 +33,7 @@ Product School is an education startup that offers Product Management courses in
 
 - 8 week part-time product management course
 - taught by Christopher Andersson, founder of New York Code Company and the previous Senior Director of Product at InVision
-- one of youngest students ever admitted at 20 years old due to relevant prior experience
+- one of youngest students ever admitted <!-- at 20 years old --> due to relevant prior experience
 - received the `Software Product Management Certification` at the end of the course
 
 Overall, my experience with Product School was pretty great. I learned a lot of practical material from my instructor, [Christopher Andersson](https://linkedin.com/in/christopherandersson).

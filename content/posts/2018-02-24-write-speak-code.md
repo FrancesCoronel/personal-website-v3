@@ -143,7 +143,7 @@ In this workshop, you'll go through a few exercises around our theme, "Speak You
 
 ## Timeline
 
-- 2012 - got interested - 17 years old - started taking online courses through Codecademy and Code School
+- 2012 - got interested <!-- 17 years old --> - started taking online courses through Codecademy and Code School
 - 2013 - started studying computer science in college and my blog with basic dev tutorials
 - 2014 - design, pet projects, prepping for coding bootcamps
 - 2015 - first job, first talk, bootcamp

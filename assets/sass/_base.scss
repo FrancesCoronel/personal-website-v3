@@ -41,10 +41,18 @@ table {
   .v--home__date {
     font-weight: 500;
     padding-left: 0 !important;
-    width: 15%;
+    width: 35%;
 
-    @media screen and (max-width: $mobile) {
+    @media screen and (min-width: $mobile) {
       width: 30%;
+    }
+
+    @media screen and (min-width: $tablet) {
+      width: 25%;
+    }
+
+    @media screen and (min-width: $desktop) {
+      width: 20%;
     }
   }
 

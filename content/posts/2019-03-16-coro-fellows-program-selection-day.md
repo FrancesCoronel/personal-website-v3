@@ -9,4 +9,5 @@ categories:
   - volunteering
 tags:
   - coro
+  - judge
 ---
