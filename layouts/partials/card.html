@@ -13,7 +13,7 @@
     <div class="media-content {{ if $showPageLinks }}pb-sm{{ end }}">
       <div class="content">
         <!-- Title -->
-        <h4>{{ if not (.Params.hideUpcomingText) }}{{ if .Date.After now }}UPCOMING: {{ end }}{{ end }}{{ .Title }}</h4>
+        <h3>{{ if not (.Params.hideUpcomingText) }}{{ if .Date.After now }}UPCOMING: {{ end }}{{ end }}{{ .Title }}</h3>
         <!-- Description -->
         <p class="has-text-grey-dark">{{ if .Description }}{{ .Description | truncate 150 | safeHTML }}{{ else }}{{ .Summary | truncate 150 | safeHTML }}{{ end }}</p>
         <!-- Info -->

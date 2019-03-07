@@ -1,5 +1,5 @@
 {{ $conferences := ($.Site.Taxonomies.categories.conference).Pages }}
-<h2>{{ len $conferences }} events attended</h2>
+<p>{{ len $conferences }} events attended</p>
 <div class="columns is-multiline">
   {{ range $conferences }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">

@@ -1,5 +1,5 @@
 {{ $portfolio := ($.Site.Taxonomies.categories.portfolio.Pages) }}
-<h2>{{ len $portfolio }} projects worked on</h2>
+<p>I've worked on {{ len $portfolio }} different projects so far.</p>
 <div class="columns is-multiline">
   {{ range $portfolio }} {{ if .Date.Before now }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">

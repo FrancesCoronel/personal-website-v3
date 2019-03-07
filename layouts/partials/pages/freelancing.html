@@ -1,7 +1,7 @@
 <!-- Variables -->
 {{ $freelancing := ($.Site.Taxonomies.categories.freelancing).Pages }}
 <!-- freelancing -->
-<h2>{{ len $freelancing}} freelance clients so far</h2>
+<p>{{ len $freelancing}} freelance clients so far</p>
 <div class="columns is-multiline">
   {{ range $freelancing }} {{ if .Date.Before now }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">

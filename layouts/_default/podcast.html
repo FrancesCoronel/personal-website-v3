@@ -2,17 +2,13 @@
 <!-- Hero -->
 {{ partial "hero.html" . }}
 <!-- Page -->
+{{ $podcast := ($.Site.Taxonomies.categories.podcast).Pages }}
 <!-- TODO: Edit rss.xml once first episode released -->
 <div class="section">
   <div class="container">
     <div class="content">
-      <blockquote>Coming soon</blockquote>
-      <h2>Episodes</h2>
-      <!-- Children -->
-      <!-- Variables -->
-      {{ $podcast := ($.Site.Taxonomies.categories.podcast).Pages }}
-      <!-- Episodes -->
-      <h2>🎙️ {{ len $podcast }} {{ if gt (len $podcast) 1 }} episodes{{ else }} episode{{ end }} planned so far</h2>
+      <h2 class="mt-sm">🎙️Episodes</h2>
+      <!-- <p>🎙️{{ len $podcast }} episodes so far</p> -->
       <div class="columns is-multiline">
         {{ range $podcast.ByDate.Reverse }}
         <div class="column is-half-tablet is-one-half-desktop is-one-half-widescreen is-one-half-fullhd">

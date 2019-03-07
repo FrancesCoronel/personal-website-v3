@@ -1,5 +1,5 @@
 {{ $experience := ($.Site.Taxonomies.categories.experience).Pages }}
-<h2>{{ len $experience }} positions so far</h2>
+<p>{{ len $experience }} positions so far</p>
 <div class="columns is-multiline">
   {{ range $experience }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">

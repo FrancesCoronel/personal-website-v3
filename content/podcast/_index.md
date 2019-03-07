@@ -2,6 +2,7 @@
 title: Tech Queens 👑
 description: "Stories and advice shared by women of color in tech."
 display: Podcast
+toc: true
 hideUpcomingText: true
 icon: 🎙️
 image: "/assets/img/podcast/tech-queens-banner.png"
@@ -10,38 +11,33 @@ navbar: true
 noComments: true
 noTimeEstimate: true
 url: /podcast/
-tags:
-  - tech queens
-  - women of color in tech
 aliases:
   - /tech-queens/
   - /youtube-series/
   - /podcast-series/
 ---
 
-## Why?
+## Why start this podcast?
 
 So after starting to listen to more tech podcasts, I realized a disappointing trend - most of the hosts were white guys. Overwhelmingly so.
 
 But instead of deciding to complain about the lack of good tech podcasts with POC hosts, I instead decided to start my own.
 
-Introducing **Tech Queens**, a podcast that focuses on stories and advice by women of color in tech.
+Introducing **Tech Queens**, a podcast that focuses on stories and advice shared by women of color in tech.
 
 `#TechQueens`
 
-![TechQueens](/assets/img/podcast/tech-queens-square.png)
-
-## Who?
+## Who is this podcast for?
 
 In 2015, women made up 25 percent of computing-related occupations.
 
 As Figure 1.1 indicates, levels of participation are even more concerning when it comes to women of color ([NCWIT - Bureau of Labor, 2016](https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf)).
 
-In other words, if you are not a white woman - you're a woman of color in tech and should share your story on Tech Queens!
-
 ![Percentage of Computing Occupations Held By Women](https://i.imgur.com/JAKHDxB.jpg)
 
-### The Host
+The stat above is just one part of the reason this podcast will exclusively serve to highlight thriving women of color in tech and inspire or encourage others to enter the industry and thrive themselves so they too can leverage their unique skills and perspectives for technological innovation and social change in the workplace of the future.
+
+## Who is the host?
 
 Hi, I'm Frances!
 
@@ -49,16 +45,17 @@ I'm a Latina (Peruvian-American) who engineers solutions to make your working li
 
 Or better yet, I'm a [unicorn](<https://www.wikiwand.com/en/Unicorn_(finance)>) (1% of women in tech identify as Latina) who is working for another unicorn ([Slack](https://slack.com)). 🦄 You can find more deets on my [about page](/about).
 
-## When?
+## When will the episodes be published?
 
-- Every 2 weeks on Monday or Friday in the morning or afternoon
+I plan on releasing an episode every 2 weeks.
 
-## Where?
+## Where will the episodes be hosted?
 
-- https://techqueenspod.com redirects to this page
-- Recordings will link to Anchor https://anchor.fm/tech-queens
+The URL [https://techqueenspod.com](https://techqueenspod.com) redirects to this page at [https://www.fvcproductions.com/podcast](https://www.fvcproductions.com/podcast).
 
-## What?
+Recordings will be distributed through Anchor at [https://anchor.fm/tech-queens](https://anchor.fm/tech-queens).
+
+## How will the episodes be formatted?
 
 The format for each 1 hour session will look something like this:
 
@@ -69,7 +66,7 @@ The format for each 1 hour session will look something like this:
 - If you could give any advice to your younger self as you were starting out, what would it be?
 - What do you think can be done to create a safer space for us?
 
-### Mini Takeaways
+> Mini Takeaways
 
 - What is a useful app or platform that has helped you grow in your career? `#AppAdvice`
 - What does the term XYZ mean to you and how has it impacted your career? `#LearnThatTerm`
@@ -126,23 +123,17 @@ The format for each 1 hour session will look something like this:
     </div>
   </div>
   <div data-netlify-recaptcha="true"></div>
-  <div class="field">
+  <div class="field mt-sm">
     <div class="control">
       <button type="submit" class="button is-link">Send message</button>
     </div>
   </div>
 </form>
 
----
+## What were the resources used?
 
-## Kudos
+The avatar images were created using [avataaars generator](https://getavataaars.com/).
 
-- Sketch 3 - you can download the assets with [this Sketch Cloud link](https://sketch.cloud/s/ZKrop).
-- [avataaars generator](https://getavataaars.com/) for awesome avatar image
-- [#Techish](https://www.producthunt.com/posts/techish) for inspiration
+The design assets can be downloaded using [this Figma link](https://www.figma.com/file/Z30EMLDDQe0cTyOOcgzdAFZ4/Tech-Queens).
 
-### Music
-
-Music by Jukedeck - create your own at http://jukedeck.com
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/652944681&color=%231c52a6&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+Music by Jukedeck - create your own at [jukedeck.com](https://jukedeck.com).

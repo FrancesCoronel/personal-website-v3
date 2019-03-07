@@ -1,5 +1,5 @@
 {{ $education := ($.Site.Taxonomies.categories.education).Pages }}
-<h2>{{ len $education }} schools attended</h2>
+<p>{{ len $education }} schools attended</p>
 <div class="columns is-multiline">
   {{ range $education }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">

@@ -1,6 +1,6 @@
 {{ $regularPages := .Site.RegularPages }}
 <div class="table-border-none">
-  <h2>✒️ I've written about {{ len $regularPages }} different things so far.</h2>
+  <p>✒️ I've written about {{ len $regularPages }} different things so far.</p>
   <!-- Pages -->
   {{ range $regularPages.GroupByDate "2006" }}
   <!-- Line Separator - Year -->
