@@ -35,7 +35,7 @@ The official title of [this Meetup](https://www.meetup.com/HR-FEN/events/2193601
 - I was probably the youngest person there at 19 which was surprisingly not awkward at all.
 - I met a fellow Latina, who I chatted a lot with and who shared with me that I was the first Hispanic she's come across in the Meetups she's gone to so far.
 - There was a very keen and optimistic meat eater right across from me which was just ironic because I'm strictly vegetarian.
-- Dinner cost $15 bucks which wasn't bad for some pretty good pasta, salad, bread, and water.
+- Dinner cost <!-- prettier-ignore -->$15 which wasn't bad for some pretty good pasta, salad, bread, and water.
 - I got a few business cards, so the networking part is a check.
 - The waitress was ridiculously bubbly, so I felt obliged to give her a decent tip (which is not something I usually do, tbh). Shrug.
 - I felt that at least 40 people showed up in total, although there was probably more since 70 people initially signed up (a lot of people did cancel at the last minute though).

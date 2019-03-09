@@ -10,9 +10,9 @@ layout: "podcast"
 navbar: true
 noComments: true
 noTimeEstimate: true
-url: /podcast/
+url: /tech-queens/
 aliases:
-  - /tech-queens/
+  - /podcast/
   - /youtube-series/
   - /podcast-series/
 ---
@@ -23,7 +23,7 @@ So after starting to listen to more tech podcasts, I realized a disappointing tr
 
 But instead of deciding to complain about the lack of good tech podcasts with POC hosts, I instead decided to start my own.
 
-Introducing **Tech Queens**, a podcast that focuses on stories and advice shared by women of color in tech.
+Introducing **Tech Queens**, the first and only podcast I know of that will solely focus on the stories and advice shared by women of color in tech.
 
 `#TechQueens`
 
@@ -43,7 +43,7 @@ Hi, I'm Frances!
 
 I'm a Latina (Peruvian-American) who engineers solutions to make your working life more simple, more pleasant and more productive.
 
-Or better yet, I'm a [unicorn](<https://www.wikiwand.com/en/Unicorn_(finance)>) (1% of women in tech identify as Latina) who is working for another unicorn ([Slack](https://slack.com)). 🦄 You can find more deets on my [about page](/about).
+Or better yet, I'm a [unicorn](<https://www.wikiwand.com/en/Unicorn_(finance)>) (1% of women in tech identify as Latina) who is working for another unicorn ([Slack](https://slack.com?source=fvcproductions)). 🦄 You can find more deets on my [about page](/about).
 
 ## When will the episodes be published?
 
@@ -80,7 +80,7 @@ The format for each 1 hour session will look something like this:
   <div class="field">
     <label class="label">Name</label>
     <div class="control has-icons-left">
-      <input class="input" aria-label="Name" autocomplete="on" type="text" name="name" placeholder="Your full name">
+      <input class="input" aria-label="Name" autocomplete="on" type="text" name="name" placeholder="Your full name" required>
       <span class="icon is-left">
         ✒️
       </span>
@@ -89,7 +89,7 @@ The format for each 1 hour session will look something like this:
   <div class="field">
     <label class="label">Email</label>
     <div class="control has-icons-left">
-      <input class="input" aria-label="Email" autocomplete="on" type="email" name="email" placeholder="Your email">
+      <input class="input" aria-label="Email" autocomplete="on" type="email" name="email" placeholder="Your email" required>
       <span class="icon is-left">
         ✉️
       </span>
@@ -98,7 +98,7 @@ The format for each 1 hour session will look something like this:
   <div class="field">
     <label class="label">LinkedIn</label>
     <div class="control has-icons-left">
-      <input class="input" aria-label="LinkedIn" autocomplete="on" type="url" name="linkedin" placeholder="Your LinkedIn profile URL">
+      <input class="input" aria-label="LinkedIn" autocomplete="on" type="url" name="linkedin" placeholder="Your LinkedIn profile URL" required>
       <span class="icon is-left">
         💼️
       </span>
@@ -107,13 +107,13 @@ The format for each 1 hour session will look something like this:
   <div class="field">
     <label class="label">Other online profiles (Twitter, Instagram, website, etc)</label>
     <div class="control has-icons-left">
-      <textarea class="textarea" aria-label="Other Online Profiles" rows="2" name="other-online-profiles" placeholder="URLs of any other online profiles you have"></textarea>
+      <textarea class="textarea" aria-label="Other Online Profiles" rows="2" name="other-online-profiles" placeholder="URLs of any other online profiles you have" required></textarea>
     </div>
   </div>
   <div class="field">
     <label class="label">What is a question you would like to be asked in the session?</label>
     <div class="control">
-      <textarea class="textarea" aria-label="What is a question you would like to be asked in the session?" spellcheck="true" rows="1" name="session-question"></textarea>
+      <textarea class="textarea" aria-label="What is a question you would like to be asked in the session?" spellcheck="true" rows="1" name="session-question" required></textarea>
     </div>
   </div>
   <div class="field">

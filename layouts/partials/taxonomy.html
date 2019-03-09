@@ -2,29 +2,11 @@
 <div class="tags">
   <!-- Categories -->
   {{ range $category := .Params.categories }}
-  <a class="tag is-link is-size-7" href="/categories/{{ $category | urlize }}/" title="{{ $category }}">
-    <span class="mr-sm">{{ $category }}</span>
-    {{ if eq $category "award" }}🏆{{ end }}
-    {{ if eq $category "blog" }}📝{{ end }}
-    {{ if eq $category "conference" }}👥{{ end }}
-    {{ if eq $category "education" }}🎓{{ end }}
-    {{ if eq $category "experience" }}💼️{{ end }}
-    {{ if eq $category "freelancing" }}💵{{ end }}
-    {{ if eq $category "hackathon" }}💻{{ end }}
-    {{ if eq $category "mentoring" }}📚{{ end }}
-    {{ if eq $category "podcast" }}🎙️{{ end }}
-    {{ if eq $category "portfolio" }}🛠️{{ end }}
-    {{ if eq $category "press" }}📰️{{ end }}
-    {{ if eq $category "program" }}🌱️{{ end }}
-    {{ if eq $category "review" }}✅{{ end }}
-    {{ if eq $category "speaking" }}💬️{{ end }}
-    {{ if eq $category "talk" }}📢{{ end }}
-    {{ if eq $category "volunteering" }}💛{{ end }}
-  </a>
+    <a class="tag is-link is-size-7" href="/categories/{{ $category | urlize }}/" title="{{ $category }}">{{ $category }}</a>
   {{ end }}
   <!-- Tags -->
   {{ range $tag := .Params.tags }}
-  <a class="tag is-link is-size-7" href="/tags/{{ $tag | urlize }}/" title="{{ $tag }}">{{ $tag }}</a>
+    <a class="tag is-link is-size-7" href="/tags/{{ $tag | urlize }}/" title="{{ $tag }}">{{ $tag }}</a>
   {{ end }}
 </div>
 {{ end }}

@@ -1,5 +1,6 @@
-{{ $showPageLinks := or (in .Params.categories "speaking") (in .Params.categories "talk") (.Params.slides) (.Params.video) (.Params.recording) }}
-{{ $showPageCategoriesTags := or (.Params.categories) (.Params.tags) }}
+{{ $pageLinksPresent := or (in .Params.categories "speaking") (in .Params.categories "talk") (.Params.slides) (.Params.video) (.Params.recording) }}
+{{ $categoriesOrTagsPresent := or (.Params.categories) (.Params.tags) }}
+{{ $hideTaxonomy := .Params.hideTaxonomy }}
 <div class="card card-equal-height">
   <a class="reset" aria-label="{{ .Title }}" href="{{ .RelPermalink }}" rel="noopener">
     <!-- Image -->
@@ -10,7 +11,7 @@
       </figure>
     </div>
     {{ end }}
-    <div class="media-content {{ if $showPageLinks }}pb-sm{{ end }}">
+    <div class="media-content {{ if $pageLinksPresent }}pb-sm{{ end }}">
       <div class="content">
         <!-- Title -->
         <h3>{{ if not (.Params.hideUpcomingText) }}{{ if .Date.After now }}UPCOMING: {{ end }}{{ end }}{{ .Title }}</h3>
@@ -22,19 +23,23 @@
     </div>
   </a>
   <!-- Links -->
-  {{ if $showPageLinks }}
-  <div class="media-content pt-0 {{ if $showPageCategoriesTags }}pb-sm{{ else }}pb-1{{ end }}">
+  {{ if $pageLinksPresent }}
+  <div class="media-content pt-0 {{ if $categoriesOrTagsPresent }}pb-sm{{ else }}pb-1{{ end }}">
     <div class="content">
       {{- partial "page-links.html" . -}}
     </div>
   </div>
   {{ end }}
-  {{ if $showPageCategoriesTags }}
-  <div class="media-content pt-1">
-    <div class="content">
-      <!-- Taxonomy -->
-      {{ partial "taxonomy.html" . }}
+  <!-- Taxonomy -->
+  {{ if not $hideTaxonomy }}
+    {{ if $categoriesOrTagsPresent }}
+    <div class="media-content pt-1">
+      <div class="content">
+        {{ partial "taxonomy.html" . }}
+      </div>
     </div>
-  </div>
+    {{ end }}
+  {{ else }}
+  <div class="pt-1"></div>
   {{ end }}
 </div>

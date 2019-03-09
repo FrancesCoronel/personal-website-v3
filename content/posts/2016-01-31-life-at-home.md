@@ -74,7 +74,7 @@ The project will be made up of two parts: the Android app itself, and a web serv
 
 - [Sketch](https://sketchapp.com)
 - [Invision](https://www.invisionapp.com/)
-- [Slack](https://slack.com)
+- [Slack](https://slack.com?source=fvcproductions)
 
 ### Team
 

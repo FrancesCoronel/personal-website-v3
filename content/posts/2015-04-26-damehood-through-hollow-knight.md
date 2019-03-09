@@ -20,7 +20,7 @@ Anyhow, they later email me on December 16, 2015 at 9:02 pm, asking if I'd still
 
 Exactly 25 minutes later, I decide that yes, I'm definitely backing these guys up.
 
-It was only 10 bucks and you know what, that artwork is to **DIE FOR**.
+It was only <!-- prettier-ignore -->$10 and you know what, that artwork is to **DIE FOR**.
 
 Also, the video's soundtrack music kind of hypnotized me, beckoning me to follow the strange little bug creatures/beetle thingies. That soundtrack can be downloaded over at [Incompetech.com](https://incompetech.com/music/royalty-free/ "Incompetech") by searching for `Plans in Motion`, the title.
 

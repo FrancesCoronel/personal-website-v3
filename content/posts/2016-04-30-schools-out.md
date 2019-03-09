@@ -57,7 +57,7 @@ Right - so since graduating from [Fullstack](https://www.fullstackacademy.com/),
 
 One of them even offered to pay me per hour for my service. However, it didn't feel right at the time so I told the three that reached out for mentoring that I just wanted a testimonial for my website in exchange for my time once we're done.
 
-And, so far, in that context, I've had roughly 7 one-hour (can go to 2 hours) sessions with 2 different **awesome** people (one who got into MakerSquare NY already and one who's trying to get into [Grace Hopper](https://www.gracehopper.com/)) where I just show them things like how to set up their dev environment, awesome coding resources, Mac apps, Chrome extensions, etc. - you name it - primarily using [Screenhero](https://slack.com/apps/A0F7XDVHB-screenhero).
+And, so far, in that context, I've had roughly 7 one-hour (can go to 2 hours) sessions with 2 different **awesome** people (one who got into MakerSquare NY already and one who's trying to get into [Grace Hopper](https://www.gracehopper.com/)) where I just show them things like how to set up their dev environment, awesome coding resources, Mac apps, Chrome extensions, etc. - you name it - primarily using [Screenhero](https://slack.com?source=fvcproductions/apps/A0F7XDVHB-screenhero).
 
 Then with this separate third cool guy, we just [Skyped](https://www.skype.com/en/) twice for like 2.5 hours in total and he said he would most definitely keep in touch with me (he got into [Fullstack](https://www.fullstackacademy.com/) recently).
 
@@ -82,7 +82,7 @@ Either way, I felt like sharing my experience in regards to being an alumnus of 
 
 So this summer, I'll be interning with Accenture at their [Liquid Application Studio](https://www.accenture.com/us-en/capability-rapid-application-development-studio.aspx) in [`the Pacific Shores Center in Redwood City, CA`](https://www.google.com/maps/place/Pacific+Shores+Center/@37.5112828,-122.2007468,15z/data=!4m2!3m1!1s0x0:0xb55f57f129c60344).
 
-Of course, now that I've graduated, the next natural step my parents expect of me is graduate school. And I did get accepted to quite a few great programs but I decided ultimately that I'd like to attend [Cornell Tech](https://tech.cornell.edu/) for their [MEng in CS](https://tech.cornell.edu/programs/masters-programs/meng-in-computer-science) (they offered me a $10K scholarship).
+Of course, now that I've graduated, the next natural step my parents expect of me is graduate school. And I did get accepted to quite a few great programs but I decided ultimately that I'd like to attend [Cornell Tech](https://tech.cornell.edu/) for their [MEng in CS](https://tech.cornell.edu/programs/masters-programs/meng-in-computer-science) (they offered me a \$10K scholarship).
 
 ![](https://courses.cit.cornell.edu/cs5304/ctech.png)
 
@@ -96,14 +96,14 @@ These were the other grad schools I got accepted into but declined admission to 
 - [Northwestern - MS Engineering Design Innovation](https://segal.northwestern.edu/programs/graduate/engineering-design-innovation/)
 - [University of Illinois at Urbana-Champaign - Professional MS CS](https://cs.illinois.edu/current-students/graduate-students/professional-masters-mcs)
 - [University of Rochester - MS Technical Entrepreneurship and Management](https://www.rochester.edu/team/)
-  - $28,792 (50% Tuition) Scholarship
+  - \$28,792 (50% Tuition) Scholarship
 - [Northeastern - MS Computer Science](https://www.northeastern.edu/graduate/programs/computer-science/#masters)
 - [Rochester Institute of Technology - MS Human-Computer Interaction](https://www.rit.edu/programs/human-computer-interaction-ms)
-  - $8,360 Scholarship
+  - \$8,360 Scholarship
 - [NYU - Master's in Management of Technology](https://engineering.nyu.edu/academics/programs/management-technology-ms)
-  - $8K Scholarship
+  - \$8K Scholarship
 - [Duke - MEMP - Masters in Engineering Management Program](https://memp.pratt.duke.edu/)
-  - $10K Scholarship
+  - \$10K Scholarship
 
 ### HOWEVER.
 

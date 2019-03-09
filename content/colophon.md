@@ -24,7 +24,7 @@ This website was originally born with Wordpress.com in my final month of high sc
 
 ## What I Use
 
-The software and hardware I use on a day to day basis can be found on my [What I Use](/2018/03/18/what-i-use---spring-2018/) page - last updated Spring 2018.
+The software and hardware I use on a day to day basis can be found on my [What I Use](/what-i-use/) page - last updated Spring 2019.
 
 ## Source Code
 
@@ -32,15 +32,16 @@ The source code [can be found on GitHub](https://github.com/fvcproductions/fvcpr
 
 ## Tools
 
-- [Hugo](https://gohugo.io) (CMS)
-- [Netlify](https://www.netlify.com) (Hosting & Deployment)
-- [Google Analytics](https://analytics.google.com) (Analytics)
-- [MailChimp](https://mailchi.mp/022336cef0b2/fvcproductions) (Email Marketing)
-- [Bulma](https://bulma.io) (CSS Framework)
-- [Disqus](https://disqus.com/) (Comments)
-- [Embedly](https://embed.ly/) (Rich Embeds)
-- [Twemoji](https://github.com/twitter/twemoji) (Emoji 😍)
+- [Bulma](https://bulma.io?source=fvcproductions) (CSS Framework)
+- [Disqus](https://disqus.com/?source=fvcproductions) (Comments)
+- [Embedly](https://embed.ly/?source=fvcproductions) (Rich Embeds)
 - [GitHub Issues](https://github.com/fvcproductions/fvcproductions.github.io/issues)(Project Management)
+- [Google Analytics](https://analytics.google.com?source=fvcproductions) (Analytics)
+- [Hugo](https://gohugo.io?source=fvcproductions) (CMS)
+- [MailChimp](https://mailchi.mp/022336cef0b2/fvcproductions) (Email Marketing)
+- [Netlify](https://www.netlify.com?source=fvcproductions) (Hosting & Deployment)
+- [RecurPost](https://recurpost.com/?source=fvcproductions) (Social Media Management)
+- [Twemoji](https://github.com/twitter/twemoji) (Emoji 😍)
 
 ## Testing
 

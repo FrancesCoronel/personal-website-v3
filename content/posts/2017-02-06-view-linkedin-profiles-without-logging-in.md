@@ -18,7 +18,7 @@ tags:
 
 You want to view someone on [LinkedIn](https://linkedin.com/in/fvcproductions) but you don't have a profile and have no desire to create an account.
 
-_Or_ you want to view a profile but without the person knowing and you're definitely not willing to spend all that cash on the premium upgrade which would allow you to do that (it's 25+ bucks/month!!!). 💸 💸 💸
+_Or_ you want to view a profile but without the person knowing and you're definitely not willing to spend all that cash on the premium upgrade which would allow you to do that (it's <!-- prettier-ignore -->$25+/month!!!). 💸 💸 💸
 
 Either way, LinkedIn wants you to sign in and will have an annoying popup that looks like the following:
 

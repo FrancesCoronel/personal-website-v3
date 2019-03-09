@@ -5,6 +5,7 @@ description: Awarded a full scholarship to attend JSConf Hawai'i in 2019 🌺
 image: https://i.imgur.com/j4G07HN.jpg
 location: Waikiki Beach Marriott Resort - Honolulu, HI
 link: https://www.jsconfhi.com/
+slides: https://www.slideshare.net/FVCproductions/jsconf-hawaii-2019
 aliases:
   - /2018/08/26/jsconf-hawaii-diversity-scholarship/
 categories:
