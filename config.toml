@@ -34,7 +34,6 @@ languageCode                         = "en-US"
 # Permalinks
 [permalinks]
   posts                              = "/:year/:month/:day/:title/"
-  podcast                            = "/:title/"
 
 # Author
 [author]
