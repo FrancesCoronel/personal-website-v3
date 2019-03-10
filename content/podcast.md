@@ -46,13 +46,23 @@ Or better yet, I'm a [unicorn](<https://www.wikiwand.com/en/Unicorn_(finance)>) 
 
 ## When will the episodes be published?
 
-I plan on releasing an episode every 2 weeks.
+I plan on releasing an episode at least once every month or more often, depending on my bandwidth at the time.
 
-## Where will the episodes be hosted?
+## Where will the episodes be published?
 
-The URL [https://techqueenspod.com](https://techqueenspod.com) redirects to this page at [https://www.fvcproductions.com/podcast](https://www.fvcproductions.com/podcast).
+You will be find all the episodes at [https://techqueenspod.com](https://techqueenspod.com) which redirects to this page at [https://www.fvcproductions.com/tech-queens](https://www.fvcproductions.com/tech-queens).
 
-Recordings will be distributed through Anchor at [https://anchor.fm/tech-queens](https://anchor.fm/tech-queens).
+Recordings will be distributed through Anchor at [https://anchor.fm/tech-queens](https://anchor.fm/tech-queens) and then shared on these platforms:
+
+- Apple Podcasts
+- Breaker
+- Castbox
+- Google Podcasts
+- Overcast
+- Pocket Casts
+- RadioPublic
+- Spotify
+- Stitcher
 
 ## How will the episodes be formatted?
 

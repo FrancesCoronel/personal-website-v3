@@ -1,10 +1,17 @@
 ---
-title: Useful Hugo Snippets
-date: 2019-01-01
-description:
+title: Useful Hugo & Bulma Snippets
+date: 2019-03-10
+description: A couple of useful Hugo snippets used with the Bulma CSS framework. 🧠
+toc: true
+image: https://i.imgur.com/RFitS9U.png
+categories:
+  - blog
+tags:
+  - hugo
+  - bulma
 ---
 
-The HTML Liquid snippets are optimized for use with the Hugo static site generator and the Bulma CSS framework.
+The HTML Liquid snippets are optimized for use with the [Hugo static site generator](https://gohugo.io/) and the [Bulma CSS framework](https://bulma.io/).
 
 ## Archive
 
@@ -184,4 +191,35 @@ The HTML Liquid snippets are optimized for use with the Hugo static site generat
   href="{{ .Permalink | safeURL }}"
 />
 {{ end -}}
+```
+
+## Show Posts From Specific Category
+
+```html
+<!-- Variables -->
+{{ $blog := ($.Site.Taxonomies.categories.blog).Pages }}
+<!-- Blog -->
+<p>{{ len $blog}} blog posts written</p>
+<div class="columns is-multiline">
+  {{ range $blog }} {{ if .Date.Before now }}
+  <div
+    class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd"
+  >
+    {{ partial "card.html" . }}
+  </div>
+  {{ end }} {{ end }}
+</div>
+```
+
+## Table of Contents
+
+```html
+{{- if .Params.toc }}
+<aside class="menu">
+  <p class="menu-label">Table of Contents</p>
+  <div class="menu-list is-size-7">
+    {{ .TableOfContents }}
+  </div>
+</aside>
+{{- end }}
 ```

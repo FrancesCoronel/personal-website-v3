@@ -22,10 +22,6 @@ a {
   }
 }
 
-iframe {
-  width: 100%;
-}
-
 button,
 input[type='button'],
 input[type='reset'],
@@ -94,8 +90,4 @@ table {
 .message:not(:last-child),
 .tabs:not(:last-child) {
   margin-bottom: 0;
-}
-
-.embedly-card {
-  height: -webkit-fill-available;
 }
