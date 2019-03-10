@@ -1,1 +1,0 @@
-static/files/slides** filter=lfs diff=lfs merge=lfs -text
