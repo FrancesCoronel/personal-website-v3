@@ -13,7 +13,9 @@ categories:
   - podcast
 ---
 
-<iframe src="https://anchor.fm/tech-queens/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<div class="mt-1 mb-1">
+<iframe src="https://anchor.fm/tech-queens/embed/episodes/Episode-1--An-Introduction-e2d55t" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+</div>
 
 ## Overview
 

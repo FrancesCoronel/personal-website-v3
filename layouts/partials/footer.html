@@ -1,22 +1,22 @@
 <footer class="footer">
   <div class="container has-text-centered">
     <div class="content">
-      <section class="section">
-        <nav class="level">
+      <div class="section">
+        <div class="columns">
           {{ $parentPages := where .Site.RegularPages "Type" "page" }}
           {{ $footerPages := $parentPages | union (.Site.Sections) }}
           {{ range $footerPages.ByTitle }}
           {{ if .Params.footer }}
-          <div class="level-item has-text-centered">
+          <div class="column is-one-sixth">
             <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}">
               {{ if .Params.display }}{{ .Params.display }}{{ else }}{{ .Title }}{{ end }}
             </a>
           </div>
           {{ end }}
           {{ end }}
-        </nav>
-      </section>
-      <section class="section">
+        </div>
+      </div>
+      <div class="section">
         <div class="social-icons">
           <!-- GitHub -->
           <a href="https://github.com/fvcproductions" target="_blank" rel="noopener" class="fa-github" aria-label="FVCproductions on GitHub" title="FVCproductions on GitHub">
@@ -47,18 +47,18 @@
             {{ partial "icons/youtube.html" . }}
           </a>
         </div>
-      </section>
+      </div>
       <!-- Last updated -->
-      <section class="section is-desktop-only">
+      <div class="section" class="is-desktop-only">
         {{ $latestPost := where .Site.RegularPages "Date" "le" now | first 1 }}
         {{ range $latestPost }}
         <p>This website was last updated <a href="{{ .RelPermalink }}" rel="noopener">{{ dateFormat "January 2, 2006" .Date }}</a>.</p>
         {{ end }}
-      </section>
+      </div>
       <!-- Copyright -->
-      <section class="section">
+      <div class="section">
         <p>©️ <a href="/" target="_blank" rel="noopener" title="{{ .Site.Title }}">{{ .Site.Title }}</a>{{ with .Site.Params.year }} {{ . }} {{ end }} to {{ now.Year }}</p>
-      </section>
+      </div>
     </div>
   </div>
 </footer>
