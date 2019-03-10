@@ -1,4 +1,4 @@
-<div class="section pt-sm pb-0">
+<div class="section pt-sm pb-sm">
   <div class="container">
     <div class="content">
       <!-- Title -->
@@ -24,13 +24,13 @@
       </div>
       <!-- Line Separator (doesn't show with images) -->
       {{ if not (and (.Params.image) (not .Params.hideImage)) }}
-      <hr class="pt-sm mt-1-sm mb-1-sm">
+      <hr class="pt-sm mt-1-sm mb-0">
       {{ end }}
     </div>
   </div>
 </div>
 {{ if and (.Params.image) (not .Params.hideImage) }}
-<div class="section pt-0 pb-0">
+<div class="section pt-0">
   <div class="container">
     <img class="hero-image image lozad" src="{{ .Params.image }}" data-src="{{ .Params.image }}" alt="{{ .Title }}">
   </div>

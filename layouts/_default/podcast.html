@@ -4,10 +4,10 @@
 <!-- Page -->
 {{ $podcast := ($.Site.Taxonomies.categories.podcast).Pages }}
 <!-- TODO: Edit rss.xml once first episode released -->
-<div class="section pt-0">
+<div class="section">
   <div class="container">
     <div class="content">
-      <h2 class="mt-1 mb-sm">🎙️Episodes</h2>
+      <h2>🎙️Episodes</h2>
       <!-- <p>🎙️{{ len $podcast }} episodes so far</p> -->
       <div class="columns is-multiline">
         {{ range $podcast.ByDate.Reverse }}

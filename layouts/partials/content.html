@@ -1,8 +1,6 @@
 {{ if .Content }}
-<div class="content">
-  <!-- TOC -->
-  {{ partial "custom/toc.html" . }}
-  <!-- Content -->
-  {{ .Content }}
-</div>
+<!-- TOC -->
+{{ partial "custom/toc.html" . }}
+<!-- Content -->
+{{ .Content }}
 {{ end }}
