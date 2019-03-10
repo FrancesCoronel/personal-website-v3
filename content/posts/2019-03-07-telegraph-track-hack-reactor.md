@@ -3,9 +3,10 @@ title: "Hack Reactor - Telegraph Track"
 date: 2019-03-07
 description: Telegraph Track invites experts in the industry to speak with their students from underrepresented backgrounds.
 image: https://i.imgur.com/Ic5shdN.jpg
-link: https://www.hackreactor.com/telegraph-track/
+link: https://www.hackreactor.com/telegraph-track
 location: Hack Reactor - San Francisco, CA
 slides: https://www.slideshare.net/FVCproductions/telegraph-track-progressive-web-apps-101
+pdf: https://fvcproductions.com/files/slides/2019-03-07-Telegraph-Track-Progressive-Web-Apps-101.pdf
 categories:
   - speaking
 tags:
@@ -14,4 +15,6 @@ tags:
   - hack reactor
 ---
 
-I was invited to speak to students that were a part of the Telegraph Track at Hack Reactor. I was there from 7:45 pm to 9:45 pm and spoke for about an hour and a half.
+I was invited to speak to students that were a part of the Telegraph Track at Hack Reactor.
+
+I was there from 7:45 pm to 9:45 pm and spoke for about an hour and a half.

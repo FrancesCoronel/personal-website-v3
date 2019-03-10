@@ -16,6 +16,6 @@ aliases:
 
 All my presentation slides found on <a href="https://www.slideshare.net/fvcproductions" target="_blank" rel="noopener">my SlideShare profile <i class="fab fa-slideshare"></i></a>. 📎
 
-You can find [my bio along with a speaker image](/about/#bio) on my website. 🖼️
+My bio along with a speaker image can be found on [my about page](/about/#bio). 🖼️
 
 If you'd like me to speak at an event, don't hesitate to [contact me](/contact). 📨

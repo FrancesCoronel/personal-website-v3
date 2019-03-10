@@ -1,4 +1,4 @@
-{{ $pageLinksPresent := or (in .Params.categories "speaking") (in .Params.categories "talk") (.Params.slides) (.Params.video) (.Params.recording) }}
+{{ $pageLinksPresent := or (in .Params.categories "speaking") (in .Params.categories "talk") (.Params.slides) (.Params.pdf) (.Params.video) (.Params.recording) }}
 {{ $categoriesOrTagsPresent := or (.Params.categories) (.Params.tags) }}
 <div class="card card-equal-height">
   <a class="reset" aria-label="{{ .Title }}" href="{{ .RelPermalink }}" rel="noopener">

@@ -1,20 +1,6 @@
-<!-- Variables -->
-<!-- Talks -->
-{{ $talks := ($.Site.Taxonomies.categories.talk).Pages }}
-<!-- Speaking -->
 {{ $speaking := ($.Site.Taxonomies.categories.speaking).Pages }}
 {{ $upcomingEvents := where $speaking "Date" "ge" now }}
 {{ $pastEvents := where $speaking "Date" "lt" now }}
-<!-- Topics -->
-<p class="mt-1">You can find the {{ len $talks }} talks I've created so far on <a href="/talks" rel="noopener">my talks page</a>.</p>
-<!-- <h2 class="mt-1">📢 {{ len $talks }} Talks</h2>
-<div class="columns is-multiline">
-  {{ range $talks.ByDate.Reverse }}
-  <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
-    {{ partial "card.html" . }}
-  </div>
-  {{ end }}
-</div> -->
 <!-- Upcoming Events -->
 {{ if (len $upcomingEvents) "ge" 1 }}
 <h2>⏳️ {{ len $upcomingEvents }} Upcoming Events</h2>

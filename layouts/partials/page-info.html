@@ -1,7 +1,7 @@
 <!-- Date -->
 {{- if not .PublishDate.IsZero }}
 <p class="subtitle has-text-weight-light is-size-7 mt-sm">
-  <span class="mr-sm">📅️</span>{{ if in .Params.categories "talk" }}First presented {{ else if in .Params.categories "experience" }}{{ end }}{{ dateFormat "Jan 2, 2006" .Date }}{{ if in .Params.categories "experience" }}{{ with .Params.ended }} to {{ . | dateFormat "Jan 2, 2006" }}{{ end }}{{ end }}
+  <span class="mr-sm">📅️</span>{{ if in .Params.categories "talk" }}First presented {{ else if in .Params.categories "experience" }}{{ end }}{{ dateFormat "January 2, 2006" .Date }}{{ if in .Params.categories "experience" }}{{ with .Params.ended }} to {{ . | dateFormat "Jan 2, 2006" }}{{ end }}{{ end }}
 </p>
 {{- end }}
 <!-- Work Experience - Amount of Time -->
@@ -120,5 +120,12 @@
 {{ $events := (index .Site.Taxonomies.tags $talk) }}
 <p class="subtitle has-text-weight-light is-size-7 mt-sm">
   <span class="mr-sm">🗨️</span>Presented at {{ len $events }}{{ if gt (len $events) 1 }} events{{ else }} event{{ end }}
+</p>
+{{ end }}
+<!-- Speaking -->
+{{ if eq .URL "/speaking/" }}
+{{ $talks := ($.Site.Taxonomies.categories.talk).Pages }}
+<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+  <span class="mr-sm">📢️</span>There are {{ len $talks }} talks I've created so far that you can find on <a href="/talks" rel="noopener">my talks page</a>.
 </p>
 {{ end }}
