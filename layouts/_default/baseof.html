@@ -4,6 +4,8 @@
 
 <head prefix="og: http://ogp.me/ns#">
   {{- partial "head.html" . -}}
+  <!-- Netlify Identity -->
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
 <body>
@@ -23,7 +25,7 @@
   {{- partial "footer.html" . -}}
   <!-- Scripts -->
   {{- partial "scripts.html" . -}}
-  <!-- Identity -->
+  <!-- Netlify Identity -->
   <script>
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {

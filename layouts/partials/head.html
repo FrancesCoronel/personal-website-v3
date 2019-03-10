@@ -106,7 +106,7 @@
 <meta name="twitter:image:src" content="{{ if hasPrefix .Params.image "/assets" }}{{ .Params.image | absURL }}{{ else if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
 <meta name="twitter:text:title" content="{{ .Title }}">
 <meta name="twitter:title" content="{{ .Title }}">
-<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta property="dcterms:description" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.description | truncate 150 }}{{ end }}">
 <meta property="dcterms:title" content="{{ .Title }}">
 <meta property="og:description" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.description | truncate 150 }}{{ end }}">
