@@ -1,16 +1,15 @@
 ---
 title: What I Use
-description: The tools I use on a day to day basis - 2018 version.
+description: The tools I use on a day to day basis.
 image: https://i.imgur.com/DDBxjA2.jpg
-categories:
-  - portfolio
-  - blog
 url: /what-i-use/
 aliases:
   - /home/about/what-i-use/
   - /about/what-i-use/
   - /2018/03/18/what-i-use---spring-2018/
 ---
+
+> Last updated March 2019.
 
 ## Software
 

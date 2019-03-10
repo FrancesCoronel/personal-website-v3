@@ -1,10 +1,9 @@
 ---
 title: Tech Queens 👑
-description: "Stories and advice shared by women of color in tech."
+description: "Stories and advice shared by women of color in tech. 🎙️"
 display: Podcast
 toc: true
 hideUpcomingText: true
-icon: 🎙️
 image: "/assets/img/podcast/tech-queens-banner.png"
 layout: "podcast"
 navbar: true

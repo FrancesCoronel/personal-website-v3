@@ -8,7 +8,6 @@ navbar: true
 noComments: true
 noTimeEstimate: true
 portfolioPage: true
-icon: 🛠️
 url: /portfolio/
 aliases:
   - /work/

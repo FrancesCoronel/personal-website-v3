@@ -1,14 +1,13 @@
 ---
 title: Speaking
-description: I've given talks on a variety of topics at different events. 💬️
-image: https://i.imgur.com/vv51StT.jpg?2
 customPage: true
+description: I've given talks on a variety of topics at different events. 💬️
 hideImage: true
+image: https://i.imgur.com/vv51StT.jpg?2
 navbar: true
 noComments: true
 noTimeEstimate: true
 speakingPage: true
-icon: 💬️
 url: /speaking/
 aliases:
   - /home/services/speaking/

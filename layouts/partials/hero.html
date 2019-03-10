@@ -1,4 +1,4 @@
-<div class="section pb-0">
+<div class="section pt-sm pb-0">
   <div class="container">
     <div class="content">
       <!-- Title -->
@@ -18,12 +18,9 @@
       <div class="content-info">
         {{ partial "page-info.html" . }}
         {{ partial "page-links.html" . }}
-        {{ $hideTaxonomy := .Params.hideTaxonomy }}
-        {{ if not $hideTaxonomy }}
         <div class="mt-1">
           {{ partial "taxonomy.html" . }}
         </div>
-        {{ end }}
       </div>
       <!-- Line Separator (doesn't show with images) -->
       {{ if not (and (.Params.image) (not .Params.hideImage)) }}

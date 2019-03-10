@@ -2,7 +2,6 @@
 title: "Episode 1. An Introduction"
 date: 2019-03-08
 description: "Why I decided to start this podcast."
-hideTaxonomy: true
 hideUpcomingText: true
 image: "/assets/img/podcast/tech-queens-episode-1.png"
 recording: https://anchor.fm/tech-queens/episodes/Episode-1---An-Introduction-e2d55t
@@ -11,10 +10,13 @@ aliases:
   - /podcast/episode-1/
 categories:
   - podcast
+tags:
+  - tech queens
+  - women of color in tech
 ---
 
 <div class="mt-1 mb-1">
-<iframe src="https://anchor.fm/tech-queens/embed/episodes/Episode-1--An-Introduction-e2d55t" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+  <iframe src="https://anchor.fm/tech-queens/embed/episodes/Episode-1--An-Introduction-e2d55t" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 </div>
 
 ## Overview

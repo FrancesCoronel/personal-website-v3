@@ -6,7 +6,6 @@ educationPage: true
 hideImage: true
 noComments: true
 noTimeEstimate: true
-icon: 🎓
 image: https://i.imgur.com/X9Obcyb.jpg
 url: /education/
 aliases:

@@ -13,7 +13,7 @@
   .pagination-link,
   .pagination-next,
   .pagination-previous {
-    border: 1px solid $border !important;
+    border: 1px solid $border;
 
     &:hover {
       @extend %image-shadow;
@@ -23,6 +23,12 @@
       color: white;
 
     }
+  }
+
+  .pagination-next,
+  .pagination-previous {
+    border: none;
+    padding: 1em;
   }
 
   .pagination-link[disabled],

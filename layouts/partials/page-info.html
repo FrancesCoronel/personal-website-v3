@@ -19,6 +19,7 @@
 {{ $experienceYears := int (div $experienceDays 365) }}
 {{ $experienceDaysTotal := int ((mod (mod $experienceDays 365) (30))) }}
 <!-- Experience Page - show work experience time -->
+<!--
 {{ if eq .URL "/experience/" }}
 <p class="subtitle has-text-weight-light is-size-7 mt-sm">
   <span class="mr-sm">🕒</span>{{ if not (eq $experienceYears 0) }}{{ $experienceYears }} {{ if gt $experienceYears 1 }}years{{ else }}year{{ end }}{{ end }}{{ if not (eq $experienceMonths 0) }} {{ $experienceMonths }} {{ if gt $experienceMonths 1 }}months{{ else }}month{{ end }}{{ end }}{{ if not (eq $experienceDaysTotal 0) }} {{ $experienceDaysTotal }} {{ if gt $experienceDaysTotal 1 }}days{{ else }}day{{ end }}{{ end }} of work experience
@@ -29,7 +30,7 @@
 <p class="subtitle has-text-weight-light is-size-7 mt-sm">
   <span class="mr-sm">🎓</span>Learning to code <a href="/education/" rel="noopener">since 2013</a>
 </p>
-{{ end }}
+{{ end }} -->
 <!-- Time in Role -->
 {{ if .Params.ended }}
 <p class="subtitle has-text-weight-light is-size-7 mt-sm">

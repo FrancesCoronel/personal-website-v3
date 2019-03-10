@@ -7,7 +7,6 @@ customPage: true
 hideImage: true
 noComments: true
 noTimeEstimate: true
-icon: 👥
 url: /conferences/
 aliases:
   - /tech-events/

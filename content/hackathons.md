@@ -1,12 +1,11 @@
 ---
 title: Hackathons
 description: Hack, hack, hack... 💻
-image: https://i.imgur.com/iFVrP3w.jpg
+image: https://i.imgur.com/95rd1di.jpg
 customPage: true
 hackathonPage: true
 hideImage: true
 noComments: true
-icon: 💻️
 url: /hackathons/
 aliases:
   - /hacking/

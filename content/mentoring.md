@@ -6,7 +6,6 @@ customPage: true
 hideImage: true
 mentoringPage: true
 noComments: true
-icon: 📚
 url: /mentoring/
 aliases:
   - /services/mentoring/

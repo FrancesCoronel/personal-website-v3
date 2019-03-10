@@ -1,6 +1,5 @@
 {{ $pageLinksPresent := or (in .Params.categories "speaking") (in .Params.categories "talk") (.Params.slides) (.Params.video) (.Params.recording) }}
 {{ $categoriesOrTagsPresent := or (.Params.categories) (.Params.tags) }}
-{{ $hideTaxonomy := .Params.hideTaxonomy }}
 <div class="card card-equal-height">
   <a class="reset" aria-label="{{ .Title }}" href="{{ .RelPermalink }}" rel="noopener">
     <!-- Image -->
@@ -31,15 +30,11 @@
   </div>
   {{ end }}
   <!-- Taxonomy -->
-  {{ if not $hideTaxonomy }}
-    {{ if $categoriesOrTagsPresent }}
-    <div class="media-content pt-1">
-      <div class="content">
-        {{ partial "taxonomy.html" . }}
-      </div>
+  {{ if $categoriesOrTagsPresent }}
+  <div class="media-content pt-1">
+    <div class="content">
+      {{ partial "taxonomy.html" . }}
     </div>
-    {{ end }}
-  {{ else }}
-  <div class="pt-1"></div>
+  </div>
   {{ end }}
 </div>

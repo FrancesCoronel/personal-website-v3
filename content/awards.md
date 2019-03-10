@@ -7,7 +7,6 @@ customPage: true
 hideImage: true
 noComments: true
 noTimeEstimate: true
-icon: 🏆️
 aliases:
   - /awards/
   - /home/awards/

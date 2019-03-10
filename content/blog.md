@@ -8,7 +8,6 @@ hideImage: true
 noComments: true
 noTimeEstimate: true
 url: /blog/
-icon: 📝
 aliases:
   - /blog/archive/
   - /category/certainties/

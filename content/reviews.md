@@ -1,13 +1,12 @@
 ---
 title: Reviews
+customPage: true
 description: All the sweet things folks have had to say. ✅
-image: https://i.imgur.com/eDqiqGu.jpg
+feedbackPage: true
 hideImage: true
+image: https://i.imgur.com/eDqiqGu.jpg
 noComments: true
 noTimeEstimate: true
-customPage: true
-feedbackPage: true
-icon: ✅
 url: /reviews/
 aliases:
   - /services/mentoring/reviews/

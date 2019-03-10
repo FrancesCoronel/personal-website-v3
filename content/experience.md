@@ -7,7 +7,6 @@ experiencePage: true
 hideImage: true
 noComments: true
 noTimeEstimate: true
-icon: 💼️
 url: /experience/
 aliases:
   - /jobs/
