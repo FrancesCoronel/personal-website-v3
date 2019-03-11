@@ -50,9 +50,7 @@ I plan on releasing an episode at least once every month or more often, dependin
 
 ## Where will the episodes be published?
 
-You will be find all the episodes at [https://techqueenspod.com](https://techqueenspod.com) which redirects to this page at [https://www.fvcproductions.com/tech-queens](https://www.fvcproductions.com/tech-queens).
-
-Recordings will be distributed through Anchor at [https://anchor.fm/tech-queens](https://anchor.fm/tech-queens) and then shared on these platforms:
+Recordings will be distributed through Anchor at [https://anchor.fm/tech-queens](https://anchor.fm/tech-queens) and then shared on these platforms (still a WIP):
 
 - Apple Podcasts
 - Breaker
@@ -63,6 +61,10 @@ Recordings will be distributed through Anchor at [https://anchor.fm/tech-queens]
 - RadioPublic
 - Spotify
 - Stitcher
+
+The Twitter handle is [`@TechQueensPod`](https://twitter.com/TechQueensPod) and the hashtag is `#TechQueens`.
+
+You can find all the episodes at [https://techqueenspod.com](https://techqueenspod.com) which redirects to this page at [https://www.fvcproductions.com/tech-queens](https://www.fvcproductions.com/tech-queens).
 
 ## How will the episodes be formatted?
 
@@ -83,6 +85,8 @@ The format for each 1 hour session will look something like this:
 - Where do you live online or how can people reach out to you? `#GrowYourNetwork`
 
 ## Want to be on the podcast?
+
+> You can find all the relevant info that I share with interviewees on Google Docs using [https://goo.gl/xNFaKb](https://goo.gl/xNFaKb).
 
 <form name="podcast" method="POST" data-netlify="true">
   <input type="hidden" name="_subject" value="FVCproductions - TechQueens Podcast Request">

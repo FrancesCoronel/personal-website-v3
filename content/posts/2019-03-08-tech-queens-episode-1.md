@@ -127,7 +127,9 @@ And if you’re interested in being on the podcast yourself, just head on over t
 
 It doesn’t matter where you are in your tech journey - whether you’re just starting out or you’re the CTO of a Fortune 500 company - I want to hear from you and I want to share your story.
 
-So until next time, stay fancy! #TechQueens
+So until next time, stay fancy!
+
+`#TechQueens`
 
 ## References
 
