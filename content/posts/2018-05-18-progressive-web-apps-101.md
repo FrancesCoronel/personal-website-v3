@@ -82,7 +82,7 @@ You can view my upcoming and previous speaking engagements on my website: https:
 
 ## Topics Covered
 
-Accessibility, Broadband Cellular Network Technology, Cellular Broadband Networks, Chrome DevTools, HTTPs, Hugo, JavaScript, Lighthouse, Native Mobile Apps, Performance, Progressive Web Apps, SEO, Service Workers, Static Site Generators, Web App Manifest, Web Push Notifications
+Accessibility, Broadband Cellular Network Technology, Chrome DevTools, HTTPs, Hugo, JavaScript, Lighthouse, Native Mobile Apps, Performance, Progressive Web Apps, SEO, Service Workers, Static Site Generators, Web App Manifest, Web Push Notifications
 
 ## Technical Requirements
 

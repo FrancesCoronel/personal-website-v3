@@ -18,7 +18,7 @@ tags:
 
 ## Recording
 
-<iframe src="https://anchor.fm/tech-queens/embed/episodes/Episode-1--An-Introduction-e2d55t" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/tech-queens/embed/episodes/Episode-1--An-Introduction-e2d55t" frameborder="0" scrolling="no" class="mt-2"></iframe>
 
 ## Overview
 
