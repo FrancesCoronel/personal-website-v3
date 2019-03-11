@@ -13,3 +13,7 @@ tags:
 ---
 
 I spoke to a group of students from Diablo Valley College about my work at Slack with Q&A after and a brief tour of the Slack HQ office beforehand.
+
+"I want to thank you so much for coordinating this tour for STEM In Color. Our group members had a tremendous time, and we all walked away feeling inspired." - Adeola Morren
+
+"Thank you again for the wonderful tour and information. It was super helpful :)" - Pratistha Maharjan
