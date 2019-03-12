@@ -11,9 +11,7 @@ categories:
 
 [![Designation](https://designation.io/downloads/designation_logo_black/designation_vertical_black.png)](https://designation.io)
 
-# Interview with [Designation.io](https://designation.io "Designation")
-
-## with [Will Shandling](https://www.linkedin.com/in/wshandling "Will Shandling")
+# Interview with [Designation.io](https://designation.io "Designation") with [Will Shandling](https://www.linkedin.com/in/wshandling "Will Shandling")
 
 > answers are paraphrased or just referenced verbatim
 >
@@ -67,5 +65,5 @@ _Some Logistics_
 - Once you confirm your participation, they'll shoot an invoice for your deposit
 - Remaining tuition is due 2 weeks before class starts
 - You get set up with an account on [Lynda.com](https://lynda.com "Lynda") once you pay the first deposit.
-- The total cost of the program is $6K.
+- The total cost of the program is <!-- prettier-ignore -->$6K.
 - You have to officially confirm your acceptance no later than 1 week from today (I made sure to explain to Will I would need more time to make my decision, and he understood, so again, kudos to Will and his quick feedback!).
