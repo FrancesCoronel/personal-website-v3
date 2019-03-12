@@ -2,8 +2,8 @@
 title: "RevolutionConf 2019"
 date: 2019-06-07
 description: "RevolutionConf is a two-day, platform and language agnostic software development conference."
-image: https://i.imgur.com/qc4ZTLx.jpg
-link: http://www.corofellowship.org/fellows-in-action/fellowship-locations/coro-fellowship-san-francisco/
+image: https://i.imgur.com/hQwwDi1.jpg
+link: https://revolutionconf.com/
 location: Wyndham Oceanfront - Virginia Beach, VA
 categories:
   - speaking
