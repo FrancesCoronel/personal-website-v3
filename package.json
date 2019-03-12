@@ -4,14 +4,14 @@
   "description": "I like to dabble with things that ought to be dabbled with.",
   "repository": "fvcproductions/fvcproductions.github.io",
   "scripts": {
-    "build": "gulp build",
     "build:dev": "gulp build-dev",
-    "start": "gulp server",
-    "start:prod": "gulp server-prod",
-    "start:preview": "gulp server-preview",
+    "build": "gulp build",
     "clean": "gulp clean",
+    "prepublish": "npm run snyk-protect",
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "start:preview": "gulp server-preview",
+    "start:prod": "gulp server-prod",
+    "start": "gulp server"
   },
   "author": "Frances Coronel",
   "license": "MIT",

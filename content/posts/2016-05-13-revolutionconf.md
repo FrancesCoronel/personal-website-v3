@@ -43,8 +43,11 @@ I helped develop the sponsor prospectus, flyers, and helped out with registratio
 RevolutionConf is a two-day, platform and language agnostic, software development conference in VA Beach. It hosts talks from regional, national, and international thought leaders. RevolutionConf is organized and supported by the board members of RevolutionVA, a 501c3 non-profit based in Norfolk, VA. The goal of RevolutionVA is to unite software developers in the mid-Atlantic region through conferences, and career and learning opportunities.
 
 ![RevolutionConf Picture](https://i.imgur.com/u61eySJ.png)
+
 ![RevolutionConf Picture](https://i.imgur.com/0GxJGEf.jpg)
+
 ![RevolutionConf Picture](https://i.imgur.com/JVV3yar.jpg)
+
 ![RevolutionConf Picture](https://i.imgur.com/VKwnUM2.jpg)
 
 ![RevConf](https://lh3.googleusercontent.com/9ZxYcRQFSul5CyU8lgyAe-I-kZMw8trnGT_dHO2yY82cjktHiz1EbxP-7Odfr94HCmELLJYvNxCUpNAUcfBKLQv968fgH9vDw0Z3ct_2Gpp2E42ApYCbxj5a_DqSqNi0JW5CKjhWpdeHJaYYfa-D9uLAxvNrZej-VLtHrR98D8vgfx8rJjH_N-JAr1PMxEZPc8MZk9sagg5M5ADzvNoT9Ib-4LpAbcqT60aYa-Dd_96BHz9RGg4FaIoEiMTY1UzW3O0ZPhyuMcp9USWQB54y_jZaKCQfnru2bHiHEyCSYI6rqXoct0HDY4msEqTj2wBAK0pas7O8sxDWrO4aO17nA0orWJyaEQWogewquSKHigEzNVmgloV6m01G_X92eQvPlL_CiSW6PJuJGA55wtkCD1Nyi3P4U1XTuYpXrDW2rbK7xVOMuRWYd4fMEAQGWXVz12iOKDCZNUqAxNB-Hf-1ycdp0R9loKED0BTR6jMPb8dctCfNKP_JxOk3jd0f6_HbiPM4jTGvGEmPxERoyxPgl6GqFhvCMo-Ui1VNIMAP3WgpRi97WUotqZRVHIe71PK5u9bLEmk74SI3ypBX_ZFnJ1NrHrnX24bjAiYrIJZELukuR5YUu2P6EX0A_MZGiYHO=w800-h533-no)

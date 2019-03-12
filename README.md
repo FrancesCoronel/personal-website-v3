@@ -2,11 +2,9 @@
 
 # fvcproductions.github.io
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/fvcproductions/fvcproductions.github.io.svg)](https://github.com/fvcproductions/fvcproductions.github.io/commits/production) [![GitHub Commit Activity (Yearly)](https://img.shields.io/github/commit-activity/y/fvcproductions/fvcproductions.github.io.svg)](https://github.com/fvcproductions/fvcproductions.github.io/commits/production)
-
-[![GitHub Issues](https://img.shields.io/github/issues/fvcproductions/fvcproductions.github.io.svg)](https://github.com/fvcproductions/fvcproductions.github.io/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/fvcproductions/fvcproductions.github.io.svg)](https://github.com/fvcproductions/fvcproductions.github.io/pulls)
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3ba518d4-7f2c-431e-89be-289f8adb3b26/deploy-status)](https://app.netlify.com/sites/fvcproductions/deploys)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/fvcproductions/fvcproductions.github.io.svg)](https://github.com/fvcproductions/fvcproductions.github.io/commits/production) [![GitHub Issues](https://img.shields.io/github/issues/fvcproductions/fvcproductions.github.io.svg)](https://github.com/fvcproductions/fvcproductions.github.io/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/fvcproductions/fvcproductions.github.io.svg)](https://github.com/fvcproductions/fvcproductions.github.io/pulls)
 
 [![MIT License](https://img.shields.io/github/license/fvcproductions/fvcproductions.github.io.svg)](http://badges.mit-license.org) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffvcproductions%2Ffvcproductions.github.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffvcproductions%2Ffvcproductions.github.io?ref=badge_shield)
 
@@ -52,7 +50,7 @@ npm build
 
 ## Tools & Typography
 
-- See [Colophon](https://www.fvcproductions.com/colophon).
+- See [Colophon](https://www.fvcproductions.com/colophon)
 
 ## Contributing
 

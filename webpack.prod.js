@@ -59,8 +59,12 @@ module.exports = {
       clientsClaim: true,
       skipWaiting: true,
       runtimeCaching: [{
+        urlPattern: /index.html/,
+        handler: "NetworkFirst"
+      },
+      {
         urlPattern: /\.(?:html)$/,
-        handler: "networkFirst",
+        handler: "NetworkFirst",
         options: {
           cacheName: "posts-cache",
           expiration: {
@@ -70,22 +74,22 @@ module.exports = {
       },
       {
         urlPattern: /\.(?:png|gif|jpg|svg|ico|jpeg|css|js)$/,
-        handler: "cacheFirst",
+        handler: "CacheFirst",
         options: {
           cacheName: "assets-cache"
         }
       },
       {
         urlPattern: new RegExp("https://twemoji.maxcdn.com"),
-        handler: "staleWhileRevalidate"
+        handler: "StaleWhileRevalidate"
       },
       {
         urlPattern: new RegExp("https://i.imgur.com"),
-        handler: "staleWhileRevalidate"
+        handler: "StaleWhileRevalidate"
       },
       {
         urlPattern: new RegExp("https://www.google-analytics.com"),
-        handler: "staleWhileRevalidate"
+        handler: "StaleWhileRevalidate"
       }
       ]
     })
