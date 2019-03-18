@@ -13,7 +13,7 @@ aliases:
 
 ## 📬 Email
 
-Get new updates sent to your inbox every month on the 12th by entering your email below!</p>
+Get new updates sent to your inbox once every month by entering your email below!</p>
 
 You can also <a href="https://us12.campaign-archive.com/home/?u=0c1cb29d65da6e773de7acb68&id=0427c5c75d" title="View previous email campaigns" target="_blank" rel="noopener">view previous email campaigns</a> to get a better idea of what I send out.
 

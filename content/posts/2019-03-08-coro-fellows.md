@@ -13,3 +13,6 @@ tags:
 ---
 
 I spoke to the Coro Fellow class of 2019 about my work at Slack with Q&A after and a brief tour of the Slack HQ office beforehand.
+
+<blockquote class="embedly-card"><h4><a href="https://twitter.com/CoroNorCal/status/1105563707365457920">Coro Northern CA on Twitter</a></h4><p>Last Friday our @SFCoroFellows interviewed Fall 2018 Women in Leadership grad @fvcproductions - a software engineer at @SlackHQ. Thanks Frances for sharing your experiences with the #CoroFellows! #CoroAlum #CorNorCal #CoroLeads</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

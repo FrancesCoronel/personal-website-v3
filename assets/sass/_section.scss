@@ -18,27 +18,32 @@
   .section {
     padding: 1em 0;
   }
+}
 
-  .section-donate {
-    a {
-      text-decoration: none;
-      border-bottom: none;
+.section-donate,
+.section-podcast-listen {
+  a {
+    text-decoration: none;
+    border-bottom: none !important;
+  }
+
+  img {
+    height: 50px !important;
+    box-shadow: none;
+    display: inline-block;
+
+    &:hover {
+      @extend %material-shadow;
     }
   }
 
-  .section-donate {
-    img {
-      height: 50px !important;
-      box-shadow: none;
-      display: inline-block;
-
-      &:hover {
-        @extend %material-shadow;
-      }
-    }
-
-    a:hover {
-      border-bottom: none;
-    }
+  a:hover {
+    border-bottom: none;
   }
 }
+
+// .section-podcast-listen {
+//   img {
+//     height: 100px !important;
+//   }
+// }

@@ -7,7 +7,14 @@
 <div class="section">
   <div class="container">
     <div class="content">
-      <h2>🎙️Episodes</h2>
+      <h2>🎧 Available on</h2>
+      <div class="section-podcast-listen">
+        <a href="https://anchor.fm/tech-queens" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/anchor.svg" alt="Anchor" title="Anchor"></a>
+        <a href="https://itunes.apple.com/us/podcast/tech-queens/id1456016938" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/apple-podcasts.svg" alt="Apple Podcasts" title="Apple Podcasts"></a>
+        <a href="https://pca.st/v7OE" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/pocket-casts.svg" alt="Pocket Casts" title="Pocket Casts"></a>
+        <a href="https://anchor.fm/s/28fa2f8/podcast/rss" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/rss.svg" alt="Tech Queens - RSS Feed" title="Tech Queens - RSS Feed"></a>
+      </div>
+      <h2>🎙️ Episodes</h2>
       <!-- <p>🎙️{{ len $podcast }} episodes so far</p> -->
       <div class="columns is-multiline">
         {{ range $podcast.ByDate.Reverse }}

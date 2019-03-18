@@ -1,6 +1,6 @@
 ---
 title: "Latinx in the Workplace"
-date: 2019-03-16
+date: 2019-03-26
 location: Netflix HQ - Los Gatos, CA
 image: https://i.imgur.com/oRiv5Ec.jpg
 link: https://latinxintheworkplace.splashthat.com/
