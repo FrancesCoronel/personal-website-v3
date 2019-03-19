@@ -23,10 +23,10 @@
       {{ end }}">
       <div class="card card-equal-height">
         <div class="media-content">
-          <span class="is-size-4 has-text-weight-bold has-text-black">
+          <span class="is-size-5 has-text-weight-bold has-text-black">
             {{ .Count }}
           </span>
-          <p class="has-text-weight-light is-capitalized">
+          <p class="is-size-7 has-text-weight-light is-capitalized">
             {{ if eq .Name "award" }}Awards 🏆
             {{ else if eq .Name "blog" }}Blog Posts 📝
             {{ else if eq .Name "conference" }}Conferences 👥
@@ -35,7 +35,7 @@
             {{ else if eq .Name "freelancing" }}Freelance Clients 💵
             {{ else if eq .Name "hackathon" }}Hackathons 💻️
             {{ else if eq .Name "mentoring" }}Mentees 📚
-            {{ else if eq .Name "podcast" }}Podcast Episodes 🎙️
+            {{ else if eq .Name "podcast" }}Podcast Episode 🎙️
             {{ else if eq .Name "portfolio" }}Projects 🛠️
             {{ else if eq .Name "press" }}Press Mentions 📰️
             {{ else if eq .Name "program" }}Programs 🌱

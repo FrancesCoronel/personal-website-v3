@@ -13,6 +13,44 @@ tags:
 
 The HTML Liquid snippets are optimized for use with the [Hugo static site generator](https://gohugo.io/) and the [Bulma CSS framework](https://bulma.io/).
 
+## Speaking Engagements
+
+```html
+<!-- Speaking Category -->
+{{ $speaking := ($.Site.Taxonomies.categories.speaking).Pages }}
+<!-- Upcoming Events -->
+{{ $upcomingEvents := where $speaking "Date" "ge" now }}
+<!-- Past Events -->
+{{ $pastEvents := where $speaking "Date" "lt" now }}
+<!-- Show Upcoming Events -->
+{{ if (len $upcomingEvents) "ge" 1 }}
+<h2>
+  ⏳️ {{ len $upcomingEvents }} Upcoming {{ if gt (len $upcomingEvents) 1
+  }}Events{{ else }}Event{{ end }}
+</h2>
+<div class="columns is-multiline">
+  {{ range $upcomingEvents.ByDate.Reverse }}
+  <div
+    class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd"
+  >
+    {{ partial "card.html" . }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}
+<!-- Show Past Events -->
+<h2>⌛️ {{ len $pastEvents }} Past Events</h2>
+<div class="columns is-multiline">
+  {{ range $pastEvents.ByDate.Reverse }}
+  <div
+    class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd"
+  >
+    {{ partial "card.html" . }}
+  </div>
+  {{ end }}
+</div>
+```
+
 ## Archive
 
 ```html
@@ -102,6 +140,7 @@ The HTML Liquid snippets are optimized for use with the [Hugo static site genera
         {{ end }}
         {{ end }}
       </div>
+      <!-- Social Icons -->
       <div class="navbar-end is-hidden-touch">
         <div class="navbar-item">
           <div class="buttons">
