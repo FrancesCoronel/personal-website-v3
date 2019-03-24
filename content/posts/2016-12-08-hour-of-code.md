@@ -42,7 +42,7 @@ I even received some swag from ELiTE Education in exchange! 😊
 
 ## Middle School
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/hour-of-code-2016-middle-school">Hour of Code 2016 - Middle School</a></h4><p>Published December 8, 2016, in Education Volunteered at the urban Assembly Academy for Future Leaders in Harlem, NY through the Hour of Code program & ELiTE Ed...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/hour-of-code-2016-middle-school">Hour of Code 2016 - Middle School</a></h4><p>Published December 8, 2016, in Education Volunteered at the urban Assembly Academy for Future Leaders in Harlem, NY through the Hour of Code program & ELiTE Ed...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---

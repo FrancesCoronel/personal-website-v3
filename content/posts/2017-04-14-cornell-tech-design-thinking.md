@@ -21,10 +21,10 @@ _it would be game changing if we..._ could provide a way for students to look in
 
 ## Speaker Deck
 
-<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/pathfinder">PathFinder</a></h4><p>Design Thinking - Final Project Cornell Tech Team Ohana FVCproductions 2017</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://speakerdeck.com/fvcproductions/pathfinder">PathFinder</a></h4><p>Design Thinking - Final Project Cornell Tech Team Ohana FVCproductions 2017</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## YouTube Video
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=WAGKzph41Rg">Pathfinders Design Thinking Video</a></h4><p>Design Thinking</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=WAGKzph41Rg">Pathfinders Design Thinking Video</a></h4><p>Design Thinking</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

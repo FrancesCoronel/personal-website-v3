@@ -23,7 +23,7 @@ I also created a presentation for this interview on **[Demystifying Meltdown & S
 
 More details on my unsucessful but engaging interview process [can be found on Glassdoor](https://www.glassdoor.com/Interview/DocuSign-Interview-RVW19450031.htm).
 
-<blockquote class="embedly-card"><h4><a href="https://www.glassdoor.com/Interview/DocuSign-Developer-Evangelist-Interview-Questions-EI_IE307604.0,8_KO9,29.htm#InterviewReview_19450031">DocuSign Developer Evangelist Interview Questions</a></h4><p>Application I applied online. The process took 4+ weeks. I interviewed at DocuSign (San Francisco, CA) in February 2018. Interview Sat, Jan 27 - Applied online Tue, Jan 30 - Recruiter reaches out and an initial phone call is set up Thurs, Feb 1 - Initial call with recruiter - get positive impression of team/company Wed, Feb 7 - Call with the director of dev rel team.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.glassdoor.com/Interview/DocuSign-Developer-Evangelist-Interview-Questions-EI_IE307604.0,8_KO9,29.htm#InterviewReview_19450031">DocuSign Developer Evangelist Interview Questions</a></h4><p>Application I applied online. The process took 4+ weeks. I interviewed at DocuSign (San Francisco, CA) in February 2018. Interview Sat, Jan 27 - Applied online Tue, Jan 30 - Recruiter reaches out and an initial phone call is set up Thurs, Feb 1 - Initial call with recruiter - get positive impression of team/company Wed, Feb 7 - Call with the director of dev rel team.</p></blockquote>
 
 ---
 
@@ -143,7 +143,7 @@ There's also this useful YouTube video that gives a technical overview of how Po
 
 > Thanks Aaron & Dewey for the useful tutorial!
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=YlHORJFj5C4&t=67s">DocuSign Developer: PowerForm Integration Demo</a></h4><p>DocuSign Developer Center - http://bit.ly/2BUp72B Aaron Liao talks with Dewey Wald, DocuSign's Principal Software Architect. In this second demo discussion with Dewey, you get to see a PowerForm integration scenario. We will create a template, convert it to a PowerForm, and then show the integration of a button to launch the form from your website.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=YlHORJFj5C4&t=67s">DocuSign Developer: PowerForm Integration Demo</a></h4><p>DocuSign Developer Center - http://bit.ly/2BUp72B Aaron Liao talks with Dewey Wald, DocuSign's Principal Software Architect. In this second demo discussion with Dewey, you get to see a PowerForm integration scenario. We will create a template, convert it to a PowerForm, and then show the integration of a button to launch the form from your website.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 The short link for this post is [bit.ly/frances-docusign](https://bit.ly/frances-docusign).

@@ -13,7 +13,7 @@ tags:
 
 This deck served to aid students ramp up their dev environment while studying at Fullstack Academy.
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/2015-0618-awesome-web-dev-tips-amp-tricks-fullstack-academy">Fullstack Academy - Awesome Web Dev Tips & Tricks</a></h4><p>Making Sublime Sexy, Themes, Packages, Customizing Your Terminal, Cool OSX Apps, Nifty Chrome Extensions, Wicked Websites, Funsies, and other awesome resources...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/2015-0618-awesome-web-dev-tips-amp-tricks-fullstack-academy">Fullstack Academy - Awesome Web Dev Tips & Tricks</a></h4><p>Making Sublime Sexy, Themes, Packages, Customizing Your Terminal, Cool OSX Apps, Nifty Chrome Extensions, Wicked Websites, Funsies, and other awesome resources...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <!-- TOC -->

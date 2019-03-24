@@ -9,7 +9,7 @@ tags:
   - presentation
 ---
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/dear-bootcamp-82133387">Dear Bootcamp</a></h4><p>Published December 31, 2014. Creative portion sent to bootcamps during the application process. Inspired by Bloggytoons - http://bloggytoons.com/dear-flatiron...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/dear-bootcamp-82133387">Dear Bootcamp</a></h4><p>Published December 31, 2014. Creative portion sent to bootcamps during the application process. Inspired by Bloggytoons - http://bloggytoons.com/dear-flatiron...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ![Dear Bootcamp 1](https://i.imgur.com/rnCLyau.jpg)

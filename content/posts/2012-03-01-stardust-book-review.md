@@ -29,5 +29,5 @@ In May of 2012, this book review of Stardust won third place for the Grade 11 ca
 
 The book review contest is sponsored each year by the FNPL to encourage reading and critical thinking, and is open to Norfolk public, private, and home-schooled students in grades 4-12. The winning reviews were selected from more than 2,100 entries. Winners received gift certifi-cates to Prince Books, and every student who entered the contest received a certificate of participation.
 
-<blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/306947201/2012-Friends-of-the-Norfolk-Public-Library">2012 Friends of the Norfolk Public Library</a></h4><p>null</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.scribd.com/document/306947201/2012-Friends-of-the-Norfolk-Public-Library">2012 Friends of the Norfolk Public Library</a></h4><p>null</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

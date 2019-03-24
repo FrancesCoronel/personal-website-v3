@@ -1,5 +1,5 @@
 {{ $programs := ($.Site.Taxonomies.categories.program).Pages }}
-<p>{{ len $programs }} programs attended</p>
+<p>I've attended {{ len $programs }} programs so far.</p>
 <div class="columns is-multiline">
   {{ range $programs }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">

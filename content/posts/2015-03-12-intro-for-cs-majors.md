@@ -45,10 +45,10 @@ We'll have to see how it goes but I think it has a lot of potential.
 
 ![An Intro for CS Majors 2](https://i.imgur.com/gqOgpkk.jpg)
 
-<blockquote class="embedly-card"><h4><a href="https://bit.ly/hu-book">An Intro for CS Majors at HU · GitBook</a></h4><p>cs-and-english: If you are a freshman majoring in Computer Science at Hampton University, then this is the book for you.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://bit.ly/hu-book">An Intro for CS Majors at HU · GitBook</a></h4><p>cs-and-english: If you are a freshman majoring in Computer Science at Hampton University, then this is the book for you.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://hubook.strikingly.com/">The HU GitBook</a></h4><p>This GitBook serves as the best start for freshman at Hampton University who are majoring in Computer Science or English.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://hubook.strikingly.com/">The HU GitBook</a></h4><p>This GitBook serves as the best start for freshman at Hampton University who are majoring in Computer Science or English.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Update April 6, 2015 for CS GitBook

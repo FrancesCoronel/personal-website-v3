@@ -1,7 +1,7 @@
 <!-- Variables -->
 {{ $mentoring := ($.Site.Taxonomies.categories.mentoring).Pages }}
 <!-- mentoring -->
-<p>{{ len $mentoring}} people I've mentored or given advice/knowledge to</p>
+<p>I've mentored or given advice/knowledge to{{ len $mentoring}} people so far.</p>
 <div class="columns is-multiline">
   {{ range $mentoring }} {{ if .Date.Before now }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">

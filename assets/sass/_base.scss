@@ -1,10 +1,5 @@
 body {
-  font-size: $font-size;
   word-wrap: break-word;
-
-  @media screen and (max-width: $tablet) {
-    font-size: $font-size-mobile;
-  }
 }
 
 a {
@@ -90,4 +85,33 @@ table {
 .message:not(:last-child),
 .tabs:not(:last-child) {
   margin-bottom: 0;
+}
+
+.main {
+  max-width: 1000px;
+  margin: 0 auto;
+  position: relative;
+}
+
+body,
+.pagination,
+.tag:not(body) {
+  font-size: $font-size;
+
+  @media screen and (max-width: $tablet) {
+    font-size: $font-size-mobile;
+  }
+}
+
+.button,
+.input,
+.textarea,
+.select select,
+.file-cta,
+.file-name,
+.pagination-previous,
+.pagination-next,
+.pagination-link,
+.pagination-ellipsis {
+  font-size: inherit;
 }

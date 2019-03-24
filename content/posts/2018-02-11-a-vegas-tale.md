@@ -21,5 +21,5 @@ So today, after what has been probably a couple of years, I am happy to announce
 
 Enjoy "A Vegas Tale".
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/a-vegas-tale">A Vegas Tale</a></h4><p>Way back in the day (not even sure how long ago), I decided to apply for a scholarship competition. The goal of the competition was to find creative ways to co...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/a-vegas-tale">A Vegas Tale</a></h4><p>Way back in the day (not even sure how long ago), I decided to apply for a scholarship competition. The goal of the competition was to find creative ways to co...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

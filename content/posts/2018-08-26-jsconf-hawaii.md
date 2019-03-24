@@ -18,7 +18,7 @@ tags:
 
 I was awarded a diversity scholarship to attend JSConf Hawai'i.
 
-<blockquote class="embedly-card"><h4><a href="https://www.jsconfhi.com/">JSConf Hawaiʻi</a></h4><p>A two day, single track conference dedicated to web development, JavaScript and building a community. February 7th + 8th 2019 in Honolulu, Hawaiʻi.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.jsconfhi.com/">JSConf Hawaiʻi</a></h4><p>A two day, single track conference dedicated to web development, JavaScript and building a community. February 7th + 8th 2019 in Honolulu, Hawaiʻi.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <!-- prettier-ignore -->

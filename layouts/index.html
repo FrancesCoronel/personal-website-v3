@@ -1,73 +1,61 @@
 {{ define "main" }}
 <!-- Intro -->
 <div class="section">
-  <div class="container content">
+  <div class="content">
     <h1>👋🏽️ {{ .Site.Params.headline }}</h1>
     <p>{{ .Site.Params.description }}</p>
   </div>
 </div>
 <!-- Line Separator -->
 <div class="section pt-sm pb-sm">
-  <div class="container">
-    <hr>
-  </div>
+  <hr>
 </div>
 <!-- Nowadays -->
 <div class="section">
-  <div class="container">
-    <div class="content">
-      <h2>🕒 {{ i18n "nowadays" }}</h2>
-      <p>I'm a software engineer at
-        <a href="https://slack.com?source=fvcproductions" target="_blank" rel="noopener">Slack</a> where my mission is to make your working life simpler, more pleasant and more productive.
-      </p>
-    </div>
+  <div class="content">
+    <h2>🕒 {{ i18n "nowadays" }}</h2>
+    <p>I'm a software engineer at
+      <a href="https://slack.com?source=fvcproductions" target="_blank" rel="noopener">Slack</a> where my mission is to make your working life simpler, more pleasant and more productive.
+    </p>
   </div>
 </div>
 <!-- Line Separator -->
 <div class="section pt-sm pb-sm">
-  <div class="container">
-    <hr>
-  </div>
+  <hr>
 </div>
 <!-- Most Recent 10 Posts -->
 <div class="section">
-  <div class="container">
-    {{ $regularPages := .Site.RegularPages }}
-    {{ $regularPagesBeforeNow := where $regularPages "Date" "le" now | first 10 }}
-    <div class="content table-border-none">
-      <h2>📝 Latest Posts</h2>
-      <p>
-        I've written about
-        <a href="/posts/">{{ len $regularPages }} different things</a> so far but here are some of my most recent posts.
-      </p>
-      <!-- Table -->
-      <table class="table">
-        <tbody>
-          {{ range $regularPagesBeforeNow.ByDate.Reverse }}
-          <tr>
-            <td class="v--home__date">{{ dateFormat "January 2" .Date }}</td>
-            <td>
-              <a href="{{ .RelPermalink }}" rel="noopener">{{ .Title }}</a>
-            </td>
-          </tr>{{ end }}
-        </tbody>
-      </table>
-    </div>
+  {{ $regularPages := .Site.RegularPages }}
+  {{ $regularPagesBeforeNow := where $regularPages "Date" "le" now | first 10 }}
+  <div class="content table-border-none">
+    <h2>📝 Latest Posts</h2>
+    <p>
+      I've written about
+      <a href="/posts/">{{ len $regularPages }} different things</a> so far but here are some of my most recent posts.
+    </p>
+    <!-- Table -->
+    <table class="table">
+      <tbody>
+        {{ range $regularPagesBeforeNow.ByDate.Reverse }}
+        <tr>
+          <td class="v--home__date">{{ dateFormat "January 2" .Date }}</td>
+          <td>
+            <a href="{{ .RelPermalink }}" rel="noopener">{{ .Title }}</a>
+          </td>
+        </tr>{{ end }}
+      </tbody>
+    </table>
   </div>
 </div>
 <!-- Line Separator -->
 <div class="section pt-sm pb-sm">
-  <div class="container">
-    <hr>
-  </div>
+  <hr>
 </div>
 <!-- Categories -->
 <div class="section">
-  <div class="container">
-    <div class="content">
-      <h2>🏅 Milestones</h2>
-      {{ partial "pages/milestones.html" . }}
-    </div>
+  <div class="content">
+    <h2>🏅 Milestones</h2>
+    {{ partial "pages/milestones.html" . }}
   </div>
 </div>
 <br>

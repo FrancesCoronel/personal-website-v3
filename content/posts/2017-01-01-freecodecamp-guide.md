@@ -29,7 +29,7 @@ Contributed to [TypeScript](https://guide.freecodecamp.org/typescript) section &
 
 Also ended up being asked to be a PR reviewer and this experience was both overwhelming and fun since it was the first time I was a maintainer/reviewer for a very active repo on GitHub. At one point, there were over 5K PRs open...
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/fvcproductions/status/925958827471618048">Frances Coronel on Twitter</a></h4><p>@github @freeCodeCamp This is what a repo looks like before and after hitting over 5,000 open pull requests! 🎉</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/fvcproductions/status/925958827471618048">Frances Coronel on Twitter</a></h4><p>@github @freeCodeCamp This is what a repo looks like before and after hitting over 5,000 open pull requests! 🎉</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---

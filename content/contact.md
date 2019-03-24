@@ -34,7 +34,7 @@ Feel free to [submit a new issue](https://github.com/fvcproductions/ama/issues/n
 
 ## Contact Form 📼
 
-If none of the above options seemed appropriate for you, feel free to go old school and use this nifty contact form!
+If none of the above options seemed appropriate for you, fill out the contact form below and I'll get back to you as soon as I can.
 
 <form name="contact" method="POST" data-netlify="true">
   <input type="hidden" name="_subject" value="FVCproductions - New Contact Message">

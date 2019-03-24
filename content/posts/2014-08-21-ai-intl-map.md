@@ -13,7 +13,7 @@ categories:
 >
 > This map was last updated in November 2014.
 
-<blockquote class="embedly-card"><h4><a href="https://www.google.com/maps/d/embed?mid=zIblKEWM9BnY.kacxPZLKVHyE&w=640&h=480">AI International</a></h4><p>This map provides links to educational institutions that offer advanced degrees/concentration/depth/breadth area in artificial intelligence (AI) or operate well established AI laboratories/research groups. - This map is separated into categories by graduate, undergraduate, and research groups/labs/institutions. - This map also focuses on research efforts related to automated reasoning, knowledge representation, agent systems, cognitive/computational neuroscience, machine learning, computational biology, AI-related topics, etc.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.google.com/maps/d/embed?mid=zIblKEWM9BnY.kacxPZLKVHyE&w=640&h=480">AI International</a></h4><p>This map provides links to educational institutions that offer advanced degrees/concentration/depth/breadth area in artificial intelligence (AI) or operate well established AI laboratories/research groups. - This map is separated into categories by graduate, undergraduate, and research groups/labs/institutions. - This map also focuses on research efforts related to automated reasoning, knowledge representation, agent systems, cognitive/computational neuroscience, machine learning, computational biology, AI-related topics, etc.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## About

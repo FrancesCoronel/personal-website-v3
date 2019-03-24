@@ -14,5 +14,5 @@ A minimal Material Design inspired theme. Primary color is the lovely Oxford Blu
 
 Feel free to apply this theme through ThemeBeta (link below)!
 
-<blockquote class="embedly-card"><h4><a href="https://www.themebeta.com/chrome/theme/856926">Materialize Chrome Theme - ThemeBeta</a></h4><p>A minimal Material Design inspired theme. Primary color is the lovely Oxford Blue.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.themebeta.com/chrome/theme/856926">Materialize Chrome Theme - ThemeBeta</a></h4><p>A minimal Material Design inspired theme. Primary color is the lovely Oxford Blue.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

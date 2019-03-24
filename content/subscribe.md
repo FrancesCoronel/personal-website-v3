@@ -20,7 +20,7 @@ You can also <a href="https://us12.campaign-archive.com/home/?u=0c1cb29d65da6e77
 <form action="https://fvcproductions.us12.list-manage.com/subscribe/post?u=0c1cb29d65da6e773de7acb68&amp;id=0427c5c75d" method="post" name="mc-embedded-subscribe-form" class="validate mb-1" target="_blank" novalidate>
   <div class="field is-grouped">
     <div class="control has-icons-left is-expanded">
-      <input type="email" class="input required email" aria-label="Email Input" autocomplete="on" name="EMAIL" placeholder="hello@fvcproductions.com" value="">
+      <input type="email" class="input required email" aria-label="Email Input" autocomplete="on" name="EMAIL" placeholder="hello@fvcproductions.com" value="" required>
       <span class="icon is-left">
         ✉️
       </span>

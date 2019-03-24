@@ -22,16 +22,16 @@ I decided to create **Duolingo Delights**. With this feature, Duolingo users can
 
 After all the hours I spent working on all this, it was a huge bummer when Duolingo let me know I would not be moving forward with the on-site. This was after a programming task, this huge ass presentation and a document I wrote up elaborating on the idea. I got really salty afterward and just jumped to the conclusion that they favored folks from CMU which made me feel a little better.
 
-<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/duolingo-delights-revised-1">Duolingo Delights - Revised</a></h4><p>Proposal Deck FVCproductions</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://speakerdeck.com/fvcproductions/duolingo-delights-revised-1">Duolingo Delights - Revised</a></h4><p>Proposal Deck FVCproductions</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/333594398/Duolingo-Delights">Duolingo Delights</a></h4><p>Create a platform where Duolingo users can learn more about the culture around the language they're trying to learn and not just the grammar. This objective will be achieved by inserting mini culture-related tasks throughout the user's learning process. These culture-related tasks will be called "delights". ?</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.scribd.com/document/333594398/Duolingo-Delights">Duolingo Delights</a></h4><p>Create a platform where Duolingo users can learn more about the culture around the language they're trying to learn and not just the grammar. This objective will be achieved by inserting mini culture-related tasks throughout the user's learning process. These culture-related tasks will be called "delights". ?</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/duolingo-delights">fvcproductions/duolingo-delights</a></h4><p>duolingo-delights - Surprise yourself with Delights. Learn the language, explore the culture. 🎁</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/duolingo-delights">fvcproductions/duolingo-delights</a></h4><p>duolingo-delights - Surprise yourself with Delights. Learn the language, explore the culture. 🎁</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://www.glassdoor.com/Interview/Duolingo-Product-Management-Interview-Questions-EI_IE629348.0,8_KO9,27.htm#InterviewReview_12991817">Duolingo Product Management Interview Questions</a></h4><p>Application I applied online. The process took 3+ months. I interviewed at Duolingo in December 2016. Interview So I applied for a role as a PM intern with Duolingo on October 6th and I got a call December 1st after completing almost every stage of my interview that they would not be going forward with my candidacy.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.glassdoor.com/Interview/Duolingo-Product-Management-Interview-Questions-EI_IE629348.0,8_KO9,27.htm#InterviewReview_12991817">Duolingo Product Management Interview Questions</a></h4><p>Application I applied online. The process took 3+ months. I interviewed at Duolingo in December 2016. Interview So I applied for a role as a PM intern with Duolingo on October 6th and I got a call December 1st after completing almost every stage of my interview that they would not be going forward with my candidacy.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ![Duolingo Delights 1](https://i.imgur.com/ImLcMvw.jpg)

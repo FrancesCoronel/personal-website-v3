@@ -9,7 +9,7 @@ categories:
   - blog
 ---
 
-<blockquote class="embedly-card"><h4><a href="https://youtu.be/sKGoHPGM7v8?t=1m50s">Hoist The Colours -The Full Scene (HIGH QUALITY)</a></h4><p>The song and scene from the beginning of Pirates of the Caribbean 3: At World's End.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://youtu.be/sKGoHPGM7v8?t=1m50s">Hoist The Colours -The Full Scene (HIGH QUALITY)</a></h4><p>The song and scene from the beginning of Pirates of the Caribbean 3: At World's End.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 > **Then what shall we code for?**

@@ -15,8 +15,27 @@ sans-serif;
 $family-sans-serif: $family-primary,
 sans-serif;
 $family-monospace: monospace;
-$font-size: 30px;
-$font-size-mobile: 15px;
+
+// Typography Sizes
+$size-1: 3em;
+$size-2: 2em;
+$size-3: 1.8em;
+$size-4: 1.6em;
+$size-5: 1.4em;
+$size-6: 1.2em;
+$size-7: 1em;
+
+$font-size: 22px;
+$font-size-mobile: 16px;
+
+// Breakpoints
+$mobile: 425px;
+$tablet: 768px;
+$laptop: 1024px;
+
+// Navbar
+$navbar-breakpoint: $mobile !default;
+
 // Colors
 $primary: #253137;
 $secondary: #585858;
@@ -26,17 +45,11 @@ $link: #1c52a6;
 $border: #c9c9c9;
 $button-border: #dbdbdb;
 $zircon: #DCE3E5;
-// Typography
-$size-1: 3em;
-$size-2: 2.5em;
-$size-3: 2em;
-$size-4: 1.5em;
-$size-5: 1.25em;
-$size-6: 1em;
-$size-7: 0.80em;
-// Breakpoints
-$mobile: 425px;
-$tablet: 768px;
-$laptop: 1024px;
-// Navbar
-$navbar-breakpoint: $mobile !default;
+$code: #D7233B;
+
+// Forms
+$text: $primary;
+$input-background-color: #f5f5f5;
+$input-border-color: transparent;
+$input-focus-border-color: rgba(28, 82, 166, 0.25);
+$input-shadow: none;

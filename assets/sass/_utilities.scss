@@ -1,3 +1,5 @@
+// TODO: Rename to have .u-
+
 // Margin Top
 .mt-0 {
   margin-top: 0 !important;
@@ -59,6 +61,10 @@
   padding: 1em !important;
 }
 
+.pd-2 {
+  padding: 2em !important;
+}
+
 // Padding Top
 .pt-0 {
   padding-top: 0 !important;
@@ -70,6 +76,14 @@
 
 .pt-1 {
   padding-top: 1em !important;
+}
+
+.pt-2 {
+  padding-top: 2em !important;
+}
+
+.pt-3 {
+  padding-top: 3em !important;
 }
 
 // Padding Bottom
@@ -89,6 +103,10 @@
   padding-bottom: 2em !important;
 }
 
+.pb-3 {
+  padding-bottom: 3em !important;
+}
+
 // Border Bottom
 .bb-0 {
   border-bottom: none !important;
@@ -97,10 +115,6 @@
 // Font
 .font-monospace {
   font-family: $family-monospace;
-}
-
-.font-size--3x {
-  font-size: 3em;
 }
 
 // Border
@@ -114,7 +128,42 @@
   }
 }
 
-// Align
-.text-align--left {
-  text-align: left;
+.content-border-none {
+  .content a {
+    border-bottom: none !important;
+  }
+}
+
+// Width
+.u-width--half {
+  width: 50%;
+}
+
+// Flexbox
+.u-flex--center {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.u-flex--start {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.u-justify-content--centered {
+  justify-content: center;
+}
+
+.u-link-margin--right-sm {
+  a {
+    margin-right: .5em;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
 }

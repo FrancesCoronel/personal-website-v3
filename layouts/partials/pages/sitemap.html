@@ -2,17 +2,15 @@
 {{ $pages := where .Site.RegularPages "Type" "page" }}
 <!-- Pages & Section Pages -->
 {{ $pages := $pages | union (.Site.Sections) }}
-<div class="container">
-  <div class="content">
-    <p>{{ len $pages }} pages in total</p>
-    <div class="columns is-multiline">
-      <!-- Looping -->
-      {{ range $pages.ByTitle }}
-      <!-- Filter -->
-      <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
-        {{ partial "card.html" . }}
-      </div>
-      {{ end }}
+<div class="content">
+  <p>There are {{ len $pages }} pages in total.</p>
+  <div class="columns is-multiline">
+    <!-- Looping -->
+    {{ range $pages.ByTitle }}
+    <!-- Filter -->
+    <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
+      {{ partial "card.html" . }}
     </div>
+    {{ end }}
   </div>
 </div>

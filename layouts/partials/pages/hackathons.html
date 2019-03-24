@@ -1,5 +1,5 @@
 {{ $hackathons := ($.Site.Taxonomies.categories.hackathon).Pages }}
-<p>{{ len $hackathons }} hackathons attended</p>
+<p>I've attended {{ len $hackathons }} hackathons so far.</p>
 <div class="columns is-multiline">
   {{ range $hackathons }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">

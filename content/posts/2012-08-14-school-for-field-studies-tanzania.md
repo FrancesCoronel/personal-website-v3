@@ -49,7 +49,7 @@ I received college credit from Boston University for completing this course.
 
 I was able to gain 4 college credits from Boston University too for studying abroad. SFS is an international non-profit academic institution and the largest environmental study abroad program in the US for college undergrads.
 
-<blockquote class="embedly-card"><h4><a href="https://www.scribd.com/doc/313099732/Boston-University-Transcript">Boston University Transcript</a></h4><p>FVCproductions Check me out at fvcproductions.com Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright FVCproductions 2016 Don't forget to like and/or comment! :)</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.scribd.com/doc/313099732/Boston-University-Transcript">Boston University Transcript</a></h4><p>FVCproductions Check me out at fvcproductions.com Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright FVCproductions 2016 Don't forget to like and/or comment! :)</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ![School For Field Studies 1](https://i.imgur.com/KTQaXRN.jpg)

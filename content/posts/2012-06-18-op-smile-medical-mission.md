@@ -41,5 +41,5 @@ I volunteered as a high schooler for a medical mission in Vietnam where I was re
 
 > Presented to parents and children during an Operation Smile medical mission in Vietnam.
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/burn-prevention-for-vietnam-medical-mission">Burn Prevention for Vietnam Medical Mission</a></h4><p>Created June 1st, 2012 For presenting on burn prevention at an Operation Smile medical mission in Vietnam where I was a high school volunteer FVCproductions ht...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/burn-prevention-for-vietnam-medical-mission">Burn Prevention for Vietnam Medical Mission</a></h4><p>Created June 1st, 2012 For presenting on burn prevention at an Operation Smile medical mission in Vietnam where I was a high school volunteer FVCproductions ht...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

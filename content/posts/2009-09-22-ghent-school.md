@@ -30,17 +30,17 @@ From 1st grade to 8th grade, I attended Ghent School. There weren't many people 
 
 ### Activities
 
-* Swimming - 7 years
-* Tennis - 4 years
-* Tap Dance - 1 year
-* Piano - 2 years
-* Learning Bridge - all summers throughout middle school
+- Swimming - 7 years
+- Tennis - 4 years
+- Tap Dance - 1 year
+- Piano - 2 years
+- Learning Bridge - all summers throughout middle school
 
 ### Volunteering
 
-* I tutored my 7th and 8th grade year in middle school and always received positive ratings from the teachers who were exceptionally happy to find out that their kids were receiving higher grades and understood what other students still had trouble in.
-* I have participated in the American Cancer Society several times by helping with organization.
-* I have helped with other groups as well, such as the Human Society of the United States, Audubon, National Wildlife Federation, CHKD, and have even made contact with Congress through emails/letters.
+- I tutored my 7th and 8th grade year in middle school and always received positive ratings from the teachers who were exceptionally happy to find out that their kids were receiving higher grades and understood what other students still had trouble in.
+- I have participated in the American Cancer Society several times by helping with organization.
+- I have helped with other groups as well, such as the Human Society of the United States, Audubon, National Wildlife Federation, CHKD, and have even made contact with Congress through emails/letters.
 
 ### Awards
 

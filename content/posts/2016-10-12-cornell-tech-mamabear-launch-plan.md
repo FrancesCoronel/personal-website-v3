@@ -25,12 +25,12 @@ I helped create visual assets, design the presentation, formatted launch plan, a
 
 ## Plan
 
-<blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/375586183/Mama-Bear-Launch-Plan">Mama Bear Launch Plan</a></h4><p>Splash is an all-in-one Event Marketing Platform built for achieving goals and tracking impact. Splash's current wedge is a beautiful user interface and seamless user experience for all their event customers. Their main competitors such as Eventbrite, Meetup, and Facebook all serve mainly as high-end bulletin boards to showcase events and register.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.scribd.com/document/375586183/Mama-Bear-Launch-Plan">Mama Bear Launch Plan</a></h4><p>Splash is an all-in-one Event Marketing Platform built for achieving goals and tracking impact. Splash's current wedge is a beautiful user interface and seamless user experience for all their event customers. Their main competitors such as Eventbrite, Meetup, and Facebook all serve mainly as high-end bulletin boards to showcase events and register.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Presentation
 
-<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/mamabear-launchplan">MamaBear | LaunchPlan</a></h4><p>Business for Non-Business NBAY 5500 Fall 2016</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://speakerdeck.com/fvcproductions/mamabear-launchplan">MamaBear | LaunchPlan</a></h4><p>Business for Non-Business NBAY 5500 Fall 2016</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Tools

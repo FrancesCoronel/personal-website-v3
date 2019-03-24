@@ -2,11 +2,11 @@
 <div class="tags">
   <!-- Categories -->
   {{ range $category := .Params.categories }}
-    <a class="tag is-link is-size-7" href="/categories/{{ $category | urlize }}/" title="{{ $category }}">{{ $category }}</a>
+    <a class="tag is-link" href="/categories/{{ $category | urlize }}/" title="{{ $category }}">{{ $category }}</a>
   {{ end }}
   <!-- Tags -->
   {{ range $tag := .Params.tags }}
-    <a class="tag is-link is-size-7" href="/tags/{{ $tag | urlize }}/" title="{{ $tag }}">{{ $tag }}</a>
+    <a class="tag is-link" href="/tags/{{ $tag | urlize }}/" title="{{ $tag }}">{{ $tag }}</a>
   {{ end }}
 </div>
 {{ end }}

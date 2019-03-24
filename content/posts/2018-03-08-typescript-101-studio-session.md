@@ -15,7 +15,7 @@ At Studio Sessions, a Liquid Studio resident shares a presentation, usually on a
 
 For this Studio Session, I presented my ["TypeScript 101"](/speaking/talks/typescript-101/) talk.
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/typescript-101-studio-session-accenture-liquid-studio">TypeScript 101 - Studio Session - Accenture Liquid Studio</a></h4><p>Presented March 8th, 2017 I presented a 45-minute version of my "TypeScript 101" talk that serves as a short introduction to TypeScript and the benefits it pro...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/typescript-101-studio-session-accenture-liquid-studio">TypeScript 101 - Studio Session - Accenture Liquid Studio</a></h4><p>Presented March 8th, 2017 I presented a 45-minute version of my "TypeScript 101" talk that serves as a short introduction to TypeScript and the benefits it pro...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ![Studio Session - TypeScript 101 - 1](https://i.imgur.com/L7pFNaY.jpg)

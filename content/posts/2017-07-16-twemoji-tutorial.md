@@ -15,7 +15,7 @@ It's one of only 8 bugs reported in the project's issue tracker which is pretty 
 
 ## GitHub Issue
 
-<blockquote class="embedly-card"><h4><a href="https://github.com/twitter/twemoji/issues/240">Rendering in Safari vs Chrome · Issue #240 · twitter/twemoji</a></h4><p>So I&#39;ve been using Twemoji for a bit on my web projects but recently I noticed that it will render a ️️️️🖾 right next to the rendered emoji itself on Safari (mobile &amp; desktop) and Chrome (m...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/twitter/twemoji/issues/240">Rendering in Safari vs Chrome · Issue #240 · twitter/twemoji</a></h4><p>So I&#39;ve been using Twemoji for a bit on my web projects but recently I noticed that it will render a ️️️️🖾 right next to the rendered emoji itself on Safari (mobile &amp; desktop) and Chrome (m...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## CodePen

@@ -38,12 +38,12 @@ Women Techmakers - Scholarship Recipient
 
 A two-day exploration of building beautiful and performant experiences on the web, with content on how to ship fast and modern Progressive Web Apps, as well as new and exciting features coming to the web platform.
 
-<blockquote class="embedly-card"><h4><a href="https://developer.chrome.com/devsummit/">Chrome Dev Summit 2017</a></h4><p>Connect with Chrome engineers and other leading developers for a two-day exploration of building beautiful and performant experiences.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://developer.chrome.com/devsummit/">Chrome Dev Summit 2017</a></h4><p>Connect with Chrome engineers and other leading developers for a two-day exploration of building beautiful and performant experiences.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 I actually blogged separately about my experience with the PWA Roadshow - check it out!
 
-<blockquote class="embedly-card"><h4><a href="https://fvcproductions.com/2017/10/22/pwa-roadshow/">PWA Roadshow</a></h4><p>Progressive Web App Roadshow San Francisco 2017 Google Launchpad Space - 301 Howard Street San Francisco, CA - 4th Floor Sunday, October 22nd - 9:00 AM to 5:00 PM Participant - I participated this event as part of the Chrome Dev Summit. Registration was super limited so I'm glad I was able to attend.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://fvcproductions.com/2017/10/22/pwa-roadshow/">PWA Roadshow</a></h4><p>Progressive Web App Roadshow San Francisco 2017 Google Launchpad Space - 301 Howard Street San Francisco, CA - 4th Floor Sunday, October 22nd - 9:00 AM to 5:00 PM Participant - I participated this event as part of the Chrome Dev Summit. Registration was super limited so I'm glad I was able to attend.</p></blockquote>
 
 ### Why I Love the Web
 
@@ -61,7 +61,7 @@ Radio is still the most dynamic, reactive and engaging medium there is, adapting
 
 > I'm in the official photo album!
 
-<blockquote class="embedly-card"><h4><a href="https://photos.google.com/share/AF1QipMz3dpIjH7jXP2iWFk0WG23P8sdYZZxr6-qNLtaS5nj32VvCMCmUXuoj2Ug3LxPtg?key=YmFKYU0wR1hMN3l5ZlFEcy1YY0pYR3RLRWNwQXJ3">Chrome Dev Summit 2017</a></h4><p>126 new photos · Album by Chrome DevRel</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://photos.google.com/share/AF1QipMz3dpIjH7jXP2iWFk0WG23P8sdYZZxr6-qNLtaS5nj32VvCMCmUXuoj2Ug3LxPtg?key=YmFKYU0wR1hMN3l5ZlFEcy1YY0pYR3RLRWNwQXJ3">Chrome Dev Summit 2017</a></h4><p>126 new photos · Album by Chrome DevRel</p></blockquote>
 
 ---
 

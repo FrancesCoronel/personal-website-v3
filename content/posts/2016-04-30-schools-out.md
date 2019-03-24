@@ -69,7 +69,7 @@ Either way, I felt like sharing my experience in regards to being an alumnus of 
 
 #### The curriculum overview I've created for these mentoring sessions is all given through Google Slides for easy reference so here's a snapshot of how that looks like below.
 
-<blockquote class="embedly-card"><h4><a href="https://docs.google.com/presentation/d/1vkAfmABPzVCNLZ_DC4I7n7ZihoGkMLwoVvo1buevaoA/edit?usp=sharing">Bootcamp.me | Welcome!</a></h4><p>BootcampMe FVCproductions Preparing You Before They Do.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://docs.google.com/presentation/d/1vkAfmABPzVCNLZ_DC4I7n7ZihoGkMLwoVvo1buevaoA/edit?usp=sharing">Bootcamp.me | Welcome!</a></h4><p>BootcampMe FVCproductions Preparing You Before They Do.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## 3. Future Plans

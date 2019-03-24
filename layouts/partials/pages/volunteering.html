@@ -1,5 +1,5 @@
 {{ $volunteering := ($.Site.Taxonomies.categories.volunteering).Pages }}
-<p>{{ len $volunteering }} volunteering efforts</p>
+<p>I've volunteered {{ len $volunteering }} times so far.</p>
 <div class="columns is-multiline">
   {{ range $volunteering }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">

@@ -12,7 +12,7 @@ tags:
 
 As part of [Assignment 3](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/Assignment3.pdf) for my class [HCI & Design](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/) at [Cornell Tech](http://tech.cornell.edu), I was tasked with re-designing an ad for the MTA's Fast-track and decomposing an app of my choice.
 
-<blockquote class="embedly-card"><h4><a href="http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/Assignment3.pdf">Assignment 3 - HCI and Design</a></h4><p>Copyright Nicola Dell</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/Assignment3.pdf">Assignment 3 - HCI and Design</a></h4><p>Copyright Nicola Dell</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Part A: Can we fix this?

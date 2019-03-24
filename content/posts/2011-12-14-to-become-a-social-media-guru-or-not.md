@@ -10,7 +10,7 @@ categories:
 
 > The first time I applied to the VA Governor School for Math, Science, and Technology in 2010, I used an essay on "How Texting Has An Impact on Relationships 📵️". I was rejected.
 
-<blockquote class="embedly-card"><h4><a href="https://fvcproductions.com/2010/12/13/how-texting-has-an-impact-on-relationships-%EF%B8%8F/">How Texting Has An Impact on Relationships 📵️</a></h4><p>This first essay talks about the mainly negative impact of texting on relationships. This essay was finished December 13, 2010. I wrote this for an application to the VA Governor's School for MST (Math, Science, and Technology) for the following summer but alas I was not accepted.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://fvcproductions.com/2010/12/13/how-texting-has-an-impact-on-relationships-%EF%B8%8F/">How Texting Has An Impact on Relationships 📵️</a></h4><p>This first essay talks about the mainly negative impact of texting on relationships. This essay was finished December 13, 2010. I wrote this for an application to the VA Governor's School for MST (Math, Science, and Technology) for the following summer but alas I was not accepted.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 > Next year I applied again using a different essay.

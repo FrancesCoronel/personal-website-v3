@@ -9,13 +9,13 @@ categories:
   - blog
 ---
 
-> So I like conspiracy a little bit. Honestly, sometimes I just feel I can't keep up with even 1% of all supposed theories out in the world, so I just want to give up on all of it, but then I read something interesting again and I decide "Hey, you know what, this is bloody interesting. So, from here forth, I care not for truth or tale, but for the sake of entertaining and confusing myself. On forward!".
+So I like conspiracy a little bit. Honestly, sometimes I just feel I can't keep up with even 1% of all supposed theories out in the world, so I just want to give up on all of it, but then I read something interesting again and I decide "Hey, you know what, this is bloody interesting. So, from here forth, I care not for truth or tale, but for the sake of entertaining and confusing myself. On forward!".
 
-> So as my terribly laid back attitude simply diminishes any gravity that could have been generated from the topic, I go on to seek the next interesting subject to pour my little heart into... which brings me to Dan Brown's "DaVinci Code".
+So as my terribly laid back attitude simply diminishes any gravity that could have been generated from the topic, I go on to seek the next interesting subject to pour my little heart into... which brings me to Dan Brown's "DaVinci Code".
 
-> I was lucky enough to be able to attain a copy of his newest novel, "Inferno" four days after it was released this past May 14th and happily reveled in all the nice detail the man went to in order to entertain his readers. And entertain me he did. He always brings the right amount of science and history to his stories that let me feel happily at ease all the time because I never feel out of place (I consider myself primarily a scientific type after all). Needless to say, his books have not yet failed to bring me a thrilling amount of reading pleasure. Kudos to you, Mr. Brown.
+I was lucky enough to be able to attain a copy of his newest novel, "Inferno" four days after it was released this past May 14th and happily reveled in all the nice detail the man went to in order to entertain his readers. And entertain me he did. He always brings the right amount of science and history to his stories that let me feel happily at ease all the time because I never feel out of place (I consider myself primarily a scientific type after all). Needless to say, his books have not yet failed to bring me a thrilling amount of reading pleasure. Kudos to you, Mr. Brown.
 
-> Any who, this particular book review was created February 28, 2011 -- roughly 8 years after the book was originally published. Please enjoy and hopefully you too will be inspired to read such an engaging novel that Dan Brown so deviously brought into being.
+Any who, this particular book review was created February 28, 2011 -- roughly 8 years after the book was originally published. Please enjoy and hopefully you too will be inspired to read such an engaging novel that Dan Brown so deviously brought into being.
 
 ---
 

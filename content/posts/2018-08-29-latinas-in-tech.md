@@ -46,36 +46,36 @@ As always, this event will also serve as a wonderful opportunity to meet and con
 
 Space is limited, so reserve your spot today. Gracias to Twitter for hosting us. We hope to see you there!
 
-<blockquote class="embedly-card"><h4><a href="https://latinasintechsvtwitter.splashthat.com/">Latinas in Tech Silicon Valley Meetup - Splash</a></h4><p>Our next Latinas in Tech Silicon Valley Meetup will be at the beautiful offices of Twitter in San Francisco! Please join us for next Meetup where we will be celebrating and recognizing the Latinas at the heart of tech: las engineers.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://latinasintechsvtwitter.splashthat.com/">Latinas in Tech Silicon Valley Meetup - Splash</a></h4><p>Our next Latinas in Tech Silicon Valley Meetup will be at the beautiful offices of Twitter in San Francisco! Please join us for next Meetup where we will be celebrating and recognizing the Latinas at the heart of tech: las engineers.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Tweets
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/latinas_tech/status/1030153343723859974">Latinas in Tech on Twitter</a></h4><p>SiliconValley Please join us at our next Latinas in Tech Meetup at @Twitter to hear from a panel of amazing Latina engineers: Erika Rodriguez of @Tesla, Roxana del Toro of @Yammer, @maciasd of @Twitter and @fvcproductions of @SlackHQ. Register here 👉 https://t.co/36ZfZcjAkK</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/latinas_tech/status/1030153343723859974">Latinas in Tech on Twitter</a></h4><p>SiliconValley Please join us at our next Latinas in Tech Meetup at @Twitter to hear from a panel of amazing Latina engineers: Erika Rodriguez of @Tesla, Roxana del Toro of @Yammer, @maciasd of @Twitter and @fvcproductions of @SlackHQ. Register here 👉 https://t.co/36ZfZcjAkK</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/TwitterTogether/status/1035009421552771072">Twitter Together on Twitter</a></h4><p>Tonight @TwitterAlas hosted @latinas_tech , a non-profit that empowers Latina's working in tech. With more than 3,000 women representing +15 countries, this organization is dedicated to celebrating #LatinasInTech and inspiring all of us to do the same!</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/TwitterTogether/status/1035009421552771072">Twitter Together on Twitter</a></h4><p>Tonight @TwitterAlas hosted @latinas_tech , a non-profit that empowers Latina's working in tech. With more than 3,000 women representing +15 countries, this organization is dedicated to celebrating #LatinasInTech and inspiring all of us to do the same!</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/gretelperera/status/1034986595546357760">Gretel Perera on Twitter</a></h4><p>Kicking off our Latinas in Tech Meetup at @Twitter in San Francisco with an amazing panel of Latina engineers 🙌🏼 @latinas_tech</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/gretelperera/status/1034986595546357760">Gretel Perera on Twitter</a></h4><p>Kicking off our Latinas in Tech Meetup at @Twitter in San Francisco with an amazing panel of Latina engineers 🙌🏼 @latinas_tech</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/jennyjennbri/status/1035010461559742464">Jenn Gonzalez on Twitter</a></h4><p>❤️@latinas_tech @TwitterSF</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/jennyjennbri/status/1035010461559742464">Jenn Gonzalez on Twitter</a></h4><p>❤️@latinas_tech @TwitterSF</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/latinas_tech/status/1034981281212157952">Latinas in Tech on Twitter</a></h4><p>Our meetup "Celebrating #Latina Engineers" is starting now! We start with a review of our community, that has grown a lot in the past year!</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/latinas_tech/status/1034981281212157952">Latinas in Tech on Twitter</a></h4><p>Our meetup "Celebrating #Latina Engineers" is starting now! We start with a review of our community, that has grown a lot in the past year!</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/larimaryprairie/status/1034984043845115905">Larissa Prairie on Twitter</a></h4><p>Celebrating Latina Engineers at @Twitter HQ, a @latinas_tech meetup! Erika Rodriguez from @Tesla, Roxana Del Toro from @Yammer, @maciasd from #Twitter and awesome moderation by @fvcproductions from @SlackHQ! #LatinasInTech #DiversityInTech #EqualityforAll</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/larimaryprairie/status/1034984043845115905">Larissa Prairie on Twitter</a></h4><p>Celebrating Latina Engineers at @Twitter HQ, a @latinas_tech meetup! Erika Rodriguez from @Tesla, Roxana Del Toro from @Yammer, @maciasd from #Twitter and awesome moderation by @fvcproductions from @SlackHQ! #LatinasInTech #DiversityInTech #EqualityforAll</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/latinas_tech/status/1034985167872393217">Latinas in Tech on Twitter</a></h4><p>Let's celebrate the fact that we are #LatinasinTech, we shouldn't hide it or put it away" Roxana del Toro</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/latinas_tech/status/1034985167872393217">Latinas in Tech on Twitter</a></h4><p>Let's celebrate the fact that we are #LatinasinTech, we shouldn't hide it or put it away" Roxana del Toro</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/CarlaYashiro/status/1035002913813192704">Carla Yashiro on Twitter</a></h4><p>Celebrating Latinas in Tech! 😍😘😊 #LatinasInTech</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/CarlaYashiro/status/1035002913813192704">Carla Yashiro on Twitter</a></h4><p>Celebrating Latinas in Tech! 😍😘😊 #LatinasInTech</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/MBonell/status/1034983044455645185">Marcela Bonell on Twitter</a></h4><p>Escuchando experiencias de #LatinasInTech</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/MBonell/status/1034983044455645185">Marcela Bonell on Twitter</a></h4><p>Escuchando experiencias de #LatinasInTech</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Feedback
@@ -132,7 +132,7 @@ Space is limited, so reserve your spot today. Gracias to Twitter for hosting us.
 
 ### Presentation Mode
 
-<blockquote class="embedly-card"><h4><a href="https://wall2.sli.do/event/sepz4fwr">Slido</a></h4><p>Join the conversation: ask your questions & vote in live polls.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://wall2.sli.do/event/sepz4fwr">Slido</a></h4><p>Join the conversation: ask your questions & vote in live polls.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Analytics

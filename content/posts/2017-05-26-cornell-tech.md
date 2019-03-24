@@ -80,7 +80,7 @@ Cornell Tech is the technology-focused graduate campus of Cornell University loc
 
 ### Transcript
 
-<blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/349468859/Cornell-Tech-Official-Transcript">Cornell Tech - Official Transcript</a></h4><p>Cornell Tech - Official Transcript - Free download as PDF File (.pdf), Text File (.txt) or view presentation slides online. This is my official transcript for Cornell Tech where I earned a MEng in CS in May 2017.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.scribd.com/document/349468859/Cornell-Tech-Official-Transcript">Cornell Tech - Official Transcript</a></h4><p>Cornell Tech - Official Transcript - Free download as PDF File (.pdf), Text File (.txt) or view presentation slides online. This is my official transcript for Cornell Tech where I earned a MEng in CS in May 2017.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Grad Party Invite

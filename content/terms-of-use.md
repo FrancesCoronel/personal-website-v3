@@ -4,6 +4,7 @@ description: "This forth terms, conditions, requirements, and clauses relating t
 url: "/terms-of-use/"
 hideImage: true
 noComments: true
+noTimeEstimate: true
 image: https://i.imgur.com/SGijEnY.jpg
 ---
 

@@ -53,10 +53,10 @@ Ammalia, which means surgery in Arabic, is a Leap Motion assisted app that allow
 
 The areas we believe Ammalia could be the most useful is with radiology image manipulation / scrolling while scrubbed in & sterile in the OR.
 
-<blockquote class="embedly-card"><h4><a href="https://devpost.com/software/ammalia">Ammalia</a></h4><p>Ammalia - A Leap Motion assisted app allowing medical professionals to view and manipulate scans while scrubbed in and sterile</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://devpost.com/software/ammalia">Ammalia</a></h4><p>Ammalia - A Leap Motion assisted app allowing medical professionals to view and manipulate scans while scrubbed in and sterile</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://fvcproductions.com/portfolio/ammalia/">FVCproductions 🍓</a></h4><p>Ammalia. Where surgeons go to explore. Ammalia, which means surgery in Arabic, is a Leap Motion assisted app that allows a surgeon to analyze pictures of their patient's problem (i.e. brain tumors) using the Dropbox API. Use cases?</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://fvcproductions.com/portfolio/ammalia/">FVCproductions 🍓</a></h4><p>Ammalia. Where surgeons go to explore. Ammalia, which means surgery in Arabic, is a Leap Motion assisted app that allows a surgeon to analyze pictures of their patient's problem (i.e. brain tumors) using the Dropbox API. Use cases?</p></blockquote>
 
 ### Awards
 
@@ -77,7 +77,7 @@ I was 1 of 150 hackers from out of state who was accepted to attend TreeHacks wi
 
 > This is a Medium article about one of my teammates from the hackathon - Stephanie. She was awesome! 😊
 
-<blockquote class="embedly-card"><h4><a href="https://medium.com/@hackwithtrees/hacker-spotlight-stephane-zeidan-52a4c90375e8">Hacker Spotlight: Stephanie Zeidan - TreeHacks - Medium</a></h4><p>In these three weeks leading up to TreeHacks, we'll be doing a series of hacker spotlights, or deep dives into the stories of a few members of the ever-growing hackathon community. In their own words and with only slight editing for clarity, hackers will have the chance to explain their backgrounds, tell their stories, and (humble)brag about their coolest hacks What got you into hacking?</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://medium.com/@hackwithtrees/hacker-spotlight-stephane-zeidan-52a4c90375e8">Hacker Spotlight: Stephanie Zeidan - TreeHacks - Medium</a></h4><p>In these three weeks leading up to TreeHacks, we'll be doing a series of hacker spotlights, or deep dives into the stories of a few members of the ever-growing hackathon community. In their own words and with only slight editing for clarity, hackers will have the chance to explain their backgrounds, tell their stories, and (humble)brag about their coolest hacks What got you into hacking?</p></blockquote>
 
 ### Branding
 

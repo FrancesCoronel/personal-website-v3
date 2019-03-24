@@ -45,7 +45,7 @@ categories:
 
 ### Session 0 Slides
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/bootcampme-welcome-117404323">Bootcamp.me - Welcome</a></h4><p>Originally created April 7th, 2016 to help aspiring bootcamp students become better prepared to start at full-time coding bootcamps.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/bootcampme-welcome-117404323">Bootcamp.me - Welcome</a></h4><p>Originally created April 7th, 2016 to help aspiring bootcamp students become better prepared to start at full-time coding bootcamps.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---
@@ -83,7 +83,7 @@ There's plenty of options out there: Ghost, Tumblr, Wordpress, Jekyll, Medium, e
 
 ### Session 1 Slides
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/bootcampme-session-1-117404537">Bootcamp.me - Session 1</a></h4><p>Originally created April 7th, 2016 to help aspiring bootcamp students become better prepared to start at full-time coding bootcamps.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/bootcampme-session-1-117404537">Bootcamp.me - Session 1</a></h4><p>Originally created April 7th, 2016 to help aspiring bootcamp students become better prepared to start at full-time coding bootcamps.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---

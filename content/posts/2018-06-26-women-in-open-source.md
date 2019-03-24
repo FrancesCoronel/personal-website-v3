@@ -35,30 +35,30 @@ Open Source is a great way to find your community and get embedded in a public-f
 
 ### Quotes
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/gdisf/status/1011789436630196225">GDI San Francisco on Twitter</a></h4><p>A: It can add to your credibility as a developer, but it depends on the company whether your open source contributions help in the hiring process. -@fvcproductions</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/gdisf/status/1011789436630196225">GDI San Francisco on Twitter</a></h4><p>A: It can add to your credibility as a developer, but it depends on the company whether your open source contributions help in the hiring process. -@fvcproductions</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/gdisf/status/1011789607418003456">GDI San Francisco on Twitter</a></h4><p>People confuse git and github, but they're two different things. Git is a version control system, and Github is a place where people use git to manage open source projects" @fvcproductions</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/gdisf/status/1011789607418003456">GDI San Francisco on Twitter</a></h4><p>People confuse git and github, but they're two different things. Git is a version control system, and Github is a place where people use git to manage open source projects" @fvcproductions</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/gdisf/status/1011791327602720769">GDI San Francisco on Twitter</a></h4><p>A: Open Source is a great way to demonstrate mature code practices, learn as a developer, and help build something that lasts. @fvcproductions</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/gdisf/status/1011791327602720769">GDI San Francisco on Twitter</a></h4><p>A: Open Source is a great way to demonstrate mature code practices, learn as a developer, and help build something that lasts. @fvcproductions</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/gdisf/status/1011794536840884224">GDI San Francisco on Twitter</a></h4><p>A: My first contribution was fixing a typo on a website! I was a Github user for a long time before I made my first contribution. The Github label "newcomers-only" is standard for doing your first contribution. https://t.co/3sbeTEsyT6 is also a great resource. -@fvcproductions</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/gdisf/status/1011794536840884224">GDI San Francisco on Twitter</a></h4><p>A: My first contribution was fixing a typo on a website! I was a Github user for a long time before I made my first contribution. The Github label "newcomers-only" is standard for doing your first contribution. https://t.co/3sbeTEsyT6 is also a great resource. -@fvcproductions</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/gdisf/status/1011796427868028934">GDI San Francisco on Twitter</a></h4><p>A: https://t.co/dbxG4Q6jf9 has 1789 PRs that open. Over 6000 have been closed. The reason that there are so many PRs is because of how accessible this repo is. There are contributing guidelines, and a code of conduct. Those are great resources. -@fvcproductions</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/gdisf/status/1011796427868028934">GDI San Francisco on Twitter</a></h4><p>A: https://t.co/dbxG4Q6jf9 has 1789 PRs that open. Over 6000 have been closed. The reason that there are so many PRs is because of how accessible this repo is. There are contributing guidelines, and a code of conduct. Those are great resources. -@fvcproductions</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/gdisf/status/1011799846708080641">GDI San Francisco on Twitter</a></h4><p>You can use Github's features to report or flag harassment and bullying" -@fvcproductions</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/gdisf/status/1011799846708080641">GDI San Francisco on Twitter</a></h4><p>You can use Github's features to report or flag harassment and bullying" -@fvcproductions</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/gdisf/status/1011803552400867328">GDI San Francisco on Twitter</a></h4><p>When I get started with an open source project, I start with micro contributions. I write comments on PRs, write when I agree on other comments, and dive into documentation." @fvcproductions</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/gdisf/status/1011803552400867328">GDI San Francisco on Twitter</a></h4><p>When I get started with an open source project, I start with micro contributions. I write comments on PRs, write when I agree on other comments, and dive into documentation." @fvcproductions</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Blog Posts
 
-<blockquote class="embedly-card"><h4><a href="https://medium.com/girl-develop-it-san-francisco/git-init-tips-for-newbie-open-source-contributors-5833944118b">git init - tips for newbie open source contributors</a></h4><p>Looking for a side project? Contributing to open source can be a great way to meet people and sharpen your software skills. I'd like to share some tips for getting involved with open source from myself and other speakers from Girl Develop It SF's Women in Open Source Panel hosted by Unity on June 26.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://medium.com/girl-develop-it-san-francisco/git-init-tips-for-newbie-open-source-contributors-5833944118b">git init - tips for newbie open source contributors</a></h4><p>Looking for a side project? Contributing to open source can be a great way to meet people and sharpen your software skills. I'd like to share some tips for getting involved with open source from myself and other speakers from Girl Develop It SF's Women in Open Source Panel hosted by Unity on June 26.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---

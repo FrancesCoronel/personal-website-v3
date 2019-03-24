@@ -43,20 +43,20 @@ Hampton Roads DevFest is a technology conference focused on giving software engi
 
 ### Presentation
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/fvcproductions/status/662647429737615360">Frances Coronel on Twitter</a></h4><p>I'll speaking at @HRDevFest on web design this Saturday - should be a blast! #webdesign #hrdevfest</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/fvcproductions/status/662647429737615360">Frances Coronel on Twitter</a></h4><p>I'll speaking at @HRDevFest on web design this Saturday - should be a blast! #webdesign #hrdevfest</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=dEJyRuQF4Ww">HR DevFest | Web Design Talk</a></h4><p>For references, please refer to: https://speakerdeck.com/fvcproductions/hrdevfest-web-design FVCproductions No copyright intended.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=dEJyRuQF4Ww">HR DevFest | Web Design Talk</a></h4><p>For references, please refer to: https://speakerdeck.com/fvcproductions/hrdevfest-web-design FVCproductions No copyright intended.</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/hrdevfest-web-design">HRDevFest | Web Design</a></h4><p>My presentation on Web Design for HRDevFest in Norfolk, VA on November 14th, 2015. https://www.youtube.com/watch?v=dEJyRuQF4Ww</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://speakerdeck.com/fvcproductions/hrdevfest-web-design">HRDevFest | Web Design</a></h4><p>My presentation on Web Design for HRDevFest in Norfolk, VA on November 14th, 2015. https://www.youtube.com/watch?v=dEJyRuQF4Ww</p></blockquote>
 
 ### Feedback
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/lisadenoia/status/665604693549170688">Lisa on Twitter</a></h4><p>@fvcproductions I really enjoyed your session at @hrdevfest this morning! Well done! #hrdevfest</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/lisadenoia/status/665604693549170688">Lisa on Twitter</a></h4><p>@fvcproductions I really enjoyed your session at @hrdevfest this morning! Well done! #hrdevfest</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/aag1091/status/665554097798426624">Avinash Gosavi on Twitter</a></h4><p>@fvcproductions That was a pretty awesome talk.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/aag1091/status/665554097798426624">Avinash Gosavi on Twitter</a></h4><p>@fvcproductions That was a pretty awesome talk.</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/erikpmp/status/665554118182703105">Erik Olson on Twitter</a></h4><p>Thanks @fvcproductions for letting me know about the upcoming documentary DESIGN DISRUPTORS! https://t.co/a3QvMSqkWy #hrdevfest</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/erikpmp/status/665554118182703105">Erik Olson on Twitter</a></h4><p>Thanks @fvcproductions for letting me know about the upcoming documentary DESIGN DISRUPTORS! https://t.co/a3QvMSqkWy #hrdevfest</p></blockquote>
 
 ### Blog Post
 
@@ -86,7 +86,7 @@ Norfolk has a growing developer community, but it has yet to really establish a 
 
 Having said that, **[HR DevFest](https://hrdevfest.org 'HRDevFest')**, the **first major tech conference catering to the `757` area**, was actually **today** on November 14th, 2015 from 8:30 am to 6 pm.
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/Hhttps:RDevFest/status/665359937908903936">HR DevFest on Twitter</a></h4><p>Some great swag for our raffle tomorrow!</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/Hhttps:RDevFest/status/665359937908903936">HR DevFest on Twitter</a></h4><p>Some great swag for our raffle tomorrow!</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 It's always exciting to potentially be part of an inaugural anything so when the organizers behind HR DevFest announced their call for presentations, I decided to give it a shot for the heck of it and submitted my proposal on a web design talk that I had presented while at [Fullstack Academy](https://fullstackacademy.com 'Fullstack Academy').
@@ -95,12 +95,12 @@ It's always exciting to potentially be part of an inaugural anything so when the
 
 I was surprised by the amount of support I received from the community for the proposal and before I knew it, I had gotten the opportunity to speak for the first time at an official tech conference.
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/HRDevFest/status/656476470454300672">HR DevFest on Twitter</a></h4><p>Learn about important goals and best practices of web design with @fvcproductions at Hampton Roads DevFest https://t.co/jf4DWmeS3p</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/HRDevFest/status/656476470454300672">HR DevFest on Twitter</a></h4><p>Learn about important goals and best practices of web design with @fvcproductions at Hampton Roads DevFest https://t.co/jf4DWmeS3p</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 I've spoken at conferences before, but never at an actual tech conference which is why victory was that much sweeter when I finally got the opportunity to do so today. So...
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/fvcproductions/status/662647429737615360">Frances Coronel on Twitter</a></h4><p>I'll speaking at @HRDevFest on web design this Saturday - should be a blast! #webdesign #hrdevfest</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/fvcproductions/status/662647429737615360">Frances Coronel on Twitter</a></h4><p>I'll speaking at @HRDevFest on web design this Saturday - should be a blast! #webdesign #hrdevfest</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 **_Thanks HR DevFest._**
@@ -109,30 +109,30 @@ I've spoken at conferences before, but never at an actual tech conference which 
 
 ## Slides
 
-<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/hrdevfest-web-design">HRDevFest | Web Design</a></h4><p>My presentation on Web Design for HRDevFest in Norfolk, VA on November 14th, 2015. https://www.youtube.com/watch?v=dEJyRuQF4Ww</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://speakerdeck.com/fvcproductions/hrdevfest-web-design">HRDevFest | Web Design</a></h4><p>My presentation on Web Design for HRDevFest in Norfolk, VA on November 14th, 2015. https://www.youtube.com/watch?v=dEJyRuQF4Ww</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/2015-1114-hr-dev-fest-web-design">HR DevFest - Web Design</a></h4><p>Published November 14, 2015, in Design My presentation on Web Design for HRDevFest in Norfolk, VA on November 14th, 2015.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/2015-1114-hr-dev-fest-web-design">HR DevFest - Web Design</a></h4><p>Published November 14, 2015, in Design My presentation on Web Design for HRDevFest in Norfolk, VA on November 14th, 2015.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Video on YouTube
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=dEJyRuQF4Ww">HR DevFest | Web Design Talk</a></h4><p>For references, please refer to: https://speakerdeck.com/fvcproductions/hrdevfest-web-design FVCproductions No copyright intended.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=dEJyRuQF4Ww">HR DevFest | Web Design Talk</a></h4><p>For references, please refer to: https://speakerdeck.com/fvcproductions/hrdevfest-web-design FVCproductions No copyright intended.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## I did end getting some positive feedback!
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/lisadenoia/status/665604693549170688">Lisa on Twitter</a></h4><p>@fvcproductions I really enjoyed your session at @hrdevfest this morning! Well done! #hrdevfest</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/lisadenoia/status/665604693549170688">Lisa on Twitter</a></h4><p>@fvcproductions I really enjoyed your session at @hrdevfest this morning! Well done! #hrdevfest</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ![Slack Feedback - HRDevFest](https://lh3.googleusercontent.com/v_lneX2_wJqkqa1QqXNmqGZp4dEHrTeJKIt31bzQDhcuimifzG_YTEVZHSdpc43HcPDVYIxWsz1M0yvGBbzg6ZMjmFitw6oICC_S4AHqLTPvGSmfAJFxuAkwOFQzJmX6Q-YQhWk1TXHkee_RdQveY7UY2LBkNicnkg7roPYd4hng5xy2-KYeyJfSVBITwfpL4YA-Lsis8L26s_1RAAh-HO8dqN5n_FHr-gAOguLnoJMtLsbKANMqGm7X5G5dL_UJCkktcAEodLfNk7iSw0FTQEa3Hdcfy8nVnGCDQz2z1hTCeEsFl56tWdvhIavAWnVIhowhnYq20AtDmHsO5otYZWYo07Qk3UrQaeRrMXuD7126O4Y_NnhP8Hi_gGMUnkeOfSR2Hw0oJO5pgCJx0di0D1RDsD612FhCyWtzLlSz5ZgQoMNq2fbEnMKmSFNZg5yhNl7vnWGzMTAMe8EK05w9ULKIVuH8F5C7gK3iGbD-VjB6Z4eYr7dCFM7FxGSZ3y14fngEiz-QSqkQPs_qf5MIn_pckP8TZN4hzkJWnP79ZjHGdu6nvOLdUmpxy5ouTD-tAVmEdTyYVimRSqMjssoFNBOk1ADMD35O6g2l_0DYrmFMYoLgFm2FknoJ28xhwrHd=w797-h212-no)
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/aag1091/status/665554097798426624">Avinash Gosavi on Twitter</a></h4><p>@fvcproductions That was a pretty awesome talk.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/aag1091/status/665554097798426624">Avinash Gosavi on Twitter</a></h4><p>@fvcproductions That was a pretty awesome talk.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ![LinkedIn - Feedback](https://lh3.googleusercontent.com/aWyXjpAUgYU_SjtnMVVHmxhXZ5tK1yO5eerL3ytyAsD0DQbY5BqE1iaEkEm6ocSgyiv7d7hheT-QoXFn9PVcHtFU1cLrU6OBaYsiIEDOLAKP7ubK1wH1eqHdjJe-XCGHT5xL_WLlOywX2VuTtYKkq6fVxmAqsOyTsNgJDAYOT7pSBOkaCy8P-y3zDRKJ5Sy0U6upSMTRvQEB0PKbM1omMJqPP0fAMQcTha1Yo8i4i51AR1c_XXReEUvpzHAg3tXTxBFuEueuOaiFR0z88IiKbFEJQFDZWT1M-FWhI3xFb3-yKavievIg9kENZjk4T4TCrKv4xLwIo--1AMgOXwzvd5V9R0bz6LMZf3mnfEqXQT2G3URKBB_ML7EvWQRZ_vSoNLNBCjElrYH_7rF8CI40pNkljpQPdcAUeg0oglr8-ypL0irsSBN7qbUNeEMzLrH9qOvgaIIaNj_LKyVRmmbr0uDzk8L0cwKsibpTF-1pyDFRQJdCkuQAmlx1JpgrVwkCf-95XJeAqnChEBRvs6HYKhNkBbZIeDOfiMStVEr8Z1bqaSgLDad1QTIaE8wl5L-jGXJ0rrm5_Sj-I1Q38ifqDHMR59VFg0ZihoVhFIPUAMx43Nmgyv5Kpon1hGKzCl1T=w482-h220-no)
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/erikpmp/status/665554118182703105">Erik Olson on Twitter</a></h4><p>Thanks @fvcproductions for letting me know about the upcoming documentary DESIGN DISRUPTORS! https://t.co/a3QvMSqkWy #hrdevfest</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/erikpmp/status/665554118182703105">Erik Olson on Twitter</a></h4><p>Thanks @fvcproductions for letting me know about the upcoming documentary DESIGN DISRUPTORS! https://t.co/a3QvMSqkWy #hrdevfest</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 > Needless to say, I'm definitely going to be giving more talks in the future.

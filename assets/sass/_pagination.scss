@@ -1,6 +1,5 @@
 .pagination {
-  font-size: $font-size;
-  padding: 1em 0;
+  padding-bottom: 1em;
 
   .pagination-previous,
   .pagination-next {
@@ -8,27 +7,27 @@
     height: 100%;
     overflow: visible;
     white-space: initial;
+    padding: 1em;
+
+    &.v--border-none {
+      border: none;
+
+      &:hover {
+        border: none;
+      }
+    }
   }
 
   .pagination-link,
   .pagination-next,
   .pagination-previous {
-    border: 1px solid $border;
 
     &:hover {
       @extend %image-shadow;
-      border: none;
       background-color: black;
       text-decoration: none;
       color: white;
-
     }
-  }
-
-  .pagination-next,
-  .pagination-previous {
-    border: none;
-    padding: 1em;
   }
 
   .pagination-link[disabled],
@@ -50,4 +49,5 @@
     background-color: $primary;
     border-color: $primary;
   }
+
 }

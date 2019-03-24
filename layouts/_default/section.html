@@ -3,7 +3,6 @@
 {{ partial "hero.html" . }}
 <!-- Page -->
 <div class="section">
-  <div class="container">
     <div class="content">
       <!-- Content -->
       {{ partial "content.html" . }}
@@ -11,7 +10,8 @@
       {{ partial "children.html" . }}
     </div>
     <!-- Pagination -->
-    {{ partial "paginator.html" . }}
-  </div>
+    <div class="mt-2">
+      {{ partial "paginator.html" . }}
+    </div>
 </div>
 {{ end }}

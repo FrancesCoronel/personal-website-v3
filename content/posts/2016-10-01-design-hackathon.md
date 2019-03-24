@@ -60,20 +60,20 @@ Our team submitted everything on time but in the end, they went with another tea
 
 MEGGS creates tech-focused cases that offer beautiful and well designed protective solutions for your iPhone 7.
 
-<blockquote class="embedly-card"><h4><a href="https://devpost.com/software/meggs">MEGGS</a></h4><p>MEGGS - MEGGS creates tech focused cases that offer beautiful and well designed protective solutions for your iPhone 7.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://devpost.com/software/meggs">MEGGS</a></h4><p>MEGGS - MEGGS creates tech focused cases that offer beautiful and well designed protective solutions for your iPhone 7.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/mysocialcanvas">The MEGGS Case</a></h4><p>The MEGGS Case is a fully customizable case that brings back the beloved audio jack.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://fvcproductions.github.io/mysocialcanvas">The MEGGS Case</a></h4><p>The MEGGS Case is a fully customizable case that brings back the beloved audio jack.</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/mysocialcanvas">fvcproductions/mysocialcanvas</a></h4><p>mysocialcanvas - My Social Canvas #DesignHackathon 🎨</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/mysocialcanvas">fvcproductions/mysocialcanvas</a></h4><p>mysocialcanvas - My Social Canvas #DesignHackathon 🎨</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://youtu.be/iWgY7Mzbwfw">The MEGGS Team</a></h4><p>Website: //bit.ly/meggs-case Video: //youtube.com/watch?v=vF5-M75n30U GitHub: //github.com/fvcproductions/mysocialcanvas The MEGGS Team (#2) Frances Coronel Megan Ristine Jessica Libby October 1st, 2016 MySocialCanvas #DesignHackathon FVCproductions No copyright intended.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://youtu.be/iWgY7Mzbwfw">The MEGGS Team</a></h4><p>Website: //bit.ly/meggs-case Video: //youtube.com/watch?v=vF5-M75n30U GitHub: //github.com/fvcproductions/mysocialcanvas The MEGGS Team (#2) Frances Coronel Megan Ristine Jessica Libby October 1st, 2016 MySocialCanvas #DesignHackathon FVCproductions No copyright intended.</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/the-meggs-case">The MEGGS Case</a></h4><p>MEGGS creates tech focused cases that offer beautiful and well designed protective solutions for your iPhone 7. We believe getting women interested and involved in STEM is vital to the industries and creates a well balanced and educated society.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://speakerdeck.com/fvcproductions/the-meggs-case">The MEGGS Case</a></h4><p>MEGGS creates tech focused cases that offer beautiful and well designed protective solutions for your iPhone 7. We believe getting women interested and involved in STEM is vital to the industries and creates a well balanced and educated society.</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://scribd.com/document/326087214/Business-Plan-The-MEGGS-Case">Business Plan - The MEGGS Case</a></h4><p>MEGGS creates tech-focused cases that offer beautiful and well designed protective solutions for your iPhone 7. We believe getting women interested and involved in STEM is vital to the industries and creates a well balanced and educated society. Through our cases, we want to give young women and girls a tangible way to showcase their passion in interests through fashion accessories.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://scribd.com/document/326087214/Business-Plan-The-MEGGS-Case">Business Plan - The MEGGS Case</a></h4><p>MEGGS creates tech-focused cases that offer beautiful and well designed protective solutions for your iPhone 7. We believe getting women interested and involved in STEM is vital to the industries and creates a well balanced and educated society. Through our cases, we want to give young women and girls a tangible way to showcase their passion in interests through fashion accessories.</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://www.instagram.com/p/BLBaF2oDd47/">We 💖 Judy Spitz #verizon #cornelltech #witny #stem #designhackathon #designforherSTEM</a></h4><p>9 Likes, 1 Comments - Grind (@grindspaces) on Instagram: "We 💖 Judy Spitz #verizon #cornelltech #witny #stem #designhackathon #designforherSTEM"</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.instagram.com/p/BLBaF2oDd47/">We 💖 Judy Spitz #verizon #cornelltech #witny #stem #designhackathon #designforherSTEM</a></h4><p>9 Likes, 1 Comments - Grind (@grindspaces) on Instagram: "We 💖 Judy Spitz #verizon #cornelltech #witny #stem #designhackathon #designforherSTEM"</p></blockquote>
 
 ![Group Photo](https://i.imgur.com/nPtfYTm.jpg)
 

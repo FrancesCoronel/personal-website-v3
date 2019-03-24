@@ -27,7 +27,7 @@ If you're not already familiar with **[The Binding of _Isaac_](https://store.ste
 
 Being an atheist, this background story resonated a lot with me from the get-go. You see, when you start the game, they give you a small glimpse of _Isaac_'s life before it went haywire.
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=4UvCYpmsfNE">The Binding Of Isaac - Intro (HQ) (Full HD)</a></h4><p>The Introduction video of The Binding Of Isaac in high qualitly and as always in FullHD. Much fun! :-) When Isaac's mother starts hearing the voice of God demanding a sacrifice be made to prove her faith, Isaac escapes into the basement facing droves of deranged enemies, lost brothers and sisters, his fears, and eventually his mother.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=4UvCYpmsfNE">The Binding Of Isaac - Intro (HQ) (Full HD)</a></h4><p>The Introduction video of The Binding Of Isaac in high qualitly and as always in FullHD. Much fun! :-) When Isaac's mother starts hearing the voice of God demanding a sacrifice be made to prove her faith, Isaac escapes into the basement facing droves of deranged enemies, lost brothers and sisters, his fears, and eventually his mother.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 _Isaac_ was living with his mother, who enjoyed watching religious TV shows all day long. He was fine with it since he was mostly left to play with his toys in his room all day.
@@ -107,7 +107,7 @@ Another aspect of the monsters especially that I found fascinating were the four
 Once I realized that every horseman can drop a cube of meat, I looked forward to battling them every time I entered a boss room at the end of each floor.
 
 > You see, a cube of meat means being able to create your own friend, **Meat Boy**.
-
+>
 > First Stage
 
 ![First Stage](https://vignette2.wikia.nocookie.net/bindingofisaac/images/4/41/Meat1boy.png/revision/latest?cb=20130125213417)

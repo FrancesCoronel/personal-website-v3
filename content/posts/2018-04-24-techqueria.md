@@ -38,7 +38,7 @@ Patreon - San Francisco, CA
 
 ## November 27, 2018 - Side Hustle
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/side-hustle-techqueriaorg">Side Hustle: Techqueria.org</a></h4><p>Presentation about my side hustle - Techqueria.org - for a conference that I did not end up speaking at.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/side-hustle-techqueriaorg">Side Hustle: Techqueria.org</a></h4><p>Presentation about my side hustle - Techqueria.org - for a conference that I did not end up speaking at.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## October 17, 2018 - Testimonial - Phillip Ventura - Software Engineer
@@ -61,10 +61,10 @@ After a couple of months, I was finally able to launch a new version of Techquer
 
 ![Techqueria.org - About Section](https://i.imgur.com/BFKbzGO.png)
 
-<blockquote class="embedly-card"><h4><a href="https://github.com/techqueria/website">techqueria/website</a></h4><p>New website for the techqueria community</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/techqueria/website">techqueria/website</a></h4><p>New website for the techqueria community</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://techqueria.org/">Techqueria</a></h4><p>We're a community of Latinx professionals in the tech industry. 🌮️</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://techqueria.org/">Techqueria</a></h4><p>We're a community of Latinx professionals in the tech industry. 🌮️</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Slack Announcement
@@ -115,5 +115,5 @@ Helped spearhead creation of `#website` channel in Techqueria's Slack for more c
 
 Source code can be found at https://github.com/techqueria/website.
 
-<blockquote class="embedly-card"><h4><a href="https://github.com/techqueria/website">techqueria/website</a></h4><p>New website for the techqueria community</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/techqueria/website">techqueria/website</a></h4><p>New website for the techqueria community</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

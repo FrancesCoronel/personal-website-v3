@@ -27,7 +27,7 @@ Thank you, Mrs.Cook.
 
 - [iBooks Author](https://www.apple.com/ibooks-author/)
 
-<blockquote class="embedly-card"><h4><a href="https://itunes.apple.com/us/book/pursuit-of-knowledge/id1073378182?ls=1&mt=11">Pursuit of Knowledge by Frances Coronel on iBooks</a></h4><p>Read a free sample or buy Pursuit of Knowledge by Frances Coronel. You can read this book with iBooks on your iPhone, iPad, iPod touch, or Mac.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://itunes.apple.com/us/book/pursuit-of-knowledge/id1073378182?ls=1&mt=11">Pursuit of Knowledge by Frances Coronel on iBooks</a></h4><p>Read a free sample or buy Pursuit of Knowledge by Frances Coronel. You can read this book with iBooks on your iPhone, iPad, iPod touch, or Mac.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ![Pursuit of Knowledge 1](https://i.imgur.com/g5wX71r.jpg)

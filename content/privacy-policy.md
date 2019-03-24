@@ -3,6 +3,7 @@ title: Privacy Policy
 description: This is to inform users about our collection and use of personal data of users. 🔒
 url: /privacy-policy/
 noComments: true
+noTimeEstimate: true
 image: https://i.imgur.com/RXG193M.jpg
 ---
 

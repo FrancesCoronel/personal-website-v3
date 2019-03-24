@@ -125,7 +125,7 @@ The HTML Liquid snippets are optimized for use with the [Hugo static site genera
           <a class="navbar-link{{ if (eq $currentPage.URL .URL) }} is-active{{ end }}" href="{{ .URL | relLangURL }}">
             {{ if .Identifier }}<i class="{{ .Identifier }}" alt="{{ .Name }}"></i> {{ end }}{{- .Name -}}
           </a>
-          <div class="navbar-dropdown is-size-7">
+          <div class="navbar-dropdown">
             {{ range .Children }}
             <a class="navbar-item{{ if (eq $currentPage.URL .URL) }} is-active{{ end }}" href="{{ .URL | relLangURL }}">
               {{ if .Identifier }}<i class="{{ .Identifier }}" alt="{{ .Name }}"></i>{{ end }} {{ .Name }}
@@ -256,7 +256,7 @@ The HTML Liquid snippets are optimized for use with the [Hugo static site genera
 {{- if .Params.toc }}
 <aside class="menu">
   <p class="menu-label">Table of Contents</p>
-  <div class="menu-list is-size-7">
+  <div class="menu-list">
     {{ .TableOfContents }}
   </div>
 </aside>

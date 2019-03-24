@@ -18,7 +18,7 @@ categories:
 
 Every fall, leading startups, companies, and organizations in NYC pose business challenges to Cornell Tech. In Product Studio, teams develop and present new products, services, and strategies that respond to those challenges.
 
-<blockquote class="embedly-card"><h4><a href="https://tech.cornell.edu/studio">Studio</a></h4><p>Cornell Tech is a graduate school like none other, designed to engage our rapidly evolving global society. Located in New York City.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://tech.cornell.edu/studio">Studio</a></h4><p>Cornell Tech is a graduate school like none other, designed to engage our rapidly evolving global society. Located in New York City.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 My team is responding to **The New York Times (Community)** challenge:
@@ -105,14 +105,14 @@ Introducing "Most-Discussed" on the New York Times app. Here, you can see articl
 
 ### Sprint 1 - Presentation
 
-<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/sprint-1-product-studio">Sprint 1 | Product Studio</a></h4><p>Our presentation for Sprint 1 of the Product Studio class. Fall 2016 Cornell Tech The New York Times (Community)</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://speakerdeck.com/fvcproductions/sprint-1-product-studio">Sprint 1 | Product Studio</a></h4><p>Our presentation for Sprint 1 of the Product Studio class. Fall 2016 Cornell Tech The New York Times (Community)</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Sprint 1 - Prototype
 
 ![Prototype](https://i.imgur.com/iEt4jFs.png)
 
-<blockquote class="embedly-card"><h4><a href="https://invis.io/HZ8PJDK89">Click here to view the project `NYTimes - Sprint 1`</a></h4><p>This prototype brought to you by InVisionApp</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://invis.io/HZ8PJDK89">Click here to view the project `NYTimes - Sprint 1`</a></h4><p>This prototype brought to you by InVisionApp</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Sprint 2
@@ -217,26 +217,26 @@ Lastly, to hand off our product, we plan to provide all of our assets to the NYT
 
 ### Sprint 3 - Presentation
 
-<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/sprint-3-product-studio">Sprint 3 | Product Studio</a></h4><p>Fall 2016 Cornell Tech The New York Times (Community)</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://speakerdeck.com/fvcproductions/sprint-3-product-studio">Sprint 3 | Product Studio</a></h4><p>Fall 2016 Cornell Tech The New York Times (Community)</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Sprint 3 - Prototype
 
 ![Prototype](https://i.imgur.com/3yzZCpg.png)
 
-<blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/nyt-comm/">The Spanish Lesson I Never Got at School - The New York Times</a></h4><p>Like millions of Latino kids educated in California public schools, I never took a class in Spanish grammar or Spanish literature, nor was I ever asked to write a single word with an accent or a squiggly tilde over it.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://fvcproductions.github.io/nyt-comm/">The Spanish Lesson I Never Got at School - The New York Times</a></h4><p>Like millions of Latino kids educated in California public schools, I never took a class in Spanish grammar or Spanish literature, nor was I ever asked to write a single word with an accent or a squiggly tilde over it.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Final Sprint
 
 ### Final Sprint - Presentation
 
-<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/final-deck-product-studio">Final Deck | Product Studio</a></h4><p>Fall 2016 Cornell Tech The New York Times (Community)</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://speakerdeck.com/fvcproductions/final-deck-product-studio">Final Deck | Product Studio</a></h4><p>Fall 2016 Cornell Tech The New York Times (Community)</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Final Sprint - Prototype
 
-<blockquote class="embedly-card"><h4><a href="https://youtu.be/sGClxvfYLZk">Q&A | Prototype</a></h4><p>Product Studio Cornell Tech Fall 2016 The New York Times (Community) Q&A Platform FVCproductions No copyright intended.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://youtu.be/sGClxvfYLZk">Q&A | Prototype</a></h4><p>Product Studio Cornell Tech Fall 2016 The New York Times (Community) Q&A Platform FVCproductions No copyright intended.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Open Studio Poster
@@ -258,7 +258,7 @@ At the end of the semester, each team was also tasked to create a poster for the
 
 ## GitHub Repo
 
-<blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/nyt-comm">fvcproductions/nyt-comm</a></h4><p>nyt-comm - Product Studio | Cornell Tech | Fall 2016 📰</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/nyt-comm">fvcproductions/nyt-comm</a></h4><p>nyt-comm - Product Studio | Cornell Tech | Fall 2016 📰</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Tools

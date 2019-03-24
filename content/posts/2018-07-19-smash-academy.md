@@ -40,7 +40,7 @@ I presented my career path, moments of resilience and some key advice as one of 
 
 ### Slides
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/smash-speaker-series-at-stanford-university-july-2018">SMASH Speaker Series at Stanford University</a></h4><p>SMASH Academy is a free of cost, STEM-intensive college preparatory program for underrepresented high school students of color that is run in partnership with ...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/smash-speaker-series-at-stanford-university-july-2018">SMASH Speaker Series at Stanford University</a></h4><p>SMASH Academy is a free of cost, STEM-intensive college preparatory program for underrepresented high school students of color that is run in partnership with ...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Pictures

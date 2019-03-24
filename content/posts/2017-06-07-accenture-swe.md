@@ -100,5 +100,5 @@ Through Accenture, I've also had the wonderful opportunity to have many learning
 
 ![CONNECT 2018](https://i.imgur.com/MUs15HN.png)
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/AccentureUSJobs/status/989949839797571589">Accenture US Careers on Twitter</a></h4><p>Going to #WWCode CONNECT 2018? Catch insights tomorrow from some of our #womenintech as they talk about #bigdata, creating success and #typescriptlang. @sonali2197 @maryqcontrary @fvcproductions</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/AccentureUSJobs/status/989949839797571589">Accenture US Careers on Twitter</a></h4><p>Going to #WWCode CONNECT 2018? Catch insights tomorrow from some of our #womenintech as they talk about #bigdata, creating success and #typescriptlang. @sonali2197 @maryqcontrary @fvcproductions</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

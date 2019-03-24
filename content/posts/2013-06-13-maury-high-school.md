@@ -54,7 +54,7 @@ Matthew Fontaine Maury High School also known as Maury High School, one of five 
 
 ### Transcript
 
-<blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/353206754/high-school-transcript">High School Transcript</a></h4><p>FVCproductions Check me out at fvcproductions.com Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright FVCproductions 2016 Don't forget to like and/or comment! :)</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.scribd.com/document/353206754/high-school-transcript">High School Transcript</a></h4><p>FVCproductions Check me out at fvcproductions.com Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright FVCproductions 2016 Don't forget to like and/or comment! :)</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Projects

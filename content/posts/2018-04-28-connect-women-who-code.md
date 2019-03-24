@@ -16,10 +16,10 @@ I was selected to be a speaker at CONNECT 2018, which is an annual conference or
 
 This year, the conference was held from 8 am to 5 pm on April 28th at Twitter's HQ in SF.
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/fvcproductions/status/987845721549295616">Frances Coronel on Twitter</a></h4><p>I am excited to be speaking at #WWCode CONNECT next Saturday on April 28 at @Twitter HQ in San Francisco. I will be presenting on @typescriptlang and am looking forward to meeting the @womenwhocode community! 😊 https://t.co/Wi8LPo7MvT</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/fvcproductions/status/987845721549295616">Frances Coronel on Twitter</a></h4><p>I am excited to be speaking at #WWCode CONNECT next Saturday on April 28 at @Twitter HQ in San Francisco. I will be presenting on @typescriptlang and am looking forward to meeting the @womenwhocode community! 😊 https://t.co/Wi8LPo7MvT</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/AccentureUSJobs/status/989949839797571589">Accenture US Careers on Twitter</a></h4><p>Going to #WWCode CONNECT 2018? Catch insights tomorrow from some of our #womenintech as they talk about #bigdata, creating success and #typescriptlang. @sonali2197 @maryqcontrary @fvcproductions</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/AccentureUSJobs/status/989949839797571589">Accenture US Careers on Twitter</a></h4><p>Going to #WWCode CONNECT 2018? Catch insights tomorrow from some of our #womenintech as they talk about #bigdata, creating success and #typescriptlang. @sonali2197 @maryqcontrary @fvcproductions</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 Specifically, I was chosen to present my "TypeScript 101" talk.
@@ -30,21 +30,21 @@ Specifically, I was chosen to present my "TypeScript 101" talk.
 
 [Women Who Code (WWCode)](https://www.womenwhocode.com/) is changing the face of tech, creating a more inclusive and diverse industry, and helping women to connect with professional opportunities that propel them into positions of power.
 
-<blockquote class="embedly-card"><h4><a href="https://connect2018.womenwhocode.com/">Welcome</a></h4><p>WOMEN WHO CODE TECH CONFERENCE FOR ENGINEERS, DEVELOPERS, DATA SCIENTISTS</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://connect2018.womenwhocode.com/">Welcome</a></h4><p>WOMEN WHO CODE TECH CONFERENCE FOR ENGINEERS, DEVELOPERS, DATA SCIENTISTS</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Slides
 
 I presented a lightning talk on TypeScript and really revamped my slides to be as informative and inclusive as possible.
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/women-who-code-connect-2018-typescript-101">Women Who Code - CONNECT 2018 - TypeScript 101</a></h4><p>Presented April 28th, 2018 I presented a 10-minute lightning talk version of my "TypeScript 101" talk that serves as a short introduction to TypeScript and the...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/women-who-code-connect-2018-typescript-101">Women Who Code - CONNECT 2018 - TypeScript 101</a></h4><p>Presented April 28th, 2018 I presented a 10-minute lightning talk version of my "TypeScript 101" talk that serves as a short introduction to TypeScript and the...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Feedback
 
 I got some friendly feedback! 😊
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/mirka/status/990390645285007361">mirka on Twitter</a></h4><p>Overview of TypeScript in ten minutes. Great teacher! 💯 @fvcproductions #WWCode</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/mirka/status/990390645285007361">mirka on Twitter</a></h4><p>Overview of TypeScript in ten minutes. Great teacher! 💯 @fvcproductions #WWCode</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Pictures

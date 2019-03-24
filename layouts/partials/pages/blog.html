@@ -1,7 +1,7 @@
 <!-- Variables -->
 {{ $blog := ($.Site.Taxonomies.categories.blog).Pages }}
 <!-- Blog -->
-<p>{{ len $blog}} blog posts written</p>
+<p>I've written {{ len $blog}} blog posts so far.</p>
 <div class="columns is-multiline">
   {{ range $blog }} {{ if .Date.Before now }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">

@@ -59,7 +59,7 @@ I think an undergrad student can benefit. In most graphic design curriculums the
 
         We think you would make a really great candidate for our program, and we couldn't be happier to have the opportunity to work with you.
 
-_Some Logistics_
+## Some Logistics
 
 - They accept Paypal and Bitcoin...
 - Once you confirm your participation, they'll shoot an invoice for your deposit

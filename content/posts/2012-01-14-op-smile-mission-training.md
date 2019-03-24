@@ -44,5 +44,5 @@ Apparently my example video even made someone from the OP Smile student team tea
 
 I presented the basics of video editing using iMovie to Operation Smile mission trainees.
 
-<blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/128758878/iMovie-101-Operation-Smile-Mission-Training-Workshop">iMovie 101 Operation Smile Mission Training Workshop</a></h4><p>FVCproductions Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright 2014</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.scribd.com/document/128758878/iMovie-101-Operation-Smile-Mission-Training-Workshop">iMovie 101 Operation Smile Mission Training Workshop</a></h4><p>FVCproductions Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright 2014</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

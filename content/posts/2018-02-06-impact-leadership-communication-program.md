@@ -55,13 +55,13 @@ This program is tailored to meet each client's unique needs.
 
 #### Here are my videos taken from Day 1 of training.
 
-<blockquote class="embedly-card"><h4><a href="https://youtu.be/-eOaoUdy-Vw">Speaker Training - Day 1.1</a></h4><p>©️ FVCproductions fvcproductions.com</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://youtu.be/-eOaoUdy-Vw">Speaker Training - Day 1.1</a></h4><p>©️ FVCproductions fvcproductions.com</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://youtu.be/RuBqOKIzrkI">Speaker Training - Day 1.2</a></h4><p>©️ FVCproductions fvcproductions.com</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://youtu.be/RuBqOKIzrkI">Speaker Training - Day 1.2</a></h4><p>©️ FVCproductions fvcproductions.com</p></blockquote>
 
 #### And compare those to the videos taken from Day 2 of training. What a difference!
 
-<blockquote class="embedly-card"><h4><a href="https://youtu.be/izW4sR2Kwd4">Speaker Training - Day 2.1</a></h4><p>©️ FVCproductions fvcproductions.com</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://youtu.be/izW4sR2Kwd4">Speaker Training - Day 2.1</a></h4><p>©️ FVCproductions fvcproductions.com</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://youtu.be/0btuEsT_KS8">Speaker Training - Day 2.2</a></h4><p>©️ FVCproductions fvcproductions.com</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://youtu.be/0btuEsT_KS8">Speaker Training - Day 2.2</a></h4><p>©️ FVCproductions fvcproductions.com</p></blockquote>

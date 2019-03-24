@@ -29,5 +29,5 @@ January 18th, 2016
 
 ## About
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/2016-0118-norfolkjs-js-coding-bootcamps">Norfolk.js Meetup - JS Coding Bootcamps</a></h4><p>Norfolk.js Meetup January 18th, 2016 For our January meetup, Frances Coronel will be talking about the rise of JavaScript-based coding bootcamps and her exper...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/2016-0118-norfolkjs-js-coding-bootcamps">Norfolk.js Meetup - JS Coding Bootcamps</a></h4><p>Norfolk.js Meetup January 18th, 2016 For our January meetup, Frances Coronel will be talking about the rise of JavaScript-based coding bootcamps and her exper...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

@@ -16,10 +16,13 @@
   {{- partial "custom/return-to-top.html" . -}}
   <!-- Navbar -->
   {{- partial "navbar.html" . -}}
-  <!-- Main Content -->
-  <div role="main">
-    <!-- Main Block -->
-    {{ block "main" . }}{{ end }}
+  <!-- Container -->
+  <div class="container">
+    <!-- Main Content -->
+    <div role="main">
+      <!-- Main Block -->
+      {{ block "main" . }}{{ end }}
+    </div>
   </div>
   <!-- Footer -->
   {{- partial "footer.html" . -}}

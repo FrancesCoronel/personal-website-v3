@@ -29,6 +29,6 @@ As part of a logo competition, I designed these. Ultimately, they did not get ch
 
 ![RESPECT Logo 5](https://i.imgur.com/2Y9OP5g.jpg)
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=N4F8XjvothQ">10 Years of Respect Logo Animation</a></h4><p>Student Logo Competition Submission RESPECT 2015 Conference FVCproductions No copyright intended.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=N4F8XjvothQ">10 Years of Respect Logo Animation</a></h4><p>Student Logo Competition Submission RESPECT 2015 Conference FVCproductions No copyright intended.</p></blockquote>
 
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

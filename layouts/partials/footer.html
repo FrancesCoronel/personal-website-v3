@@ -1,23 +1,21 @@
-<footer class="footer">
+<footer class="footer pt-2 pb-2">
   <div class="container has-text-centered">
     <div class="content">
       <div class="section">
-        <div class="columns">
+        <div class="u-flex--center">
           {{ $parentPages := where .Site.RegularPages "Type" "page" }}
           {{ $footerPages := $parentPages | union (.Site.Sections) }}
           {{ range $footerPages.ByTitle }}
           {{ if .Params.footer }}
-          <div class="column is-one-sixth">
-            <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}">
+            <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="mb-1">
               {{ if .Params.display }}{{ .Params.display }}{{ else }}{{ .Title }}{{ end }}
             </a>
-          </div>
           {{ end }}
           {{ end }}
         </div>
       </div>
       <div class="section">
-        <div class="social-icons">
+        <div class="social-icons mt-1">
           <!-- GitHub -->
           <a href="https://github.com/fvcproductions" target="_blank" rel="noopener" class="fa-github" aria-label="FVCproductions on GitHub" title="FVCproductions on GitHub">
             {{ partial "icons/github.html" . }}

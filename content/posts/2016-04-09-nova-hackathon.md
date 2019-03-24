@@ -44,15 +44,15 @@ I spoke about 2 topics:
 
 ### Slides
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/2016-0409-nova-hackathon-so-you-want-to-be-a-wizard">So You Want To Be A Wizard | NOVA Hackathon</a></h4><p>Published April 9, 2016 Innovation Hackathon Woodbridge, VA April 8th-10th, 2016 https://fvcproductions.com</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/2016-0409-nova-hackathon-so-you-want-to-be-a-wizard">So You Want To Be A Wizard | NOVA Hackathon</a></h4><p>Published April 9, 2016 Innovation Hackathon Woodbridge, VA April 8th-10th, 2016 https://fvcproductions.com</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/2016-0409-nova-hackathon-web-design">Web Design - Innovation Hackathon</a></h4><p>Published April 9, 2016, in Design Innovation Hackathon Woodbridge, VA April 8th-10th, 2016 https://fvcproductions.com</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/2016-0409-nova-hackathon-web-design">Web Design - Innovation Hackathon</a></h4><p>Published April 9, 2016, in Design Innovation Hackathon Woodbridge, VA April 8th-10th, 2016 https://fvcproductions.com</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### News
 
-<blockquote class="embedly-card"><h4><a href="https://www.nvcc.edu/news/media-alerts/nova-hackathon.html">350 NOVA, high school students to attend InNOVAtion Hackathon at the Regional Center for Workforce Education and Training, April 8-10 :: Northern Virginia Community College</a></h4><p>Approximately 300 students from Northern Virginia Community College and other colleges, interested locals and 50 local high school students have registered to attend NOVA's first ever hackathon event, inNOVAtion. The 36 hour long competition will focus on offering hands-on experience to promote cybersecurity through analyzing secure coding methods.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.nvcc.edu/news/media-alerts/nova-hackathon.html">350 NOVA, high school students to attend InNOVAtion Hackathon at the Regional Center for Workforce Education and Training, April 8-10 :: Northern Virginia Community College</a></h4><p>Approximately 300 students from Northern Virginia Community College and other colleges, interested locals and 50 local high school students have registered to attend NOVA's first ever hackathon event, inNOVAtion. The 36 hour long competition will focus on offering hands-on experience to promote cybersecurity through analyzing secure coding methods.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ![Innovation Hackathon 10](https://i.imgur.com/s7aRRJq.png)

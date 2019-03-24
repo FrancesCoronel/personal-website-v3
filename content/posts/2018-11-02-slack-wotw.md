@@ -15,22 +15,22 @@ I helped setup React training with Michael Jackson, the creator of React Router,
 
 ![Recap](https://i.imgur.com/01uM0ks.png)
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/fvcproductions/status/1055239774313693185">Frances Coronel on Twitter</a></h4><p>A big thank you to @mjackson for giving his workshop @SlackHQ and passing along his knowledge of the @reactjs ecosystem and architecture! 🙌🏽 🎉</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/fvcproductions/status/1055239774313693185">Frances Coronel on Twitter</a></h4><p>A big thank you to @mjackson for giving his workshop @SlackHQ and passing along his knowledge of the @reactjs ecosystem and architecture! 🙌🏽 🎉</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/mjackson/status/1055237084540100608">MICHAEL JACKSON on Twitter</a></h4><p>I used React 16.6 today in my @ReactTraining workshop 😅 https://t.co/FkoKkEqu8w</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/mjackson/status/1055237084540100608">MICHAEL JACKSON on Twitter</a></h4><p>I used React 16.6 today in my @ReactTraining workshop 😅 https://t.co/FkoKkEqu8w</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/ReactTraining/status/1054813886904320000e">null</a></h4><p>null</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/ReactTraining/status/1054813886904320000e">null</a></h4><p>null</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/mjackson/status/1054763440059740163">MICHAEL JACKSON on Twitter</a></h4><p>I absolutely love the aesthetic of the @SlackHQ offices on 4th St. Dark concrete and wood next to lots of green plants everywhere 😍</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/mjackson/status/1054763440059740163">MICHAEL JACKSON on Twitter</a></h4><p>I absolutely love the aesthetic of the @SlackHQ offices on 4th St. Dark concrete and wood next to lots of green plants everywhere 😍</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/mjackson/status/1054497245637238784">MICHAEL JACKSON on Twitter</a></h4><p>Interesting stat: there are more women in today's workshop than men. First time that has happened in over 3 years of teaching these workshops. https://t.co/wSOsnexQYT</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/mjackson/status/1054497245637238784">MICHAEL JACKSON on Twitter</a></h4><p>Interesting stat: there are more women in today's workshop than men. First time that has happened in over 3 years of teaching these workshops. https://t.co/wSOsnexQYT</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/mjackson/status/1054186436084170752">MICHAEL JACKSON on Twitter</a></h4><p>SAN ✈️ SFO // @ReactTraining at @SlackHQ</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/mjackson/status/1054186436084170752">MICHAEL JACKSON on Twitter</a></h4><p>SAN ✈️ SFO // @ReactTraining at @SlackHQ</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ![Message 1](https://i.imgur.com/jT0MNMw.jpg)

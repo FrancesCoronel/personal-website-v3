@@ -24,10 +24,10 @@ aliases:
 
 > Dotfiles are text-based configurations files that stores settings of almost every application, service and tool running on your system.
 
-<blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/dotfiles">fvcproductions/dotfiles</a></h4><p>dotfiles - My custom start script for new laptops 💻</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/dotfiles">fvcproductions/dotfiles</a></h4><p>dotfiles - My custom start script for new laptops 💻</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/fvcproductions/status/927052673781719040">Frances Coronel on Twitter</a></h4><p>If you're in need of some cool dotfiles inspired by @google @materialdesign, I've published mine on @github🎨🎉🖌️ https://t.co/zpye8PLuNl</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/fvcproductions/status/927052673781719040">Frances Coronel on Twitter</a></h4><p>If you're in need of some cool dotfiles inspired by @google @materialdesign, I've published mine on @github🎨🎉🖌️ https://t.co/zpye8PLuNl</p></blockquote>
 
 ## Hardware
 

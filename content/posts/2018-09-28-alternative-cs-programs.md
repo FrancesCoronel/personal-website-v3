@@ -39,7 +39,7 @@ These programs instead act as alternative options to a CS degree which is usuall
 
 ### Make School
 
-<blockquote class="embedly-card"><h4><a href="https://www.makeschool.com/">Computer Science College for the 21st Century</a></h4><p>Immerse yourself in a community of makers empowered to build software to shape the world. No upfront tuition, project based learning, built with industry partners.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.makeschool.com/">Computer Science College for the 21st Century</a></h4><p>Immerse yourself in a community of makers empowered to build software to shape the world. No upfront tuition, project based learning, built with industry partners.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 - 2 years
@@ -67,7 +67,7 @@ These programs instead act as alternative options to a CS degree which is usuall
 
 ### Holberton School
 
-<blockquote class="embedly-card"><h4><a href="https://www.holbertonschool.com/">Holberton School of Software Engineering</a></h4><p>With peer learning, you don't just learn with each other, but from each other. Through teamwork and collaboration, students, tackle challenges, reach goals, and offer their support along the way. This isn't your traditional program. Our curriculum ranges from C to Python to DevOps and much more, diving deep to give you a thorough foundation.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.holbertonschool.com/">Holberton School of Software Engineering</a></h4><p>With peer learning, you don't just learn with each other, but from each other. Through teamwork and collaboration, students, tackle challenges, reach goals, and offer their support along the way. This isn't your traditional program. Our curriculum ranges from C to Python to DevOps and much more, diving deep to give you a thorough foundation.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 - [Syllabus for the 1st year of their program](https://holbertonschool.s3-us-west-1.amazonaws.com/syllabus/holberton_school_syllabus_03082017010101.pdf)
@@ -150,7 +150,7 @@ These programs instead act as alternative options to a CS degree which is usuall
 
 ### 42
 
-<blockquote class="embedly-card"><h4><a href="https://www.42.us.org/">42 Silicon Valley: disrupting software engineering education</a></h4><p>42 Silicon Valley is an innovating engineering college in the San Francisco Bay Area with programs for college-level and high school students.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.42.us.org/">42 Silicon Valley: disrupting software engineering education</a></h4><p>42 Silicon Valley is an innovating engineering college in the San Francisco Bay Area with programs for college-level and high school students.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 - I would recommend using the game Lightbot to prepare.
@@ -168,35 +168,35 @@ These programs instead act as alternative options to a CS degree which is usuall
 
 ### Ada Developers Academy
 
-<blockquote class="embedly-card"><h4><a href="https://adadevelopersacademy.org/">Ada Developers Academy</a></h4><p>Ada Developers Academy is an intensive software development training program for women and gender diverse people in Seattle.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://adadevelopersacademy.org/">Ada Developers Academy</a></h4><p>Ada Developers Academy is an intensive software development training program for women and gender diverse people in Seattle.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Turing School
 
-<blockquote class="embedly-card"><h4><a href="https://www.turing.io/">Welcome to Turing School</a></h4><p>Turing is difficult, but worth it. 75% of our students graduate within 7 months, and 92% graduate within 10.5 months. 69% of graduates are employed full-time within 90 days of graduation. By 180 days, the percentage jumps to 80%. They're not project managers or off in a corner doing the stapling.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.turing.io/">Welcome to Turing School</a></h4><p>Turing is difficult, but worth it. 75% of our students graduate within 7 months, and 92% graduate within 10.5 months. 69% of graduates are employed full-time within 90 days of graduation. By 180 days, the percentage jumps to 80%. They're not project managers or off in a corner doing the stapling.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Galvanize
 
-<blockquote class="embedly-card"><h4><a href="https://www.galvanize.com/">Pick a Location | Galvanize</a></h4><p>Galvanize has eight different campuses across the United States. Each campus has it's own unique technology community within our greater network. Select your location of interest and find out how you can learn, work, and grow here.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.galvanize.com/">Pick a Location | Galvanize</a></h4><p>Galvanize has eight different campuses across the United States. Each campus has it's own unique technology community within our greater network. Select your location of interest and find out how you can learn, work, and grow here.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Horizons One
 
-<blockquote class="embedly-card"><h4><a href="https://www.joinhorizons.com/">Horizons School of Technology</a></h4><p>The Horizons School of Technology bridges traditional education and the world of technology. We give high-potential students the skills of an engineer and perspective of an entrepreneur.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.joinhorizons.com/">Horizons School of Technology</a></h4><p>The Horizons School of Technology bridges traditional education and the world of technology. We give high-potential students the skills of an engineer and perspective of an entrepreneur.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 - The world's first tuition-free technology co-op program
 
-<blockquote class="embedly-card"><h4><a href="https://s3-us-west-2.amazonaws.com/horizonsacademy/Horizons_Immersive.pdf">Program Overview</a></h4></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://s3-us-west-2.amazonaws.com/horizonsacademy/Horizons_Immersive.pdf">Program Overview</a></h4></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://s3-us-west-2.amazonaws.com/horizonsacademy/Horizons+One+-+Program+Overview.pdf">More Detail</a></h4></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://s3-us-west-2.amazonaws.com/horizonsacademy/Horizons+One+-+Program+Overview.pdf">More Detail</a></h4></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### MissionU
 
-<blockquote class="embedly-card"><h4><a href="https://www.missionu.com/">MissionU</a></h4><p>Data Analytics + Business Intelligence</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.missionu.com/">MissionU</a></h4><p>Data Analytics + Business Intelligence</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 - If you are interested in something other than Computer Science, [MissionU](https://www.missionu.com/) offers a one year program in **Data Analytics + Business Intelligence**.
@@ -204,5 +204,5 @@ These programs instead act as alternative options to a CS degree which is usuall
 
 ### Lambda School
 
-<blockquote class="embedly-card"><h4><a href="https://lambdaschool.com">Lambda School - A Revolutionary New School That Invests In You</a></h4><p>Tracks Immersive Courses Full Stack Web iOS Development Android Development Data Science UX Design Intro Courses Full Stack Web iOS Development Android Development Data Science UI/UX Design About How it Works Student Stories Company Careers Industry Partners Concierge Apprenticeships Outcomes Alumni FAQ Blog Apply Now</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://lambdaschool.com">Lambda School - A Revolutionary New School That Invests In You</a></h4><p>Tracks Immersive Courses Full Stack Web iOS Development Android Development Data Science UX Design Intro Courses Full Stack Web iOS Development Android Development Data Science UI/UX Design About How it Works Student Stories Company Careers Industry Partners Concierge Apprenticeships Outcomes Alumni FAQ Blog Apply Now</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

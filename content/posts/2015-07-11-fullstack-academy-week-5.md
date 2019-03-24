@@ -23,7 +23,7 @@ categories:
 
 ![The Grid](https://img15.deviantart.net/1ea4/i/2012/184/d/1/c__s_grid___tron_wallpaper_by_kylecaio-d55uk9k.png)
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=YKEZoOjc6to">Daft Punk - The Son of Flynn (TRON LEGACY)</a></h4><p>Uploaded by Max Manga on 2012-12-26.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=YKEZoOjc6to">Daft Punk - The Son of Flynn (TRON LEGACY)</a></h4><p>Uploaded by Max Manga on 2012-12-26.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ![cDock](https://www.macupdate.com/images/icons256/51149.png)
@@ -111,7 +111,7 @@ So I'm just going to list them off one by one.
 - So that was that. My week ended up with me dancing to Rihanna, just like every other week (no, not really). My instructor today had even decided to use the one song I had been obsessing over for a while. Good times!
 - (╯°□°）╯ ︵ ┻━┻ - ¯\\_( ツ )_/¯ - ┬──┬◡ﾉ(° -°ﾉ)
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=qQraeOG-3L8">Rihanna - Bitch Better Have My Money - Choreography by Tricia Miranda | @timmilgram @rihanna</a></h4><p>Rihanna - Bitch Better Have My Money - Choreography by Tricia Miranda Filmed & Edited by Tim Milgram: http://youtube.com/timmilgram Learn choreography from Tricia, check out http://triciamiranda.com for tutorials Follow us: http://instagram.com/1TriciaMiranda http://instagram.com/TimMilgram http://www.triciamiranda.com --- New Tutorials Coming Soon!</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=qQraeOG-3L8">Rihanna - Bitch Better Have My Money - Choreography by Tricia Miranda | @timmilgram @rihanna</a></h4><p>Rihanna - Bitch Better Have My Money - Choreography by Tricia Miranda Filmed & Edited by Tim Milgram: http://youtube.com/timmilgram Learn choreography from Tricia, check out http://triciamiranda.com for tutorials Follow us: http://instagram.com/1TriciaMiranda http://instagram.com/TimMilgram http://www.triciamiranda.com --- New Tutorials Coming Soon!</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 > :arrow: **Overall Conclusion?**

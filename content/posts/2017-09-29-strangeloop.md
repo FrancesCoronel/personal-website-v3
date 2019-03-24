@@ -78,7 +78,7 @@ Later that day, I ended up getting interviewed by the marvelous Kim Crayton on m
 
 This was fun and even though this my first ever interaction with live video/Periscope, I felt quite relaxed.
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/KimCrayton1/status/913464785898946560">Kim Crayton on Twitter</a></h4><p>@CommEngReport w/Frances Coronel (@fvcproductions) @StrangeLoop //t.co/3FpygGDgmJ</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/KimCrayton1/status/913464785898946560">Kim Crayton on Twitter</a></h4><p>@CommEngReport w/Frances Coronel (@fvcproductions) @StrangeLoop //t.co/3FpygGDgmJ</p></blockquote>
 
 The rest of the night was spent watching talks at the hotel and preparing for my Lightning Talk tomorrow.
 
@@ -102,11 +102,11 @@ The final Project Alloy event happened concurrently
 
 This was an event sponsored by Netflix that was going on con-currently with the Project Include Meetup.
 
-<blockquote class="embedly-card"><h4><a href="https://jenniferkormanphotography.pixieset.com/diversityintech/?pid=1367692777&id=92&h=NDQyMzY5MTgy">Diversity in Tech</a></h4><p>Photo by Jennifer Korman Photography</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://jenniferkormanphotography.pixieset.com/diversityintech/?pid=1367692777&id=92&h=NDQyMzY5MTgy">Diversity in Tech</a></h4><p>Photo by Jennifer Korman Photography</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://jenniferkormanphotography.pixieset.com/diversityintech/?pid=1367691991&id=102&h=MjM5ODk3NzEwNg">Diversity in Tech</a></h4><p>Photo by Jennifer Korman Photography</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://jenniferkormanphotography.pixieset.com/diversityintech/?pid=1367691991&id=102&h=MjM5ODk3NzEwNg">Diversity in Tech</a></h4><p>Photo by Jennifer Korman Photography</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://jenniferkormanphotography.pixieset.com/diversityintech/?pid=1367690754&id=125&h=MjY3MzY5MjYwNg">Diversity in Tech</a></h4><p>Photo by Jennifer Korman Photography</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://jenniferkormanphotography.pixieset.com/diversityintech/?pid=1367690754&id=125&h=MjY3MzY5MjYwNg">Diversity in Tech</a></h4><p>Photo by Jennifer Korman Photography</p></blockquote>
 
 I ended up taking a photo with two other grantees that I met at Strange Loop and thought were really cool.
 
@@ -122,14 +122,14 @@ My talk was selected and I was able to present the first Lightning Talk starting
 
 My talk was called **"TypeScript 101"**.
 
-<blockquote class="embedly-card"><h4><a href="https://slideshare.net/FVCproductions/typescript-101-80676517">Strange Loop 2017 - TypeScript 101</a></h4><p>Presented September 29th, 2017. A short introduction to TypeScript and the benefits it provides to large-scale projects. Lightning Talks Strange Loop 2017 Fr...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://slideshare.net/FVCproductions/typescript-101-80676517">Strange Loop 2017 - TypeScript 101</a></h4><p>Presented September 29th, 2017. A short introduction to TypeScript and the benefits it provides to large-scale projects. Lightning Talks Strange Loop 2017 Fr...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 I got a lot of great feedback on it too!
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/JQiu25/status/913982900906979333">Julie Qiu on Twitter</a></h4><p>Excited to try out @typescriptlang after hearing @fvcproductions's lightning talk. Thanks for the class! #strangeloop</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/JQiu25/status/913982900906979333">Julie Qiu on Twitter</a></h4><p>Excited to try out @typescriptlang after hearing @fvcproductions's lightning talk. Thanks for the class! #strangeloop</p></blockquote>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/ddlavinder/status/914006590558269440">DeeDee Lavinder on Twitter</a></h4><p>@fvcproductions's lightning talk on 'Typescript 101' rocked! Javascript is Typescript but Typescript is not Javascript. #strangeloop</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/ddlavinder/status/914006590558269440">DeeDee Lavinder on Twitter</a></h4><p>@fvcproductions's lightning talk on 'Typescript 101' rocked! Javascript is Typescript but Typescript is not Javascript. #strangeloop</p></blockquote>
 
 ### Saturday, September 30th
 

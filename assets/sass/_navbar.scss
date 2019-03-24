@@ -1,75 +1,26 @@
-.navbar {
-  &.has-shadow {
-    @extend %material-shadow;
-  }
-
-  .navbar-burger {
-    height: inherit;
-    width: 3em;
-  }
-
-  .navbar-item {
-    img {
-      max-height: 3em;
-    }
-  }
-
-  .navbar-dropdown {
-    padding: 0;
-
-    .navbar-item {
-      padding: 1em;
-    }
-
-    .navbar-divider {
-      margin: 0;
-    }
-  }
-}
-
 .navigation {
-  margin-top: 1em;
-
-  nav {
-    position: fixed;
-    right: 2em;
-    top: 2em;
-  }
+  text-align: center;
 
   ul {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
     list-style: none;
-    margin: 0;
-    padding-left: 0;
-
-    ul {
-
-      a {
-        width: 100%;
-        min-width: 180px;
-        text-shadow: none;
-      }
-
-      li {
-        margin: 0 0 5px;
-        padding: 0 0 5px;
-        border-bottom: 1px solid rgba(0, 0, 0, 0.3);
-      }
-
-    }
+    margin: 0 auto;
+    text-align: center;
 
     li {
-      display: inline-block;
-      margin-right: 1em;
-      padding: 0;
       position: relative;
+      margin-right: 2em;
+
+      &:last-child {
+        margin-right: 0;
+      }
     }
-
-
-
   }
 
   a {
-    position: relative;
     -webkit-transition: none;
     -moz-transition: none;
     transition: none;
@@ -89,7 +40,7 @@
         margin-top: 5px;
         position: absolute;
         transform: translateX(-50%);
-				width: 100%;
+        width: 100%;
       }
     }
   }
@@ -97,19 +48,20 @@
   .logo {
     border-bottom: 0;
     color: inherit;
+    display: inline-block;
     font-weight: 300;
     letter-spacing: 0.25px;
     margin: 0;
     text-decoration: none;
     text-transform: none;
-		display: inline-block;
+    vertical-align: middle;
 
-		&:hover,
-		&.active {
-			&:after {
-					border-bottom: none !important;
-			}
-		}
+    &:hover,
+    &.active {
+      &:after {
+        border-bottom: none !important;
+      }
+    }
 
     .header {
       font-weight: 700;
@@ -135,7 +87,7 @@
 
       &:hover:after {
         width: 100%;
-				border-bottom: 3px solid;
+        border-bottom: 3px solid;
       }
     }
 

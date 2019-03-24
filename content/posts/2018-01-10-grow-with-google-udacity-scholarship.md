@@ -26,7 +26,7 @@ The scholarship basically means I get access to the 3-month course called "Offli
 
 Excited since I've been really into PWAs since first hearing about them a year ago and then seeing all those cool ways they're being utilized these days at the Chrome Dev Summit last October.
 
-<blockquote class="embedly-card"><h4><a href="https://www.udacity.com/grow-with-google">Earn a Developer Scholarship from Google</a></h4><p>Udacity and Google are offering a limited number of full scholarships to help you become an Android or Web developer. Apply now.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.udacity.com/grow-with-google">Earn a Developer Scholarship from Google</a></h4><p>Udacity and Google are offering a limited number of full scholarships to help you become an Android or Web developer. Apply now.</p></blockquote>
 
 > Tracks
 

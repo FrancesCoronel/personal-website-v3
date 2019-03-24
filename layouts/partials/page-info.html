@@ -1,6 +1,6 @@
 <!-- Date -->
 {{- if not .PublishDate.IsZero }}
-<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+<p class="has-text-weight-light mt-sm">
   <span class="mr-sm">📅️</span>{{ if in .Params.categories "talk" }}First presented {{ else if in .Params.categories "experience" }}{{ end }}{{ dateFormat "January 2, 2006" .Date }}{{ if in .Params.categories "experience" }}{{ with .Params.ended }} to {{ . | dateFormat "Jan 2, 2006" }}{{ end }}{{ end }}
 </p>
 {{- end }}
@@ -21,19 +21,19 @@
 <!-- Experience Page - show work experience time -->
 <!--
 {{ if eq .URL "/experience/" }}
-<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+<p class="has-text-weight-light mt-sm">
   <span class="mr-sm">🕒</span>{{ if not (eq $experienceYears 0) }}{{ $experienceYears }} {{ if gt $experienceYears 1 }}years{{ else }}year{{ end }}{{ end }}{{ if not (eq $experienceMonths 0) }} {{ $experienceMonths }} {{ if gt $experienceMonths 1 }}months{{ else }}month{{ end }}{{ end }}{{ if not (eq $experienceDaysTotal 0) }} {{ $experienceDaysTotal }} {{ if gt $experienceDaysTotal 1 }}days{{ else }}day{{ end }}{{ end }} of work experience
 </p>
-<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+<p class="has-text-weight-light mt-sm">
   <span class="mr-sm">💻</span>Getting paid to code <a href="/freelancing/" rel="noopener">since 2015</a>
 </p>
-<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+<p class="has-text-weight-light mt-sm">
   <span class="mr-sm">🎓</span>Learning to code <a href="/education/" rel="noopener">since 2013</a>
 </p>
 {{ end }} -->
 <!-- Time in Role -->
 {{ if .Params.ended }}
-<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+<p class="has-text-weight-light mt-sm">
   {{ $start := (time .Date) }}
   {{ $end := (time .Params.ended) }}
   {{ $diff := $end.Sub (time $start) }}
@@ -47,10 +47,10 @@
 {{ end }}
 <!-- no .Params.ended - instead this is the current position -->
 {{ if .Params.currentPosition }}
-<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+<p class="has-text-weight-light mt-sm">
   <span class="mr-sm">💼</span>Current Position
 </p>
-<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+<p class="has-text-weight-light mt-sm">
   {{ $start := (time .Date) }}
   {{ $end := (time .Params.ended) }}
   {{ $diff := now.Sub (time $start) }}
@@ -66,7 +66,7 @@
 {{- if not .Params.noTimeEstimate }}
 {{- if gt .ReadingTime 1 }}
 {{- if .WordCount }}
-<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+<p class="has-text-weight-light mt-sm">
   <span class="mr-sm">📖</span>{{ .ReadingTime }} min read ∙ {{ .WordCount }} words
 </p>
 {{- end }}
@@ -74,7 +74,7 @@
 {{- end }}
 <!-- Location -->
 {{ if .Params.location }}
-<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+<p class="has-text-weight-light mt-sm">
   <span class="mr-sm">🗺️</span>{{ .Params.location }}
 </p>
 {{ end }}
@@ -86,13 +86,13 @@
 {{ $freelancingHours = add $freelancingHours $hours }}
 {{ end }}
 {{ if eq .URL "/freelancing/" }}
-<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+<p class="has-text-weight-light mt-sm">
   <span class="mr-sm">💸️</span>{{ $freelancingHours }} hours of freelancing so far
 </p>
 {{ end }}
 <!-- Paid Event -->
 {{ if in .Params.categories "freelancing" }}
-<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+<p class="has-text-weight-light mt-sm">
   <span class="mr-sm">💵</span>Paid Event
 </p>
 {{ end }}
@@ -104,13 +104,13 @@
 {{ $mentoringHours = add $mentoringHours $hours }}
 {{ end }}
 {{ if eq .URL "/mentoring/" }}
-<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+<p class="has-text-weight-light mt-sm">
   <span class="mr-sm">💛</span>{{ $mentoringHours }} hours volunteered so far
 </p>
 {{ end }}
 <!-- Hours Given -->
 {{ if .Params.hours }}
-<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+<p class="has-text-weight-light mt-sm">
   <span class="mr-sm">⏳</span>{{ if eq .Params.hours 0.5 }}30 minutes{{ else if eq .Params.hours 1.0 }}{{ .Params.hours }} hour{{ else }}{{ .Params.hours }} hours{{ end }}
 </p>
 {{ end }}
@@ -118,14 +118,14 @@
 {{ if in .Params.categories "talk" }}
 {{ $talk := .Params.talk }}
 {{ $events := (index .Site.Taxonomies.tags $talk) }}
-<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+<p class="has-text-weight-light mt-sm">
   <span class="mr-sm">🗨️</span>Presented at {{ len $events }}{{ if gt (len $events) 1 }} events{{ else }} event{{ end }}
 </p>
 {{ end }}
 <!-- Speaking -->
 {{ if eq .URL "/speaking/" }}
 {{ $talks := ($.Site.Taxonomies.categories.talk).Pages }}
-<p class="subtitle has-text-weight-light is-size-7 mt-sm">
+<p class="has-text-weight-light mt-sm">
   <span class="mr-sm">📢️</span>There are {{ len $talks }} talks I've created so far that you can find on <a href="/talks" rel="noopener">my talks page</a>.
 </p>
 {{ end }}

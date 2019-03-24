@@ -11,8 +11,8 @@ categories:
 
 Kim Crayton, a renowned figure for diversity in the tech industry, interviewed me on my thoughts regarding the Project Alloy scholarships for Strange Loop and my experience in tech as a Latina.
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/KimCrayton1/status/913464785898946560">Kim Crayton 🏢 💻🎙 on Twitter</a></h4><p>@CommEngReport w/Frances Coronel (@fvcproductions) @StrangeLoop https://t.co/3FpygGDgmJ</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/KimCrayton1/status/913464785898946560">Kim Crayton 🏢 💻🎙 on Twitter</a></h4><p>@CommEngReport w/Frances Coronel (@fvcproductions) @StrangeLoop https://t.co/3FpygGDgmJ</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://www.pscp.tv/KimCrayton1/1zqJVRPmrLLJB">Kim Crayton @KimCrayton1</a></h4><p>Kim Crayton (@KimCrayton1). CEO (Chief Encouragement Officer) for #underrepresented & #marginalized in #tech | #causeascene | @causeasceneConf | https//:hashtagcauseascene.com</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.pscp.tv/KimCrayton1/1zqJVRPmrLLJB">Kim Crayton @KimCrayton1</a></h4><p>Kim Crayton (@KimCrayton1). CEO (Chief Encouragement Officer) for #underrepresented & #marginalized in #tech | #causeascene | @causeasceneConf | https//:hashtagcauseascene.com</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

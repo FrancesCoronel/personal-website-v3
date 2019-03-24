@@ -68,7 +68,7 @@ There are 58 days in Fullstack. These are the first 5. Let's begin. &lt;3
 > >
 > > Also, if someone asked me to express how I felt about my first week using a song...
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=t-yCg-0-baE">Grits - My Life Be Like (Ooh-Aah) with lyrics</a></h4><p>Feel me like a fingertip! Lyrics in annotations.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=t-yCg-0-baE">Grits - My Life Be Like (Ooh-Aah) with lyrics</a></h4><p>Feel me like a fingertip! Lyrics in annotations.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 Just sayin'. :roll:

@@ -52,16 +52,16 @@ Kent Hack Enough brings hackers from all over the nation together to learn somet
 
 #### Devpost
 
-<blockquote class="embedly-card"><h4><a href="https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v">Jake the Dog Key Hand</a></h4><p>Jake the Dog Key Hand - Secure your home using Leap Motion.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://devpost.com/software/jake-the-dog-key-hand-security-corp-whdm9v">Jake the Dog Key Hand</a></h4><p>Jake the Dog Key Hand - Secure your home using Leap Motion.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 #### GitHub Repo
 
-<blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/leap-auth-home">fvcproductions/leap-auth-home</a></h4><p>leap-auth-home - Leap Motion Auth for Home Automation | Kent Hack Enough 2016 🏠 🔑 ✋</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/leap-auth-home">fvcproductions/leap-auth-home</a></h4><p>leap-auth-home - Leap Motion Auth for Home Automation | Kent Hack Enough 2016 🏠 🔑 ✋</p></blockquote>
 
 #### Website/Hack
 
-<blockquote class="embedly-card"><h4><a href="https://fvcproductions.github.io/leap-auth-home/">Jake the Dog Key Hand | Security Corp</a></h4><p>Secure your home using Leap!</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://fvcproductions.github.io/leap-auth-home/">Jake the Dog Key Hand | Security Corp</a></h4><p>Secure your home using Leap!</p></blockquote>
 
 #### Inspiration
 

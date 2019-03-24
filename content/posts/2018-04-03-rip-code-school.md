@@ -19,7 +19,7 @@ The team at Code School back then not only loved Keynote as much as I did but th
 
 Unfortunately, in June of this year, Code School will no longer be available. You see, [Pluralsight](https://www.pluralsight.com/) acquired Code School back in [January of 2015](https://techcrunch.com/2015/01/26/online-learning-service-pluralsight-acquires-code-school-for-36-million/).
 
-<blockquote class="embedly-card"><h4><a href="https://www.pluralsight.com/codeschool/customer">Pluralsight | Code School</a></h4><p>On June 1, 2018, CodeSchool.com will no longer be available, but your learning doesn't have to stop. Pluralsight is taking the interactivity you loved on Code School and integrating it into the Pluralsight platform.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.pluralsight.com/codeschool/customer">Pluralsight | Code School</a></h4><p>On June 1, 2018, CodeSchool.com will no longer be available, but your learning doesn't have to stop. Pluralsight is taking the interactivity you loved on Code School and integrating it into the Pluralsight platform.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 However, most acquisitions usually take a while to fully integrate with the parent product so here we are 3 years later.

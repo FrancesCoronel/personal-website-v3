@@ -29,7 +29,7 @@ A stellar presentation will address the widest possible audience: everyone from 
 
 > I had less about two days to come up with a 20-minute presentation that breaks down Meltdown & Spectre so I'm open to any feedback if you notice something off. 😊
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/demystifying-meltdown-spectre">Demystifying Meltdown & Spectre</a></h4><p>Originally presented Friday, February 16th, 2018. As a developer evangelist, you will often be called upon to speak at a variety of events from hackathons to m...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/demystifying-meltdown-spectre">Demystifying Meltdown & Spectre</a></h4><p>Originally presented Friday, February 16th, 2018. As a developer evangelist, you will often be called upon to speak at a variety of events from hackathons to m...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---

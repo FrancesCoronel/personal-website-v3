@@ -1,5 +1,5 @@
 <hr>
-<div class="section section-share">
+<div class="section">
   <h2>🌐️ Share</h2>
   <!-- Twitter -->
   <div class="social-icons mt-2">
@@ -11,7 +11,7 @@
       {{ partial "icons/facebook.html" . }}
     </a>
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink | safeURL }}&title={{ .Title }}&summary={{ .Summary }}&source={{ .Site.Title }}" target="_blank" rel="noopener" class="fa-linkedin" aria-label="Share on LinkedIn" title="Share on LinkedIn">
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink | safeURL }}&title={{ .Title }}&summary={{ .Summary }}&source={{ .Site.Title }}" target="_blank" rel="noopener" class="fa-linkedin" aria-label="Share on LinkedIn" title="Share on LinkedIn">
       {{ partial "icons/linkedin.html" . }}
     </a>
     <!-- Pinterest -->

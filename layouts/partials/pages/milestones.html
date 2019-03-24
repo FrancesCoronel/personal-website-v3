@@ -11,7 +11,7 @@
       {{ else if eq .Name "freelancing" }}/freelancing/
       {{ else if eq .Name "hackathon" }}/hackathons/
       {{ else if eq .Name "mentoring" }}/mentoring/
-      {{ else if eq .Name "podcast" }}/podcast/
+      {{ else if eq .Name "podcast" }}/tech-queens/
       {{ else if eq .Name "portfolio" }}/portfolio/
       {{ else if eq .Name "press" }}/press/
       {{ else if eq .Name "program" }}/programs/
@@ -23,10 +23,10 @@
       {{ end }}">
       <div class="card card-equal-height">
         <div class="media-content">
-          <span class="is-size-5 has-text-weight-bold has-text-black">
+          <span class="has-text-weight-bold has-text-black is-size-4">
             {{ .Count }}
           </span>
-          <p class="is-size-7 has-text-weight-light is-capitalized">
+          <p class="has-text-weight-light is-capitalized is-size-7">
             {{ if eq .Name "award" }}Awards 🏆
             {{ else if eq .Name "blog" }}Blog Posts 📝
             {{ else if eq .Name "conference" }}Conferences 👥

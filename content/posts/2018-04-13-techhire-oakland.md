@@ -16,7 +16,7 @@ TechHire Oakland guides underrepresented East Bay residents of color to rewardin
 
 > Photo Cred: [Adrian Walker](http://www.adrianowalker.com/)
 
-<blockquote class="embedly-card"><h4><a href="https://www.techhireoakland.org/">Home - Tech Hire Oakland</a></h4><p>TechHire Oakland guides underrepresented East Bay residents of color to rewarding careers in tech.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.techhireoakland.org/">Home - Tech Hire Oakland</a></h4><p>TechHire Oakland guides underrepresented East Bay residents of color to rewarding careers in tech.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Screenshots

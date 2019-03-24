@@ -10,10 +10,10 @@ tags:
   - mindot
 ---
 
-<blockquote class="embedly-card"><h4><a href="https://photos.app.goo.gl/cKy6yb4WKbBRQmKw6">2018-10-05 Mindot Tour</a></h4><p>71 new photos added to shared album</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://photos.app.goo.gl/cKy6yb4WKbBRQmKw6">2018-10-05 Mindot Tour</a></h4><p>71 new photos added to shared album</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/earthtonesHQ/status/1049796749185953797">EarthtonesHQ on Twitter</a></h4><p>A few Earthtones members helped host a tour with a group of students from Colombia through @MindotOrg - a 501(c)3 non-profit organization with a mission to inspire students around the globe to become "Minders" or creatively successful leaders. 🎉🌎</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/earthtonesHQ/status/1049796749185953797">EarthtonesHQ on Twitter</a></h4><p>A few Earthtones members helped host a tour with a group of students from Colombia through @MindotOrg - a 501(c)3 non-profit organization with a mission to inspire students around the globe to become "Minders" or creatively successful leaders. 🎉🌎</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---

@@ -17,7 +17,7 @@ So I've decided to compile all the coding bootcamp things and organize them by c
 
 AND THIS IS MY OFFICIAL 100TH POST!!!!!
 
-![](https://media3.giphy.com/media/xeXEpUVvAxCV2/200.gif)
+![100th Post](https://media3.giphy.com/media/xeXEpUVvAxCV2/200.gif)
 
 ## Now let's get this party started! 😁
 

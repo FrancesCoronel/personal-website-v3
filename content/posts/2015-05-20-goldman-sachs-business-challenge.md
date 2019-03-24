@@ -27,12 +27,12 @@ Regardless, the hard work paid off and I was selected as the winner for the [Bro
 
 > Final Submission
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=fZ1iTIHHXmE">Finalist Submission | 10K Small Businesses Student Challenge</a></h4><p>10,000 Small Businesses is one of several programs developed and supported by Goldman Sachs and the Goldman Sachs Foundation focused on accelerating the growth of high potential small businesses to create jobs and grow economies. Since its launch in 2000, the program has reached over 4,000 leaders of high-growth small businesses and social enterprises across the country.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=fZ1iTIHHXmE">Finalist Submission | 10K Small Businesses Student Challenge</a></h4><p>10,000 Small Businesses is one of several programs developed and supported by Goldman Sachs and the Goldman Sachs Foundation focused on accelerating the growth of high potential small businesses to create jobs and grow economies. Since its launch in 2000, the program has reached over 4,000 leaders of high-growth small businesses and social enterprises across the country.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 > Entry Submission
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=4a6rEjB8KH8">Entry Submission | 10K Student Business Challenge</a></h4><p>10,000 Small Businesses is one of several programs developed and supported by Goldman Sachs and the Goldman Sachs Foundation focused on accelerating the growth of high potential small businesses to create jobs and grow economies. Since its launch in 2000, the program has reached over 4,000 leaders of high-growth small businesses and social enterprises across the country.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=4a6rEjB8KH8">Entry Submission | 10K Student Business Challenge</a></h4><p>10,000 Small Businesses is one of several programs developed and supported by Goldman Sachs and the Goldman Sachs Foundation focused on accelerating the growth of high potential small businesses to create jobs and grow economies. Since its launch in 2000, the program has reached over 4,000 leaders of high-growth small businesses and social enterprises across the country.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 With all that being said, what stood out for me the most throughout the entire trip was how everyone got to work on `200 West Street`. The Goldman Sachs building/tower is huge so what everybody does is enter through the first floor, take an elevator to the 11th floor (the Sky Lobby) and then from there, they have several different elevators they can use to get to the other floors. There was an elevator hallway for Floors 12–14 for instance and then another for Floors 30–40 and so on and so forth.
@@ -47,7 +47,7 @@ Needless to say, I learned a lot about what kind of environment I'd like to work
 
 **Anyways**, I'm going to use all `$5K` of what I earned to pay for the Fullstack Academy tuition, which is going to cover roughly half of it all
 
-<blockquote class="embedly-card"><h4><a href="http://www.goldmansachs.com/careers/students/programs/">Goldman Sachs | Student Programs</a></h4></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="http://www.goldmansachs.com/careers/students/programs/">Goldman Sachs | Student Programs</a></h4></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ![Brooklyn Cupcake](https://i.imgur.com/bm2JzNZ.jpg)

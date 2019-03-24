@@ -24,7 +24,7 @@ Long Lighthearted Lists
 
 ### Languages I've Been Seriously Exposed To
 
-![](https://www.clker.com/cliparts/5/9/c/2/1194984395619889880earth_globe_dan_gerhrads_01.svg.med.png)
+![Languages I've Been Seriously Exposed To](https://www.clker.com/cliparts/5/9/c/2/1194984395619889880earth_globe_dan_gerhrads_01.svg.med.png)
 
 > These are listed in chronological order.
 
@@ -45,7 +45,7 @@ Long Lighthearted Lists
 
 ### Old Science Fair Projects
 
-![](https://shaullelementary.oursciencefair.com/doc.ashx?id=1491)
+![Old Science Fair Projects](https://shaullelementary.oursciencefair.com/doc.ashx?id=1491)
 
 - 7th Grade - February 2007
   - The Effect of Different Kinds of Music on the Growth of Plants

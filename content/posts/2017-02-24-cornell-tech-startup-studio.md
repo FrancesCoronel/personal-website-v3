@@ -11,7 +11,7 @@ categories:
 
 For [Startup Studio](https://tech.cornell.edu/studio) at [Cornell Tech](https://tech.cornell.edu), I teamed up with three other women to create a streamlined document management solution targeted at social workers so they can place children into foster care faster.
 
-<blockquote class="embedly-card"><h4><a href="https://tech.cornell.edu/studio">Studio</a></h4><p>Cornell Tech is a graduate school like none other, designed to engage our rapidly evolving global society. Located in New York City.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://tech.cornell.edu/studio">Studio</a></h4><p>Cornell Tech is a graduate school like none other, designed to engage our rapidly evolving global society. Located in New York City.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 Our company is called **Venus** and we created a product called Mora.
@@ -47,34 +47,34 @@ In Startup Studio at Cornell Tech, all students practice the actions of entrepre
 
 As part of Startup Studio Sprint 1 at Cornell Tech, I designed and developed a desktop app called Mora that acts as a streamlined document management solution for social workers in the foster care field.
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/team-venus-sprint-1">Team Venus - Sprint 1</a></h4><p>Created February 24th, 2017 To present to Startup Studio judges at Cornell Tech. Startup Studio Cornell Tech Spring 2017 FVCproductions https://fvcproduction...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/team-venus-sprint-1">Team Venus - Sprint 1</a></h4><p>Created February 24th, 2017 To present to Startup Studio judges at Cornell Tech. Startup Studio Cornell Tech Spring 2017 FVCproductions https://fvcproduction...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=zdXsn-vM1tQ">Team Venus | Sprint 1</a></h4><p>Team Venus Cornell Tech FVCproductions No copyright intended.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=zdXsn-vM1tQ">Team Venus | Sprint 1</a></h4><p>Team Venus Cornell Tech FVCproductions No copyright intended.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Sprint 2
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/team-venus-sprint-2">Team Venus - Sprint 2</a></h4><p>Created March 31st, 2017 To showcase to Startup Studio judges at Cornell Tech. Cornell Tech Startup Studio Spring 2017 FVCproductions https://fvcproductions...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/team-venus-sprint-2">Team Venus - Sprint 2</a></h4><p>Created March 31st, 2017 To showcase to Startup Studio judges at Cornell Tech. Cornell Tech Startup Studio Spring 2017 FVCproductions https://fvcproductions...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=WRLR7sanO9M&t=30s">Team Venus | Sprint 2</a></h4><p>Cornell Tech Startup Studio Team Venus FVCproductions No copyright intended.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=WRLR7sanO9M&t=30s">Team Venus | Sprint 2</a></h4><p>Cornell Tech Startup Studio Team Venus FVCproductions No copyright intended.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Sprint 3
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/team-venus-sprint-3">Team Venus - Sprint 3</a></h4><p>Presented May 5th, 2017 To showcase to Startup Studio Sprint 3 judges at Cornell Tech. Cornell Tech Startup Studio Spring 2017 FVCproductions https://fvcpro...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/team-venus-sprint-3">Team Venus - Sprint 3</a></h4><p>Presented May 5th, 2017 To showcase to Startup Studio Sprint 3 judges at Cornell Tech. Cornell Tech Startup Studio Spring 2017 FVCproductions https://fvcpro...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=F3iBFIS5vLA&t=4s">Team Venus | Sprint 3</a></h4><p>Cornell Tech Startup Studio Spring 2017 FVCproductions No copyright intended.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=F3iBFIS5vLA&t=4s">Team Venus | Sprint 3</a></h4><p>Cornell Tech Startup Studio Spring 2017 FVCproductions No copyright intended.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Final Sprint
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/team-venus-final-presentation">Team Venus - Final Presentation</a></h4><p>Presented May 9th, 2017 To showcase to Startup Studio judges and entire study body during the final sprint at Cornell Tech. Cornell Tech Startup Studio Sprin...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/team-venus-final-presentation">Team Venus - Final Presentation</a></h4><p>Presented May 9th, 2017 To showcase to Startup Studio judges and entire study body during the final sprint at Cornell Tech. Cornell Tech Startup Studio Sprin...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=8lFuULx_QZM&t=11s">Team Venus - Final Sprint</a></h4><p>Presented on May 9th, 2017. Cornell Tech Startup Studio Spring 2017 FVCproductions No copyright intended.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=8lFuULx_QZM&t=11s">Team Venus - Final Sprint</a></h4><p>Presented on May 9th, 2017. Cornell Tech Startup Studio Spring 2017 FVCproductions No copyright intended.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Branding
@@ -107,7 +107,7 @@ Feel free to download the PDF [here](https://github.com/fvcproductions/venus-co/
 
 ## GitHub Repo
 
-<blockquote class="embedly-card"><h4><a href="https://github.com/fvcproductions/venus-co">fvcproductions/venus-co</a></h4><p>venus-co - Assets for Venus Co. | Startup Studio 💕</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/venus-co">fvcproductions/venus-co</a></h4><p>venus-co - Assets for Venus Co. | Startup Studio 💕</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---

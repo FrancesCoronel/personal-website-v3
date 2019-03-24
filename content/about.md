@@ -15,6 +15,12 @@ aliases:
   - /biography/
 ---
 
+Hi, I'm Frances!
+
+I'm a Latina (Peruvian-American) who engineers solutions to make your working life more simple, more pleasant and more productive.
+
+Or better yet, I'm a [unicorn](<https://www.wikiwand.com/en/Unicorn_(finance)>) (1% of women in tech identify as Latina) who is working for another unicorn ([Slack](https://slack.com?source=fvcproductions)). 🦄
+
 ## Blurb
 
 I like to dabble with things that ~~shouldn't~~ ought to be dabbled with.
@@ -41,9 +47,7 @@ Her passions outside of work include contributing to open-source, public speakin
 
 ![Headshot](https://i.imgur.com/NWXkplC.jpg "Frances Coronel - Headshot")
 
-> Photo taken for [TechHire Oakland](https://www.techhireoakland.org/training/)
->
-> Photo taken by [Adrian Walker](https://www.adrianowalker.com/)
+> Photo taken for [TechHire Oakland](https://www.techhireoakland.org/training/) by [Adrian Walker](https://www.adrianowalker.com/)
 
 <!-- ## Life Timeline
 

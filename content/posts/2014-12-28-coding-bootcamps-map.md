@@ -40,7 +40,7 @@ My future goals still involve making this into a full-fledged web app or having 
 
 ## Links
 
-<blockquote class="embedly-card"><h4><a href="http://bit.ly/bootcampme">Bootcamp.me - Google My Maps</a></h4><p>This map showcases in-person coding bootcamps located worldwide. The short URL for this map is "bit.ly/bootcampme". Contact me @fvcproductions on Twitter with the name, address, and website if you would like your coding bootcamp to be added. Copyright FVCproductions © 2015 - 2017</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="http://bit.ly/bootcampme">Bootcamp.me - Google My Maps</a></h4><p>This map showcases in-person coding bootcamps located worldwide. The short URL for this map is "bit.ly/bootcampme". Contact me @fvcproductions on Twitter with the name, address, and website if you would like your coding bootcamp to be added. Copyright FVCproductions © 2015 - 2017</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 - **Bootcamp.me | Mapme** [`mapme.com/coding-bootcamps`](https://mapme.com/coding-bootcamps "Bootcamp.me - Mapme")

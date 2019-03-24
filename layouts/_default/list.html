@@ -5,7 +5,6 @@
 {{ partial "hero.html" . }}
 <!-- Page -->
 <div class="section">
-  <div class="container">
     <!-- Content -->
     <div class="content table-border-none">
       <blockquote>{{ len $listPages }} {{ if gt (len $listPages) 1 }}pages{{ else }}page{{ end }}</blockquote>
@@ -22,7 +21,6 @@
         See all
         <a href="/categories/">categories</a> or <a href="/tags/">tags</a>.
       </h5>
-    </div>
   </div>
 </div>
 {{ end }}

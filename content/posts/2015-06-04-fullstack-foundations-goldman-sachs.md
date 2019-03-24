@@ -52,7 +52,7 @@ Regardless, the hard work paid off and I was selected as the winner for the [Bro
 
 This was the final submission I presented.
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=fZ1iTIHHXmE">Finalist Submission | 10K Small Businesses Student Challenge</a></h4><p>10,000 Small Businesses is one of several programs developed and supported by Goldman Sachs and the Goldman Sachs Foundation focused on accelerating the growth of high potential small businesses to create jobs and grow economies. Since its launch in 2000, the program has reached over 4,000 leaders of high-growth small businesses and social enterprises across the country.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=fZ1iTIHHXmE">Finalist Submission | 10K Small Businesses Student Challenge</a></h4><p>10,000 Small Businesses is one of several programs developed and supported by Goldman Sachs and the Goldman Sachs Foundation focused on accelerating the growth of high potential small businesses to create jobs and grow economies. Since its launch in 2000, the program has reached over 4,000 leaders of high-growth small businesses and social enterprises across the country.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 > You can view my [entry submission](https://www.youtube.com/watch?v=4a6rEjB8KH8 "Entry Submission") as well.

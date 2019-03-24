@@ -35,22 +35,22 @@ I was invited to speak about Progressive Web Apps on July 28th, 2018 at Infosys 
 
 I believe PWAs represent the next big wave of modern web standards.
 
-<blockquote class="embedly-card"><h4><a href="https://www.eventbrite.co.uk/e/a-full-stack-future-registration-47706682973#">A Full Stack Future</a></h4><p>Eventbrite - Infosys presents A Full Stack Future - Saturday, July 28, 2018 at Infosys Palo Alto, Palo Alto, CA. Find event and registration information.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.eventbrite.co.uk/e/a-full-stack-future-registration-47706682973#">A Full Stack Future</a></h4><p>Eventbrite - Infosys presents A Full Stack Future - Saturday, July 28, 2018 at Infosys Palo Alto, Palo Alto, CA. Find event and registration information.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Feedback
 
 Great feedback! A couple of people, mostly students, reached out to me afterward with questions.
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/spiritandwine/status/1023334183249145856">Mark Buckley on Twitter</a></h4><p>@fvcproductions giving a presentation at @Infosys to a room of #fullstack #developers talking about Progressive Web Applications #mobileweb will win!</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/spiritandwine/status/1023334183249145856">Mark Buckley on Twitter</a></h4><p>@fvcproductions giving a presentation at @Infosys to a room of #fullstack #developers talking about Progressive Web Applications #mobileweb will win!</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"><h4><a href="https://twitter.com/spiritandwine/status/1023335230533332992">Mark Buckley on Twitter</a></h4><p>@fvcproductions push notification via #mobileweb via #pwa is going to be the future no need to use Swift or Kotlin to program for specific platform #fullstack</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/spiritandwine/status/1023335230533332992">Mark Buckley on Twitter</a></h4><p>@fvcproductions push notification via #mobileweb via #pwa is going to be the future no need to use Swift or Kotlin to program for specific platform #fullstack</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Slides
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/a-fullstack-future-progressive-web-apps">A Fullstack Future - Progressive Web Apps</a></h4><p>Expert Silicon Valley technologists deliver keynotes that help fullstack developers prepare for the next decade of programming. I was invited to speak about Pr...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/a-fullstack-future-progressive-web-apps">A Fullstack Future - Progressive Web Apps</a></h4><p>Expert Silicon Valley technologists deliver keynotes that help fullstack developers prepare for the next decade of programming. I was invited to speak about Pr...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <!-- > To Note

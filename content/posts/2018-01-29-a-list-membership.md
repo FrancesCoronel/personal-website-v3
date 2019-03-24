@@ -15,5 +15,5 @@ They built an algorithm that selects recently active candidates and gives them a
 
 A-List is currently only for for top software engineers & designers open to full time opportunities in SF & NY.
 
-<blockquote class="embedly-card"><h4><a href="https://alist.co/">A-List</a></h4><p>null</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://alist.co/">A-List</a></h4><p>null</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

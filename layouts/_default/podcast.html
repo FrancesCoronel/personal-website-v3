@@ -4,30 +4,49 @@
 <!-- Page -->
 {{ $podcast := ($.Site.Taxonomies.categories.podcast).Pages }}
 <div class="section">
-  <div class="container">
-    <div class="content">
-      <h2>🎧 Available on</h2>
-      <div class="section-podcast-listen">
-        <a href="https://anchor.fm/tech-queens" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/anchor.svg" alt="Tech Queens on Anchor" title="Tech Queens on Anchor"></a>
-        <!-- <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yOGZhMmY4L3BvZGNhc3QvcnNz" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/google-podcasts.svg" alt="Tech Queens on Google Podcasts" title="Tech Queens on Google Podcasts"></a> -->
-        <a href="https://itunes.apple.com/us/podcast/tech-queens/id1456016938" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/apple-podcasts.svg" alt="Tech Queens on Apple Podcasts" title="Tech Queens on Apple Podcasts"></a>
-        <a href="https://pca.st/v7OE" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/pocket-casts.svg" alt="Tech Queens on Pocket Casts" title="Tech Queens on Pocket Casts"></a>
+  <div class="content">
+    <h2>🎧 Available on</h2>
+    <div class="section-banners u-flex--center mt-2">
+      <a href="https://anchor.fm/tech-queens" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/anchor.jpg" alt="Tech Queens on Anchor" title="Tech Queens on Anchor"></a>
+      <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yOGZhMmY4L3BvZGNhc3QvcnNz" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/google-podcasts.jpg" alt="Tech Queens on Google Podcasts" title="Tech Queens on Google Podcasts"></a>
+      <a href="https://open.spotify.com/show/7l8cX4bI4aLvWqIr4lqzXh" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/spotify.jpg" alt="Tech Queens on Spotify" title="Tech Queens on Spotify"></a>
+      <a href="https://itunes.apple.com/us/podcast/tech-queens/id1456016938" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/apple-podcasts.jpg" alt="Tech Queens on Apple Podcasts" title="Tech Queens on Apple Podcasts"></a>
+      <a href="https://pca.st/v7OE" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/pocket-casts.jpg" alt="Tech Queens on Pocket Casts" title="Tech Queens on Pocket Casts"></a>
+      <a href="https://anchor.fm/s/28fa2f8/podcast/rss" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/rss.jpg" alt="Tech Queens - RSS Feed" title="Tech Queens - RSS Feed"></a>
+      <!--
         <a href="https://anchor.fm/s/28fa2f8/podcast/rss" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/rss.svg" alt="Tech Queens - RSS Feed" title="Tech Queens - RSS Feed"></a>
+        <a href="https://anchor.fm/s/28fa2f8/podcast/rss" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/rss.svg" alt="Tech Queens - RSS Feed" title="Tech Queens - RSS Feed"></a>
+        <a href="https://anchor.fm/s/28fa2f8/podcast/rss" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/rss.svg" alt="Tech Queens - RSS Feed" title="Tech Queens - RSS Feed"></a>
+        <a href="https://anchor.fm/s/28fa2f8/podcast/rss" target="_blank" rel="noopener"><img src="/assets/img/podcast/listen/rss.svg" alt="Tech Queens - RSS Feed" title="Tech Queens - RSS Feed"></a> -->
+    </div>
+    <h2>🎙️ Episodes</h2>
+    <!-- <p>🎙️{{ len $podcast }} episodes so far</p> -->
+    <blockquote>A new episode every month!</blockquote>
+    <div class="columns is-multiline">
+      {{ range $podcast.ByDate.Reverse }}
+      <div class="column is-half-tablet is-one-half-desktop is-one-half-widescreen is-one-half-fullhd">
+        {{ partial "card.html" . }}
       </div>
-      <h2>🎙️ Episodes</h2>
-      <!-- <p>🎙️{{ len $podcast }} episodes so far</p> -->
-      <div class="columns is-multiline">
-        {{ range $podcast.ByDate.Reverse }}
-        <div class="column is-half-tablet is-one-half-desktop is-one-half-widescreen is-one-half-fullhd">
-          {{ partial "card.html" . }}
-        </div>
-        {{ end }}
+      {{ end }}
+    </div>
+    <!-- Content -->
+    {{ partial "content.html" . }}
+    <h2>ℹ️ More Info</h2>
+    <!-- Children -->
+    <div class="columns is-multiline">
+      <!-- Defining Pages -->
+      {{ $paginator := .Paginator.Pages }}
+      <!-- Union -->
+      {{ $pages := $paginator | union (.Sections) }}
+      <!-- Looping -->
+      {{ range $pages.ByTitle }}
+      <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
+        {{ partial "card.html" . }}
       </div>
-      <br>
-      <!-- Content -->
-      {{ partial "content.html" . }}
-      <br>
+      {{ end }}
     </div>
   </div>
 </div>
+<!-- Footer -->
+{{ partial "footer/_index.html" . }}
 {{ end }}

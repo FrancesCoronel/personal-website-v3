@@ -15,7 +15,7 @@ As part of a health project, my team and I tackled the effects of texting while 
 
 We wrote a 27-page paper on the effects of texting while driving.
 
-<blockquote class="embedly-card"><h4><a href="https://www.scribd.com/document/227095609/Texting-While-Driving-Full-Paper">Texting While Driving Full Paper</a></h4><p>Texting While Driving Full Academic Paper FVCproductions Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright 2014 Don't forget to like and/or comment! :)</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.scribd.com/document/227095609/Texting-While-Driving-Full-Paper">Texting While Driving Full Paper</a></h4><p>Texting While Driving Full Academic Paper FVCproductions Where we upload for YOUR viewing pleasure, And are looking forward to future endeavor. Enjoy and spread the joy. Copyright 2014 Don't forget to like and/or comment! :)</p></blockquote>
 
 ## Flyer
 
@@ -31,11 +31,11 @@ The introduction video was made using Reflector, an application which recorded t
 
 ### SlideShare
 
-<blockquote class="embedly-card"><h4><a href="https://www.slideshare.net/FVCproductions/texting-while-driving-82133379">Texting While Driving</a></h4><p>Published April 8th, 2014 Presentation for the capstone project for HEA 200 class at Hampton University. HEA 200 Health Hampton University Spring 2014 --- FVCp...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/texting-while-driving-82133379">Texting While Driving</a></h4><p>Published April 8th, 2014 Presentation for the capstone project for HEA 200 class at Hampton University. HEA 200 Health Hampton University Spring 2014 --- FVCp...</p></blockquote>
 
 ### YouTube
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=CcT0GtqPZuw">Texting While Driving</a></h4><p>Texting While Driving Health Project Spring 2014 FVCproductions No copyright intended.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=CcT0GtqPZuw">Texting While Driving</a></h4><p>Texting While Driving Health Project Spring 2014 FVCproductions No copyright intended.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Pictures

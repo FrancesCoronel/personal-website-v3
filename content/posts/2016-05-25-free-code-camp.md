@@ -25,7 +25,7 @@ tags:
 
 Invited to speak for FreeCodeCamp Norfolk's group on how to get started as a developer.
 
-<blockquote class="embedly-card"><h4><a href="https://speakerdeck.com/fvcproductions/so-you-want-to-be-a-wizard-free-code-camp-norfolk">So You Want To Be A Wizard | Free Code Camp Norfolk</a></h4><p>We had a fantastic turn out last night at the Meetup and it was great to meet so many new faces. Next month we'll have more of a quick lightning talk, and will be coding as a group through a couple of algorithms. It will be a great learning experience.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://speakerdeck.com/fvcproductions/so-you-want-to-be-a-wizard-free-code-camp-norfolk">So You Want To Be A Wizard | Free Code Camp Norfolk</a></h4><p>We had a fantastic turn out last night at the Meetup and it was great to meet so many new faces. Next month we'll have more of a quick lightning talk, and will be coding as a group through a couple of algorithms. It will be a great learning experience.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Facebook Posts

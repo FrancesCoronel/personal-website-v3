@@ -158,7 +158,7 @@ The certificate itself is actually nothing more than a showcasing of all the des
 
 ![Designlab - Behance Preview](https://lh3.googleusercontent.com/RztsSYh-vieyj-KxbAJVYF2i5WFf5QUVpVSg-GcAmeOhvOouDoE1bC8vTFdafTufuMqf9MIf7IItdenzrLizuuzelfg5WdD4-f2mSVWOsXPyrKEOtwV5SxoJTwxatRd2RqXigjFZKxWuTtAKvzqWtYInt3PjbhfvZeQrIyopyN05pGwNJyVwHkUhIBPviJq8Y5i036Sc-xUqQHpEcmS7SW5iffkzf_ecoaRbRmbP22S5qd9fsUzugPytW19kIoZtWuzTwS2unsmB2-LH2brvcwtS4wmeZoSYnpp1SHPxXlIR0FhuPsBXW-tZ7iayx4HYJ3LkNYhLp_i4vSvSgBeucMzqUJMQquyAO6fTshw9F64hkZyAN3F8hqfYq0nofBV6GvSBSkjHvLpDMOqEtK0lGsO3hvQfihVX-LGCDLWWbOx9u-v-fJFndEwVuVruKJvbKD2jOV82hLTu359JgSqF1yp3mNVJ-0t-6s5B7mXOOwH190B861DU5BuiboUOH7z4Nz1UMayz7DQbpvCNOy5AyfDcawnqCEWtwazfdIAziGCpUIwczVo1Qan6ZZIKfocL3zTsVZtJj7pqtgQDsAkmqWAoP4bVS4f5jFNhGTSAlBeI0jLi-K8dWPCflZ_dPDJ7=w1024-h768-no)
 
-<blockquote class="embedly-card"><h4><a href="https://trydesignlab.com/profile/fvcproductions/">fvcproductions's Profile | Designlab</a></h4><p>fvcproductions's profile on Designlab. Designlab is the best way to learn UI & UX design skills online.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://trydesignlab.com/profile/fvcproductions/">fvcproductions's Profile | Designlab</a></h4><p>fvcproductions's profile on Designlab. Designlab is the best way to learn UI & UX design skills online.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### SuperGood
