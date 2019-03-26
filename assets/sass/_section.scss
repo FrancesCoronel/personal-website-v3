@@ -15,13 +15,6 @@
 }
 
 .section-banners {
-  img {
-    height: 60px;
-
-    &:hover {
-      @extend %material-shadow;
-    }
-  }
 
   a {
     text-decoration: none;
@@ -29,6 +22,34 @@
 
     &:hover {
       border-bottom: none;
+    }
+  }
+
+  img {
+    &:hover {
+      @extend %material-shadow;
+    }
+  }
+
+
+  &.v--podcast {
+
+    a {
+      margin: 0 .5em;
+    }
+
+    img {
+      height: 60px;
+
+      @media screen and (max-width: $tablet) {
+        height: 50px
+      }
+    }
+
+    justify-content: start;
+
+    @media screen and (max-width: $tablet) {
+      justify-content: center;
     }
   }
 
