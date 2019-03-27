@@ -23,7 +23,7 @@ languageCode                         = "en-US"
 # RSS
 [outputs]
     home                             = ["HTML", "RSS"]
-    page                             = ["HTML"]
+    page                             = ["HTML", "AMP"]
 
 # Output Formats
 [outputFormats]
