@@ -1,22 +1,28 @@
 ---
-title: Techqueria.org
-description: Open Source Developer 🌮
+title: Techqueria
+description: Board Member, Open Source Lead, Slack Workspace Owner & Admin 🌮
 date: 2018-04-24
 image: https://i.imgur.com/VMrVGbe.png
 aliases:
   - /2018/09/20/techquerias-new-website-launched/
   - /2018/04/24/techqueria/
   - /2018/04/24/techqueria.org/
+  - /techqueria/
+  - /techqueria.org/
 categories:
   - portfolio
   - volunteering
-  - program
+  - experience
 tags:
   - open source
   - latinx in tech
 ---
 
 > Techqueria is one of the largest communities of Latinx professionals in the tech industry.
+
+## March 27th, 2019
+
+Officially voted in as a a board member - the 9th one! Hurray! 🎉
 
 ## February 18th, 2019
 
@@ -117,3 +123,9 @@ Source code can be found at https://github.com/techqueria/website.
 
 <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/techqueria/website">techqueria/website</a></h4><p>New website for the techqueria community</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+## August 29, 2017
+
+Joined the Techqueria Slack Workspace
+
+[![Techqueria Slack Workspace](https://i.imgur.com/xGKYNnB.png)](https://latinos.slack.com/archives/C0L45RV3Q/p1504037258000428)

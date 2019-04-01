@@ -1,5 +1,5 @@
 ---
-title: "#GoBeyondResumes Live Episode"
+title: "Go Beyond Resumes Live Episode"
 date: 2019-03-26
 location: CodeSignal HQ - San Francisco, CA
 image: https://i.imgur.com/Rsh6PTx.jpg
