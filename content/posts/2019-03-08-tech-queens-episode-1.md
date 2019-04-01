@@ -9,6 +9,7 @@ url: /tech-queens/episode-1/
 toc: true
 aliases:
   - /podcast/episode-1/
+  - /episode-1/
 categories:
   - podcast
 tags:

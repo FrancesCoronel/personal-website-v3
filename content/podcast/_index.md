@@ -27,7 +27,7 @@ Introducing **Tech Queens**, the first and only podcast I know of that will sole
 
 The very first episode was released March 8th for International Women's Day so it's still very much in its early stages which is why I am currently looking for interviewees that are working in the tech industry.
 
-If you're interested, fill out the [contat form](/tech-queens/contact-form/) and I'll get back to you ASAP.
+If you're interested, fill out the [contact form](/tech-queens/contact-form/) and I'll get back to you ASAP.
 
 ## 💻 Who is this podcast for?
 

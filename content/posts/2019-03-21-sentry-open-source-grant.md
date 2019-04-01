@@ -11,9 +11,12 @@ tags:
   - open source
 ---
 
-## Blog Post Announcing Winner
+## Announcing Winner
 
 <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://blog.sentry.io/2019/03/22/congratulations-sentry-open-source-grant-recipient">Congratulations to Sentry's Open Source Grant Recipient</a></h4><p>Thank you to everyone who applied - we sincerely appreciate the time and effort spent detailing your open source hopes and dreams.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/getsentry/status/1109139335700344832">Sentry on Twitter</a></h4><p>🎉 Congratulations to Sentry's Open Source Grant recipient: @fvcproductions with @TechqueriaSF 🌮! Thank you to all who applied - we loved reading about your projects. Read more details about Frances and Techqueria as well as our honorable mentions: https://t.co/EgwhwHHKIa</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Application

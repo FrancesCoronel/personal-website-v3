@@ -8,7 +8,13 @@ podcastEmail: true
 noContentClass: true
 hideImage: true
 url: /shop/
+aliases:
+  - /store/
+  - /buy/
+  - /purchase/
 ---
+
+## Limited Time Only: Use promo code `welcome-100573005` for 15% off
 
 <div id="myShop">
   <a href="https://shop.spreadshirt.com/fvcproductions">View products for Tech Queens through Spreadshirt</a>
