@@ -13,4 +13,4 @@ tags:
   - gobeyondresumes
 ---
 
-![GoBeyondResumes Post](https://imgur.com/4YKMWEc)
+![GoBeyondResumes Post](https://imgur.com/4YKMWEc.png)
