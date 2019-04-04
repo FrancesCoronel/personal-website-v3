@@ -40,7 +40,7 @@ While working at 80|20 Software Consulting, now Array Digital, I volunteered to 
 
 I helped develop the sponsor prospectus, flyers, and helped out with registration in-person at the conference as well as confernece chaperoning.
 
-RevolutionConf is a two-day, platform and language agnostic, software development conference in VA Beach. It hosts talks from regional, national, and international thought leaders. RevolutionConf is organized and supported by the board members of RevolutionVA, a 501c3 non-profit based in Norfolk, VA. The goal of RevolutionVA is to unite software developers in the mid-Atlantic region through conferences, and career and learning opportunities.
+RevolutionConf is a two-day, platform and language agnostic, software development conference in VA Beach. It hosts talks from regional, national, and international thought leaders. RevolutionConf is organized and supported by the board members of RevolutionVA, a 501c3 nonprofit based in Norfolk, VA. The goal of RevolutionVA is to unite software developers in the mid-Atlantic region through conferences, and career and learning opportunities.
 
 ![RevolutionConf Picture](https://i.imgur.com/u61eySJ.png)
 
@@ -116,7 +116,7 @@ In the end, as a Norfolk native, I want people from all over the nation to event
 
 And I believe [RevolutionConf](https://revolutionconf.com) is taking us one step closer to that.
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://revolutionconf.com">RevolutionConf 2017</a></h4><p>RevolutionConf is a two-day, platform and language agnostic, software development conference being held on June 1-2, 2017 in Virginia Beach, VA. We are a 501c3 non-profit that formed specifically for running this and other great events for software developers in the area.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://revolutionconf.com">RevolutionConf 2017</a></h4><p>RevolutionConf is a two-day, platform and language agnostic, software development conference being held on June 1-2, 2017 in Virginia Beach, VA. We are a 501c3 nonprofit that formed specifically for running this and other great events for software developers in the area.</p></blockquote>
 
 <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/revconf">RevolutionConf (@revconf) | Twitter</a></h4><p>The latest Tweets from RevolutionConf (@revconf). May 17-18, 2018 in Virginia Beach, VA. Organized by @1kevgriff, @lynnaloo, @erikpmp. Virginia Beach, VA</p></blockquote>
 

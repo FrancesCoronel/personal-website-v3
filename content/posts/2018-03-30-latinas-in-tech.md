@@ -9,7 +9,7 @@ tags:
   - latinas
 ---
 
-Latinas in Tech is a non-profit organization with the mission to connect, support and empower Latina women working in tech.
+Latinas in Tech is a nonprofit organization with the mission to connect, support and empower Latina women working in tech.
 
 ## March 2018
 

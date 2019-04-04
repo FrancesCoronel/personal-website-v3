@@ -13,14 +13,10 @@ aliases:
   - /home/services/mentoring/
 ---
 
-## I enjoy mentoring folks through non-profit organizations trying to enact change in the tech industry.
+## I enjoy mentoring folks through nonprofit organizations trying to enact change in the tech industry.
 
-Generally speaking, I enjoy mentoring on how to prepare for coding bootcamps but I have teachable experience in web development, web design, and all sorts of nifty dev, design, or productivity tools.
+Generally speaking, I enjoy providing career advice although I have teachable experience in web development & web design.
 
-So far, I've helped out folks who have successfully gone on to coding bootcamps like [Fullstack Academy](https://fullstackacademy.com), [Hack Reactor](https://hackreactor.com), and [MakerSquare](https://makersquare.com).
+I've also had the opportunity to tutor folks at all ages (elementary school to adulthood) on how to get started in the tech field.
 
-I've also tutored kids at the elementary, middle, and high school level on how to get started in the tech field.
-
-### Feedback
-
-You can find [the feedback I've received](/feedback/ "Feedback") thus far on my website!
+You can find [the feedback I've received thus far](/reviews/ "Feedback") on my website and if you're interested in being mentored, you can [contact me](/contact/ "Contact Me").

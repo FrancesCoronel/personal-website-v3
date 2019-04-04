@@ -181,7 +181,7 @@ AND THANKFULLY, my parents and I have never had to take a single loan out either
 - privileged folks not understanding why "affirmative action" is needed
 - the ridiculous amount of money that is required to get a "good" education that has led to student debt being at an all-time high
 - the lack of accountability from schools to help students find a job
-- the abundance of non-profit schools and shitty coding bootcamp programs that are taking advantage of hopeful but "poor unfortunate souls"
+- the abundance of nonprofit schools and shitty coding bootcamp programs that are taking advantage of hopeful but "poor unfortunate souls"
 
 ## TLDR;
 

@@ -9,7 +9,7 @@ tags:
   - women in tech
 ---
 
-Women Who Code is a global non-profit organization dedicated to inspiring women to excel in technology careers.
+Women Who Code is a global nonprofit organization dedicated to inspiring women to excel in technology careers.
 
 ## July 2015
 

@@ -45,7 +45,7 @@ I had known of Startup Grind for some time now but I'm not one for attending con
 
 Thankfully, I've been part of this amazing organization - [Women Who Code](https://www.womenwhocode.com) - for about 3 years now and I knew they gave away free tickets for big events like this.
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.womenwhocode.com">Women Who Code | Welcome</a></h4><p>Women Who Code (WWCode) is a global 501(c)(3) non-profit organization dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion - the world of technology is much better with women in it.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.womenwhocode.com">Women Who Code | Welcome</a></h4><p>Women Who Code (WWCode) is a global 501(c)(3) nonprofit organization dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion - the world of technology is much better with women in it.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 So I [applied for a free ticket](https://www.linkedin.com/embed/feed/update/urn:li:activity:6366132486338150400) and I got it! Huzzah! 💛

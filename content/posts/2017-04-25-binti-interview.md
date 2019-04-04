@@ -33,7 +33,7 @@ description: Notes from my interview with Binti
   different systems --> legacy system
 - SF had used Excel --> master spreadsheet --> they try 1 or 2 vendors every
   year
-- CaseCommons --> non-profit custom software development for states and counties
+- CaseCommons --> nonprofit custom software development for states and counties
   and cities
 - 712K in revenue for 2017, big discounts for early customers --> need to charge
   more --> 50% of subsidies came from gov.
