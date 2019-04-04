@@ -47,7 +47,7 @@
     "twemoji": "11.3.0",
     "webpack": "4.29.6",
     "workbox-webpack-plugin": "4.2.0",
-    "snyk": "1.144.0"
+    "snyk": "1.147.3"
   },
   "snyk": true
 }
