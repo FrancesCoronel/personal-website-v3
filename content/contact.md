@@ -16,15 +16,18 @@ aliases:
   - /donate/
 ---
 
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<!-- Calendly link widget end -->
+
 ## LinkedIn 💼️
 
 If you'd like to stay in touch professionally, don't hesitate to [connect with me on LinkedIn](https://linkedin.com/in/fvcproductions).
 
 ## Book a Chat 📅
 
-If you'd like to set up a phone or video chat, you can use my [Calendly](https://calendly.com/fvcproductions) to book a time with me.
-
-If you are looking for technical help, you can message me on [Codementor](https://www.codementor.io/fvcproductions).
+You can <a href="" onclick="Calendly.showPopupWidget('https://calendly.com/fvcproductions');return false;">schedule a time to chat with me</a> using <a href="https://calendly.com/fvcproductions" target="_blank" rel="noopener">my Calendly</a>.
 
 ## Ask Me Anything (AMA) 🤔️
 

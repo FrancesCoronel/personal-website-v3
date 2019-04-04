@@ -32,18 +32,18 @@ table {
   .v--home__date {
     font-weight: 500;
     padding-left: 0 !important;
-    width: 35%;
+    width: 30%;
 
     @media screen and (min-width: $mobile) {
-      width: 30%;
-    }
-
-    @media screen and (min-width: $tablet) {
       width: 25%;
     }
 
-    @media screen and (min-width: $desktop) {
+    @media screen and (min-width: $tablet) {
       width: 20%;
+    }
+
+    @media screen and (min-width: $desktop) {
+      width: 15%;
     }
   }
 
@@ -114,4 +114,11 @@ body,
 .pagination-link,
 .pagination-ellipsis {
   font-size: inherit;
+}
+
+// Calendly
+@media screen and (max-width: $mobile) {
+  .calendly-badge-widget {
+    display: none;
+  }
 }

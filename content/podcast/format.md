@@ -232,3 +232,12 @@ The design assets can be downloaded using [this Figma link](https://www.figma.co
 The crown emoji 👑 is attributed to Twitter. Copyright 2018 Twitter, Inc and other contributors. Graphics licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/.
 
 Music by Jukedeck - create your own at [jukedeck.com](https://jukedeck.com).
+
+---
+
+## Sanity Check
+
+- How are you feeling? Nervous, excited?
+- Are you in a quiet place?
+- Remember, if you need to start over - just let me know and we can start from the top
+- If you forget to define something, I'll let you know in the form of the question

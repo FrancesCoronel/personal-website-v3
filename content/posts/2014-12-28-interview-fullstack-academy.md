@@ -78,5 +78,5 @@ When I did end up asking Huntly some questions, here what's he had to say:
 Now here are some logistics for reference:
 
 - Once you're accepted and offered a spot in whatever cohort you applied to, you're formally given a week or so after to register and secure a deposit once they've given you enrollment instructions. If you don't answer by then, they'll release your spot and will also require you to re-apply after a month or so after.
-- Securing a deposit of \$2K assures you have access to their ‘Fullstack Foundations', which is a 120 hour virtual course that acts as the pre-work to the Fullstack main curriculum onsite and also secures your spot in the class.
+- Securing a deposit of <!-- prettier-ignore -->$2K assures you have access to their ‘Fullstack Foundations', which is a 120 hour virtual course that acts as the pre-work to the Fullstack main curriculum onsite and also secures your spot in the class.
 - Thankfully, I applied early and once I was accepted, I was required to meet with one the founders, [Nimit](https://twitter.com/nimit "Nimit - Founder @Fullstack"). He understood my situation that I wasn't quite decided as to what I was doing yet, so I'll be talking with him in late January again to see what my plans are from there.
