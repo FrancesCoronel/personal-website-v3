@@ -2,7 +2,7 @@
   <div class="container has-text-centered">
     <div class="content">
       <div class="section">
-        <div class="u-flex--center">
+        <div class="u-flex--center u-justify-content--centered footer-links">
           {{ $parentPages := where .Site.RegularPages "Type" "page" }}
           {{ $footerPages := $parentPages | union (.Site.Sections) }}
           {{ range $footerPages.ByTitle }}

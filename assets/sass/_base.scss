@@ -115,10 +115,3 @@ body,
 .pagination-ellipsis {
   font-size: inherit;
 }
-
-// Calendly
-@media screen and (max-width: $mobile) {
-  .calendly-badge-widget {
-    display: none;
-  }
-}
