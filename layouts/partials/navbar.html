@@ -1,9 +1,9 @@
 <div class="section pt-3 pb-1">
   <div class="container">
-    <nav class="navigation" aria-label="Primary Navigation">
-      <a href="/" class="logo mb-sm is-size-3">
+    <nav aria-label="Primary Navigation" class="navigation">
+      <a class="logo mb-sm is-size-3" href="/">
         <span class="symbol">
-          <img src="/assets/img/logo.svg" alt="FVCproductions - Logo">
+          <img alt="FVCproductions - Logo" data-src="/assets/img/logo.svg" loading="lazy" src="/assets/img/logo.svg">
         </span>
         <span class="header">
           {{ .Site.Title }}
@@ -13,11 +13,17 @@
         {{ $parentPages := where .Site.RegularPages "Type" "page" }}
         {{ $homePages := $parentPages | union (.Site.Sections) }}
         {{ range $homePages.ByTitle }}
-        {{ if .Params.navbar }}
-        <li class="nav-item"><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="menu-item is-size-3">
-            {{ if .Params.display }}{{ .Params.display }}{{ else }}{{ .Title }}{{ end }}
-          </a></li>
-        {{ end }}
+          {{ if .Params.navbar }}
+            <li class="nav-item">
+              <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="menu-item is-size-3">
+                {{ if .Params.display }}
+                  {{ .Params.display }}
+                {{ else }}
+                  {{ .Title }}
+                {{ end }}
+              </a>
+            </li>
+          {{ end }}
         {{ end }}
       </ul>
     </nav>

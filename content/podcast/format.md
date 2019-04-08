@@ -22,10 +22,11 @@ Feel free to share this with other women of color in tech who you think might be
 1. Connect with me on LinkedIn 💬
 2. Setup a Calendly meeting with me to schedule the recording 📆
 3. Send me the SVG file of your avatar created from the generator 🖼️
-4. Go over the questions, guidelines & recommendations 📝
-5. Record the podcast episode with me 🎙️
-6. Once the episode is published, share on social media & celebrate 🎉
-7. If you want, you can also buy swag for yourself or friends & family 🛒
+4. Send me a high-res photo of yourself 📸
+5. Go over the questions, guidelines & recommendations 📝
+6. Record the podcast episode with me 🎙️
+7. Once the episode is published, share on social media & celebrate 🎉
+8. If you want, you can also buy swag for yourself or friends & family 🛒
 
 ## Before
 
@@ -57,7 +58,11 @@ This avatar will be used to create the banner like the one below for the episode
 
 Send me the SVG file of your finished avatar via LinkedIn.
 
-### 4. Share on social media
+### 4. Send me a high-res photo of yourself
+
+I will feature this image in the episode link so everyone can see your lovely face!
+
+### 5. Share on social media
 
 Share the news that you’ll be on the podcast on your social media platforms.
 
@@ -71,12 +76,24 @@ You can find image assets and social media templates below in the social media s
 
 The questions I will ask will be something along the lines of this:
 
-- What's your story?
-- As a minority women in tech, what challenges or obstacles have you faced within the tech industry?
+- What’s your story?
+- What are you currently doing?
+- Where is your family from?
+- What was your favorite part about growing up?
+- What do you like to do for fun? What are you passionate about outside of work/school?
+- What experiences drew you to the field of technology?
+- As a minority woman in tech, what challenges or obstacles have you faced within the tech industry?
 - What groups, strategies or tools have you used to overcome those obstacles?
 - If you were a white man in tech, what do you think would be easier for you to deal with (if anything)?
 - If you could give any advice to your younger self as you were starting out, what would it be?
 - What do you think can be done to create a safer space for us?
+- If you were in a position of power at a tech company, what’s the first thing you would do to create a more inclusive space?
+- How does your intersectional identity affect how you relate to women in tech groups?
+- What woman inspires you and why?
+- What do they believe that young women need to know/hear/see to consider technology as a career option?
+- How can a more privileged ally help out? What can they do to educate themselves better on our issues?
+- Is there anything I left out that you’d like to address?
+- Any call to actions you want to share?
 
 #### Mini Takeaways
 
@@ -217,11 +234,11 @@ You probably won’t need them since including the website on social media will 
 
 ### Tech Queens Banner
 
-<a href="/assets/img/podcast/tech-queens-banner.jpg" download><img src="/assets/img/podcast/tech-queens-banner.jpg" alt="Tech Queens Banner"></a>
+<a href="/assets/img/podcast/tech-queens-banner.jpg" download><img data-src="/assets/img/podcast/tech-queens-banner.jpg" class="lozad" loading="lazy" src="/assets/img/podcast/tech-queens-banner.jpg" alt="Tech Queens Banner"></a>
 
 ### Tech Queens Square
 
-<a href="/assets/img/podcast/tech-queens-square.jpg" download><img src="/assets/img/podcast/tech-queens-square.jpg" alt="Tech Queens Square"></a>
+<a href="/assets/img/podcast/tech-queens-square.jpg" download><img data-src="/assets/img/podcast/tech-queens-banner.jpg" class="lozad" loading="lazy" src="/assets/img/podcast/tech-queens-square.jpg" alt="Tech Queens Square"></a>
 
 ## Credits
 

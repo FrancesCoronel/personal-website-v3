@@ -137,4 +137,4 @@ Space is limited, so reserve your spot today. Gracias to Twitter for hosting us.
 
 ### Analytics
 
-<iframe src="https://infographics.sli.do/?i=M2NmZWU5OGMtNDllZC00YWQ1LThhYTctZWEwNmM3N2U2MjI3" frameborder="0" width="100%" style="height:50em;"></iframe>
+<iframe loading="lazy" src="https://infographics.sli.do/?i=M2NmZWU5OGMtNDllZC00YWQ1LThhYTctZWEwNmM3N2U2MjI3" frameborder="0" width="100%" style="height:50em;"></iframe>

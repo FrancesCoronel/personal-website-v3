@@ -1,21 +1,34 @@
 {{ $pageLinksPresent := or (in .Params.categories "speaking") (in .Params.categories "talk") (.Params.slides) (.Params.pdf) (.Params.video) (.Params.recording) }}
 {{ $categoriesOrTagsPresent := or (.Params.categories) (.Params.tags) }}
 <div class="card card-equal-height">
-  <a class="reset" aria-label="{{ .Title }}" {{ if .Params.internalLink }}href="{{ .Params.internalLink }}"{{ else if .Params.externalLink }}href="{{ .Params.externalLink }}" target="_blank"{{ else }}href="{{ .RelPermalink }}"{{ end }} rel="noopener">
+  <a
+    class="reset" aria-label="{{ .Title }}" {{ if .Params.internalLink }} href="{{ .Params.internalLink }}" {{ else if .Params.externalLink }} href="{{ .Params.externalLink }}" target="_blank" {{ else }} href="{{ .RelPermalink }}" {{ end }} rel="noopener">
     <!-- Image -->
     {{ if .Params.image }}
-    <div class="card-image">
-      <figure class="image card-image--figure">
-        <img src="{{ .Params.image }}" data-src="{{ .Params.image }}" alt="{{ .Title }}" class="lozad">
-      </figure>
-    </div>
+      <div class="card-image">
+        <figure class="image card-image--figure">
+          <img src="{{ .Params.image }}" loading="lazy" data-src="{{ .Params.image }}" alt="{{ .Title }}" class="lozad">
+        </figure>
+      </div>
     {{ end }}
     <div class="media-content {{ if $pageLinksPresent }}pb-sm{{ end }}">
-      <div class="content">
+      <div
+        class="content">
         <!-- Title -->
-        <h3 class="is-size-3">{{ if not (.Params.hideUpcomingText) }}{{ if .Date.After now }}UPCOMING: {{ end }}{{ end }}{{ .Title }}</h3>
+        <h3 class="is-size-3">
+          {{ if not (.Params.hideUpcomingText) }}
+            {{ if .Date.After now }}UPCOMING:
+            {{ end }}
+          {{ end }}
+          {{ .Title }}</h3>
         <!-- Description -->
-        <p class="subtitle has-text-grey-dark">{{ if .Description }}{{ .Description | truncate 150 | safeHTML }}{{ else }}{{ .Summary | truncate 150 | safeHTML }}{{ end }}</p>
+        <p class="subtitle has-text-grey-dark">
+          {{ if .Description }}
+            {{ .Description | truncate 150 | safeHTML }}
+          {{ else }}
+            {{ .Summary | truncate 150 | safeHTML }}
+          {{ end }}
+        </p>
         <!-- Info -->
         {{- partial "page-info.html" . -}}
       </div>
@@ -23,18 +36,18 @@
   </a>
   <!-- Links -->
   {{ if $pageLinksPresent }}
-  <div class="media-content pt-0 {{ if $categoriesOrTagsPresent }}pb-sm{{ else }}pb-1{{ end }}">
-    <div class="content">
-      {{- partial "page-links.html" . -}}
+    <div class="media-content pt-0 {{ if $categoriesOrTagsPresent }}pb-sm{{ else }}pb-1{{ end }}">
+      <div class="content">
+        {{- partial "page-links.html" . -}}
+      </div>
     </div>
-  </div>
   {{ end }}
   <!-- Taxonomy -->
   {{ if $categoriesOrTagsPresent }}
-  <div class="media-content pt-1">
-    <div class="content">
-      {{ partial "taxonomy.html" . }}
+    <div class="media-content pt-1">
+      <div class="content">
+        {{ partial "taxonomy.html" . }}
+      </div>
     </div>
-  </div>
   {{ end }}
 </div>

@@ -42,9 +42,9 @@ The My Social Canvas DesignHackathon will bring together students who are pursui
 - We believe getting women interested and involved in STEM fields is vital to the industries and creates a well balanced and educated society
 - Through our cases, we want to give young women and girls a tangible way to showcase their passion for interests through fashion accessories
 
-<img href="https://mysocialcanvas.com/designhackathon/" src="https://static1.squarespace.com/static/57752b91c534a5929ff9177d/t/57894c6920099eb5a807d43b/1468615801024/?format=1500w"/>
+<img class="lozad" loading="lazy" href="https://mysocialcanvas.com/designhackathon/" data-src="https://static1.squarespace.com/static/57752b91c534a5929ff9177d/t/57894c6920099eb5a807d43b/1468615801024/?format=1500w" src="https://static1.squarespace.com/static/57752b91c534a5929ff9177d/t/57894c6920099eb5a807d43b/1468615801024/?format=1500w"/>
 
-<img href="https://mysocialcanvas.com/designhackathon/" src="https://static1.squarespace.com/static/57752b91c534a5929ff9177d/t/57d6f14d59cc683d257687ef/1473704279091/?format=1500w"/>
+<img class="lozad" loading="lazy" href="https://mysocialcanvas.com/designhackathon/" data-src="https://static1.squarespace.com/static/57752b91c534a5929ff9177d/t/57d6f14d59cc683d257687ef/1473704279091/?format=1500w" src="https://static1.squarespace.com/static/57752b91c534a5929ff9177d/t/57d6f14d59cc683d257687ef/1473704279091/?format=1500w"/>
 
 The My Social Canvas DesignHackathon will bring together students who are pursuing degrees in fashion, graphic design, technology, and business in an effort to increase awareness, participation and funding for girls in STEM programs across the country. The final deliverable from each team will be an iPhone case design an e-commerce site to sell their product, and a marketing plan to launch the product. Proceeds from the sales of the winning team's cases will go back to supporting Girls In STEM.
 

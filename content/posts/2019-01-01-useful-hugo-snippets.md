@@ -96,7 +96,7 @@ The HTML Liquid snippets are optimized for use with the [Hugo static site genera
     <div class="navbar-brand">
       <!-- Logo -->
       <a class="navbar-item" href="{{ "/" | absLangURL }}">
-        <img src="/assets/img/logos/logo-square.png" height="128" alt="{{ .Title }}">
+        <img class="lozad" loading="lazy" data-src="/assets/img/logos/logo-square.png" src="/assets/img/logos/logo-square.png" height="128" alt="{{ .Title }}">
       </a>
       <!-- Left Icons -->
       <!-- Hidden on Desktop, Mobile Only -->
