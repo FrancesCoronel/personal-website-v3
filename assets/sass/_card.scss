@@ -8,13 +8,23 @@
 
   .card-image--figure {
 
-    background-color: black;
+    background-color: $light-gray;
     height: 300px;
+
+    @media screen and (max-width: $tablet) {
+      height: 200px;
+    }
+
+    @media screen and (max-width: $mobile) {
+      height: 150px;
+    }
+
 
     img {
       width: 100%;
-      height: 300px;
       object-fit: cover;
+
+      height: 300px;
 
       @media screen and (max-width: $tablet) {
         height: 200px;
