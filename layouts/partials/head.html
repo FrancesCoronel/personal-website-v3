@@ -18,7 +18,7 @@
 <meta charset="utf-8">
 <!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>{{ .Title }}</title>
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 <!-- Prefetch Third Party Resources -->
 <!-- Twemoji -->
 <link rel="dns-prefetch" href="https://twemoji.maxcdn.com">
