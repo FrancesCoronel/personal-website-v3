@@ -1,6 +1,6 @@
 ---
 title: "Episode 2. Anisha Jain"
-date: 2019-04-01
+date: 2019-04-15
 description: "In this episode, I'm talking with Anisha Jain who is currently a student at Make School and an incoming software engineering intern for Lyft."
 hideUpcomingText: true
 image: "/assets/img/podcast/episodes/tech-queens-episode-2.jpg"
@@ -17,9 +17,21 @@ tags:
   - women of color in tech
 ---
 
-Hello and welcome to the Tech Queens podcast, a podcast focused on featuring the stories and advice from women of color in tech.
+## Overview
 
-In this episode, I'm talking with Anisha Jain who is currently a student at Make School and an incoming software engineering intern for Lyft.
+Hello and welcome to the Tech Queens podcast, a podcast focused on featuring stories and advice from women of color in tech. 👑
+
+In this episode, I’m talking with Anisha Jain who is currently a student at Make School and an incoming software engineering intern for Lyft.
+
+References and links can be found on the website at [techqueenspod.com/episode-2](https://techqueenspod.com/episode-2).
+
+If you’re interested in being on the podcast yourself, just head on over to techqueenspod.com and fill out the contact form near the bottom. It doesn’t matter where you are in your tech journey - whether you’re just starting out or you’re the CTO of a Fortune 500 company - I want to hear from you and I want to share your story.
+
+You can tweet me **[@TechQueensPod](https://twitter.com/TechQueensPod)** or use the hashtag **[#TechQueens](https://twitter.com/hashtag/TechQueens?lang=en)** to show your support!
+
+Music from Jukedeck - create your own at [jukedeck.com](https://jukedeck.com)
+
+Avatar created using [the avataaars generator](https://getavataaars.com/)
 
 ## Mini Takeaways
 
@@ -47,20 +59,6 @@ While early research focused on the prevalence among high-achieving women, impos
 
 You can [connect with Anisha on LinkedIn](https://linkedin.com/in/annysha)
 
-## Ending
-
-And that's it!
-
-Thanks for listening and please feel free to share or subscribe to the Tech Queens podcast.
-
-References and links from today's episode will be shared on the website.
-
-And if you're interested in being on the podcast yourself, just head on over to techqueenspod.com and fill out the contact form located near the bottom.
-
-It doesn't matter where you are in your tech journey - whether you've been in tech for months or decades - I want to hear from you and I want to share your story.
-
-So until next time, stay fancy! `#TechQueens`
-
 ## References
 
 - [Anisha Jain's LinkedIn Profile](https://linkedin.com/in/annysha)
@@ -70,4 +68,9 @@ So until next time, stay fancy! `#TechQueens`
 
 ## Kudos
 
-- Music from Jukedeck - create your own at https://jukedeck.com
+- Music from Jukedeck - create your own at [https://jukedeck.com](https://jukedeck.com)
+- Avatar created using [the avataaars generator](https://getavataaars.com/)
+
+## Initially Recorded
+
+April 1, 2019

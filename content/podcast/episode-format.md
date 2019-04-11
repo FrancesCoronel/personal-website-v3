@@ -178,7 +178,7 @@ You can find image assets and social media templates below.
 
 ### 3. Treat yourself
 
-Feel free to [buy swag from the store](/tech-queens/shop) to commemorate this momentous occasion.
+Feel free to [buy swag from the store](/shop) to commemorate this momentous occasion.
 
 ## Social Media
 
