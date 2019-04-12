@@ -130,14 +130,14 @@ $fa-color in $fa-social {
     padding: 1em;
     text-align: center;
     text-decoration: none;
+    margin: 0.5em;
 
     &:hover {
-      border-style: solid;
-      border-color: white;
+      border: 1px solid white;
     }
 
-    @media screen and (max-width: $tablet) {
-      margin: .5em;
+    @media screen and (min-width: $laptop) {
+      margin: 0;
     }
   }
 

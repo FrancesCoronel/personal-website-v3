@@ -14,30 +14,15 @@
       position: relative;
       margin: 0 1em;
       margin-bottom: 1em;
-    }
-  }
 
-  a {
-    -webkit-transition: none;
-    -moz-transition: none;
-    transition: none;
-    display: block;
-    text-decoration: none;
+      a {
+        border-bottom: 3px solid transparent;
+        padding-bottom: 0.25em;
 
-    .content & {
-      border-bottom: none !important;
-    }
-
-    &:hover,
-    &.active {
-      &:after {
-        border-bottom: 2px solid $primary;
-        content: "";
-        left: 50%;
-        margin-top: 5px;
-        position: absolute;
-        transform: translateX(-50%);
-        width: 100%;
+        &:hover {
+          color: $primary;
+          border-bottom: 3px solid $primary;
+        }
       }
     }
   }
@@ -62,7 +47,7 @@
 
     .header {
       font-weight: 700;
-      color: black;
+      color: $primary;
 
       &:after {
         content: "";

@@ -27,7 +27,7 @@
   h5,
   h6,
   .card-header-title {
-    color: black;
+    color: $primary;
   }
 
   h2.card-header-title {
@@ -49,8 +49,8 @@
     }
 
     &:hover {
-      color: black;
-      border-bottom: 1px solid black;
+      color: $primary;
+      border-bottom: 2px solid $primary;
 
       img {
         @extend %material-shadow;
@@ -73,14 +73,14 @@
 
       &:hover {
         border-bottom: none;
-        background-color: black;
+        background-color: $primary;
         text-decoration: none;
       }
     }
 
     &.reset {
       border: 0;
-      color: black;
+      color: $primary;
     }
   }
 

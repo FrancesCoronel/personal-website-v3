@@ -2,6 +2,9 @@
   publish = "dist"
   command = "gulp build"
 
+[build.environment]
+  TZ = "America/Los_Angeles"
+
 [context.production.environment]
   HUGO_VERSION = "0.48"
   HUGO_ENV = "production"

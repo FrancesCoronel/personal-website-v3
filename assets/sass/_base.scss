@@ -5,15 +5,15 @@ body {
 body,
 .pagination,
 .tag:not(body) {
-  font-size: $font-size;
+  font-size: $font-size-mobile;
 
-  @media screen and (max-width: $tablet) {
-    font-size: $font-size-mobile;
+  @media screen and (min-width: $tablet) {
+    font-size: $font-size;
   }
 }
 
 .main {
-  max-width: 1000px;
+  max-width: $laptop;
   margin: 0 auto;
   position: relative;
 }
@@ -30,6 +30,10 @@ a {
     &:hover {
       background-color: white;
     }
+  }
+
+  &:hover {
+    color: $primary;
   }
 }
 
@@ -50,7 +54,7 @@ table {
     padding-left: 0 !important;
     width: 30%;
 
-    @media screen and (min-width: $mobile) {
+    @media screen and (min-width: $mobile-l) {
       width: 25%;
     }
 
