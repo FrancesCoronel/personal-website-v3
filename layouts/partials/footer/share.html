@@ -1,9 +1,20 @@
+<!-- Set Title Variable -->
+{{ $pageTitle := .Title }}
+{{ if .IsHome }}
+  {{ $pageTitle = .Site.Title }}
+{{ else if eq .Params.display "Podcast" }}
+  {{ $pageTitle = .Title }}
+{{ else if or (eq .Section "podcast") (in .Params.categories "podcast") }}
+  {{ $pageTitle = (print .Title " | Tech Queens") }}
+{{ else }}
+  {{ $pageTitle = (print .Title " | " .Site.Title) }}
+{{ end }}
 <hr>
 <div class="section">
   <h2>🌐️ Share</h2>
   <!-- Twitter -->
   <div class="social-icons mt-2">
-    <a aria-label="Share on Twitter" class="fa-twitter" href="https://twitter.com/intent/tweet?url={{ .Permalink }}&via={{ .Site.Social.twitter }}&text={{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}" rel="noopener" target="_blank" title="Share on Twitter">
+    <a aria-label="Share on Twitter" class="fa-twitter" href="https://twitter.com/intent/tweet?url={{ .Permalink }}&via={{ .Site.Social.twitter }}&text={{ $pageTitle }}" rel="noopener" target="_blank" title="Share on Twitter">
       {{ partial "icons/twitter.html" . }}
     </a>
     <!-- Facebook -->
@@ -11,19 +22,19 @@
       {{ partial "icons/facebook.html" . }}
     </a>
     <!-- LinkedIn -->
-    <a aria-label="Share on LinkedIn" class="fa-linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink | safeURL }}&title={{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}&summary={{ .Summary }}&source={{ .Site.Title }}" rel="noopener" target="_blank" title="Share on LinkedIn">
+    <a aria-label="Share on LinkedIn" class="fa-linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink | safeURL }}&title={{ $pageTitle }}&summary={{ .Summary }}&source={{ .Site.Title }}" rel="noopener" target="_blank" title="Share on LinkedIn">
       {{ partial "icons/linkedin.html" . }}
     </a>
     <!-- Pinterest -->
-    <a aria-label="Share on Pinterest" class="fa-pinterest" href="https://pinterest.com/pin/create/bookmarklet/?media={{ .Params.image }}&url={{ .Permalink | safeURL }}&description={{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}" rel="noopener" target="_blank" title="Share on Pinterest">
+    <a aria-label="Share on Pinterest" class="fa-pinterest" href="https://pinterest.com/pin/create/bookmarklet/?media={{ .Params.image }}&url={{ .Permalink | safeURL }}&description={{ $pageTitle }}" rel="noopener" target="_blank" title="Share on Pinterest">
       {{ partial "icons/pinterest.html" . }}
     </a>
     <!-- Reddit -->
-    <a aria-label="Share on Reddit" class="fa-reddit" href="https://reddit.com/submit?url={{ .Permalink | safeURL }}&title={{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}" rel="noopener" target="_blank" title="Share on Reddit">
+    <a aria-label="Share on Reddit" class="fa-reddit" href="https://reddit.com/submit?url={{ .Permalink | safeURL }}&title={{ $pageTitle }}" rel="noopener" target="_blank" title="Share on Reddit">
       {{ partial "icons/reddit.html" . }}
     </a>
     <!-- Hacker News -->
-    <a aria-label="Share on Hacker News" class="fa-reddit" href="https://news.ycombinator.com/submitlink?u={{ .Permalink | safeURL }}&t={{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}" rel="noopener" target="_blank" title="Share on Hacker News">
+    <a aria-label="Share on Hacker News" class="fa-reddit" href="https://news.ycombinator.com/submitlink?u={{ .Permalink | safeURL }}&t={{ $pageTitle }}" rel="noopener" target="_blank" title="Share on Hacker News">
       {{ partial "icons/hacker-news.html" . }}
     </a>
     <!-- Email -->

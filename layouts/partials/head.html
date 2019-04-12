@@ -14,11 +14,40 @@
 
 	©️ FVCproductions
   -->
+<!-- Set Title Variable -->
+{{ $pageTitle := .Title }}
+{{ if .IsHome }}
+  {{ $pageTitle = .Site.Title }}
+{{ else if eq .Params.display "Podcast" }}
+  {{ $pageTitle = .Title }}
+{{ else if or (eq .Section "podcast") (in .Params.categories "podcast") }}
+  {{ $pageTitle = (print .Title " | Tech Queens") }}
+{{ else }}
+  {{ $pageTitle = (print .Title " | " .Site.Title) }}
+{{ end }}
+<!-- Set Description Variable -->
+{{ $pageDescription := .Description | truncate 150 }}
+{{ if .Description }}
+  {{ $pageDescription = .Description | truncate 150 }}
+{{ else if .IsPage }}
+  {{ $pageDescription = .Summary | truncate 150 }}
+{{ else }}
+  {{ $pageDescription = .Site.Params.description | truncate 150 }}
+{{ end }}
+<!-- Set Image Variable -->
+{{ $pageImage := .Params.image }}
+{{ if hasPrefix .Params.image "/assets" }}
+  {{ $pageImage = .Params.image | absURL }}
+{{ else if .Params.image }}
+  {{ $pageImage = .Params.image }}
+{{ else }}
+  {{ $pageImage = .Site.Params.og_image }}
+{{ end }}
 <!-- Set character encoding for the document -->
 <meta charset="utf-8">
 <!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+<title>{{ $pageTitle }}</title>
 <!-- Prefetch Third Party Resources -->
 <!-- Twemoji -->
 <link rel="dns-prefetch" href="https://twemoji.maxcdn.com">
@@ -83,36 +112,36 @@
 <meta name="msapplication-wide310x150logo" content="/assets/img/favicons/310x150.png?v=4">
 <meta name="theme-color" content="#253137">
 <!-- Meta -->
-<meta itemprop="description" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.description | truncate 150 }}{{ end }}">
-<meta itemprop="image" content="{{ if hasPrefix .Params.image "/assets" }}{{ .Params.image | absURL }}{{ else if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
-<meta itemprop="name" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta itemprop="description" content="{{ $pageDescription }}">
+<meta itemprop="image" content="{{ $pageImage }}">
+<meta itemprop="name" content="{{ $pageTitle }}">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="apple-mobile-web-app-title" content="{{ .Site.Title }}">
 <meta name="application-name" content="{{ .Site.Title }}">
-<meta name="DC.description" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.description | truncate 150 }}{{ end }}">
-<meta name="DC.title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
-<meta name="description" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.description | truncate 150 }}{{ end }}">
+<meta name="DC.description" content="{{ $pageDescription }}">
+<meta name="DC.title" content="{{ $pageTitle }}">
+<meta name="description" content="{{ $pageDescription }}">
 <meta name="HandheldFriendly" content="True">
-<meta name="image" content="{{ if hasPrefix .Params.image "/assets" }}{{ .Params.image | absURL }}{{ else if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
+<meta name="image" content="{{ $pageImage }}">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="MobileOptimized" content="320">
-<meta name="msapplication-tooltip" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.description | truncate 150 }}{{ end }}">
+<meta name="msapplication-tooltip" content="{{ $pageDescription }}">
 <meta name="msapplication-window" content="width=device-width;height=device-height">
 <meta name="robots" content="index, follow">
-<meta name="title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta name="title" content="{{ $pageTitle }}">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.description | truncate 150 }}{{ end }}">
-<meta name="twitter:image:src" content="{{ if hasPrefix .Params.image "/assets" }}{{ .Params.image | absURL }}{{ else if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
-<meta name="twitter:text:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
-<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta name="twitter:description" content="{{ $pageDescription }}">
+<meta name="twitter:image:src" content="{{ $pageImage }}">
+<meta name="twitter:text:title" content="{{ $pageTitle }}">
+<meta name="twitter:title" content="{{ $pageTitle }}">
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta property="dcterms:description" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.description | truncate 150 }}{{ end }}">
-<meta property="dcterms:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
-<meta property="og:description" content="{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.description | truncate 150 }}{{ end }}">
-<meta property="og:image" content="{{ if hasPrefix .Params.image "/assets" }}{{ .Params.image | absURL }}{{ else if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.og_image }}{{ end }}">
+<meta property="dcterms:description" content="{{ $pageDescription }}">
+<meta property="dcterms:title" content="{{ $pageTitle }}">
+<meta property="og:description" content="{{ $pageDescription }}">
+<meta property="og:image" content="{{ $pageImage }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
-<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta property="og:title" content="{{ $pageTitle }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <!-- Default Content Language -->
@@ -261,19 +290,19 @@
     "articleSection":    "{{ .Section }}",
     "copyrightYear":     "{{ .Date.Format "2006" }}",
     "genre":             "{{ .Type }}",
-    "headline":          "{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}",
+    "headline":          "{{ $pageTitle }}",
     "inLanguage":        "en-US",
     "license":           "{{ .Site.Params.copyright }}",
-    "name":              "{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}",
+    "name":              "{{ $pageTitle }}",
     "url":               "{{ .Permalink }}",
     "wordcount":         {{ .WordCount }},
-    "description":       "{{ if .Description }}{{ .Description | truncate 150 }}{{ else if .IsPage }}{{ .Summary | truncate 150 }}{{ else }}{{ .Site.Params.Description | truncate 150 }}{{ end }}",
+    "description":       "{{ $pageDescription }}",
     "mainEntityOfPage":  {
         "@type":         "WebPage",
         "@id":           "{{ .Permalink }}"
     },
     "image":             [
-        "{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.og_image }}{{ end }}"
+        "{{ $pageImage }}"
     ],
     "publisher":         {
         "@type":         "Organization",
