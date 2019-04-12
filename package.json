@@ -37,17 +37,16 @@
     "gulp-htmlmin": "5.0.1",
     "gulp-imagemin": "5.0.3",
     "gulp-postcss": "8.0.0",
-    "gulp-purifycss": "0.2.0",
     "gulp-sass": "4.0.2",
     "gulp-sourcemaps": "2.6.5",
     "hugo-bin": "0.42.0",
     "lozad": "1.9.0",
     "plugin-error": "1.0.1",
     "postcss-csso": "3.0.0",
+    "snyk": "1.148.0",
     "twemoji": "12.0.0",
     "webpack": "4.29.6",
-    "workbox-webpack-plugin": "4.2.0",
-    "snyk": "1.148.0"
+    "workbox-webpack-plugin": "4.2.0"
   },
   "snyk": true
 }

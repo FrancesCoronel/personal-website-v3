@@ -12,9 +12,9 @@ aliases:
   - /store/
   - /buy/
   - /purchase/
+  - /tech-queens/shop/
+  - /tech-queens/store/
 ---
-
-## Limited Time Only: Use promo code `welcome-100573005` for 15% off
 
 <div id="myShop">
   <a href="https://shop.spreadshirt.com/fvcproductions">View products for Tech Queens through Spreadshirt</a>
