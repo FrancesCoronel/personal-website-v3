@@ -1,11 +1,13 @@
 ---
-title: "So You Want To Be A (Tech) Wizard"
+title: "General Assembly: So You Want To Be A (Tech) Wizard"
 date: 2019-01-23
 image: https://i.imgur.com/WiCellf.jpg
 description: Put on your wizard hats and join us for a beginner friendly talk about what it's like to be a developer and how you can get started.
 link: https://generalassemb.ly/education/so-you-want-to-be-a-tech-wizard/san-francisco/66021
 location: General Assembly - San Francisco, California
 slides: https://www.slideshare.net/FVCproductions/general-assembly-so-you-want-to-be-a-wizard
+aliases:
+  - /2019/01/23/so-you-want-to-be-a-tech-wizard/
 categories:
   - speaking
 tags:

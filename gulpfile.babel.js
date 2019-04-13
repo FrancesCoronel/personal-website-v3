@@ -136,7 +136,8 @@ const buildSite = (done, options, environment) => {
 };
 
 // Hugo arguments
-const hugoArgsDefault = ["-d", "./dist", "-s", "./", "--verbose"];
+// const hugoArgsDefault = ["-d", "./dist", "-s", "./", "--verbose"];
+const hugoArgsDefault = ["-d", "./dist", "-s", "./", ""];
 const hugoArgsPreview = ["--buildDrafts", "--buildFuture"];
 
 // DEVELOPMENT

@@ -3,7 +3,7 @@
 {{ $pastEvents := where $speaking "Date" "lt" now }}
 <!-- Upcoming Events -->
 {{ if (len $upcomingEvents) "ge" 1 }}
-<h2>⏳️ {{ len $upcomingEvents }} Upcoming {{ if gt (len $upcomingEvents) 1 }}Events{{ else }}Event{{ end }}</h2>
+<h2>⏳️ {{ len $upcomingEvents }} Upcoming Speaking {{ if gt (len $upcomingEvents) 1 }}Engagements{{ else }}Engagement{{ end }}</h2>
 <div class="columns is-multiline">
   {{ range $upcomingEvents.ByDate.Reverse }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
@@ -13,7 +13,7 @@
 </div>
 {{ end }}
 <!-- Past Events -->
-<h2>⌛️ {{ len $pastEvents }} Past Events</h2>
+<h2>⌛️ {{ len $pastEvents }} Past Speaking Engagements</h2>
 <div class="columns is-multiline">
   {{ range $pastEvents.ByDate.Reverse }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">

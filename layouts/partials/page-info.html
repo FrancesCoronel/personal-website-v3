@@ -1,5 +1,6 @@
 <!-- Date -->
 {{- if not .PublishDate.IsZero }}
+  {{- if and (in .Params.categories "podcast") (gt now .Date) }}
   <p class="has-text-weight-light mt-sm">
     <span class="mr-sm">📅️</span>
     {{ if in .Params.categories "talk" }}First presented
@@ -13,12 +14,20 @@
       {{ end }}
     {{ end }}
   </p>
+  {{- end }}
 {{- end }}
 <!-- Initial Recording -->
 {{- if .Params.initialRecording }}
   <p class="has-text-weight-light mt-sm">
-    <span class="mr-sm">🎤</span>Initially recorded
+    <span class="mr-sm">🎤</span>Recorded
     {{ dateFormat "January 2, 2006" .Params.initialRecording }}
+  </p>
+{{- end }}
+<!-- Planned Recording -->
+{{- if .Params.plannedRecording }}
+  <p class="has-text-weight-light mt-sm">
+    <span class="mr-sm">🎤</span>Recording
+    {{ dateFormat "January 2, 2006" .Params.plannedRecording }}
   </p>
 {{- end }}
 <!-- Work Experience - Amount of Time -->

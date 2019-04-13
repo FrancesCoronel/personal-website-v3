@@ -13,42 +13,45 @@
     img {
       width: 100%;
       object-fit: cover;
-
     }
   }
 
   .card-image--figure,
   .card-image--figure img {
-    height: 8em;
 
-    @media screen and (min-width: $mobile-s) {
+    height: 12em;
+
+    .podcast-episodes & {
       height: 8em;
-    }
 
-    @media screen and (min-width: $mobile-m) {
-      height: 10em;
-    }
+      @media screen and (min-width: $mobile-s) {
+        height: 9em;
+      }
 
-    @media screen and (min-width: $mobile-l) {
-      height: 12em;
-    }
+      @media screen and (min-width: $mobile-m) {
+        height: 10em;
+      }
 
-    @media screen and (min-width: $tablet) {
-      height: 8em;
-    }
+      @media screen and (min-width: $mobile-l) {
+        height: 12em;
+      }
 
-    @media screen and (min-width: $laptop) {
-      height: 10em;
-    }
+      @media screen and (min-width: $tablet) {
+        height: 8em;
+      }
 
-    @media screen and (min-width: $laptop-l) {
-      height: 12em;
-    }
+      @media screen and (min-width: $laptop) {
+        height: 10em;
+      }
 
-    @media screen and (min-width: $four-k) {
-      height: 14em;
-    }
+      @media screen and (min-width: $laptop-l) {
+        height: 9em;
+      }
 
+      @media screen and (min-width: $four-k) {
+        height: 9em;
+      }
+    }
   }
 
   .card-header-title,

@@ -11,7 +11,6 @@ recording: https://www.codenewbie.org/podcast/what-are-progressive-web-apps
 categories:
   - speaking
 tags:
-  - pwas101
   - podcast
   - codenewbie
 ---
