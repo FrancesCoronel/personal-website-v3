@@ -1,31 +1,19 @@
 <!-- Date -->
 {{- if not .PublishDate.IsZero }}
   <p class="has-text-weight-light mt-sm">
-    <!-- Talk -->
-    <span class="mr-sm">📅️</span>{{- if in .Params.categories "talk" }}First presented
-    <!-- Podcast -->
-    {{- else if in .Params.categories "podcast" }}
-      {{- if le .Date now }}Published
-      {{- else }}Publishing by{{- end }}
-    {{- end }}
-    <!-- Date -->
-    {{ dateFormat "January 2, 2006" .Date }}
-    <!-- Experience -->
-    {{- if in .Params.categories "experience" }}{{- with .Params.ended }} to {{ . | dateFormat "Jan 2, 2006" }}{{- end }}{{- end }}
+    <span class="mr-sm">📅️</span>{{ if in .Params.categories "talk" }}First presented {{ else if in .Params.categories "podcast" }}{{ if le .Date now }}Published {{ else }}Publishing by {{ end }}{{ end }}{{ dateFormat "January 2, 2006" .Date }}{{ if in .Params.categories "experience" }}{{ with .Params.ended }} to {{ . | dateFormat "Jan 2, 2006" }}{{ end }}{{ end }}
   </p>
 {{- end }}
 <!-- Initial Recording -->
 {{- if .Params.initialRecording }}
   <p class="has-text-weight-light mt-sm">
-    <span class="mr-sm">🎤</span>Recorded
-    {{ dateFormat "January 2, 2006" .Params.initialRecording }}
+    <span class="mr-sm">🎤</span>Recorded {{ dateFormat "January 2, 2006" .Params.initialRecording }}
   </p>
 {{- end }}
 <!-- Planned Recording -->
 {{- if .Params.plannedRecording }}
   <p class="has-text-weight-light mt-sm">
-    <span class="mr-sm">🎤</span>Recording
-    {{ dateFormat "January 2, 2006" .Params.plannedRecording }}
+    <span class="mr-sm">🎤</span>Recording {{ dateFormat "January 2, 2006" .Params.plannedRecording }}
   </p>
 {{- end }}
 <!-- Work Experience - Amount of Time -->
@@ -37,16 +25,16 @@
   {{ $experienceDiff := $experienceEnd.Sub (time $experienceStart) }}
   {{ $experienceHours := $experienceDiff.Hours }}
   {{ $experienceHoursTotal = add $experienceHoursTotal $experienceHours }}
-{{ end }}
+{{- end }}
 {{ $experienceDays := int (div $experienceHoursTotal 24) }}
 {{ $experienceMonths := int (div (mod $experienceDays 365) (30)) }}
 {{ $experienceYears := int (div $experienceDays 365) }}
 {{ $experienceDaysTotal := int ((mod (mod $experienceDays 365) (30))) }}
 <!-- Experience Page - show work experience time -->
 <!--
-{{ if eq .URL "/experience/" }}
+{{- if eq .URL "/experience/" }}
 <p class="has-text-weight-light mt-sm">
-  <span class="mr-sm">🕒</span>{{ if not (eq $experienceYears 0) }}{{ $experienceYears }} {{ if gt $experienceYears 1 }}years{{ else }}year{{ end }}{{ end }}{{ if not (eq $experienceMonths 0) }} {{ $experienceMonths }} {{ if gt $experienceMonths 1 }}months{{ else }}month{{ end }}{{ end }}{{ if not (eq $experienceDaysTotal 0) }} {{ $experienceDaysTotal }} {{ if gt $experienceDaysTotal 1 }}days{{ else }}day{{ end }}{{ end }} of work experience
+  <span class="mr-sm">🕒</span>{{- if not (eq $experienceYears 0) }}{{ $experienceYears }} {{- if gt $experienceYears 1 }}years{{ else }}year{{- end }}{{- end }}{{- if not (eq $experienceMonths 0) }} {{ $experienceMonths }} {{- if gt $experienceMonths 1 }}months{{ else }}month{{- end }}{{- end }}{{- if not (eq $experienceDaysTotal 0) }} {{ $experienceDaysTotal }} {{- if gt $experienceDaysTotal 1 }}days{{ else }}day{{- end }}{{- end }} of work experience
 </p>
 <p class="has-text-weight-light mt-sm">
   <span class="mr-sm">💻</span>Getting paid to code <a href="/freelancing/" rel="noopener">since 2015</a>
@@ -54,9 +42,9 @@
 <p class="has-text-weight-light mt-sm">
   <span class="mr-sm">🎓</span>Learning to code <a href="/education/" rel="noopener">since 2013</a>
 </p>
-{{ end }} -->
+{{- end }} -->
 <!-- Time in Role -->
-  {{ if .Params.ended }}
+  {{- if .Params.ended }}
     <p class="has-text-weight-light mt-sm"> {{ $start := (time .Date) }}
     {{ $end := (time .Params.ended) }}
     {{ $diff := $end.Sub (time $start) }}
@@ -65,27 +53,11 @@
     {{ $months := int (div (mod $days 365) (30)) }}
     {{ $years := int (div $days 365) }}
     {{ $finalDays := (mod (mod $days 365) (30)) }}
-    <span class="mr-sm">🕒</span>
-    {{ if not (eq $years 0) }}
-      {{ $years }}
-      {{ if gt $years 1 }}years{{ else }}year
-      {{ end }}
-    {{ end }}
-    {{ if not (eq $months 0) }}
-      {{ $months }}
-      {{ if gt $months 1 }}months{{ else }}month
-      {{ end }}
-    {{ end }}
-    {{ if not (eq $finalDays 0) }}
-      {{ $finalDays }}
-      {{ if gt $finalDays 1 }}days{{ else }}day
-      {{ end }}
-    {{ end }}
-    in this role
+    <span class="mr-sm">🕒</span>{{ if not (eq $years 0) }}{{ $years }}{{ if gt $years 1 }} years{{ else }} year{{ end }}{{ end }}{{ if not (eq $months 0) }} {{ $months }}{{ if gt $months 1 }} months{{ else }} month{{ end }}{{ end }}{{ if not (eq $finalDays 0) }} {{ $finalDays }}{{ if gt $finalDays 1 }} days{{ else }} day{{ end }}{{ end }} in this role
   </p>
-{{ end }}
+{{- end }}
 <!-- no .Params.ended - instead this is the current position -->
-{{ if .Params.currentPosition }}
+{{- if .Params.currentPosition }}
   <p class="has-text-weight-light mt-sm">
     <span class="mr-sm">💼</span>Current Position
   </p>
@@ -98,110 +70,77 @@
     {{ $months := int (div (mod $days 365) (30)) }}
     {{ $years := int (div $days 365) }}
     {{ $finalDays := (mod (mod $days 365) (30)) }}
-    <span class="mr-sm">🕒</span>
-    {{ if not (eq $years 0) }}
-      {{ $years }}
-      {{ if gt $years 1 }}years{{ else }}year
-      {{ end }}
-    {{ end }}
-    {{ if not (eq $months 0) }}
-      {{ $months }}
-      {{ if gt $months 1 }}months{{ else }}month
-      {{ end }}
-    {{ end }}
-    {{ if not (eq $finalDays 0) }}
-      {{ $finalDays }}
-      {{ if gt $finalDays 1 }}days{{ else }}day
-      {{ end }}
-    {{ end }}
-    in this role
+    <span class="mr-sm">🕒</span>{{ if not (eq $years 0) }}{{ $years }}{{ if gt $years 1 }} years{{ else }} year{{ end }}{{ end }}{{ if not (eq $months 0) }} {{ $months }}{{ if gt $months 1 }} months{{ else }} month{{ end }}{{ end }}{{ if not (eq $finalDays 0) }} {{ $finalDays }}{{ if gt $finalDays 1 }} days{{ else }} day{{ end }}{{ end }} in this role
   </p>
-{{ end }}
+{{- end }}
 <!-- Reading Time & Word Count -->
 {{- if not .Params.noTimeEstimate }}
   {{- if gt .ReadingTime 1 }}
     {{- if .WordCount }}
       <p class="has-text-weight-light mt-sm">
-        <span class="mr-sm">📖</span>
-        {{ .ReadingTime }}
-        min read ∙
-        {{ .WordCount }}
-        words
+        <span class="mr-sm">📖</span>{{ .ReadingTime }} min read ∙ {{ .WordCount }} words
       </p>
     {{- end }}
   {{- end }}
 {{- end }}
 <!-- Location -->
-{{ if .Params.location }}
+{{- if .Params.location }}
   <p class="has-text-weight-light mt-sm">
-    <span class="mr-sm">🗺️</span>
-    {{ .Params.location }}
+    <span class="mr-sm">🗺️</span>{{ .Params.location }}
   </p>
-{{ end }}
+{{- end }}
 <!-- Freelancing -->
 {{ $freelancing := ($.Site.Taxonomies.categories.freelancing).Pages }}
 {{ $freelancingHours := 0 }}
 {{ range (where $freelancing ".Params.hours" "ne" nil) }}
   {{ $hours := .Params.hours | int }}
   {{ $freelancingHours = add $freelancingHours $hours }}
-{{ end }}
-{{ if eq .URL "/freelancing/" }}
+{{- end }}
+{{- if eq .URL "/freelancing/" }}
   <p class="has-text-weight-light mt-sm">
-    <span class="mr-sm">💸️</span>
-    {{ $freelancingHours }}
-    hours of freelancing so far
+    <span class="mr-sm">💸️</span>{{ $freelancingHours }} hours of freelancing so far
   </p>
-{{ end }}
-<!-- Paid Event -->
-{{ if in .Params.categories "freelancing" }}
+{{- end }}
+<!-- Freelancing -->
+{{- if in .Params.categories "freelancing" }}
   <p class="has-text-weight-light mt-sm">
-    <span class="mr-sm">💵</span>Paid Event
+    <span class="mr-sm">💵</span>Freelancing
   </p>
-{{ end }}
+{{- end }}
 <!-- Mentoring -->
 {{ $mentoring := ($.Site.Taxonomies.categories.mentoring).Pages }}
 {{ $mentoringHours := 0 }}
 {{ range (where $mentoring ".Params.hours" "ne" nil) }}
   {{ $hours := .Params.hours | int }}
   {{ $mentoringHours = add $mentoringHours $hours }}
-{{ end }}
-{{ if eq .URL "/mentoring/" }}
+{{- end }}
+{{- if eq .URL "/mentoring/" }}
   <p class="has-text-weight-light mt-sm">
-    <span class="mr-sm">💛</span>
-    {{ $mentoringHours }}
-    hours volunteered so far
+    <span class="mr-sm">💛</span>{{ $mentoringHours }} hours volunteered so far
   </p>
-{{ end }}
+{{- end }}
 <!-- Hours Given -->
-{{ if .Params.hours }}
+{{- if .Params.hours }}
   <p class="has-text-weight-light mt-sm">
-    <span class="mr-sm">⏳</span>
-    {{ if eq .Params.hours 0.5 }}30 minutes
-    {{ else if eq .Params.hours 1.0 }}
-      {{ .Params.hours }}
-      hour
-    {{ else }}
-      {{ .Params.hours }}
-      hours
-    {{ end }}
+    <span class="mr-sm">⏳</span>{{- if eq .Params.hours 0.5 }}30 minutes{{ else if eq .Params.hours 1.0 }}{{ .Params.hours }} hour{{ else }}{{ .Params.hours }} hours{{- end }}
   </p>
-{{ end }}
+{{- end }}
 <!-- Presented at x events -->
-{{ if in .Params.categories "talk" }}
+{{- if in .Params.categories "talk" }}
   {{ $talk := .Params.talk }}
   {{ $events := (index .Site.Taxonomies.tags $talk) }}
   <p class="has-text-weight-light mt-sm">
     <span class="mr-sm">🗨️</span>Presented at
     {{ len $events }}
-    {{ if gt (len $events) 1 }}
+    {{- if gt (len $events) 1 }}
       events
     {{ else }}
       event
-    {{ end }}
+    {{- end }}
   </p>
-{{ end }}
+{{- end }}
 <!-- Speaking -->
-{{ if eq .URL "/speaking/" }}
+{{- if eq .URL "/speaking/" }}
   {{ $talks := ($.Site.Taxonomies.categories.talk).Pages }}
   <p class="has-text-weight-light mt-sm">
     <span class="mr-sm">📢️</span>There are
@@ -209,4 +148,4 @@
     talks I've created so far that you can find on
     <a href="/talks" rel="noopener">my talks page</a>.
   </p>
-{{ end }}
+{{- end }}

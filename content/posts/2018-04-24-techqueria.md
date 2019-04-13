@@ -2,6 +2,7 @@
 title: Techqueria
 description: Board Member, Open Source Lead, Slack Workspace Owner & Admin 🌮
 date: 2018-04-24
+currentPosition: true
 image: https://i.imgur.com/VMrVGbe.png
 aliases:
   - /2018/09/20/techquerias-new-website-launched/
