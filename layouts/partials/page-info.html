@@ -1,20 +1,18 @@
 <!-- Date -->
 {{- if not .PublishDate.IsZero }}
-  {{- if and (in .Params.categories "podcast") (gt now .Date) }}
   <p class="has-text-weight-light mt-sm">
-    <span class="mr-sm">📅️</span>
-    {{ if in .Params.categories "talk" }}First presented
-      {{ else if in .Params.categories "podcast" }}Published
-    {{ end }}
+    <!-- Talk -->
+    <span class="mr-sm">📅️</span>{{- if in .Params.categories "talk" }}First presented
+    <!-- Podcast -->
+    {{- else if in .Params.categories "podcast" }}
+      {{- if le .Date now }}Published
+      {{- else }}Publishing by{{- end }}
+    {{- end }}
+    <!-- Date -->
     {{ dateFormat "January 2, 2006" .Date }}
-    {{ if in .Params.categories "experience" }}
-      {{ with .Params.ended }}
-        to
-        {{ . | dateFormat "Jan 2, 2006" }}
-      {{ end }}
-    {{ end }}
+    <!-- Experience -->
+    {{- if in .Params.categories "experience" }}{{- with .Params.ended }} to {{ . | dateFormat "Jan 2, 2006" }}{{- end }}{{- end }}
   </p>
-  {{- end }}
 {{- end }}
 <!-- Initial Recording -->
 {{- if .Params.initialRecording }}
