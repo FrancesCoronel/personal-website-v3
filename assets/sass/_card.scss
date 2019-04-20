@@ -21,7 +21,28 @@
     height: 12em;
   }
 
-  .podcast-episodes {
+  .card-header-title,
+  .card-content {
+    padding: 1em;
+  }
+
+  .card-footer {
+    border: 0;
+    padding: 0 1em 1em;
+  }
+
+  &.card-equal-height {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+
+    .card-footer {
+      margin-top: auto;
+    }
+  }
+}
+
+.podcast-episodes {
     .card-image--figure,
     .card-image--figure img {
       height: 8em;
@@ -55,24 +76,3 @@
       }
     }
   }
-
-  .card-header-title,
-  .card-content {
-    padding: 1em;
-  }
-
-  .card-footer {
-    border: 0;
-    padding: 0 1em 1em;
-  }
-
-  &.card-equal-height {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-
-    .card-footer {
-      margin-top: auto;
-    }
-  }
-}
