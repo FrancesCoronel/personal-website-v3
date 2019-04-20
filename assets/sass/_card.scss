@@ -18,10 +18,12 @@
 
   .card-image--figure,
   .card-image--figure img {
-
     height: 12em;
+  }
 
-    .podcast-episodes & {
+  .podcast-episodes {
+    .card-image--figure,
+    .card-image--figure img {
       height: 8em;
 
       @media screen and (min-width: $mobile-s) {
