@@ -11,29 +11,32 @@ aliases:
   - /online-presence/
 ---
 
+## Online Presence
+
 - About.me https://about.me/fvcproductions
-- Airbnb https://www.airbnb.com/users/show/25112738
+- Airbnb https://airbnb.com/users/show/25112738
 - Angel.co https://angel.co/fvcproductions
-- Buy Me A Coffee https://www.buymeacoffee.com/fvcproductions
+- Buy Me A Coffee https://buymeacoffee.com/fvcproductions
 - Calendly https://calendly.com/fvcproductions
-- Codecademy https://www.codecademy.com/fvcproductions
-- Codementor https://www.codementor.io/fvcproductions
+- Codecademy https://codecademy.com/fvcproductions
+- Codementor https://codementor.io/fvcproductions
 - Confrere https://fvcproductions.confrere.com/
-- Crunchbase https://www.crunchbase.com/person/frances-coronel
+- Crunchbase https://crunchbase.com/person/frances-coronel
 - Devpost https://devpost.com/fvcproductions
-- Duolingo https://www.duolingo.com/fvcproductions
-- GitShowcase https://www.gitshowcase.com/fvcproductions
+- Duolingo https://duolingo.com/fvcproductions
+- Facebook https://facebook.com/fvcproductions2013
+- GitShowcase https://gitshowcase.com/fvcproductions
 - Glitch https://glitch.com/@fvcproductions
-- Goodreads https://www.goodreads.com/fvcproductions
+- Goodreads https://goodreads.com/fvcproductions
 - Gravatar https://en.gravatar.com/fvcproductions
 - Medium https://medium.com/@fvcproductions
-- Meetup https://www.meetup.com/members/182920007/
-- npm https://www.npmjs.com/~fvcproductions
+- Meetup https://meetup.com/members/182920007/
+- npm https://npmjs.com/~fvcproductions
 - Open Collective https://opencollective.com/fvcproductions
-- Patreon https://www.patreon.com/fvcproductions
-- ProductHunt https://www.producthunt.com/@fvc
-- Quora https://www.quora.com/profile/Frances-Coronel-1
-- Scribd https://www.scribd.com/user/194063411/FVCproductions
+- Patreon https://patreon.com/fvcproductions
+- ProductHunt https://producthunt.com/@fvc
+- Quora https://quora.com/profile/Frances-Coronel-1
+- Scribd https://scribd.com/user/194063411/FVCproductions
 - Sessionize https://sessionize.com/fvcproductions
 - SpeakerRate https://speakerrate.com/speakers/171041-frances-coronel
 - StackExchange https://stackexchange.com/users/3595658/fvcproductions
@@ -41,4 +44,10 @@ aliases:
 - Twitter https://twitter.com/fvcproductions
 - Venmo https://venmo.com/fvcproductions
 - WakaTime https://wakatime.com/@fvcproductions
-- YouTube https://www.youtube.com/+fvcproductions2013
+- YouTube https://youtube.com/+fvcproductions2013
+
+## Tech Queens Podcast
+
+- Twitter https://twitter.com/techqueenspod
+- Facebook https://facebook.com/techqueenspod
+- Instagram https://instagram.com/techqueenspod
