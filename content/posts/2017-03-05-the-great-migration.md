@@ -1,6 +1,6 @@
 ---
 title: The Start of a Wondrous Migration
-date: 2017-03-05 00:00:00 +0000
+date: 2017-03-05
 description: "I'm starting the process of migrating this blog from Wordpress to Jekyll. 🦋"
 image: https://i.imgur.com/WCeYmRL.jpg
 aliases:

@@ -1,7 +1,7 @@
 ---
 title: "Episode 5. Faith Chikwekwe"
 date: 2019-05-30
-plannedRecording: 2019-04-22
+plannedRecording: 2019-05-01
 description: "TBA"
 image: "/assets/img/podcast/episodes/tech-queens-episode-5.jpg"
 externalLink: https://anchor.fm/tech-queens/

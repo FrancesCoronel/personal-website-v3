@@ -43,6 +43,18 @@
 {{ else }}
   {{ $pageImage = .Site.Params.og_image }}
 {{ end }}
+<!-- Set Categories -->
+{{ $categories := "" }}
+{{ if .Params.categories }}
+{{ $categories = delimit .Params.categories ", " }}
+{{ end }}
+<!-- Set Tags -->
+{{ $tags := "" }}
+{{ if .Params.tags }}
+{{ $tags = delimit .Params.tags ", " }}
+{{ end }}
+<!-- Date -->
+{{ $date := dateFormat "2006-01-02" .Date }}
 <!-- Set character encoding for the document -->
 <meta charset="utf-8">
 <!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
@@ -183,30 +195,30 @@
 <!-- Custom Meta -->
 <!-- Check for valid date -->
 {{ if not .PublishDate.IsZero }}
-  <meta itemprop="datePublished" content='{{ dateFormat "2006-01-02" .Date }}'>
-  <meta property="article:published_time" content='{{ dateFormat "2006-01-02" .Date }}'>
-  <meta property="og:updated_time" content='{{ dateFormat "2006-01-02" .Date }}'>
+  <meta itemprop="datePublished" content="{{ $date }}">
+  <meta property="article:published_time" content="{{ $date }}">
+  <meta property="og:updated_time" content="{{ $date }}">
 {{ end }}
 <!-- Categories & Tags Present -->
 {{ if or (.Params.Categories) (.Params.tags) }}
   <!-- Categories -->
   {{ if .Params.categories }}
     <meta name="twitter:label1" value="Categories 📂️">
-    <meta name="twitter:data1" value='{{ delimit .Params.categories ", " }}'>
+    <meta name="twitter:data1" value="{{ $categories }}">
   {{ end }}
   <!-- Twitter Labels -->
   {{ if .Params.tags }}
     <meta name="twitter:label2" value="Tags 📌️">
-    <meta name="twitter:data2" value='{{ delimit .Params.tags ", " }}'>
+    <meta name="twitter:data2" value="{{ $tags }}">
   {{ end }}
 {{ end }}
 <!-- Keywords -->
 {{ if or (.Params.categories) (.Params.tags) }}
-  <meta itemprop="keywords" content='{{ if .Params.categories }}{{ delimit .Params.categories ", " }}{{ end }}{{ if .Params.tags }} {{ delimit .Params.tags ", " }}{{ end }} fvcproductions'>
-  <meta name="DC.subject" content='{{ if .Params.categories }}{{ delimit .Params.categories ", " }}{{ end }}{{ if .Params.tags }} {{ delimit .Params.tags ", " }}{{ end }} fvcproductions'>
+  <meta itemprop="keywords" content="{{ $categories }}, {{ $tags }}, fvcproductions">
+  <meta name="DC.subject" content="{{ $categories }}, {{ $tags }}, fvcproductions">
   {{ if .IsPage }}
-    <meta name="news_keywords" content='{{ if .Params.categories }}{{ delimit .Params.categories ", " }}{{ end }}{{ if .Params.tags }} {{ delimit .Params.tags ", " }}{{ end }} fvcproductions'>
-    <meta property="article:tag" content='{{ if .Params.categories }}{{ delimit .Params.categories ", " }}{{ end }}{{ if .Params.tags }} {{ delimit .Params.tags ", " }}{{ end }} fvcproductions'>
+    <meta name="news_keywords" content="{{ $categories }}, {{ $tags }}, fvcproductions">
+    <meta property="article:tag" content="{{ $categories }}, {{ $tags }}, fvcproductions">
   {{ end }}
 {{ end }}
 <!-- Link -->
@@ -228,13 +240,9 @@
 {{ end }}
 <!-- Canonical -->
 <link rel="canonical" href="{{ .Permalink | safeURL }}">
-<!-- RSS -->
-{{ if .RSSLink }}
-<link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ .RSSLink }}">
-{{ end }}
 <!-- Alternative Output -->
 {{ range .AlternativeOutputFormats -}}
-<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}
 <!-- Structured Data -->
 <!-- Homepage -->
@@ -265,10 +273,10 @@
     },
     "sameAs":           [
         {{ with .Site.Social.facebook }}"https://www.facebook.com/{{ . }}",{{ end }}
-        {{ with .Site.Social.instagram }}"https://instagram.com/{{ . }}",{{ end }}
+        {{ with .Site.Social.instagram }}"https://www.instagram.com/{{ . }}",{{ end }}
         {{ with .Site.Social.linkedin}}"https://www.linkedin.com/{{ . }}",{{ end }}
-        {{ with .Site.Social.twitter }}"https://twitter.com/{{ . }}",{{ end }}
-        {{ with .Site.Social.youtube }}"https://youtube.com/{{ . }}"{{ end }}
+        {{ with .Site.Social.twitter }}"https://www.twitter.com/{{ . }}",{{ end }}
+        {{ with .Site.Social.youtube }}"https://www.youtube.com/{{ . }}"{{ end }}
     ]
 }
 </script>
@@ -309,7 +317,7 @@
         "name":          "{{ .Site.Title }}",
         "logo":          {
           "@type":       "ImageObject",
-          "url":         "{{ .Site.BaseURL }}{{ .Site.Params.logo }}"
+          "url":         "{{ .Site.Params.logo }}"
         }
     },
     {{ if or (.Params.categories) (.Params.tags) -}}
@@ -346,7 +354,7 @@
         "@type":     "ListItem",
         "position":  {{ .position }},
         "item":      {
-          "@id":     "{{ .url }}",
+          "@id":     "{{ .Permalink }}",
           "name":    "{{ .name }}"
         }
     }{{ end }}]

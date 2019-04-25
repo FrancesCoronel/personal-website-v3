@@ -32,7 +32,7 @@
 {{ $experienceDaysTotal := int ((mod (mod $experienceDays 365) (30))) }}
 <!-- Experience Page - show work experience time -->
 <!--
-{{- if eq .URL "/experience/" }}
+{{- if eq .Permalink "/experience/" }}
 <p class="has-text-weight-light mt-sm">
   <span class="mr-sm">🕒</span>{{- if not (eq $experienceYears 0) }}{{ $experienceYears }} {{- if gt $experienceYears 1 }}years{{ else }}year{{- end }}{{- end }}{{- if not (eq $experienceMonths 0) }} {{ $experienceMonths }} {{- if gt $experienceMonths 1 }}months{{ else }}month{{- end }}{{- end }}{{- if not (eq $experienceDaysTotal 0) }} {{ $experienceDaysTotal }} {{- if gt $experienceDaysTotal 1 }}days{{ else }}day{{- end }}{{- end }} of work experience
 </p>
@@ -96,7 +96,7 @@
   {{ $hours := .Params.hours | int }}
   {{ $freelancingHours = add $freelancingHours $hours }}
 {{- end }}
-{{- if eq .URL "/freelancing/" }}
+{{- if eq .Permalink "/freelancing/" }}
   <p class="has-text-weight-light mt-sm">
     <span class="mr-sm">💸️</span>{{ $freelancingHours }} hours of freelancing so far
   </p>
@@ -114,7 +114,7 @@
   {{ $hours := .Params.hours | int }}
   {{ $mentoringHours = add $mentoringHours $hours }}
 {{- end }}
-{{- if eq .URL "/mentoring/" }}
+{{- if eq .Permalink "/mentoring/" }}
   <p class="has-text-weight-light mt-sm">
     <span class="mr-sm">💛</span>{{ $mentoringHours }} hours volunteered so far
   </p>
@@ -140,7 +140,7 @@
   </p>
 {{- end }}
 <!-- Speaking -->
-{{- if eq .URL "/speaking/" }}
+{{- if eq .Permalink "/speaking/" }}
   {{ $talks := ($.Site.Taxonomies.categories.talk).Pages }}
   <p class="has-text-weight-light mt-sm">
     <span class="mr-sm">📢️</span>There are

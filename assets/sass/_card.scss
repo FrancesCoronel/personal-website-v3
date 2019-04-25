@@ -16,10 +16,13 @@
     }
   }
 
-  .card-image,
+  .card-image {
+    height: 12em;
+  }
+
   .card-image--figure,
   .card-image--figure img {
-    height: 12em;
+    height: 100%;
   }
 
   .card-header-title,
@@ -45,9 +48,7 @@
 
 .podcast-episodes {
 
-  .card-image,
-  .card-image--figure,
-  .card-image--figure img {
+  .card-image {
     height: 8em;
 
     @media screen and (min-width: $mobile-s) {

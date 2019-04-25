@@ -103,7 +103,7 @@ The HTML Liquid snippets are optimized for use with the [Hugo static site genera
       <div class="navbar-item is-hidden-fullhd">
         <div class="buttons">
           {{ range .Site.Menus.social }}
-          <a class="button is-white" href="{{ .URL }}" target="_blank" rel="noopener">
+          <a class="button is-white" href="{{ .Permalink }}" target="_blank" rel="noopener">
             {{ if .Identifier }}<i class="{{ .Identifier }}" alt="{{ .Name }}" title="{{ .Name }}"></i>{{ end }}
           </a>
           {{ end }}
@@ -122,19 +122,19 @@ The HTML Liquid snippets are optimized for use with the [Hugo static site genera
         {{ range .Site.Menus.main }}
         {{ if .HasChildren }}
         <div class="navbar-item has-dropdown is-hoverable">
-          <a class="navbar-link{{ if (eq $currentPage.URL .URL) }} is-active{{ end }}" href="{{ .URL | relLangURL }}">
+          <a class="navbar-link{{ if (eq $currentPage.Permalink .Permalink) }} is-active{{ end }}" href="{{ .Permalink | relLangURL }}">
             {{ if .Identifier }}<i class="{{ .Identifier }}" alt="{{ .Name }}"></i> {{ end }}{{- .Name -}}
           </a>
           <div class="navbar-dropdown">
             {{ range .Children }}
-            <a class="navbar-item{{ if (eq $currentPage.URL .URL) }} is-active{{ end }}" href="{{ .URL | relLangURL }}">
+            <a class="navbar-item{{ if (eq $currentPage.Permalink .Permalink) }} is-active{{ end }}" href="{{ .Permalink | relLangURL }}">
               {{ if .Identifier }}<i class="{{ .Identifier }}" alt="{{ .Name }}"></i>{{ end }} {{ .Name }}
             </a>
             {{ end }}
           </div>
         </div>
         {{ else }}
-        <a class="navbar-item{{ if (eq $currentPage.URL .URL) }} is-active{{ end }}" href="{{ .URL | absLangURL }}">
+        <a class="navbar-item{{ if (eq $currentPage.Permalink .Permalink) }} is-active{{ end }}" href="{{ .Permalink | absLangURL }}">
           {{- if .Identifier -}}<i class="{{ .Identifier }}" alt="{{ .Name }}"></i>{{- end -}} {{ .Name }}
         </a>
         {{ end }}
@@ -145,7 +145,7 @@ The HTML Liquid snippets are optimized for use with the [Hugo static site genera
         <div class="navbar-item">
           <div class="buttons">
             {{ range .Site.Menus.social }}
-            <a class="button is-white" href="{{ .URL }}" target="_blank" rel="noopener">
+            <a class="button is-white" href="{{ .Permalink }}" target="_blank" rel="noopener">
               {{ if .Identifier }}<i class="{{ .Identifier }}" alt="{{ .Name }}" title="{{ .Name }}"></i>{{ end }}
             </a>
             {{ end }}
@@ -213,22 +213,9 @@ The HTML Liquid snippets are optimized for use with the [Hugo static site genera
 <link rel="next" href="{{ .NextInSection.Permalink }}" /> {{ end }} {{ end }}
 <!-- Canonical -->
 <link rel="canonical" href="{{ .Permalink | safeURL }}" />
-<!-- RSS -->
-{{ if .RSSLink }}
-<link
-  rel="alternate"
-  type="application/rss+xml"
-  title="{{ .Site.Title }}"
-  href="{{ .RSSLink }}"
-/>
-{{ end }}
 <!-- Alternative Output -->
 {{ range .AlternativeOutputFormats -}}
-<link
-  rel="{{ .Rel }}"
-  type="{{ .MediaType.Type }}"
-  href="{{ .Permalink | safeURL }}"
-/>
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}
 ```
 

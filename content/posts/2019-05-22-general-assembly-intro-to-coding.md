@@ -1,6 +1,6 @@
 ---
 title: "Intro to Coding: HTML & CSS"
-date: 2019-05-28
+date: 2019-05-22
 image: https://i.imgur.com/WiCellf.jpg
 description: "Teaching an intro to coding class as a contract instructor."
 link: https://generalassemb.ly/education/intro-to-coding-html-css/san-francisco

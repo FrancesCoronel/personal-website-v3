@@ -1,6 +1,6 @@
 ---
 title: That TAPIA Conference
-date: 2015-02-21 12:30:00 -0800
+date: 2015-02-21
 description: A conference that promotes diversity in computing.
 location: Renaissance Austin Hotel - Austin, Texas
 image: https://i.imgur.com/CFJ8IES.jpg

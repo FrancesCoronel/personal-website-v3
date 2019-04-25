@@ -13,19 +13,20 @@
         {{ $parentPages := where .Site.RegularPages "Type" "page" }}
         {{ $homePages := $parentPages | union (.Site.Sections) }}
         {{ range $homePages.ByTitle }}
-          {{ if .Params.navbar }}
-            <li class="nav-item">
-              <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="menu-item is-size-3">
-                {{ if .Params.display }}
-                  {{ .Params.display }}
-                {{ else }}
-                  {{ .Title }}
-                {{ end }}
-              </a>
-            </li>
-          {{ end }}
+        {{ if .Params.navbar }}
+        <li class="nav-item">
+          <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="menu-item is-size-3">
+            {{ if .Params.display }}
+            {{ .Params.display }}
+            {{ else }}
+            {{ .Title }}
+            {{ end }}
+          </a>
+        </li>
+        {{ end }}
         {{ end }}
       </ul>
     </nav>
   </div>
 </div>
+
