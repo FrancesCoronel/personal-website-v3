@@ -16,10 +16,10 @@
   "author": "Frances Coronel",
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "7.4.3",
+    "@babel/core": "7.4.4",
     "@babel/plugin-syntax-object-rest-spread": "7.2.0",
-    "@babel/preset-env": "7.4.3",
-    "@babel/register": "7.4.0",
+    "@babel/preset-env": "7.4.4",
+    "@babel/register": "7.4.4",
     "autoprefixer": "9.5.1",
     "babel-eslint": "10.0.1",
     "babel-loader": "8.0.5",
