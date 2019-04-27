@@ -14,12 +14,8 @@ aliases:
   - /about/contact/
   - /contact/donate/
   - /donate/
+  - /support/
 ---
-
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<!-- Calendly link widget end -->
 
 ## LinkedIn 💼️
 
@@ -27,7 +23,12 @@ If you'd like to stay in touch professionally, don't hesitate to [connect with m
 
 ## Book a Chat 📅
 
-You can <a href="" onclick="Calendly.showPopupWidget('https://calendly.com/fvcproductions');return false;">schedule a time to chat with me</a> using <a href="https://calendly.com/fvcproductions" target="_blank" rel="noopener">my Calendly</a>.
+You can schedule a time to chat with me using [my Calendly](https://calendly.com/fvcproductions).
+
+### Mentoring
+
+<!-- prettier-ignore -->
+I [charge $25 for every 30 minutes of mentoring](https://wirize.com/payments/HwjrgiJlKfO4) and [$50 for every 1 hour of mentoring](https://wirize.com/payments/dLmS2sCVS3pM).
 
 ## Ask Me Anything (AMA) 🤔️
 
@@ -39,7 +40,7 @@ Feel free to [submit a new issue](https://github.com/fvcproductions/ama/issues/n
 
 If none of the above options seemed appropriate for you, fill out the contact form below and I'll get back to you as soon as I can.
 
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" method="POST" data-netlify="true" class="form">
   <input type="hidden" name="_subject" value="FVCproductions - New Contact Message">
   <div class="field">
     <label class="label">Name</label>

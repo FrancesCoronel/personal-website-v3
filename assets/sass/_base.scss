@@ -18,6 +18,10 @@ body,
   position: relative;
 }
 
+form {
+  max-width: $tablet;
+}
+
 a {
   color: $link;
 

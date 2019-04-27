@@ -1,63 +1,65 @@
 {{ define "main" }}
-<!-- Intro -->
-<div class="section">
-  <div class="content">
-    <h1>👋🏽️ {{ .Site.Params.headline }}</h1>
-    <p>{{ .Site.Params.description }}</p>
+<div class="main">
+  <!-- Intro -->
+  <div class="section">
+    <div class="content">
+      <h1>👋🏽️ {{ .Site.Params.headline }}</h1>
+      <p>{{ .Site.Params.description }}</p>
+    </div>
   </div>
-</div>
-<!-- Line Separator -->
-<div class="section pt-sm pb-sm">
-  <hr>
-</div>
-<!-- Nowadays -->
-<div class="section">
-  <div class="content">
-    <h2>🕒 {{ i18n "nowadays" }}</h2>
-    <p>I am currently a software engineer specializing in UI development on the Customer Acquisition Team at <a href="https://slack.com?source=fvcproductions" target="_blank" rel="noopener"><strong>Slack</strong></a> where my mission is to make your working life simpler, more pleasant and more productive.</p>
-    <p>I have been working professionally as a developer since 2015 and have both a Bachelors and Masters in Computer Science.</p>
-    <p>I am also a board member and open source lead for <a href="https://techqueria.org" target="_blank" rel="noopener"><strong>Techqueria</strong></a>, a nonprofit representing the largest community for Latinx in Tech and the host of <a href="/podcast/" target="_blank" rel="noopener"><strong>Tech Queens</strong></a>, the first and only podcast that focuses on the stories and advice shared by women of color in tech.</p>
-    <p>My passions outside of work include contributing to open-source, public speaking and mentoring other URMs in tech.</p>
+  <!-- Line Separator -->
+  <div class="section pt-sm pb-sm">
+    <hr>
   </div>
-</div>
-<!-- Line Separator -->
-<div class="section pt-sm pb-sm">
-  <hr>
-</div>
-<!-- Most Recent 10 Posts -->
-<div class="section">
-  {{ $regularPages := .Site.RegularPages }}
-  {{ $regularPagesBeforeNow := where $regularPages "Date" "le" now | first 10 }}
-  <div class="content table-border-none">
-    <h2>📝 Latest Posts</h2>
-    <p>
-      I've written about
-      <a href="/posts/">{{ len $regularPages }} different things</a> so far but here are some of my most recent posts.
-    </p>
-    <!-- Table -->
-    <table class="table">
-      <tbody>
-        {{ range $regularPagesBeforeNow.ByDate.Reverse }}
-        <tr>
-          <td class="v--home__date">{{ dateFormat "January 2" .Date }}</td>
-          <td>
-            <a href="{{ .RelPermalink }}" rel="noopener">{{ .Title }}</a>
-          </td>
-        </tr>{{ end }}
-      </tbody>
-    </table>
+  <!-- Nowadays -->
+  <div class="section">
+    <div class="content">
+      <h2>🕒 {{ i18n "nowadays" }}</h2>
+      <p>I am currently a software engineer specializing in UI development on the Customer Acquisition Team at <a href="https://slack.com?source=fvcproductions" target="_blank" rel="noopener"><strong>Slack</strong></a> where my mission is to make your working life simpler, more pleasant and more productive.</p>
+      <p>I have been working professionally as a developer since 2015 and have both a Bachelors and Masters in Computer Science.</p>
+      <p>I am also a board member and open source lead for <a href="https://techqueria.org" target="_blank" rel="noopener"><strong>Techqueria</strong></a>, a nonprofit representing the largest community for Latinx in Tech and the host of <a href="/podcast/" target="_blank" rel="noopener"><strong>Tech Queens</strong></a>, the first and only podcast that focuses on the stories and advice shared by women of color in tech.</p>
+      <p>My passions outside of work include contributing to open-source, public speaking and mentoring other URMs in tech.</p>
+    </div>
   </div>
-</div>
-<!-- Line Separator -->
-<div class="section pt-sm pb-sm">
-  <hr>
-</div>
-<!-- Categories -->
-<div class="section">
-  <div class="content">
-    <h2>🏅 Milestones</h2>
-    {{ partial "pages/milestones.html" . }}
+  <!-- Line Separator -->
+  <div class="section pt-sm pb-sm">
+    <hr>
   </div>
+  <!-- Most Recent 10 Posts -->
+  <div class="section">
+    {{ $regularPages := .Site.RegularPages }}
+    {{ $regularPagesBeforeNow := where $regularPages "Date" "le" now | first 10 }}
+    <div class="content table-border-none">
+      <h2>📝 Latest Posts</h2>
+      <p>
+        I've written about
+        <a href="/posts/">{{ len $regularPages }} different things</a> so far but here are some of my most recent posts.
+      </p>
+      <!-- Table -->
+      <table class="table">
+        <tbody>
+          {{ range $regularPagesBeforeNow.ByDate.Reverse }}
+          <tr>
+            <td class="v--home__date">{{ dateFormat "January 2" .Date }}</td>
+            <td>
+              <a href="{{ .RelPermalink }}" rel="noopener">{{ .Title }}</a>
+            </td>
+          </tr>{{ end }}
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <!-- Line Separator -->
+  <div class="section pt-sm pb-sm">
+    <hr>
+  </div>
+  <!-- Categories -->
+  <div class="section">
+    <div class="content">
+      <h2>🏅 Milestones</h2>
+      {{ partial "pages/milestones.html" . }}
+    </div>
+  </div>
+  <br>
 </div>
-<br>
 {{ end }}
