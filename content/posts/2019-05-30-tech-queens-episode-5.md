@@ -1,7 +1,7 @@
 ---
-title: "Episode 5. Faith Chikwekwe"
+title: "Episode 5. Anisha Carter"
 date: 2019-05-30
-plannedRecording: 2019-05-01
+initialRecording: 2019-04-27
 description: "TBA"
 image: "/assets/img/podcast/episodes/tech-queens-episode-5.jpg"
 externalLink: https://anchor.fm/tech-queens/
@@ -16,3 +16,5 @@ tags:
   - tech queens
   - women of color in tech
 ---
+
+![Anisha Carter](https://i.imgur.com/Q7mnOxz.png)

@@ -5,11 +5,10 @@ image: "/assets/img/podcast/tech-queens-format.jpg"
 noComments: true
 noTimeEstimate: true
 podcastEmail: true
-toc: true
 url: /tech-queens/episode-format/
 ---
 
-# Welcome, future Tech Queen! 👑
+## Welcome, future Tech Queen! 👑
 
 Thank you for taking the time out of your busy day to be on the podcast - I really appreciate it. 💛
 
@@ -250,11 +249,11 @@ The crown emoji 👑 is attributed to Twitter. Copyright 2018 Twitter, Inc and o
 
 Music by Jukedeck - create your own at [jukedeck.com](https://jukedeck.com).
 
----
-
 ## Sanity Check
 
 - How are you feeling? Nervous, excited?
 - Are you in a quiet place?
 - Remember, if you need to start over - just let me know and we can start from the top
-- If you forget to define something, I'll let you know in the form of the question
+- If you forget to define something, I’ll let you know in the form of the question
+- What do you want to get out of this podcast, what do you want listeners to come away with?
+- Did you send me your high-res photo and avatar?

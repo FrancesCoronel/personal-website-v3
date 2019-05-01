@@ -37,9 +37,11 @@ Might have something to do with human nature in general, though, so interpret it
 
 ## Bio
 
-Frances Coronel is a software engineer specializing in UI development on the Customer Acquisition Team at Slack.
+**Frances Coronel** is a software engineer specializing in UI development on the Customer Acquisition Team at [**Slack**](https://slack.com?source=fvcproductions) where her mission is to make your working life simpler, more pleasant and more productive.
 
 She has been working professionally as a developer since 2015 and has both a Bachelors and Masters in Computer Science.
+
+Frances is also a board member and open source lead for [**Techqueria**](https://techqueria.org), a nonprofit representing the largest community for Latinx in Tech and the host of [**Tech Queens**](/podcast/), the first and only podcast that focuses on the stories and advice shared by women of color in tech.
 
 Her passions outside of work include contributing to open-source, public speaking and mentoring other URMs in tech.
 
