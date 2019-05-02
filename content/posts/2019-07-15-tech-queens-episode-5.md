@@ -1,10 +1,10 @@
 ---
 title: "Episode 5. Anisha Carter"
-date: 2019-05-30
+date: 2019-07-15
 initialRecording: 2019-04-27
-description: "TBA"
-image: "/assets/img/podcast/episodes/tech-queens-episode-5.jpg"
-externalLink: https://anchor.fm/tech-queens/
+description: "In this episode, I’m talking with Anisha Carter who is a currently a Product Manager at a large fin-tech company."
+image: "/assets/img/podcast/episodes/tech-queens-anisha-carter.jpg"
+externalLink: https://www.linkedin.com/in/anisha-carter-one
 toc: true
 url: /tech-queens/episode-5/
 aliases:

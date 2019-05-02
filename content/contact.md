@@ -23,12 +23,12 @@ If you'd like to stay in touch professionally, don't hesitate to [connect with m
 
 ## Book a Chat 📅
 
-You can schedule a time to chat with me using [my Calendly](https://calendly.com/fvcproductions).
+You can schedule a time to chat with me using [my Calendly](https://calendly.com/fvcproductions). Please note that I do charge for any mentoring sessions (see below).
 
-### Mentoring
+### Want mentoring or career advice?
 
 <!-- prettier-ignore -->
-I [charge $25 for every 30 minutes of mentoring](https://wirize.com/payments/HwjrgiJlKfO4) and [$50 for every 1 hour of mentoring](https://wirize.com/payments/dLmS2sCVS3pM).
+Due to high demand and my limited bandwidth, I now [charge $25 for every 30 minutes of mentoring](https://wirize.com/payments/HwjrgiJlKfO4). You can also pay through [Square Cash](http://cash.me/fvcprdxs) or [Venmo](https://venmo.com/fvcproductions). Please make sure to pay this amount before booking a session through my Calendly or I will have to reschedule/cancel the session.
 
 ## Ask Me Anything (AMA) 🤔️
 

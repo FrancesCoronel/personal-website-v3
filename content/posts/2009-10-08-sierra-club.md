@@ -2,6 +2,7 @@
 title: Sierra Club
 description: Passively supporting them through recurring donations since 9th grade.
 date: 2009-10-08
+image: https://i.imgur.com/y9lE3tR.png
 link: https://www.sierraclub.org/
 categories:
   - volunteering

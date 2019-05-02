@@ -36,17 +36,9 @@
   </a>
   <!-- Links -->
   {{ if $pageLinksPresent }}
-    <div class="media-content pt-0 {{ if $categoriesOrTagsPresent }}pb-sm{{ else }}pb-1{{ end }}">
+    <div class="media-content pt-0 pb-1">
       <div class="content">
         {{- partial "page-links.html" . -}}
-      </div>
-    </div>
-  {{ end }}
-  <!-- Taxonomy -->
-  {{ if $categoriesOrTagsPresent }}
-    <div class="media-content pt-1">
-      <div class="content">
-        {{ partial "taxonomy.html" . }}
       </div>
     </div>
   {{ end }}
