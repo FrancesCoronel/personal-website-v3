@@ -1,7 +1,7 @@
 ---
 title: "Episode 7. Faith Chikwekwe"
 date: 2019-09-16
-plannedRecording: 2019-05-01
+recordingDate: 2019-05-01
 description: "In this episode, I’m talking with Faith Chikwekwe who is currently a student studying software engineering at Make School and a teaching assistant for their computer science courses."
 image: "/assets/img/podcast/episodes/tech-queens-faith-chikwekwe.jpg"
 externalLink: https://www.linkedin.com/in/faithchikwekwe/

@@ -3,9 +3,9 @@ title: "Intro to Coding: HTML & CSS"
 date: 2019-05-06
 image: https://i.imgur.com/WiCellf.jpg
 description: "Teaching an intro to coding class as a contract instructor."
-link: https://generalassemb.ly/education/intro-to-coding-html-css/san-francisco
+link: https://generalassemb.ly/instructors/frances-coronel/19162
 location: General Assembly - San Francisco, California
-slides: https://www.slideshare.net/FVCproductions/general-assembly-so-you-want-to-be-a-wizard
+slides: http://bit.ly/fc-ga-slides-public
 categories:
   - speaking
 tags:

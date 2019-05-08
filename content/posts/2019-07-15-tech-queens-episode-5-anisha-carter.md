@@ -1,7 +1,7 @@
 ---
 title: "Episode 5. Anisha Carter"
 date: 2019-07-15
-initialRecording: 2019-04-27
+recordingDate: 2019-04-27
 description: "In this episode, I’m talking with Anisha Carter who is a currently a Product Manager at a large fin-tech company."
 image: "/assets/img/podcast/episodes/tech-queens-anisha-carter.jpg"
 externalLink: https://www.linkedin.com/in/anisha-carter-one

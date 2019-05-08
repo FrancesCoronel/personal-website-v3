@@ -1,7 +1,7 @@
 ---
 title: "Episode 2. Anisha Jain"
 date: 2019-04-12
-initialRecording: 2019-04-01
+recordingDate: 2019-04-01
 description: "In this episode, I'm talking with Anisha Jain who is currently a student at Make School and an incoming software engineering intern for Lyft."
 image: "/assets/img/podcast/episodes/tech-queens-anisha-jain.jpg"
 recording: https://anchor.fm/tech-queens/episodes/Episode-2---Anisha-Jain-e3n5ur

@@ -1,8 +1,8 @@
 ---
 title: "Episode 8. Pia Zaragoza"
-date: 2019-09-16
-plannedRecording: 2019-05-01
-description: "TBA"
+date: 2019-10-14
+recordingDate: 2019-05-03
+description: "In this episode, I'm talking with Pia Zaragoza who is a Senior UX Researcher at a large financial institution."
 image: "/assets/img/podcast/episodes/tech-queens-pia-zaragoza.jpg"
 externalLink: https://www.linkedin.com/in/piazaragoza/
 toc: true
