@@ -13,6 +13,7 @@ categories:
 tags:
   - podcast
   - codenewbie
+  - recording
 ---
 
 [CodeNewbie](https://www.codenewbie.org/podcast) features stories from people on their coding journey.

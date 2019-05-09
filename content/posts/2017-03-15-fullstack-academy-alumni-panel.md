@@ -9,6 +9,7 @@ categories:
   - speaking
 tags:
   - panel
+  - video
 ---
 
 ## Event

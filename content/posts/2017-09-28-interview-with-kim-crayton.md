@@ -1,12 +1,13 @@
 ---
-title: 'Community Engineering Report Podcast Interview with Kim Crayton'
+title: "Community Engineering Report Podcast Interview with Kim Crayton"
 date: 2017-09-28
-description: 'A podcast where honest conversations about #diversity, #inclusion, & safe #spaces in #tech happen.'
+description: "A podcast where honest conversations about #diversity, #inclusion, & safe #spaces in #tech happen."
 image: https://i.imgur.com/LWzCzMm.jpg
 video: https://www.pscp.tv/KimCrayton1/1zqJVRPmrLLJB
 location: Strange Loop Conference
 categories:
   - speaking
+  - video
 ---
 
 Kim Crayton, a renowned figure for diversity in the tech industry, interviewed me on my thoughts regarding the Project Alloy scholarships for Strange Loop and my experience in tech as a Latina.

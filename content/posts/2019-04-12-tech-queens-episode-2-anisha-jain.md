@@ -15,6 +15,7 @@ categories:
 tags:
   - tech queens
   - women of color in tech
+  - recording
 ---
 
 ## Recording

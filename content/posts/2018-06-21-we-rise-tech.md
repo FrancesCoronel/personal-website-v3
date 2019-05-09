@@ -11,6 +11,7 @@ categories:
   - speaking
 tags:
   - typescript101
+  - video
 ---
 
 ## Name
