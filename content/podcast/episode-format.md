@@ -27,6 +27,13 @@ Feel free to share this with other women of color in tech who you think might be
 7. Once the episode is published, share on social media & celebrate 🎉
 8. If you want, you can also buy swag for yourself or friends & family 🛒
 
+## Action Items
+
+1. Send me the SVG file of your avatar created from the generator 🖼️
+2. Send me a high-res photo of yourself 📸
+3. Make a copy of the Tech Queens Podcast Template using Google Docs and share it with me 📝
+4. Share on social media so more women of color can learn about this podcast 💬
+
 ## Before
 
 ### 1. Connect on LinkedIn
@@ -35,7 +42,7 @@ You can [connect with me through LinkedIn](https://linkedin.com/in/fvcproduction
 
 If we’re not connected already, feel free to send an invite over and I’ll happily accept.
 
-We will be using LinkedIn to message each other.
+We will be using LinkedIn to message each other and coordinate on assets, etc.
 
 ### 2. Book a time through my Calendly
 
@@ -53,17 +60,19 @@ Create your avatar using [the avataaars generator](https://getavataaars.com/) us
 
 This avatar will be used to create the banner like the one below for the episode banner.
 
-![Tech Queens - Episode 1](/assets/img/podcast/episodes/tech-queens-episode-1.jpg)
+![Tech Queens - Episode 1](/assets/img/podcast/episodes/tech-queens-frances-coronel.jpg)
 
-Send me the SVG file of your finished avatar via LinkedIn.
+**ACTION ITEM** Send me the SVG file of your finished avatar via LinkedIn.
 
 ### 4. Send me a high-res photo of yourself
 
 I will feature this image in the episode link so everyone can see your lovely face!
 
+**ACTION ITEM** Send me this image via LinkedIn and please make sure it's at least 1000 pixels in width.
+
 ### 5. Share on social media
 
-Share the news that you’ll be on the podcast on your social media platforms.
+**ACTION ITEM** Share the news that you’ll be on the podcast on your social media platforms.
 
 You can find image assets and social media templates below in the social media section.
 
@@ -71,9 +80,17 @@ You can find image assets and social media templates below in the social media s
 
 ### 1. Sharing your story
 
+**ACTION ITEM** Make a copy of [this Google Doc](http://bit.ly/tech-queens-podcast-template) and share your copy with me via LinkedIn with edit access.
+
+This Google Doc contains the intro template, pre-defined questions, mini-takeaway questions and the outro.
+
+You are more than welcome to edit this doc to your heart's desire since I want you to be in control of the conversation as well!
+
 #### Questions
 
 The questions I will ask will be something along the lines of this:
+
+> FYI, the Google Doc will always have the most updated list of these questions.
 
 - What’s your story?
 - What are you currently doing?
@@ -83,7 +100,6 @@ The questions I will ask will be something along the lines of this:
 - What experiences drew you to the field of technology?
 - As a minority woman in tech, what challenges or obstacles have you faced within the tech industry?
 - What groups, strategies or tools have you used to overcome those obstacles?
-- If you were a white man in tech, what do you think would be easier for you to deal with (if anything)?
 - If you could give any advice to your younger self as you were starting out, what would it be?
 - What do you think can be done to create a safer space for us?
 - If you were in a position of power at a tech company, what’s the first thing you would do to create a more inclusive space?
@@ -99,7 +115,7 @@ The questions I will ask will be something along the lines of this:
 I want listeners to come away with useful takeaways so I will always ask these questions at the end.
 
 - What is a useful app or platform that has helped you grow in your career? `#AppAdvice`
-- What does the term XYZ mean to you and how has it impacted your career? `#LearnThatTerm`
+- What does the term XYZ mean to you and how has it impacted your career? `#LearnThatTerm` (you will provide the term XYZ)
 - What is an organization or affinity group that you would recommend joining? `#Friendlies`
 - Where do you live online or how can people reach out to you? `#GrowYourNetwork`
 
@@ -136,6 +152,8 @@ If you do need to catch your breath, no worries! Just let me know so then I can 
 I also recommend educating yourself a little bit on “crutch words” and how you can avoid them.
 
 I use crutch words myself quite a lot so it’s alright if you do use them but even so, just being aware of what they are can help a lot.
+
+> If you want to record in person, the next section isn't relevant and I will provide more details when we chat.
 
 ### 4. Recording
 
