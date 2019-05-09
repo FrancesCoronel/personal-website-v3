@@ -7,6 +7,7 @@ video: https://www.pscp.tv/KimCrayton1/1zqJVRPmrLLJB
 location: Strange Loop Conference
 categories:
   - speaking
+tags:
   - video
 ---
 
