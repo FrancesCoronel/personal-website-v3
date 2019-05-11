@@ -43,7 +43,7 @@
     "lozad": "1.9.0",
     "plugin-error": "1.0.1",
     "postcss-csso": "3.0.0",
-    "snyk": "1.156.0",
+    "snyk": "1.163.3",
     "twemoji": "12.0.1",
     "webpack": "4.30.0",
     "workbox-webpack-plugin": "4.3.1"
