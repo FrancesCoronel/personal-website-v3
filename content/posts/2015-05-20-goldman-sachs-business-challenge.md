@@ -7,7 +7,7 @@ categories:
   - award
 ---
 
-> [Goldman Sachs | 10,000 Small Businesses Student Challenge Winner](http://www.goldmansachs.com/careers/students-and-graduates/our-programs/americas-programs/student-challenge.html)
+> [Goldman Sachs | 10,000 Small Businesses Student Challenge Winner](https://www.goldmansachs.com/careers/students-and-graduates/our-programs/americas-programs/student-challenge.html)
 
 ## Highlights
 
@@ -47,7 +47,7 @@ Needless to say, I learned a lot about what kind of environment I'd like to work
 
 **Anyways**, I'm going to use all `$5K` of what I earned to pay for the Fullstack Academy tuition, which is going to cover roughly half of it all
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="http://www.goldmansachs.com/careers/students/programs/">Goldman Sachs | Student Programs</a></h4></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.goldmansachs.com/careers/students/programs/">Goldman Sachs | Student Programs</a></h4></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ![Brooklyn Cupcake](https://i.imgur.com/bm2JzNZ.jpg)

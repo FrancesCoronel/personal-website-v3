@@ -56,7 +56,7 @@ I think it's the little things - the moments where you could have gotten an oppo
 
 ### **#Friendlies**: What is an organization or affinity group that you would recommend joining?
 
-- [Girls Teaching Girls to Code](http://girlsteachinggirlstocode.org/index.html) is a program where college women teach and inspire Bay Area high school girls to explore Computer Science and Engineering. Students learn coding basics, build exciting projects, and develop strong relationships with mentors in the field.
+- [Girls Teaching Girls to Code](https://girlsteachinggirlstocode.org/index.html) is a program where college women teach and inspire Bay Area high school girls to explore Computer Science and Engineering. Students learn coding basics, build exciting projects, and develop strong relationships with mentors in the field.
 - [IGNITE’s](https://www.igniteworldwide.org/) mission is to create opportunities to spark girls’ excitement about technology careers and inspire them to new possibilities. IGNITE lights them up.
 
 ### **#GrowYourNetwork**: Where do you live online or how can people reach out to you?

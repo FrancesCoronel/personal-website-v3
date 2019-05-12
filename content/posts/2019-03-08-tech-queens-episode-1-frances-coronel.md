@@ -136,7 +136,7 @@ So until next time, stay fancy!
 
 ## References
 
-- [AI4ALL](http://ai-4-all.org/)
+- [AI4ALL](https://ai-4-all.org/)
 - [CNET - Tech industry is leaving behind women of color, report shows](https://www.cnet.com/news/tech-leaving-behind-women-of-color/)
 - [Kapor Center - The Leaky Tech Pipeline](https://www.leakytechpipeline.com/)
 - [McKinsey - Closing the tech gender gap through philanthropy and corporate social responsibility](https://www.mckinsey.com/industries/high-tech/our-insights/closing-the-tech-gender-gap-through-philanthropy-and-corporate-social-responsibility)

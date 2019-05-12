@@ -281,7 +281,7 @@ But until then, patch away!
 - https://www.quora.com/Is-speculative-execution-a-fundamentally-flawed-processor-feature
 - https://www.quora.com/What-do-you-think-of-Linus-Torvalds-reaction-to-Intels-Meltdown-Spectre-fix-as-comlete-and-utter-garbage
 - https://www.theverge.com/2018/1/6/16854668/meltdown-spectre-hack-explained-bank-heist-analogy
-- http://www.zdnet.com/article/spectre-and-meltdown-linux-creator-linus-torvalds-criticises-intels-garbagepatches/
+- https://www.zdnet.com/article/spectre-and-meltdown-linux-creator-linus-torvalds-criticises-intels-garbagepatches/
 - https://lkml.org/lkml/2018/1/21/192
 - https://meltdownattack.com/
 - https://thehackernews.com/2018/01/meltdown-spectre-vulnerability.html

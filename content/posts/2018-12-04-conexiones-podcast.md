@@ -13,6 +13,6 @@ tags:
   - podcast
 ---
 
-[Conexiones](http://conexiones.io/) was born from the desire to share stories about Latinos in technology and science through podcasts.
+[Conexiones](https://conexiones.io/) was born from the desire to share stories about Latinos in technology and science through podcasts.
 
 Recording was completed November 28th - stay tuned for the actual episode!

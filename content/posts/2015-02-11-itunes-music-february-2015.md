@@ -9,7 +9,7 @@ categories:
 
 Okay, I've decided to compile all the music from my iTunes library due to sheer boredom.
 
-# Okay, I've decided to compile all the music from my iTunes library due to sheer boredom.
+## Okay, I've decided to compile all the music from my iTunes library due to sheer boredom.
 
 Also, I think it'll be nice to see how much my musical preferences have changed a few years from now. And it [**will change**](https://www.ted.com/talks/dan_gilbert_you_are_always_changing "Dan Gilbert").
 
@@ -41,7 +41,7 @@ One of my all time favorites is `Assassin's Creed III Main Theme.`
 
 I don't think I could ever get tired of `Heartbeat`.
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=NVk4vENObiI">Enrique Iglesias - Heartbeat ft. Nicole Scherzinger</a></h4><p>NEW SONG - MOVE TO MIAMI feat. Pitbull (Click "SHOW MORE" below) Watch on YouTube: http://smarturl.it/MTMvEnrique - Shazam to Unlock an exclusive video! Listen on Spotify: http://smarturl.it/EnriqueMTM/spotify Apple Music: http://smarturl.it/EnriqueMTM/applemusic iTunes: http://smarturl.it/EnriqueMTM/itunes Google Play: http://smarturl.it/EnriqueMTM/googleplay Amazon: http://smarturl.it/EnriqueMTM/az Choose Your Platform!: http://smarturl.it/EnriqueMTM?iQid=yt ENRIQUE ON TOUR (Tickets): https://enriqueiglesias.com/events FOLLOW ENRIQUE: Instagram: http://www.instagram.com/enriqueiglesias Facebook: http://www.facebook.com/enriqueiglesias Twitter: http://www.twitter.com/enriqueiglesias Snapchat: enrique Sign up to http://www.enriqueiglesias.com for exclusive access and offers.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=NVk4vENObiI">Enrique Iglesias - Heartbeat ft. Nicole Scherzinger</a></h4><p>NEW SONG - MOVE TO MIAMI feat. Pitbull (Click "SHOW MORE" below) Watch on YouTube: https://smarturl.it/MTMvEnrique - Shazam to Unlock an exclusive video! Listen on Spotify: https://smarturl.it/EnriqueMTM/spotify Apple Music: https://smarturl.it/EnriqueMTM/applemusic iTunes: https://smarturl.it/EnriqueMTM/itunes Google Play: https://smarturl.it/EnriqueMTM/googleplay Amazon: https://smarturl.it/EnriqueMTM/az Choose Your Platform!: https://smarturl.it/EnriqueMTM?iQid=yt ENRIQUE ON TOUR (Tickets): https://enriqueiglesias.com/events FOLLOW ENRIQUE: Instagram: https://www.instagram.com/enriqueiglesias Facebook: https://www.facebook.com/enriqueiglesias Twitter: https://www.twitter.com/enriqueiglesias Snapchat: enrique Sign up to https://www.enriqueiglesias.com for exclusive access and offers.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 **These songs are great when in the right mood. I actually learned about Evanescence through my mom because she enjoyed listening to her back when Evanescence was just starting out. It's a solid album, regardless.**
@@ -64,7 +64,7 @@ I like `S.T.A.Y`. the most because that's when everything just came into place d
 
 The first time I heard `Comptine d'Un Autre Été` was before I even knew who Amelie was so when I heard it again in the movie, it just clicked and I still don't get tired of listening to it.
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=H2-1u8xvk54">Comptine d'Un Autre Été- Die fabelhafte Welt der Amélie Piano [Large Version 2010]</a></h4><p>© by MSD Stadium Records. https://www.facebook.com/TheChiefEmperor New Edition Xtra Large 2014 here: http://www.youtube.com/watch?v=BEXYYIiWHIk This beautiful tune by Yann Tiersen is too short, so I decided to compose a second part for that to enlarge it. Hope you like it. There's no sheet music for this.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=H2-1u8xvk54">Comptine d'Un Autre Été- Die fabelhafte Welt der Amélie Piano [Large Version 2010]</a></h4><p>© by MSD Stadium Records. https://www.facebook.com/TheChiefEmperor New Edition Xtra Large 2014 here: https://www.youtube.com/watch?v=BEXYYIiWHIk This beautiful tune by Yann Tiersen is too short, so I decided to compose a second part for that to enlarge it. Hope you like it. There's no sheet music for this.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 **I combined the music from the Hobbit series and LOTR series for this one Lord of the Rings album because well, same difference.**
@@ -92,7 +92,7 @@ And cause it's your birthday, you're gonna `lose yourself to dance` `one more ti
 
 Copyright FVCproductions 2015. Lol.
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=NF-kLy44Hls">Daft Punk - Lose Yourself to Dance (Official Version)</a></h4><p>Daft Punk's official music video for 'Lose Yourself To Dance'. Click to listen to Daft Punk on Spotify: http://smarturl.it/DaftPunkSpotify?IQ... As featured on Random Access Memories. Click to buy the track or album via iTunes: http://smarturl.it/DPRAMiTunes?IQid=D...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=NF-kLy44Hls">Daft Punk - Lose Yourself to Dance (Official Version)</a></h4><p>Daft Punk's official music video for 'Lose Yourself To Dance'. Click to listen to Daft Punk on Spotify: https://smarturl.it/DaftPunkSpotify?IQ... As featured on Random Access Memories. Click to buy the track or album via iTunes: https://smarturl.it/DPRAMiTunes?IQid=D...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 **For all you alternatives out there.**
@@ -106,7 +106,7 @@ La da di da...
 
 Yes, ma Cherie...
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=FGAyjfwK-wI">DJ Antoine ft. The Beat Shakers - Ma Chérie (DJ Antoine vs Mad Mark 2k12 Edit) (Official Video HD)</a></h4><p>Check DJ Antoine's new single with Sido & Moe Phoenix 'YALLAH HABIBI' here: https://dj-antoine.lnk.to/YallahHabibiYo Taken from his forthcoming album 'THE TIME IS NOW' | 3CD-Set & Download | Pre-order: https://ktr.lnk.to/DJ-Antoine-TTINYo ► Follow DJ Antoine http://www.facebook.com/DJAntoine http://www.djantoine.com http://www.soundcloud.com/dj-ant1 http://twitter.com/djantoine http://www.instagram.com/djantoineofficial http://www.youtube.com/watchant1 http://www.myspace.com/djantoine http://www.globalproductions.ch/ ► Follow Kontor Records Spotify: http://www.kontor.fm Facebook: http://facebook.com/kontorrecords SoundCloud: http://soundcloud.com/kontor Instagram: http://instagram.com/kontorrecords Google+ : https://plus.google.com/+kontorrecords Twitter: http://twitter.com/kontorrecords Kontor.TV: http://youtube.com/kontor</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=FGAyjfwK-wI">DJ Antoine ft. The Beat Shakers - Ma Chérie (DJ Antoine vs Mad Mark 2k12 Edit) (Official Video HD)</a></h4><p>Check DJ Antoine's new single with Sido & Moe Phoenix 'YALLAH HABIBI' here: https://dj-antoine.lnk.to/YallahHabibiYo Taken from his forthcoming album 'THE TIME IS NOW' | 3CD-Set & Download | Pre-order: https://ktr.lnk.to/DJ-Antoine-TTINYo ► Follow DJ Antoine https://www.facebook.com/DJAntoine https://www.djantoine.com https://www.soundcloud.com/dj-ant1 https://twitter.com/djantoine https://www.instagram.com/djantoineofficial https://www.youtube.com/watchant1 https://www.myspace.com/djantoine https://www.globalproductions.ch/ ► Follow Kontor Records Spotify: https://www.kontor.fm Facebook: https://facebook.com/kontorrecords SoundCloud: https://soundcloud.com/kontor Instagram: https://instagram.com/kontorrecords Google+ : https://plus.google.com/+kontorrecords Twitter: https://twitter.com/kontorrecords Kontor.TV: https://youtube.com/kontor</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 **Most of my EPIC music could probably be considered soundtrack as well or are just in separate albums. Too much epicness to handle sometimes.**
@@ -128,7 +128,7 @@ A long time favorite of mine from here is `Nara`.
 
 **Si, ya tu sabes. Jaja. ;-)**
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=cpLZeSigNvY">Travesuras Remix - Nicky Jam Ft De La Ghetto, J balvin, Zion y Arcangel | Video Lyric</a></h4><p>Mira: "Superhéroe - Nicky Jam ft J Balvin (Concept Video) (Álbum Fenix)" https://www.youtube.com/watch?v=jVnUQa-Paq4 -~-~~-~~~-~~-~- iTunes https://itunes.apple.com/album/id893604354 FACEBOOK http://www.facebook.com/Nickyjampr INSTAGRAM http://www.instagram.com/Nickyjampr TWITTER http://www.twitter.com/Nickyjampr YOUTUBE http://www.youtube.com/Nickyjamtv Contrataciones Nicky Jam: booking@nickyjampr.net Travesuras Remix Nicky Jam ft De la Ghetto, Arcangel, Zion y J Balvin http://www.ytrocket.com Video Lyric Por: http://www.2heart.co - Agencia de Branging Y Marketing Digital</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=cpLZeSigNvY">Travesuras Remix - Nicky Jam Ft De La Ghetto, J balvin, Zion y Arcangel | Video Lyric</a></h4><p>Mira: "Superhéroe - Nicky Jam ft J Balvin (Concept Video) (Álbum Fenix)" https://www.youtube.com/watch?v=jVnUQa-Paq4 -~-~~-~~~-~~-~- iTunes https://itunes.apple.com/album/id893604354 FACEBOOK https://www.facebook.com/Nickyjampr INSTAGRAM https://www.instagram.com/Nickyjampr TWITTER https://www.twitter.com/Nickyjampr YOUTUBE https://www.youtube.com/Nickyjamtv Contrataciones Nicky Jam: booking@nickyjampr.net Travesuras Remix Nicky Jam ft De la Ghetto, Arcangel, Zion y J Balvin https://www.ytrocket.com Video Lyric Por: https://www.2heart.co - Agencia de Branging Y Marketing Digital</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 **I'm really not much of an oldies fan, but if I'm really in the mood...**
@@ -142,7 +142,7 @@ A long time favorite of mine from here is `Nara`.
 
 `Ice Box` by Omarion is a long time favorite of mine, I have yet to grow tired of listening to it.
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=jQybgJCswF0">Omarion - Ice Box (Video)</a></h4><p>Omarion's official music video for 'Ice Box'. Click to listen to Omarion on Spotify: http://smarturl.it/OMSpot?IQid=OIB As Featured on 21.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=jQybgJCswF0">Omarion - Ice Box (Video)</a></h4><p>Omarion's official music video for 'Ice Box'. Click to listen to Omarion on Spotify: https://smarturl.it/OMSpot?IQid=OIB As Featured on 21.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 **Tbh, not much into Rock either...**
@@ -160,7 +160,7 @@ I could actually probably drop all these songs and be ok with it...
 
 **My ‘Random World' album is where I have songs that are not in English nor en Espanol. I have Albanian, Greek, Hindi/Bollywood, Arabic, Swedish, Portuguese, French, Iranian, Italian, Belizean, Chinese, Lebanese, Romanian, and Russian genres mixed up in this one. It's always nice finding a catchy non-American song.**
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=won4qtytcgo">Malang - Full Song | DHOOM:3 | Aamir Khan | Katrina Kaif | Siddharth Mahadevan | Shilpa Rao</a></h4><p>►Subscribe Now: https://goo.gl/D9UXA6 🔔 Stay updated! The best thing to hold on in life, is each other! Go Malang with the love of your life! Watch Full Movie: Google Play - http://goo.gl/Jzjl0t iTunes - http://goo.gl/Q4VsU0 Song Credits: Song: Malang Singers: Siddharth Mahadevan, Shilpa Rao Music: Pritam Lyrics: Sameer Anjaan © Yash Raj Films Pvt.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=won4qtytcgo">Malang - Full Song | DHOOM:3 | Aamir Khan | Katrina Kaif | Siddharth Mahadevan | Shilpa Rao</a></h4><p>►Subscribe Now: https://goo.gl/D9UXA6 🔔 Stay updated! The best thing to hold on in life, is each other! Go Malang with the love of your life! Watch Full Movie: Google Play - https://goo.gl/Jzjl0t iTunes - https://goo.gl/Q4VsU0 Song Credits: Song: Malang Singers: Siddharth Mahadevan, Shilpa Rao Music: Pritam Lyrics: Sameer Anjaan © Yash Raj Films Pvt.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 **Beam me up, Scotty.**
@@ -193,7 +193,7 @@ One of my favorites of theirs is `Heart of Courage`.
 
 _I'm dreaming of a white Christmas_ (in deep voice).
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=GfZPtkqXQIA">"White Christmas" - The Drifters</a></h4><p>e-book: http://www.amazon.com/dp/B006L9M81I http://www.christmaswishesbook.com Buy Book Direct: http://tinyurl.com/77a3wkh http://www.tradeschoolpress.com Unique Greeting Cards: http://www.cafepress.com/noblebeast</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=GfZPtkqXQIA">"White Christmas" - The Drifters</a></h4><p>e-book: https://www.amazon.com/dp/B006L9M81I https://www.christmaswishesbook.com Buy Book Direct: https://tinyurl.com/77a3wkh https://www.tradeschoolpress.com Unique Greeting Cards: https://www.cafepress.com/noblebeast</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 Whew. Okay, enough of this.

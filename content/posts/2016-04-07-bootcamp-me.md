@@ -206,42 +206,42 @@ You can get free macOS apps from `macbed.com`.
 
 #### Free Learn to Code Resources
 
-- [Bootstrap Cheatsheet](http://hackerthemes.com/bootstrap-cheatsheet)
-- [Code Free Startup](http://go.codefree.co/courses)
+- [Bootstrap Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet)
+- [Code Free Startup](https://go.codefree.co/courses)
 - [Code4Startups](https://code4startup.com/)
-- [CodePath](http://codepath.com/)
+- [CodePath](https://codepath.com/)
 - [CodeUpStart](https://www.codeupstart.com/)
-- [Coding Dojo Algorithms](http://algorithm.codingdojo.com/)
-- [Exercism.io](http://exercism.io/)
+- [Coding Dojo Algorithms](https://algorithm.codingdojo.com/)
+- [Exercism.io](https://exercism.io/)
 - [Free Code Camp](https://www.freecodecamp.com/)
 - [Git It Electron](https://github.com/jlord/git-it-electron)
 - [GitHub Guides](https://guides.github.com/)
 - [GitHub Training](https://training.github.com/training/)
-- [JS Jargon](http://jargon.js.org/)
+- [JS Jargon](https://jargon.js.org/)
 - [Launch School Books](https://launchschool.com/books)
-- [Marksheet](http://marksheet.io/)
+- [Marksheet](https://marksheet.io/)
 - [Node School](https://nodeschool.io/index.html#workshopper-list)
 
 #### Coding Bootcamp Open Source Curriculums
 
 - [App Academy Prep Work](https://github.com/appacademy/prep-work)
-- [Code Fellows – GitBook on Full Stack JavaScript Engineering](http://fsje.codefellows.org/index.html)
+- [Code Fellows – GitBook on Full Stack JavaScript Engineering](https://fsje.codefellows.org/index.html)
 - [Flatiron - Learn.co](https://learn.co/)
-- [Flatiron Prework](http://prework.flatironschool.com/)
-- [Fullstack Academy Interview Preparation Guide](http://www.fullstackacademy.com/interview_prep)
+- [Flatiron Prework](https://prework.flatironschool.com/)
+- [Fullstack Academy Interview Preparation Guide](https://www.fullstackacademy.com/interview_prep)
 - [General Assembly Dash](https://dash.generalassemb.ly/)
-- [Hackreactor How to Prepare for the Admissions Challenge](http://www.hackreactor.com/prepare-for-admissions-challenge/)
-- [Launch Academy Codecabulary](http://www.launchacademy.com/codecabulary)
-- [MakerSquare | Learn](http://learn.makersquare.com/courses)
-- [The Odin Project](http://www.theodinproject.com/courses)
-- [Turing School of Software and Design - Front End](http://frontend.turing.io/)
-- [Viking Code School Prep](http://www.vikingcodeschool.com/prep)
+- [Hackreactor How to Prepare for the Admissions Challenge](https://www.hackreactor.com/prepare-for-admissions-challenge/)
+- [Launch Academy Codecabulary](https://www.launchacademy.com/codecabulary)
+- [MakerSquare | Learn](https://learn.makersquare.com/courses)
+- [The Odin Project](https://www.theodinproject.com/courses)
+- [Turing School of Software and Design - Front End](https://frontend.turing.io/)
+- [Viking Code School Prep](https://www.vikingcodeschool.com/prep)
 
 #### Open Source
 
 - [OpenHatch](https://openhatch.org/)
-- [Up For Grabs](http://up-for-grabs.net/)
+- [Up For Grabs](https://up-for-grabs.net/)
 
 ## Time to get a job!
 
-Check out [hire-me](http://github.com/fvcproductions/hire-me) for all the relevant goodies.
+Check out [hire-me](https://github.com/fvcproductions/hire-me) for all the relevant goodies.

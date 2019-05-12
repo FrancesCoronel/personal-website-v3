@@ -39,12 +39,12 @@ Fluent brings together talented people from diverse backgrounds who are building
 
 ### Awards
 
-- January 2016 - [O'Reilly Fluent Conf | Diversity Scholarship Recipient](http://www.oreilly.com/conferences/diversity-application.csp)
+- January 2016 - [O'Reilly Fluent Conf | Diversity Scholarship Recipient](https://www.oreilly.com/conferences/diversity-application.csp)
 
   - Used for FluentConf.Conference pass that includes workshops/tutorials, plus the video
     compilation (Gold Pass or equivalent); training courses are not included
     in the scholarship
-  - $599 (USD) prepaid gift card to help offset the costs related to attending
+  - \$599 (USD) prepaid gift card to help offset the costs related to attending
     the conference such as travel, lodging, food, and child care; gift card
     will be awarded to recipient onsite at the conference
 

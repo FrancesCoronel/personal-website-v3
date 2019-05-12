@@ -63,13 +63,13 @@ Open Source is a great way to find your community and get embedded in a public-f
 
 ---
 
-# My Notes
+> My Notes
 
 ## Intro
 
 Hey everyone - so happy to be here. I'm Frances and I'm currently a front end engineer at Slack on the Customer Acquisition team.
 
-My team is in charge of [slack.com](http://slack.com) and basically everything a user can interact with before downloading or using the actual app itself.
+My team is in charge of [slack.com](https://slack.com) and basically everything a user can interact with before downloading or using the actual app itself.
 
 In terms of open source, I celebrated 5 years on GitHub back in April of this year. I joined in 2013.
 
@@ -93,11 +93,11 @@ And since joining I've been involved with all aspects of open source. - maintain
 
 October 19th, 2017
 
-[Open Source Survey](http://opensourcesurvey.org/2017/)
+[Open Source Survey](https://opensourcesurvey.org/2017/)
 
 Open Source has a problem with diversity. GitHub recently conducted a survey which revealed that 95% of the respondents were identifying as male. This is even worse than in the tech industry overall, where the percentage is only about 76%. Every other week, there seems to be another case of a maintainer engaging in targeted harassment against minorities. People somehow deem it completely okay to let these things slide, though.
 
-We collected responses from 5,500 randomly sampled respondents sourced from over 3,800 open source repositories on [GitHub.com](http://github.com/), and over 500 responses from a non-random sample of communities that work on other platforms.
+We collected responses from 5,500 randomly sampled respondents sourced from over 3,800 open source repositories on [GitHub.com](https://github.com/), and over 500 responses from a non-random sample of communities that work on other platforms.
 
 Responses from about 6,000 random users on GitHub from about 4,000 different repos. And then about 500 from those off GitHub - like Bitbucket or GitLab. So in total 6,500 people and potentially 4,000 different projects.
 

@@ -3,7 +3,7 @@ title: "Apprenticeships.me - Revamped Design"
 date: 2019-01-16
 image: https://i.imgur.com/f4mEjxR.jpg
 description: "Find a new career learning from the industry itself."
-link: http://apprenticeships.me
+link: https://apprenticeships.me
 categories:
   - portfolio
 tags:

@@ -10,7 +10,7 @@ categories:
   - blog
 ---
 
-# So during my last few days of Fullstack, I was feeling a little something like this...
+## So during my last few days of Fullstack, I was feeling a little something like this...
 
 ![I regret nothing](https://i0.wp.com/cdn.smosh.com/sites/default/files/ftpuploads/bloguploads/meme-regret-portal.gif)
 
@@ -44,7 +44,7 @@ So my last day involved demoing our capstone projects to everybody's friends and
 
 Saying goodbye is unpleasant so I just didn't for the most part with most people. The circumstances were also slightly tricky with everyone's relatives being around and all.
 
-My folks went back only slightly earlier before me and headed to China Town, so I went home alone on the dreadful subway, got some pizza, and watched what would probably be the last episode I ever watch of the show [Dating Naked](http://www.vh1.com/shows/dating-naked/ "Dating Naked") (why is it so intriguing?!).
+My folks went back only slightly earlier before me and headed to China Town, so I went home alone on the dreadful subway, got some pizza, and watched what would probably be the last episode I ever watch of the show [Dating Naked](https://www.vh1.com/shows/dating-naked/ "Dating Naked") (why is it so intriguing?!).
 
 Probably not a very ideal way to end an awesome experience, but then again, it was also really relaxing.
 
@@ -58,7 +58,7 @@ My bus ride home with my brother was early the next morning.
 
 I didn't really get any rest with the noise so that was kind of dreary, but during the ride, my next interview was scheduled with Apple Retail for Friday so I was happy. Also, the fact that I was greeted by my dog, Nefer, and my mom's sweet iced tea didn't hurt either.
 
-On Friday, I'd also be starting my course ‘Design 101' on [Designlab](http://trydesignlab.com/ "Designlab").
+On Friday, I'd also be starting my course ‘Design 101' on [Designlab](https://trydesignlab.com/ "Designlab").
 
 Friday comes and the course gets me all excited. I'm able to access the course a few hours before the interview. I'm even starting to write about my experience with the course in a separate post.
 
@@ -76,7 +76,7 @@ Should be interesting.
 
 ## The Total Cost
 
-I use [Mint](http://bywordapp.com/) to track all my costs so it was pretty easy to figure out how much I spent on everything. I simply loathe cash.
+I use [Mint](https://bywordapp.com/) to track all my costs so it was pretty easy to figure out how much I spent on everything. I simply loathe cash.
 
 ![Fullstack Spending](https://i1.wp.com/i.imgur.com/AIvCgHE.png)
 
@@ -108,7 +108,7 @@ If that's not an immersive experience, I don't know what is.
 
 ---
 
-# At the end of the day, I'm really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye-opening pair programming sessions, and the amazingly bright people.
+## At the end of the day, I'm really grateful I was able to enjoy everything Fullstack Academy has to offer, from Ladies Lunches, my learning team laughs, eye-opening pair programming sessions, and the amazingly bright people.
 
 > It's been real (awesome).
 

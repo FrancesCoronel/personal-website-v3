@@ -33,7 +33,7 @@ This project was completed on `August 5th, 2015` for the Stackstore phase of Ful
 
 ## Website
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="http://robopocalypse.herokuapp.com/">Robopocalypse</a></h4><p>Our stackstore project.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://robopocalypse.herokuapp.com/">Robopocalypse</a></h4><p>Our stackstore project.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## GitHub Repo

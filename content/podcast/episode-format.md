@@ -80,7 +80,7 @@ You can find image assets and social media templates below in the social media s
 
 ### 1. Sharing your story
 
-**ACTION ITEM** Make a copy of [this Google Doc](http://bit.ly/tech-queens-podcast-template) and share your copy with me via LinkedIn with edit access.
+**ACTION ITEM** Make a copy of [this Google Doc](https://bit.ly/tech-queens-podcast-template) and share your copy with me via LinkedIn with edit access.
 
 This Google Doc contains the intro template, pre-defined questions, mini-takeaway questions and the outro.
 

@@ -22,7 +22,7 @@ Full credit goes to the contributors below who originally created the app. It ha
 
 Basically, it's simple Node.js application for picking a random RSVP'd member from a Meetup.
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="http://meetfvc.herokuapp.com/">Meetup Dice</a></h4><p>Pick a random person!</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://meetfvc.herokuapp.com/">Meetup Dice</a></h4><p>Pick a random person!</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Setup

@@ -109,9 +109,9 @@ So I'm just going to list them off one by one.
 
 - Then **Saturday** came around and it was finally Beta day! [Michael Bae](https://twitter.com/michaelbbae) explaining how he blotched his mobile app project was probably one of the most entertaining presentations I've seen in a bit. I had to leave early to get to my hip hop class (so intense!), so I'll have to see what happened after the fellow presentations.
 - So that was that. My week ended up with me dancing to Rihanna, just like every other week (no, not really). My instructor today had even decided to use the one song I had been obsessing over for a while. Good times!
-- (╯°□°）╯ ︵ ┻━┻ - ¯\\_( ツ )_/¯ - ┬──┬◡ﾉ(° -°ﾉ)
+- (╯°□°）╯ ︵ ┻━┻ - ¯\\_( ツ )_/¯ - ┬──┬◡ ﾉ(° -° ﾉ)
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=qQraeOG-3L8">Rihanna - Bitch Better Have My Money - Choreography by Tricia Miranda | @timmilgram @rihanna</a></h4><p>Rihanna - Bitch Better Have My Money - Choreography by Tricia Miranda Filmed & Edited by Tim Milgram: http://youtube.com/timmilgram Learn choreography from Tricia, check out http://triciamiranda.com for tutorials Follow us: http://instagram.com/1TriciaMiranda http://instagram.com/TimMilgram http://www.triciamiranda.com --- New Tutorials Coming Soon!</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=qQraeOG-3L8">Rihanna - Bitch Better Have My Money - Choreography by Tricia Miranda | @timmilgram @rihanna</a></h4><p>Rihanna - Bitch Better Have My Money - Choreography by Tricia Miranda Filmed & Edited by Tim Milgram: https://youtube.com/timmilgram Learn choreography from Tricia, check out https://triciamiranda.com for tutorials Follow us: https://instagram.com/1TriciaMiranda https://instagram.com/TimMilgram https://www.triciamiranda.com --- New Tutorials Coming Soon!</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 > :arrow: **Overall Conclusion?**

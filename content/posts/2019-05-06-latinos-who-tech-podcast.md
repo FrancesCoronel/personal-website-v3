@@ -4,7 +4,7 @@ date: 2019-05-06
 location: Virtual
 image: https://i.imgur.com/y7CyF4s.png
 description: "In this episode, Hugo welcomes Frances Coronel, a Peruvian-American software engineer for the Customer Acquisition Team at Slack, a collaboration hub that brings the right people, information, and tools together to get work done; connects teams and unifies systems to make businesses go forward."
-recording: http://latinoswhotech.com/latina-at-a-silicon-valley-unicorn-frances-coronel-software-engineer-slack/
+recording: https://latinoswhotech.com/latina-at-a-silicon-valley-unicorn-frances-coronel-software-engineer-slack/
 categories:
   - speaking
 tags:
@@ -14,13 +14,13 @@ tags:
   - recording
 ---
 
-Podcast: [Play in new window](http://dts.podtrac.com/redirect.mp3/media.blubrry.com/latinoswhotech/p/content.blubrry.com/latinoswhotech/LWT03_Frances_Coronel_EditFLD0506.mp3 "Play in new window") | [Download](http://dts.podtrac.com/redirect.mp3/media.blubrry.com/latinoswhotech/s/content.blubrry.com/latinoswhotech/LWT03_Frances_Coronel_EditFLD0506.mp3 "Download")
+Podcast: [Play in new window](https://dts.podtrac.com/redirect.mp3/media.blubrry.com/latinoswhotech/p/content.blubrry.com/latinoswhotech/LWT03_Frances_Coronel_EditFLD0506.mp3 "Play in new window") | [Download](https://dts.podtrac.com/redirect.mp3/media.blubrry.com/latinoswhotech/s/content.blubrry.com/latinoswhotech/LWT03_Frances_Coronel_EditFLD0506.mp3 "Download")
 
-Subscribe: [Android](http://subscribeonandroid.com/latinoswhotech.com/feed/podcast/ "Subscribe on Android") | [Email](http://subscribebyemail.com/latinoswhotech.com/feed/podcast/ "Subscribe by Email") | [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cDovL2xhdGlub3N3aG90ZWNoLmNvbS9mZWVkL3BvZGNhc3Qv "Subscribe on Google Podcasts") | [RSS](http://latinoswhotech.com/feed/podcast/ "Subscribe via RSS")
+Subscribe: [Android](https://subscribeonandroid.com/latinoswhotech.com/feed/podcast/ "Subscribe on Android") | [Email](https://subscribebyemail.com/latinoswhotech.com/feed/podcast/ "Subscribe by Email") | [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cDovL2xhdGlub3N3aG90ZWNoLmNvbS9mZWVkL3BvZGNhc3Qv "Subscribe on Google Podcasts") | [RSS](https://latinoswhotech.com/feed/podcast/ "Subscribe via RSS")
 
 In this episode, Hugo welcomes Frances Coronel, a Peruvian-American software engineer for the Customer Acquisition Team at Slack, a collaboration hub that brings the right people, information, and tools together to get work done; connects teams and unifies systems to make businesses go forward. Frances was born and raised in Norfolk Virginia, and studied in New York City and California. Join in as they talk about France’s journey into computer science, her motivation to earn a master’s degree, her experience being a female Latina software engineer, and her role in Slack and the company’s growth.
 
-![Latina at a Silicon Valley Unicorn: Frances Coronel,  Software Engineer @ Slack](http://latinoswhotech.com/wp-content/uploads/2019/05/LWT03-Frances-Coronel-SQ-1024x1024.png)
+![Latina at a Silicon Valley Unicorn: Frances Coronel,  Software Engineer @ Slack](https://latinoswhotech.com/wp-content/uploads/2019/05/LWT03-Frances-Coronel-SQ-1024x1024.png)
 
 ### Show notes:
 
@@ -66,4 +66,4 @@ Connect with her via linkedin:[Frances Coronel](https://www.linkedin.com/in/fvcp
 - Send us a note with your thoughts at [**LatinosWhoTech@gmail.com**](mailto:LatinosWhoTech@gmail.com)
 - Share it with a friend
 
-**_Who is Hugo Castellanos?_** _Find out about him on_ [_linkedin_](https://www.linkedin.com/in/hugocastellanos/)_Thanks so much for listening to the show! If you want to know more about this or comment on the show, please join us on_ [_LatinosWhoTech_](http://www.latinoswhotech.com/) _or go to_ [_Conexiones_](http://conexiones.io/)
+**_Who is Hugo Castellanos?_** _Find out about him on_ [_linkedin_](https://www.linkedin.com/in/hugocastellanos/)_Thanks so much for listening to the show! If you want to know more about this or comment on the show, please join us on_ [_LatinosWhoTech_](https://www.latinoswhotech.com/) _or go to_ [_Conexiones_](https://conexiones.io/)

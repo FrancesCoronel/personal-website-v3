@@ -2,7 +2,7 @@
 title: "The Latinx Collective: Issue 19"
 date: 2018-09-28
 description: The Latinx Collective is a newsletter written by Elisabeth Rosario that offers a refreshing look at the every day contributions and achievements of Latinx people. 💃🏽️
-link: http://newsletters.thelatinxcollective.com/issues/the-latinx-collective-issue-19-135985
+link: https://newsletters.thelatinxcollective.com/issues/the-latinx-collective-issue-19-135985
 image: https://pbs.twimg.com/media/DjUaM5ZVAAATgZ8.jpg
 categories:
   - press

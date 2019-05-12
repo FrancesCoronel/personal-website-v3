@@ -31,7 +31,7 @@ As part of a redesign assignment for the Huge Experience School program, I redes
 
 ### Redesigned Website
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="http://fvcproductions.github.io/tsp-gov/">Thrift Savings Plan | Home</a></h4><p>This site is also protected by an SSL (Secure Sockets Layer) certificate that's been signed by the U.S. government. The https:// means all transmitted data is encrypted - in other words, any information or browsing history that you provide is transmitted securely.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://fvcproductions.github.io/tsp-gov/">Thrift Savings Plan | Home</a></h4><p>This site is also protected by an SSL (Secure Sockets Layer) certificate that's been signed by the U.S. government. The https:// means all transmitted data is encrypted - in other words, any information or browsing history that you provide is transmitted securely.</p></blockquote>
 
 ## Video Interview
 

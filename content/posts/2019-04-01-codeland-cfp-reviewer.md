@@ -2,7 +2,7 @@
 title: "Codeland 2019 Programming Committee Member"
 date: 2019-04-01
 image: https://i.imgur.com/3zgrX8b.jpg
-link: http://codelandconf.com/
+link: https://codelandconf.com/
 description: "Selected by Saron Yitbarek to help review over 30+ CFPs for CodeNewbie's flagship conference called Codeland."
 categories:
   - volunteering

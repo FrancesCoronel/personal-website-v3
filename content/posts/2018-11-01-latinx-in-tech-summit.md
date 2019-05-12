@@ -15,7 +15,7 @@ tags:
   - latinx in tech
 ---
 
-Spoke at the [Latinx in Tech Summit](http://ltx-latinx-in-tech-summit.eventcreate.com/) on Intersectional Identity & Code Switching with Jordan Medina, Adi Barreto, Julio Rodriguez & Shidume Lozada from 2:45 pm to 3:45 pm on November 1st, 2018.
+Spoke at the [Latinx in Tech Summit](https://ltx-latinx-in-tech-summit.eventcreate.com/) on Intersectional Identity & Code Switching with Jordan Medina, Adi Barreto, Julio Rodriguez & Shidume Lozada from 2:45 pm to 3:45 pm on November 1st, 2018.
 
 <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/heggyhere/status/1058116873311535104">Heggy Javascript on Twitter</a></h4><p>LTX18 @fvcproductions @operaqueenie Talks on inclusion</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

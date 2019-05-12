@@ -11,11 +11,11 @@ categories:
 
 Because of how busy I've been, I haven't really been able to get into the proper mood to be able to blog about such and such.
 
-As a result, there are now only **7** days of [**Fullstack**](http://www.fullstackacademy.com) left.
+As a result, there are now only **7** days of [**Fullstack**](https://www.fullstackacademy.com) left.
 
 > Yup, just **7 MORE DAYS**.
 
-# **WHATTTTTTTTTTTTTT.**
+## **WHATTTTTTTTTTTTTT.**
 
 ![Minions What](https://33.media.tumblr.com/4a1750cc9cf2b68c3c58799bcf2f4173/tumblr_nshpk7ZqhP1ubdz64o1_400.gif)
 
@@ -27,7 +27,7 @@ As a result, there are now only **7** days of [**Fullstack**](http://www.fullsta
 
 ![Computer Reaction](https://i1.wp.com/i1.kym-cdn.com/photos/images/newsfeed/000/228/791/632.gif)
 
-# My Junior Phase
+## My Junior Phase
 
 | Date Range             | Day Numbers   | Week   |
 | ---------------------- | ------------- | ------ |
@@ -40,9 +40,9 @@ As a result, there are now only **7** days of [**Fullstack**](http://www.fullsta
 
 - July 3rd was a holiday for Fullstack.
 
-# Review Week! July 20th to July 24th.
+## Review Week! July 20th to July 24th.
 
-# My Senior Phase
+## My Senior Phase
 
 | Date Range             | Day Numbers   | Week   |
 | ---------------------- | ------------- | ------ |
@@ -52,7 +52,7 @@ As a result, there are now only **7** days of [**Fullstack**](http://www.fullsta
 
 - Missed out on Friday's Tessle Hackathon in Week 9 because of an Apple Hiring Event. More on _that_ later.
 
-# What's Left
+## What's Left
 
 | Date Range          | Day Numbers   | Week           |
 | ------------------- | ------------- | -------------- |
@@ -61,7 +61,7 @@ As a result, there are now only **7** days of [**Fullstack**](http://www.fullsta
 
 > Overarching thought... **_holy crap_**.
 
-# **SO NOW WE MUST TRAVEL BACK IN TIME.**
+## **SO NOW WE MUST TRAVEL BACK IN TIME.**
 
 > Specifically to Week 7, which is where I left off and also when things were actually slightly more stressful than they are now here in Week 10....
 
@@ -215,7 +215,7 @@ week7();
 
 > Oh look, a repl out in the wild. **Gotta catch 'em all**...... [`https://repl.it/BC5A`](https://repl.it/BC5A)
 
-# OK, SO AFTER THAT EXCESSIVE RAMBLING, WE MUST NOW TRAVEL BACK FORWARD IN TIME...
+## OK, SO AFTER THAT EXCESSIVE RAMBLING, WE MUST NOW TRAVEL BACK FORWARD IN TIME...
 
 > and this time simply get a quick overview of how the rest of senior phase has been so far in these nifty little things called bullet points.
 
@@ -229,7 +229,7 @@ week7();
   - On Wednesday, I also presented my Tech Talk on Design. Multitasking is fun. -**\_**- That was sarcasm, by the way.
   - Started working on my Stackathon project. I decide I'm going to take it easy for this one, because I'm tired and we only have till Monday to work on it, so _ughhhhh_.
 
-> My team's Stackstore. See it in full glory on Heroku at [`http://robopocalypse.herokuapp.com`](http://robopocalypse.herokuapp.com).
+> My team's Stackstore. See it in full glory on Heroku at [`https://robopocalypse.herokuapp.com`](https://robopocalypse.herokuapp.com).
 
 ![Robopocalypse](https://i.imgur.com/ThVHuJZ.png "Robopocalypse4")
 
@@ -287,7 +287,7 @@ week7();
 
 ![HiredotHome](https://i0.wp.com/i.imgur.com/d2OfxQX.png)
 
-# BUT W8!
+## BUT W8!
 
 > Free hug.
 

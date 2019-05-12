@@ -112,11 +112,11 @@ This is the page for [HackReactor on _Bootcamps.in_](https://www.bootcamps.in/sa
 - lots of filters but they don't help
   - it is nice when code camps are filtered in so many ways by cost, focus, location, and so on but it's not really nice when they're not filtered in a way that helps you get the most out of it
   - with this website, you can only select one of these options so literally just one location, one focus, one cost and so on and that's how it's determined
-  - so basically, what I'm saying is that if you were looking for a JavaScript focused school that cost less than $10K located in California, that would be really hard for you to actually do because this website only allows for one of those factors to be looked for specifically...
+  - so basically, what I'm saying is that if you were looking for a JavaScript focused school that cost less than \$10K located in California, that would be really hard for you to actually do because this website only allows for one of those factors to be looked for specifically...
 
 📝 **THE VERDICT: 2/5**
 
-![](https://media.licdn.com/mpr/mpr/jc/p/3/005/083/356/339a18e.png)
+![Verdict](https://media.licdn.com/mpr/mpr/jc/p/3/005/083/356/339a18e.png)
 
 ### [**Course Report**](https://coursereport.com)
 
@@ -151,7 +151,7 @@ This is the page for [HackReactor on _Course Report_](https://www.coursereport.c
 
 📝 **THE VERDICT: 4/5**
 
-![](https://www.thinkful.com/microsites/static/bootcamps/assets/BF_logo.png)
+![Thinkful](https://www.thinkful.com/microsites/static/bootcamps/assets/BF_logo.png)
 
 ### [**Thinkful Bootcamp Finder**](https://www.thinkful.com/bootcamps/)
 
@@ -186,7 +186,7 @@ This is the page for [HackReactor on the _Thinkful Bootcamp Finder_](https://www
 
 📝 **THE VERDICT: 3/5**
 
-![](https://blog.lendlayer.com/content/images/2014/Oct/Switch-Logo.png)
+![Switchup](https://blog.lendlayer.com/content/images/2014/Oct/Switch-Logo.png)
 
 ### [**Switchup**](https://switchup.org)
 
@@ -221,7 +221,7 @@ This is the page for [HackReactor on _Switchup_](https://www.switchup.org/bootca
   - that location filter
     - in all honesty, it might be better to enforce some kind of zip code and mile radius because the cities selection is a little tedious
   - that price filter
-    - to somebody in high places, one of these $ might mean $10,000 so I'm not a big fan of the simple $, $$, $$$, and so on unless there's some background provided
+    - to somebody in high places, one of these $ might mean $10,000 so I'm not a big fan of the simple $, $$, $\$\$, and so on unless there's some background provided
   - that ratings filter
     - okay, so why would anybody want to search for a 1-star or 2-star rated bootcamp again, just for funsies?
     - it's understandable that it's there given that it correlates with the student reviews but...
@@ -253,7 +253,7 @@ This is the page for [HackReactor on _Switchup_](https://www.switchup.org/bootca
   - Some CBs have it where you can quickly apply directly through their sites, others have more interactive applications & pre-work through coding challenges like with [MakerSquare](https://makersquare.gitbooks.io/preparing-for-makersquare/content/index.html), [HackReactor](https://admissions.hackreactor.com), [Flatiron](https://prework.flatironschool.com), [Fullstack](https://www.fullstackacademy.com/interview_prep), etc., and still others might use hack_app, which is an application portal dedicated to making it easy for users to research and apply to CBs.
   - So far, it only has 28 schools participating, but it has a great UI/UX so if you really want a swift and easy app process, I'd go with hack_app.
 
-![](https://cdn.evbuc.com/eventlogos/1546045/code2040transparency.png)
+![Code2040](https://cdn.evbuc.com/eventlogos/1546045/code2040transparency.png)
 
 - [Code2040 - Playbook](https://playbook.code2040.org)
   - This is great not just for minorities interested in tech, but just for anyone who wants a really great layout of what's recommend before applying and interviewing for a software development internship. This sort of logic applies for competitive coding bootcamps as well, so get out there! :) The founder of the organization, [Tristan Walker](https://www.fastcompany.com/3037933/the-visible-man "Tristan Walker - Fast Company"), is also friggin' awesome.
@@ -273,7 +273,7 @@ This is the page for [HackReactor on _Switchup_](https://www.switchup.org/bootca
     - [Launch Academy - Codecabuary](https://www.launchacademy.com/codecabulary)
     - [Code Fellows - Git Book](https://fsje.codefellows.org/index.html)
 
-![](https://portland.startupweekend.org/files/2013/11/Treehouse-Logo-With-Text.png)
+![Treehouse](https://portland.startupweekend.org/files/2013/11/Treehouse-Logo-With-Text.png)
 
 - And of course you can't go wrong with your more typical, well-known resources for learning how to love `{code}`...
   - [Codecademy](https://codecademy.com)
@@ -296,5 +296,5 @@ Quora usually has a ton of useful answers for this very question too... why does
 
 ## Feedback
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="http://twitter.com/MarcoMorawec/status/537036957851721728">Marco Morawec on Twitter</a></h4><p>Thanks @fvcproductions for including our Guide to Choosing a Coding Bootcamp in our awesome post http://t.co/XADls2F1RW - @FirehoseProject</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/MarcoMorawec/status/537036957851721728">Marco Morawec on Twitter</a></h4><p>Thanks @fvcproductions for including our Guide to Choosing a Coding Bootcamp in our awesome post https://t.co/XADls2F1RW - @FirehoseProject</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

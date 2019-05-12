@@ -13,7 +13,7 @@ categories:
 
 ![DevLeague](https://i.imgur.com/c0ELCx3.jpg) Mahalo, indeed.
 
-# My Experience With [DevLeague](https://www.devleague.com "DevLeague")
+## My Experience With [DevLeague](https://www.devleague.com "DevLeague")
 
 > with [Jason Sewell](https://www.linkedin.com/in/jasonsewell "Jason Sewell")
 >
@@ -91,7 +91,7 @@ Hawaii.
 <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.facebook.com/permalink.php?story_fbid=702971763154795&id=419352214850086">DevLeague</a></h4><p>Ever wonder what our interview process is like? We have recently started getting many applications from the mainland and one of our recent mainland applicants blogged about her experience. We could...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="http://twitter.com/devleaguehawaii/status/556569297133510656">DevLeague on Twitter</a></h4><p>Thanks to @fvcproductions for smry of applicant experience with us. This young woman is going places! #javascript http://t.co/xCTIQGNS41</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/devleaguehawaii/status/556569297133510656">DevLeague on Twitter</a></h4><p>Thanks to @fvcproductions for smry of applicant experience with us. This young woman is going places! #javascript https://t.co/xCTIQGNS41</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 I also have shared my **interview experience** with bootcamps such as

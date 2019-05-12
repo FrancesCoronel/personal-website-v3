@@ -15,8 +15,8 @@ Get new updates sent to your inbox once every month!
 
 ## FVCproductions Newsletter
 
-http://bit.ly/newsletter-fvcproductions
+https://bit.ly/newsletter-fvcproductions
 
 ## Tech Queens Newsletter
 
-http://bit.ly/newsletter-tech-queens
+https://bit.ly/newsletter-tech-queens

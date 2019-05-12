@@ -10,17 +10,17 @@ tags:
 ---
 
 - Dock Icons
-  - [ccard3dev](http://ccard3dev.deviantart.com/art/Dynamic-Icons-for-Yosemite-Apple-Apps-460428519)
+  - [ccard3dev](https://ccard3dev.deviantart.com/art/Dynamic-Icons-for-Yosemite-Apple-Apps-460428519)
 - Transparent Dock
-  - [cDock](http://sourceforge.net/projects/cdock/)
+  - [cDock](https://sourceforge.net/projects/cdock/)
 - Desktop Calendar
-  - [Blotter](http://wireload.net/products/blotter/)
+  - [Blotter](https://wireload.net/products/blotter/)
 - 3rd-Party Menubar Icons
-  - [Dropbox](http://dropbox.com/)
+  - [Dropbox](https://dropbox.com/)
   - [1Password](https://agilebits.com/onepassword)
   - [f.lux](https://justgetflux.com/)
-  - [Caffeine](http://lightheadsw.com/caffeine/)
-  - [Sip](http://theolabrothers.com/sip/)
+  - [Caffeine](https://lightheadsw.com/caffeine/)
+  - [Sip](https://theolabrothers.com/sip/)
 
 ... needless to say, I cannot WAIT till [Flavours 2](https://interacto.zendesk.com/entries/53605899-Yosemite-and-the-future-Flavours-2) comes out.
 

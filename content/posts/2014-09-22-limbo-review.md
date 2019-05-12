@@ -30,7 +30,7 @@ else
 
 The graphics are pretty much what got to me. Those spider legs without the rest of the body (initially anyhow), the boys with spears in their hands which made me recall how strange the book "_Lord of the Flies_" was for me, the turret machine guns, that `HOTEL` sign - they all looked so ominous, so macabre, so depressing. I liked how the blood itself wasn't even red and glaring, it was just black liquid. And how everything in the game was a hue of black or white.
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="http://www.youtube.com/watch?v=cHjt8LNaUT8">LIMBO - Spider follows</a></h4><p>Gameplay at the time when the'BIG' spider is chasing. It just takes a minute to run from it; and later bang it with a rock.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=cHjt8LNaUT8">LIMBO - Spider follows</a></h4><p>Gameplay at the time when the'BIG' spider is chasing. It just takes a minute to run from it; and later bang it with a rock.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 **_Spider running, log saving._**
@@ -67,7 +67,7 @@ You see, Oxford Dictionary tells me that in Christian theology, "_limbo_" is thi
 
 Anyhow, hoped you enjoyed this review! Be sure to check out the sweet fan artwork that feature Limbo crossovers and check out their sweet new game when it comes out called [**INSIDE**](https://playdead.com/inside/) (featured below).
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="http://www.youtube.com/watch?v=op4G1--kb-g">INSIDE Trailer E3 2014</a></h4><p>Since the release of LIMBO in 2010, Playdead has been working hard on INSIDE. For more information, visit http://playdead.com/inside</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.youtube.com/watch?v=op4G1--kb-g">INSIDE Trailer E3 2014</a></h4><p>Since the release of LIMBO in 2010, Playdead has been working hard on INSIDE. For more information, visit https://playdead.com/inside</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 **_OMGGGGG_**

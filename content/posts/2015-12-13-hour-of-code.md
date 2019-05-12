@@ -1,25 +1,26 @@
 ---
 title: Hour of Code 2015
-description: "So this past week, I signed up as a technical volunteer for the Hour
+description:
+  "So this past week, I signed up as a technical volunteer for the Hour
   of Code. Here's how my experience went. \U0001F4BB️"
 date: 2015-12-13
 image: https://i.imgur.com/VO0Djgg.jpg
 location: Multiple Locations - Hampton Roads, VA
 aliases:
-- "/2015/12/07/hour-of-code-2015/"
+  - "/2015/12/07/hour-of-code-2015/"
 categories:
-- volunteering
-- speaking
-- blog
+  - volunteering
+  - speaking
+  - blog
 tags:
-- hour-of-code
-
+  - hour-of-code
 ---
+
 # So this week, I signed up as a `technical volunteer` for the [**Hour of Code**](https://hourofcode.com/us).
 
 ---
 
-[Code.org](http://code.org) is sponsoring a whole week (December 7th to 13th) of CS education through their Hour of Code event.
+[Code.org](https://code.org) is sponsoring a whole week (December 7th to 13th) of CS education through their Hour of Code event.
 
 ![Hour of Code](https://i.ytimg.com/vi/D2dgYHwrlt4/maxresdefault.jpg)
 
@@ -29,7 +30,7 @@ tags:
 
 Quite a few schools reached out to me, but, of course, I couldn't volunteer with some of them due to constraints in my class schedule or because they were just too far away.
 
-I, along with [an ODU student](http://thecbliss.com/), decided to go ahead and even attend a [**Professional Development Workshop**](https://code.org/professional-development-workshops) for the Hour of Code so we could be better prepared to assist the kids. The session was held at [CAML Academy](http://camlacademy.com/) in North Carolina and was roughly **3.5 hours away**.Thankfully, it was a Saturday.
+I, along with [an ODU student](https://thecbliss.com/), decided to go ahead and even attend a [**Professional Development Workshop**](https://code.org/professional-development-workshops) for the Hour of Code so we could be better prepared to assist the kids. The session was held at [CAML Academy](https://camlacademy.com/) in North Carolina and was roughly **3.5 hours away**.Thankfully, it was a Saturday.
 
 ![Professional Development Workshop](https://lh3.googleusercontent.com/_kABsSKuRLRiaNXi4qcPIxOOHGVHtTvcFDcaT-PyXLHdLklMJhpb0YN-RIgDqXyxfQyxD6YUN9FW11uqUBDmuDWEiirixRsGJYDrShg5P4povR_wkfn1zCBZCUJaujJD_QZy9NpUmvlg6IVbQlHYVO9CE12AtC0ERd0KJsR-u5h6MxcnwgFrv7CpFC8ZGpyQbXGw4NiJJPW5tjeN_vN4U6Q2HVgAPZHVlLt4W2m5nBXSjKyvZ7G_Ng-yaGq7AjilZSf1O2VvTF0tBInzfUduUMUVu0qHg5irSoE415JuGuBcaEw53WfkgKkYfEG79xneTfLCkoX_H3K9T4JrE_i4lHhSyzL_Mt8d84wQPFo-49Z1m4nDtipX9QYReHpJHRMISMn6Q4TVyFL_4YLMIZzxMDgtvDrhcWRDn1VZ9CliTK0LtVSZZvv2O3UDdNjKg3xQGqC9MA5INHsKai9cmuZANHEgTUePgq_kBPZUbGdvzX-eI9heJFbVuZ6MKkluJ82Q504c2YqSvBP0cgSDQTIE529IgOctKBLGivpEFOG9eXh4R0kKC2HNyBy4rL9KnOAWHXfaxHSvp_ReQyxTNj0Af4hsmqcwNkKq3KytjAJ0UKKOiCxpmi8QBvUgkwRbgmT6=w1292-h969-no)
 
@@ -99,7 +100,7 @@ Mentor (Chris) & Mentee
 
 ![John B. Dey Elementary - Hour of Code](https://lh3.googleusercontent.com/wkGkip3bcrhEsY4uA0gg9w1yQoWEjcZCXeOniYyxnUIrRX9CcdduFfeL0DmRoRwboKr5I0lvpN_BovTUO23apY7DXGJ5Kvjlx4FsKsIVp2kaLWzcaiFC8V1Q-XjF82TtAMB9tcar43SxeegehWIBP_M9Td40HA8dg543fl4Cuwib5mezzPnK9QrGpqbi2Sq1M9NgZ5kdLiwGvlBDT0-PMH8jZPr-b0WOV6axYpXylxnw2iZFfMqLDFznBklX4mYSrYzYCIqxMxfeXk6u4q7e7JippThCfM-nS7Lvx7f8FRhS-x7NZttd5QGTUq8GaAzfyx6BrDbp9_rSKgZycLf0q6Ba3sELhqf5HzQVDxSwlFcnF6EckZQ1em4YZzNrQ0rUxi23EJa6hL4not8Tshml5OL_mI7u08SeVp4K5W58pNmL9dn29eTvCacUfeGg1OiGI6_ZLro6kMd3MdAVjkQZwW5OXr5k4FycnLJy1R3-4LpyVs8rvpQ7HLU6DEeUaBfuZQSkbFVto8ByWNmdtEaUrFEZkgFxaL4BQ7aclorLiW39ApyJs0E8mYT8a2WnCuslyYXV-Q6GNVcxFoZHuiChNme7kOZi0gLRv7vcp8bkVyeRl9gcrdK7qTsuVwv30mRQ=w1038-h969-no)
 
-> She uploaded these pictures to [her class website](http://www.getspotted.org/projects-and-pictures.html) as well!
+> She uploaded these pictures to [her class website](https://www.getspotted.org/projects-and-pictures.html) as well!
 
 ## Tallwood Elementary School [#HourOfCode](https://twitter.com/hashtag/hourofcode?lang=en)
 
@@ -155,7 +156,7 @@ Hour of Code – Sedgefield
 
 ---
 
-If you'd like access to the `Keynote` files to show to your class, please [contact me](http://fvcproductions.com/contact/) and I will happily send them to you.
+If you'd like access to the `Keynote` files to show to your class, please [contact me](https://fvcproductions.com/contact/) and I will happily send them to you.
 
 ---
 

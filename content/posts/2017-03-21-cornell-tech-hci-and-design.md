@@ -10,9 +10,9 @@ tags:
   - design
 ---
 
-As part of [Assignment 3](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/Assignment3.pdf) for my class [HCI & Design](http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/) at [Cornell Tech](http://tech.cornell.edu), I was tasked with re-designing an ad for the MTA's Fast-track and decomposing an app of my choice.
+As part of [Assignment 3](https://www.nixdell.com/classes/HCI-and-Design-Spring-2017/Assignment3.pdf) for my class [HCI & Design](https://www.nixdell.com/classes/HCI-and-Design-Spring-2017/) at [Cornell Tech](https://tech.cornell.edu), I was tasked with re-designing an ad for the MTA's Fast-track and decomposing an app of my choice.
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/Assignment3.pdf">Assignment 3 - HCI and Design</a></h4><p>Copyright Nicola Dell</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.nixdell.com/classes/HCI-and-Design-Spring-2017/Assignment3.pdf">Assignment 3 - HCI and Design</a></h4><p>Copyright Nicola Dell</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Part A: Can we fix this?
@@ -55,7 +55,7 @@ The font Helvetica is the one that has been used by the MTA for the past 20 year
 - [4 Train](https://www.common.com/images/homes/shared_photos/subway-lines/4-6ccc3f43.svg)
 - [Shuttle Icon](https://www.orlandoairports.net/site/uploads/2015/08/shuttle_icon.svg)
 - [NYC Map](https://upload.wikimedia.org/wikipedia/commons/0/04/NYC_subway-4D.svg)
-- [Fastrack Logo](http://web.mta.info/nyct/service/images/fastrack_2014.jpg)
+- [Fastrack Logo](https://web.mta.info/nyct/service/images/fastrack_2014.jpg)
 - [MTA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/MTA_New_York_City_Subway_logo.svg/2000px-MTA_New_York_City_Subway_logo.svg.png)
 
 #### Colors

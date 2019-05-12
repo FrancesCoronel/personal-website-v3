@@ -28,7 +28,7 @@ You can schedule a time to chat with me using [my Calendly](https://calendly.com
 ### Want mentoring or career advice?
 
 <!-- prettier-ignore -->
-Due to high demand and my limited bandwidth, I now [charge $25 for every 30 minutes of mentoring](https://wirize.com/payments/HwjrgiJlKfO4). You can also pay through [Square Cash](http://cash.me/fvcprdxs) or [Venmo](https://venmo.com/fvcproductions). Please make sure to pay this amount before booking a session through my Calendly or I will have to reschedule/cancel the session.
+Due to high demand and my limited bandwidth, I now [charge $25 for every 30 minutes of mentoring](https://wirize.com/payments/HwjrgiJlKfO4). You can also pay through [Square Cash](https://cash.me/fvcprdxs) or [Venmo](https://venmo.com/fvcproductions). Please make sure to pay this amount before booking a session through my Calendly or I will have to reschedule/cancel the session.
 
 ## Ask Me Anything (AMA) 🤔️
 
