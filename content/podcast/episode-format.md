@@ -31,7 +31,7 @@ Feel free to share this with other women of color in tech who you think might be
 
 1. Send me the SVG file of your avatar created from the generator 🖼️
 2. Send me a high-res photo of yourself 📸
-3. Make a copy of the Tech Queens Podcast Template using Google Docs and share it with me 📝
+3. Make a copy of the Tech Queens Podcast Template using Google Docs and share it with me via LinkedIn 📝
 4. Share on social media so more women of color can learn about this podcast 💬
 
 ## Before
