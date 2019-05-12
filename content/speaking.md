@@ -1,7 +1,7 @@
 ---
-title: Speaking
+title: "Speaking"
 customPage: true
-description: I've given talks on a variety of topics at different events. 💬️
+description: "I've given talks on a variety of topics at different events. 💬️"
 hideImage: true
 image: https://i.imgur.com/vv51StT.jpg?2
 navbar: true

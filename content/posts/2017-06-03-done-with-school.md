@@ -1,7 +1,7 @@
 ---
-title: I AM DONE WITH SCHOOL
+title: "I AM DONE WITH SCHOOL"
 date: 2017-06-03
-description: A record of all the college courses and tests I've taken from 2007 to 2017.
+description: "A record of all the college courses and tests I've taken from 2007 to 2017."
 image: https://i.imgur.com/WhsKEHB.jpg
 categories:
   - blog
@@ -181,7 +181,7 @@ AND THANKFULLY, my parents and I have never had to take a single loan out either
 - privileged folks not understanding why "affirmative action" is needed
 - the ridiculous amount of money that is required to get a "good" education that has led to student debt being at an all-time high
 - the lack of accountability from schools to help students find a job
-- the abundance of nonprofit schools and shitty coding bootcamp programs that are taking advantage of hopeful but "poor unfortunate souls"
+- the abundance of for-profit schools and shitty coding bootcamp programs that are taking advantage of hopeful but "poor unfortunate souls"
 
 ## TLDR;
 

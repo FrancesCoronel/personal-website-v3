@@ -1,5 +1,5 @@
 ---
-title: A Review of Don't Starve
+title: "A Review of Don't Starve"
 date: 2014-05-02
 description: So in case you haven't heard of it yet, Don't Starve is this awesome Indie game that came out late April of last year.
 image: https://i.imgur.com/nQNJn6i.jpg

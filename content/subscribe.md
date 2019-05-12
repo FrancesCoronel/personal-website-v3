@@ -1,6 +1,6 @@
 ---
-title: Subscribe
-description: You can subscribe to new updates via email. 🌟
+title: "Subscribe"
+description: "You can subscribe to new updates via email. 🌟"
 hideImage: true
 noComments: true
 noTimeEstimate: true

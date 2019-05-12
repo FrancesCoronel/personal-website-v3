@@ -1,7 +1,7 @@
 ---
-title: Reviews
+title: "Reviews"
 customPage: true
-description: All the sweet things folks have had to say. ✅
+description: "All the sweet things folks have had to say. ✅"
 feedbackPage: true
 hideImage: true
 image: https://i.imgur.com/eDqiqGu.jpg

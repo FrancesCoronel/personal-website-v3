@@ -1,10 +1,10 @@
 ---
-title: Privacy Policy
-description: This is to inform users about our collection and use of personal data of users. 🔒
-url: /privacy-policy/
+title: "Privacy Policy"
+description: "This is to inform users about our collection and use of personal data of users. 🔒"
+image: https://i.imgur.com/RXG193M.jpg
 noComments: true
 noTimeEstimate: true
-image: https://i.imgur.com/RXG193M.jpg
+url: /privacy-policy/
 ---
 
 Your privacy is important to us. It is FVCproductions' policy to respect your privacy regarding any information we may collect from you across our website, [https://www.fvcproductions.com](https://www.fvcproductions.com), and other sites we own and operate.

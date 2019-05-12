@@ -1,6 +1,6 @@
 ---
 title: Freelancing
-description: I work with clients of all backgrounds and offer a number of different services. 💎️
+description: "I work with clients of all backgrounds and offer a number of different services. 💎️"
 image: https://i.imgur.com/hD3rQiK.jpg
 customPage: true
 freelancingPage: true

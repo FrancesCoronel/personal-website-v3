@@ -1,6 +1,6 @@
 ---
-title: Search
-description: Search across my website! 🔍️
+title: "Search"
+description: "Search across my website! 🔍️"
 image: https://i.imgur.com/rETMF3V.jpg
 hideImage: true
 noComments: true

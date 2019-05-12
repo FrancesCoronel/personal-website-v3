@@ -1,6 +1,6 @@
 ---
 title: Hackathons
-description: Hack, hack, hack... 💻
+description: "Hack, hack, hack... 💻"
 image: https://i.imgur.com/95rd1di.jpg
 customPage: true
 hackathonPage: true

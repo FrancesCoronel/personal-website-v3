@@ -1,7 +1,7 @@
 ---
-title: 'The Day After Calculus Ended'
+title: "The Day After Calculus Ended"
 date: 2014-08-08
-description: 'Exploring blogging applications.'
+description: "Exploring blogging applications."
 image: https://i.imgur.com/Em6bjmH.jpg
 aliases:
   - /2014/08/08/the-day-after-calculus-ended/
@@ -9,12 +9,12 @@ categories:
   - blog
 ---
 
-Honestly, the best blogging utility would be a combination of [Byword](https://bywordapp.com 'Byword')'s simple UI, publishing, and exporting utilities and [Ulysses III](https://ulyssesapp.com 'Ulysses')'s database management and the numerous extra features (statistics, navigation, helpful .md hints, visual syntax, etc.).
+Honestly, the best blogging utility would be a combination of [Byword](https://bywordapp.com "Byword")'s simple UI, publishing, and exporting utilities and [Ulysses III](https://ulyssesapp.com "Ulysses")'s database management and the numerous extra features (statistics, navigation, helpful .md hints, visual syntax, etc.).
 
 It's a real shame when I find this kind of thing out, just how much greater an app would be if they joined forces with another. I find this kind of ideal applies to all sorts of great products. It's not a new concept, but today I've seemed to realize it's implications.
 
 What bothers me even more is that this kind of idea doesn't apply to just the primitive aspect of app development but governments, nonprofit organizations, etc.
 
-I used to volunteer a lot for _[Operation Smile](https://www.operationsmile.org 'Operation Smile')_ (from 2009 to 2013), a nonprofit organization that provides free surgeries to repair cleft lip, cleft palate and other facial deformities for children around the globe. In early 2011, I heard they were going to merge with _[Smile Train](https://www.smiletrain.org 'Smile Train')_, the world's largest charity that provides corrective surgery for children with cleft lips and palates. Unfortunately, they never did succeed in their merger and when I asked an employee at OP Smile about it, they explained that their organizational structures were too different. You can hear more about the attempted merger [here](https://www.nytimes.com/2011/02/24/business/24smile.html?pagewanted=all 'Merger').
+I used to volunteer a lot for _[Operation Smile](https://www.operationsmile.org "Operation Smile")_ (from 2009 to 2013), a nonprofit organization that provides free surgeries to repair cleft lip, cleft palate and other facial deformities for children around the globe. In early 2011, I heard they were going to merge with _[Smile Train](https://www.smiletrain.org "Smile Train")_, the world's largest charity that provides corrective surgery for children with cleft lips and palates. Unfortunately, they never did succeed in their merger and when I asked an employee at OP Smile about it, they explained that their organizational structures were too different. You can hear more about the attempted merger [here](https://www.nytimes.com/2011/02/24/business/24smile.html?pagewanted=all "Merger").
 
 Regardless...

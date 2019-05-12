@@ -1,6 +1,6 @@
 ---
-title: Sitemap
-description: All the pages on this website. 🌐️
+title: "Sitemap"
+description: "All the pages on this website. 🌐️"
 customPage: true
 footer: true
 noComments: true

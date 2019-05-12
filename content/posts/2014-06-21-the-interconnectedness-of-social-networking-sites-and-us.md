@@ -1,7 +1,7 @@
 ---
-title: The Interconnectedness of Social Networking Sites
+title: "The Interconnectedness of Social Networking Sites"
 date: 2014-06-21
-description: So, I've made a somewhat interesting discovery.
+description: "So, I've made a somewhat interesting discovery."
 image: https://i.imgur.com/aWlmH44.jpg
 aliases:
   - /2014/06/21/the-interconnectedness-of-social-networking-sites-and-us/

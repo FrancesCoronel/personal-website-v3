@@ -1,11 +1,11 @@
 ---
 title: { { replace .TranslationBaseName "-" " " | title } }
 date: { { .Date } }
-description: ''
+description: ""
 # Featured image hosted on Imgur
-image: ''
+image: ""
 # (Optional) Caption for banner image.
-link: ''
+link: ""
 # Not ready for publishing
 draft: true
 # Pages

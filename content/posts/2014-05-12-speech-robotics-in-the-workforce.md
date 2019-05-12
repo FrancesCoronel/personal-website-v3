@@ -1,7 +1,7 @@
 ---
-title: 'Speech - Robotics In The Workforce'
+title: "Speech - Robotics In The Workforce"
 date: 2014-05-12
-description: 'The idea of robots taking over the economy.'
+description: "The idea of robots taking over the economy."
 image: https://i.imgur.com/XT6uQlV.jpg
 aliases:
   - /2014/05/12/speech-robotics-in-the-workforce/

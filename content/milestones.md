@@ -1,6 +1,6 @@
 ---
 title: Milestones
-description: And every day I'm one step closer... 🏅
+description: "And every day I'm one step closer... 🏅"
 image: https://i.imgur.com/R30kkoU.jpg
 customPage: true
 footer: true

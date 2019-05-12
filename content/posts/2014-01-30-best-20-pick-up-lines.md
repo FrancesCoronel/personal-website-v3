@@ -1,7 +1,7 @@
 ---
-title: 'The Best 20 Pick Up Lines'
+title: "The Best 20 Pick Up Lines"
 date: 2014-01-30
-description: 'Pick up lines I thought of.'
+description: "Pick up lines I thought of."
 image: https://i.imgur.com/dVuYv7K.jpg
 aliases:
   - /2014/03/04/best-20-pick-up-lines/

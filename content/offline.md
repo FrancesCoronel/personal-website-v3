@@ -1,6 +1,6 @@
 ---
 title: Offline
-description: This page wasn't cached so I'm showing you this offline page. 🌐
+description: "This page wasn't cached so I'm showing you this offline page. 🌐"
 url: /offline/
 hideImage: true
 noComments: true

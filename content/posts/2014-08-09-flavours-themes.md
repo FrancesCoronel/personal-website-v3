@@ -1,7 +1,7 @@
 ---
-title: Flavours Themes
+title: "Flavours Themes"
 date: 2014-08-09
-description: These are all the Flavours themes I've created for the Mac customizing application, Flavours.
+description: "These are all the Flavours themes I've created for the Mac customizing application, Flavours."
 image: https://i.imgur.com/HwCOfcX.jpg
 aliases:
   - /portfolio/flavours-themes/

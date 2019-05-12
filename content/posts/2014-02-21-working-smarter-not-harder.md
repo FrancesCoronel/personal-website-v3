@@ -1,7 +1,7 @@
 ---
-title: 'Working Smarter, Not Harder'
+title: "Working Smarter, Not Harder"
 date: 2014-02-21
-description: 'Work smarter, not harder with these key study strategies.'
+description: "Work smarter, not harder with these key study strategies."
 image: https://i.imgur.com/4K5btFJ.jpg
 aliases:
   - /2014/03/12/working-smarter-not-harder/
@@ -110,7 +110,7 @@ _SO BASICALLY_ focus on the easiest, most valuable questions that you understand
 
 If you don't recall any of this stuff, try to remember that no student should have to study and work all day, sleep for 3 hours, and go through the amount of stereotyped head ache and stress society assigns to the typical college student.
 
-Also, if you feel anything you're doing could be completed automatically, either by an intelligent algorithm currently online or a cyborg/intelligent algorithm in the **NEAR** future, try to avoid doing more of that, or [you're probably not gonna have a job later](https://www.economist.com/news/briefing/21594264-previous-technological-innovation-has-always-delivered-more-long-run-employment-not-less 'Economist Article on Tech Replacing People'). :|
+Also, if you feel anything you're doing could be completed automatically, either by an intelligent algorithm currently online or a cyborg/intelligent algorithm in the **NEAR** future, try to avoid doing more of that, or [you're probably not gonna have a job later](https://www.economist.com/news/briefing/21594264-previous-technological-innovation-has-always-delivered-more-long-run-employment-not-less "Economist Article on Tech Replacing People"). :|
 
 **It is VERY possible to complete all the necessary school work while getting all the sleep you need and managing extracurriculars, family, and friends. **
 

@@ -1,6 +1,6 @@
 ---
 title: TreeHacks
-description: At TreeHacks, everything's chill but the weather.
+description: "At TreeHacks, everything's chill but the weather."
 date: 2016-02-14
 image: https://i.imgur.com/40piFZT.jpg
 aliases:
@@ -69,9 +69,9 @@ I was 1 of 150 hackers from out of state who was accepted to attend TreeHacks wi
 - Best Use of Dropbox API
   - 100 GB of Dropbox storage for each member
 - Best Social Impact
-  - Lunch with Stanford President Hennessey + $400 to a charity of your choice
+  - Lunch with Stanford President Hennessey + \$400 to a charity of your choice
   - Coaching with Shannon Farley & Tour of Fast Forward
-  - $400 to a charity of your choice
+  - \$400 to a charity of your choice
 
 ### Coverage
 

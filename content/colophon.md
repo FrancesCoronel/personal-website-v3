@@ -1,6 +1,6 @@
 ---
 title: Colophon
-description: Unveiling the inner workings of this website. ⚙️
+description: "Unveiling the inner workings of this website. ⚙️"
 image: https://i.imgur.com/D4dPpG2.jpg
 footer: true
 hideImage: true

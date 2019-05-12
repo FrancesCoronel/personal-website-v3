@@ -1,6 +1,6 @@
 ---
-title: 'Old Dominion University - Summer 2014'
-description: 'Took one course during the summer of 2014 term at Old Dominion University tthrough their dual enrollment program.'
+title: "Old Dominion University - Summer 2014"
+description: "Took one course during the summer of 2014 term at Old Dominion University tthrough their dual enrollment program."
 date: 2014-08-15
 image: https://i.imgur.com/uWRki20.jpg
 categories:
@@ -9,7 +9,7 @@ categories:
 
 ## Institution
 
-[Old Dominion University](https://odu.edu 'Old Dominion University')
+[Old Dominion University](https://odu.edu "Old Dominion University")
 
 ## Location
 

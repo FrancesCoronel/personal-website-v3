@@ -1,7 +1,7 @@
 ---
-title: 'Nothing to Envy - Book Review'
+title: "Nothing to Envy - Book Review"
 date: 2014-02-21
-description: 'A research-oriented piece for my history class.'
+description: "A research-oriented piece for my history class."
 image: https://i.imgur.com/DUt1JDq.jpg
 aliases:
   - /2014/03/04/nothing-to-envy/

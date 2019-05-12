@@ -1,6 +1,6 @@
 ---
 title: Links
-description: All my profiles on the web. 🌐️
+description: "All my profiles on the web. 🌐️"
 image: https://i.imgur.com/w0r0XLN.png
 customPage: true
 hideImage: true

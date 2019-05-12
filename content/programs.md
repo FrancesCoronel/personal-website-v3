@@ -1,12 +1,12 @@
 ---
-title: Programs
-description: Growing outside of work or school. 🌱
+title: "Programs"
 customPage: true
-programPage: true
+description: "Growing outside of work or school. 🌱"
 hideImage: true
+image: https://i.imgur.com/Kip5AO4.jpg
 noComments: true
 noTimeEstimate: true
-image: https://i.imgur.com/Kip5AO4.jpg
+programPage: true
 url: /programs/
 aliases:
   - /meetups/

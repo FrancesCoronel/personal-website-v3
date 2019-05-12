@@ -1,7 +1,7 @@
 ---
-title: 'The Best 50 Insults'
+title: "The Best 50 Insults"
 date: 2014-03-04
-description: 'I first started compiling this long list back in August 2013 and they always made/make me laugh my head clean off.'
+description: "I first started compiling this long list back in August 2013 and they always made/make me laugh my head clean off."
 image: https://i.imgur.com/905BF7Z.jpg
 aliases:
   - /2014/03/04/the-best-50-insults-i-found-online/
@@ -56,7 +56,7 @@ Last sentence was kinda stupid, but yeah hope you enjoy sucka! :razz:
 
 #### 18. You are a sad strange little man. and you have my pity.
 
-#### 19. Boy, sit your $5 dollar ass down before I make change! (I used this once, and I got laughed at) :mad:
+#### 19. Boy, sit your \$5 dollar ass down before I make change! (I used this once, and I got laughed at) :mad:
 
 #### 20. If I wanted a joke, I'd follow you to the john and watch you take a leak. (OH SNAP) :twisted:
 

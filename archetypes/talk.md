@@ -1,7 +1,7 @@
 ---
 title: Talk Name
 date: 2018-01-01
-description: Talk Description
+description: "Talk Description"
 image: https://imgur.com
 talk: talkName
 categories:

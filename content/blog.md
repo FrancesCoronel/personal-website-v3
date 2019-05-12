@@ -1,6 +1,6 @@
 ---
-title: Blog
-description: What I've written about. 📝
+title: "Blog"
+description: "What I've written about. 📝"
 image: https://i.imgur.com/NLQe9YB.jpg
 blogPage: true
 customPage: true

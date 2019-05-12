@@ -1,7 +1,7 @@
 ---
 title: Fullstack Foundations - Week 1
 date: 2015-05-17
-description: Fullstack Academy‘s first ever Summer of Code program, which is described as a program that "gives college students the opportunity to study fullstack web development while on summer break" is starting this June. Specifically, Monday, June 8th 2015.
+description: "Fullstack Academy‘s first ever Summer of Code program, which is described as a program that gives college students the opportunity to study fullstack web development while on summer break is starting this June. Specifically, Monday, June 8th 2015."
 image: https://i.imgur.com/Zi4KZtm.jpg
 aliases:
   - /2015/05/17/fullstack-foundations-week-1/

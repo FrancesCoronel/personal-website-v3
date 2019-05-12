@@ -1,7 +1,7 @@
 ---
-title: 'What makes you feel better when you are in a bad mood?'
+title: "What makes you feel better when you are in a bad mood?"
 date: 2014-03-14
-description: 'Back when I was using Tumblr.'
+description: "Back when I was using Tumblr."
 categories:
   - blog
 ---

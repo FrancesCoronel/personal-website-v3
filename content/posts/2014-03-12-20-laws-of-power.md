@@ -1,7 +1,7 @@
 ---
-title: '20 Laws of Power'
+title: "20 Laws of Power"
 date: 2014-03-12
-description: 'My favorite 20 laws of power.'
+description: "My favorite 20 laws of power."
 image: https://i.imgur.com/4K5btFJ.jpg
 aliases:
   - /2014/03/12/20-laws-of-power/
@@ -9,7 +9,7 @@ categories:
   - blog
 ---
 
-So if you're not already familiar with Robert Green's popular book "[The 48 Laws of Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power '48 Laws of Power - Wiki')" that was published in 1998, I'm going to suggest you read it... right now.
+So if you're not already familiar with Robert Green's popular book "[The 48 Laws of Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power "48 Laws of Power - Wiki")" that was published in 1998, I'm going to suggest you read it... right now.
 
 Like any popular book, it has its positive and negative criticisms, but I found it immensely interesting for a self-help book.
 

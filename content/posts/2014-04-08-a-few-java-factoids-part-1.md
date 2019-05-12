@@ -1,7 +1,7 @@
 ---
-title: 'A Few Java Factoids - Part 1'
+title: "A Few Java Factoids - Part 1"
 date: 2014-03-03
-description: 'A few basic facts about Java.'
+description: "A few basic facts about Java."
 image: https://i.imgur.com/B9NMxC0.jpg
 aliases:
   - /2014/04/08/a-few-java-factoids-part-1/

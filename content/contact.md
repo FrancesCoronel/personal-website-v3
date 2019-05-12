@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: Getting in touch. 📬
+description: "Getting in touch. 📬"
 image: https://i.imgur.com/0n5zqiA.jpg
 hideImage: true
 noComments: true

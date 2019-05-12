@@ -1,7 +1,7 @@
 ---
 title: Grow with Google Udacity Scholarship
 date: 2018-04-17
-description: Awarded scholarship to complete Udacity's Mobile Web Nanodegree and potentially earn certification from Google.
+description: "Awarded scholarship to complete Udacity's Mobile Web Nanodegree and potentially earn certification from Google."
 image: https://i.imgur.com/TDXjQcA.png
 categories:
   - award

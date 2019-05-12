@@ -1,6 +1,6 @@
 ---
 title: Archive
-description: The past has been revealed. 🕒️
+description: "The past has been revealed. 🕒️"
 image: https://i.imgur.com/r940Dkr.jpg
 archivePage: true
 customPage: true

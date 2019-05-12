@@ -1,7 +1,7 @@
 ---
-title: The Black Apple
+title: "The Black Apple"
 date: 2014-08-15
-description: Customizing my desktop layout.
+description: "Customizing my desktop layout."
 image: https://i.imgur.com/Yv22Bpe.png
 categories:
   - portfolio

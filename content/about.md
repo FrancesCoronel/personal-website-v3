@@ -1,6 +1,6 @@
 ---
 title: About
-description: I like to dabble with things that ought to be dabbled with. 🍫🍓
+description: "I like to dabble with things that ought to be dabbled with. 🍫🍓"
 image: https://i.imgur.com/NWXkplC.jpg
 hideImage: true
 navbar: true

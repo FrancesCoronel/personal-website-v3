@@ -1,6 +1,6 @@
 ---
-title: Neat macOS Apps
-description: 'After nearly 10 years of being a macOS user...'
+title: "Neat macOS Apps"
+description: "After nearly 10 years of being a macOS user..."
 date: 2017-10-11
 image: https://i.imgur.com/llTkGsA.jpg
 ---

@@ -1,6 +1,6 @@
 ---
-title: Posts
-description: Everything I've been up to these days! 🍓🍫
+title: "Posts"
+description: "Everything I've been up to these days! 🍓🍫"
 hideImage: true
 noComments: true
 noTimeEstimate: true

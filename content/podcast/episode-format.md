@@ -1,6 +1,6 @@
 ---
 title: Episode Format
-description: All the info you need if you're interested in being on the podcast. 🔖
+description: "All the info you need if you're interested in being on the podcast. 🔖"
 image: "/assets/img/podcast/tech-queens-format.jpg"
 noComments: true
 noTimeEstimate: true

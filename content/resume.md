@@ -1,6 +1,6 @@
 ---
-title: Resume
-description: A 1-page summary of my professional journey. 📝
+title: "Resume"
+description: "A 1-page summary of my professional journey. 📝"
 image: https://i.imgur.com/vEg8KOi.jpg
 hideImage: true
 noComments: true

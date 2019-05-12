@@ -1,9 +1,9 @@
 ---
-title: Press
-description: Interviews or mentions in the media outside of this blog. 📰️
-image: https://i.imgur.com/6EAAJKo.jpg
+title: "Press"
 customPage: true
+description: "Interviews or mentions in the media outside of this blog. 📰️"
 hideImage: true
+image: https://i.imgur.com/6EAAJKo.jpg
 navbar: true
 noComments: true
 pressPage: true

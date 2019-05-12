@@ -1,6 +1,6 @@
 ---
-title: Random Cover Letter Templates
-description: Templates for cover letters I've created over the years.
+title: "Random Cover Letter Templates"
+description: "Templates for cover letters I've created over the years."
 date: 2017-06-22
 image: https://i.imgur.com/QnXvte1.jpg
 categories:
