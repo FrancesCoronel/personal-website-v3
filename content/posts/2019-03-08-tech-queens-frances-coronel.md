@@ -5,7 +5,6 @@ description: "Why I decided to start this podcast."
 hideUpcomingText: true
 image: "/assets/img/podcast/episodes/tech-queens-frances-coronel.jpg"
 recording: https://anchor.fm/tech-queens/episodes/Episode-1---An-Introduction-e2d55t
-recordingDate: 2019-03-04
 toc: true
 url: /tech-queens/episode-1/
 aliases:

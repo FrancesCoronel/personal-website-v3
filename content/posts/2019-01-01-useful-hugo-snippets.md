@@ -214,9 +214,12 @@ The HTML Liquid snippets are optimized for use with the [Hugo static site genera
 <!-- Canonical -->
 <link rel="canonical" href="{{ .Permalink | safeURL }}" />
 <!-- Alternative Output -->
-{{ range .AlternativeOutputFormats -}}
-    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-{{ end -}}
+{{ range .AlternativeOutputFormats -}} {{ printf `<link
+  rel="%s"
+  type="%s"
+  href="%s"
+  title="%s"
+/>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}}
 ```
 
 ## Show Posts From Specific Category
@@ -247,5 +250,18 @@ The HTML Liquid snippets are optimized for use with the [Hugo static site genera
     {{ .TableOfContents }}
   </div>
 </aside>
+{{- end }}
+```
+
+## Param Date
+
+```html
+{{ $recDate := time .Params.recordingDate }}
+<!-- Recording Date -->
+{{- if .Params.recordingDate }}
+<p class="has-text-weight-light mt-sm">
+  <span class="mr-sm">🎤</span>{{ if le $recDate now }}Recorded{{ else
+  }}Recording{{ end }} {{ dateFormat "January 2, 2006" .Params.recordingDate }}
+</p>
 {{- end }}
 ```

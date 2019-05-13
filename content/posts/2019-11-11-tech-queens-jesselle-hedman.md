@@ -1,7 +1,6 @@
 ---
 title: "Episode 9. Jesselle Hedman"
 date: 2019-11-11
-recordingDate: 2019-05-16
 description: "TBA"
 externalLink: https://www.linkedin.com/in/jesselle-hedman-40992677
 toc: true

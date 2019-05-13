@@ -1,7 +1,6 @@
 ---
 title: "Episode 6. Helena Jaramillo"
 date: 2019-08-12
-recordingDate: 2019-04-29
 description: "In this episode, I’m talking with Helena Jaramillo, an Ecuadorian Product Designer currently at Coda."
 externalLink: https://www.linkedin.com/in/helenajaramillo/
 image: "/assets/img/podcast/episodes/tech-queens-helena-jaramillo.jpg"
