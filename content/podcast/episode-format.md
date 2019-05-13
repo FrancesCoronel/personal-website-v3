@@ -16,27 +16,20 @@ Below, I outline everything you need to know as a future interviewee for the `#T
 
 Feel free to share this with other women of color in tech who you think might be interested.
 
-## TLDR;
+## Overview
 
 1. Connect with me on LinkedIn 💬
-2. Setup a Calendly meeting with me to schedule the recording 📆
-3. Send me the SVG file of your avatar created from the generator 🖼️
-4. Send me a high-res photo of yourself 📸
-5. Go over the questions, guidelines & recommendations 📝
-6. Record the podcast episode with me 🎙️
-7. Once the episode is published, share on social media & celebrate 🎉
-8. If you want, you can also buy swag for yourself or friends & family 🛒
+2. Schedule an initial chat via Calendly 📆
+3. Go over the questions, guidelines & recommendations 📝
+4. Schedule the actual recording session via Calendly 🎙️
+5. Send me the SVG file of your avatar created from the generator 🖼️
+6. Send me a high-res photo of yourself 📸
+7. Make a copy of the Tech Queens Podcast Template using Google Docs and share it with me via LinkedIn 📝
+8. Record the podcast episode with me 👑
+9. Once the episode is published, share on social media & celebrate so more women of color in tech can learn about Tech Queens 🎉
+10. If you want, you can also buy swag for yourself or friends & family 🛒
 
-## Action Items
-
-1. Send me the SVG file of your avatar created from the generator 🖼️
-2. Send me a high-res photo of yourself 📸
-3. Make a copy of the Tech Queens Podcast Template using Google Docs and share it with me via LinkedIn 📝
-4. Share on social media so more women of color can learn about this podcast 💬
-
-## Before
-
-### 1. Connect on LinkedIn
+## 1. Connect with me on LinkedIn 💬
 
 You can [connect with me through LinkedIn](https://linkedin.com/in/fvcproductions) if you'd like to be on the podcast or you can also fill out the [contact form](/tech-queens/contact-form).
 
@@ -44,49 +37,19 @@ If we’re not connected already, feel free to send an invite over and I’ll ha
 
 We will be using LinkedIn to message each other and coordinate on assets, etc.
 
-### 2. Book a time through my Calendly
+## 2. Schedule an initial chat via Calendly 📆
 
 To schedule our episode recording, we first need to set up a 30-minute chat to discuss logistics and any question you might have.
 
-Once we are connected through LinkedIn, I will send you over the link.
+Once we are connected through LinkedIn, I will send you over the link to book the initial 30 minute chat which would be [calendly.com/fvcproductions](https://calendly.com/fvcproductions)
+
+During this chat, I'll go over the episode format, action items and be able to answer any questions, comments or concerns you might have.
 
 You can specify through the Calendly platform if you want to chat either online or in-person at Slack’s HQ if you’re based in San Francisco.
 
-During this chat, we will finalize the date and time for the podcast recording and I’ll also be able to answer any questions, comments or concerns you might have.
+## 3. Go over the questions, guidelines & recommendations 📝
 
-### 3. Create your own custom avatar
-
-Create your avatar using [the avataaars generator](https://getavataaars.com/) using the transparent background setting.
-
-This avatar will be used to create the banner like the one below for the episode banner.
-
-![Tech Queens - Episode 1](/assets/img/podcast/episodes/tech-queens-frances-coronel.jpg)
-
-**ACTION ITEM** Send me the SVG file of your finished avatar via LinkedIn.
-
-### 4. Send me a high-res photo of yourself
-
-I will feature this image in the episode link so everyone can see your lovely face!
-
-**ACTION ITEM** Send me this image via LinkedIn and please make sure it's at least 1000 pixels in width.
-
-### 5. Share on social media
-
-**ACTION ITEM** Share the news that you’ll be on the podcast on your social media platforms.
-
-You can find image assets and social media templates below in the social media section.
-
-## During
-
-### 1. Sharing your story
-
-**ACTION ITEM** Make a copy of [this Google Doc](https://bit.ly/tech-queens-podcast-template) and share your copy with me via LinkedIn with edit access.
-
-This Google Doc contains the intro template, pre-defined questions, mini-takeaway questions and the outro.
-
-You are more than welcome to edit this doc to your heart's desire since I want you to be in control of the conversation as well!
-
-#### Questions
+### Questions
 
 The questions I will ask will be something along the lines of this:
 
@@ -110,7 +73,7 @@ The questions I will ask will be something along the lines of this:
 - Is there anything I left out that you’d like to address?
 - Any call to actions you want to share?
 
-#### Mini Takeaways
+### Mini Takeaways
 
 I want listeners to come away with useful takeaways so I will always ask these questions at the end.
 
@@ -119,7 +82,7 @@ I want listeners to come away with useful takeaways so I will always ask these q
 - What is an organization or affinity group that you would recommend joining? `#Friendlies`
 - Where do you live online or how can people reach out to you? `#GrowYourNetwork`
 
-### 2. Guidelines
+### Guidelines
 
 #### Feelings
 
@@ -139,7 +102,7 @@ You are welcome to use profanity but I recommend not forcing it.
 
 Just speak in whatever way makes you feel the most comfortable.
 
-### 3. Recommendations
+### Recommendations
 
 #### Breathing
 
@@ -155,13 +118,45 @@ I use crutch words myself quite a lot so it’s alright if you do use them but e
 
 > If you want to record in person, the next section isn't relevant and I will provide more details when we chat.
 
-### 4. Recording
+## 4. Schedule the actual recording session via Calendly 🎙️
+
+**ACTION ITEM** After the initial chat, you can book the actual recording session using [calendly.com/tech-queens/book-session](https://calendly.com/tech-queens/book-session).
+
+For remote sessions, a unique SquadCast link will be included in the calendar invite.
+
+For in-person sessions, arrival instructions will be included instead.
+
+## 5. Send me the SVG file of your avatar created from the generator 🖼️
+
+Create your avatar using [the avataaars generator](https://getavataaars.com/) using the transparent background setting.
+
+This avatar will be used to create the banner like the one below for the episode banner.
+
+![Tech Queens - Episode 1](/assets/img/podcast/episodes/tech-queens-frances-coronel.jpg)
+
+**ACTION ITEM** Send me the SVG file of your finished avatar via LinkedIn.
+
+## 6. Send me a high-res photo of yourself 📸
+
+I will feature this image in the episode link so everyone can see your lovely face!
+
+**ACTION ITEM** Send me this image via LinkedIn and please make sure it's at least 1000 pixels in width.
+
+## 7. Make a copy of the Tech Queens Podcast Template using Google Docs and share it with me via LinkedIn 📝
+
+**ACTION ITEM** Make a copy of [this Google Doc](https://bit.ly/tech-queens-podcast-template) and share your copy with me via LinkedIn with edit access.
+
+This Google Doc contains the intro template, pre-defined questions, mini-takeaway questions and the outro.
+
+You are more than welcome to edit this doc to your heart's desire since I want you to be in control of the conversation as well!
+
+## 8. Record the podcast episode with me 👑
 
 We will be recording the session using [SquadCast](https://squadcast.fm/#/home).
 
 If you’ve never used SquadCast before, it basically allows podcast hosts & guests to record studio quality audio from anywhere.
 
-#### Equipment
+### Equipment
 
 Have headphones and a good mic ready.
 
@@ -169,37 +164,23 @@ If you don’t have a dedicated mic, that’s okay but if you wanted to invest i
 
 ![Blue Snowball Mic Image](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014PYGTUQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=fvcproduction-20)
 
-#### Location
+### Location
 
 Find a place that is comfortable and quiet so there’s little to no background noise.
 
 We want to make sure there is little interference with our voices so our listeners can have a pleasant experience.
 
-#### WiFi
+### WiFi
 
 Try to connect to the internet via Ethernet if you can.
 
 Or if you’re using WiFi, try to be as physically close to the router as possible.
 
-## After
+## 9. Once the episode is published, share on social media & celebrate so more women of color in tech can learn about Tech Queens 🎉
 
-### 1. Celebrate
-
-You did it, thanks so much for sharing your story! 🎉
-
-### 2. Share on social media
-
-Once the episode is published (this could take anywhere from 1 to 4 weeks for editing), you can share on your social media accounts so your friends, families, co-workers can take a listen.
+**ACTION ITEM** Share the news that you’ll be on the podcast on your social media platforms.
 
 You can find image assets and social media templates below.
-
-### 3. Treat yourself
-
-Feel free to [buy swag from the store](/shop) to commemorate this momentous occasion.
-
-## Social Media
-
-I’ve provided some social media templates below.
 
 You don’t have to use these but this way, you have something to go off of!
 
@@ -243,19 +224,25 @@ If you also identify as a woman of color in tech, check out the website so you c
 https://techqueenspod.com/episode-xyz
 ```
 
-## Images
+### Images
 
 Here are two images you can use for social media posts with their URLs below.
 
 You probably won’t need them since including the website on social media will automatically show the first banner from the website meta tags.
 
-### Tech Queens Banner
+#### Tech Queens Banner
 
 <a href="/assets/img/podcast/tech-queens-banner.jpg" download><img data-src="/assets/img/podcast/tech-queens-banner.jpg" class="lozad" loading="lazy" src="/assets/img/podcast/tech-queens-banner.jpg" alt="Tech Queens Banner"></a>
 
-### Tech Queens Square
+#### Tech Queens Square
 
 <a href="/assets/img/podcast/tech-queens-square.jpg" download><img data-src="/assets/img/podcast/tech-queens-banner.jpg" class="lozad" loading="lazy" src="/assets/img/podcast/tech-queens-square.jpg" alt="Tech Queens Square"></a>
+
+## 10. If you want, you can also buy swag for yourself or friends & family 🛒
+
+Feel free to [buy swag from the Tech Queens Shop](/shop) to commemorate this momentous occasion!
+
+👚👕👜👠👔💈💳💸👗
 
 ## Credits
 
