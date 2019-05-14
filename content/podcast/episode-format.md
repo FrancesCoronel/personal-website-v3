@@ -18,23 +18,23 @@ Feel free to share this with other women of color in tech who you think might be
 
 ## Overview <!-- omit in toc -->
 
-- [1. Connect with me on LinkedIn 💬](#1-connect-with-me-on-linkedin-%F0%9F%92%AC)
-- [2. Schedule an initial chat via Calendly 📆](#2-schedule-an-initial-chat-via-calendly-%F0%9F%93%86)
-- [3. Go over the questions, guidelines & recommendations 📝](#3-go-over-the-questions-guidelines--recommendations-%F0%9F%93%9D)
-- [4. Schedule the actual recording session via Calendly 🎙️](#4-schedule-the-actual-recording-session-via-calendly-%F0%9F%8E%99%EF%B8%8F)
-- [5. Send me the SVG file of your avatar created from the generator 🖼️](#5-send-me-the-svg-file-of-your-avatar-created-from-the-generator-%F0%9F%96%BC%EF%B8%8F)
-- [6. Send me a high-res photo of yourself 📸](#6-send-me-a-high-res-photo-of-yourself-%F0%9F%93%B8)
-- [7. Make a copy of the Tech Queens Podcast Template using Google Docs and share it with me via LinkedIn 📝](#7-make-a-copy-of-the-tech-queens-podcast-template-using-google-docs-and-share-it-with-me-via-linkedin-%F0%9F%93%9D)
-- [8. Record the podcast episode with me 👑](#8-record-the-podcast-episode-with-me-%F0%9F%91%91)
-- [9. Once the episode is published, share on social media & celebrate so more women of color in tech can learn about Tech Queens 🎉](#9-once-the-episode-is-published-share-on-social-media--celebrate-so-more-women-of-color-in-tech-can-learn-about-tech-queens-%F0%9F%8E%89)
-- [10. If you want, you can also buy swag for yourself or friends & family 🛒](#10-if-you-want-you-can-also-buy-swag-for-yourself-or-friends--family-%F0%9F%9B%92)
+1. Connect with me on LinkedIn 💬
+2. Schedule an initial chat via Calendly 📆
+3. Go over the questions, guidelines & recommendations 🧠
+4. Schedule the actual recording session via Calendly 🎙
+5. Send me the SVG file of your avatar created from the generator 🖼
+6. Send me a high-res photo of yourself 📸
+7. Make a copy of the Tech Queens Podcast Template using Google Docs and share it with me via LinkedIn 📝
+8. Record the podcast episode with me 👑
+9. Once the episode is published, share on social media & celebrate so more women of color in tech can learn about Tech Queens 🎉
+10. If you want, you can also buy swag for yourself or friends & family 🛒
 
 ## Required action items after our initial chat <!-- omit in toc -->
 
-- [ ] Schedule recording session https://calendly.com/tech-queens/book-session
-- [ ] Send transparent SVG file of your avatar https://getavataaars.com
-- [ ] Make a copy of the Google Doc and fill it out accordingly https://bit.ly/tech-queens-podcast-template
-- [ ] Send a high-res photo of yourself via LinkedIn https://linkedin.com/in/fvcproductions
+- Schedule recording session https://calendly.com/tech-queens/book-session
+- Send transparent SVG file of your avatar https://getavataaars.com
+- Make a copy of the Google Doc and fill it out accordingly https://bit.ly/tech-queens-podcast-template
+- Send a high-res photo of yourself via LinkedIn https://linkedin.com/in/fvcproductions
 
 ## 1. Connect with me on LinkedIn 💬
 
@@ -54,7 +54,7 @@ During this chat, I'll go over the episode format, action items and be able to a
 
 You can specify through the Calendly platform if you want to chat either online or in-person at Slack’s HQ if you’re based in San Francisco.
 
-## 3. Go over the questions, guidelines & recommendations 📝
+## 3. Go over the questions, guidelines & recommendations 🧠
 
 ### Questions <!-- omit in toc -->
 
