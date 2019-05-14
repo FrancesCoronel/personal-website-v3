@@ -8,7 +8,7 @@ podcastEmail: true
 url: /tech-queens/episode-format/
 ---
 
-## Welcome, future Tech Queen! 👑
+## Welcome, future Tech Queen! 👑 <!-- omit in toc -->
 
 Thank you for taking the time out of your busy day to be on the podcast - I really appreciate it. 💛
 
@@ -16,18 +16,25 @@ Below, I outline everything you need to know as a future interviewee for the `#T
 
 Feel free to share this with other women of color in tech who you think might be interested.
 
-## Overview
+## Overview <!-- omit in toc -->
 
-1. Connect with me on LinkedIn 💬
-2. Schedule an initial chat via Calendly 📆
-3. Go over the questions, guidelines & recommendations 📝
-4. Schedule the actual recording session via Calendly 🎙️
-5. Send me the SVG file of your avatar created from the generator 🖼️
-6. Send me a high-res photo of yourself 📸
-7. Make a copy of the Tech Queens Podcast Template using Google Docs and share it with me via LinkedIn 📝
-8. Record the podcast episode with me 👑
-9. Once the episode is published, share on social media & celebrate so more women of color in tech can learn about Tech Queens 🎉
-10. If you want, you can also buy swag for yourself or friends & family 🛒
+- [1. Connect with me on LinkedIn 💬](#1-connect-with-me-on-linkedin-%F0%9F%92%AC)
+- [2. Schedule an initial chat via Calendly 📆](#2-schedule-an-initial-chat-via-calendly-%F0%9F%93%86)
+- [3. Go over the questions, guidelines & recommendations 📝](#3-go-over-the-questions-guidelines--recommendations-%F0%9F%93%9D)
+- [4. Schedule the actual recording session via Calendly 🎙️](#4-schedule-the-actual-recording-session-via-calendly-%F0%9F%8E%99%EF%B8%8F)
+- [5. Send me the SVG file of your avatar created from the generator 🖼️](#5-send-me-the-svg-file-of-your-avatar-created-from-the-generator-%F0%9F%96%BC%EF%B8%8F)
+- [6. Send me a high-res photo of yourself 📸](#6-send-me-a-high-res-photo-of-yourself-%F0%9F%93%B8)
+- [7. Make a copy of the Tech Queens Podcast Template using Google Docs and share it with me via LinkedIn 📝](#7-make-a-copy-of-the-tech-queens-podcast-template-using-google-docs-and-share-it-with-me-via-linkedin-%F0%9F%93%9D)
+- [8. Record the podcast episode with me 👑](#8-record-the-podcast-episode-with-me-%F0%9F%91%91)
+- [9. Once the episode is published, share on social media & celebrate so more women of color in tech can learn about Tech Queens 🎉](#9-once-the-episode-is-published-share-on-social-media--celebrate-so-more-women-of-color-in-tech-can-learn-about-tech-queens-%F0%9F%8E%89)
+- [10. If you want, you can also buy swag for yourself or friends & family 🛒](#10-if-you-want-you-can-also-buy-swag-for-yourself-or-friends--family-%F0%9F%9B%92)
+
+## Required action items after our initial chat <!-- omit in toc -->
+
+- [ ] Schedule recording session https://calendly.com/tech-queens/book-session
+- [ ] Send transparent SVG file of your avatar https://getavataaars.com
+- [ ] Make a copy of the Google Doc and fill it out accordingly https://bit.ly/tech-queens-podcast-template
+- [ ] Send a high-res photo of yourself via LinkedIn https://linkedin.com/in/fvcproductions
 
 ## 1. Connect with me on LinkedIn 💬
 
@@ -49,7 +56,7 @@ You can specify through the Calendly platform if you want to chat either online 
 
 ## 3. Go over the questions, guidelines & recommendations 📝
 
-### Questions
+### Questions <!-- omit in toc -->
 
 The questions I will ask will be something along the lines of this:
 
@@ -73,7 +80,7 @@ The questions I will ask will be something along the lines of this:
 - Is there anything I left out that you’d like to address?
 - Any call to actions you want to share?
 
-### Mini Takeaways
+### Mini Takeaways <!-- omit in toc -->
 
 I want listeners to come away with useful takeaways so I will always ask these questions at the end.
 
@@ -82,35 +89,35 @@ I want listeners to come away with useful takeaways so I will always ask these q
 - What is an organization or affinity group that you would recommend joining? `#Friendlies`
 - Where do you live online or how can people reach out to you? `#GrowYourNetwork`
 
-### Guidelines
+### Guidelines <!-- omit in toc -->
 
-#### Feelings
+#### Feelings <!-- omit in toc -->
 
 Feelings are great, stories are better
 
 Feel free to get specific about your experiences and provide examples on what you're talking about
 
-#### Jargon
+#### Jargon <!-- omit in toc -->
 
 Try to define any industry specific terms you use
 
 It’s okay to use jargon but we just want to make sure no one is left out of the conversation
 
-#### Profanity
+#### Profanity <!-- omit in toc -->
 
 You are welcome to use profanity but I recommend not forcing it.
 
 Just speak in whatever way makes you feel the most comfortable.
 
-### Recommendations
+### Recommendations <!-- omit in toc -->
 
-#### Breathing
+#### Breathing <!-- omit in toc -->
 
 Try to breathe through your nose and not through your mouth as this interferes with the audio.
 
 If you do need to catch your breath, no worries! Just let me know so then I can edit it out later.
 
-#### Crutch Words
+#### Crutch Words <!-- omit in toc -->
 
 I also recommend educating yourself a little bit on “crutch words” and how you can avoid them.
 
@@ -156,7 +163,7 @@ We will be recording the session using [SquadCast](https://squadcast.fm/#/home).
 
 If you’ve never used SquadCast before, it basically allows podcast hosts & guests to record studio quality audio from anywhere.
 
-### Equipment
+### Equipment <!-- omit in toc -->
 
 Have headphones and a good mic ready.
 
@@ -164,13 +171,13 @@ If you don’t have a dedicated mic, that’s okay but if you wanted to invest i
 
 ![Blue Snowball Mic Image](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014PYGTUQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=fvcproduction-20)
 
-### Location
+### Location <!-- omit in toc -->
 
 Find a place that is comfortable and quiet so there’s little to no background noise.
 
 We want to make sure there is little interference with our voices so our listeners can have a pleasant experience.
 
-### WiFi
+### WiFi <!-- omit in toc -->
 
 Try to connect to the internet via Ethernet if you can.
 
@@ -186,7 +193,7 @@ You don’t have to use these but this way, you have something to go off of!
 
 All the templates are under 280 characters so that it can be shared across Twitter, Facebook, Instagram, LinkedIn, etc.
 
-### Before Episode Recording
+### Before Episode Recording <!-- omit in toc -->
 
 265 characters
 
@@ -198,7 +205,7 @@ If you also identify as a woman of color in tech, check out the website so you c
 https://techqueenspod.com
 ```
 
-### After Episode Recording
+### After Episode Recording <!-- omit in toc -->
 
 270 characters
 
@@ -210,7 +217,7 @@ If you also identify as a woman of color in tech, check out the website so you c
 https://techqueenspod.com
 ```
 
-### After Episode Released
+### After Episode Released <!-- omit in toc -->
 
 274 characters
 
@@ -224,17 +231,17 @@ If you also identify as a woman of color in tech, check out the website so you c
 https://techqueenspod.com/episode-xyz
 ```
 
-### Images
+### Images <!-- omit in toc -->
 
 Here are two images you can use for social media posts with their URLs below.
 
 You probably won’t need them since including the website on social media will automatically show the first banner from the website meta tags.
 
-#### Tech Queens Banner
+#### Tech Queens Banner <!-- omit in toc -->
 
 <a href="/assets/img/podcast/tech-queens-banner.jpg" download><img data-src="/assets/img/podcast/tech-queens-banner.jpg" class="lozad" loading="lazy" src="/assets/img/podcast/tech-queens-banner.jpg" alt="Tech Queens Banner"></a>
 
-#### Tech Queens Square
+#### Tech Queens Square <!-- omit in toc -->
 
 <a href="/assets/img/podcast/tech-queens-square.jpg" download><img data-src="/assets/img/podcast/tech-queens-banner.jpg" class="lozad" loading="lazy" src="/assets/img/podcast/tech-queens-square.jpg" alt="Tech Queens Square"></a>
 
@@ -244,7 +251,7 @@ Feel free to [buy swag from the Tech Queens Shop](/shop) to commemorate this mom
 
 👚👕👜👠👔💈💳💸👗
 
-## Credits
+## Credits <!-- omit in toc -->
 
 The avatar images were created using [avataaars generator](https://getavataaars.com/).
 
@@ -254,7 +261,7 @@ The crown emoji 👑 is attributed to Twitter. Copyright 2018 Twitter, Inc and o
 
 Music by Jukedeck - create your own at [jukedeck.com](https://jukedeck.com).
 
-## Sanity Check
+## Sanity Check <!-- omit in toc -->
 
 - How are you feeling? Nervous, excited?
 - Are you in a quiet place?
