@@ -85,7 +85,7 @@ The questions I will ask will be something along the lines of this:
 I want listeners to come away with useful takeaways so I will always ask these questions at the end.
 
 - What is a useful app or platform that has helped you grow in your career? `#AppAdvice`
-- What does the term XYZ mean to you and how has it impacted your career? `#LearnThatTerm` (you will provide the term XYZ)
+- What does the term XYZ mean to you? `#LearnThatTerm` (you will provide the term XYZ)
 - What is an organization or affinity group that you would recommend joining? `#Friendlies`
 - Where do you live online or how can people reach out to you? `#GrowYourNetwork`
 

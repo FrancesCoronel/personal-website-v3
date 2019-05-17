@@ -49,7 +49,7 @@ Avatar created using [the avataaars generator](https://getavataaars.com/)
 - [Udacity](https://www.udacity.com/)
 - [Stack Overflow](https://stackoverflow.com/)
 
-### **#LearnThatTerm**: What does the term imposter syndrome mean to you and how has it impacted your career?
+### **#LearnThatTerm**: What does the term imposter syndrome mean to you?
 
 I think it's the little things - the moments where you could have gotten an opportunity but you didn't say anything because you didn't believe in yourself. But I've been working on it - knowing it's okay to be wrong - I think it helps to realize that the way to learn is making mistakes and getting it wrong so you can then get it right.
 
