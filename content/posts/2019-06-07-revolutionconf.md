@@ -7,6 +7,7 @@ link: https://revolutionconf.com/
 location: Wyndham Oceanfront - Virginia Beach, VA
 categories:
   - speaking
+  - conference
 tags:
   - revolution-conf
 ---

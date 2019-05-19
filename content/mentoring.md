@@ -13,11 +13,23 @@ aliases:
   - /home/services/mentoring/
 ---
 
-## I enjoy mentoring folks through nonprofit organizations trying to enact change in the tech industry.
+I've had opportunity to tutor folks at all ages (elementary school to adulthood) on how to get started in the tech field.
 
-Generally speaking, I enjoy providing career advice although I have teachable experience in web development & web design.
+I also enjoy mentoring others through external organizations trying to enact change in the tech industry.
 
-I've also had the opportunity to tutor folks at all ages (elementary school to adulthood) on how to get started in the tech field.
+Some of these organizations include:
+
+- [Code 2040](http://www.code2040.org/)
+- [Code.org](https://code.org/)
+- [CodeNow](https://www.codenow.org/)
+- [Fullstack Academy](https://www.fullstackacademy.com/)
+- [Grace Hopper Program](https://www.gracehopper.com/)
+- [Out of Office Hours](https://www.outofofficehours.com/)
+- [The Next Chapter](https://slackhq.com/next-chapter-a-pilot-program-aiming-to-help-formerly-incarcerated-individuals-find-work-and-succeed-in-tech)
+- [Thinkful](https://www.thinkful.com)
+- [Women in Technology and Entrepreneurship in New York (WiTNY)](https://witny.tech.cornell.edu/)
+
+Generally speaking, I enjoy providing career or job search advice although I have teachable experience in web development & web design.
 
 You can find [the feedback I've received thus far](/reviews/ "Feedback") on my website.
 

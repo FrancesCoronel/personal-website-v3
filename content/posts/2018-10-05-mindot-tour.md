@@ -5,6 +5,7 @@ image: https://i.imgur.com/aLDGZZj.jpg
 date: 2018-10-05
 categories:
   - volunteering
+  - speaking
 tags:
   - earthtones
   - mindot
@@ -18,6 +19,7 @@ tags:
 
 ---
 
+```txt
 Dear Frances,
 
 On behalf of the Mindot Team, I would like to thank you for your amazing tour and panel for our students. The students could not stop talking about Slack. It truly was an amazing experience for them.
@@ -30,3 +32,4 @@ Please find attached some pictures from the visit in case you would like them fo
 
 Hugs,
 Natalie
+```

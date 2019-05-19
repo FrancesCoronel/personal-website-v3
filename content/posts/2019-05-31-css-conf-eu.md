@@ -6,7 +6,7 @@ image: https://i.imgur.com/mG5zU4h.jpg
 link: https://2019.cssconf.eu/
 location: "Eichenstraße 4 - Berlin, Germany"
 categories:
-  - speaking
+  - conference
 tags:
   - cssconf
   - slack
