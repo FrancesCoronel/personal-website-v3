@@ -3,7 +3,7 @@
   command = "gulp build"
 
 [build.environment]
-  TZ = "America/Los_Angeles"
+  TZ = "PST"
 
 [context.production.environment]
   HUGO_VERSION = "0.48"

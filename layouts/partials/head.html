@@ -54,7 +54,7 @@
 {{ $pageTags = delimit .Params.tags ", " }}
 {{ end }}
 <!-- Date -->
-{{ $pageDate := dateFormat "2006-01-02 -0700" .Date }}
+{{ $pageDate := dateFormat "2006-01-02" .Date }}
 <!-- Set character encoding for the document -->
 <meta charset="utf-8">
 <!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
