@@ -3,6 +3,7 @@ title: "Episode 3. Lupita Davila"
 date: 2019-05-20
 description: "In this episode, I’m talking with Lupita Davila who is currently a software engineer at Twilio."
 image: "/assets/img/podcast/episodes/tech-queens-lupita-davila.jpg"
+recording: https://anchor.fm/tech-queens/episodes/Episode-3--Lupita-Davila-e42bfi
 toc: true
 url: /tech-queens/episode-3/
 aliases:
