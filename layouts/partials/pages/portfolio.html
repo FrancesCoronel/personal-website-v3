@@ -1,7 +1,7 @@
 {{ $portfolio := ($.Site.Taxonomies.categories.portfolio.Pages) }}
 <p>I've worked on {{ len $portfolio }} different projects so far.</p>
 <div class="columns is-multiline">
-  {{ range $portfolio }} {{ if .Date.Before now }}
+  {{ range $portfolio }} {{ if .Date.Local.Before now }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
     {{ partial "card.html" . }}
   </div>

@@ -54,7 +54,7 @@
 {{ $pageTags = delimit .Params.tags ", " }}
 {{ end }}
 <!-- Date -->
-{{ $pageDate := dateFormat "2006-01-02" .Date }}
+{{ $pageDate := dateFormat "2006-01-02" .Date.Local }}
 <!-- Set character encoding for the document -->
 <meta charset="utf-8">
 <!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
@@ -296,7 +296,7 @@
     },
     {{ end }}
     "articleSection":    "{{ .Section }}",
-    "copyrightYear":     "{{ .Date.Format "2006" }}",
+    "copyrightYear":     "{{ .Date.Local.Format "2006" }}",
     "genre":             "{{ .Type }}",
     "headline":          "{{ $pageTitle }}",
     "inLanguage":        "en-US",
@@ -327,7 +327,7 @@
       "blog post"
     ],
     {{- end }}
-    "datePublished":     "{{ .Date.Format "2006-01-02" }}",
+    "datePublished":     "{{ .Date.Local.Format "2006-01-02" }}",
     "dateModified" :     "{{ .Lastmod.Format "2006-01-02" }}"
 }
 </script>

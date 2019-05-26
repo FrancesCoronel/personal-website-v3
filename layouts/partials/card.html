@@ -17,7 +17,7 @@
         <!-- Title -->
         <h3 class="is-size-3">
           {{ if not (.Params.hideUpcomingText) }}
-            {{ if .Date.After now }}UPCOMING:
+            {{ if .Date.Local.After now }}UPCOMING:
             {{ end }}
           {{ end }}
           {{ .Title }}</h3>

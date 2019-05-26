@@ -1,14 +1,14 @@
 <!-- Date -->
 {{- if not .PublishDate.IsZero }}
   <p class="has-text-weight-light mt-sm">
-    <span class="mr-sm">📅️</span>{{ if in .Params.categories "talk" }}First presented {{ else if in .Params.categories "podcast" }}{{ if le .Date now }}Published {{ else }}Publishing by {{ end }}{{ end }}{{ dateFormat "Jan 2, 2006" .Date }}{{ if in .Params.categories "experience" }}{{ with .Params.ended }} to {{ . | dateFormat "Jan 2, 2006" }}{{ end }}{{ end }}
+    <span class="mr-sm">📅️</span>{{ if in .Params.categories "talk" }}First presented {{ else if in .Params.categories "podcast" }}{{ if le .Date.Local now }}Published {{ else }}Publishing by {{ end }}{{ end }}{{ dateFormat "Jan 2, 2006" .Date.Local }}{{ if in .Params.categories "experience" }}{{ with .Params.ended }} to {{ . | dateFormat "Jan 2, 2006" }}{{ end }}{{ end }}
   </p>
 {{- end }}
 <!-- Work Experience - Amount of Time -->
 {{ $experiencePages := ($.Site.Taxonomies.categories.experience).Pages }}
 {{ $experienceHoursTotal:= 0 }}
 {{ range (where $experiencePages ".Params.ended" "ne" nil) }}
-  {{ $experienceStart := (time .Date) }}
+  {{ $experienceStart := (time .Date.Local) }}
   {{ $experienceEnd := (time .Params.ended) }}
   {{ $experienceDiff := $experienceEnd.Sub (time $experienceStart) }}
   {{ $experienceHours := $experienceDiff.Hours }}
@@ -33,7 +33,7 @@
 {{- end }} -->
 <!-- Time in Role -->
   {{- if .Params.ended }}
-    <p class="has-text-weight-light mt-sm"> {{ $start := (time .Date) }}
+    <p class="has-text-weight-light mt-sm"> {{ $start := (time .Date.Local) }}
     {{ $end := (time .Params.ended) }}
     {{ $diff := $end.Sub (time $start) }}
     {{ $hours := $diff.Hours }}
@@ -50,7 +50,7 @@
     <span class="mr-sm">💼</span>Current Position
   </p>
   <p class="has-text-weight-light mt-sm">
-    {{ $start := (time .Date) }}
+    {{ $start := (time .Date.Local) }}
     {{ $end := (time .Params.ended) }}
     {{ $diff := now.Sub (time $start) }}
     {{ $hours := $diff.Hours }}

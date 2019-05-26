@@ -3,7 +3,7 @@
 <!-- mentoring -->
 <p>I've mentored or given advice/knowledge to {{ len $mentoring}} people so far.</p>
 <div class="columns is-multiline">
-  {{ range $mentoring }} {{ if .Date.Before now }}
+  {{ range $mentoring }} {{ if .Date.Local.Before now }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
     {{ partial "card.html" . }}
   </div>

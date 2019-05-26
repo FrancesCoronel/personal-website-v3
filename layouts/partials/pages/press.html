@@ -3,7 +3,7 @@
 <!-- Press -->
 <p>I've been highlighted outside of this blog {{ len $press }} times so far.</p>
 <div class="columns is-multiline">
-  {{ range $press }} {{ if .Date.Before now }}
+  {{ range $press }} {{ if .Date.Local.Before now }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
     {{ partial "card.html" . }}
   </div>

@@ -7,7 +7,7 @@
 <div class="mt-2">
   <p>🗨️ Presented at {{ len $events }}{{ if gt (len $events) 1 }} events{{ else }} event{{ end }}</p>
   <div class="columns is-multiline">
-    {{ range $events }} {{ if .Date.Before now }}
+    {{ range $events }} {{ if .Date.Local.Before now }}
     <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
       {{ partial "card.html" . }}
     </div>

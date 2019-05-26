@@ -3,7 +3,7 @@
 <!-- Awards -->
 <p>I've received {{ len $awards}} awards so far.</p>
 <div class="columns is-multiline">
-  {{ range $awards }} {{ if .Date.Before now }}
+  {{ range $awards }} {{ if .Date.Local.Before now }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
     {{ partial "card.html" . }}
   </div>
