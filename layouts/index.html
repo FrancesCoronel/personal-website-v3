@@ -28,7 +28,7 @@
   <!-- Most Recent 10 Posts -->
   <div class="section">
     {{ $regularPages := .Site.RegularPages }}
-    {{ $regularPagesBeforeNow := where $regularPages "Date" "le" now | first 10 }}
+    {{ $regularPagesBeforeNow := where $regularPages "Date.Local" "le" now | first 10 }}
     <div class="content table-border-none">
       <h2>📝 Latest Posts</h2>
       <p>

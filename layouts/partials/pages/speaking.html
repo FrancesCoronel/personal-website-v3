@@ -1,6 +1,6 @@
 {{ $speaking := ($.Site.Taxonomies.categories.speaking).Pages }}
-{{ $upcomingEvents := where $speaking "Date" "ge" now }}
-{{ $pastEvents := where $speaking "Date" "lt" now }}
+{{ $upcomingEvents := where $speaking "Date.Local" "ge" now }}
+{{ $pastEvents := where $speaking "Date.Local" "lt" now }}
 <!-- Upcoming Events -->
 {{ if (len $upcomingEvents) "ge" 1 }}
 <h2>⏳️ {{ len $upcomingEvents }} Upcoming Speaking {{ if gt (len $upcomingEvents) 1 }}Engagements{{ else }}Engagement{{ end }}</h2>

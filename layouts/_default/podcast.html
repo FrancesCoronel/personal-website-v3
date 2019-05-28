@@ -4,8 +4,8 @@
 <!-- Page -->
 {{ $podcast := ($.Site.Taxonomies.categories.podcast).Pages }}
 <!-- Date -->
-{{ $publishedEpisodes := where $podcast "Date" "le" now }}
-{{ $upcomingEpisodes:= where $podcast "Date" "gt" now }}
+{{ $publishedEpisodes := where $podcast "Date.Local" "le" now }}
+{{ $upcomingEpisodes:= where $podcast "Date.Local" "gt" now }}
 <div class="section">
   <div class="content">
     <h2>🎧 Available on</h2>

@@ -51,7 +51,7 @@
     </div>
     <!-- Last updated -->
     <div class="is-desktop-only" class="section">
-      {{ $latestPost := where .Site.RegularPages "Date" "lt" now | first 1 }}
+      {{ $latestPost := where .Site.RegularPages "Date.Local" "lt" now | first 1 }}
       {{ range $latestPost }}
         <p>Last updated
           <a href="{{ .RelPermalink }}" rel="noopener">{{ dateFormat "January 2, 2006" .Date.Local }}</a>
