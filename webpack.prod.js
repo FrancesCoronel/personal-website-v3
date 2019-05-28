@@ -66,7 +66,7 @@ module.exports = {
         urlPattern: /\.(?:html)$/,
         handler: "NetworkFirst",
         options: {
-          cacheName: "posts-cache",
+          cacheName: "fvcproductions-posts-cache",
           expiration: {
             maxEntries: 50
           },
@@ -76,8 +76,11 @@ module.exports = {
         urlPattern: /\.(?:png|gif|jpg|svg|ico|jpeg|css|js)$/,
         handler: "CacheFirst",
         options: {
-          cacheName: "assets-cache"
-        }
+          cacheName: "fvcproductions-images-cache",
+          expiration: {
+            maxEntries: 20,
+          },
+        },
       },
       {
         urlPattern: new RegExp("https://twemoji.maxcdn.com"),

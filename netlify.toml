@@ -6,12 +6,8 @@
   TZ = "America/Los_Angeles"
 
 [context.production.environment]
-  HUGO_VERSION = "0.48"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
-
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.48"
 
 # Redirect default Netlify subdomain to primary domain
 [[redirects]]

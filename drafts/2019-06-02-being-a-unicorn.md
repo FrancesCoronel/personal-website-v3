@@ -6,11 +6,11 @@ First off, I'd like to admit that I struggled a lot with this talk. The last tim
 
 For those who don't know, SMASH Academy is a free of cost, STEM-intensive college preparatory program in the US for underrepresented high school students of color that is run in partnership with several universities, including UC Berkeley, UCLA, UC Davis, and Stanford University.
 
-So there I was in this huge classroom in an older Stanford building and I was giving these students an overview of my journey into the tech industry and listing off a laundry list of what I perceived as my key accomplishments and feats throughout that journey.
+So there I was in this huge classroom in an older Stanford building and I was giving these students an overview of my journey into the tech industry and listing off a laundry list of what I perceived as my key accomplishments and obstacles I had faced throughout that journey.
 
 I'm so used to giving technical talks at conferences, Meetups or events like these on topics like Progressive Web Apps, TypeScript or HTML & CSS - things I know a lot about and speak to without needing to feel vulnerable.
 
-And all in honesty, at times throughout this talk, I felt unauthentic or out of place. See, a representative had told me before the talk that all the students accepted to SMASH Academy were required to be first-generation (meaning neither of their parents had received a degree) and from a low-income family (meaning they qualified for the free or reduced lunch program at their schools).
+And even though I received positive feedback from the talk, at times throughout this talk, I felt unauthentic or out of place. Alicia had let me know before the talk that all the students accepted to SMASH Academy were required to be first-generation (meaning neither of their parents had received a degree) and from a low-income family (meaning they qualified for the free or reduced lunch program at their schools).
 
 I identified as neither of first-gen or low-income but I recognize that the lack of diversity in tech from the socio-economic representation to demographic representation across all underrepresented populations is a very visible and well-known issue.
 
@@ -78,8 +78,6 @@ And now I'm in the process of creating a course on CSS for one of the largest on
 
 So what will the future look like?
 
-It is inevitable that at least in the US, minorities will play in an increasingly role
-
 Technology is evolving at an alarming rate and businesses and educational institutions need to keep pace with the changes as they become the new norms. Without a diversity of voices and perspectives in technology, we run the risk of gender bias in board rooms and gender bias in artificial intelligence with the unintended consequence of errors entering algorithms.
 
 But there will be always be someone who wants to take away our humanity and leave an uglier picture - a picture that is not accurate. If everyone in here lives out loud, we can overcome the hatred and expand everyone's lives.
@@ -90,18 +88,8 @@ Tech companies must reflect the communities they serve. If not, they risk aliena
 
 The intersectional identities in this room make us a powerful force but we need to continue to support one another so we create more leaders who continue to inspire younger generations.
 
+One of the biggest challenges that Latinos have is ensuring that our voices are heard and represented. We represent approximately 17% of the U.S. population, yet less than 2% of CEOs are Hispanic and approximately 3.5% of Fortune 500 board seats are held by Latinos. In order to change the narrative, Latinx leaders need to ensure we focus our energy on raising up the next generation of Latinx leaders and actively create opportunities for them. Our voices will be heard only when we have an adequate representation of Latinx in senior-level positions. This is why I’m deeply committed to nurturing and fostering the next generation of leaders, and partnering with allies across the industry to ensure we are included and also feel like we belong.
+
 Regardless, I know that whatever happens next, it will be a marvelous time to be alive.
 
 Thank you.
-
-It’s no surprise that there is not equal representation of Latinx leaders in the tech industry. This means we are working extra hard to show up everywhere our community needs us. I wear a lot of hats at Lyft–from a VP on the Lyft Business team, to the executive sponsor of our Latinx ERG group, to the company’s representative at events or meetings where the insights from a Latinx executive might be helpful. I also advise a VC fund that is focused on supporting Latinx entrepreneurs–it’s the only VC fund I know of that is focused specifically on this–and while my participation is extremely rewarding, it requires a lot of time and dedication. I feel responsibility for this work, because every voice matters.
-
-One of the biggest challenges that Latinos have is ensuring that our voices are heard and represented. We represent approximately 17% of the U.S. population, yet less than 2% of CEOs are Hispanic and approximately 3.5% of Fortune 500 board seats are held by Latinos. In order to change the narrative, Latinx leaders need to ensure we focus our energy on raising up the next generation of Latinx leaders and actively create opportunities for them. Our voices will be heard only when we have an adequate representation of Latinx in senior-level positions. This is why I’m deeply committed to nurturing and fostering the next generation of leaders, and partnering with allies across the industry to ensure we are included and also feel like we belong.
-
-A challenge I’ve faced and sometimes still struggle with is imposter syndrome. I’ve been guilty of undervaluing myself and my services in the past. Unfortunately, it’s a phenomenon that too many women of color relate to, even at the executive level. On the other hand, a key opportunity in my career thus far has been being able to build a network of like-minded Latinx businesswomen who I can learn from and work with. I’m able to pay it forward through our internship program, where I’m available as a resource and mentor to Latinx who need guidance and support in navigating the industry.
-
-He’s also encountered challenges in the peer review system at the company. Staffers have latitude every six months to choose some of the colleagues they’d like to review. “The more you’re in the club, the more it’s, ‘I’ll review you and you’ll review me and we’ll give each other good reviews,”’ he said.
-
-His co-workers haven’t always been helpful to him when they collaborate on a project, and sometimes he chooses not to ask for help because he’s felt isolated. “The world is whirling around you but you’re not in the loop,” he said. “You don’t know what’s going on and that breeds anxiety.”
-
-Recently he was at a team social event and encountered new black people there — ones he had never before seen at the Menlo Park campus. He said the party reminded him of a scene in the film, “Get Out.’’ Like the movie, the new employees looked like props that were conveniently staged to showcase a more welcoming environment than he felt actually existed.
