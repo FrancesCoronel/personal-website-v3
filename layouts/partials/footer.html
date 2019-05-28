@@ -54,7 +54,7 @@
       {{ $latestPost := where .Site.RegularPages "Date.Local" "lt" now | first 1 }}
       {{ range $latestPost }}
         <p>Last updated
-          <a href="{{ .RelPermalink }}" rel="noopener">{{ dateFormat "January 2, 2006" .Date.Local }}</a>
+          <a href="{{ .RelPermalink }}" rel="noopener">{{ dateFormat "January 2, 2006" .Date }}</a>
         </p>
       {{ end }}
     </div>

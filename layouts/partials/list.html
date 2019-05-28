@@ -11,7 +11,7 @@
   <tbody>
     {{ range .Pages }}
     <tr>
-      <td style="width:20%;">{{ dateFormat "Jan 2" .Date.Local }}</td>
+      <td style="width:20%;">{{ dateFormat "Jan 2" .Date }}</td>
       <td>
         <a href="{{ .RelPermalink }}" rel="noopener">{{ .Title }}</a>
       </td>

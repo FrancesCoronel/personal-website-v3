@@ -40,7 +40,7 @@
         <tbody>
           {{ range $regularPagesBeforeNow.ByDate.Reverse }}
           <tr>
-            <td class="v--home__date">{{ dateFormat "January 2" .Date.Local }}</td>
+            <td class="v--home__date">{{ dateFormat "January 2" .Date }}</td>
             <td>
               <a href="{{ .RelPermalink }}" rel="noopener">{{ .Title }}</a>
             </td>

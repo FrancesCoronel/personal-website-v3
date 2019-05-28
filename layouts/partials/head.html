@@ -54,7 +54,10 @@
 {{ $pageTags = delimit .Params.tags ", " }}
 {{ end }}
 <!-- Date -->
-{{ $pageDate := dateFormat "2006-01-02" .Date.Local }}
+<!-- {{ $ISO8601 := "2006-01-02T15:04:05-07:00" }} -->
+{{ $ISO8601 := "2006-01-02" }}
+{{ $pagePublishDate := .PublishDate.Format $ISO8601 | safeHTML }}
+{{ $pageModifiedDate := .Lastmod.Format $ISO8601 | safeHTML }}
 <!-- Set character encoding for the document -->
 <meta charset="utf-8">
 <!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
@@ -191,13 +194,16 @@
 {{ if .IsPage }}
 <meta property="article:section" content="Blog">
 <meta itemprop="wordCount" content="{{ .WordCount }}">
-{{ end }}
-<!-- Custom Meta -->
-<!-- Check for valid date -->
+<!-- Publish date -->
 {{ if not .PublishDate.IsZero }}
-  <meta itemprop="datePublished" content="{{ $pageDate }}">
-  <meta property="article:published_time" content="{{ $pageDate }}">
-  <meta property="og:updated_time" content="{{ $pageDate }}">
+  <meta itemprop="datePublished" content="{{ $pagePublishDate }}">
+  <meta property="article:published_time" content="{{ $pagePublishDate }}">
+{{ end }}
+<!-- Last modified -->
+{{ if not .Lastmod.IsZero }}
+<meta itemprop="dateModified" content="{{ $pageModifiedDate }}" />
+<meta property="og:updated_time" content="{{ $pageModifiedDate }}">
+{{ end }}
 {{ end }}
 <!-- Categories & Tags Present -->
 {{ if or (.Params.Categories) (.Params.tags) }}
@@ -296,7 +302,7 @@
     },
     {{ end }}
     "articleSection":    "{{ .Section }}",
-    "copyrightYear":     "{{ .Date.Local.Format "2006" }}",
+    "copyrightYear":     "{{ .Date.Format "2006" }}",
     "genre":             "{{ .Type }}",
     "headline":          "{{ $pageTitle }}",
     "inLanguage":        "en-US",
@@ -327,7 +333,7 @@
       "blog post"
     ],
     {{- end }}
-    "datePublished":     "{{ .Date.Local.Format "2006-01-02" }}",
+    "datePublished":     "{{ .Date.Format "2006-01-02" }}",
     "dateModified" :     "{{ .Lastmod.Format "2006-01-02" }}"
 }
 </script>
