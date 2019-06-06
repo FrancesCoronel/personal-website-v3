@@ -23,18 +23,20 @@ If you'd like to stay in touch professionally, don't hesitate to [connect with m
 
 ## Book a Chat 📅
 
-You can schedule a time to chat with me using [my Calendly](https://calendly.com/fvcproductions). Please note that I do charge for any mentoring sessions (see below).
-
-### Want mentoring or career advice?
+You can schedule a time to chat with me using [my Calendly](https://calendly.com/fvcproductions).
 
 <!-- prettier-ignore -->
-Due to high demand and my limited bandwidth, I now [charge $25 for every 30 minutes of mentoring](https://wirize.com/payments/HwjrgiJlKfO4). You can also pay through [Square Cash](https://cash.me/fvcprdxs) or [Venmo](https://venmo.com/fvcproductions). Please make sure to pay this amount before booking a session through my Calendly or I will have to reschedule/cancel the session.
+Due to high demand and my limited bandwidth, I now **charge $50 in exchange for 1 hour of mentorship or career help/advice**.
+
+You can pay through [Square Cash](https://cash.me/fvcprdxs) or [Venmo](https://venmo.com/fvcproductions) but I'm flexible with platforms.
+
+Please make sure to pay this amount before booking a session through my Calendly or I will have to reschedule/cancel the session.
 
 ## Ask Me Anything (AMA) 🤔️
 
 Just have a generic question? Maybe you found a typo?
 
-Feel free to [submit a new issue](https://github.com/fvcproductions/ama/issues/new/choose) through my AMA GitHub repo.
+Feel free to [submit a new issue](https://github.com/fvcproductions/fvcproductions.github.io/issues/new/choose) through my website/AMA GitHub repo.
 
 ## Contact Form 📼
 
@@ -73,7 +75,3 @@ If none of the above options seemed appropriate for you, fill out the contact fo
     </div>
   </div>
 </form>
-
-<!-- Start of HubSpot Embed Code -->
-<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5611815.js"></script>
-<!-- End of HubSpot Embed Code -->

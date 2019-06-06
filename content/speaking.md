@@ -14,7 +14,7 @@ aliases:
   - /speaking-events/
 ---
 
-All my presentation slides found on <a href="https://www.slideshare.net/fvcproductions" target="_blank" rel="noopener">my SlideShare profile <i class="fab fa-slideshare"></i></a>. 📎
+All my presentation slides can be found on <a href="https://www.slideshare.net/fvcproductions" target="_blank" rel="noopener">my SlideShare profile <i class="fab fa-slideshare"></i></a>. 📎
 
 My bio along with a speaker image can be found on [my about page](/about/#bio). 🖼️
 

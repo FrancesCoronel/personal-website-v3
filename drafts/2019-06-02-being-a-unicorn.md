@@ -2,6 +2,8 @@
 
 ### Intro
 
+Hello everyone - I'm Frances, a software engineer at Slack on the Customer Acquisition team.
+
 First off, I'd like to admit that I struggled a lot with this talk. The last time I gave anywhere close to a "personal" talk where I talked at length about my own life was when I was speaking to a group of black and brown students through SMASH Academy at Stanford University.
 
 For those who don't know, SMASH Academy is a free of cost, STEM-intensive college preparatory program in the US for underrepresented high school students of color that is run in partnership with several universities, including UC Berkeley, UCLA, UC Davis, and Stanford University.
@@ -10,7 +12,9 @@ So there I was in this huge classroom in an older Stanford building and I was gi
 
 I'm so used to giving technical talks at conferences, Meetups or events like these on topics like Progressive Web Apps, TypeScript or HTML & CSS - things I know a lot about and speak to without needing to feel vulnerable.
 
-And even though I received positive feedback from the talk, at times throughout this talk, I felt unauthentic or out of place. Alicia had let me know before the talk that all the students accepted to SMASH Academy were required to be first-generation (meaning neither of their parents had received a degree) and from a low-income family (meaning they qualified for the free or reduced lunch program at their schools).
+And even though I received positive feedback from the talk, at times throughout this talk, I wasn't sure if I was the right person to talk to these students.
+
+Sure, I was a minority female in the tech industry. But Alicia had let me know before the talk that all the students accepted to SMASH Academy were required to be first-generation (meaning neither of their parents had received a degree) and from a low-income family (meaning they qualified for the free or reduced lunch program at their schools).
 
 I identified as neither of first-gen or low-income but I recognize that the lack of diversity in tech from the socio-economic representation to demographic representation across all underrepresented populations is a very visible and well-known issue.
 
@@ -18,7 +22,9 @@ I identified as neither of first-gen or low-income but I recognize that the lack
 
 This brings me to my past. How exactly DID I get to that stage or even this one?
 
-I am the eldest daughter of Francisco & Rosa Coronel. My parents both immigrated to the states from Peru in their early 20's and came here to study. They both studied math at some point and always instilled the importance of education to my siblings and I. But growing up in Virginia, there were not many Peruvian let alone Latinx people. At times, I felt like an anomaly because of this. The self likes to fit and see itself replicated - to belong. This confirms its existence, importance and power in society.
+I am the eldest daughter of Francisco & Rosa Coronel. My parents both immigrated to the states from Peru in their early 20's and came here to study. They both studied math at some point and always instilled the importance of education to my siblings and I. We were your typical middle class family chasing the American dream.
+
+But growing up in Virginia, there were not many Peruvian let alone Latinx people. At times, I felt like an anomaly because of this. The self likes to fit and see itself replicated - to belong. This confirms its existence, importance and power in society.
 
 But looking back, I am grateful I was usually the only Latina in class. If I grew up in a place in California where there is an abundance of people like me, perhaps I would have felt less compelled to seek out the perspectives of those who reminded me of myself - the other outsiders most Americans had limited perspective into.
 
@@ -54,9 +60,9 @@ So this is how you can be a unicorn - or a Latina software engineer such as myse
 
 However, I have no desire for the situation to remain this way as my existence in tech shouldn’t have to be this rare and magical event.
 
-The lack of representation in my industry has been my greatest motivation - I want to lead by example, pave the way, overcome barriers.
-
 Instead, I’d like to band together with other unicorns so that we can lead, influence and inspire the next generation of minority women to not just break into but also prosper.
+
+The lack of representation in my industry has been my greatest motivation - I want to lead by example, pave the way, overcome barriers.
 
 Together, I believe we can transform ourselves from these mythical creatures to the more common but magnificent stallions.
 
