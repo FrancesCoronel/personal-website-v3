@@ -1,0 +1,37 @@
+{{ $pageLinksPresent := or (.Params.slides) (.Params.pdf) (.Params.video) (.Params.recording) }}
+{{ $categoriesOrTagsPresent := or (.Params.categories) (.Params.tags) }}
+<div class="card card-equal-height">
+  <a
+    class="reset" aria-label="{{ .Title }}" {{ if .Params.internalLink }} href="{{ .Params.internalLink }}" {{ else if .Params.externalLink }} href="{{ .Params.externalLink }}" target="_blank" {{ else }} href="{{ .RelPermalink }}" {{ end }} rel="noopener">
+    <div class="media-content {{ if $pageLinksPresent }}pb-0{{ else }}pb-sm{{ end }}">
+      <div
+        class="content">
+        <!-- Title -->
+        <h3 class="is-size-3">
+          {{ if not (.Params.hideUpcomingText) }}
+            {{ if .Date.Local.After now }}UPCOMING:
+            {{ end }}
+          {{ end }}
+          {{ .Title }}</h3>
+        <!-- Description -->
+        <p class="has-text-grey-dark">
+          {{ if .Description }}
+            {{ .Description | truncate 150 | safeHTML }}
+          {{ else }}
+            {{ .Summary | truncate 150 | safeHTML }}
+          {{ end }}
+        </p>
+        <!-- Info -->
+        {{- partial "page-info.html" . -}}
+      </div>
+    </div>
+  </a>
+  <!-- Links -->
+  {{ if $pageLinksPresent }}
+    <div class="media-content pt-0 pb-1">
+      <div class="content">
+        {{- partial "page-links.html" . -}}
+      </div>
+    </div>
+  {{ end }}
+</div>

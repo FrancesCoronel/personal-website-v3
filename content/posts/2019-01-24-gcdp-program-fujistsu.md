@@ -4,7 +4,7 @@ date: 2019-01-24
 image: https://i.imgur.com/93HYvEM.jpg?1
 description: "I spoke to a group of 20+ employees from Fujitsu about my career path and my thoughts on the high tech industry as part of their Global Competency Development Program."
 hours: 1.0
-location: "Slack - San Francisco, CA"
+location: "Slack HQ - San Francisco, CA"
 categories:
   - speaking
   - freelancing

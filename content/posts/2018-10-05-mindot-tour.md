@@ -3,6 +3,7 @@ title: Mindot Tour
 description: Helped organize a tour with a group of students from Colombia through MindotOrg - a 501(c)3 nonprofit organization with a mission to inspire students around the globe to become "Minders" or creatively successful leaders. 🌎
 image: https://i.imgur.com/aLDGZZj.jpg
 date: 2018-10-05
+location: Slack HQ - San Francisco, CA
 categories:
   - volunteering
   - speaking

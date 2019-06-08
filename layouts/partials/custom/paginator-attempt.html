@@ -1,7 +1,7 @@
 <div class="columns is-multiline">
   {{ $paginator := .Paginate (where $.Site.RegularPages "Params.categories" "speaking" ) 5 }} {{ range $paginator.Pages.ByDate.Reverse }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
-    {{ partial "card.html" . }}
+    {{ partial "card-no-image.html" . }}
   </div>
   {{ end }}
 </div>

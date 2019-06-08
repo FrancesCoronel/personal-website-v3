@@ -1,6 +1,17 @@
-## Being a Unicorn Working for Another Unicorn
+---
+title: Being a Unicorn Working for Another Unicorn
+description: "In this talk, I’ll walk you through my journey as a woman of color in tech and how I got to where I am today as a software engineer at a high growth unicorn startup."
+image: https://i.imgur.com/R5i8anl.jpg
+link: https://2019.jsconf.eu/frances-coronel/being-a-unicorn-working-for-another-unicorn.html
+date: 2018-07-19
+talk: being-a-unicorn
+toc: true
+customPage: true
+categories:
+  - talk
+---
 
-### Intro
+## Intro
 
 Hello everyone - I'm Frances, a software engineer at Slack on the Customer Acquisition team.
 
@@ -18,7 +29,7 @@ Sure, I was a minority female in the tech industry. But Alicia had let me know b
 
 I identified as neither of first-gen or low-income but I recognize that the lack of diversity in tech from the socio-economic representation to demographic representation across all underrepresented populations is a very visible and well-known issue.
 
-### The Past
+## The Past
 
 This brings me to my past. How exactly DID I get to that stage or even this one?
 
@@ -42,7 +53,7 @@ Being surrounded by people of color throughout my entire journey of studying, fr
 
 You can imagine my surprise when I started working for the tech industry and I found out just how rare someone like me actually was.
 
-### The Present
+## The Present
 
 This brings me to my current situation.
 
@@ -80,7 +91,7 @@ I also created Tech Queens, the first and only podcast to focus on exclusively s
 
 And now I'm in the process of creating a course on CSS for one of the largest online learning platforms in the world. I have come full circle. When I was first starting to learn how to code and watching videos online, I was wondering if I would ever find a video where I would see someone who looked like me teaching me how to code. And now, 6 years later, I have become that very person I had yearned for.
 
-### The Future
+## The Future
 
 So what will the future look like?
 
@@ -88,7 +99,7 @@ Technology is evolving at an alarming rate and businesses and educational instit
 
 But there will be always be someone who wants to take away our humanity and leave an uglier picture - a picture that is not accurate. If everyone in here lives out loud, we can overcome the hatred and expand everyone's lives.
 
-### Outro
+## Outro
 
 Tech companies must reflect the communities they serve. If not, they risk alienating the users most responsible for their success.
 

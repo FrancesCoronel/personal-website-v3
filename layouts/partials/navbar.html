@@ -15,7 +15,7 @@
         {{ range $homePages.ByTitle }}
         {{ if .Params.navbar }}
         <li class="nav-item">
-          <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="menu-item is-size-3">
+          <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="menu-item is-size-3 is-capitalized">
             {{ if .Params.display }}
             {{ .Params.display }}
             {{ else }}

@@ -5,6 +5,7 @@ description: "RevolutionConf is a two-day, platform and language agnostic softwa
 image: https://i.imgur.com/hQwwDi1.jpg
 link: https://revolutionconf.com/
 location: Wyndham Oceanfront - Virginia Beach, VA
+slides: https://www.slideshare.net/FVCproductions/revolutionconf-2019-progressive-web-apps-101
 categories:
   - speaking
   - conference

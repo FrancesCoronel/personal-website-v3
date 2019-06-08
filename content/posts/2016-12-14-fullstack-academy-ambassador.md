@@ -3,6 +3,7 @@ title: Fullstack Academy
 date: 2017-12-14
 image: https://i.imgur.com/vTvG2lQ.png
 description: Ambassador
+location: Fullstack Academy - New York, NY
 slides: https://www.slideshare.net/FVCproductions/the-state-of-coding-bootcamps-2017
 aliases:
   - /home/adventures/experience/fullstack-academy-ambassador/

@@ -17,6 +17,8 @@ aliases:
   - /podcast-series/
 ---
 
+## Tech Queens is the first and only podcast that focuses solely on the stories and advice shared by women of color in tech.
+
 ## 💭 Why start this podcast?
 
 So after listening to a lot of tech podcasts and not hearing enough people like me talking, I decided to just start my own instead of complaining about it!

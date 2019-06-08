@@ -5,7 +5,7 @@ description:
   of Code. Here's how my experience went. \U0001F4BB️"
 date: 2015-12-13
 image: https://i.imgur.com/VO0Djgg.jpg
-location: Multiple Locations - Hampton Roads, VA
+location: Hampton Roads, VA
 aliases:
   - "/2015/12/07/hour-of-code-2015/"
 categories:

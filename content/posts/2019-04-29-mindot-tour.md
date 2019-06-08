@@ -4,6 +4,7 @@ description: Helped organize a second tour at Slack a group of female high schoo
 image: https://i.imgur.com/BNaPa36.jpg
 slides: https://docs.google.com/presentation/d/e/2PACX-1vSaz9Y3nHahrKBYmyiC5aeW0AWIiX-pwUaU6gn0bm_6kNasuYp0lvLWA859xzcPWGnIwN5oVGNdDfFA/pub?start=false&loop=false&delayms=3000
 date: 2019-04-29
+location: Slack HQ - San Francisco, CA
 categories:
   - volunteering
   - speaking

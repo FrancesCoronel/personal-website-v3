@@ -2,7 +2,7 @@
   <div
     class="content">
     <!-- Title -->
-    <h1 class="is-size-1">{{ .Title }}</h1>
+    <h1 class="is-size-1 is-capitalized">{{ .Title }}</h1>
     <!-- Info -->
     <!-- Description -->
     {{ if .Description }}
@@ -10,7 +10,7 @@
     {{ end }}
     <!-- External Link -->
     {{ if .Params.link }}
-      <p class="has-text-weight-light mt-sm">
+      <p class="has-text-weight-light mt-sm mb-sm">
         <span class="mr-sm">🌐
         </span>
         <a href="{{ .Params.link }}" target="_blank" rel="noopener">{{ .Params.link }}</a>

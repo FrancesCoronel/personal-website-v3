@@ -12,6 +12,4 @@ tags:
   - slack
 ---
 
-I will be representing Slack and also talking in their brand new BIPoCit Space.
-
-https://2019.cssconf.eu/bipocit-space/
+I went with the developer relation team to represent Slack at the `:last-of-type` CSSconf EU.

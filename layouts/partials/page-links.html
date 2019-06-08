@@ -2,68 +2,74 @@
 {{ if in .Params.categories "speaking" }}
   <!-- Progressive Web Apps 101 -->
   {{ if in .Params.tags "pwas101" }}
-  <p class="has-text-weight-light mt-sm">
+  <p class="has-text-weight-light mt-sm mb-sm">
     <span class="mr-sm">📢️</span><a href="/2018/05/18/progressive-web-apps-101/">Progressive Web Apps 101</a>
   </p>
   {{ end }}
   <!-- Coding Bootcamps -->
   {{ if in .Params.tags "bootcamps" }}
-  <p class="has-text-weight-light mt-sm">
+  <p class="has-text-weight-light mt-sm mb-sm">
     <span class="mr-sm">📢️</span><a href="/2016/01/18/coding-bootcamps/">Coding Bootcamps</a>
   </p>
   {{ end }}
   <!-- Hour of Code -->
   {{ if in .Params.tags "hour-of-code" }}
-  <p class="has-text-weight-light mt-sm">
+  <p class="has-text-weight-light mt-sm mb-sm">
     <span class="mr-sm">📢️</span><a href="/2015/12/10/hour-of-code/">Hour of Code</a>
   </p>
   {{ end }}
   <!-- TypeScript 101 -->
   {{ if in .Params.tags "typescript101" }}
-  <p class="has-text-weight-light mt-sm">
+  <p class="has-text-weight-light mt-sm mb-sm">
     <span class="mr-sm">📢️</span><a href="/2017/09/29/typescript-101/">TypeScript 101</a>
   </p>
   {{ end }}
   <!-- Web Design -->
   {{ if in .Params.tags "web-design" }}
-  <p class="has-text-weight-light mt-sm">
+  <p class="has-text-weight-light mt-sm mb-sm">
     <span class="mr-sm">📢️</span><a href="/2015/04/09/web-design/">Web Design for Developers</a>
   </p>
   {{ end }}
   <!-- Wizard -->
   {{ if in .Params.tags "wizard" }}
-  <p class="has-text-weight-light mt-sm">
+  <p class="has-text-weight-light mt-sm mb-sm">
     <span class="mr-sm">📢️</span><a href="/2016/04/09/so-you-want-to-be-a-wizard/">So You Want To Be A Wizard</a>
   </p>
   {{ end }}
   <!-- Breaking Into Tech -->
   {{ if in .Params.tags "breaking-into-tech" }}
-  <p class="has-text-weight-light mt-sm">
+  <p class="has-text-weight-light mt-sm mb-sm">
     <span class="mr-sm">📢️</span><a href="/2018/07/19/breaking-into-tech/">Breaking Into Tech</a>
+  </p>
+  {{ end }}
+  <!-- Being a Unicorn Working for Another Unicorn -->
+  {{ if in .Params.tags "being-a-unicorn" }}
+  <p class="has-text-weight-light mt-sm mb-sm">
+    <span class="mr-sm">📢️</span><a href="/2019/06/02/being-a-unicorn/">Being a Unicorn Working for Another Unicorn</a>
   </p>
   {{ end }}
 {{ end }}
 <!-- Slides -->
 {{ if .Params.slides }}
-<p class="has-text-weight-light mt-sm">
+<p class="has-text-weight-light mt-sm mb-sm">
   <span class="mr-sm">📎️</span><a href="{{ .Params.slides }}" target="_blank" rel="noopener">View slides</a>
 </p>
 {{ end }}
 <!-- PDF Version of Slides -->
 {{ if .Params.pdf }}
-<p class="has-text-weight-light mt-sm">
+<p class="has-text-weight-light mt-sm mb-sm">
   <span class="mr-sm">⬇️</span><a href="{{ .Params.pdf }}" target="_blank" rel="noopener">Download slides</a> (PDF)
 </p>
 {{ end }}
 <!--- Video -->
 {{ if .Params.video }}
-<p class="has-text-weight-light mt-sm">
+<p class="has-text-weight-light mt-sm mb-sm">
   <span class="mr-sm">🎥</span><a href="{{ .Params.video }}" target="_blank" rel="noopener">Watch video</a>
 </p>
 {{ end }}
 <!-- Recording -->
 {{ if .Params.recording }}
-<p class="has-text-weight-light mt-sm">
+<p class="has-text-weight-light mt-sm mb-sm">
   <span class="mr-sm">🎙️</span><a href="{{ .Params.recording }}" target="_blank" rel="noopener">Hear recording</a>
 </p>
 {{ end }}
