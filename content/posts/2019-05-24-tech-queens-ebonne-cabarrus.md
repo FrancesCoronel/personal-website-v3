@@ -5,6 +5,8 @@ description: "For this long-form blog post/interview, I talked with Ebonne Cabar
 image: "/assets/img/podcast/episodes/tech-queens-ebonne-cabarrus.jpg"
 toc: true
 url: /tech-queens/episode-4/
+recording: https://anchor.fm/tech-queens/episodes/Episode-4--Ebonne-Cabarrus-e42bhe
+link: https://www.linkedin.com/in/ebonne-cabarrus
 aliases:
   - /podcast/episode-4/
   - /episode-4/
@@ -19,6 +21,10 @@ tags:
 ## Ebonne Cabarrus
 
 ![Ebonne Cabarrus - Photo](https://i.imgur.com/QZfbeun.jpg)
+
+## Recording
+
+<iframe loading="lazy" src="https://anchor.fm/tech-queens/embed/episodes/Episode-4--Ebonne-Cabarrus-e42bhe/a-afec92" frameborder="0" scrolling="no" class="mt-1-sm" width="100%" height="auto"></iframe>
 
 ## Transcript
 

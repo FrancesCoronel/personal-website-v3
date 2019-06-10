@@ -5,6 +5,8 @@ description: "In this episode, I’m talking with Helena Jaramillo, an Ecuadoria
 image: "/assets/img/podcast/episodes/tech-queens-helena-jaramillo.jpg"
 toc: true
 url: /tech-queens/episode-6/
+link: https://www.linkedin.com/in/helenajaramillo
+recording: https://anchor.fm/tech-queens/episodes/Episode-6--Helena-Jaramillo-e42bhg
 aliases:
   - /podcast/episode-6/
   - /episode-6/

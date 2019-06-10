@@ -5,6 +5,8 @@ description: "In this episode, I’m talking with Anisha Carter who is a current
 image: "/assets/img/podcast/episodes/tech-queens-anisha-carter.jpg"
 toc: true
 url: /tech-queens/episode-5/
+link: https://www.linkedin.com/in/anisha-carter-one
+recording: https://anchor.fm/tech-queens/episodes/Episode-5--Anisha-Carter-e42bji
 aliases:
   - /podcast/episode-5/
   - /episode-5/

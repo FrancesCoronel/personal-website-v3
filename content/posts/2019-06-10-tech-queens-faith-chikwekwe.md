@@ -3,7 +3,8 @@ title: "Episode 7. Faith Chikwekwe"
 date: 2019-06-10
 description: "In this episode, I’m talking with Faith Chikwekwe who is currently a student studying software engineering at Make School and a teaching assistant for their computer science courses."
 image: "/assets/img/podcast/episodes/tech-queens-faith-chikwekwe.jpg"
-externalLink: https://www.linkedin.com/in/faithchikwekwe
+link: https://www.linkedin.com/in/faithchikwekwe
+recording: https://anchor.fm/tech-queens/episodes/Episode-7--Faith-Chikwekwe-e42bip
 toc: true
 url: /tech-queens/episode-7/
 aliases:
@@ -16,9 +17,9 @@ tags:
   - women of color in tech
 ---
 
-<!-- ## Recording
+## Recording
 
-<iframe loading="lazy" src="" frameborder="0" scrolling="no" class="mt-1-sm" width="100%" height="auto"></iframe> -->
+<iframe loading="lazy" src="https://anchor.fm/tech-queens/embed/episodes/Episode-7--Faith-Chikwekwe-e42bip/a-afee9p" frameborder="0" scrolling="no" class="mt-1-sm" width="100%" height="auto"></iframe>
 
 ## Faith Chikwekwe
 
