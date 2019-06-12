@@ -5,10 +5,10 @@ description: "In this episode, I'm talking with Pia Zaragoza who is a Senior UX 
 image: "/assets/img/podcast/episodes/tech-queens-pia-zaragoza.jpg"
 externalLink: https://www.linkedin.com/in/piazaragoza/
 toc: true
-url: /tech-queens/episode-6/
+url: /tech-queens/episode-8/
 aliases:
-  - /podcast/episode-6/
-  - /episode-6/
+  - /podcast/episode-8/
+  - /episode-8/
 categories:
   - podcast
 tags:
