@@ -3,7 +3,8 @@ title: "Episode 8. Pia Zaragoza"
 date: 2019-06-17
 description: "In this episode, I'm talking with Pia Zaragoza who is a Senior UX Researcher at a large financial institution."
 image: "/assets/img/podcast/episodes/tech-queens-pia-zaragoza.jpg"
-externalLink: https://www.linkedin.com/in/piazaragoza/
+link: https://www.linkedin.com/in/piazaragoza/
+recording: https://anchor.fm/tech-queens/episodes/Episode-8--Pia-Zaragoza-e42bj2/a-afeeau
 toc: true
 url: /tech-queens/episode-8/
 aliases:
@@ -16,9 +17,9 @@ tags:
   - women of color in tech
 ---
 
-<!-- ## Recording
+## Recording
 
-<iframe loading="lazy" src="" frameborder="0" scrolling="no" class="mt-1-sm" width="100%" height="auto"></iframe> -->
+<iframe loading="lazy" src="https://anchor.fm/tech-queens/embed/episodes/Episode-8--Pia-Zaragoza-e42bj2/a-afeeau" frameborder="0" scrolling="no" class="mt-1-sm" width="100%" height="auto"></iframe>
 
 ## Pia Zaragoza
 
