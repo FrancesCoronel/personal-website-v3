@@ -131,6 +131,8 @@ I use crutch words myself quite a lot so it’s alright if you do use them but e
 
 For remote sessions, a unique SquadCast link will be included in the calendar invite.
 
+Here's an example of a SquadCast link so you can play around with it: https://squadcast.page.link/bMoi
+
 For in-person sessions, arrival instructions will be included instead.
 
 ## 5. Send me the SVG file of your avatar created from the generator 🖼️
