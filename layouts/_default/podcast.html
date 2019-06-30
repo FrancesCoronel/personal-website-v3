@@ -50,20 +50,6 @@
     {{ end }}
     <!-- Content -->
     {{ partial "content.html" . }}
-    <h2>ℹ️ More Info</h2>
-    <!-- Children -->
-    <div class="columns is-multiline">
-      <!-- Defining Pages -->
-      {{ $paginator := .Paginator.Pages }}
-      <!-- Union -->
-      {{ $pages := $paginator | union (.Sections) }}
-      <!-- Looping -->
-      {{ range $pages.ByTitle }}
-      <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
-        {{ partial "card.html" . }}
-      </div>
-      {{ end }}
-    </div>
   </div>
 </div>
 <!-- Footer -->

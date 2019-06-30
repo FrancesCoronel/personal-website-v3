@@ -7,11 +7,12 @@ noTimeEstimate: true
 podcastEmail: true
 noContentClass: true
 hideImage: true
-url: /shop/
 aliases:
-  - /store/
   - /buy/
+  - /merch/
   - /purchase/
+  - /shop/
+  - /store/
   - /tech-queens/shop/
   - /tech-queens/store/
 ---

@@ -15,11 +15,9 @@ aliases:
   - /biography/
 ---
 
-Hi, I'm Frances!
+Hi, I'm Frances! 👋🏽
 
-I'm a Latina (Peruvian-American) who engineers solutions to make your working life more simple, more pleasant and more productive.
-
-Or better yet, I'm a [unicorn](<https://www.wikiwand.com/en/Unicorn_(finance)>) (1% of women in tech identify as Latina) who is working for another unicorn ([Slack](https://slack.com?source=fvcproductions)). 🦄
+I'm a software engineer at Slack who engineers solutions to make your working life more simple, more pleasant and more productive.
 
 ## Blurb
 

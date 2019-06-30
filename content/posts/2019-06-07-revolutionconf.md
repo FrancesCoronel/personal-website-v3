@@ -11,6 +11,7 @@ categories:
   - conference
 tags:
   - revolution-conf
+  - pwas101
 ---
 
 I will be speaking on PWAs and really being going full-circle here since volunteering for the first [RevolutionConf](/2016/05/13/revolutionconf/) back in 2016.

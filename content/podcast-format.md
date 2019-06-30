@@ -6,6 +6,8 @@ noComments: true
 noTimeEstimate: true
 podcastEmail: true
 url: /tech-queens/episode-format/
+aliases:
+  - /podcast-format/
 ---
 
 ## Welcome, future Tech Queen! 👑 <!-- omit in toc -->
