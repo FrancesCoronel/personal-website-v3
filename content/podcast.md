@@ -33,8 +33,6 @@ Introducing Tech Queens, the first and only podcast I know of that will solely f
 
 The very first episode was released March 8th for International Women's Day so it's still very much in its early stages which is why I am currently looking for interviewees that are working in the tech industry.
 
-If you're interested, fill out the [contact form](/tech-queens/contact-form/) and I'll get back to you ASAP.
-
 ### 💛 Who is this podcast for?
 
 In 2015, women made up 25 percent of computing-related occupations.
