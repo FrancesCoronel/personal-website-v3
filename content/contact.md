@@ -25,22 +25,18 @@ If you'd like to stay in touch professionally, don't hesitate to [connect with m
 
 You can schedule a time to chat with me using [my Calendly](https://calendly.com/fvcproductions).
 
+The first 30 minute session you book with me is free in exchange for [a LinkedIn recommendation](https://www.linkedin.com/recs/give?senderId=fvcproductions) submitted after the session.
+
 <!-- prettier-ignore -->
-Due to high demand and my limited bandwidth, I now **charge $50 in exchange for 1 hour of mentorship or career help/advice**.
+For following sessions, I charge $25 for every 30 minutes.
 
 You can pay through [Square Cash](https://cash.me/fvcprdxs) or [Venmo](https://venmo.com/fvcproductions) but I'm flexible with platforms.
 
-Please make sure to pay this amount before booking a session through my Calendly or I will have to reschedule/cancel the session.
+Please make sure to pay this amount before booking a paid session through my Calendly or I will have to reschedule/cancel the session.
 
-## Ask Me Anything (AMA) 🤔️
+## Contact Form 📝
 
-Just have a generic question? Maybe you found a typo?
-
-Feel free to [submit a new issue](https://github.com/fvcproductions/fvcproductions.github.io/issues/new/choose) through my website/AMA GitHub repo.
-
-## Contact Form 📼
-
-If none of the above options seemed appropriate for you, fill out the contact form below and I'll get back to you as soon as I can.
+You are also welcome to fill out the contact form below and I'll get back to you as soon as I can.
 
 <form name="contact" method="POST" data-netlify="true" class="form">
   <input type="hidden" name="_subject" value="FVCproductions - New Contact Message">
