@@ -56,9 +56,9 @@ I am currently a software engineer specializing in UI development on the Custome
 
 I have been working professionally as a developer since 2015 and have both a Bachelors and Masters in Computer Science.
 
-I am also a board member and open source lead for [**Techqueria**](https://techqueria.org), a nonprofit representing the largest community for Latinx in Tech and the host of [**Tech Queens**](/podcast/), the first and only podcast that focuses on the stories and advice shared by women of color in tech.
+I am also a board member and open source lead for [**Techqueria**](https://techqueria.org?source=fvcproductions), a nonprofit representing the largest community for Latinx in Tech and the host of [**Tech Queens**](/podcast/), the first and only podcast that focuses on the stories and advice shared by women of color in tech.
 
-My passions outside of work include contributing to open-source, public speaking and mentoring other URMs in tech.
+My passions outside of work include contributing to open-source, public speaking and mentoring other people of color in tech.
 
 ### Third Person
 
@@ -66,9 +66,9 @@ My passions outside of work include contributing to open-source, public speaking
 
 She has been working professionally as a developer since 2015 and has both a Bachelors and Masters in Computer Science.
 
-Frances is also a board member and open source lead for [**Techqueria**](https://techqueria.org), a nonprofit representing the largest community for Latinx in Tech and the host of [**Tech Queens**](/podcast/), the first and only podcast that focuses on the stories and advice shared by women of color in tech.
+Frances is also a board member and open source lead for [**Techqueria**](https://techqueria.org?source=fvcproductions), a nonprofit representing the largest community for Latinx in Tech and the host of [**Tech Queens**](/podcast/), the first and only podcast that focuses on the stories and advice shared by women of color in tech.
 
-Her passions outside of work include contributing to open-source, public speaking and mentoring other URMs in tech.
+Her passions outside of work include contributing to open-source, public speaking and mentoring other people of color in tech.
 
 ## Headshot
 
@@ -122,8 +122,8 @@ My logo is a chocolate dipped strawberry.
 
 No particular reason why, I just think they're yummy. 🍫🍓
 
-[![Logo](/assets/img/teaser.png)](/2017/08/19/fvcproductions---logo-redesign-/ "FVCproductions Logo Redesign")
+[![FVCproductions - Logo](/assets/img/teaser.png)](/2017/08/19/fvcproductions---logo-redesign-/ "FVCproductions Logo Redesign")
 
 I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the Egyptian queen) a crap ton.
 
-![Nefy](https://i.imgur.com/cwXno9D.jpg)
+![Nefertiti, my dog](https://i.imgur.com/cwXno9D.jpg)

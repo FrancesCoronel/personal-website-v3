@@ -31,3 +31,25 @@ Fireside Chat with:
 - Frances Coronel, Software Engineer, Slack
 - Lucy Basta, Co-Founder at WorkWell, Moderated by NPower Alumna & US Army Veteran:
 - Ashleigh Titre Lo, Infrastructure Acquisition & Divestiture Project Manager, iTalent Digital @ Cisco
+
+---
+
+Hi Frances, it was great to meet you at the Npower event last night. Great job on the panel -- your experience is very inspiring! I hope our paths cross again! ~ Robin
+
+---
+
+Hi Frances,
+Happy Friday! I hope this finds you well.
+My name is Mynhan, like the Mayans, and I was at the Women in Tech event where spoke about your experience in tech. Thank you soo much for sharing your story. It was truly inspiring and empowering!
+Warmly,
+Mynhan
+
+---
+
+Great speech today! Looking forward to connect! - Daria
+
+---
+
+![gift](https://i.imgur.com/WvBcwmU.jpg)
+
+![gift 2](https://i.imgur.com/nZLOlW7.jpg)

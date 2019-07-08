@@ -33,7 +33,7 @@ tags:
 
 ### **#Friendlies**: What is an organization or affinity group that you would recommend joining?
 
-- [Techqueria](https://techqueria.org) - Techqueria is one of the largest communities for Latinx professionals in the tech industry.
+- [Techqueria](https://techqueria.org?source=fvcproductions) - Techqueria is one of the largest communities for Latinx professionals in the tech industry.
 
 ### **#GrowYourNetwork**: Where do you live online or how can people reach out to you?
 

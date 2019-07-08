@@ -37,7 +37,7 @@ https://www.eventbrite.com/e/latinx-erg-leads-unite-session-2-tickets-5506412126
 
 ## October 30th, 2018 - ERG Leads Meeting #1
 
-Organized through [Techqueria](https://techqueria.org), ERG leads are now going to start coming together!
+Organized through [Techqueria](https://techqueria.org?source=fvcproductions), ERG leads are now going to start coming together!
 
 `#erg-leads-unite`
 

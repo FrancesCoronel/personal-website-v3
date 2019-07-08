@@ -3,7 +3,7 @@
 <div class="columns is-multiline">
   {{ range $portfolio }} {{ if .Date.Local.Before now }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
-    {{ partial "card-no-image.html" . }}
+    {{ partial "card.html" . }}
   </div>
   {{ end }} {{ end }}
 </div>

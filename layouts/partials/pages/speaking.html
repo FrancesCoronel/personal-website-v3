@@ -7,7 +7,7 @@
 <div class="columns is-multiline">
   {{ range $upcomingEvents.ByDate.Reverse }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
-    {{ partial "card-no-image.html" . }}
+    {{ partial "card.html" . }}
   </div>
   {{ end }}
 </div>
@@ -17,7 +17,7 @@
 <div class="columns is-multiline">
   {{ range $pastEvents.ByDate.Reverse }}
   <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
-    {{ partial "card-no-image.html" . }}
+    {{ partial "card.html" . }}
   </div>
   {{ end }}
 </div>

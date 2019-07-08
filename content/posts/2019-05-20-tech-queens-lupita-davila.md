@@ -40,7 +40,7 @@ I've definitely experienced it in college and in my first web designer job.
 
 ### **#Friendlies**: What is an organization or affinity group that you would recommend joining?
 
-- [Techqueria](https://techqueria.org) - Techqueria is a nonprofit representing one of the largest communities for Latinx professionals in the tech industry.
+- [Techqueria](https://techqueria.org?source=fvcproductions) - Techqueria is a nonprofit representing one of the largest communities for Latinx professionals in the tech industry.
 - [SHPE](https://shpe.org/) - SHPE changes lives by empowering the Hispanic community to realize its fullest potential and to impact the world through STEM awareness, access, support and development.
 - [Latinas in Tech](https://www.latinasintech.org/) - Latinas in Tech is a non-profit organization with the mission to connect, support and empower Latina women working in tech.
 
