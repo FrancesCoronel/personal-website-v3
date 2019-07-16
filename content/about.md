@@ -74,56 +74,11 @@ Her passions outside of work include contributing to open-source, public speakin
 
 ![Headshot](https://i.imgur.com/NWXkplC.jpg "Frances Coronel - Headshot")
 
-> Photo taken for [TechHire Oakland](https://www.techhireoakland.org/training/) by [Adrian Walker](https://www.adrianowalker.com/)
+> Photo taken for [TechHire Oakland](https://www.techhireoakland.org/training/) by [Adrian Walker](https://www.adrianowalker.com
 
-<!-- ## Life Timeline
-
-| Date           | Event                                                                  |
-| -------------- | ---------------------------------------------------------------------- |
-| 1995 October   | Born in Newport News, VA to Peruvian immigrants                        |
-| 1998 September | Started Pre-K                                                          |
-| 2001 September | Started elementary school                                              |
-| 2006 January   | Got my first dog, Nefer                                                |
-| 2006 September | Started middle school                                                  |
-| 2009 September | Started high school                                                    |
-| 2010 June      | First college class at Tidewater Community College                     |
-| 2011 June      | Took summer college classes at Hampton University                      |
-| 2011 August    | First international conference                                         |
-| 2012 Summer    | Volunteered for an international medical mission                       |
-| 2012 Summer    | Studied wildlife in Tanzania                                           |
-| 2013 June      | Graduated from high school                                             |
-| 2013 June      | Started fvcproductions.com                                             |
-| 2013 June      | Took summer college classes again at Tidewater Community College       |
-| 2013 August    | Studied abroad at Jacobs University Bremen                             |
-| 2014 January   | Started at Hampton University                                          |
-| 2014 August    | First tech conference                                                  |
-| 2014 October   | First hackathon                                                        |
-| 2015 June      | Summer of Code at Fullstack Academy                                    |
-| 2015 October   | First client dev project completed                                     |
-| 2015 November  | First developer job with 80/20                                         |
-| 2015 November  | First talk at a tech conference                                        |
-| 2016 May       | Graduated from Hampton University with a Bachelors in Computer Science |
-| 2016 May       | Started dating Nolan                                                   |
-| 2016 Summer    | Interned for Accenture on AR/VR team                                   |
-| 2016 August    | Started at Cornell Tech                                                |
-| 2017 May       | Graduated from Cornell Tech with a Masters in Computer Science         |
-| 2017 June      | Started at Accenture                                                   |
-| 2018 June      | Started at Slack                                                       |
-| 2018 August    | Nolan moves in                                                         |
-| 2018 November  | Now an admin for Techqueria                                            |
-| 2021 January   | Nefer probably dead                                                    |
-| 2095 October   | Probably dead                                                          |
-
-> This life timeline was inspired by [Chris Coyier's](https://chriscoyier.net/timeline/) because I thought it looked neat. -->
-
-## Random Fun Facts
-
-My logo is a chocolate dipped strawberry.
-
-No particular reason why, I just think they're yummy. 🍫🍓
-
-[![FVCproductions - Logo](/assets/img/teaser.png)](/2017/08/19/fvcproductions---logo-redesign-/ "FVCproductions Logo Redesign")
-
-I am a BIG dog person and spoil/pamper my black lab Nefertiti (named after the Egyptian queen) a crap ton.
-
-![Nefertiti, my dog](https://i.imgur.com/cwXno9D.jpg)
+<a aria-label="FVCproductions on Twitter" class="button button-large fa-twitter" href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.fvcproductions.com%2F&ref_src=twsrc%5Etfw&screen_name=FVCproductions&tw_p=followbutton" rel="noopener" target="_blank" title="FVCproductions on Twitter">
+  <svg aria-label="Down Arrow" aria-hidden="true" data-icon="arrow-down" role="img" xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 448 512" class="fa-icon fa-arrow-down">
+    <path fill="currentColor" d="M413.1 222.5l22.2 22.2c9.4 9.4 9.4 24.6 0 33.9L241 473c-9.4 9.4-24.6 9.4-33.9 0L12.7 278.6c-9.4-9.4-9.4-24.6 0-33.9l22.2-22.2c9.5-9.5 25-9.3 34.3.4L184 343.4V56c0-13.3 10.7-24 24-24h32c13.3 0 24 10.7 24 24v287.4l114.8-120.5c9.3-9.8 24.8-10 34.3-.4z"></path>
+  </svg><span class="ml-sm"><b>Follow @fvcproductions</b></span>
+</a>

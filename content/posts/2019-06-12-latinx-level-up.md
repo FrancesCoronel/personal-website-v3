@@ -48,6 +48,7 @@ tags:
 8. Michael Tristan
 9. Frances Coronel
 10. Diana Marquez-De La Torre
+11. Sara Quinto-Seibert
 
 ### Strive
 

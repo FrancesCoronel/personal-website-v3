@@ -56,3 +56,11 @@ Many thanks to the wonderful Frances Coronel (a long-time subscriber!) who is or
 
 I’m looking forward to meeting you there.
 ```
+
+## Feedback
+
+"Hello Frances, I just wanted to thank you for the awesome event you put together yesterday. I got to interact with some amazing people and learned a lot from the speakers. 🌮️" - Luis Morales
+
+"Hi Frances, It was a pleasure meeting you in-person last night at the Fuego meeting. I wanted to thank you and the team who put on the Turning Failure into Fuego meeting yesterday! It was such a wonderfully done event in every way... I came away with some great connections, and really inspired.... Thank you!!" - Jon Garcia
+
+"Thank you again for everything! Such a wonderful event!" - Adriana Durante

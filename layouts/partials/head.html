@@ -257,11 +257,11 @@
 {
     "@context":         "https://schema.org",
     "@type":            "WebSite",
-    "image":            "{{ .Site.Params.og_image }}",
+    "image":            "{{ .Site.Params.og_image | safeHTML }}",
     "license":          "{{ .Site.Params.copyright }}",
     "name":             "{{ .Site.Title }}",
-    "thumbnailUrl":     "{{ .Site.Params.logo }}",
-    "url":              "{{ .Site.BaseURL }}",
+    "thumbnailUrl":     "{{ .Site.Params.logo | safeHTML }}",
+    "url":              "{{ .Site.BaseURL | safeHTML }}",
     {{ with $.Site.Author.name }}
      "author":           {
         "@type":        "Person",
@@ -270,11 +270,11 @@
     {{ end }}
     "mainEntityOfPage": {
         "@type":        "WebPage",
-        "@id":          "{{ .Site.BaseURL }}"
+        "@id":          "{{ .Site.BaseURL | safeHTML }}"
     },
     "potentialAction":  {
         "@type":        "SearchAction",
-        "target":       "{{ .Site.Params.search_url }}",
+        "target":       "{{ .Site.Params.search_url | safeHTML }}",
         "query-input":  "required name=search_term_string"
     },
     "sameAs":           [
@@ -308,7 +308,7 @@
     "inLanguage":        "en-US",
     "license":           "{{ .Site.Params.copyright }}",
     "name":              "{{ $pageTitle }}",
-    "url":               "{{ .Permalink }}",
+    "url":               "{{ .Permalink | safeHTML }}",
     "wordcount":         {{ .WordCount }},
     "description":       "{{ $pageDescription }}",
     "mainEntityOfPage":  {
@@ -323,7 +323,7 @@
         "name":          "{{ .Site.Title }}",
         "logo":          {
           "@type":       "ImageObject",
-          "url":         "{{ .Site.Params.logo }}"
+          "url":         "{{ .Site.Params.logo | safeHTML }}"
         }
     },
     {{ if or (.Params.categories) (.Params.tags) -}}
@@ -357,7 +357,7 @@
         "@type":     "ListItem",
         "position":  {{ .position }},
         "item":      {
-          "@id":     "{{ .Permalink }}",
+          "@id":     "{{ .Permalink | safeHTML }}",
           "name":    "{{ .name }}"
         }
     }{{ end }}]
