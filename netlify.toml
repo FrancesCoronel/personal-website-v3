@@ -7,7 +7,7 @@
 
 [context.production.environment]
   HUGO_ENV = "production"
-  HUGO_ENABLEGITINFO = "true"
+  HUGO_ENABLEGITINFO = "false"
 
 # Redirect default Netlify subdomain to primary domain
 [[redirects]]

@@ -4,6 +4,7 @@ description: Board Member, Open Source Lead, Slack Workspace Owner & Admin 🌮
 date: 2018-04-24
 currentPosition: true
 image: https://i.imgur.com/VMrVGbe.png
+link: https://techqueria.org
 aliases:
   - /2018/09/20/techquerias-new-website-launched/
   - /2018/04/24/techqueria/
@@ -19,7 +20,7 @@ tags:
   - latinx in tech
 ---
 
-> Techqueria is one of the largest communities of Latinx professionals in the tech industry.
+Techqueria is a nonprofit representing the largest community for Latinx in Tech.
 
 ## March 27th, 2019
 

@@ -1,6 +1,7 @@
 ---
 title: { { replace .TranslationBaseName "-" " " | title } }
 date: { { .Date } }
+lastmod:
 description: ""
 # Featured image hosted on Imgur
 image: ""

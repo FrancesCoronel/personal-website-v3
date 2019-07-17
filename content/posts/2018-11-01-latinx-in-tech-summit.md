@@ -2,7 +2,7 @@
 title: "Latinx in Tech Summit"
 date: 2018-11-01
 location: E-Sports Arena - Oakland, CA
-image: https://i.imgur.com/szMn6TO.jpg
+image: https://i.imgur.com/ZUi66bJ.jpg
 hours: 1.0
 description: "The LTX Summit will feature prominent voices and valuable curated programming, we will explore emerging tech, opportunities, access, advocacy, mindfulness, and identity."
 categories:

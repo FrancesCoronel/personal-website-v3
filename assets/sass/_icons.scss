@@ -118,6 +118,10 @@ $fa-color in $fa-social {
   a.fa-#{$social-network}:hover {
     background-color: $fa-color !important;
     color: white !important;
+
+    &:hover {
+      border-color: $fa-color !important;
+    }
   }
 }
 
@@ -125,7 +129,7 @@ $fa-color in $fa-social {
   a {
     background-color: transparent;
     border-radius: 0;
-    border: 1px solid $border;
+    border: 1px solid $border !important;
     color: inherit;
     display: inline-block;
     padding: 1em;
