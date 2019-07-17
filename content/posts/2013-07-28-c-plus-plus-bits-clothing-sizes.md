@@ -1,5 +1,5 @@
 ---
-title: C++ Bits - Clothing Sizes
+title: "C++ Bits - Clothing Sizes"
 date: 2013-07-28
 description: Testing out clothes in C++. 🚺
 image: https://i.imgur.com/mNett8e.jpg
@@ -11,10 +11,10 @@ categories:
 
 To declare weight, height, hat size, jacket size, and waist size.
 
-1.  Write a C++ program to calculate a person's hat size, jacket size, and waist size (in inches). Use functions to calculate each figure. The formulas are as follows: Hat Size = 2.9 times weight in pounds divided by height in inches
-2.  The input of each program will be the weight (hopefully the person ain't fat as hell either otherwise I'm guessing the program would literally terminate itself, no coding need), followed by the height in feet and inches.
-3.  For each input, calculate all three answers (hat size, jacket size, and waist size). Use functions for each and then output the results with appropriate labels, as a thug would out-shank that priss with an appropriate Ontario MKIII Navy Knife (holla!). And yeah as always, format to control the appearance of your answers in coding because we don't any blind kids cryin'.
-4.  Read the count before the data then use a loop to read the data. The program will work for ANY data set, not just my nutty numbers. Use regular functions to calculate hat size, jacket size, and waist size. Use a void function and call by reference to read the input data. There will be three input arguments of type int. The first will be the weight followed by height. SO we cool!
+1. Write a C++ program to calculate a person's hat size, jacket size, and waist size (in inches). Use functions to calculate each figure. The formulas are as follows: Hat Size = 2.9 times weight in pounds divided by height in inches
+2. The input of each program will be the weight (hopefully the person ain't fat as hell either otherwise I'm guessing the program would literally terminate itself, no coding need), followed by the height in feet and inches.
+3. For each input, calculate all three answers (hat size, jacket size, and waist size). Use functions for each and then output the results with appropriate labels, as a thug would out-shank that priss with an appropriate Ontario MKIII Navy Knife (holla!). And yeah as always, format to control the appearance of your answers in coding because we don't any blind kids cryin'.
+4. Read the count before the data then use a loop to read the data. The program will work for ANY data set, not just my nutty numbers. Use regular functions to calculate hat size, jacket size, and waist size. Use a void function and call by reference to read the input data. There will be three input arguments of type int. The first will be the weight followed by height. SO we cool!
 
 ## Sample Input (AKA MY NUMBERS HARPY)
 
