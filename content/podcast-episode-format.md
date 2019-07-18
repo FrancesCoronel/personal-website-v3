@@ -8,6 +8,7 @@ podcastEmail: true
 url: /tech-queens/episode-format/
 aliases:
   - /podcast-format/
+  - /episode-format/
 ---
 
 ## Welcome, future Tech Queen! 👑 <!-- omit in toc -->
@@ -35,7 +36,7 @@ Feel free to share this with other women of color in tech who you think might be
 
 - Schedule recording session https://calendly.com/tech-queens/book-session
 - Send transparent SVG file of your avatar https://getavataaars.com
-- Make a copy of the Google Doc and fill it out accordingly https://bit.ly/tech-queens-podcast-template
+- Make a copy of the Google Doc and fill it out accordingly http://bit.ly/tech-queens-podcast-doc
 - Send a high-res photo of yourself via LinkedIn https://linkedin.com/in/fvcproductions
 
 ## 1. Connect with me on LinkedIn 💬
@@ -155,7 +156,7 @@ I will feature this image in the episode link so everyone can see your lovely fa
 
 ## 7. Make a copy of the Tech Queens Podcast Template using Google Docs and share it with me via LinkedIn 📝
 
-**ACTION ITEM** Make a copy of [this Google Doc](https://bit.ly/tech-queens-podcast-template) and share your copy with me via LinkedIn with edit access.
+**ACTION ITEM** Make a copy of [this Google Doc](http://bit.ly/tech-queens-podcast-doc) and share your copy with me via LinkedIn with edit access.
 
 This Google Doc contains the intro template, pre-defined questions, mini-takeaway questions and the outro.
 
