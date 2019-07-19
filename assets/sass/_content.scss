@@ -65,6 +65,18 @@
 
     &.button {
       border: 1px solid $button-border;
+
+      &:hover {
+        background-color: $primary;
+        color: white;
+        border-color: $primary;
+      }
+
+      &.fa-twitter {
+        &:hover {
+          border-color: $twitter;
+        }
+      }
     }
 
     &.tag {

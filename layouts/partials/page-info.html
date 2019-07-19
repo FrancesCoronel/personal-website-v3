@@ -1,7 +1,7 @@
 <!-- Date -->
 {{- if not .PublishDate.IsZero }}
   <p class="has-text-weight-light mt-sm mb-sm">
-    <span class="mr-sm">📅️</span>{{ if in .Params.categories "talk" }}First presented {{ else if in .Params.categories "podcast" }}{{ if ge .Date.Local now }}Publishing by {{ end }}{{ end }}{{ dateFormat "Mon, Jan 2, 2006" .Date }}{{ if in .Params.categories "experience" }}{{ with .Params.ended }} to {{ . | dateFormat "Mon, Jan 2, 2006" }}{{ end }}{{ end }}
+    <span class="mr-sm">📅️</span>{{ if in .Params.categories "talk" }}First presented {{ else if in .Params.categories "podcast" }}{{ if ge .Date.Local now }}Publishing by {{ end }}{{ end }}{{ dateFormat "Mon, Jan 2, 2006" .Date }}{{ if in .Params.categories "experience" }}{{ with .Params.ended }} to {{ . | dateFormat "Mon, Jan 2, 2006" }}{{ end }}{{ end }}{{- if ne .PublishDate .Lastmod }} — last modified {{ dateFormat "Mon, Jan 2, 2006" .Lastmod }}{{- end }}
   </p>
 {{- end }}
 <!-- Work Experience - Amount of Time -->
