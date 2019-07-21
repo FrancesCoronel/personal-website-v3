@@ -27,17 +27,19 @@ Feel free to share this with other women of color in tech who you think might be
 4. Schedule the actual recording session via Calendly 🎙
 5. Send me the SVG file of your avatar created from the generator 🖼
 6. Send me a high-res photo of yourself 📸
-7. Make a copy of the Tech Queens Podcast Template using Google Docs and share it with me via LinkedIn 📝
+7. Make a copy of the Tech Queens Podcast Template using Google Docs and share it with me 📝
 8. Record the podcast episode with me 👑
 9. Once the episode is published, share on social media & celebrate so more women of color in tech can learn about Tech Queens 🎉
 10. If you want, you can also buy swag for yourself or friends & family 🛒
 
 ## Required action items after our initial chat <!-- omit in toc -->
 
-- Schedule recording session https://calendly.com/techqueenspod/book-session
-- Send transparent SVG file of your avatar https://getavataaars.com
-- Make a copy of the Google Doc and fill it out accordingly http://bit.ly/tech-queens-podcast-doc
-- Send a high-res photo of yourself via LinkedIn https://linkedin.com/in/fvcproductions
+I will prompt you for the link to your Google Doc when you book the recording session but for the avatar and photo, **you can send those to me via LinkedIn or email**.
+
+1. Schedule recording session https://calendly.com/techqueenspod/book-session
+2. Make a copy of the Google Doc and fill it out accordingly http://bit.ly/tech-queens-podcast-doc
+3. Send transparent SVG file of your avatar https://getavataaars.com
+4. Send a high-res photo of yourself https://linkedin.com/in/fvcproductions
 
 ## 1. Connect with me on LinkedIn 💬
 
@@ -132,7 +134,7 @@ I use crutch words myself quite a lot so it’s alright if you do use them but e
 
 **ACTION ITEM** After the initial chat, you can book the actual recording session using [calendly.com/techqueenspod/book-session](https://calendly.com/techqueenspod/book-session).
 
-For remote sessions, a unique SquadCast link will be included in the calendar invite.
+For remote sessions, a unique SquadCast link will be included in the calendar invite the day before or the day of the recording session.
 
 Here's an example of a SquadCast link so you can play around with it: https://squadcast.page.link/bMoi
 
@@ -146,17 +148,17 @@ This avatar will be used to create the banner like the one below for the episode
 
 ![Tech Queens - Episode 1](/assets/img/podcast/episodes/tech-queens-frances-coronel.jpg)
 
-**ACTION ITEM** Send me the SVG file of your finished avatar via LinkedIn.
+**ACTION ITEM** Send me the SVG file of your finished avatar
 
 ## 6. Send me a high-res photo of yourself 📸
 
 I will feature this image in the episode link so everyone can see your lovely face!
 
-**ACTION ITEM** Send me this image via LinkedIn and please make sure it's at least 1000 pixels in width.
+**ACTION ITEM** Send me this image and please make sure it's at least 1000 pixels in width.
 
-## 7. Make a copy of the Tech Queens Podcast Template using Google Docs and share it with me via LinkedIn 📝
+## 7. Make a copy of the Tech Queens Podcast Template using Google Docs and share it with me 📝
 
-**ACTION ITEM** Make a copy of [this Google Doc](http://bit.ly/tech-queens-podcast-doc) and share your copy with me via LinkedIn with edit access.
+**ACTION ITEM** Make a copy of [this Google Doc](http://bit.ly/tech-queens-podcast-doc) and share your copy with me so that I also have edit access.
 
 This Google Doc contains the intro template, pre-defined questions, mini-takeaway questions and the outro.
 
