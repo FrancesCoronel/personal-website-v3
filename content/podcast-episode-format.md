@@ -34,7 +34,7 @@ Feel free to share this with other women of color in tech who you think might be
 
 ## Required action items after our initial chat <!-- omit in toc -->
 
-- Schedule recording session https://calendly.com/tech-queens/book-session
+- Schedule recording session https://calendly.com/techqueenspod/book-session
 - Send transparent SVG file of your avatar https://getavataaars.com
 - Make a copy of the Google Doc and fill it out accordingly http://bit.ly/tech-queens-podcast-doc
 - Send a high-res photo of yourself via LinkedIn https://linkedin.com/in/fvcproductions
@@ -130,7 +130,7 @@ I use crutch words myself quite a lot so it’s alright if you do use them but e
 
 ## 4. Schedule the actual recording session via Calendly 🎙️
 
-**ACTION ITEM** After the initial chat, you can book the actual recording session using [calendly.com/tech-queens/book-session](https://calendly.com/tech-queens/book-session).
+**ACTION ITEM** After the initial chat, you can book the actual recording session using [calendly.com/techqueenspod/book-session](https://calendly.com/techqueenspod/book-session).
 
 For remote sessions, a unique SquadCast link will be included in the calendar invite.
 
