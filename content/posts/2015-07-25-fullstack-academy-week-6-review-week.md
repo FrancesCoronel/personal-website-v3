@@ -49,7 +49,7 @@ Angular](https://s3.amazonaws.com/accredible_courses/images/11072/original/shapi
 
 - More auth stuff.
 - Last day of being a junior!!!
-- My contribution to Fullstack so far has been this [Google Slide deck](https://docs.google.com/presentation/d/1ZUYwxJzXCNsvC7x_tiwVRCIGVljh5EFzanV1U9WJl18/edit?usp=sharing) showcasing a bunch of web dev stuff I feel is relevant. I should probably update it soon. ![Fullstack Web Dev Tips and Tricks](https://i.imgur.com/hDbtU5A.png)
+- My contribution to Fullstack so far has been this [Google Slide deck](https://www.slideshare.net/FVCproductions/2015-0618-awesome-web-dev-tips-amp-tricks-fullstack-academy) showcasing a bunch of web dev stuff I feel is relevant. I should probably update it soon. ![Fullstack Web Dev Tips and Tricks](https://i.imgur.com/hDbtU5A.png)
 - We go over what's going to be in senior phase.
   - Unfortunately, I think I will only be able to work with other college of code students on my final project, since we have 2 less weeks. I don't know how I feel about this since I wanted to work with Yves, who isn't in the summer of code program, since we have complementary skills (my strong suite is front-end, his is back-end). Darn.
 

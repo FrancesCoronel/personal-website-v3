@@ -6,6 +6,7 @@ image: https://i.imgur.com/hQwwDi1.jpg
 link: https://revolutionconf.com/
 location: Wyndham Oceanfront - Virginia Beach, VA
 slides: https://www.slideshare.net/FVCproductions/revolutionconf-2019-progressive-web-apps-101
+slideshare: "6nx1FPanInRWL7"
 categories:
   - speaking
   - conference

@@ -2,11 +2,15 @@
 title: Being a Unicorn Working for Another Unicorn
 description: "In this talk, I’ll walk you through my journey as a woman of color in tech and how I got to where I am today as a software engineer at a high growth unicorn startup."
 image: https://i.imgur.com/R5i8anl.jpg
-link: https://2019.jsconf.eu/frances-coronel/being-a-unicorn-working-for-another-unicorn.html
-date: 2018-07-19
+date: 2019-06-02
 talk: being-a-unicorn
 toc: true
 customPage: true
+aliases:
+  - /2018/07/19/being-a-unicorn-working-for-another-unicorn/
+  - /2019/06/02/being-a-unicorn/
+  - /2019/06/02/being-a-unicorn-working-for-another-unicorn/
+  - /2019/06/02/being-a-unicorn-working-for-another-unicorn/
 categories:
   - talk
 ---

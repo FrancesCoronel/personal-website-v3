@@ -4,6 +4,7 @@ description: "I was the event lead for an event hosted by Slack Earthtones and T
 date: 2019-07-10
 link: https://turningfailureintofuego.splashthat.com/
 image: https://i.imgur.com/BaOFaqp.jpg
+location: Slack HQ - San Francisco, CA
 categories:
   - press
   - volunteering
@@ -96,6 +97,8 @@ I’m looking forward to meeting you there.
 "Thanks so much for organizing the event yesterday! I loved your intro where you said every detail was put together with love and care. It really showed" - Shashi Jain
 
 "Hey, just wanted to say congrats again for crushing it with the event" - Gerry Franco
+
+"A big 🌹 for Frances & Elisabeth and the rest of the organizers who made this event a reality! It was an incredible experience. Also 🌹 for the candle making. I loved it! Also really felt like there was a lot of time for networking that felt natural and organic." - Josh Torres
 
 ## Social Media
 

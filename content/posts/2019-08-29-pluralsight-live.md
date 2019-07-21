@@ -4,6 +4,7 @@ date: 2019-08-29
 description: "Pluralsight LIVE is a premier event for technologists and business leaders looking to the future."
 image: https://i.imgur.com/OZOeE1g.jpg
 link: https://www.pluralsight.com/live/speakers#frances-coronel
+location: "Salt Lake City, UT"
 categories:
   - conference
   - freelancing

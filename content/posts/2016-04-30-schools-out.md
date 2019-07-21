@@ -69,12 +69,11 @@ Either way, I felt like sharing my experience in regards to being an alumnus of 
 
 #### The curriculum overview I've created for these mentoring sessions is all given through Google Slides for easy reference so here's a snapshot of how that looks like below.
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://docs.google.com/presentation/d/1vkAfmABPzVCNLZ_DC4I7n7ZihoGkMLwoVvo1buevaoA/edit?usp=sharing">Bootcamp.me | Welcome!</a></h4><p>BootcampMe FVCproductions Preparing You Before They Do.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wCqCPqhkJRhoWd" width="100%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/FVCproductions/bootcampme-session-1-117404537" title="Bootcamp.me - Session 1" target="_blank">Bootcamp.me - Session 1</a> </strong> from <strong><a href="https://www.slideshare.net/FVCproductions" target="_blank">Frances Coronel</a></strong> </div>
 
 ## 3. Future Plans
 
-![](https://image.slidesharecdn.com/accentureliquidapplicationstudioslideshare4-3-march4v2-160304154715/95/accenture-liquid-application-studio-1-638.jpg?cb=1461012696)
+![Future Plans](https://image.slidesharecdn.com/accentureliquidapplicationstudioslideshare4-3-march4v2-160304154715/95/accenture-liquid-application-studio-1-638.jpg?cb=1461012696)
 
 **Short-term plans** - attend [RevolutionConf](https://revolutionconf.com) and work on developing programming skills, side projects, and my mentoring sessions throughout the rest of this month
 
