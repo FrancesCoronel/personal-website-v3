@@ -34,12 +34,12 @@ Feel free to share this with other women of color in tech who you think might be
 
 ## Required action items after our initial chat <!-- omit in toc -->
 
-I will prompt you for the link to your Google Doc when you book the recording session but for the avatar and photo, **you can send those to me via LinkedIn or email**.
+Make sure to have the other action items completed before booking the recording session!
 
-1. Schedule recording session https://calendly.com/techqueenspod/book-session
-2. Make a copy of the Google Doc and fill it out accordingly http://bit.ly/tech-queens-podcast-doc
-3. Send transparent SVG file of your avatar https://getavataaars.com
-4. Send a high-res photo of yourself https://linkedin.com/in/fvcproductions
+1. Send me transparent SVG file of your avatar https://getavataaars.com
+2. Send me a high-res photo of yourself https://linkedin.com/in/fvcproductions
+3. Send me a copy of the Google Doc and fill it out accordingly before our recording session http://bit.ly/tech-queens-podcast-doc
+4. Schedule the recording session https://calendly.com/techqueenspod/book-session
 
 ## 1. Connect with me on LinkedIn 💬
 
