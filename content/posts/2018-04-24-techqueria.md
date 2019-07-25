@@ -22,6 +22,10 @@ tags:
 
 Techqueria is a nonprofit representing the largest community for Latinx in Tech.
 
+## July 22nd, 2019
+
+Officially voted in as an executive director of technology! 💻
+
 ## March 27th, 2019
 
 Officially voted in as a a board member - the 9th one! Hurray! 🎉
