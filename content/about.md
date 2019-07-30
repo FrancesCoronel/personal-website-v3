@@ -30,7 +30,7 @@ My "life motto", if you will.
 Might have something to do with human nature in general, though, so interpret it as you will.
 
 - Front End Engineer at Slack HQ in SF with a focus on UI design & development 🖌️🔧️
-- Latina (2nd gen. Peruvian-American) 🇵🇪️ who gets a lot of personal satisfaction out of inspiring underserved groups within the tech industry 😊
+- Latina (Peruvian-American) 🇵🇪️ who gets a lot of personal satisfaction out of inspiring underserved groups within the tech industry 😊
 - Passionate mentor, freelancer & speaker 💬️
 
 ## Bio
@@ -39,9 +39,8 @@ Might have something to do with human nature in general, though, so interpret it
 
 ```txt
 👩🏽‍💻 Software Engineer @SlackHQ
-🌮 Board Member & Tech Lead @Techqueria
+🌮 Executive Director & Board Member @Techqueria
 🎙️ Host of @TechQueensPod
-🇵🇪 Peruvian-American
 
 #LatinxInTech #LatinxTechTwitter
 ```
@@ -52,23 +51,11 @@ Frances Coronel is a software engineer specializing in UI development on the Cus
 
 ### First Person
 
-I am currently a software engineer specializing in UI development on the Customer Acquisition Team at [**Slack**](https://slack.com?source=fvcproductions) where my mission is to make your working life simpler, more pleasant and more productive.
-
-I have been working professionally as a developer since 2015 and have both a Bachelors and Masters in Computer Science.
-
-I am also a board member and open source lead for [**Techqueria**](https://techqueria.org?source=fvcproductions), a nonprofit representing the largest community for Latinx in Tech and the host of [**Tech Queens**](/podcast/), the first and only podcast that focuses on the stories and advice shared by women of color in tech.
-
-My passions outside of work include contributing to open-source, public speaking and mentoring other people of color in tech.
+{{< bio_first_person >}}
 
 ### Third Person
 
-**Frances Coronel** is a software engineer specializing in UI development on the Customer Acquisition Team at [**Slack**](https://slack.com?source=fvcproductions) where her mission is to make your working life simpler, more pleasant and more productive.
-
-She has been working professionally as a developer since 2015 and has both a Bachelors and Masters in Computer Science.
-
-Frances is also a board member and open source lead for [**Techqueria**](https://techqueria.org?source=fvcproductions), a nonprofit representing the largest community for Latinx in Tech and the host of [**Tech Queens**](/podcast/), the first and only podcast that focuses on the stories and advice shared by women of color in tech.
-
-Her passions outside of work include contributing to open-source, public speaking and mentoring other people of color in tech.
+{{< bio_third_person >}}
 
 ## Headshot
 
@@ -85,7 +72,7 @@ Her passions outside of work include contributing to open-source, public speakin
 
 ## FVCproductions?
 
-FVCproductions is a freelancing company providing technical mentorship, web services, and speaking engagements.
+[FVCproductions](https://www.google.com/search?q=fvcproductions) is a freelancing company providing technical mentorship, web services, and speaking engagements.
 
 It is also the personal brand of Frances Coronel that has been used since 2013 to identify her work across the interwebs.
 
