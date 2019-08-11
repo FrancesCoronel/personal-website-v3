@@ -140,6 +140,6 @@ Joined the Techqueria Slack Workspace
 
 ## Feedback
 
-07/01/19
+07/01/19 Hi Frances! I just wanted to reach out and give you a big thank you for all that you do for this community. I’m so excited to see Techqueria start to reach its potential, and feel empowered to see a badass chica (YOU) take the lead on so many great initiatives. I do my fair share of volunteering with other remote/tech/slack groups, and I know it is A LOT of work. Nevertheless, you are a frontrunner for all of this greatness, so thank you! - Sal Ramirez
 
-Hi Frances! I just wanted to reach out and give you a big thank you for all that you do for this community. I’m so excited to see Techqueria start to reach its potential, and feel empowered to see a badass chica (YOU) take the lead on so many great initiatives. I do my fair share of volunteering with other remote/tech/slack groups, and I know it is A LOT of work. Nevertheless, you are a frontrunner for all of this greatness, so thank you! - Sal Ramirez
+07/21/19 Hey Frances, thanks for organizing a lot of the things within Techqueria, and for creating this wonderful community! - Dennis Chang
