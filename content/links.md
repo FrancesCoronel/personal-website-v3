@@ -45,9 +45,3 @@ aliases:
 - Venmo https://venmo.com/fvcproductions
 - WakaTime https://wakatime.com/@fvcproductions
 - YouTube https://youtube.com/+fvcproductions2013
-
-## Tech Queens Podcast
-
-- Twitter https://twitter.com/techqueenspod
-- Facebook https://facebook.com/techqueenspod
-- Instagram https://instagram.com/techqueenspod

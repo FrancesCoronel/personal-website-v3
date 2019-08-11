@@ -43,14 +43,6 @@ This stat is just one part of the reason this podcast will exclusively serve to 
 
 ![Percentage of Computing Occupations Held By Women](/assets/img/podcast/tech-queens-stats.png)
 
-## 🌐 Social Media
-
-https://twitter.com/TechQueensPod
-
-https://instagram.com/TechQueensPod
-
-https://facebook.com/TechQueensPod
-
 ## 📝 Want to be on the podcast?
 
 https://bit.ly/become-a-tech-queen

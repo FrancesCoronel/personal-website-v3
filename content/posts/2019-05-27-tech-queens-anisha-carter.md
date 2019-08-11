@@ -63,8 +63,6 @@ If you’re interested in being on the podcast yourself, just head on over to [t
 
 It doesn’t matter where you are in your tech journey - whether you've been in tech for months or decades - I want to hear from you and I want to share your story.
 
-You can tweet me **[@TechQueensPod](https://twitter.com/TechQueensPod)** or use the hashtag **[#TechQueens](https://twitter.com/hashtag/TechQueens?lang=en)** to show your support!
-
 Music from Jukedeck - create your own at [jukedeck.com](https://jukedeck.com)
 
 Avatar created using [the avataaars generator](https://getavataaars.com/)

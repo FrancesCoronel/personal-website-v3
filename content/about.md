@@ -56,7 +56,7 @@ I am currently a software engineer specializing in UI development on the Custome
 
 I have been working professionally as a developer since 2015 and have both a Bachelors and Masters in Computer Science.
 
-I am also a board member and open source lead for [**Techqueria**](https://techqueria.org?source=fvcproductions), a nonprofit representing the largest community for Latinx in Tech and the host of [**Tech Queens**](/podcast/), the first and only podcast that focuses on the stories and advice shared by women of color in tech.
+Outside of work, I am an executive director and board member for [**Techqueria**](https://techqueria.org?source=fvcproductions), a nonprofit representing the largest community for Latinx in Tech and the host of [**Tech Queens**](/podcast/), the first and only podcast that focuses on the stories and advice shared by women of color in tech.
 
 My passions outside of work include contributing to open-source, public speaking and mentoring other people of color in tech.
 
@@ -66,7 +66,7 @@ My passions outside of work include contributing to open-source, public speaking
 
 She has been working professionally as a developer since 2015 and has both a Bachelors and Masters in Computer Science.
 
-Frances is also a board member and open source lead for [**Techqueria**](https://techqueria.org?source=fvcproductions), a nonprofit representing the largest community for Latinx in Tech and the host of [**Tech Queens**](/podcast/), the first and only podcast that focuses on the stories and advice shared by women of color in tech.
+Outside of work, Frances is an executive director and board member for [**Techqueria**](https://techqueria.org?source=fvcproductions), a nonprofit representing the largest community for Latinx in Tech and the host of [**Tech Queens**](/podcast/), the first and only podcast that focuses on the stories and advice shared by women of color in tech.
 
 Her passions outside of work include contributing to open-source, public speaking and mentoring other people of color in tech.
 

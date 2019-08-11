@@ -100,6 +100,16 @@ I’m looking forward to meeting you there.
 
 "A big 🌹 for Frances & Elisabeth and the rest of the organizers who made this event a reality! It was an incredible experience. Also 🌹 for the candle making. I loved it! Also really felt like there was a lot of time for networking that felt natural and organic." - Josh Torres
 
+"Hello Frances, I just wanted to thank you for the awesome event you put together yesterday. I got to interact with some amazing people and learned a lot from the speakers. 🌮" - Daniel Morales
+
+"ugh last night was so good. i manage alot of events but there was so much 🔥 passion from the attendees, organizers and panel that it was one of my favorites we’ve hosted at slack. thank you all for being so on top of it and letting me in on the fun and fuego!" - Jen Reiber
+
+"Thank you @Frances Coronel for making this event possible. It was such a beautiful experience to have so many Latinos come together and try to learn from one another. And the energy last night was AMAZING! Thank you everyone involved who made this happen. I was told FB did a similar event but this event was exponentially better! :raised_hands::skin-tone-3: Great teamwork, everyone :teamwork:" - Adriana Durante
+
+"I just wanted to say this was an incredible event! 🔥 You all killed it." - Victor Vazquez
+
+"Great work @Frances Coronel, the whole ERG, and volunteers!!!" - Zinzi Blackbeard
+
 ## Social Media
 
 <blockquote class="embedly-card"><h4><a href="https://www.linkedin.com/feed/update/urn:li:activity:6550469471612604416">Frances Coronel on LinkedIn: "Slack Earthtones and The Latinx Collective invite you to turn #FailureIntoFuego! 🔥 As people of color working in tech, we are surrounded by stories of success but rarely do we feel comfortable enough sharing our missteps. At this event, we welcome a panel of successful Latinx professionals in the tech industry - Elisabeth Rosario, Josh Torres, Catherine Perez, Adriana Durante, and Victor Vazquez - to talk about how they've embraced moments of failure in their careers and turned them into opportunities for growth. 💃🏽️ Join us on July 10th for an inspiring evening with intimate conversation, food and drink, dance lessons, and more at Slack HQ in San Francisco. RSVP to grab a seat! https://lnkd.in/gtPtDD3"</a></h4><p>June 28, 2019: Frances Coronel posted images on LinkedIn</p></blockquote>

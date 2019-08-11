@@ -34,8 +34,6 @@ References and links can be found on the website at [techqueenspod.com/episode-1
 
 If you’re interested in being on the podcast yourself, just head on over to [techqueenspod.com](https://techqueenspod.com) and fill out the contact form near the bottom. It doesn’t matter where you are in your tech journey - whether you’re just starting out or you’re the CTO of a Fortune 500 company - I want to hear from you and I want to share your story.
 
-You can tweet me [**@TechQueensPod**](https://twitter.com/TechQueensPod) or use the hashtag [**#TechQueens**](https://twitter.com/hashtag/TechQueens?lang=en) to show your support!
-
 Music from Jukedeck - create your own at [jukedeck.com](https://jukedeck.com)
 
 ## Transcript

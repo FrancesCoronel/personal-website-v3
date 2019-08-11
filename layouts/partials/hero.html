@@ -18,11 +18,6 @@
     {{ end }}
     <!-- Content Info -->
     <div class="content-info">
-      {{ partial "page-info.html" . }}
-      {{ partial "page-links.html" . }}
-      <div class="mt-1">
-        {{ partial "taxonomy.html" . }}
-      </div>
     </div>
     <!-- Line Separator (doesn't show with images) -->
     {{ if not (and (.Params.image) (not .Params.hideImage)) }}
