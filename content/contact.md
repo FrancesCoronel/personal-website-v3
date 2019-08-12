@@ -68,7 +68,10 @@ If you'd like to stay in touch professionally, don't hesitate to [connect with m
 
 You can schedule a time to chat with me using [my Calendly](https://calendly.com/fvcproductions).
 
-<!-- prettier-ignore -->
-For mentoring, the first 30 minute session you book with me is free in exchange for [a LinkedIn recommendation](https://www.linkedin.com/recs/give?senderId=fvcproductions) submitted after the session. For following sessions, I charge $25 for every 30 minutes.
+For mentoring, the first 30 minute session you book with me is free in exchange for [a LinkedIn recommendation](https://www.linkedin.com/recs/give?senderId=fvcproductions) submitted after the session.
 
-You can pay through [Square Cash](https://cash.me/fvcprdxs) or [Venmo](https://venmo.com/fvcproductions) but I'm flexible with platforms. Please make sure to pay this amount before booking a mentoring session through my Calendly or I will have to reschedule/cancel the session.
+For following sessions, I charge 25 dollars for every 30 minutes.
+
+You can pay through [Square Cash](https://cash.me/fvcprdxs) or [Venmo](https://venmo.com/fvcproductions) but I'm flexible with platforms.
+
+Please make sure to pay this amount before booking a mentoring session through my Calendly or I will have to reschedule/cancel the session.

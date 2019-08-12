@@ -40,7 +40,7 @@
     <!-- Upcoming Episodes -->
     {{ if (len $upcomingEpisodes) "ge" 1 }}
     <h2>⏳️{{ len $upcomingEpisodes }} Upcoming {{ if gt (len $upcomingEpisodes) 1 }}Episodes{{ else }}Episode{{ end }}</h2>
-    <div class="columns is-multiline podcast-episodes">
+    <div class="columns is-multiline podcast-upcoming-episodes">
       {{ range $upcomingEpisodes.ByDate }}
       <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
         {{ partial "card.html" . }}

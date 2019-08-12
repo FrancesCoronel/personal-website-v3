@@ -1,9 +1,9 @@
 [build]
   publish = "dist"
   command = "gulp build"
-
 [build.environment]
   TZ = "America/Los_Angeles"
+  tz = "America/Los_Angeles"
 
 [context.production.environment]
   HUGO_ENV = "production"

@@ -6,7 +6,7 @@
     <!-- Info -->
     <!-- Description -->
     {{ if .Description }}
-      <p class="subtitle has-text-grey-dark mt-0 mb-1 is-size-2">{{ .Description }}</p>
+      <p class="subtitle has-text-grey-dark mt-0 mb-sm is-size-2">{{ .Description }}</p>
     {{ end }}
     <!-- External Link -->
     {{ if .Params.link }}
@@ -18,6 +18,8 @@
     {{ end }}
     <!-- Content Info -->
     <div class="content-info">
+      <!-- Info -->
+      {{- partial "page-info.html" . -}}
     </div>
     <!-- Line Separator (doesn't show with images) -->
     {{ if not (and (.Params.image) (not .Params.hideImage)) }}

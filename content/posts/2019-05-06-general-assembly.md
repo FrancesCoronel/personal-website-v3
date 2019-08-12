@@ -6,7 +6,6 @@ image: https://i.imgur.com/WiCellf.jpg
 description: "Teaching intro to coding classes as a contract instructor."
 link: https://generalassemb.ly/instructors/frances-coronel/19162
 location: General Assembly - San Francisco, California
-currentPosition: true
 categories:
   - experience
 tags:
@@ -25,7 +24,7 @@ San Francisco, CA (HQ)
 
 ## Date
 
-May 6th, 2019 to Present
+May 6th, 2019 to June 2019
 
 ## About
 

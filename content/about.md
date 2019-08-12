@@ -38,10 +38,9 @@ Might have something to do with human nature in general, though, so interpret it
 ### Twitter
 
 ```txt
-👩🏽‍💻 Software Engineer @SlackHQ
-🌮 Board Member & Tech Lead @Techqueria
-🎙️ Host of @TechQueensPod
-🇵🇪 Peruvian-American
+Software Engineer @SlackHQ ¶
+Executive Director & Board Member @Techqueria ¶
+Host of #TechQueens Podcast ¶
 
 #LatinxInTech #LatinxTechTwitter
 ```
