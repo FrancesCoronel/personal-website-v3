@@ -2,7 +2,7 @@
 title: "Episode 11. Michell Brito"
 date: 2019-09-08
 description: "In this episode, I'm talking with Michell Brito — a software engineering intern at Adobe."
-image: "/assets/img/podcast/episodes/tech-queens-michell-brito.jpg"
+image: "https://i.imgur.com/5MnqXjv.jpg"
 link: https://www.linkedin.com/in/michell-brito/
 toc: true
 url: /tech-queens/episode-11/
@@ -21,6 +21,8 @@ tags:
 ## Picture
 
 ![Michell Brito](https://i.imgur.com/5MnqXjv.jpg)
+
+![Michell Brito Banner](/assets/img/podcast/episodes/tech-queens-michell-brito.jpg)
 
 ## Mini Takeaways
 

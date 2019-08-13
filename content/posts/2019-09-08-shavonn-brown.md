@@ -1,7 +1,7 @@
 ---
 title: "Episode 10. Shavonn Brown"
 date: 2019-09-08
-description: "TBA"
+description: "Senior Web Developer, Turner"
 image: https://i.imgur.com/JYc6LVJ.jpg
 link: https://www.linkedin.com/in/shavonnbrown
 toc: true

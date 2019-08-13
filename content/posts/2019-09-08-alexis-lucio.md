@@ -1,7 +1,7 @@
 ---
 title: "Episode 14. Alexis Lucio"
 date: 2019-09-08
-description: "TBA"
+description: "UX Designer, Splunk"
 image: https://i.imgur.com/XB8V1fO.jpg
 link: https://www.linkedin.com/in/alexislucio/
 toc: true
