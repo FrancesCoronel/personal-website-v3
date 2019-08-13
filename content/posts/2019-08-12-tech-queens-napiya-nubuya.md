@@ -4,7 +4,7 @@ date: 2019-08-12
 description: "In this episode, I'm talking with Napiya Nubuya — IT professional, founder, diversity advocate and all around IT girl."
 image: "/assets/img/podcast/episodes/tech-queens-napiya-nubuya.jpg"
 link: https://www.linkedin.com/in/shenyoannubuya/
-recording: https://anchor.fm/tech-queens
+recording: https://anchor.fm/tech-queens/episodes/Episode-9--Napiya-Nubuya-e4u32v
 toc: true
 url: /tech-queens/episode-9/
 aliases:

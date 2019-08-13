@@ -9,7 +9,9 @@ const htmlmin = require("gulp-htmlmin");
 const hugoBin = require("hugo-bin");
 const imagemin = require("gulp-imagemin");
 const log = require("fancy-log");
+const notify = require("gulp-notify");
 const PluginError = require("plugin-error");
+const plumber = require("gulp-plumber");
 const postcss = require("gulp-postcss");
 const sass = require("gulp-sass");
 const sourcemaps = require("gulp-sourcemaps");
@@ -21,6 +23,14 @@ const webpackDevConfig = require("./webpack.dev");
 gulp.task("sass", () => {
   return gulp
     .src(["./assets/sass/styles.scss", "./assets/sass/search.scss"])
+    .pipe(plumber({
+      errorHandler: (err) => {
+        notify.onError({
+          title: "Gulp error in " + err.plugin,
+          message: err.toString()
+        })(err);
+      }
+    }))
     .pipe(
       sass({
         outputStyle: "compressed",
