@@ -50,7 +50,7 @@
   },
   "snyk": true,
   "devDependencies": {
-    "gulp-notify": "^3.2.0",
-    "gulp-plumber": "^1.2.1"
+    "gulp-notify": "3.2.0",
+    "gulp-plumber": "1.2.1"
   }
 }
