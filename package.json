@@ -45,7 +45,7 @@
     "postcss-csso": "3.0.0",
     "snyk": "1.216.0",
     "twemoji": "12.1.2",
-    "webpack": "4.39.2",
+    "webpack": "4.39.3",
     "workbox-webpack-plugin": "4.3.1"
   },
   "snyk": true,
