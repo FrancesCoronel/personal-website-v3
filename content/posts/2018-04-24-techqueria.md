@@ -1,6 +1,6 @@
 ---
 title: Techqueria
-description: Board Member, Open Source Lead, Slack Workspace Owner & Admin 🌮
+description: "Co-Director & Board Member 🌮"
 date: 2018-04-24
 currentPosition: true
 image: https://i.imgur.com/VMrVGbe.png

@@ -5,10 +5,10 @@ image: https://i.imgur.com/w0r0XLN.png
 customPage: true
 hideImage: true
 noComments: true
-url: /links/
 aliases:
   - /profiles/
   - /online-presence/
+  - /links/
 ---
 
 ## Online Presence

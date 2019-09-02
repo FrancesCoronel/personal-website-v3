@@ -1,14 +1,14 @@
 ---
-title: "Episode 21. Cecili Reid"
-date: 2019-09-08
+title: "Episode 15. Cecili Reid"
+date: 2020-02-12
 description: "Senior Software Engineer, MailChimp"
 image: https://i.imgur.com/Gpva44L.jpg
 link: https://www.linkedin.com/in/cecilireid/
 toc: true
-url: /tech-queens/episode-21/
+url: /tech-queens/episode-15/
 aliases:
-  - /podcast/episode-21/
-  - /episode-21/
+  - /podcast/episode-15/
+  - /episode-15/
 categories:
   - podcast
 tags:

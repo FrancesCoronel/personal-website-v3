@@ -1,14 +1,14 @@
 ---
-title: "Episode 16. Jamie Renee Williams"
-date: 2019-09-08
+title: "Episode 12. Jamie Renee Williams"
+date: 2019-11-12
 description: "Designer & Developer, Emma Sudden"
 image: https://i.imgur.com/NDMClP9.jpg
 link: https://www.linkedin.com/in/getmorejamie/
 toc: true
-url: /tech-queens/episode-16/
+url: /tech-queens/episode-12/
 aliases:
-  - /podcast/episode-16/
-  - /episode-16/
+  - /podcast/episode-12/
+  - /episode-12/
 categories:
   - podcast
 tags:

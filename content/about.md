@@ -39,8 +39,9 @@ Might have something to do with human nature in general, though, so interpret it
 
 ```txt
 Software Engineer @SlackHQ ¶
-Executive Director & Board Member @Techqueria ¶
+Co-Director @Techqueria ¶
 Host of #TechQueens Podcast ¶
+Peruvian-American ¶
 
 #LatinxInTech #LatinxTechTwitter
 ```

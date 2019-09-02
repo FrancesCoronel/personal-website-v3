@@ -3,14 +3,14 @@ title: Accenture Liquid Studio
 date: 2017-06-07
 ended: 2018-05-03
 description: Software Engineer
-image: https://i.imgur.com/2VW391R.jpg
+image: https://i.imgur.com/vPjtqtj.jpg
 categories:
   - experience
 ---
 
 ## Employer
 
-![Accenture Liquid Studio - Silicon Valley](https://i.imgur.com/vPjtqtj.jpg)
+![Accenture Liquid Studio - Silicon Valley](https://i.imgur.com/2VW391R.jpg)
 
 [Accenture Liquid Studio](https://accenture.com/us-en/capability-rapid-application-development-studio "Accenture Liquid Studio")
 

@@ -1,14 +1,14 @@
 ---
-title: "Episode 18. Elena Astilleros"
-date: 2019-09-08
+title: "Episode 11. Elena Astilleros"
+date: 2019-10-12
 description: "Agile Coach, MUFG"
 image: https://i.imgur.com/YMy8xwJ.jpg
 link: https://www.linkedin.com/in/elena-astilleros/
 toc: true
-url: /tech-queens/episode-18/
+url: /tech-queens/episode-11/
 aliases:
-  - /podcast/episode-18/
-  - /episode-18/
+  - /podcast/episode-11/
+  - /episode-11/
 categories:
   - podcast
 tags:

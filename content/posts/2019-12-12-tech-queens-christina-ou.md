@@ -1,14 +1,14 @@
 ---
-title: "Episode 19. Christina Ou"
-date: 2019-09-08
+title: "Episode 13. Christina Ou"
+date: 2019-12-12
 description: "Product Designer, Percolate"
 image: https://i.imgur.com/vdgndAo.png
 link: https://www.linkedin.com/in/christinaou/
 toc: true
-url: /tech-queens/episode-19/
+url: /tech-queens/episode-13/
 aliases:
-  - /podcast/episode-19/
-  - /episode-19/
+  - /podcast/episode-13/
+  - /episode-13/
 categories:
   - podcast
 tags:

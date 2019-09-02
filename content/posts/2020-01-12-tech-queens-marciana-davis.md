@@ -1,14 +1,14 @@
 ---
-title: "Episode 20. Marciana Davis"
-date: 2019-09-08
+title: "Episode 14. Marciana Davis"
+date: 2020-01-12
 description: "QA Analyst, Yurgosky"
 image: https://i.imgur.com/YeAuz1N.jpg
 link: https://www.linkedin.com/in/travelingdev/
 toc: true
-url: /tech-queens/episode-20/
+url: /tech-queens/episode-14/
 aliases:
-  - /podcast/episode-20/
-  - /episode-20/
+  - /podcast/episode-14/
+  - /episode-14/
 categories:
   - podcast
 tags:

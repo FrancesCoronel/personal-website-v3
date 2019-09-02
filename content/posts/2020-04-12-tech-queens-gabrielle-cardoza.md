@@ -1,14 +1,14 @@
 ---
-title: "Episode 15. Gabrielle Cardoza"
-date: 2019-09-08
+title: "Episode 17. Gabrielle Cardoza"
+date: 2020-04-12
 description: "Digital Media Planner, Trilogy Interactive"
 image: https://i.imgur.com/10t5HBB.jpg
 link: https://www.linkedin.com/in/gabriellecardoza/
 toc: true
-url: /tech-queens/episode-15/
+url: /tech-queens/episode-17/
 aliases:
-  - /podcast/episode-15/
-  - /episode-15/
+  - /podcast/episode-17/
+  - /episode-17/
 categories:
   - podcast
 tags:

@@ -75,3 +75,19 @@ For following sessions, I charge 25 dollars for every 30 minutes.
 You can pay through [Square Cash](https://cash.me/fvcprdxs) or [Venmo](https://venmo.com/fvcproductions) but I'm flexible with platforms.
 
 Please make sure to pay this amount before booking a mentoring session through my Calendly or I will have to reschedule/cancel the session.
+
+## Invite Me to Speak 💬
+
+For speaking engagements, I require an honorarium. For events outside San Francisco, I also require reimbursement for flights, ground transportation, hotel accomodations and meals. I am flexible to negotiation on the honorarium for community-driven or non-profit events.
+
+You can find my bio and headshot phot on [my about page](/about/).
+
+You can find all the events I've spoken at [my speaking page](/speaking/) and a sampling of the different types of talks I've given [on my talks page](/talks/).
+
+If you are interested in inviting me to speak, please feel free to use the contact form above and be sure to touch on the points below.
+
+- What are the topics to be covered in the talk?
+- What does the audience makeup look like?
+- What is the expected number of attendees for my talk or the event overall?
+- What is the budget for honorariums?
+- What is the budget for travel/hotel?

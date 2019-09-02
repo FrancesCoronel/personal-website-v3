@@ -3,7 +3,7 @@ title: Accenture Liquid Studio - Summer 2016
 description: AR/VR Software Engineering Intern
 date: 2016-06-01
 ended: 2016-08-12
-image: https://i.imgur.com/p8Sdocu.jpg
+image: https://i.imgur.com/vPjtqtj.jpg
 aliases:
   - "/home/adventures/experience/accenture-liquid-studio/"
 categories:
@@ -59,3 +59,5 @@ I interned as a wearables developer for Accenture's Liquid Studio in Redwood Cit
 ![Accenture Internship 4](https://i.imgur.com/bBcJDoF.png)
 
 ![Accenture Internship 5](https://i.imgur.com/CcUSrqj.png)
+
+![Accenture Internship 6](https://i.imgur.com/p8Sdocu.jpg)

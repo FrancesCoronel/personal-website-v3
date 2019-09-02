@@ -25,9 +25,7 @@ aliases:
 
 ## Tech Queens is the first and only podcast that focuses solely on the stories and advice shared by women of color in tech. 👑🎙️
 
-Season 1 started March 8th, 2019 and is ending September 8th, 2019.
-
-Season 2 will return in 2020.
+Follow us on all social media platforms using the `#TechQueens` hashtag.
 
 ### 💬 Why did I start this podcast?
 
@@ -47,8 +45,6 @@ This stat is just one part of the reason this podcast will exclusively serve to 
 
 ![Percentage of Computing Occupations Held By Women](/assets/img/podcast/tech-queens-stats.png)
 
-<!--
-
 ## 📝 Want to be on the podcast?
 
 https://bit.ly/become-a-tech-queen
@@ -56,8 +52,6 @@ https://bit.ly/become-a-tech-queen
 ## ✨ Want to sponsor an episode?
 
 https://bit.ly/sponsor-tech-queens
-
--->
 
 ## 🛒 Want to buy merch?
 

@@ -3,7 +3,7 @@ title: 80|20 Software Consulting
 description: Front End Developer
 date: 2015-11-24
 ended: 2016-02-05
-image: https://i.imgur.com/XN286LW.jpg
+image: https://i.imgur.com/mhdvMPi.png
 aliases:
   - "/home/adventures/experience/80-20/"
 categories:
@@ -50,6 +50,4 @@ November 24th, 2015 to February 5th, 2016
 
 <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/fvcproductions/status/730577559054778368">Frances Coronel on Twitter</a></h4><p>RevolutionConf AKA yes, there's a HUGE tech scene in the 757 //t.co/6HALtzosFs</p></blockquote>
 
-![80|20 1](https://i.imgur.com/ieeJhNU.png)
-
-![80|20 2](https://i.imgur.com/ieeJhNU.png)
+![80|20 Software Consulting](https://i.imgur.com/ieeJhNU.png)
