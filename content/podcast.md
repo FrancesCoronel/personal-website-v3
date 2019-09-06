@@ -25,7 +25,11 @@ aliases:
 
 ## Tech Queens is the first and only podcast that focuses solely on the stories and advice shared by women of color in tech. 👑🎙️
 
-Follow us on all social media platforms using the `#TechQueens` hashtag.
+https://instagram.com/TechQueensPod
+
+https://twitter.com/TechQueensPod
+
+Be sure to use `#TechQueens` hashtag!
 
 ### 💬 Why did I start this podcast?
 
