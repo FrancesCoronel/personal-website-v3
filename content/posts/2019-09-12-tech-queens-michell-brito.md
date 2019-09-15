@@ -1,6 +1,6 @@
 ---
 title: "Episode 10. Michell Brito"
-date: 2019-09-12
+date: 2019-09-30
 description: "In this episode, I'm talking with Michell Brito — a software engineering intern at Adobe."
 image: "https://i.imgur.com/5MnqXjv.jpg"
 link: https://www.linkedin.com/in/michell-brito/

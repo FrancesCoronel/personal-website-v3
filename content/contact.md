@@ -72,6 +72,8 @@ For mentoring, the first 30 minute session you book with me is free in exchange 
 
 For following sessions, I charge 25 dollars for every 30 minutes.
 
+By agreeing to the mentoring session, you also agree to have yourself added to [the mentees section of my website](/mentoring/).
+
 You can pay through [Square Cash](https://cash.me/fvcprdxs) or [Venmo](https://venmo.com/fvcproductions) but I'm flexible with platforms.
 
 Please make sure to pay this amount before booking a mentoring session through my Calendly or I will have to reschedule/cancel the session.
