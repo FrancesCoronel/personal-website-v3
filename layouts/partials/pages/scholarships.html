@@ -1,0 +1,11 @@
+<!-- Variables -->
+{{ $scholarships := ($.Site.Taxonomies.categories.scholarship).Pages }}
+<!-- scholarships -->
+<p>I've received {{ len $scholarships}} scholarships so far.</p>
+<div class="columns is-multiline">
+  {{ range $scholarships }} {{ if .Date.Local.Before now }}
+  <div class="column is-half-tablet is-one-third-desktop is-one-third-widescreen is-one-third-fullhd">
+    {{ partial "card.html" . }}
+  </div>
+  {{ end }} {{ end }}
+</div>

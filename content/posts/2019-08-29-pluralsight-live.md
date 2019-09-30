@@ -2,7 +2,7 @@
 title: "Pluralsight LIVE"
 date: 2019-08-29
 description: "Pluralsight LIVE is a premier event for technologists and business leaders looking to the future."
-image: https://i.imgur.com/OZOeE1g.jpg
+image: https://i.imgur.com/piRf18D.jpg
 link: https://www.pluralsight.com/live/speakers#frances-coronel
 location: "Salt Lake City, UT"
 categories:
@@ -21,3 +21,11 @@ I'm a breakout session speaker on Progressive Web Apps.
 ![Speaker](https://i.imgur.com/1VhDXtr.jpg)
 
 ![Speaker Page](https://i.imgur.com/AcUXzSB.jpg)
+
+## Pictures
+
+![Pluralsight Live 1](https://i.imgur.com/piRf18D.jpg)
+
+![Pluralsight Live 2](https://i.imgur.com/PiKq3mZ.jpg)
+
+![Pluralsight Live 3](https://i.imgur.com/MBwQU57.jpg)

@@ -2,6 +2,7 @@
 title: "General Assembly"
 description: "Contract Instructor"
 date: 2019-05-06
+ended: 2019-06-06
 image: https://i.imgur.com/WiCellf.jpg
 description: "Teaching intro to coding classes as a contract instructor."
 link: https://generalassemb.ly/instructors/frances-coronel/19162

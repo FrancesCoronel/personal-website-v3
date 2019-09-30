@@ -8,7 +8,7 @@ aliases:
   - /home/adventures/conferences/discover-goldman-sachs/
 categories:
   - conference
-  - award
+  - scholarship
 ---
 
 ## Name

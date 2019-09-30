@@ -1,6 +1,6 @@
 ---
 title: "Episode 13. Christina Ou"
-date: 2019-12-12
+date: 2019-12-30
 description: "Product Designer, Percolate"
 image: https://i.imgur.com/vdgndAo.png
 link: https://www.linkedin.com/in/christinaou/

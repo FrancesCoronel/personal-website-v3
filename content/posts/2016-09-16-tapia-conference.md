@@ -8,7 +8,7 @@ aliases:
   - /2015/02/24/that-tapia-conference/
 categories:
   - conference
-  - award
+  - scholarship
 ---
 
 ## Name

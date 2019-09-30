@@ -10,8 +10,7 @@
         </span>
       </a>
       <ul class="nav-links">
-        {{ $parentPages := where .Site.RegularPages "Type" "page" }}
-        {{ $homePages := $parentPages | union (.Site.Sections) }}
+        {{ $homePages := $.Site.Pages | union ($.Site.Sections) }}
         {{ range $homePages.ByTitle }}
         {{ if .Params.navbar }}
         <li class="nav-item">

@@ -1,6 +1,6 @@
 ---
 title: "Episode 12. Jamie Renee Williams"
-date: 2019-11-12
+date: 2019-12-30
 description: "Designer & Developer, Emma Sudden"
 image: https://i.imgur.com/NDMClP9.jpg
 link: https://www.linkedin.com/in/getmorejamie/

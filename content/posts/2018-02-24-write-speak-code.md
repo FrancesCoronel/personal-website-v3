@@ -5,6 +5,8 @@ description: An all day workshop for women and non-binary coders, customized to 
 image: https://i.imgur.com/fsWiZQ2.jpg
 categories:
   - blog
+tags:
+  - wsc
 ---
 
 ## Name

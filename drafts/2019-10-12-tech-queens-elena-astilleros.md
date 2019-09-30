@@ -1,6 +1,6 @@
 ---
 title: "Episode 11. Elena Astilleros"
-date: 2019-10-12
+date: 2019-12-30
 description: "Agile Coach, MUFG"
 image: https://i.imgur.com/YMy8xwJ.jpg
 link: https://www.linkedin.com/in/elena-astilleros/

@@ -3,7 +3,7 @@
 <div class="card card-equal-height">
   <a
     class="reset" aria-label="{{ .Title }}" {{ if .Params.internalLink }} href="{{ .Params.internalLink }}" {{ else if .Params.externalLink }} href="{{ .Params.externalLink }}" target="_blank" {{ else }} href="{{ .RelPermalink }}" {{ end }} rel="noopener">
-    <div class="media-content {{ if $pageLinksPresent }}pb-0{{ else }}pb-sm{{ end }}">
+    <div class="media-content {{ if $pageLinksPresent }}pb-0{{ else }}pb-1{{ end }}">
       <div
         class="content">
         <!-- Title -->
@@ -22,7 +22,9 @@
           {{ end }}
         </p>
         <!-- Info -->
-        {{- partial "page-info.html" . -}}
+        <div class="is-size-8">
+          {{- partial "page-info.html" . -}}
+        </div>
       </div>
     </div>
   </a>

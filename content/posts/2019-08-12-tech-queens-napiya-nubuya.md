@@ -17,7 +17,9 @@ tags:
   - women of color in tech
 ---
 
-<!-- ## Recording -->
+## Recording
+
+<iframe src="https://anchor.fm/tech-queens/embed/episodes/Episode-9--Napiya-Nubuya-e4u32v" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Picture
 

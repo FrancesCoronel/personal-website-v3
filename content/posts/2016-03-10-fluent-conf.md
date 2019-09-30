@@ -8,7 +8,7 @@ aliases:
   - /home/adventures/conferences/fluent-conf-march-2016/
 categories:
   - conference
-  - award
+  - scholarship
 ---
 
 ## Name

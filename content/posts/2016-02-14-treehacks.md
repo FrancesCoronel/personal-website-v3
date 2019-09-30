@@ -10,6 +10,7 @@ aliases:
 categories:
   - hackathon
   - portfolio
+  - scholarship
   - award
 ---
 

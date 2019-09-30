@@ -8,7 +8,7 @@ aliases:
   - /home/adventures/conferences/react-js-conf/
 categories:
   - conference
-  - award
+  - scholarship
 ---
 
 ## Name

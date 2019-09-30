@@ -6,7 +6,7 @@ description: The most inspirational conference around the globe for entrepreneur
 image: https://i.imgur.com/JHY94Lk.jpg
 categories:
   - conference
-  - award
+  - scholarship
   - blog
 ---
 

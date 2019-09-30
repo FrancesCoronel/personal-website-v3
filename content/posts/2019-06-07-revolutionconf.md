@@ -1,6 +1,6 @@
 ---
 title: "RevolutionConf 2019"
-date: 2019-06-07
+date: 2019-06-06
 description: "RevolutionConf is a two-day, platform and language agnostic software development conference."
 image: https://i.imgur.com/hQwwDi1.jpg
 link: https://revolutionconf.com/

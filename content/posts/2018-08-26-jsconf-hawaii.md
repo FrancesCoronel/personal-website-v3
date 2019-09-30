@@ -9,7 +9,7 @@ slides: https://www.slideshare.net/FVCproductions/jsconf-hawaii-2019
 aliases:
   - /2018/08/26/jsconf-hawaii-diversity-scholarship/
 categories:
-  - award
+  - scholarship
   - conference
 tags:
   - hawaii

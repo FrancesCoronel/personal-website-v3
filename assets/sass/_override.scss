@@ -21,3 +21,11 @@
 .column {
   padding: .25em;
 }
+
+.is-size-8 {
+  font-size: $size-7;
+
+  @media screen and (min-width: $tablet) {
+    font-size: $size-8;
+  }
+}

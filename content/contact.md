@@ -22,7 +22,7 @@ aliases:
 
 I'll do my best to get back to you within 2 weeks.
 
-<form name="contact" method="POST" data-netlify="true" class="form">
+<form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true" class="form">
   <input type="hidden" name="_subject" value="FVCproductions - New Contact Message">
   <div class="field">
     <label class="label">Name</label>

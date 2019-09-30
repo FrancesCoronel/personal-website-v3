@@ -1,5 +1,5 @@
 ---
-title: Shop
+title: Buy Tech Queens Merch
 description: "Buy Tech Queens branded merchandise from the Spreadshirt store. 🛒️"
 image: "/assets/img/podcast/tech-queens-shirt-model.jpg"
 noComments: true

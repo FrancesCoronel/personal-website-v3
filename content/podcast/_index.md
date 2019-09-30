@@ -14,22 +14,23 @@ url: /tech-queens/
 aliases:
   - /podcast-series/
   - /podcast/
-  - /tech-queens/be-on-the-podcast/
-  - /tech-queens/become-a-queen/
-  - /tech-queens/contact-form/
-  - /tech-queens/invite/
-  - /tech-queens/sponsors/
   - /tech-queens/the-host/
   - /youtube-series/
 ---
 
-## Tech Queens is the first and only podcast that focuses solely on the stories and advice shared by women of color in tech. 👑🎙️
+## Tech Queens is first and only podcast that focuses solely on the stories and advice shared by women of color in tech. 🎙️👑
 
-https://instagram.com/TechQueensPod
+Season 1 is going to end strong with 10 episodes with Season 2 ramping up again in spring 2020.
 
-https://twitter.com/TechQueensPod
+Twitter 🐦 https://twitter.com/TechQueensPod
 
-Be sure to use `#TechQueens` hashtag!
+Instagram 📸 https://instagram.com/TechQueensPod
+
+Facebook 💬 https://facebook.com/TechQueensPod
+
+Website 🌐 https://techqueenspod.com
+
+`#TechQueens`
 
 ### 💬 Why did I start this podcast?
 
@@ -48,17 +49,3 @@ As [Figure 1.1](https://www.ncwit.org/sites/default/files/resources/womenintech_
 This stat is just one part of the reason this podcast will exclusively serve to highlight thriving women of color in tech and inspire or encourage others to enter the industry and thrive themselves so they too can leverage their unique skills and perspectives for technological innovation and social change in the workplace of the future.
 
 ![Percentage of Computing Occupations Held By Women](/assets/img/podcast/tech-queens-stats.png)
-
-## 📝 Want to be on the podcast?
-
-https://bit.ly/become-a-tech-queen
-
-## ✨ Want to sponsor an episode?
-
-https://bit.ly/sponsor-tech-queens
-
-## 🛒 Want to buy merch?
-
-Check out [the Tech Queens store](/shop/)!
-
-[![Tech Queens Store](/assets/img/podcast/tech-queens-shirt-model.jpg)](/shop/)

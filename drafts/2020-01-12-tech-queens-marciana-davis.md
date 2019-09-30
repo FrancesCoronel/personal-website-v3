@@ -1,7 +1,7 @@
 ---
 title: "Episode 14. Marciana Davis"
-date: 2020-01-12
-description: "QA Analyst, Yurgosky"
+date: 2019-12-30
+description: "Salesforce Administrator, MAL Inc"
 image: https://i.imgur.com/YeAuz1N.jpg
 link: https://www.linkedin.com/in/travelingdev/
 toc: true

@@ -7,6 +7,7 @@ categories:
   - program
 tags:
   - women in tech
+  - wsc
 ---
 
 Write/Speak/Code is on a mission to increase the visibility and leadership of women and non-binary coders through thought leadership, conference speaking, open source contributions, career development, personal growth and self-care.

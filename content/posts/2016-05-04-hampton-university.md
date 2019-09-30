@@ -7,7 +7,6 @@ aliases:
   - "/education/2016/05/04/hu/"
 categories:
   - education
-  - award
 ---
 
 ## Institution
@@ -66,7 +65,7 @@ Hampton University is a private historically black university located in Hampton
 - April 2016 - Selected to join Upsilon Pi Epsilon
 - April 2015 - [STEM Bridge Scholarship](https://vsgc.odu.edu/awardees/20142015/)
   - Virginia Space Grant Consortium
-  - $1,000 renewable scholarship for being a high-achieving minority student
+  - \$1,000 renewable scholarship for being a high-achieving minority student
     studying STEM
 - May 2014 - Selected to join [Golden Key International Honor Society](https://goldenkey.org/)
   - Recognized as being in the top 15% of my class.

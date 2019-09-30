@@ -1,15 +1,16 @@
 ---
 title: "Episode 10. Michell Brito"
-date: 2019-09-30
+date: 2019-09-29
 description: "In this episode, I'm talking with Michell Brito — a software engineering intern at Adobe."
-image: "https://i.imgur.com/5MnqXjv.jpg"
+image: "/assets/img/podcast/episodes/tech-queens-michell-brito.jpg"
 link: https://www.linkedin.com/in/michell-brito/
+recording: https://anchor.fm/tech-queens/episodes/Episode-10--Michell-Brito-e5l5le
 toc: true
 url: /tech-queens/episode-10/
 aliases:
   - /podcast/episode-10/
   - /episode-10/
-  - /tech-queens/episode-11/
+  - /tech-queens/episode-10/
 categories:
   - podcast
 tags:
@@ -17,7 +18,9 @@ tags:
   - women of color in tech
 ---
 
-<!-- ## Recording -->
+## Recording
+
+<iframe src="https://anchor.fm/tech-queens/embed/episodes/Episode-10--Michell-Brito-e5l5le" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## Picture
 
@@ -47,7 +50,7 @@ tags:
 
 In this episode, I'm talking with Michell Brito — a software engineering intern at Adobe.
 
-References and links can be found on the website at [techqueenspod.com/episode-11](https://techqueenspod.com/episode-11).
+References and links can be found on the website at [techqueenspod.com/episode-10](https://techqueenspod.com/episode-10).
 
 ---
 

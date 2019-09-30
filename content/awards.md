@@ -7,7 +7,8 @@ customPage: true
 hideImage: true
 noComments: true
 noTimeEstimate: true
+url: /awards/
 aliases:
-  - /awards/
   - /home/awards/
+  - /recognition/
 ---

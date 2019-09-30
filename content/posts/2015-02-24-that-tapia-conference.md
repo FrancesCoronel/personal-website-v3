@@ -9,7 +9,7 @@ aliases:
 categories:
   - blog
   - conference
-  - award
+  - scholarship
 ---
 
 ## Name

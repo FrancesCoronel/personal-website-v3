@@ -22,6 +22,14 @@ tags:
 
 Techqueria is a nonprofit representing the largest community for Latinx in Tech.
 
+## August 1st, 2019
+
+Nonprofit brand strategy workshop with TwentyFirstCenturyBrand
+
+https://www.linkedin.com/posts/mildenhall_nonprofit-marketing-advertising-activity-6566704295956238336-zLBh
+
+https://www.linkedin.com/posts/twentyfirstcenturybrand_nonprofit-branding-marketing-activity-6564204963940179968-1JHt
+
 ## July 22nd, 2019
 
 Officially voted in as an executive director of technology! 💻

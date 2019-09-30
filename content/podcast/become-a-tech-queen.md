@@ -1,5 +1,5 @@
 ---
-title: Episode Format
+title: Become a Tech Queen
 description: "All the info you need if you're interested in being on the podcast. 🔖"
 image: "/assets/img/podcast/tech-queens-format.jpg"
 noComments: true
@@ -9,6 +9,10 @@ url: /tech-queens/episode-format/
 aliases:
   - /podcast-format/
   - /episode-format/
+  - /tech-queens/be-on-the-podcast/
+  - /tech-queens/become-a-queen/
+  - /tech-queens/contact-form/
+  - /tech-queens/invite/
 ---
 
 ## Welcome, future Tech Queen! 👑 <!-- omit in toc -->
@@ -41,9 +45,11 @@ Make sure to have the other action items completed before booking the recording 
 3. Send me a copy of the Google Doc and fill it out accordingly before our recording session http://bit.ly/tech-queens-podcast-doc
 4. Schedule the recording session https://calendly.com/techqueenspod/book-session
 
-## 1. Connect with me on LinkedIn 💬
+## 1. Express your interest 💬
 
-You can [connect with me through LinkedIn](https://linkedin.com/in/fvcproductions) if you'd like to be on the podcast or you can also fill out the [contact form](/tech-queens/contact-form).
+If you're interested in being on Tech Queens, fill out this form: https://bit.ly/become-a-tech-queen
+
+Feel free to [connect with me through LinkedIn](https://linkedin.com/in/fvcproductions) afterward.
 
 If we’re not connected already, feel free to send an invite over and I’ll happily accept.
 
@@ -134,9 +140,7 @@ I use crutch words myself quite a lot so it’s alright if you do use them but e
 
 **ACTION ITEM** After the initial chat, you can book the actual recording session using [calendly.com/techqueenspod/book-session](https://calendly.com/techqueenspod/book-session).
 
-For remote sessions, a unique SquadCast link will be included in the calendar invite the day before or the day of the recording session.
-
-Here's an example of a SquadCast link so you can play around with it: https://squadcast.page.link/bMoi
+For remote sessions, we will be using Zoom.
 
 For in-person sessions, arrival instructions will be included instead.
 
@@ -166,9 +170,9 @@ You are more than welcome to edit this doc to your heart's desire since I want y
 
 ## 8. Record the podcast episode with me 👑
 
-We will be recording the session using [SquadCast](https://squadcast.fm/#/home).
+We will be recording the session using [Zoom](https://zoom).
 
-If you’ve never used SquadCast before, it basically allows podcast hosts & guests to record studio quality audio from anywhere.
+https://slack.zoom.us/my/fvcproductions
 
 ### Equipment <!-- omit in toc -->
 

@@ -27,6 +27,8 @@
 {{ partial "pages/portfolio.html" . }}
 {{ else if .Params.programPage }}
 {{ partial "pages/program.html" . }}
+{{ else if .Params.scholarshipsPage }}
+{{ partial "pages/scholarships.html" . }}
 {{ else if .Params.sitemapPage }}
 {{ partial "pages/sitemap.html" . }}
 {{ else if .Params.speakingPage }}

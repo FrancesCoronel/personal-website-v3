@@ -7,7 +7,7 @@ aliases:
   - /adventures/2017-10-24-chrome-dev-summit/
 categories:
   - conference
-  - award
+  - scholarship
 ---
 
 ## Name

@@ -6,7 +6,7 @@ image: https://i.imgur.com/ihfdjky.png
 location: JW Marriot San Francisco Union Square - San Francisco, CA
 date: 2018-10-29
 categories:
-  - award
+  - scholarship
   - conference
 ---
 

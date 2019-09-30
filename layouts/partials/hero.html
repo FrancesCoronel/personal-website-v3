@@ -1,20 +1,19 @@
 <div class="section pt-sm pb-sm">
-  <div
-    class="content">
+  <div class="content">
     <!-- Title -->
     <h1 class="is-size-1 is-capitalized">{{ .Title }}</h1>
     <!-- Info -->
     <!-- Description -->
     {{ if .Description }}
-      <p class="subtitle has-text-grey-dark mt-0 mb-sm is-size-2">{{ .Description }}</p>
+    <p class="subtitle has-text-grey-dark mt-0 mb-sm is-size-2">{{ .Description }}</p>
     {{ end }}
     <!-- External Link -->
     {{ if .Params.link }}
-      <p class="has-text-weight-light mt-sm mb-sm">
-        <span class="mr-sm">🌐
-        </span>
-        <a href="{{ .Params.link }}" target="_blank" rel="noopener">{{ .Params.link }}</a>
-      </p>
+    <p class="has-text-weight-light mt-sm mb-sm">
+      <span class="mr-sm">🌐
+      </span>
+      <a href="{{ .Params.link }}" target="_blank" rel="noopener">{{ .Params.link }}</a>
+    </p>
     {{ end }}
     <!-- More external links -->
     {{- partial "page-links.html" . -}}
@@ -25,12 +24,12 @@
     </div>
     <!-- Line Separator (doesn't show with images) -->
     {{ if not (and (.Params.image) (not .Params.hideImage)) }}
-      <hr class="pt-sm mt-1-sm mb-0">
+    <hr class="pt-sm mt-1-sm mb-0">
     {{ end }}
   </div>
 </div>
 {{ if and (.Params.image) (not .Params.hideImage) }}
-  <div class="section pt-0">
-    <img loading="lazy" class="hero-image image lozad" src="{{ .Params.image }}" data-src="{{ .Params.image }}" alt="{{ .Title }}">
-  </div>
+<div class="section pt-0">
+  <img loading="lazy" class="hero-image image lozad" src="{{ .Params.image }}" data-src="{{ .Params.image }}" alt="{{ .Title }}">
+</div>
 {{ end }}

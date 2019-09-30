@@ -5,7 +5,7 @@ date: 2017-05-26
 image: https://i.imgur.com/2Z3jGeg.jpg
 categories:
   - education
-  - award
+  - scholarship
 ---
 
 ## Institution
