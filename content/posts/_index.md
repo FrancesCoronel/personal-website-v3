@@ -5,7 +5,6 @@ hideImage: true
 noComments: true
 noTimeEstimate: true
 navbar: true
-url: /posts/
 hideUpcomingText: true
 postsPage: true
 image: https://i.imgur.com/9YnoBmK.jpg
@@ -18,4 +17,7 @@ aliases:
   - /home/adventures/programs/
   - /home/adventures/schools/
   - /home/adventures/volunteering/
+  - /updates/
+  - /latest-updates/
+  - /posts/
 ---
