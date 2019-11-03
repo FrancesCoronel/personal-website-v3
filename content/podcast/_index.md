@@ -34,7 +34,7 @@ There have been **10 episodes released so far** with 5 more on the way:
 
 Season 2 will be ramping up again in 2020 with a new host.
 
-I'm [looking for the new host](/2019/10/20/looking-for-the-next-host-of-tech-queens/) now — let me know if you're interested!
+I'm [looking for the new host](/2019/11/03/looking-for-the-next-host-of-tech-queens/) now — let me know if you're interested!
 
 ---
 
