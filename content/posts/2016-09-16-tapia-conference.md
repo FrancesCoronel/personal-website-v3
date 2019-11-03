@@ -35,7 +35,7 @@ Tapia Scholar Recipient
 
 The goal of the Tapia Conferences is to bring together undergraduate and graduate students, faculty, researchers, and professionals in computing from all backgrounds and ethnicities.
 
-It was my second time attending this year and got so much of it. Luckily, I was able to win a scholarship funded by the TAPIA organization and get up to <!-- prettier-ignore -->$500 reimbursement. 37.7% of scholarship applicants won a scholarship.
+It was my second time attending this year and got so much of it. Luckily, I was able to win a scholarship funded by the TAPIA organization and get up to $500 reimbursement. 37.7% of scholarship applicants won a scholarship.
 
 My roommate was also a Master's student and was studying computer science at NC State. She and I attended parts of the conference together and had a lot of fun.
 
@@ -69,7 +69,7 @@ Needless to say, this year was friggin' amazing.
 ### Awards
 
 - August 2016 - TAPIA Conference Scholarship Recipient
-  - Scholarship includes conference registration, shared hotel with another scholarship recipient and <!-- prettier-ignore -->$500 travel award.
+  - Scholarship includes conference registration, shared hotel with another scholarship recipient and $500 travel award.
 
 ### Banners
 

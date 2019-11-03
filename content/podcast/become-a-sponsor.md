@@ -1,7 +1,7 @@
 ---
 title: Become a Sponsor
-description: "Intereseted in sponsoring an episode? ✨"
-image: "/assets/img/podcast/tech-queens-shirt-design.jpg"
+description: Intereseted in sponsoring an episode? ✨
+image: /assets/img/podcast/tech-queens-shirt-design.jpg
 noComments: true
 noTimeEstimate: true
 podcastEmail: true
@@ -13,18 +13,16 @@ aliases:
 
 ## Interested in sponsoring an episode?
 
-https://bit.ly/sponsor-tech-queens
+[Contact me via my website!](/contact/)
 
 ## Sponsor Tiers
 
-<!-- prettier-ignore -->
 ### Online Boost - $25 per episode
 
 - Logo on website under Sponsor section permanently
 - Recognition on social media 1 time
 - Shoutout and logo in episode show notes
 
-<!-- prettier-ignore -->
 ### Episode Boost - $50 per episode
 
 - Logo on website under Sponsor section permanently
@@ -32,7 +30,6 @@ https://bit.ly/sponsor-tech-queens
 - Recognition on social media 2 times
 - Shoutout and logo in episode show notes
 
-<!-- prettier-ignore -->
 ### Preroll Ad - $75 per episode
 
 - 60 second read at the beginning of the show
@@ -41,7 +38,6 @@ https://bit.ly/sponsor-tech-queens
 - Recognition on social media 3 times
 - Shoutout and logo in episode show notes
 
-<!-- prettier-ignore -->
 ### Midroll Ad - $100 per episode
 
 - 30 second read during the middle of the show

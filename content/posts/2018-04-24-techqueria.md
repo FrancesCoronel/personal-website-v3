@@ -65,7 +65,7 @@ Patreon - San Francisco, CA
 
 It's been great to work with Frances on the Techqueria.org site. It has become a much more collaborative open-source project with her leadership. I appreciate how she has made the project accessible to both the maintainers and new contributors. She is a great team member and I enjoy maintaining the project with her.
 
-## October 12, 2018 - Testimonial - David Silva Ossa - Founder at Techqueria - Señor Developer at Slingshot Health
+## October 12, 2018 - Testimonial - David Silva - Señor Developer at Slingshot Health
 
 I've worked with Frances on techqueria, she's leading our website project. We develop the website as an open source project, and she's doing a great job at coordinating the contributions from all the members, developing a roadmap, creating issues, releases, code reviews; all in a very professional manner and with amazing results. It has been a very pleasant experience working together
 

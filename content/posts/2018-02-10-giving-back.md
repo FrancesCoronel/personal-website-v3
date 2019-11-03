@@ -23,7 +23,7 @@ I love sharing everything I've worked on without expecting anything in return an
 <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://twitter.com/fvcproductions/status/962443938027118592">Frances Coronel on Twitter</a></h4><p>I've just donated $2 to docsify. Consider donating too, every little helps! https://t.co/x0Gl27qERK</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-So I'm donating <!-- prettier-ignore -->$2 each month indefinitely to future [docsify](https://docsify.js.org/) development. I know it's not a lot in the grand scheme of things but damn, I just got out of college so I'm not rich people. 💸
+So I'm donating $2 each month indefinitely to future [docsify](https://docsify.js.org/) development. I know it's not a lot in the grand scheme of things but damn, I just got out of college so I'm not rich people. 💸
 
 I actually ended up being the first sponsor for `docsify` which describes itself as a "magical documentation site generator". 🔮
 
