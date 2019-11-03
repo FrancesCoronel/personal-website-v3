@@ -48,7 +48,7 @@ The goal of the Tapia Conferences is to bring together undergraduate and graduat
 Google Scholarship Recipient
 
 - Awarded August 2015
-- Scholarship includes conference registration, shared hotel room with another scholarship recipient and a <!-- prettier-ignore -->$500 travel award
+- Scholarship includes conference registration, shared hotel room with another scholarship recipient and a $500 travel award
 
 ---
 
@@ -146,7 +146,7 @@ Consistently throughout the process, I faced the dilemma of whether or not to ta
 
 ![Mmmhmmm.](https://sunnyyq.files.wordpress.com/2012/09/12-08-31-new-york-style-mozzarella-cheese-pizza-sbarro.jpg)
 
-<!-- prettier-ignore -->
+
 Half way through waiting in this 1-hour line, I call this help line that this lady from Toronto gives me since the help line only helps with domestic flights. It's officially from US Airways but then the help line goes on to offer me a $100 Walmart gift card and insisting that I give them my personal info to get this card. I'm pretty gullible, so I give them my name and address but then they ask for my debit card \# and I go crazy and ask why they haven't help me out yet. I'm still in the ridiculously long line and hang up on the stupid help line and then all of a sudden, US Airways announces that the flight I've been waiting for 4 hours so far now is now boarding.
 
 When I got home, I took all my anger out on the snow which wasn't really a fun process either.

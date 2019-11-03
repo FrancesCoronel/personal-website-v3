@@ -13,7 +13,7 @@ categories:
 
 - 1 of 9 finalists from 80+ applicants
 - winner for BrooklynCupcake company challenge out of 3 competitors
-- awarded a first-round interview with Goldman Sachs, a spot in a Cornerstone event, and a <!-- prettier-ignore -->$5,000 scholarship
+- awarded a first-round interview with Goldman Sachs, a spot in a Cornerstone event, and a $5,000 scholarship
 
 ## Full Story
 

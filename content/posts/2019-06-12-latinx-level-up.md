@@ -20,7 +20,7 @@ tags:
   - VIP Ticket
 - 1:1 Virtual Coaching via Check-ins
 - Option to present at LTX Summit
-- <!-- prettier-ignore -->$5,000 Stipend
+- $5,000 Stipend
 
 ## Requirements
 
@@ -116,7 +116,9 @@ Workshop at the Kapor Center
 <blockquote class="embedly-card"><h4><a href="https://www.linkedin.com/feed/update/urn:li:activity:6566359588906639360/">Frances Coronel on LinkedIn: "As part of the #LatinxLevelUp program, I participated in an oped writing workshop yesterday at the Kapor Center with a Carolina Perez by The OpEd Project and taught by Teresa Puente. 📝 I experimented with the prompt "Don't fuck with my time (or why you should hesitate before asking for something from someone you don't know)" but I may revisit that all together. 😂 Overall, I had a great experience and I highly recommend the workshop to other women or people or color who would like to have their arguments and voices gain more visibility through the power of words. ✒️ Shout out to the other participants as well - I enjoyed getting to know some of you better! 💛 Tiffany Price ¶ Josh Torres ¶ Lili Gangas ¶ Carolina Perez ¶ Edgardo Perez, Ed.M. ¶ Madelyn Tavarez ¶ Michael A. Urbina ¶ Jessenia Francisco ¶ Cynthia Duran ¶ Meghna Mahadevan ¶ Maria Antonia Hernandez"</a></h4><p>August 11, 2019: Frances Coronel posted images on LinkedIn</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-### October 9 to 12
+![Writing Workshop](https://i.imgur.com/XAnxiQX.jpg)
+
+### October 8 to 11
 
 LTX Fest 2019
 

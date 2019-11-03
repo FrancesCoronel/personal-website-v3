@@ -41,7 +41,7 @@ Around the world, hundreds of thousands of founders come together each month to 
 
 ### Attending
 
-I had known of Startup Grind for some time now but I'm not one for attending conferences unless I can go for free so with a steep price (it's about <!-- prettier-ignore -->$700 at the door, I think?), the only way I was ever going to attend is through a scholarship of some sort.
+I had known of Startup Grind for some time now but I'm not one for attending conferences unless I can go for free so with a steep price (it's about $700 at the door, I think?), the only way I was ever going to attend is through a scholarship of some sort.
 
 Thankfully, I've been part of this amazing organization - [Women Who Code](https://www.womenwhocode.com) - for about 3 years now and I knew they gave away free tickets for big events like this.
 

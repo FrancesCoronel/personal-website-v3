@@ -47,13 +47,7 @@ Make sure to have the other action items completed before booking the recording 
 
 ## 1. Express your interest 💬
 
-If you're interested in being on Tech Queens, fill out this form: https://bit.ly/become-a-tech-queen
-
-Feel free to [connect with me through LinkedIn](https://linkedin.com/in/fvcproductions) afterward.
-
-If we’re not connected already, feel free to send an invite over and I’ll happily accept.
-
-We will be using LinkedIn to message each other and coordinate on assets, etc.
+If you're interested in being on Tech Queens, [contact me via my website](/contact/) or [connect with me through LinkedIn](https://linkedin.com/in/fvcproductions).
 
 ## 2. Schedule an initial chat via Calendly 📆
 

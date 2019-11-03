@@ -13,6 +13,7 @@ aliases:
   - /home/services/speaking/
   - /speaking-events/
   - /2019/07/25/smash-stanford-speaker-series/
+  - /2019/10/12/nest-flight/
 ---
 
 All my presentation slides can be found on <a href="https://www.slideshare.net/fvcproductions" target="_blank" rel="noopener">my SlideShare profile <i class="fab fa-slideshare"></i></a>. 📎

@@ -17,3 +17,5 @@ tags:
 She Code Connect, a program of Youth Code Jam, is made especially for girls. SCC gives girls an opportunity to feel empowered and encourage girls to pursue this field. This organization started in 2016 with local San Antonio girls and seed funding from the 80/20 Foundation.
 
 I will be giving two talks — one for the She Code Connect breakfast and another for the VIP reception - both on the same day of November 7.
+
+![Newsletter for Dinner Talk](https://i.imgur.com/nexHytn.jpg)
