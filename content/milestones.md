@@ -2,7 +2,6 @@
 title: Milestones
 customPage: true
 description: "And every day I'm one step closer... 🏅"
-footer: true
 hideImage: true
 image: https://i.imgur.com/R30kkoU.jpg
 milestonesPage: true

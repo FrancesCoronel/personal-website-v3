@@ -21,6 +21,7 @@ $line-me: #00c300;
 $linkedin: #007bb6;
 $medium: #00ab6c;
 $meetup: #e0393e;
+$patreon: #f96854;
 $paypal: #003087;
 $pinterest: #cb2027;
 $pocket: #ef4056;
@@ -79,6 +80,7 @@ $fa-social: (amazon, $amazon),
 (linkedin, $linkedin),
 (medium, $medium),
 (meetup, $meetup),
+(patreon, $patreon),
 (paypal, $paypal),
 (pinterest, $pinterest),
 (pocket, $pocket),
@@ -118,10 +120,14 @@ $fa-color in $fa-social {
   a.fa-#{$social-network}:hover {
     background-color: $fa-color !important;
     color: white !important;
+    border-color: $fa-color !important;
+  }
+}
 
-    &:hover {
-      border-color: $fa-color !important;
-    }
+@each $social-network,
+$fa-color in $fa-social {
+  a.fa-#{$social-network}-plain-link:hover {
+    color: $fa-color !important;
   }
 }
 

@@ -18,10 +18,8 @@
 {{ $pageTitle := .Title }}
 {{ if .IsHome }}
   {{ $pageTitle = .Site.Title }}
-{{ else if eq .Params.display "Podcast" }}
-  {{ $pageTitle = .Title }}
-{{ else if or (eq .Section "podcast") (in .Params.categories "podcast") }}
-  {{ $pageTitle = (print .Title " | Tech Queens") }}
+{{ else if (in .Params.categories "podcast") }}
+  {{ $pageTitle = (print .Title " | Tech Queens | " .Site.Title) }}
 {{ else }}
   {{ $pageTitle = (print .Title " | " .Site.Title) }}
 {{ end }}

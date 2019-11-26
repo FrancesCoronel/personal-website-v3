@@ -1,6 +1,11 @@
 {{ if or (or (.PrevInSection) (.NextInSection)) }}
 <hr>
-<nav class="pagination is-centered" aria-label="pagination">
+<!-- Breadcrumbs -->
+<div class="breadcrumb__centered">
+  {{ partial "custom/breadcrumbs.html" . }}
+</div>
+<!-- Pagination -->
+<nav class="pagination is-centered content" aria-label="pagination">
   <!-- Previous Page -->
   {{ if .PrevInSection }}
   <a class="pagination-previous v--border-none u-width--half" href="{{ .PrevInSection.RelPermalink }}">⬅&nbsp;<strong>Previous Post</strong><br><br><span class="pagination-text">{{ .PrevInSection.Title }}</span></a>

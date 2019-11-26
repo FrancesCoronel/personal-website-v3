@@ -1,13 +1,12 @@
 ---
-title: "Sitemap"
-description: "All the pages on this website. 🌐️"
+title: "Site Map"
 customPage: true
-footer: true
-noComments: true
+description: "All the pages on this website. 🌐️"
 hideImage: true
+image: https://i.imgur.com/uCWVDcY.jpg
+noComments: true
 noTimeEstimate: true
 sitemapPage: true
-image: https://i.imgur.com/uCWVDcY.jpg
 url: /sitemap/
 aliases:
   - /directory/

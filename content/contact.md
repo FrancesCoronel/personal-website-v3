@@ -1,19 +1,16 @@
 ---
 title: Contact
 description: "Getting in touch. 📬"
-image: https://i.imgur.com/0n5zqiA.jpg
 hideImage: true
+image: https://i.imgur.com/0n5zqiA.jpg
+navbar: true
 noComments: true
 noTimeEstimate: true
-navbar: false
-footer: true
-url: /contact/
 aliases:
+  - /contact/
   - /getting-in-touch/
   - /get-in-touch/
   - /about/contact/
-  - /contact/donate/
-  - /donate/
   - /support/
   - /book-me-to-speak/
 ---

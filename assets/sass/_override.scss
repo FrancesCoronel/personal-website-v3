@@ -29,3 +29,29 @@
     font-size: $size-8;
   }
 }
+
+.connect-with-me {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+
+  a {
+    margin: 0 0.25em;
+
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+}
+
+.breadcrumb {
+  overflow: hidden;
+  white-space: normal;
+
+  &__centered {
+    .breadcrumb ul {
+      justify-content: center;
+      ;
+    }
+  }
+}

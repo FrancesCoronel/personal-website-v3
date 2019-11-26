@@ -1,10 +1,10 @@
 ---
 title: Hackathons
-description: "Hack, hack, hack... 💻"
-image: https://i.imgur.com/95rd1di.jpg
 customPage: true
+description: "Hack, hack, hack... 💻"
 hackathonPage: true
 hideImage: true
+image: https://i.imgur.com/95rd1di.jpg
 noComments: true
 url: /hackathons/
 aliases:

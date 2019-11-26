@@ -35,9 +35,27 @@
   }}();
 </script>
 <!-- Landbot -->
-<script src="https://static.landbot.io/landbot-widget/landbot-widget-1.0.0.js"></script>
+<!-- <script src="https://static.landbot.io/landbot-widget/landbot-widget-1.0.0.js"></script>
 <script>
   var myLandbot = new LandbotLivechat({
     index: 'https://landbot.io/u/H-290152-OVVPGOMQ1F1SQXV8/index.html',
+  });
+</script> -->
+<script src="https://static.landbot.io/landbot-widget/landbot-widget-1.0.0.js"></script>
+<script>
+  var myLandbot = new LandbotPopup({
+    index: 'https://landbot.io/u/H-290152-OVVPGOMQ1F1SQXV8/index.html',
+  });
+</script><script>
+  // Show a proactive message on landbot load
+  myLandbot.on('landbot-load', function() {
+    myLandbot.sendProactive({
+  "message": "Hi there! Let me know if you have any questions!",
+  "author": "FVCproductions",
+  "avatar": "https://storage.googleapis.com/media.helloumi.com/channels/GATVN6A0HLBYGUCGH4GIDRKVLEXPIK77.png",
+  "extra": {
+    "hide_textbox": true
+  }
+});
   });
 </script>

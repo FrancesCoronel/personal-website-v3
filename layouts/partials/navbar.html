@@ -1,7 +1,7 @@
-<div class="section pt-3 pb-1">
+<div class="section pt-2 pb-2">
   <div class="container">
     <nav aria-label="Primary Navigation" class="navigation">
-      <a class="logo mb-sm is-size-3" href="/">
+      <a class="logo mb-sm is-size-2" href="/">
         <span class="symbol">
           <img alt="FVCproductions - Logo" data-src="/assets/img/logo.svg" src="/assets/img/logo.svg" width="100px">
         </span>
@@ -9,23 +9,16 @@
           {{ .Site.Title }}
         </span>
       </a>
-      <ul class="nav-links">
+      <div class="navbar-menu nav-links is-size-4">
         {{ $homePages := $.Site.Pages | union ($.Site.Sections) }}
         {{ range $homePages.ByTitle }}
         {{ if .Params.navbar }}
         <li class="nav-item">
-          <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="menu-item is-size-3 is-capitalized">
-            {{ if .Params.display }}
-            {{ .Params.display }}
-            {{ else }}
-            {{ .Title }}
-            {{ end }}
-          </a>
+          <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="menu-item is-capitalized">{{ .Title }}</a>
         </li>
         {{ end }}
         {{ end }}
-      </ul>
+      </div>
     </nav>
   </div>
 </div>
-

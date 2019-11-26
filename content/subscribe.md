@@ -2,9 +2,9 @@
 title: "Subscribe"
 description: "You can subscribe to new updates via email. 🌟"
 hideImage: true
+image: https://i.imgur.com/yR5HPGY.jpg
 noComments: true
 noTimeEstimate: true
-image: https://i.imgur.com/yR5HPGY.jpg
 url: /subscribe/
 aliases:
   - /newsletter/

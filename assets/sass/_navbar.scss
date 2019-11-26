@@ -1,23 +1,42 @@
 .navigation {
   text-align: center;
 
-  ul {
+  .navbar-menu {
+    box-shadow: none;
+    padding: 0;
+  }
+
+  .nav-links {
     align-items: center;
-    display: flex;
+    display: block;
     flex-wrap: wrap;
     justify-content: space-evenly;
     list-style: none;
     margin: 0 auto;
     text-align: center;
 
-    li {
+    @media screen and (min-width: $laptop) {
+      display: flex;
+    }
+
+    &__social {
+      display: flex;
+      justify-content: center;
+
+      .menu-item {
+        margin: 0 0.5em;
+      }
+    }
+
+    .nav-item {
       position: relative;
       margin: 0 1em;
-      margin-bottom: 1em;
 
-      a {
-        border-bottom: 3px solid transparent;
-        padding-bottom: 0.25em;
+      @media screen and (min-width: $laptop) {
+        margin: 0;
+      }
+
+      .menu-item {
         color: $link;
 
         &:after {
@@ -63,6 +82,21 @@
       &:after {
         border-bottom: none !important;
       }
+
+      .header {
+        left: auto;
+        color: $primary;
+        top: 100%;
+        opacity: 1;
+        -webkit-transition: top 0.45s ease-in-out, opacity 0.45s ease-in-out;
+        -moz-transition: top 0.45s ease-in-out, opacity 0.45s ease-in-out;
+        transition: top 0.45s ease-in-out, opacity 0.45s ease-in-out;
+      }
+
+      .header:after {
+        width: 100%;
+        border-bottom: 3px solid;
+      }
     }
 
     .header {
@@ -76,21 +110,6 @@
         width: 0;
         border-bottom: 3px solid transparent;
         transition: width 0.5s ease, background-color 0.5s ease;
-      }
-
-      &:hover {
-        left: auto;
-        color: $primary;
-        top: 100%;
-        opacity: 1;
-        -webkit-transition: top 0.45s ease-in-out, opacity 0.45s ease-in-out;
-        -moz-transition: top 0.45s ease-in-out, opacity 0.45s ease-in-out;
-        transition: top 0.45s ease-in-out, opacity 0.45s ease-in-out;
-      }
-
-      &:hover:after {
-        width: 100%;
-        border-bottom: 3px solid;
       }
     }
 

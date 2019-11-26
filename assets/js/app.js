@@ -1,17 +1,17 @@
 // Twemoji
-require("./components/twemoji");
+require('./components/twemoji');
 
 // Active Navigation Link
-require("./components/activeMenuLink");
+require('./components/activeMenuLink');
 
 // Return to Top
-require("./components/returnToTop");
+require('./components/returnToTop');
 
 // External Links
-require("./components/externalLinks");
+require('./components/externalLinks');
 
 // Random Titles
-require("./components/randomTitle");
+require('./components/randomTitle');
 
 // Lozad
-require("./components/lozad");
+require('./components/lozad');

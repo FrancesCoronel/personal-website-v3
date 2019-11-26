@@ -2,9 +2,9 @@
 title: "What I Use"
 description: "The tools I use on a day to day basis."
 image: https://i.imgur.com/DDBxjA2.jpg
-url: /what-i-use/
-toc: true
 sitemap: true
+toc: true
+url: /what-i-use/
 aliases:
   - /home/about/what-i-use/
   - /about/what-i-use/

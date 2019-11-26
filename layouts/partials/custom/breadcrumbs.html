@@ -1,20 +1,15 @@
-<!-- TODO: Usage pending resolution of https://github.com/gohugoio/hugo/issues/448 -->
-{{ $siteUrl := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
-{{ $.Scratch.Add "sitePath" .Site.BaseURL }}
-{{ $.Scratch.Add "siteBreadcrumbs" (slice (dict "url" .Site.BaseURL "name" "home" "position" 1 )) }}
-{{ range $index, $element := split $siteUrl "/" }}
-{{ $.Scratch.Add "sitePath" $element }}
-{{ $.Scratch.Add "sitePath" "/" }}
-{{ if ne $element "" }}
-{{ $.Scratch.Add "siteBreadcrumbs" (slice (dict "url" ($.Scratch.Get "sitePath") "name" . "position" (add $index 2))) }}
-{{ end }}
-{{ end }}
-<nav class="breadcrumb" aria-label="breadcrumbs">
-    <ul>
-        {{ range $.Scratch.Get "siteBreadcrumbs" }}
-        <li><a href="{{ .Permalink }}">{{ upper .name }}</a></li>
-        {{ end }}
-    </ul>
+<nav aria-label="breadcrumbs" class="breadcrumb {{ if .Params.image }}mb-1{{ else }}mb-2{{ end }}">
+  <ul>
+    {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+  </ul>
 </nav>
-
-
+{{ define "breadcrumbnav" }}
+{{ if .p1.Parent }}
+{{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 ) }}
+{{ else if not .p1.IsHome }}
+{{ template "breadcrumbnav" (dict "p1" .p1.Site.Home "p2" .p2 ) }}
+{{ end }}
+<li>
+  <a href="{{ .p1.Permalink }}" {{ if eq .p1 .p2 }} class="is-active" aria-current="page" {{ end }}>{{ .p1.Title }}</a>
+</li>
+{{ end }}

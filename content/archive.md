@@ -1,11 +1,10 @@
 ---
 title: Archive
-description: "The past has been revealed. 🕒️"
-image: https://i.imgur.com/r940Dkr.jpg
 archivePage: true
 customPage: true
-footer: true
+description: "The past has been revealed. 🕒️"
 hideImage: true
+image: https://i.imgur.com/r940Dkr.jpg
 noComments: true
 noTimeEstimate: true
 url: /archive/

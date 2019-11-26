@@ -6,6 +6,7 @@ customPage: true
 freelancingPage: true
 hideImage: true
 noComments: true
+
 url: /freelancing/
 aliases:
   - /services/freelancing/

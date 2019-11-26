@@ -1,6 +1,6 @@
 // Typography
-$family-primary: BlinkMacSystemFont,
--apple-system,
+$family-primary: -apple-system,
+BlinkMacSystemFont,
 "Roboto",
 "Segoe UI",
 "Oxygen",
@@ -52,6 +52,7 @@ $button-border: #dbdbdb;
 $zircon: #DCE3E5;
 $code: #D7233B;
 $light-gray: #f5f5f5;
+$legal: #ebeaeb;
 
 // Forms
 $text: $primary;

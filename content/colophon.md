@@ -1,9 +1,8 @@
 ---
 title: Colophon
 description: "Unveiling the inner workings of this website. ⚙️"
-image: https://i.imgur.com/D4dPpG2.jpg
-footer: true
 hideImage: true
+image: https://i.imgur.com/D4dPpG2.jpg
 noComments: true
 noTimeEstimate: true
 toc: true
@@ -24,7 +23,7 @@ This website was originally born with Wordpress.com in my final month of high sc
 
 ## What I Use
 
-The software and hardware I use on a day to day basis can be found on my [What I Use](/what-i-use/) page - last updated Spring 2019.
+The software and hardware I use on a day to day basis can be found on my [What I Use](/what-i-use/) page.
 
 ## Source Code
 

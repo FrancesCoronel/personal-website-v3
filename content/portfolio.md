@@ -1,9 +1,9 @@
 ---
 title: Portfolio
-description: My work across the interwebs. 🛠️
-image: https://i.imgur.com/DZnLjQQ.png
 customPage: true
+description: My work across the interwebs. 🛠️
 hideImage: true
+image: https://i.imgur.com/DZnLjQQ.png
 noComments: true
 noTimeEstimate: true
 portfolioPage: true

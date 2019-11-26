@@ -1,14 +1,12 @@
 ---
-title: Tech Queens
+title: "Podcast — Tech Queens"
+customPage: true
 description: "Stories and advice shared by women of color in tech. 👑🎙️"
-display: Podcast
 hideUpcomingText: true
 image: "/assets/img/podcast/tech-queens-banner.jpg"
 layout: "podcast"
-navbar: true
 noComments: true
 noTimeEstimate: true
-customPage: true
 podcastEmail: true
 url: /tech-queens/
 aliases:
