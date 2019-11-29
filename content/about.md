@@ -55,11 +55,11 @@ Peruvian-American ¶
 
 Frances Coronel is a software engineer specializing in UI development on the Customer Acquisition Team at Slack where her mission is to make your working life simpler, more pleasant and more productive.
 
-### First Person
+### First Person Bio
 
 {{< bio_first_person >}}
 
-### Third Person
+### Third Person Bio
 
 {{< bio_third_person >}}
 
@@ -70,6 +70,18 @@ Frances Coronel is a software engineer specializing in UI development on the Cus
 {{< headshot >}}
 
 ## FVCproductions?
+
+### First Person
+
+FVCproductions is my freelancing company that provides technical mentorship, web services, and speaking engagements.
+
+It is also the personal brand that I've been using since 2013 to identify my work across the interwebs.
+
+Starting in May 2015, I started working with her first client and initially introduced FVCproductions as a freelancing company for web design & development before adding in mentorship sessions and speaking engagements as other services offered.
+
+All in all, FVCproductions is how I'm trying to give back to the community.
+
+### Third Person
 
 FVCproductions is a freelancing company providing technical mentorship, web services, and speaking engagements.
 
