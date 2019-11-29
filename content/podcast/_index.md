@@ -7,7 +7,6 @@ image: "/assets/img/podcast/tech-queens-banner.jpg"
 layout: "podcast"
 noComments: true
 noTimeEstimate: true
-podcastEmail: true
 url: /tech-queens/
 aliases:
   - /podcast-series/

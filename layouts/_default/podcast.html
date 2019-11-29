@@ -9,13 +9,13 @@
 <div class="section">
   <div class="content">
     <!-- Content -->
-    {{ partial "content.html" . }}
+    {{ partialCached "content.html" . }}
   </div>
 </div>
 <div class="section">
   <div class="content">
     <h2>🎧 Available on</h2>
-    <div class="section-banners u-flex--center mt-2 v--podcast">
+    <div class="section-banners u-flex--center .u-margin-top--2 v--podcast">
       <!-- Anchor -->
       <a href="https://anchor.fm/tech-queens" rel="noopener" target="_blank"><img alt="Tech Queens on Anchor" class="lozad" data-src="/assets/img/podcast/listen/anchor.svg" loading="lazy" src="/assets/img/podcast/listen/anchor.svg" title="Tech Queens on Anchor"></a>
       <!-- Apple Podcasts -->
@@ -61,8 +61,8 @@
     <h2>📝 More Info</h2>
   </div>
   <!-- Children -->
-  {{ partial "children.html" . }}
+  {{ partialCached "children.html" . }}
 </div>
 <!-- Footer -->
-{{ partial "footer/_index.html" . }}
+{{ partialCached "footer/_index.html" . }}
 {{ end }}

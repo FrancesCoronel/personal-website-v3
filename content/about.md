@@ -6,17 +6,18 @@ image: https://i.imgur.com/NWXkplC.jpg
 navbar: true
 noComments: true
 noTimeEstimate: true
+toc: true
 url: /about/
 aliases:
-  - /home/about/
-  - /about-me/
-  - /bio/
-  - /bios/
-  - /biography/
-  - /profiles/
-  - /online-presence/
-  - /links/
-  - /offline/
+- /home/about/
+- /about-me/
+- /bio/
+- /bios/
+- /biography/
+- /profiles/
+- /online-presence/
+- /links/
+- /offline/
 ---
 
 Hi, I'm Frances! 👋🏽
@@ -33,7 +34,7 @@ My "life motto", if you will.
 
 Might have something to do with human nature in general, though, so interpret it as you will.
 
-- Front End Engineer at Slack HQ in SF with a focus on UI design & development 🖌️🔧️
+- Front End Engineer at Slack HQ in SF with a focus on UI development 🔧️
 - Latina (2nd gen. Peruvian-American) 🇵🇪️ who gets a lot of personal satisfaction out of inspiring underserved groups within the tech industry 😊
 - Passionate mentor, freelancer & speaker 💬️
 
@@ -64,15 +65,9 @@ Frances Coronel is a software engineer specializing in UI development on the Cus
 
 ## Headshot
 
-<a href="/assets/img/about/headshot.jpg" download><img data-src="/assets/img/about/headshot.jpg" class="lozad" loading="lazy" src="/assets/img/about/headshot.jpg" alt="Frances Coronel - Headshot"></a>
+*Photo taken for [TechHire Oakland](https://www.techhireoakland.org/training/) by [Adrian Walker](https://www.adrianowalker.com)*
 
-<a href="/assets/img/about/headshot.jpg" class="button button-large" download>
-  <svg aria-label="Down Arrow" aria-hidden="true" data-icon="arrow-down" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="fa-icon fa-arrow-down">
-    <path fill="currentColor" d="M413.1 222.5l22.2 22.2c9.4 9.4 9.4 24.6 0 33.9L241 473c-9.4 9.4-24.6 9.4-33.9 0L12.7 278.6c-9.4-9.4-9.4-24.6 0-33.9l22.2-22.2c9.5-9.5 25-9.3 34.3.4L184 343.4V56c0-13.3 10.7-24 24-24h32c13.3 0 24 10.7 24 24v287.4l114.8-120.5c9.3-9.8 24.8-10 34.3-.4z"></path>
-  </svg><span class="ml-sm">Download headshot photo</span>
-</a>
-
-> Photo taken for [TechHire Oakland](https://www.techhireoakland.org/training/) by [Adrian Walker](https://www.adrianowalker.com)
+{{< headshot >}}
 
 ## FVCproductions?
 
@@ -83,6 +78,14 @@ It is also the personal brand of Frances Coronel that has been used since 2013 t
 Starting in May 2015, Frances started working with her first client and initially introduced FVCproductions as a freelancing company for web design & development before adding in mentorship sessions and speaking engagements as other services offered.
 
 All in all, FVCproductions is how Frances is trying to give back to the community.
+
+## Some of my favorite people
+
+Featuring my boo, my dog, my papa, my mama, my sister, my boo's mom and dad, my boo's nieces and me! 🤗
+
+Missing in action are my brother, relatives and friends. When Google makes animated GIFs of them, I will add them here. 😂
+
+{{< favorite-people >}}
 
 ## Online Presence
 

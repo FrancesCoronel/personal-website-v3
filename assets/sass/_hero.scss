@@ -1,4 +1,5 @@
 .hero-image {
   @extend %image-shadow;
   width: 100%;
+  border-radius: $border-radius;
 }

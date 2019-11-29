@@ -4,7 +4,6 @@ description: Intereseted in sponsoring an episode? ✨
 image: /assets/img/podcast/tech-queens-shirt-design.jpg
 noComments: true
 noTimeEstimate: true
-podcastEmail: true
 url: /tech-queens/become-a-sponsor/
 aliases:
   - /tech-queens/sponsor/

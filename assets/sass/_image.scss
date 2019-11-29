@@ -47,3 +47,10 @@ img.emoji {
     opacity: 1;
   }
 }
+
+img.bg {
+  height: auto;
+  min-height: 100%;
+  object-fit: cover;
+  width: 100%;
+}

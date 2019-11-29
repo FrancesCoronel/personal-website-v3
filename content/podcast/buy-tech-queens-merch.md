@@ -4,7 +4,6 @@ description: "Buy Tech Queens branded merchandise from the Spreadshirt store. ðŸ
 image: "/assets/img/podcast/tech-queens-shirt-model.jpg"
 noComments: true
 noTimeEstimate: true
-podcastEmail: true
 noContentClass: true
 hideImage: true
 aliases:

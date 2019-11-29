@@ -2,6 +2,7 @@
   "cSpell.enabled": false,
   "editor.formatOnSave": true,
   "editor.insertSpaces": true,
+  "editor.defaultFormatter": "HookyQR.beautify",
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
   "eslint.autoFixOnSave": true,
@@ -13,4 +14,7 @@
   "workbench.editor.enablePreview": false,
   "workbench.editor.enablePreviewFromQuickOpen": false,
   "workbench.settings.enableNaturalLanguageSearch": false,
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  }
 }

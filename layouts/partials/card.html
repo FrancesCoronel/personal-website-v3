@@ -42,4 +42,9 @@
     </div>
   </div>
   {{ end }}
+  {{ if .Params.logo }}
+  <div class="media-content pd-1 has-text-centered">
+    <img src="{{ .Params.logo }}" loading="lazy" data-src="{{ .Params.logo }}" alt="Logo" class="lozad no-box-shadow" width="150">
+  </div>
+  {{ end }}
 </div>

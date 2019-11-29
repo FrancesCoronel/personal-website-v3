@@ -11,37 +11,37 @@
 <div class="section">
   <h2>🌐️ Share</h2>
   <!-- Twitter -->
-  <div class="social-icons mt-2">
+  <div class="social-icons .u-margin-top--2">
     <a aria-label="Share on Twitter" class="fa-twitter" href="https://twitter.com/intent/tweet?url={{ .Permalink }}&via={{ .Site.Social.twitter }}&text={{ $pageTitle }}" rel="noopener" target="_blank" title="Share on Twitter">
-      {{ partial "icons/twitter.html" . }}
+      {{ partialCached "icons/twitter.html" . }}
     </a>
     <!-- Facebook -->
     <a aria-label="Share on Facebook" class="fa-facebook" href="https://www.facebook.com/sharer.php?u={{ .Permalink }}" rel="noopener" target="_blank" title="Share on Facebook">
-      {{ partial "icons/facebook.html" . }}
+      {{ partialCached "icons/facebook.html" . }}
     </a>
     <!-- LinkedIn -->
     <a aria-label="Share on LinkedIn" class="fa-linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink | safeURL }}&title={{ $pageTitle }}&summary={{ .Summary }}&source={{ .Site.Title }}" rel="noopener" target="_blank" title="Share on LinkedIn">
-      {{ partial "icons/linkedin.html" . }}
+      {{ partialCached "icons/linkedin.html" . }}
     </a>
     <!-- Pinterest -->
     <a aria-label="Share on Pinterest" class="fa-pinterest" href="https://pinterest.com/pin/create/bookmarklet/?media={{ .Params.image }}&url={{ .Permalink | safeURL }}&description={{ $pageTitle }}" rel="noopener" target="_blank" title="Share on Pinterest">
-      {{ partial "icons/pinterest.html" . }}
+      {{ partialCached "icons/pinterest.html" . }}
     </a>
     <!-- Reddit -->
     <a aria-label="Share on Reddit" class="fa-reddit" href="https://reddit.com/submit?url={{ .Permalink | safeURL }}&title={{ $pageTitle }}" rel="noopener" target="_blank" title="Share on Reddit">
-      {{ partial "icons/reddit.html" . }}
+      {{ partialCached "icons/reddit.html" . }}
     </a>
     <!-- Hacker News -->
     <a aria-label="Share on Hacker News" class="fa-reddit" href="https://news.ycombinator.com/submitlink?u={{ .Permalink | safeURL }}&t={{ $pageTitle }}" rel="noopener" target="_blank" title="Share on Hacker News">
-      {{ partial "icons/hacker-news.html" . }}
+      {{ partialCached "icons/hacker-news.html" . }}
     </a>
     <!-- Email -->
     <a aria-label="Email this article" class="fa-email" href="mailto:?subject=Check%20out%20this%20work%20by%20{{ .Site.Title }}&body={{ .Permalink | safeURL }}" rel="noopener" target="_blank" title="Email this article">
-      {{ partial "icons/email.html" . }}
+      {{ partialCached "icons/email.html" . }}
     </a>
     <!-- Print -->
     <a aria-label="Print this article" class="fa-print" href="javascript:window.print()" rel="noopener" target="_blank" title="Print this article">
-      {{ partial "icons/print.html" . }}
+      {{ partialCached "icons/print.html" . }}
     </a>
   </div>
 </div>

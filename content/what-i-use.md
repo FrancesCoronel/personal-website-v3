@@ -1,6 +1,6 @@
 ---
 title: "What I Use"
-description: "The tools I use on a day to day basis."
+description: "The tools I use on a day to day basis. 🛠"
 image: https://i.imgur.com/DDBxjA2.jpg
 sitemap: true
 toc: true

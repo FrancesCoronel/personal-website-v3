@@ -11,9 +11,9 @@
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
   <!-- Return to Top -->
-  {{- partial "custom/return-to-top.html" . -}}
+  {{- partialCached "custom/return-to-top.html" . -}}
   <!-- Navbar -->
-  {{- partial "navbar.html" . -}}
+  {{- partialCached "navbar.html" . -}}
   <!-- Container -->
   <div class="container">
     <!-- Main Content -->
@@ -23,8 +23,9 @@
     </div>
   </div>
   <!-- Footer -->
-  {{- partial "footer.html" . -}}
+  {{- partialCached "footer.html" . -}}
   <!-- Scripts -->
-  {{- partial "scripts.html" . -}}
+  {{- partialCached "scripts.html" . -}}
 </body>
+
 </html>

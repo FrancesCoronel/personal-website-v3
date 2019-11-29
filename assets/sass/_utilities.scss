@@ -1,25 +1,29 @@
-// TODO: Rename to have .u-
+.u-margin--0 {
+  margin: 0 !important;
+}
 
 // Margin Top
-.mt-0 {
+.u-margin-top--0 {
   margin-top: 0 !important;
 }
 
-.mt-sm {
+.u-margin-top--sm {
   margin-top: 0.5em !important;
 }
 
-.mt-1 {
+.u-margin-top--1 {
   margin-top: 1em !important;
 }
 
-.mt-1-sm {
+.u-margin-top--1-sm {
   margin-top: 1.5em !important;
 }
 
-.mt-2 {
+.u-margin-top--2 {
   margin-top: 2em !important;
 }
+
+// TODO: Rename to have .u-
 
 // Margin Right
 .mr-sm {
