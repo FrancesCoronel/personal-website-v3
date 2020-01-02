@@ -10,7 +10,7 @@
       </figure>
     </div>
     {{ end }}
-    <div class="media-content {{ if $pageLinksPresent }}pb-0{{ else }}pb-sm{{ end }}">
+    <div class="media-content {{ if $pageLinksPresent }}u-padding-bottom--0{{ else }}u-padding-bottom--sm{{ end }}">
       <div class="content">
         <!-- Title -->
         <h3>
@@ -36,14 +36,14 @@
   </a>
   <!-- Links -->
   {{ if $pageLinksPresent }}
-  <div class="media-content pt-0 pb-1">
+  <div class="media-content u-padding-top--0 u-padding-bottom--1">
     <div class="content">
       {{- partial "page-links.html" . -}}
     </div>
   </div>
   {{ end }}
   {{ if .Params.logo }}
-  <div class="media-content pd-1 has-text-centered">
+  <div class="media-content u-padding--1 has-text-centered">
     <img src="{{ .Params.logo }}" loading="lazy" data-src="{{ .Params.logo }}" alt="Logo" class="lozad no-box-shadow" width="150">
   </div>
   {{ end }}

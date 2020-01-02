@@ -6,7 +6,7 @@
 <!-- Page -->
 <div class="section">
   <!-- Content -->
-  <div class="content table-border-none">
+  <div class="content u-table-border-none">
     <blockquote>{{ len $listPages }} {{ if gt (len $listPages) 1 }}pages{{ else }}page{{ end }}</blockquote>
     <!-- Range -->
     {{ range $listPages.GroupByDate "2006" }}{{ partial "list.html" . }}{{ end }}

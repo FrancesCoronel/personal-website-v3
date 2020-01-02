@@ -4,13 +4,13 @@
 <!-- Footer -->
 <footer class="footer">
   <!-- Social Links -->
-  <div class="footer__social pt-3 pb-1">
+  <div class="footer__social u-padding-top--3 u-padding-bottom--1">
     <div class="container has-text-centered">
       {{ partialCached "custom/social-links.html" . }}
     </div>
   </div>
   <!-- Links -->
-  <div class="footer__main pt-1">
+  <div class="footer__main u-padding-top--1">
     <div class="container has-text-centered content">
       <!-- Last updated -->
       <div class="section">
@@ -19,34 +19,34 @@
         <p>Latest post was published on <a href="{{ .RelPermalink }}" rel="noopener">{{ dateFormat "January 2, 2006" .Date }}</a>.</p>
         {{ end }}
       </div>
-      <div class="footer-links__main pt-2 pd-1">
+      <div class="footer-links__main u-padding-top--2 u-padding--1">
         <div class="columns">
           <div class="column">
             <ul>
-              <li><a href="/" rel="noopener" title="Homepage" class="mb-1">Homepage</a></li>
+              <li><a href="/" rel="noopener" title="Homepage" class="u-margin-bottom--1">Homepage</a></li>
               {{ range first 7 $pages.ByTitle }}
-              <li><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="mb-1">{{ .Title }}</a></li>
+              <li><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="u-margin-bottom--1">{{ .Title }}</a></li>
               {{ end }}
             </ul>
           </div>
           <div class="column">
             <ul>
               {{ range first 8 (after 7 $pages.ByTitle) }}
-              <li><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="mb-1">{{ .Title }}</a></li>
+              <li><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="u-margin-bottom--1">{{ .Title }}</a></li>
               {{ end }}
             </ul>
           </div>
           <div class="column">
             <ul>
               {{ range first 8 (after 15 $pages.ByTitle) }}
-              <li><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="mb-1">{{ .Title }}</a></li>
+              <li><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="u-margin-bottom--1">{{ .Title }}</a></li>
               {{ end }}
             </ul>
           </div>
           <div class="column">
             <ul>
               {{ range first 8 (after 23 $pages.ByTitle) }}
-              <li><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="mb-1">{{ .Title }}</a></li>
+              <li><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="u-margin-bottom--1">{{ .Title }}</a></li>
               {{ end }}
             </ul>
           </div>
@@ -55,7 +55,7 @@
     </div>
   </div>
   <!-- Copyright -->
-  <div class="footer__legal pt-2 pb-2">
+  <div class="footer__legal u-padding-top--2 u-padding-bottom--2">
     <div class="container has-text-centered content section">
       <p>©️ Copyright {{ with .Site.Params.year }} {{ . }} {{ end }} to {{ now.Year }} <a href="/" target="_blank" rel="noopener" title="{{ .Site.Title }}">{{ .Site.Title }}</a>. All rights reserved.</p>
     </div>
