@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Blog Posts"
 blogPage: true
 customPage: true
 description: "What I've written about. 📝"
@@ -13,4 +13,5 @@ aliases:
   - /category/certainties/
   - /category/coding/
   - /category/creativity/
+  - /blog-posts/
 ---

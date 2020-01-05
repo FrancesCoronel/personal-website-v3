@@ -1,5 +1,5 @@
 ---
-title: "Podcast — Tech Queens"
+title: "Podcast"
 customPage: true
 description: "Stories and advice shared by women of color in tech. 👑🎙️"
 hideUpcomingText: true

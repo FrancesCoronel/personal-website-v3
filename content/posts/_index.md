@@ -1,5 +1,5 @@
 ---
-title: "Posts"
+title: "All Posts"
 description: "Everything I've been up to these days! 🍓🍫"
 hideImage: true
 noComments: true
@@ -20,4 +20,5 @@ aliases:
   - /updates/
   - /latest-updates/
   - /posts/
+  - /all-posts/
 ---

@@ -1,0 +1,25 @@
+{{ $experiencePages := ($.Site.Taxonomies.categories.experience).Pages }}
+{{ $experienceHoursTotal:= 0 }}
+{{ range (where $experiencePages ".Params.ended" "ne" nil) }}
+{{ $experienceStart := (time .Date.Local) }}
+{{ $experienceEnd := (time .Params.ended) }}
+{{ $experienceDiff := $experienceEnd.Sub (time $experienceStart) }}
+{{ $experienceHours := $experienceDiff.Hours }}
+{{ $experienceHoursTotal = add $experienceHoursTotal $experienceHours }}
+{{ end }}
+{{ $experienceDays := int (div $experienceHoursTotal 24) }}
+{{ $experienceMonths := int (div (mod $experienceDays 365) (30)) }}
+{{ $experienceYears := int (div $experienceDays 365) }}
+{{ $experienceDaysTotal := int ((mod (mod $experienceDays 365) (30))) }}
+<p class="has-text-weight-light .u-margin-top--sm u-margin-bottom--sm">
+  <span class="u-margin-right--sm">🕒</span>
+  {{ if not (eq $experienceYears 0) }}{{ $experienceYears }} {{ if gt $experienceYears 1 }}years{{ else }}year{{ end }}{{ end }}
+  {{ if not (eq $experienceMonths 0) }} {{ $experienceMonths }} {{ if gt $experienceMonths 1 }}months{{ else }}month{{ end }}{{ end }}
+  {{ if not (eq $experienceDaysTotal 0) }} {{ $experienceDaysTotal }} {{ if gt $experienceDaysTotal 1 }}days{{ else }}day{{ end }}{{ end }} worked so far
+</p>
+<p class="has-text-weight-light .u-margin-top--sm u-margin-bottom--sm">
+  <span class="u-margin-right--sm">💻</span>Getting paid to code <a href="/freelancing/" rel="noopener">since 2015</a>
+</p>
+<p class="has-text-weight-light .u-margin-top--sm u-margin-bottom--sm">
+  <span class="u-margin-right--sm">🎓</span>Learning to code <a href="/education/" rel="noopener">since 2013</a>
+</p>
