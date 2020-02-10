@@ -32,7 +32,6 @@
     "eslint": "6.8.0",
     "eslint-plugin-import": "2.20.1",
     "fancy-log": "1.3.3",
-    "gulp": "4.0.2",
     "gulp-cli": "2.2.0",
     "gulp-htmlmin": "5.0.1",
     "gulp-imagemin": "7.1.0",
@@ -50,6 +49,7 @@
   },
   "snyk": true,
   "devDependencies": {
+    "gulp": "^4.0.2",
     "gulp-notify": "3.2.0",
     "gulp-plumber": "1.2.1"
   }
