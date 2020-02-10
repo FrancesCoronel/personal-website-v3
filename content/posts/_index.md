@@ -1,5 +1,5 @@
 ---
-title: "All Posts"
+title: "Posts"
 description: "Everything I've been up to these days! 🍓🍫"
 hideImage: true
 noComments: true

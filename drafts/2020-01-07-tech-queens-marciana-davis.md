@@ -1,6 +1,6 @@
 ---
 title: "Episode 14. Marciana Davis"
-date: 2019-12-30
+date: 2019-01-07
 description: "Salesforce Administrator, MAL Inc"
 image: https://i.imgur.com/YeAuz1N.jpg
 link: https://www.linkedin.com/in/travelingdev/
@@ -15,6 +15,8 @@ tags:
   - tech queens
   - women of color in tech
 ---
+
+Originally recorded September 13, 2019.
 
 https://twitter.com/@traveling_dev
 

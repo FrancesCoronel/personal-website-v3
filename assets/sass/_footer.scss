@@ -24,3 +24,29 @@
     }
   }
 }
+
+.netlify-badge {
+  a {
+    svg {
+      path {
+        fill: $white;
+      }
+
+      rect {
+        fill: $primary;
+      }
+    }
+
+    &:hover {
+      svg {
+        path {
+          fill: $primary;
+        }
+
+        rect {
+          fill: $white;
+        }
+      }
+    }
+  }
+}

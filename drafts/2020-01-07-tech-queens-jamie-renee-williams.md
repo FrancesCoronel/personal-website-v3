@@ -1,6 +1,6 @@
 ---
 title: "Episode 12. Jamie Renee Williams"
-date: 2019-12-30
+date: 2019-01-07
 description: "Designer & Developer, Emma Sudden"
 image: https://i.imgur.com/NDMClP9.jpg
 link: https://www.linkedin.com/in/getmorejamie/
@@ -15,6 +15,8 @@ tags:
   - tech queens
   - women of color in tech
 ---
+
+Originally recorded August 20, 2019.
 
 https://twitter.com/@getmorejamie
 
