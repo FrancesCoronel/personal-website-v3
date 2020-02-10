@@ -1,6 +1,6 @@
 ---
 title: "Episode 13. Christina Ou"
-date: 2019-12-30
+date: 2020-01-07
 description: "Product Designer, Percolate"
 image: https://i.imgur.com/vdgndAo.png
 link: https://www.linkedin.com/in/christinaou/
@@ -15,6 +15,8 @@ tags:
   - tech queens
   - women of color in tech
 ---
+
+Originally recorded September 11, 2019.
 
 What is your advice for working in environments that are predominantly male? What are some tangible ways we can increase diversity in tech?
 

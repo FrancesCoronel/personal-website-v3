@@ -44,7 +44,7 @@ Might have something to do with human nature in general, though, so interpret it
 
 ```txt
 Software Engineer @SlackHQ ¶
-Co-Director @Techqueria ¶
+Executive Director @Techqueria ¶
 Host of @TechQueensPod ¶
 Peruvian-American ¶
 

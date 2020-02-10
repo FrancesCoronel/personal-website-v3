@@ -12,7 +12,7 @@ aliases:
 
 Hiya there! 👋🏽
 
-My name is Frances and I'm currently Co-Director of [Techqueria](https://techqueria.org), a 501c3 nonprofit that serves the largest community of Latinx in Tech and also supports [various open-source projects](https://github.com/techqueria). 🌮
+My name is Frances and I'm currently an Executive Director of [Techqueria](https://techqueria.org), a 501c3 nonprofit that serves the largest community of Latinx in Tech and also supports [various open-source projects](https://github.com/techqueria). 🌮
 
 While Techqueria encompasses most of my time nowadays, other projects I maintain include:
 

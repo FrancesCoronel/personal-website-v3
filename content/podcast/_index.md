@@ -17,29 +17,13 @@ aliases:
 
 ## Tech Queens is first and only podcast that focuses solely on the stories and advice shared by women of color in tech. 🎙️👑
 
-> Update: 11/03/19
-
-Season 1 of Tech Queens is going to end strong with **15 episodes**.
-
-There have been **10 episodes released so far** with 5 more on the way:
-
-- Elena Astilleros
-- Jamie Renee Williams
-- Christina Ou
-- Marciana Davis
-- Alexis Lucio
-
-Season 2 will be ramping up again in 2020 with a new host.
-
-I'm [looking for the new host](/2019/11/03/looking-for-the-next-host-of-tech-queens/) now — let me know if you're interested!
+> **Update 01/06/2020** Season 1 has ended with 15 episodes. Jamie's episode needs to be updated due to some background noise. A new host has been chosen for Season 2 which will be ramping up again in the next few months.
 
 ---
 
 Twitter 🐦 https://twitter.com/TechQueensPod
 
 Instagram 📸 https://instagram.com/TechQueensPod
-
-Facebook 💬 https://facebook.com/TechQueensPod
 
 Website 🌐 https://techqueenspod.com
 

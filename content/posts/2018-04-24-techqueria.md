@@ -1,6 +1,6 @@
 ---
 title: Techqueria
-description: "Co-Director & Board Member 🌮"
+description: "Executive Director & Board Member 🌮"
 date: 2018-04-24
 currentPosition: true
 image: https://i.imgur.com/VMrVGbe.png
