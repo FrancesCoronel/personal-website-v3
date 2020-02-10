@@ -19,7 +19,7 @@ tags:
 
 ## Recording
 
-<iframe loading="lazy" src="https://anchor.fm/tech-queens/embed/episodes/Episode-3--Lupita-Davila-e42bfi" frameborder="0" scrolling="no" class="mt-1-sm" width="100%" height="auto"></iframe>
+<iframe loading="lazy" src="https://anchor.fm/tech-queens/embed/episodes/Episode-3--Lupita-Davila-e42bfi" frameborder="0" scrolling="no" class="u-margin-top--1-sm" width="100%" height="auto"></iframe>
 
 ## Lupita Davila
 

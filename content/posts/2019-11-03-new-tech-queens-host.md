@@ -15,7 +15,7 @@ Since then, I've released 10 episodes (~1 hour each) and reached 1,300+ total pl
 
 Tech Queens is also available on all the major podcasting platforms — Spotify, Apple Podcasts, Google Podcasts, and others.
 
-<div class="section-banners u-flex--center mt-2 mb-2 v--podcast">
+<div class="section-banners u-flex--center u-margin-top--2 u-margin-bottom--2 v--podcast">
   <!-- Anchor -->
   <a href="https://anchor.fm/tech-queens" rel="noopener" target="_blank"><img alt="Tech Queens on Anchor" class="lozad" data-src="/assets/img/podcast/listen/anchor.svg" loading="lazy" src="/assets/img/podcast/listen/anchor.svg" title="Tech Queens on Anchor"></a>
   <!-- Apple Podcasts -->

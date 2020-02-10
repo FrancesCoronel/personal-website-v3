@@ -46,7 +46,7 @@ I'll do my best to get back to you within 2 weeks.
     </div>
   </div>
   <div data-netlify-recaptcha="true"></div>
-  <div class="field mt-sm">
+  <div class="field u-margin-top--sm">
     <div class="control">
       <button type="submit" class="button is-link">Send message</button>
     </div>

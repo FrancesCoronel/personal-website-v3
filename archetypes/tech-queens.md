@@ -18,7 +18,7 @@ tags:
 
 ## Recording
 
-<iframe loading="lazy" src="" frameborder="0" scrolling="no" class="mt-1-sm" width="100%" height="auto"></iframe>
+<iframe loading="lazy" src="" frameborder="0" scrolling="no" class="u-margin-top--1-sm" width="100%" height="auto"></iframe>
 
 ## XYZ
 

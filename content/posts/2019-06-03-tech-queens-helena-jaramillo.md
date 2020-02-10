@@ -19,7 +19,7 @@ tags:
 
 ## Recording
 
-<iframe loading="lazy" src="https://anchor.fm/tech-queens/embed/episodes/Episode-6--Helena-Jaramillo-e42bhg/a-afee68" frameborder="0" scrolling="no" class="mt-1-sm" width="100%" height="auto"></iframe>
+<iframe loading="lazy" src="https://anchor.fm/tech-queens/embed/episodes/Episode-6--Helena-Jaramillo-e42bhg/a-afee68" frameborder="0" scrolling="no" class="u-margin-top--1-sm" width="100%" height="auto"></iframe>
 
 ## Helena Jaramillo
 
