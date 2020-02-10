@@ -11,7 +11,8 @@ const CompressionPlugin = require("compression-webpack-plugin");
 module.exports = {
   mode: "production",
   module: {
-    rules: [{
+    rules: [
+      {
         test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/,
         loader: "url-loader"
       },
@@ -53,14 +54,15 @@ module.exports = {
     new WorkboxPlugin.InjectManifest({
       swDest: "sw.js",
       globDirectory: "./dist",
-      globPatterns: ["index.html", "404.html", "**/*.{js,css,png,svg,jpg,jpeg}"],
+      globPatterns: ["index.html", "404.html", "**/*.{js,css,png,svg,jpg,jpeg}"]
     }),
     new WorkboxPlugin.GenerateSW({
       cacheId: "fvcproductions",
       offlineGoogleAnalytics: true,
       clientsClaim: true,
       skipWaiting: true,
-      runtimeCaching: [{
+      runtimeCaching: [
+        {
           urlPattern: /index.html/,
           handler: "NetworkFirst"
         },
@@ -71,7 +73,7 @@ module.exports = {
             cacheName: "fvcproductions-posts-cache",
             expiration: {
               maxEntries: 50
-            },
+            }
           }
         },
         {
@@ -80,9 +82,9 @@ module.exports = {
           options: {
             cacheName: "fvcproductions-images-cache",
             expiration: {
-              maxEntries: 20,
-            },
-          },
+              maxEntries: 20
+            }
+          }
         },
         {
           urlPattern: new RegExp("https://twemoji.maxcdn.com"),
@@ -105,6 +107,6 @@ module.exports = {
   },
   output: {
     filename: path.join("assets", "js", "[name].js"),
-    path: path.join(__dirname, "dist"),
+    path: path.join(__dirname, "dist")
   }
 };
