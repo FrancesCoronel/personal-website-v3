@@ -17,7 +17,7 @@ aliases:
 
 ## Tech Queens is first and only podcast that focuses solely on the stories and advice shared by women of color in tech. 🎙️👑
 
-> **Update 01/06/2020** Season 1 has ended with 15 episodes. Jamie's episode needs to be updated due to some background noise. A new host has been chosen for Season 2 which will be ramping up again in the next few months.
+> **Update 02/10/2020** Season 1 will end with 15 episodes. Jamie's episode needs to be updated due to some background noise. A new host has been chosen for Season 2 which will be ramping up again sometime later in 2020.
 
 ---
 
