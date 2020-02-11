@@ -20,7 +20,7 @@ Originally recorded August 15, 2019.
 
 ## Recording
 
-<iframe loading="lazy" src="https://anchor.fm/tech-queens/embed/episodes/Episode-11--Elena-Astilleros-ea1ft7" frameborder="0" scrolling="no" class="mt-1-sm" width="100%" height="auto"></iframe>
+<iframe loading="lazy" src="https://anchor.fm/tech-queens/embed/episodes/Episode-11--Elena-Astilleros-ea1ft7" frameborder="0" scrolling="no" class="u-margin-top--1-sm" width="100%" height="auto"></iframe>
 
 ## Picture
 

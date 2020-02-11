@@ -19,7 +19,7 @@ tags:
 
 ## Recording
 
-<iframe loading="lazy" src="https://anchor.fm/tech-queens/embed/episodes/Episode-7--Faith-Chikwekwe-e42bip/a-afee9p" frameborder="0" scrolling="no" class="mt-1-sm" width="100%" height="auto"></iframe>
+<iframe loading="lazy" src="https://anchor.fm/tech-queens/embed/episodes/Episode-7--Faith-Chikwekwe-e42bip/a-afee9p" frameborder="0" scrolling="no" class="u-margin-top--1-sm" width="100%" height="auto"></iframe>
 
 ## Faith Chikwekwe
 

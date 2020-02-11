@@ -32,7 +32,7 @@ aliases:
 <script type="text/javascript" src="https://shop.spreadshirt.com/shopfiles/shopclient/shopclient.nocache.js">
 </script>
 
-<div class="content mt-2">
+<div class="content u-margin-top--2">
   <p><b>Crown Emoji was originally designed by Twitter.</b></p>
   <p>Copyright 2018 Twitter, Inc and other contributors</p>
   <p>Graphics licensed under CC-BY 4.0: <a href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></p>
