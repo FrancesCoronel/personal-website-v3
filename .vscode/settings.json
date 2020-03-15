@@ -16,5 +16,11 @@
   "workbench.settings.enableNaturalLanguageSearch": false,
   "[html]": {
     "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
   }
 }

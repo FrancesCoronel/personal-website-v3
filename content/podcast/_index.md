@@ -17,17 +17,7 @@ aliases:
 
 ## Tech Queens is first and only podcast that focuses solely on the stories and advice shared by women of color in tech. 🎙️👑
 
-> **Update 02/10/2020** Season 1 will end with 15 episodes. Jamie's episode needs to be updated due to some background noise. A new host has been chosen for Season 2 which will be ramping up again sometime later in 2020.
-
----
-
-Twitter 🐦 https://twitter.com/TechQueensPod
-
-Instagram 📸 https://instagram.com/TechQueensPod
-
-Website 🌐 https://techqueenspod.com
-
-`#TechQueens`
+> **Update 3/14/20** Tech Queens is being discontinued after 1 year of recording episodes. I'm focusing on my work with [Techqueria](https://techqueria.org). If you're interested in taking it over, feel free to reach out!
 
 ### 💬 Why did I start this podcast?
 
@@ -46,3 +36,13 @@ As [Figure 1.1](https://www.ncwit.org/sites/default/files/resources/womenintech_
 This stat is just one part of the reason this podcast will exclusively serve to highlight thriving women of color in tech and inspire or encourage others to enter the industry and thrive themselves so they too can leverage their unique skills and perspectives for technological innovation and social change in the workplace of the future.
 
 ![Percentage of Computing Occupations Held By Women](/assets/img/podcast/tech-queens-stats.png)
+
+## Social Media
+
+Twitter 🐦 https://twitter.com/TechQueensPod
+
+Instagram 📸 https://instagram.com/TechQueensPod
+
+Website 🌐 https://techqueenspod.com
+
+`#TechQueens`

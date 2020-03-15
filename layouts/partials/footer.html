@@ -16,7 +16,8 @@
       <div class="section">
         {{ $latestPost := where .Site.RegularPages "Date.Local" "lt" now | first 1 }}
         {{ range $latestPost }}
-        <p>Latest post was published on <a href="{{ .RelPermalink }}" rel="noopener">{{ dateFormat "January 2, 2006" .Date }}</a>.</p>
+        <p>Latest post was published on <a href="{{ .RelPermalink }}"
+            rel="noopener">{{ dateFormat "January 2, 2006" .Date }}</a>.</p>
         {{ end }}
       </div>
       <div class="footer-links__main u-padding-top--2 u-padding--1">
@@ -25,28 +26,32 @@
             <ul>
               <li><a href="/" rel="noopener" title="Homepage" class="u-margin-bottom--1">Homepage</a></li>
               {{ range first 7 $pages.ByTitle }}
-              <li><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="u-margin-bottom--1">{{ .Title }}</a></li>
+              <li><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}"
+                  class="u-margin-bottom--1">{{ .Title }}</a></li>
               {{ end }}
             </ul>
           </div>
           <div class="column">
             <ul>
               {{ range first 8 (after 7 $pages.ByTitle) }}
-              <li><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="u-margin-bottom--1">{{ .Title }}</a></li>
+              <li><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}"
+                  class="u-margin-bottom--1">{{ .Title }}</a></li>
               {{ end }}
             </ul>
           </div>
           <div class="column">
             <ul>
               {{ range first 8 (after 15 $pages.ByTitle) }}
-              <li><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="u-margin-bottom--1">{{ .Title }}</a></li>
+              <li><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}"
+                  class="u-margin-bottom--1">{{ .Title }}</a></li>
               {{ end }}
             </ul>
           </div>
           <div class="column">
             <ul>
               {{ range first 8 (after 23 $pages.ByTitle) }}
-              <li><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="u-margin-bottom--1">{{ .Title }}</a></li>
+              <li><a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}"
+                  class="u-margin-bottom--1">{{ .Title }}</a></li>
               {{ end }}
             </ul>
           </div>
@@ -55,9 +60,18 @@
     </div>
   </div>
   <!-- Copyright -->
-  <div class="footer__legal u-padding-top--2 u-padding-bottom--2">
+  <div class="footer__legal u-padding-top--2">
     <div class="container has-text-centered content section">
-      <p>©️ Copyright {{ with .Site.Params.year }} {{ . }} {{ end }} to {{ now.Year }} <a href="/" target="_blank" rel="noopener" title="{{ .Site.Title }}">{{ .Site.Title }}</a>. All rights reserved.</p>
+      <p>©️ Copyright {{ with .Site.Params.year }} {{ . }} {{ end }} to {{ now.Year }} <a href="/" target="_blank"
+          rel="noopener" title="{{ .Site.Title }}">{{ .Site.Title }}</a>. All rights reserved.</p>
+    </div>
+  </div>
+  <!-- Netlify -->
+  <div class="footer__legal u-padding-bottom--2 netlify-badge">
+    <div class="container has-text-centered section">
+      <a target="_blank" rel="noopener" href="https://www.netlify.com/?source=techqueria">
+        {{ partialCached "custom/netlify-badge.html" . }}
+      </a>
     </div>
   </div>
 </footer>
