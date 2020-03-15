@@ -17,7 +17,7 @@ aliases:
 
 ## Tech Queens is first and only podcast that focuses solely on the stories and advice shared by women of color in tech. 🎙️👑
 
-> **Update 3/14/20** Tech Queens is being discontinued after 1 year of recording episodes. I'm focusing on my work with [Techqueria](https://techqueria.org). If you're interested in taking it over, feel free to reach out!
+> **Update 3/14/20** Tech Queens is being discontinued after 1 year of recording episodes. I'm focusing on my work with [Techqueria](https://techqueria.org). If you're interested in taking it over, feel free to reach out.
 
 ### 💬 Why did I start this podcast?
 

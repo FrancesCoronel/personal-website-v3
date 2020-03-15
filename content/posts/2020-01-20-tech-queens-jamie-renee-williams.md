@@ -1,6 +1,6 @@
 ---
 title: "Episode 12. Jamie Renee Williams"
-date: 2019-01-07
+date: 2019-01-20
 description: "Designer & Developer, Emma Sudden"
 image: https://i.imgur.com/NDMClP9.jpg
 link: https://www.linkedin.com/in/getmorejamie/
@@ -23,3 +23,5 @@ https://twitter.com/@getmorejamie
 https://getmorejamie.io
 
 How do you start to build a network of people in tech when you know no one?
+
+Monday, January 20, 2020

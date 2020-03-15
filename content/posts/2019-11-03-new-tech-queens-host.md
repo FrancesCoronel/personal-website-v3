@@ -7,6 +7,8 @@ categories:
   - blog
 ---
 
+> **Update 3/14/20** Tech Queens is being discontinued after 1 year of recording episodes. I'm focusing on my work with [Techqueria](https://techqueria.org). If you're interested in taking it over, feel free to reach out.
+
 [Tech Queens](/podcast/) is the first and only podcast that focuses on the stories and advice shared by women of color in tech.
 
 I started Tech Queens as a side project back on March 8th of this year (also International Women's Day).

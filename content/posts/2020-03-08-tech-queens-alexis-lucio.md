@@ -1,6 +1,6 @@
 ---
 title: "Episode 15. Alexis Lucio"
-date: 2020-01-07
+date: 2020-03-08
 description: "UX Designer, Splunk"
 image: https://i.imgur.com/XB8V1fO.jpg
 link: https://www.linkedin.com/in/alexislucio/

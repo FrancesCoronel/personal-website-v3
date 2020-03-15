@@ -9,15 +9,15 @@ noTimeEstimate: true
 toc: true
 url: /about/
 aliases:
-- /home/about/
-- /about-me/
-- /bio/
-- /bios/
-- /biography/
-- /profiles/
-- /online-presence/
-- /links/
-- /offline/
+  - /home/about/
+  - /about-me/
+  - /bio/
+  - /bios/
+  - /biography/
+  - /profiles/
+  - /online-presence/
+  - /links/
+  - /offline/
 ---
 
 Hi, I'm Frances! 👋🏽
@@ -133,3 +133,50 @@ Missing in action are my brother, relatives and friends. When Google makes anima
 - Venmo https://venmo.com/fvcproductions
 - WakaTime https://wakatime.com/@fvcproductions
 - YouTube https://youtube.com/+fvcproductions2013
+
+## Life Timeline
+
+| Date           | Emoji | Event                                                                  |
+| -------------- | ----- | ---------------------------------------------------------------------- |
+| 1995 October   | 👶🏽  | Born in Newport News, VA to Peruvian immigrants                        |
+| 1998 September | 🎓    | Started Pre-K                                                          |
+| 2001 September | 🎓    | Started elementary school                                              |
+| 2006 January   | 🐶    | Got my first dog, Nefer                                                |
+| 2006 September | 🎓    | Started middle school                                                  |
+| 2009 September | 🎓    | Started high school                                                    |
+| 2010 June      | 🎓    | First college class at Tidewater Community College                     |
+| 2011 June      | 🎓    | Took summer college classes at Hampton University                      |
+| 2011 August    | 👥    | First international conference                                         |
+| 2012 Summer    | 💛    | Volunteered for an international medical mission                       |
+| 2012 Summer    | 🎓    | Studied wildlife in Tanzania                                           |
+| 2013 June      | 🎓    | Graduated from high school                                             |
+| 2013 June      | 🌐    | Started fvcproductions.com                                             |
+| 2013 June      | 🎓    | Took summer college classes again at Tidewater Community College       |
+| 2013 August    | 🎓    | Studied abroad at Jacobs University Bremen                             |
+| 2014 January   | 🎓    | Started at Hampton University                                          |
+| 2014 August    | 👥    | First tech conference                                                  |
+| 2014 October   | 👥    | First hackathon                                                        |
+| 2015 June      | 🎓    | Summer of Code at Fullstack Academy                                    |
+| 2015 October   | 💼    | First client dev project completed                                     |
+| 2015 November  | 💼    | First developer job with 80/20                                         |
+| 2015 November  | 💬    | First talk at a tech conference                                        |
+| 2016 May       | 🎓    | Graduated from Hampton University with a Bachelors in Computer Science |
+| 2016 May       | 💘    | Started dating Nolan                                                   |
+| 2016 Summer    | 💼    | Interned for Accenture on AR/VR team                                   |
+| 2016 August    | 🎓    | Started at Cornell Tech                                                |
+| 2017 May       | 🎓    | Graduated from Cornell Tech with a Masters in Computer Science         |
+| 2017 June      | 💼    | Started at Accenture as a software engineer                            |
+| 2018 May       | 💼    | Left Accenture                                                         |
+| 2018 June      | 💼    | Started at Slack as a software engineer                                |
+| 2018 August    | 💘    | Nolan moves in                                                         |
+| 2018 April     | 🌮    | Started working on Techqueria's website                                |
+| 2018 November  | 🌮    | Became an admin for Techqueria's Slack                                 |
+| 2019 March     | 🌮    | Joined as a board member of Techqueria                                 |
+| 2019 March     | 👑    | Start the Tech Queens podcast                                          |
+| 2019 July      | 💬    | Reached 50 speaking engagements                                        |
+| 2019 August    | 🌮    | Started acting as co-director for Techqueria                           |
+| 2020 January   | 🌮    | Officially an executive director for Techqueria                        |
+| 2020 March     | 👑    | Discontinue the Tech Queens podcast to focus on Slack & Techqueria     |
+| 2020 March     | 💼    | Promoted at Slack                                                      |
+| 2021           | 💔    | Nefer probably dead at 15 💔                                           |
+| 2095           | 💀    | Death (?!?)                                                            |

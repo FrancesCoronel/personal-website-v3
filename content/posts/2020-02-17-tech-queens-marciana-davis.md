@@ -1,6 +1,6 @@
 ---
 title: "Episode 14. Marciana Davis"
-date: 2019-01-07
+date: 2019-02-17
 description: "Salesforce Administrator, MAL Inc"
 image: https://i.imgur.com/YeAuz1N.jpg
 link: https://www.linkedin.com/in/travelingdev/

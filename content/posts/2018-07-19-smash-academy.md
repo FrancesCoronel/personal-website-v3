@@ -10,6 +10,8 @@ categories:
   - volunteering
 tags:
   - breaking-into-tech
+  - smash academy
+  - stanford
 ---
 
 ## Name
@@ -37,6 +39,15 @@ SMASH is a free of cost, STEM-intensive college preparatory program for underrep
 This state of the art program is run in partnership with several universities, including UC Berkeley, UCLA, UC Davis, and Stanford University.
 
 I presented my career path, moments of resilience and some key advice as one of three speakers for the SMASH Speaker Series at Stanford University on July 19th, 2018 from 7 pm to 9 pm.
+
+## More Context
+
+
+SMASH Academy, our flagship program, is a three-year STEM- intensive residential college prep program that empowers students to deepen their talents and pursue STEM careers. Every summer, scholars are immersed in tuition-free studies at leading universities throughout the country. During the academic year, scholars participate in monthly programming.
+
+The SMASH Speaker Series connects professionals in the STEM field and beyond with SMASH scholars to introduce them to different backgrounds and academic/career pathways.
+
+During this evening, your experiences and insights will provide our scholars the opportunity to learn various pathways in STEM and other careers, both academically and professionally.
 
 ### Slides
 
