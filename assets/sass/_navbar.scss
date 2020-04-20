@@ -15,10 +15,6 @@
     margin: 0 auto;
     text-align: center;
 
-    @media screen and (min-width: $laptop) {
-      display: flex;
-    }
-
     &__social {
       display: flex;
       justify-content: center;
@@ -31,6 +27,14 @@
     .nav-item {
       position: relative;
       margin: 0 1em;
+
+      @media screen and (max-width: $mobile-l) {
+        margin-bottom: 0.5em;
+
+        :last-child {
+          margin: 0;
+        }
+      }
 
       @media screen and (min-width: $laptop) {
         margin: 0;
@@ -59,9 +63,19 @@
         }
 
         &:hover:after {
-          width: 100%;
+          width: 75%;
           border-bottom: 3px solid;
         }
+      }
+    }
+
+    @media screen and (min-width: $tablet) {
+      display: flex;
+    }
+
+    @media screen and (max-width: $mobile-l) {
+      :last-child {
+        margin: 0;
       }
     }
   }

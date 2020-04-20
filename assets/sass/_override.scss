@@ -14,7 +14,6 @@
 }
 
 .button {
-  font-size: initial;
   padding: .5em 1em;
 }
 
@@ -42,6 +41,16 @@
       margin-left: 0;
     }
   }
+
+  @media screen and (max-width: $mobile-l) {
+    a {
+      margin: 0;
+    }
+
+    a:first-child {
+      margin-bottom: 1em;
+    }
+  }
 }
 
 .breadcrumb {
@@ -58,4 +67,10 @@
 
 .no-box-shadow {
   box-shadow: none !important;
+}
+
+@media screen and (max-width: $mobile-m) {
+  .is-size-1 {
+    font-size: 2em !important;
+  }
 }

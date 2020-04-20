@@ -1,7 +1,7 @@
 <div class="section u-padding-top--2 u-padding-bottom--2">
   <div class="container">
     <nav aria-label="Primary Navigation" class="navigation">
-      <a class="logo u-margin-bottom--sm is-size-2" href="/">
+      <a class="logo u-margin-bottom--sm is-size-1" href="/">
         <span class="symbol">
           <img alt="FVCproductions - Logo" data-src="/assets/img/logo.svg" src="/assets/img/logo.svg" width="100px">
         </span>
@@ -14,7 +14,8 @@
         {{ range $homePages.ByTitle }}
         {{ if .Params.navbar }}
         <li class="nav-item">
-          <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}" class="menu-item is-capitalized">{{ .Title }}</a>
+          <a href="{{ .RelPermalink }}" rel="noopener" title="{{ .Title }}"
+            class="menu-item is-capitalized">{{ .Title }}</a>
         </li>
         {{ end }}
         {{ end }}

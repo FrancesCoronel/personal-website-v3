@@ -15,9 +15,39 @@ aliases:
   - /book-me-to-speak/
 ---
 
+## LinkedIn 💼️
+
+If you'd like to stay in touch professionally, don't hesitate to [connect with me on LinkedIn](https://linkedin.com/in/fvcproductions).
+
+## Book a Chat 📅
+
+You can schedule a time to chat with me using [my Calendly](https://calendly.com/fvcproductions).
+
+I charge $25 dollars for every 30 minutes if it is a mentoring session (career advice, resume review, etc).
+
+You can pay through [Square Cash](https://cash.me/fvcprdxs/25), [Venmo](https://venmo.com/fvcproductions/25) or [PayPal](https://paypal.me/fvcproductions/25).
+
+Please make sure to pay this amount before booking a mentoring session through my Calendly or I will have to reschedule/cancel the session.
+
+## Invite Me to Speak 💬
+
+For speaking engagements, I require an honorarium. For events outside San Francisco, I also require reimbursement for flights, ground transportation, hotel accomodations and meals. I am flexible to negotiation on the honorarium for community-driven or non-profit events.
+
+You can find my bio and headshot phot on [my about page](/about/).
+
+You can find all the events I've spoken at [my speaking page](/speaking/) and a sampling of the different types of talks I've given [on my talks page](/talks/).
+
+If you are interested in inviting me to speak, please use the contact form and feel free to touch on the points below.
+
+- What are the topics to be covered in the talk?
+- What does the audience makeup look like?
+- What is the expected number of attendees for my talk or the event overall?
+- What is the budget for honorariums?
+- What is the budget for travel/hotel?
+
 ## Contact Form
 
-I'll do my best to get back to you within 2 weeks.
+I'll do my best to get back to you within 2 weeks. Upon submission of this form, I will be sent an email.
 
 <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true" class="form">
   <input type="hidden" name="_subject" value="FVCproductions - New Contact Message">
@@ -52,41 +82,3 @@ I'll do my best to get back to you within 2 weeks.
     </div>
   </div>
 </form>
-
-## Twitter 🐦
-
-For a quick question, feel free to [DM me on Twitter](https://twitter.com/fvcproductions).
-
-## LinkedIn 💼️
-
-If you'd like to stay in touch professionally, don't hesitate to [connect with me on LinkedIn](https://linkedin.com/in/fvcproductions).
-
-## Book a Chat 📅
-
-You can schedule a time to chat with me using [my Calendly](https://calendly.com/fvcproductions).
-
-For mentoring, the first 30 minute session you book with me is free in exchange for [a LinkedIn recommendation](https://www.linkedin.com/recs/give?senderId=fvcproductions) submitted after the session.
-
-For following sessions, I charge 25 dollars for every 30 minutes.
-
-By agreeing to the mentoring session, you also agree to have yourself added to [the mentees section of my website](/mentoring/).
-
-You can pay through [Square Cash](https://cash.me/fvcprdxs) or [Venmo](https://venmo.com/fvcproductions) but I'm flexible with platforms.
-
-Please make sure to pay this amount before booking a mentoring session through my Calendly or I will have to reschedule/cancel the session.
-
-## Invite Me to Speak 💬
-
-For speaking engagements, I require an honorarium. For events outside San Francisco, I also require reimbursement for flights, ground transportation, hotel accomodations and meals. I am flexible to negotiation on the honorarium for community-driven or non-profit events.
-
-You can find my bio and headshot phot on [my about page](/about/).
-
-You can find all the events I've spoken at [my speaking page](/speaking/) and a sampling of the different types of talks I've given [on my talks page](/talks/).
-
-If you are interested in inviting me to speak, please feel free to use the contact form above and be sure to touch on the points below.
-
-- What are the topics to be covered in the talk?
-- What does the audience makeup look like?
-- What is the expected number of attendees for my talk or the event overall?
-- What is the budget for honorariums?
-- What is the budget for travel/hotel?

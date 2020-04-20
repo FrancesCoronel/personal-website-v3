@@ -113,9 +113,23 @@
       box-shadow: none;
     }
 
+    &.box-shadow-on-hover {
+      -webkit-box-shadow: none;
+      box-shadow: none;
+
+      &:hover {
+        @extend %image-shadow;
+      }
+    }
+
     p,
     a & {
       text-align: center;
+    }
+
+    a::after & {
+      content: none !important;
+      display: none;
     }
   }
 
@@ -129,5 +143,21 @@
 
   .content-info {
     margin: 1em 0;
+  }
+}
+
+.c-image-showcase {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  img {
+    width: 100%;
+
+    ::after {
+      content: none !important;
+      display: none;
+    }
   }
 }

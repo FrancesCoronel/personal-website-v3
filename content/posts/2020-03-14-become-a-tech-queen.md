@@ -1,10 +1,10 @@
 ---
-title: Become a Tech Queen
+title: "Become a Tech Queen - Deprecated March 2020"
+date: 2020-03-14
 description: "All the info you need if you're interested in being on the podcast. 🔖"
 image: "/assets/img/podcast/tech-queens-format.jpg"
 noComments: true
 noTimeEstimate: true
-url: /tech-queens/episode-format/
 aliases:
   - /podcast-format/
   - /episode-format/
@@ -12,7 +12,17 @@ aliases:
   - /tech-queens/become-a-queen/
   - /tech-queens/contact-form/
   - /tech-queens/invite/
+  - /tech-queens/episode-format/
+  - /buy/
+  - /merch/
+  - /purchase/
+  - /shop/
+  - /store/
+  - /tech-queens/shop/
+  - /tech-queens/store/
 ---
+
+> Update: This page is no longer applicable since Tech Queens ended (March 2019 to March 2020).
 
 ## Welcome, future Tech Queen! 👑 <!-- omit in toc -->
 
@@ -273,3 +283,34 @@ Music by Jukedeck - create your own at [jukedeck.com](https://jukedeck.com).
 - If you forget to define something, I’ll let you know in the form of the question
 - What do you want to get out of this podcast, what do you want listeners to come away with?
 - Did you send me your high-res photo and avatar?
+
+## Sponsor Tiers
+
+### Online Boost - $25 per episode
+
+- Logo on website under Sponsor section permanently
+- Recognition on social media 1 time
+- Shoutout and logo in episode show notes
+
+### Episode Boost - $50 per episode
+
+- Logo on website under Sponsor section permanently
+- Mention at end of episode
+- Recognition on social media 2 times
+- Shoutout and logo in episode show notes
+
+### Preroll Ad - $75 per episode
+
+- 60 second read at the beginning of the show
+- Logo on website under Sponsor section permanently
+- Mention at end of episode
+- Recognition on social media 3 times
+- Shoutout and logo in episode show notes
+
+### Midroll Ad - $100 per episode
+
+- 30 second read during the middle of the show
+- Logo on website under Sponsor section permanently
+- Mention at beginning & end of show
+- Recognition on social media 4 times
+- Shoutout and logo in episode show notes
