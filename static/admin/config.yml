@@ -1,6 +1,7 @@
 # Backend
 backend:
   name: git-gateway
+  repo: fvcproductions/fvcproductions.github.io
   branch: production
 
 # Publish Mode
@@ -8,22 +9,33 @@ publish_mode: editorial_workflow
 
 # Folder where user uploaded files should go
 # Media files will be stored in the repo under static/files
-media_folder: "static/files"
+media_folder: "assets"
 
 # The src attribute for uploaded media will begin with /images/uploads
-public_folder: "/files"
+public_folder: "/assets/img"
+
+# The site_url setting should provide a URL to your published site. May be used by the CMS for various functionality. Used together with a collection's preview_path to create links to live content.
+site_url: https://fvcproductions.com
+
+# When the logo_url setting is specified, the CMS UI will change the logo displayed at the top of the login page, allowing you to brand the CMS with your own logo. logo_url is assumed to be a URL to an image file.
+logo_url: https://fvcproductions.com/assets/img/logo.svg
 
 # A list of collections the CMS should be able to edit
 collections:
   - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Posts" # Used in the UI, ie.: "New Post"
-    folder: "site/content/posts" # The path to the folder where the documents are stored
+    folder: "content/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    preview_path: "{{year}}/{{month}}/{{day}}/{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "URL", name: "title", widget: "string"}
+      - {label: "No Comments", name: "noComments", widget: "boolean"}
+      - {label: "No Time Estimate", name: "noTimeEstimate", widget: "boolean"}
       - {label: "Categories", name: "categories", required: false, widget: "list"}
       - {label: "Tags", name: "tags", required: false, widget: "list"}
+      - [label: "Aliases", name: "aliases", required: false, widget: "list"]
+      - {label: "Body", name: "body", widget: "markdown"}
