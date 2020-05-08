@@ -56,50 +56,7 @@ module.exports = {
       globDirectory: "./dist",
       globPatterns: ["index.html", "404.html", "**/*.{js,css,png,svg,jpg,jpeg}"]
     }),
-    new WorkboxPlugin.GenerateSW({
-      cacheId: "fvcproductions",
-      offlineGoogleAnalytics: true,
-      clientsClaim: true,
-      skipWaiting: true,
-      runtimeCaching: [
-        {
-          urlPattern: /index.html/,
-          handler: "NetworkFirst"
-        },
-        {
-          urlPattern: /\.(?:html)$/,
-          handler: "NetworkFirst",
-          options: {
-            cacheName: "fvcproductions-posts-cache",
-            expiration: {
-              maxEntries: 50
-            }
-          }
-        },
-        {
-          urlPattern: /\.(?:png|gif|jpg|svg|ico|jpeg|css|js)$/,
-          handler: "CacheFirst",
-          options: {
-            cacheName: "fvcproductions-images-cache",
-            expiration: {
-              maxEntries: 20
-            }
-          }
-        },
-        {
-          urlPattern: new RegExp("https://twemoji.maxcdn.com"),
-          handler: "StaleWhileRevalidate"
-        },
-        {
-          urlPattern: new RegExp("https://i.imgur.com"),
-          handler: "StaleWhileRevalidate"
-        },
-        {
-          urlPattern: new RegExp("https://www.google-analytics.com"),
-          handler: "StaleWhileRevalidate"
-        }
-      ]
-    })
+    new WorkboxPlugin.GenerateSW()
   ],
   context: path.join(__dirname, "assets"),
   entry: {

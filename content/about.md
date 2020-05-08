@@ -45,7 +45,7 @@ Might have something to do with human nature in general, though, so interpret it
 ```txt
 Software Engineer @SlackHQ ¶
 Executive Director @Techqueria ¶
-Host of @TechQueensPod ¶
+Supporting @itsCodeNation @LatinoCommFdn ¶
 Peruvian-American ¶
 
 #LatinxInTech #LatinxTechTwitter
@@ -53,7 +53,7 @@ Peruvian-American ¶
 
 ### Short
 
-Frances Coronel is a software engineer specializing in UI development on the Customer Acquisition Team at Slack where her mission is to make your working life simpler, more pleasant and more productive.
+Frances Coronel is a software engineer at Slack and the Co-Director of Techqueria.
 
 ### First Person Bio
 
@@ -91,11 +91,7 @@ Starting in May 2015, Frances started working with her first client and initiall
 
 All in all, FVCproductions is how Frances is trying to give back to the community.
 
-## Some of my favorite people
-
-Featuring my boo, my dog, my papa, my mama, my sister, my boo's mom and dad, my boo's nieces and me! 🤗
-
-Missing in action are my brother, relatives and friends. When Google makes animated GIFs of them, I will add them here. 😂
+## Random GIFs
 
 {{< favorite-people >}}
 
@@ -136,47 +132,49 @@ Missing in action are my brother, relatives and friends. When Google makes anima
 
 ## Life Timeline
 
-| Date           | Emoji | Event                                                                  |
-| -------------- | ----- | ---------------------------------------------------------------------- |
-| 1995 October   | 👶🏽     | Born in Newport News, VA to Peruvian immigrants                        |
-| 1998 September | 🎓     | Started Pre-K                                                          |
-| 2001 September | 🎓     | Started elementary school                                              |
-| 2006 January   | 🐶     | Got my first dog, Nefer                                                |
-| 2006 September | 🎓     | Started middle school                                                  |
-| 2009 September | 🎓     | Started high school                                                    |
-| 2010 June      | 🎓     | First college class at Tidewater Community College                     |
-| 2011 June      | 🎓     | Took summer college classes at Hampton University                      |
-| 2011 August    | 👥     | First international conference                                         |
-| 2012 Summer    | 💛     | Volunteered for an international medical mission                       |
-| 2012 Summer    | 🎓     | Studied wildlife in Tanzania                                           |
-| 2013 June      | 🎓     | Graduated from high school                                             |
-| 2013 June      | 🌐     | Started fvcproductions.com                                             |
-| 2013 June      | 🎓     | Took summer college classes again at Tidewater Community College       |
-| 2013 August    | 🎓     | Studied abroad at Jacobs University Bremen                             |
-| 2014 January   | 🎓     | Started at Hampton University                                          |
-| 2014 August    | 👥     | First tech conference                                                  |
-| 2014 October   | 👥     | First hackathon                                                        |
-| 2015 June      | 🎓     | Summer of Code at Fullstack Academy                                    |
-| 2015 October   | 💼     | First client dev project completed                                     |
-| 2015 November  | 💼     | First developer job with 80/20                                         |
-| 2015 November  | 💬     | First talk at a tech conference                                        |
-| 2016 May       | 🎓     | Graduated from Hampton University with a Bachelors in Computer Science |
-| 2016 May       | 💘     | Started dating Nolan                                                   |
-| 2016 Summer    | 💼     | Interned for Accenture on AR/VR team                                   |
-| 2016 August    | 🎓     | Started at Cornell Tech                                                |
-| 2017 May       | 🎓     | Graduated from Cornell Tech with a Masters in Computer Science         |
-| 2017 June      | 💼     | Started at Accenture as a software engineer                            |
-| 2018 May       | 💼     | Left Accenture                                                         |
-| 2018 June      | 💼     | Started at Slack as a software engineer                                |
-| 2018 August    | 💘     | Nolan moves in                                                         |
-| 2018 April     | 🌮     | Started working on Techqueria's website                                |
-| 2018 November  | 🌮     | Became an admin for Techqueria's Slack                                 |
-| 2019 March     | 🌮     | Joined as a board member of Techqueria                                 |
-| 2019 March     | 👑     | Start the Tech Queens podcast                                          |
-| 2019 July      | 💬     | Reached 50 speaking engagements                                        |
-| 2019 July      | 🌮     | Voted in as CTO for Techqueria                                         |
-| 2020 January   | 🌮     | Voted in as an executive director for Techqueria                       |
-| 2020 March     | 👑     | Ended the Tech Queens podcast to focus on Slack & Techqueria           |
-| 2020 March     | 💼     | Promoted at Slack                                                      |
-| 2021           | 💔     | Nefer probably dead at 15 (?) 💔                                        |
-| 2095           | 💀     | Death (?!?)                                                            |
+| Date           | Emoji | Event                                                                                |
+| -------------- | ----- | ------------------------------------------------------------------------------------ |
+| 1995 October   | 👶🏽     | Born in Newport News, VA to Peruvian immigrants                                      |
+| 1998 September | 🎓     | Started Pre-K at Ocean View Elementary                                               |
+| 2001 September | 🎓     | Started elementary school at Ghent School                                            |
+| 2006 January   | 🐶     | Got my first dog, Nefer                                                              |
+| 2006 September | 🎓     | Started middle school at Ghent School                                                |
+| 2009 September | 🎓     | Started high school at Maury High School                                             |
+| 2010 June      | 🎓     | First college class at Tidewater Community College                                   |
+| 2011 June      | 🎓     | Took summer college classes at Hampton University                                    |
+| 2011 August    | 👥     | First international conference through Operation Smile                               |
+| 2012 Summer    | 💛     | Volunteered for an international medical mission through Operation Smile             |
+| 2012 Summer    | 🎓     | Studied wildlife in Tanzania through the School for Field Studies                    |
+| 2013 June      | 🎓     | Graduated from high school                                                           |
+| 2013 June      | 🌐     | Started fvcproductions.com                                                           |
+| 2013 June      | 🎓     | Took summer college classes again at Tidewater Community College                     |
+| 2013 August    | 🎓     | Studied CS abroad at Jacobs University Bremen                                        |
+| 2014 January   | 🎓     | Started Bachelors in CS at Hampton University                                        |
+| 2014 August    | 👥     | First tech conference at STARS Celebration                                           |
+| 2014 October   | 👥     | First hackathon at Google                                                            |
+| 2015 June      | 🎓     | Summer of Code at Fullstack Academy                                                  |
+| 2015 October   | 💼     | First client dev project completed for Ameot LLC                                     |
+| 2015 November  | 💼     | First developer job with 80/20                                                       |
+| 2015 November  | 💬     | First talk at a tech conference at Hampton Roads DevFest                             |
+| 2016 May       | 🎓     | Graduated from Hampton University with a BS in CS                                    |
+| 2016 May       | 💘     | Started dating Nolan                                                                 |
+| 2016 Summer    | 💼     | Interned for Accenture Liquid Studio on AR/VR team                                   |
+| 2016 August    | 🎓     | Started Masters in CS Cornell Tech                                                   |
+| 2017 May       | 🎓     | Graduated from Cornell Tech with an MS in CS                                         |
+| 2017 June      | 💼     | Started at Accenture as a software engineer                                          |
+| 2018 May       | 💼     | Left Accenture                                                                       |
+| 2018 June      | 💼     | Started at Slack as a software engineer                                              |
+| 2018 August    | 💘     | Nolan moves in                                                                       |
+| 2018 April     | 🌮     | Started working on Techqueria's website                                              |
+| 2018 November  | 🌮     | Became an admin for Techqueria's Slack                                               |
+| 2019 March     | 🌮     | Joined as a board member of Techqueria                                               |
+| 2019 March     | 👑     | Started the Tech Queens podcast                                                      |
+| 2019 July      | 💬     | Reached 50 speaking engagements                                                      |
+| 2019 July      | 🌮     | Voted in as CTO for Techqueria                                                       |
+| 2020 January   | 🌮     | Voted in as an executive director for Techqueria                                     |
+| 2020 March     | 👑     | Ended the Tech Queens podcast to focus on Slack & Techqueria                         |
+| 2020 March     | 💼     | Promoted at Slack                                                                    |
+| 2020 March     | 💛     | Joined as member of Code Nation's Bay Area Leadership Council                        |
+| 2020 March     | 💛     | Joined as member of Latinos in Tech Giving Circle of the Latino Community Foundation |
+| 2021           | 💔     | Nefer probably dead at 15 (?)                                                        |
+| 2095           | 💀     | Death (?!?)                                                                          |
