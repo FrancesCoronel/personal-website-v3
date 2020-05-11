@@ -23,7 +23,7 @@ The Department of Management Science & Engineering leads at the interface of eng
 
 ## Slides
 
-
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/HmdUPIwrV0JwnS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/FVCproductions/my-state-of-work-mse-184-spring-2020" title="My State of Work | MS&amp;E 184 - Spring 2020" target="_blank">My State of Work | MS&amp;E 184 - Spring 2020</a> </strong> from <strong><a href="https://www.slideshare.net/FVCproductions" target="_blank">Frances Coronel</a></strong> </div>
 
 ## Outline
 
