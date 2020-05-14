@@ -20,36 +20,43 @@ site_url: https://fvcproductions.com
 # A list of collections the CMS should be able to edit
 collections:
   - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Posts" # Used in the UI, ie.: "New Post"
+    label: "Post" # Used in the UI, ie.: "New Post"
     folder: "content/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     preview_path: "{{year}}/{{month}}/{{day}}/{{slug}}"
+    slug: "{{year}}/{{month}}/{{day}}/{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Ended", name: "ended", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "URL", name: "title", widget: "string"}
-      - {label: "No Comments", name: "noComments", widget: "boolean"}
-      - {label: "No Time Estimate", name: "noTimeEstimate", widget: "boolean"}
-      - {label: "Categories", name: "categories", required: false, widget: "list"}
-      - {label: "Tags", name: "tags", required: false, widget: "list"}
-      - {label: "Aliases", name: "aliases", required: false, widget: "list"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Image", name: "image", widget: "text", required: false}
+      - {label: "Table of Contents", name: "toc", widget: "boolean", required: false}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Hours", name: "hours", widget: "number", required: false}
+      - {label: "Location", name: "location", widget: "string", required: false}
+      - {label: "Slides", name: "slides", widget: "string", required: false}
+      - {label: "Aliases", name: "aliases", widget: "list", required: false}
+      - {label: "Body", name: "body", widget: "markdown", hint: "Main content goes here"}
   - name: "pages" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Pages" # Used in the UI, ie.: "New Post"
+    label: "Page" # Used in the UI, ie.: "New Post"
     folder: "content" # The path to the folder where the documents are stored
     create: false # Allow users to create new documents in this collection
     preview_path: "{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Ended", name: "ended", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "URL", name: "title", widget: "string"}
-      - {label: "No Comments", name: "noComments", widget: "boolean"}
-      - {label: "No Time Estimate", name: "noTimeEstimate", widget: "boolean"}
-      - {label: "Categories", name: "categories", required: false, widget: "list"}
-      - {label: "Tags", name: "tags", required: false, widget: "list"}
-      - {label: "Aliases", name: "aliases", required: false, widget: "list"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Image", name: "image", widget: "text", required: false}
+      - {label: "Table of Contents", name: "toc", widget: "boolean", required: false}
+      - {label: "No Comments", name: "noComments", widget: "boolean", required: false}
+      - {label: "No Time Estimate", name: "noTimeEstimate", widget: "boolean", required: false}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Hours", name: "hours", widget: "number", required: false}
+      - {label: "Location", name: "location", widget: "string", required: false}
+      - {label: "Slides", name: "slides", widget: "string", required: false}
+      - {label: "Aliases", name: "aliases", widget: "list", required: false}
+      - {label: "Body", name: "body", widget: "markdown", hint: "Main content goes here"}
