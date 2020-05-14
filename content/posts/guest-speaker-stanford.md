@@ -1,10 +1,11 @@
 ---
-title: "Guest Speaker - Stanford "
 date: 2020-05-11T18:48:42.313Z
-description: I was a guest speaker for a Stanford class on the "Future of Work".
-image: ""
 noComments: false
 noTimeEstimate: false
+title: "Guest Speaker - Stanford "
+ended: 2020-05-14T22:17:58.809Z
+description: I was a guest speaker for a Stanford class on the "Future of Work".
+image: https://fvcproductions39789812.wpcomstaging.com/wp-content/uploads/2020/05/image-redacted.png
 categories:
   - speaking
 tags:
