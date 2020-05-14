@@ -2,9 +2,9 @@
 title: "Guest Speaker - Stanford "
 date: 2020-05-11T18:48:42.313Z
 description: I was a guest speaker for a Stanford class on the "Future of Work".
-image: /assets/img/image-3.png
+image: ""
 noComments: false
-noTimeEstimate: true
+noTimeEstimate: false
 categories:
   - speaking
 tags:
