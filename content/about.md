@@ -130,6 +130,7 @@ All in all, FVCproductions is how Frances is trying to give back to the communit
 - WakaTime https://wakatime.com/@fvcproductions
 - YouTube https://youtube.com/+fvcproductions2013
 
+<!--
 ## Life Timeline
 
 | Date           | Emoji | Event                                                                                |
@@ -178,3 +179,4 @@ All in all, FVCproductions is how Frances is trying to give back to the communit
 | 2020 March     | 💛     | Joined as member of Latinos in Tech Giving Circle of the Latino Community Foundation |
 | 2021           | 💔     | Nefer probably dead at 15 (?)                                                        |
 | 2095           | 💀     | Death (?!?)                                                                          |
+-->
