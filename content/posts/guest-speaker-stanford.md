@@ -5,7 +5,7 @@ noTimeEstimate: false
 title: "Guest Speaker - Stanford "
 ended: 2020-05-14T22:17:58.809Z
 description: I was a guest speaker for a Stanford class on the "Future of Work".
-image: https://fvcproductions39789812.wpcomstaging.com/wp-content/uploads/2020/05/image-redacted.png
+image: https://francescoronel.com/wp-content/uploads/2020/05/image-redacted.png
 categories:
   - speaking
 tags:
