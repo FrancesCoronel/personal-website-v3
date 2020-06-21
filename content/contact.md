@@ -1,11 +1,13 @@
 ---
-title: Contact
-description: "Getting in touch. 📬"
-hideImage: true
-image: https://i.imgur.com/0n5zqiA.jpg
+date: 2020-06-21T22:53:39.366Z
 navbar: true
+title: Contact
+ended: 2020-06-21T22:53:39.483Z
+description: Getting in touch. 📬
+image: https://i.imgur.com/0n5zqiA.jpg
 noComments: true
 noTimeEstimate: true
+hideImage: true
 aliases:
   - /contact/
   - /getting-in-touch/
@@ -21,19 +23,15 @@ If you'd like to stay in touch professionally, don't hesitate to [connect with m
 
 ## Book a Chat 📅
 
-You can schedule a time to chat with me using [my Calendly](https://calendly.com/fvcproductions).
+You can schedule a time to chat with me using [my Calendly](https://bit.ly/chat-with-frances).
 
-I charge $25 dollars for every 30 minutes if it is a mentoring session (career advice, resume review, etc).
-
-You can pay through [Square Cash](https://cash.me/fvcprdxs/25), [Venmo](https://venmo.com/fvcproductions/25) or [PayPal](https://paypal.me/fvcproductions/25).
-
-Please make sure to pay this amount before booking a mentoring session through my Calendly or I will have to reschedule/cancel the session.
+My time is very valuable to me so I charge $10 for every 30 minutes to ensure we both get the most value out of the session and to avoid no shows.
 
 ## Invite Me to Speak 💬
 
 For speaking engagements, I require an honorarium. For events outside San Francisco, I also require reimbursement for flights, ground transportation, hotel accomodations and meals. I am flexible to negotiation on the honorarium for community-driven or non-profit events.
 
-You can find my bio and headshot phot on [my about page](/about/).
+You can find my bio and headshot photo on [my about page](/about/).
 
 You can find all the events I've spoken at [my speaking page](/speaking/) and a sampling of the different types of talks I've given [on my talks page](/talks/).
 
