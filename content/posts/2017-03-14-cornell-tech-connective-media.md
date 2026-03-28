@@ -2,14 +2,14 @@
 title: Connective Media
 date: 2017-03-14
 description: Material I developed while taking the Connective Media class at Cornell Tech.
-image: https://github.com/fvcproductions/cmtech-assignment-1/raw/master/assets/img/screenshot.png
+image: https://github.com/FrancesCoronel/cmtech-assignment-1/raw/master/assets/img/screenshot.png
 categories:
   - portfolio
 ---
 
 ## Assignment 1 - Building Successful Online Communities
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/connective-media-technologies-building-successful-online-communities">Connective Media Technologies - Building Successful Online Communities</a></h4><p>Presented February 16th, 2017 Frances Coronel & Zhen Liu Connective Media Technologies Spring 2017 Cornell Tech FVCproductions https://fvcproductions.com</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/connective-media-technologies-building-successful-online-communities">Connective Media Technologies - Building Successful Online Communities</a></h4><p>Presented February 16th, 2017 Frances Coronel & Zhen Liu Connective Media Technologies Spring 2017 Cornell Tech FVCproductions https://francescoronel.com</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Assignment 2 - GitGuardian
@@ -28,10 +28,10 @@ Surprisingly pleased with the overall outcome for this small project!
 
 I will be using Materialize CSS in the future for sure.
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://fvcproductions.github.io/git-guardian/">GitGuardian</a></h4><p>null</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://francescoronel.github.io/git-guardian/">GitGuardian</a></h4><p>null</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/cmtech-assignment-1">fvcproductions/git-guardian</a></h4><p>git-guardian - GitHub + Guardian News = GitGuardian</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/FrancesCoronel/cmtech-assignment-1">fvcproductions/git-guardian</a></h4><p>git-guardian - GitHub + Guardian News = GitGuardian</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Assignment 3 - Stori

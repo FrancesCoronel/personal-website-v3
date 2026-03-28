@@ -2,7 +2,7 @@
 title: Cornell Tech - Product Studio
 date: 2016-11-18
 description: How might we create a safe place for people of all backgrounds to discuss important local, national, and global issues? 🔥
-image: https://github.com/fvcproductions/nyt-comm/raw/master/img/banner/ct+nytimes-white.png
+image: https://github.com/FrancesCoronel/nyt-comm/raw/master/img/banner/ct+nytimes-white.png
 aliases:
   - /portfolio/2016/11/18/product-studio/
   - /portfolio/product-studio-sprint-1/
@@ -224,7 +224,7 @@ Lastly, to hand off our product, we plan to provide all of our assets to the NYT
 
 ![Prototype](https://i.imgur.com/3yzZCpg.png)
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://fvcproductions.github.io/nyt-comm/">The Spanish Lesson I Never Got at School - The New York Times</a></h4><p>Like millions of Latino kids educated in California public schools, I never took a class in Spanish grammar or Spanish literature, nor was I ever asked to write a single word with an accent or a squiggly tilde over it.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://francescoronel.github.io/nyt-comm/">The Spanish Lesson I Never Got at School - The New York Times</a></h4><p>Like millions of Latino kids educated in California public schools, I never took a class in Spanish grammar or Spanish literature, nor was I ever asked to write a single word with an accent or a squiggly tilde over it.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Final Sprint
@@ -258,7 +258,7 @@ At the end of the semester, each team was also tasked to create a poster for the
 
 ## GitHub Repo
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/nyt-comm">fvcproductions/nyt-comm</a></h4><p>nyt-comm - Product Studio | Cornell Tech | Fall 2016 📰</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/FrancesCoronel/nyt-comm">fvcproductions/nyt-comm</a></h4><p>nyt-comm - Product Studio | Cornell Tech | Fall 2016 📰</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Tools

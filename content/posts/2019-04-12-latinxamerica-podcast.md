@@ -22,12 +22,12 @@ She is a young leader full of passion who wants to increase the number of Latinx
 
 Join her effort and connect with her:
 
-- Website: https://fvcproductions.com
+- Website: https://francescoronel.com
 - LinkedIn: https://linkedin.com/in/fvcproductions
 - Twitter: https://twitter.com/fvcproductions
 - Instagram: https://instagram.com/fvcproductions
 - Facebook: https://www.facebook.com/frances.v.coronel
-- GitHub: https://github.com/fvcproductions
+- GitHub: https://github.com/FrancesCoronel
 
 ## Links
 

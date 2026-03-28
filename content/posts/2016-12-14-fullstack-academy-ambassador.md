@@ -114,7 +114,7 @@ Mentored [Kelaiya Parikh](https://www.linkedin.com/in/kelaiya-parikh) for ~6 hou
 
 Overview of programs and how to prepare
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/fullstack-me">fvcproductions/fullstack-me</a></h4><p>fullstack-me - Resources for getting into Fullstack Academy. 📚</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/FrancesCoronel/fullstack-me">fvcproductions/fullstack-me</a></h4><p>fullstack-me - Resources for getting into Fullstack Academy. 📚</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Notion Page
@@ -126,7 +126,7 @@ Overview of programs and how to prepare
 
 This was a helpful resource I created that has a lot of job interview resources. Shanna shared this resource with the Career Success team to give to Fullstack job seekers.
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/hire-me">fvcproductions/hire-me</a></h4><p>hire-me - A path to getting an awesome tech gig 💼</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/FrancesCoronel/hire-me">fvcproductions/hire-me</a></h4><p>hire-me - A path to getting an awesome tech gig 💼</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---
@@ -137,7 +137,7 @@ This was a helpful resource I created that has a lot of job interview resources.
 
 - Don’t just apply to one program! Go ahead and use [Course Report](https://www.coursereport.com/) to find programs of all kinds and choose the ones that best suit your long-term goals.
 - Avoid being scammed and do your research on the program you want to attend. Read reviews, reach out to alumni who come from a similar work/academic background as you, and look up the program on the news for any red flags. After all, you don’t want to pay all that money for nothing! It’s better to try harder and get into a more competitive program with a lower acceptance rate than settle for one that churns students out.
-- If you’re not familiar with the platform [GitHub](https://github.com/fvcproductions), now is the time to make yourself **extra familiar**! Regardless of which program you decide to enroll in, you will be probably end up using GitHub **a lot** as a developer. Create a profile and spice it up with open-source contributions or personal projects. A great starter project is a simple personal website [using GitHub pages](https://pages.github.com/).
+- If you’re not familiar with the platform [GitHub](https://github.com/FrancesCoronel), now is the time to make yourself **extra familiar**! Regardless of which program you decide to enroll in, you will be probably end up using GitHub **a lot** as a developer. Create a profile and spice it up with open-source contributions or personal projects. A great starter project is a simple personal website [using GitHub pages](https://pages.github.com/).
 - Make sure to market yourself appropriately! Meaning, if you have done something outside of work that can highlighted as a technical achievement (contributed to open-source, completed a lot/all modules on a platform, top student in STEM major, etc.), make sure to share it online! The only way employers or interviewers can know about how passionate you are about coding is if you share this with them! I would recommend using LinkedIn or your personal website to showcase this kind of information.
 - Don’t think you’re ready to become a developer? Then just start acting like one! Start attending [hackathons](https://nyhackathons.com/), tech [Meetups](https://www.meetup.com/find/tech/?allMeetups=false&radius=50&userFreeform=New+York%2C+NY&mcId=z10011&mcName=New+York%2C+NY&sort=member_count&eventFilter=mysugg), or conferences that are [friendly towards newbies](https://codelandconf.com/).
 - Being able to code is a little different from regular typing, so I’d recommend using a platform like [Typing.io](https://typing.io/) to help improve your current typing abilities. Faster and more accurate typing is like a better [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) — not only does this speed up development, it fundamentally affects the exploration process.

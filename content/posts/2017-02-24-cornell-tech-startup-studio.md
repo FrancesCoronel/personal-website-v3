@@ -103,11 +103,11 @@ At the end of the semester, each team was also tasked to create a poster for the
 
 This is the end result.
 
-Feel free to download the PDF [here](https://github.com/fvcproductions/venus-co/raw/assets/pdf/poster.pdf).
+Feel free to download the PDF [here](https://github.com/FrancesCoronel/venus-co/raw/assets/pdf/poster.pdf).
 
 ## GitHub Repo
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/venus-co">fvcproductions/venus-co</a></h4><p>venus-co - Assets for Venus Co. | Startup Studio 💕</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/FrancesCoronel/venus-co">fvcproductions/venus-co</a></h4><p>venus-co - Assets for Venus Co. | Startup Studio 💕</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ---

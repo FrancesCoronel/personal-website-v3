@@ -86,7 +86,7 @@ Hope it helps! 💛
 
 > And here's one I want to point out cause I created the repo 😂
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/diversify-me">fvcproductions/diversify-me</a></h4><p>diversify-me - A list of tech conferences that provide diversity travel grants/scholarships 💸</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/FrancesCoronel/diversify-me">fvcproductions/diversify-me</a></h4><p>diversify-me - A list of tech conferences that provide diversity travel grants/scholarships 💸</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 > Image Attribution: "Connections" by Ranganath Krishnamani

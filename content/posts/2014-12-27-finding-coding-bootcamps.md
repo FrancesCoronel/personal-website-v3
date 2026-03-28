@@ -7,7 +7,7 @@ categories:
   - blog
 ---
 
-### Want a [more comprehensive look at the best sites](https://fvcproductions.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/ "Magnifying the Bootcamp Research Experience")?
+### Want a [more comprehensive look at the best sites](https://francescoronel.com/blog/2014/11/10/magnifying-the-bootcamp-research-experience/ "Magnifying the Bootcamp Research Experience")?
 
 ### Rating, Researching, Reviewing
 

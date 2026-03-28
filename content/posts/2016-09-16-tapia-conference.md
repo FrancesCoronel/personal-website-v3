@@ -83,7 +83,7 @@ The font used is Nimbus Sans Extended.
 
 Feel free to download the Sketch file from GitHub and modify it however you like.
 
-https://github.com/fvcproductions/sketch/blob/master/tapia-conference.sketch
+https://github.com/FrancesCoronel/sketch/blob/master/tapia-conference.sketch
 
 ### Pictures
 

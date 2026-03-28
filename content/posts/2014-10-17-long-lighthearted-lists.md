@@ -106,4 +106,4 @@ Long Lighthearted Lists
 
 - [National Convention for American Atheists](https://atheists.org/convention2015)
 - [Conference of the North American Vegetarian Society](https://www.vegetariansummerfest.org/index.htm)
-- [Conference of the Association for the Advancement of Artificial Intelligence (AAAI)](https://www.aaai.org/Conferences/AAAI/aaai15.php) - I ended up doing just that! You can find more about that experience [here](https://fvcproductions.com/blog/2015/01/30/adventures-with-aaai-2015/ "Adventures with AAAI").
+- [Conference of the Association for the Advancement of Artificial Intelligence (AAAI)](https://www.aaai.org/Conferences/AAAI/aaai15.php) - I ended up doing just that! You can find more about that experience [here](https://francescoronel.com/blog/2015/01/30/adventures-with-aaai-2015/ "Adventures with AAAI").

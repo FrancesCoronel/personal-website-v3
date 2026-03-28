@@ -11,7 +11,7 @@ tags:
 
 Two circular icons made for [Popcorn Time](https://popcorntime.io/), the best way to stream tv shows and movies.
 
-Download the icons for Xcode, OSX, iOS, Windows, Android, favicon, folders, etc. [using GitHub](https://github.com/fvcproductions/old-icon-designs/tree/master/popcorn-time).
+Download the icons for Xcode, OSX, iOS, Windows, Android, favicon, folders, etc. [using GitHub](https://github.com/FrancesCoronel/old-icon-designs/tree/master/popcorn-time).
 
 ![Popcorn Time Icon 1](https://i.imgur.com/cGJZkN5.png)
 

@@ -141,5 +141,5 @@ So until next time, stay fancy!
 - [NCWIT - National Center for Women & Information Technology](https://www.ncwit.org/)
 - [Rebooting Representation](https://www.rebootrepresentation.org)
 - [USA Today - Obstacles facing women of color in tech are steep, and surmountable](https://www.usatoday.com/story/tech/columnist/2016/06/06/obstacles-for-women-of-color-in-tech-diversity-silicon-valley-guest-column/83209938/)
-- [Women in AI by Frances Coronel](https://www.fvcproductions.com/2018/02/06/women-in-ai/)
+- [Women in AI by Frances Coronel](https://www.francescoronel.com/2018/02/06/women-in-ai/)
 - [Women of Color in Computing Research Collaborative](https://www.wocincomputing.org/)

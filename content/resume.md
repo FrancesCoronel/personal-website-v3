@@ -31,4 +31,4 @@ It's pretty nifty and I'm never going back to manually formatting my resume agai
 
 ### Want to see an overview of my open-source contributions?
 
-<a class="github-button" href="https://github.com/fvcproductions" data-size="large" data-show-count="true" aria-label="Follow @fvcproductions on GitHub">Follow @fvcproductions</a>
+<a class="github-button" href="https://github.com/FrancesCoronel" data-size="large" data-show-count="true" aria-label="Follow @fvcproductions on GitHub">Follow @fvcproductions</a>

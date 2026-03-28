@@ -240,7 +240,7 @@ week7();
 - **Week 9**
   - On Monday, I get an invitation to attend an Apple Hiring Event back in Norfolk. I applied for an College At Home Advisor position back on July 4th, so I'm really glad they were able to follow back. The event is on Sunday.
   - We also present our stackathon projects on Monday.
-    - My stackathon project was **[Rank Me](https://github.com/fvcproductions/RankMe)**, an app that ranks coding bootcamps on their rating and social scores based on data that is crawled from various sites.
+    - My stackathon project was **[Rank Me](https://github.com/FrancesCoronel/RankMe)**, an app that ranks coding bootcamps on their rating and social scores based on data that is crawled from various sites.
     - I bothered Jimmy a lot to get my crawler working nicely. Thanks Jimmy!
     - The app is still very much in _BETA_, but once I settle back home, I'll **definitely** have something to work on because I've had this idea ever since I first started applying to bootcamps, which was back in friggin' 2013. It's going to be big, y'all.
   - I come to realize that I still haven't gotten my 2 extra **free** t-shirts from Fullstack for (1) making a killer design for that flashcard app from Junior Phase with Yves and (2) for getting to 4 kyu on Codewars. 😦
@@ -252,7 +252,7 @@ week7();
 
 > By the time I finally finish out the last kinks of my stackathon project Monday morning, I'm feeling something like this:
 
-[![Ooohhh](<https://cdn0.vox-cdn.com/thumbor/So_Sc-rt5khq-17lV0YO_4nu5xg=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3859280/giphy%20(1).gif>)](https://github.com/fvcproductions/RankMe)
+[![Ooohhh](<https://cdn0.vox-cdn.com/thumbor/So_Sc-rt5khq-17lV0YO_4nu5xg=/cdn0.vox-cdn.com/uploads/chorus_asset/file/3859280/giphy%20(1).gif>)](https://github.com/FrancesCoronel/RankMe)
 
 > Stackathon Project – About Page
 

@@ -47,12 +47,12 @@ For an upcoming hackathon at [ODU](https://odu.edu) dubbed [`Monarchs Hack the C
 - Unfortunately, the GitHub repo is private. 💀️
 - [Typeform](https://mhtc-spring-2016.typeform.com/to/RXB7sy)
 - [Website](https://www.cs.odu.edu/~acm/hackathon/)
-- [Old Portfolio Link](https://fvcproductions.com/portfolio/monarchs-hack-the-campus/)
+- [Old Portfolio Link](https://francescoronel.com/portfolio/monarchs-hack-the-campus/)
 
 ### Tools
 
 - [HTML5UP](https://html5up.net)
-- [Sublime Text](https://github.com/fvcproductions/Sublime)
+- [Sublime Text](https://github.com/FrancesCoronel/Sublime)
 - [CodeKit](https://incident57.com/codekit/)
 - [Sketch](https://www.sketchapp.com/)
 - [Typeform](https://typeform.com)

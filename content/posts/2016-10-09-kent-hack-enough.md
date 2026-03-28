@@ -57,11 +57,11 @@ Kent Hack Enough brings hackers from all over the nation together to learn somet
 
 #### GitHub Repo
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/leap-auth-home">fvcproductions/leap-auth-home</a></h4><p>leap-auth-home - Leap Motion Auth for Home Automation | Kent Hack Enough 2016 🏠 🔑 ✋</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/FrancesCoronel/leap-auth-home">fvcproductions/leap-auth-home</a></h4><p>leap-auth-home - Leap Motion Auth for Home Automation | Kent Hack Enough 2016 🏠 🔑 ✋</p></blockquote>
 
 #### Website/Hack
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://fvcproductions.github.io/leap-auth-home/">Jake the Dog Key Hand | Security Corp</a></h4><p>Secure your home using Leap!</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://francescoronel.github.io/leap-auth-home/">Jake the Dog Key Hand | Security Corp</a></h4><p>Secure your home using Leap!</p></blockquote>
 
 #### Inspiration
 

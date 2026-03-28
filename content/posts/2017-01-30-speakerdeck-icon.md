@@ -19,6 +19,6 @@ So I decided to just create my own using their crappy small logo I could find fr
 
 Now I can use the logo with whatever background I want! 😊
 
-If you want access to the Sketch file, feel free to download it from [this GitHub repo](https://github.com/fvcproductions/sketch). 😺
+If you want access to the Sketch file, feel free to download it from [this GitHub repo](https://github.com/FrancesCoronel/sketch). 😺
 
 ![Speaker Deck 1](https://i.imgur.com/QncIeTz.png)

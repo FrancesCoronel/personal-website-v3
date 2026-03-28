@@ -44,7 +44,7 @@ heroku config:set MEETUP_API_KEY=1234567890
 ## Tools
 
 - [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
-- [Sublime Text](https://github.com/fvcproductions/Sublime)
+- [Sublime Text](https://github.com/FrancesCoronel/Sublime)
 - [CodeKit](https://incident57.com/codekit/)
 
 ## Contributors
@@ -53,9 +53,9 @@ heroku config:set MEETUP_API_KEY=1234567890
 - [Devin Castro](https://github.com/ddcast)
 - [Chetan Shenoy](https://github.com/cshenoy)
 - [Sheng Zhao](https://github.com/itsheng)
-- [FVCproductions](https://github.com/fvcproductions)
+- [FVCproductions](https://github.com/FrancesCoronel)
 
 ## GitHub Repo
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/meetup-dice">fvcproductions/meetup-dice</a></h4><p>meetup-dice - A simple Node.js application for picking a random RSVP'd member from a Meetup 👥</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/FrancesCoronel/meetup-dice">fvcproductions/meetup-dice</a></h4><p>meetup-dice - A simple Node.js application for picking a random RSVP'd member from a Meetup 👥</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

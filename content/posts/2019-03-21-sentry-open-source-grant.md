@@ -21,7 +21,7 @@ tags:
 
 ## Application
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://gist.github.com/fvcproductions/5758d3c06a45fa4508585877e0e82067">Sentry Open Source Grant Application 2019</a></h4><p>https://www.techqueria.org https://github.com/techqueria/website Techqueria is one of the largest communities of Latinx professionals in the tech industry. We build Latinx-centered spaces that revolve around career advice, technical talks, mentorship, open jobs, upcoming events/conferences, speaking opportunities, and open-source. We come from all walks of life and believe that the diversity of our community is the most reliable asset we have.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://gist.github.com/FrancesCoronel/5758d3c06a45fa4508585877e0e82067">Sentry Open Source Grant Application 2019</a></h4><p>https://www.techqueria.org https://github.com/techqueria/website Techqueria is one of the largest communities of Latinx professionals in the tech industry. We build Latinx-centered spaces that revolve around career advice, technical talks, mentorship, open jobs, upcoming events/conferences, speaking opportunities, and open-source. We come from all walks of life and believe that the diversity of our community is the most reliable asset we have.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## Initial Blog Post

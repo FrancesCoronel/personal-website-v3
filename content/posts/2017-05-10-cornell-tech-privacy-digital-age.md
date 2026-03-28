@@ -17,18 +17,18 @@ Sukromia is an in-browser encryption tool that allows any messaging service to i
 
 We recognize Internet security as more important than ever and wanted to create a way to make it easy for a user to send and receive messages more securely on whichever social platform you use. Our goal is to protect the privacy of Internet users, regardless of their skills or the application on which they communicate.
 
-![Sukromia](https://github.com/fvcproductions/sukromia/blob/master/src/img/logo.png?raw=true)
+![Sukromia](https://github.com/FrancesCoronel/sukromia/blob/master/src/img/logo.png?raw=true)
 
 ![Sukromia - Chrome Extension](https://i.imgur.com/oFcezbj.png)
 
 ## GitHub Page
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://fvcproductions.github.io/sukromia/#/">Sukromia</a></h4><p>Allows any messaging service to instantly become safe and secure.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://francescoronel.github.io/sukromia/#/">Sukromia</a></h4><p>Allows any messaging service to instantly become safe and secure.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## GitHub Repo
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/sukromia">fvcproductions/sukromia</a></h4><p>sukromia - Capstone project for "Privacy in the Digital Age" at Cornell Tech</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/FrancesCoronel/sukromia">fvcproductions/sukromia</a></h4><p>sukromia - Capstone project for "Privacy in the Digital Age" at Cornell Tech</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## SlideShare

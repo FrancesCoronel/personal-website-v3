@@ -78,7 +78,7 @@ Regarding prior speaking experience, I’ve given technical talks over 35 times 
 
 Through my prior speaking experience and tinkering outside of work, I believe I have the right amount of passion and engineering background to be able to inspire others to love the web just a little bit more through PWAs.
 
-You can view my upcoming and previous speaking engagements on my website: https://www.fvcproductions.com/speaking.
+You can view my upcoming and previous speaking engagements on my website: https://www.francescoronel.com/speaking.
 
 ## Topics Covered
 

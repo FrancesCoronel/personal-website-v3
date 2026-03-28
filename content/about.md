@@ -147,7 +147,7 @@ All in all, FVCproductions is how Frances is trying to give back to the communit
 | 2012 Summer    | 💛     | Volunteered for an international medical mission through Operation Smile             |
 | 2012 Summer    | 🎓     | Studied wildlife in Tanzania through the School for Field Studies                    |
 | 2013 June      | 🎓     | Graduated from high school                                                           |
-| 2013 June      | 🌐     | Started fvcproductions.com                                                           |
+| 2013 June      | 🌐     | Started francescoronel.com                                                           |
 | 2013 June      | 🎓     | Took summer college classes again at Tidewater Community College                     |
 | 2013 August    | 🎓     | Studied CS abroad at Jacobs University Bremen                                        |
 | 2014 January   | 🎓     | Started Bachelors in CS at Hampton University                                        |

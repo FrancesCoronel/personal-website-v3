@@ -244,4 +244,4 @@ You can get free macOS apps from `macbed.com`.
 
 ## Time to get a job!
 
-Check out [hire-me](https://github.com/fvcproductions/hire-me) for all the relevant goodies.
+Check out [hire-me](https://github.com/FrancesCoronel/hire-me) for all the relevant goodies.

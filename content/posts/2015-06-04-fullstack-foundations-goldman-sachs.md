@@ -77,7 +77,7 @@ For Part 2 (or Week 2) of Foundations, which was twos week ago (holy crap!), I d
 
 ![The Guessing Game](https://i.imgur.com/9O7fxq0.png)
 
-> You're welcome to play the game at [fvcproductions.github.io/Guessing-Game](https://fvcproductions.github.io/Guessing-Game/ "Guessing Game").
+> You're welcome to play the game at [francescoronel.github.io/Guessing-Game](https://francescoronel.github.io/Guessing-Game/ "Guessing Game").
 
 But now this week is all about **Part 4**, the last part, the finale, the end game. I still have a lot of crap to do but I have been able to reach some conclusions.
 

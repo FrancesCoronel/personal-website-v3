@@ -185,7 +185,7 @@ In this workshop, you'll go through a few exercises around our theme, "Speak You
 
 ## Identify projects
 
-https://fvcproductions.com/portfolio/
+https://francescoronel.com/portfolio/
 
 ## Skills
 

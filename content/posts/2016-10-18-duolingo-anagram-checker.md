@@ -22,18 +22,18 @@ Web page that lets a user input two strings and then tells the user whether the 
 ### Tools
 
 - [HTML5UP](https://html5up.net)
-- [Sublime Text](https://github.com/fvcproductions/Sublime)
+- [Sublime Text](https://github.com/FrancesCoronel/Sublime)
 - [CodeKit](https://incident57.com/codekit/)
 - [Sketch](https://www.sketchapp.com/)
 
 ### GitHub Repo
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/anagram">fvcproductions/anagram</a></h4><p>Check if two strings are anagrams of each other 🔍</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/FrancesCoronel/anagram">fvcproductions/anagram</a></h4><p>Check if two strings are anagrams of each other 🔍</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Website
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://fvcproductions.github.io/anagram">Duolingo | Anagram</a></h4><p>An anagram checker for Duolingo.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://francescoronel.github.io/anagram">Duolingo | Anagram</a></h4><p>An anagram checker for Duolingo.</p></blockquote>
 
 ![Duolingo Anagram Checker](https://i.imgur.com/ozMNdqh.png)
 

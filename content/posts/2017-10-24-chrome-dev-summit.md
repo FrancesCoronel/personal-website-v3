@@ -43,7 +43,7 @@ A two-day exploration of building beautiful and performant experiences on the we
 
 I actually blogged separately about my experience with the PWA Roadshow - check it out!
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://fvcproductions.com/2017/10/22/pwa-roadshow/">PWA Roadshow</a></h4><p>Progressive Web App Roadshow San Francisco 2017 Google Launchpad Space - 301 Howard Street San Francisco, CA - 4th Floor Sunday, October 22nd - 9:00 AM to 5:00 PM Participant - I participated this event as part of the Chrome Dev Summit. Registration was super limited so I'm glad I was able to attend.</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://francescoronel.com/2017/10/22/pwa-roadshow/">PWA Roadshow</a></h4><p>Progressive Web App Roadshow San Francisco 2017 Google Launchpad Space - 301 Howard Street San Francisco, CA - 4th Floor Sunday, October 22nd - 9:00 AM to 5:00 PM Participant - I participated this event as part of the Chrome Dev Summit. Registration was super limited so I'm glad I was able to attend.</p></blockquote>
 
 ### Why I Love the Web
 

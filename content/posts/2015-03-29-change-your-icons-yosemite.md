@@ -41,7 +41,7 @@ If you like the app icons I show in these pictures, then you're welcome to downl
 
 ![Bubble Icons - Utility](https://i.imgur.com/XaOj8YT.png)
 
-## [Here is a `ZIP` file of the icons and commands used in this tutorial.](https://github.com/fvcproductions/customize-icons "Icons")
+## [Here is a `ZIP` file of the icons and commands used in this tutorial.](https://github.com/FrancesCoronel/customize-icons "Icons")
 
 _A special thanks to these guys for the amazing circular icons that I use in this how-to._
 
@@ -50,7 +50,7 @@ _A special thanks to these guys for the amazing circular icons that I use in thi
 
 # Step 2 - Get The Command
 
-I include this command file in the [`ZIP` file](https://github.com/fvcproductions/customize-icons "Icons") mentioned in **Step 1**, but for reference, here is the code for the `ChangeIcons.command`.
+I include this command file in the [`ZIP` file](https://github.com/FrancesCoronel/customize-icons "Icons") mentioned in **Step 1**, but for reference, here is the code for the `ChangeIcons.command`.
 
 ```ruby
 #!/usr/bin/env ruby
@@ -84,7 +84,7 @@ Now here comes the tricky part. This command relies on a `JSON` file that is nam
 
 ![All The Icons Screenshot - 2](https://i.imgur.com/P3Nxvya.png)
 
-These files are both included in a folder called `set_icon` in the [`ZIP` file](https://github.com/fvcproductions/customize-icons "Icons") provided in **Step 1**.
+These files are both included in a folder called `set_icon` in the [`ZIP` file](https://github.com/FrancesCoronel/customize-icons "Icons") provided in **Step 1**.
 
 The `icon-data.json` file looks something like this:
 
@@ -116,9 +116,9 @@ After that, type in `killall Finder` into Terminal for the command to restart th
 
 ![Show Hidden Files Command in Terminal](https://i.imgur.com/3MKdOOh.png)
 
-Now that you have your Finder revealing all the hidden files - in the folder where you have all your icons properly named, copy and paste the folder `set_icons` from the [`ZIP` file](https://github.com/fvcproductions/customize-icons "Icons") mentioned in **Step 1**, and rename it to `.set_icons`. Adding a period in front of the folder name makes it hidden and you will therefore not be able to see it anymore.
+Now that you have your Finder revealing all the hidden files - in the folder where you have all your icons properly named, copy and paste the folder `set_icons` from the [`ZIP` file](https://github.com/FrancesCoronel/customize-icons "Icons") mentioned in **Step 1**, and rename it to `.set_icons`. Adding a period in front of the folder name makes it hidden and you will therefore not be able to see it anymore.
 
-It looks exactly like the `.set_icons` folder already included within the folder called `Utilities` that can be found in the [`ZIP` file](https://github.com/fvcproductions/customize-icons "Icons").
+It looks exactly like the `.set_icons` folder already included within the folder called `Utilities` that can be found in the [`ZIP` file](https://github.com/FrancesCoronel/customize-icons "Icons").
 
 ![Utility Sub-Folder](https://i.imgur.com/aQkVoCJ.png)
 
@@ -134,7 +134,7 @@ _A special thanks to [James Moore](https://twitter.com/foozmeat "James Moore"), 
 
 Now you probably have something like the following:
 
-- a folder called `All The Icons` with - all the icons you want to replace your old ones (in `icns` format) - the `ChangeIcons.command` that was included in this [`ZIP` file](https://github.com/fvcproductions/customize-icons "Icons") - a _hidden_ sub-folder called `.set_icons` with - a modified `icon-data.json` file to include your own personal apps - the `setfileicon` UNIX executable file
+- a folder called `All The Icons` with - all the icons you want to replace your old ones (in `icns` format) - the `ChangeIcons.command` that was included in this [`ZIP` file](https://github.com/FrancesCoronel/customize-icons "Icons") - a _hidden_ sub-folder called `.set_icons` with - a modified `icon-data.json` file to include your own personal apps - the `setfileicon` UNIX executable file
 
 At this point, if you've done everything right, you can "hide" your hidden files again in your Finder by executing the command `defaults write com.apple.finder AppleShowAllFiles NO` in `Terminal`. Make sure to execute `killall Finder` as well so that your Finder restarts and shows the changes.
 

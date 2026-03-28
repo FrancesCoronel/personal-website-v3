@@ -15,7 +15,7 @@ As part of preparation for an upcoming client project that used the new Angular 
 <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://pacificshoresshuttle.com/">Pacific Shores Shuttle</a></h4><p>If you work at Pacific Shores, you can figure out when the next shuttle is coming! 🚌</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/pacific-shores-shuttle">fvcproductions/pacific-shores-shuttle</a></h4><p>pacific-shores-shuttle - If you work at Pacific Shores, you can figure out when the next shuttle is coming! 🚌</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/FrancesCoronel/pacific-shores-shuttle">fvcproductions/pacific-shores-shuttle</a></h4><p>pacific-shores-shuttle - If you work at Pacific Shores, you can figure out when the next shuttle is coming! 🚌</p></blockquote>
 
 ![Pacific Shores Shuttle - About](https://i.imgur.com/cvmxFvJ.png)
 

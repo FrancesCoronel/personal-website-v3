@@ -134,7 +134,7 @@ Each unit had designated projects and with each project, there were several arti
 
 I'm still pretty new to the world of design. Even though I already knew the difference between UX/UI, how a wireframe is different from a prototype, and how important design is in general, **Designlab** was still made me realize how much more complex design can really be even when your only goal is simplicity.
 
-I explored each project more in depth [on this page](https://fvcproductions.com/portfolio/designlab-submissions/).
+I explored each project more in depth [on this page](https://francescoronel.com/portfolio/designlab-submissions/).
 
 ![Designlab - Profile](https://lh3.googleusercontent.com/NJqogxP4zS6IKicDdVFZydBCkqo18wUKf8Te-xIcmIlFlW6Zs1ISWXwYFwxottea8HD6le7mBUvA4k2gfQj71uZMP7Vw1YOMVxVxRqh6Fo4Up7xTW5RvmcZ50UHiLgeHThF-2R36ggym0eJ0z8l5C9KfrC9lxVegPCqv0VU9QXhG6FF9icDtArOs8UdaIRyhi5vrmjilaTe0BeSe2OZDVGRnzlPuojIkRf-bcfOVBoLITERiQ_6-C7I8HqdX3xcLtZ4wr7FE_diMlSVbhRbKItotmEV6m5zBwqVDMYX8dCtUnL31HvpvHX5Ie3nYJdxjUH9SPr05nfsuYffquQ_bzPvfJJgo0ZiqAusShGebuWcipG82JCe-Kr24vqF8sP8AjFgDcpebk8LVApnslUpSVfxd1IU-iVd0HSlE51iCe3B5tWMh3HlIdOHi7LzZFuFrwV26HO14BmzymaljkIwHZAdsaPrU9OZK-sBuZniAi91r0GY2TxaHCM0fi2CS9ZbWj2LV409ZY5Fsb60ee29s5KffkYigS4J_-hKnqGbH7KFWPbuwc7jXGX3gMZkkPsVjsx6_R8vyEvzFLTEkIHnbJOPJwWEdykgCWfiLOjLqF1kNLL5NjXKM5q32g71WLgCB=w304-h220-no)
 

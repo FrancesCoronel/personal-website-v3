@@ -27,14 +27,14 @@ The software and hardware I use on a day to day basis can be found on my [What I
 
 ## Source Code
 
-The source code [can be found on GitHub](https://github.com/fvcproductions/fvcproductions.github.io).
+The source code [can be found on GitHub](https://github.com/FrancesCoronel/francescoronel.github.io).
 
 ## Tools
 
 - [Bulma](https://bulma.io?source=fvcproductions) (CSS Framework)
 - [Disqus](https://disqus.com/?source=fvcproductions) (Comments)
 - [Embedly](https://embed.ly/?source=fvcproductions) (Rich Embeds)
-- [GitHub Issues](https://github.com/fvcproductions/fvcproductions.github.io/issues)(Project Management)
+- [GitHub Issues](https://github.com/FrancesCoronel/francescoronel.github.io/issues)(Project Management)
 - [Google Analytics](https://analytics.google.com?source=fvcproductions) (Analytics)
 - [Hugo](https://gohugo.io?source=fvcproductions) (CMS)
 - [MailChimp](https://mailchi.mp/022336cef0b2/fvcproductions) (Email Marketing)
@@ -46,7 +46,7 @@ The source code [can be found on GitHub](https://github.com/fvcproductions/fvcpr
 
 ### Codacy
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3e60471b991941298d8a7f862b08f91b)](https://www.codacy.com/app/hello_67/fvcproductions.github.io?utm_source=github.com&utm_medium=referral&utm_content=fvcproductions/fvcproductions.github.io&utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3e60471b991941298d8a7f862b08f91b)](https://www.codacy.com/app/hello_67/francescoronel.github.io?utm_source=github.com&utm_medium=referral&utm_content=fvcproductions/francescoronel.github.io&utm_campaign=Badge_Grade)
 
 ### Codebeat
 
@@ -54,11 +54,11 @@ The source code [can be found on GitHub](https://github.com/fvcproductions/fvcpr
 
 ### CodeFactor
 
-[![CodeFactor](https://www.codefactor.io/repository/github/fvcproductions/fvcproductions.github.io/badge)](https://www.codefactor.io/repository/github/fvcproductions/fvcproductions.github.io)
+[![CodeFactor](https://www.codefactor.io/repository/github/fvcproductions/francescoronel.github.io/badge)](https://www.codefactor.io/repository/github/fvcproductions/francescoronel.github.io)
 
 ### FOSSA
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffvcproductions%2Ffvcproductions.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffvcproductions%2Ffvcproductions.github.io?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffvcproductions%2Ffrancescoronel.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffvcproductions%2Ffrancescoronel.github.io?ref=badge_large)
 
 ### Lighthouse
 
@@ -78,14 +78,14 @@ I use the lovely Oxford Blue with the HEX value of `#253137`
 
 ## Domains
 
-I bought my domain `fvcproductions.com` August 20th, 2014.
+I bought my domain `francescoronel.com` August 20th, 2014.
 
 Before that, the domain used to be `fvcproductions.wordpress.com`.
 
-The main URL for this website is https://www.fvcproductions.com and there are several URLs that also redirect to it.
+The main URL for this website is https://www.francescoronel.com and there are several URLs that also redirect to it.
 
-- https://fvcproductions.com
-- https://fvcproductions.github.io (GitHub Page)
+- https://francescoronel.com
+- https://francescoronel.github.io (GitHub Page)
 - https://latinaswe.com (expiring)
 - https://latinasoftwareengineer.com
 - https://latinahacker.com

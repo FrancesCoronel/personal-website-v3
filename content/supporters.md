@@ -38,12 +38,12 @@ My name is Frances and I'm currently Co-Director of [Techqueria](https://techque
 
 While Techqueria encompasses most of my time nowadays, other projects I maintain include:
 
-- [ApprenticeshipsMe](https://github.com/fvcproductions/apprenticeships.me) - A directory of developer and design apprenticeships 🌱
-- [DiversifyMe](https://github.com/fvcproductions/diversify-me) - Tech conferences that provide travel grants or scholarships 📍
-- [HireMe](https://github.com/fvcproductions/hire-me) - A path to getting an awesome tech gig 💼
+- [ApprenticeshipsMe](https://github.com/FrancesCoronel/apprenticeships.me) - A directory of developer and design apprenticeships 🌱
+- [DiversifyMe](https://github.com/FrancesCoronel/diversify-me) - Tech conferences that provide travel grants or scholarships 📍
+- [HireMe](https://github.com/FrancesCoronel/hire-me) - A path to getting an awesome tech gig 💼
 - [Tech Queens](https://techqueenspod.com) - The first podcast to focus on the stories and advice shared by women of color in tech 🎙
 
-I am also a passionate speaker on the intersection of Latinidad and technology and have [spoken over 50 times](https://fvcproductions.com/speaking) on both technical and non-technical topics such as being a Latina in tech, breaking into tech, Progressive Web Apps, TypeScript and Web Design. 💬
+I am also a passionate speaker on the intersection of Latinidad and technology and have [spoken over 50 times](https://francescoronel.com/speaking) on both technical and non-technical topics such as being a Latina in tech, breaking into tech, Progressive Web Apps, TypeScript and Web Design. 💬
 
 Creating content that is shared publicly has always been my de facto way of doing things and while I love being able to share all these contributions, I’m only able to do so in my spare time outside of work. ⌛
 
@@ -65,7 +65,7 @@ Support my ongoing contributions and allow me to dedicate more time to contribut
 
 Wow, you're such a peach! 🍑️
 
-Your name will also be added as a supporter to [fvcproductions.com/supporters](https://fvcproductions.com/supporters). 🌐
+Your name will also be added as a supporter to [francescoronel.com/supporters](https://francescoronel.com/supporters). 🌐
 
 ### Orange Tier - $25+
 
@@ -73,7 +73,7 @@ Orange you sweet? 🍊
 
 In exchange for your support, you can set up a 30-minute call every month to ask for advice or talk about anything else on your mind. 📞
 
-Your name and/or company logo will also be added as a supporter to [fvcproductions.com/supporters](https://fvcproductions.com/supporters) with a link to a website of your choice. 🌐
+Your name and/or company logo will also be added as a supporter to [francescoronel.com/supporters](https://francescoronel.com/supporters) with a link to a website of your choice. 🌐
 
 ### Strawberry Tier - $50+
 
@@ -81,4 +81,4 @@ You're berry amazing! 🍓
 
 In exchange for your support, you can set up a 1-hour call with me every month to ask for advice or talk about anything else on your mind. 📅
 
-Your name and/or company logo will also be added as a supporter to [fvcproductions.com/supporters](https://fvcproductions.com/supporters) with a link to a website of your choice. 🌐
+Your name and/or company logo will also be added as a supporter to [francescoronel.com/supporters](https://francescoronel.com/supporters) with a link to a website of your choice. 🌐

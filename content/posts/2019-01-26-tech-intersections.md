@@ -167,5 +167,5 @@ It didn't work out but then her team decided to focus on the portion that got th
 - Online Presence
   - Right now, I'm using Buffer to automatically post to Twitter, LinkedIn, Facebook
   - Instead, because of Gen Z preference, I should switch Facebook to Instagram
-- hireme.fvcproductions.com
+- hireme.francescoronel.com
   - keyvalues

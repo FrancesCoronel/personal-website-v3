@@ -11,6 +11,6 @@ tags:
 
 A circular icon made for [Writefull](https://writefullapp.com/), a light-weight app that provides feedback on your writing by checking your text against databases of correct language.
 
-Download the icon for Xcode, OSX, iOS, Windows, Android, favicon, folders, etc. [from GitHub](https://github.com/fvcproductions/icon-designs/tree/master/writefull).
+Download the icon for Xcode, OSX, iOS, Windows, Android, favicon, folders, etc. [from GitHub](https://github.com/FrancesCoronel/icon-designs/tree/master/writefull).
 
 ![Writefull Icon](https://i.imgur.com/IdOXFpj.png)

@@ -101,7 +101,7 @@ Congrats to all the grads! 🎓
 
 ![Cornell Tech - Grad Party Invite 1](https://i.imgur.com/qIJKAqf.png)
 
-Feel free to [download this Sketch file](https://github.com/fvcproductions/sketch/blob/master/grad-party-invite.sketch) and tweak it to your heart's desire.
+Feel free to [download this Sketch file](https://github.com/FrancesCoronel/sketch/blob/master/grad-party-invite.sketch) and tweak it to your heart's desire.
 
 ### Pictures
 

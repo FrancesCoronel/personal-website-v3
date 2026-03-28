@@ -34,13 +34,13 @@ categories:
 
 Jeopardy template created using Keynote that can be used by anybody to create their own Jeopardy game. Comes with animation, transitions, audio, and daily double features that can all be edited.
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/fvcproductions/keynote-jeopardy">fvcproductions/keynote-jeopardy</a></h4><p>keynote-jeopardy - A Jeopardy template created in Keynote. 📂</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/FrancesCoronel/keynote-jeopardy">fvcproductions/keynote-jeopardy</a></h4><p>keynote-jeopardy - A Jeopardy template created in Keynote. 📂</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://bit.ly/jeopardy-template">Keynote</a></h4><p>Keynote makes it easy to create beautiful presentations. Work together in real time on a Mac, iPad, or iPhone-or use Keynote on iCloud.com.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://speakerdeck.com/fvcproductions/jeopardy-template-keynote">Jeopardy Template | Keynote</a></h4><p>Download this: https://github.com/fvcproductions/keynote-jeopardy © FVCproductions 2015</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://speakerdeck.com/fvcproductions/jeopardy-template-keynote">Jeopardy Template | Keynote</a></h4><p>Download this: https://github.com/FrancesCoronel/keynote-jeopardy © FVCproductions 2015</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## External Fonts

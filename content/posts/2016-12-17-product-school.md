@@ -58,7 +58,7 @@ I think with a little more improvements to the content/slides, Product School's 
 
 #### Final Deliverable
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/duolingo-delights-revised">Duolingo Delights - Revised</a></h4><p>Created November 17th, 2016, in Technology. Presentation of the final project at Product School in NY. Check it it out at https://fvcproductions.com/duolingo-d...</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.slideshare.net/FVCproductions/duolingo-delights-revised">Duolingo Delights - Revised</a></h4><p>Created November 17th, 2016, in Technology. Presentation of the final project at Product School in NY. Check it it out at https://francescoronel.com/duolingo-d...</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Certification

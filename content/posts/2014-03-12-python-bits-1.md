@@ -39,7 +39,7 @@ Now we'll be covering 7 "problems" today...
     6.  Area of a rectangle
     7.  Area of a circle
 
-The full program that can be compiled correctly without any errors can be found at Github [here](https://github.com/fvcproductions/BITS/tree/master/Python-Bits), so that if you ever get stuck and don't feel like stressing, you can check that out!
+The full program that can be compiled correctly without any errors can be found at Github [here](https://github.com/FrancesCoronel/BITS/tree/master/Python-Bits), so that if you ever get stuck and don't feel like stressing, you can check that out!
 
 Umm.. except for Problem 1 and 2, that is.
 

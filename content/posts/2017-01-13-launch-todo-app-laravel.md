@@ -22,7 +22,7 @@ I created a simple to-do app in Laravel 5.3 using Homestead as part of an engine
 
 ![Laravel App](https://i.imgur.com/iHEci66.png)
 
-The source code can be found at <https://github.com/fvcproductions/ds-todos>.
+The source code can be found at <https://github.com/FrancesCoronel/ds-todos>.
 
 The full process for setting up Laravel 5.3 is pretty tedious so I created my own tutorial which you can find below.
 
@@ -43,9 +43,9 @@ This is how the completed app looks like.
 
 1.  Download [**Vagrant**](https://www.vagrantup.com/)
 2.  Download [**VirtualBox**](https://www.virtualbox.org/wiki/Downloads)
-3.  Clone or download [my sample to-do app](https://github.com/fvcproductions/ds-todos)
+3.  Clone or download [my sample to-do app](https://github.com/FrancesCoronel/ds-todos)
     - **Option 1.** Use a GitHub client like [Tower](https://git-tower.com)
-    - **Option 2.** `git clone //github.com/fvcproductions/ds-todos.git`
+    - **Option 2.** `git clone //github.com/FrancesCoronel/ds-todos.git`
     - Make note of the file path for this repo by using `pwd`, i.e. `~/Dropbox/github/ds-todos`
 4.  `cd ~ && vagrant box laravel/homestead`
 5.  They will ask for the provider so we are going to enter in `1` since we are using **VirtualBox**

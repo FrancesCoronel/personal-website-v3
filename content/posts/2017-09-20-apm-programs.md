@@ -55,7 +55,7 @@ Generally speaking, though, APMs generally want to have the following:
 
 ## Further Resources
 
-- [GitHub Repo - hire-me](https://fvcproductions.github.io/hire-me)
+- [GitHub Repo - hire-me](https://francescoronel.github.io/hire-me)
   - I recommend checking out to get a better idea of what might help when applying to these awesome positions.
 - [Google Jobs - Associate Product Manager](https://www.google.com/search?q=associate+product+manager+jobs)
 - [LinkedIn Jobs - Associate Product Manager in San Francisco Bay Area](https://www.linkedin.com/jobs/search/?keywords=associate%20product%20manager&location=San%20Francisco%20Bay%20Area&locationId=us%3A84)

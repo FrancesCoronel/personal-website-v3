@@ -81,7 +81,7 @@ I've decided to categorize the questions I asked into 4 sections: questions spec
 6.  **What was your favorite event/memory from Hack Reactor?** The first 6 weeks were the most fun I've ever had, it was really great meeting the other students. There are a lot of interesting people getting along and figuring out this strange ecosystem. I just really had a ball.
 7.  **When did you notice the students in your cohort starting to get friendly with each other and form those bonds?** We had a really great group where you could see from the 1st day, the relationships were starting to get made. There were a lot of musicians and chess players, so we had these really crazy chess matches. People had a really good time. I'd say you could notice it immediately.
 
-#### If you are interested in more information regarding Hack Reactor, [I compiled a short list of resources to best prepare for the interview and also gave my thoughts on how competitive bootcamps select for students](https://fvcproductions.com/blog/2015/01/05/tiny-glimpse-hack-reactor-selection-preparation/ "A Tiny Glimpse Into Hack Reactor: Selection & Preparation").
+#### If you are interested in more information regarding Hack Reactor, [I compiled a short list of resources to best prepare for the interview and also gave my thoughts on how competitive bootcamps select for students](https://francescoronel.com/blog/2015/01/05/tiny-glimpse-hack-reactor-selection-preparation/ "A Tiny Glimpse Into Hack Reactor: Selection & Preparation").
 
 ## **Questions I Forgot To Ask**
 
@@ -120,8 +120,8 @@ I also have shared my **interview experience** with bootcamps such as
 
 - [Bitmaker Labs](/2014/03/12/interview-bitmaker-labs/)
 - [Coding Dojo](/2015/01/06/interview-coding-dojo/)
-- [Coding House](https://fvcproductions.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
-- [Designation](https://fvcproductions.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
-- [Dev League](https://fvcproductions.com/blog/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
-- [Fullstack Academy](https://fvcproductions.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
-- [Maker Square](https://fvcproductions.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
+- [Coding House](https://francescoronel.com/blog/2015/01/06/coding-house-interview/ "Interview with Coding House 🏠")
+- [Designation](https://francescoronel.com/blog/2015/01/06/interview-with-designation/ "Interview with Designation 🎨")
+- [Dev League](https://francescoronel.com/blog/2015/01/06/experience-with-devleague/ "My Experience With DevLeague 💻")
+- [Fullstack Academy](https://francescoronel.com/blog/2014/12/28/my-experience-with-fullstack-academy-of-code/ "My Experience with Fullstack Academy of Code 💻")
+- [Maker Square](https://francescoronel.com/blog/2015/01/14/my-experience-with-makersquare-%f0%9f%92/ "My Experience with MakerSquare 💻")
