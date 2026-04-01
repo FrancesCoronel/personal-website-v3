@@ -43,7 +43,7 @@
     "plugin-error": "1.0.1",
     "postcss-csso": "4.0.0",
     "snyk": "1.290.2",
-    "twemoji": "12.1.5",
+    "twemoji": "13.0.1",
     "webpack": "4.41.5",
     "workbox-webpack-plugin": "5.0.0"
   },
